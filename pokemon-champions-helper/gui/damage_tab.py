@@ -29,16 +29,17 @@ def _load_move_db() -> dict:
 
 
 def _load_my_team() -> dict:
-    """my_team.json → {검색키: entry} (name / ocr_alias / name_kr 모두 등록)"""
-    p = DATA_DIR / "my_team.json"
-    if not p.exists():
-        return {}
-    team = json.loads(p.read_text(encoding="utf-8"))
+    """my_team.json + opp_team.json → {검색키: entry}"""
     result = {}
-    for entry in team:
-        for key in [entry.get("name", ""), entry.get("ocr_alias", ""), entry.get("name_kr", "")]:
-            if key:
-                result[key.lower()] = entry
+    for fname in ["my_team.json", "opp_team.json"]:
+        p = DATA_DIR / fname
+        if not p.exists():
+            continue
+        team = json.loads(p.read_text(encoding="utf-8"))
+        for entry in team:
+            for key in [entry.get("name", ""), entry.get("ocr_alias", ""), entry.get("name_kr", "")]:
+                if key:
+                    result[key.lower()] = entry
     return result
 
 
@@ -65,27 +66,32 @@ class DamageTab(QWidget):
         entry = self._my_team.get(key)
         if entry:
             base   = entry["pokedex_entry"]["base_stats"]
-            evs    = entry["evs"]
-            nature = entry["nature"]
+            evs    = entry.get("evs", {})
+            nature = entry.get("nature", "Hardy")
             types  = entry["pokedex_entry"]["types"]
+            moves  = entry.get("moves", [])
+            src    = "내 팀" if evs else "상대 팀"
             return {
                 "stats": calc_lv50_stats(base, evs, nature),
                 "types": types,
-                "src": "내 팀",
+                "src": src,
                 "base": base,
                 "nature": nature,
+                "moves": moves,
             }
 
         poke_key = next((k for k in self._poke_db if k.lower() == key), None)
         if poke_key:
             data   = self._poke_db[poke_key]
             evs, nature = estimate_spread(self._smogon, poke_key)
+            top_moves = [m["move"] for m in self._smogon.get(poke_key, {}).get("top_moves", [])[:4]]
             return {
                 "stats": calc_lv50_stats(data["base_stats"], evs, nature),
                 "types": data["types"],
                 "src": "Smogon 추정",
                 "base": data["base_stats"],
                 "nature": nature,
+                "moves": top_moves,
             }
 
         return None
@@ -96,25 +102,21 @@ class DamageTab(QWidget):
         root = QVBoxLayout(self)
         root.setSpacing(6)
 
-        # 기술 이름 자동입력
+        # 기술 선택 드롭다운 (포켓몬 자동입력 시 자동 채워짐)
         move_row = QHBoxLayout()
-        move_row.addWidget(QLabel("기술 이름(영문):"))
-        self.edit_move = QLineEdit()
-        self.edit_move.setPlaceholderText("예: flamethrower, earthquake")
-        self.edit_move.setFixedWidth(200)
-        self.edit_move.returnPressed.connect(self._auto_fill_move)
-        move_row.addWidget(self.edit_move)
-        btn_move = QPushButton("자동입력")
-        btn_move.setFixedWidth(70)
-        btn_move.clicked.connect(self._auto_fill_move)
-        move_row.addWidget(btn_move)
+        move_row.addWidget(QLabel("기술:"))
+        self.cmb_move = QComboBox()
+        self.cmb_move.setFixedWidth(200)
+        self.cmb_move.addItem("(포켓몬 먼저 선택)")
+        self.cmb_move.currentIndexChanged.connect(self._on_move_selected)
+        move_row.addWidget(self.cmb_move)
         self.lbl_move = QLabel("")
         self.lbl_move.setStyleSheet("font-size: 11px;")
         move_row.addWidget(self.lbl_move)
         move_row.addStretch()
         root.addLayout(move_row)
 
-        # 물리 / 특수 (기술 자동입력 시 자동 변경됨)
+        # 물리 / 특수 (기술 선택 시 자동 변경됨)
         cat_row = QHBoxLayout()
         cat_row.addWidget(QLabel("기술 카테고리:"))
         self.cmb_cat = QComboBox()
@@ -236,12 +238,31 @@ class DamageTab(QWidget):
 
     # ── 슬롯 ─────────────────────────────────────────────────────────────────
 
-    def _auto_fill_move(self):
-        """기술 이름 → 위력/타입/카테고리 자동 입력"""
-        name = self.edit_move.text().strip().lower().replace(" ", "")
-        data = self._move_db.get(name)
-        if data is None:
-            self.lbl_move.setText("❌ 못 찾음")
+    def _populate_moves(self, moves: list[str]):
+        """포켓몬의 기술 목록으로 드롭다운 채우기"""
+        self.cmb_move.blockSignals(True)
+        self.cmb_move.clear()
+        for move in moves:
+            data = self._move_db.get(move.lower().replace(" ", ""))
+            if data:
+                cat_kr = "물리" if data["cat"] == "Physical" else "특수"
+                label = f"{move}  ({data['type']} / {cat_kr} / {data['bp']}BP)"
+            else:
+                label = move
+            self.cmb_move.addItem(label, userData=move)
+        self.cmb_move.blockSignals(False)
+        if self.cmb_move.count() > 0:
+            self.cmb_move.setCurrentIndex(0)
+            self._on_move_selected(0)
+
+    def _on_move_selected(self, idx: int):
+        """드롭다운에서 기술 선택 시 위력/타입/카테고리 자동 적용"""
+        move = self.cmb_move.currentData()
+        if not move:
+            return
+        data = self._move_db.get(move.lower().replace(" ", ""))
+        if not data:
+            self.lbl_move.setText("❌ 데이터 없음")
             self.lbl_move.setStyleSheet("color: #f38ba8; font-size: 11px;")
             return
 
@@ -251,9 +272,9 @@ class DamageTab(QWidget):
 
         if bp > 0:
             self.spn_power.setValue(bp)
-        idx = self.cmb_move_type.findText(typ)
-        if idx >= 0:
-            self.cmb_move_type.setCurrentIndex(idx)
+        type_idx = self.cmb_move_type.findText(typ)
+        if type_idx >= 0:
+            self.cmb_move_type.setCurrentIndex(type_idx)
         if cat == "Physical":
             self.cmb_cat.setCurrentIndex(0)
         elif cat == "Special":
@@ -278,6 +299,8 @@ class DamageTab(QWidget):
         types = res["types"]
         src = res["src"]
 
+        moves = res.get("moves", [])
+
         if side == "atk":
             self._atk_base   = res["base"]
             self._atk_nature = res["nature"]
@@ -285,6 +308,8 @@ class DamageTab(QWidget):
             self._fill_types(self.cmb_atk_type1, self.cmb_atk_type2, types)
             self.lbl_atk.setText(f"ATK {s['atk']} / SPA {s['spa']}  [{src}]")
             self.lbl_atk.setStyleSheet("color: #a6e3a1; font-size: 11px;")
+            if moves:
+                self._populate_moves(moves)
         else:
             self._def_base   = res["base"]
             self._def_nature = res["nature"]

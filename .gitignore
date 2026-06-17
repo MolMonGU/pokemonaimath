@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# 캡처/디버그 이미지
+*.png
+roi_*.png
+capture*.png
+screenshot*.png
+
+# ROI 설정 (모니터/캡처보드 환경마다 다름 — 각자 calibrate_roi.py 실행)
+pokemon-champions-helper/data/roi_config.json
+
+# 임시 파일
+*.bak

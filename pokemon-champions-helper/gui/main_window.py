@@ -14,6 +14,7 @@ from gui.grid_tab    import GridTab
 from gui.sets_tab    import SetsTab
 from gui.log_tab     import LogTab
 from gui.ocr_worker  import OcrWorker
+from gui.camera_tab  import CameraTab
 
 
 DARK_STYLE = """
@@ -92,6 +93,7 @@ class MainWindow(QMainWindow):
         self._ocr_worker.my_hp_changed.connect(self._on_my_hp)
         self._ocr_worker.teams_updated.connect(self._on_teams_updated)
         self._ocr_worker.status_changed.connect(self._on_ocr_status)
+        self._ocr_worker.frame_ready.connect(self.tab_camera.update_frame)
 
     def _build_ui(self):
         central = QWidget()
@@ -135,6 +137,7 @@ class MainWindow(QMainWindow):
 
         # ── 탭 ───────────────────────────────────────────────────────────────
         self.tabs = QTabWidget()
+        self.tab_camera = CameraTab()
         self.tab_speed  = SpeedTab()
         self.tab_damage = DamageTab()
         self.tab_type   = TypeTab()
@@ -142,6 +145,7 @@ class MainWindow(QMainWindow):
         self.tab_sets   = SetsTab()
         self.tab_log    = LogTab()
 
+        self.tabs.addTab(self.tab_camera, "📷 카메라")
         self.tabs.addTab(self.tab_speed,  "스피드")
         self.tabs.addTab(self.tab_damage, "대미지")
         self.tabs.addTab(self.tab_type,   "타입")

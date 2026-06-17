@@ -9,12 +9,18 @@ class OcrWorker(QThread):
     my_hp_changed       = pyqtSignal(int)
     teams_updated       = pyqtSignal(list, list)
     status_changed      = pyqtSignal(str)
+    frame_ready         = pyqtSignal(object)   # overlay 그려진 numpy ndarray
 
     def __init__(self):
         super().__init__()
         self._running = False
 
     def run(self):
+        from overlay_main import (draw_battle_overlay, draw_select_overlay,
+                                   load_pokedex, load_type_chart)
+        pokedex      = load_pokedex()
+        types, chart = load_type_chart()
+
         self._running = True
         state = BattleState()
 
@@ -32,6 +38,7 @@ class OcrWorker(QThread):
         prev_opp  = ""
         prev_hp: int | None = None
         prev_teams: tuple[list, list] = ([], [])
+        frame_idx = 0
 
         while self._running:
             ret, frame = cap.read()
@@ -39,9 +46,19 @@ class OcrWorker(QThread):
                 self.msleep(30)
                 continue
 
+            frame_idx += 1
             screen = detect_screen(frame)
             state.screen = screen
             state.update(frame)
+
+            # 2프레임마다 오버레이 그려서 전송 (~15fps)
+            if frame_idx % 2 == 0:
+                display = frame.copy()
+                if screen == "battle":
+                    draw_battle_overlay(display, state, pokedex, types, chart)
+                else:
+                    draw_select_overlay(display, state, pokedex, types, chart)
+                self.frame_ready.emit(display)
 
             if screen == "battle":
                 if state.my_pokemon and state.my_pokemon != prev_my:

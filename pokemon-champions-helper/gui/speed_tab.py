@@ -138,5 +138,27 @@ class SpeedTab(QWidget):
             f"내 스피드: {my}  /  상대: {opp}\n결과: {result}"
         )
 
+    def set_pokemon(self, side: str, name: str):
+        """OCR 감지 포켓몬 이름 → 스피드 자동 입력. side: 'my' or 'opp'"""
+        p = DATA_DIR / "pokemon.json"
+        if not p.exists():
+            return
+        db = json.loads(p.read_text(encoding="utf-8"))
+        key = next((k for k in db if k.lower() == name.lower()), None)
+        if not key:
+            return
+        base_spe = db[key].get("base_stats", {}).get("spe", 0)
+        if not base_spe:
+            return
+        if side == "my":
+            self.spn_base.setValue(base_spe)
+        else:
+            from core.stat_calc import calc_lv50_stats, estimate_spread
+            smogon_p = DATA_DIR / "smogon_sets.json"
+            smogon = json.loads(smogon_p.read_text(encoding="utf-8")) if smogon_p.exists() else {}
+            evs, nature = estimate_spread(smogon, key)
+            stats = calc_lv50_stats(db[key]["base_stats"], evs, nature)
+            self.spn_opp.setValue(stats.get("spe", base_spe))
+
     def reset_ranks(self):
         self.spn_rank.setValue(0)

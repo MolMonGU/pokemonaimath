@@ -217,6 +217,14 @@ class DamageTab(QWidget):
         dg.addLayout(stat_d)
         root.addWidget(def_grp)
 
+        # ── 스왑 버튼 ─────────────────────────────────────────────────────────
+        swap_row = QHBoxLayout()
+        btn_swap = QPushButton("⇅ 공격/방어 바꾸기")
+        btn_swap.clicked.connect(self._swap_sides)
+        swap_row.addWidget(btn_swap)
+        swap_row.addStretch()
+        root.addLayout(swap_row)
+
         # ── 옵션 + 계산 버튼 ──────────────────────────────────────────────────
         opt = QHBoxLayout()
         self.chk_crit  = QCheckBox("급소")
@@ -237,6 +245,17 @@ class DamageTab(QWidget):
         root.addStretch()
 
     # ── 슬롯 ─────────────────────────────────────────────────────────────────
+
+    def _swap_sides(self):
+        """공격/방어 포켓몬 이름 교체 후 자동입력 재실행"""
+        atk_name = self.edit_atk.text()
+        def_name = self.edit_def.text()
+        self.edit_atk.setText(def_name)
+        self.edit_def.setText(atk_name)
+        if def_name:
+            self._auto_fill("atk")
+        if atk_name:
+            self._auto_fill("def")
 
     def _populate_moves(self, moves: list[str]):
         """포켓몬의 기술 목록으로 드롭다운 채우기"""
@@ -419,6 +438,14 @@ class DamageTab(QWidget):
             ]
 
         self.result.setPlainText("\n".join(lines))
+
+    def set_my_pokemon(self, name: str):
+        self.edit_atk.setText(name)
+        self._auto_fill("atk")
+
+    def set_opp_pokemon(self, name: str):
+        self.edit_def.setText(name)
+        self._auto_fill("def")
 
     def reset_ranks(self):
         self.spn_atk_rank.setValue(0)

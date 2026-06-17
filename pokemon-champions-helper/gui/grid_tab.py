@@ -178,6 +178,38 @@ class GridTab(QWidget):
                 )
                 self._grid_layout.addWidget(cell, i + 1, j + 1)
 
+    # ── OCR 팀 업데이트 ───────────────────────────────────────────────────────
+
+    def update_teams_from_ocr(self, my_names: list[str], opp_names: list[str]):
+        """OCR 선출 화면 감지 시 팀 타입 자동 반영"""
+        p = DATA_DIR / "pokemon.json"
+        db = json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
+
+        for i in range(6):
+            if i < len(my_names):
+                name = my_names[i]
+                types = db.get(name, {}).get("types", ["Normal"])
+                self._my_labels[i].setText(f"{name}:")
+                self._set_type_cmbs(self._my_cmbs[i], types)
+            else:
+                self._my_labels[i].setText(f"{i+1}:")
+
+        for i in range(6):
+            if i < len(opp_names):
+                name = opp_names[i]
+                types = db.get(name, {}).get("types", ["Normal"])
+                self._opp_labels[i].setText(f"{name}:")
+                self._set_type_cmbs(self._opp_cmbs[i], types)
+            else:
+                self._opp_labels[i].setText(f"{i+1}:")
+
+        self.lbl_load.setText(
+            f"✅ OCR: 내 팀 {len(my_names)}마리 / 상대 {len(opp_names)}마리"
+        )
+        self.lbl_load.setStyleSheet("color: #a6e3a1; font-size: 11px;")
+        if my_names or opp_names:
+            self._calc_grid()
+
     # ── 선출 추천 ─────────────────────────────────────────────────────────────
 
     def _calc_selection(self):

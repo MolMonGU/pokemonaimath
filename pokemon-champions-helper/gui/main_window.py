@@ -13,6 +13,7 @@ from gui.type_tab    import TypeTab
 from gui.grid_tab    import GridTab
 from gui.sets_tab    import SetsTab
 from gui.log_tab     import LogTab
+from gui.ocr_worker  import OcrWorker
 
 
 DARK_STYLE = """
@@ -85,6 +86,13 @@ class MainWindow(QMainWindow):
 
         self._build_ui()
 
+        self._ocr_worker = OcrWorker()
+        self._ocr_worker.my_pokemon_changed.connect(self._on_my_pokemon)
+        self._ocr_worker.opp_pokemon_changed.connect(self._on_opp_pokemon)
+        self._ocr_worker.my_hp_changed.connect(self._on_my_hp)
+        self._ocr_worker.teams_updated.connect(self._on_teams_updated)
+        self._ocr_worker.status_changed.connect(self._on_ocr_status)
+
     def _build_ui(self):
         central = QWidget()
         self.setCentralWidget(central)
@@ -109,8 +117,18 @@ class MainWindow(QMainWindow):
         self.btn_battle_start.setFixedWidth(130)
         self.btn_battle_start.clicked.connect(self._battle_reset)
 
+        self.btn_ocr = QPushButton("👁 OCR 연결")
+        self.btn_ocr.setCheckable(True)
+        self.btn_ocr.setFixedWidth(100)
+        self.btn_ocr.toggled.connect(self._toggle_ocr)
+
+        self.lbl_ocr = QLabel("OCR 꺼짐")
+        self.lbl_ocr.setStyleSheet("color: #6c7086; font-size: 11px;")
+
         toolbar.addWidget(self.btn_ontop)
         toolbar.addWidget(self.btn_compact)
+        toolbar.addWidget(self.btn_ocr)
+        toolbar.addWidget(self.lbl_ocr)
         toolbar.addStretch()
         toolbar.addWidget(self.btn_battle_start)
         layout.addLayout(toolbar)
@@ -154,6 +172,36 @@ class MainWindow(QMainWindow):
             self.setMinimumSize(700, 500)
             self.setMaximumSize(16777215, 16777215)
             self.resize(800, 600)
+
+    def _toggle_ocr(self, checked: bool):
+        if checked:
+            self._ocr_worker.start()
+        else:
+            self._ocr_worker.stop()
+
+    def _on_ocr_status(self, msg: str):
+        self.lbl_ocr.setText(msg)
+        color = "#a6e3a1" if "연결" in msg else "#6c7086"
+        self.lbl_ocr.setStyleSheet(f"color: {color}; font-size: 11px;")
+
+    def _on_my_pokemon(self, name: str):
+        self.tab_damage.set_my_pokemon(name)
+        self.tab_speed.set_pokemon("my", name)
+
+    def _on_opp_pokemon(self, name: str):
+        self.tab_damage.set_opp_pokemon(name)
+        self.tab_speed.set_pokemon("opp", name)
+
+    def _on_my_hp(self, hp: int):
+        pass  # 추후 확장용
+
+    def _on_teams_updated(self, my_team: list, opp_team: list):
+        self.tab_grid.update_teams_from_ocr(my_team, opp_team)
+
+    def closeEvent(self, event):
+        self._ocr_worker.stop()
+        self._ocr_worker.wait(2000)
+        super().closeEvent(event)
 
     def _battle_reset(self):
         self.tab_log.reset()

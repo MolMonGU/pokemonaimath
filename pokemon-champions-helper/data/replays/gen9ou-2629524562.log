@@ -1,0 +1,868 @@
+|j|☆KurisuChestnutLab
+|j|☆StormIsNotOmega
+|t:|1781141536
+|gametype|singles
+|player|p1|KurisuChestnutLab|may-contest|1597
+|player|p2|StormIsNotOmega|psychic-gen4|1537
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Zapdos|
+|poke|p1|Garganacl, F|
+|poke|p1|Clefable, M|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Gholdengo|
+|poke|p2|Moltres|
+|poke|p2|Clodsire, F|
+|poke|p2|Gliscor, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Dondozo, F|
+|poke|p2|Weezing-Galar, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutLab)
+|
+|t:|1781141545
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|turn|1
+|
+|t:|1781141551
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Samurott|Razor Shell|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781141559
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|-terastallize|p2a: Gliscor|Normal
+|move|p2a: Gliscor|Facade|p1a: Garganacl
+|-resisted|p1a: Garganacl
+|-damage|p1a: Garganacl|85/100
+|
+|-heal|p1a: Garganacl|91/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781141567
+|move|p2a: Gliscor|Knock Off|p1a: Garganacl
+|-damage|p1a: Garganacl|75/100
+|-enditem|p1a: Garganacl|Leftovers|[from] move: Knock Off|[of] p2a: Gliscor
+|move|p1a: Garganacl|Stealth Rock|p2a: Gliscor
+|-sidestart|p2: StormIsNotOmega|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1781141573
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1781141580
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Zamazenta|Body Press|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|93/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781141588
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Weezing|Defog|p1a: Gholdengo
+|-unboost|p1a: Gholdengo|evasion|1
+|-sideend|p2: StormIsNotOmega|Stealth Rock|[from] move: Defog|[of] p2a: Weezing
+|
+|upkeep
+|turn|7
+|
+|t:|1781141594
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Clodsire|Clodsire, F|100/100
+|move|p1a: Gholdengo|Make It Rain|p2a: Clodsire
+|-damage|p2a: Clodsire|68/100
+|-unboost|p1a: Gholdengo|spa|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781141603
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|100/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781141611
+|switch|p2a: Gliscor|Gliscor, M, tera:Normal|100/100 tox
+|move|p1a: Samurott|Ceaseless Edge|p2a: Gliscor
+|-damage|p2a: Gliscor|67/100 tox
+|-sidestart|p2: StormIsNotOmega|Spikes
+|
+|-heal|p2a: Gliscor|79/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|10
+|
+|t:|1781141619
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|move|p2a: Gliscor|Facade|p1a: Zamazenta
+|-damage|p1a: Zamazenta|66/100
+|
+|-heal|p1a: Zamazenta|72/100|[from] item: Leftovers
+|-heal|p2a: Gliscor|92/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|11
+|
+|t:|1781141627
+|move|p1a: Zamazenta|Body Press|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|47/100 tox
+|move|p2a: Gliscor|Knock Off|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|64/100
+|-enditem|p1a: Zamazenta|Leftovers|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|-heal|p2a: Gliscor|60/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|12
+|
+|t:|1781141636
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Zamazenta|Body Press|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|72/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|13
+|
+|t:|1781141643
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Zamazenta|Body Press|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|90/100
+|-status|p1a: Zamazenta|brn|[from] ability: Flame Body|[of] p2a: Moltres
+|
+|-damage|p1a: Zamazenta|58/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781141655
+|switch|p2a: Weezing|Weezing-Galar, M|93/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Zamazenta|Roar|p2a: Weezing
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|drag|p2a: Clodsire|Clodsire, F|100/100
+|
+|-damage|p1a: Zamazenta|52/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781141663
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|move|p2a: Clodsire|Earthquake|p1a: Samurott
+|-damage|p1a: Samurott|68/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781141670
+|switch|p2a: Weezing|Weezing-Galar, M|93/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Samurott|Ceaseless Edge|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|83/100
+|-sidestart|p2: StormIsNotOmega|Spikes
+|
+|upkeep
+|turn|17
+|
+|t:|1781141678
+|move|p1a: Samurott|Ceaseless Edge|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|73/100
+|-sidestart|p2: StormIsNotOmega|Spikes
+|move|p2a: Weezing|Defog|p1a: Samurott
+|-unboost|p1a: Samurott|evasion|1
+|-sideend|p2: StormIsNotOmega|Spikes|[from] move: Defog|[of] p2a: Weezing
+|
+|upkeep
+|turn|18
+|
+|t:|1781141685
+|move|p1a: Samurott|Ceaseless Edge|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|63/100
+|-sidestart|p2: StormIsNotOmega|Spikes
+|move|p2a: Weezing|Will-O-Wisp|p1a: Samurott
+|-status|p1a: Samurott|brn
+|
+|-damage|p1a: Samurott|62/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1781141693
+|move|p1a: Samurott|Ceaseless Edge|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|58/100
+|-sidestart|p2: StormIsNotOmega|Spikes
+|move|p2a: Weezing|Defog|p1a: Samurott
+|-unboost|p1a: Samurott|evasion|1
+|-sideend|p2: StormIsNotOmega|Spikes|[from] move: Defog|[of] p2a: Weezing
+|
+|-damage|p1a: Samurott|56/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1781141701
+|move|p1a: Samurott|Ceaseless Edge|p2a: Weezing|[miss]
+|-miss|p1a: Samurott|p2a: Weezing
+|move|p2a: Weezing|Defog|p1a: Samurott
+|-unboost|p1a: Samurott|evasion|1
+|
+|-damage|p1a: Samurott|50/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1781141709
+|move|p1a: Samurott|Ceaseless Edge|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|53/100
+|-sidestart|p2: StormIsNotOmega|Spikes
+|move|p2a: Weezing|Strange Steam|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781141713
+|switch|p1a: Garganacl|Garganacl, F|75/100
+|turn|22
+|
+|t:|1781141719
+|move|p2a: Weezing|Will-O-Wisp|p1a: Garganacl
+|-status|p1a: Garganacl|brn
+|move|p1a: Garganacl|Stealth Rock|p2a: Weezing
+|-sidestart|p2: StormIsNotOmega|move: Stealth Rock
+|
+|-damage|p1a: Garganacl|69/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1781141725
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Weezing|Defog|p1a: Gholdengo
+|-unboost|p1a: Gholdengo|evasion|1
+|-sideend|p2: StormIsNotOmega|Spikes|[from] move: Defog|[of] p2a: Weezing
+|-sideend|p2: StormIsNotOmega|Stealth Rock|[from] move: Defog|[of] p2a: Weezing
+|
+|upkeep
+|turn|24
+|
+|t:|1781141732
+|switch|p1a: Garganacl|Garganacl, F|69/100 brn
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Clodsire|Clodsire, F|100/100
+|
+|-damage|p1a: Garganacl|63/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1781141738
+|move|p1a: Garganacl|Salt Cure|p2a: Clodsire
+|-resisted|p2a: Clodsire
+|-damage|p2a: Clodsire|97/100
+|-start|p2a: Clodsire|Salt Cure
+|move|p2a: Clodsire|Earthquake|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-crit|p1a: Garganacl
+|-damage|p1a: Garganacl|12/100 brn
+|
+|-damage|p1a: Garganacl|6/100 brn|[from] brn
+|-damage|p2a: Clodsire|85/100|[from] Salt Cure
+|upkeep
+|turn|26
+|
+|t:|1781141748
+|switch|p2a: Gliscor|Gliscor, M, tera:Normal|72/100 tox
+|move|p1a: Garganacl|Stealth Rock|p2a: Gliscor
+|-sidestart|p2: StormIsNotOmega|move: Stealth Rock
+|
+|-heal|p2a: Gliscor|85/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Garganacl|0 fnt|[from] brn
+|faint|p1a: Garganacl
+|upkeep
+|
+|t:|1781141753
+|switch|p1a: Zamazenta|Zamazenta|52/100 brn
+|turn|27
+|
+|t:|1781141759
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|move|p1a: Zamazenta|Roar|p2a: Gliscor
+|drag|p2a: Dondozo|Dondozo, F|100/100
+|-damage|p2a: Dondozo|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Dondozo|94/100|[from] item: Leftovers
+|-damage|p1a: Zamazenta|46/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1781141768
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Dondozo|Liquidation|p1a: Zamazenta
+|-damage|p1a: Zamazenta|22/100 brn
+|
+|-heal|p2a: Dondozo|99/100|[from] item: Leftovers
+|-damage|p1a: Zamazenta|16/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1781141776
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Weezing|Weezing-Galar, M|53/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|
+|upkeep
+|turn|30
+|
+|t:|1781141782
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Clodsire|Clodsire, F|85/100
+|move|p1a: Zapdos|Hurricane|p2a: Clodsire
+|-damage|p2a: Clodsire|62/100
+|
+|upkeep
+|turn|31
+|
+|t:|1781141789
+|move|p1a: Zapdos|Hurricane|p2a: Clodsire
+|-damage|p2a: Clodsire|39/100
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|89/100
+|
+|upkeep
+|turn|32
+|
+|t:|1781141794
+|switch|p1a: Zamazenta|Zamazenta|16/100 brn
+|move|p2a: Clodsire|Toxic||[still]
+|-fail|p2a: Clodsire
+|
+|-damage|p1a: Zamazenta|10/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1781141801
+|switch|p2a: Weezing|Weezing-Galar, M|53/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Zamazenta|Crunch|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|50/100
+|
+|-damage|p1a: Zamazenta|4/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1781141810
+|move|p2a: Weezing|Defog|p1a: Zamazenta
+|-unboost|p1a: Zamazenta|evasion|1
+|-sideend|p2: StormIsNotOmega|Stealth Rock|[from] move: Defog|[of] p2a: Weezing
+|move|p1a: Zamazenta|Roar|p2a: Weezing
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|drag|p2a: Dondozo|Dondozo, F|99/100
+|
+|-heal|p2a: Dondozo|100/100|[from] item: Leftovers
+|-damage|p1a: Zamazenta|0 fnt|[from] brn
+|faint|p1a: Zamazenta
+|upkeep
+|
+|t:|1781141813
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|35
+|
+|t:|1781141821
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Zapdos|Hurricane|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|82/100
+|
+|-heal|p2a: Ting-Lu|88/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1781141831
+|move|p1a: Zapdos|Hurricane|p2a: Ting-Lu|[miss]
+|-miss|p1a: Zapdos|p2a: Ting-Lu
+|move|p2a: Ting-Lu|Spikes|p1a: Zapdos
+|-sidestart|p1: KurisuChestnutLab|Spikes
+|
+|-heal|p2a: Ting-Lu|94/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1781141837
+|move|p1a: Zapdos|Hurricane|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|75/100
+|move|p2a: Ting-Lu|Spikes|p1a: Zapdos
+|-sidestart|p1: KurisuChestnutLab|Spikes
+|
+|-heal|p2a: Ting-Lu|82/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1781141843
+|move|p1a: Zapdos|Hurricane|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|63/100
+|-start|p2a: Ting-Lu|confusion
+|-activate|p2a: Ting-Lu|confusion
+|move|p2a: Ting-Lu|Spikes|p1a: Zapdos
+|-sidestart|p1: KurisuChestnutLab|Spikes
+|
+|-heal|p2a: Ting-Lu|70/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1781141851
+|switch|p2a: Clodsire|Clodsire, F|89/100
+|move|p1a: Zapdos|Hurricane|p2a: Clodsire|[miss]
+|-miss|p1a: Zapdos|p2a: Clodsire
+|
+|upkeep
+|turn|40
+|
+|t:|1781141856
+|-terastallize|p1a: Zapdos|Steel
+|move|p1a: Zapdos|Hurricane|p2a: Clodsire
+|-damage|p2a: Clodsire|66/100
+|move|p2a: Clodsire|Toxic|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|upkeep
+|turn|41
+|
+|t:|1781141864
+|move|p1a: Zapdos|Hurricane|p2a: Clodsire
+|-damage|p2a: Clodsire|41/100
+|move|p2a: Clodsire|Earthquake|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|62/100
+|
+|upkeep
+|turn|42
+|
+|t:|1781141872
+|move|p1a: Zapdos|Hurricane|p2a: Clodsire|[miss]
+|-miss|p1a: Zapdos|p2a: Clodsire
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|91/100
+|
+|upkeep
+|turn|43
+|
+|t:|1781141878
+|move|p1a: Zapdos|Hurricane|p2a: Clodsire|[miss]
+|-miss|p1a: Zapdos|p2a: Clodsire
+|move|p2a: Clodsire|Earthquake|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|20/100
+|
+|upkeep
+|turn|44
+|
+|t:|1781141884
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|70/100
+|move|p2a: Clodsire|Earthquake|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|12/100
+|
+|upkeep
+|turn|45
+|
+|t:|1781141891
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|62/100
+|move|p2a: Clodsire|Earthquake|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|22/100
+|
+|upkeep
+|turn|46
+|
+|t:|1781141897
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|72/100
+|move|p2a: Clodsire|Earthquake|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|33/100
+|
+|upkeep
+|turn|47
+|
+|t:|1781141903
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|83/100
+|move|p2a: Clodsire|Earthquake|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|42/100
+|
+|upkeep
+|turn|48
+|
+|t:|1781141910
+|switch|p2a: Ting-Lu|Ting-Lu|70/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|92/100
+|
+|-heal|p2a: Ting-Lu|76/100|[from] item: Leftovers
+|upkeep
+|turn|49
+|
+|t:|1781141918
+|move|p1a: Zapdos|Hurricane|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|57/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|40/100
+|
+|-heal|p2a: Ting-Lu|63/100|[from] item: Leftovers
+|upkeep
+|turn|50
+|
+|t:|1781141925
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|72/100
+|
+|-heal|p2a: Ting-Lu|69/100|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1781141934
+|switch|p2a: Gliscor|Gliscor, M, tera:Normal|85/100 tox
+|move|p1a: Clefable|Moonblast|p2a: Gliscor
+|-damage|p2a: Gliscor|56/100 tox
+|
+|-heal|p2a: Gliscor|69/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|52
+|
+|t:|1781141941
+|move|p2a: Gliscor|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|64/100
+|-enditem|p1a: Clefable|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Gliscor
+|move|p1a: Clefable|Moonblast|p2a: Gliscor
+|-damage|p2a: Gliscor|41/100 tox
+|
+|-heal|p2a: Gliscor|53/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|53
+|
+|t:|1781141950
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|
+|-heal|p2a: Gliscor|66/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|54
+|
+|t:|1781141957
+|switch|p2a: Clodsire|Clodsire, F|91/100
+|move|p1a: Clefable|Moonblast|p2a: Clodsire
+|-resisted|p2a: Clodsire
+|-damage|p2a: Clodsire|83/100
+|-unboost|p2a: Clodsire|spa|1
+|
+|upkeep
+|turn|55
+|
+|t:|1781141963
+|switch|p1a: Zapdos|Zapdos, tera:Steel|40/100
+|move|p2a: Clodsire|Toxic|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|upkeep
+|turn|56
+|
+|t:|1781141969
+|switch|p2a: Gliscor|Gliscor, M, tera:Normal|66/100 tox
+|move|p1a: Zapdos|Hurricane|p2a: Gliscor
+|-damage|p2a: Gliscor|25/100 tox
+|
+|-heal|p2a: Gliscor|37/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|57
+|
+|t:|1781141977
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Zapdos|Hurricane|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|50/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|58
+|
+|t:|1781141984
+|move|p1a: Zapdos|Hurricane|p2a: Gliscor
+|-damage|p2a: Gliscor|10/100 tox
+|move|p2a: Gliscor|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|26/100
+|-enditem|p1a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|-heal|p2a: Gliscor|22/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|59
+|
+|t:|1781141992
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Zapdos|Hurricane|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|35/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|60
+|
+|t:|1781142002
+|switch|p2a: Ting-Lu|Ting-Lu|69/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|76/100
+|
+|-heal|p2a: Ting-Lu|76/100|[from] item: Leftovers
+|upkeep
+|turn|61
+|
+|t:|1781142011
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|48/100
+|
+|-heal|p2a: Ting-Lu|82/100|[from] item: Leftovers
+|upkeep
+|turn|62
+|
+|t:|1781142018
+|switch|p1a: Clefable|Clefable, M|100/100
+|-damage|p1a: Clefable|76/100|[from] Spikes
+|move|p2a: Ting-Lu|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|46/100
+|
+|-heal|p2a: Ting-Lu|88/100|[from] item: Leftovers
+|upkeep
+|turn|63
+|
+|t:|1781142026
+|switch|p2a: Clodsire|Clodsire, F|83/100
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|96/100
+|
+|upkeep
+|turn|64
+|
+|t:|1781142035
+|move|p1a: Clefable|Moonblast|p2a: Clodsire
+|-resisted|p2a: Clodsire
+|-damage|p2a: Clodsire|75/100
+|-unboost|p2a: Clodsire|spa|1
+|move|p2a: Clodsire|Toxic|p1a: Clefable
+|-status|p1a: Clefable|tox
+|
+|-damage|p1a: Clefable|90/100 tox|[from] psn
+|upkeep
+|turn|65
+|
+|t:|1781142043
+|move|p1a: Clefable|Moonblast|p2a: Clodsire
+|-resisted|p2a: Clodsire
+|-crit|p2a: Clodsire
+|-damage|p2a: Clodsire|62/100
+|move|p2a: Clodsire|Poison Jab|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|58/100 tox
+|
+|-damage|p1a: Clefable|46/100 tox|[from] psn
+|upkeep
+|turn|66
+|
+|t:|1781142051
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|96/100 tox
+|move|p2a: Clodsire|Poison Jab|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|64/100 tox
+|
+|-damage|p1a: Clefable|45/100 tox|[from] psn
+|upkeep
+|turn|67
+|
+|t:|1781142059
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|95/100 tox
+|move|p2a: Clodsire|Poison Jab|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|63/100 tox
+|
+|-damage|p1a: Clefable|39/100 tox|[from] psn
+|upkeep
+|turn|68
+|
+|t:|1781142067
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|89/100 tox
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|100/100
+|
+|-damage|p1a: Clefable|58/100 tox|[from] psn
+|upkeep
+|turn|69
+|
+|t:|1781142073
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|100/100 tox
+|move|p2a: Clodsire|Poison Jab|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|65/100 tox
+|
+|-damage|p1a: Clefable|29/100 tox|[from] psn
+|upkeep
+|turn|70
+|
+|t:|1781142082
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|79/100 tox
+|move|p2a: Clodsire|Poison Jab|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|45/100 tox
+|
+|-damage|p1a: Clefable|2/100 tox|[from] psn
+|upkeep
+|turn|71
+|
+|t:|1781142089
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|52/100 tox
+|move|p2a: Clodsire|Poison Jab|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|19/100 tox
+|
+|-damage|p1a: Clefable|0 fnt|[from] psn
+|faint|p1a: Clefable
+|upkeep
+|
+|t:|1781142094
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|76/100|[from] Spikes
+|turn|72
+|
+|t:|1781142101
+|move|p1a: Gholdengo|Shadow Ball|p2a: Clodsire
+|-damage|p2a: Clodsire|76/100
+|-unboost|p2a: Clodsire|spd|1
+|move|p2a: Clodsire|Earthquake|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|19/100
+|
+|upkeep
+|turn|73
+|
+|t:|1781142109
+|switch|p2a: Ting-Lu|Ting-Lu|88/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Gholdengo|Shadow Ball|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|80/100
+|
+|-heal|p2a: Ting-Lu|86/100|[from] item: Leftovers
+|upkeep
+|turn|74
+|
+|t:|1781142122
+|move|p1a: Gholdengo|Shadow Ball|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|77/100
+|-unboost|p2a: Ting-Lu|spd|1
+|move|p2a: Ting-Lu|Whirlwind|p1a: Gholdengo
+|-immune|p1a: Gholdengo|[from] ability: Good as Gold
+|
+|-heal|p2a: Ting-Lu|83/100|[from] item: Leftovers
+|upkeep
+|turn|75
+|
+|t:|1781142131
+|move|p1a: Gholdengo|Shadow Ball|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|71/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-heal|p2a: Ting-Lu|77/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781142135
+|switch|p1a: Zapdos|Zapdos, tera:Steel|48/100
+|-damage|p1a: Zapdos|23/100|[from] Spikes
+|turn|76
+|
+|t:|1781142142
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|74/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|25/100
+|
+|-heal|p2a: Ting-Lu|83/100|[from] item: Leftovers
+|upkeep
+|turn|77
+|c|☆StormIsNotOmega|Hahahahahahahahaha
+|c|☆StormIsNotOmega|hahahahahahahahahaha
+|
+|t:|1781142164
+|move|p1a: Zapdos|Volt Switch|p2a: Ting-Lu
+|-immune|p2a: Ting-Lu
+|move|p2a: Ting-Lu|Earthquake|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|win|StormIsNotOmega
+|raw|KurisuChestnutLab's rating: 1614 &rarr; <strong>1590</strong><br />(-24 for losing)
+|raw|StormIsNotOmega's rating: 1537 &rarr; <strong>1561</strong><br />(+24 for winning)

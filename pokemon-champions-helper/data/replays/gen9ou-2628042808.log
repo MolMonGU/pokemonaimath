@@ -1,0 +1,201 @@
+|badge|p2|bronze|gen9ou|100-9
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆GummyDeino
+|j|‽lt_alt1
+|t:|1780968495
+|gametype|singles
+|player|p1|GummyDeino|lady|1779
+|player|p2|lt_alt1|170|1801
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragonite, F|
+|poke|p1|Gholdengo|
+|poke|p1|Kingambit, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Samurott-Hisui, F|
+|poke|p2|Darkrai|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Treads|
+|poke|p2|Raging Bolt|
+|poke|p2|Gliscor, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by GummyDeino)
+|
+|t:|1780968509
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Behemoth|Great Tusk, shiny|100/100
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|1
+|
+|t:|1780968513
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|-end|p1a: Behemoth|Protosynthesis|[silent]
+|switch|p1a: Cleave|Samurott-Hisui, F, shiny|100/100
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1780968520
+|switch|p1a: Tengen|Hatterene, F, shiny|100/100
+|-terastallize|p2a: Gliscor|Water
+|move|p2a: Gliscor|Toxic|p1a: Tengen
+|move|p1a: Tengen|Toxic|p2a: Gliscor|[from] ability: Magic Bounce
+|-fail|p2a: Gliscor|tox
+|
+|upkeep
+|turn|3
+|j| Hakone Outbound
+|
+|t:|1780968526
+|move|p2a: Gliscor|Knock Off|p1a: Tengen
+|-damage|p1a: Tengen|83/100
+|-damage|p2a: Gliscor|84/100 tox|[from] item: Rocky Helmet|[of] p1a: Tengen
+|-enditem|p1a: Tengen|Rocky Helmet|[from] move: Knock Off|[of] p2a: Gliscor
+|move|p1a: Tengen|Psychic Noise|p2a: Gliscor
+|-damage|p2a: Gliscor|56/100 tox
+|-start|p2a: Gliscor|move: Heal Block
+|
+|upkeep
+|turn|4
+|
+|t:|1780968530
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Tengen|Nuzzle|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-end|p2a: Gliscor|move: Heal Block
+|upkeep
+|turn|5
+|
+|t:|1780968536
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Tengen|Nuzzle|p2a: Slowking
+|-damage|p2a: Slowking|96/100
+|-status|p2a: Slowking|par
+|
+|-heal|p2a: Slowking|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1780968540
+|switch|p1a: Cleave|Samurott-Hisui, F, shiny|100/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|cant|p2a: Slowking|par
+|
+|upkeep
+|turn|7
+|
+|t:|1780968544
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|move|p1a: Cleave|Ceaseless Edge|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|63/100
+|-sidestart|p2: lt_alt1|Spikes
+|
+|-heal|p2a: Raging Bolt|69/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1780968548
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Cleave
+|-supereffective|p1a: Cleave
+|-damage|p1a: Cleave|27/100
+|move|p1a: Cleave|Ceaseless Edge|p2a: Raging Bolt|[miss]
+|-miss|p1a: Cleave|p2a: Raging Bolt
+|
+|-heal|p2a: Raging Bolt|75/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1780968561
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Cleave
+|-damage|p1a: Cleave|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Cleave
+|
+|-heal|p2a: Raging Bolt|81/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780968567
+|switch|p1a: Behemoth|Great Tusk, shiny|100/100
+|turn|10
+|
+|t:|1780968572
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|100/100 par
+|-damage|p2a: Slowking|88/100 par|[from] Spikes
+|move|p1a: Behemoth|Headlong Rush|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-unboost|p1a: Behemoth|def|1
+|-unboost|p1a: Behemoth|spd|1
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1780968575
+|switch|p2a: Darkrai|Darkrai|100/100
+|-damage|p2a: Darkrai|88/100|[from] Spikes
+|turn|11
+|
+|t:|1780968579
+|-end|p1a: Behemoth|Protosynthesis|[silent]
+|switch|p1a: Satoru Gholdo|Gholdengo, shiny|100/100
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|2
+|
+|-heal|p2a: Darkrai|94/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1780968582
+|move|p1a: Satoru Gholdo|Make It Rain|p2a: Darkrai
+|-damage|p2a: Darkrai|17/100
+|-unboost|p1a: Satoru Gholdo|spa|1
+|move|p2a: Darkrai|Dark Pulse|p1a: Satoru Gholdo
+|-supereffective|p1a: Satoru Gholdo
+|-damage|p1a: Satoru Gholdo|0 fnt
+|faint|p1a: Satoru Gholdo
+|
+|-heal|p2a: Darkrai|23/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780968586
+|switch|p1a: Dismantle|Kingambit, F, shiny|100/100
+|-activate|p1a: Dismantle|ability: Supreme Overlord
+|-start|p1a: Dismantle|fallen2|[silent]
+|-item|p1a: Dismantle|Air Balloon
+|turn|13
+|
+|t:|1780968595
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|2
+|move|p1a: Dismantle|Iron Head|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|upkeep
+|-message|lt_alt1 forfeited.
+|
+|win|GummyDeino
+|raw|GummyDeino's rating: 1779 &rarr; <strong>1800</strong><br />(+21 for winning)
+|raw|lt_alt1's rating: 1801 &rarr; <strong>1780</strong><br />(-21 for losing)
+|l|‽lt_alt1
+|player|p2|
+|l|☆GummyDeino
+|player|p1|

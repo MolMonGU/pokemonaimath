@@ -1,0 +1,358 @@
+|j|☆The median voter
+|j|☆DMVortex38
+|t:|1781559652
+|gametype|singles
+|player|p1|The median voter|scientist-gen4dp|1521
+|player|p2|DMVortex38|170|1566
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Great Tusk|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Scizor, M|
+|poke|p1|Dragapult, F|
+|poke|p2|Haxorus, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Moltres|
+|poke|p2|Iron Treads|
+|poke|p2|Iron Valiant|
+|poke|p2|Zamazenta-*|
+|teampreview
+|
+|t:|1781559664
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Emissary|Dragapult, F|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|turn|1
+|
+|t:|1781559669
+|move|p1a: Emissary|Will-O-Wisp|p2a: Iron Treads
+|-status|p2a: Iron Treads|brn
+|move|p2a: Iron Treads|Knock Off|p1a: Emissary
+|-supereffective|p1a: Emissary
+|-damage|p1a: Emissary|62/100
+|-enditem|p1a: Emissary|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Iron Treads
+|
+|-damage|p2a: Iron Treads|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1781559682
+|move|p1a: Emissary|Hex|p2a: Iron Treads
+|-crit|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|l|☆The median voter
+|player|p1|
+|
+|t:|1781559710
+|switch|p2a: Moltres|Moltres|100/100
+|turn|3
+|j|☆The median voter
+|player|p1|The median voter|scientist-gen4dp|
+|
+|t:|1781559716
+|switch|p1a: Bishop|Slowking-Galar, M|100/100
+|move|p2a: Moltres|Flamethrower|p1a: Bishop
+|-damage|p1a: Bishop|78/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781559723
+|move|p2a: Moltres|U-turn|p1a: Bishop
+|-damage|p1a: Bishop|62/100
+|
+|t:|1781559726
+|switch|p2a: Haxserious|Haxorus, F|100/100|[from] U-turn
+|-ability|p2a: Haxserious|Mold Breaker
+|move|p1a: Bishop|Thunder Wave|p2a: Haxserious
+|-status|p2a: Haxserious|par
+|
+|upkeep
+|turn|5
+|
+|t:|1781559736
+|move|p2a: Haxserious|Outrage|p1a: Bishop
+|-damage|p1a: Bishop|0 fnt
+|faint|p1a: Bishop
+|
+|upkeep
+|
+|t:|1781559741
+|switch|p1a: Experiment|Scizor, M|100/100
+|turn|6
+|
+|t:|1781559745
+|move|p1a: Experiment|U-turn|p2a: Haxserious
+|-damage|p2a: Haxserious|26/100 par
+|
+|t:|1781559748
+|switch|p1a: Templar|Great Tusk|100/100|[from] U-turn
+|cant|p2a: Haxserious|par
+|
+|upkeep
+|turn|7
+|
+|t:|1781559753
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Templar|Stealth Rock|p2a: Moltres
+|-sidestart|p2: DMVortex38|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1781559759
+|-end|p1a: Templar|Protosynthesis|[silent]
+|switch|p1a: The End of All|Hoopa-Unbound|100/100
+|move|p2a: Moltres|Flamethrower|p1a: The End of All
+|-damage|p1a: The End of All|81/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781559765
+|switch|p1a: Preacher|Zapdos|100/100
+|move|p2a: Moltres|U-turn|p1a: Preacher
+|-resisted|p1a: Preacher
+|-damage|p1a: Preacher|95/100
+|
+|t:|1781559772
+|switch|p2a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|10
+|
+|t:|1781559777
+|switch|p1a: The End of All|Hoopa-Unbound|81/100
+|move|p2a: Slowking|Sludge Bomb|p1a: The End of All
+|-damage|p1a: The End of All|64/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781559784
+|switch|p2a: Haxserious|Haxorus, F|26/100 par
+|-damage|p2a: Haxserious|14/100 par|[from] Stealth Rock
+|-ability|p2a: Haxserious|Mold Breaker
+|move|p1a: The End of All|Knock Off|p2a: Haxserious
+|-damage|p2a: Haxserious|0 fnt
+|-enditem|p2a: Haxserious|Choice Band|[from] move: Knock Off|[of] p1a: The End of All
+|faint|p2a: Haxserious
+|
+|upkeep
+|
+|t:|1781559801
+|switch|p2a: Moltres|Moltres|100/100
+|turn|12
+|
+|t:|1781559805
+|switch|p1a: Preacher|Zapdos|95/100
+|move|p2a: Moltres|U-turn|p1a: Preacher
+|-resisted|p1a: Preacher
+|-damage|p1a: Preacher|90/100
+|-status|p2a: Moltres|par|[from] ability: Static|[of] p1a: Preacher
+|
+|t:|1781559812
+|switch|p2a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|13
+|
+|t:|1781559817
+|move|p1a: Preacher|U-turn|p2a: Slowking
+|-damage|p2a: Slowking|86/100
+|
+|t:|1781559818
+|switch|p1a: The End of All|Hoopa-Unbound|64/100|[from] U-turn
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781559838
+|switch|p2a: Moltres|Moltres|100/100 par|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781559859
+|move|p1a: The End of All|Thunderbolt|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|19/100 par
+|cant|p2a: Moltres|par
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781559866
+|move|p1a: The End of All|Knock Off|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|-status|p1a: The End of All|brn|[from] ability: Flame Body|[of] p2a: Moltres
+|-enditem|p2a: Moltres|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: The End of All
+|faint|p2a: Moltres
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: The End of All|58/100 brn|[from] brn
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by The median voter)
+|
+|t:|1781559881
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-damage|p2a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|16
+|
+|t:|1781559886
+|move|p2a: Iron Valiant|Encore|p1a: The End of All
+|-start|p1a: The End of All|Encore
+|move|p1a: The End of All|Knock Off|p2a: Iron Valiant
+|-resisted|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|88/100
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: The End of All|52/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781559899
+|switch|p1a: Experiment|Scizor, M|100/100
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|
+|-weather|none
+|upkeep
+|turn|18
+|inactive|DMVortex38 has 120 seconds left.
+|
+|t:|1781559952
+|-terastallize|p2a: Iron Valiant|Ghost
+|move|p1a: Experiment|Bullet Punch|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|23/100
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Experiment
+|-damage|p1a: Experiment|28/100
+|-unboost|p1a: Experiment|spd|1
+|
+|upkeep
+|turn|19
+|
+|t:|1781559962
+|move|p1a: Experiment|Bullet Punch|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781559966
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|turn|20
+|
+|t:|1781559972
+|switch|p1a: The End of All|Hoopa-Unbound|52/100 brn
+|move|p2a: Slowking|Future Sight|p1a: The End of All
+|-start|p2a: Slowking|move: Future Sight
+|
+|-damage|p1a: The End of All|46/100 brn|[from] brn
+|upkeep
+|turn|21
+|inactive|DMVortex38 has 120 seconds left.
+|
+|t:|1781559990
+|move|p1a: The End of All|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|39/100
+|-enditem|p2a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: The End of All
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781560003
+|switch|p2a: Zamazenta|Zamazenta|100/100|[from] Chilly Reception
+|-damage|p2a: Zamazenta|94/100|[from] Stealth Rock
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Zamazenta|100/100|[from] item: Leftovers
+|-damage|p1a: The End of All|40/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1781560014
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p1a: The End of All|Psychic Noise|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|29/100
+|-start|p2a: Zamazenta|move: Heal Block
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: The End of All|move: Future Sight
+|-immune|p1a: The End of All
+|-damage|p1a: The End of All|34/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1781560021
+|move|p2a: Zamazenta|Body Press|p1a: The End of All
+|-damage|p1a: The End of All|0 fnt
+|faint|p1a: The End of All
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Zamazenta|move: Heal Block
+|upkeep
+|
+|t:|1781560024
+|switch|p1a: Emissary|Dragapult, F|62/100
+|turn|24
+|
+|t:|1781560027
+|move|p1a: Emissary|Will-O-Wisp|p2a: Zamazenta
+|-status|p2a: Zamazenta|brn
+|move|p2a: Zamazenta|Crunch|p1a: Emissary
+|-supereffective|p1a: Emissary
+|-damage|p1a: Emissary|31/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Zamazenta|36/100 brn|[from] item: Leftovers
+|-damage|p2a: Zamazenta|29/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1781560030
+|move|p1a: Emissary|Hex|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|-weather|none
+|upkeep
+|-message|DMVortex38 forfeited.
+|
+|win|The median voter
+|raw|The median voter's rating: 1521 &rarr; <strong>1544</strong><br />(+23 for winning)
+|raw|DMVortex38's rating: 1566 &rarr; <strong>1543</strong><br />(-23 for losing)
+|l|☆DMVortex38
+|player|p2|
+|l|☆The median voter
+|player|p1|

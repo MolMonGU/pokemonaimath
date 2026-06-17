@@ -1,0 +1,259 @@
+|j|☆desert97
+|j|☆Mr.X&Y97
+|t:|1780977329
+|gametype|singles
+|player|p1|desert97|101|1630
+|player|p2|Mr.X&Y97|ingo|1630
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Moth|
+|poke|p1|Gliscor, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Deoxys-Speed|
+|poke|p2|Indeedee, M|
+|poke|p2|Armarouge, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Hawlucha, F|
+|poke|p2|Maushold|
+|poke|p2|Polteageist|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mr.X&Y97)
+|
+|t:|1780977348
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|switch|p2a: Indeedee|Indeedee, M|100/100
+|-ability|p1a: Deoxys|Pressure
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|1
+|
+|t:|1780977356
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Deoxys|Light Screen|p1a: Deoxys
+|-sidestart|p1: desert97|move: Light Screen
+|
+|upkeep
+|turn|2
+|j| BS34
+|
+|t:|1780977363
+|move|p1a: Deoxys|Reflect|p1a: Deoxys
+|-sidestart|p1: desert97|Reflect
+|move|p2a: Hatterene|Nuzzle|p1a: Deoxys
+|-damage|p1a: Deoxys|98/100
+|-status|p1a: Deoxys|par
+|
+|upkeep
+|turn|3
+|
+|t:|1780977372
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Hatterene|Healing Wish|p2a: Hatterene
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1780977389
+|switch|p2a: Polteageist|Polteageist|100/100
+|turn|4
+|
+|t:|1780977392
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Polteageist
+|-enditem|p2a: Polteageist|Focus Sash
+|-damage|p2a: Polteageist|1/100
+|
+|upkeep
+|turn|5
+|
+|t:|1780977394
+|move|p2a: Polteageist|Stored Power|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|35/100
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Polteageist
+|-damage|p2a: Polteageist|0 fnt
+|faint|p2a: Polteageist
+|
+|upkeep
+|
+|t:|1780977415
+|switch|p2a: Maushold|Maushold|100/100
+|turn|6
+|
+|t:|1780977418
+|move|p2a: Maushold|Population Bomb|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|30/100
+|-damage|p1a: Raging Bolt|25/100
+|-damage|p1a: Raging Bolt|20/100
+|-damage|p1a: Raging Bolt|15/100
+|-damage|p1a: Raging Bolt|10/100
+|-damage|p1a: Raging Bolt|5/100
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|-hitcount|p1: Raging Bolt|7
+|
+|upkeep
+|
+|t:|1780977426
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|turn|7
+|
+|t:|1780977432
+|move|p1a: Iron Moth|Sludge Wave|p2a: Maushold
+|-damage|p2a: Maushold|24/100
+|move|p2a: Maushold|Tidy Up|p2a: Maushold
+|-boost|p2a: Maushold|atk|1
+|-boost|p2a: Maushold|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1780977438
+|-terastallize|p1a: Iron Moth|Ghost
+|move|p2a: Maushold|Population Bomb|p1a: Iron Moth
+|-immune|p1a: Iron Moth
+|move|p1a: Iron Moth|Fiery Dance|p2a: Maushold
+|-damage|p2a: Maushold|0 fnt
+|-boost|p1a: Iron Moth|spa|1
+|faint|p2a: Maushold
+|
+|-sideend|p1: desert97|move: Light Screen
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1780977442
+|switch|p2a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|9
+|
+|t:|1780977446
+|move|p1a: Iron Moth|Toxic Spikes|p2a: Indeedee
+|-sidestart|p2: Mr.X&Y97|move: Toxic Spikes
+|move|p2a: Indeedee|Expanding Force|p1a: Iron Moth
+|-damage|p1a: Iron Moth|44/100
+|
+|-sideend|p1: desert97|Reflect
+|upkeep
+|turn|10
+|
+|t:|1780977452
+|move|p1a: Iron Moth|Sludge Wave|p2a: Indeedee
+|-damage|p2a: Indeedee|21/100
+|move|p2a: Indeedee|Expanding Force|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780977456
+|switch|p1a: Deoxys|Deoxys-Speed|98/100 par
+|-ability|p1a: Deoxys|Pressure
+|turn|11
+|inactive|Mr.X&Y97 has 120 seconds left.
+|
+|t:|1780977495
+|move|p2a: Indeedee|Dazzling Gleam|p1a: Deoxys
+|-damage|p1a: Deoxys|73/100 par
+|move|p1a: Deoxys|Light Screen|p1a: Deoxys
+|-sidestart|p1: desert97|move: Light Screen
+|
+|upkeep
+|turn|12
+|
+|t:|1780977500
+|move|p2a: Indeedee|Encore|p1a: Deoxys
+|-start|p1a: Deoxys|Encore
+|move|p1a: Deoxys|Light Screen||[still]
+|-fail|p1a: Deoxys
+|
+|upkeep
+|turn|13
+|
+|t:|1780977505
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Indeedee|Healing Wish|p2a: Indeedee
+|faint|p2a: Indeedee
+|
+|upkeep
+|
+|t:|1780977510
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p2a: Hawlucha|Psychic Seed
+|-boost|p2a: Hawlucha|spd|1|[from] item: Psychic Seed
+|turn|14
+|
+|t:|1780977519
+|-terastallize|p2a: Hawlucha|Steel
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|move|p1a: Hatterene|Draining Kiss|p2a: Hawlucha
+|-resisted|p2a: Hawlucha
+|-damage|p2a: Hawlucha|90/100
+|
+|upkeep
+|turn|15
+|j| wuxinshushu1
+|
+|t:|1780977539
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|move|p1a: Hatterene|Mystical Fire|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|49/100
+|-unboost|p2a: Hawlucha|spa|1
+|
+|upkeep
+|turn|16
+|
+|t:|1780977545
+|move|p2a: Hawlucha|Acrobatics|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1780977548
+|switch|p1a: Gliscor|Gliscor, F|100/100
+|turn|17
+|
+|t:|1780977551
+|move|p2a: Hawlucha|Acrobatics|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|
+|upkeep
+|-message|desert97 forfeited.
+|
+|win|Mr.X&Y97
+|raw|desert97's rating: 1630 &rarr; <strong>1610</strong><br />(-20 for losing)
+|raw|Mr.X&amp;Y97's rating: 1630 &rarr; <strong>1650</strong><br />(+20 for winning)
+|l|☆desert97
+|player|p1|
+|l| wuxinshushu1

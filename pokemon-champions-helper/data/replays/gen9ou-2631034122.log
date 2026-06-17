@@ -1,0 +1,446 @@
+|j|☆drqco
+|j|☆cumtd
+|t:|1781328482
+|gametype|singles
+|player|p1|drqco|volkner|1583
+|player|p2|cumtd|blue|1565
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Raging Bolt|
+|poke|p1|Ribombee, F|
+|poke|p1|Gholdengo|
+|poke|p1|Great Tusk|
+|poke|p1|Ogerpon-Cornerstone, F|
+|poke|p1|Ceruledge, M|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Gliscor, F|
+|poke|p2|Blissey, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Dondozo, M|
+|poke|p2|Toxapex, F|
+|teampreview
+|
+|t:|1781328506
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Luinor|Great Tusk, shiny|100/100
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|-enditem|p1a: Luinor|Booster Energy
+|-activate|p1a: Luinor|ability: Protosynthesis|[fromitem]
+|-start|p1a: Luinor|protosynthesisatk
+|turn|1
+|
+|t:|1781328515
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Luinor|Rapid Spin|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781328550
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Luinor|Rapid Spin|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|93/100
+|-boost|p1a: Luinor|spe|1
+|
+|-heal|p2a: Corviknight|99/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781328555
+|move|p1a: Luinor|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|45/100
+|-unboost|p1a: Luinor|def|1
+|-unboost|p1a: Luinor|spd|1
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|
+|-heal|p2a: Corviknight|51/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781328565
+|-end|p1a: Luinor|Protosynthesis|[silent]
+|switch|p1a: Ragnorok|Raging Bolt|100/100
+|-enditem|p1a: Ragnorok|Booster Energy
+|-activate|p1a: Ragnorok|ability: Protosynthesis|[fromitem]
+|-start|p1a: Ragnorok|protosynthesisspa
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|5
+|
+|t:|1781328575
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Ragnorok|Calm Mind|p1a: Ragnorok
+|-boost|p1a: Ragnorok|spa|1
+|-boost|p1a: Ragnorok|spd|1
+|
+|upkeep
+|turn|6
+|
+|t:|1781328580
+|move|p1a: Ragnorok|Thunderbolt|p2a: Blissey
+|-damage|p2a: Blissey|67/100
+|move|p2a: Blissey|Seismic Toss|p1a: Ragnorok
+|-damage|p1a: Ragnorok|75/100
+|
+|-heal|p2a: Blissey|73/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781328586
+|move|p1a: Ragnorok|Thunderbolt|p2a: Blissey
+|-damage|p2a: Blissey|38/100
+|move|p2a: Blissey|Seismic Toss|p1a: Ragnorok
+|-damage|p1a: Ragnorok|49/100
+|
+|-heal|p2a: Blissey|44/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781328590
+|move|p1a: Ragnorok|Calm Mind|p1a: Ragnorok
+|-boost|p1a: Ragnorok|spa|1
+|-boost|p1a: Ragnorok|spd|1
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|94/100
+|
+|-heal|p2a: Blissey|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781328599
+|move|p1a: Ragnorok|Thunderbolt|p2a: Blissey
+|-damage|p2a: Blissey|56/100
+|move|p2a: Blissey|Seismic Toss|p1a: Ragnorok
+|-damage|p1a: Ragnorok|24/100
+|
+|-heal|p2a: Blissey|63/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781328604
+|move|p1a: Ragnorok|Thunderbolt|p2a: Blissey
+|-damage|p2a: Blissey|20/100
+|move|p2a: Blissey|Seismic Toss|p1a: Ragnorok
+|-damage|p1a: Ragnorok|0 fnt
+|faint|p1a: Ragnorok
+|-end|p1a: Ragnorok|Protosynthesis|[silent]
+|
+|-heal|p2a: Blissey|26/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781328612
+|switch|p1a: Thwomp|Ogerpon-Cornerstone, F|100/100
+|turn|11
+|
+|t:|1781328620
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Thwomp|Ivy Cudgel|p2a: Toxapex|[anim] Ivy Cudgel Rock
+|-damage|p2a: Toxapex|59/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781328632
+|move|p1a: Thwomp|Power Whip|p2a: Toxapex
+|-damage|p2a: Toxapex|7/100
+|move|p2a: Toxapex|Toxic|p1a: Thwomp
+|-status|p1a: Thwomp|tox
+|
+|-damage|p1a: Thwomp|95/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1781328640
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Thwomp|Knock Off|p2a: Weezing
+|-resisted|p2a: Weezing
+|-crit|p2a: Weezing
+|-damage|p2a: Weezing|78/100
+|-enditem|p2a: Weezing|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Thwomp
+|
+|-damage|p1a: Thwomp|83/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1781328645
+|move|p1a: Thwomp|Ivy Cudgel|p2a: Weezing|[anim] Ivy Cudgel Rock
+|-damage|p2a: Weezing|33/100
+|move|p2a: Weezing|Toxic Spikes|p1a: Thwomp
+|-sidestart|p1: drqco|move: Toxic Spikes
+|
+|-damage|p1a: Thwomp|65/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1781328654
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Thwomp|Ivy Cudgel|p2a: Corviknight|[anim] Ivy Cudgel Rock
+|-damage|p2a: Corviknight|57/100
+|
+|-heal|p2a: Corviknight|63/100|[from] item: Leftovers
+|-damage|p1a: Thwomp|41/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1781328700
+|switch|p1a: Madame Web|Ribombee, F, shiny|100/100
+|-status|p1a: Madame Web|psn
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-damage|p1a: Madame Web|88/100 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1781328751
+|switch|p2a: Blissey|Blissey, F|26/100
+|move|p1a: Madame Web|Sticky Web|p2a: Blissey
+|-sidestart|p2: cumtd|move: Sticky Web
+|
+|-heal|p2a: Blissey|33/100|[from] item: Leftovers
+|-damage|p1a: Madame Web|76/100 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1781328777
+|switch|p1a: Excalibur|Ceruledge, M, shiny|100/100
+|move|p2a: Blissey|Stealth Rock|p1a: Excalibur
+|-sidestart|p1: drqco|move: Stealth Rock
+|
+|-heal|p2a: Blissey|39/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781328782
+|switch|p2a: Dondozo|Dondozo, M|100/100
+|-activate|p2a: Dondozo|move: Sticky Web
+|-unboost|p2a: Dondozo|spe|1
+|move|p1a: Excalibur|Swords Dance|p1a: Excalibur
+|-boost|p1a: Excalibur|atk|2
+|
+|upkeep
+|turn|20
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by cumtd)
+|
+|t:|1781328856
+|switch|p1a: Cheese Stick|Gholdengo, shiny|100/100
+|-damage|p1a: Cheese Stick|94/100|[from] Stealth Rock
+|-item|p1a: Cheese Stick|Air Balloon
+|move|p2a: Dondozo|Curse|p2a: Dondozo
+|-unboost|p2a: Dondozo|spe|1
+|-boost|p2a: Dondozo|atk|1
+|-boost|p2a: Dondozo|def|1
+|
+|upkeep
+|turn|21
+|
+|t:|1781328866
+|move|p1a: Cheese Stick|Shadow Ball|p2a: Dondozo
+|-damage|p2a: Dondozo|56/100
+|-unboost|p2a: Dondozo|spd|1
+|move|p2a: Dondozo|Waterfall|p1a: Cheese Stick
+|-damage|p1a: Cheese Stick|48/100
+|-enditem|p1a: Cheese Stick|Air Balloon
+|
+|-heal|p2a: Dondozo|62/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781328880
+|switch|p2a: Blissey|Blissey, F|39/100
+|-activate|p2a: Blissey|move: Sticky Web
+|-unboost|p2a: Blissey|spe|1
+|move|p1a: Cheese Stick|Shadow Ball|p2a: Blissey
+|-immune|p2a: Blissey
+|
+|-heal|p2a: Blissey|45/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781328890
+|move|p1a: Cheese Stick|Nasty Plot|p1a: Cheese Stick
+|-boost|p1a: Cheese Stick|spa|2
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|95/100
+|
+|-heal|p2a: Blissey|100/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781328901
+|move|p1a: Cheese Stick|Psyshock|p2a: Blissey
+|-damage|p2a: Blissey|38/100
+|move|p2a: Blissey|Calm Mind|p2a: Blissey
+|-boost|p2a: Blissey|spa|1
+|-boost|p2a: Blissey|spd|1
+|
+|-heal|p2a: Blissey|45/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781328911
+|move|p1a: Cheese Stick|Psyshock|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|faint|p2a: Blissey
+|
+|upkeep
+|
+|t:|1781328913
+|switch|p2a: Gliscor|Gliscor, F|100/100 tox
+|turn|26
+|
+|t:|1781328925
+|-terastallize|p1a: Cheese Stick|Fairy
+|-terastallize|p2a: Gliscor|Dark
+|move|p1a: Cheese Stick|Nasty Plot|p1a: Cheese Stick
+|-boost|p1a: Cheese Stick|spa|2
+|move|p2a: Gliscor|Earthquake|p1a: Cheese Stick
+|-damage|p1a: Cheese Stick|14/100
+|
+|upkeep
+|turn|27
+|
+|t:|1781328933
+|move|p1a: Cheese Stick|Dazzling Gleam|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|upkeep
+|
+|t:|1781328940
+|switch|p2a: Dondozo|Dondozo, M|62/100
+|-activate|p2a: Dondozo|move: Sticky Web
+|-unboost|p2a: Dondozo|spe|1
+|turn|28
+|
+|t:|1781328944
+|move|p1a: Cheese Stick|Shadow Ball|p2a: Dondozo
+|-damage|p2a: Dondozo|17/100
+|move|p2a: Dondozo|Waterfall|p1a: Cheese Stick
+|-damage|p1a: Cheese Stick|0 fnt
+|faint|p1a: Cheese Stick
+|
+|-heal|p2a: Dondozo|23/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781328954
+|switch|p1a: Luinor|Great Tusk, shiny|100/100
+|-status|p1a: Luinor|psn
+|-damage|p1a: Luinor|98/100 psn|[from] Stealth Rock
+|turn|29
+|
+|t:|1781328963
+|-end|p1a: Luinor|Protosynthesis|[silent]
+|switch|p1a: Excalibur|Ceruledge, M, shiny|100/100
+|move|p2a: Dondozo|Rest|p2a: Dondozo
+|-status|p2a: Dondozo|slp|[from] move: Rest
+|-heal|p2a: Dondozo|100/100 slp|[silent]
+|
+|upkeep
+|turn|30
+|
+|t:|1781328969
+|switch|p1a: Thwomp|Ogerpon-Cornerstone, F|41/100 tox
+|-damage|p1a: Thwomp|28/100 tox|[from] Stealth Rock
+|cant|p2a: Dondozo|slp
+|move|p2a: Dondozo|Sleep Talk|p2a: Dondozo
+|move|p2a: Dondozo|Waterfall|p1a: Thwomp|[from] move: Sleep Talk
+|-damage|p1a: Thwomp|0 fnt
+|faint|p1a: Thwomp
+|
+|upkeep
+|
+|t:|1781328979
+|switch|p1a: Madame Web|Ribombee, F, shiny|76/100 psn
+|-damage|p1a: Madame Web|51/100 psn|[from] Stealth Rock
+|turn|31
+|
+|t:|1781328981
+|move|p1a: Madame Web|Skill Swap|p2a: Dondozo
+|-activate|p1a: Madame Web|Skill Swap|Unaware|Shield Dust|[of] p2a: Dondozo
+|cant|p2a: Dondozo|slp
+|move|p2a: Dondozo|Sleep Talk|p2a: Dondozo
+|move|p2a: Dondozo|Curse|p2a: Dondozo|[from] move: Sleep Talk
+|-unboost|p2a: Dondozo|spe|1
+|-boost|p2a: Dondozo|atk|1
+|-boost|p2a: Dondozo|def|1
+|
+|-damage|p1a: Madame Web|39/100 psn|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1781328993
+|move|p1a: Madame Web|Moonblast|p2a: Dondozo
+|-damage|p2a: Dondozo|62/100 slp
+|-curestatus|p2a: Dondozo|slp|[msg]
+|move|p2a: Dondozo|Waterfall|p1a: Madame Web
+|-damage|p1a: Madame Web|0 fnt
+|faint|p1a: Madame Web
+|
+|-heal|p2a: Dondozo|68/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781328996
+|switch|p1a: Excalibur|Ceruledge, M, shiny|100/100
+|turn|33
+|
+|t:|1781328999
+|move|p1a: Excalibur|Swords Dance|p1a: Excalibur
+|-boost|p1a: Excalibur|atk|2
+|move|p2a: Dondozo|Waterfall|p1a: Excalibur
+|-supereffective|p1a: Excalibur
+|-damage|p1a: Excalibur|0 fnt
+|faint|p1a: Excalibur
+|
+|-heal|p2a: Dondozo|74/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781329007
+|switch|p1a: Luinor|Great Tusk, shiny|98/100 psn
+|-damage|p1a: Luinor|95/100 psn|[from] Stealth Rock
+|turn|34
+|
+|t:|1781329010
+|move|p1a: Luinor|Close Combat|p2a: Dondozo
+|-damage|p2a: Dondozo|55/100
+|-unboost|p1a: Luinor|def|1
+|-unboost|p1a: Luinor|spd|1
+|move|p2a: Dondozo|Waterfall|p1a: Luinor
+|-supereffective|p1a: Luinor
+|-damage|p1a: Luinor|0 fnt
+|faint|p1a: Luinor
+|-end|p1a: Luinor|Protosynthesis|[silent]
+|
+|win|cumtd
+|raw|drqco's rating: 1583 &rarr; <strong>1562</strong><br />(-21 for losing)
+|raw|cumtd's rating: 1565 &rarr; <strong>1586</strong><br />(+21 for winning)
+|l|☆drqco
+|player|p1|
+|l|☆cumtd
+|player|p2|

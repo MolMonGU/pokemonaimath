@@ -1,0 +1,416 @@
+|j|☆jhondo
+|j|☆SWAGGER_W2F
+|t:|1781368352
+|gametype|singles
+|player|p1|jhondo|youngster-gen4dp|1502
+|player|p2|SWAGGER_W2F|2|1539
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Latias, F|
+|poke|p1|Glimmora, F|
+|poke|p1|Zamazenta-*|
+|poke|p1|Dragonite, M|
+|poke|p1|Weavile, F|
+|poke|p1|Gholdengo|
+|poke|p2|Ceruledge, M|
+|poke|p2|Scizor, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Primarina, F|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Great Tusk|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jhondo)
+|
+|t:|1781368358
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Weavile|Weavile, F|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|1
+|
+|t:|1781368367
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Scizor|Scizor, M|100/100
+|move|p1a: Weavile|Knock Off|p2a: Scizor
+|-damage|p2a: Scizor|52/100
+|-enditem|p2a: Scizor|Choice Band|[from] move: Knock Off|[of] p1a: Weavile
+|
+|upkeep
+|turn|2
+|
+|t:|1781368378
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|move|p2a: Scizor|Bullet Punch|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|15/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: SWAGGER_W2F|move: Toxic Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1781368386
+|move|p2a: Scizor|Bullet Punch|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: SWAGGER_W2F|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1781368392
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|4
+|
+|t:|1781368397
+|switch|p2a: Mandibuzz|Mandibuzz, F|100/100
+|move|p1a: Zamazenta|Body Press|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|73/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781368404
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Mandibuzz|Defog|p1a: Gholdengo
+|-immune|p1a: Gholdengo|[from] ability: Good as Gold
+|
+|upkeep
+|turn|6
+|
+|t:|1781368414
+|move|p1a: Gholdengo|Shadow Ball|p2a: Mandibuzz
+|-resisted|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|57/100
+|-unboost|p2a: Mandibuzz|spd|1
+|move|p2a: Mandibuzz|U-turn|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|98/100
+|
+|t:|1781368429
+|switch|p2a: Ceruledge|Ceruledge, M|100/100|[from] U-turn
+|-status|p2a: Ceruledge|tox
+|
+|-damage|p2a: Ceruledge|94/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1781368437
+|move|p1a: Gholdengo|Shadow Ball|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|39/100 tox
+|-unboost|p2a: Ceruledge|spd|1
+|move|p2a: Ceruledge|Bitter Blade|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-heal|p2a: Ceruledge|83/100 tox|[from] drain|[of] p1a: Gholdengo
+|faint|p1a: Gholdengo
+|
+|-damage|p2a: Ceruledge|70/100 tox|[from] psn
+|upkeep
+|
+|t:|1781368446
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|8
+|
+|t:|1781368454
+|-terastallize|p2a: Ceruledge|Fighting
+|move|p1a: Weavile|Knock Off|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|45/100 tox
+|-enditem|p2a: Ceruledge|Assault Vest|[from] move: Knock Off|[of] p1a: Weavile
+|move|p2a: Ceruledge|Bitter Blade|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-enditem|p1a: Weavile|Focus Sash
+|-damage|p1a: Weavile|1/100
+|-heal|p2a: Ceruledge|84/100 tox|[from] drain|[of] p1a: Weavile
+|
+|-damage|p2a: Ceruledge|66/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1781368468
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Weavile
+|-resisted|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|-damage|p2a: Ceruledge|41/100 tox|[from] psn
+|upkeep
+|
+|t:|1781368472
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|turn|10
+|
+|t:|1781368477
+|switch|p2a: Mandibuzz|Mandibuzz, F|57/100
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|upkeep
+|turn|11
+|
+|t:|1781368484
+|move|p1a: Zamazenta|Body Press|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|23/100
+|move|p2a: Mandibuzz|Defog|p1a: Zamazenta
+|-unboost|p1a: Zamazenta|evasion|1
+|-sideend|p2: SWAGGER_W2F|Toxic Spikes|[from] move: Defog|[of] p2a: Mandibuzz
+|
+|upkeep
+|turn|12
+|
+|t:|1781368495
+|switch|p2a: Primarina|Primarina, F|100/100
+|move|p1a: Zamazenta|Body Press|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|77/100
+|
+|-heal|p2a: Primarina|83/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781368517
+|move|p1a: Zamazenta|Body Press|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|57/100
+|move|p2a: Primarina|Draining Kiss|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|66/100
+|-heal|p2a: Primarina|84/100|[from] drain|[of] p1a: Zamazenta
+|
+|-heal|p1a: Zamazenta|72/100|[from] item: Leftovers
+|-heal|p2a: Primarina|90/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781368527
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Primarina|Calm Mind|p2a: Primarina
+|-boost|p2a: Primarina|spa|1
+|-boost|p2a: Primarina|spd|1
+|
+|-heal|p1a: Zamazenta|78/100|[from] item: Leftovers
+|-heal|p2a: Primarina|96/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781368536
+|move|p2a: Primarina|Draining Kiss|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|32/100
+|-heal|p2a: Primarina|100/100|[from] drain|[of] p1a: Zamazenta
+|move|p1a: Zamazenta|Roar|p2a: Primarina
+|drag|p2a: Ceruledge|Ceruledge, M, tera:Fighting|41/100 tox
+|
+|-heal|p1a: Zamazenta|38/100|[from] item: Leftovers
+|-damage|p2a: Ceruledge|34/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1781368548
+|switch|p2a: Primarina|Primarina, F|100/100
+|move|p1a: Zamazenta|Body Press|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|60/100
+|
+|-heal|p1a: Zamazenta|44/100|[from] item: Leftovers
+|-heal|p2a: Primarina|66/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781368557
+|move|p2a: Primarina|Draining Kiss|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|14/100
+|-heal|p2a: Primarina|90/100|[from] drain|[of] p1a: Zamazenta
+|move|p1a: Zamazenta|Roar|p2a: Primarina
+|drag|p2a: Great Tusk|Great Tusk|100/100
+|
+|-heal|p1a: Zamazenta|21/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781368569
+|move|p2a: Great Tusk|Close Combat|p1a: Zamazenta
+|-damage|p1a: Zamazenta|4/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Zamazenta|Body Press|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-heal|p1a: Zamazenta|11/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781368581
+|switch|p2a: Primarina|Primarina, F|90/100
+|turn|19
+|
+|t:|1781368584
+|move|p1a: Zamazenta|Body Press|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|54/100
+|move|p2a: Primarina|Draining Kiss|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|-heal|p2a: Primarina|62/100|[from] drain|[of] p1a: Zamazenta
+|faint|p1a: Zamazenta
+|
+|-heal|p2a: Primarina|68/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781368589
+|switch|p1a: Latias|Latias, F|100/100
+|turn|20
+|
+|t:|1781368597
+|-terastallize|p1a: Latias|Poison
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Primarina|Calm Mind|p2a: Primarina
+|-boost|p2a: Primarina|spa|1
+|-boost|p2a: Primarina|spd|1
+|
+|-heal|p2a: Primarina|74/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781368608
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Primarina|Calm Mind|p2a: Primarina
+|-boost|p2a: Primarina|spa|1
+|-boost|p2a: Primarina|spd|1
+|
+|-heal|p2a: Primarina|80/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781368618
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Primarina|Psychic Noise|p1a: Latias
+|-damage|p1a: Latias|82/100
+|-start|p1a: Latias|move: Heal Block
+|
+|-heal|p2a: Primarina|86/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781368629
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Primarina|Calm Mind|p2a: Primarina
+|-boost|p2a: Primarina|spa|1
+|-boost|p2a: Primarina|spd|1
+|
+|-heal|p2a: Primarina|92/100|[from] item: Leftovers
+|-end|p1a: Latias|move: Heal Block
+|upkeep
+|turn|24
+|
+|t:|1781368638
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Primarina|Calm Mind|p2a: Primarina
+|-boost|p2a: Primarina|spa|1
+|-boost|p2a: Primarina|spd|1
+|
+|-heal|p1a: Latias|88/100|[from] item: Leftovers
+|-heal|p2a: Primarina|98/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781368648
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Primarina|Calm Mind|p2a: Primarina
+|-boost|p2a: Primarina|spa|1
+|-boost|p2a: Primarina|spd|1
+|
+|-heal|p1a: Latias|94/100|[from] item: Leftovers
+|-heal|p2a: Primarina|100/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781368657
+|move|p1a: Latias|Stored Power|p2a: Primarina
+|-damage|p2a: Primarina|10/100
+|move|p2a: Primarina|Psychic Noise|p1a: Latias
+|-damage|p1a: Latias|73/100
+|-start|p1a: Latias|move: Heal Block
+|
+|-heal|p2a: Primarina|16/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781368667
+|move|p1a: Latias|Stored Power|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|-end|p1a: Latias|move: Heal Block
+|upkeep
+|
+|t:|1781368676
+|switch|p2a: Scizor|Scizor, M|52/100
+|turn|28
+|
+|t:|1781368679
+|move|p2a: Scizor|Bullet Punch|p1a: Latias
+|-damage|p1a: Latias|40/100
+|move|p1a: Latias|Stored Power|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|-heal|p1a: Latias|46/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781368689
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|29
+|
+|t:|1781368692
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|96/100
+|
+|-heal|p1a: Latias|100/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|-message|SWAGGER_W2F forfeited.
+|
+|win|jhondo
+|raw|jhondo's rating: 1502 &rarr; <strong>1524</strong><br />(+22 for winning)
+|raw|SWAGGER_W2F's rating: 1539 &rarr; <strong>1517</strong><br />(-22 for losing)
+|l|☆SWAGGER_W2F
+|player|p2|
+|l|☆jhondo
+|player|p1|

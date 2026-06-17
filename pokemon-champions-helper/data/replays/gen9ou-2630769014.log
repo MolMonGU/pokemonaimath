@@ -1,0 +1,638 @@
+|j|☆Igoodnamename
+|j|☆juli<33
+|t:|1781292924
+|gametype|singles
+|player|p1|Igoodnamename|winona|1691
+|player|p2|juli<33|caitlin-masters|1692
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Raging Bolt|
+|poke|p1|Rillaboom, F|
+|poke|p1|Great Tusk|
+|poke|p1|Ting-Lu|
+|poke|p1|Skeledirge, F|
+|poke|p1|Enamorus, F|
+|poke|p2|Kyurem|
+|poke|p2|Corviknight, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Dondozo, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Cinderace, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by juli<33)
+|
+|t:|1781292948
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Skeledirge|Skeledirge, F|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781292964
+|move|p2a: Kyurem|Earth Power|p1a: Skeledirge
+|-supereffective|p1a: Skeledirge
+|-damage|p1a: Skeledirge|30/100
+|move|p1a: Skeledirge|Will-O-Wisp|p2a: Kyurem
+|-status|p2a: Kyurem|brn
+|
+|-damage|p2a: Kyurem|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1781292983
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Kyurem|Earth Power|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|69/100
+|
+|-heal|p2a: Kyurem|100/100 brn|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|75/100|[from] Grassy Terrain
+|-damage|p2a: Kyurem|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1781293008
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Rillaboom|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|95/100
+|-damage|p1a: Rillaboom|58/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|t:|1781293010
+|switch|p1a: Skeledirge|Skeledirge, F|30/100|[from] U-turn
+|
+|-heal|p1a: Skeledirge|36/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781293031
+|move|p1a: Skeledirge|Slack Off|p1a: Skeledirge
+|-heal|p1a: Skeledirge|86/100
+|move|p2a: Corviknight|U-turn|p1a: Skeledirge
+|-resisted|p1a: Skeledirge
+|-crit|p1a: Skeledirge
+|-damage|p1a: Skeledirge|82/100
+|
+|t:|1781293034
+|switch|p2a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|
+|-heal|p1a: Skeledirge|88/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781293040
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Slowking|Toxic|p1a: Ting-Lu
+|-status|p1a: Ting-Lu|tox
+|
+|-damage|p1a: Ting-Lu|94/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1781293042
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Slowking
+|-sidestart|p2: juli<33|move: Stealth Rock
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781293047
+|switch|p2a: Corviknight|Corviknight, F|95/100|[from] Chilly Reception
+|-damage|p2a: Corviknight|82/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|100/100 tox|[from] Grassy Terrain
+|-damage|p1a: Ting-Lu|88/100 tox|[from] psn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781293050
+|switch|p1a: Skeledirge|Skeledirge, F|88/100
+|move|p2a: Corviknight|Defog|p1a: Skeledirge
+|-unboost|p1a: Skeledirge|evasion|1
+|-sideend|p2: juli<33|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781293053
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Skeledirge|Will-O-Wisp|p2a: Slowking
+|-status|p2a: Slowking|brn
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Slowking|94/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1781293056
+|move|p1a: Skeledirge|Hex|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|36/100 brn
+|move|p2a: Slowking|Toxic|p1a: Skeledirge
+|-status|p1a: Skeledirge|tox
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Skeledirge|82/100 tox|[from] psn
+|-damage|p2a: Slowking|30/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1781293061
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|move|p1a: Skeledirge|Will-O-Wisp|p2a: Cinderace
+|-immune|p2a: Cinderace
+|
+|-weather|none
+|-damage|p1a: Skeledirge|70/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1781293064
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|move|p2a: Cinderace|U-turn|p1a: Raging Bolt
+|-crit|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|76/100
+|
+|t:|1781293068
+|switch|p2a: Slowking|Slowking-Galar, M|63/100 brn|[from] U-turn
+|
+|-damage|p2a: Slowking|57/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1781293072
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-unboost|p1a: Raging Bolt|spa|2
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781293076
+|switch|p2a: Kyurem|Kyurem|94/100 brn
+|-ability|p2a: Kyurem|Pressure
+|turn|13
+|
+|t:|1781293087
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Skeledirge|Skeledirge, F|70/100 tox
+|move|p2a: Kyurem|Draco Meteor|p1a: Skeledirge|[miss]
+|-miss|p2a: Kyurem|p1a: Skeledirge
+|
+|-damage|p1a: Skeledirge|64/100 tox|[from] psn
+|-damage|p2a: Kyurem|88/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781293093
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|move|p2a: Kyurem|Draco Meteor|p1a: Enamorus
+|-immune|p1a: Enamorus
+|
+|-damage|p2a: Kyurem|82/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781293100
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|move|p1a: Enamorus|Mystical Fire|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-damage|p2a: Cinderace|83/100
+|-unboost|p2a: Cinderace|spa|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781293105
+|switch|p1a: Raging Bolt|Raging Bolt|76/100
+|move|p2a: Cinderace|Pyro Ball|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|55/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781293109
+|move|p2a: Cinderace|U-turn|p1a: Raging Bolt
+|-crit|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|30/100
+|
+|t:|1781293111
+|switch|p2a: Ting-Lu|Ting-Lu|100/100|[from] U-turn
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|55/100
+|-unboost|p1a: Raging Bolt|spa|2
+|
+|-heal|p2a: Ting-Lu|62/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781293119
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Rillaboom|Rillaboom, F|58/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Ting-Lu|Payback|p1a: Rillaboom
+|-damage|p1a: Rillaboom|39/100
+|
+|-heal|p1a: Rillaboom|45/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|68/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|74/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781293125
+|switch|p2a: Cinderace|Cinderace, F|83/100
+|move|p1a: Rillaboom|Knock Off|p2a: Cinderace
+|-damage|p2a: Cinderace|19/100
+|-enditem|p2a: Cinderace|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Rillaboom
+|
+|-heal|p2a: Cinderace|25/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|51/100|[from] Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1781293137
+|switch|p1a: Skeledirge|Skeledirge, F|64/100 tox
+|move|p2a: Cinderace|Pyro Ball|p1a: Skeledirge
+|-resisted|p1a: Skeledirge
+|-damage|p1a: Skeledirge|36/100 tox
+|
+|-heal|p2a: Cinderace|31/100|[from] Grassy Terrain
+|-heal|p1a: Skeledirge|42/100 tox|[from] Grassy Terrain
+|-damage|p1a: Skeledirge|36/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1781293143
+|move|p2a: Cinderace|Pyro Ball|p1a: Skeledirge
+|-resisted|p1a: Skeledirge
+|-damage|p1a: Skeledirge|9/100 tox
+|move|p1a: Skeledirge|Slack Off|p1a: Skeledirge
+|-heal|p1a: Skeledirge|59/100 tox
+|
+|-heal|p2a: Cinderace|38/100|[from] Grassy Terrain
+|-heal|p1a: Skeledirge|65/100 tox|[from] Grassy Terrain
+|-damage|p1a: Skeledirge|53/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1781293151
+|move|p2a: Cinderace|Pyro Ball|p1a: Skeledirge
+|-resisted|p1a: Skeledirge
+|-damage|p1a: Skeledirge|33/100 tox
+|move|p1a: Skeledirge|Slack Off|p1a: Skeledirge
+|-heal|p1a: Skeledirge|83/100 tox
+|
+|-heal|p2a: Cinderace|44/100|[from] Grassy Terrain
+|-heal|p1a: Skeledirge|89/100 tox|[from] Grassy Terrain
+|-damage|p1a: Skeledirge|71/100 tox|[from] psn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|23
+|
+|t:|1781293158
+|move|p2a: Cinderace|U-turn|p1a: Skeledirge
+|-resisted|p1a: Skeledirge
+|-damage|p1a: Skeledirge|67/100 tox
+|
+|t:|1781293161
+|switch|p2a: Ting-Lu|Ting-Lu|74/100|[from] U-turn
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Skeledirge|Hex|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|69/100
+|
+|-heal|p2a: Ting-Lu|75/100|[from] item: Leftovers
+|-damage|p1a: Skeledirge|43/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1781293167
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|switch|p2a: Cinderace|Cinderace, F|44/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781293184
+|-terastallize|p2a: Cinderace|Flying
+|move|p2a: Cinderace|Will-O-Wisp|p1a: Great Tusk
+|-status|p1a: Great Tusk|brn
+|move|p1a: Great Tusk|Close Combat|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-damage|p2a: Cinderace|25/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-damage|p1a: Great Tusk|94/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1781293193
+|move|p2a: Cinderace|U-turn|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|84/100 brn
+|
+|t:|1781293195
+|switch|p2a: Corviknight|Corviknight, F|82/100|[from] U-turn
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Great Tusk|Ice Spinner|p2a: Corviknight
+|-damage|p2a: Corviknight|75/100
+|-damage|p1a: Great Tusk|68/100 brn|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|-damage|p1a: Great Tusk|62/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1781293199
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|30/100
+|move|p2a: Corviknight|U-turn|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|17/100
+|
+|t:|1781293202
+|switch|p2a: Kyurem|Kyurem|82/100 brn|[from] U-turn
+|-ability|p2a: Kyurem|Pressure
+|
+|-damage|p2a: Kyurem|76/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1781293208
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Great Tusk|Great Tusk|62/100 brn
+|move|p2a: Kyurem|Freeze-Dry|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-damage|p2a: Kyurem|70/100 brn|[from] brn
+|upkeep
+|
+|t:|1781293223
+|switch|p1a: Skeledirge|Skeledirge, F|43/100 tox
+|turn|29
+|
+|t:|1781293233
+|switch|p2a: Dondozo|Dondozo, F|100/100
+|move|p1a: Skeledirge|Hex|p2a: Dondozo
+|-damage|p2a: Dondozo|77/100
+|
+|-heal|p2a: Dondozo|83/100|[from] item: Leftovers
+|-damage|p1a: Skeledirge|37/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1781293240
+|move|p1a: Skeledirge|Will-O-Wisp|p2a: Dondozo
+|-status|p2a: Dondozo|brn
+|move|p2a: Dondozo|Waterfall|p1a: Skeledirge
+|-supereffective|p1a: Skeledirge
+|-damage|p1a: Skeledirge|16/100 tox
+|
+|-heal|p2a: Dondozo|90/100 brn|[from] item: Leftovers
+|-damage|p1a: Skeledirge|3/100 tox|[from] psn
+|-damage|p2a: Dondozo|83/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1781293244
+|move|p1a: Skeledirge|Hex|p2a: Dondozo
+|-damage|p2a: Dondozo|37/100 brn
+|move|p2a: Dondozo|Waterfall|p1a: Skeledirge
+|-supereffective|p1a: Skeledirge
+|-damage|p1a: Skeledirge|0 fnt
+|faint|p1a: Skeledirge
+|
+|-heal|p2a: Dondozo|44/100 brn|[from] item: Leftovers
+|-damage|p2a: Dondozo|37/100 brn|[from] brn
+|upkeep
+|
+|t:|1781293249
+|switch|p1a: Rillaboom|Rillaboom, F|51/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|32
+|
+|t:|1781293253
+|move|p1a: Rillaboom|U-turn|p2a: Dondozo
+|-damage|p2a: Dondozo|19/100 brn
+|
+|t:|1781293256
+|switch|p1a: Raging Bolt|Raging Bolt|17/100|[from] U-turn
+|move|p2a: Dondozo|Rest|p2a: Dondozo
+|-status|p2a: Dondozo|slp|[from] move: Rest
+|-heal|p2a: Dondozo|100/100 slp|[silent]
+|
+|-heal|p1a: Raging Bolt|23/100|[from] Grassy Terrain
+|upkeep
+|turn|33
+|
+|t:|1781293270
+|switch|p2a: Ting-Lu|Ting-Lu|75/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|-terastallize|p1a: Raging Bolt|Dragon
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|16/100
+|-unboost|p1a: Raging Bolt|spa|2
+|
+|-heal|p1a: Raging Bolt|29/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|22/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|28/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1781293282
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|-unboost|p1a: Raging Bolt|spa|2
+|faint|p2a: Ting-Lu
+|
+|-heal|p1a: Raging Bolt|36/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781293285
+|switch|p2a: Cinderace|Cinderace, F, tera:Flying|25/100
+|turn|35
+|
+|t:|1781293291
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Ting-Lu|Ting-Lu|88/100 tox
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Cinderace|Pyro Ball|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|50/100 tox
+|
+|-heal|p1a: Ting-Lu|56/100 tox|[from] Grassy Terrain
+|-heal|p1a: Ting-Lu|62/100 tox|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|56/100 tox|[from] psn
+|upkeep
+|turn|36
+|
+|t:|1781293295
+|move|p2a: Cinderace|Pyro Ball|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|16/100 tox
+|move|p1a: Ting-Lu|Whirlwind|p2a: Cinderace
+|drag|p2a: Dondozo|Dondozo, F|100/100 slp
+|
+|-heal|p1a: Ting-Lu|23/100 tox|[from] Grassy Terrain
+|-heal|p1a: Ting-Lu|29/100 tox|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|16/100 tox|[from] psn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|37
+|
+|t:|1781293302
+|switch|p2a: Cinderace|Cinderace, F, tera:Flying|25/100
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Cinderace
+|-sidestart|p2: juli<33|move: Stealth Rock
+|
+|-heal|p1a: Ting-Lu|23/100 tox|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|4/100 tox|[from] psn
+|upkeep
+|turn|38
+|
+|t:|1781293305
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Cinderace
+|-sidestart|p2: juli<33|move: Stealth Rock
+|
+|-heal|p1a: Ting-Lu|10/100 tox|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|0 fnt|[from] psn
+|faint|p1a: Ting-Lu
+|upkeep
+|
+|t:|1781293311
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|-damage|p1a: Enamorus|76/100|[from] Stealth Rock
+|turn|39
+|
+|t:|1781293323
+|move|p1a: Enamorus|Mystical Fire|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|upkeep
+|j| JensPaulVI
+|
+|t:|1781293326
+|switch|p2a: Dondozo|Dondozo, F|100/100 slp
+|-damage|p2a: Dondozo|88/100 slp|[from] Stealth Rock
+|turn|40
+|
+|t:|1781293329
+|switch|p1a: Rillaboom|Rillaboom, F|51/100
+|-damage|p1a: Rillaboom|39/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|cant|p2a: Dondozo|slp
+|
+|-heal|p1a: Rillaboom|45/100|[from] Grassy Terrain
+|-heal|p2a: Dondozo|94/100 slp|[from] Grassy Terrain
+|-heal|p2a: Dondozo|100/100 slp|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1781293333
+|switch|p2a: Corviknight|Corviknight, F|75/100
+|-damage|p2a: Corviknight|62/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Rillaboom|Wood Hammer|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|42/100
+|-damage|p1a: Rillaboom|28/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-damage|p1a: Rillaboom|20/100|[from] Recoil
+|
+|-heal|p1a: Rillaboom|27/100|[from] Grassy Terrain
+|upkeep
+|turn|42
+|l| JensPaulVI
+|
+|t:|1781293338
+|move|p1a: Rillaboom|Wood Hammer|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|23/100
+|-damage|p1a: Rillaboom|10/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-damage|p1a: Rillaboom|3/100|[from] Recoil
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|73/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p1a: Rillaboom|9/100|[from] Grassy Terrain
+|-heal|p2a: Corviknight|79/100|[from] Grassy Terrain
+|upkeep
+|turn|43
+|
+|t:|1781293342
+|move|p1a: Rillaboom|Wood Hammer|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|60/100
+|-damage|p1a: Rillaboom|0 fnt|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p1a: Rillaboom
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|
+|t:|1781293345
+|switch|p1a: Raging Bolt|Raging Bolt, tera:Dragon|36/100
+|-damage|p1a: Raging Bolt|23/100|[from] Stealth Rock
+|turn|44
+|
+|t:|1781293356
+|move|p1a: Raging Bolt|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|t:|1781293359
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Enamorus|Enamorus, F|76/100|[from] Volt Switch
+|-damage|p1a: Enamorus|51/100|[from] Stealth Rock
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781293362
+|switch|p2a: Dondozo|Dondozo, F|100/100 slp
+|-damage|p2a: Dondozo|88/100 slp|[from] Stealth Rock
+|turn|45
+|
+|t:|1781293368
+|move|p1a: Enamorus|Moonblast|p2a: Dondozo
+|-damage|p2a: Dondozo|37/100 slp
+|-unboost|p2a: Dondozo|spa|1
+|cant|p2a: Dondozo|slp
+|
+|-heal|p2a: Dondozo|43/100 slp|[from] item: Leftovers
+|upkeep
+|turn|46
+|-message|juli<33 forfeited.
+|
+|win|Igoodnamename
+|raw|Igoodnamename's rating: 1691 &rarr; <strong>1711</strong><br />(+20 for winning)
+|raw|juli&lt;33's rating: 1692 &rarr; <strong>1672</strong><br />(-20 for losing)
+|l|☆juli<33
+|player|p2|
+|c|☆Igoodnamename|ggs

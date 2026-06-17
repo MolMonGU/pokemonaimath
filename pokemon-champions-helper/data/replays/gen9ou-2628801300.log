@@ -1,0 +1,191 @@
+|badge|p2|bronze|gen9ubers|100-9
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆dsekop
+|j|☆DriftedEx
+|t:|1781056803
+|gametype|singles
+|player|p1|dsekop|unknown|1666
+|player|p2|DriftedEx|rocketgrunt|1639
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Glimmora, M|
+|poke|p1|Iron Treads|
+|poke|p1|Polteageist-Antique|
+|poke|p1|Raging Bolt|
+|poke|p1|Dragonite, M|
+|poke|p1|Zamazenta-*|
+|poke|p2|Dragapult, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Iron Crown|
+|poke|p2|Zapdos|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DriftedEx)
+|
+|t:|1781056822
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781056829
+|move|p1a: Iron Treads|Knock Off|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|94/100
+|-enditem|p2a: Ting-Lu|Leftovers|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Iron Treads
+|-sidestart|p1: dsekop|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781056838
+|move|p1a: Iron Treads|Rapid Spin|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|87/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: dsekop|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Ting-Lu|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|45/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781056842
+|move|p1a: Iron Treads|Endeavor|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|34/100
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Iron Treads
+|-sidestart|p1: dsekop|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1781056847
+|move|p1a: Iron Treads|Rapid Spin|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|27/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: dsekop|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Ting-Lu|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781056851
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|turn|5
+|
+|t:|1781056856
+|move|p1a: Glimmora|Energy Ball|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781056858
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|turn|6
+|
+|t:|1781056866
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|-terastallize|p2a: Iron Crown|Steel
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|75/100
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|52/100
+|-hitcount|p1a: Raging Bolt|2
+|
+|upkeep
+|turn|7
+|
+|t:|1781056875
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|
+|upkeep
+|turn|8
+|
+|t:|1781056877
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|32/100
+|move|p2a: Dragonite|Earthquake|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781056881
+|switch|p1a: Polteageist|Polteageist-Antique|100/100
+|turn|9
+|
+|t:|1781056885
+|switch|p2a: Iron Crown|Iron Crown, tera:Steel|100/100
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|
+|upkeep
+|turn|10
+|
+|t:|1781056891
+|-terastallize|p1a: Polteageist|Ghost
+|move|p1a: Polteageist|Shadow Ball|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|j| dalty dalty dalty
+|
+|t:|1781056899
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|11
+|
+|t:|1781056905
+|move|p1a: Polteageist|Shadow Ball|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|-start|p1a: Polteageist|Disable|Shadow Ball|[from] ability: Cursed Body|[of] p2a: Dragapult
+|faint|p2a: Dragapult
+|
+|upkeep
+|-message|DriftedEx forfeited.
+|
+|win|dsekop
+|raw|dsekop's rating: 1666 &rarr; <strong>1684</strong><br />(+18 for winning)
+|raw|DriftedEx's rating: 1639 &rarr; <strong>1621</strong><br />(-18 for losing)
+|l|☆DriftedEx
+|player|p2|
+|l| dalty dalty dalty

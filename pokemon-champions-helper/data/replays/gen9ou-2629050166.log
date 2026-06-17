@@ -1,0 +1,280 @@
+|j|☆DuckyBro
+|j|☆cachowcapow
+|t:|1781093300
+|gametype|singles
+|player|p1|DuckyBro|dragontamer|1662
+|player|p2|cachowcapow|265|1658
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cinderace, F|
+|poke|p1|Dondozo, M|
+|poke|p1|Zapdos|
+|poke|p1|Garchomp, M|
+|poke|p1|Kyurem|
+|poke|p1|Volcanion|
+|poke|p2|Primarina, F|
+|poke|p2|Slither Wing|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Great Tusk|
+|poke|p2|Meowscarada, F|
+|poke|p2|Gardevoir, M|
+|teampreview
+|
+|t:|1781093335
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Gardevoir|Gardevoir, M, shiny|100/100
+|-ability|p2a: Gardevoir|Static|Trace|[from] ability: Trace|[of] p1a: Zapdos
+|turn|1
+|
+|t:|1781093343
+|move|p1a: Zapdos|Hurricane|p2a: Gardevoir|[miss]
+|-miss|p1a: Zapdos|p2a: Gardevoir
+|move|p2a: Gardevoir|Moonblast|p1a: Zapdos
+|-damage|p1a: Zapdos|6/100
+|-unboost|p1a: Zapdos|spa|1
+|
+|upkeep
+|turn|2
+|
+|t:|1781093349
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Zapdos|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|63/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781093354
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781093357
+|switch|p2a: Gardevoir|Gardevoir, M, shiny|100/100|[from] Chilly Reception
+|-ability|p2a: Gardevoir|Rough Skin|Trace|[from] ability: Trace|[of] p1a: Garchomp
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781093363
+|-terastallize|p1a: Garchomp|Steel
+|move|p1a: Garchomp|Iron Head|p2a: Gardevoir
+|-supereffective|p2a: Gardevoir
+|-damage|p2a: Gardevoir|0 fnt
+|-damage|p1a: Garchomp|88/100|[from] ability: Rough Skin|[of] p2a: Gardevoir
+|faint|p2a: Gardevoir
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781093370
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|5
+|
+|t:|1781093373
+|switch|p1a: Zapdos|Zapdos|6/100
+|move|p2a: Great Tusk|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|-enditem|p1a: Zapdos|Choice Specs|[from] move: Knock Off|[of] p2a: Great Tusk
+|faint|p1a: Zapdos
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781093379
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|6
+|
+|t:|1781093386
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|96/100
+|move|p1a: Kyurem|Draco Meteor|p2a: Slowking
+|-damage|p2a: Slowking|42/100
+|-unboost|p1a: Kyurem|spa|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781093390
+|switch|p1a: Garchomp|Garchomp, M, tera:Steel|88/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1781093395
+|switch|p2a: Slither Wing|Slither Wing|100/100|[from] Chilly Reception
+|
+|-weather|none
+|upkeep
+|turn|8
+|
+|t:|1781093400
+|move|p1a: Garchomp|Scale Shot|p2a: Slither Wing
+|-damage|p2a: Slither Wing|90/100
+|-damage|p2a: Slither Wing|79/100
+|-damage|p2a: Slither Wing|67/100
+|-damage|p2a: Slither Wing|56/100
+|-hitcount|p2a: Slither Wing|4
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Slither Wing|U-turn|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|64/100
+|-damage|p2a: Slither Wing|44/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|t:|1781093405
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Meowscarada|Meowscarada, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|9
+|
+|t:|1781093408
+|move|p2a: Meowscarada|Knock Off|p1a: Garchomp
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Meowscarada|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-enditem|p1a: Garchomp|Loaded Dice|[from] move: Knock Off|[of] p2a: Meowscarada
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1781093415
+|switch|p1a: Volcanion|Volcanion|100/100
+|turn|10
+|
+|t:|1781093419
+|switch|p2a: Slowking|Slowking-Galar, M|75/100
+|move|p1a: Volcanion|Fire Blast|p2a: Slowking
+|-damage|p2a: Slowking|41/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781093422
+|move|p1a: Volcanion|Steam Eruption|p2a: Slowking
+|-damage|p2a: Slowking|6/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781093429
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781093433
+|move|p2a: Great Tusk|Headlong Rush|p1a: Volcanion
+|-supereffective|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Volcanion
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781093436
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|13
+|
+|t:|1781093449
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Slither Wing|Slither Wing|44/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Slither Wing
+|-damage|p2a: Slither Wing|0 fnt
+|faint|p2a: Slither Wing
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781093477
+|switch|p2a: Slowking|Slowking-Galar, M|40/100
+|turn|14
+|
+|t:|1781093489
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1781093495
+|switch|p2a: Primarina|Primarina, F, shiny|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781093499
+|move|p1a: Cinderace|Pyro Ball|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|73/100
+|move|p2a: Primarina|Calm Mind|p2a: Primarina
+|-boost|p2a: Primarina|spa|1
+|-boost|p2a: Primarina|spd|1
+|
+|-weather|none
+|-heal|p2a: Primarina|79/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781093502
+|move|p1a: Cinderace|U-turn|p2a: Primarina
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|65/100
+|j| yuureisuisei
+|
+|t:|1781093505
+|switch|p1a: Kyurem|Kyurem|100/100|[from] U-turn
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Primarina|Draining Kiss|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|36/100
+|-heal|p2a: Primarina|100/100|[from] drain|[of] p1a: Kyurem
+|
+|upkeep
+|turn|17
+|
+|t:|1781093509
+|move|p1a: Kyurem|Freeze-Dry|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|35/100
+|move|p2a: Primarina|Draining Kiss|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|-heal|p2a: Primarina|63/100|[from] drain|[of] p1a: Kyurem
+|faint|p1a: Kyurem
+|
+|-heal|p2a: Primarina|69/100|[from] item: Leftovers
+|upkeep
+|-message|DuckyBro forfeited.
+|
+|win|cachowcapow
+|raw|DuckyBro's rating: 1662 &rarr; <strong>1642</strong><br />(-20 for losing)
+|raw|cachowcapow's rating: 1658 &rarr; <strong>1678</strong><br />(+20 for winning)
+|c|☆DuckyBro|wp
+|l| yuureisuisei
+|l|☆DuckyBro
+|player|p1|
+|l|☆cachowcapow
+|player|p2|

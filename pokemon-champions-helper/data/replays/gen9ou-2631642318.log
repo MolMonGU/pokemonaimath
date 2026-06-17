@@ -1,0 +1,230 @@
+|j|☆noob_2_bad
+|j|☆Astelzhang
+|t:|1781413554
+|gametype|singles
+|player|p1|noob_2_bad|265|1563
+|player|p2|Astelzhang|265|1516
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Dragapult, F|
+|poke|p1|Pecharunt|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, F|
+|poke|p2|Garganacl, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Moltres|
+|poke|p2|Great Tusk|
+|poke|p2|Iron Crown|
+|poke|p2|Meowscarada, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Astelzhang)
+|j| peeekapeee
+|
+|t:|1781413570
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781413597
+|move|p1a: Iron Treads|Knock Off|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|39/100
+|-enditem|p2a: Iron Crown|Choice Specs|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: Iron Crown|Focus Blast|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|inactive|noob_2_bad has 120 seconds left.
+|
+|t:|1781413607
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|2
+|
+|t:|1781413612
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Meowscarada|[anim] Ivy Cudgel Water
+|-resisted|p2a: Meowscarada
+|-damage|p2a: Meowscarada|52/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781413623
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Meowscarada|U-turn|p1a: Zamazenta
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|87/100
+|
+|t:|1781413633
+|switch|p2a: Moltres|Moltres|100/100|[from] U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1781413639
+|move|p1a: Zamazenta|Light Screen|p1a: Zamazenta
+|-sidestart|p1: noob_2_bad|move: Light Screen
+|move|p2a: Moltres|Hurricane|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|19/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781413646
+|move|p1a: Zamazenta|Reflect|p1a: Zamazenta
+|-sidestart|p1: noob_2_bad|Reflect
+|move|p2a: Moltres|Hurricane|p1a: Zamazenta|[miss]
+|-miss|p2a: Moltres|p1a: Zamazenta
+|
+|upkeep
+|turn|6
+|
+|t:|1781413651
+|move|p2a: Moltres|Hurricane|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|upkeep
+|
+|t:|1781413661
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|7
+|
+|t:|1781413665
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Moltres|Hurricane|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1781413687
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|8
+|
+|t:|1781413692
+|switch|p2a: Meowscarada|Meowscarada, F|52/100
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|upkeep
+|turn|9
+|
+|t:|1781413703
+|move|p2a: Meowscarada|Flower Trick|p1a: Ogerpon
+|-start|p2a: Meowscarada|typechange|Grass|[from] ability: Protean
+|-crit|p1a: Ogerpon
+|-damage|p1a: Ogerpon|3/100
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Meowscarada|[anim] Ivy Cudgel Water
+|-resisted|p2a: Meowscarada
+|-damage|p2a: Meowscarada|0 fnt
+|faint|p2a: Meowscarada
+|
+|upkeep
+|
+|t:|1781413716
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|10
+|
+|t:|1781413719
+|move|p2a: Dragapult|U-turn|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|t:|1781413729
+|switch|p2a: Moltres|Moltres|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781413733
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|turn|11
+|
+|t:|1781413736
+|move|p1a: Pecharunt|Nasty Plot|p1a: Pecharunt
+|-boost|p1a: Pecharunt|spa|2
+|move|p2a: Moltres|Scorching Sands|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|64/100
+|
+|-heal|p1a: Pecharunt|70/100|[from] item: Leftovers
+|-sideend|p1: noob_2_bad|move: Light Screen
+|upkeep
+|turn|12
+|
+|t:|1781413746
+|move|p1a: Pecharunt|Malignant Chain|p2a: Moltres
+|-damage|p2a: Moltres|35/100
+|-status|p2a: Moltres|tox
+|-start|p2a: Moltres|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|-activate|p2a: Moltres|confusion
+|move|p2a: Moltres|Scorching Sands|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|faint|p1a: Pecharunt
+|
+|-damage|p2a: Moltres|29/100 tox|[from] psn
+|-sideend|p1: noob_2_bad|Reflect
+|upkeep
+|
+|t:|1781413753
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|turn|13
+|
+|t:|1781413762
+|-activate|p2a: Moltres|confusion
+|move|p2a: Moltres|Scorching Sands|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|9/100
+|-status|p1a: Kingambit|brn
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|15/100 brn|[from] item: Leftovers
+|-damage|p2a: Moltres|17/100 tox|[from] psn
+|-damage|p1a: Kingambit|9/100 brn|[from] brn
+|upkeep
+|turn|14
+|-message|noob_2_bad forfeited.
+|
+|win|Astelzhang
+|raw|noob_2_bad's rating: 1563 &rarr; <strong>1540</strong><br />(-23 for losing)
+|raw|Astelzhang's rating: 1516 &rarr; <strong>1539</strong><br />(+23 for winning)
+|l|☆noob_2_bad
+|player|p1|
+|l|☆Astelzhang
+|player|p2|
+|l| peeekapeee

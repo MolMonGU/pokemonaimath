@@ -1,0 +1,541 @@
+|j|☆rockeater9000
+|j|☆looniertunes
+|t:|1781460518
+|gametype|singles
+|player|p1|rockeater9000|170|1603
+|player|p2|looniertunes|cynthia|1568
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Greninja-*, M|
+|poke|p1|Glimmora, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Kingambit, M|
+|poke|p1|Gholdengo|
+|poke|p2|Tyranitar, F|
+|poke|p2|Sinistcha|
+|poke|p2|Conkeldurr, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Primarina, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by rockeater9000)
+|
+|t:|1781460549
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|switch|p2a: Primarina|Primarina, M|100/100
+|turn|1
+|
+|t:|1781460573
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Glimmora|Meteor Beam||[still]
+|-prepare|p1a: Glimmora|Meteor Beam
+|-boost|p1a: Glimmora|spa|1
+|-enditem|p1a: Glimmora|Power Herb
+|-anim|p1a: Glimmora|Meteor Beam|p2a: Tyranitar
+|-damage|p2a: Tyranitar|65/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781460593
+|move|p1a: Glimmora|Stealth Rock|p2a: Tyranitar
+|-sidestart|p2: looniertunes|move: Stealth Rock
+|move|p2a: Tyranitar|Thunder Wave|p1a: Glimmora
+|-status|p1a: Glimmora|par
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781460598
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Glimmora|Earth Power|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781460602
+|move|p2a: Corviknight|Defog|p1a: Glimmora
+|-unboost|p1a: Glimmora|evasion|1
+|-sideend|p2: looniertunes|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: Glimmora|Meteor Beam||[still]
+|-prepare|p1a: Glimmora|Meteor Beam
+|-boost|p1a: Glimmora|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781460607
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Glimmora|Meteor Beam|p2a: Corviknight|[from] lockedmove
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|42/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781460613
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|92/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Glimmora|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: looniertunes|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781460617
+|move|p2a: Corviknight|U-turn|p1a: Glimmora
+|-resisted|p1a: Glimmora
+|-crit|p1a: Glimmora
+|-damage|p1a: Glimmora|87/100 par
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: looniertunes|move: Toxic Spikes
+|
+|t:|1781460621
+|switch|p2a: Excadrill|Excadrill, M|100/100|[from] U-turn
+|-damage|p2a: Excadrill|97/100|[from] Stealth Rock
+|cant|p1a: Glimmora|par
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781460625
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Excadrill|Earthquake|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781460633
+|switch|p1a: Greninja|Greninja, M|100/100
+|switch|p2a: Corviknight|Corviknight, F|92/100
+|-damage|p2a: Corviknight|79/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|
+|upkeep
+|turn|10
+|
+|t:|1781460636
+|move|p1a: Greninja|Surf|p2a: Corviknight
+|-damage|p2a: Corviknight|26/100
+|-damage|p1a: Greninja|91/100|[from] item: Life Orb
+|move|p2a: Corviknight|Defog|p1a: Greninja
+|-unboost|p1a: Greninja|evasion|1
+|-sideend|p2: looniertunes|Toxic Spikes|[from] move: Defog|[of] p2a: Corviknight
+|-sideend|p2: looniertunes|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|11
+|
+|t:|1781460647
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|switch|p2a: Primarina|Primarina, M|100/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781460655
+|move|p2a: Primarina|Moonblast|p1a: Kingambit
+|-damage|p1a: Kingambit|47/100
+|move|p1a: Kingambit|Iron Head|p2a: Primarina
+|-damage|p2a: Primarina|36/100
+|
+|upkeep
+|turn|13
+|inactive|rockeater9000 has 120 seconds left.
+|
+|t:|1781460698
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Primarina|Surf|p1a: Gholdengo
+|-damage|p1a: Gholdengo|43/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|upkeep
+|turn|14
+|
+|t:|1781460709
+|move|p1a: Gholdengo|Make It Rain|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Primarina
+|
+|upkeep
+|
+|t:|1781460720
+|switch|p2a: Corviknight|Corviknight, F|26/100
+|-ability|p2a: Corviknight|Pressure
+|turn|15
+|
+|t:|1781460724
+|move|p1a: Gholdengo|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781460732
+|switch|p2a: Excadrill|Excadrill, M|97/100
+|turn|16
+|
+|t:|1781460745
+|switch|p1a: Glimmora|Glimmora, F|87/100 par
+|move|p2a: Excadrill|Earthquake|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: looniertunes|move: Toxic Spikes
+|faint|p1a: Glimmora
+|-damage|p2a: Excadrill|88/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781460753
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|17
+|
+|t:|1781460768
+|switch|p2a: Sinistcha|Sinistcha|100/100
+|move|p1a: Garchomp|Earthquake|p2a: Sinistcha
+|-resisted|p2a: Sinistcha
+|-damage|p2a: Sinistcha|81/100
+|
+|upkeep
+|turn|18
+|j| cashewl8r
+|inactive|looniertunes has 120 seconds left.
+|
+|t:|1781460815
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Sinistcha|Strength Sap|p1a: Garchomp
+|-unboost|p1a: Garchomp|atk|1
+|-heal|p2a: Sinistcha|100/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781460824
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Sinistcha|Matcha Gotcha|p1a: Garchomp
+|-damage|p1a: Garchomp|67/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781460839
+|move|p1a: Garchomp|Scale Shot|p2a: Sinistcha
+|-damage|p2a: Sinistcha|77/100
+|-damage|p2a: Sinistcha|52/100
+|-damage|p2a: Sinistcha|28/100
+|-damage|p2a: Sinistcha|3/100
+|-hitcount|p2a: Sinistcha|4
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Sinistcha|Strength Sap|p1a: Garchomp
+|-unboost|p1a: Garchomp|atk|1
+|-heal|p2a: Sinistcha|100/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781460847
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Sinistcha|Matcha Gotcha|p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|12/100
+|
+|upkeep
+|turn|22
+|
+|t:|1781460861
+|move|p1a: Garchomp|Scale Shot|p2a: Sinistcha|[miss]
+|-miss|p1a: Garchomp|p2a: Sinistcha
+|move|p2a: Sinistcha|Matcha Gotcha|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1781460866
+|switch|p1a: Gholdengo|Gholdengo|43/100
+|turn|23
+|inactive|looniertunes has 120 seconds left.
+|
+|t:|1781460872
+|switch|p2a: Tyranitar|Tyranitar, F|65/100
+|-status|p2a: Tyranitar|psn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Gholdengo|Shadow Ball|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|56/100 psn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tyranitar|44/100 psn|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1781460881
+|move|p1a: Gholdengo|Make It Rain|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781460895
+|switch|p2a: Excadrill|Excadrill, M|88/100
+|turn|25
+|
+|t:|1781460914
+|move|p2a: Excadrill|Swords Dance|p2a: Excadrill
+|-boost|p2a: Excadrill|atk|2
+|move|p1a: Gholdengo|Shadow Ball|p2a: Excadrill
+|-damage|p2a: Excadrill|47/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1781460930
+|move|p2a: Excadrill|Earthquake|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|-damage|p2a: Excadrill|37/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781460935
+|switch|p1a: Greninja|Greninja, M|91/100
+|turn|27
+|
+|t:|1781460939
+|move|p1a: Greninja|Water Shuriken|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|11/100
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|-ability|p1a: Greninja|Battle Bond|boost
+|-boost|p1a: Greninja|atk|1
+|-boost|p1a: Greninja|spa|1
+|-boost|p1a: Greninja|spe|1
+|-activate|p1a: Greninja|ability: Battle Bond
+|-hitcount|p2: Excadrill|2
+|-damage|p1a: Greninja|81/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Greninja|75/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781460941
+|switch|p2a: Sinistcha|Sinistcha|100/100
+|turn|28
+|
+|t:|1781460949
+|-terastallize|p2a: Sinistcha|Fairy
+|move|p1a: Greninja|Dark Pulse|p2a: Sinistcha
+|-resisted|p2a: Sinistcha
+|-damage|p2a: Sinistcha|58/100
+|-damage|p1a: Greninja|65/100|[from] item: Life Orb
+|move|p2a: Sinistcha|Matcha Gotcha|p1a: Greninja
+|-supereffective|p1a: Greninja
+|-crit|p1a: Greninja
+|-damage|p1a: Greninja|0 fnt
+|-heal|p2a: Sinistcha|85/100|[from] drain|[of] p1a: Greninja
+|faint|p1a: Greninja
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Sinistcha|79/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781460955
+|switch|p1a: Kingambit|Kingambit, M|47/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|29
+|
+|t:|1781460958
+|move|p2a: Sinistcha|Strength Sap|p1a: Kingambit
+|-unboost|p1a: Kingambit|atk|1
+|-heal|p2a: Sinistcha|100/100
+|move|p1a: Kingambit|Iron Head|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|41/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Sinistcha|35/100|[from] Sandstorm
+|upkeep
+|turn|30
+|
+|t:|1781460961
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|move|p2a: Sinistcha|Strength Sap|p1a: Kingambit
+|-unboost|p1a: Kingambit|atk|1
+|-heal|p2a: Sinistcha|100/100
+|
+|-weather|none
+|upkeep
+|turn|31
+|
+|t:|1781460968
+|move|p1a: Kingambit|Iron Head|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|14/100
+|move|p2a: Sinistcha|Strength Sap|p1a: Kingambit
+|-unboost|p1a: Kingambit|atk|1
+|-heal|p2a: Sinistcha|100/100
+|
+|upkeep
+|turn|32
+|
+|t:|1781460971
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|move|p2a: Sinistcha|Matcha Gotcha|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|30/100
+|-status|p1a: Kingambit|brn
+|
+|-damage|p1a: Kingambit|24/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1781460975
+|move|p2a: Sinistcha|Strength Sap|p1a: Kingambit
+|-unboost|p1a: Kingambit|atk|1
+|move|p1a: Kingambit|Iron Head|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|56/100
+|
+|-damage|p1a: Kingambit|18/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1781460978
+|move|p1a: Kingambit|Iron Head|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|14/100
+|cant|p2a: Sinistcha|flinch
+|
+|-damage|p1a: Kingambit|12/100 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1781460981
+|move|p2a: Sinistcha|Strength Sap|p1a: Kingambit
+|-unboost|p1a: Kingambit|atk|1
+|-heal|p2a: Sinistcha|100/100
+|move|p1a: Kingambit|Iron Head|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|68/100
+|
+|-damage|p1a: Kingambit|6/100 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1781460985
+|move|p2a: Sinistcha|Strength Sap|p1a: Kingambit
+|-unboost|p1a: Kingambit|atk|1
+|-heal|p2a: Sinistcha|100/100
+|move|p1a: Kingambit|Iron Head|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|80/100
+|
+|-damage|p1a: Kingambit|0 fnt|[from] brn
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|upkeep
+|
+|t:|1781460988
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|37
+|
+|t:|1781460995
+|move|p1a: Iron Valiant|Encore|p2a: Sinistcha
+|-start|p2a: Sinistcha|Encore
+|move|p2a: Sinistcha|Strength Sap|p1a: Iron Valiant
+|-unboost|p1a: Iron Valiant|atk|1
+|-heal|p2a: Sinistcha|100/100
+|
+|upkeep
+|turn|38
+|
+|t:|1781460998
+|switch|p2a: Conkeldurr|Conkeldurr, M|100/100
+|-status|p2a: Conkeldurr|psn
+|move|p1a: Iron Valiant|Moonblast|p2a: Conkeldurr
+|-supereffective|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|faint|p2a: Conkeldurr
+|
+|upkeep
+|
+|t:|1781461000
+|switch|p2a: Sinistcha|Sinistcha, tera:Fairy|100/100
+|turn|39
+|
+|t:|1781461003
+|move|p1a: Iron Valiant|Moonblast|p2a: Sinistcha
+|-damage|p2a: Sinistcha|47/100
+|move|p2a: Sinistcha|Shadow Ball|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|34/100
+|
+|upkeep
+|turn|40
+|l| cashewl8r
+|
+|t:|1781461006
+|move|p1a: Iron Valiant|Moonblast|p2a: Sinistcha
+|-damage|p2a: Sinistcha|0 fnt
+|faint|p2a: Sinistcha
+|
+|win|rockeater9000
+|raw|rockeater9000's rating: 1603 &rarr; <strong>1621</strong><br />(+18 for winning)
+|raw|looniertunes's rating: 1568 &rarr; <strong>1550</strong><br />(-18 for losing)
+|c|☆looniertunes|gg
+|l|☆looniertunes
+|player|p2|
+|l|☆rockeater9000
+|player|p1|

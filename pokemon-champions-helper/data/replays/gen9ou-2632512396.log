@@ -1,0 +1,302 @@
+|j|☆viutil
+|j|☆yappyy
+|t:|1781534381
+|gametype|singles
+|player|p1|viutil|266|1559
+|player|p2|yappyy|102|1590
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Muk-Alola, M|
+|poke|p1|Great Tusk|
+|poke|p1|Gholdengo|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Garganacl, F|
+|poke|p2|Araquanid, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Iron Moth|
+|poke|p2|Hatterene, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yappyy)
+|
+|t:|1781534396
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|1
+|
+|t:|1781534404
+|move|p1a: Dragapult|Shadow Ball|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781534411
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|2
+|
+|t:|1781534417
+|switch|p1a: Muk|Muk-Alola, M, shiny|100/100
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781534428
+|move|p2a: Iron Valiant|Moonblast|p1a: Muk
+|-damage|p1a: Muk|66/100
+|move|p1a: Muk|Ice Punch|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|71/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781534435
+|-terastallize|p2a: Iron Valiant|Ghost
+|move|p2a: Iron Valiant|Moonblast|p1a: Muk
+|-damage|p1a: Muk|30/100
+|move|p1a: Muk|Ice Punch|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|40/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781534441
+|move|p1a: Muk|Shadow Sneak|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|7/100
+|move|p2a: Iron Valiant|Moonblast|p1a: Muk
+|-damage|p1a: Muk|0 fnt
+|faint|p1a: Muk
+|
+|upkeep
+|
+|t:|1781534455
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|turn|6
+|
+|t:|1781534471
+|move|p2a: Iron Valiant|Moonblast|p1a: Garganacl
+|-damage|p1a: Garganacl|36/100
+|move|p1a: Garganacl|Salt Cure|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-heal|p1a: Garganacl|42/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781534475
+|switch|p2a: Araquanid|Araquanid, F|100/100
+|turn|7
+|
+|t:|1781534479
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781534497
+|switch|p1a: Garganacl|Garganacl, F|42/100
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|-heal|p1a: Garganacl|48/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781534508
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|faint|p1a: Garganacl
+|
+|upkeep
+|
+|t:|1781534512
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100
+|turn|10
+|
+|t:|1781534529
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Araquanid|Araquanid, F|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Araquanid
+|-resisted|p2a: Araquanid
+|-damage|p2a: Araquanid|72/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|11
+|
+|t:|1781534536
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Araquanid|Sticky Web|p1a: Ogerpon
+|-sidestart|p1: viutil|move: Sticky Web
+|
+|upkeep
+|turn|12
+|
+|t:|1781534565
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|move|p1a: Ogerpon|Encore||[still]
+|-fail|p1a: Ogerpon
+|
+|upkeep
+|turn|13
+|
+|t:|1781534583
+|move|p1a: Ogerpon|Power Whip|p2a: Raging Bolt|[miss]
+|-miss|p1a: Ogerpon|p2a: Raging Bolt
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Ogerpon
+|-damage|p1a: Ogerpon|41/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781534601
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Great Tusk
+|-immune|p1a: Great Tusk
+|
+|upkeep
+|turn|15
+|
+|t:|1781534612
+|move|p1a: Great Tusk|Headlong Rush|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781534616
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespa
+|turn|16
+|
+|t:|1781534643
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|41/100
+|-activate|p1a: Ogerpon|move: Sticky Web
+|-unboost|p1a: Ogerpon|spe|1
+|move|p2a: Iron Moth|Fiery Dance|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|-boost|p2a: Iron Moth|spa|1
+|faint|p1a: Ogerpon
+|
+|upkeep
+|inactive|viutil has 120 seconds left.
+|
+|t:|1781534666
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100
+|turn|17
+|
+|t:|1781534671
+|-terastallize|p1a: Great Tusk|Water
+|move|p2a: Iron Moth|Fiery Dance|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|33/100
+|-boost|p2a: Iron Moth|spa|1
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781534674
+|switch|p2a: Araquanid|Araquanid, F|72/100
+|turn|18
+|
+|t:|1781534678
+|move|p1a: Great Tusk|Rapid Spin|p2a: Araquanid
+|-damage|p2a: Araquanid|54/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: viutil|Sticky Web|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|move|p2a: Araquanid|Liquidation|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781534686
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|19
+|
+|t:|1781534692
+|move|p1a: Dragapult|Draco Meteor|p2a: Araquanid
+|-damage|p2a: Araquanid|0 fnt
+|-unboost|p1a: Dragapult|spa|2
+|faint|p2a: Araquanid
+|
+|upkeep
+|
+|t:|1781534695
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|20
+|
+|t:|1781534696
+|switch|p1a: Gholdengo|Gholdengo, shiny|100/100
+|move|p2a: Gholdengo|Shadow Ball|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781534698
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|21
+|
+|t:|1781534700
+|move|p1a: Dragapult|Shadow Ball|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|-enditem|p2a: Gholdengo|Air Balloon
+|faint|p2a: Gholdengo
+|
+|win|viutil
+|raw|viutil's rating: 1559 &rarr; <strong>1582</strong><br />(+23 for winning)
+|raw|yappyy's rating: 1606 &rarr; <strong>1583</strong><br />(-23 for losing)
+|l|☆yappyy
+|player|p2|
+|l|☆viutil
+|player|p1|

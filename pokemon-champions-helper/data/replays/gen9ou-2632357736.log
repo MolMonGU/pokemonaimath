@@ -1,0 +1,228 @@
+|j|☆LowEL0God
+|j|☆Kinair
+|t:|1781514367
+|gametype|singles
+|player|p1|LowEL0God|265|1695
+|player|p2|Kinair|266|1572
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Kingdra, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Iron Treads|
+|poke|p2|Zamazenta-*|
+|poke|p2|Kingambit, F|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781514380
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781514384
+|move|p2a: Iron Treads|Stealth Rock|p1a: Kingambit
+|-sidestart|p1: LowEL0God|move: Stealth Rock
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781514389
+|-terastallize|p1a: Kingambit|Dark
+|move|p2a: Iron Treads|Earth Power|p1a: Kingambit
+|-damage|p1a: Kingambit|75/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p1a: Kingambit|81/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781514401
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|3
+|
+|t:|1781514405
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-damage|p1a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Zamazenta|Body Press|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|59/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|j| soldyawife
+|
+|t:|1781514409
+|switch|p2a: Kingdra|Kingdra, M|100/100
+|move|p1a: Pelipper|Roost|p1a: Pelipper
+|-heal|p1a: Pelipper|100/100
+|-singleturn|p1a: Pelipper|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781514413
+|move|p2a: Kingdra|Surf|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-crit|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781514415
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-damage|p1a: Raging Bolt|88/100|[from] Stealth Rock
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|6
+|
+|t:|1781514435
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|-unboost|p1a: Raging Bolt|spa|2
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781514437
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|7
+|
+|t:|1781514441
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781514442
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-damage|p1a: Iron Treads|97/100|[from] Stealth Rock
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|8
+|
+|t:|1781514447
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p1a: Iron Treads|Rapid Spin|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|92/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: LowEL0God|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Raging Bolt|Weather Ball|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781514449
+|switch|p1a: Overqwil|Overqwil, M|100/100
+|turn|9
+|
+|t:|1781514460
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|move|p1a: Overqwil|Gunk Shot|p2a: Zamazenta|[miss]
+|-miss|p1a: Overqwil|p2a: Zamazenta
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781514465
+|move|p1a: Overqwil|Gunk Shot|p2a: Zamazenta|[miss]
+|-miss|p1a: Overqwil|p2a: Zamazenta
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-weather|none
+|upkeep
+|turn|11
+|
+|t:|1781514468
+|move|p2a: Zamazenta|Body Press|p1a: Overqwil
+|-crit|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|faint|p1a: Overqwil
+|
+|upkeep
+|
+|t:|1781514469
+|switch|p1a: Kingambit|Kingambit, M, tera:Dark|81/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|12
+|
+|t:|1781514471
+|move|p2a: Zamazenta|Body Press|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|
+|upkeep
+|
+|t:|1781514472
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|turn|13
+|
+|t:|1781514473
+|move|p2a: Zamazenta|Body Press|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|win|Kinair
+|raw|LowEL0God's rating: 1695 &rarr; <strong>1668</strong><br />(-27 for losing)
+|raw|Kinair's rating: 1572 &rarr; <strong>1599</strong><br />(+27 for winning)
+|c|☆Kinair|Rain !!
+|c|☆LowEL0God|gg
+|l| soldyawife
+|l|☆LowEL0God
+|player|p1|

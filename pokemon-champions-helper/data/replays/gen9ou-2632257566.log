@@ -1,0 +1,222 @@
+|j|☆kemious
+|j|☆DMVortex38
+|t:|1781496848
+|gametype|singles
+|player|p1|kemious|265|1541
+|player|p2|DMVortex38|1|1593
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Chesnaught, M|
+|poke|p1|Gastrodon, F|
+|poke|p1|Kilowattrel, M|
+|poke|p1|Glimmora, F|
+|poke|p1|Ceruledge, M|
+|poke|p1|Goodra-Hisui, F|
+|poke|p2|Haxorus, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Moltres|
+|poke|p2|Iron Treads|
+|poke|p2|Iron Valiant|
+|poke|p2|Zamazenta-*|
+|teampreview
+|
+|t:|1781496870
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gastrodon|Gastrodon, F|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|turn|1
+|
+|t:|1781496893
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Haxserious|Haxorus, F|100/100
+|-ability|p2a: Haxserious|Mold Breaker
+|move|p1a: Gastrodon|Earth Power|p2a: Haxserious
+|-damage|p2a: Haxserious|46/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781496903
+|move|p2a: Haxserious|Outrage|p1a: Gastrodon
+|-damage|p1a: Gastrodon|0 fnt
+|faint|p1a: Gastrodon
+|
+|upkeep
+|
+|t:|1781496910
+|switch|p1a: Chesnaught|Chesnaught, M|100/100
+|turn|3
+|
+|t:|1781496914
+|move|p2a: Haxserious|Outrage|p1a: Chesnaught|[from] lockedmove
+|-damage|p1a: Chesnaught|34/100
+|move|p1a: Chesnaught|Body Press|p2a: Haxserious
+|-damage|p2a: Haxserious|0 fnt
+|faint|p2a: Haxserious
+|
+|-heal|p1a: Chesnaught|40/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781496938
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|4
+|
+|t:|1781496942
+|switch|p1a: Goodra|Goodra-Hisui, F|100/100
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1781496947
+|-terastallize|p2a: Iron Valiant|Ghost
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|move|p1a: Goodra|Flash Cannon|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|65/100
+|-unboost|p2a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|6
+|
+|t:|1781496958
+|move|p2a: Iron Valiant|Moonblast|p1a: Goodra
+|-damage|p1a: Goodra|62/100
+|move|p1a: Goodra|Dragon Tail|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|38/100
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|drag|p2a: Moltres|Moltres|100/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781496972
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|move|p2a: Moltres|U-turn|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|96/100
+|
+|t:|1781496980
+|switch|p2a: Slowking|Slowking-Galar, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|8
+|
+|t:|1781496983
+|move|p1a: Ceruledge|Poltergeist|p2a: Slowking
+|-activate|p2a: Slowking|move: Poltergeist|Heavy-Duty Boots
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781496997
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|turn|9
+|
+|t:|1781497006
+|move|p2a: Iron Treads|Knock Off|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-crit|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|-enditem|p1a: Ceruledge|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Iron Treads
+|faint|p1a: Ceruledge
+|
+|upkeep
+|
+|t:|1781497010
+|switch|p1a: Chesnaught|Chesnaught, M|40/100
+|turn|10
+|
+|t:|1781497013
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Chesnaught|Body Press|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|84/100
+|-status|p1a: Chesnaught|brn|[from] ability: Flame Body|[of] p2a: Moltres
+|
+|-heal|p1a: Chesnaught|47/100 brn|[from] item: Leftovers
+|-damage|p1a: Chesnaught|40/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781497026
+|switch|p1a: Goodra|Goodra-Hisui, F|62/100
+|move|p2a: Moltres|Flamethrower|p1a: Goodra
+|-damage|p1a: Goodra|47/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781497035
+|move|p1a: Goodra|Knock Off|p2a: Moltres
+|-damage|p2a: Moltres|69/100
+|-enditem|p2a: Moltres|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Goodra
+|move|p2a: Moltres|Roar|p1a: Goodra
+|drag|p1a: Kilowattrel|Kilowattrel, M, shiny|100/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781497042
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Kilowattrel|Air Slash|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|75/100
+|
+|-heal|p2a: Iron Treads|81/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781497060
+|switch|p1a: Chesnaught|Chesnaught, M|40/100 brn
+|move|p2a: Iron Treads|Knock Off|p1a: Chesnaught
+|-resisted|p1a: Chesnaught
+|-damage|p1a: Chesnaught|31/100 brn
+|-enditem|p1a: Chesnaught|Leftovers|[from] move: Knock Off|[of] p2a: Iron Treads
+|
+|-heal|p2a: Iron Treads|87/100|[from] item: Leftovers
+|-damage|p1a: Chesnaught|25/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781497076
+|move|p2a: Iron Treads|Rapid Spin|p1a: Chesnaught
+|-damage|p1a: Chesnaught|15/100 brn
+|-boost|p2a: Iron Treads|spe|1
+|move|p1a: Chesnaught|Leech Seed|p2a: Iron Treads|[miss]
+|-miss|p1a: Chesnaught|p2a: Iron Treads
+|
+|-heal|p2a: Iron Treads|93/100|[from] item: Leftovers
+|-damage|p1a: Chesnaught|9/100 brn|[from] brn
+|upkeep
+|turn|16
+|-message|kemious forfeited.
+|
+|win|DMVortex38
+|raw|kemious's rating: 1541 &rarr; <strong>1524</strong><br />(-17 for losing)
+|raw|DMVortex38's rating: 1593 &rarr; <strong>1610</strong><br />(+17 for winning)
+|l|☆kemious
+|player|p1|
+|l|☆DMVortex38
+|player|p2|

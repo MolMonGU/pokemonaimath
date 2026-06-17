@@ -1,0 +1,416 @@
+|j|☆viutil
+|j|☆supmydudetest1
+|t:|1781517480
+|gametype|singles
+|player|p1|viutil|266|1667
+|player|p2|supmydudetest1|1|1596
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Gholdengo|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Corviknight, F|
+|poke|p1|Great Tusk|
+|poke|p1|Iron Valiant|
+|poke|p1|Raging Bolt|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Cinderace, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Gengar, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by supmydudetest1)
+|
+|t:|1781517493
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|turn|1
+|
+|t:|1781517499
+|move|p2a: Cinderace|U-turn|p1a: Raging Bolt
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p1a: Raging Bolt|58/100
+|
+|t:|1781517503
+|switch|p2a: Ting-Lu|Ting-Lu|100/100|[from] U-turn
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|70/100
+|-unboost|p1a: Raging Bolt|spa|2
+|
+|-heal|p2a: Ting-Lu|76/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781517515
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Ting-Lu|Ruination|p1a: Corviknight
+|-damage|p1a: Corviknight|51/100
+|
+|-heal|p2a: Ting-Lu|82/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781517526
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Ting-Lu|Earthquake|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|56/100
+|
+|-heal|p2a: Ting-Lu|89/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781517535
+|move|p1a: Corviknight|Body Press|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|61/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|-heal|p2a: Ting-Lu|67/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781517545
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|6
+|
+|t:|1781517552
+|move|p2a: Cinderace|Pyro Ball|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|4/100
+|move|p1a: Corviknight|U-turn|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-damage|p2a: Cinderace|90/100
+|
+|t:|1781517558
+|switch|p1a: Raging Bolt|Raging Bolt|58/100|[from] U-turn
+|
+|upkeep
+|turn|7
+|
+|t:|1781517564
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-terastallize|p2a: Cinderace|Fire
+|move|p2a: Cinderace|Pyro Ball|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1781517571
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisspe
+|turn|8
+|
+|t:|1781517577
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|
+|upkeep
+|turn|9
+|
+|t:|1781517584
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|move|p2a: Corviknight|U-turn|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|98/100
+|
+|t:|1781517591
+|switch|p2a: Gengar|Gengar, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|10
+|
+|t:|1781517596
+|move|p2a: Gengar|Trick|p1a: Great Tusk
+|-activate|p2a: Gengar|move: Trick|[of] p1a: Great Tusk
+|-item|p1a: Great Tusk|Choice Scarf|[from] move: Trick
+|-enditem|p2a: Gengar|Choice Scarf|[silent]|[from] move: Trick
+|move|p1a: Great Tusk|Headlong Rush|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Gengar
+|
+|upkeep
+|
+|t:|1781517606
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|turn|11
+|
+|t:|1781517616
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Corviknight|Corviknight, F|4/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Corviknight|U-turn|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|2/100
+|-damage|p2a: Corviknight|84/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|t:|1781517624
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|12
+|
+|t:|1781517630
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Corviknight|[anim] Ivy Cudgel Water
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|upkeep
+|
+|t:|1781517654
+|switch|p1a: Raging Bolt|Raging Bolt|58/100
+|turn|13
+|
+|t:|1781517657
+|move|p2a: Ogerpon|Play Rough|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|1/100
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Ogerpon
+|-damage|p2a: Ogerpon|17/100
+|-unboost|p1a: Raging Bolt|spa|2
+|
+|upkeep
+|turn|14
+|
+|t:|1781517668
+|switch|p2a: Cinderace|Cinderace, M, tera:Fire|90/100
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Cinderace
+|-damage|p2a: Cinderace|35/100
+|-unboost|p1a: Raging Bolt|spa|2
+|
+|upkeep
+|turn|15
+|
+|t:|1781517677
+|move|p2a: Cinderace|Sucker Punch|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781517679
+|switch|p1a: Iron Valiant|Iron Valiant, shiny|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|16
+|
+|t:|1781517687
+|switch|p2a: Ting-Lu|Ting-Lu|67/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Iron Valiant|Swords Dance|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|atk|2
+|
+|-heal|p2a: Ting-Lu|73/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781517699
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|17/100
+|move|p1a: Iron Valiant|Close Combat|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781517709
+|switch|p2a: Corviknight|Corviknight, M|84/100
+|turn|18
+|
+|t:|1781517716
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Corviknight|Brave Bird|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|79/100
+|-damage|p2a: Corviknight|78/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|84/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781517732
+|switch|p2a: Ting-Lu|Ting-Lu|73/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Gholdengo|Trick|p2a: Ting-Lu
+|-activate|p1a: Gholdengo|move: Trick|[of] p2a: Ting-Lu
+|-item|p2a: Ting-Lu|Choice Specs|[from] move: Trick
+|-item|p1a: Gholdengo|Leftovers|[from] move: Trick
+|
+|-heal|p1a: Gholdengo|85/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781517742
+|-terastallize|p1a: Gholdengo|Flying
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|move|p2a: Ting-Lu|Earthquake|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|
+|-heal|p1a: Gholdengo|91/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781517753
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Gholdengo|Shadow Ball|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|19/100
+|
+|-heal|p1a: Gholdengo|97/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781517763
+|switch|p1a: Great Tusk|Great Tusk|98/100
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|
+|upkeep
+|turn|23
+|
+|t:|1781517770
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Corviknight|Corviknight, M|84/100
+|move|p1a: Great Tusk|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|52/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-heal|p2a: Corviknight|58/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781517780
+|move|p1a: Great Tusk|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|26/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|76/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|83/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781517793
+|move|p1a: Great Tusk|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|50/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Corviknight|Brave Bird|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|-damage|p2a: Corviknight|15/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|21/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781517805
+|switch|p1a: Iron Valiant|Iron Valiant, shiny|100/100
+|turn|26
+|
+|t:|1781517811
+|move|p1a: Iron Valiant|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781517817
+|switch|p2a: Cinderace|Cinderace, M, tera:Fire|35/100
+|turn|27
+|
+|t:|1781517839
+|move|p2a: Cinderace|Pyro Ball|p1a: Iron Valiant|[miss]
+|-miss|p2a: Cinderace|p1a: Iron Valiant
+|move|p1a: Iron Valiant|Close Combat|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|faint|p2a: Cinderace
+|
+|upkeep
+|
+|t:|1781517848
+|switch|p2a: Raging Bolt|Raging Bolt|19/100
+|turn|28
+|
+|t:|1781517852
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Gholdengo|Gholdengo, tera:Flying|97/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781517854
+|switch|p1a: Iron Valiant|Iron Valiant, shiny|100/100
+|turn|29
+|
+|t:|1781517865
+|move|p2a: Raging Bolt|Thunderclap|p1a: Iron Valiant
+|-crit|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|win|supmydudetest1
+|raw|viutil's rating: 1667 &rarr; <strong>1643</strong><br />(-24 for losing)
+|raw|supmydudetest1's rating: 1596 &rarr; <strong>1620</strong><br />(+24 for winning)
+|c|☆viutil|ahaha
+|c|☆viutil|no way
+|c|☆supmydudetest1|lol
+|c|☆viutil|what a roller coaster of emotions
+|c|☆viutil|gg
+|l|☆viutil
+|player|p1|
+|c|☆supmydudetest1|ggs

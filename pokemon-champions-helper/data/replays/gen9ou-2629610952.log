@@ -1,0 +1,222 @@
+|j|☆L81D
+|j|☆Gupygak
+|t:|1781152935
+|gametype|singles
+|player|p1|L81D|266|1613
+|player|p2|Gupygak|chuck|1578
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Iron Crown|
+|poke|p1|Garganacl, M|
+|poke|p1|Great Tusk|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Dragapult, M|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Gliscor, M|
+|poke|p2|Alomomola, F|
+|poke|p2|Quagsire, M|
+|poke|p2|Clefable, F|
+|poke|p2|Skarmory, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Gupygak)
+|
+|t:|1781152949
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|turn|1
+|
+|t:|1781152954
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Great Tusk|Stealth Rock|p2a: Gliscor
+|-sidestart|p2: Gupygak|move: Stealth Rock
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781152958
+|move|p1a: Great Tusk|Ice Spinner|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|18/100 tox
+|move|p2a: Gliscor|Knock Off|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|93/100
+|-damage|p2a: Gliscor|1/100 tox|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|-enditem|p1a: Great Tusk|Rocky Helmet|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|-heal|p2a: Gliscor|14/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|3
+|
+|t:|1781152965
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Gliscor|Protect||[still]
+|-fail|p2a: Gliscor
+|
+|-heal|p2a: Gliscor|26/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|4
+|
+|t:|1781152968
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Dragapult|Hex|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|39/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|5
+|
+|t:|1781152976
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|-damage|p2a: Alomomola|88/100|[from] Stealth Rock
+|move|p1a: Dragapult|U-turn|p2a: Alomomola
+|-damage|p2a: Alomomola|77/100
+|-damage|p1a: Dragapult|84/100|[from] item: Rocky Helmet|[of] p2a: Alomomola
+|
+|t:|1781152980
+|switch|p1a: Iron Crown|Iron Crown|100/100|[from] U-turn
+|
+|upkeep
+|turn|6
+|
+|t:|1781152986
+|move|p1a: Iron Crown|Psychic Noise|p2a: Alomomola
+|-damage|p2a: Alomomola|30/100
+|-start|p2a: Alomomola|move: Heal Block
+|move|p2a: Alomomola|Flip Turn|p1a: Iron Crown
+|-damage|p1a: Iron Crown|84/100
+|
+|t:|1781153009
+|switch|p2a: Quagsire|Quagsire, M|100/100|[from] Flip Turn
+|-damage|p2a: Quagsire|94/100|[from] Stealth Rock
+|
+|-heal|p2a: Quagsire|100/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781153014
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|move|p2a: Quagsire|Earthquake|p1a: Samurott
+|-damage|p1a: Samurott|67/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781153020
+|move|p1a: Samurott|Knock Off|p2a: Quagsire
+|-damage|p2a: Quagsire|68/100
+|-enditem|p2a: Quagsire|Leftovers|[from] move: Knock Off|[of] p1a: Samurott
+|move|p2a: Quagsire|Toxic|p1a: Samurott
+|-status|p1a: Samurott|tox
+|
+|-damage|p1a: Samurott|61/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1781153029
+|switch|p1a: Garganacl|Garganacl, M|100/100
+|move|p2a: Quagsire|Recover|p2a: Quagsire
+|-heal|p2a: Quagsire|100/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781153035
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|-damage|p2a: Weezing|88/100|[from] Stealth Rock
+|move|p1a: Garganacl|Salt Cure|p2a: Weezing
+|-damage|p2a: Weezing|78/100
+|-start|p2a: Weezing|Salt Cure
+|
+|-heal|p2a: Weezing|84/100|[from] item: Leftovers
+|-damage|p2a: Weezing|72/100|[from] Salt Cure
+|upkeep
+|turn|11
+|
+|t:|1781153041
+|switch|p1a: Iron Crown|Iron Crown|84/100
+|move|p2a: Weezing|Will-O-Wisp|p1a: Iron Crown
+|-status|p1a: Iron Crown|brn
+|
+|-heal|p2a: Weezing|78/100|[from] item: Leftovers
+|-damage|p1a: Iron Crown|77/100 brn|[from] brn
+|-damage|p2a: Weezing|66/100|[from] Salt Cure
+|upkeep
+|turn|12
+|
+|t:|1781153047
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Quagsire|Quagsire, M|100/100
+|-damage|p2a: Quagsire|94/100|[from] Stealth Rock
+|move|p1a: Iron Crown|Psychic Noise|p2a: Quagsire
+|-damage|p2a: Quagsire|30/100
+|-start|p2a: Quagsire|move: Heal Block
+|
+|-damage|p1a: Iron Crown|71/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1781153062
+|move|p1a: Iron Crown|Psychic Noise|p2a: Quagsire
+|-damage|p2a: Quagsire|0 fnt
+|faint|p2a: Quagsire
+|
+|-damage|p1a: Iron Crown|65/100 brn|[from] brn
+|upkeep
+|
+|t:|1781153069
+|switch|p2a: Gliscor|Gliscor, M|39/100 tox
+|-damage|p2a: Gliscor|26/100 tox|[from] Stealth Rock
+|turn|14
+|
+|t:|1781153071
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Iron Crown|Psychic Noise|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|39/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Iron Crown|59/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781153095
+|move|p1a: Iron Crown|Psychic Noise|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|-damage|p1a: Iron Crown|53/100 brn|[from] brn
+|upkeep
+|
+|t:|1781153100
+|switch|p2a: Skarmory|Skarmory, M|100/100
+|-damage|p2a: Skarmory|88/100|[from] Stealth Rock
+|turn|16
+|-message|Gupygak forfeited.
+|
+|win|L81D
+|raw|L81D's rating: 1613 &rarr; <strong>1631</strong><br />(+18 for winning)
+|raw|Gupygak's rating: 1578 &rarr; <strong>1560</strong><br />(-18 for losing)
+|l|☆Gupygak
+|player|p2|
+|l|☆L81D
+|player|p1|

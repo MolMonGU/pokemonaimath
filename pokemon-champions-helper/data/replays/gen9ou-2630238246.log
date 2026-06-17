@@ -1,0 +1,288 @@
+|j|☆mongwong
+|j|☆NoirShaadow
+|t:|1781226674
+|gametype|singles
+|player|p1|mongwong|eusine-gen2|1722
+|player|p2|NoirShaadow|sage|1683
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Indeedee, M|
+|poke|p1|Polteageist-Antique|
+|poke|p1|Hawlucha, M|
+|poke|p1|Primarina, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Great Tusk|
+|poke|p2|Ceruledge, M|
+|poke|p2|Walking Wake|
+|poke|p2|Torkoal, M|
+|poke|p2|Great Tusk|
+|poke|p2|Venusaur, M|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mongwong)
+|inactive|mongwong has 120 seconds left.
+|
+|t:|1781226708
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|turn|1
+|
+|t:|1781226713
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Primarina|Primarina, M|100/100
+|move|p2a: Walking Wake|Hydro Steam|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|84/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781226719
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Venusaur|Venusaur, M|100/100
+|move|p1a: Primarina|Flip Turn|p2a: Venusaur
+|-resisted|p2a: Venusaur
+|-damage|p2a: Venusaur|90/100
+|
+|t:|1781226723
+|switch|p1a: Indeedee|Indeedee, M|100/100|[from] Flip Turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|
+|upkeep
+|turn|3
+|
+|t:|1781226732
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|move|p1a: Indeedee|Expanding Force|p2a: Walking Wake
+|-damage|p2a: Walking Wake|15/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781226738
+|switch|p1a: Primarina|Primarina, M|84/100
+|move|p2a: Walking Wake|Hydro Steam|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|66/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781226744
+|move|p2a: Walking Wake|Hydro Steam|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|49/100
+|move|p1a: Primarina|Flip Turn|p2a: Walking Wake
+|-resisted|p2a: Walking Wake
+|-damage|p2a: Walking Wake|12/100
+|
+|t:|1781226749
+|switch|p1a: Iron Valiant|Iron Valiant|100/100|[from] Flip Turn
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|
+|upkeep
+|turn|6
+|
+|t:|1781226762
+|move|p1a: Iron Valiant|Moonblast|p2a: Walking Wake
+|-supereffective|p2a: Walking Wake
+|-crit|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781226768
+|switch|p2a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|7
+|
+|t:|1781226773
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Torkoal|Stealth Rock|p1a: Iron Valiant
+|-sidestart|p1: mongwong|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781226779
+|move|p1a: Iron Valiant|Expanding Force|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781226784
+|switch|p2a: Venusaur|Venusaur, M|90/100
+|turn|9
+|
+|t:|1781226797
+|-terastallize|p1a: Iron Valiant|Steel
+|move|p2a: Venusaur|Giga Drain|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|72/100
+|-heal|p2a: Venusaur|100/100|[from] drain|[of] p1a: Iron Valiant
+|-damage|p2a: Venusaur|91/100|[from] item: Life Orb
+|move|p1a: Iron Valiant|Expanding Force|p2a: Venusaur
+|-supereffective|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1781226809
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|turn|10
+|
+|t:|1781226813
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|98/100|[from] Stealth Rock
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisdef
+|move|p2a: Ceruledge|Bitter Blade|p1a: Great Tusk
+|-damage|p1a: Great Tusk|74/100
+|-damage|p2a: Ceruledge|84/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781226824
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Great Tusk|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|67/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Great Tusk|74/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781226835
+|move|p2a: Great Tusk|Ice Spinner|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|49/100
+|-damage|p2a: Great Tusk|57/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|move|p1a: Great Tusk|Rapid Spin|p2a: Great Tusk
+|-damage|p2a: Great Tusk|47/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: mongwong|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Great Tusk|53/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781226847
+|move|p1a: Great Tusk|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: NoirShaadow|move: Stealth Rock
+|move|p2a: Great Tusk|Rapid Spin|p1a: Great Tusk
+|-damage|p1a: Great Tusk|41/100
+|-boost|p2a: Great Tusk|spe|1
+|-damage|p2a: Great Tusk|37/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|-sideend|p2: NoirShaadow|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Great Tusk|43/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781226855
+|move|p2a: Great Tusk|Ice Spinner|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|15/100
+|-damage|p2a: Great Tusk|26/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|move|p1a: Great Tusk|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|none
+|-end|p1a: Great Tusk|Protosynthesis
+|upkeep
+|
+|t:|1781226874
+|switch|p2a: Ceruledge|Ceruledge, M|84/100
+|turn|15
+|
+|t:|1781226880
+|-terastallize|p2a: Ceruledge|Fairy
+|move|p1a: Great Tusk|Stealth Rock|p2a: Ceruledge
+|-sidestart|p2: NoirShaadow|move: Stealth Rock
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|16
+|
+|t:|1781226888
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Indeedee
+|-activate|p1a: Indeedee|move: Psychic Terrain
+|
+|upkeep
+|turn|17
+|
+|t:|1781226894
+|move|p1a: Indeedee|Expanding Force|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|upkeep
+|
+|t:|1781226898
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781226907
+|move|p1a: Indeedee|Expanding Force|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|23/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Indeedee
+|-damage|p1a: Indeedee|33/100
+|
+|-heal|p2a: Raging Bolt|29/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781226915
+|move|p1a: Indeedee|Expanding Force|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|win|mongwong
+|raw|mongwong's rating: 1722 &rarr; <strong>1740</strong><br />(+18 for winning)
+|raw|NoirShaadow's rating: 1683 &rarr; <strong>1665</strong><br />(-18 for losing)
+|c|☆NoirShaadow|gg
+|l|☆NoirShaadow
+|player|p2|
+|c|☆mongwong|Gg
+|l|☆mongwong
+|player|p1|

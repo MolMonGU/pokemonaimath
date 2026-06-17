@@ -1,0 +1,636 @@
+|j|‽casual stall relax
+|j|☆buhuifeihhh
+|t:|1781524932
+|gametype|singles
+|player|p1|casual stall relax|juan|1515
+|player|p2|buhuifeihhh|hilbert|1550
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Blissey, F|
+|poke|p1|Clefable, F|
+|poke|p1|Gliscor, M|
+|poke|p1|Alomomola, M|
+|poke|p1|Dondozo, F|
+|poke|p1|Weezing-Galar, F|
+|poke|p2|Heatran, M|
+|poke|p2|Rillaboom, M|
+|poke|p2|Moltres-Galar|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Tyranitar, F|
+|poke|p2|Volcanion|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by buhuifeihhh)
+|
+|t:|1781524950
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Clefable|Clefable, F|100/100
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|1
+|
+|t:|1781524961
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|switch|p2a: Heatran|Heatran, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Alomomola|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1781524968
+|move|p2a: Heatran|Magma Storm|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|60/100
+|-activate|p1a: Alomomola|move: Magma Storm|[of] p2a: Heatran
+|move|p1a: Alomomola|Flip Turn|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|58/100
+|
+|t:|1781524973
+|switch|p1a: Clefable|Clefable, F|100/100|[from] Flip Turn
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Heatran|64/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781524979
+|move|p2a: Heatran|Magma Storm|p1a: Clefable
+|-damage|p1a: Clefable|51/100
+|-activate|p1a: Clefable|move: Magma Storm|[of] p2a: Heatran
+|move|p1a: Clefable|Trick|p2a: Heatran
+|-activate|p1a: Clefable|move: Trick|[of] p2a: Heatran
+|-item|p2a: Heatran|Sticky Barb|[from] move: Trick
+|-item|p1a: Clefable|Leftovers|[from] move: Trick
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Clefable|57/100|[from] item: Leftovers
+|-damage|p2a: Heatran|52/100|[from] item: Sticky Barb
+|upkeep
+|turn|4
+|
+|t:|1781524988
+|move|p2a: Heatran|Flash Cannon|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Heatran|39/100|[from] item: Sticky Barb
+|upkeep
+|
+|t:|1781524992
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|turn|5
+|
+|t:|1781525006
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|move|p1a: Gliscor|Protect||[still]
+|-fail|p1a: Gliscor
+|
+|-weather|none
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|6
+|
+|t:|1781525015
+|move|p1a: Gliscor|Spikes|p2a: Tyranitar
+|-sidestart|p2: buhuifeihhh|Spikes
+|move|p2a: Tyranitar|Ice Punch|p1a: Gliscor
+|-supereffective|p1a: Gliscor
+|-damage|p1a: Gliscor|25/100 tox
+|
+|-heal|p1a: Gliscor|37/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|7
+|
+|t:|1781525025
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Tyranitar|Ice Punch|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p1a: Gliscor|49/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|8
+|
+|t:|1781525028
+|switch|p1a: Alomomola|Alomomola, M|93/100
+|move|p2a: Tyranitar|Ice Punch|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|85/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781525043
+|switch|p2a: Volcanion|Volcanion|100/100
+|-damage|p2a: Volcanion|88/100|[from] Spikes
+|move|p1a: Alomomola|Body Slam|p2a: Volcanion
+|-damage|p2a: Volcanion|72/100
+|
+|-heal|p2a: Volcanion|78/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781525069
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-damage|p2a: Tyranitar|88/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|switch|p1a: Blissey|Blissey, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|94/100|[from] Sandstorm
+|-heal|p1a: Blissey|100/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781525082
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Tyranitar|Knock Off|p1a: Alomomola
+|-damage|p1a: Alomomola|68/100
+|-enditem|p1a: Alomomola|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Alomomola|62/100|[from] Sandstorm
+|upkeep
+|turn|12
+|inactive|buhuifeihhh has 120 seconds left.
+|
+|t:|1781525102
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|move|p2a: Tyranitar|Knock Off|p1a: Alomomola
+|-damage|p1a: Alomomola|41/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Alomomola|34/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1781525108
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Tyranitar|Stone Edge|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Alomomola|28/100|[from] Sandstorm
+|-heal|p1a: Alomomola|78/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|14
+|
+|t:|1781525111
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|move|p2a: Tyranitar|Knock Off|p1a: Alomomola
+|-damage|p1a: Alomomola|59/100
+|
+|-weather|none
+|upkeep
+|turn|15
+|
+|t:|1781525115
+|switch|p2a: Volcanion|Volcanion|78/100
+|-damage|p2a: Volcanion|66/100|[from] Spikes
+|move|p1a: Alomomola|Body Slam|p2a: Volcanion
+|-damage|p2a: Volcanion|52/100
+|
+|-heal|p1a: Alomomola|100/100|[from] move: Wish|[wisher] Alomomola
+|-heal|p2a: Volcanion|58/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781525121
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Volcanion|Protect||[still]
+|-fail|p2a: Volcanion
+|
+|-heal|p2a: Volcanion|64/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781525150
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-damage|p2a: Rillaboom|88/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Blissey|Calm Mind|p1a: Blissey
+|-boost|p1a: Blissey|spa|1
+|-boost|p1a: Blissey|spd|1
+|
+|-heal|p2a: Rillaboom|94/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1781525158
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Rillaboom|Wood Hammer|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|56/100
+|-damage|p2a: Rillaboom|80/100|[from] Recoil
+|
+|-heal|p2a: Rillaboom|86/100|[from] Grassy Terrain
+|-heal|p1a: Weezing|62/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1781525168
+|switch|p2a: Tyranitar|Tyranitar, F|88/100
+|-damage|p2a: Tyranitar|76/100|[from] Spikes
+|move|p1a: Weezing|Dark Pulse|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-crit|p2a: Tyranitar
+|-damage|p2a: Tyranitar|69/100
+|
+|-heal|p1a: Weezing|68/100|[from] Grassy Terrain
+|-heal|p2a: Tyranitar|75/100|[from] Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1781525173
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Tyranitar|Stone Edge|p1a: Alomomola
+|-damage|p1a: Alomomola|71/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Alomomola|65/100|[from] Sandstorm
+|-heal|p1a: Alomomola|71/100|[from] Grassy Terrain
+|-heal|p2a: Tyranitar|81/100|[from] Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1781525180
+|switch|p2a: Rillaboom|Rillaboom, M|86/100
+|-damage|p2a: Rillaboom|74/100|[from] Spikes
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rillaboom|67/100|[from] Sandstorm
+|-damage|p1a: Alomomola|65/100|[from] Sandstorm
+|-heal|p2a: Rillaboom|74/100|[from] Grassy Terrain
+|-heal|p1a: Alomomola|71/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|22
+|
+|t:|1781525188
+|switch|p1a: Weezing|Weezing-Galar, F|68/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Rillaboom|U-turn|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|62/100
+|
+|t:|1781525194
+|switch|p2a: Heatran|Heatran, M|39/100|[from] U-turn
+|-damage|p2a: Heatran|27/100|[from] Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weezing|56/100|[from] Sandstorm
+|-heal|p1a: Weezing|100/100|[from] move: Wish|[wisher] Alomomola
+|-damage|p2a: Heatran|14/100|[from] item: Sticky Barb
+|upkeep
+|turn|23
+|
+|t:|1781525202
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Gliscor|Gliscor, M|49/100 tox
+|move|p2a: Heatran|Flash Cannon|p1a: Gliscor
+|-damage|p1a: Gliscor|3/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Gliscor|15/100 tox|[from] ability: Poison Heal
+|-damage|p2a: Heatran|2/100|[from] item: Sticky Barb
+|upkeep
+|turn|24
+|
+|t:|1781525212
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Heatran|Flash Cannon|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-weather|none
+|-heal|p1a: Gliscor|27/100 tox|[from] ability: Poison Heal
+|-damage|p2a: Heatran|0 fnt|[from] item: Sticky Barb
+|faint|p2a: Heatran
+|upkeep
+|
+|t:|1781525221
+|switch|p2a: Rillaboom|Rillaboom, M|74/100
+|-damage|p2a: Rillaboom|61/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|25
+|
+|t:|1781525226
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Rillaboom|High Horsepower|p1a: Weezing
+|-supereffective|p1a: Weezing
+|-damage|p1a: Weezing|35/100
+|
+|-heal|p2a: Rillaboom|67/100|[from] Grassy Terrain
+|-heal|p1a: Weezing|41/100|[from] Grassy Terrain
+|upkeep
+|turn|26
+|
+|t:|1781525233
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Gliscor|Gliscor, M|27/100 tox
+|move|p2a: Rillaboom|High Horsepower|p1a: Gliscor
+|-immune|p1a: Gliscor
+|
+|-heal|p2a: Rillaboom|74/100|[from] Grassy Terrain
+|-heal|p1a: Gliscor|40/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|27
+|inactive|buhuifeihhh has 120 seconds left.
+|
+|t:|1781525272
+|switch|p2a: Tyranitar|Tyranitar, F|81/100
+|-damage|p2a: Tyranitar|69/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Gliscor|Knock Off|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|60/100
+|-enditem|p2a: Tyranitar|Assault Vest|[from] move: Knock Off|[of] p1a: Gliscor
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|66/100|[from] Grassy Terrain
+|-heal|p1a: Gliscor|52/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|28
+|
+|t:|1781525281
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Tyranitar|Ice Punch|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|72/100|[from] Grassy Terrain
+|-heal|p1a: Gliscor|64/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|29
+|
+|t:|1781525284
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Tyranitar|Ice Punch|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|93/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Alomomola|87/100|[from] Sandstorm
+|-heal|p1a: Alomomola|93/100|[from] Grassy Terrain
+|-heal|p2a: Tyranitar|78/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|30
+|
+|t:|1781525291
+|switch|p2a: Rillaboom|Rillaboom, M|74/100
+|-damage|p2a: Rillaboom|61/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rillaboom|55/100|[from] Sandstorm
+|-damage|p1a: Alomomola|87/100|[from] Sandstorm
+|-heal|p2a: Rillaboom|61/100|[from] Grassy Terrain
+|-heal|p1a: Alomomola|93/100|[from] Grassy Terrain
+|upkeep
+|turn|31
+|
+|t:|1781525299
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Rillaboom|Wood Hammer|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-weather|none
+|-heal|p1a: Alomomola|100/100|[from] move: Wish|[wisher] Alomomola
+|-heal|p2a: Rillaboom|67/100|[from] Grassy Terrain
+|upkeep
+|turn|32
+|
+|t:|1781525312
+|switch|p2a: Moltres|Moltres-Galar|100/100
+|-terastallize|p1a: Alomomola|Ghost
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|upkeep
+|turn|33
+|
+|t:|1781525320
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Moltres|Agility|p2a: Moltres
+|-boost|p2a: Moltres|spe|2
+|
+|upkeep
+|turn|34
+|
+|t:|1781525324
+|move|p2a: Moltres|Agility|p2a: Moltres
+|-boost|p2a: Moltres|spe|2
+|move|p1a: Blissey|Calm Mind|p1a: Blissey
+|-boost|p1a: Blissey|spa|1
+|-boost|p1a: Blissey|spd|1
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|35
+|
+|t:|1781525327
+|move|p2a: Moltres|Hurricane|p1a: Blissey
+|-damage|p1a: Blissey|91/100
+|-start|p1a: Blissey|confusion
+|-activate|p1a: Blissey|confusion
+|move|p1a: Blissey|Calm Mind|p1a: Blissey
+|-boost|p1a: Blissey|spa|1
+|-boost|p1a: Blissey|spd|1
+|
+|-heal|p1a: Blissey|97/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1781525333
+|move|p2a: Moltres|Hurricane|p1a: Blissey
+|-damage|p1a: Blissey|89/100
+|-activate|p1a: Blissey|confusion
+|move|p1a: Blissey|Ice Beam|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|48/100
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|-enditem|p2a: Moltres|Sitrus Berry|[eat]
+|-heal|p2a: Moltres|72/100|[from] item: Sitrus Berry
+|
+|-heal|p1a: Blissey|95/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1781525338
+|switch|p2a: Rillaboom|Rillaboom, M|67/100
+|-damage|p2a: Rillaboom|55/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|-activate|p1a: Blissey|confusion
+|move|p1a: Blissey|Calm Mind|p1a: Blissey
+|-boost|p1a: Blissey|spa|1
+|-boost|p1a: Blissey|spd|1
+|
+|-heal|p2a: Rillaboom|61/100|[from] Grassy Terrain
+|-heal|p1a: Blissey|100/100|[from] Grassy Terrain
+|upkeep
+|turn|38
+|
+|t:|1781525344
+|switch|p1a: Alomomola|Alomomola, M, tera:Ghost|100/100
+|move|p2a: Rillaboom|High Horsepower|p1a: Alomomola
+|-damage|p1a: Alomomola|74/100
+|
+|-heal|p2a: Rillaboom|67/100|[from] Grassy Terrain
+|-heal|p1a: Alomomola|80/100|[from] Grassy Terrain
+|upkeep
+|turn|39
+|
+|t:|1781525348
+|switch|p2a: Tyranitar|Tyranitar, F|78/100
+|-damage|p2a: Tyranitar|66/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Alomomola|74/100|[from] Sandstorm
+|-heal|p1a: Alomomola|80/100|[from] Grassy Terrain
+|-heal|p2a: Tyranitar|72/100|[from] Grassy Terrain
+|upkeep
+|turn|40
+|
+|t:|1781525353
+|switch|p1a: Weezing|Weezing-Galar, F|41/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Tyranitar|Knock Off|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|23/100
+|-enditem|p1a: Weezing|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weezing|17/100|[from] Sandstorm
+|-heal|p1a: Weezing|97/100|[from] move: Wish|[wisher] Alomomola
+|-heal|p1a: Weezing|100/100|[from] Grassy Terrain
+|-heal|p2a: Tyranitar|78/100|[from] Grassy Terrain
+|upkeep
+|turn|41
+|
+|t:|1781525370
+|switch|p2a: Volcanion|Volcanion|64/100
+|-damage|p2a: Volcanion|51/100|[from] Spikes
+|move|p1a: Weezing|Will-O-Wisp|p2a: Volcanion
+|-immune|p2a: Volcanion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Volcanion|45/100|[from] Sandstorm
+|-damage|p1a: Weezing|95/100|[from] Sandstorm
+|-heal|p2a: Volcanion|51/100|[from] Grassy Terrain
+|-heal|p2a: Volcanion|57/100|[from] item: Leftovers
+|-heal|p1a: Weezing|100/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|42
+|
+|t:|1781525376
+|move|p2a: Volcanion|Steam Eruption|p1a: Weezing
+|-damage|p1a: Weezing|17/100
+|-status|p1a: Weezing|brn
+|move|p1a: Weezing|Toxic|p2a: Volcanion
+|-status|p2a: Volcanion|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Volcanion|51/100 tox|[from] Sandstorm
+|-damage|p1a: Weezing|11/100 brn|[from] Sandstorm
+|-heal|p2a: Volcanion|57/100 tox|[from] item: Leftovers
+|-damage|p2a: Volcanion|51/100 tox|[from] psn
+|-damage|p1a: Weezing|5/100 brn|[from] brn
+|upkeep
+|turn|43
+|
+|t:|1781525388
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Volcanion|Steam Eruption|p1a: Blissey
+|-damage|p1a: Blissey|82/100
+|
+|-weather|none
+|-heal|p2a: Volcanion|57/100 tox|[from] item: Leftovers
+|-heal|p1a: Blissey|88/100|[from] item: Leftovers
+|-damage|p2a: Volcanion|45/100 tox|[from] psn
+|upkeep
+|turn|44
+|
+|t:|1781525395
+|switch|p2a: Rillaboom|Rillaboom, M|67/100
+|-damage|p2a: Rillaboom|55/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|switch|p1a: Alomomola|Alomomola, M, tera:Ghost|100/100
+|
+|-heal|p2a: Rillaboom|61/100|[from] Grassy Terrain
+|upkeep
+|turn|45
+|
+|t:|1781525417
+|move|p2a: Rillaboom|Wood Hammer|p1a: Alomomola
+|-damage|p1a: Alomomola|30/100
+|-damage|p2a: Rillaboom|25/100|[from] Recoil
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-heal|p2a: Rillaboom|31/100|[from] Grassy Terrain
+|-heal|p1a: Alomomola|36/100|[from] Grassy Terrain
+|upkeep
+|turn|46
+|
+|t:|1781525438
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Rillaboom|Wood Hammer|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-heal|p1a: Alomomola|86/100|[from] move: Wish|[wisher] Alomomola
+|-heal|p2a: Rillaboom|37/100|[from] Grassy Terrain
+|-heal|p1a: Alomomola|93/100|[from] Grassy Terrain
+|upkeep
+|turn|47
+|
+|t:|1781525442
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|move|p1a: Alomomola|Flip Turn|p2a: Weezing
+|-damage|p2a: Weezing|86/100
+|
+|t:|1781525452
+|switch|p1a: Gliscor|Gliscor, M|64/100 tox|[from] Flip Turn
+|
+|-heal|p2a: Weezing|92/100|[from] item: Leftovers
+|-heal|p1a: Gliscor|76/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|48
+|-message|buhuifeihhh forfeited.
+|
+|win|casual stall relax
+|raw|casual stall relax's rating: 1515 &rarr; <strong>1537</strong><br />(+22 for winning)
+|raw|buhuifeihhh's rating: 1550 &rarr; <strong>1528</strong><br />(-22 for losing)
+|l|☆buhuifeihhh
+|player|p2|
+|l|‽casual stall relax
+|player|p1|

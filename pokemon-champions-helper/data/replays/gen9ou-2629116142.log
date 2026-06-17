@@ -1,0 +1,260 @@
+|j|☆Walvis Timmy
+|j|☆Acastillo631
+|t:|1781100262
+|gametype|singles
+|player|p1|Walvis Timmy|101|1489
+|player|p2|Acastillo631|silver|1546
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Talonflame, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Cinderace, M|
+|poke|p1|Zamazenta-*|
+|poke|p2|Iron Valiant|
+|poke|p2|Sinistcha|
+|poke|p2|Tyranitar, F|
+|poke|p2|Klefki, F|
+|poke|p2|Swampert, M|
+|poke|p2|Talonflame, M|
+|teampreview
+|
+|t:|1781100308
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Duff Mcwhalen|Swampert, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Duff Mcwhalen|atk|1
+|turn|1
+|
+|t:|1781100321
+|switch|p2a: Redips|Klefki, F|100/100
+|move|p1a: Landorus|U-turn|p2a: Redips
+|-resisted|p2a: Redips
+|-damage|p2a: Redips|96/100
+|-damage|p1a: Landorus|84/100|[from] item: Rocky Helmet|[of] p2a: Redips
+|
+|t:|1781100327
+|switch|p1a: Cinderace|Cinderace, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1781100332
+|switch|p2a: Talonflame|Talonflame, M|100/100
+|move|p1a: Cinderace|Pyro Ball|p2a: Talonflame
+|-resisted|p2a: Talonflame
+|-damage|p2a: Talonflame|66/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781100340
+|move|p2a: Talonflame|Flamethrower|p1a: Cinderace
+|-resisted|p1a: Cinderace
+|-damage|p1a: Cinderace|83/100
+|move|p1a: Cinderace|Gunk Shot|p2a: Talonflame
+|-start|p1a: Cinderace|typechange|Poison|[from] ability: Libero
+|-damage|p2a: Talonflame|0 fnt
+|faint|p2a: Talonflame
+|
+|upkeep
+|
+|t:|1781100360
+|switch|p2a: Wire Sponge|Sinistcha|100/100
+|turn|4
+|
+|t:|1781100364
+|move|p1a: Cinderace|Gunk Shot|p2a: Wire Sponge
+|-damage|p2a: Wire Sponge|61/100
+|move|p2a: Wire Sponge|Shadow Ball|p1a: Cinderace
+|-damage|p1a: Cinderace|40/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781100373
+|move|p1a: Cinderace|U-turn|p2a: Wire Sponge
+|-damage|p2a: Wire Sponge|46/100
+|
+|t:|1781100376
+|switch|p1a: Pelipper|Pelipper, M|100/100|[from] U-turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Wire Sponge|Matcha Gotcha|p1a: Pelipper
+|-crit|p1a: Pelipper
+|-damage|p1a: Pelipper|22/100
+|-heal|p2a: Wire Sponge|76/100|[from] drain|[of] p1a: Pelipper
+|-status|p1a: Pelipper|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Pelipper|16/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1781100388
+|move|p1a: Pelipper|Hurricane|p2a: Wire Sponge
+|-supereffective|p2a: Wire Sponge
+|-damage|p2a: Wire Sponge|0 fnt
+|faint|p2a: Wire Sponge
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Pelipper|10/100 brn|[from] brn
+|upkeep
+|
+|t:|1781100400
+|switch|p2a: Sage Harpuia|Iron Valiant|100/100
+|-enditem|p2a: Sage Harpuia|Booster Energy
+|-activate|p2a: Sage Harpuia|ability: Quark Drive|[fromitem]
+|-start|p2a: Sage Harpuia|quarkdrivespe
+|turn|7
+|
+|t:|1781100404
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Sage Harpuia|Moonblast|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|52/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781100409
+|-end|p2a: Sage Harpuia|Quark Drive|[silent]
+|switch|p2a: Eregion|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Eregion
+|move|p1a: Hatterene|Draining Kiss|p2a: Eregion
+|-supereffective|p2a: Eregion
+|-damage|p2a: Eregion|77/100
+|-heal|p1a: Hatterene|75/100|[from] drain|[of] p2a: Eregion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hatterene|69/100|[from] Sandstorm
+|-heal|p2a: Eregion|83/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781100422
+|switch|p1a: Landorus|Landorus-Therian, M|84/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Eregion|atk|1
+|move|p2a: Eregion|Ice Beam|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|5/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Eregion|89/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781100436
+|switch|p2a: Redips|Klefki, F|96/100
+|move|p1a: Landorus|Earthquake|p2a: Redips
+|-supereffective|p2a: Redips
+|-damage|p2a: Redips|16/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781100439
+|move|p2a: Redips|Magnet Rise|p2a: Redips
+|-start|p2a: Redips|Magnet Rise
+|move|p1a: Landorus|Earthquake|p2a: Redips
+|-immune|p2a: Redips
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781100451
+|switch|p1a: Hatterene|Hatterene, F|69/100
+|move|p2a: Redips|Dazzling Gleam|p1a: Hatterene
+|-damage|p1a: Hatterene|52/100
+|
+|-weather|none
+|upkeep
+|turn|13
+|
+|t:|1781100459
+|switch|p2a: Duff Mcwhalen|Swampert, M|100/100
+|move|p1a: Hatterene|Psychic Noise|p2a: Duff Mcwhalen
+|-crit|p2a: Duff Mcwhalen
+|-damage|p2a: Duff Mcwhalen|53/100
+|-start|p2a: Duff Mcwhalen|move: Heal Block
+|
+|upkeep
+|turn|14
+|
+|t:|1781100483
+|switch|p1a: Landorus|Landorus-Therian, M|5/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Duff Mcwhalen|atk|1
+|move|p2a: Duff Mcwhalen|Earthquake|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-end|p2a: Duff Mcwhalen|move: Heal Block
+|upkeep
+|turn|15
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Walvis Timmy)
+|inactive|Acastillo631 has 120 seconds left.
+|
+|t:|1781100539
+|switch|p2a: Redips|Klefki, F|16/100
+|move|p1a: Landorus|Earthquake|p2a: Redips
+|-supereffective|p2a: Redips
+|-damage|p2a: Redips|0 fnt
+|faint|p2a: Redips
+|
+|upkeep
+|
+|t:|1781100541
+|switch|p2a: Sage Harpuia|Iron Valiant|100/100
+|turn|16
+|
+|t:|1781100555
+|move|p2a: Sage Harpuia|Moonblast|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1781100557
+|switch|p1a: Hatterene|Hatterene, F|52/100
+|turn|17
+|
+|t:|1781100581
+|-end|p2a: Sage Harpuia|Quark Drive|[silent]
+|switch|p2a: Eregion|Tyranitar, F|89/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Eregion
+|move|p1a: Hatterene|Draining Kiss|p2a: Eregion
+|-supereffective|p2a: Eregion
+|-damage|p2a: Eregion|63/100
+|-heal|p1a: Hatterene|76/100|[from] drain|[of] p2a: Eregion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hatterene|70/100|[from] Sandstorm
+|-heal|p2a: Eregion|70/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|-message|Acastillo631 forfeited.
+|
+|win|Walvis Timmy
+|raw|Walvis Timmy's rating: 1489 &rarr; <strong>1512</strong><br />(+23 for winning)
+|raw|Acastillo631's rating: 1546 &rarr; <strong>1523</strong><br />(-23 for losing)
+|l|☆Acastillo631
+|player|p2|
+|l|☆Walvis Timmy
+|player|p1|

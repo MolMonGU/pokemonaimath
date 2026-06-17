@@ -1,0 +1,254 @@
+|j|☆XianTwa
+|j|☆phreshoatmeal
+|t:|1781496787
+|gametype|singles
+|player|p1|XianTwa|dawn|1612
+|player|p2|phreshoatmeal|265|1681
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Araquanid, M|
+|poke|p1|Enamorus, F|
+|poke|p1|Great Tusk|
+|poke|p1|Gholdengo|
+|poke|p1|Iron Moth|
+|poke|p1|Quaquaval, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Excadrill, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Amoonguss, M|
+|poke|p2|Alomomola, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by XianTwa)
+|
+|t:|1781496807
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Araquanid|Araquanid, M|100/100
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|1
+|
+|t:|1781496817
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Araquanid|Surf|p2a: Hatterene
+|-damage|p2a: Hatterene|37/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Araquanid|94/100|[from] Sandstorm
+|-damage|p2a: Hatterene|31/100|[from] Sandstorm
+|-heal|p2a: Hatterene|37/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781496827
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Araquanid|Surf|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|74/100
+|-enditem|p2a: Alomomola|Eject Button
+|
+|t:|1781496841
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Araquanid|88/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1781496845
+|move|p2a: Excadrill|Rock Slide|p1a: Araquanid
+|-supereffective|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|faint|p1a: Araquanid
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781496851
+|switch|p1a: Quaquaval|Quaquaval, M|100/100
+|turn|4
+|
+|t:|1781496860
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Quaquaval|Aqua Step|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|88/100
+|-boost|p1a: Quaquaval|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Quaquaval|94/100|[from] Sandstorm
+|-damage|p2a: Alomomola|82/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1781496866
+|move|p1a: Quaquaval|Aqua Step|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|69/100
+|-boost|p1a: Quaquaval|spe|1
+|move|p2a: Alomomola|Acrobatics|p1a: Quaquaval
+|-supereffective|p1a: Quaquaval
+|-damage|p1a: Quaquaval|40/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Quaquaval|34/100|[from] Sandstorm
+|-damage|p2a: Alomomola|63/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1781496874
+|move|p1a: Quaquaval|Close Combat|p2a: Alomomola
+|-damage|p2a: Alomomola|22/100
+|-unboost|p1a: Quaquaval|def|1
+|-unboost|p1a: Quaquaval|spd|1
+|move|p2a: Alomomola|Acrobatics|p1a: Quaquaval
+|-supereffective|p1a: Quaquaval
+|-damage|p1a: Quaquaval|0 fnt
+|faint|p1a: Quaquaval
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Alomomola|16/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781496890
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespa
+|turn|7
+|
+|t:|1781496918
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|move|p1a: Iron Moth|Fiery Dance|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|89/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Moth|95/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1781496927
+|-terastallize|p1a: Iron Moth|Grass
+|move|p1a: Iron Moth|Energy Ball|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|38/100
+|move|p2a: Tyranitar|Roar|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|drag|p1a: Enamorus|Enamorus, F|100/100
+|
+|-weather|none
+|upkeep
+|turn|9
+|inactive|phreshoatmeal has 120 seconds left.
+|
+|t:|1781496971
+|switch|p2a: Amoonguss|Amoonguss, M|100/100
+|move|p1a: Enamorus|Substitute|p1a: Enamorus
+|-start|p1a: Enamorus|Substitute
+|-damage|p1a: Enamorus|76/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781496984
+|move|p1a: Enamorus|Earth Power|p2a: Amoonguss
+|-damage|p2a: Amoonguss|54/100
+|-enditem|p2a: Amoonguss|Eject Button
+|-damage|p1a: Enamorus|66/100|[from] item: Life Orb
+|
+|t:|1781496989
+|switch|p2a: Tyranitar|Tyranitar, M|38/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Enamorus|60/100|[from] Sandstorm
+|upkeep
+|turn|11
+|
+|t:|1781497001
+|move|p1a: Enamorus|Draining Kiss|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|5/100
+|-heal|p1a: Enamorus|95/100|[from] drain|[of] p2a: Tyranitar
+|-damage|p1a: Enamorus|85/100|[from] item: Life Orb
+|move|p2a: Tyranitar|Roar|p1a: Enamorus
+|drag|p1a: Iron Moth|Iron Moth, tera:Grass|95/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Moth|89/100|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1781497010
+|switch|p2a: Hatterene|Hatterene, F|37/100
+|move|p1a: Iron Moth|Fiery Dance|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Moth|83/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781497017
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|turn|13
+|
+|t:|1781497022
+|move|p2a: Excadrill|Iron Head|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781497032
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|14
+|inactive|phreshoatmeal has 120 seconds left.
+|
+|t:|1781497043
+|move|p2a: Excadrill|Iron Head|p1a: Great Tusk
+|-damage|p1a: Great Tusk|49/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|84/100
+|-boost|p1a: Great Tusk|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781497051
+|move|p2a: Excadrill|Iron Head|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|-message|XianTwa forfeited.
+|
+|win|phreshoatmeal
+|raw|XianTwa's rating: 1612 &rarr; <strong>1596</strong><br />(-16 for losing)
+|raw|phreshoatmeal's rating: 1681 &rarr; <strong>1697</strong><br />(+16 for winning)
+|l|☆XianTwa
+|player|p1|
+|l|☆phreshoatmeal
+|player|p2|

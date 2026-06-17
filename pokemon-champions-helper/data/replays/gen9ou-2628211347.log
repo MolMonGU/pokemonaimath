@@ -1,0 +1,292 @@
+|j|☆fantominus83
+|j|☆Miurez
+|t:|1780992561
+|gametype|singles
+|player|p1|fantominus83|grimsley|1722
+|player|p2|Miurez|pokemonranger-gen4|1796
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Great Tusk|
+|poke|p1|Hatterene, F|
+|poke|p1|Ceruledge, M|
+|poke|p1|Iron Crown|
+|poke|p1|Manaphy|
+|poke|p1|Ninetales-Alola, M|
+|poke|p2|Iron Moth|
+|poke|p2|Gliscor, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Zamazenta-*|
+|teampreview
+|j| gerninja1
+|
+|t:|1780992609
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|turn|1
+|
+|t:|1780992613
+|switch|p1a: Manaphy|Manaphy|100/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Manaphy
+|-resisted|p1a: Manaphy
+|-damage|p1a: Manaphy|79/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Manaphy|86/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1780992617
+|move|p2a: Iron Moth|Sludge Wave|p1a: Manaphy
+|-damage|p1a: Manaphy|34/100
+|move|p1a: Manaphy|Surf|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|24/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Manaphy|40/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1780992647
+|move|p2a: Iron Moth|Sludge Wave|p1a: Manaphy
+|-damage|p1a: Manaphy|0 fnt
+|faint|p1a: Manaphy
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1780992649
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|turn|4
+|
+|t:|1780992654
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|-damage|p1a: Ceruledge|91/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1780992666
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|5
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Miurez)
+|inactive|fantominus83 has 120 seconds left.
+|
+|t:|1780992759
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisspe
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Great Tusk|[anim] Ivy Cudgel Water
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|24/100
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1780992764
+|move|p1a: Great Tusk|Head Smash|p2a: Ogerpon
+|-damage|p2a: Ogerpon|42/100
+|-damage|p1a: Great Tusk|4/100|[from] Recoil
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1780992772
+|move|p1a: Great Tusk|Head Smash|p2a: Ogerpon|[miss]
+|-miss|p1a: Great Tusk|p2a: Ogerpon
+|move|p2a: Ogerpon|Trailblaze|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-boost|p2a: Ogerpon|spe|1
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780992780
+|switch|p1a: Ceruledge|Ceruledge, M|91/100
+|turn|8
+|
+|t:|1780992784
+|-terastallize|p1a: Ceruledge|Ghost
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|-damage|p1a: Ceruledge|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1780992793
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|9
+|
+|t:|1780992799
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Ninetales
+|-damage|p1a: Ninetales|38/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1780992809
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: fantominus83|move: Aurora Veil
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Ninetales
+|-damage|p1a: Ninetales|6/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1780992817
+|move|p1a: Ninetales|Moonblast|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|48/100
+|-unboost|p2a: Raging Bolt|spa|1
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1780992830
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|turn|12
+|
+|t:|1780992839
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Iron Crown
+|-damage|p1a: Iron Crown|85/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1780992847
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|
+|-weather|none
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|14
+|
+|t:|1780992856
+|switch|p2a: Raging Bolt|Raging Bolt|48/100
+|move|p1a: Iron Crown|Agility|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spe|2
+|
+|upkeep
+|turn|15
+|
+|t:|1780992865
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1780992872
+|move|p1a: Iron Crown|Stored Power|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780992876
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|17
+|
+|t:|1780992885
+|move|p1a: Iron Crown|Focus Blast|p2a: Zamazenta|[miss]
+|-miss|p1a: Iron Crown|p2a: Zamazenta
+|move|p2a: Zamazenta|Close Combat|p1a: Iron Crown
+|-damage|p1a: Iron Crown|62/100
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|
+|-sideend|p1: fantominus83|move: Aurora Veil
+|upkeep
+|turn|18
+|l| gerninja1
+|
+|t:|1780992894
+|move|p1a: Iron Crown|Stored Power|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1780992896
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|19
+|
+|t:|1780992907
+|move|p1a: Iron Crown|Stored Power|p2a: Hatterene
+|-resisted|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|c|☆fantominus83|gg
+|
+|t:|1780992910
+|switch|p2a: Gliscor|Gliscor, M|100/100 tox
+|turn|20
+|
+|t:|1780992913
+|move|p1a: Iron Crown|Stored Power|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|win|fantominus83
+|raw|fantominus83's rating: 1701 &rarr; <strong>1726</strong><br />(+25 for winning)
+|raw|Miurez's rating: 1796 &rarr; <strong>1771</strong><br />(-25 for losing)
+|l|☆Miurez
+|player|p2|
+|l|☆fantominus83
+|player|p1|

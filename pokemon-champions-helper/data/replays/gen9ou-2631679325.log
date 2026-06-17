@@ -1,0 +1,299 @@
+|j|☆M0onStarr
+|j|☆Railio
+|t:|1781420284
+|gametype|singles
+|player|p1|M0onStarr|2|1514
+|player|p2|Railio|266|1520
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Klefki, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Iron Crown|
+|poke|p1|Great Tusk|
+|poke|p1|Regieleki|
+|poke|p1|Kingambit, F|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Hatterene, F|
+|poke|p2|Ursaluna, M|
+|poke|p2|Kingambit, F|
+|poke|p2|Indeedee, M|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Railio)
+|inactive|M0onStarr also wants the timer to be on.
+|
+|t:|1781420297
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|turn|1
+|
+|t:|1781420322
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|91/100
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|81/100
+|-hitcount|p2a: Raging Bolt|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781420333
+|move|p1a: Iron Crown|Psychic Noise|p2a: Raging Bolt
+|-crit|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|37/100
+|-start|p2a: Raging Bolt|move: Heal Block
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Iron Crown
+|-damage|p1a: Iron Crown|30/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781420341
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|1/100
+|-unboost|p2a: Raging Bolt|spa|2
+|
+|-end|p2a: Raging Bolt|move: Heal Block
+|upkeep
+|turn|4
+|
+|t:|1781420346
+|move|p1a: Iron Crown|Psychic Noise|p2a: Raging Bolt
+|-crit|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781420354
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|turn|5
+|
+|t:|1781420358
+|move|p2a: Kingambit|Sucker Punch|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781420362
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|6
+|
+|t:|1781420367
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Hatterene
+|-damage|p2a: Hatterene|26/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781420373
+|move|p1a: Great Tusk|Headlong Rush|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781420374
+|switch|p2a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|8
+|
+|t:|1781420381
+|move|p1a: Great Tusk|Headlong Rush|p2a: Indeedee
+|-crit|p2a: Indeedee
+|-enditem|p2a: Indeedee|Focus Sash
+|-damage|p2a: Indeedee|1/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Indeedee|Trick Room|p2a: Indeedee
+|-fieldstart|move: Trick Room|[of] p2a: Indeedee
+|
+|upkeep
+|turn|9
+|
+|t:|1781420387
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Klefki|Klefki, M|100/100
+|move|p2a: Indeedee|Healing Wish|p2a: Indeedee
+|faint|p2a: Indeedee
+|
+|upkeep
+|
+|t:|1781420392
+|switch|p2a: Ursaluna|Ursaluna, M|100/100
+|turn|10
+|
+|t:|1781420395
+|move|p1a: Klefki|Switcheroo|p2a: Ursaluna
+|-activate|p2a: Ursaluna|move: Psychic Terrain
+|move|p2a: Ursaluna|Headlong Rush|p1a: Klefki
+|-supereffective|p1a: Klefki
+|-damage|p1a: Klefki|0 fnt
+|-unboost|p2a: Ursaluna|def|1
+|-unboost|p2a: Ursaluna|spd|1
+|faint|p1a: Klefki
+|
+|-status|p2a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|
+|t:|1781420403
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|11
+|
+|t:|1781420410
+|-terastallize|p2a: Ursaluna|Ghost
+|move|p2a: Ursaluna|Facade|p1a: Great Tusk
+|-damage|p1a: Great Tusk|4/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Ursaluna
+|-damage|p2a: Ursaluna|37/100 brn
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-damage|p2a: Ursaluna|31/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1781420422
+|move|p2a: Ursaluna|Headlong Rush|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-unboost|p2a: Ursaluna|def|1
+|-unboost|p2a: Ursaluna|spd|1
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-damage|p2a: Ursaluna|25/100 brn|[from] brn
+|-fieldend|move: Trick Room
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1781420429
+|switch|p1a: Regieleki|Regieleki|100/100
+|turn|13
+|
+|t:|1781420434
+|move|p1a: Regieleki|Thunderbolt|p2a: Ursaluna
+|-damage|p2a: Ursaluna|0 fnt
+|faint|p2a: Ursaluna
+|
+|upkeep
+|
+|t:|1781420436
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100
+|turn|14
+|
+|t:|1781420438
+|move|p1a: Regieleki|Thunderbolt|p2a: Hoopa
+|-damage|p2a: Hoopa|40/100
+|move|p2a: Hoopa|Trick Room|p2a: Hoopa
+|-fieldstart|move: Trick Room|[of] p2a: Hoopa
+|
+|-heal|p2a: Hoopa|46/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781420441
+|move|p2a: Hoopa|Thunderbolt|p1a: Regieleki
+|-resisted|p1a: Regieleki
+|-damage|p1a: Regieleki|57/100
+|move|p1a: Regieleki|Thunderbolt|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|faint|p2a: Hoopa
+|
+|upkeep
+|
+|t:|1781420443
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|turn|16
+|
+|t:|1781420445
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Regieleki
+|-damage|p1a: Regieleki|0 fnt
+|faint|p1a: Regieleki
+|
+|upkeep
+|
+|t:|1781420448
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|17
+|
+|t:|1781420461
+|move|p2a: Kingambit|Brick Break|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|
+|upkeep
+|
+|t:|1781420463
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|18
+|
+|t:|1781420475
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|22/100
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Kingambit
+|-damage|p2a: Kingambit|36/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|19
+|
+|t:|1781420484
+|move|p1a: Raging Bolt|Thunderclap|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen5|[silent]
+|
+|win|M0onStarr
+|raw|M0onStarr's rating: 1514 &rarr; <strong>1534</strong><br />(+20 for winning)
+|raw|Railio's rating: 1520 &rarr; <strong>1500</strong><br />(-20 for losing)
+|c|☆M0onStarr|Gg
+|l|☆Railio
+|player|p2|
+|l|☆M0onStarr
+|player|p1|

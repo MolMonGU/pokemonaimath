@@ -1,0 +1,492 @@
+|j|☆omari p
+|j|☆clickdontthink
+|t:|1781378175
+|gametype|singles
+|player|p1|omari p|pokemonrangerf|1593
+|player|p2|clickdontthink|bruno-gen2|1562
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Klefki, M|
+|poke|p1|Keldeo-Resolute|
+|poke|p1|Garchomp, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Trevenant, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Kingambit, F|
+|poke|p2|Kyurem|
+|poke|p2|Blaziken, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Deoxys-Speed|
+|teampreview
+|
+|t:|1781378221
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Klefki|Klefki, M|100/100
+|switch|p2a: Blaziken|Blaziken, F|100/100
+|-item|p2a: Blaziken|Air Balloon
+|turn|1
+|
+|t:|1781378228
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Blaziken|atk|1
+|move|p2a: Blaziken|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|73/100
+|-enditem|p1a: Landorus|Choice Scarf|[from] move: Knock Off|[of] p2a: Blaziken
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|2
+|
+|t:|1781378253
+|move|p2a: Blaziken|Swords Dance|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|2
+|move|p1a: Landorus|U-turn|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-damage|p2a: Blaziken|90/100
+|-enditem|p2a: Blaziken|Air Balloon
+|
+|t:|1781378266
+|switch|p1a: Garchomp|Garchomp, F|100/100|[from] U-turn
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|3
+|
+|t:|1781378275
+|move|p2a: Blaziken|Close Combat|p1a: Garchomp
+|-damage|p1a: Garchomp|36/100
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|-damage|p2a: Blaziken|78/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Blaziken|61/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|move|p1a: Garchomp|Dragon Tail|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|upkeep
+|
+|t:|1781378283
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|4
+|
+|t:|1781378293
+|switch|p1a: Trevenant|Trevenant, F|100/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Trevenant|[anim] Ivy Cudgel Water
+|-resisted|p1a: Trevenant
+|-damage|p1a: Trevenant|61/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781378298
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Trevenant|Will-O-Wisp|p2a: Kyurem
+|-status|p2a: Kyurem|brn
+|
+|-damage|p2a: Kyurem|94/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1781378306
+|switch|p1a: Klefki|Klefki, M|100/100
+|move|p2a: Kyurem|Icicle Spear|p1a: Klefki
+|-resisted|p1a: Klefki
+|-damage|p1a: Klefki|97/100
+|-resisted|p1a: Klefki
+|-damage|p1a: Klefki|93/100
+|-resisted|p1a: Klefki
+|-damage|p1a: Klefki|89/100
+|-resisted|p1a: Klefki
+|-damage|p1a: Klefki|86/100
+|-hitcount|p1a: Klefki|4
+|
+|-heal|p1a: Klefki|92/100|[from] item: Leftovers
+|-damage|p2a: Kyurem|88/100 brn|[from] brn
+|upkeep
+|turn|7
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by omari p)
+|
+|t:|1781378317
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Klefki|Spikes|p2a: Kingambit
+|-sidestart|p2: clickdontthink|Spikes
+|
+|-heal|p1a: Klefki|98/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781378329
+|switch|p1a: Landorus|Landorus-Therian, M|73/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Kingambit|atk|1
+|move|p2a: Kingambit|Iron Head|p1a: Landorus
+|-damage|p1a: Landorus|31/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781378337
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Kyurem|Kyurem|88/100 brn
+|-damage|p2a: Kyurem|76/100 brn|[from] Spikes
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Landorus|U-turn|p2a: Kyurem
+|-damage|p2a: Kyurem|50/100 brn
+|
+|t:|1781378356
+|switch|p1a: Klefki|Klefki, M|98/100|[from] U-turn
+|
+|-heal|p1a: Klefki|100/100|[from] item: Leftovers
+|-damage|p2a: Kyurem|44/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1781378359
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-damage|p2a: Kingambit|88/100|[from] Spikes
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Klefki|Spikes|p2a: Kingambit
+|-sidestart|p2: clickdontthink|Spikes
+|
+|-heal|p2a: Kingambit|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781378364
+|switch|p1a: Garchomp|Garchomp, F|36/100
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|99/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781378372
+|move|p1a: Garchomp|Stealth Rock|p2a: Kingambit
+|-sidestart|p2: clickdontthink|move: Stealth Rock
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Kingambit|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Kingambit|71/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|-heal|p2a: Kingambit|77/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781378375
+|switch|p1a: Landorus|Landorus-Therian, M|31/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Kingambit|atk|1
+|turn|13
+|
+|t:|1781378378
+|switch|p1a: Keldeo|Keldeo-Resolute|100/100
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|
+|-heal|p2a: Kingambit|83/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781378390
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-damage|p2a: Deoxys|84/100|[from] Spikes
+|-damage|p2a: Deoxys|72/100|[from] Stealth Rock
+|-ability|p2a: Deoxys|Pressure
+|move|p1a: Keldeo|Secret Sword|p2a: Deoxys
+|-resisted|p2a: Deoxys
+|-damage|p2a: Deoxys|47/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781378397
+|switch|p1a: Klefki|Klefki, M|100/100
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: clickdontthink|move: Light Screen
+|
+|upkeep
+|turn|16
+|
+|t:|1781378404
+|move|p1a: Klefki|Spikes|p2a: Deoxys
+|-sidestart|p2: clickdontthink|Spikes
+|move|p2a: Deoxys|Taunt|p1a: Klefki
+|-start|p1a: Klefki|move: Taunt
+|
+|upkeep
+|turn|17
+|
+|t:|1781378407
+|switch|p1a: Trevenant|Trevenant, F|61/100
+|move|p2a: Deoxys|Stealth Rock|p1a: Trevenant
+|-sidestart|p1: omari p|move: Stealth Rock
+|
+|upkeep
+|turn|18
+|
+|t:|1781378414
+|switch|p1a: Klefki|Klefki, M|100/100
+|-damage|p1a: Klefki|95/100|[from] Stealth Rock
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: clickdontthink|Reflect
+|
+|-heal|p1a: Klefki|100/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781378418
+|switch|p2a: Kyurem|Kyurem|44/100 brn
+|-damage|p2a: Kyurem|19/100 brn|[from] Spikes
+|-damage|p2a: Kyurem|0 fnt|[from] Stealth Rock
+|faint|p2a: Kyurem
+|move|p1a: Klefki|Magic Room|p1a: Klefki
+|-fieldstart|move: Magic Room|[of] p1a: Klefki
+|
+|upkeep
+|
+|t:|1781378428
+|switch|p2a: Kingambit|Kingambit, F|83/100
+|-damage|p2a: Kingambit|59/100|[from] Spikes
+|-damage|p2a: Kingambit|53/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|turn|20
+|
+|t:|1781378437
+|switch|p1a: Landorus|Landorus-Therian, M|31/100
+|-damage|p1a: Landorus|19/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Kingambit|atk|1
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|upkeep
+|turn|21
+|
+|t:|1781378444
+|switch|p1a: Klefki|Klefki, M|100/100
+|-damage|p1a: Klefki|95/100|[from] Stealth Rock
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|
+|upkeep
+|turn|22
+|
+|t:|1781378448
+|switch|p1a: Landorus|Landorus-Therian, M|19/100
+|-damage|p1a: Landorus|7/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Kingambit|atk|1
+|move|p2a: Kingambit|Iron Head|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-sideend|p2: clickdontthink|move: Light Screen
+|upkeep
+|
+|t:|1781378455
+|switch|p1a: Keldeo|Keldeo-Resolute|100/100
+|-damage|p1a: Keldeo|94/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1781378465
+|move|p1a: Keldeo|Calm Mind|p1a: Keldeo
+|-boost|p1a: Keldeo|spa|1
+|-boost|p1a: Keldeo|spd|1
+|move|p2a: Kingambit|Iron Head|p1a: Keldeo
+|-resisted|p1a: Keldeo
+|-damage|p1a: Keldeo|60/100
+|
+|-fieldend|move: Magic Room|[of] p1: Klefki
+|upkeep
+|turn|24
+|
+|t:|1781378480
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Deoxys|Deoxys-Speed|47/100
+|-damage|p2a: Deoxys|22/100|[from] Spikes
+|-damage|p2a: Deoxys|9/100|[from] Stealth Rock
+|-ability|p2a: Deoxys|Pressure
+|move|p1a: Keldeo|Secret Sword|p2a: Deoxys
+|-resisted|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1781378482
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-damage|p2a: Iron Valiant|76/100|[from] Spikes
+|-damage|p2a: Iron Valiant|69/100|[from] Stealth Rock
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|25
+|
+|t:|1781378501
+|switch|p1a: Klefki|Klefki, M|95/100
+|-damage|p1a: Klefki|89/100|[from] Stealth Rock
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Klefki
+|-damage|p1a: Klefki|66/100
+|
+|-heal|p1a: Klefki|72/100|[from] item: Leftovers
+|-sideend|p2: clickdontthink|Reflect
+|upkeep
+|turn|26
+|inactive|omari p has 120 seconds left.
+|
+|t:|1781378543
+|move|p1a: Klefki|Thunder Wave|p2a: Iron Valiant
+|-status|p2a: Iron Valiant|par
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|
+|-heal|p1a: Klefki|78/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781378548
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Klefki
+|-damage|p1a: Klefki|45/100
+|move|p1a: Klefki|Flash Cannon|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|17/100 par
+|
+|-heal|p1a: Klefki|51/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781378554
+|cant|p2a: Iron Valiant|par
+|move|p1a: Klefki|Flash Cannon|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-heal|p1a: Klefki|57/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781378556
+|switch|p2a: Kingambit|Kingambit, F|53/100
+|-damage|p2a: Kingambit|28/100|[from] Spikes
+|-damage|p2a: Kingambit|22/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|29
+|
+|t:|1781378564
+|switch|p1a: Trevenant|Trevenant, F|61/100
+|-damage|p1a: Trevenant|49/100|[from] Stealth Rock
+|-enditem|p1a: Trevenant|Sitrus Berry|[eat]
+|-heal|p1a: Trevenant|73/100|[from] item: Sitrus Berry
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|28/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781378570
+|move|p2a: Kingambit|Iron Head|p1a: Trevenant
+|-damage|p1a: Trevenant|0 fnt
+|faint|p1a: Trevenant
+|
+|-heal|p2a: Kingambit|34/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781378573
+|switch|p1a: Keldeo|Keldeo-Resolute|60/100
+|-damage|p1a: Keldeo|54/100|[from] Stealth Rock
+|turn|31
+|
+|t:|1781378578
+|move|p2a: Kingambit|Sucker Punch|p1a: Keldeo
+|-resisted|p1a: Keldeo
+|-damage|p1a: Keldeo|0 fnt
+|faint|p1a: Keldeo
+|
+|-heal|p2a: Kingambit|40/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781378580
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|32
+|
+|t:|1781378586
+|move|p1a: Iron Valiant|Moonblast|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen4|[silent]
+|
+|upkeep
+|
+|t:|1781378589
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|76/100|[from] Spikes
+|-damage|p2a: Ogerpon|63/100|[from] Stealth Rock
+|turn|33
+|
+|t:|1781378611
+|-terastallize|p2a: Ogerpon|Water
+|detailschange|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|move|p1a: Iron Valiant|Moonblast|p2a: Ogerpon
+|-damage|p2a: Ogerpon|23/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Iron Valiant|[anim] Ivy Cudgel Water
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781378613
+|switch|p1a: Klefki|Klefki, M|57/100
+|-damage|p1a: Klefki|51/100|[from] Stealth Rock
+|turn|34
+|
+|t:|1781378617
+|move|p1a: Klefki|Thunder Wave|p2a: Ogerpon|[miss]
+|-miss|p1a: Klefki|p2a: Ogerpon
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Klefki|[anim] Ivy Cudgel Water
+|-damage|p1a: Klefki|0 fnt
+|faint|p1a: Klefki
+|
+|win|clickdontthink
+|raw|omari p's rating: 1593 &rarr; <strong>1571</strong><br />(-22 for losing)
+|raw|clickdontthink's rating: 1562 &rarr; <strong>1584</strong><br />(+22 for winning)
+|c|☆clickdontthink|gg
+|c|☆clickdontthink|ur teams are hella unique man, good stuff
+|c|☆omari p|ty ty
+|l|☆omari p
+|player|p1|
+|l|☆clickdontthink
+|player|p2|

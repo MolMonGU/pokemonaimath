@@ -1,0 +1,225 @@
+|j|☆KurisuChestnutLab
+|j|☆dooming
+|t:|1781119151
+|gametype|singles
+|player|p1|KurisuChestnutLab|may-contest|1531
+|player|p2|dooming|marshal|1558
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Zapdos|
+|poke|p1|Garganacl, M|
+|poke|p1|Clefable, M|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Gholdengo|
+|poke|p2|Heatran, F|
+|poke|p2|Dragonite, F|
+|poke|p2|Great Tusk|
+|poke|p2|Kyurem|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutLab)
+|
+|t:|1781119180
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|switch|p2a: Weezing|Weezing-Galar, M, shiny|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|turn|1
+|
+|t:|1781119183
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Heatran|Heatran, F, shiny|100/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|80/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781119189
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Heatran|Magma Storm|p1a: Zamazenta
+|-damage|p1a: Zamazenta|59/100
+|-activate|p1a: Zamazenta|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p1a: Zamazenta|65/100|[from] item: Leftovers
+|-damage|p1a: Zamazenta|53/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|3
+|
+|t:|1781119194
+|switch|p2a: Weezing|Weezing-Galar, M, shiny|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Zamazenta|Body Press|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|93/100
+|
+|-heal|p1a: Zamazenta|59/100|[from] item: Leftovers
+|-heal|p2a: Weezing|99/100|[from] item: Leftovers
+|-end|p1a: Zamazenta|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|4
+|
+|t:|1781119198
+|switch|p1a: Garganacl|Garganacl, M|100/100
+|move|p2a: Weezing|Will-O-Wisp|p1a: Garganacl
+|-status|p1a: Garganacl|brn
+|
+|-heal|p2a: Weezing|100/100|[from] item: Leftovers
+|-damage|p1a: Garganacl|94/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1781119203
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Great Tusk|Great Tusk, shiny|100/100
+|move|p1a: Garganacl|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: dooming|move: Stealth Rock
+|
+|-heal|p1a: Garganacl|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Garganacl|94/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1781119206
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Zapdos
+|-damage|p1a: Zapdos|87/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: dooming|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|7
+|
+|t:|1781119212
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Heatran|Heatran, F, shiny|80/100
+|move|p1a: Zapdos|Hurricane|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|67/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781119216
+|move|p1a: Zapdos|Volt Switch|p2a: Heatran
+|-damage|p2a: Heatran|51/100
+|
+|t:|1781119219
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100|[from] Volt Switch
+|move|p2a: Heatran|Magma Storm|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|56/100
+|-activate|p1a: Samurott|move: Magma Storm|[of] p2a: Heatran
+|
+|-damage|p1a: Samurott|44/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|9
+|
+|t:|1781119228
+|switch|p2a: Weezing|Weezing-Galar, M, shiny|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Samurott|Razor Shell|p2a: Weezing
+|-damage|p2a: Weezing|80/100
+|
+|-heal|p2a: Weezing|86/100|[from] item: Leftovers
+|-end|p1a: Samurott|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|10
+|
+|t:|1781119235
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Weezing|Will-O-Wisp|p1a: Gholdengo|[miss]
+|-miss|p2a: Weezing|p1a: Gholdengo
+|
+|-heal|p2a: Weezing|92/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781119239
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Heatran|Heatran, F, shiny|51/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|27/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781119243
+|switch|p1a: Garganacl|Garganacl, M|94/100 brn
+|move|p2a: Heatran|Magma Storm|p1a: Garganacl
+|-resisted|p1a: Garganacl
+|-damage|p1a: Garganacl|74/100 brn
+|-activate|p1a: Garganacl|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p1a: Garganacl|80/100 brn|[from] item: Leftovers
+|-damage|p1a: Garganacl|74/100 brn|[from] brn
+|-damage|p1a: Garganacl|62/100 brn|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|13
+|
+|t:|1781119259
+|move|p2a: Heatran|Earth Power|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|13/100 brn
+|move|p1a: Garganacl|Stealth Rock|p2a: Heatran
+|-sidestart|p2: dooming|move: Stealth Rock
+|
+|-heal|p1a: Garganacl|19/100 brn|[from] item: Leftovers
+|-damage|p1a: Garganacl|13/100 brn|[from] brn
+|-damage|p1a: Garganacl|1/100 brn|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|14
+|
+|t:|1781119266
+|move|p2a: Heatran|Burning Jealousy|p1a: Garganacl
+|-resisted|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|faint|p1a: Garganacl
+|
+|upkeep
+|
+|t:|1781119272
+|switch|p1a: Samurott|Samurott-Hisui, F|44/100
+|turn|15
+|
+|t:|1781119277
+|move|p1a: Samurott|Razor Shell|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1781119293
+|switch|p2a: Great Tusk|Great Tusk, shiny|100/100
+|-damage|p2a: Great Tusk|97/100|[from] Stealth Rock
+|turn|16
+|inactive|KurisuChestnutLab has 120 seconds left.
+|inactive|KurisuChestnutLab has 90 seconds left.
+|inactive|KurisuChestnutLab has 60 seconds left.
+|inactive|KurisuChestnutLab has 30 seconds left.
+|inactive|KurisuChestnutLab has 20 seconds left.
+|inactive|KurisuChestnutLab has 15 seconds left.
+|inactive|KurisuChestnutLab has 10 seconds left.
+|inactive|KurisuChestnutLab has 5 seconds left.
+|-message|KurisuChestnutLab lost due to inactivity.
+|
+|win|dooming
+|raw|KurisuChestnutLab's rating: 1566 &rarr; <strong>1546</strong><br />(-20 for losing)
+|raw|dooming's rating: 1558 &rarr; <strong>1578</strong><br />(+20 for winning)

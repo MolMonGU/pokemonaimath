@@ -1,0 +1,434 @@
+|j|☆LowEL0God
+|j|‽Bring it on mon
+|t:|1781246623
+|gametype|singles
+|player|p1|LowEL0God|265|1593
+|player|p2|Bring it on mon|galacticgruntf|1599
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, F|
+|poke|p1|Barraskewda, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, F|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Klefki, M|
+|poke|p2|Maushold-Four|
+|poke|p2|Latias, F|
+|poke|p2|Okidogi, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|inactive|Bring it on mon also wants the timer to be on.
+|
+|t:|1781246628
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|switch|p2a: Klefki|Klefki, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|1
+|
+|t:|1781246630
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|move|p2a: Klefki|Reflect|p2a: Klefki
+|-sidestart|p2: Bring it on mon|Reflect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781246632
+|move|p2a: Klefki|Light Screen|p2a: Klefki
+|-sidestart|p2: Bring it on mon|move: Light Screen
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781246634
+|switch|p2a: Okidogi|Okidogi, M|100/100
+|move|p1a: Kingambit|Iron Head|p2a: Okidogi
+|-damage|p2a: Okidogi|65/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Okidogi|71/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781246638
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|move|p2a: Okidogi|Knock Off|p1a: Pelipper
+|-damage|p1a: Pelipper|72/100
+|-enditem|p1a: Pelipper|Damp Rock|[from] move: Knock Off|[of] p2a: Okidogi
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Okidogi|77/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781246643
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Pelipper|Hurricane|p2a: Ninetales
+|-damage|p2a: Ninetales|78/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781246645
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: Bring it on mon|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781246649
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781246653
+|move|p2a: Ogerpon|Encore|p1a: Kingambit
+|-start|p1a: Kingambit|Encore
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|-sideend|p2: Bring it on mon|Reflect
+|upkeep
+|turn|9
+|
+|t:|1781246654
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|-weather|none
+|-sideend|p2: Bring it on mon|move: Light Screen
+|upkeep
+|turn|10
+|
+|t:|1781246661
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Raging Bolt|[anim] Ivy Cudgel Water
+|-resisted|p1a: Raging Bolt
+|-crit|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|16/100
+|move|p1a: Raging Bolt|Thunder|p2a: Ogerpon|[miss]
+|-miss|p1a: Raging Bolt|p2a: Ogerpon
+|
+|upkeep
+|turn|11
+|
+|t:|1781246667
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|12
+|
+|t:|1781246668
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2a: Ogerpon|Encore|p1a: Raging Bolt
+|-start|p1a: Raging Bolt|Encore
+|
+|upkeep
+|turn|13
+|
+|t:|1781246670
+|move|p1a: Raging Bolt|Thunderclap|p2a: Ogerpon
+|-damage|p2a: Ogerpon|72/100
+|move|p2a: Ogerpon|Trailblaze|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|-boost|p2a: Ogerpon|spe|1
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-sideend|p2: Bring it on mon|move: Aurora Veil
+|upkeep
+|
+|t:|1781246670
+|switch|p1a: Pelipper|Pelipper, M|72/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|14
+|
+|t:|1781246672
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Pelipper|[anim] Ivy Cudgel Water
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781246673
+|switch|p1a: Overqwil|Overqwil, F|100/100
+|turn|15
+|
+|t:|1781246680
+|switch|p2a: Klefki|Klefki, M|100/100
+|move|p1a: Overqwil|Gunk Shot|p2a: Klefki
+|-immune|p2a: Klefki
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781246683
+|move|p2a: Klefki|Reflect|p2a: Klefki
+|-sidestart|p2: Bring it on mon|Reflect
+|move|p1a: Overqwil|Swords Dance|p1a: Overqwil
+|-boost|p1a: Overqwil|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781246685
+|switch|p2a: Ninetales|Ninetales-Alola, F|78/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Overqwil|Liquidation|p2a: Ninetales
+|-damage|p2a: Ninetales|51/100
+|-damage|p1a: Overqwil|91/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781246689
+|move|p2a: Ninetales|Encore|p1a: Overqwil
+|-start|p1a: Overqwil|Encore
+|move|p1a: Overqwil|Liquidation|p2a: Ninetales
+|-damage|p2a: Ninetales|19/100
+|-damage|p1a: Overqwil|81/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781246691
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|72/100
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781246693
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Kingambit|[anim] Ivy Cudgel Water
+|-damage|p1a: Kingambit|57/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kingambit|63/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781246697
+|move|p2a: Ogerpon|Encore|p1a: Kingambit
+|-start|p1a: Kingambit|Encore
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|none
+|-heal|p1a: Kingambit|70/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781246699
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|76/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781246701
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Kingambit|[anim] Ivy Cudgel Water
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen2|[silent]
+|
+|-sideend|p2: Bring it on mon|Reflect
+|upkeep
+|
+|t:|1781246701
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|turn|24
+|
+|t:|1781246711
+|switch|p2a: Okidogi|Okidogi, M|77/100
+|move|p1a: Barraskewda|Close Combat|p2a: Okidogi
+|-resisted|p2a: Okidogi
+|-damage|p2a: Okidogi|51/100
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|
+|-heal|p2a: Okidogi|57/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781246713
+|switch|p1a: Overqwil|Overqwil, F|81/100
+|move|p2a: Okidogi|Knock Off|p1a: Overqwil
+|-resisted|p1a: Overqwil
+|-damage|p1a: Overqwil|61/100
+|-enditem|p1a: Overqwil|Life Orb|[from] move: Knock Off|[of] p2a: Okidogi
+|
+|-heal|p2a: Okidogi|63/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781246719
+|move|p1a: Overqwil|Swords Dance|p1a: Overqwil
+|-boost|p1a: Overqwil|atk|2
+|move|p2a: Okidogi|Drain Punch|p1a: Overqwil
+|-damage|p1a: Overqwil|14/100
+|-heal|p2a: Okidogi|83/100|[from] drain|[of] p1a: Overqwil
+|
+|-heal|p2a: Okidogi|89/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781246725
+|move|p1a: Overqwil|Liquidation|p2a: Okidogi
+|-damage|p2a: Okidogi|42/100
+|move|p2a: Okidogi|Drain Punch|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|-heal|p2a: Okidogi|47/100|[from] drain|[of] p1a: Overqwil
+|faint|p1a: Overqwil
+|
+|-heal|p2a: Okidogi|53/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781246726
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|28
+|
+|t:|1781246730
+|switch|p2a: Latias|Latias, F|100/100
+|move|p1a: Iron Treads|Earth Power|p2a: Latias
+|-immune|p2a: Latias|[from] ability: Levitate
+|
+|upkeep
+|turn|29
+|
+|t:|1781246733
+|move|p1a: Iron Treads|Stealth Rock|p2a: Latias
+|-sidestart|p2: Bring it on mon|move: Stealth Rock
+|move|p2a: Latias|Agility|p2a: Latias
+|-boost|p2a: Latias|spe|2
+|
+|upkeep
+|turn|30
+|
+|t:|1781246735
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Iron Treads|Rapid Spin|p2a: Latias
+|-damage|p2a: Latias|90/100
+|-boost|p1a: Iron Treads|spe|1
+|
+|upkeep
+|turn|31
+|
+|t:|1781246739
+|move|p1a: Iron Treads|Rapid Spin|p2a: Latias
+|-damage|p2a: Latias|80/100
+|-boost|p1a: Iron Treads|spe|1
+|move|p2a: Latias|Agility|p2a: Latias
+|-boost|p2a: Latias|spe|2
+|
+|upkeep
+|turn|32
+|
+|t:|1781246740
+|move|p1a: Iron Treads|Rapid Spin|p2a: Latias
+|-damage|p2a: Latias|70/100
+|-boost|p1a: Iron Treads|spe|1
+|move|p2a: Latias|Agility|p2a: Latias
+|-boost|p2a: Latias|spe|2
+|
+|upkeep
+|turn|33
+|
+|t:|1781246742
+|move|p1a: Iron Treads|Rapid Spin|p2a: Latias
+|-damage|p2a: Latias|61/100
+|-boost|p1a: Iron Treads|spe|1
+|move|p2a: Latias|Stored Power|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|10/100
+|
+|upkeep
+|turn|34
+|
+|t:|1781246744
+|-terastallize|p1a: Iron Treads|Ghost
+|move|p1a: Iron Treads|Steel Beam|p2a: Latias
+|-damage|p2a: Latias|30/100
+|-damage|p1a: Iron Treads|0 fnt|[from] steelbeam
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|move|p2a: Latias|Stored Power|p1: Iron Treads|[notarget]
+|-fail|p2a: Latias
+|
+|upkeep
+|
+|t:|1781246744
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|turn|35
+|
+|t:|1781246747
+|move|p2a: Latias|Stored Power|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|win|Bring it on mon
+|raw|LowEL0God's rating: 1593 &rarr; <strong>1573</strong><br />(-20 for losing)
+|raw|Bring it on mon's rating: 1599 &rarr; <strong>1619</strong><br />(+20 for winning)
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p1|
+|l|‽Bring it on mon
+|player|p2|

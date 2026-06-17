@@ -1,0 +1,459 @@
+|j|☆phreshoatmeal
+|j|☆XianTwa
+|t:|1781064757
+|gametype|singles
+|player|p1|phreshoatmeal|clerk|1548
+|player|p2|XianTwa|dawn|1596
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Excadrill, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Hydrapple, M|
+|poke|p1|Corviknight, M|
+|poke|p1|Zamazenta-*|
+|poke|p2|Hatterene, F|
+|poke|p2|Arcanine-Hisui, M|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Darkrai|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by XianTwa)
+|
+|t:|1781064774
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|switch|p2a: Arcanine|Arcanine-Hisui, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|1
+|j| testingrainteam1
+|
+|t:|1781064792
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|move|p2a: Arcanine|Will-O-Wisp|p1a: Hydrapple
+|-status|p1a: Hydrapple|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hydrapple|94/100 brn|[from] Sandstorm
+|-damage|p1a: Hydrapple|88/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1781064801
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Hydrapple|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|65/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hydrapple|82/100 brn|[from] Sandstorm
+|-damage|p2a: Slowking|59/100|[from] Sandstorm
+|-damage|p1a: Hydrapple|76/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1781064811
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781064821
+|switch|p2a: Arcanine|Arcanine-Hisui, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781064827
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Arcanine|Head Smash|p1a: Tyranitar
+|-damage|p1a: Tyranitar|34/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|j| dalty dalty dalty
+|
+|t:|1781064838
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|move|p2a: Arcanine|Head Smash|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|65/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781064846
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Excadrill|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|5/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hatterene|0 fnt|[from] Sandstorm
+|faint|p2a: Hatterene
+|upkeep
+|
+|t:|1781064864
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|7
+|
+|t:|1781064886
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|94/100|[from] Sandstorm
+|-damage|p1a: Hatterene|95/100|[from] Sandstorm
+|-heal|p2a: Zamazenta|100/100|[from] item: Leftovers
+|-heal|p1a: Hatterene|100/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|l| dalty dalty dalty
+|inactive|phreshoatmeal has 120 seconds left.
+|
+|t:|1781064911
+|-terastallize|p2a: Zamazenta|Fire
+|move|p2a: Zamazenta|Heavy Slam|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|39/100
+|move|p1a: Hatterene|Future Sight|p2a: Zamazenta
+|-start|p1a: Hatterene|move: Future Sight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|94/100|[from] Sandstorm
+|-damage|p1a: Hatterene|34/100|[from] Sandstorm
+|-heal|p2a: Zamazenta|100/100|[from] item: Leftovers
+|-heal|p1a: Hatterene|39/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|phreshoatmeal has 120 seconds left.
+|
+|t:|1781064929
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|move|p2a: Zamazenta|Heavy Slam|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|93/100
+|-enditem|p1a: Corviknight|Eject Button
+|
+|t:|1781064948
+|switch|p1a: Hatterene|Hatterene, F|39/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|94/100|[from] Sandstorm
+|-damage|p1a: Hatterene|34/100|[from] Sandstorm
+|-heal|p2a: Zamazenta|100/100|[from] item: Leftovers
+|-heal|p1a: Hatterene|39/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781064958
+|switch|p2a: Darkrai|Darkrai|100/100
+|switch|p1a: Hydrapple|Hydrapple, M|100/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Darkrai|94/100|[from] Sandstorm
+|-damage|p1a: Hydrapple|94/100 brn|[from] Sandstorm
+|-end|p2a: Darkrai|move: Future Sight
+|-immune|p2a: Darkrai
+|-damage|p1a: Hydrapple|88/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781064968
+|switch|p1a: Corviknight|Corviknight, M|93/100
+|move|p2a: Darkrai|Ice Beam|p1a: Corviknight
+|-damage|p1a: Corviknight|73/100
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1781064976
+|switch|p2a: Slowking|Slowking-Galar, F|93/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|13
+|
+|t:|1781064978
+|move|p1a: Corviknight|Brave Bird|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|39/100
+|-damage|p1a: Corviknight|83/100|[from] Recoil
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781064981
+|switch|p2a: Arcanine|Arcanine-Hisui, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781064991
+|switch|p1a: Hydrapple|Hydrapple, M|100/100 brn
+|move|p2a: Arcanine|Flare Blitz|p1a: Hydrapple
+|-damage|p1a: Hydrapple|55/100 brn
+|-enditem|p1a: Hydrapple|Eject Button
+|
+|t:|1781065003
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781065010
+|switch|p2a: Slowking|Slowking-Galar, F|72/100
+|move|p1a: Zamazenta|Howl|p1a: Zamazenta
+|-boost|p1a: Zamazenta|atk|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781065016
+|move|p1a: Zamazenta|Crunch|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781065024
+|switch|p2a: Zamazenta|Zamazenta, tera:Fire|100/100
+|turn|17
+|
+|t:|1781065029
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p1a: Zamazenta|Close Combat|p2a: Zamazenta
+|-damage|p2a: Zamazenta|59/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|
+|-weather|none
+|-heal|p2a: Zamazenta|65/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781065047
+|switch|p1a: Hatterene|Hatterene, F|39/100
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-heal|p2a: Zamazenta|71/100|[from] item: Leftovers
+|-heal|p1a: Hatterene|45/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781065063
+|switch|p1a: Hydrapple|Hydrapple, M|88/100 brn
+|move|p2a: Zamazenta|Heavy Slam|p1a: Hydrapple
+|-crit|p1a: Hydrapple
+|-damage|p1a: Hydrapple|73/100 brn
+|
+|-heal|p2a: Zamazenta|77/100|[from] item: Leftovers
+|-damage|p1a: Hydrapple|67/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1781065070
+|move|p2a: Zamazenta|Body Press|p1a: Hydrapple
+|-damage|p1a: Hydrapple|11/100 brn
+|move|p1a: Hydrapple|Earth Power|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|34/100
+|
+|-heal|p2a: Zamazenta|40/100|[from] item: Leftovers
+|-damage|p1a: Hydrapple|5/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1781065088
+|switch|p1a: Hatterene|Hatterene, F|45/100
+|move|p2a: Zamazenta|Body Press|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|24/100
+|
+|-heal|p2a: Zamazenta|46/100|[from] item: Leftovers
+|-heal|p1a: Hatterene|30/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781065101
+|switch|p1a: Tyranitar|Tyranitar, F|34/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Zamazenta|Heavy Slam|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|18/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|40/100|[from] Sandstorm
+|-heal|p2a: Zamazenta|46/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781065109
+|switch|p1a: Hatterene|Hatterene, F|30/100
+|move|p2a: Zamazenta|Body Press|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|8/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|40/100|[from] Sandstorm
+|-damage|p1a: Hatterene|2/100|[from] Sandstorm
+|-heal|p2a: Zamazenta|46/100|[from] item: Leftovers
+|-heal|p1a: Hatterene|8/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781065114
+|move|p2a: Zamazenta|Body Press|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|40/100|[from] Sandstorm
+|-heal|p2a: Zamazenta|46/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781065116
+|switch|p1a: Excadrill|Excadrill, F|65/100
+|turn|25
+|
+|t:|1781065126
+|switch|p2a: Darkrai|Darkrai|94/100
+|-terastallize|p1a: Excadrill|Ground
+|move|p1a: Excadrill|Earthquake|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781065133
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|26
+|
+|t:|1781065141
+|switch|p1a: Corviknight|Corviknight, M|83/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Corviknight|[anim] Ivy Cudgel Water
+|-damage|p1a: Corviknight|33/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ogerpon|95/100|[from] Sandstorm
+|upkeep
+|turn|27
+|
+|t:|1781065153
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Corviknight|[anim] Ivy Cudgel Water
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ogerpon|89/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781065166
+|switch|p1a: Excadrill|Excadrill, F, tera:Ground|65/100
+|turn|28
+|
+|t:|1781065168
+|move|p1a: Excadrill|Poison Jab|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781065179
+|switch|p2a: Zamazenta|Zamazenta, tera:Fire|46/100
+|turn|29
+|
+|t:|1781065193
+|switch|p1a: Hydrapple|Hydrapple, M|38/100 brn
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-weather|none
+|-heal|p2a: Zamazenta|52/100|[from] item: Leftovers
+|-damage|p1a: Hydrapple|32/100 brn|[from] brn
+|upkeep
+|turn|30
+|j| nepturee
+|
+|t:|1781065199
+|switch|p1a: Tyranitar|Tyranitar, F|18/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Zamazenta|Body Press|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|46/100|[from] Sandstorm
+|-heal|p2a: Zamazenta|52/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781065209
+|switch|p1a: Excadrill|Excadrill, F, tera:Ground|65/100
+|turn|31
+|
+|t:|1781065211
+|move|p1a: Excadrill|Earthquake|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781065213
+|switch|p2a: Arcanine|Arcanine-Hisui, M|100/100
+|turn|32
+|
+|t:|1781065217
+|move|p2a: Arcanine|Extreme Speed|p1a: Excadrill
+|-damage|p1a: Excadrill|10/100
+|move|p1a: Excadrill|Earthquake|p2a: Arcanine
+|-supereffective|p2a: Arcanine
+|-damage|p2a: Arcanine|0 fnt
+|faint|p2a: Arcanine
+|
+|win|phreshoatmeal
+|raw|phreshoatmeal's rating: 1548 &rarr; <strong>1571</strong><br />(+23 for winning)
+|raw|XianTwa's rating: 1596 &rarr; <strong>1573</strong><br />(-23 for losing)
+|l|☆XianTwa
+|player|p2|
+|l|☆phreshoatmeal
+|player|p1|
+|l| nepturee
+|l| testingrainteam1

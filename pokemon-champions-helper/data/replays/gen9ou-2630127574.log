@@ -1,0 +1,365 @@
+|j|☆employment devil
+|j|☆smithwick1
+|t:|1781213190
+|gametype|singles
+|player|p1|employment devil|lusamine-nihilego|1623
+|player|p2|smithwick1|169|1706
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Wo-Chien|
+|poke|p1|Zapdos|
+|poke|p1|Cinderace, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Zamazenta-*|
+|poke|p1|Iron Treads|
+|poke|p2|Zamazenta-*|
+|poke|p2|Dragapult, M|
+|poke|p2|Pecharunt|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by smithwick1)
+|c|☆employment devil|hf
+|
+|t:|1781213216
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781213238
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Iron Treads|Earthquake|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|upkeep
+|turn|2
+|
+|t:|1781213243
+|move|p2a: Iron Treads|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: employment devil|move: Stealth Rock
+|move|p1a: Zapdos|Hurricane|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|69/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781213247
+|move|p2a: Iron Treads|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|77/100
+|-damage|p2a: Iron Treads|53/100|[from] item: Rocky Helmet|[of] p1a: Zapdos
+|-enditem|p1a: Zapdos|Rocky Helmet|[from] move: Knock Off|[of] p2a: Iron Treads
+|move|p1a: Zapdos|Hurricane|p2a: Iron Treads|[miss]
+|-miss|p1a: Zapdos|p2a: Iron Treads
+|
+|upkeep
+|turn|4
+|
+|t:|1781213264
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Zapdos|Hurricane|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|34/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781213271
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: smithwick1|move: Light Screen
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|6
+|c|☆smithwick1|Oh didnt see ur message
+|c|☆smithwick1|Hf
+|
+|t:|1781213282
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: smithwick1|Reflect
+|move|p1a: Zapdos|U-turn|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|32/100
+|
+|t:|1781213284
+|switch|p1a: Cinderace|Cinderace, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|7
+|
+|t:|1781213288
+|move|p2a: Zamazenta|Close Combat|p1a: Cinderace
+|-damage|p1a: Cinderace|33/100
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|
+|upkeep
+|turn|8
+|
+|t:|1781213303
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: smithwick1|Reflect
+|
+|upkeep
+|turn|9
+|
+|t:|1781213315
+|move|p1a: Dragapult|Hex|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|inactive|smithwick1 has 120 seconds left.
+|inactive|smithwick1 has 90 seconds left.
+|
+|t:|1781213397
+|switch|p2a: Iron Treads|Iron Treads|53/100
+|-damage|p2a: Iron Treads|49/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1781213409
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Iron Treads|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|93/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781213414
+|move|p2a: Iron Treads|Rapid Spin|p1a: Zapdos
+|-damage|p1a: Zapdos|88/100
+|-boost|p2a: Iron Treads|spe|1
+|-status|p2a: Iron Treads|par|[from] ability: Static|[of] p1a: Zapdos
+|-sideend|p2: smithwick1|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: Zapdos|Hurricane|p2a: Iron Treads|[miss]
+|-miss|p1a: Zapdos|p2a: Iron Treads
+|
+|upkeep
+|turn|12
+|
+|t:|1781213420
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Zapdos|Hurricane|p2a: Pecharunt|[miss]
+|-miss|p1a: Zapdos|p2a: Pecharunt
+|
+|-sideend|p1: employment devil|move: Light Screen
+|upkeep
+|turn|13
+|
+|t:|1781213429
+|move|p2a: Pecharunt|Malignant Chain|p1a: Zapdos
+|-damage|p1a: Zapdos|58/100
+|-status|p1a: Zapdos|tox
+|-start|p1a: Zapdos|confusion|[from] ability: Poison Puppeteer|[of] p2a: Pecharunt
+|-activate|p1a: Zapdos|confusion
+|move|p1a: Zapdos|Discharge|p2a: Pecharunt
+|-damage|p2a: Pecharunt|69/100
+|
+|-heal|p2a: Pecharunt|75/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|52/100 tox|[from] psn
+|-sideend|p1: employment devil|Reflect
+|upkeep
+|turn|14
+|
+|t:|1781213451
+|move|p2a: Pecharunt|Nasty Plot|p2a: Pecharunt
+|-boost|p2a: Pecharunt|spa|2
+|-activate|p1a: Zapdos|confusion
+|-damage|p1a: Zapdos|46/100 tox|[from] confusion
+|
+|-heal|p2a: Pecharunt|81/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|34/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1781213453
+|move|p2a: Pecharunt|Shadow Ball|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|-heal|p2a: Pecharunt|87/100|[from] item: Leftovers
+|-sideend|p2: smithwick1|Reflect
+|upkeep
+|
+|t:|1781213463
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|turn|16
+|
+|t:|1781213465
+|move|p1a: Iron Treads|Earthquake|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|28/100
+|move|p2a: Pecharunt|Shadow Ball|p1a: Iron Treads
+|-crit|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p2a: Pecharunt|35/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781213494
+|switch|p1a: Cinderace|Cinderace, F|33/100
+|turn|17
+|inactive|smithwick1 has 120 seconds left.
+|
+|t:|1781213517
+|move|p1a: Cinderace|Pyro Ball|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|faint|p2a: Pecharunt
+|
+|upkeep
+|inactive|smithwick1 has 120 seconds left.
+|
+|t:|1781213544
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|18
+|
+|t:|1781213551
+|switch|p1a: Wo-Chien|Wo-Chien|100/100
+|-ability|p1a: Wo-Chien|Tablets of Ruin
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|upkeep
+|turn|19
+|
+|t:|1781213555
+|move|p2a: Dragapult|Dragon Darts|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|78/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|58/100
+|move|p1a: Wo-Chien|Foul Play|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-heal|p1a: Wo-Chien|64/100|[from] item: Leftovers
+|upkeep
+|inactive|smithwick1 has 120 seconds left.
+|
+|t:|1781213572
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|20
+|
+|t:|1781213576
+|switch|p2a: Iron Treads|Iron Treads|49/100 par
+|move|p1a: Wo-Chien|Foul Play|p2a: Iron Treads
+|-damage|p2a: Iron Treads|7/100 par
+|
+|-heal|p1a: Wo-Chien|70/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781213579
+|move|p1a: Wo-Chien|Foul Play|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p1a: Wo-Chien|76/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781213590
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|22
+|
+|t:|1781213593
+|move|p1a: Wo-Chien|Leech Seed|p2a: Kingambit
+|-start|p2a: Kingambit|move: Leech Seed
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p1a: Wo-Chien|82/100|[from] item: Leftovers
+|-damage|p2a: Kingambit|88/100|[from] Leech Seed|[of] p1a: Wo-Chien
+|-heal|p1a: Wo-Chien|94/100|[silent]
+|upkeep
+|turn|23
+|
+|t:|1781213599
+|move|p1a: Wo-Chien|Foul Play|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|42/100
+|move|p2a: Kingambit|Iron Head|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|26/100
+|
+|-heal|p1a: Wo-Chien|32/100|[from] item: Leftovers
+|-heal|p2a: Kingambit|48/100|[from] item: Leftovers
+|-damage|p2a: Kingambit|36/100|[from] Leech Seed|[of] p1a: Wo-Chien
+|-heal|p1a: Wo-Chien|43/100|[silent]
+|upkeep
+|turn|24
+|
+|t:|1781213605
+|move|p2a: Kingambit|Sucker Punch|p1a: Wo-Chien
+|-resisted|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|12/100
+|move|p1a: Wo-Chien|Foul Play|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen4|[silent]
+|
+|-heal|p1a: Wo-Chien|18/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781213621
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|25
+|
+|t:|1781213630
+|move|p2a: Ogerpon|Substitute|p2a: Ogerpon
+|-start|p2a: Ogerpon|Substitute
+|-damage|p2a: Ogerpon|76/100
+|move|p1a: Wo-Chien|Foul Play|p2a: Ogerpon
+|-end|p2a: Ogerpon|Substitute
+|
+|-heal|p1a: Wo-Chien|24/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781213634
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Wo-Chien|[anim] Ivy Cudgel Water
+|-resisted|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|8/100
+|move|p1a: Wo-Chien|Foul Play|p2a: Ogerpon
+|-crit|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|win|employment devil
+|raw|employment devil's rating: 1623 &rarr; <strong>1648</strong><br />(+25 for winning)
+|raw|smithwick1's rating: 1706 &rarr; <strong>1681</strong><br />(-25 for losing)
+|c|☆employment devil|gg
+|l|☆smithwick1
+|player|p2|

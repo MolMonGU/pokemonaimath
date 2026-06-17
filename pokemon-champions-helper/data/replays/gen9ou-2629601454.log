@@ -1,0 +1,200 @@
+|j|☆101Darmanitans
+|j|☆Count Aula
+|t:|1781151508
+|gametype|singles
+|player|p1|101Darmanitans|roxie|1533
+|player|p2|Count Aula|ghetsis|1520
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Flamigo, F|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Iron Treads|
+|poke|p1|Dragapult, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Iron Valiant|
+|poke|p2|Iron Valiant|
+|poke|p2|Kingambit, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Great Tusk|
+|poke|p2|Gholdengo|
+|poke|p2|Samurott-Hisui, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Count Aula)
+|inactive|101Darmanitans has 120 seconds left.
+|
+|t:|1781151542
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Flamigo|Flamigo, F|100/100
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|turn|1
+|
+|t:|1781151554
+|move|p1a: Flamigo|U-turn|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|18/100
+|
+|t:|1781151558
+|switch|p1a: Iron Treads|Iron Treads|100/100|[from] U-turn
+|move|p2a: Samurott|Ceaseless Edge|p1a: Iron Treads
+|-damage|p1a: Iron Treads|55/100
+|-sidestart|p1: 101Darmanitans|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1781151568
+|move|p2a: Samurott|Aqua Jet|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|17/100
+|move|p1a: Iron Treads|Earthquake|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|upkeep
+|
+|t:|1781151592
+|switch|p2a: Iron Valiant|Iron Valiant, shiny|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|3
+|
+|t:|1781151602
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Iron Valiant|Moonblast|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|86/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781151608
+|move|p2a: Iron Valiant|Destiny Bond|p2a: Iron Valiant
+|-singlemove|p2a: Iron Valiant|Destiny Bond
+|move|p1a: Slowking|Thunder Wave|p2a: Iron Valiant
+|-status|p2a: Iron Valiant|par
+|
+|upkeep
+|turn|5
+|
+|t:|1781151617
+|move|p2a: Iron Valiant|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|32/100
+|-enditem|p1a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Iron Valiant
+|move|p1a: Slowking|Future Sight|p2a: Iron Valiant
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|6
+|
+|t:|1781151625
+|move|p2a: Iron Valiant|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1781151651
+|switch|p1a: Iron Treads|Iron Treads|17/100
+|turn|7
+|
+|t:|1781151655
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Iron Treads|Rapid Spin|p2a: Gholdengo
+|-immune|p2a: Gholdengo
+|
+|-end|p2a: Gholdengo|move: Future Sight
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|77/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|upkeep
+|turn|8
+|
+|t:|1781151667
+|-terastallize|p2a: Gholdengo|Fairy
+|move|p1a: Iron Treads|Earthquake|p2a: Gholdengo
+|-damage|p2a: Gholdengo|27/100
+|move|p2a: Gholdengo|Shadow Ball|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781151689
+|switch|p1a: Flamigo|Flamigo, F|100/100
+|turn|9
+|
+|t:|1781151696
+|move|p1a: Flamigo|Close Combat|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|-unboost|p1a: Flamigo|def|1
+|-unboost|p1a: Flamigo|spd|1
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781151704
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|10
+|
+|t:|1781151714
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|88/100|[from] Spikes
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Iron Valiant
+|-immune|p1a: Iron Valiant
+|
+|upkeep
+|turn|11
+|
+|t:|1781151734
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1781151741
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Iron Valiant|Encore|p2a: Raging Bolt
+|-start|p2a: Raging Bolt|Encore
+|
+|upkeep
+|turn|13
+|-message|Count Aula forfeited.
+|
+|win|101Darmanitans
+|raw|101Darmanitans's rating: 1533 &rarr; <strong>1552</strong><br />(+19 for winning)
+|raw|Count Aula's rating: 1520 &rarr; <strong>1501</strong><br />(-19 for losing)
+|l|☆Count Aula
+|player|p2|
+|l|☆101Darmanitans
+|player|p1|

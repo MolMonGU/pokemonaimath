@@ -1,0 +1,342 @@
+|j|☆vvenlo
+|j|☆Kinair
+|t:|1781360221
+|gametype|singles
+|player|p1|vvenlo|miku-water|1552
+|player|p2|Kinair|101|1604
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Indeedee, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Hawlucha, M|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Ceruledge, F|
+|poke|p1|Maushold|
+|poke|p2|Pelipper, M|
+|poke|p2|Kingdra, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Iron Treads|
+|poke|p2|Zamazenta-*|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kinair)
+|
+|t:|1781360231
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Indeedee|Indeedee, M|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781360236
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: Hatterene
+|move|p1a: Hatterene|Stealth Rock|p2a: Iron Treads|[from] ability: Magic Bounce
+|-sidestart|p2: Kinair|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781360247
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|move|p2a: Iron Treads|Rapid Spin|p1a: Ceruledge
+|-immune|p1a: Ceruledge
+|
+|upkeep
+|turn|3
+|
+|t:|1781360253
+|move|p2a: Iron Treads|Earth Power|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|46/100
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1781360262
+|-terastallize|p1a: Ceruledge|Fighting
+|move|p2a: Iron Treads|Earth Power|p1a: Ceruledge
+|-damage|p1a: Ceruledge|20/100
+|move|p1a: Ceruledge|Bitter Blade|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-heal|p1a: Ceruledge|86/100|[from] drain|[of] p2a: Iron Treads
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781360271
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-damage|p2a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|5
+|
+|t:|1781360275
+|move|p1a: Ceruledge|Poltergeist|p2a: Pelipper
+|-activate|p2a: Pelipper|move: Poltergeist|Damp Rock
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781360279
+|switch|p2a: Kingdra|Kingdra, F|100/100
+|-damage|p2a: Kingdra|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1781360293
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Kingdra|Surf|p1a: Hatterene
+|-damage|p1a: Hatterene|4/100
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781360310
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p1a: Hawlucha|Psychic Seed
+|-boost|p1a: Hawlucha|spd|1|[from] item: Psychic Seed
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781360322
+|move|p1a: Hawlucha|Close Combat|p2a: Kingdra
+|-damage|p2a: Kingdra|17/100
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|move|p2a: Kingdra|Surf|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|vvenlo has 120 seconds left.
+|
+|t:|1781360338
+|switch|p1a: Hatterene|Hatterene, F|4/100
+|turn|8
+|
+|t:|1781360343
+|move|p2a: Kingdra|Surf|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|inactive|vvenlo has 120 seconds left.
+|
+|t:|1781360373
+|switch|p1a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|turn|9
+|
+|t:|1781360379
+|move|p2a: Kingdra|Surf|p1a: Indeedee
+|-damage|p1a: Indeedee|3/100
+|move|p1a: Indeedee|Expanding Force|p2a: Kingdra
+|-damage|p2a: Kingdra|0 fnt
+|faint|p2a: Kingdra
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781360387
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-damage|p2a: Zamazenta|94/100|[from] Stealth Rock
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|10
+|inactive|vvenlo has 120 seconds left.
+|
+|t:|1781360395
+|move|p2a: Zamazenta|Crunch|p1a: Indeedee
+|-supereffective|p1a: Indeedee
+|-damage|p1a: Indeedee|0 fnt
+|faint|p1a: Indeedee
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781360399
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|11
+|
+|t:|1781360412
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|move|p1a: Deoxys|Expanding Force|p2a: Kingambit
+|-immune|p2a: Kingambit
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781360439
+|-terastallize|p2a: Kingambit|Fighting
+|move|p1a: Deoxys|Focus Blast|p2a: Kingambit
+|-damage|p2a: Kingambit|59/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|-weather|none
+|upkeep
+|
+|t:|1781360466
+|switch|p1a: Ceruledge|Ceruledge, F, tera:Fighting|86/100
+|turn|13
+|
+|t:|1781360474
+|move|p1a: Ceruledge|Bitter Blade|p2a: Kingambit
+|-damage|p2a: Kingambit|23/100
+|-heal|p1a: Ceruledge|100/100|[from] drain|[of] p2a: Kingambit
+|move|p2a: Kingambit|Low Kick|p1a: Ceruledge
+|-damage|p1a: Ceruledge|16/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|
+|upkeep
+|turn|14
+|
+|t:|1781360485
+|move|p1a: Ceruledge|Bitter Blade|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-heal|p1a: Ceruledge|30/100|[from] drain|[of] p2a: Kingambit
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1781360495
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-damage|p2a: Zamazenta|94/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1781360507
+|move|p1a: Ceruledge|Bitter Blade|p2a: Zamazenta
+|-damage|p2a: Zamazenta|61/100
+|-heal|p1a: Ceruledge|53/100|[from] drain|[of] p2a: Zamazenta
+|move|p2a: Zamazenta|Body Press|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|-heal|p2a: Zamazenta|67/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781360511
+|switch|p1a: Maushold|Maushold|100/100
+|turn|16
+|
+|t:|1781360514
+|move|p2a: Zamazenta|Body Press|p1a: Maushold
+|-supereffective|p1a: Maushold
+|-damage|p1a: Maushold|5/100
+|move|p1a: Maushold|Tidy Up|p1a: Maushold
+|-sideend|p2: Kinair|Stealth Rock
+|-activate|p1a: Maushold|move: Tidy Up
+|-boost|p1a: Maushold|atk|1
+|-boost|p1a: Maushold|spe|1
+|
+|-heal|p2a: Zamazenta|73/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|17
+|
+|t:|1781360518
+|move|p1a: Maushold|Population Bomb|p2a: Zamazenta
+|-damage|p2a: Zamazenta|61/100
+|-damage|p2a: Zamazenta|48/100
+|-damage|p2a: Zamazenta|35/100
+|-damage|p2a: Zamazenta|22/100
+|-damage|p2a: Zamazenta|10/100
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|-hitcount|p2: Zamazenta|6
+|
+|upkeep
+|
+|t:|1781360524
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|18
+|
+|t:|1781360545
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Maushold|Encore|p2a: Raging Bolt
+|-start|p2a: Raging Bolt|Encore
+|
+|upkeep
+|turn|19
+|
+|t:|1781360550
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Maushold|Tidy Up|p1a: Maushold
+|-boost|p1a: Maushold|atk|1
+|-boost|p1a: Maushold|spe|1
+|
+|upkeep
+|turn|20
+|
+|t:|1781360556
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Maushold|Tidy Up|p1a: Maushold
+|-boost|p1a: Maushold|atk|1
+|-boost|p1a: Maushold|spe|1
+|
+|upkeep
+|turn|21
+|
+|t:|1781360562
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Maushold|Tidy Up|p1a: Maushold
+|-boost|p1a: Maushold|atk|1
+|-boost|p1a: Maushold|spe|1
+|
+|-end|p2a: Raging Bolt|Encore
+|upkeep
+|turn|22
+|-message|Kinair forfeited.
+|
+|win|vvenlo
+|raw|vvenlo's rating: 1552 &rarr; <strong>1575</strong><br />(+23 for winning)
+|raw|Kinair's rating: 1604 &rarr; <strong>1581</strong><br />(-23 for losing)
+|l|☆Kinair
+|player|p2|
+|l|☆vvenlo
+|player|p1|
+|j|☆Kinair
+|player|p2|Kinair|101|
+|l|☆Kinair
+|player|p2|

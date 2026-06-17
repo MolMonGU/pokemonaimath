@@ -1,0 +1,550 @@
+|j|☆thelarpinglarper
+|j|☆smithwick1
+|t:|1781339674
+|gametype|singles
+|player|p1|thelarpinglarper|sordward|1692
+|player|p2|smithwick1|2|1757
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Valiant|
+|poke|p1|Rotom-Wash|
+|poke|p1|Iron Moth|
+|poke|p1|Pecharunt|
+|poke|p2|Zamazenta-*|
+|poke|p2|Dragapult, M|
+|poke|p2|Pecharunt|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by thelarpinglarper)
+|
+|t:|1781339686
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|1
+|
+|t:|1781339690
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Iron Valiant|Close Combat|p2a: Pecharunt
+|-immune|p2a: Pecharunt
+|
+|upkeep
+|turn|2
+|
+|t:|1781339698
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Iron Valiant|Knock Off|p2a: Ogerpon
+|-damage|p2a: Ogerpon|60/100
+|-damage|p1a: Iron Valiant|90/100|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1781339707
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Iron Valiant|Close Combat|p2a: Pecharunt
+|-immune|p2a: Pecharunt
+|
+|upkeep
+|turn|4
+|
+|t:|1781339710
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|move|p2a: Pecharunt|Shadow Ball|p1a: Iron Moth
+|-damage|p1a: Iron Moth|76/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781339718
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Iron Moth|Overheat|p2a: Zamazenta
+|-damage|p2a: Zamazenta|12/100
+|-unboost|p1a: Iron Moth|spa|2
+|
+|upkeep
+|turn|6
+|
+|t:|1781339721
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: smithwick1|move: Light Screen
+|
+|upkeep
+|turn|7
+|
+|t:|1781339728
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: smithwick1|Reflect
+|move|p1a: Pecharunt|Parting Shot|p2a: Zamazenta
+|-unboost|p2a: Zamazenta|atk|1
+|-unboost|p2a: Zamazenta|spa|1
+|
+|t:|1781339733
+|switch|p1a: Rotom|Rotom-Wash|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|8
+|
+|t:|1781339735
+|move|p2a: Zamazenta|Close Combat|p1a: Rotom
+|-damage|p1a: Rotom|75/100
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|move|p1a: Rotom|Electric Terrain|p1a: Rotom
+|-fieldstart|move: Electric Terrain
+|
+|upkeep
+|turn|9
+|
+|t:|1781339742
+|move|p1a: Rotom|Volt Switch|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|t:|1781339747
+|switch|p1a: Iron Valiant|Iron Valiant|90/100|[from] Volt Switch
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdrivespe
+|
+|upkeep
+|
+|t:|1781339758
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-activate|p2a: Iron Treads|ability: Quark Drive
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|10
+|
+|t:|1781339762
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Rotom|Rotom-Wash|75/100
+|move|p2a: Iron Treads|Earthquake|p1a: Rotom
+|-immune|p1a: Rotom|[from] ability: Levitate
+|
+|upkeep
+|turn|11
+|
+|t:|1781339781
+|move|p2a: Iron Treads|Knock Off|p1a: Rotom
+|-damage|p1a: Rotom|53/100
+|-enditem|p1a: Rotom|Terrain Extender|[from] move: Knock Off|[of] p2a: Iron Treads
+|move|p1a: Rotom|Volt Switch|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|
+|upkeep
+|turn|12
+|
+|t:|1781339784
+|move|p2a: Iron Treads|Stealth Rock|p1a: Rotom
+|-sidestart|p1: thelarpinglarper|move: Stealth Rock
+|move|p1a: Rotom|Volt Switch|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|
+|upkeep
+|turn|13
+|j| kanaete onegai
+|
+|t:|1781339787
+|move|p2a: Iron Treads|Knock Off|p1a: Rotom
+|-damage|p1a: Rotom|36/100
+|move|p1a: Rotom|Volt Switch|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|
+|-sideend|p2: smithwick1|move: Light Screen
+|upkeep
+|turn|14
+|
+|t:|1781339790
+|move|p2a: Iron Treads|Knock Off|p1a: Rotom
+|-damage|p1a: Rotom|19/100
+|move|p1a: Rotom|Volt Switch|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|
+|-sideend|p2: smithwick1|Reflect
+|upkeep
+|turn|15
+|
+|t:|1781339793
+|move|p2a: Iron Treads|Rapid Spin|p1a: Rotom
+|-damage|p1a: Rotom|6/100
+|-boost|p2a: Iron Treads|spe|1
+|move|p1a: Rotom|Pain Split|p2a: Iron Treads
+|-sethp|p2a: Iron Treads|53/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|56/100|[from] move: Pain Split
+|
+|-fieldend|move: Electric Terrain
+|-end|p2a: Iron Treads|Quark Drive
+|upkeep
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|16
+|
+|t:|1781339797
+|move|p2a: Iron Treads|Knock Off|p1a: Rotom
+|-damage|p1a: Rotom|40/100
+|move|p1a: Rotom|Volt Switch|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|
+|upkeep
+|turn|17
+|
+|t:|1781339802
+|move|p2a: Iron Treads|Rapid Spin|p1a: Rotom
+|-damage|p1a: Rotom|26/100
+|-boost|p2a: Iron Treads|spe|1
+|move|p1a: Rotom|Hydro Pump|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781339807
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|60/100
+|turn|18
+|
+|t:|1781339810
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Rotom|[anim] Ivy Cudgel Water
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|2/100
+|move|p1a: Rotom|Electric Terrain|p1a: Rotom
+|-fieldstart|move: Electric Terrain
+|
+|upkeep
+|turn|19
+|
+|t:|1781339815
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Rotom|[anim] Ivy Cudgel Water
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|
+|t:|1781339824
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|turn|20
+|
+|t:|1781339833
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|move|p1a: Pecharunt|Parting Shot|p2a: Dragapult
+|-fail|p2a: Dragapult|unboost|[from] ability: Clear Body|[of] p2a: Dragapult
+|
+|upkeep
+|turn|21
+|
+|t:|1781339843
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|-terastallize|p1a: Pecharunt|Dark
+|move|p1a: Pecharunt|Foul Play|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|76/100
+|
+|-heal|p2a: Kingambit|83/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781339861
+|move|p1a: Pecharunt|Parting Shot|p2a: Kingambit
+|-unboost|p2a: Kingambit|atk|1
+|-unboost|p2a: Kingambit|spa|1
+|
+|t:|1781339866
+|switch|p1a: Iron Treads|Iron Treads|100/100|[from] Parting Shot
+|-activate|p1a: Iron Treads|ability: Quark Drive
+|-start|p1a: Iron Treads|quarkdrivespe
+|move|p2a: Kingambit|Iron Head|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|85/100
+|
+|-heal|p2a: Kingambit|89/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|-end|p1a: Iron Treads|Quark Drive
+|upkeep
+|turn|23
+|
+|t:|1781339876
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Iron Treads|Stealth Rock|p2a: Pecharunt
+|-sidestart|p2: smithwick1|move: Stealth Rock
+|
+|upkeep
+|turn|24
+|
+|t:|1781339881
+|move|p1a: Iron Treads|Earthquake|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|52/100
+|move|p2a: Pecharunt|Shadow Ball|p1a: Iron Treads
+|-damage|p1a: Iron Treads|55/100
+|
+|-heal|p2a: Pecharunt|59/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781339885
+|move|p1a: Iron Treads|Earthquake|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|16/100
+|move|p2a: Pecharunt|Recover|p2a: Pecharunt
+|-heal|p2a: Pecharunt|66/100
+|
+|-heal|p2a: Pecharunt|72/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781339912
+|move|p1a: Iron Treads|Knock Off|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|45/100
+|-enditem|p2a: Pecharunt|Leftovers|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: Pecharunt|Shadow Ball|p1a: Iron Treads
+|-damage|p1a: Iron Treads|23/100
+|
+|upkeep
+|turn|27
+|
+|t:|1781339925
+|move|p1a: Iron Treads|Earthquake|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|1/100
+|move|p2a: Pecharunt|Shadow Ball|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781339928
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|-damage|p1a: Samurott|88/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1781339932
+|move|p2a: Pecharunt|Malignant Chain|p1a: Samurott
+|-damage|p1a: Samurott|40/100
+|-status|p1a: Samurott|tox
+|-start|p1a: Samurott|confusion|[from] ability: Poison Puppeteer|[of] p2a: Pecharunt
+|-activate|p1a: Samurott|confusion
+|-damage|p1a: Samurott|25/100 tox|[from] confusion
+|
+|-damage|p1a: Samurott|19/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1781339938
+|-activate|p1a: Samurott|confusion
+|move|p1a: Samurott|Sucker Punch|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|faint|p2a: Pecharunt
+|
+|-damage|p1a: Samurott|6/100 tox|[from] psn
+|upkeep
+|
+|t:|1781339948
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|60/100
+|-damage|p2a: Ogerpon|48/100|[from] Stealth Rock
+|turn|30
+|
+|t:|1781339950
+|-end|p1a: Samurott|confusion
+|move|p1a: Samurott|Sucker Punch||[still]
+|-fail|p1a: Samurott
+|move|p2a: Ogerpon|Substitute|p2a: Ogerpon
+|-start|p2a: Ogerpon|Substitute
+|-damage|p2a: Ogerpon|23/100
+|
+|-damage|p1a: Samurott|0 fnt|[from] psn
+|faint|p1a: Samurott
+|upkeep
+|
+|t:|1781339957
+|switch|p1a: Pecharunt|Pecharunt, tera:Dark|100/100
+|turn|31
+|
+|t:|1781339963
+|move|p2a: Ogerpon|Horn Leech|p1a: Pecharunt
+|-damage|p1a: Pecharunt|80/100
+|-heal|p2a: Ogerpon|36/100|[from] drain|[of] p1a: Pecharunt
+|move|p1a: Pecharunt|Foul Play|p2a: Ogerpon
+|-end|p2a: Ogerpon|Substitute
+|
+|upkeep
+|turn|32
+|
+|t:|1781339969
+|switch|p2a: Kingambit|Kingambit, F|89/100
+|-damage|p2a: Kingambit|83/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|100/100
+|
+|-heal|p2a: Kingambit|89/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1781339973
+|move|p1a: Pecharunt|Foul Play|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-crit|p2a: Kingambit
+|-damage|p2a: Kingambit|50/100
+|move|p2a: Kingambit|Iron Head|p1a: Pecharunt
+|-damage|p1a: Pecharunt|72/100
+|
+|-heal|p2a: Kingambit|56/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1781339978
+|move|p1a: Pecharunt|Foul Play|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|33/100
+|move|p2a: Kingambit|Iron Head|p1a: Pecharunt
+|-crit|p1a: Pecharunt
+|-damage|p1a: Pecharunt|30/100
+|
+|-heal|p2a: Kingambit|40/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1781339989
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|80/100
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|46/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1781339991
+|move|p2a: Kingambit|Sucker Punch|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-damage|p1a: Pecharunt|56/100
+|move|p1a: Pecharunt|Foul Play|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|1/100
+|
+|-heal|p2a: Kingambit|7/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1781339995
+|move|p1a: Pecharunt|Foul Play|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1781340008
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|36/100
+|-damage|p2a: Ogerpon|24/100|[from] Stealth Rock
+|turn|38
+|inactive|thelarpinglarper has 120 seconds left.
+|
+|t:|1781340038
+|-terastallize|p2a: Ogerpon|Water
+|detailschange|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Pecharunt|[anim] Ivy Cudgel Water
+|-crit|p1a: Pecharunt
+|-damage|p1a: Pecharunt|1/100
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|51/100
+|
+|upkeep
+|turn|39
+|
+|t:|1781340046
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Pecharunt|[anim] Ivy Cudgel Water
+|-damage|p1a: Pecharunt|11/100
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|61/100
+|
+|upkeep
+|turn|40
+|
+|t:|1781340049
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|100/100
+|
+|upkeep
+|turn|41
+|
+|t:|1781340053
+|switch|p1a: Iron Moth|Iron Moth|76/100
+|-damage|p1a: Iron Moth|51/100|[from] Stealth Rock
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Iron Moth|[anim] Ivy Cudgel Water
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781340055
+|switch|p1a: Iron Valiant|Iron Valiant|90/100
+|-damage|p1a: Iron Valiant|84/100|[from] Stealth Rock
+|turn|42
+|
+|t:|1781340060
+|move|p1a: Iron Valiant|Knock Off|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|detailschange|p2: Ogerpon|Ogerpon-Wellspring, F|[silent]
+|-damage|p1a: Iron Valiant|74/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781340062
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|turn|43
+|
+|t:|1781340065
+|move|p1a: Iron Valiant|Moonblast|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|-damage|p1a: Iron Valiant|64/100|[from] item: Life Orb
+|
+|win|thelarpinglarper
+|raw|thelarpinglarper's rating: 1692 &rarr; <strong>1716</strong><br />(+24 for winning)
+|raw|smithwick1's rating: 1757 &rarr; <strong>1733</strong><br />(-24 for losing)
+|c|☆thelarpinglarper|gg
+|l|☆smithwick1
+|player|p2|
+|l|☆thelarpinglarper
+|player|p1|

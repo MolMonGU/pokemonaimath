@@ -1,0 +1,229 @@
+|j|☆anamchara
+|j|☆ankoro
+|t:|1781190837
+|gametype|singles
+|player|p1|anamchara|169|1601
+|player|p2|ankoro|acetrainer-gen2|1603
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Meowscarada, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Glimmora, F|
+|poke|p1|Dragapult, M|
+|poke|p2|Lycanroc, M|
+|poke|p2|Kingambit, M|
+|poke|p2|Azumarill, M|
+|poke|p2|Pawmot, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|j| Mopi34
+|l| Mopi34
+|
+|t:|1781190889
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|switch|p2a: doggorock|Lycanroc, M|100/100
+|turn|1
+|
+|t:|1781190896
+|move|p1a: Meowscarada|U-turn|p2a: doggorock
+|-start|p1a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p2a: doggorock|53/100
+|
+|t:|1781190897
+|switch|p1a: Glimmora|Glimmora, F|100/100|[from] U-turn
+|move|p2a: doggorock|Stealth Rock|p1a: Glimmora
+|-sidestart|p1: anamchara|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781190903
+|switch|p2a: koolguybit|Kingambit, M|100/100
+|-item|p2a: koolguybit|Air Balloon
+|move|p1a: Glimmora|Energy Ball|p2a: koolguybit
+|-resisted|p2a: koolguybit
+|-crit|p2a: koolguybit
+|-damage|p2a: koolguybit|64/100
+|-enditem|p2a: koolguybit|Air Balloon
+|-damage|p1a: Glimmora|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1781190907
+|move|p2a: koolguybit|Sucker Punch|p1a: Glimmora
+|-damage|p1a: Glimmora|44/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: ankoro|move: Toxic Spikes
+|move|p1a: Glimmora|Earth Power|p2a: koolguybit
+|-supereffective|p2a: koolguybit
+|-damage|p2a: koolguybit|0 fnt
+|faint|p2a: koolguybit
+|-end|p2a: koolguybit|fallenundefined|[silent]
+|-damage|p1a: Glimmora|34/100|[from] item: Life Orb
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by anamchara)
+|
+|t:|1781190920
+|switch|p2a: doggorock|Lycanroc, M|53/100
+|-status|p2a: doggorock|psn
+|turn|4
+|inactive|ankoro has 120 seconds left.
+|
+|t:|1781190955
+|move|p2a: doggorock|Rock Blast|p1a: Glimmora
+|-damage|p1a: Glimmora|22/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: ankoro|move: Toxic Spikes
+|-damage|p1a: Glimmora|11/100
+|-hitcount|p1a: Glimmora|2
+|move|p1a: Glimmora|Stealth Rock|p2a: doggorock
+|-sidestart|p2: ankoro|move: Stealth Rock
+|
+|-damage|p2a: doggorock|41/100 psn|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1781190963
+|move|p2a: doggorock|Rock Blast|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|-hitcount|p1: Glimmora|1
+|
+|-damage|p2a: doggorock|28/100 psn|[from] psn
+|upkeep
+|
+|t:|1781190971
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1781190975
+|move|p2a: doggorock|Endeavor|p1a: Ogerpon
+|-damage|p1a: Ogerpon|33/100
+|move|p1a: Ogerpon|Trailblaze|p2a: doggorock
+|-supereffective|p2a: doggorock
+|-damage|p2a: doggorock|0 fnt
+|-boost|p1a: Ogerpon|spe|1
+|faint|p2a: doggorock
+|
+|upkeep
+|
+|t:|1781190982
+|switch|p2a: Zamasu|Zamazenta|100/100
+|-status|p2a: Zamasu|tox
+|-damage|p2a: Zamasu|94/100 tox|[from] Stealth Rock
+|-ability|p2a: Zamasu|Dauntless Shield|boost
+|-boost|p2a: Zamasu|def|1
+|turn|7
+|
+|t:|1781190986
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|-damage|p1a: Slowking|88/100|[from] Stealth Rock
+|move|p2a: Zamasu|Close Combat|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|71/100
+|-unboost|p2a: Zamasu|def|1
+|-unboost|p2a: Zamasu|spd|1
+|-damage|p2a: Zamasu|84/100 tox|[from] item: Life Orb
+|
+|-damage|p2a: Zamasu|78/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781190989
+|move|p2a: Zamasu|Crunch|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|2/100
+|-damage|p2a: Zamasu|68/100 tox|[from] item: Life Orb
+|move|p1a: Slowking|Psychic Noise|p2a: Zamasu
+|-supereffective|p2a: Zamasu
+|-damage|p2a: Zamasu|0 fnt
+|faint|p2a: Zamasu
+|
+|upkeep
+|
+|t:|1781190994
+|switch|p2a: nimrod|Tornadus-Therian, M|100/100
+|-damage|p2a: nimrod|76/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1781191008
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|33/100
+|-damage|p1a: Ogerpon|21/100|[from] Stealth Rock
+|move|p2a: nimrod|Bleakwind Storm|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|-damage|p2a: nimrod|66/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781191011
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1781191016
+|move|p1a: Dragapult|Dragon Darts|p2a: nimrod
+|-damage|p2a: nimrod|28/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: nimrod
+|-damage|p2a: nimrod|0 fnt
+|faint|p2a: nimrod
+|-damage|p1a: Dragapult|78/100|[from] item: Life Orb
+|
+|upkeep
+|j| newhere1310
+|l| newhere1310
+|
+|t:|1781191039
+|switch|p2a: juquinha|Azumarill, M|100/100
+|-status|p2a: juquinha|tox
+|-damage|p2a: juquinha|88/100 tox|[from] Stealth Rock
+|turn|11
+|
+|t:|1781191051
+|-terastallize|p1a: Dragapult|Ghost
+|move|p1a: Dragapult|Hex|p2a: juquinha
+|-damage|p2a: juquinha|0 fnt
+|faint|p2a: juquinha
+|-damage|p1a: Dragapult|69/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781191056
+|switch|p2a: joy|Pawmot, F|100/100
+|-status|p2a: joy|tox
+|-damage|p2a: joy|94/100 tox|[from] Stealth Rock
+|turn|12
+|
+|t:|1781191059
+|move|p1a: Dragapult|Hex|p2a: joy
+|-damage|p2a: joy|0 fnt
+|faint|p2a: joy
+|-damage|p1a: Dragapult|59/100|[from] item: Life Orb
+|
+|win|anamchara
+|raw|anamchara's rating: 1586 &rarr; <strong>1607</strong><br />(+21 for winning)
+|raw|ankoro's rating: 1603 &rarr; <strong>1582</strong><br />(-21 for losing)
+|l|☆ankoro
+|player|p2|
+|l|☆anamchara
+|player|p1|

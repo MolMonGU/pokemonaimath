@@ -1,0 +1,359 @@
+|j|☆databricks
+|j|☆adil
+|t:|1781185973
+|gametype|singles
+|player|p1|databricks|hilbert|1766
+|player|p2|adil|2|1736
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, M|
+|poke|p1|Chansey, F|
+|poke|p1|Zapdos|
+|poke|p1|Toxapex, F|
+|poke|p1|Great Tusk|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Kyurem|
+|poke|p2|Corviknight, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Pecharunt|
+|poke|p2|Cinderace, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by databricks)
+|
+|t:|1781185986
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781186006
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Tornadus|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|88/100
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|upkeep
+|turn|2
+|
+|t:|1781186009
+|move|p1a: Tornadus|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|86/100
+|
+|t:|1781186010
+|switch|p1a: Zapdos|Zapdos|100/100|[from] U-turn
+|move|p2a: Corviknight|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|92/100
+|
+|t:|1781186020
+|switch|p2a: Ting-Lu|Ting-Lu|100/100|[from] U-turn
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|upkeep
+|turn|3
+|
+|t:|1781186027
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Tornadus
+|-immune|p1a: Tornadus
+|
+|upkeep
+|turn|4
+|
+|t:|1781186031
+|switch|p2a: Corviknight|Corviknight, M|86/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Tornadus|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|78/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781186035
+|switch|p1a: Zapdos|Zapdos|92/100
+|move|p2a: Corviknight|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|84/100
+|
+|t:|1781186039
+|switch|p2a: Ting-Lu|Ting-Lu|100/100|[from] U-turn
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|upkeep
+|turn|6
+|
+|t:|1781186041
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: databricks|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1781186044
+|switch|p2a: Corviknight|Corviknight, M|78/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Tornadus|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|69/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781186047
+|switch|p1a: Zapdos|Zapdos|84/100
+|move|p2a: Corviknight|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|76/100
+|
+|t:|1781186049
+|switch|p2a: Kyurem|Kyurem|100/100|[from] U-turn
+|-ability|p2a: Kyurem|Pressure
+|
+|upkeep
+|turn|9
+|
+|t:|1781186061
+|switch|p1a: Chansey|Chansey, F|100/100
+|-damage|p1a: Chansey|88/100|[from] Stealth Rock
+|move|p2a: Kyurem|Substitute|p2a: Kyurem
+|-start|p2a: Kyurem|Substitute
+|-damage|p2a: Kyurem|75/100
+|
+|-heal|p2a: Kyurem|82/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781186066
+|move|p2a: Kyurem|Freeze-Dry|p1a: Chansey
+|-damage|p1a: Chansey|77/100
+|move|p1a: Chansey|Stealth Rock|p2a: Kyurem
+|-sidestart|p2: adil|move: Stealth Rock
+|
+|-heal|p2a: Kyurem|88/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781186072
+|move|p2a: Kyurem|Freeze-Dry|p1a: Chansey
+|-crit|p1a: Chansey
+|-damage|p1a: Chansey|62/100
+|move|p1a: Chansey|Seismic Toss|p2a: Kyurem
+|-activate|p2a: Kyurem|move: Substitute|[damage]
+|
+|-heal|p2a: Kyurem|94/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781186077
+|move|p2a: Kyurem|Freeze-Dry|p1a: Chansey
+|-damage|p1a: Chansey|50/100
+|-status|p1a: Chansey|frz
+|cant|p1a: Chansey|frz
+|
+|-heal|p2a: Kyurem|99/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781186085
+|-curestatus|p1a: Chansey|frz|[from] ability: Natural Cure|[silent]
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Kyurem|Earth Power|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|43/100
+|
+|-heal|p2a: Kyurem|100/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781186093
+|switch|p1a: Chansey|Chansey, F|50/100
+|-damage|p1a: Chansey|38/100|[from] Stealth Rock
+|move|p2a: Kyurem|Freeze-Dry|p1a: Chansey
+|-damage|p1a: Chansey|27/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781186111
+|move|p2a: Kyurem|Freeze-Dry|p1a: Chansey
+|-damage|p1a: Chansey|16/100
+|-status|p1a: Chansey|frz
+|cant|p1a: Chansey|frz
+|
+|upkeep
+|turn|16
+|c|☆databricks|??
+|
+|t:|1781186119
+|move|p2a: Kyurem|Earth Power|p1a: Chansey
+|-damage|p1a: Chansey|7/100 frz
+|cant|p1a: Chansey|frz
+|
+|upkeep
+|turn|17
+|
+|t:|1781186123
+|move|p2a: Kyurem|Freeze-Dry|p1a: Chansey
+|-damage|p1a: Chansey|0 fnt
+|faint|p1a: Chansey
+|
+|upkeep
+|
+|t:|1781186125
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|turn|18
+|c|☆adil|i dont feel bad
+|j| Natsuhah
+|
+|t:|1781186135
+|move|p2a: Kyurem|Protect|p2a: Kyurem
+|-singleturn|p2a: Kyurem|Protect
+|move|p1a: Tornadus|Knock Off|p2a: Kyurem
+|-activate|p2a: Kyurem|move: Protect
+|
+|upkeep
+|turn|19
+|
+|t:|1781186138
+|move|p1a: Tornadus|Knock Off|p2a: Kyurem
+|-end|p2a: Kyurem|Substitute
+|move|p2a: Kyurem|Freeze-Dry|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|22/100
+|
+|upkeep
+|turn|20
+|l| Natsuhah
+|
+|t:|1781186144
+|move|p1a: Tornadus|Knock Off|p2a: Kyurem
+|-damage|p2a: Kyurem|84/100
+|-enditem|p2a: Kyurem|Leftovers|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Kyurem|Freeze-Dry|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1781186147
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|turn|21
+|
+|t:|1781186153
+|-terastallize|p2a: Kyurem|Ground
+|move|p2a: Kyurem|Earth Power|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|6/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|12/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781186169
+|move|p2a: Kyurem|Protect|p2a: Kyurem
+|-singleturn|p2a: Kyurem|Protect
+|move|p1a: Kingambit|Iron Head|p2a: Kyurem
+|-activate|p2a: Kyurem|move: Protect
+|
+|-heal|p1a: Kingambit|18/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781186180
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|move|p2a: Kyurem|Substitute|p2a: Kyurem
+|-start|p2a: Kyurem|Substitute
+|-damage|p2a: Kyurem|59/100
+|
+|-heal|p1a: Kingambit|24/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781186184
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Zapdos|Zapdos|76/100
+|move|p2a: Kyurem|Earth Power|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|upkeep
+|turn|25
+|j| kidd0s
+|
+|t:|1781186186
+|move|p1a: Zapdos|Hurricane|p2a: Kyurem
+|-end|p2a: Kyurem|Substitute
+|move|p2a: Kyurem|Freeze-Dry|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1781186191
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|26
+|
+|t:|1781186197
+|move|p2a: Kyurem|Protect|p2a: Kyurem
+|-singleturn|p2a: Kyurem|Protect
+|move|p1a: Great Tusk|Rapid Spin|p2a: Kyurem
+|-activate|p2a: Kyurem|move: Protect
+|
+|upkeep
+|turn|27
+|
+|t:|1781186207
+|move|p2a: Kyurem|Freeze-Dry|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|10/100
+|-status|p1a: Great Tusk|frz
+|cant|p1a: Great Tusk|frz
+|
+|upkeep
+|turn|28
+|c|☆adil|loooool
+|c|☆databricks|ok
+|
+|t:|1781186218
+|move|p2a: Kyurem|Substitute|p2a: Kyurem
+|-start|p2a: Kyurem|Substitute
+|-damage|p2a: Kyurem|34/100
+|cant|p1a: Great Tusk|frz
+|
+|upkeep
+|turn|29
+|c| kidd0s|datapack
+|c|☆databricks|gg bro
+|-message|databricks forfeited.
+|
+|win|adil
+|raw|databricks's rating: 1766 &rarr; <strong>1744</strong><br />(-22 for losing)
+|raw|adil's rating: 1736 &rarr; <strong>1758</strong><br />(+22 for winning)
+|l|☆adil
+|player|p2|
+|l|☆databricks
+|player|p1|

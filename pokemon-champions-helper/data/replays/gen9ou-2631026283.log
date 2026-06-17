@@ -1,0 +1,197 @@
+|j|☆winslowyoudog
+|j|☆bak bak bak again
+|t:|1781327128
+|gametype|singles
+|player|p1|winslowyoudog|265|1553
+|player|p2|bak bak bak again|wallace|1593
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowbro-Galar, F|
+|poke|p1|Indeedee, M|
+|poke|p1|Armarouge, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Iron Treads|
+|poke|p1|Hawlucha, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Forretress, F|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Moth|
+|poke|p2|Maushold-Four|
+|poke|p2|Enamorus, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by winslowyoudog)
+|
+|t:|1781327148
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Armarouge|Armarouge, M|100/100
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|1
+|
+|t:|1781327162
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|move|p1a: Armarouge|Endure||[still]
+|-fail|p1a: Armarouge
+|
+|upkeep
+|turn|2
+|
+|t:|1781327168
+|move|p2a: Iron Moth|Sludge Wave|p1a: Armarouge
+|-damage|p1a: Armarouge|36/100
+|move|p1a: Armarouge|Expanding Force|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|45/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781327195
+|switch|p1a: Megaman|Slowbro-Galar, F|100/100
+|move|p2a: Iron Moth|Sludge Wave|p1a: Megaman
+|-resisted|p1a: Megaman
+|-damage|p1a: Megaman|70/100
+|
+|upkeep
+|turn|4
+|-activate|p1a: Megaman|ability: Quick Draw
+|
+|t:|1781327204
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Forretress|Forretress, F|100/100
+|move|p1a: Megaman|Expanding Force|p2a: Forretress
+|-resisted|p2a: Forretress
+|-damage|p2a: Forretress|80/100
+|
+|upkeep
+|turn|5
+|-activate|p1a: Megaman|ability: Quick Draw
+|
+|t:|1781327213
+|move|p1a: Megaman|Flamethrower|p2a: Forretress
+|-supereffective|p2a: Forretress
+|-damage|p2a: Forretress|0 fnt
+|faint|p2a: Forretress
+|
+|upkeep
+|
+|t:|1781327219
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|6
+|
+|t:|1781327224
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Ogerpon|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|69/100
+|-enditem|p1a: Hatterene|Eject Button|[from] move: Knock Off|[of] p2a: Ogerpon
+|
+|upkeep
+|turn|7
+|
+|t:|1781327232
+|-terastallize|p2a: Ogerpon|Water
+|detailschange|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Hatterene|[anim] Ivy Cudgel Water
+|-damage|p1a: Hatterene|10/100
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldstart|move: Trick Room|[of] p1a: Hatterene
+|
+|upkeep
+|turn|8
+|
+|t:|1781327241
+|move|p1a: Hatterene|Healing Wish|p1a: Hatterene
+|faint|p1a: Hatterene
+|move|p2a: Ogerpon|Ivy Cudgel|p1: Hatterene|[notarget]
+|-fail|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781327246
+|switch|p1a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|turn|9
+|
+|t:|1781327268
+|move|p2a: Ogerpon|Protect|p2a: Ogerpon
+|-singleturn|p2a: Ogerpon|Protect
+|move|p1a: Indeedee|Expanding Force|p2a: Ogerpon
+|-activate|p2a: Ogerpon|move: Protect
+|
+|upkeep
+|turn|10
+|
+|t:|1781327279
+|move|p1a: Indeedee|Encore|p2a: Ogerpon
+|-start|p2a: Ogerpon|Encore
+|move|p2a: Ogerpon|Protect||[still]
+|-fail|p2a: Ogerpon
+|
+|upkeep
+|turn|11
+|
+|t:|1781327285
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p1a: Hawlucha|Psychic Seed
+|-boost|p1a: Hawlucha|spd|1|[from] item: Psychic Seed
+|move|p2a: Ogerpon|Protect||[still]
+|-fail|p2a: Ogerpon
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|12
+|
+|t:|1781327293
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|
+|upkeep
+|turn|13
+|
+|t:|1781327304
+|-terastallize|p1a: Hawlucha|Electric
+|move|p1a: Hawlucha|Acrobatics|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|48/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|move|p2a: Gholdengo|Make It Rain|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|69/100
+|-unboost|p2a: Gholdengo|spa|1
+|
+|upkeep
+|turn|14
+|
+|t:|1781327316
+|move|p1a: Hawlucha|Acrobatics|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|c|☆bak bak bak again|b
+|c|☆bak bak bak again|g
+|c|☆bak bak bak again|g
+|c|☆bak bak bak again|not b
+|-message|bak bak bak again forfeited.
+|
+|win|winslowyoudog
+|raw|winslowyoudog's rating: 1553 &rarr; <strong>1575</strong><br />(+22 for winning)
+|raw|bak bak bak again's rating: 1593 &rarr; <strong>1571</strong><br />(-22 for losing)
+|l|☆winslowyoudog
+|player|p1|

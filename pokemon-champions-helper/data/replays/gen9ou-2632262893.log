@@ -1,0 +1,320 @@
+|j|☆gigi andalucia
+|j|☆LowEL0God
+|t:|1781497673
+|gametype|singles
+|player|p1|gigi andalucia|red-gen2|1477
+|player|p2|LowEL0God|265|1565
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Deoxys-Speed|
+|poke|p1|Iron Valiant|
+|poke|p1|Kingambit, M|
+|poke|p1|Ceruledge, M|
+|poke|p1|Dragonite, M|
+|poke|p1|Dragapult, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by gigi andalucia)
+|c|☆LowEL0God|hf
+|inactive|LowEL0God also wants the timer to be on.
+|
+|t:|1781497690
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|1
+|
+|t:|1781497695
+|move|p1a: Deoxys|Superpower|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|20/100
+|-unboost|p1a: Deoxys|atk|1
+|-unboost|p1a: Deoxys|def|1
+|-enditem|p1a: Deoxys|Eject Pack
+|
+|t:|1781497699
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|80/100
+|
+|-heal|p2a: Kingambit|26/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781497703
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|3/100
+|move|p2a: Kingambit|Iron Head|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|60/100
+|
+|-heal|p2a: Kingambit|10/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781497706
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|44/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781497723
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Raging Bolt|Thunder|p1a: Iron Valiant|[miss]
+|-miss|p2a: Raging Bolt|p1a: Iron Valiant
+|
+|upkeep
+|turn|5
+|
+|t:|1781497726
+|move|p2a: Raging Bolt|Thunderclap|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781497740
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|6
+|
+|t:|1781497742
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p1a: Dragonite|Encore|p2a: Raging Bolt
+|-start|p2a: Raging Bolt|Encore
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|
+|upkeep
+|turn|7
+|
+|t:|1781497743
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781497754
+|-terastallize|p1a: Dragonite|Normal
+|move|p1a: Dragonite|Extreme Speed|p2a: Pelipper
+|-damage|p2a: Pelipper|51/100
+|move|p2a: Pelipper|Hurricane|p1a: Dragonite
+|-damage|p1a: Dragonite|80/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781497761
+|move|p1a: Dragonite|Extreme Speed|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781497762
+|switch|p2a: Overqwil|Overqwil, M|100/100
+|turn|10
+|
+|t:|1781497766
+|move|p2a: Overqwil|Gunk Shot|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|-damage|p2a: Overqwil|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|gigi andalucia has 120 seconds left.
+|
+|t:|1781497799
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|turn|11
+|
+|t:|1781497803
+|move|p2a: Overqwil|Liquidation|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-enditem|p1a: Ceruledge|Focus Sash
+|-damage|p1a: Ceruledge|1/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|-damage|p2a: Overqwil|81/100|[from] item: Life Orb
+|move|p1a: Ceruledge|Close Combat|p2a: Overqwil
+|-damage|p2a: Overqwil|30/100
+|-unboost|p1a: Ceruledge|def|1
+|-unboost|p1a: Ceruledge|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781497807
+|move|p1a: Ceruledge|Close Combat|p2a: Overqwil
+|-damage|p2a: Overqwil|0 fnt
+|-unboost|p1a: Ceruledge|def|1
+|-unboost|p1a: Ceruledge|spd|1
+|faint|p2a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781497809
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|13
+|
+|t:|1781497811
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Barraskewda
+|-damage|p2a: Barraskewda|58/100
+|move|p2a: Barraskewda|Flip Turn|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|t:|1781497813
+|switch|p2a: Raging Bolt|Raging Bolt, tera:Fairy|44/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781497822
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|14
+|
+|t:|1781497824
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Dragapult|[miss]
+|-miss|p2a: Raging Bolt|p1a: Dragapult
+|
+|-weather|none
+|upkeep
+|turn|15
+|
+|t:|1781497826
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Kingambit|Kingambit, M|10/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|move|p1a: Dragapult|Phantom Force|p2a: Kingambit|[from] lockedmove
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen2|[silent]
+|
+|upkeep
+|
+|t:|1781497828
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|16
+|
+|t:|1781497836
+|move|p2a: Iron Treads|Earth Power|p1a: Dragapult
+|-damage|p1a: Dragapult|55/100
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|
+|-heal|p1a: Dragapult|61/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781497840
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Iron Treads|Steel Beam|p1a: Dragapult|[miss]
+|-miss|p2a: Iron Treads|p1a: Dragapult
+|-damage|p2a: Iron Treads|50/100|[from] steelbeam
+|
+|-heal|p1a: Dragapult|67/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781497843
+|move|p1a: Dragapult|Phantom Force|p2a: Iron Treads|[from] lockedmove
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p1a: Dragapult|73/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781497844
+|switch|p2a: Raging Bolt|Raging Bolt, tera:Fairy|44/100
+|turn|19
+|
+|t:|1781497850
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Raging Bolt|Thunder|p1a: Dragapult|[miss]
+|-miss|p2a: Raging Bolt|p1a: Dragapult
+|
+|-heal|p1a: Dragapult|79/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781497852
+|move|p1a: Dragapult|Phantom Force|p2a: Raging Bolt|[from] lockedmove
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-heal|p1a: Dragapult|85/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781497854
+|switch|p2a: Barraskewda|Barraskewda, F|58/100
+|turn|21
+|
+|t:|1781497855
+|move|p1a: Dragapult|Dragon Darts|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|win|gigi andalucia
+|raw|gigi andalucia's rating: 1477 &rarr; <strong>1502</strong><br />(+25 for winning)
+|raw|LowEL0God's rating: 1565 &rarr; <strong>1540</strong><br />(-25 for losing)
+|l|☆gigi andalucia
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|

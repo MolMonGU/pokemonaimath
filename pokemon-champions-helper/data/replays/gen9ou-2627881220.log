@@ -1,0 +1,310 @@
+|j|☆AllHailLechuguita
+|j|☆kadu99
+|t:|1780950677
+|gametype|singles
+|player|p1|AllHailLechuguita|170|1595
+|player|p2|kadu99|policeman-gen4|1676
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ribombee, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Great Tusk|
+|poke|p1|Kingambit, F|
+|poke|p1|Skeledirge, M|
+|poke|p1|Gholdengo|
+|poke|p2|Volcanion|
+|poke|p2|Corviknight, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Rillaboom, M|
+|poke|p2|Gliscor, F|
+|poke|p2|Slowking-Galar, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by AllHailLechuguita)
+|
+|t:|1780950715
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ribombee|Ribombee, F, shiny|100/100
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1780950722
+|move|p1a: Ribombee|Bug Buzz|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|upkeep
+|
+|t:|1780950725
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|turn|2
+|
+|t:|1780950727
+|move|p1a: Ribombee|Stun Spore|p2a: Slowking|[miss]
+|-miss|p1a: Ribombee|p2a: Slowking
+|move|p2a: Slowking|Sludge Bomb|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-crit|p1a: Ribombee
+|-enditem|p1a: Ribombee|Focus Sash
+|-damage|p1a: Ribombee|1/100
+|
+|-heal|p1a: Ribombee|7/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1780950734
+|move|p1a: Ribombee|Sticky Web|p2a: Slowking
+|-sidestart|p2: kadu99|move: Sticky Web
+|move|p2a: Slowking|Sludge Bomb|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|faint|p1a: Ribombee
+|
+|upkeep
+|
+|t:|1780950739
+|switch|p1a: Kingambit|Kingambit, F, shiny|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|turn|4
+|
+|t:|1780950745
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1780950750
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Skeledirge|Skeledirge, M|100/100
+|move|p2a: Corviknight|Defog|p1a: Skeledirge
+|-unboost|p1a: Skeledirge|evasion|1
+|-sideend|p2: kadu99|Sticky Web|[from] move: Defog|[of] p2a: Corviknight
+|-fieldend|move: Grassy Terrain
+|
+|upkeep
+|turn|6
+|
+|t:|1780950759
+|move|p1a: Skeledirge|Will-O-Wisp|p2a: Corviknight
+|-status|p2a: Corviknight|brn
+|move|p2a: Corviknight|U-turn|p1a: Skeledirge
+|-resisted|p1a: Skeledirge
+|-damage|p1a: Skeledirge|99/100
+|
+|t:|1780950774
+|switch|p2a: Volcanion|Volcanion|100/100|[from] U-turn
+|
+|upkeep
+|turn|7
+|
+|t:|1780950778
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Volcanion|Earth Power|p1a: Ogerpon
+|-resisted|p1a: Ogerpon
+|-damage|p1a: Ogerpon|71/100
+|
+|upkeep
+|turn|8
+|
+|t:|1780950781
+|switch|p2a: Corviknight|Corviknight, M|100/100 brn
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ogerpon|Encore||[still]
+|-fail|p1a: Ogerpon
+|
+|-damage|p2a: Corviknight|94/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1780950784
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Corviknight|U-turn|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|51/100
+|
+|t:|1780950788
+|switch|p2a: Zamazenta|Zamazenta|100/100|[from] U-turn
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|
+|upkeep
+|turn|10
+|
+|t:|1780950795
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Zamazenta|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|52/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|upkeep
+|turn|11
+|
+|t:|1780950799
+|move|p2a: Zamazenta|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-crit|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1780950801
+|switch|p1a: Skeledirge|Skeledirge, M|99/100
+|turn|12
+|
+|t:|1780950806
+|switch|p2a: Volcanion|Volcanion|100/100
+|move|p1a: Skeledirge|Will-O-Wisp|p2a: Volcanion
+|-immune|p2a: Volcanion
+|
+|upkeep
+|turn|13
+|
+|t:|1780950810
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100
+|move|p2a: Volcanion|Earth Power|p1a: Great Tusk
+|-damage|p1a: Great Tusk|24/100
+|
+|-heal|p1a: Great Tusk|30/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1780950813
+|switch|p2a: Corviknight|Corviknight, M|94/100 brn
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Great Tusk|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-heal|p1a: Great Tusk|36/100|[from] item: Leftovers
+|-damage|p2a: Corviknight|88/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1780950818
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|move|p2a: Corviknight|Brave Bird|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|21/100
+|-damage|p2a: Corviknight|83/100 brn|[from] Recoil
+|
+|-heal|p1a: Great Tusk|27/100|[from] item: Leftovers
+|-damage|p2a: Corviknight|77/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1780950827
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|move|p2a: Corviknight|Brave Bird|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|15/100
+|-damage|p2a: Corviknight|74/100 brn|[from] Recoil
+|
+|-heal|p1a: Great Tusk|22/100|[from] item: Leftovers
+|-damage|p2a: Corviknight|68/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1780950836
+|move|p1a: Great Tusk|Ice Spinner|p2a: Corviknight
+|-damage|p2a: Corviknight|40/100 brn
+|-damage|p1a: Great Tusk|5/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|90/100 brn
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p1a: Great Tusk|11/100|[from] item: Leftovers
+|-damage|p2a: Corviknight|84/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1780950842
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|51/100
+|move|p2a: Corviknight|Brave Bird|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|1/100
+|-damage|p2a: Corviknight|72/100 brn|[from] Recoil
+|
+|-damage|p2a: Corviknight|66/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1780950849
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Corviknight|[anim] Ivy Cudgel Water
+|-damage|p2a: Corviknight|32/100 brn
+|move|p2a: Corviknight|U-turn|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|t:|1780950858
+|switch|p2a: Zamazenta|Zamazenta|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1780950861
+|switch|p1a: Skeledirge|Skeledirge, M|99/100
+|turn|20
+|
+|t:|1780950864
+|switch|p2a: Volcanion|Volcanion|100/100
+|move|p1a: Skeledirge|Torch Song|p2a: Volcanion
+|-resisted|p2a: Volcanion
+|-damage|p2a: Volcanion|92/100
+|-boost|p1a: Skeledirge|spa|1
+|
+|upkeep
+|turn|21
+|
+|t:|1780950868
+|-terastallize|p1a: Skeledirge|Fairy
+|move|p2a: Volcanion|Steam Eruption|p1a: Skeledirge
+|-damage|p1a: Skeledirge|21/100
+|move|p1a: Skeledirge|Torch Song|p2a: Volcanion
+|-resisted|p2a: Volcanion
+|-crit|p2a: Volcanion
+|-damage|p2a: Volcanion|70/100
+|-boost|p1a: Skeledirge|spa|1
+|
+|upkeep
+|turn|22
+|
+|t:|1780950872
+|move|p2a: Volcanion|Steam Eruption|p1a: Skeledirge
+|-damage|p1a: Skeledirge|0 fnt
+|faint|p1a: Skeledirge
+|
+|upkeep
+|-message|AllHailLechuguita forfeited.
+|
+|win|kadu99
+|raw|AllHailLechuguita's rating: 1595 &rarr; <strong>1580</strong><br />(-15 for losing)
+|raw|kadu99's rating: 1676 &rarr; <strong>1691</strong><br />(+15 for winning)
+|l|☆AllHailLechuguita
+|player|p1|
+|l|☆kadu99
+|player|p2|

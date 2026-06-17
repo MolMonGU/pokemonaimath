@@ -1,0 +1,277 @@
+|j|☆KurisuChestnutLab
+|j|☆Izlymoney
+|t:|1781114927
+|gametype|singles
+|player|p1|KurisuChestnutLab|may-contest|1575
+|player|p2|Izlymoney|170|1636
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Primarina, F|
+|poke|p1|Hippowdon, F|
+|poke|p1|Skarmory, F|
+|poke|p1|Zapdos|
+|poke|p1|Dragonite, F|
+|poke|p1|Slowking, F|
+|poke|p2|Cramorant, F|
+|poke|p2|Gallade, M|
+|poke|p2|Kingambit, M|
+|poke|p2|Iron Moth|
+|poke|p2|Enamorus, F|
+|poke|p2|Ogerpon-Cornerstone, F|
+|teampreview
+|
+|t:|1781114931
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Primarina|Primarina, F|100/100
+|switch|p2a: Cramorant|Cramorant, F, shiny|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutLab)
+|
+|t:|1781114938
+|move|p2a: Cramorant|Surf|p1a: Primarina
+|-formechange|p2a: Cramorant|Cramorant-Gulping|
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|90/100
+|move|p1a: Primarina|Moonblast|p2a: Cramorant
+|-damage|p2a: Cramorant|34/100
+|-damage|p1a: Primarina|65/100|[from] ability: Gulp Missile|[of] p2a: Cramorant
+|-unboost|p1a: Primarina|def|1
+|-formechange|p2a: Cramorant|Cramorant|
+|
+|upkeep
+|turn|2
+|
+|t:|1781114943
+|switch|p1a: Slowking|Slowking, F|100/100
+|move|p2a: Cramorant|Tailwind|p2a: Cramorant
+|-sidestart|p2: Izlymoney|move: Tailwind
+|
+|upkeep
+|turn|3
+|
+|t:|1781114950
+|move|p2a: Cramorant|Surf|p1a: Slowking
+|-formechange|p2a: Cramorant|Cramorant-Gorging|
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|89/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781114954
+|switch|p1a: Dragonite|Dragonite, F|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781114962
+|move|p2a: Cramorant|Hurricane|p1a: Dragonite
+|-damage|p1a: Dragonite|74/100
+|-start|p1a: Dragonite|confusion
+|-activate|p1a: Dragonite|confusion
+|-damage|p1a: Dragonite|56/100|[from] confusion
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781114968
+|switch|p1a: Slowking|Slowking, F|100/100
+|move|p2a: Cramorant|Surf|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|88/100
+|
+|-weather|Snowscape|[upkeep]
+|-sideend|p2: Izlymoney|move: Tailwind
+|upkeep
+|turn|6
+|
+|t:|1781114972
+|move|p2a: Cramorant|Hurricane|p1a: Slowking
+|-damage|p1a: Slowking|60/100
+|move|p1a: Slowking|Future Sight|p2a: Cramorant
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781114975
+|move|p2a: Cramorant|Tailwind|p2a: Cramorant
+|-sidestart|p2: Izlymoney|move: Tailwind
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|
+|t:|1781114979
+|switch|p1a: Skarmory|Skarmory, F|100/100|[from] Chilly Reception
+|
+|-weather|none
+|upkeep
+|turn|8
+|
+|t:|1781114984
+|move|p2a: Cramorant|Surf|p1a: Skarmory
+|-damage|p1a: Skarmory|45/100
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|95/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|-end|p2a: Cramorant|move: Future Sight
+|-damage|p2a: Cramorant|0 fnt
+|faint|p2a: Cramorant
+|-heal|p1a: Skarmory|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781114996
+|switch|p2a: Gallade|Gallade, M|100/100
+|turn|9
+|
+|t:|1781115004
+|move|p2a: Gallade|Swords Dance|p2a: Gallade
+|-boost|p2a: Gallade|atk|2
+|move|p1a: Skarmory|Roost||[still]
+|-fail|p1a: Skarmory|heal
+|
+|upkeep
+|turn|10
+|
+|t:|1781115011
+|move|p2a: Gallade|Sacred Sword|p1a: Skarmory
+|-damage|p1a: Skarmory|27/100
+|move|p1a: Skarmory|Iron Head|p2a: Gallade
+|-damage|p2a: Gallade|63/100
+|
+|-heal|p1a: Skarmory|33/100|[from] item: Leftovers
+|-sideend|p2: Izlymoney|move: Tailwind
+|upkeep
+|turn|11
+|
+|t:|1781115018
+|move|p2a: Gallade|Sacred Sword|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|faint|p1a: Skarmory
+|
+|upkeep
+|
+|t:|1781115021
+|switch|p1a: Dragonite|Dragonite, F|56/100
+|turn|12
+|
+|t:|1781115037
+|-terastallize|p1a: Dragonite|Normal
+|move|p1a: Dragonite|Extreme Speed|p2a: Gallade
+|-damage|p2a: Gallade|0 fnt
+|faint|p2a: Gallade
+|
+|upkeep
+|
+|t:|1781115065
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|turn|13
+|
+|t:|1781115073
+|move|p1a: Dragonite|Extreme Speed|p2a: Enamorus
+|-damage|p2a: Enamorus|23/100
+|move|p2a: Enamorus|Moonblast|p1a: Dragonite
+|-damage|p1a: Dragonite|5/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781115079
+|move|p1a: Dragonite|Extreme Speed|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|
+|upkeep
+|
+|t:|1781115081
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|turn|15
+|
+|t:|1781115091
+|-terastallize|p2a: Ogerpon|Rock
+|detailschange|p2a: Ogerpon|Ogerpon-Cornerstone-Tera, F, tera:Rock
+|-ability|p2a: Ogerpon|Embody Aspect (Cornerstone)|boost
+|-boost|p2a: Ogerpon|def|1
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Dragonite|Earthquake|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|37/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781115099
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Dragonite|[anim] Ivy Cudgel Rock
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1781115103
+|switch|p1a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|17
+|
+|t:|1781115111
+|move|p2a: Ogerpon|Power Whip|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|faint|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781115118
+|switch|p1a: Slowking|Slowking, F|94/100
+|turn|18
+|
+|t:|1781115125
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Zapdos|[anim] Ivy Cudgel Rock
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781115129
+|switch|p1a: Primarina|Primarina, F|65/100
+|turn|19
+|
+|t:|1781115133
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Primarina|[anim] Ivy Cudgel Rock
+|-damage|p1a: Primarina|0 fnt
+|faint|p1a: Primarina
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781115139
+|switch|p1a: Slowking|Slowking, F|100/100
+|turn|20
+|
+|t:|1781115141
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Slowking|[anim] Ivy Cudgel Rock
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|win|Izlymoney
+|raw|KurisuChestnutLab's rating: 1558 &rarr; <strong>1542</strong><br />(-16 for losing)
+|raw|Izlymoney's rating: 1636 &rarr; <strong>1652</strong><br />(+16 for winning)

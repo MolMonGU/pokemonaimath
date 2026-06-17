@@ -1,0 +1,280 @@
+|j|☆cachowcapow
+|j|☆Dsadasdad
+|t:|1781026804
+|gametype|singles
+|player|p1|cachowcapow|102|1564
+|player|p2|Dsadasdad|169|1552
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Meowscarada, M|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Zapdos|
+|poke|p1|Alomomola, F|
+|poke|p1|Infernape, M|
+|poke|p1|Great Tusk|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|
+|t:|1781026813
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-ability|p1a: Zapdos|Pressure
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1781026840
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Zapdos|Weather Ball|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781026868
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|2
+|
+|t:|1781026872
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p1a: Zapdos|Volt Switch|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|70/100
+|
+|t:|1781026879
+|switch|p1a: Slowking|Slowking-Galar, F|100/100|[from] Volt Switch
+|move|p2a: Raging Bolt|Thunder|p1a: Slowking
+|-damage|p1a: Slowking|48/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781026888
+|move|p2a: Raging Bolt|Thunder|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781026904
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|turn|4
+|
+|t:|1781026911
+|move|p1a: Meowscarada|Grass Knot|p2a: Raging Bolt
+|-start|p1a: Meowscarada|typechange|Grass|[from] ability: Protean
+|-damage|p2a: Raging Bolt|5/100
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Meowscarada
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781026917
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|5
+|
+|t:|1781026920
+|move|p1a: Great Tusk|Rapid Spin|p2a: Raging Bolt
+|-crit|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-boost|p1a: Great Tusk|spe|1
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781026926
+|switch|p2a: Barraskewda|Barraskewda, M, shiny|100/100
+|turn|6
+|
+|t:|1781026930
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Barraskewda|Flip Turn|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|72/100
+|
+|t:|1781026940
+|switch|p2a: Overqwil|Overqwil, M|100/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781026943
+|move|p2a: Overqwil|Gunk Shot|p1a: Alomomola
+|-damage|p1a: Alomomola|11/100
+|-damage|p2a: Overqwil|91/100|[from] item: Life Orb
+|move|p1a: Alomomola|Scald|p2a: Overqwil
+|-damage|p2a: Overqwil|59/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781026963
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Overqwil|Liquidation|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781026968
+|switch|p1a: Zapdos|Zapdos|100/100
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Overqwil|Crunch|p1a: Zapdos
+|-damage|p1a: Zapdos|34/100
+|-damage|p2a: Overqwil|50/100|[from] item: Life Orb
+|
+|upkeep
+|turn|10
+|
+|t:|1781026987
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|move|p1a: Zapdos|Volt Switch|p2a: Kingambit
+|-damage|p2a: Kingambit|63/100
+|
+|t:|1781026995
+|switch|p1a: Infernape|Infernape, M|100/100|[from] Volt Switch
+|
+|-heal|p2a: Kingambit|69/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781027003
+|move|p1a: Infernape|U-turn|p2a: Kingambit
+|-damage|p2a: Kingambit|54/100
+|
+|t:|1781027005
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|move|p2a: Kingambit|Iron Head|p1a: Great Tusk
+|-damage|p1a: Great Tusk|61/100
+|
+|-heal|p2a: Kingambit|61/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781027017
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Zapdos|Zapdos|34/100
+|-ability|p1a: Zapdos|Pressure
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781027024
+|switch|p2a: Kingambit|Kingambit, M|61/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|84/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kingambit|67/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781027050
+|move|p1a: Zapdos|Volt Switch|p2a: Kingambit
+|-damage|p2a: Kingambit|34/100
+|
+|t:|1781027055
+|switch|p1a: Alomomola|Alomomola, F|44/100|[from] Volt Switch
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|faint|p1a: Alomomola
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kingambit|41/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781027068
+|switch|p1a: Zapdos|Zapdos|84/100
+|-ability|p1a: Zapdos|Pressure
+|turn|15
+|
+|t:|1781027077
+|move|p1a: Zapdos|Weather Ball|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen2|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781027084
+|switch|p2a: Barraskewda|Barraskewda, M, shiny|100/100
+|turn|16
+|
+|t:|1781027093
+|move|p2a: Barraskewda|Liquidation|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781027100
+|switch|p1a: Great Tusk|Great Tusk|61/100
+|turn|17
+|
+|t:|1781027104
+|-terastallize|p1a: Great Tusk|Ghost
+|move|p2a: Barraskewda|Liquidation|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆Dsadasdad|gg
+|-message|cachowcapow forfeited.
+|
+|win|Dsadasdad
+|raw|cachowcapow's rating: 1564 &rarr; <strong>1543</strong><br />(-21 for losing)
+|raw|Dsadasdad's rating: 1552 &rarr; <strong>1573</strong><br />(+21 for winning)
+|l|☆cachowcapow
+|player|p1|
+|l|☆Dsadasdad
+|player|p2|

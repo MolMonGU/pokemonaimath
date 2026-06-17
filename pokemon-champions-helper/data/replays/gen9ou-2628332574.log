@@ -1,0 +1,280 @@
+|j|☆FireSide_01
+|j|☆ankoro
+|t:|1781009190
+|gametype|singles
+|player|p1|FireSide_01|janine|1531
+|player|p2|ankoro|acetrainer-gen2|1539
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ninetales, F|
+|poke|p1|Walking Wake|
+|poke|p1|Typhlosion-Hisui, F|
+|poke|p1|Great Tusk|
+|poke|p1|Rillaboom, F|
+|poke|p1|Raging Bolt|
+|poke|p2|Indeedee, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Ursaluna, F|
+|poke|p2|Iron Hands|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Mimikyu, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FireSide_01)
+|
+|t:|1781009202
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|switch|p2a: pessimo|Hatterene, F, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1781009211
+|-terastallize|p1a: Rillaboom|Grass
+|move|p1a: Rillaboom|Grassy Glide|p2a: pessimo
+|-damage|p2a: pessimo|11/100
+|move|p2a: pessimo|Trick Room|p2a: pessimo
+|-fieldstart|move: Trick Room|[of] p2a: pessimo
+|
+|-heal|p2a: pessimo|17/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781009215
+|move|p1a: Rillaboom|Grassy Glide|p2a: pessimo
+|-damage|p2a: pessimo|0 fnt
+|faint|p2a: pessimo
+|
+|upkeep
+|
+|t:|1781009223
+|switch|p2a: ruim|Indeedee, M, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: ruim
+|turn|3
+|
+|t:|1781009227
+|switch|p2a: sujo|Hoopa-Unbound|100/100
+|-enditem|p2a: sujo|Psychic Seed
+|-boost|p2a: sujo|spd|1|[from] item: Psychic Seed
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781009241
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: sujo|Expanding Force|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|36/100
+|-item|p2a: sujo|Assault Vest|[from] ability: Magician|[of] p1a: Raging Bolt
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781009251
+|move|p2a: sujo|Expanding Force|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1781009253
+|switch|p1a: Rillaboom|Rillaboom, F, tera:Grass|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|6
+|
+|t:|1781009260
+|move|p1a: Rillaboom|Wood Hammer|p2a: sujo
+|-damage|p2a: sujo|0 fnt
+|faint|p2a: sujo
+|-damage|p1a: Rillaboom|65/100|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Rillaboom|71/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781009268
+|switch|p2a: terror|Mimikyu, F, shiny|100/100
+|turn|7
+|
+|t:|1781009272
+|move|p1a: Rillaboom|Wood Hammer|p2a: terror
+|-activate|p2a: terror|ability: Disguise
+|-damage|p2a: terror|100/100
+|detailschange|p2a: terror|Mimikyu-Busted, F, shiny
+|-damage|p2a: terror|88/100|[from] pokemon: Mimikyu-Busted
+|-enditem|p2a: terror|Red Card|[of] p1a: Rillaboom
+|drag|p1a: Typhlosion|Typhlosion-Hisui, F|100/100
+|move|p2a: terror|Trick Room|p2a: terror
+|-fieldstart|move: Trick Room|[of] p2a: terror
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: terror|94/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1781009282
+|move|p2a: terror|Destiny Bond|p2a: terror
+|-singlemove|p2a: terror|Destiny Bond
+|move|p1a: Typhlosion|Shadow Ball|p2a: terror
+|-supereffective|p2a: terror
+|-crit|p2a: terror
+|-damage|p2a: terror|0 fnt
+|faint|p2a: terror
+|-activate|p2a: terror|move: Destiny Bond
+|faint|p1a: Typhlosion
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781009311
+|switch|p2a: nojento|Iron Hands, shiny|100/100
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-enditem|p2a: nojento|Booster Energy
+|-activate|p2a: nojento|ability: Quark Drive|[fromitem]
+|-start|p2a: nojento|quarkdriveatk
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|turn|9
+|
+|t:|1781009321
+|move|p2a: nojento|Close Combat|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|-unboost|p2a: nojento|def|1
+|-unboost|p2a: nojento|spd|1
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781009327
+|switch|p1a: Rillaboom|Rillaboom, F, tera:Grass|71/100
+|turn|10
+|
+|t:|1781009334
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|-terastallize|p2a: nojento|Flying
+|move|p2a: nojento|Ice Punch|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|30/100
+|
+|-weather|none
+|-end|p1a: Great Tusk|Protosynthesis
+|-heal|p1a: Great Tusk|36/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781009340
+|move|p2a: nojento|Ice Punch|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1781009342
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|12
+|
+|t:|1781009349
+|-end|p2a: nojento|Quark Drive|[silent]
+|switch|p2a: horrivel|Ursaluna, F, shiny|100/100
+|move|p1a: Ninetales|Encore||[still]
+|-fail|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|-status|p2a: horrivel|brn|[from] item: Flame Orb
+|upkeep
+|turn|13
+|inactive|ankoro has 120 seconds left.
+|
+|t:|1781009383
+|move|p1a: Ninetales|Healing Wish|p1a: Ninetales
+|faint|p1a: Ninetales
+|move|p2a: horrivel|Facade|p1: Ninetales|[notarget]
+|-fail|p2a: horrivel
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: horrivel|94/100 brn|[from] brn
+|upkeep
+|
+|t:|1781009387
+|switch|p1a: Rillaboom|Rillaboom, F, tera:Grass|71/100
+|-heal|p1a: Rillaboom|100/100|[from] move: Healing Wish
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|14
+|
+|t:|1781009389
+|move|p1a: Rillaboom|Wood Hammer|p2a: horrivel
+|-supereffective|p2a: horrivel
+|-damage|p2a: horrivel|0 fnt
+|faint|p2a: horrivel
+|-damage|p1a: Rillaboom|58/100|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Rillaboom|64/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781009391
+|switch|p2a: ruim|Indeedee, M, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: ruim
+|turn|15
+|
+|t:|1781009393
+|move|p1a: Rillaboom|Wood Hammer|p2a: ruim
+|-damage|p2a: ruim|0 fnt
+|faint|p2a: ruim
+|-damage|p1a: Rillaboom|33/100|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781009396
+|switch|p2a: nojento|Iron Hands, shiny, tera:Flying|100/100
+|turn|16
+|
+|t:|1781009398
+|move|p1a: Rillaboom|Wood Hammer|p2a: nojento
+|-resisted|p2a: nojento
+|-damage|p2a: nojento|49/100
+|-damage|p1a: Rillaboom|11/100|[from] Recoil
+|move|p2a: nojento|Ice Punch|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|win|ankoro
+|raw|FireSide_01's rating: 1531 &rarr; <strong>1511</strong><br />(-20 for losing)
+|raw|ankoro's rating: 1539 &rarr; <strong>1559</strong><br />(+20 for winning)
+|c|☆FireSide_01|gg
+|c|☆ankoro|gg
+|l|☆ankoro
+|player|p2|
+|l|☆FireSide_01
+|player|p1|

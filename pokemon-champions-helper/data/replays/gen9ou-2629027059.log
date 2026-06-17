@@ -1,0 +1,443 @@
+|j|☆waybuloo
+|j|☆jefc
+|t:|1781090351
+|gametype|singles
+|player|p1|waybuloo|erika-gen1rb|1575
+|player|p2|jefc|102|1533
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Excadrill, F|
+|poke|p1|Latios, M|
+|poke|p1|Moltres|
+|poke|p1|Chesnaught, M|
+|poke|p1|Kingambit, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Rillaboom, F|
+|poke|p2|Serperior, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Heatran, F|
+|poke|p2|Great Tusk|
+|teampreview
+|
+|t:|1781090363
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Latios|Latios, M|100/100
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jefc)
+|
+|t:|1781090373
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Heatran|Heatran, F|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Latios|Psychic Noise|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|87/100
+|-start|p2a: Heatran|move: Heal Block
+|-enditem|p2a: Heatran|Air Balloon
+|
+|upkeep
+|turn|2
+|
+|t:|1781090386
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|-item|p1a: Excadrill|Air Balloon
+|move|p2a: Heatran|Will-O-Wisp|p1a: Excadrill
+|-status|p1a: Excadrill|brn
+|
+|-damage|p1a: Excadrill|94/100 brn|[from] brn
+|-end|p2a: Heatran|move: Heal Block
+|upkeep
+|turn|3
+|
+|t:|1781090393
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|
+|-damage|p1a: Excadrill|88/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1781090400
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|move|p1a: Excadrill|Rapid Spin|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|87/100
+|-boost|p1a: Excadrill|spe|1
+|
+|-heal|p2a: Raging Bolt|93/100|[from] item: Leftovers
+|-damage|p1a: Excadrill|82/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1781090409
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Excadrill|Earthquake|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|85/100
+|
+|-heal|p2a: Rillaboom|92/100|[from] Grassy Terrain
+|-damage|p1a: Excadrill|76/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1781090417
+|switch|p1a: Chesnaught|Chesnaught, M|100/100
+|move|p2a: Rillaboom|Knock Off|p1a: Chesnaught
+|-resisted|p1a: Chesnaught
+|-damage|p1a: Chesnaught|90/100
+|-damage|p2a: Rillaboom|75/100|[from] item: Rocky Helmet|[of] p1a: Chesnaught
+|-enditem|p1a: Chesnaught|Rocky Helmet|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-heal|p2a: Rillaboom|81/100|[from] Grassy Terrain
+|-heal|p1a: Chesnaught|96/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781090426
+|switch|p2a: Heatran|Heatran, F|87/100
+|move|p1a: Chesnaught|Iron Defense|p1a: Chesnaught
+|-boost|p1a: Chesnaught|def|2
+|
+|-heal|p2a: Heatran|93/100|[from] Grassy Terrain
+|-heal|p1a: Chesnaught|100/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1781090430
+|switch|p1a: Excadrill|Excadrill, F|76/100 brn
+|-item|p1a: Excadrill|Air Balloon
+|move|p2a: Heatran|Magma Storm|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|-enditem|p1a: Excadrill|Air Balloon
+|faint|p1a: Excadrill
+|
+|-heal|p2a: Heatran|99/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781090436
+|switch|p1a: Latios|Latios, M|100/100
+|turn|9
+|
+|t:|1781090440
+|move|p1a: Latios|Trick|p2a: Heatran
+|-activate|p1a: Latios|move: Trick|[of] p2a: Heatran
+|-item|p2a: Heatran|Choice Scarf|[from] move: Trick
+|-enditem|p1a: Latios|Choice Scarf|[silent]|[from] move: Trick
+|move|p2a: Heatran|Magma Storm|p1a: Latios
+|-resisted|p1a: Latios
+|-damage|p1a: Latios|76/100
+|-activate|p1a: Latios|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p2a: Heatran|100/100|[from] Grassy Terrain
+|-damage|p1a: Latios|64/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1781090449
+|move|p1a: Latios|Aura Sphere|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|64/100
+|move|p2a: Heatran|Magma Storm|p1a: Latios
+|-resisted|p1a: Latios
+|-crit|p1a: Latios
+|-damage|p1a: Latios|29/100
+|
+|-heal|p2a: Heatran|70/100|[from] Grassy Terrain
+|-damage|p1a: Latios|17/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1781090457
+|move|p1a: Latios|Aura Sphere|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|28/100
+|move|p2a: Heatran|Magma Storm|p1a: Latios|[miss]
+|-miss|p2a: Heatran|p1a: Latios
+|
+|-heal|p2a: Heatran|35/100|[from] Grassy Terrain
+|-damage|p1a: Latios|4/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|12
+|
+|t:|1781090461
+|move|p1a: Latios|Aura Sphere|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-end|p1a: Latios|Magma Storm|[partiallytrapped]|[silent]
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781090472
+|switch|p2a: Rillaboom|Rillaboom, F|81/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|13
+|
+|t:|1781090475
+|switch|p1a: Chesnaught|Chesnaught, M|100/100
+|move|p2a: Rillaboom|U-turn|p1a: Chesnaught
+|-damage|p1a: Chesnaught|85/100
+|
+|t:|1781090487
+|switch|p2a: Raging Bolt|Raging Bolt|93/100|[from] U-turn
+|
+|-heal|p2a: Raging Bolt|99/100|[from] Grassy Terrain
+|-heal|p2a: Raging Bolt|100/100|[from] item: Leftovers
+|-heal|p1a: Chesnaught|91/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1781090489
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|move|p1a: Chesnaught|Knock Off|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|86/100
+|-enditem|p2a: Raging Bolt|Leftovers|[from] move: Knock Off|[of] p1a: Chesnaught
+|
+|-heal|p2a: Raging Bolt|92/100|[from] Grassy Terrain
+|-heal|p1a: Chesnaught|97/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1781090494
+|switch|p1a: Latios|Latios, M|4/100
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|-heal|p2a: Raging Bolt|98/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1781090504
+|move|p2a: Raging Bolt|Thunderclap|p1a: Latios
+|-resisted|p1a: Latios
+|-damage|p1a: Latios|0 fnt
+|faint|p1a: Latios
+|
+|-heal|p2a: Raging Bolt|100/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781090507
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|17
+|
+|t:|1781090513
+|move|p1a: Tyranitar|Ice Punch|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|59/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Tyranitar
+|-damage|p1a: Tyranitar|43/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Raging Bolt|52/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|49/100|[from] Grassy Terrain
+|-heal|p2a: Raging Bolt|59/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1781090523
+|move|p1a: Tyranitar|Ice Punch|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|18/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Raging Bolt|12/100|[from] Sandstorm
+|-heal|p2a: Raging Bolt|18/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781090526
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|19
+|
+|t:|1781090530
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Kingambit
+|-damage|p1a: Kingambit|7/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Kingambit|14/100|[from] Grassy Terrain
+|-heal|p1a: Kingambit|20/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781090540
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|20
+|
+|t:|1781090543
+|-end|p1a: Kingambit|fallen3|[silent]
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|94/100|[from] Sandstorm
+|-damage|p1a: Moltres|94/100|[from] Sandstorm
+|-heal|p2a: Zamazenta|100/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1781090545
+|move|p2a: Zamazenta|Substitute|p2a: Zamazenta
+|-start|p2a: Zamazenta|Substitute
+|-damage|p2a: Zamazenta|76/100
+|move|p1a: Moltres|Hurricane|p2a: Zamazenta|[miss]
+|-miss|p1a: Moltres|p2a: Zamazenta
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|70/100|[from] Sandstorm
+|-damage|p1a: Moltres|88/100|[from] Sandstorm
+|-heal|p2a: Zamazenta|76/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781090556
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p1a: Moltres|Flamethrower|p2a: Zamazenta
+|-end|p2a: Zamazenta|Substitute
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|70/100|[from] Sandstorm
+|-damage|p1a: Moltres|82/100|[from] Sandstorm
+|-heal|p2a: Zamazenta|76/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781090558
+|-terastallize|p2a: Zamazenta|Steel
+|move|p2a: Zamazenta|Body Press|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|21/100
+|-status|p2a: Zamazenta|brn|[from] ability: Flame Body|[of] p1a: Moltres
+|move|p1a: Moltres|Flamethrower|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|11/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Moltres|15/100|[from] Sandstorm
+|-heal|p2a: Zamazenta|18/100 brn|[from] item: Leftovers
+|-damage|p2a: Zamazenta|11/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1781090565
+|switch|p1a: Chesnaught|Chesnaught, M|97/100
+|move|p2a: Zamazenta|Body Press|p1a: Chesnaught
+|-damage|p1a: Chesnaught|62/100
+|
+|-weather|none
+|-heal|p2a: Zamazenta|18/100 brn|[from] item: Leftovers
+|-damage|p2a: Zamazenta|11/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1781090573
+|move|p2a: Zamazenta|Body Press|p1a: Chesnaught
+|-damage|p1a: Chesnaught|24/100
+|move|p1a: Chesnaught|Body Press|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781090581
+|switch|p2a: Rillaboom|Rillaboom, F|81/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|26
+|
+|t:|1781090587
+|move|p2a: Rillaboom|U-turn|p1a: Chesnaught
+|-damage|p1a: Chesnaught|9/100
+|
+|t:|1781090590
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|move|p1a: Chesnaught|Synthesis|p1a: Chesnaught
+|-heal|p1a: Chesnaught|59/100
+|
+|-heal|p1a: Chesnaught|65/100|[from] Grassy Terrain
+|upkeep
+|turn|27
+|
+|t:|1781090594
+|move|p2a: Great Tusk|Ice Spinner|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|37/100
+|-fieldend|move: Grassy Terrain
+|move|p1a: Chesnaught|Iron Defense|p1a: Chesnaught
+|-boost|p1a: Chesnaught|def|2
+|
+|upkeep
+|turn|28
+|
+|t:|1781090598
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Serperior|Serperior, F|100/100
+|move|p1a: Chesnaught|Synthesis|p1a: Chesnaught
+|-heal|p1a: Chesnaught|87/100
+|
+|upkeep
+|turn|29
+|
+|t:|1781090601
+|move|p2a: Serperior|Leaf Storm|p1a: Chesnaught
+|-resisted|p1a: Chesnaught
+|-damage|p1a: Chesnaught|57/100
+|-boost|p2a: Serperior|spa|2
+|move|p1a: Chesnaught|Knock Off|p2a: Serperior
+|-damage|p2a: Serperior|72/100
+|-enditem|p2a: Serperior|Choice Scarf|[from] move: Knock Off|[of] p1a: Chesnaught
+|
+|upkeep
+|turn|30
+|
+|t:|1781090604
+|move|p2a: Serperior|Leaf Storm|p1a: Chesnaught|[miss]
+|-miss|p2a: Serperior|p1a: Chesnaught
+|move|p1a: Chesnaught|Body Press|p2a: Serperior
+|-damage|p2a: Serperior|0 fnt
+|faint|p2a: Serperior
+|
+|upkeep
+|-message|jefc forfeited.
+|
+|win|waybuloo
+|raw|waybuloo's rating: 1575 &rarr; <strong>1593</strong><br />(+18 for winning)
+|raw|jefc's rating: 1533 &rarr; <strong>1515</strong><br />(-18 for losing)
+|l|☆jefc
+|player|p2|
+|l|☆waybuloo
+|player|p1|

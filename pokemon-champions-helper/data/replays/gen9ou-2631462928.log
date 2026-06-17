@@ -1,0 +1,451 @@
+|j|☆Seltzergod
+|j|☆U_Quokka
+|t:|1781387743
+|gametype|singles
+|player|p1|Seltzergod|flannery|1707
+|player|p2|U_Quokka|1|1590
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Toxtricity, M|
+|poke|p1|Alomomola, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Corviknight, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Ting-Lu|
+|poke|p2|Pecharunt|
+|poke|p2|Ting-Lu|
+|poke|p2|Zamazenta-*|
+|poke|p2|Darkrai|
+|poke|p2|Gholdengo|
+|poke|p2|Gliscor, F|
+|teampreview
+|
+|t:|1781387748
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Punk Hazard|Toxtricity, M|100/100
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|turn|1
+|
+|t:|1781387756
+|switch|p1a: Skypiea|Corviknight, M|100/100
+|-ability|p1a: Skypiea|Pressure
+|move|p2a: Gliscor|Protect||[still]
+|-fail|p2a: Gliscor
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781387759
+|move|p2a: Gliscor|Knock Off|p1a: Skypiea
+|-damage|p1a: Skypiea|84/100
+|-enditem|p1a: Skypiea|Leftovers|[from] move: Knock Off|[of] p2a: Gliscor
+|move|p1a: Skypiea|U-turn|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|95/100 tox
+|
+|t:|1781387769
+|switch|p1a: Punk Hazard|Toxtricity, M|100/100|[from] U-turn
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|3
+|
+|t:|1781387779
+|switch|p1a: Skypiea|Corviknight, M|84/100
+|-ability|p1a: Skypiea|Pressure
+|move|p2a: Gliscor|Protect||[still]
+|-fail|p2a: Gliscor
+|
+|upkeep
+|turn|4
+|
+|t:|1781387783
+|move|p2a: Gliscor|Spikes|p1a: Skypiea
+|-sidestart|p1: Seltzergod|Spikes
+|move|p1a: Skypiea|U-turn|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|95/100 tox
+|
+|t:|1781387786
+|switch|p1a: Fishman|Alomomola, F|100/100|[from] U-turn
+|-damage|p1a: Fishman|88/100|[from] Spikes
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|5
+|
+|t:|1781387791
+|switch|p1a: Skypiea|Corviknight, M|84/100
+|-ability|p1a: Skypiea|Pressure
+|move|p2a: Gliscor|Spikes|p1a: Skypiea
+|-sidestart|p1: Seltzergod|Spikes
+|
+|upkeep
+|turn|6
+|
+|t:|1781387796
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Skypiea|Defog|p2a: Gholdengo
+|-immune|p2a: Gholdengo|[from] ability: Good as Gold
+|
+|upkeep
+|turn|7
+|
+|t:|1781387802
+|move|p2a: Gholdengo|Trick|p1a: Skypiea
+|-activate|p2a: Gholdengo|move: Trick|[of] p1a: Skypiea
+|-item|p1a: Skypiea|Choice Scarf|[from] move: Trick
+|-enditem|p2a: Gholdengo|Choice Scarf|[silent]|[from] move: Trick
+|move|p1a: Skypiea|U-turn|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|97/100
+|
+|t:|1781387811
+|switch|p1a: Whole Cake|Iron Valiant|100/100|[from] U-turn
+|-damage|p1a: Whole Cake|84/100|[from] Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1781387822
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Whole Cake|Knock Off|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|54/100
+|-enditem|p2a: Pecharunt|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Whole Cake
+|
+|upkeep
+|turn|9
+|
+|t:|1781387832
+|-end|p1a: Whole Cake|Quark Drive|[silent]
+|switch|p1a: Skypiea|Corviknight, M|84/100
+|-ability|p1a: Skypiea|Pressure
+|move|p2a: Pecharunt|Recover|p2a: Pecharunt
+|-heal|p2a: Pecharunt|100/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781387839
+|switch|p2a: Gholdengo|Gholdengo|97/100
+|move|p1a: Skypiea|U-turn|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|93/100
+|
+|t:|1781387852
+|switch|p1a: Drum|Ting-Lu|100/100|[from] U-turn
+|-damage|p1a: Drum|84/100|[from] Spikes
+|-ability|p1a: Drum|Vessel of Ruin
+|
+|upkeep
+|turn|11
+|
+|t:|1781387861
+|switch|p2a: Ting-Lu|Ting-Lu, shiny|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Drum|Stealth Rock|p2a: Ting-Lu
+|-sidestart|p2: U_Quokka|move: Stealth Rock
+|
+|upkeep
+|turn|12
+|
+|t:|1781387866
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Drum
+|-sidestart|p1: Seltzergod|move: Stealth Rock
+|move|p1a: Drum|Ruination|p2a: Ting-Lu|[miss]
+|-miss|p1a: Drum|p2a: Ting-Lu
+|
+|upkeep
+|turn|13
+|
+|t:|1781387871
+|switch|p2a: Gliscor|Gliscor, F|100/100 tox
+|-damage|p2a: Gliscor|88/100 tox|[from] Stealth Rock
+|move|p1a: Drum|Ruination|p2a: Gliscor
+|-damage|p2a: Gliscor|44/100 tox
+|
+|-heal|p2a: Gliscor|57/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|14
+|
+|t:|1781387877
+|switch|p1a: Skypiea|Corviknight, M|84/100
+|-damage|p1a: Skypiea|71/100|[from] Stealth Rock
+|-ability|p1a: Skypiea|Pressure
+|move|p2a: Gliscor|Knock Off|p1a: Skypiea
+|-damage|p1a: Skypiea|55/100
+|-enditem|p1a: Skypiea|Choice Scarf|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|-heal|p2a: Gliscor|69/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|15
+|
+|t:|1781387881
+|switch|p2a: Gholdengo|Gholdengo|93/100
+|-damage|p2a: Gholdengo|87/100|[from] Stealth Rock
+|move|p1a: Skypiea|Roost|p1a: Skypiea
+|-heal|p1a: Skypiea|100/100
+|-singleturn|p1a: Skypiea|move: Roost
+|
+|upkeep
+|turn|16
+|
+|t:|1781387889
+|move|p2a: Gholdengo|Shadow Ball|p1a: Skypiea
+|-damage|p1a: Skypiea|69/100
+|-unboost|p1a: Skypiea|spd|1
+|move|p1a: Skypiea|U-turn|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|82/100
+|
+|t:|1781387907
+|switch|p1a: Punk Hazard|Toxtricity, M|100/100|[from] U-turn
+|-damage|p1a: Punk Hazard|84/100|[from] Spikes
+|-damage|p1a: Punk Hazard|72/100|[from] Stealth Rock
+|
+|upkeep
+|turn|17
+|
+|t:|1781387913
+|switch|p2a: Ting-Lu|Ting-Lu, shiny|100/100
+|-damage|p2a: Ting-Lu|94/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Punk Hazard|Overdrive|p2a: Ting-Lu
+|-immune|p2a: Ting-Lu
+|
+|-heal|p2a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781387923
+|switch|p1a: Skypiea|Corviknight, M|69/100
+|-damage|p1a: Skypiea|56/100|[from] Stealth Rock
+|-ability|p1a: Skypiea|Pressure
+|move|p2a: Ting-Lu|Ruination|p1a: Skypiea
+|-damage|p1a: Skypiea|28/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781387931
+|switch|p2a: Gholdengo|Gholdengo|82/100
+|-damage|p2a: Gholdengo|76/100|[from] Stealth Rock
+|move|p1a: Skypiea|Roost|p1a: Skypiea
+|-heal|p1a: Skypiea|78/100
+|-singleturn|p1a: Skypiea|move: Roost
+|
+|upkeep
+|turn|20
+|
+|t:|1781387939
+|switch|p2a: Gliscor|Gliscor, F|69/100 tox
+|-damage|p2a: Gliscor|57/100 tox|[from] Stealth Rock
+|move|p1a: Skypiea|Roost|p1a: Skypiea
+|-heal|p1a: Skypiea|100/100
+|-singleturn|p1a: Skypiea|move: Roost
+|
+|-heal|p2a: Gliscor|69/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|21
+|
+|t:|1781387944
+|move|p2a: Gliscor|Spikes|p1a: Skypiea
+|-sidestart|p1: Seltzergod|Spikes
+|move|p1a: Skypiea|Defog|p2a: Gliscor
+|-unboost|p2a: Gliscor|evasion|1
+|-sideend|p2: U_Quokka|Stealth Rock|[from] move: Defog|[of] p1a: Skypiea
+|-sideend|p1: Seltzergod|Spikes|[from] move: Defog|[of] p1a: Skypiea
+|-sideend|p1: Seltzergod|Stealth Rock|[from] move: Defog|[of] p1a: Skypiea
+|
+|-heal|p2a: Gliscor|82/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|22
+|
+|t:|1781387947
+|move|p2a: Gliscor|Spikes|p1a: Skypiea
+|-sidestart|p1: Seltzergod|Spikes
+|move|p1a: Skypiea|U-turn|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|76/100 tox
+|
+|t:|1781387953
+|switch|p1a: Punk Hazard|Toxtricity, M|72/100|[from] U-turn
+|-damage|p1a: Punk Hazard|59/100|[from] Spikes
+|
+|-heal|p2a: Gliscor|89/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|23
+|
+|t:|1781387956
+|-terastallize|p1a: Punk Hazard|Normal
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Punk Hazard|Boomburst|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|24
+|
+|t:|1781387959
+|switch|p2a: Gholdengo|Gholdengo|76/100
+|move|p1a: Punk Hazard|Boomburst|p2a: Gholdengo
+|-immune|p2a: Gholdengo
+|
+|upkeep
+|turn|25
+|
+|t:|1781387964
+|switch|p1a: Skypiea|Corviknight, M|100/100
+|-ability|p1a: Skypiea|Pressure
+|move|p2a: Gholdengo|Trick||[still]
+|-fail|p2a: Gholdengo
+|
+|upkeep
+|turn|26
+|
+|t:|1781387974
+|move|p2a: Gholdengo|Shadow Ball|p1a: Skypiea
+|-damage|p1a: Skypiea|70/100
+|move|p1a: Skypiea|U-turn|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|73/100
+|
+|t:|1781387981
+|switch|p1a: Wano|Dragapult, F|100/100|[from] U-turn
+|-damage|p1a: Wano|88/100|[from] Spikes
+|
+|upkeep
+|turn|27
+|
+|t:|1781387987
+|switch|p2a: Gliscor|Gliscor, F|100/100 tox
+|move|p1a: Wano|U-turn|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|94/100 tox
+|
+|t:|1781387993
+|switch|p1a: Skypiea|Corviknight, M|70/100|[from] U-turn
+|-ability|p1a: Skypiea|Pressure
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|28
+|
+|t:|1781388000
+|move|p2a: Gliscor|Spikes|p1a: Skypiea
+|-sidestart|p1: Seltzergod|Spikes
+|move|p1a: Skypiea|Defog|p2a: Gliscor
+|-unboost|p2a: Gliscor|evasion|1
+|-sideend|p1: Seltzergod|Spikes|[from] move: Defog|[of] p1a: Skypiea
+|
+|upkeep
+|turn|29
+|
+|t:|1781388004
+|move|p2a: Gliscor|Spikes|p1a: Skypiea
+|-sidestart|p1: Seltzergod|Spikes
+|move|p1a: Skypiea|U-turn|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|95/100 tox
+|
+|t:|1781388011
+|switch|p1a: Fishman|Alomomola, F|100/100|[from] U-turn
+|-damage|p1a: Fishman|88/100|[from] Spikes
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|30
+|
+|t:|1781388015
+|switch|p2a: Ting-Lu|Ting-Lu, shiny|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Fishman|Flip Turn|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|83/100
+|
+|t:|1781388018
+|switch|p1a: Whole Cake|Iron Valiant|84/100|[from] Flip Turn
+|-damage|p1a: Whole Cake|71/100|[from] Spikes
+|
+|-heal|p2a: Ting-Lu|89/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1781388030
+|-end|p1a: Whole Cake|Quark Drive|[silent]
+|switch|p1a: Wano|Dragapult, F|88/100
+|-damage|p1a: Wano|76/100|[from] Spikes
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|
+|upkeep
+|turn|32
+|
+|t:|1781388033
+|switch|p2a: Gliscor|Gliscor, F|100/100 tox
+|move|p1a: Wano|Draco Meteor|p2a: Gliscor
+|-damage|p2a: Gliscor|33/100 tox
+|-unboost|p1a: Wano|spa|2
+|
+|-heal|p2a: Gliscor|46/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|33
+|
+|t:|1781388049
+|switch|p1a: Skypiea|Corviknight, M|70/100
+|-ability|p1a: Skypiea|Pressure
+|switch|p2a: Ting-Lu|Ting-Lu, shiny|89/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|-heal|p2a: Ting-Lu|95/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1781388069
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Skypiea
+|-sidestart|p1: Seltzergod|move: Stealth Rock
+|move|p1a: Skypiea|U-turn|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|81/100
+|
+|t:|1781388077
+|switch|p1a: Punk Hazard|Toxtricity, M, tera:Normal|59/100|[from] U-turn
+|-damage|p1a: Punk Hazard|47/100|[from] Spikes
+|-damage|p1a: Punk Hazard|35/100|[from] Stealth Rock
+|
+|-heal|p2a: Ting-Lu|87/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1781388091
+|move|p1a: Punk Hazard|Volt Switch|p2a: Ting-Lu
+|-immune|p2a: Ting-Lu
+|move|p2a: Ting-Lu|Earthquake|p1a: Punk Hazard
+|-damage|p1a: Punk Hazard|0 fnt
+|faint|p1a: Punk Hazard
+|
+|-heal|p2a: Ting-Lu|93/100|[from] item: Leftovers
+|upkeep
+|-message|Seltzergod forfeited.
+|
+|win|U_Quokka
+|raw|Seltzergod's rating: 1707 &rarr; <strong>1681</strong><br />(-26 for losing)
+|raw|U_Quokka's rating: 1590 &rarr; <strong>1616</strong><br />(+26 for winning)
+|l|☆Seltzergod
+|player|p1|
+|l|☆U_Quokka
+|player|p2|

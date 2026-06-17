@@ -1,0 +1,235 @@
+|j|☆iamverykarpy
+|j|☆RogerBuster
+|t:|1781574068
+|gametype|singles
+|player|p1|iamverykarpy|colress|1612
+|player|p2|RogerBuster|winona|1509
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cetitan, F|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Kyurem|
+|poke|p1|Rillaboom, F|
+|poke|p1|Alomomola, F|
+|poke|p1|Great Tusk|
+|poke|p2|Abomasnow, M|
+|poke|p2|Conkeldurr, F|
+|poke|p2|Entei|
+|poke|p2|Indeedee, M|
+|poke|p2|Thundurus, M|
+|poke|p2|Slowbro, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by RogerBuster)
+|inactive|iamverykarpy also wants the timer to be on.
+|
+|t:|1781574078
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|switch|p2a: Entei|Entei|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1781574086
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Entei|Sacred Fire|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|81/100
+|-status|p1a: Alomomola|brn
+|
+|-heal|p1a: Alomomola|87/100 brn|[from] Grassy Terrain
+|-damage|p1a: Alomomola|81/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1781574097
+|switch|p2a: Abomasnow|Abomasnow, M|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|move|p1a: Alomomola|Flip Turn|p2a: Abomasnow
+|-resisted|p2a: Abomasnow
+|-damage|p2a: Abomasnow|98/100
+|
+|t:|1781574106
+|switch|p1a: Cetitan|Cetitan, F, shiny|100/100|[from] Flip Turn
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Abomasnow|100/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781574111
+|move|p1a: Cetitan|Belly Drum|p1a: Cetitan
+|-damage|p1a: Cetitan|50/100
+|-setboost|p1a: Cetitan|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Cetitan|Sitrus Berry|[eat]
+|-heal|p1a: Cetitan|75/100|[from] item: Sitrus Berry
+|move|p2a: Abomasnow|Aurora Veil|p2a: Abomasnow
+|-sidestart|p2: RogerBuster|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Cetitan|82/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781574120
+|-terastallize|p1a: Cetitan|Ice
+|move|p1a: Cetitan|Ice Spinner|p2a: Abomasnow
+|-damage|p2a: Abomasnow|18/100
+|-fieldend|move: Grassy Terrain
+|move|p2a: Abomasnow|Earth Power|p1a: Cetitan
+|-damage|p1a: Cetitan|52/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781574128
+|move|p1a: Cetitan|Ice Spinner|p2a: Abomasnow
+|-damage|p2a: Abomasnow|0 fnt
+|faint|p2a: Abomasnow
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781574136
+|switch|p2a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|6
+|
+|t:|1781574140
+|move|p2a: Indeedee|Expanding Force|p1a: Cetitan
+|-damage|p1a: Cetitan|0 fnt
+|faint|p1a: Cetitan
+|
+|-weather|none
+|upkeep
+|
+|t:|1781574146
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100
+|turn|7
+|
+|t:|1781574153
+|-terastallize|p2a: Indeedee|Psychic
+|move|p2a: Indeedee|Expanding Force|p1a: Slowking
+|-damage|p1a: Slowking|42/100
+|move|p1a: Slowking|Future Sight|p2a: Indeedee
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|8
+|
+|t:|1781574165
+|move|p2a: Indeedee|Expanding Force|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1781574171
+|switch|p1a: Kyurem|Kyurem, shiny|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|9
+|
+|t:|1781574174
+|move|p2a: Indeedee|Expanding Force|p1a: Kyurem
+|-damage|p1a: Kyurem|6/100
+|move|p1a: Kyurem|Ice Beam|p2a: Indeedee
+|-damage|p2a: Indeedee|50/100
+|
+|-end|p2a: Indeedee|move: Future Sight
+|-resisted|p2a: Indeedee
+|-damage|p2a: Indeedee|29/100
+|upkeep
+|turn|10
+|c|☆iamverykarpy|wait im so fucking dumb i can literally change terrain
+|
+|t:|1781574198
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Indeedee|Expanding Force|p1a: Rillaboom
+|-damage|p1a: Rillaboom|25/100
+|
+|-heal|p2a: Indeedee|35/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|31/100|[from] Grassy Terrain
+|-sideend|p2: RogerBuster|move: Aurora Veil
+|upkeep
+|turn|11
+|
+|t:|1781574208
+|switch|p2a: Entei|Entei|100/100
+|move|p1a: Rillaboom|Grassy Glide|p2a: Entei
+|-resisted|p2a: Entei
+|-damage|p2a: Entei|76/100
+|
+|-heal|p1a: Rillaboom|37/100|[from] Grassy Terrain
+|-heal|p2a: Entei|82/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781574218
+|switch|p1a: Alomomola|Alomomola, F|100/100 brn
+|switch|p2a: Indeedee|Indeedee, M, tera:Psychic|35/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|
+|-damage|p1a: Alomomola|94/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1781574226
+|switch|p1a: Rillaboom|Rillaboom, F|37/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Indeedee|Expanding Force|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Indeedee|41/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781574229
+|switch|p1a: Alomomola|Alomomola, F|100/100 brn
+|turn|14
+|
+|t:|1781574238
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-damage|p1a: Alomomola|94/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781574251
+|move|p1a: Alomomola|Flip Turn|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|97/100
+|
+|t:|1781574253
+|switch|p1a: Kyurem|Kyurem, shiny|6/100|[from] Flip Turn
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Slowbro|Psychic|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|-damage|p2a: Slowbro|87/100|[from] item: Life Orb
+|
+|-heal|p2a: Slowbro|93/100|[from] Grassy Terrain
+|upkeep
+|-message|iamverykarpy forfeited.
+|
+|win|RogerBuster
+|raw|iamverykarpy's rating: 1612 &rarr; <strong>1586</strong><br />(-26 for losing)
+|raw|RogerBuster's rating: 1509 &rarr; <strong>1535</strong><br />(+26 for winning)
+|l|☆iamverykarpy
+|player|p1|
+|c|☆RogerBuster|gg
+|l|☆RogerBuster
+|player|p2|

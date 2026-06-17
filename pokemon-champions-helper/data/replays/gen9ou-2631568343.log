@@ -1,0 +1,417 @@
+|j|☆karakel
+|j|☆overheat xyz
+|t:|1781402483
+|gametype|singles
+|player|p1|karakel|cowgirl|1702
+|player|p2|overheat xyz|101|1701
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Lilligant-Hisui, F|
+|poke|p1|Ninetales, F|
+|poke|p1|Great Tusk|
+|poke|p1|Walking Wake|
+|poke|p1|Cresselia, F|
+|poke|p1|Cinderace, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Kingambit, F|
+|poke|p2|Corviknight, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by karakel)
+|
+|t:|1781402498
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|1
+|j| Master Thespian
+|inactive|karakel has 120 seconds left.
+|
+|t:|1781402541
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|move|p2a: Dragapult|Shadow Ball|p1a: Great Tusk
+|-damage|p1a: Great Tusk|36/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781402555
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Great Tusk|Headlong Rush|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781402570
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|move|p2a: Corviknight|Roost||[still]
+|-fail|p2a: Corviknight|heal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781402575
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|move|p1a: Cresselia|Thunder Wave|p2a: Samurott
+|-status|p2a: Samurott|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781402583
+|switch|p1a: Great Tusk|Great Tusk|36/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|move|p2a: Samurott|Ceaseless Edge|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|23/100
+|-sidestart|p1: karakel|Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781402601
+|move|p1a: Great Tusk|Close Combat|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Samurott
+|-enditem|p1a: Great Tusk|Eject Pack
+|
+|t:|1781402605
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|-damage|p1a: Cinderace|88/100|[from] Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781402621
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|7
+|
+|t:|1781402629
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-start|p1a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|move|p2a: Dragapult|Draco Meteor|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Cinderace
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781402644
+|switch|p1a: Great Tusk|Great Tusk|23/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|turn|8
+|
+|t:|1781402651
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|
+|-weather|none
+|-end|p1a: Walking Wake|Protosynthesis
+|upkeep
+|turn|9
+|
+|t:|1781402659
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|-damage|p2a: Slowking|88/100|[from] Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781402668
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|move|p2a: Slowking|Future Sight|p1a: Walking Wake
+|-start|p2a: Slowking|move: Future Sight
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|j| choispecs ironmoth
+|
+|t:|1781402681
+|move|p1a: Walking Wake|Hydro Steam|p2a: Slowking
+|-damage|p2a: Slowking|23/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Walking Wake
+|-damage|p1a: Walking Wake|52/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781402700
+|move|p1a: Walking Wake|Hydro Steam|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|-weather|SunnyDay|[upkeep]
+|-end|p1a: Walking Wake|move: Future Sight
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|upkeep
+|inactive|overheat xyz has 120 seconds left.
+|
+|t:|1781402737
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|-damage|p2a: Dragapult|88/100|[from] Spikes
+|turn|13
+|
+|t:|1781402746
+|move|p2a: Dragapult|U-turn|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|80/100
+|-enditem|p1a: Cresselia|Eject Button
+|
+|t:|1781402750
+|switch|p1a: Great Tusk|Great Tusk|23/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|inactive|overheat xyz has 120 seconds left.
+|l| Master Thespian
+|l|☆overheat xyz
+|inactive|overheat xyz disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆overheat xyz
+|inactive|overheat xyz reconnected and has 100 seconds left.
+|player|p2|overheat xyz|101|
+|
+|t:|1781402785
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Great Tusk|Ice Spinner|p2a: Corviknight
+|-damage|p2a: Corviknight|87/100
+|-damage|p1a: Great Tusk|7/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|j| Master Thespian
+|
+|t:|1781402791
+|move|p1a: Great Tusk|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|53/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|0 fnt|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|move|p2a: Corviknight|Defog|p1: Great Tusk|[notarget]
+|-fail|p2a: Corviknight
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781402800
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|turn|16
+|l|☆overheat xyz
+|inactive|overheat xyz disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆overheat xyz
+|inactive|overheat xyz reconnected and has 90 seconds left.
+|player|p2|overheat xyz|101|
+|l|☆overheat xyz
+|inactive|overheat xyz disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆overheat xyz
+|inactive|overheat xyz reconnected and has 60 seconds left.
+|player|p2|overheat xyz|101|
+|
+|t:|1781402862
+|switch|p2a: Dragapult|Dragapult, F|88/100
+|-damage|p2a: Dragapult|76/100|[from] Spikes
+|move|p1a: Ninetales|Overheat|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|40/100
+|-unboost|p1a: Ninetales|spa|2
+|
+|-weather|none
+|upkeep
+|turn|17
+|inactive|overheat xyz has 60 seconds left.
+|
+|t:|1781402869
+|switch|p1a: Cresselia|Cresselia, F|80/100
+|move|p2a: Dragapult|Shadow Ball|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|15/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781402874
+|move|p2a: Dragapult|Shadow Ball|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|0 fnt
+|faint|p1a: Cresselia
+|
+|upkeep
+|
+|t:|1781402876
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|19
+|
+|t:|1781402893
+|move|p2a: Dragapult|Shadow Ball|p1a: Ninetales
+|-damage|p1a: Ninetales|52/100
+|move|p1a: Ninetales|Overheat|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|3/100
+|-unboost|p1a: Ninetales|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781402915
+|move|p2a: Dragapult|Shadow Ball|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781402918
+|switch|p1a: Lilligant|Lilligant-Hisui, F|100/100
+|turn|21
+|
+|t:|1781402923
+|move|p1a: Lilligant|Leaf Blade|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781402938
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-damage|p2a: Kingambit|88/100|[from] Spikes
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|turn|22
+|
+|t:|1781402948
+|-terastallize|p2a: Kingambit|Fairy
+|move|p1a: Lilligant|Victory Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|atk|1
+|-boost|p1a: Lilligant|def|1
+|-boost|p1a: Lilligant|spe|1
+|move|p2a: Kingambit|Iron Head|p1a: Lilligant
+|-damage|p1a: Lilligant|46/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Lilligant|52/100|[from] item: Leftovers
+|-heal|p2a: Kingambit|94/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781402960
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Lilligant|Victory Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|atk|1
+|-boost|p1a: Lilligant|def|1
+|-boost|p1a: Lilligant|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Lilligant|58/100|[from] item: Leftovers
+|-heal|p2a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781402970
+|-end|p2a: Kingambit|fallen3|[silent]
+|switch|p2a: Corviknight|Corviknight, M|53/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Lilligant|Leaf Blade|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|40/100
+|-damage|p1a: Lilligant|42/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Lilligant|48/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781402986
+|move|p1a: Lilligant|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-unboost|p1a: Lilligant|def|1
+|-unboost|p1a: Lilligant|spd|1
+|-damage|p1a: Lilligant|32/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p2a: Corviknight
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Lilligant|38/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781402996
+|switch|p2a: Kingambit|Kingambit, F, tera:Fairy|100/100
+|-damage|p2a: Kingambit|88/100|[from] Spikes
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|26
+|
+|t:|1781403008
+|move|p1a: Lilligant|Leaf Blade|p2a: Kingambit
+|-damage|p2a: Kingambit|22/100
+|move|p2a: Kingambit|Iron Head|p1a: Lilligant
+|-damage|p1a: Lilligant|0 fnt
+|faint|p1a: Lilligant
+|
+|win|overheat xyz
+|raw|karakel's rating: 1702 &rarr; <strong>1682</strong><br />(-20 for losing)
+|raw|overheat xyz's rating: 1701 &rarr; <strong>1721</strong><br />(+20 for winning)
+|l|☆karakel
+|player|p1|
+|l| Master Thespian

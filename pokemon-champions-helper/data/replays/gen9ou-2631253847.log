@@ -1,0 +1,223 @@
+|j|☆mastersannin
+|j|☆veronyl
+|t:|1781363795
+|gametype|singles
+|player|p1|mastersannin|170|1535
+|player|p2|veronyl|palmer|1498
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, M|
+|poke|p1|Barraskewda, F|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, F|
+|poke|p2|Glaceon, F|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Basculegion-F, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Iron Treads|
+|poke|p2|Weavile, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by veronyl)
+|inactive|mastersannin also wants the timer to be on.
+|inactive|mastersannin has 120 seconds left.
+|
+|t:|1781363855
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|switch|p2a: Basculegion|Basculegion-F, F|100/100
+|turn|1
+|
+|t:|1781363869
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Iron Treads
+|-crit|p2a: Iron Treads
+|-damage|p2a: Iron Treads|29/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781363876
+|move|p2a: Iron Treads|Earthquake|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|30/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p1a: Kingambit|36/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781363880
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|3
+|
+|t:|1781363885
+|move|p2a: Weavile|Low Kick|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|
+|upkeep
+|
+|t:|1781363896
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|4
+|
+|t:|1781363901
+|switch|p2a: Basculegion|Basculegion-F, F|100/100
+|move|p1a: Iron Treads|Steel Beam|p2a: Basculegion|[miss]
+|-miss|p1a: Iron Treads|p2a: Basculegion
+|-damage|p1a: Iron Treads|50/100|[from] steelbeam
+|
+|upkeep
+|turn|5
+|
+|t:|1781363905
+|move|p1a: Iron Treads|Stealth Rock|p2a: Basculegion
+|-sidestart|p2: veronyl|move: Stealth Rock
+|move|p2a: Basculegion|Surf|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781363915
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|6
+|
+|t:|1781363922
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-damage|p2a: Ninetales|76/100|[from] Stealth Rock
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Raging Bolt|Thunder|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781363925
+|switch|p2a: Glaceon|Glaceon, F|100/100
+|-damage|p2a: Glaceon|76/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1781363934
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Glaceon|Freeze-Dry|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781363944
+|switch|p1a: Overqwil|Overqwil, M|100/100
+|turn|8
+|
+|t:|1781363947
+|move|p1a: Overqwil|Gunk Shot|p2a: Glaceon
+|-damage|p2a: Glaceon|3/100
+|-damage|p1a: Overqwil|91/100|[from] item: Life Orb
+|move|p2a: Glaceon|Freeze-Dry|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|faint|p1a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781363955
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|turn|9
+|
+|t:|1781363957
+|move|p1a: Raging Bolt|Thunderclap|p2a: Glaceon
+|-damage|p2a: Glaceon|0 fnt
+|faint|p2a: Glaceon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781363966
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|10
+|
+|t:|1781363975
+|-terastallize|p1a: Raging Bolt|Fairy
+|move|p2a: Weavile|Ice Shard|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|84/100
+|move|p1a: Raging Bolt|Thunder|p2a: Weavile
+|-damage|p2a: Weavile|12/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781363983
+|move|p1a: Raging Bolt|Thunderclap|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781363986
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781363991
+|move|p1a: Raging Bolt|Thunderclap|p2a: Ogerpon
+|-damage|p2a: Ogerpon|42/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Raging Bolt|[anim] Ivy Cudgel Water
+|-damage|p1a: Raging Bolt|7/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781364000
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Raging Bolt|[anim] Ivy Cudgel Water
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|mastersannin forfeited.
+|
+|win|veronyl
+|raw|mastersannin's rating: 1535 &rarr; <strong>1513</strong><br />(-22 for losing)
+|raw|veronyl's rating: 1498 &rarr; <strong>1520</strong><br />(+22 for winning)
+|l|☆mastersannin
+|player|p1|
+|l|☆veronyl
+|player|p2|

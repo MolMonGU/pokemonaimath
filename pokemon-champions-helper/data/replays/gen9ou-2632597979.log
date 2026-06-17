@@ -1,0 +1,378 @@
+|j|☆youngchimp
+|j|☆moodrandom
+|t:|1781542711
+|gametype|singles
+|player|p1|youngchimp|dancer|1623
+|player|p2|moodrandom|thorton|1665
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Glimmora, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Great Tusk|
+|poke|p1|Kingambit, F|
+|poke|p1|Moltres|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Gliscor, M|
+|poke|p2|Revavroom, M|
+|poke|p2|Hatterene, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by youngchimp)
+|j| DA COME UP
+|l| DA COME UP
+|inactive|moodrandom has 120 seconds left.
+|inactive|youngchimp has 120 seconds left.
+|
+|t:|1781542759
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|1
+|
+|t:|1781542777
+|switch|p1a: Boom Bringer|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Boom Bringer
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Boom Bringer|[anim] Ivy Cudgel Water
+|-resisted|p1a: Boom Bringer
+|-damage|p1a: Boom Bringer|65/100
+|
+|-heal|p1a: Boom Bringer|71/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781542786
+|switch|p2a: Revavroom|Revavroom, M|100/100
+|move|p1a: Boom Bringer|Grassy Glide|p2a: Revavroom
+|-resisted|p2a: Revavroom
+|-damage|p2a: Revavroom|82/100
+|
+|-heal|p2a: Revavroom|88/100|[from] Grassy Terrain
+|-heal|p1a: Boom Bringer|78/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781542800
+|switch|p1a: Top Don|Great Tusk|100/100
+|move|p2a: Revavroom|Gunk Shot|p1a: Top Don
+|-resisted|p1a: Top Don
+|-damage|p1a: Top Don|76/100
+|-status|p1a: Top Don|psn
+|
+|-heal|p1a: Top Don|82/100 psn|[from] Grassy Terrain
+|-heal|p2a: Revavroom|94/100|[from] Grassy Terrain
+|-damage|p1a: Top Don|70/100 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1781542806
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Top Don|Headlong Rush|p2a: Ninetales
+|-damage|p2a: Ninetales|47/100
+|-unboost|p1a: Top Don|def|1
+|-unboost|p1a: Top Don|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Ninetales|53/100|[from] Grassy Terrain
+|-heal|p1a: Top Don|76/100 psn|[from] Grassy Terrain
+|-damage|p1a: Top Don|64/100 psn|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1781542812
+|-end|p1a: Top Don|Protosynthesis|[silent]
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: moodrandom|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Ninetales|59/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781542815
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Glimmora|Meteor Beam||[still]
+|-prepare|p1a: Glimmora|Meteor Beam
+|-boost|p1a: Glimmora|spa|1
+|-enditem|p1a: Glimmora|Power Herb
+|-anim|p1a: Glimmora|Meteor Beam|p2a: Hatterene
+|-damage|p2a: Hatterene|51/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Hatterene|57/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781542824
+|move|p1a: Glimmora|Sludge Bomb|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781542828
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|8
+|
+|t:|1781542835
+|switch|p1a: Boom Bringer|Rillaboom, M|78/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Boom Bringer
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Boom Bringer|[anim] Ivy Cudgel Water
+|-resisted|p1a: Boom Bringer
+|-crit|p1a: Boom Bringer
+|-damage|p1a: Boom Bringer|26/100
+|
+|-weather|none
+|-heal|p1a: Boom Bringer|32/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781542841
+|move|p1a: Boom Bringer|Grassy Glide|p2a: Ogerpon
+|-damage|p2a: Ogerpon|60/100
+|move|p2a: Ogerpon|Play Rough|p1a: Boom Bringer
+|-damage|p1a: Boom Bringer|0 fnt
+|faint|p1a: Boom Bringer
+|
+|-heal|p2a: Ogerpon|66/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781542860
+|switch|p1a: Usain Pult|Dragapult, F|100/100
+|turn|10
+|
+|t:|1781542871
+|switch|p2a: Revavroom|Revavroom, M|94/100
+|move|p1a: Usain Pult|Thunder Wave|p2a: Revavroom|[miss]
+|-miss|p1a: Usain Pult|p2a: Revavroom
+|
+|-heal|p2a: Revavroom|99/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781542880
+|move|p1a: Usain Pult|U-turn|p2a: Revavroom
+|-resisted|p2a: Revavroom
+|-damage|p2a: Revavroom|95/100
+|
+|t:|1781542881
+|switch|p1a: Swoletres|Moltres|100/100|[from] U-turn
+|move|p2a: Revavroom|Shift Gear|p2a: Revavroom
+|-boost|p2a: Revavroom|spe|2
+|-boost|p2a: Revavroom|atk|1
+|
+|-heal|p2a: Revavroom|100/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781542885
+|move|p2a: Revavroom|Gunk Shot|p1a: Swoletres
+|-damage|p1a: Swoletres|35/100
+|-status|p1a: Swoletres|psn
+|move|p1a: Swoletres|Will-O-Wisp|p2a: Revavroom
+|-status|p2a: Revavroom|brn
+|
+|-damage|p1a: Swoletres|23/100 psn|[from] psn
+|-damage|p2a: Revavroom|95/100 brn|[from] brn
+|-sideend|p2: moodrandom|move: Aurora Veil
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781542894
+|move|p2a: Revavroom|Gunk Shot|p1a: Swoletres
+|-damage|p1a: Swoletres|0 fnt
+|faint|p1a: Swoletres
+|
+|-damage|p2a: Revavroom|89/100 brn|[from] brn
+|upkeep
+|
+|t:|1781542914
+|switch|p1a: Top Don|Great Tusk|64/100 psn
+|turn|14
+|
+|t:|1781542925
+|move|p2a: Revavroom|Iron Head|p1a: Top Don
+|-damage|p1a: Top Don|41/100 psn
+|cant|p1a: Top Don|flinch
+|
+|-damage|p1a: Top Don|29/100 psn|[from] psn
+|-damage|p2a: Revavroom|83/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781542930
+|move|p2a: Revavroom|Iron Head|p1a: Top Don
+|-damage|p1a: Top Don|6/100 psn
+|move|p1a: Top Don|Stealth Rock|p2a: Revavroom
+|-sidestart|p2: moodrandom|move: Stealth Rock
+|
+|-damage|p1a: Top Don|0 fnt|[from] psn
+|faint|p1a: Top Don
+|-end|p1a: Top Don|Protosynthesis|[silent]
+|-damage|p2a: Revavroom|77/100 brn|[from] brn
+|upkeep
+|
+|t:|1781542943
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|16
+|
+|t:|1781542948
+|move|p2a: Revavroom|Temper Flare|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|73/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|79/100|[from] item: Leftovers
+|-damage|p2a: Revavroom|71/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781542952
+|move|p1a: Kingambit|Sucker Punch|p2a: Revavroom
+|-damage|p2a: Revavroom|0 fnt
+|faint|p2a: Revavroom
+|
+|-heal|p1a: Kingambit|86/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781542961
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|-damage|p2a: Gliscor|88/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781542975
+|move|p2a: Gliscor|Earthquake|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|42/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|-heal|p1a: Kingambit|48/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781542987
+|switch|p2a: Ninetales|Ninetales-Alola, M|59/100
+|-damage|p2a: Ninetales|34/100|[from] Stealth Rock
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|19
+|
+|t:|1781542993
+|move|p2a: Ninetales|Encore|p1a: Kingambit
+|-start|p1a: Kingambit|Encore
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kingambit|54/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781542995
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-damage|p2a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|20
+|
+|t:|1781543014
+|-end|p1a: Kingambit|fallen3|[silent]
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|move|p2a: Tyranitar|Dragon Dance|p2a: Tyranitar
+|-boost|p2a: Tyranitar|atk|1
+|-boost|p2a: Tyranitar|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|94/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781543028
+|-terastallize|p1a: Glimmora|Grass
+|move|p2a: Tyranitar|Dragon Dance|p2a: Tyranitar
+|-boost|p2a: Tyranitar|atk|1
+|-boost|p2a: Tyranitar|spe|1
+|move|p1a: Glimmora|Energy Ball|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|31/100
+|-unboost|p2a: Tyranitar|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Glimmora|94/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|37/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781543037
+|move|p2a: Tyranitar|Stone Edge|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: moodrandom|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|43/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781543056
+|switch|p1a: Kingambit|Kingambit, F|54/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|23
+|
+|t:|1781543061
+|move|p1a: Kingambit|Sucker Punch|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|18/100
+|move|p2a: Tyranitar|Low Kick|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|24/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781543063
+|switch|p1a: Usain Pult|Dragapult, F|100/100
+|turn|24
+|
+|t:|1781543065
+|move|p2a: Tyranitar|Knock Off|p1a: Usain Pult
+|-supereffective|p1a: Usain Pult
+|-damage|p1a: Usain Pult|0 fnt
+|-enditem|p1a: Usain Pult|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tyranitar
+|faint|p1a: Usain Pult
+|
+|win|moodrandom
+|raw|youngchimp's rating: 1623 &rarr; <strong>1605</strong><br />(-18 for losing)
+|raw|moodrandom's rating: 1665 &rarr; <strong>1683</strong><br />(+18 for winning)
+|c|☆youngchimp|gg
+|l|☆youngchimp
+|player|p1|
+|c|☆moodrandom|gg
+|l|☆moodrandom
+|player|p2|

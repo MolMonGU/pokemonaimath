@@ -1,0 +1,332 @@
+|j|☆CDPGuillaume
+|j|☆remove sun teams
+|t:|1781213335
+|gametype|singles
+|player|p1|CDPGuillaume|102|1670
+|player|p2|remove sun teams|miku-psychic|1793
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Blaziken, M|
+|poke|p1|Primarina, M|
+|poke|p1|Kingambit, F|
+|poke|p1|Zapdos|
+|poke|p1|Kyurem|
+|poke|p1|Cinderace, M|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Pecharunt|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|c|☆remove sun teams|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by remove sun teams)
+|
+|t:|1781213353
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Kyurem|atk|1
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781213357
+|move|p2a: Enten|U-turn|p1a: Kyurem
+|-damage|p1a: Kyurem|76/100
+|
+|t:|1781213361
+|switch|p2a: Khaos|Hoopa-Unbound|100/100|[from] U-turn
+|move|p1a: Kyurem|Freeze-Dry|p2a: Khaos
+|-damage|p2a: Khaos|56/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781213366
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Khaos|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|24/100
+|-enditem|p1a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Khaos
+|
+|upkeep
+|turn|3
+|
+|t:|1781213375
+|move|p2a: Khaos|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1781213384
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|turn|4
+|
+|t:|1781213387
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|move|p1a: Cinderace|U-turn|p2a: Pisces
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p2a: Pisces|78/100
+|
+|t:|1781213390
+|switch|p1a: Kyurem|Kyurem|76/100|[from] U-turn
+|-ability|p1a: Kyurem|Pressure
+|
+|upkeep
+|turn|5
+|
+|t:|1781213393
+|move|p1a: Kyurem|Freeze-Dry|p2a: Pisces
+|-supereffective|p2a: Pisces
+|-damage|p2a: Pisces|20/100
+|-status|p2a: Pisces|frz
+|-curestatus|p2a: Pisces|frz|[msg]
+|move|p2a: Pisces|Flip Turn|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|68/100
+|
+|t:|1781213395
+|switch|p2a: Khaos|Hoopa-Unbound|56/100|[from] Flip Turn
+|
+|upkeep
+|turn|6
+|
+|t:|1781213400
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|move|p2a: Khaos|Drain Punch|p1a: Cinderace
+|-damage|p1a: Cinderace|28/100
+|-heal|p2a: Khaos|91/100|[from] drain|[of] p1a: Cinderace
+|
+|upkeep
+|turn|7
+|
+|t:|1781213404
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Cinderace|atk|1
+|move|p1a: Cinderace|U-turn|p2a: Enten
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p2a: Enten
+|-damage|p2a: Enten|87/100
+|
+|t:|1781213408
+|switch|p1a: Kyurem|Kyurem|68/100|[from] U-turn
+|-ability|p1a: Kyurem|Pressure
+|
+|upkeep
+|turn|8
+|j| Sanatan Dharma
+|
+|t:|1781213410
+|move|p2a: Enten|Stone Edge|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781213415
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|turn|9
+|
+|t:|1781213418
+|switch|p2a: Calamity|Iron Valiant, shiny|100/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|upkeep
+|turn|10
+|
+|t:|1781213424
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Cinderace|Cinderace, M|28/100
+|-terastallize|p2a: Calamity|Fairy
+|move|p2a: Calamity|Moonblast|p1a: Cinderace
+|-resisted|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|upkeep
+|
+|t:|1781213426
+|switch|p1a: Primarina|Primarina, M|100/100
+|turn|11
+|
+|t:|1781213429
+|move|p2a: Calamity|Moonblast|p1a: Primarina
+|-damage|p1a: Primarina|26/100
+|move|p1a: Primarina|Moonblast|p2a: Calamity
+|-crit|p2a: Calamity
+|-damage|p2a: Calamity|0 fnt
+|faint|p2a: Calamity
+|-end|p2a: Calamity|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781213434
+|switch|p2a: Pisces|Alomomola, M, shiny|53/100
+|turn|12
+|
+|t:|1781213437
+|move|p1a: Primarina|Moonblast|p2a: Pisces
+|-damage|p2a: Pisces|10/100
+|-unboost|p2a: Pisces|spa|1
+|move|p2a: Pisces|Flip Turn|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|17/100
+|
+|t:|1781213441
+|switch|p2a: Liberacy|Cinderace, M, shiny|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|13
+|
+|t:|1781213443
+|move|p2a: Liberacy|U-turn|p1a: Primarina
+|-start|p2a: Liberacy|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|faint|p1a: Primarina
+|
+|t:|1781213446
+|switch|p2a: Khaos|Hoopa-Unbound|91/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781213450
+|switch|p1a: Blaziken|Blaziken, M|100/100
+|turn|14
+|
+|t:|1781213454
+|move|p1a: Blaziken|Close Combat|p2a: Khaos
+|-damage|p2a: Khaos|0 fnt
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|faint|p2a: Khaos
+|-damage|p1a: Blaziken|91/100|[from] item: Life Orb
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1781213458
+|switch|p2a: Enten|Landorus-Therian, M, shiny|87/100
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Blaziken|atk|1
+|turn|15
+|
+|t:|1781213473
+|move|p2a: Enten|Earthquake|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|upkeep
+|
+|t:|1781213475
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|turn|16
+|
+|t:|1781213477
+|-terastallize|p1a: Kingambit|Bug
+|move|p2a: Enten|Earthquake|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|79/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|86/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781213482
+|move|p2a: Enten|Earthquake|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|66/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|72/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781213487
+|move|p1a: Kingambit|Sucker Punch|p2a: Enten
+|-damage|p2a: Enten|0 fnt
+|faint|p2a: Enten
+|
+|-heal|p1a: Kingambit|78/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781213492
+|switch|p2a: Liberacy|Cinderace, M, shiny|100/100
+|turn|19
+|
+|t:|1781213495
+|move|p2a: Liberacy|Sucker Punch|p1a: Kingambit
+|-start|p2a: Liberacy|typechange|Dark|[from] ability: Libero
+|-damage|p1a: Kingambit|54/100
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-heal|p1a: Kingambit|60/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781213500
+|move|p1a: Kingambit|Sucker Punch|p2a: Liberacy
+|-resisted|p2a: Liberacy
+|-damage|p2a: Liberacy|0 fnt
+|faint|p2a: Liberacy
+|
+|-heal|p1a: Kingambit|66/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781213504
+|switch|p2a: Pisces|Alomomola, M, shiny|43/100
+|turn|21
+|
+|t:|1781213508
+|move|p1a: Kingambit|Iron Head|p2a: Pisces
+|-resisted|p2a: Pisces
+|-damage|p2a: Pisces|0 fnt
+|faint|p2a: Pisces
+|
+|-heal|p1a: Kingambit|73/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781213510
+|switch|p2a: Overseer|Pecharunt|100/100
+|turn|22
+|
+|t:|1781213512
+|move|p1a: Kingambit|Sucker Punch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|0 fnt
+|faint|p2a: Overseer
+|
+|win|CDPGuillaume
+|raw|CDPGuillaume's rating: 1670 &rarr; <strong>1697</strong><br />(+27 for winning)
+|raw|remove sun teams's rating: 1793 &rarr; <strong>1766</strong><br />(-27 for losing)
+|c|☆remove sun teams|gg
+|l|☆CDPGuillaume
+|player|p1|
+|l|☆remove sun teams
+|player|p2|

@@ -1,0 +1,334 @@
+|j|☆151htyrneh
+|j|☆samohi0
+|t:|1781420820
+|gametype|singles
+|player|p1|151htyrneh|skyla|1634
+|player|p2|samohi0|170|1567
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ninetales, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Walking Wake|
+|poke|p1|Raging Bolt|
+|poke|p1|Kingambit, F|
+|poke|p2|Lokix, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Alomomola, L99, M|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Great Tusk|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 151htyrneh)
+|
+|t:|1781420829
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|switch|p2a: Tetsuya Sawaki|Alomomola, L99, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1781420837
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Tetsuya Sawaki|Flip Turn|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|85/100
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781420843
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781420847
+|move|p1a: Raging Bolt|Volt Switch|p2a: Tetsuya Sawaki
+|-supereffective|p2a: Tetsuya Sawaki
+|-damage|p2a: Tetsuya Sawaki|10/100
+|
+|t:|1781420849
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Kingambit|Kingambit, F|100/100|[from] Volt Switch
+|move|p2a: Tetsuya Sawaki|Flip Turn|p1a: Kingambit
+|-damage|p1a: Kingambit|95/100
+|
+|t:|1781420854
+|switch|p2a: Gills Exceed|Great Tusk|100/100|[from] Flip Turn
+|-activate|p2a: Gills Exceed|ability: Protosynthesis
+|-start|p2a: Gills Exceed|protosynthesisatk
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781420858
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Hatterene|Hatterene, F|85/100
+|move|p2a: Gills Exceed|Headlong Rush|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-unboost|p2a: Gills Exceed|def|1
+|-unboost|p2a: Gills Exceed|spd|1
+|faint|p1a: Hatterene
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781420860
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|4
+|
+|t:|1781420867
+|-end|p2a: Gills Exceed|Protosynthesis|[silent]
+|switch|p2a: Tetsuya Sawaki|Alomomola, L99, M|43/100
+|move|p1a: Walking Wake|Hydro Steam|p2a: Tetsuya Sawaki
+|-resisted|p2a: Tetsuya Sawaki
+|-damage|p2a: Tetsuya Sawaki|23/100
+|-damage|p1a: Walking Wake|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781420878
+|switch|p2a: Overlord|Mandibuzz, F|100/100
+|move|p1a: Walking Wake|Hydro Steam|p2a: Overlord
+|-crit|p2a: Overlord
+|-damage|p2a: Overlord|5/100
+|-damage|p1a: Walking Wake|81/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781420891
+|-terastallize|p1a: Walking Wake|Dragon
+|move|p1a: Walking Wake|Draco Meteor|p2a: Overlord
+|-damage|p2a: Overlord|0 fnt
+|-unboost|p1a: Walking Wake|spa|2
+|faint|p2a: Overlord
+|-damage|p1a: Walking Wake|71/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781420904
+|switch|p2a: G3-X|Iron Valiant, shiny|100/100
+|turn|7
+|
+|t:|1781420916
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|move|p2a: G3-X|Moonblast|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|60/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781420923
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|-terastallize|p2a: G3-X|Fairy
+|move|p2a: G3-X|Moonblast|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781420927
+|switch|p1a: Ninetales|Ninetales, F|60/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|9
+|
+|t:|1781420929
+|move|p2a: G3-X|Moonblast|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|4/100
+|move|p1a: Ninetales|Overheat|p2a: G3-X
+|-damage|p2a: G3-X|0 fnt
+|-unboost|p1a: Ninetales|spa|2
+|faint|p2a: G3-X
+|-end|p2a: G3-X|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781420937
+|switch|p2a: MACHINE TORNADER|Gholdengo|100/100
+|turn|10
+|
+|t:|1781420940
+|switch|p1a: Walking Wake|Walking Wake, tera:Dragon|71/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|move|p2a: MACHINE TORNADER|Make It Rain|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|-unboost|p2a: MACHINE TORNADER|spa|1
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781420949
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|turn|11
+|
+|t:|1781420953
+|switch|p2a: Tetsuya Sawaki|Alomomola, L99, M|56/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Tetsuya Sawaki
+|-crit|p2a: Tetsuya Sawaki
+|-damage|p2a: Tetsuya Sawaki|7/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781420965
+|switch|p2a: Shining Agito|Lokix, M, shiny|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Shining Agito
+|-resisted|p2a: Shining Agito
+|-damage|p2a: Shining Agito|59/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781420970
+|move|p2a: Shining Agito|First Impression|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|23/100
+|-damage|p2a: Shining Agito|42/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|move|p1a: Great Tusk|Headlong Rush|p2a: Shining Agito
+|-resisted|p2a: Shining Agito
+|-damage|p2a: Shining Agito|2/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781420974
+|switch|p2a: Tetsuya Sawaki|Alomomola, L99, M|40/100
+|move|p1a: Great Tusk|Stealth Rock|p2a: Tetsuya Sawaki
+|-sidestart|p2: samohi0|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781420984
+|move|p1a: Great Tusk|Headlong Rush|p2a: Tetsuya Sawaki
+|-damage|p2a: Tetsuya Sawaki|2/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Tetsuya Sawaki|Flip Turn|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-damage|p2a: Tetsuya Sawaki|0 fnt|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|faint|p2a: Tetsuya Sawaki
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781420992
+|switch|p1a: Ninetales|Ninetales, F|4/100
+|switch|p2a: MACHINE TORNADER|Gholdengo|100/100
+|-damage|p2a: MACHINE TORNADER|94/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781420999
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|move|p2a: MACHINE TORNADER|Shadow Ball|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|78/100
+|
+|-weather|none
+|-heal|p1a: Kingambit|84/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781421001
+|switch|p2a: Shining Agito|Lokix, M, shiny|2/100
+|-damage|p2a: Shining Agito|0 fnt|[from] Stealth Rock
+|faint|p2a: Shining Agito
+|-end|p1a: Kingambit|fallen4|[silent]
+|switch|p1a: Ninetales|Ninetales, F|4/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781421005
+|switch|p2a: Gills Exceed|Great Tusk|100/100
+|-activate|p2a: Gills Exceed|ability: Protosynthesis
+|-start|p2a: Gills Exceed|protosynthesisatk
+|turn|18
+|
+|t:|1781421008
+|move|p1a: Ninetales|Overheat|p2a: Gills Exceed
+|-damage|p2a: Gills Exceed|0 fnt
+|-unboost|p1a: Ninetales|spa|2
+|faint|p2a: Gills Exceed
+|-end|p2a: Gills Exceed|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781421011
+|switch|p2a: MACHINE TORNADER|Gholdengo|94/100
+|-damage|p2a: MACHINE TORNADER|88/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1781421014
+|move|p2a: MACHINE TORNADER|Trick|p1a: Ninetales
+|-activate|p2a: MACHINE TORNADER|move: Trick|[of] p1a: Ninetales
+|-item|p1a: Ninetales|Choice Scarf|[from] move: Trick
+|-item|p2a: MACHINE TORNADER|Heat Rock|[from] move: Trick
+|move|p1a: Ninetales|Overheat|p2a: MACHINE TORNADER
+|-supereffective|p2a: MACHINE TORNADER
+|-damage|p2a: MACHINE TORNADER|0 fnt
+|-unboost|p1a: Ninetales|spa|2
+|faint|p2a: MACHINE TORNADER
+|
+|win|151htyrneh
+|raw|151htyrneh's rating: 1634 &rarr; <strong>1650</strong><br />(+16 for winning)
+|raw|samohi0's rating: 1567 &rarr; <strong>1551</strong><br />(-16 for losing)
+|l|☆samohi0
+|player|p2|
+|j|+disorient
+|l|+disorient

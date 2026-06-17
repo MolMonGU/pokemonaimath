@@ -1,0 +1,179 @@
+|j|☆Kirnil
+|j|☆aipt2
+|t:|1781550423
+|gametype|singles
+|player|p1|Kirnil|maid|1681
+|player|p2|aipt2|ghetsis|1662
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Darkrai|
+|poke|p1|Kyurem|
+|poke|p1|Cinderace, M|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Rillaboom, F|
+|poke|p2|Kingambit, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Ceruledge, M|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by aipt2)
+|
+|t:|1781550454
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Darkrai|Darkrai|100/100
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|1
+|
+|t:|1781550463
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|move|p1a: Darkrai|Sludge Bomb|p2a: Kingambit
+|-immune|p2a: Kingambit
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781550468
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Mandibuzz|atk|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781550474
+|move|p2a: Landorus|Stealth Rock|p1a: Mandibuzz
+|-sidestart|p1: Kirnil|move: Stealth Rock
+|move|p1a: Mandibuzz|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|97/100
+|-damage|p1a: Mandibuzz|84/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|
+|t:|1781550477
+|switch|p1a: Kyurem|Kyurem|100/100|[from] U-turn
+|-damage|p1a: Kyurem|75/100|[from] Stealth Rock
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781550482
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|move|p1a: Kyurem|Blizzard|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|60/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781550491
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1781550494
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-start|p1a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|move|p2a: Ceruledge|Bulk Up|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|1
+|-boost|p2a: Ceruledge|def|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781550499
+|move|p1a: Cinderace|U-turn|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|96/100
+|
+|t:|1781550505
+|switch|p1a: Mandibuzz|Mandibuzz, F|84/100|[from] U-turn
+|move|p2a: Ceruledge|Bulk Up|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|1
+|-boost|p2a: Ceruledge|def|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781550511
+|-terastallize|p2a: Ceruledge|Bug
+|move|p2a: Ceruledge|Bitter Blade|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|30/100
+|-heal|p2a: Ceruledge|100/100|[from] drain|[of] p1a: Mandibuzz
+|move|p1a: Mandibuzz|Foul Play|p2a: Ceruledge
+|-damage|p2a: Ceruledge|35/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781550525
+|move|p2a: Ceruledge|Bitter Blade|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|-heal|p2a: Ceruledge|55/100|[from] drain|[of] p1a: Mandibuzz
+|faint|p1a: Mandibuzz
+|
+|upkeep
+|
+|t:|1781550529
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|turn|10
+|
+|t:|1781550532
+|move|p1a: Cinderace|Pyro Ball|p2a: Ceruledge
+|-start|p2a: Ceruledge|ability: Flash Fire
+|move|p2a: Ceruledge|Bitter Blade|p1a: Cinderace
+|-resisted|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|-heal|p2a: Ceruledge|100/100|[from] drain|[of] p1a: Cinderace
+|faint|p1a: Cinderace
+|
+|upkeep
+|
+|t:|1781550535
+|switch|p1a: Darkrai|Darkrai|100/100
+|turn|11
+|
+|t:|1781550537
+|move|p1a: Darkrai|Dark Pulse|p2a: Ceruledge
+|-damage|p2a: Ceruledge|35/100
+|move|p2a: Ceruledge|Bitter Blade|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|-heal|p2a: Ceruledge|80/100|[from] drain|[of] p1a: Darkrai
+|faint|p1a: Darkrai
+|
+|upkeep
+|-message|Kirnil forfeited.
+|
+|win|aipt2
+|raw|Kirnil's rating: 1681 &rarr; <strong>1660</strong><br />(-21 for losing)
+|raw|aipt2's rating: 1662 &rarr; <strong>1683</strong><br />(+21 for winning)
+|l|☆Kirnil
+|player|p1|
+|l|☆aipt2
+|player|p2|

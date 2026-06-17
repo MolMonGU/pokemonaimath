@@ -1,0 +1,347 @@
+|j|☆Davetron3030
+|j|☆apple sauce mafia
+|t:|1781253699
+|gametype|singles
+|player|p1|Davetron3030|dancer|1623
+|player|p2|apple sauce mafia|jacq|1525
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Garchomp, F|
+|poke|p1|Gholdengo|
+|poke|p1|Iron Crown|
+|poke|p1|Iron Valiant|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Zapdos-Galar|
+|poke|p2|Hawlucha, F|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Gholdengo|
+|poke|p2|Kyurem|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|
+|t:|1781253711
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1781253719
+|move|p2a: Rillaboom|Grassy Glide|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-enditem|p1a: Samurott|Focus Sash
+|-damage|p1a: Samurott|1/100
+|move|p1a: Samurott|Ceaseless Edge|p2a: Rillaboom
+|-damage|p2a: Rillaboom|58/100
+|-sidestart|p2: apple sauce mafia|Spikes
+|
+|-heal|p1a: Samurott|7/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|64/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781253730
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|move|p2a: Rillaboom|Grassy Glide|p1a: Garchomp
+|-damage|p1a: Garchomp|62/100
+|-damage|p2a: Rillaboom|52/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Rillaboom|35/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|
+|-heal|p1a: Garchomp|69/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|42/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781253741
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Stealth Rock|p2a: Landorus
+|-sidestart|p2: apple sauce mafia|move: Stealth Rock
+|
+|-heal|p1a: Garchomp|75/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781253750
+|move|p2a: Landorus|Earth Power|p1a: Garchomp
+|-damage|p1a: Garchomp|44/100
+|move|p1a: Garchomp|Dragon Tail|p2a: Landorus
+|-damage|p2a: Landorus|82/100
+|-damage|p1a: Garchomp|27/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|drag|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|88/100|[from] Spikes
+|-damage|p2a: Gholdengo|82/100|[from] Stealth Rock
+|
+|-heal|p2a: Gholdengo|88/100|[from] Grassy Terrain
+|-heal|p1a: Garchomp|34/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781253766
+|move|p2a: Gholdengo|Shadow Ball|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-heal|p2a: Gholdengo|94/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781253781
+|switch|p1a: Samurott|Samurott-Hisui, M|7/100
+|turn|6
+|
+|t:|1781253784
+|switch|p2a: Landorus|Landorus-Therian, M|82/100
+|-damage|p2a: Landorus|70/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Samurott|atk|1
+|move|p1a: Samurott|Sucker Punch||[still]
+|-fail|p1a: Samurott
+|
+|upkeep
+|turn|7
+|
+|t:|1781253793
+|move|p2a: Landorus|U-turn|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|t:|1781253796
+|switch|p2a: Gholdengo|Gholdengo|94/100|[from] U-turn
+|-damage|p2a: Gholdengo|82/100|[from] Spikes
+|-damage|p2a: Gholdengo|76/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1781253803
+|switch|p1a: Zapdos|Zapdos-Galar|100/100
+|turn|8
+|
+|t:|1781253818
+|switch|p2a: Landorus|Landorus-Therian, M|70/100
+|-damage|p2a: Landorus|58/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|-ability|p1a: Zapdos|Defiant|boost
+|-boost|p1a: Zapdos|atk|2
+|move|p1a: Zapdos|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|8/100
+|-damage|p1a: Zapdos|84/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|-enditem|p2a: Landorus|Rocky Helmet|[from] move: Knock Off|[of] p1a: Zapdos
+|
+|upkeep
+|turn|9
+|
+|t:|1781253830
+|move|p1a: Zapdos|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1781253836
+|switch|p2a: Rillaboom|Rillaboom, F|42/100
+|-damage|p2a: Rillaboom|29/100|[from] Spikes
+|-damage|p2a: Rillaboom|17/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|10
+|
+|t:|1781253843
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|move|p2a: Rillaboom|Grassy Glide|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|69/100
+|
+|-heal|p1a: Iron Crown|76/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|23/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781253852
+|move|p2a: Rillaboom|Grassy Glide|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|46/100
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|-hitcount|p2: Rillaboom|1
+|
+|-heal|p1a: Iron Crown|52/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781253857
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|-damage|p2a: Hawlucha|88/100|[from] Stealth Rock
+|-enditem|p2a: Hawlucha|Grassy Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Grassy Seed
+|turn|12
+|
+|t:|1781253868
+|-terastallize|p2a: Hawlucha|Steel
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|move|p1a: Iron Crown|Psychic Noise|p2a: Hawlucha
+|-resisted|p2a: Hawlucha
+|-damage|p2a: Hawlucha|62/100
+|-start|p2a: Hawlucha|move: Heal Block
+|
+|-heal|p1a: Iron Crown|58/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781253885
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Hawlucha|Low Kick|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|
+|-end|p2a: Hawlucha|move: Heal Block
+|upkeep
+|turn|14
+|
+|t:|1781253893
+|move|p2a: Hawlucha|Acrobatics|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|63/100
+|move|p1a: Gholdengo|Thunder Wave|p2a: Hawlucha
+|-status|p2a: Hawlucha|par
+|
+|-heal|p2a: Hawlucha|68/100 par|[from] Grassy Terrain
+|-heal|p1a: Gholdengo|69/100|[from] Grassy Terrain
+|-heal|p1a: Gholdengo|75/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1781253905
+|move|p2a: Hawlucha|Acrobatics|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|41/100
+|move|p1a: Gholdengo|Hex|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|-heal|p1a: Gholdengo|47/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781253909
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|-damage|p2a: Samurott|88/100|[from] Spikes
+|-damage|p2a: Samurott|76/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781253921
+|move|p2a: Samurott|Ceaseless Edge|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-sidestart|p1: Davetron3030|Spikes
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781253926
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|88/100|[from] Spikes
+|turn|17
+|
+|t:|1781253941
+|move|p1a: Iron Valiant|Moonblast|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-crit|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|upkeep
+|
+|t:|1781253944
+|switch|p2a: Gholdengo|Gholdengo|76/100
+|-damage|p2a: Gholdengo|63/100|[from] Spikes
+|-damage|p2a: Gholdengo|57/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781253951
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Iron Crown|Iron Crown|58/100
+|-damage|p1a: Iron Crown|46/100|[from] Spikes
+|move|p2a: Gholdengo|Shadow Ball|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781253960
+|switch|p1a: Zapdos|Zapdos-Galar|84/100
+|turn|19
+|
+|t:|1781253964
+|switch|p2a: Kyurem|Kyurem|100/100
+|-damage|p2a: Kyurem|88/100|[from] Spikes
+|-damage|p2a: Kyurem|63/100|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Zapdos|Knock Off|p2a: Kyurem
+|-damage|p2a: Kyurem|31/100
+|-enditem|p2a: Kyurem|Assault Vest|[from] move: Knock Off|[of] p1a: Zapdos
+|
+|upkeep
+|turn|20
+|
+|t:|1781253978
+|switch|p1a: Iron Valiant|Iron Valiant|88/100
+|-damage|p1a: Iron Valiant|76/100|[from] Spikes
+|move|p2a: Kyurem|Ice Beam|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781253986
+|switch|p1a: Zapdos|Zapdos-Galar|84/100
+|turn|21
+|
+|t:|1781253990
+|-terastallize|p1a: Zapdos|Flying
+|move|p1a: Zapdos|Brave Bird|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|-damage|p1a: Zapdos|72/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1781253994
+|switch|p2a: Gholdengo|Gholdengo|57/100
+|-damage|p2a: Gholdengo|45/100|[from] Spikes
+|-damage|p2a: Gholdengo|39/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781254002
+|move|p1a: Zapdos|Brave Bird|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|-damage|p1a: Zapdos|59/100|[from] Recoil
+|
+|win|Davetron3030
+|raw|Davetron3030's rating: 1623 &rarr; <strong>1638</strong><br />(+15 for winning)
+|raw|apple sauce mafia's rating: 1525 &rarr; <strong>1510</strong><br />(-15 for losing)
+|l|☆Davetron3030
+|player|p1|
+|l|☆apple sauce mafia
+|player|p2|

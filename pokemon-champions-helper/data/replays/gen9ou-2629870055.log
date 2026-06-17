@@ -1,0 +1,348 @@
+|j|☆DON family
+|j|☆SlimyTime
+|t:|1781188475
+|gametype|singles
+|player|p1|DON family|pokemonranger|1594
+|player|p2|SlimyTime|ltsurge|1623
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Araquanid, F|
+|poke|p1|Haxorus, M|
+|poke|p1|Latias, F|
+|poke|p1|Iron Moth|
+|poke|p1|Gholdengo|
+|poke|p1|Iron Valiant|
+|poke|p2|Ursaluna, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Heatran, F|
+|poke|p2|Alomomola, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Iron Valiant|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DON family)
+|
+|t:|1781188492
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Araquanid|Araquanid, F|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1781188501
+|move|p2a: Rillaboom|Wood Hammer|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|faint|p1a: Araquanid
+|-damage|p2a: Rillaboom|68/100|[from] Recoil
+|
+|-heal|p2a: Rillaboom|74/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781188505
+|switch|p1a: Haxorus|Haxorus, M|100/100
+|-ability|p1a: Haxorus|Mold Breaker
+|turn|2
+|
+|t:|1781188512
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Haxorus|Swords Dance|p1a: Haxorus
+|-boost|p1a: Haxorus|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1781188517
+|move|p1a: Haxorus|Swords Dance|p1a: Haxorus
+|-boost|p1a: Haxorus|atk|2
+|move|p2a: Corviknight|Brave Bird|p1a: Haxorus
+|-damage|p1a: Haxorus|54/100
+|-damage|p2a: Corviknight|89/100|[from] Recoil
+|
+|-heal|p1a: Haxorus|61/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781188520
+|move|p1a: Haxorus|Scale Shot|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|75/100
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|61/100
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|47/100
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|33/100
+|-hitcount|p2a: Corviknight|4
+|-unboost|p1a: Haxorus|def|1
+|-boost|p1a: Haxorus|spe|1
+|move|p2a: Corviknight|Brave Bird|p1a: Haxorus
+|-damage|p1a: Haxorus|0 fnt
+|faint|p1a: Haxorus
+|-damage|p2a: Corviknight|18/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1781188526
+|switch|p1a: Latias|Latias, F, shiny|100/100
+|turn|5
+|
+|t:|1781188531
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|move|p1a: Latias|Agility|p1a: Latias
+|-boost|p1a: Latias|spe|2
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781188535
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Iron Valiant|Trick|p1a: Latias
+|-activate|p2a: Iron Valiant|move: Trick|[of] p1a: Latias
+|-item|p1a: Latias|Choice Specs|[from] move: Trick
+|-item|p2a: Iron Valiant|Weakness Policy|[from] move: Trick
+|
+|upkeep
+|turn|7
+|
+|t:|1781188546
+|move|p1a: Latias|Stored Power|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781188549
+|switch|p2a: Heatran|Heatran, F|100/100
+|turn|8
+|
+|t:|1781188552
+|move|p1a: Latias|Stored Power|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|76/100
+|move|p2a: Heatran|Magma Storm|p1a: Latias|[miss]
+|-miss|p2a: Heatran|p1a: Latias
+|
+|-heal|p2a: Heatran|82/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|j| newhere1310
+|
+|t:|1781188557
+|move|p1a: Latias|Stored Power|p2a: Heatran
+|-resisted|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|41/100
+|move|p2a: Heatran|Magma Storm|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|89/100
+|-activate|p1a: Latias|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p2a: Heatran|47/100|[from] item: Leftovers
+|-damage|p1a: Latias|77/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1781188560
+|move|p1a: Latias|Stored Power|p2a: Heatran
+|-resisted|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|5/100
+|move|p2a: Heatran|Stealth Rock|p1a: Latias
+|-sidestart|p1: DON family|move: Stealth Rock
+|
+|-heal|p2a: Heatran|12/100|[from] item: Leftovers
+|-damage|p1a: Latias|65/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1781188565
+|switch|p2a: Corviknight|Corviknight, F|18/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Latias|Stored Power|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-end|p1a: Latias|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1781188567
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|turn|12
+|
+|t:|1781188572
+|move|p1a: Latias|Stored Power|p2a: Alomomola
+|-damage|p2a: Alomomola|8/100
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|
+|upkeep
+|turn|13
+|
+|t:|1781188583
+|move|p1a: Latias|Stored Power|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|
+|upkeep
+|
+|t:|1781188585
+|switch|p2a: Heatran|Heatran, F|12/100
+|turn|14
+|
+|t:|1781188588
+|move|p1a: Latias|Stored Power|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1781188593
+|switch|p2a: Rillaboom|Rillaboom, F|74/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|15
+|
+|t:|1781188597
+|move|p2a: Rillaboom|Grassy Glide|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|38/100
+|move|p1a: Latias|Stored Power|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|upkeep
+|
+|t:|1781188600
+|switch|p2a: Ursaluna|Ursaluna, M|100/100
+|turn|16
+|
+|t:|1781188605
+|move|p1a: Latias|Stored Power|p2a: Ursaluna
+|-damage|p2a: Ursaluna|53/100
+|move|p2a: Ursaluna|Body Slam|p1a: Latias
+|-damage|p1a: Latias|7/100
+|
+|-heal|p2a: Ursaluna|59/100|[from] Grassy Terrain
+|-heal|p2a: Ursaluna|66/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781188611
+|move|p2a: Ursaluna|Protect|p2a: Ursaluna
+|-singleturn|p2a: Ursaluna|Protect
+|move|p1a: Latias|Stored Power|p2a: Ursaluna
+|-activate|p2a: Ursaluna|move: Protect
+|
+|-heal|p2a: Ursaluna|72/100|[from] Grassy Terrain
+|-heal|p2a: Ursaluna|78/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781188613
+|move|p1a: Latias|Stored Power|p2a: Ursaluna
+|-damage|p2a: Ursaluna|29/100
+|move|p2a: Ursaluna|Body Slam|p1a: Latias
+|-damage|p1a: Latias|0 fnt
+|faint|p1a: Latias
+|
+|-heal|p2a: Ursaluna|36/100|[from] Grassy Terrain
+|-heal|p2a: Ursaluna|42/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781188617
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|19
+|c|☆DON family|gg
+|
+|t:|1781188624
+|move|p2a: Ursaluna|Protect|p2a: Ursaluna
+|-singleturn|p2a: Ursaluna|Protect
+|move|p1a: Iron Valiant|Close Combat|p2a: Ursaluna
+|-activate|p2a: Ursaluna|move: Protect
+|
+|-heal|p1a: Iron Valiant|100/100|[from] Grassy Terrain
+|-heal|p2a: Ursaluna|48/100|[from] Grassy Terrain
+|-heal|p2a: Ursaluna|54/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1781188629
+|-terastallize|p2a: Ursaluna|Poison
+|move|p1a: Iron Valiant|Close Combat|p2a: Ursaluna
+|-resisted|p2a: Ursaluna
+|-damage|p2a: Ursaluna|34/100
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|move|p2a: Ursaluna|Body Slam|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|22/100
+|
+|-heal|p2a: Ursaluna|40/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781188637
+|move|p2a: Ursaluna|Protect|p2a: Ursaluna
+|-singleturn|p2a: Ursaluna|Protect
+|move|p1a: Iron Valiant|Knock Off|p2a: Ursaluna
+|-activate|p2a: Ursaluna|move: Protect
+|
+|-heal|p2a: Ursaluna|47/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781188641
+|-terastallize|p1a: Iron Valiant|Dark
+|move|p1a: Iron Valiant|Knock Off|p2a: Ursaluna
+|-damage|p2a: Ursaluna|8/100
+|-enditem|p2a: Ursaluna|Leftovers|[from] move: Knock Off|[of] p1a: Iron Valiant
+|move|p2a: Ursaluna|Body Slam|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781188645
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-damage|p1a: Iron Moth|75/100|[from] Stealth Rock
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|turn|23
+|
+|t:|1781188650
+|move|p1a: Iron Moth|Fiery Dance|p2a: Ursaluna
+|-damage|p2a: Ursaluna|0 fnt
+|-boost|p1a: Iron Moth|spa|1
+|faint|p2a: Ursaluna
+|
+|win|DON family
+|raw|DON family's rating: 1594 &rarr; <strong>1616</strong><br />(+22 for winning)
+|raw|SlimyTime's rating: 1623 &rarr; <strong>1601</strong><br />(-22 for losing)
+|l|☆SlimyTime
+|player|p2|
+|l|☆DON family
+|player|p1|
+|l| newhere1310

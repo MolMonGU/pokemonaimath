@@ -1,0 +1,355 @@
+|j|☆LowEL0God
+|j|☆chaincrush
+|t:|1781601526
+|gametype|singles
+|player|p1|LowEL0God|265|1675
+|player|p2|chaincrush|169|1623
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Hawlucha, M|
+|poke|p2|Glimmora, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Kyurem|
+|poke|p2|Hoopa-Unbound|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781601547
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781601557
+|move|p2a: Kyurem|Earth Power|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|11/100
+|move|p1a: Kingambit|Iron Head|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|5/100
+|
+|-heal|p1a: Kingambit|17/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781601565
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-heal|p1a: Kingambit|24/100|[from] Grassy Terrain
+|-heal|p1a: Kingambit|30/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781601572
+|move|p1a: Kingambit|Sucker Punch|p2a: Rillaboom
+|-damage|p2a: Rillaboom|62/100
+|move|p2a: Rillaboom|U-turn|p1a: Kingambit
+|-crit|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|
+|t:|1781601585
+|switch|p2a: Kyurem|Kyurem|5/100|[from] U-turn
+|-ability|p2a: Kyurem|Pressure
+|
+|-heal|p2a: Kyurem|11/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781601585
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|turn|4
+|
+|t:|1781601601
+|move|p1a: Barraskewda|Liquidation|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781601611
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100
+|-enditem|p2a: Hoopa|Grassy Seed
+|-boost|p2a: Hoopa|def|1|[from] item: Grassy Seed
+|turn|5
+|
+|t:|1781601617
+|switch|p1a: Overqwil|Overqwil, M|100/100
+|move|p2a: Hoopa|Trick Room|p2a: Hoopa
+|-fieldstart|move: Trick Room|[of] p2a: Hoopa
+|
+|upkeep
+|turn|6
+|
+|t:|1781601625
+|move|p2a: Hoopa|Drain Punch|p1a: Overqwil
+|-damage|p1a: Overqwil|72/100
+|-item|p2a: Hoopa|Life Orb|[from] ability: Magician|[of] p1a: Overqwil
+|move|p1a: Overqwil|Gunk Shot|p2a: Hoopa
+|-damage|p2a: Hoopa|43/100
+|-status|p2a: Hoopa|psn
+|
+|-heal|p2a: Hoopa|49/100 psn|[from] Grassy Terrain
+|-heal|p1a: Overqwil|78/100|[from] Grassy Terrain
+|-damage|p2a: Hoopa|37/100 psn|[from] psn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781601636
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Hoopa|Drain Punch|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|87/100
+|-heal|p2a: Hoopa|43/100 psn|[from] drain|[of] p1a: Pelipper
+|-damage|p2a: Hoopa|33/100 psn|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Hoopa|21/100 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781601649
+|move|p1a: Pelipper|Hurricane|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|faint|p2a: Hoopa
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆chaincrush|Ohhh slow
+|
+|t:|1781601666
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|turn|9
+|
+|t:|1781601674
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Pelipper|Weather Ball|p2a: Slowking
+|-damage|p2a: Slowking|69/100
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Trick Room
+|upkeep
+|turn|10
+|
+|t:|1781601681
+|move|p1a: Pelipper|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|47/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781601689
+|switch|p2a: Rillaboom|Rillaboom, F|62/100|[from] Chilly Reception
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Rillaboom|68/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781601697
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|-terastallize|p2a: Rillaboom|Grass
+|move|p2a: Rillaboom|Wood Hammer|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|29/100
+|-damage|p2a: Rillaboom|42/100|[from] Recoil
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Rillaboom|48/100|[from] Grassy Terrain
+|-heal|p1a: Raging Bolt|35/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781601711
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Raging Bolt|41/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781601721
+|move|p1a: Raging Bolt|Thunderclap|p2a: Glimmora
+|-damage|p2a: Glimmora|30/100
+|move|p2a: Glimmora|Earth Power|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Glimmora|37/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781601724
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|turn|14
+|
+|t:|1781601745
+|switch|p2a: Slowking|Slowking-Galar, F|80/100
+|move|p1a: Barraskewda|Flip Turn|p2a: Slowking
+|-damage|p2a: Slowking|25/100
+|
+|t:|1781601746
+|switch|p1a: Overqwil|Overqwil, M|78/100|[from] Flip Turn
+|
+|-weather|none
+|-heal|p1a: Overqwil|84/100|[from] Grassy Terrain
+|-heal|p2a: Slowking|31/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1781601756
+|move|p1a: Overqwil|Crunch|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781601760
+|switch|p2a: Glimmora|Glimmora, F|37/100
+|turn|16
+|
+|t:|1781601764
+|switch|p1a: Pelipper|Pelipper, F|87/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Glimmora|Earth Power|p1a: Pelipper
+|-immune|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781601769
+|move|p2a: Glimmora|Power Gem|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781601769
+|switch|p1a: Overqwil|Overqwil, M|84/100
+|turn|18
+|
+|t:|1781601782
+|move|p1a: Overqwil|Crunch|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-damage|p1a: Overqwil|67/100|[from] item: Rocky Helmet|[of] p2a: Glimmora
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: LowEL0God|move: Toxic Spikes
+|faint|p2a: Glimmora
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781601787
+|switch|p2a: Rillaboom|Rillaboom, F, tera:Grass|48/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|19
+|
+|t:|1781601793
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p2a: Hawlucha|Grassy Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Grassy Seed
+|move|p1a: Overqwil|Gunk Shot|p2a: Hawlucha
+|-damage|p2a: Hawlucha|34/100
+|-status|p2a: Hawlucha|psn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Overqwil|73/100|[from] Grassy Terrain
+|-damage|p2a: Hawlucha|22/100 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1781601803
+|move|p2a: Hawlucha|Close Combat|p1a: Overqwil
+|-crit|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|faint|p1a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Hawlucha|9/100 psn|[from] psn
+|upkeep
+|
+|t:|1781601804
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|-status|p1a: Barraskewda|psn
+|turn|21
+|
+|t:|1781601814
+|-terastallize|p1a: Barraskewda|Water
+|move|p1a: Barraskewda|Flip Turn|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|t:|1781601815
+|switch|p1a: Iron Treads|Iron Treads|100/100|[from] Flip Turn
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781601818
+|switch|p2a: Rillaboom|Rillaboom, F, tera:Grass|48/100
+|turn|22
+|
+|t:|1781601823
+|move|p2a: Rillaboom|Grassy Glide|p1a: Iron Treads
+|-damage|p1a: Iron Treads|23/100
+|move|p1a: Iron Treads|Steel Beam|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|-damage|p1a: Iron Treads|0 fnt|[from] steelbeam
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|faint|p2a: Rillaboom
+|
+|win|LowEL0God
+|raw|LowEL0God's rating: 1675 &rarr; <strong>1692</strong><br />(+17 for winning)
+|raw|chaincrush's rating: 1623 &rarr; <strong>1606</strong><br />(-17 for losing)
+|c|☆chaincrush|g
+|l|☆chaincrush
+|player|p2|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p1|

@@ -1,0 +1,206 @@
+|j|☆Teefryingpan
+|j|☆seven-iwnl
+|t:|1780894315
+|gametype|singles
+|player|p1|Teefryingpan|101|1556
+|player|p2|seven-iwnl|flannery|1552
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Enamorus, F|
+|poke|p1|Scizor, M|
+|poke|p1|Iron Treads|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Ribombee, F|
+|poke|p2|Gholdengo|
+|poke|p2|Great Tusk|
+|poke|p2|Ogerpon-Cornerstone, F|
+|poke|p2|Ceruledge, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by seven-iwnl)
+|
+|t:|1780894323
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Scizor|Scizor, M|100/100
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|turn|1
+|
+|t:|1780894330
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Scizor|[anim] Ivy Cudgel Rock
+|-damage|p1a: Scizor|31/100
+|move|p1a: Scizor|U-turn|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-ability|p2a: Ogerpon|Sturdy
+|-damage|p2a: Ogerpon|1/100
+|
+|t:|1780894333
+|switch|p1a: Iron Treads|Iron Treads|100/100|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1780894342
+|switch|p2a: CA$HMONEY$WAG|Gholdengo|100/100
+|-item|p2a: CA$HMONEY$WAG|Air Balloon
+|move|p1a: Iron Treads|Stealth Rock|p2a: CA$HMONEY$WAG
+|-sidestart|p2: seven-iwnl|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1780894353
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|move|p2a: CA$HMONEY$WAG|Shadow Ball|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|64/100
+|-unboost|p1a: Samurott|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1780894358
+|move|p1a: Samurott|Ceaseless Edge|p2a: CA$HMONEY$WAG
+|-supereffective|p2a: CA$HMONEY$WAG
+|-damage|p2a: CA$HMONEY$WAG|8/100
+|-enditem|p2a: CA$HMONEY$WAG|Air Balloon
+|-sidestart|p2: seven-iwnl|Spikes
+|move|p2a: CA$HMONEY$WAG|Dazzling Gleam|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1780894365
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|5
+|
+|t:|1780894376
+|move|p1a: Dragapult|Shadow Ball|p2a: CA$HMONEY$WAG
+|-supereffective|p2a: CA$HMONEY$WAG
+|-damage|p2a: CA$HMONEY$WAG|0 fnt
+|faint|p2a: CA$HMONEY$WAG
+|
+|upkeep
+|
+|t:|1780894385
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|-damage|p2a: Raging Bolt|76/100|[from] Spikes
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|6
+|
+|t:|1780894390
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|64/100
+|
+|upkeep
+|turn|7
+|
+|t:|1780894397
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Enamorus
+|-immune|p1a: Enamorus
+|
+|upkeep
+|turn|8
+|
+|t:|1780894402
+|switch|p1a: Iron Treads|Iron Treads|64/100
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|
+|upkeep
+|turn|9
+|
+|t:|1780894407
+|move|p1a: Iron Treads|Earthquake|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-crit|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780894409
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-damage|p2a: Great Tusk|98/100|[from] Stealth Rock
+|-damage|p2a: Great Tusk|85/100|[from] Spikes
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|10
+|
+|t:|1780894421
+|-terastallize|p1a: Iron Treads|Ghost
+|move|p1a: Iron Treads|Ice Spinner|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|54/100
+|move|p2a: Great Tusk|Ice Spinner|p1a: Iron Treads
+|-damage|p1a: Iron Treads|37/100
+|
+|upkeep
+|turn|11
+|
+|t:|1780894429
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Enamorus
+|-immune|p1a: Enamorus
+|
+|upkeep
+|turn|12
+|
+|t:|1780894436
+|move|p1a: Enamorus|Moonblast|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780894439
+|switch|p2a: Ribombee|Ribombee, F, shiny|100/100
+|-damage|p2a: Ribombee|76/100|[from] Stealth Rock
+|-damage|p2a: Ribombee|63/100|[from] Spikes
+|turn|13
+|
+|t:|1780894445
+|move|p1a: Enamorus|Moonblast|p2a: Ribombee
+|-damage|p2a: Ribombee|0 fnt
+|faint|p2a: Ribombee
+|
+|upkeep
+|j| Champion reko
+|-message|seven-iwnl forfeited.
+|
+|win|Teefryingpan
+|raw|Teefryingpan's rating: 1556 &rarr; <strong>1576</strong><br />(+20 for winning)
+|raw|seven-iwnl's rating: 1552 &rarr; <strong>1532</strong><br />(-20 for losing)
+|l|☆seven-iwnl
+|player|p2|
+|l|☆Teefryingpan
+|player|p1|
+|l| Champion reko

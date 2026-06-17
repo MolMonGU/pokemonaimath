@@ -1,0 +1,501 @@
+|j|☆team10thPlanett
+|j|‽LT_Alt1
+|t:|1781412390
+|gametype|singles
+|player|p1|team10thPlanett|veteran|1611
+|player|p2|LT_Alt1|170|1685
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Dragonite, M|
+|poke|p1|Araquanid, M|
+|poke|p1|Iron Treads|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Gholdengo|
+|poke|p2|Kyurem|
+|poke|p2|Raging Bolt|
+|poke|p2|Hatterene, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Corviknight, M|
+|teampreview
+|
+|t:|1781412405
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|1
+|
+|t:|1781412414
+|move|p1a: Gholdengo|Dazzling Gleam|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|67/100
+|move|p2a: Raging Bolt|Volt Switch|p1a: Gholdengo
+|-damage|p1a: Gholdengo|57/100
+|
+|t:|1781412421
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|2
+|
+|t:|1781412428
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781412446
+|switch|p2a: Ting-Lu|Ting-Lu|100/100|[from] Chilly Reception
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781412454
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Johnny Tsunami 🌊|Araquanid, M|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781412461
+|move|p1a: Johnny Tsunami 🌊|Surf|p2a: Hatterene
+|-damage|p2a: Hatterene|51/100
+|move|p2a: Hatterene|Dazzling Gleam|p1a: Johnny Tsunami 🌊
+|-damage|p1a: Johnny Tsunami 🌊|70/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Hatterene|57/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781412469
+|move|p1a: Johnny Tsunami 🌊|Surf|p2a: Hatterene
+|-damage|p2a: Hatterene|2/100
+|move|p2a: Hatterene|Nuzzle|p1a: Johnny Tsunami 🌊
+|-supereffective|p1a: Johnny Tsunami 🌊
+|-damage|p1a: Johnny Tsunami 🌊|63/100
+|-status|p1a: Johnny Tsunami 🌊|par
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Hatterene|8/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|j| choispecs ironmoth
+|
+|t:|1781412485
+|switch|p2a: Raging Bolt|Raging Bolt|67/100
+|cant|p1a: Johnny Tsunami 🌊|par
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1781412493
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Raging Bolt|Volt Switch|p1a: Iron Treads
+|-immune|p1a: Iron Treads
+|
+|upkeep
+|turn|8
+|
+|t:|1781412512
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Hatterene|Hatterene, F|8/100
+|move|p1a: Iron Treads|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781412521
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|9
+|
+|t:|1781412526
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Johnny Tsunami 🌊|Araquanid, M|63/100 par
+|move|p2a: Ting-Lu|Spikes|p1a: Johnny Tsunami 🌊
+|-sidestart|p1: team10thPlanett|Spikes
+|
+|upkeep
+|turn|10
+|
+|t:|1781412532
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|cant|p1a: Johnny Tsunami 🌊|par
+|
+|upkeep
+|turn|11
+|
+|t:|1781412542
+|move|p2a: Kyurem|Freeze-Dry|p1a: Johnny Tsunami 🌊
+|-supereffective|p1a: Johnny Tsunami 🌊
+|-damage|p1a: Johnny Tsunami 🌊|0 fnt
+|faint|p1a: Johnny Tsunami 🌊
+|
+|upkeep
+|l| choispecs ironmoth
+|
+|t:|1781412565
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-damage|p1a: Zamazenta|88/100|[from] Spikes
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|12
+|
+|t:|1781412570
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Zamazenta|Crunch|p2a: Corviknight
+|-damage|p2a: Corviknight|75/100
+|-unboost|p2a: Corviknight|def|1
+|-damage|p1a: Zamazenta|72/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-damage|p1a: Zamazenta|62/100|[from] item: Life Orb
+|
+|upkeep
+|turn|13
+|
+|t:|1781412583
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Zamazenta|Close Combat|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|83/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|-damage|p1a: Zamazenta|52/100|[from] item: Life Orb
+|
+|upkeep
+|turn|14
+|
+|t:|1781412598
+|-terastallize|p1a: Zamazenta|Steel
+|move|p1a: Zamazenta|Crunch|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|18/100
+|-damage|p1a: Zamazenta|42/100|[from] item: Life Orb
+|move|p2a: Slowking|Sludge Bomb|p1a: Zamazenta
+|-immune|p1a: Zamazenta
+|
+|upkeep
+|turn|15
+|
+|t:|1781412627
+|switch|p2a: Corviknight|Corviknight, M|75/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Zamazenta|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|26/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|-damage|p1a: Zamazenta|26/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-damage|p1a: Zamazenta|16/100|[from] item: Life Orb
+|
+|upkeep
+|turn|16
+|
+|t:|1781412639
+|switch|p2a: Slowking|Slowking-Galar, F|51/100
+|move|p1a: Zamazenta|Close Combat|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|35/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|-damage|p1a: Zamazenta|6/100|[from] item: Life Orb
+|
+|upkeep
+|turn|17
+|
+|t:|1781412651
+|move|p1a: Zamazenta|Close Combat|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|18/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|-damage|p1a: Zamazenta|0 fnt|[from] item: Life Orb
+|faint|p1a: Zamazenta
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781412658
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781412668
+|switch|p1a: Gholdengo|Gholdengo|57/100
+|-damage|p1a: Gholdengo|45/100|[from] Spikes
+|turn|18
+|
+|t:|1781412679
+|switch|p2a: Slowking|Slowking-Galar, F|51/100
+|move|p1a: Gholdengo|Make It Rain|p2a: Slowking
+|-damage|p2a: Slowking|7/100
+|-unboost|p1a: Gholdengo|spa|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|19
+|j| choispecs ironmoth
+|
+|t:|1781412689
+|switch|p2a: Raging Bolt|Raging Bolt|67/100
+|move|p1a: Gholdengo|Make It Rain|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|55/100
+|-unboost|p1a: Gholdengo|spa|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781412699
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-damage|p1a: Iron Treads|88/100|[from] Spikes
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781412709
+|move|p1a: Iron Treads|Rapid Spin|p2a: Kyurem
+|-damage|p2a: Kyurem|91/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: team10thPlanett|Spikes|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Kyurem|Blizzard|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781412726
+|switch|p1a: Fat Boy|Dragonite, M, shiny|100/100
+|turn|22
+|
+|t:|1781412733
+|move|p2a: Kyurem|Blizzard|p1a: Fat Boy|[miss]
+|-miss|p2a: Kyurem|p1a: Fat Boy
+|move|p1a: Fat Boy|Outrage|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781412745
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|23
+|
+|t:|1781412750
+|move|p1a: Fat Boy|Outrage|p2a: Ting-Lu|[from] lockedmove
+|-damage|p2a: Ting-Lu|45/100
+|-start|p1a: Fat Boy|confusion|[fatigue]
+|move|p2a: Ting-Lu|Ruination|p1a: Fat Boy
+|-damage|p1a: Fat Boy|50/100
+|
+|-heal|p2a: Ting-Lu|51/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781412761
+|switch|p2a: Slowking|Slowking-Galar, F|41/100
+|-activate|p1a: Fat Boy|confusion
+|move|p1a: Fat Boy|Outrage|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781412769
+|switch|p2a: Corviknight|Corviknight, M|26/100
+|-ability|p2a: Corviknight|Pressure
+|turn|25
+|
+|t:|1781412773
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|76/100
+|-singleturn|p2a: Corviknight|move: Roost
+|-end|p1a: Fat Boy|confusion
+|move|p1a: Fat Boy|Outrage|p2a: Corviknight|[from] lockedmove
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|40/100
+|-damage|p1a: Fat Boy|34/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-start|p1a: Fat Boy|confusion|[fatigue]
+|
+|upkeep
+|turn|26
+|l| choispecs ironmoth
+|j| choispecs ironmoth
+|
+|t:|1781412792
+|switch|p1a: Gholdengo|Gholdengo|45/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|90/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|27
+|
+|t:|1781412800
+|switch|p2a: Raging Bolt|Raging Bolt|55/100
+|move|p1a: Gholdengo|Trick|p2a: Raging Bolt
+|-activate|p1a: Gholdengo|move: Trick|[of] p2a: Raging Bolt
+|-item|p2a: Raging Bolt|Choice Scarf|[from] move: Trick
+|-item|p1a: Gholdengo|Assault Vest|[from] move: Trick
+|
+|upkeep
+|turn|28
+|
+|t:|1781412813
+|move|p2a: Raging Bolt|Volt Switch|p1a: Gholdengo
+|-damage|p1a: Gholdengo|14/100
+|
+|t:|1781412816
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Ting-Lu|Ting-Lu|51/100|[from] Volt Switch
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Gholdengo|Dazzling Gleam|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|22/100
+|
+|-heal|p2a: Ting-Lu|29/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1781412836
+|move|p1a: Gholdengo|Dazzling Gleam|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|2/100
+|move|p2a: Ting-Lu|Spikes|p1a: Gholdengo
+|-sidestart|p1: team10thPlanett|Spikes
+|
+|-heal|p2a: Ting-Lu|8/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781412847
+|move|p1a: Gholdengo|Dazzling Gleam|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781412850
+|switch|p2a: Raging Bolt|Raging Bolt|55/100
+|turn|31
+|
+|t:|1781412873
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781412882
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|-damage|p1a: Hoopa|88/100|[from] Spikes
+|turn|32
+|
+|t:|1781412890
+|move|p1a: Hoopa|Dark Pulse|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|9/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Hoopa
+|-damage|p1a: Hoopa|37/100
+|
+|upkeep
+|turn|33
+|
+|t:|1781412903
+|move|p1a: Hoopa|Dark Pulse|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781412907
+|switch|p2a: Corviknight|Corviknight, M|90/100
+|-ability|p2a: Corviknight|Pressure
+|turn|34
+|
+|t:|1781412912
+|switch|p1a: Fat Boy|Dragonite, M, shiny|34/100
+|move|p2a: Corviknight|Body Press|p1a: Fat Boy
+|-resisted|p1a: Fat Boy
+|-damage|p1a: Fat Boy|23/100
+|
+|upkeep
+|turn|35
+|
+|t:|1781412919
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|move|p1a: Fat Boy|Fire Punch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|61/100
+|-damage|p1a: Fat Boy|6/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|upkeep
+|turn|36
+|
+|t:|1781412927
+|-terastallize|p2a: Corviknight|Dragon
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|move|p1a: Fat Boy|Fire Punch|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|93/100
+|-damage|p1a: Fat Boy|0 fnt|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p1a: Fat Boy
+|
+|upkeep
+|
+|t:|1781412938
+|switch|p1a: Hoopa|Hoopa-Unbound|37/100
+|-damage|p1a: Hoopa|25/100|[from] Spikes
+|turn|37
+|
+|t:|1781412944
+|move|p1a: Hoopa|Psychic|p2a: Corviknight
+|-damage|p2a: Corviknight|36/100
+|move|p2a: Corviknight|Body Press|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|win|LT_Alt1
+|raw|team10thPlanett's rating: 1611 &rarr; <strong>1595</strong><br />(-16 for losing)
+|raw|LT_Alt1's rating: 1685 &rarr; <strong>1701</strong><br />(+16 for winning)
+|l|☆team10thPlanett
+|player|p1|
+|l| choispecs ironmoth

@@ -1,0 +1,484 @@
+|j|☆Klopple
+|j|☆databricks
+|t:|1781454819
+|gametype|singles
+|player|p1|Klopple|sailor|1720
+|player|p2|databricks|lucas|1778
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Arboliva, F|
+|poke|p1|Gliscor, F|
+|poke|p1|Iron Crown|
+|poke|p1|Zamazenta-*|
+|poke|p1|Hatterene, F|
+|poke|p1|Dragonite, M|
+|poke|p2|Kyurem|
+|poke|p2|Corviknight, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Dondozo, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Cinderace, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by databricks)
+|
+|t:|1781454834
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gliscor|Gliscor, F|100/100
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|turn|1
+|
+|t:|1781454840
+|move|p1a: Gliscor|Stealth Rock|p2a: Slowking
+|-sidestart|p2: databricks|move: Stealth Rock
+|move|p2a: Slowking|Trick|p1a: Gliscor
+|-activate|p2a: Slowking|move: Trick|[of] p1a: Gliscor
+|-item|p1a: Gliscor|Black Sludge|[from] move: Trick
+|-item|p2a: Slowking|Toxic Orb|[from] move: Trick
+|
+|-damage|p1a: Gliscor|88/100|[from] item: Black Sludge
+|upkeep
+|turn|2
+|
+|t:|1781454856
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|
+|-heal|p2a: Corviknight|94/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781454863
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|69/100
+|move|p1a: Hatterene|Nuzzle|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-activate|p2a: Corviknight|move: Substitute|[damage]
+|
+|-heal|p2a: Corviknight|75/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781454868
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|move|p1a: Hatterene|Psychic Noise|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|60/100
+|-start|p2a: Corviknight|move: Heal Block
+|
+|upkeep
+|turn|5
+|
+|t:|1781454874
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|
+|-end|p2a: Corviknight|move: Heal Block
+|upkeep
+|turn|6
+|
+|t:|1781454879
+|move|p1a: Iron Crown|Psychic Noise|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|43/100
+|-start|p2a: Corviknight|move: Heal Block
+|cant|p2a: Corviknight|move: Heal Block|Roost
+|
+|upkeep
+|turn|7
+|
+|t:|1781454893
+|move|p1a: Iron Crown|Psychic Noise|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|26/100
+|move|p2a: Corviknight|Brave Bird|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|59/100
+|-damage|p2a: Corviknight|15/100|[from] Recoil
+|
+|-end|p2a: Corviknight|move: Heal Block
+|upkeep
+|turn|8
+|
+|t:|1781454901
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-damage|p2a: Ting-Lu|94/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Iron Crown|Psychic Noise|p2a: Ting-Lu
+|-immune|p2a: Ting-Lu
+|
+|-heal|p2a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781454907
+|move|p1a: Iron Crown|Future Sight|p2a: Ting-Lu
+|-start|p1a: Iron Crown|move: Future Sight
+|move|p2a: Ting-Lu|Ruination|p1a: Iron Crown
+|-damage|p1a: Iron Crown|30/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781454913
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Ting-Lu|Ruination|p1a: Zamazenta
+|-damage|p1a: Zamazenta|50/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781454919
+|move|p2a: Ting-Lu|Protect|p2a: Ting-Lu
+|-singleturn|p2a: Ting-Lu|Protect
+|move|p1a: Zamazenta|Close Combat|p2a: Ting-Lu
+|-activate|p2a: Ting-Lu|move: Protect
+|
+|-end|p2a: Ting-Lu|move: Future Sight
+|-immune|p2a: Ting-Lu
+|upkeep
+|turn|12
+|
+|t:|1781454923
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|-damage|p2a: Slowking|88/100|[from] Stealth Rock
+|move|p1a: Zamazenta|Close Combat|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|71/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781454931
+|move|p1a: Zamazenta|Crunch|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|10/100
+|move|p2a: Slowking|Eerie Spell|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|upkeep
+|
+|t:|1781454945
+|switch|p1a: Gliscor|Gliscor, F|88/100
+|turn|14
+|
+|t:|1781454950
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|move|p1a: Gliscor|Knock Off|p2a: Cinderace
+|-damage|p2a: Cinderace|77/100
+|-enditem|p2a: Cinderace|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Gliscor
+|
+|-damage|p1a: Gliscor|75/100|[from] item: Black Sludge
+|upkeep
+|turn|15
+|
+|t:|1781454956
+|move|p2a: Cinderace|Will-O-Wisp|p1a: Gliscor|[miss]
+|-miss|p2a: Cinderace|p1a: Gliscor
+|move|p1a: Gliscor|Earthquake|p2a: Cinderace
+|-supereffective|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|-damage|p1a: Gliscor|63/100|[from] item: Black Sludge
+|upkeep
+|
+|t:|1781454960
+|switch|p2a: Kyurem|Kyurem|100/100
+|-damage|p2a: Kyurem|76/100|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|turn|16
+|
+|t:|1781454965
+|switch|p1a: Arboliva|Arboliva, F|100/100
+|move|p2a: Kyurem|Substitute|p2a: Kyurem
+|-start|p2a: Kyurem|Substitute
+|-damage|p2a: Kyurem|51/100
+|
+|-heal|p2a: Kyurem|57/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781454970
+|move|p2a: Kyurem|Dragon Dance|p2a: Kyurem
+|-boost|p2a: Kyurem|atk|1
+|-boost|p2a: Kyurem|spe|1
+|move|p1a: Arboliva|Alluring Voice|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|8/100
+|-start|p2a: Kyurem|confusion
+|
+|-heal|p2a: Kyurem|15/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781454980
+|-activate|p2a: Kyurem|confusion
+|-damage|p2a: Kyurem|0 fnt|[from] confusion
+|faint|p2a: Kyurem
+|move|p1a: Arboliva|Alluring Voice|p2: Kyurem|[notarget]
+|-fail|p1a: Arboliva
+|
+|upkeep
+|
+|t:|1781454999
+|switch|p2a: Corviknight|Corviknight, F|15/100
+|-damage|p2a: Corviknight|2/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|turn|19
+|
+|t:|1781455006
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|52/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|58/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781455013
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-damage|p2a: Ting-Lu|94/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Hatterene|Psychic Noise|p2a: Ting-Lu
+|-immune|p2a: Ting-Lu
+|
+|-heal|p2a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781455019
+|move|p2a: Ting-Lu|Ruination|p1a: Hatterene
+|-damage|p1a: Hatterene|50/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|72/100
+|-heal|p1a: Hatterene|84/100|[from] drain|[of] p2a: Ting-Lu
+|
+|-heal|p2a: Ting-Lu|79/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781455026
+|move|p2a: Ting-Lu|Sand Tomb|p1a: Hatterene
+|-damage|p1a: Hatterene|74/100
+|-activate|p1a: Hatterene|move: Sand Tomb|[of] p2a: Ting-Lu
+|move|p1a: Hatterene|Draining Kiss|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|50/100
+|-heal|p1a: Hatterene|100/100|[from] drain|[of] p2a: Ting-Lu
+|
+|-heal|p2a: Ting-Lu|56/100|[from] item: Leftovers
+|-damage|p1a: Hatterene|88/100|[from] move: Sand Tomb|[partiallytrapped]
+|upkeep
+|turn|23
+|
+|t:|1781455032
+|move|p2a: Ting-Lu|Ruination|p1a: Hatterene
+|-damage|p1a: Hatterene|45/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|29/100
+|-heal|p1a: Hatterene|77/100|[from] drain|[of] p2a: Ting-Lu
+|
+|-heal|p2a: Ting-Lu|35/100|[from] item: Leftovers
+|-damage|p1a: Hatterene|65/100|[from] move: Sand Tomb|[partiallytrapped]
+|upkeep
+|turn|24
+|
+|t:|1781455035
+|move|p2a: Ting-Lu|Ruination|p1a: Hatterene
+|-damage|p1a: Hatterene|33/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|7/100
+|-heal|p1a: Hatterene|67/100|[from] drain|[of] p2a: Ting-Lu
+|
+|-heal|p2a: Ting-Lu|13/100|[from] item: Leftovers
+|-damage|p1a: Hatterene|55/100|[from] move: Sand Tomb|[partiallytrapped]
+|upkeep
+|turn|25
+|j| Partynparadise
+|
+|t:|1781455039
+|move|p2a: Ting-Lu|Protect|p2a: Ting-Lu
+|-singleturn|p2a: Ting-Lu|Protect
+|move|p1a: Hatterene|Draining Kiss|p2a: Ting-Lu
+|-activate|p2a: Ting-Lu|move: Protect
+|
+|-heal|p2a: Ting-Lu|19/100|[from] item: Leftovers
+|-damage|p1a: Hatterene|43/100|[from] move: Sand Tomb|[partiallytrapped]
+|upkeep
+|turn|26
+|
+|t:|1781455044
+|move|p2a: Ting-Lu|Rock Slide|p1a: Hatterene
+|-damage|p1a: Hatterene|26/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|-heal|p1a: Hatterene|48/100|[from] drain|[of] p2a: Ting-Lu
+|faint|p2a: Ting-Lu
+|
+|-end|p1a: Hatterene|Sand Tomb|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1781455052
+|switch|p2a: Slowking|Slowking-Galar, M|43/100
+|-damage|p2a: Slowking|31/100|[from] Stealth Rock
+|turn|27
+|
+|t:|1781455056
+|switch|p1a: Gliscor|Gliscor, F|63/100
+|move|p2a: Slowking|Trick|p1a: Gliscor
+|-activate|p2a: Slowking|move: Trick|[of] p1a: Gliscor
+|-item|p1a: Gliscor|Toxic Orb|[from] move: Trick
+|-item|p2a: Slowking|Black Sludge|[from] move: Trick
+|
+|-heal|p2a: Slowking|37/100|[from] item: Black Sludge
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|28
+|
+|t:|1781455067
+|switch|p2a: Corviknight|Corviknight, F|58/100
+|-damage|p2a: Corviknight|46/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Gliscor|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|33/100
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Gliscor
+|
+|-heal|p1a: Gliscor|75/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|29
+|
+|t:|1781455073
+|switch|p1a: Hatterene|Hatterene, F|48/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|83/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|30
+|
+|t:|1781455080
+|move|p2a: Corviknight|Brave Bird|p1a: Hatterene
+|-damage|p1a: Hatterene|16/100
+|-damage|p2a: Corviknight|66/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|-damage|p2a: Corviknight|58/100|[from] Recoil
+|move|p1a: Hatterene|Pain Split|p2a: Corviknight
+|-sethp|p2a: Corviknight|35/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Hatterene|44/100|[from] move: Pain Split
+|
+|upkeep
+|turn|31
+|
+|t:|1781455090
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|move|p1a: Hatterene|Nuzzle|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|32/100
+|-status|p2a: Corviknight|par
+|
+|upkeep
+|turn|32
+|
+|t:|1781455094
+|move|p1a: Hatterene|Psychic Noise|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|15/100 par
+|-start|p2a: Corviknight|move: Heal Block
+|move|p2a: Corviknight|Brave Bird|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-damage|p2a: Corviknight|0 fnt|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|faint|p1a: Hatterene
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781455109
+|switch|p2a: Dondozo|Dondozo, F|100/100
+|switch|p1a: Gliscor|Gliscor, F|75/100 tox
+|-damage|p2a: Dondozo|88/100|[from] Stealth Rock
+|turn|33
+|
+|t:|1781455114
+|move|p1a: Gliscor|Knock Off|p2a: Dondozo
+|-damage|p2a: Dondozo|75/100
+|-enditem|p2a: Dondozo|Leftovers|[from] move: Knock Off|[of] p1a: Gliscor
+|move|p2a: Dondozo|Curse|p2a: Dondozo
+|-unboost|p2a: Dondozo|spe|1
+|-boost|p2a: Dondozo|atk|1
+|-boost|p2a: Dondozo|def|1
+|
+|-heal|p1a: Gliscor|88/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|34
+|
+|t:|1781455121
+|switch|p1a: Arboliva|Arboliva, F|100/100
+|move|p2a: Dondozo|Curse|p2a: Dondozo
+|-unboost|p2a: Dondozo|spe|1
+|-boost|p2a: Dondozo|atk|1
+|-boost|p2a: Dondozo|def|1
+|
+|upkeep
+|turn|35
+|
+|t:|1781455126
+|move|p1a: Arboliva|Energy Ball|p2a: Dondozo
+|-supereffective|p2a: Dondozo
+|-damage|p2a: Dondozo|8/100
+|move|p2a: Dondozo|Body Press|p1a: Arboliva
+|-supereffective|p1a: Arboliva
+|-damage|p1a: Arboliva|10/100
+|
+|upkeep
+|turn|36
+|-enditem|p1a: Arboliva|Custap Berry|[eat]
+|-activate|p1a: Arboliva|item: Custap Berry|[consumed]
+|
+|t:|1781455134
+|move|p1a: Arboliva|Earth Power|p2a: Dondozo
+|-damage|p2a: Dondozo|0 fnt
+|faint|p2a: Dondozo
+|
+|-item|p1a: Arboliva|Custap Berry|[from] ability: Harvest
+|upkeep
+|-message|databricks forfeited.
+|
+|win|Klopple
+|raw|Klopple's rating: 1720 &rarr; <strong>1743</strong><br />(+23 for winning)
+|raw|databricks's rating: 1778 &rarr; <strong>1755</strong><br />(-23 for losing)
+|l|☆databricks
+|player|p2|
+|l|☆Klopple
+|player|p1|

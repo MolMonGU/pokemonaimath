@@ -1,0 +1,267 @@
+|j|☆Aeybees
+|j|☆Mortifi
+|t:|1781007174
+|gametype|singles
+|player|p1|Aeybees|scientist|1572
+|player|p2|Mortifi|pokemaniac|1576
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Iron Hands|
+|poke|p1|Ceruledge, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Glimmora, F|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Treads|
+|poke|p2|Moltres|
+|poke|p2|Zamazenta-*|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Garganacl, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Aeybees)
+|
+|t:|1781007190
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|1
+|
+|t:|1781007206
+|move|p1a: Deoxys|Taunt|p2a: Iron Treads
+|-start|p2a: Iron Treads|move: Taunt
+|move|p2a: Iron Treads|Knock Off|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|38/100
+|-enditem|p1a: Deoxys|Light Clay|[from] move: Knock Off|[of] p2a: Iron Treads
+|
+|upkeep
+|turn|2
+|
+|t:|1781007213
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|move|p1a: Deoxys|Reflect|p1a: Deoxys
+|-sidestart|p1: Aeybees|Reflect
+|
+|upkeep
+|turn|3
+|
+|t:|1781007220
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|move|p2a: Samurott|Ceaseless Edge|p1a: Glimmora
+|-damage|p1a: Glimmora|83/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: Mortifi|move: Toxic Spikes
+|-sidestart|p1: Aeybees|Spikes
+|-enditem|p1a: Glimmora|Red Card|[of] p2a: Samurott
+|drag|p2a: Zamazenta|Zamazenta|100/100
+|-status|p2a: Zamazenta|psn
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|
+|-damage|p2a: Zamazenta|88/100 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1781007238
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Glimmora|Earth Power|p2a: Gholdengo
+|-immune|p2a: Gholdengo
+|
+|upkeep
+|turn|5
+|
+|t:|1781007248
+|move|p2a: Gholdengo|Make It Rain|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-crit|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-unboost|p2a: Gholdengo|spa|1
+|faint|p1a: Glimmora
+|
+|upkeep
+|j| Easontom
+|inactive|Aeybees has 120 seconds left.
+|
+|t:|1781007279
+|switch|p1a: Iron Hands|Iron Hands|100/100
+|-damage|p1a: Iron Hands|88/100|[from] Spikes
+|-enditem|p1a: Iron Hands|Booster Energy
+|-activate|p1a: Iron Hands|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Hands|quarkdriveatk
+|turn|6
+|inactive|Aeybees has 120 seconds left.
+|inactive|Mortifi has 120 seconds left.
+|
+|t:|1781007310
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Iron Hands|Close Combat|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|66/100
+|-unboost|p1a: Iron Hands|def|1
+|-unboost|p1a: Iron Hands|spd|1
+|
+|-sideend|p1: Aeybees|Reflect
+|upkeep
+|turn|7
+|inactive|Aeybees has 120 seconds left.
+|inactive|Mortifi has 120 seconds left.
+|
+|t:|1781007338
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|-damage|p1a: Ceruledge|88/100|[from] Spikes
+|move|p2a: Moltres|Roost|p2a: Moltres
+|-heal|p2a: Moltres|100/100
+|-singleturn|p2a: Moltres|move: Roost
+|
+|upkeep
+|turn|8
+|inactive|Mortifi has 120 seconds left.
+|
+|t:|1781007358
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|move|p2a: Moltres|Roar|p1a: Ceruledge
+|drag|p1a: Zamazenta|Zamazenta|100/100
+|-damage|p1a: Zamazenta|88/100|[from] Spikes
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|
+|-heal|p1a: Zamazenta|94/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|Mortifi has 120 seconds left.
+|
+|t:|1781007370
+|move|p2a: Moltres|Flamethrower|p1a: Zamazenta
+|-damage|p1a: Zamazenta|60/100
+|move|p1a: Zamazenta|Roar|p2a: Moltres
+|drag|p2a: Iron Treads|Iron Treads|100/100
+|
+|-heal|p1a: Zamazenta|66/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Mortifi has 120 seconds left.
+|
+|t:|1781007384
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Zamazenta|Body Press|p2a: Gholdengo
+|-immune|p2a: Gholdengo
+|
+|-heal|p1a: Zamazenta|72/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|Mortifi has 120 seconds left.
+|inactive|Aeybees has 90 seconds left.
+|l| Easontom
+|
+|t:|1781007408
+|switch|p1a: Iron Hands|Iron Hands|88/100
+|-damage|p1a: Iron Hands|76/100|[from] Spikes
+|move|p2a: Gholdengo|Make It Rain|p1a: Iron Hands
+|-resisted|p1a: Iron Hands
+|-damage|p1a: Iron Hands|38/100
+|-unboost|p2a: Gholdengo|spa|1
+|
+|upkeep
+|turn|12
+|inactive|Mortifi has 120 seconds left.
+|inactive|Aeybees has 90 seconds left.
+|
+|t:|1781007436
+|switch|p2a: Zamazenta|Zamazenta|88/100 psn
+|move|p1a: Iron Hands|Supercell Slam|p2a: Zamazenta
+|-damage|p2a: Zamazenta|31/100 psn
+|
+|-damage|p2a: Zamazenta|18/100 psn|[from] psn
+|upkeep
+|turn|13
+|inactive|Mortifi has 90 seconds left.
+|
+|t:|1781007460
+|move|p2a: Zamazenta|Close Combat|p1a: Iron Hands
+|-damage|p1a: Iron Hands|0 fnt
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|
+|-damage|p2a: Zamazenta|6/100 psn|[from] psn
+|upkeep
+|
+|t:|1781007468
+|switch|p1a: Deoxys|Deoxys-Speed|38/100
+|-damage|p1a: Deoxys|26/100|[from] Spikes
+|-ability|p1a: Deoxys|Pressure
+|turn|14
+|
+|t:|1781007483
+|move|p1a: Deoxys|Reflect|p1a: Deoxys
+|-sidestart|p1: Aeybees|Reflect
+|move|p2a: Zamazenta|Crunch|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|-damage|p2a: Zamazenta|0 fnt|[from] psn
+|faint|p2a: Zamazenta
+|upkeep
+|inactive|Aeybees has 90 seconds left.
+|inactive|Mortifi has 90 seconds left.
+|
+|t:|1781007495
+|switch|p1a: Ceruledge|Ceruledge, F|88/100
+|switch|p2a: Garganacl|Garganacl, F|100/100
+|-damage|p1a: Ceruledge|76/100|[from] Spikes
+|turn|15
+|
+|t:|1781007505
+|switch|p1a: Zamazenta|Zamazenta|72/100
+|-damage|p1a: Zamazenta|60/100|[from] Spikes
+|move|p2a: Garganacl|Salt Cure|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|57/100
+|-start|p1a: Zamazenta|Salt Cure
+|
+|-heal|p1a: Zamazenta|64/100|[from] item: Leftovers
+|-damage|p1a: Zamazenta|51/100|[from] Salt Cure
+|upkeep
+|turn|16
+|
+|t:|1781007515
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Zamazenta|Roar|p2a: Gholdengo
+|-immune|p2a: Gholdengo|[from] ability: Good as Gold
+|
+|-heal|p1a: Zamazenta|57/100|[from] item: Leftovers
+|-damage|p1a: Zamazenta|45/100|[from] Salt Cure
+|upkeep
+|turn|17
+|-message|Aeybees forfeited.
+|
+|win|Mortifi
+|raw|Aeybees's rating: 1572 &rarr; <strong>1552</strong><br />(-20 for losing)
+|raw|Mortifi's rating: 1576 &rarr; <strong>1596</strong><br />(+20 for winning)
+|l|☆Aeybees
+|player|p1|
+|l|☆Mortifi
+|player|p2|

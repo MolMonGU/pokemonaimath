@@ -1,0 +1,438 @@
+|j|☆Kirnil
+|j|☆testingyup
+|t:|1781519364
+|gametype|singles
+|player|p1|Kirnil|maid|1533
+|player|p2|testingyup|marlon|1633
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Glimmora, M|
+|poke|p1|Great Tusk|
+|poke|p1|Alomomola, F|
+|poke|p1|Amoonguss, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Hoopa-Unbound|
+|poke|p2|Skeledirge, M|
+|poke|p2|Kyurem|
+|poke|p2|Cinderace, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Pecharunt|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by testingyup)
+|
+|t:|1781519389
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|1
+|
+|t:|1781519394
+|switch|p1a: Amoonguss|Amoonguss, F|100/100
+|move|p2a: Ogerpon|Knock Off|p1a: Amoonguss
+|-damage|p1a: Amoonguss|71/100
+|-damage|p2a: Ogerpon|84/100|[from] item: Rocky Helmet|[of] p1a: Amoonguss
+|-enditem|p1a: Amoonguss|Rocky Helmet|[from] move: Knock Off|[of] p2a: Ogerpon
+|
+|upkeep
+|turn|2
+|
+|t:|1781519401
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Amoonguss|Stun Spore|p2a: Pecharunt
+|-status|p2a: Pecharunt|par
+|
+|upkeep
+|turn|3
+|
+|t:|1781519406
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|-item|p1a: Glimmora|Air Balloon
+|move|p2a: Pecharunt|Malignant Chain|p1a: Glimmora
+|-resisted|p1a: Glimmora
+|-crit|p1a: Glimmora
+|-damage|p1a: Glimmora|70/100
+|-enditem|p1a: Glimmora|Air Balloon
+|
+|upkeep
+|turn|4
+|
+|t:|1781519410
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|84/100
+|move|p1a: Glimmora|Stealth Rock|p2a: Ogerpon
+|-sidestart|p2: testingyup|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1781519416
+|switch|p1a: Amoonguss|Amoonguss, F|100/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Amoonguss|[anim] Ivy Cudgel Water
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|81/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781519420
+|switch|p2a: Pecharunt|Pecharunt|100/100 par
+|-damage|p2a: Pecharunt|88/100 par|[from] Stealth Rock
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Pecharunt
+|-resisted|p2a: Pecharunt
+|-damage|p2a: Pecharunt|79/100 par
+|
+|upkeep
+|turn|7
+|
+|t:|1781519426
+|switch|p1a: Glimmora|Glimmora, M|70/100
+|move|p2a: Pecharunt|Shadow Ball|p1a: Glimmora
+|-damage|p1a: Glimmora|11/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781519430
+|move|p1a: Glimmora|Earth Power|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|faint|p2a: Pecharunt
+|
+|upkeep
+|
+|t:|1781519453
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|-damage|p2a: Cinderace|76/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1781519456
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-start|p2a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|move|p1a: Glimmora|Mortal Spin|p2a: Cinderace
+|-damage|p2a: Cinderace|69/100
+|-status|p2a: Cinderace|psn
+|-sideend|p1: Kirnil|Stealth Rock|[from] move: Mortal Spin|[of] p1a: Glimmora
+|
+|-damage|p2a: Cinderace|56/100 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1781519467
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781519471
+|move|p2a: Tornadus|Knock Off|p1a: Alomomola
+|-damage|p1a: Alomomola|84/100
+|-enditem|p1a: Alomomola|Assault Vest|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Alomomola|Flip Turn|p2a: Tornadus
+|-damage|p2a: Tornadus|84/100
+|
+|t:|1781519488
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|12
+|
+|t:|1781519497
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Tornadus|U-turn|p1a: Alomomola
+|-damage|p1a: Alomomola|89/100
+|inactive|testingyup has 120 seconds left.
+|
+|t:|1781519527
+|switch|p2a: Cinderace|Cinderace, F|56/100 psn|[from] U-turn
+|
+|-damage|p2a: Cinderace|44/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1781519531
+|move|p2a: Cinderace|Pyro Ball|p1a: Alomomola|[miss]
+|-miss|p2a: Cinderace|p1a: Alomomola
+|move|p1a: Alomomola|Flip Turn|p2a: Cinderace
+|-supereffective|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|t:|1781519538
+|switch|p1a: Glimmora|Glimmora, M|11/100|[from] Flip Turn
+|
+|upkeep
+|
+|t:|1781519543
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|84/100
+|turn|14
+|
+|t:|1781519550
+|switch|p1a: Amoonguss|Amoonguss, F|100/100
+|move|p2a: Ogerpon|Trailblaze|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|95/100
+|-boost|p2a: Ogerpon|spe|1
+|
+|upkeep
+|turn|15
+|
+|t:|1781519556
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Tornadus
+|-damage|p2a: Tornadus|86/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781519560
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Alomomola
+|-damage|p1a: Alomomola|73/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781519566
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Alomomola|[miss]
+|-miss|p2a: Tornadus|p1a: Alomomola
+|move|p1a: Alomomola|Play Rough|p2a: Tornadus|[miss]
+|-miss|p1a: Alomomola|p2a: Tornadus
+|
+|upkeep
+|turn|18
+|
+|t:|1781519571
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Alomomola|[miss]
+|-miss|p2a: Tornadus|p1a: Alomomola
+|move|p1a: Alomomola|Flip Turn|p2a: Tornadus
+|-damage|p2a: Tornadus|69/100
+|
+|t:|1781519575
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|19
+|
+|t:|1781519584
+|-terastallize|p1a: Hoopa|Ghost
+|move|p2a: Tornadus|U-turn|p1a: Hoopa
+|-resisted|p1a: Hoopa
+|-damage|p1a: Hoopa|92/100
+|
+|t:|1781519603
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|84/100|[from] U-turn
+|move|p1a: Hoopa|Dark Pulse|p2a: Ogerpon
+|-damage|p2a: Ogerpon|17/100
+|
+|-heal|p1a: Hoopa|99/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781519610
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p1a: Amoonguss|Amoonguss, F|100/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781519616
+|switch|p1a: Glimmora|Glimmora, M|11/100
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Glimmora
+|-resisted|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1781519626
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|22
+|
+|t:|1781519630
+|move|p1a: Great Tusk|Ice Spinner|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|36/100
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781519641
+|switch|p1a: Hoopa|Hoopa-Unbound, tera:Ghost|99/100
+|turn|23
+|
+|t:|1781519646
+|move|p2a: Tornadus|U-turn|p1a: Hoopa
+|-resisted|p1a: Hoopa
+|-damage|p1a: Hoopa|90/100
+|
+|t:|1781519648
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|17/100|[from] U-turn
+|move|p1a: Hoopa|Dark Pulse|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|-heal|p1a: Hoopa|96/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781519666
+|switch|p2a: Skeledirge|Skeledirge, M|100/100
+|turn|24
+|
+|t:|1781519681
+|-terastallize|p2a: Skeledirge|Water
+|move|p1a: Hoopa|Substitute|p1a: Hoopa
+|-start|p1a: Hoopa|Substitute
+|-damage|p1a: Hoopa|71/100
+|move|p2a: Skeledirge|Torch Song|p1a: Hoopa
+|-damage|p1a: Hoopa|40/100
+|-boost|p2a: Skeledirge|spa|1
+|
+|-heal|p1a: Hoopa|46/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781519691
+|move|p1a: Hoopa|Dark Pulse|p2a: Skeledirge
+|-damage|p2a: Skeledirge|57/100
+|move|p2a: Skeledirge|Shadow Ball|p1a: Hoopa
+|-supereffective|p1a: Hoopa
+|-end|p1a: Hoopa|Substitute
+|
+|-heal|p1a: Hoopa|52/100|[from] item: Leftovers
+|-heal|p2a: Skeledirge|64/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781519697
+|move|p1a: Hoopa|Psychic Noise|p2a: Skeledirge
+|-damage|p2a: Skeledirge|23/100
+|-start|p2a: Skeledirge|move: Heal Block
+|cant|p2a: Skeledirge|move: Heal Block|Slack Off
+|
+|-heal|p1a: Hoopa|59/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781519705
+|switch|p2a: Tornadus|Tornadus-Therian, M|69/100
+|move|p1a: Hoopa|Dark Pulse|p2a: Tornadus
+|-damage|p2a: Tornadus|35/100
+|
+|-heal|p1a: Hoopa|65/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781519714
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Tornadus|Knock Off|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|97/100
+|
+|upkeep
+|turn|29
+|
+|t:|1781519718
+|switch|p2a: Skeledirge|Skeledirge, M, tera:Water|23/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Skeledirge
+|-damage|p2a: Skeledirge|0 fnt
+|faint|p2a: Skeledirge
+|
+|upkeep
+|
+|t:|1781519720
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|30
+|
+|t:|1781519729
+|switch|p2a: Tornadus|Tornadus-Therian, M|68/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Tornadus
+|-damage|p2a: Tornadus|42/100
+|-unboost|p2a: Tornadus|spa|1
+|
+|upkeep
+|turn|31
+|
+|t:|1781519742
+|move|p1a: Iron Valiant|Knock Off|p2a: Tornadus
+|-damage|p2a: Tornadus|14/100
+|-enditem|p2a: Tornadus|Assault Vest|[from] move: Knock Off|[of] p1a: Iron Valiant
+|move|p2a: Tornadus|U-turn|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|92/100
+|
+|t:|1781519744
+|switch|p2a: Kyurem|Kyurem|100/100|[from] U-turn
+|-ability|p2a: Kyurem|Pressure
+|
+|upkeep
+|turn|32
+|
+|t:|1781519752
+|switch|p2a: Tornadus|Tornadus-Therian, M|47/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Tornadus
+|-damage|p2a: Tornadus|10/100
+|
+|upkeep
+|turn|33
+|
+|t:|1781519756
+|move|p1a: Iron Valiant|Moonblast|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|upkeep
+|
+|t:|1781519758
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|34
+|
+|t:|1781519770
+|move|p1a: Iron Valiant|Moonblast|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|7/100
+|move|p2a: Kyurem|Icicle Spear|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|72/100
+|-damage|p1a: Iron Valiant|52/100
+|-damage|p1a: Iron Valiant|34/100
+|-crit|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|5/100
+|-hitcount|p1a: Iron Valiant|4
+|
+|upkeep
+|turn|35
+|-message|testingyup forfeited.
+|
+|win|Kirnil
+|raw|Kirnil's rating: 1533 &rarr; <strong>1559</strong><br />(+26 for winning)
+|raw|testingyup's rating: 1633 &rarr; <strong>1607</strong><br />(-26 for losing)
+|l|☆testingyup
+|player|p2|
+|l|☆Kirnil
+|player|p1|

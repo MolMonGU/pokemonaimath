@@ -1,0 +1,825 @@
+|j|☆databricks
+|j|☆Steez Ibanez
+|t:|1781184194
+|gametype|singles
+|player|p1|databricks|hilbert|1703
+|player|p2|Steez Ibanez|willow-casual|1763
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, M|
+|poke|p1|Chansey, F|
+|poke|p1|Zapdos|
+|poke|p1|Toxapex, M|
+|poke|p1|Great Tusk|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Zapdos|
+|poke|p2|Iron Treads|
+|poke|p2|Ceruledge, M|
+|poke|p2|Gholdengo|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by databricks)
+|
+|t:|1781184204
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|turn|1
+|
+|t:|1781184206
+|move|p1a: Tornadus|U-turn|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|68/100
+|
+|t:|1781184209
+|switch|p1a: Toxapex|Toxapex, M|100/100|[from] U-turn
+|move|p2a: Samurott|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|75/100
+|-damage|p2a: Samurott|52/100|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|-enditem|p1a: Toxapex|Rocky Helmet|[from] move: Knock Off|[of] p2a: Samurott
+|
+|upkeep
+|turn|2
+|
+|t:|1781184212
+|move|p2a: Samurott|Ceaseless Edge|p1a: Toxapex|[miss]
+|-miss|p2a: Samurott|p1a: Toxapex
+|move|p1a: Toxapex|Toxic|p2a: Samurott
+|-status|p2a: Samurott|tox
+|
+|-damage|p2a: Samurott|46/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1781184216
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Samurott|Ceaseless Edge|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|89/100
+|-sidestart|p1: databricks|Spikes
+|
+|-damage|p2a: Samurott|34/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1781184220
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Great Tusk|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: Steez Ibanez|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1781184224
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Zapdos|Volt Switch|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|38/100
+|
+|t:|1781184227
+|switch|p2a: Iron Treads|Iron Treads|100/100|[from] Volt Switch
+|-damage|p2a: Iron Treads|98/100|[from] Stealth Rock
+|
+|-heal|p2a: Iron Treads|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781184233
+|move|p1a: Tornadus|Knock Off|p2a: Iron Treads
+|-damage|p2a: Iron Treads|82/100
+|-enditem|p2a: Iron Treads|Leftovers|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Iron Treads|Knock Off|p1a: Tornadus
+|-damage|p1a: Tornadus|1/100
+|-enditem|p1a: Tornadus|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Iron Treads
+|
+|upkeep
+|turn|7
+|
+|t:|1781184239
+|move|p1a: Tornadus|U-turn|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|76/100
+|
+|t:|1781184241
+|switch|p1a: Great Tusk|Great Tusk|89/100|[from] U-turn
+|move|p2a: Iron Treads|Stealth Rock|p1a: Great Tusk
+|-sidestart|p1: databricks|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1781184244
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|94/100|[from] Stealth Rock
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Great Tusk|Ice Spinner|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|86/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|
+|upkeep
+|turn|9
+|
+|t:|1781184247
+|move|p1a: Great Tusk|Rapid Spin|p2a: Gholdengo
+|-immune|p2a: Gholdengo
+|move|p2a: Gholdengo|Hex|p1a: Great Tusk
+|-damage|p1a: Great Tusk|46/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781184250
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Zapdos
+|-damage|p2a: Zapdos|89/100
+|-boost|p1a: Great Tusk|spe|1
+|-status|p1a: Great Tusk|par|[from] ability: Static|[of] p2a: Zapdos
+|-sideend|p1: databricks|Spikes|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|-sideend|p1: databricks|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|11
+|
+|t:|1781184254
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Zapdos|Volt Switch|p1a: Zapdos
+|-damage|p1a: Zapdos|69/100
+|
+|t:|1781184256
+|switch|p2a: Iron Treads|Iron Treads|76/100|[from] Volt Switch
+|-damage|p2a: Iron Treads|73/100|[from] Stealth Rock
+|
+|upkeep
+|turn|12
+|
+|t:|1781184258
+|move|p1a: Zapdos|Hurricane|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|35/100
+|-start|p2a: Iron Treads|confusion
+|-activate|p2a: Iron Treads|confusion
+|-damage|p2a: Iron Treads|24/100|[from] confusion
+|
+|upkeep
+|turn|13
+|
+|t:|1781184263
+|move|p1a: Zapdos|Hurricane|p2a: Iron Treads|[miss]
+|-miss|p1a: Zapdos|p2a: Iron Treads
+|-activate|p2a: Iron Treads|confusion
+|-damage|p2a: Iron Treads|13/100|[from] confusion
+|
+|upkeep
+|turn|14
+|
+|t:|1781184266
+|move|p1a: Zapdos|Hurricane|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781184274
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|turn|15
+|
+|t:|1781184276
+|move|p1a: Zapdos|Volt Switch|p2a: Kingambit
+|-damage|p2a: Kingambit|57/100
+|
+|t:|1781184279
+|switch|p1a: Toxapex|Toxapex, M|100/100|[from] Volt Switch
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|63/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781184282
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: Kingambit|69/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781184291
+|switch|p1a: Chansey|Chansey, F|100/100
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|75/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781184294
+|move|p2a: Kingambit|Iron Head|p1a: Chansey
+|-damage|p1a: Chansey|36/100
+|cant|p1a: Chansey|flinch
+|
+|-heal|p2a: Kingambit|81/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|c|☆databricks|bro
+|
+|t:|1781184303
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|move|p2a: Kingambit|Iron Head|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|70/100
+|
+|-heal|p2a: Kingambit|87/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|c|☆Steez Ibanez|Did you say bro when i hit myself twice
+|c|☆Steez Ibanez|You didnt right
+|
+|t:|1781184327
+|move|p2a: Kingambit|Iron Head|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|39/100
+|cant|p1a: Toxapex|flinch
+|
+|-heal|p2a: Kingambit|93/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781184334
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|move|p2a: Kingambit|Iron Head|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|66/100
+|
+|-heal|p2a: Kingambit|99/100|[from] item: Leftovers
+|-heal|p1a: Kingambit|72/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781184338
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Toxapex|Toxapex, M|72/100
+|move|p2a: Kingambit|Low Kick|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|62/100
+|
+|-heal|p2a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781184342
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|24
+|
+|t:|1781184344
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781184348
+|move|p2a: Kingambit|Iron Head|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|70/100
+|cant|p1a: Toxapex|flinch
+|
+|upkeep
+|turn|26
+|
+|t:|1781184352
+|move|p2a: Kingambit|Iron Head|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|42/100
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|27
+|
+|t:|1781184355
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|93/100
+|
+|upkeep
+|turn|28
+|
+|t:|1781184357
+|move|p2a: Kingambit|Iron Head|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|63/100
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|29
+|j| meteor36.0
+|
+|t:|1781184360
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|move|p1a: Toxapex|Toxic Spikes|p2a: Kingambit
+|-sidestart|p2: Steez Ibanez|move: Toxic Spikes
+|
+|upkeep
+|turn|30
+|
+|t:|1781184362
+|move|p2a: Kingambit|Iron Head|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|34/100
+|cant|p1a: Toxapex|flinch
+|
+|upkeep
+|turn|31
+|
+|t:|1781184365
+|move|p2a: Kingambit|Iron Head|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|4/100
+|cant|p1a: Toxapex|flinch
+|
+|upkeep
+|turn|32
+|
+|t:|1781184370
+|switch|p1a: Zapdos|Zapdos|69/100
+|move|p2a: Kingambit|Iron Head|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|15/100
+|-status|p2a: Kingambit|par|[from] ability: Static|[of] p1a: Zapdos
+|
+|upkeep
+|turn|33
+|
+|t:|1781184377
+|switch|p1a: Tornadus|Tornadus-Therian, M|34/100
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|upkeep
+|turn|34
+|
+|t:|1781184383
+|cant|p2a: Kingambit|par
+|move|p1a: Tornadus|Knock Off|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|92/100 par
+|-enditem|p2a: Kingambit|Leftovers|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|upkeep
+|turn|35
+|
+|t:|1781184397
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|71/100 par
+|-unboost|p2a: Kingambit|spe|1
+|cant|p2a: Kingambit|par
+|
+|upkeep
+|turn|36
+|
+|t:|1781184400
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|48/100 par
+|move|p2a: Kingambit|Iron Head|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1781184403
+|switch|p1a: Chansey|Chansey, F|36/100
+|turn|37
+|
+|t:|1781184406
+|move|p1a: Chansey|Healing Wish|p1a: Chansey
+|faint|p1a: Chansey
+|move|p2a: Kingambit|Low Kick|p1: Chansey|[notarget]
+|-fail|p2a: Kingambit
+|
+|upkeep
+|
+|t:|1781184408
+|switch|p1a: Great Tusk|Great Tusk|46/100 par
+|-heal|p1a: Great Tusk|100/100|[from] move: Healing Wish
+|turn|38
+|
+|t:|1781184412
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Zapdos|Zapdos|89/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|upkeep
+|turn|39
+|
+|t:|1781184417
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Kingambit|Kingambit, M|72/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|move|p2a: Zapdos|Hurricane|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|47/100
+|
+|-heal|p1a: Kingambit|53/100|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1781184424
+|move|p2a: Zapdos|Thunder Wave|p1a: Kingambit
+|-status|p1a: Kingambit|par
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|59/100 par|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1781184427
+|move|p2a: Zapdos|Volt Switch|p1a: Kingambit
+|-damage|p1a: Kingambit|30/100 par
+|
+|t:|1781184429
+|switch|p2a: Kingambit|Kingambit, M|48/100 par|[from] Volt Switch
+|-damage|p2a: Kingambit|42/100 par|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen1|[silent]
+|
+|-heal|p1a: Kingambit|36/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1781184431
+|switch|p2a: Samurott|Samurott-Hisui, M|34/100 tox
+|-damage|p2a: Samurott|21/100 tox|[from] Stealth Rock
+|turn|42
+|
+|t:|1781184433
+|move|p1a: Kingambit|Sucker Punch|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-heal|p1a: Kingambit|42/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1781184436
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|turn|43
+|
+|t:|1781184445
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-terastallize|p2a: Ceruledge|Fairy
+|move|p2a: Ceruledge|Bitter Blade|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|55/100
+|
+|upkeep
+|turn|44
+|
+|t:|1781184450
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Toxapex|Toxapex, M|37/100
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|45
+|
+|t:|1781184453
+|move|p2a: Ceruledge|Bitter Blade|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|6/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|57/100
+|
+|upkeep
+|turn|46
+|
+|t:|1781184457
+|switch|p2a: Gholdengo|Gholdengo|86/100
+|-damage|p2a: Gholdengo|80/100|[from] Stealth Rock
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|47
+|
+|t:|1781184465
+|switch|p1a: Great Tusk|Great Tusk|55/100
+|move|p2a: Gholdengo|Hex|p1a: Great Tusk
+|-damage|p1a: Great Tusk|13/100
+|
+|upkeep
+|turn|48
+|
+|t:|1781184470
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Zapdos|Zapdos|15/100
+|switch|p2a: Ceruledge|Ceruledge, M, tera:Fairy|100/100
+|
+|upkeep
+|turn|49
+|
+|t:|1781184477
+|switch|p1a: Toxapex|Toxapex, M|90/100
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|68/100
+|
+|upkeep
+|turn|50
+|
+|t:|1781184483
+|switch|p1a: Zapdos|Zapdos|15/100
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|51
+|
+|t:|1781184486
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|move|p2a: Ceruledge|Bitter Blade|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|68/100
+|
+|upkeep
+|turn|52
+|
+|t:|1781184488
+|switch|p2a: Gholdengo|Gholdengo|80/100
+|-damage|p2a: Gholdengo|74/100|[from] Stealth Rock
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|53
+|
+|t:|1781184494
+|switch|p1a: Kingambit|Kingambit, M|42/100 par
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|move|p2a: Gholdengo|Thunder Wave|p1a: Kingambit
+|-fail|p1a: Kingambit|par
+|
+|-heal|p1a: Kingambit|48/100 par|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1781184498
+|move|p1a: Kingambit|Sucker Punch|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|2/100
+|move|p2a: Gholdengo|Focus Blast|p1a: Kingambit|[miss]
+|-miss|p2a: Gholdengo|p1a: Kingambit
+|
+|-heal|p1a: Kingambit|54/100 par|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|t:|1781184503
+|move|p2a: Gholdengo|Recover|p2a: Gholdengo
+|-heal|p2a: Gholdengo|52/100
+|cant|p1a: Kingambit|par
+|
+|-heal|p1a: Kingambit|60/100 par|[from] item: Leftovers
+|upkeep
+|turn|56
+|
+|t:|1781184507
+|move|p2a: Gholdengo|Recover|p2a: Gholdengo
+|-heal|p2a: Gholdengo|100/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|21/100
+|
+|-heal|p1a: Kingambit|66/100 par|[from] item: Leftovers
+|upkeep
+|turn|57
+|
+|t:|1781184509
+|move|p1a: Kingambit|Sucker Punch|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|-heal|p1a: Kingambit|72/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1781184511
+|switch|p2a: Ceruledge|Ceruledge, M, tera:Fairy|100/100
+|turn|58
+|
+|t:|1781184515
+|switch|p2a: Zapdos|Zapdos|89/100
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|
+|upkeep
+|turn|59
+|
+|t:|1781184517
+|move|p2a: Zapdos|Thunder Wave|p1a: Toxapex
+|-status|p1a: Toxapex|par
+|move|p1a: Toxapex|Toxic|p2a: Zapdos
+|-status|p2a: Zapdos|tox
+|
+|-damage|p2a: Zapdos|83/100 tox|[from] psn
+|upkeep
+|turn|60
+|
+|t:|1781184520
+|switch|p1a: Great Tusk|Great Tusk|13/100
+|move|p2a: Zapdos|Hurricane|p1a: Great Tusk|[miss]
+|-miss|p2a: Zapdos|p1a: Great Tusk
+|
+|-damage|p2a: Zapdos|71/100 tox|[from] psn
+|upkeep
+|turn|61
+|
+|t:|1781184524
+|move|p1a: Great Tusk|Ice Spinner|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|33/100 tox
+|move|p2a: Zapdos|Hurricane|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-damage|p2a: Zapdos|15/100 tox|[from] psn
+|upkeep
+|
+|t:|1781184527
+|switch|p1a: Zapdos|Zapdos|15/100
+|turn|62
+|
+|t:|1781184529
+|move|p1a: Zapdos|Volt Switch|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|t:|1781184531
+|switch|p1a: Toxapex|Toxapex, M|100/100 par|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1781184534
+|switch|p2a: Ceruledge|Ceruledge, M, tera:Fairy|100/100
+|turn|63
+|
+|t:|1781184535
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|cant|p1a: Toxapex|par
+|
+|upkeep
+|turn|64
+|
+|t:|1781184538
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|cant|p1a: Toxapex|par
+|
+|upkeep
+|turn|65
+|
+|t:|1781184540
+|move|p2a: Ceruledge|Bitter Blade|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|55/100 par
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|66
+|
+|t:|1781184543
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|move|p1a: Toxapex|Toxic|p2a: Ceruledge
+|-status|p2a: Ceruledge|tox
+|
+|-damage|p2a: Ceruledge|94/100 tox|[from] psn
+|upkeep
+|turn|67
+|
+|t:|1781184545
+|move|p2a: Ceruledge|Bitter Blade|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|26/100 par
+|-heal|p2a: Ceruledge|100/100 tox|[from] drain|[of] p1a: Toxapex
+|cant|p1a: Toxapex|par
+|
+|-damage|p2a: Ceruledge|88/100 tox|[from] psn
+|upkeep
+|turn|68
+|
+|t:|1781184549
+|switch|p1a: Zapdos|Zapdos|15/100
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|-damage|p2a: Ceruledge|70/100 tox|[from] psn
+|upkeep
+|
+|t:|1781184551
+|switch|p1a: Toxapex|Toxapex, M|60/100 par
+|turn|69
+|
+|t:|1781184555
+|move|p2a: Ceruledge|Bitter Blade|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|31/100 par
+|-heal|p2a: Ceruledge|83/100 tox|[from] drain|[of] p1a: Toxapex
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-damage|p2a: Ceruledge|59/100 tox|[from] psn
+|upkeep
+|turn|70
+|
+|t:|1781184558
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|81/100 par
+|
+|-damage|p2a: Ceruledge|29/100 tox|[from] psn
+|upkeep
+|turn|71
+|
+|t:|1781184559
+|move|p2a: Ceruledge|Bitter Blade|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|48/100 par
+|-heal|p2a: Ceruledge|43/100 tox|[from] drain|[of] p1a: Toxapex
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-damage|p2a: Ceruledge|7/100 tox|[from] psn
+|upkeep
+|turn|72
+|
+|t:|1781184563
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-damage|p2a: Ceruledge|0 fnt|[from] psn
+|faint|p2a: Ceruledge
+|
+|win|databricks
+|raw|databricks's rating: 1703 &rarr; <strong>1726</strong><br />(+23 for winning)
+|raw|Steez Ibanez's rating: 1763 &rarr; <strong>1740</strong><br />(-23 for losing)
+|l|☆databricks
+|player|p1|
+|l|☆Steez Ibanez
+|player|p2|
+|l| meteor36.0

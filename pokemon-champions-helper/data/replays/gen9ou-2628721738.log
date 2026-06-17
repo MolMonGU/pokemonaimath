@@ -1,0 +1,360 @@
+|j|☆5th Floor Atrium
+|j|☆maxcondones
+|t:|1781047153
+|gametype|singles
+|player|p1|5th Floor Atrium|169|1599
+|player|p2|maxcondones|266|1563
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Rillaboom, F|
+|poke|p1|Conkeldurr, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, F|
+|poke|p1|Alomomola, M|
+|poke|p1|Dragapult, F|
+|poke|p2|Excadrill, M|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Tyranitar, F|
+|poke|p2|Hippowdon, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Dragapult, F|
+|teampreview
+|
+|t:|1781047169
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|switch|p2a: jettspend|Dragapult, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1781047180
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: jettspend|Will-O-Wisp|p1a: Iron Treads
+|-status|p1a: Iron Treads|brn
+|
+|-damage|p1a: Iron Treads|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1781047194
+|move|p2a: jettspend|Hex|p1a: Iron Treads
+|-damage|p1a: Iron Treads|37/100 brn
+|move|p1a: Iron Treads|Stealth Rock|p2a: jettspend
+|-sidestart|p2: maxcondones|move: Stealth Rock
+|
+|-heal|p1a: Iron Treads|43/100 brn|[from] Grassy Terrain
+|-heal|p1a: Iron Treads|49/100 brn|[from] item: Leftovers
+|-damage|p1a: Iron Treads|43/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1781047204
+|move|p2a: jettspend|Hex|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781047212
+|switch|p1a: Conkeldurr|Conkeldurr, M|100/100
+|turn|4
+|
+|t:|1781047220
+|move|p2a: jettspend|U-turn|p1a: Conkeldurr
+|-resisted|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|91/100
+|
+|t:|1781047226
+|switch|p2a: yhippojj|Hippowdon, F|100/100|[from] U-turn
+|-damage|p2a: yhippojj|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: yhippojj
+|move|p1a: Conkeldurr|Knock Off|p2a: yhippojj
+|-damage|p2a: yhippojj|75/100
+|-enditem|p2a: yhippojj|Eject Button|[from] move: Knock Off|[of] p1a: Conkeldurr
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Conkeldurr|85/100|[from] Sandstorm
+|-heal|p1a: Conkeldurr|91/100|[from] Grassy Terrain
+|-heal|p2a: yhippojj|81/100|[from] Grassy Terrain
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|5
+|
+|t:|1781047248
+|move|p1a: Conkeldurr|Facade|p2a: yhippojj
+|-damage|p2a: yhippojj|40/100
+|move|p2a: yhippojj|Stealth Rock|p1a: Conkeldurr
+|-sidestart|p1: 5th Floor Atrium|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Conkeldurr|85/100 brn|[from] Sandstorm
+|-heal|p1a: Conkeldurr|91/100 brn|[from] Grassy Terrain
+|-heal|p2a: yhippojj|46/100|[from] Grassy Terrain
+|-damage|p1a: Conkeldurr|85/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781047264
+|move|p1a: Conkeldurr|Close Combat|p2a: yhippojj
+|-damage|p2a: yhippojj|0 fnt
+|-unboost|p1a: Conkeldurr|def|1
+|-unboost|p1a: Conkeldurr|spd|1
+|faint|p2a: yhippojj
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Conkeldurr|79/100 brn|[from] Sandstorm
+|-damage|p1a: Conkeldurr|73/100 brn|[from] brn
+|upkeep
+|
+|t:|1781047286
+|switch|p2a: bleood|Deoxys-Speed|100/100
+|-damage|p2a: bleood|88/100|[from] Stealth Rock
+|-ability|p2a: bleood|Pressure
+|turn|7
+|
+|t:|1781047315
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: bleood|Psycho Boost|p1a: Alomomola
+|-damage|p1a: Alomomola|47/100
+|-unboost|p2a: bleood|spa|2
+|-enditem|p2a: bleood|Eject Pack
+|
+|t:|1781047343
+|switch|p2a: hedijeans|Landorus-Therian, M, shiny|100/100
+|-damage|p2a: hedijeans|88/100|[from] Stealth Rock
+|-ability|p2a: hedijeans|Intimidate|boost
+|-unboost|p1a: Alomomola|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Alomomola|40/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1781047358
+|move|p2a: hedijeans|Taunt|p1a: Alomomola
+|-start|p1a: Alomomola|move: Taunt
+|move|p1a: Alomomola|Flip Turn|p2a: hedijeans
+|-supereffective|p2a: hedijeans
+|-damage|p2a: hedijeans|61/100
+|-damage|p1a: Alomomola|24/100|[from] item: Rocky Helmet|[of] p2a: hedijeans
+|
+|t:|1781047375
+|switch|p1a: Rillaboom|Rillaboom, F|100/100|[from] Flip Turn
+|-damage|p1a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|
+|-weather|none
+|-heal|p1a: Rillaboom|94/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781047391
+|-terastallize|p1a: Rillaboom|Grass
+|move|p1a: Rillaboom|Grassy Glide|p2a: hedijeans
+|-crit|p2a: hedijeans
+|-damage|p2a: hedijeans|0 fnt
+|-damage|p1a: Rillaboom|78/100|[from] item: Rocky Helmet|[of] p2a: hedijeans
+|faint|p2a: hedijeans
+|
+|-heal|p1a: Rillaboom|84/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781047396
+|switch|p2a: jettspend|Dragapult, F|100/100
+|turn|10
+|
+|t:|1781047417
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|move|p2a: jettspend|Dragon Darts|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|33/100
+|-anim|p2a: jettspend|Dragon Darts|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1781047424
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|turn|11
+|
+|t:|1781047436
+|switch|p2a: greenkray|Tyranitar, F, shiny|100/100
+|-damage|p2a: greenkray|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: greenkray
+|move|p1a: Kingambit|Kowtow Cleave|p2a: greenkray
+|-resisted|p2a: greenkray
+|-damage|p2a: greenkray|65/100
+|-enditem|p2a: greenkray|Eject Button
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 5th Floor Atrium)
+|
+|t:|1781047479
+|switch|p2a: bleood|Deoxys-Speed|88/100
+|-damage|p2a: bleood|76/100|[from] Stealth Rock
+|-ability|p2a: bleood|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: bleood|69/100|[from] Sandstorm
+|-heal|p2a: bleood|76/100|[from] Grassy Terrain
+|-heal|p1a: Kingambit|100/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781047493
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Alomomola|Alomomola, M|57/100
+|-terastallize|p2a: bleood|Fighting
+|move|p2a: bleood|Superpower|p1a: Alomomola
+|-damage|p1a: Alomomola|29/100
+|-unboost|p2a: bleood|atk|1
+|-unboost|p2a: bleood|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: bleood|69/100|[from] Sandstorm
+|-damage|p1a: Alomomola|23/100|[from] Sandstorm
+|-heal|p2a: bleood|76/100|[from] Grassy Terrain
+|-heal|p1a: Alomomola|29/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781047504
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: bleood|Psycho Boost|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: bleood|69/100|[from] Sandstorm
+|-damage|p1a: Alomomola|23/100|[from] Sandstorm
+|upkeep
+|turn|14
+|
+|t:|1781047510
+|move|p2a: bleood|Superpower|p1a: Alomomola
+|-damage|p1a: Alomomola|6/100
+|-unboost|p2a: bleood|atk|1
+|-unboost|p2a: bleood|def|1
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: bleood|63/100|[from] Sandstorm
+|-damage|p1a: Alomomola|0 fnt|[from] Sandstorm
+|faint|p1a: Alomomola
+|upkeep
+|
+|t:|1781047517
+|switch|p1a: Rillaboom|Rillaboom, F, tera:Grass|84/100
+|-damage|p1a: Rillaboom|72/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|15
+|
+|t:|1781047527
+|move|p1a: Rillaboom|Grassy Glide|p2a: bleood
+|-damage|p2a: bleood|0 fnt
+|faint|p2a: bleood
+|
+|-weather|none
+|-heal|p1a: Rillaboom|100/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|
+|t:|1781047530
+|switch|p2a: jettspend|Dragapult, F|100/100
+|turn|16
+|
+|t:|1781047544
+|switch|p1a: Conkeldurr|Conkeldurr, M|73/100 brn
+|-damage|p1a: Conkeldurr|67/100 brn|[from] Stealth Rock
+|move|p2a: jettspend|Hex|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|
+|upkeep
+|j| Mak7XZ
+|
+|t:|1781047549
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|17
+|
+|t:|1781047580
+|switch|p2a: exco2k|Excadrill, M|100/100
+|-damage|p2a: exco2k|97/100|[from] Stealth Rock
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p2a: exco2k|100/100|[from] Grassy Terrain
+|-heal|p1a: Kingambit|100/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|inactive|5th Floor Atrium has 120 seconds left.
+|
+|t:|1781047613
+|move|p2a: exco2k|Earthquake|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|25/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: exco2k
+|-damage|p2a: exco2k|0 fnt
+|faint|p2a: exco2k
+|
+|-heal|p1a: Kingambit|31/100|[from] Grassy Terrain
+|-heal|p1a: Kingambit|37/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781047622
+|switch|p2a: greenkray|Tyranitar, F, shiny|65/100
+|-damage|p2a: greenkray|53/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: greenkray
+|turn|19
+|
+|t:|1781047639
+|move|p1a: Kingambit|Low Kick|p2a: greenkray
+|-supereffective|p2a: greenkray
+|-damage|p2a: greenkray|0 fnt
+|faint|p2a: greenkray
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Kingambit|43/100|[from] Grassy Terrain
+|-heal|p1a: Kingambit|49/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781047644
+|switch|p2a: jettspend|Dragapult, F|100/100
+|turn|20
+|
+|t:|1781047647
+|move|p2a: jettspend|Will-O-Wisp|p1a: Kingambit|[miss]
+|-miss|p2a: jettspend|p1a: Kingambit
+|move|p1a: Kingambit|Kowtow Cleave|p2a: jettspend
+|-supereffective|p2a: jettspend
+|-damage|p2a: jettspend|0 fnt
+|faint|p2a: jettspend
+|
+|win|5th Floor Atrium
+|raw|5th Floor Atrium's rating: 1599 &rarr; <strong>1617</strong><br />(+18 for winning)
+|raw|maxcondones's rating: 1563 &rarr; <strong>1545</strong><br />(-18 for losing)
+|l| Mak7XZ
+|l|☆5th Floor Atrium
+|player|p1|

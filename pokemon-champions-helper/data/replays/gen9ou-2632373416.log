@@ -1,0 +1,278 @@
+|j|☆ddukkes
+|j|☆Archerdadon
+|t:|1781516943
+|gametype|singles
+|player|p1|ddukkes|smasher|1608
+|player|p2|Archerdadon|marshal|1571
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Excadrill, M|
+|poke|p1|Hydrapple, M|
+|poke|p1|Zapdos|
+|poke|p1|Cinderace, F|
+|poke|p1|Alomomola, F|
+|poke|p2|Dondozo, M|
+|poke|p2|Great Tusk|
+|poke|p2|Ting-Lu|
+|poke|p2|Glimmora, M|
+|poke|p2|Scizor, F|
+|poke|p2|Hydrapple, M|
+|teampreview
+|
+|t:|1781516950
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Archerdadon)
+|
+|t:|1781516958
+|switch|p1a: Excadrill|Excadrill, M, shiny|100/100
+|move|p2a: Glimmora|Sludge Wave|p1a: Excadrill
+|-immune|p1a: Excadrill
+|
+|upkeep
+|turn|2
+|
+|t:|1781516966
+|move|p2a: Glimmora|Earth Power|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|23/100
+|move|p1a: Excadrill|Earthquake|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-enditem|p2a: Glimmora|Focus Sash
+|-damage|p2a: Glimmora|1/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: ddukkes|move: Toxic Spikes
+|
+|-heal|p1a: Excadrill|30/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781516979
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Excadrill|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|72/100
+|
+|-heal|p1a: Excadrill|36/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781516989
+|move|p1a: Excadrill|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|39/100
+|move|p2a: Great Tusk|Ice Spinner|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|t:|1781516999
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|turn|5
+|
+|t:|1781517005
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Hydrapple|Hydrapple, M|100/100
+|move|p1a: Alomomola|Flip Turn|p2a: Hydrapple
+|-resisted|p2a: Hydrapple
+|-damage|p2a: Hydrapple|99/100
+|-damage|p1a: Alomomola|84/100|[from] item: Rocky Helmet|[of] p2a: Hydrapple
+|
+|t:|1781517014
+|switch|p1a: Zapdos|Zapdos, shiny|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|6
+|
+|t:|1781517019
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Zapdos|Hurricane|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|75/100
+|
+|-heal|p2a: Ting-Lu|82/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781517027
+|move|p1a: Zapdos|Hurricane|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|58/100
+|move|p2a: Ting-Lu|Payback|p1a: Zapdos
+|-damage|p1a: Zapdos|65/100
+|-status|p2a: Ting-Lu|par|[from] ability: Static|[of] p1a: Zapdos
+|
+|-heal|p2a: Ting-Lu|64/100 par|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781517034
+|move|p1a: Zapdos|Hurricane|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|39/100 par
+|-start|p2a: Ting-Lu|confusion
+|-activate|p2a: Ting-Lu|confusion
+|move|p2a: Ting-Lu|Rest|p2a: Ting-Lu
+|-status|p2a: Ting-Lu|slp|[from] move: Rest
+|-heal|p2a: Ting-Lu|100/100 slp|[silent]
+|
+|upkeep
+|turn|9
+|
+|t:|1781517044
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|cant|p2a: Ting-Lu|slp
+|
+|upkeep
+|turn|10
+|
+|t:|1781517052
+|move|p1a: Cinderace|Pyro Ball|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|67/100 slp
+|cant|p2a: Ting-Lu|slp
+|
+|-heal|p2a: Ting-Lu|73/100 slp|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781517058
+|move|p1a: Cinderace|U-turn|p2a: Ting-Lu
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|35/100 slp
+|
+|t:|1781517068
+|switch|p1a: Alomomola|Alomomola, F|100/100|[from] U-turn
+|-curestatus|p2a: Ting-Lu|slp|[msg]
+|-activate|p2a: Ting-Lu|confusion
+|move|p2a: Ting-Lu|Earthquake|p1a: Alomomola
+|-damage|p1a: Alomomola|80/100
+|
+|-heal|p2a: Ting-Lu|41/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781517077
+|move|p1a: Alomomola|Flip Turn|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|26/100
+|
+|t:|1781517081
+|switch|p1a: Cinderace|Cinderace, F|100/100|[from] Flip Turn
+|-activate|p2a: Ting-Lu|confusion
+|move|p2a: Ting-Lu|Rest|p2a: Ting-Lu
+|-status|p2a: Ting-Lu|slp|[from] move: Rest
+|-heal|p2a: Ting-Lu|100/100 slp|[silent]
+|
+|upkeep
+|turn|13
+|
+|t:|1781517096
+|switch|p2a: Dondozo|Dondozo, M|100/100
+|move|p1a: Cinderace|Pyro Ball|p2a: Dondozo
+|-resisted|p2a: Dondozo
+|-damage|p2a: Dondozo|88/100
+|
+|-heal|p2a: Dondozo|94/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781517103
+|move|p1a: Cinderace|U-turn|p2a: Dondozo
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p2a: Dondozo|80/100
+|
+|t:|1781517109
+|switch|p1a: Zapdos|Zapdos, shiny|65/100|[from] U-turn
+|move|p2a: Dondozo|Waterfall|p1a: Zapdos
+|-damage|p1a: Zapdos|37/100
+|
+|-heal|p2a: Dondozo|86/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781517119
+|switch|p2a: Ting-Lu|Ting-Lu|100/100 slp
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|87/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|16
+|
+|t:|1781517127
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|cant|p2a: Ting-Lu|slp
+|
+|upkeep
+|turn|17
+|
+|t:|1781517132
+|switch|p2a: Dondozo|Dondozo, M|86/100
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-start|p1a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|
+|-heal|p2a: Dondozo|93/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781517140
+|move|p1a: Cinderace|U-turn|p2a: Dondozo
+|-damage|p2a: Dondozo|83/100
+|
+|t:|1781517143
+|switch|p1a: Hydrapple|Hydrapple, M|100/100|[from] U-turn
+|move|p2a: Dondozo|Waterfall|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|97/100
+|-damage|p2a: Dondozo|66/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|
+|-heal|p2a: Dondozo|73/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781517156
+|switch|p2a: Scizor|Scizor, F|100/100
+|move|p1a: Hydrapple|Nasty Plot|p1a: Hydrapple
+|-boost|p1a: Hydrapple|spa|2
+|
+|upkeep
+|turn|20
+|
+|t:|1781517163
+|move|p2a: Scizor|U-turn|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-crit|p1a: Hydrapple
+|-damage|p1a: Hydrapple|0 fnt
+|-damage|p2a: Scizor|84/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|faint|p1a: Hydrapple
+|
+|t:|1781517169
+|switch|p2a: Glimmora|Glimmora, M|1/100|[from] U-turn
+|-sideend|p2: Archerdadon|move: Toxic Spikes|[of] p2a: Glimmora
+|
+|upkeep
+|-message|ddukkes forfeited.
+|
+|win|Archerdadon
+|raw|ddukkes's rating: 1608 &rarr; <strong>1586</strong><br />(-22 for losing)
+|raw|Archerdadon's rating: 1571 &rarr; <strong>1593</strong><br />(+22 for winning)
+|l|☆ddukkes
+|player|p1|
+|l|☆Archerdadon
+|player|p2|

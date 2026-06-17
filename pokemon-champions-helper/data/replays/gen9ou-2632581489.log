@@ -1,0 +1,297 @@
+|j|☆SofteLocke
+|j|☆sweetflavors
+|t:|1781541089
+|gametype|singles
+|player|p1|SofteLocke|170|1633
+|player|p2|sweetflavors|169|1621
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torkoal, F|
+|poke|p1|Walking Wake|
+|poke|p1|Great Tusk|
+|poke|p1|Hatterene, F|
+|poke|p1|Ceruledge, M|
+|poke|p1|Raging Bolt|
+|poke|p2|Iron Crown|
+|poke|p2|Zamazenta-*|
+|poke|p2|Pecharunt|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Great Tusk|
+|poke|p2|Heatran, M|
+|teampreview
+|
+|t:|1781541108
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|1
+|
+|t:|1781541117
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Hatterene
+|-damage|p1a: Hatterene|34/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781541120
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781541124
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Walking Wake|Weather Ball|p2a: Ogerpon
+|-damage|p2a: Ogerpon|31/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781541131
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Walking Wake|Weather Ball|p2a: Heatran
+|-start|p2a: Heatran|ability: Flash Fire
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781541138
+|move|p1a: Walking Wake|Hydro Steam|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|22/100
+|move|p2a: Heatran|Earth Power|p1a: Walking Wake
+|-damage|p1a: Walking Wake|72/100
+|-unboost|p1a: Walking Wake|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Heatran|28/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781541148
+|move|p1a: Walking Wake|Draco Meteor|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|4/100
+|-unboost|p1a: Walking Wake|spa|2
+|move|p2a: Heatran|Magma Storm|p1a: Walking Wake
+|-resisted|p1a: Walking Wake
+|-damage|p1a: Walking Wake|26/100
+|-activate|p1a: Walking Wake|move: Magma Storm|[of] p2a: Heatran
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Heatran|10/100|[from] item: Leftovers
+|-damage|p1a: Walking Wake|14/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|6
+|
+|t:|1781541155
+|-end|p2a: Heatran|ability: Flash Fire|[silent]
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|31/100
+|move|p1a: Walking Wake|Draco Meteor|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|-unboost|p1a: Walking Wake|spa|2
+|faint|p2a: Ogerpon
+|
+|-weather|SunnyDay|[upkeep]
+|-end|p1a: Walking Wake|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1781541160
+|switch|p2a: Heatran|Heatran, M|10/100
+|turn|7
+|
+|t:|1781541162
+|move|p1a: Walking Wake|Hydro Steam|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781541165
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|turn|8
+|
+|t:|1781541168
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|34/100
+|move|p2a: Iron Crown|Volt Switch|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|t:|1781541172
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Pecharunt|Pecharunt|100/100|[from] Volt Switch
+|
+|-weather|none
+|upkeep
+|
+|t:|1781541174
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|turn|9
+|
+|t:|1781541177
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|-unboost|p1a: Raging Bolt|spa|2
+|faint|p2a: Pecharunt
+|
+|upkeep
+|
+|t:|1781541180
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|10
+|
+|t:|1781541185
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p2a: Great Tusk|Knock Off|p1a: Torkoal
+|-damage|p1a: Torkoal|75/100
+|-enditem|p1a: Torkoal|Heat Rock|[from] move: Knock Off|[of] p2a: Great Tusk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781541197
+|-terastallize|p1a: Torkoal|Flying
+|move|p2a: Great Tusk|Headlong Rush|p1a: Torkoal
+|-immune|p1a: Torkoal
+|move|p1a: Torkoal|Will-O-Wisp|p2a: Great Tusk
+|-status|p2a: Great Tusk|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Great Tusk|94/100 brn|[from] brn
+|upkeep
+|turn|12
+|j| DA COME UP
+|
+|t:|1781541207
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Great Tusk|Knock Off|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|92/100
+|-enditem|p1a: Great Tusk|Choice Scarf|[from] move: Knock Off|[of] p2a: Great Tusk
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Great Tusk|88/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1781541210
+|move|p2a: Great Tusk|Ice Spinner|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|67/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Great Tusk
+|-damage|p2a: Great Tusk|32/100 brn
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|51/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Great Tusk|26/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781541214
+|move|p1a: Great Tusk|Headlong Rush|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|34/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781541220
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|15
+|
+|t:|1781541226
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|l| DA COME UP
+|
+|t:|1781541233
+|move|p2a: Zamazenta|Substitute|p2a: Zamazenta
+|-start|p2a: Zamazenta|Substitute
+|-damage|p2a: Zamazenta|75/100
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Zamazenta
+|-end|p2a: Zamazenta|Substitute
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Zamazenta|82/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781541246
+|move|p2a: Zamazenta|Body Press|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|26/100
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|-weather|none
+|-end|p1a: Raging Bolt|Protosynthesis
+|upkeep
+|
+|t:|1781541250
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|turn|18
+|
+|t:|1781541253
+|move|p2a: Iron Crown|Psyshock|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|-message|sweetflavors forfeited.
+|
+|win|SofteLocke
+|raw|SofteLocke's rating: 1633 &rarr; <strong>1652</strong><br />(+19 for winning)
+|raw|sweetflavors's rating: 1621 &rarr; <strong>1602</strong><br />(-19 for losing)
+|l|☆sweetflavors
+|player|p2|
+|l|☆SofteLocke
+|player|p1|

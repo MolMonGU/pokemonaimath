@@ -1,0 +1,383 @@
+|j|☆electricdingdong
+|j|☆Kochu_shak ㋛
+|t:|1781097242
+|gametype|singles
+|player|p1|electricdingdong|pokekid|1660
+|player|p2|Kochu_shak ㋛|169|1715
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Raikou|
+|poke|p1|Iron Valiant|
+|poke|p1|Pincurchin, F|
+|poke|p1|Iron Moth|
+|poke|p1|Cresselia, F|
+|poke|p1|Hawlucha, F|
+|poke|p2|Araquanid, F|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Moth|
+|poke|p2|Iron Valiant|
+|poke|p2|Raging Bolt|
+|poke|p2|Kingambit, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kochu_shak ㋛)
+|j| choispecs ironmoth
+|j| thepokemonuploads
+|inactive|Kochu_shak ㋛ has 120 seconds left.
+|
+|t:|1781097282
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|switch|p2a: QUIL|Araquanid, F|100/100
+|turn|1
+|
+|t:|1781097285
+|move|p1a: Iron Moth|Meteor Beam||[still]
+|-prepare|p1a: Iron Moth|Meteor Beam
+|-boost|p1a: Iron Moth|spa|1
+|-enditem|p1a: Iron Moth|Power Herb
+|-anim|p1a: Iron Moth|Meteor Beam|p2a: QUIL
+|-supereffective|p2a: QUIL
+|-damage|p2a: QUIL|13/100
+|move|p2a: QUIL|Sticky Web|p1a: Iron Moth
+|-sidestart|p1: electricdingdong|move: Sticky Web
+|
+|upkeep
+|turn|2
+|-enditem|p2a: QUIL|Custap Berry|[eat]
+|-activate|p2a: QUIL|item: Custap Berry|[consumed]
+|
+|t:|1781097293
+|move|p2a: QUIL|Surf|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|22/100
+|move|p1a: Iron Moth|Fiery Dance|p2a: QUIL
+|-damage|p2a: QUIL|0 fnt
+|-boost|p1a: Iron Moth|spa|1
+|faint|p2a: QUIL
+|
+|upkeep
+|inactive|Kochu_shak ㋛ has 120 seconds left.
+|
+|t:|1781097331
+|switch|p2a: CALA|Iron Moth|100/100
+|-enditem|p2a: CALA|Booster Energy
+|-activate|p2a: CALA|ability: Quark Drive|[fromitem]
+|-start|p2a: CALA|quarkdrivespa
+|turn|3
+|
+|t:|1781097339
+|move|p1a: Iron Moth|Meteor Beam||[still]
+|-prepare|p1a: Iron Moth|Meteor Beam
+|-boost|p1a: Iron Moth|spa|1
+|move|p2a: CALA|Fiery Dance|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781097350
+|switch|p1a: Pincurchin|Pincurchin, F|100/100
+|-activate|p1a: Pincurchin|move: Sticky Web
+|-unboost|p1a: Pincurchin|spe|1
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|turn|4
+|
+|t:|1781097372
+|move|p2a: CALA|Fiery Dance|p1a: Pincurchin
+|-damage|p1a: Pincurchin|25/100
+|-boost|p2a: CALA|spa|1
+|move|p1a: Pincurchin|Supercell Slam|p2a: CALA
+|-damage|p2a: CALA|0 fnt
+|faint|p2a: CALA
+|-end|p2a: CALA|Quark Drive|[silent]
+|
+|upkeep
+|inactive|Kochu_shak ㋛ has 120 seconds left.
+|
+|t:|1781097396
+|switch|p2a: DELI|Raging Bolt|100/100
+|-enditem|p2a: DELI|Booster Energy
+|-activate|p2a: DELI|ability: Protosynthesis|[fromitem]
+|-start|p2a: DELI|protosynthesisspa
+|turn|5
+|
+|t:|1781097399
+|move|p2a: DELI|Calm Mind|p2a: DELI
+|-boost|p2a: DELI|spa|1
+|-boost|p2a: DELI|spd|1
+|move|p1a: Pincurchin|Memento|p2a: DELI
+|-unboost|p2a: DELI|atk|2
+|-unboost|p2a: DELI|spa|2
+|faint|p1a: Pincurchin
+|
+|upkeep
+|
+|t:|1781097425
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p1a: Hawlucha|Electric Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Electric Seed
+|turn|6
+|inactive|Kochu_shak ㋛ has 120 seconds left.
+|
+|t:|1781097457
+|move|p1a: Hawlucha|Encore|p2a: DELI
+|-start|p2a: DELI|Encore
+|move|p2a: DELI|Calm Mind|p2a: DELI
+|-boost|p2a: DELI|spa|1
+|-boost|p2a: DELI|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781097467
+|-end|p2a: DELI|Protosynthesis|[silent]
+|switch|p2a: TREE?|Gholdengo|100/100
+|-item|p2a: TREE?|Air Balloon
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|
+|upkeep
+|turn|8
+|
+|t:|1781097477
+|-terastallize|p1a: Hawlucha|Electric
+|move|p1a: Hawlucha|Acrobatics|p2a: TREE?
+|-resisted|p2a: TREE?
+|-damage|p2a: TREE?|44/100
+|-enditem|p2a: TREE?|Air Balloon
+|move|p2a: TREE?|Make It Rain|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|52/100
+|-unboost|p2a: TREE?|spa|1
+|
+|upkeep
+|turn|9
+|
+|t:|1781097485
+|switch|p2a: DELI|Raging Bolt|100/100
+|move|p1a: Hawlucha|Acrobatics|p2a: DELI
+|-resisted|p2a: DELI
+|-damage|p2a: DELI|55/100
+|
+|upkeep
+|turn|10
+|inactive|Kochu_shak ㋛ has 120 seconds left.
+|
+|t:|1781097498
+|-terastallize|p2a: DELI|Ghost
+|move|p1a: Hawlucha|Close Combat|p2a: DELI
+|-immune|p2a: DELI
+|move|p2a: DELI|Dragon Pulse|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|upkeep
+|
+|t:|1781097508
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|turn|11
+|
+|t:|1781097511
+|move|p2a: DELI|Thunderbolt|p1a: Cresselia
+|-damage|p1a: Cresselia|57/100
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|12
+|
+|t:|1781097515
+|move|p2a: DELI|Calm Mind|p2a: DELI
+|-boost|p2a: DELI|spa|1
+|-boost|p2a: DELI|spd|1
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|100/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781097518
+|move|p2a: DELI|Calm Mind|p2a: DELI
+|-boost|p2a: DELI|spa|1
+|-boost|p2a: DELI|spd|1
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1781097522
+|move|p2a: DELI|Calm Mind|p2a: DELI
+|-boost|p2a: DELI|spa|1
+|-boost|p2a: DELI|spd|1
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1781097525
+|move|p2a: DELI|Thunderbolt|p1a: Cresselia
+|-damage|p1a: Cresselia|64/100
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781097529
+|move|p2a: DELI|Thunderbolt|p1a: Cresselia
+|-damage|p1a: Cresselia|35/100
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|85/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781097531
+|move|p2a: DELI|Thunderbolt|p1a: Cresselia
+|-damage|p1a: Cresselia|57/100
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|18
+|
+|t:|1781097536
+|move|p2a: DELI|Thunderbolt|p1a: Cresselia
+|-damage|p1a: Cresselia|33/100
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|83/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781097541
+|move|p2a: DELI|Thunderbolt|p1a: Cresselia
+|-damage|p1a: Cresselia|59/100
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|20
+|
+|t:|1781097544
+|move|p2a: DELI|Thunderbolt|p1a: Cresselia
+|-damage|p1a: Cresselia|35/100
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|85/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781097548
+|move|p2a: DELI|Thunderbolt|p1a: Cresselia
+|-damage|p1a: Cresselia|61/100
+|move|p1a: Cresselia|Stored Power|p2a: DELI
+|-damage|p2a: DELI|0 fnt
+|faint|p2a: DELI
+|-end|p2a: DELI|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781097551
+|switch|p2a: SUPA|Kingambit, F|100/100
+|-activate|p2a: SUPA|ability: Supreme Overlord
+|-start|p2a: SUPA|fallen3|[silent]
+|-item|p2a: SUPA|Air Balloon
+|turn|22
+|
+|t:|1781097554
+|move|p2a: SUPA|Kowtow Cleave|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|0 fnt
+|faint|p1a: Cresselia
+|
+|upkeep
+|
+|t:|1781097571
+|switch|p1a: Raikou|Raikou|100/100
+|-activate|p1a: Raikou|move: Sticky Web
+|-unboost|p1a: Raikou|spe|1
+|-ability|p1a: Raikou|Pressure
+|turn|23
+|j| RaynningOutside
+|inactive|Kochu_shak ㋛ has 120 seconds left.
+|
+|t:|1781097609
+|-end|p2a: SUPA|fallen3|[silent]
+|switch|p2a: TREE?|Gholdengo|44/100
+|move|p1a: Raikou|Aura Sphere|p2a: TREE?
+|-immune|p2a: TREE?
+|
+|upkeep
+|turn|24
+|inactive|Kochu_shak ㋛ has 120 seconds left.
+|
+|t:|1781097614
+|move|p2a: TREE?|Shadow Ball|p1a: Raikou
+|-damage|p1a: Raikou|58/100
+|move|p1a: Raikou|Thunderbolt|p2a: TREE?
+|-damage|p2a: TREE?|0 fnt
+|faint|p2a: TREE?
+|
+|upkeep
+|
+|t:|1781097617
+|switch|p2a: QUZZ|Iron Valiant|100/100
+|-enditem|p2a: QUZZ|Booster Energy
+|-activate|p2a: QUZZ|ability: Quark Drive|[fromitem]
+|-start|p2a: QUZZ|quarkdrivespa
+|turn|25
+|
+|t:|1781097621
+|move|p2a: QUZZ|Moonblast|p1a: Raikou
+|-damage|p1a: Raikou|0 fnt
+|faint|p1a: Raikou
+|
+|upkeep
+|
+|t:|1781097623
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-activate|p1a: Iron Valiant|move: Sticky Web
+|-unboost|p1a: Iron Valiant|spe|1
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespa
+|turn|26
+|
+|t:|1781097638
+|move|p2a: QUZZ|Moonblast|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|win|Kochu_shak ㋛
+|raw|electricdingdong's rating: 1660 &rarr; <strong>1643</strong><br />(-17 for losing)
+|raw|Kochu_shak ㋛'s rating: 1715 &rarr; <strong>1732</strong><br />(+17 for winning)
+|l| choispecs ironmoth
+|l| RaynningOutside
+|l|☆electricdingdong
+|player|p1|

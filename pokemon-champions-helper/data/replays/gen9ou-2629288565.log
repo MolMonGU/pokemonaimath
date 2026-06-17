@@ -1,0 +1,319 @@
+|j|☆The median voter
+|j|☆KurisuChestnutOU
+|t:|1781115853
+|gametype|singles
+|player|p1|The median voter|scientist-gen4dp|1538
+|player|p2|KurisuChestnutOU|2|1517
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Great Tusk|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Alomomola, F|
+|poke|p1|Scizor, M|
+|poke|p1|Iron Valiant|
+|poke|p2|Hawlucha, F|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Gholdengo|
+|poke|p2|Kyurem|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|
+|t:|1781115858
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Preacher|Zapdos|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutOU)
+|
+|t:|1781115861
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Preacher|Hurricane|p2a: Kyurem
+|-damage|p2a: Kyurem|73/100
+|
+|-heal|p2a: Kyurem|80/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781115866
+|switch|p1a: The End of All|Hoopa-Unbound|100/100
+|move|p2a: Kyurem|Ice Beam|p1a: The End of All
+|-damage|p1a: The End of All|77/100
+|
+|-heal|p2a: Kyurem|86/100|[from] Grassy Terrain
+|-heal|p1a: The End of All|83/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781115869
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|move|p1a: The End of All|Psychic Noise|p2a: Samurott
+|-immune|p2a: Samurott
+|
+|-heal|p1a: The End of All|89/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781115875
+|switch|p1a: Preacher|Zapdos|100/100
+|move|p2a: Samurott|Ceaseless Edge|p1a: Preacher
+|-damage|p1a: Preacher|70/100
+|-sidestart|p1: The median voter|Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1781115891
+|switch|p2a: Kyurem|Kyurem|86/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Preacher|Discharge|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|74/100
+|
+|-heal|p2a: Kyurem|81/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781115896
+|switch|p1a: The End of All|Hoopa-Unbound|89/100
+|-damage|p1a: The End of All|77/100|[from] Spikes
+|move|p2a: Kyurem|Ice Beam|p1a: The End of All
+|-damage|p1a: The End of All|54/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781115901
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: The End of All|atk|1
+|move|p1a: The End of All|Drain Punch|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|92/100
+|-heal|p1a: The End of All|59/100|[from] drain|[of] p2a: Landorus
+|-damage|p1a: The End of All|42/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|
+|upkeep
+|turn|8
+|
+|t:|1781115907
+|switch|p1a: Preacher|Zapdos|70/100
+|move|p2a: Landorus|Stealth Rock|p1a: Preacher
+|-sidestart|p1: The median voter|move: Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1781115912
+|switch|p2a: Kyurem|Kyurem|81/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Preacher|Hurricane|p2a: Kyurem
+|-damage|p2a: Kyurem|53/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781115917
+|switch|p1a: Experiment|Scizor, M|100/100
+|-damage|p1a: Experiment|88/100|[from] Spikes
+|-damage|p1a: Experiment|76/100|[from] Stealth Rock
+|move|p2a: Kyurem|Ice Beam|p1a: Experiment
+|-resisted|p1a: Experiment
+|-damage|p1a: Experiment|49/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781115923
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Experiment|U-turn|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|85/100
+|
+|t:|1781115928
+|switch|p1a: Holy Envoy|Alomomola, F|100/100|[from] U-turn
+|-damage|p1a: Holy Envoy|88/100|[from] Spikes
+|-damage|p1a: Holy Envoy|76/100|[from] Stealth Rock
+|
+|upkeep
+|turn|12
+|
+|t:|1781115932
+|move|p2a: Gholdengo|Shadow Ball|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|54/100
+|-unboost|p1a: Holy Envoy|spd|1
+|move|p1a: Holy Envoy|Flip Turn|p2a: Gholdengo
+|-crit|p2a: Gholdengo
+|-damage|p2a: Gholdengo|58/100
+|
+|t:|1781115938
+|switch|p1a: Templar|Great Tusk|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|13
+|
+|t:|1781115945
+|-end|p1a: Templar|Protosynthesis|[silent]
+|switch|p1a: Holy Envoy|Alomomola, F|88/100
+|-damage|p1a: Holy Envoy|75/100|[from] Spikes
+|-damage|p1a: Holy Envoy|63/100|[from] Stealth Rock
+|move|p2a: Gholdengo|Shadow Ball|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|44/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781115953
+|move|p2a: Gholdengo|Shadow Ball|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|23/100
+|move|p1a: Holy Envoy|Flip Turn|p2a: Gholdengo
+|-damage|p2a: Gholdengo|39/100
+|
+|t:|1781115965
+|switch|p1a: Preacher|Zapdos|70/100|[from] Flip Turn
+|
+|upkeep
+|turn|15
+|
+|t:|1781115968
+|move|p2a: Gholdengo|Shadow Ball|p1a: Preacher
+|-damage|p1a: Preacher|29/100
+|-unboost|p1a: Preacher|spd|1
+|move|p1a: Preacher|Discharge|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781115972
+|switch|p2a: Kyurem|Kyurem|53/100
+|-ability|p2a: Kyurem|Pressure
+|turn|16
+|
+|t:|1781115980
+|switch|p1a: The End of All|Hoopa-Unbound|42/100
+|-damage|p1a: The End of All|30/100|[from] Spikes
+|-damage|p1a: The End of All|18/100|[from] Stealth Rock
+|move|p2a: Kyurem|Ice Beam|p1a: The End of All
+|-damage|p1a: The End of All|0 fnt
+|faint|p1a: The End of All
+|
+|upkeep
+|
+|t:|1781115982
+|switch|p1a: Experiment|Scizor, M|49/100
+|-damage|p1a: Experiment|37/100|[from] Spikes
+|-damage|p1a: Experiment|25/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1781115989
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|move|p1a: Experiment|Bullet Punch|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|74/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781115994
+|switch|p1a: Preacher|Zapdos|29/100
+|move|p2a: Samurott|Flip Turn|p1a: Preacher
+|-damage|p1a: Preacher|11/100
+|
+|t:|1781116000
+|switch|p2a: Kyurem|Kyurem|53/100|[from] Flip Turn
+|-ability|p2a: Kyurem|Pressure
+|
+|upkeep
+|turn|19
+|
+|t:|1781116003
+|move|p2a: Kyurem|Freeze-Dry|p1a: Preacher
+|-supereffective|p1a: Preacher
+|-damage|p1a: Preacher|0 fnt
+|faint|p1a: Preacher
+|
+|upkeep
+|
+|t:|1781116011
+|switch|p1a: Templar|Great Tusk|100/100
+|turn|20
+|
+|t:|1781116014
+|-terastallize|p1a: Templar|Steel
+|move|p2a: Kyurem|Ice Beam|p1a: Templar
+|-resisted|p1a: Templar
+|-damage|p1a: Templar|66/100
+|move|p1a: Templar|Rapid Spin|p2a: Kyurem
+|-damage|p2a: Kyurem|36/100
+|-boost|p1a: Templar|spe|1
+|-sideend|p1: The median voter|Spikes|[from] move: Rapid Spin|[of] p1a: Templar
+|-sideend|p1: The median voter|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Templar
+|
+|upkeep
+|turn|21
+|
+|t:|1781116020
+|move|p1a: Templar|Stealth Rock|p2a: Kyurem
+|-sidestart|p2: KurisuChestnutOU|move: Stealth Rock
+|move|p2a: Kyurem|Earth Power|p1a: Templar
+|-supereffective|p1a: Templar
+|-damage|p1a: Templar|0 fnt
+|faint|p1a: Templar
+|-end|p1a: Templar|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781116023
+|switch|p1a: Experiment|Scizor, M|25/100
+|turn|22
+|
+|t:|1781116027
+|move|p1a: Experiment|Bullet Punch|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781116034
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-damage|p2a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|23
+|
+|t:|1781116041
+|-terastallize|p2a: Rillaboom|Fire
+|move|p1a: Experiment|Bullet Punch|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|62/100
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|
+|-heal|p2a: Rillaboom|68/100|[from] Grassy Terrain
+|-heal|p1a: Experiment|31/100|[from] Grassy Terrain
+|upkeep
+|turn|24
+|-message|The median voter forfeited.
+|
+|win|KurisuChestnutOU
+|raw|The median voter's rating: 1538 &rarr; <strong>1517</strong><br />(-21 for losing)
+|raw|KurisuChestnutOU's rating: 1517 &rarr; <strong>1538</strong><br />(+21 for winning)
+|l|☆The median voter
+|player|p1|

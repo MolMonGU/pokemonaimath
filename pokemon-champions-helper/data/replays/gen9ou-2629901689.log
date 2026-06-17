@@ -1,0 +1,296 @@
+|j|☆kemious
+|j|☆anamchara
+|t:|1781191351
+|gametype|singles
+|player|p1|kemious|2|1495
+|player|p2|anamchara|169|1622
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Chesnaught, M|
+|poke|p1|Gastrodon, F|
+|poke|p1|Kilowattrel, M|
+|poke|p1|Glimmora, F|
+|poke|p1|Ceruledge, M|
+|poke|p1|Goodra-Hisui, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Meowscarada, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Glimmora, M|
+|poke|p2|Dragapult, M|
+|teampreview
+|
+|t:|1781191381
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Goodra|Goodra-Hisui, F|100/100
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|turn|1
+|
+|t:|1781191390
+|switch|p1a: Chesnaught|Chesnaught, M|100/100
+|move|p2a: Meowscarada|U-turn|p1a: Chesnaught
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p1a: Chesnaught|81/100
+|
+|t:|1781191396
+|switch|p2a: Dragapult|Dragapult, M|100/100|[from] U-turn
+|
+|-heal|p1a: Chesnaught|87/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781191402
+|switch|p1a: Goodra|Goodra-Hisui, F|100/100
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Goodra|[miss]
+|-miss|p2a: Dragapult|p1a: Goodra
+|
+|upkeep
+|turn|3
+|
+|t:|1781191411
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Goodra
+|-status|p1a: Goodra|brn
+|move|p1a: Goodra|Ice Beam|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|25/100
+|
+|-damage|p1a: Goodra|95/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1781191428
+|-terastallize|p2a: Dragapult|Ghost
+|move|p2a: Dragapult|Hex|p1a: Goodra
+|-damage|p1a: Goodra|57/100 brn
+|-damage|p2a: Dragapult|16/100|[from] item: Life Orb
+|move|p1a: Goodra|Knock Off|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|-enditem|p2a: Dragapult|Life Orb|[from] move: Knock Off|[of] p1a: Goodra
+|faint|p2a: Dragapult
+|
+|-damage|p1a: Goodra|51/100 brn|[from] brn
+|upkeep
+|
+|t:|1781191437
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|turn|5
+|
+|t:|1781191441
+|move|p2a: Glimmora|Earth Power|p1a: Goodra
+|-supereffective|p1a: Goodra
+|-damage|p1a: Goodra|19/100 brn
+|-damage|p2a: Glimmora|91/100|[from] item: Life Orb
+|move|p1a: Goodra|Flash Cannon|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|
+|-damage|p1a: Goodra|13/100 brn|[from] brn
+|upkeep
+|
+|t:|1781191448
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|6
+|
+|t:|1781191452
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Goodra|[anim] Ivy Cudgel Water
+|-resisted|p1a: Goodra
+|-damage|p1a: Goodra|0 fnt
+|faint|p1a: Goodra
+|
+|upkeep
+|
+|t:|1781191456
+|switch|p1a: Kilowattrel|Kilowattrel, M, shiny|100/100
+|turn|7
+|
+|t:|1781191463
+|move|p1a: Kilowattrel|Volt Switch|p2a: Ogerpon
+|-damage|p2a: Ogerpon|65/100
+|
+|t:|1781191468
+|switch|p1a: Chesnaught|Chesnaught, M|87/100|[from] Volt Switch
+|move|p2a: Ogerpon|Trailblaze|p1a: Chesnaught
+|-resisted|p1a: Chesnaught
+|-damage|p1a: Chesnaught|78/100
+|-boost|p2a: Ogerpon|spe|1
+|
+|-heal|p1a: Chesnaught|84/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781191476
+|move|p2a: Ogerpon|Play Rough|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|36/100
+|move|p1a: Chesnaught|Body Press|p2a: Ogerpon
+|-damage|p2a: Ogerpon|10/100
+|
+|-heal|p1a: Chesnaught|42/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781191481
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Chesnaught|Body Press|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|90/100
+|
+|-heal|p1a: Chesnaught|48/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781191487
+|switch|p1a: Gastrodon|Gastrodon, F|100/100
+|move|p2a: Slowking|Psychic Noise|p1a: Gastrodon
+|-damage|p1a: Gastrodon|74/100
+|-start|p1a: Gastrodon|move: Heal Block
+|
+|upkeep
+|turn|11
+|
+|t:|1781191493
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|10/100
+|move|p1a: Gastrodon|Spikes|p2a: Ogerpon
+|-sidestart|p2: anamchara|Spikes
+|
+|-end|p1a: Gastrodon|move: Heal Block
+|upkeep
+|turn|12
+|
+|t:|1781191504
+|switch|p1a: Chesnaught|Chesnaught, M|48/100
+|move|p2a: Ogerpon|Trailblaze|p1a: Chesnaught
+|-resisted|p1a: Chesnaught
+|-damage|p1a: Chesnaught|37/100
+|-boost|p2a: Ogerpon|spe|1
+|
+|-heal|p1a: Chesnaught|43/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781191508
+|move|p2a: Ogerpon|Play Rough|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|0 fnt
+|faint|p1a: Chesnaught
+|
+|upkeep
+|
+|t:|1781191511
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|turn|14
+|
+|t:|1781191523
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781191524
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|-damage|p2a: Meowscarada|88/100|[from] Spikes
+|turn|15
+|
+|t:|1781191537
+|-terastallize|p1a: Ceruledge|Grass
+|move|p2a: Meowscarada|Knock Off|p1a: Ceruledge
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p1a: Ceruledge|52/100
+|-enditem|p1a: Ceruledge|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Meowscarada
+|move|p1a: Ceruledge|Bitter Blade|p2a: Meowscarada
+|-damage|p2a: Meowscarada|15/100
+|-heal|p1a: Ceruledge|90/100|[from] drain|[of] p2a: Meowscarada
+|
+|upkeep
+|turn|16
+|
+|t:|1781191547
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Meowscarada
+|-resisted|p2a: Meowscarada
+|-damage|p2a: Meowscarada|0 fnt
+|faint|p2a: Meowscarada
+|
+|upkeep
+|
+|t:|1781191548
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-damage|p2a: Iron Valiant|88/100|[from] Spikes
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|17
+|
+|t:|1781191555
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|move|p1a: Ceruledge|Bitter Blade|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|22/100
+|-heal|p1a: Ceruledge|100/100|[from] drain|[of] p2a: Iron Valiant
+|
+|upkeep
+|turn|18
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by anamchara)
+|
+|t:|1781191559
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|move|p2a: Iron Valiant|Close Combat|p1a: Glimmora
+|-damage|p1a: Glimmora|8/100
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: anamchara|move: Toxic Spikes
+|-enditem|p1a: Glimmora|Red Card|[of] p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|drag|p2a: Slowking|Slowking-Galar, M|100/100
+|-damage|p2a: Slowking|88/100|[from] Spikes
+|-sideend|p2: anamchara|move: Toxic Spikes|[of] p2a: Slowking
+|
+|upkeep
+|turn|19
+|
+|t:|1781191563
+|move|p1a: Glimmora|Stealth Rock|p2a: Slowking
+|-sidestart|p2: anamchara|move: Stealth Rock
+|move|p2a: Slowking|Psychic Noise|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1781191566
+|switch|p1a: Ceruledge|Ceruledge, M, tera:Grass|100/100
+|turn|20
+|
+|t:|1781191572
+|move|p1a: Ceruledge|Poltergeist|p2a: Slowking
+|-activate|p2a: Slowking|move: Poltergeist|Assault Vest
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|-message|anamchara forfeited.
+|
+|win|kemious
+|raw|kemious's rating: 1495 &rarr; <strong>1522</strong><br />(+27 for winning)
+|raw|anamchara's rating: 1617 &rarr; <strong>1590</strong><br />(-27 for losing)
+|l|☆anamchara
+|player|p2|
+|l|☆kemious
+|player|p1|

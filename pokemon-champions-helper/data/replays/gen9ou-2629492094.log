@@ -1,0 +1,351 @@
+|j|☆Nick Suzuki
+|j|☆KurisuChestnutOU
+|t:|1781137556
+|gametype|singles
+|player|p1|Nick Suzuki|skier|1588
+|player|p2|KurisuChestnutOU|may-contest|1582
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pecharunt|
+|poke|p1|Ting-Lu|
+|poke|p1|Iron Valiant|
+|poke|p1|Kingambit, M|
+|poke|p1|Dragonite, M|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p2|Hawlucha, F|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Gholdengo|
+|poke|p2|Kyurem|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutOU)
+|
+|t:|1781137588
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|1
+|
+|t:|1781137592
+|-terastallize|p2a: Kyurem|Poison
+|move|p1a: Iron Valiant|Close Combat|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|68/100
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|move|p2a: Kyurem|Ice Beam|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781137621
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|2
+|
+|t:|1781137626
+|move|p2a: Kyurem|Ice Beam|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|62/100
+|-enditem|p1a: Ting-Lu|Red Card|[of] p2a: Kyurem
+|drag|p2a: Hawlucha|Hawlucha, F|100/100
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Hawlucha
+|-sidestart|p2: KurisuChestnutOU|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781137633
+|switch|p2a: Kyurem|Kyurem, tera:Poison|68/100
+|-damage|p2a: Kyurem|56/100|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Ting-Lu|Ruination|p2a: Kyurem|[miss]
+|-miss|p1a: Ting-Lu|p2a: Kyurem
+|
+|upkeep
+|turn|4
+|
+|t:|1781137638
+|move|p2a: Kyurem|Ice Beam|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|22/100
+|move|p1a: Ting-Lu|Earthquake|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781137642
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|-damage|p2a: Samurott|88/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1781137650
+|move|p2a: Samurott|Ceaseless Edge|p1a: Ting-Lu|[miss]
+|-miss|p2a: Samurott|p1a: Ting-Lu
+|move|p1a: Ting-Lu|Ruination|p2a: Samurott
+|-damage|p2a: Samurott|44/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781137655
+|move|p2a: Samurott|Flip Turn|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|t:|1781137658
+|switch|p2a: Gholdengo|Gholdengo|100/100|[from] Flip Turn
+|-damage|p2a: Gholdengo|94/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1781137671
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|turn|7
+|
+|t:|1781137677
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Gholdengo|Make It Rain|p1a: Ogerpon
+|-resisted|p1a: Ogerpon
+|-damage|p1a: Ogerpon|60/100
+|-unboost|p2a: Gholdengo|spa|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781137685
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-damage|p2a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Rillaboom|[anim] Ivy Cudgel Water
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|58/100
+|
+|-heal|p1a: Ogerpon|66/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|64/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781137691
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Rillaboom|Grassy Glide|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-damage|p1a: Pecharunt|87/100
+|
+|-heal|p1a: Pecharunt|93/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|70/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1781137700
+|switch|p2a: Gholdengo|Gholdengo|94/100
+|-damage|p2a: Gholdengo|88/100|[from] Stealth Rock
+|move|p1a: Pecharunt|Nasty Plot|p1a: Pecharunt
+|-boost|p1a: Pecharunt|spa|2
+|
+|-heal|p2a: Gholdengo|94/100|[from] Grassy Terrain
+|-heal|p1a: Pecharunt|99/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781137704
+|move|p2a: Gholdengo|Make It Rain|p1a: Pecharunt
+|-crit|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|-unboost|p2a: Gholdengo|spa|1
+|faint|p1a: Pecharunt
+|
+|-heal|p2a: Gholdengo|100/100|[from] Grassy Terrain
+|upkeep
+|inactive|Nick Suzuki has 120 seconds left.
+|
+|t:|1781137741
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|12
+|
+|t:|1781137746
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|-damage|p2a: Hawlucha|88/100|[from] Stealth Rock
+|-enditem|p2a: Hawlucha|Grassy Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Grassy Seed
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781137758
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|move|p2a: Hawlucha|Acrobatics|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|81/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781137778
+|move|p2a: Hawlucha|Acrobatics|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|62/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Hawlucha
+|-resisted|p2a: Hawlucha
+|-damage|p2a: Hawlucha|61/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781137791
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|
+|upkeep
+|turn|16
+|
+|t:|1781137798
+|move|p1a: Kingambit|Sucker Punch|p2a: Hawlucha
+|-resisted|p2a: Hawlucha
+|-damage|p2a: Hawlucha|40/100
+|move|p2a: Hawlucha|Low Kick|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1781137809
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|17
+|
+|t:|1781137815
+|-terastallize|p1a: Dragonite|Normal
+|move|p1a: Dragonite|Extreme Speed|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|upkeep
+|
+|t:|1781137819
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Dragonite|atk|1
+|turn|18
+|
+|t:|1781137825
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|66/100
+|move|p2a: Landorus|U-turn|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|14/100
+|
+|t:|1781137828
+|switch|p2a: Rillaboom|Rillaboom, F|70/100|[from] U-turn
+|-damage|p2a: Rillaboom|58/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|
+|-heal|p1a: Ogerpon|20/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|64/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1781137834
+|move|p2a: Rillaboom|Grassy Glide|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|-heal|p2a: Rillaboom|70/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781137836
+|switch|p1a: Dragonite|Dragonite, M, tera:Normal|100/100
+|turn|20
+|
+|t:|1781137839
+|move|p2a: Rillaboom|Wood Hammer|p1a: Dragonite
+|-damage|p1a: Dragonite|59/100
+|-damage|p2a: Rillaboom|57/100|[from] Recoil
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-heal|p1a: Dragonite|65/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|63/100|[from] Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1781137856
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|94/100|[from] Stealth Rock
+|move|p1a: Dragonite|Extreme Speed|p2a: Gholdengo
+|-immune|p2a: Gholdengo
+|
+|-heal|p2a: Gholdengo|100/100|[from] Grassy Terrain
+|-heal|p1a: Dragonite|71/100|[from] Grassy Terrain
+|upkeep
+|turn|22
+|
+|t:|1781137872
+|move|p2a: Gholdengo|Make It Rain|p1a: Dragonite
+|-damage|p1a: Dragonite|8/100
+|-unboost|p2a: Gholdengo|spa|1
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-heal|p1a: Dragonite|14/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|23
+|
+|t:|1781137878
+|move|p1a: Dragonite|Earthquake|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781137880
+|switch|p2a: Landorus|Landorus-Therian, M|88/100
+|-damage|p2a: Landorus|76/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Dragonite|atk|1
+|turn|24
+|-message|Nick Suzuki forfeited.
+|
+|win|KurisuChestnutOU
+|raw|Nick Suzuki's rating: 1588 &rarr; <strong>1567</strong><br />(-21 for losing)
+|raw|KurisuChestnutOU's rating: 1579 &rarr; <strong>1600</strong><br />(+21 for winning)
+|l|☆Nick Suzuki
+|player|p1|

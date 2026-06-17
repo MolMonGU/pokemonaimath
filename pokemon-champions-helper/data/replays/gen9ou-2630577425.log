@@ -1,0 +1,274 @@
+|j|☆erhai
+|j|☆anamchara
+|t:|1781274329
+|gametype|singles
+|player|p1|erhai|2|1592
+|player|p2|anamchara|1|1551
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Jugulis|
+|poke|p1|Ogerpon, F|
+|poke|p1|Scizor, F|
+|poke|p1|Latios, M|
+|poke|p1|Manaphy|
+|poke|p1|Sandy Shocks|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Meowscarada, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Glimmora, M|
+|poke|p2|Dragapult, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by erhai)
+|
+|t:|1781274358
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Latios|Latios, M, shiny|100/100
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|turn|1
+|
+|t:|1781274363
+|move|p2a: Meowscarada|U-turn|p1a: Latios
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|42/100
+|-enditem|p1a: Latios|Weakness Policy
+|-boost|p1a: Latios|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Latios|spa|2|[from] item: Weakness Policy
+|
+|t:|1781274369
+|switch|p2a: Slowking|Slowking-Galar, F|100/100|[from] U-turn
+|move|p1a: Latios|Agility|p1a: Latios
+|-boost|p1a: Latios|spe|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781274375
+|move|p1a: Latios|Calm Mind|p1a: Latios
+|-boost|p1a: Latios|spa|1
+|-boost|p1a: Latios|spd|1
+|move|p2a: Slowking|Ice Beam|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|12/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781274383
+|move|p1a: Latios|Stored Power|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781274386
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|4
+|
+|t:|1781274390
+|-terastallize|p2a: Iron Valiant|Dark
+|move|p1a: Latios|Stored Power|p2a: Iron Valiant
+|-immune|p2a: Iron Valiant
+|move|p2a: Iron Valiant|Knock Off|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|0 fnt
+|faint|p1a: Latios
+|
+|upkeep
+|
+|t:|1781274394
+|switch|p1a: Scizor|Scizor, F, shiny|100/100
+|turn|5
+|
+|t:|1781274403
+|move|p2a: Iron Valiant|Knock Off|p1a: Scizor
+|-damage|p1a: Scizor|48/100
+|-enditem|p1a: Scizor|Metal Coat|[from] move: Knock Off|[of] p2a: Iron Valiant
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|upkeep
+|turn|6
+|
+|t:|1781274406
+|move|p1a: Scizor|Bullet Punch|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|19/100
+|move|p2a: Iron Valiant|Close Combat|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1781274413
+|switch|p1a: Manaphy|Manaphy, shiny|100/100
+|turn|7
+|
+|t:|1781274422
+|move|p2a: Iron Valiant|Knock Off|p1a: Manaphy
+|-damage|p1a: Manaphy|47/100
+|-enditem|p1a: Manaphy|Rindo Berry|[from] move: Knock Off|[of] p2a: Iron Valiant
+|move|p1a: Manaphy|Ice Beam|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781274425
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|8
+|
+|t:|1781274429
+|move|p1a: Manaphy|Ice Beam|p2a: Ogerpon
+|-damage|p2a: Ogerpon|72/100
+|move|p2a: Ogerpon|Trailblaze|p1a: Manaphy
+|-supereffective|p1a: Manaphy
+|-damage|p1a: Manaphy|0 fnt
+|-boost|p2a: Ogerpon|spe|1
+|faint|p1a: Manaphy
+|
+|upkeep
+|
+|t:|1781274434
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|9
+|
+|t:|1781274436
+|move|p1a: Iron Jugulis|Hurricane|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781274438
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|turn|10
+|
+|t:|1781274442
+|-terastallize|p1a: Iron Jugulis|Ground
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Glimmora
+|-damage|p2a: Glimmora|52/100
+|move|p2a: Glimmora|Energy Ball|p1a: Iron Jugulis
+|-supereffective|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|7/100
+|-damage|p2a: Glimmora|42/100|[from] item: Life Orb
+|
+|upkeep
+|turn|11
+|
+|t:|1781274452
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Meowscarada
+|-resisted|p2a: Meowscarada
+|-damage|p2a: Meowscarada|70/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781274456
+|move|p2a: Meowscarada|U-turn|p1a: Iron Jugulis
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|t:|1781274458
+|switch|p2a: Dragapult|Dragapult, M|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781274462
+|switch|p1a: Sandy Shocks|Sandy Shocks|100/100
+|-enditem|p1a: Sandy Shocks|Booster Energy
+|-activate|p1a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p1a: Sandy Shocks|protosynthesisspe
+|turn|13
+|
+|t:|1781274468
+|move|p1a: Sandy Shocks|Earth Power|p2a: Dragapult
+|-damage|p2a: Dragapult|42/100
+|move|p2a: Dragapult|Dragon Darts|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|71/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|41/100
+|-damage|p2a: Dragapult|32/100|[from] item: Life Orb
+|
+|upkeep
+|turn|14
+|
+|t:|1781274474
+|move|p1a: Sandy Shocks|Discharge|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|6/100
+|-status|p2a: Dragapult|par
+|move|p2a: Dragapult|Dragon Darts|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|11/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|0 fnt
+|faint|p1a: Sandy Shocks
+|-end|p1a: Sandy Shocks|Protosynthesis|[silent]
+|-damage|p2a: Dragapult|0 fnt|[from] item: Life Orb
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1781274478
+|switch|p2a: Meowscarada|Meowscarada, M|70/100
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|turn|15
+|
+|t:|1781274484
+|move|p2a: Meowscarada|Triple Axel|p1a: Ogerpon
+|-start|p2a: Meowscarada|typechange|Ice|[from] ability: Protean
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|74/100
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|24/100
+|-hitcount|p1a: Ogerpon|2
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Meowscarada
+|-crit|p2a: Meowscarada
+|-damage|p2a: Meowscarada|0 fnt
+|faint|p2a: Meowscarada
+|
+|upkeep
+|
+|t:|1781274490
+|switch|p2a: Glimmora|Glimmora, M|42/100
+|turn|16
+|
+|t:|1781274495
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: erhai|move: Toxic Spikes
+|faint|p2a: Glimmora
+|
+|win|erhai
+|raw|erhai's rating: 1592 &rarr; <strong>1609</strong><br />(+17 for winning)
+|raw|anamchara's rating: 1540 &rarr; <strong>1523</strong><br />(-17 for losing)
+|l|☆anamchara
+|player|p2|
+|l|☆erhai
+|player|p1|

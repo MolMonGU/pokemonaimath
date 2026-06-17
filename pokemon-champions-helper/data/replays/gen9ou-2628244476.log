@@ -1,0 +1,260 @@
+|j|‽lt_alt1
+|j|☆Dragesh
+|t:|1780997678
+|gametype|singles
+|player|p1|lt_alt1|170|1674
+|player|p2|Dragesh|169|1564
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Garganacl, F|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Kyurem|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Moltres|
+|poke|p1|Iron Treads|
+|poke|p2|Araquanid, M|
+|poke|p2|Gallade, M|
+|poke|p2|Kingambit, F|
+|poke|p2|Great Tusk|
+|poke|p2|Iron Moth|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Dragesh)
+|
+|t:|1780997688
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Araquanid|Araquanid, M|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|
+|t:|1780997692
+|move|p1a: Kyurem|Freeze-Dry|p2a: Araquanid
+|-supereffective|p2a: Araquanid
+|-damage|p2a: Araquanid|35/100
+|move|p2a: Araquanid|Sticky Web|p1a: Kyurem
+|-sidestart|p1: lt_alt1|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1780997697
+|move|p2a: Araquanid|Endure|p2a: Araquanid
+|-singleturn|p2a: Araquanid|move: Endure
+|move|p1a: Kyurem|Freeze-Dry|p2a: Araquanid
+|-supereffective|p2a: Araquanid
+|-activate|p2a: Araquanid|move: Endure
+|-damage|p2a: Araquanid|1/100
+|
+|upkeep
+|turn|3
+|-enditem|p2a: Araquanid|Custap Berry|[eat]
+|-activate|p2a: Araquanid|item: Custap Berry|[consumed]
+|
+|t:|1780997708
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-activate|p1a: Iron Treads|move: Sticky Web
+|-unboost|p1a: Iron Treads|spe|1
+|move|p2a: Araquanid|Endeavor|p1a: Iron Treads
+|-damage|p1a: Iron Treads|1/100
+|
+|-heal|p1a: Iron Treads|7/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1780997714
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Iron Treads|Stealth Rock|p2a: Gholdengo
+|-sidestart|p2: Dragesh|move: Stealth Rock
+|
+|-heal|p1a: Iron Treads|13/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|j| lord shiddenfards
+|
+|t:|1780997719
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Gholdengo|Shadow Ball|p1a: Moltres
+|-damage|p1a: Moltres|61/100
+|
+|upkeep
+|turn|6
+|
+|t:|1780997726
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|move|p1a: Moltres|Flamethrower|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|8/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|
+|upkeep
+|turn|7
+|
+|t:|1780997742
+|switch|p1a: Iron Treads|Iron Treads|13/100
+|-activate|p1a: Iron Treads|move: Sticky Web
+|-unboost|p1a: Iron Treads|spe|1
+|move|p2a: Gholdengo|Shadow Ball|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780997749
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|-activate|p1a: Slowking|move: Sticky Web
+|-unboost|p1a: Slowking|spe|1
+|turn|8
+|
+|t:|1780997754
+|-terastallize|p1a: Slowking|Water
+|move|p2a: Gholdengo|Shadow Ball|p1a: Slowking
+|-damage|p1a: Slowking|48/100
+|-unboost|p1a: Slowking|spd|1
+|move|p1a: Slowking|Future Sight|p2a: Gholdengo
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|9
+|
+|t:|1780997763
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|-activate|p1a: Garganacl|move: Sticky Web
+|-unboost|p1a: Garganacl|spe|1
+|move|p2a: Gholdengo|Make It Rain|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-crit|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|-unboost|p2a: Gholdengo|spa|1
+|faint|p1a: Garganacl
+|
+|upkeep
+|
+|t:|1780997767
+|switch|p1a: Slowking|Slowking-Galar, F, tera:Water|82/100
+|-activate|p1a: Slowking|move: Sticky Web
+|-unboost|p1a: Slowking|spe|1
+|turn|10
+|
+|t:|1780997769
+|move|p2a: Gholdengo|Shadow Ball|p1a: Slowking
+|-damage|p1a: Slowking|43/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1780997776
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-activate|p1a: Kyurem|move: Sticky Web
+|-unboost|p1a: Kyurem|spe|1
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Gholdengo|move: Future Sight
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|upkeep
+|
+|t:|1780997782
+|switch|p2a: Gallade|Gallade, M|100/100
+|-damage|p2a: Gallade|94/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1780997789
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|-activate|p1a: Weezing|move: Sticky Web
+|-unboost|p1a: Weezing|spe|1
+|move|p2a: Gallade|Sacred Sword|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|92/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Weezing|98/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1780997807
+|move|p2a: Gallade|Swords Dance|p2a: Gallade
+|-boost|p2a: Gallade|atk|2
+|move|p1a: Weezing|Defog|p2a: Gallade
+|-unboost|p2a: Gallade|evasion|1
+|-sideend|p2: Dragesh|Stealth Rock|[from] move: Defog|[of] p1a: Weezing
+|-sideend|p1: lt_alt1|Sticky Web|[from] move: Defog|[of] p1a: Weezing
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Weezing|100/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1780997814
+|move|p2a: Gallade|Psycho Cut|p1a: Weezing
+|-supereffective|p1a: Weezing
+|-damage|p1a: Weezing|3/100
+|move|p1a: Weezing|Will-O-Wisp|p2a: Gallade
+|-status|p2a: Gallade|brn
+|-enditem|p2a: Gallade|Lum Berry|[eat]
+|-curestatus|p2a: Gallade|brn|[msg]
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Weezing|9/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1780997818
+|move|p2a: Gallade|Psycho Cut|p1a: Weezing
+|-supereffective|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|
+|-weather|none
+|upkeep
+|
+|t:|1780997820
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|15
+|
+|t:|1780997825
+|move|p1a: Kyurem|Scale Shot|p2a: Gallade
+|-damage|p2a: Gallade|76/100
+|-damage|p2a: Gallade|59/100
+|-damage|p2a: Gallade|42/100
+|-damage|p2a: Gallade|25/100
+|-hitcount|p2a: Gallade|4
+|-unboost|p1a: Kyurem|def|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Gallade|Sacred Sword|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|-message|lt_alt1 forfeited.
+|
+|win|Dragesh
+|raw|lt_alt1's rating: 1674 &rarr; <strong>1648</strong><br />(-26 for losing)
+|raw|Dragesh's rating: 1564 &rarr; <strong>1590</strong><br />(+26 for winning)
+|l|‽lt_alt1
+|player|p1|
+|l|☆Dragesh
+|player|p2|
+|l| lord shiddenfards

@@ -1,0 +1,412 @@
+|j|☆kennojex
+|j|☆Gupygak
+|t:|1781151761
+|gametype|singles
+|player|p1|kennojex|lucas|1606
+|player|p2|Gupygak|chuck|1562
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Garganacl, M|
+|poke|p1|Manaphy|
+|poke|p1|Latias, F|
+|poke|p1|Corviknight, F|
+|poke|p1|Iron Moth|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Gliscor, F|
+|poke|p2|Alomomola, M|
+|poke|p2|Quagsire, F|
+|poke|p2|Clefable, M|
+|poke|p2|Skarmory, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Gupygak)
+|inactive|kennojex has 120 seconds left.
+|
+|t:|1781151807
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|turn|1
+|
+|t:|1781151811
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Grimmsnarl|Parting Shot|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781151814
+|move|p1a: Grimmsnarl|Parting Shot|p2a: Gliscor
+|-unboost|p2a: Gliscor|atk|1
+|-unboost|p2a: Gliscor|spa|1
+|
+|t:|1781151827
+|switch|p1a: Corviknight|Corviknight, F, shiny|100/100|[from] Parting Shot
+|move|p2a: Gliscor|Knock Off|p1a: Corviknight
+|-damage|p1a: Corviknight|90/100
+|-enditem|p1a: Corviknight|Leftovers|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|upkeep
+|turn|3
+|
+|t:|1781151854
+|move|p2a: Gliscor|Spikes|p1a: Corviknight
+|-sidestart|p1: kennojex|Spikes
+|move|p1a: Corviknight|Agility|p1a: Corviknight
+|-boost|p1a: Corviknight|spe|2
+|
+|upkeep
+|turn|4
+|
+|t:|1781151884
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Corviknight|Bulk Up|p1a: Corviknight
+|-boost|p1a: Corviknight|atk|1
+|-boost|p1a: Corviknight|def|1
+|
+|upkeep
+|turn|5
+|
+|t:|1781151890
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-damage|p1a: Iron Moth|88/100|[from] Spikes
+|move|p2a: Weezing|Will-O-Wisp|p1a: Iron Moth
+|-immune|p1a: Iron Moth
+|
+|upkeep
+|turn|6
+|
+|t:|1781151898
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Gliscor|Gliscor, F|100/100 tox
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespa
+|move|p1a: Iron Moth|Fiery Dance|p2a: Gliscor
+|-damage|p2a: Gliscor|56/100 tox
+|
+|-heal|p2a: Gliscor|68/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|7
+|
+|t:|1781151903
+|move|p1a: Iron Moth|Fiery Dance|p2a: Gliscor
+|-damage|p2a: Gliscor|22/100 tox
+|-boost|p1a: Iron Moth|spa|1
+|move|p2a: Gliscor|Earthquake|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p2a: Gliscor|35/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781151912
+|switch|p1a: Manaphy|Manaphy|100/100
+|-damage|p1a: Manaphy|88/100|[from] Spikes
+|turn|8
+|
+|t:|1781151915
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Manaphy|Scald|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p1a: Manaphy|94/100|[from] item: Leftovers
+|-heal|p2a: Gliscor|47/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|9
+|
+|t:|1781151919
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Manaphy|Scald|p2a: Clefable
+|-damage|p2a: Clefable|81/100
+|
+|-heal|p1a: Manaphy|99/100|[from] item: Leftovers
+|-heal|p2a: Clefable|87/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781151928
+|switch|p1a: Garganacl|Garganacl, M|100/100
+|-damage|p1a: Garganacl|88/100|[from] Spikes
+|move|p2a: Clefable|Moonblast|p1a: Garganacl
+|-damage|p1a: Garganacl|68/100
+|-unboost|p1a: Garganacl|spa|1
+|
+|-heal|p2a: Clefable|93/100|[from] item: Leftovers
+|-heal|p1a: Garganacl|74/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781151934
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Garganacl|Salt Cure|p2a: Weezing
+|-damage|p2a: Weezing|91/100
+|-start|p2a: Weezing|Salt Cure
+|
+|-heal|p2a: Weezing|97/100|[from] item: Leftovers
+|-heal|p1a: Garganacl|80/100|[from] item: Leftovers
+|-damage|p2a: Weezing|84/100|[from] Salt Cure
+|upkeep
+|turn|12
+|
+|t:|1781151946
+|switch|p1a: Manaphy|Manaphy|99/100
+|-damage|p1a: Manaphy|88/100|[from] Spikes
+|move|p2a: Weezing|Toxic Spikes|p1a: Manaphy
+|-sidestart|p1: kennojex|move: Toxic Spikes
+|
+|-heal|p1a: Manaphy|94/100|[from] item: Leftovers
+|-heal|p2a: Weezing|90/100|[from] item: Leftovers
+|-damage|p2a: Weezing|78/100|[from] Salt Cure
+|upkeep
+|turn|13
+|
+|t:|1781151954
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Manaphy|Take Heart|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|1
+|-boost|p1a: Manaphy|spd|1
+|
+|-heal|p1a: Manaphy|99/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781151961
+|move|p1a: Manaphy|Take Heart|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|1
+|-boost|p1a: Manaphy|spd|1
+|move|p2a: Alomomola|Flip Turn|p1a: Manaphy
+|-resisted|p1a: Manaphy
+|-damage|p1a: Manaphy|94/100
+|
+|t:|1781151965
+|switch|p2a: Clefable|Clefable, M|93/100|[from] Flip Turn
+|
+|-heal|p1a: Manaphy|99/100|[from] item: Leftovers
+|-heal|p2a: Clefable|99/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781151975
+|switch|p1a: Corviknight|Corviknight, F, shiny|90/100
+|move|p2a: Clefable|Moonblast|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|79/100
+|
+|-heal|p2a: Clefable|100/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|c|☆Gupygak|!dt Take Heart
+|c|☆Gupygak|/raw <ul class="utilichart"><li class="result"><span class="col movenamecol"><a href="https://dex.pokemonshowdown.com/moves/takeheart">Take Heart</a></span> <span class="col typecol"><img src="//play.pokemonshowdown.com/sprites/types/Psychic.png" alt="Psychic" width="32" height="14"><img src="//play.pokemonshowdown.com/sprites/categories/Status.png" alt="Status" width="32" height="14"></span> <span class="col widelabelcol"><em>Accuracy</em><br>—</span> <span class="col pplabelcol"><em>PP</em><br>24</span> <span class="col movedesccol">Cures user's status, raises Sp. Atk, Sp. Def by 1.</span> </li><li style="clear:both"></li></ul>
+|c|☆Gupygak|/raw <font size="1"><font color="#686868">Priority:</font> 0&nbsp;|&ThickSpace;<font color="#686868">Gen:</font> 9&nbsp;|&ThickSpace;<font color="#686868">Z-Effect:</font> None&nbsp;|&ThickSpace;<font color="#686868">Target:</font> User</font>
+
+|
+|t:|1781151989
+|switch|p2a: Weezing|Weezing-Galar, F|78/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Corviknight|Agility|p1a: Corviknight
+|-boost|p1a: Corviknight|spe|2
+|
+|-heal|p2a: Weezing|84/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781151992
+|switch|p1a: Garganacl|Garganacl, M|80/100
+|-damage|p1a: Garganacl|68/100|[from] Spikes
+|-status|p1a: Garganacl|psn
+|move|p2a: Weezing|Will-O-Wisp||[still]
+|-fail|p2a: Weezing
+|
+|-heal|p2a: Weezing|90/100|[from] item: Leftovers
+|-heal|p1a: Garganacl|74/100 psn|[from] item: Leftovers
+|-damage|p1a: Garganacl|62/100 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1781152007
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Garganacl|Salt Cure|p2a: Alomomola
+|-damage|p2a: Alomomola|92/100
+|-start|p2a: Alomomola|Salt Cure
+|
+|-heal|p1a: Garganacl|68/100 psn|[from] item: Leftovers
+|-damage|p1a: Garganacl|56/100 psn|[from] psn
+|-damage|p2a: Alomomola|67/100|[from] Salt Cure
+|upkeep
+|turn|19
+|
+|t:|1781152012
+|move|p2a: Alomomola|Flip Turn|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|34/100 psn
+|
+|t:|1781152015
+|switch|p2a: Gliscor|Gliscor, F|47/100 tox|[from] Flip Turn
+|move|p1a: Garganacl|Recover|p1a: Garganacl
+|-heal|p1a: Garganacl|84/100 psn
+|
+|-heal|p1a: Garganacl|91/100 psn|[from] item: Leftovers
+|-heal|p2a: Gliscor|60/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Garganacl|78/100 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1781152021
+|switch|p1a: Manaphy|Manaphy|99/100
+|-damage|p1a: Manaphy|88/100|[from] Spikes
+|-status|p1a: Manaphy|psn
+|move|p2a: Gliscor|Protect||[still]
+|-fail|p2a: Gliscor
+|
+|-heal|p1a: Manaphy|94/100 psn|[from] item: Leftovers
+|-damage|p1a: Manaphy|82/100 psn|[from] psn
+|-heal|p2a: Gliscor|72/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|21
+|
+|t:|1781152029
+|switch|p1a: Latias|Latias, F|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|
+|upkeep
+|turn|22
+|
+|t:|1781152033
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|
+|upkeep
+|turn|23
+|
+|t:|1781152037
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Clefable|Moonblast|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|50/100
+|-enditem|p1a: Latias|Weakness Policy
+|-boost|p1a: Latias|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Latias|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|24
+|
+|t:|1781152042
+|move|p1a: Latias|Stored Power|p2a: Clefable
+|-damage|p2a: Clefable|59/100
+|move|p2a: Clefable|Moonblast|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|4/100
+|-unboost|p1a: Latias|spa|1
+|
+|-heal|p2a: Clefable|65/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781152052
+|move|p1a: Latias|Stored Power|p2a: Clefable
+|-damage|p2a: Clefable|23/100
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|-heal|p2a: Clefable|29/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781152055
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Latias|Stored Power|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|-heal|p2a: Clefable|79/100|[from] move: Wish|[wisher] Clefable
+|-heal|p2a: Clefable|86/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781152059
+|move|p1a: Latias|Stored Power|p2a: Clefable
+|-damage|p2a: Clefable|44/100
+|move|p2a: Clefable|Moonblast|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|0 fnt
+|faint|p1a: Latias
+|
+|-heal|p2a: Clefable|50/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781152063
+|switch|p1a: Manaphy|Manaphy|82/100 psn
+|-damage|p1a: Manaphy|69/100 psn|[from] Spikes
+|turn|28
+|
+|t:|1781152067
+|move|p1a: Manaphy|Take Heart|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|1
+|-boost|p1a: Manaphy|spd|1
+|-curestatus|p1a: Manaphy|psn|[msg]
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|-heal|p1a: Manaphy|75/100|[from] item: Leftovers
+|-heal|p2a: Clefable|56/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1781152070
+|move|p1a: Manaphy|Acid Armor|p1a: Manaphy
+|-boost|p1a: Manaphy|def|2
+|move|p2a: Clefable|Moonblast|p1a: Manaphy
+|-damage|p1a: Manaphy|49/100
+|-unboost|p1a: Manaphy|spa|1
+|
+|-heal|p2a: Clefable|100/100|[from] move: Wish|[wisher] Clefable
+|-heal|p1a: Manaphy|55/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781152073
+|move|p1a: Manaphy|Take Heart|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|1
+|-boost|p1a: Manaphy|spd|1
+|move|p2a: Clefable|Moonblast|p1a: Manaphy
+|-damage|p1a: Manaphy|30/100
+|-unboost|p1a: Manaphy|spa|1
+|
+|-heal|p1a: Manaphy|36/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|-message|kennojex forfeited.
+|
+|win|Gupygak
+|raw|kennojex's rating: 1606 &rarr; <strong>1583</strong><br />(-23 for losing)
+|raw|Gupygak's rating: 1562 &rarr; <strong>1585</strong><br />(+23 for winning)
+|l|☆kennojex
+|player|p1|
+|l|☆Gupygak
+|player|p2|

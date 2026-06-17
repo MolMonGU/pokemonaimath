@@ -1,0 +1,472 @@
+|j|☆altyWIN
+|j|‽fleep vs floop
+|t:|1781491988
+|gametype|singles
+|player|p1|altyWIN|backpacker|1530
+|player|p2|fleep vs floop|265|1648
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Excadrill, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Hydrapple, M|
+|poke|p1|Alomomola, L99, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Zapdos|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Chesnaught, M|
+|poke|p2|Kyurem|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Zapdos|
+|poke|p2|Iron Treads|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by altyWIN)
+|
+|t:|1781492006
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: FreeCaneMerchant|Zapdos|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781492030
+|move|p1a: FreeCaneMerchant|Volt Switch|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|75/100
+|
+|t:|1781492035
+|switch|p1a: Kim K|Hatterene, F|100/100|[from] Volt Switch
+|move|p2a: Kyurem|Draco Meteor|p1a: Kim K
+|-immune|p1a: Kim K
+|
+|upkeep
+|turn|2
+|
+|t:|1781492056
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|switch|p1a: Goatyranny|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Goatyranny
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowking|94/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1781492068
+|switch|p2a: Chesnaught|Chesnaught, M|100/100
+|move|p1a: Goatyranny|Knock Off|p2a: Chesnaught
+|-resisted|p2a: Chesnaught
+|-damage|p2a: Chesnaught|77/100
+|-damage|p1a: Goatyranny|84/100|[from] item: Rocky Helmet|[of] p2a: Chesnaught
+|-enditem|p2a: Chesnaught|Rocky Helmet|[from] move: Knock Off|[of] p1a: Goatyranny
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Chesnaught|71/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1781492082
+|switch|p1a: Hydrippy|Hydrapple, M|100/100
+|move|p2a: Chesnaught|Knock Off|p1a: Hydrippy
+|-damage|p1a: Hydrippy|87/100
+|-enditem|p1a: Hydrippy|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Chesnaught
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Chesnaught|65/100|[from] Sandstorm
+|-damage|p1a: Hydrippy|81/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1781492096
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Hydrippy|Nasty Plot|p1a: Hydrippy
+|-boost|p1a: Hydrippy|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hydrippy|75/100|[from] Sandstorm
+|-damage|p2a: Slowking|94/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1781492106
+|move|p1a: Hydrippy|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|34/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781492108
+|switch|p2a: Kyurem|Kyurem|75/100|[from] Chilly Reception
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781492122
+|switch|p1a: Kim K|Hatterene, F|100/100
+|move|p2a: Kyurem|Earth Power|p1a: Kim K
+|-damage|p1a: Kim K|82/100
+|-unboost|p1a: Kim K|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781492132
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Kim K|Draining Kiss|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|85/100
+|-heal|p1a: Kim K|94/100|[from] drain|[of] p2a: Iron Treads
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Iron Treads|91/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781492143
+|switch|p1a: Hydrippy|Hydrapple, M|100/100
+|move|p2a: Iron Treads|Knock Off|p1a: Hydrippy
+|-damage|p1a: Hydrippy|88/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Iron Treads|97/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781492152
+|move|p2a: Iron Treads|Stealth Rock|p1a: Hydrippy
+|-sidestart|p1: altyWIN|move: Stealth Rock
+|move|p1a: Hydrippy|Earth Power|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|24/100
+|-unboost|p2a: Iron Treads|spd|1
+|
+|-weather|none
+|-heal|p2a: Iron Treads|30/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781492158
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|68/100
+|move|p1a: Hydrippy|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|39/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781492166
+|move|p1a: Hydrippy|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|10/100
+|move|p2a: Slowking|Ice Beam|p1a: Hydrippy
+|-supereffective|p1a: Hydrippy
+|-damage|p1a: Hydrippy|0 fnt
+|faint|p1a: Hydrippy
+|
+|upkeep
+|
+|t:|1781492179
+|switch|p1a: Cardi B|Alomomola, L99, F|100/100
+|turn|13
+|
+|t:|1781492183
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Cardi B|Flip Turn|p2a: Zapdos
+|-damage|p2a: Zapdos|90/100
+|-status|p1a: Cardi B|par|[from] ability: Static|[of] p2a: Zapdos
+|
+|t:|1781492190
+|switch|p1a: Goatyranny|Tyranitar, M|84/100|[from] Flip Turn
+|-damage|p1a: Goatyranny|72/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Goatyranny
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|84/100|[from] Sandstorm
+|upkeep
+|turn|14
+|l|‽fleep vs floop
+|inactive|fleep vs floop disconnected and has a minute to reconnect!
+|player|p2|
+|j|‽fleep vs floop
+|inactive|fleep vs floop reconnected and has 130 seconds left.
+|player|p2|fleep vs floop|265|
+|n|‽fleep vs floop|fleepvsfloop
+|inactive|altyWIN has 120 seconds left.
+|
+|t:|1781492227
+|move|p2a: Zapdos|Volt Switch|p1a: Goatyranny
+|-damage|p1a: Goatyranny|52/100
+|
+|t:|1781492230
+|switch|p2a: Iron Treads|Iron Treads|30/100|[from] Volt Switch
+|move|p1a: Goatyranny|Low Kick|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781492232
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|turn|15
+|inactive|altyWIN has 120 seconds left.
+|
+|t:|1781492261
+|switch|p1a: Kim K|Hatterene, F|94/100
+|-damage|p1a: Kim K|81/100|[from] Stealth Rock
+|move|p2a: Samurott|Aqua Cutter|p1a: Kim K
+|-damage|p1a: Kim K|32/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Samurott|94/100|[from] Sandstorm
+|-damage|p1a: Kim K|26/100|[from] Sandstorm
+|upkeep
+|turn|16
+|inactive|altyWIN has 90 seconds left.
+|
+|t:|1781492302
+|move|p2a: Samurott|Knock Off|p1a: Kim K
+|-damage|p1a: Kim K|0 fnt
+|-enditem|p1a: Kim K|Assault Vest|[from] move: Knock Off|[of] p2a: Samurott
+|faint|p1a: Kim K
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Samurott|88/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781492307
+|switch|p1a: Childinthemines|Excadrill, M|100/100
+|-damage|p1a: Childinthemines|97/100|[from] Stealth Rock
+|turn|17
+|inactive|altyWIN has 60 seconds left.
+|
+|t:|1781492342
+|-terastallize|p2a: Samurott|Ghost
+|move|p1a: Childinthemines|Rock Slide|p2a: Samurott
+|-damage|p2a: Samurott|37/100
+|move|p2a: Samurott|Aqua Cutter|p1a: Childinthemines
+|-supereffective|p1a: Childinthemines
+|-damage|p1a: Childinthemines|0 fnt
+|faint|p1a: Childinthemines
+|
+|-weather|none
+|upkeep
+|inactive|altyWIN has 60 seconds left.
+|
+|t:|1781492349
+|switch|p1a: FreeCaneMerchant|Zapdos|100/100
+|-damage|p1a: FreeCaneMerchant|76/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781492355
+|switch|p2a: Slowking|Slowking-Galar, M|43/100
+|move|p1a: FreeCaneMerchant|Volt Switch|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|t:|1781492361
+|switch|p1a: Cardi B|Alomomola, L99, F|100/100 par|[from] Volt Switch
+|
+|upkeep
+|l|‽fleep vs floop
+|inactive|fleep vs floop disconnected and has a minute to reconnect!
+|player|p2|
+|j|‽fleep vs floop
+|inactive|fleep vs floop reconnected and has 130 seconds left.
+|player|p2|fleep vs floop|265|
+|n|‽fleep vs floop|fleepvsfloop
+|
+|t:|1781492389
+|switch|p2a: Samurott|Samurott-Hisui, M, tera:Ghost|37/100
+|turn|19
+|
+|t:|1781492394
+|move|p2a: Samurott|Ceaseless Edge|p1a: Cardi B
+|-damage|p1a: Cardi B|74/100 par
+|-sidestart|p1: altyWIN|Spikes
+|cant|p1a: Cardi B|par
+|
+|upkeep
+|turn|20
+|
+|t:|1781492398
+|move|p2a: Samurott|Knock Off|p1a: Cardi B
+|-damage|p1a: Cardi B|45/100 par
+|-enditem|p1a: Cardi B|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Samurott
+|move|p1a: Cardi B|Wish|p1a: Cardi B
+|
+|upkeep
+|turn|21
+|
+|t:|1781492401
+|move|p2a: Samurott|Ceaseless Edge|p1a: Cardi B
+|-damage|p1a: Cardi B|16/100 par
+|-sidestart|p1: altyWIN|Spikes
+|cant|p1a: Cardi B|par
+|
+|-heal|p1a: Cardi B|66/100 par|[from] move: Wish|[wisher] Cardi B
+|upkeep
+|turn|22
+|
+|t:|1781492409
+|move|p2a: Samurott|Ceaseless Edge|p1a: Cardi B
+|-damage|p1a: Cardi B|40/100 par
+|-sidestart|p1: altyWIN|Spikes
+|move|p1a: Cardi B|Wish|p1a: Cardi B
+|
+|upkeep
+|turn|23
+|
+|t:|1781492412
+|move|p2a: Samurott|Encore|p1a: Cardi B
+|-start|p1a: Cardi B|Encore
+|move|p1a: Cardi B|Wish||[still]
+|-fail|p1a: Cardi B
+|
+|-heal|p1a: Cardi B|90/100 par|[from] move: Wish|[wisher] Cardi B
+|upkeep
+|turn|24
+|inactive|altyWIN has 120 seconds left.
+|
+|t:|1781492426
+|switch|p1a: Goatyranny|Tyranitar, M|52/100
+|-damage|p1a: Goatyranny|39/100|[from] Stealth Rock
+|-damage|p1a: Goatyranny|14/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Goatyranny
+|move|p2a: Samurott|Aqua Cutter|p1a: Goatyranny
+|-supereffective|p1a: Goatyranny
+|-damage|p1a: Goatyranny|0 fnt
+|faint|p1a: Goatyranny
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Samurott|31/100|[from] Sandstorm
+|upkeep
+|inactive|altyWIN has 120 seconds left.
+|
+|t:|1781492435
+|switch|p1a: FreeCaneMerchant|Zapdos|76/100
+|-damage|p1a: FreeCaneMerchant|51/100|[from] Stealth Rock
+|turn|25
+|inactive|altyWIN has 120 seconds left.
+|
+|t:|1781492457
+|move|p1a: FreeCaneMerchant|Weather Ball|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: FreeCaneMerchant|45/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781492460
+|switch|p2a: Kyurem|Kyurem|75/100
+|-ability|p2a: Kyurem|Pressure
+|turn|26
+|
+|t:|1781492464
+|switch|p2a: Chesnaught|Chesnaught, M|65/100
+|move|p1a: FreeCaneMerchant|Weather Ball|p2a: Chesnaught
+|-immune|p2a: Chesnaught|[from] ability: Bulletproof
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: FreeCaneMerchant|38/100|[from] Sandstorm
+|-damage|p2a: Chesnaught|59/100|[from] Sandstorm
+|upkeep
+|turn|27
+|
+|t:|1781492468
+|switch|p1a: Cardi B|Alomomola, L99, F|100/100 par
+|-damage|p1a: Cardi B|88/100 par|[from] Stealth Rock
+|-damage|p1a: Cardi B|63/100 par|[from] Spikes
+|switch|p2a: Kyurem|Kyurem|75/100
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kyurem|69/100|[from] Sandstorm
+|-damage|p1a: Cardi B|57/100 par|[from] Sandstorm
+|upkeep
+|turn|28
+|
+|t:|1781492491
+|move|p2a: Kyurem|Freeze-Dry|p1a: Cardi B
+|-supereffective|p1a: Cardi B
+|-damage|p1a: Cardi B|0 fnt
+|faint|p1a: Cardi B
+|
+|-weather|none
+|upkeep
+|
+|t:|1781492494
+|switch|p1a: FreeCaneMerchant|Zapdos|38/100
+|-damage|p1a: FreeCaneMerchant|14/100|[from] Stealth Rock
+|turn|29
+|
+|t:|1781492501
+|-terastallize|p1a: FreeCaneMerchant|Flying
+|move|p1a: FreeCaneMerchant|Hurricane|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781492505
+|switch|p2a: Zapdos|Zapdos|84/100
+|turn|30
+|
+|t:|1781492508
+|move|p1a: FreeCaneMerchant|Hurricane|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|30/100
+|-start|p2a: Zapdos|confusion
+|-activate|p2a: Zapdos|confusion
+|-damage|p2a: Zapdos|25/100|[from] confusion
+|
+|upkeep
+|turn|31
+|
+|t:|1781492515
+|move|p1a: FreeCaneMerchant|Hurricane|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1781492517
+|switch|p2a: Chesnaught|Chesnaught, M|59/100
+|turn|32
+|
+|t:|1781492518
+|move|p1a: FreeCaneMerchant|Hurricane|p2a: Chesnaught
+|-supereffective|p2a: Chesnaught
+|-damage|p2a: Chesnaught|0 fnt
+|faint|p2a: Chesnaught
+|
+|win|altyWIN
+|raw|altyWIN's rating: 1530 &rarr; <strong>1556</strong><br />(+26 for winning)
+|raw|fleep vs floop's rating: 1630 &rarr; <strong>1604</strong><br />(-26 for losing)
+|l|‽fleep vs floop
+|player|p2|
+|c|☆altyWIN|YO
+|c|☆altyWIN|yo
+|c|☆altyWIN|yoo
+|c|☆altyWIN|yo

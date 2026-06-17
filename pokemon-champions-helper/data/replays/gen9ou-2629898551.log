@@ -1,0 +1,263 @@
+|j|☆Yujiro-Jamon
+|j|☆anamchara
+|t:|1781191075
+|gametype|singles
+|player|p1|Yujiro-Jamon|alder|1549
+|player|p2|anamchara|169|1607
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Deoxys-Speed|
+|poke|p1|Clefable, F|
+|poke|p1|Conkeldurr, M|
+|poke|p1|Blaziken, F|
+|poke|p1|Ting-Lu|
+|poke|p1|Corviknight, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Meowscarada, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Glimmora, M|
+|poke|p2|Dragapult, M|
+|teampreview
+|
+|t:|1781191078
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Conkeldurr|Conkeldurr, M|100/100
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Yujiro-Jamon)
+|
+|t:|1781191085
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|move|p1a: Conkeldurr|Mach Punch|p2a: Glimmora
+|-damage|p2a: Glimmora|73/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: Yujiro-Jamon|move: Toxic Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1781191093
+|move|p2a: Glimmora|Stealth Rock|p1a: Conkeldurr
+|-sidestart|p1: Yujiro-Jamon|move: Stealth Rock
+|move|p1a: Conkeldurr|Knock Off|p2a: Glimmora
+|-damage|p2a: Glimmora|22/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: Yujiro-Jamon|move: Toxic Spikes
+|-enditem|p2a: Glimmora|Life Orb|[from] move: Knock Off|[of] p1a: Conkeldurr
+|
+|upkeep
+|turn|3
+|
+|t:|1781191101
+|move|p1a: Conkeldurr|Mach Punch|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|
+|upkeep
+|
+|t:|1781191105
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|4
+|
+|t:|1781191112
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1781191121
+|move|p2a: Iron Valiant|Close Combat|p1a: Corviknight
+|-damage|p1a: Corviknight|11/100
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|-damage|p2a: Iron Valiant|84/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|move|p1a: Corviknight|Defog|p2a: Iron Valiant
+|-unboost|p2a: Iron Valiant|evasion|1
+|-sideend|p1: Yujiro-Jamon|Toxic Spikes|[from] move: Defog|[of] p1a: Corviknight
+|-sideend|p1: Yujiro-Jamon|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|upkeep
+|turn|6
+|
+|t:|1781191131
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: Iron Valiant|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|81/100
+|-enditem|p1a: Clefable|Leftovers|[from] move: Knock Off|[of] p2a: Iron Valiant
+|
+|upkeep
+|turn|7
+|
+|t:|1781191139
+|move|p2a: Iron Valiant|Spirit Break|p1a: Clefable
+|-damage|p1a: Clefable|41/100
+|-unboost|p1a: Clefable|spa|1
+|move|p1a: Clefable|Moonblast|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-crit|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781191142
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|8
+|
+|t:|1781191149
+|switch|p1a: Corviknight|Corviknight, F|11/100
+|move|p2a: Ogerpon|Trailblaze|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|6/100
+|-boost|p2a: Ogerpon|spe|1
+|-damage|p2a: Ogerpon|84/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|upkeep
+|turn|9
+|
+|t:|1781191158
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Corviknight|[anim] Ivy Cudgel Water
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|upkeep
+|
+|t:|1781191161
+|switch|p1a: Conkeldurr|Conkeldurr, M|100/100
+|turn|10
+|
+|t:|1781191173
+|-terastallize|p2a: Ogerpon|Water
+|detailschange|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Conkeldurr|[anim] Ivy Cudgel Water
+|-damage|p1a: Conkeldurr|24/100
+|move|p1a: Conkeldurr|Drain Punch|p2a: Ogerpon
+|-damage|p2a: Ogerpon|21/100
+|-heal|p1a: Conkeldurr|47/100|[from] drain|[of] p2a: Ogerpon
+|
+|upkeep
+|turn|11
+|
+|t:|1781191202
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|move|p1a: Conkeldurr|Mach Punch|p2a: Dragapult
+|-immune|p2a: Dragapult
+|
+|upkeep
+|turn|12
+|
+|t:|1781191207
+|move|p2a: Dragapult|Dragon Darts|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|24/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|1/100
+|-damage|p2a: Dragapult|91/100|[from] item: Life Orb
+|move|p1a: Conkeldurr|Knock Off|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|-enditem|p2a: Dragapult|Life Orb|[from] move: Knock Off|[of] p1a: Conkeldurr
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1781191214
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|turn|13
+|
+|t:|1781191219
+|move|p1a: Conkeldurr|Mach Punch|p2a: Meowscarada
+|-supereffective|p2a: Meowscarada
+|-damage|p2a: Meowscarada|23/100
+|move|p2a: Meowscarada|U-turn|p1a: Conkeldurr
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-resisted|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|
+|t:|1781191222
+|switch|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water|21/100|[from] U-turn
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|
+|upkeep
+|
+|t:|1781191229
+|switch|p1a: Blaziken|Blaziken, F|100/100
+|turn|14
+|
+|t:|1781191232
+|move|p1a: Blaziken|Protect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Blaziken|[anim] Ivy Cudgel Water
+|-activate|p1a: Blaziken|move: Protect
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|15
+|
+|t:|1781191236
+|move|p1a: Blaziken|Close Combat|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|faint|p2a: Ogerpon
+|detailschange|p2: Ogerpon|Ogerpon-Wellspring, F|[silent]
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1781191239
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|turn|16
+|
+|t:|1781191244
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Slowking|Psychic Noise|p1a: Ting-Lu
+|-immune|p1a: Ting-Lu
+|
+|upkeep
+|turn|17
+|
+|t:|1781191247
+|switch|p2a: Meowscarada|Meowscarada, F|23/100
+|move|p1a: Ting-Lu|Earthquake|p2a: Meowscarada
+|-resisted|p2a: Meowscarada
+|-damage|p2a: Meowscarada|0 fnt
+|faint|p2a: Meowscarada
+|
+|upkeep
+|-message|anamchara forfeited.
+|
+|win|Yujiro-Jamon
+|raw|Yujiro-Jamon's rating: 1549 &rarr; <strong>1573</strong><br />(+24 for winning)
+|raw|anamchara's rating: 1624 &rarr; <strong>1600</strong><br />(-24 for losing)
+|l|☆anamchara
+|player|p2|
+|l|☆Yujiro-Jamon
+|player|p1|

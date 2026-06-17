@@ -1,0 +1,350 @@
+|j|☆phreshoatmeal
+|j|☆top 10 chip eater
+|t:|1781323387
+|gametype|singles
+|player|p1|phreshoatmeal|clerk|1545
+|player|p2|top 10 chip eater|170|1545
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Excadrill, M|
+|poke|p1|Amoonguss, M|
+|poke|p1|Indeedee, M|
+|poke|p1|Hippowdon, M|
+|poke|p2|Iron Crown|
+|poke|p2|Dragonite, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Iron Moth|
+|poke|p2|Grimmsnarl, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by phreshoatmeal)
+|
+|t:|1781323431
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|1
+|
+|t:|1781323441
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: top 10 chip eater|Reflect
+|move|p1a: Tyranitar|Knock Off|p2a: Grimmsnarl
+|-resisted|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|94/100
+|-enditem|p2a: Grimmsnarl|Light Clay|[from] move: Knock Off|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Grimmsnarl|88/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1781323459
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: top 10 chip eater|move: Light Screen
+|move|p1a: Tyranitar|Stealth Rock|p2a: Grimmsnarl
+|-sidestart|p2: top 10 chip eater|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Grimmsnarl|82/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1781323473
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|88/100|[from] Stealth Rock
+|move|p1a: Tyranitar|Roar|p2a: Ogerpon
+|drag|p2a: Dragonite|Dragonite, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragonite|94/100|[from] Sandstorm
+|upkeep
+|turn|4
+|inactive|phreshoatmeal has 120 seconds left.
+|
+|t:|1781323512
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Dragonite|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|67/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragonite|88/100|[from] Sandstorm
+|-damage|p1a: Hatterene|62/100|[from] Sandstorm
+|-heal|p1a: Hatterene|67/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781323528
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-damage|p2a: Iron Moth|76/100|[from] Stealth Rock
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|move|p1a: Hatterene|Pain Split|p2a: Iron Moth
+|-sethp|p2a: Iron Moth|73/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Hatterene|69/100|[from] move: Pain Split
+|
+|-weather|none
+|-heal|p1a: Hatterene|75/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|phreshoatmeal has 120 seconds left.
+|
+|t:|1781323551
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Iron Moth|Sludge Wave|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|91/100
+|-enditem|p1a: Tyranitar|Eject Button
+|
+|t:|1781323558
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Moth|67/100|[from] Sandstorm
+|-sideend|p2: top 10 chip eater|move: Light Screen
+|upkeep
+|turn|7
+|
+|t:|1781323574
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Dragonite|Dragonite, F|88/100
+|move|p1a: Excadrill|Rock Slide|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|41/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragonite|35/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1781323589
+|move|p1a: Excadrill|Rock Slide|p2a: Dragonite|[miss]
+|-miss|p1a: Excadrill|p2a: Dragonite
+|move|p2a: Dragonite|Earthquake|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragonite|29/100|[from] Sandstorm
+|-sideend|p2: top 10 chip eater|Reflect
+|upkeep
+|
+|t:|1781323595
+|switch|p1a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|turn|9
+|
+|t:|1781323605
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|82/100
+|-damage|p2a: Grimmsnarl|70/100|[from] Stealth Rock
+|move|p1a: Indeedee|Substitute|p1a: Indeedee
+|-start|p1a: Indeedee|Substitute
+|-damage|p1a: Indeedee|76/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Indeedee|69/100|[from] Sandstorm
+|-damage|p2a: Grimmsnarl|64/100|[from] Sandstorm
+|upkeep
+|turn|10
+|
+|t:|1781323611
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: top 10 chip eater|move: Light Screen
+|move|p1a: Indeedee|Drain Punch|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|43/100
+|-heal|p1a: Indeedee|85/100|[from] drain|[of] p2a: Grimmsnarl
+|-damage|p1a: Indeedee|75/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|turn|11
+|
+|t:|1781323616
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: top 10 chip eater|Reflect
+|move|p1a: Indeedee|Drain Punch|p2a: Grimmsnarl
+|-crit|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|13/100
+|-heal|p1a: Indeedee|97/100|[from] drain|[of] p2a: Grimmsnarl
+|-damage|p1a: Indeedee|87/100|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1781323622
+|move|p2a: Grimmsnarl|Parting Shot|p1a: Indeedee
+|-activate|p1a: Indeedee|move: Psychic Terrain
+|move|p1a: Indeedee|Expanding Force|p2a: Grimmsnarl
+|-immune|p2a: Grimmsnarl
+|
+|upkeep
+|turn|13
+|
+|t:|1781323628
+|move|p2a: Grimmsnarl|Taunt|p1a: Indeedee
+|-activate|p1a: Indeedee|move: Psychic Terrain
+|move|p1a: Indeedee|Expanding Force|p2a: Grimmsnarl
+|-immune|p2a: Grimmsnarl
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|14
+|
+|t:|1781323633
+|switch|p1a: Hatterene|Hatterene, F|75/100
+|move|p2a: Grimmsnarl|Parting Shot|p1a: Hatterene
+|move|p1a: Hatterene|Parting Shot|p2a: Grimmsnarl|[from] ability: Magic Bounce
+|-unboost|p2a: Grimmsnarl|atk|1
+|-unboost|p2a: Grimmsnarl|spa|1
+|
+|t:|1781323640
+|switch|p1a: Indeedee|Indeedee, M|87/100|[from] Parting Shot
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|
+|-sideend|p2: top 10 chip eater|move: Light Screen
+|upkeep
+|turn|15
+|
+|t:|1781323647
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-damage|p2a: Iron Crown|94/100|[from] Stealth Rock
+|move|p1a: Indeedee|Drain Punch|p2a: Iron Crown
+|-damage|p2a: Iron Crown|87/100
+|-heal|p1a: Indeedee|93/100|[from] drain|[of] p2a: Iron Crown
+|-damage|p1a: Indeedee|83/100|[from] item: Life Orb
+|
+|-sideend|p2: top 10 chip eater|Reflect
+|upkeep
+|turn|16
+|
+|t:|1781323657
+|switch|p1a: Amoonguss|Amoonguss, M|100/100
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|
+|upkeep
+|turn|17
+|
+|t:|1781323666
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|move|p1a: Amoonguss|Foul Play|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|63/100
+|-enditem|p2a: Iron Crown|Weakness Policy
+|-boost|p2a: Iron Crown|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Iron Crown|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|18
+|
+|t:|1781323676
+|-terastallize|p1a: Amoonguss|Dark
+|move|p2a: Iron Crown|Stored Power|p1a: Amoonguss
+|-immune|p1a: Amoonguss
+|move|p1a: Amoonguss|Foul Play|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1781323690
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|13/100
+|-damage|p2a: Grimmsnarl|1/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1781323698
+|switch|p1a: Tyranitar|Tyranitar, F|91/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: top 10 chip eater|Reflect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Grimmsnarl|0 fnt|[from] Sandstorm
+|faint|p2a: Grimmsnarl
+|upkeep
+|
+|t:|1781323700
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|88/100
+|-damage|p2a: Ogerpon|76/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1781323709
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Tyranitar|[anim] Ivy Cudgel Water
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|5/100
+|move|p1a: Tyranitar|Roar|p2a: Ogerpon
+|drag|p2a: Iron Valiant|Iron Valiant|100/100
+|-damage|p2a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Valiant|88/100|[from] Sandstorm
+|upkeep
+|turn|21
+|
+|t:|1781323721
+|switch|p1a: Amoonguss|Amoonguss, M, tera:Dark|100/100
+|move|p2a: Iron Valiant|Moonblast|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|12/100
+|-unboost|p1a: Amoonguss|spa|1
+|-enditem|p1a: Amoonguss|Eject Button
+|
+|t:|1781323729
+|switch|p1a: Hatterene|Hatterene, F|75/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Valiant|82/100|[from] Sandstorm
+|-damage|p1a: Hatterene|69/100|[from] Sandstorm
+|-heal|p1a: Hatterene|75/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781323738
+|-terastallize|p2a: Iron Valiant|Steel
+|move|p2a: Iron Valiant|Moonblast|p1a: Hatterene
+|-damage|p1a: Hatterene|24/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Iron Valiant
+|-resisted|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|63/100
+|-heal|p1a: Hatterene|37/100|[from] drain|[of] p2a: Iron Valiant
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hatterene|31/100|[from] Sandstorm
+|-heal|p1a: Hatterene|37/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|-message|phreshoatmeal forfeited.
+|
+|win|top 10 chip eater
+|raw|phreshoatmeal's rating: 1545 &rarr; <strong>1525</strong><br />(-20 for losing)
+|raw|top 10 chip eater's rating: 1545 &rarr; <strong>1565</strong><br />(+20 for winning)
+|l|☆phreshoatmeal
+|player|p1|
+|l|☆top 10 chip eater
+|player|p2|

@@ -1,0 +1,310 @@
+|j|☆tboc13
+|j|☆ghazi02
+|t:|1781600881
+|gametype|singles
+|player|p1|tboc13|dawn|1520
+|player|p2|ghazi02|red|1537
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Meowscarada, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Iron Crown|
+|poke|p1|Great Tusk|
+|poke|p1|Moltres|
+|poke|p1|Clefable, F|
+|poke|p2|Kyurem|
+|poke|p2|Cinderace, M|
+|poke|p2|Kingambit, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Great Tusk|
+|poke|p2|Iron Crown|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tboc13)
+|
+|t:|1781600895
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Meowscarada|Meowscarada, F|100/100
+|switch|p2a: Wayne ROOOOOONEY|Cinderace, M|100/100
+|turn|1
+|
+|t:|1781600900
+|move|p1a: Meowscarada|Knock Off|p2a: Wayne ROOOOOONEY
+|-start|p1a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p2a: Wayne ROOOOOONEY|0 fnt
+|-enditem|p2a: Wayne ROOOOOONEY|Choice Band|[from] move: Knock Off|[of] p1a: Meowscarada
+|faint|p2a: Wayne ROOOOOONEY
+|
+|upkeep
+|
+|t:|1781600909
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|2
+|
+|t:|1781600915
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Great Tusk|Stealth Rock|p1a: Moltres
+|-sidestart|p1: tboc13|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781600921
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Moltres|Will-O-Wisp|p2a: Slowking
+|-status|p2a: Slowking|brn
+|
+|-damage|p2a: Slowking|94/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1781600929
+|move|p1a: Moltres|U-turn|p2a: Slowking
+|-damage|p2a: Slowking|78/100 brn
+|j| BandedAI
+|inactive|tboc13 has 120 seconds left.
+|
+|t:|1781600962
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|move|p2a: Slowking|Thunder Wave|p1a: Great Tusk
+|-immune|p1a: Great Tusk
+|
+|-damage|p2a: Slowking|72/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1781600974
+|move|p1a: Great Tusk|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|5/100 brn
+|-enditem|p2a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Great Tusk
+|move|p2a: Slowking|Future Sight|p1a: Great Tusk
+|-start|p2a: Slowking|move: Future Sight
+|
+|-damage|p2a: Slowking|0 fnt|[from] brn
+|faint|p2a: Slowking
+|upkeep
+|
+|t:|1781600987
+|switch|p2a: ICE ICE BABY|Kyurem|100/100
+|-ability|p2a: ICE ICE BABY|Pressure
+|turn|6
+|l| BandedAI
+|
+|t:|1781600993
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-damage|p1a: Iron Crown|94/100|[from] Stealth Rock
+|move|p2a: ICE ICE BABY|Dragon Dance|p2a: ICE ICE BABY
+|-boost|p2a: ICE ICE BABY|atk|1
+|-boost|p2a: ICE ICE BABY|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781601000
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: ICE ICE BABY
+|-supereffective|p2a: ICE ICE BABY
+|-damage|p2a: ICE ICE BABY|57/100
+|-supereffective|p2a: ICE ICE BABY
+|-damage|p2a: ICE ICE BABY|6/100
+|-hitcount|p2a: ICE ICE BABY|2
+|move|p2a: ICE ICE BABY|Shadow Claw|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|18/100
+|
+|-end|p1a: Iron Crown|move: Future Sight
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|7/100
+|upkeep
+|turn|8
+|
+|t:|1781601014
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Iron Crown
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|91/100
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|83/100
+|-hitcount|p2a: Iron Crown|2
+|
+|upkeep
+|turn|9
+|
+|t:|1781601033
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Iron Crown|Volt Switch|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|49/100
+|
+|t:|1781601040
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: ICE ICE BABY|Kyurem|6/100|[from] Volt Switch
+|-ability|p2a: ICE ICE BABY|Pressure
+|
+|upkeep
+|turn|10
+|
+|t:|1781601047
+|move|p2a: ICE ICE BABY|Icicle Spear|p1a: Moltres
+|-damage|p1a: Moltres|40/100
+|-damage|p1a: Moltres|31/100
+|-damage|p1a: Moltres|21/100
+|-damage|p1a: Moltres|13/100
+|-damage|p1a: Moltres|3/100
+|-hitcount|p1a: Moltres|5
+|move|p1a: Moltres|Scorching Sands|p2a: ICE ICE BABY
+|-damage|p2a: ICE ICE BABY|0 fnt
+|faint|p2a: ICE ICE BABY
+|
+|upkeep
+|
+|t:|1781601059
+|switch|p2a: Iron Crown|Iron Crown|83/100
+|turn|11
+|
+|t:|1781601066
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|65/100
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|35/100
+|-hitcount|p1a: Clefable|2
+|
+|-heal|p1a: Clefable|41/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781601075
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|5/100
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|-hitcount|p1: Clefable|2
+|
+|upkeep
+|
+|t:|1781601078
+|switch|p1a: Meowscarada|Meowscarada, F|100/100
+|-damage|p1a: Meowscarada|88/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1781601089
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Meowscarada|Knock Off|p2a: Great Tusk
+|-start|p1a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|75/100
+|-enditem|p2a: Great Tusk|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Meowscarada
+|
+|upkeep
+|turn|14
+|
+|t:|1781601100
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Great Tusk
+|-damage|p1a: Great Tusk|87/100
+|-boost|p2a: Great Tusk|spe|1
+|
+|upkeep
+|turn|15
+|
+|t:|1781601106
+|move|p2a: Great Tusk|Ice Spinner|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|49/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Great Tusk
+|-damage|p2a: Great Tusk|63/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: tboc13|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|16
+|
+|t:|1781601114
+|move|p2a: Great Tusk|Headlong Rush|p1a: Great Tusk
+|-damage|p1a: Great Tusk|1/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Great Tusk|Headlong Rush|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781601128
+|switch|p2a: Iron Crown|Iron Crown|83/100
+|turn|17
+|
+|t:|1781601131
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781601137
+|switch|p2a: No Skill Win Con|Kingambit, M|100/100
+|-activate|p2a: No Skill Win Con|ability: Supreme Overlord
+|-start|p2a: No Skill Win Con|fallen5|[silent]
+|turn|18
+|
+|t:|1781601147
+|-terastallize|p2a: No Skill Win Con|Ghost
+|move|p1a: Great Tusk|Headlong Rush|p2a: No Skill Win Con
+|-damage|p2a: No Skill Win Con|52/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: No Skill Win Con|Kowtow Cleave|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-heal|p2a: No Skill Win Con|58/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781601150
+|switch|p1a: Meowscarada|Meowscarada, F|88/100
+|turn|19
+|
+|t:|1781601161
+|move|p1a: Meowscarada|Knock Off|p2a: No Skill Win Con
+|-start|p1a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-supereffective|p2a: No Skill Win Con
+|-damage|p2a: No Skill Win Con|0 fnt
+|-enditem|p2a: No Skill Win Con|Leftovers|[from] move: Knock Off|[of] p1a: Meowscarada
+|faint|p2a: No Skill Win Con
+|-end|p2a: No Skill Win Con|fallen5|[silent]
+|
+|win|tboc13
+|raw|tboc13's rating: 1520 &rarr; <strong>1541</strong><br />(+21 for winning)
+|raw|ghazi02's rating: 1537 &rarr; <strong>1516</strong><br />(-21 for losing)
+|l|☆ghazi02
+|player|p2|
+|l|☆tboc13
+|player|p1|

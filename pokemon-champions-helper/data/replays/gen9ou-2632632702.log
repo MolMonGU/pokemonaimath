@@ -1,0 +1,268 @@
+|j|☆Indralok
+|j|☆adil
+|t:|1781546142
+|gametype|singles
+|player|p1|Indralok|dawn|1535
+|player|p2|adil|266|1770
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hawlucha, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Gholdengo|
+|poke|p1|Kyurem|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Ceruledge, M|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Iron Treads|
+|poke|p2|Gholdengo|
+|poke|p2|Hatterene, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Indralok)
+|
+|t:|1781546150
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-ability|p1a: Kyurem|Pressure
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781546154
+|move|p2a: Iron Treads|Stealth Rock|p1a: Kyurem
+|-sidestart|p1: Indralok|move: Stealth Rock
+|move|p1a: Kyurem|Focus Blast|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781546167
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|2
+|
+|t:|1781546173
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|-damage|p1a: Samurott|88/100|[from] Stealth Rock
+|move|p2a: Gholdengo|Make It Rain|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|68/100
+|-unboost|p2a: Gholdengo|spa|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781546186
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|move|p1a: Samurott|Ceaseless Edge|p2a: Iron Valiant
+|-resisted|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|88/100
+|-sidestart|p2: adil|Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1781546192
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|move|p2a: Iron Valiant|Encore|p1a: Gholdengo
+|-immune|p1a: Gholdengo|[from] ability: Good as Gold
+|
+|upkeep
+|turn|5
+|
+|t:|1781546202
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|-damage|p2a: Samurott|88/100|[from] Spikes
+|move|p1a: Gholdengo|Make It Rain|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|66/100
+|-unboost|p1a: Gholdengo|spa|1
+|
+|upkeep
+|turn|6
+|
+|t:|1781546215
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-damage|p1a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Samurott|Ceaseless Edge|p1a: Rillaboom|[miss]
+|-miss|p2a: Samurott|p1a: Rillaboom
+|
+|-heal|p1a: Rillaboom|94/100|[from] Grassy Terrain
+|-heal|p2a: Samurott|72/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781546223
+|move|p1a: Rillaboom|Grassy Glide|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-heal|p1a: Rillaboom|100/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781546227
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|-damage|p2a: Ceruledge|88/100|[from] Spikes
+|turn|8
+|
+|t:|1781546231
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Ceruledge|atk|1
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|-heal|p2a: Ceruledge|94/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781546236
+|-terastallize|p2a: Ceruledge|Ghost
+|move|p1a: Landorus|Earth Power|p2a: Ceruledge
+|-damage|p2a: Ceruledge|59/100
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|-heal|p2a: Ceruledge|65/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1781546242
+|move|p1a: Landorus|Taunt|p2a: Ceruledge
+|-start|p2a: Ceruledge|move: Taunt
+|move|p2a: Ceruledge|Bitter Blade|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-heal|p2a: Ceruledge|100/100|[from] drain|[of] p1a: Landorus
+|-damage|p2a: Ceruledge|84/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p1a: Landorus
+|
+|-heal|p2a: Ceruledge|90/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781546246
+|switch|p1a: Samurott|Samurott-Hisui, F|68/100
+|-damage|p1a: Samurott|56/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1781546257
+|move|p1a: Samurott|Sucker Punch|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|13/100
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|move|p2a: Ceruledge|Bitter Blade|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|-heal|p2a: Ceruledge|48/100|[from] drain|[of] p1a: Samurott
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781546263
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-damage|p1a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|12
+|
+|t:|1781546273
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Rillaboom
+|-damage|p1a: Rillaboom|14/100
+|move|p1a: Rillaboom|Grassy Glide|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|-heal|p1a: Rillaboom|21/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781546284
+|switch|p2a: Iron Valiant|Iron Valiant|88/100
+|-damage|p2a: Iron Valiant|75/100|[from] Spikes
+|turn|13
+|
+|t:|1781546288
+|move|p1a: Rillaboom|Grassy Glide|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|20/100
+|move|p2a: Iron Valiant|Moonblast|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Iron Valiant|26/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781546296
+|switch|p1a: Gholdengo|Gholdengo|94/100
+|-damage|p1a: Gholdengo|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1781546301
+|move|p1a: Gholdengo|Shadow Ball|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-heal|p1a: Gholdengo|94/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781546308
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|15
+|
+|t:|1781546312
+|-terastallize|p1a: Gholdengo|Steel
+|move|p1a: Gholdengo|Shadow Ball|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|9/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|move|p2a: Gholdengo|Shadow Ball|p1a: Gholdengo
+|-damage|p1a: Gholdengo|49/100
+|
+|-heal|p1a: Gholdengo|55/100|[from] Grassy Terrain
+|-heal|p2a: Gholdengo|15/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1781546316
+|move|p1a: Gholdengo|Shadow Ball|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|-heal|p1a: Gholdengo|61/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|-message|adil forfeited.
+|
+|win|Indralok
+|raw|Indralok's rating: 1535 &rarr; <strong>1567</strong><br />(+32 for winning)
+|raw|adil's rating: 1770 &rarr; <strong>1738</strong><br />(-32 for losing)
+|l|☆adil
+|player|p2|

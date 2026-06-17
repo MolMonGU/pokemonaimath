@@ -1,0 +1,226 @@
+|j|☆Astelzhang
+|j|☆LowEL0God
+|t:|1781413787
+|gametype|singles
+|player|p1|Astelzhang|265|1539
+|player|p2|LowEL0God|265|1578
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Garganacl, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Moltres|
+|poke|p1|Great Tusk|
+|poke|p1|Iron Crown|
+|poke|p1|Meowscarada, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, F|
+|poke|p2|Barraskewda, M|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Astelzhang)
+|c|☆LowEL0God|hf
+|inactive|LowEL0God also wants the timer to be on.
+|
+|t:|1781413806
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|turn|1
+|
+|t:|1781413814
+|move|p2a: Kingambit|Sucker Punch|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|14/100
+|move|p1a: Iron Crown|Focus Blast|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|
+|upkeep
+|
+|t:|1781413815
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|2
+|
+|t:|1781413825
+|move|p2a: Barraskewda|Liquidation|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781413834
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|turn|3
+|
+|t:|1781413838
+|-terastallize|p1a: Garganacl|Fairy
+|move|p2a: Barraskewda|Liquidation|p1a: Garganacl
+|-damage|p1a: Garganacl|56/100
+|move|p1a: Garganacl|Salt Cure|p2a: Barraskewda
+|-damage|p2a: Barraskewda|74/100
+|-start|p2a: Barraskewda|Salt Cure
+|
+|-heal|p1a: Garganacl|62/100|[from] item: Leftovers
+|-damage|p2a: Barraskewda|49/100|[from] Salt Cure
+|upkeep
+|turn|4
+|
+|t:|1781413853
+|-terastallize|p2a: Barraskewda|Water
+|move|p2a: Barraskewda|Liquidation|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|faint|p1a: Garganacl
+|
+|-damage|p2a: Barraskewda|24/100|[from] Salt Cure
+|upkeep
+|
+|t:|1781413865
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|5
+|
+|t:|1781413872
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Dragapult|U-turn|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|86/100
+|
+|t:|1781413879
+|switch|p1a: Moltres|Moltres|100/100|[from] U-turn
+|
+|upkeep
+|turn|6
+|
+|t:|1781413887
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Moltres|Scorching Sands|p2a: Pelipper
+|-immune|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781413896
+|switch|p1a: Meowscarada|Meowscarada, F|100/100
+|move|p2a: Pelipper|Hurricane|p1a: Meowscarada
+|-supereffective|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|faint|p1a: Meowscarada
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781413906
+|switch|p1a: Moltres|Moltres|100/100
+|turn|8
+|
+|t:|1781413910
+|move|p1a: Moltres|Hurricane|p2a: Pelipper
+|-crit|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781413912
+|switch|p2a: Barraskewda|Barraskewda, M, tera:Water|24/100
+|turn|9
+|
+|t:|1781413932
+|move|p2a: Barraskewda|Liquidation|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781413939
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|10
+|
+|t:|1781413943
+|move|p1a: Dragapult|Quick Attack|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781413945
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|11
+|
+|t:|1781413953
+|move|p1a: Dragapult|Quick Attack|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|82/100
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Dragapult
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781413963
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|12
+|
+|t:|1781413967
+|move|p1a: Great Tusk|Headlong Rush|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781413968
+|switch|p2a: Overqwil|Overqwil, F|100/100
+|turn|13
+|
+|t:|1781413978
+|move|p2a: Overqwil|Liquidation|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|-damage|p2a: Overqwil|91/100|[from] item: Life Orb
+|
+|win|LowEL0God
+|raw|Astelzhang's rating: 1539 &rarr; <strong>1521</strong><br />(-18 for losing)
+|raw|LowEL0God's rating: 1578 &rarr; <strong>1596</strong><br />(+18 for winning)
+|l|☆Astelzhang
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|

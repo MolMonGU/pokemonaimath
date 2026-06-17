@@ -1,0 +1,251 @@
+|j|☆cachowcapow
+|j|☆erhai
+|t:|1781360509
+|gametype|singles
+|player|p1|cachowcapow|170|1751
+|player|p2|erhai|265|1632
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Meowscarada, F|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Alomomola, M|
+|poke|p1|Great Tusk|
+|poke|p1|Cetitan, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Iron Jugulis|
+|poke|p2|Ogerpon, F|
+|poke|p2|Scizor, F|
+|poke|p2|Latios, M|
+|poke|p2|Manaphy|
+|poke|p2|Sandy Shocks|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by erhai)
+|
+|t:|1781360525
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|switch|p2a: Iron Jugulis|Iron Jugulis|100/100
+|-enditem|p2a: Iron Jugulis|Booster Energy
+|-activate|p2a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Jugulis|quarkdrivespe
+|turn|1
+|
+|t:|1781360536
+|move|p2a: Iron Jugulis|Dark Pulse|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|50/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781360544
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|j| choispecs ironmoth
+|
+|t:|1781360570
+|move|p2a: Iron Jugulis|Dark Pulse|p1a: Tornadus
+|-damage|p1a: Tornadus|48/100
+|move|p1a: Tornadus|Weather Ball|p2a: Iron Jugulis
+|-supereffective|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|0 fnt
+|faint|p2a: Iron Jugulis
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|-damage|p1a: Tornadus|38/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|inactive|erhai has 120 seconds left.
+|
+|t:|1781360582
+|switch|p2a: Latios|Latios, M, shiny|100/100
+|turn|3
+|
+|t:|1781360585
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Latios|Agility|p2a: Latios
+|-boost|p2a: Latios|spe|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781360588
+|move|p2a: Latios|Calm Mind|p2a: Latios
+|-boost|p2a: Latios|spa|1
+|-boost|p2a: Latios|spd|1
+|move|p1a: Alomomola|Flip Turn|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|93/100
+|
+|t:|1781360597
+|switch|p1a: Cetitan|Cetitan, M|100/100|[from] Flip Turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781360606
+|move|p2a: Latios|Aura Sphere|p1a: Cetitan
+|-supereffective|p1a: Cetitan
+|-damage|p1a: Cetitan|7/100
+|-enditem|p1a: Cetitan|Sitrus Berry|[eat]
+|-heal|p1a: Cetitan|32/100|[from] item: Sitrus Berry
+|move|p1a: Cetitan|Icicle Crash|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|14/100
+|-enditem|p2a: Latios|Weakness Policy
+|-boost|p2a: Latios|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Latios|spa|2|[from] item: Weakness Policy
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781360613
+|move|p1a: Cetitan|Ice Shard|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|faint|p2a: Latios
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781360619
+|switch|p2a: Sandy Shocks|Sandy Shocks|100/100
+|-enditem|p2a: Sandy Shocks|Booster Energy
+|-activate|p2a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p2a: Sandy Shocks|protosynthesisspe
+|turn|7
+|
+|t:|1781360624
+|move|p1a: Cetitan|Icicle Crash|p2a: Sandy Shocks
+|-supereffective|p2a: Sandy Shocks
+|-crit|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|0 fnt
+|faint|p2a: Sandy Shocks
+|-end|p2a: Sandy Shocks|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781360632
+|switch|p2a: Scizor|Scizor, F, shiny|100/100
+|turn|8
+|
+|t:|1781360639
+|move|p2a: Scizor|Bullet Punch|p1a: Cetitan
+|-supereffective|p1a: Cetitan
+|-damage|p1a: Cetitan|0 fnt
+|faint|p1a: Cetitan
+|
+|-weather|none
+|upkeep
+|
+|t:|1781360651
+|switch|p1a: Tornadus|Tornadus-Therian, M|71/100
+|turn|9
+|
+|t:|1781360659
+|move|p2a: Scizor|Bullet Punch|p1a: Tornadus
+|-damage|p1a: Tornadus|11/100
+|move|p1a: Tornadus|Heat Wave|p2a: Scizor
+|-supereffective|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|-damage|p1a: Tornadus|1/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781360667
+|switch|p2a: Manaphy|Manaphy, shiny|100/100
+|turn|10
+|
+|t:|1781360679
+|-terastallize|p1a: Tornadus|Flying
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Manaphy
+|-damage|p2a: Manaphy|23/100
+|-damage|p1a: Tornadus|0 fnt|[from] item: Life Orb
+|faint|p1a: Tornadus
+|move|p2a: Manaphy|Tail Glow|p2a: Manaphy
+|-boost|p2a: Manaphy|spa|3
+|
+|upkeep
+|
+|t:|1781360686
+|switch|p1a: Meowscarada|Meowscarada, F|100/100
+|turn|11
+|
+|t:|1781360692
+|move|p1a: Meowscarada|Dark Pulse|p2a: Manaphy
+|-start|p1a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p2a: Manaphy|0 fnt
+|faint|p2a: Manaphy
+|
+|upkeep
+|
+|t:|1781360695
+|switch|p2a: Ogerpon|Ogerpon, F|100/100
+|turn|12
+|
+|t:|1781360705
+|move|p1a: Meowscarada|Dark Pulse|p2a: Ogerpon
+|-damage|p2a: Ogerpon|43/100
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|13
+|
+|t:|1781360712
+|-terastallize|p2a: Ogerpon|Grass
+|detailschange|p2a: Ogerpon|Ogerpon-Teal-Tera, F, tera:Grass
+|-ability|p2a: Ogerpon|Embody Aspect (Teal)|boost
+|-boost|p2a: Ogerpon|spe|1
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Meowscarada
+|-crit|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|faint|p1a: Meowscarada
+|
+|upkeep
+|
+|t:|1781360714
+|switch|p1a: Slowking|Slowking-Galar, M|83/100
+|turn|14
+|
+|t:|1781360716
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Slowking
+|-resisted|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1781360719
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|turn|15
+|-message|cachowcapow forfeited.
+|
+|win|erhai
+|raw|cachowcapow's rating: 1751 &rarr; <strong>1724</strong><br />(-27 for losing)
+|raw|erhai's rating: 1632 &rarr; <strong>1659</strong><br />(+27 for winning)
+|l|☆cachowcapow
+|player|p1|
+|l|☆erhai
+|player|p2|

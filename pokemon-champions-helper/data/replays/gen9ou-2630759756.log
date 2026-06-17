@@ -1,0 +1,973 @@
+|j|☆depakine
+|j|‽roxty
+|t:|1781291928
+|gametype|singles
+|player|p1|depakine|102|1682
+|player|p2|roxty|266|1773
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragapult, M|
+|poke|p1|Amoonguss, F|
+|poke|p1|Great Tusk|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Cresselia, F|
+|poke|p1|Clefable, M|
+|poke|p2|Gliscor, F|
+|poke|p2|Blissey, F|
+|poke|p2|Clefable, F|
+|poke|p2|Toxapex, F|
+|poke|p2|Dondozo, F|
+|poke|p2|Corviknight, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by roxty)
+|j| pirate_dagger45
+|
+|t:|1781291938
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|switch|p2a: Gliscor|Gliscor, F, shiny|100/100
+|turn|1
+|
+|t:|1781291940
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Samurott|Swords Dance|p1a: Samurott
+|-boost|p1a: Samurott|atk|2
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781291943
+|switch|p2a: Dondozo|Dondozo, F, shiny|100/100
+|move|p1a: Samurott|Ceaseless Edge|p2a: Dondozo|[miss]
+|-miss|p1a: Samurott|p2a: Dondozo
+|
+|upkeep
+|turn|3
+|j| just-jaype
+|j| cachowcapow
+|
+|t:|1781291949
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Dondozo|Body Press|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|86/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781291959
+|switch|p2a: Toxapex|Toxapex, F, shiny|100/100
+|move|p1a: Clefable|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|88/100
+|-enditem|p2a: Toxapex|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Clefable
+|
+|upkeep
+|turn|5
+|
+|t:|1781291965
+|switch|p1a: Amoonguss|Amoonguss, F|100/100
+|move|p2a: Toxapex|Infestation|p1a: Amoonguss
+|-crit|p1a: Amoonguss
+|-damage|p1a: Amoonguss|96/100
+|-activate|p1a: Amoonguss|move: Infestation|[of] p2a: Toxapex
+|-damage|p2a: Toxapex|71/100|[from] item: Rocky Helmet|[of] p1a: Amoonguss
+|
+|-damage|p1a: Amoonguss|84/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|6
+|j| Iggy Sent Me
+|
+|t:|1781291972
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|move|p1a: Amoonguss|Foul Play|p2a: Toxapex
+|-damage|p2a: Toxapex|62/100
+|
+|-damage|p1a: Amoonguss|71/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|7
+|
+|t:|1781291977
+|switch|p2a: Gliscor|Gliscor, F, shiny|100/100 tox
+|move|p1a: Amoonguss|Foul Play|p2a: Gliscor
+|-damage|p2a: Gliscor|85/100 tox
+|
+|-heal|p2a: Gliscor|97/100 tox|[from] ability: Poison Heal
+|-end|p1a: Amoonguss|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|turn|8
+|
+|t:|1781291985
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|move|p2a: Gliscor|Knock Off|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|89/100
+|-enditem|p1a: Samurott|Black Glasses|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|9
+|
+|t:|1781291993
+|move|p1a: Samurott|Ceaseless Edge|p2a: Gliscor
+|-crit|p2a: Gliscor
+|-damage|p2a: Gliscor|44/100 tox
+|-sidestart|p2: roxty|Spikes
+|move|p2a: Gliscor|Toxic|p1a: Samurott
+|-status|p1a: Samurott|tox
+|
+|-damage|p1a: Samurott|82/100 tox|[from] psn
+|-heal|p2a: Gliscor|57/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|10
+|
+|t:|1781292004
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Samurott|Swords Dance|p1a: Samurott
+|-boost|p1a: Samurott|atk|2
+|
+|-damage|p1a: Samurott|70/100 tox|[from] psn
+|-heal|p2a: Gliscor|69/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|11
+|
+|t:|1781292010
+|switch|p2a: Corviknight|Corviknight, M, shiny|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Samurott|Ceaseless Edge|p2a: Corviknight
+|-damage|p2a: Corviknight|33/100
+|-sidestart|p2: roxty|Spikes
+|
+|-heal|p2a: Corviknight|39/100|[from] item: Leftovers
+|-damage|p1a: Samurott|51/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1781292019
+|move|p2a: Corviknight|Protect|p2a: Corviknight
+|-singleturn|p2a: Corviknight|Protect
+|move|p1a: Samurott|Ceaseless Edge|p2a: Corviknight
+|-activate|p2a: Corviknight|move: Protect
+|
+|-heal|p2a: Corviknight|45/100|[from] item: Leftovers
+|-damage|p1a: Samurott|26/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1781292036
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Corviknight|Protect||[still]
+|-fail|p2a: Corviknight
+|
+|-heal|p2a: Corviknight|51/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781292040
+|move|p1a: Dragapult|Will-O-Wisp|p2a: Corviknight|[miss]
+|-miss|p1a: Dragapult|p2a: Corviknight
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|15
+|
+|t:|1781292043
+|switch|p2a: Toxapex|Toxapex, F, shiny|95/100
+|-damage|p2a: Toxapex|79/100|[from] Spikes
+|move|p1a: Dragapult|Will-O-Wisp|p2a: Toxapex
+|-status|p2a: Toxapex|brn
+|
+|-damage|p2a: Toxapex|73/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1781292050
+|move|p1a: Dragapult|Hex|p2a: Toxapex
+|-damage|p2a: Toxapex|41/100 brn
+|move|p2a: Toxapex|Toxic|p1a: Dragapult
+|-status|p1a: Dragapult|tox
+|
+|-damage|p1a: Dragapult|95/100 tox|[from] psn
+|-damage|p2a: Toxapex|35/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781292054
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Dragapult|Dragon Darts|p2a: Clefable
+|-immune|p2a: Clefable
+|
+|-damage|p1a: Dragapult|83/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1781292057
+|move|p1a: Dragapult|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|93/100
+|
+|t:|1781292062
+|switch|p1a: Cresselia|Cresselia, F|100/100|[from] U-turn
+|move|p2a: Clefable|Stealth Rock|p1a: Cresselia
+|-sidestart|p1: depakine|move: Stealth Rock
+|
+|upkeep
+|turn|19
+|
+|t:|1781292067
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Clefable|Knock Off|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|87/100
+|-enditem|p1a: Cresselia|Covert Cloak|[from] move: Knock Off|[of] p2a: Clefable
+|
+|upkeep
+|turn|20
+|
+|t:|1781292070
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|21
+|
+|t:|1781292074
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Blissey|Calm Mind|p2a: Blissey
+|-boost|p2a: Blissey|spa|1
+|-boost|p2a: Blissey|spd|1
+|
+|upkeep
+|turn|22
+|
+|t:|1781292080
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Blissey|Calm Mind|p2a: Blissey
+|-boost|p2a: Blissey|spa|1
+|-boost|p2a: Blissey|spd|1
+|
+|upkeep
+|turn|23
+|
+|t:|1781292082
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Blissey|Calm Mind|p2a: Blissey
+|-boost|p2a: Blissey|spa|1
+|-boost|p2a: Blissey|spd|1
+|
+|upkeep
+|turn|24
+|
+|t:|1781292084
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Blissey|Calm Mind|p2a: Blissey
+|-boost|p2a: Blissey|spa|1
+|-boost|p2a: Blissey|spd|1
+|
+|upkeep
+|turn|25
+|
+|t:|1781292086
+|move|p1a: Cresselia|Stored Power|p2a: Blissey
+|-damage|p2a: Blissey|74/100
+|move|p2a: Blissey|Calm Mind|p2a: Blissey
+|-boost|p2a: Blissey|spa|1
+|-boost|p2a: Blissey|spd|1
+|
+|upkeep
+|turn|26
+|l| just-jaype
+|
+|t:|1781292089
+|switch|p1a: Clefable|Clefable, M|86/100
+|move|p2a: Blissey|Calm Mind|p2a: Blissey
+|-boost|p2a: Blissey|spa|1
+|-boost|p2a: Blissey|spd|1
+|
+|upkeep
+|turn|27
+|
+|t:|1781292092
+|switch|p2a: Toxapex|Toxapex, F, shiny|68/100 brn
+|-damage|p2a: Toxapex|52/100 brn|[from] Spikes
+|move|p1a: Clefable|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|44/100 brn
+|
+|-damage|p2a: Toxapex|38/100 brn|[from] brn
+|upkeep
+|turn|28
+|j| just-jaype
+|
+|t:|1781292098
+|move|p1a: Clefable|Wish|p1a: Clefable
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|88/100 brn
+|
+|-damage|p2a: Toxapex|82/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1781292107
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|98/100|[from] Stealth Rock
+|move|p2a: Toxapex|Infestation|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|95/100
+|-activate|p1a: Great Tusk|move: Infestation|[of] p2a: Toxapex
+|
+|-heal|p1a: Great Tusk|100/100|[from] move: Wish|[wisher] Clefable
+|-damage|p2a: Toxapex|76/100 brn|[from] brn
+|-damage|p1a: Great Tusk|88/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|30
+|
+|t:|1781292117
+|switch|p2a: Dondozo|Dondozo, F, shiny|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Dondozo
+|-damage|p2a: Dondozo|72/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-heal|p1a: Great Tusk|94/100|[from] item: Leftovers
+|-end|p1a: Great Tusk|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|turn|31
+|
+|t:|1781292122
+|move|p1a: Great Tusk|Rapid Spin|p2a: Dondozo
+|-damage|p2a: Dondozo|64/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: depakine|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|move|p2a: Dondozo|Body Press|p1a: Great Tusk
+|-damage|p1a: Great Tusk|75/100
+|
+|-heal|p1a: Great Tusk|81/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1781292126
+|move|p1a: Great Tusk|Stealth Rock|p2a: Dondozo
+|-sidestart|p2: roxty|move: Stealth Rock
+|move|p2a: Dondozo|Rest|p2a: Dondozo
+|-status|p2a: Dondozo|slp|[from] move: Rest
+|-heal|p2a: Dondozo|100/100 slp|[silent]
+|
+|-heal|p1a: Great Tusk|87/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1781292133
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Dragapult|Dragapult, M|83/100 tox
+|cant|p2a: Dondozo|slp
+|move|p2a: Dondozo|Sleep Talk|p2a: Dondozo
+|move|p2a: Dondozo|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Dondozo
+|
+|-damage|p1a: Dragapult|77/100 tox|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1781292143
+|switch|p2a: Clefable|Clefable, F|93/100
+|move|p1a: Dragapult|Will-O-Wisp|p2a: Clefable
+|-status|p2a: Clefable|brn
+|
+|-damage|p1a: Dragapult|65/100 tox|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1781292149
+|move|p1a: Dragapult|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|86/100 brn
+|
+|t:|1781292153
+|switch|p1a: Cresselia|Cresselia, F|87/100|[from] U-turn
+|move|p2a: Clefable|Stealth Rock|p1a: Cresselia
+|-sidestart|p1: depakine|move: Stealth Rock
+|
+|upkeep
+|turn|36
+|
+|t:|1781292158
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Clefable|Moonblast|p1a: Cresselia
+|-damage|p1a: Cresselia|72/100
+|
+|upkeep
+|turn|37
+|
+|t:|1781292160
+|switch|p2a: Blissey|Blissey, F|74/100
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|38
+|
+|t:|1781292165
+|switch|p2a: Clefable|Clefable, F|86/100 brn
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|39
+|
+|t:|1781292167
+|switch|p2a: Blissey|Blissey, F|74/100
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|40
+|
+|t:|1781292170
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Blissey|Calm Mind|p2a: Blissey
+|-boost|p2a: Blissey|spa|1
+|-boost|p2a: Blissey|spd|1
+|
+|upkeep
+|turn|41
+|
+|t:|1781292172
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Blissey|Calm Mind|p2a: Blissey
+|-boost|p2a: Blissey|spa|1
+|-boost|p2a: Blissey|spd|1
+|
+|upkeep
+|turn|42
+|
+|t:|1781292174
+|move|p1a: Cresselia|Stored Power|p2a: Blissey
+|-damage|p2a: Blissey|34/100
+|move|p2a: Blissey|Calm Mind|p2a: Blissey
+|-boost|p2a: Blissey|spa|1
+|-boost|p2a: Blissey|spd|1
+|
+|upkeep
+|turn|43
+|
+|t:|1781292184
+|-terastallize|p2a: Blissey|Dark
+|move|p1a: Cresselia|Stored Power|p2a: Blissey
+|-immune|p2a: Blissey
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|84/100
+|
+|upkeep
+|turn|44
+|
+|t:|1781292189
+|move|p1a: Cresselia|Moonblast|p2a: Blissey
+|-supereffective|p2a: Blissey
+|-damage|p2a: Blissey|69/100
+|-unboost|p2a: Blissey|spa|1
+|move|p2a: Blissey|Shadow Ball|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|62/100
+|
+|upkeep
+|turn|45
+|
+|t:|1781292193
+|move|p1a: Cresselia|Moonblast|p2a: Blissey
+|-supereffective|p2a: Blissey
+|-damage|p2a: Blissey|51/100
+|move|p2a: Blissey|Shadow Ball|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|52/100
+|
+|upkeep
+|turn|46
+|
+|t:|1781292197
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|100/100
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|100/100
+|
+|upkeep
+|turn|47
+|
+|t:|1781292200
+|switch|p1a: Clefable|Clefable, M|86/100
+|move|p2a: Blissey|Calm Mind|p2a: Blissey
+|-boost|p2a: Blissey|spa|1
+|-boost|p2a: Blissey|spd|1
+|
+|upkeep
+|turn|48
+|l| just-jaype
+|
+|t:|1781292208
+|switch|p2a: Toxapex|Toxapex, F, shiny|100/100 brn
+|-damage|p2a: Toxapex|84/100 brn|[from] Spikes
+|-damage|p2a: Toxapex|72/100 brn|[from] Stealth Rock
+|move|p1a: Clefable|Wish|p1a: Clefable
+|
+|-damage|p2a: Toxapex|66/100 brn|[from] brn
+|upkeep
+|turn|49
+|
+|t:|1781292214
+|switch|p1a: Dragapult|Dragapult, M|65/100 tox
+|move|p2a: Toxapex|Toxic|p1a: Dragapult
+|-fail|p1a: Dragapult|tox
+|
+|-heal|p1a: Dragapult|100/100 tox|[from] move: Wish|[wisher] Clefable
+|-damage|p1a: Dragapult|95/100 tox|[from] psn
+|-damage|p2a: Toxapex|60/100 brn|[from] brn
+|upkeep
+|turn|50
+|
+|t:|1781292217
+|move|p1a: Dragapult|Hex|p2a: Toxapex
+|-damage|p2a: Toxapex|22/100 brn
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|72/100 brn
+|
+|-damage|p1a: Dragapult|83/100 tox|[from] psn
+|-damage|p2a: Toxapex|66/100 brn|[from] brn
+|upkeep
+|turn|51
+|
+|t:|1781292222
+|move|p1a: Dragapult|Hex|p2a: Toxapex
+|-damage|p2a: Toxapex|32/100 brn
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|82/100 brn
+|
+|-damage|p1a: Dragapult|65/100 tox|[from] psn
+|-damage|p2a: Toxapex|76/100 brn|[from] brn
+|upkeep
+|turn|52
+|
+|t:|1781292232
+|move|p1a: Dragapult|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|68/100 brn
+|
+|t:|1781292234
+|switch|p1a: Amoonguss|Amoonguss, F|100/100|[from] U-turn
+|-damage|p1a: Amoonguss|88/100|[from] Stealth Rock
+|move|p2a: Toxapex|Infestation|p1a: Amoonguss
+|-damage|p1a: Amoonguss|86/100
+|-activate|p1a: Amoonguss|move: Infestation|[of] p2a: Toxapex
+|-damage|p2a: Toxapex|51/100 brn|[from] item: Rocky Helmet|[of] p1a: Amoonguss
+|
+|-damage|p2a: Toxapex|45/100 brn|[from] brn
+|-damage|p1a: Amoonguss|73/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|53
+|
+|t:|1781292240
+|switch|p2a: Gliscor|Gliscor, F, shiny|69/100 tox
+|-damage|p2a: Gliscor|57/100 tox|[from] Stealth Rock
+|move|p1a: Amoonguss|Foul Play|p2a: Gliscor
+|-damage|p2a: Gliscor|40/100 tox
+|
+|-heal|p2a: Gliscor|53/100 tox|[from] ability: Poison Heal
+|-end|p1a: Amoonguss|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|turn|54
+|
+|t:|1781292245
+|switch|p1a: Great Tusk|Great Tusk|87/100
+|-damage|p1a: Great Tusk|84/100|[from] Stealth Rock
+|move|p2a: Gliscor|Spikes|p1a: Great Tusk
+|-sidestart|p1: depakine|Spikes
+|
+|-heal|p1a: Great Tusk|90/100|[from] item: Leftovers
+|-heal|p2a: Gliscor|65/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|55
+|
+|t:|1781292248
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Great Tusk|Ice Spinner|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p1a: Great Tusk|96/100|[from] item: Leftovers
+|-heal|p2a: Gliscor|78/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|56
+|
+|t:|1781292254
+|switch|p2a: Clefable|Clefable, F|86/100 brn
+|move|p1a: Great Tusk|Ice Spinner|p2a: Clefable
+|-damage|p2a: Clefable|66/100 brn
+|
+|-heal|p1a: Great Tusk|100/100|[from] item: Leftovers
+|upkeep
+|turn|57
+|
+|t:|1781292258
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|-damage|p1a: Cresselia|88/100|[from] Stealth Rock
+|move|p2a: Clefable|Knock Off|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|84/100
+|
+|upkeep
+|turn|58
+|
+|t:|1781292261
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|100/100 brn
+|
+|upkeep
+|turn|59
+|
+|t:|1781292270
+|switch|p2a: Toxapex|Toxapex, F, shiny|79/100 brn
+|-damage|p2a: Toxapex|62/100 brn|[from] Spikes
+|-damage|p2a: Toxapex|50/100 brn|[from] Stealth Rock
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|-damage|p2a: Toxapex|44/100 brn|[from] brn
+|upkeep
+|turn|60
+|
+|t:|1781292275
+|switch|p2a: Blissey|Blissey, F, tera:Dark|100/100
+|move|p1a: Cresselia|Stored Power|p2a: Blissey
+|-immune|p2a: Blissey
+|
+|upkeep
+|turn|61
+|
+|t:|1781292277
+|move|p1a: Cresselia|Moonblast|p2a: Blissey
+|-supereffective|p2a: Blissey
+|-damage|p2a: Blissey|81/100
+|-unboost|p2a: Blissey|spa|1
+|move|p2a: Blissey|Calm Mind|p2a: Blissey
+|-boost|p2a: Blissey|spa|1
+|-boost|p2a: Blissey|spd|1
+|
+|upkeep
+|turn|62
+|
+|t:|1781292285
+|switch|p1a: Clefable|Clefable, M|86/100
+|move|p2a: Blissey|Calm Mind|p2a: Blissey
+|-boost|p2a: Blissey|spa|1
+|-boost|p2a: Blissey|spd|1
+|
+|upkeep
+|turn|63
+|
+|t:|1781292296
+|switch|p2a: Toxapex|Toxapex, F, shiny|77/100 brn
+|-damage|p2a: Toxapex|61/100 brn|[from] Spikes
+|-damage|p2a: Toxapex|49/100 brn|[from] Stealth Rock
+|move|p1a: Clefable|Wish|p1a: Clefable
+|
+|-damage|p2a: Toxapex|43/100 brn|[from] brn
+|upkeep
+|turn|64
+|
+|t:|1781292302
+|switch|p1a: Dragapult|Dragapult, M|65/100 tox
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|93/100 brn
+|
+|-heal|p1a: Dragapult|100/100 tox|[from] move: Wish|[wisher] Clefable
+|-damage|p1a: Dragapult|95/100 tox|[from] psn
+|-damage|p2a: Toxapex|87/100 brn|[from] brn
+|upkeep
+|turn|65
+|
+|t:|1781292309
+|move|p1a: Dragapult|Dragon Darts|p2a: Toxapex
+|-damage|p2a: Toxapex|71/100 brn
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Toxapex
+|-damage|p2a: Toxapex|54/100 brn
+|move|p2a: Toxapex|Infestation|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|92/100 tox
+|-activate|p1a: Dragapult|move: Infestation|[of] p2a: Toxapex
+|
+|-damage|p1a: Dragapult|80/100 tox|[from] psn
+|-damage|p2a: Toxapex|48/100 brn|[from] brn
+|-damage|p1a: Dragapult|68/100 tox|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|66
+|
+|t:|1781292313
+|move|p1a: Dragapult|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|41/100 brn
+|
+|t:|1781292316
+|switch|p1a: Amoonguss|Amoonguss, F|100/100|[from] U-turn
+|-damage|p1a: Amoonguss|88/100|[from] Stealth Rock
+|-damage|p1a: Amoonguss|76/100|[from] Spikes
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|91/100 brn
+|
+|-damage|p2a: Toxapex|85/100 brn|[from] brn
+|upkeep
+|turn|67
+|
+|t:|1781292320
+|switch|p2a: Gliscor|Gliscor, F, shiny|78/100 tox
+|-damage|p2a: Gliscor|65/100 tox|[from] Stealth Rock
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|98/100|[from] Stealth Rock
+|-damage|p1a: Great Tusk|85/100|[from] Spikes
+|
+|-heal|p1a: Great Tusk|91/100|[from] item: Leftovers
+|-heal|p2a: Gliscor|78/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|68
+|
+|t:|1781292322
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Great Tusk|Ice Spinner|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p1a: Great Tusk|98/100|[from] item: Leftovers
+|-heal|p2a: Gliscor|90/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|69
+|
+|t:|1781292326
+|move|p1a: Great Tusk|Ice Spinner|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|-heal|p1a: Great Tusk|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781292330
+|switch|p2a: Clefable|Clefable, F|100/100 brn
+|turn|70
+|
+|t:|1781292338
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Amoonguss|Amoonguss, F|100/100
+|-damage|p1a: Amoonguss|88/100|[from] Stealth Rock
+|-damage|p1a: Amoonguss|76/100|[from] Spikes
+|move|p2a: Clefable|Moonblast|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|62/100
+|-unboost|p1a: Amoonguss|spa|1
+|
+|upkeep
+|turn|71
+|
+|t:|1781292343
+|switch|p1a: Cresselia|Cresselia, F|84/100
+|-damage|p1a: Cresselia|71/100|[from] Stealth Rock
+|move|p2a: Clefable|Knock Off|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|67/100
+|
+|upkeep
+|turn|72
+|
+|t:|1781292348
+|switch|p2a: Toxapex|Toxapex, F, shiny|100/100 brn
+|-damage|p2a: Toxapex|84/100 brn|[from] Spikes
+|-damage|p2a: Toxapex|72/100 brn|[from] Stealth Rock
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|100/100
+|
+|-damage|p2a: Toxapex|66/100 brn|[from] brn
+|upkeep
+|turn|73
+|
+|t:|1781292351
+|switch|p1a: Amoonguss|Amoonguss, F|95/100
+|-damage|p1a: Amoonguss|83/100|[from] Stealth Rock
+|-damage|p1a: Amoonguss|71/100|[from] Spikes
+|move|p2a: Toxapex|Toxic|p1a: Amoonguss
+|-immune|p1a: Amoonguss
+|
+|-damage|p2a: Toxapex|60/100 brn|[from] brn
+|upkeep
+|turn|74
+|
+|t:|1781292357
+|move|p2a: Toxapex|Infestation|p1a: Amoonguss
+|-damage|p1a: Amoonguss|68/100
+|-activate|p1a: Amoonguss|move: Infestation|[of] p2a: Toxapex
+|-damage|p2a: Toxapex|43/100 brn|[from] item: Rocky Helmet|[of] p1a: Amoonguss
+|move|p1a: Amoonguss|Foul Play|p2a: Toxapex
+|-damage|p2a: Toxapex|35/100 brn
+|
+|-damage|p2a: Toxapex|29/100 brn|[from] brn
+|-damage|p1a: Amoonguss|56/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|75
+|
+|t:|1781292360
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|79/100 brn
+|move|p1a: Amoonguss|Foul Play|p2a: Toxapex
+|-damage|p2a: Toxapex|70/100 brn
+|
+|-damage|p2a: Toxapex|65/100 brn|[from] brn
+|-damage|p1a: Amoonguss|43/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|76
+|
+|t:|1781292364
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|move|p1a: Amoonguss|Foul Play|p2a: Toxapex
+|-damage|p2a: Toxapex|56/100 brn
+|
+|-damage|p2a: Toxapex|50/100 brn|[from] brn
+|-damage|p1a: Amoonguss|31/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|77
+|
+|t:|1781292368
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|99/100 brn
+|move|p1a: Amoonguss|Synthesis|p1a: Amoonguss
+|-heal|p1a: Amoonguss|81/100
+|
+|-damage|p2a: Toxapex|94/100 brn|[from] brn
+|-damage|p1a: Amoonguss|69/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|78
+|
+|t:|1781292384
+|switch|p2a: Clefable|Clefable, F|100/100 brn
+|move|p1a: Amoonguss|Synthesis|p1a: Amoonguss
+|-heal|p1a: Amoonguss|100/100
+|
+|-end|p1a: Amoonguss|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|turn|79
+|
+|t:|1781292389
+|switch|p2a: Toxapex|Toxapex, F, shiny|100/100 brn
+|-damage|p2a: Toxapex|84/100 brn|[from] Spikes
+|-damage|p2a: Toxapex|72/100 brn|[from] Stealth Rock
+|move|p1a: Amoonguss|Clear Smog|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|67/100 brn
+|-clearboost|p2a: Toxapex
+|
+|-damage|p2a: Toxapex|61/100 brn|[from] brn
+|upkeep
+|turn|80
+|
+|t:|1781292393
+|switch|p2a: Clefable|Clefable, F|100/100 brn
+|move|p1a: Amoonguss|Clear Smog|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|74/100 brn
+|-clearboost|p2a: Clefable
+|
+|upkeep
+|turn|81
+|
+|t:|1781292397
+|switch|p2a: Toxapex|Toxapex, F, shiny|95/100 brn
+|-damage|p2a: Toxapex|78/100 brn|[from] Spikes
+|-damage|p2a: Toxapex|66/100 brn|[from] Stealth Rock
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|-damage|p1a: Cresselia|88/100|[from] Stealth Rock
+|
+|-damage|p2a: Toxapex|60/100 brn|[from] brn
+|upkeep
+|turn|82
+|
+|t:|1781292402
+|switch|p1a: Dragapult|Dragapult, M|68/100 tox
+|move|p2a: Toxapex|Infestation|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|65/100 tox
+|-activate|p1a: Dragapult|move: Infestation|[of] p2a: Toxapex
+|
+|-damage|p1a: Dragapult|59/100 tox|[from] psn
+|-damage|p2a: Toxapex|54/100 brn|[from] brn
+|-damage|p1a: Dragapult|47/100 tox|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|83
+|
+|t:|1781292406
+|move|p1a: Dragapult|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|43/100 brn
+|
+|t:|1781292413
+|switch|p1a: Amoonguss|Amoonguss, F|100/100|[from] U-turn
+|-damage|p1a: Amoonguss|88/100|[from] Stealth Rock
+|-damage|p1a: Amoonguss|76/100|[from] Spikes
+|move|p2a: Toxapex|Toxic|p1a: Amoonguss
+|-immune|p1a: Amoonguss
+|
+|-damage|p2a: Toxapex|37/100 brn|[from] brn
+|upkeep
+|turn|84
+|-message|roxty forfeited.
+|
+|win|depakine
+|raw|depakine's rating: 1682 &rarr; <strong>1707</strong><br />(+25 for winning)
+|raw|roxty's rating: 1773 &rarr; <strong>1748</strong><br />(-25 for losing)
+|l|‽roxty
+|player|p2|
+|l|☆depakine
+|player|p1|
+|j|☆depakine
+|player|p1|depakine|102|
+|l|☆depakine
+|player|p1|
+|l| cachowcapow

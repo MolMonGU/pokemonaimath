@@ -1,0 +1,238 @@
+|j|☆yakuman
+|j|☆KurisuChestnutLab
+|t:|1781152036
+|gametype|singles
+|player|p1|yakuman|102|1528
+|player|p2|KurisuChestnutLab|may-contest|1593
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Kyurem|
+|poke|p1|Great Tusk|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Dragonite, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Zapdos|
+|poke|p2|Garganacl, M|
+|poke|p2|Clefable, F|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yakuman)
+|inactive|KurisuChestnutLab also wants the timer to be on.
+|
+|t:|1781152046
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|1
+|
+|t:|1781152051
+|move|p2a: Gholdengo|Shadow Ball|p1a: Tornadus
+|-damage|p1a: Tornadus|71/100
+|move|p1a: Tornadus|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|58/100
+|-enditem|p2a: Gholdengo|Choice Scarf|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|upkeep
+|turn|2
+|
+|t:|1781152062
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|move|p1a: Tornadus|U-turn|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|62/100
+|
+|t:|1781152072
+|switch|p1a: Kyurem|Kyurem|100/100|[from] U-turn
+|-ability|p1a: Kyurem|Pressure
+|
+|upkeep
+|turn|3
+|
+|t:|1781152075
+|move|p2a: Samurott|Ceaseless Edge|p1a: Kyurem
+|-damage|p1a: Kyurem|57/100
+|-sidestart|p1: yakuman|Spikes
+|move|p1a: Kyurem|Freeze-Dry|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|upkeep
+|
+|t:|1781152079
+|switch|p2a: Garganacl|Garganacl, M|100/100
+|turn|4
+|
+|t:|1781152098
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Garganacl|Salt Cure|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|98/100
+|-start|p1a: Great Tusk|Salt Cure
+|
+|-damage|p1a: Great Tusk|86/100|[from] Salt Cure
+|upkeep
+|turn|5
+|
+|t:|1781152111
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781152119
+|move|p1a: Tornadus|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|96/100
+|-status|p1a: Tornadus|par|[from] ability: Static|[of] p2a: Zapdos
+|
+|t:|1781152122
+|switch|p1a: Kyurem|Kyurem|57/100|[from] U-turn
+|-damage|p1a: Kyurem|44/100|[from] Spikes
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Zapdos|Discharge|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|28/100
+|-status|p1a: Kyurem|par
+|
+|upkeep
+|turn|7
+|
+|t:|1781152126
+|move|p2a: Zapdos|Hurricane|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781152129
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-damage|p1a: Deoxys|88/100|[from] Spikes
+|-ability|p1a: Deoxys|Pressure
+|turn|8
+|
+|t:|1781152136
+|move|p1a: Deoxys|Nasty Plot|p1a: Deoxys
+|-boost|p1a: Deoxys|spa|2
+|move|p2a: Zapdos|Discharge|p1a: Deoxys
+|-damage|p1a: Deoxys|32/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781152139
+|-terastallize|p2a: Zapdos|Steel
+|move|p1a: Deoxys|Psycho Boost|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|8/100
+|-unboost|p1a: Deoxys|spa|2
+|-damage|p1a: Deoxys|22/100|[from] item: Life Orb
+|move|p2a: Zapdos|Volt Switch|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|t:|1781152143
+|switch|p2a: Clefable|Clefable, F|100/100|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1781152146
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|-damage|p1a: Hatterene|88/100|[from] Spikes
+|turn|10
+|
+|t:|1781152150
+|move|p2a: Clefable|Moonblast|p1a: Hatterene
+|-damage|p1a: Hatterene|53/100
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-heal|p1a: Hatterene|59/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781152157
+|move|p2a: Clefable|Moonblast|p1a: Hatterene
+|-damage|p1a: Hatterene|26/100
+|-unboost|p1a: Hatterene|spa|1
+|move|p1a: Hatterene|Psychic Noise|p2a: Clefable
+|-damage|p2a: Clefable|69/100
+|-start|p2a: Clefable|move: Heal Block
+|
+|-heal|p1a: Hatterene|32/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781152165
+|move|p2a: Clefable|Moonblast|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-end|p2a: Clefable|move: Heal Block
+|upkeep
+|
+|t:|1781152166
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|13
+|
+|t:|1781152176
+|-terastallize|p1a: Dragonite|Normal
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Clefable|Thunder Wave|p1a: Dragonite
+|-status|p1a: Dragonite|par
+|
+|upkeep
+|turn|14
+|
+|t:|1781152181
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Dragonite|Extreme Speed|p2a: Zamazenta
+|-damage|p2a: Zamazenta|63/100
+|
+|-heal|p2a: Zamazenta|70/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781152187
+|cant|p1a: Dragonite|par
+|move|p2a: Zamazenta|Body Press|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|46/100 par
+|
+|-heal|p2a: Zamazenta|76/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|-message|yakuman forfeited.
+|
+|win|KurisuChestnutLab
+|raw|yakuman's rating: 1528 &rarr; <strong>1511</strong><br />(-17 for losing)
+|raw|KurisuChestnutLab's rating: 1580 &rarr; <strong>1597</strong><br />(+17 for winning)
+|l|☆yakuman
+|player|p1|
+|l|☆KurisuChestnutLab
+|player|p2|
+|j| itsnotworkingsorry
+|l| itsnotworkingsorry

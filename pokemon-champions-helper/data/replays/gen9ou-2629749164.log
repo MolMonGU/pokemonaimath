@@ -1,0 +1,298 @@
+|j|☆LoseToRU?
+|j|‽LT_Alt1
+|t:|1781175001
+|gametype|singles
+|player|p1|LoseToRU?|giovanni-gen1|1593
+|player|p2|LT_Alt1|266|1675
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Jugulis|
+|poke|p1|Moltres-Galar|
+|poke|p1|Darkrai|
+|poke|p1|Hydreigon, F|
+|poke|p1|Weavile, F|
+|poke|p1|Zarude-Dada|
+|poke|p2|Kyurem|
+|poke|p2|Raging Bolt|
+|poke|p2|Hatterene, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Corviknight, M|
+|teampreview
+|
+|t:|1781175015
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zarude|Zarude-Dada|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|1
+|
+|t:|1781175019
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Zarude|Swords Dance|p1a: Zarude
+|-boost|p1a: Zarude|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781175036
+|-terastallize|p1a: Zarude|Fairy
+|move|p1a: Zarude|Swords Dance|p1a: Zarude
+|-boost|p1a: Zarude|atk|2
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|
+|upkeep
+|turn|3
+|
+|t:|1781175039
+|move|p1a: Zarude|Taunt|p2a: Corviknight
+|-start|p2a: Corviknight|move: Taunt
+|cant|p2a: Corviknight|move: Taunt|Iron Defense
+|
+|upkeep
+|turn|4
+|
+|t:|1781175047
+|move|p1a: Zarude|Swords Dance|p1a: Zarude
+|-boost|p1a: Zarude|atk|2
+|move|p2a: Corviknight|Body Press|p1a: Zarude
+|-resisted|p1a: Zarude
+|-damage|p1a: Zarude|77/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781175050
+|move|p1a: Zarude|Drain Punch|p2a: Corviknight
+|-damage|p2a: Corviknight|68/100
+|-heal|p1a: Zarude|96/100|[from] drain|[of] p2a: Corviknight
+|-damage|p1a: Zarude|79/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|move|p2a: Corviknight|Body Press|p1a: Zarude
+|-resisted|p1a: Zarude
+|-damage|p1a: Zarude|56/100
+|
+|-end|p2a: Corviknight|move: Taunt
+|upkeep
+|turn|6
+|
+|t:|1781175054
+|move|p1a: Zarude|Taunt|p2a: Corviknight
+|-start|p2a: Corviknight|move: Taunt
+|move|p2a: Corviknight|Body Press|p1a: Zarude
+|-resisted|p1a: Zarude
+|-damage|p1a: Zarude|36/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781175057
+|move|p1a: Zarude|Drain Punch|p2a: Corviknight
+|-damage|p2a: Corviknight|38/100
+|-heal|p1a: Zarude|53/100|[from] drain|[of] p2a: Corviknight
+|-damage|p1a: Zarude|36/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|move|p2a: Corviknight|Body Press|p1a: Zarude
+|-resisted|p1a: Zarude
+|-damage|p1a: Zarude|14/100
+|-enditem|p1a: Zarude|Salac Berry|[eat]
+|-boost|p1a: Zarude|spe|1|[from] item: Salac Berry
+|
+|upkeep
+|turn|8
+|
+|t:|1781175060
+|move|p1a: Zarude|Drain Punch|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-heal|p1a: Zarude|35/100|[from] drain|[of] p2a: Corviknight
+|-damage|p1a: Zarude|19/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781175065
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|9
+|
+|t:|1781175073
+|switch|p1a: Darkrai|Darkrai|100/100
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|
+|upkeep
+|turn|10
+|
+|t:|1781175075
+|move|p1a: Darkrai|Trick|p2a: Raging Bolt
+|-activate|p1a: Darkrai|move: Trick|[of] p2a: Raging Bolt
+|-item|p2a: Raging Bolt|Choice Scarf|[from] move: Trick
+|-item|p1a: Darkrai|Assault Vest|[from] move: Trick
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Darkrai
+|-damage|p1a: Darkrai|35/100
+|-unboost|p2a: Raging Bolt|spa|2
+|
+|upkeep
+|turn|11
+|
+|t:|1781175094
+|switch|p1a: Zarude|Zarude-Dada, tera:Fairy|19/100
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781175105
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|move|p1a: Zarude|Swords Dance|p1a: Zarude
+|-boost|p1a: Zarude|atk|2
+|
+|upkeep
+|turn|13
+|
+|t:|1781175109
+|move|p1a: Zarude|Drain Punch|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|58/100
+|-heal|p1a: Zarude|43/100|[from] drain|[of] p2a: Raging Bolt
+|move|p2a: Raging Bolt|Volt Switch|p1a: Zarude
+|-damage|p1a: Zarude|4/100
+|
+|t:|1781175112
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|14
+|
+|t:|1781175115
+|move|p1a: Zarude|Drain Punch|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|90/100
+|-heal|p1a: Zarude|10/100|[from] drain|[of] p2a: Slowking
+|move|p2a: Slowking|Sludge Bomb|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|0 fnt
+|faint|p1a: Zarude
+|
+|upkeep
+|
+|t:|1781175149
+|switch|p1a: Hydreigon|Hydreigon, F|100/100
+|turn|15
+|
+|t:|1781175153
+|switch|p2a: Raging Bolt|Raging Bolt|58/100
+|move|p1a: Hydreigon|Nasty Plot|p1a: Hydreigon
+|-boost|p1a: Hydreigon|spa|2
+|
+|upkeep
+|turn|16
+|
+|t:|1781175157
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Hydreigon
+|
+|upkeep
+|
+|t:|1781175180
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|17
+|
+|t:|1781175184
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Weavile|Swords Dance|p1a: Weavile
+|-boost|p1a: Weavile|atk|2
+|
+|upkeep
+|turn|18
+|
+|t:|1781175188
+|-terastallize|p2a: Kyurem|Ice
+|move|p1a: Weavile|Triple Axel|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|91/100
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|73/100
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|44/100
+|-hitcount|p2a: Kyurem|3
+|move|p2a: Kyurem|Draco Meteor|p1a: Weavile|[miss]
+|-miss|p2a: Kyurem|p1a: Weavile
+|
+|upkeep
+|turn|19
+|
+|t:|1781175194
+|move|p1a: Weavile|Knock Off|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|-enditem|p2a: Kyurem|Choice Specs|[from] move: Knock Off|[of] p1a: Weavile
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781175198
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|20
+|
+|t:|1781175202
+|move|p1a: Weavile|Triple Axel|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|78/100
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|36/100
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|-hitcount|p2: Ting-Lu|3
+|
+|upkeep
+|
+|t:|1781175209
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|21
+|
+|t:|1781175212
+|move|p1a: Weavile|Triple Axel|p2a: Hatterene
+|-damage|p2a: Hatterene|82/100
+|-damage|p2a: Hatterene|45/100
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|-hitcount|p2: Hatterene|3
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LoseToRU?)
+|inactive|LT_Alt1 has 120 seconds left.
+|inactive|LT_Alt1 has 90 seconds left.
+|inactive|LT_Alt1 has 60 seconds left.
+|inactive|LT_Alt1 has 30 seconds left.
+|inactive|LT_Alt1 has 20 seconds left.
+|inactive|LT_Alt1 has 15 seconds left.
+|inactive|LT_Alt1 has 10 seconds left.
+|inactive|LT_Alt1 has 5 seconds left.
+|-message|LT_Alt1 lost due to inactivity.
+|
+|win|LoseToRU?
+|raw|LoseToRU?'s rating: 1593 &rarr; <strong>1618</strong><br />(+25 for winning)
+|raw|LT_Alt1's rating: 1675 &rarr; <strong>1650</strong><br />(-25 for losing)
+|l|☆LoseToRU?
+|player|p1|

@@ -1,0 +1,318 @@
+|j|☆Floundso
+|j|☆justvented
+|t:|1781001515
+|gametype|singles
+|player|p1|Floundso|giovanni|1616
+|player|p2|justvented|wattson|1681
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Kingambit, M|
+|poke|p1|Great Tusk|
+|poke|p1|Cinderace, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Enamorus-Therian, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Hatterene, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Glimmora, F|
+|poke|p2|Dragonite, F|
+|poke|p2|Scizor, F|
+|teampreview
+|
+|t:|1781001530
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|1
+|
+|t:|1781001534
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: justvented|move: Light Screen
+|move|p1a: Slowking|Sludge Bomb|p2a: Zamazenta
+|-damage|p2a: Zamazenta|84/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781001538
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: justvented|Reflect
+|move|p1a: Slowking|Psyshock|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|63/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781001548
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|switch|p1a: Cinderace|Cinderace, M, shiny|100/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781001553
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-start|p1a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|move|p2a: Glimmora|Meteor Beam||[still]
+|-prepare|p2a: Glimmora|Meteor Beam
+|-boost|p2a: Glimmora|spa|1
+|-enditem|p2a: Glimmora|Power Herb
+|-anim|p2a: Glimmora|Meteor Beam|p1a: Cinderace
+|-damage|p1a: Cinderace|22/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781001564
+|move|p1a: Cinderace|U-turn|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|86/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: Floundso|move: Toxic Spikes
+|
+|t:|1781001567
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100|[from] U-turn
+|-sideend|p1: Floundso|move: Toxic Spikes|[of] p1a: Slowking
+|move|p2a: Glimmora|Meteor Beam||[still]
+|-prepare|p2a: Glimmora|Meteor Beam
+|-boost|p2a: Glimmora|spa|1
+|
+|upkeep
+|turn|6
+|
+|t:|1781001575
+|move|p2a: Glimmora|Meteor Beam|p1a: Slowking|[from] lockedmove
+|-damage|p1a: Slowking|66/100
+|move|p1a: Slowking|Psyshock|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|
+|upkeep
+|
+|t:|1781001583
+|switch|p2a: Zamazenta|Zamazenta|63/100
+|turn|7
+|
+|t:|1781001588
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: justvented|move: Light Screen
+|move|p1a: Slowking|Psyshock|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-crit|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781001609
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|8
+|
+|t:|1781001613
+|-terastallize|p2a: Hatterene|Water
+|move|p1a: Slowking|Sludge Bomb|p2a: Hatterene
+|-damage|p2a: Hatterene|78/100
+|-status|p2a: Hatterene|psn
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|-heal|p2a: Hatterene|84/100 psn|[from] item: Leftovers
+|-damage|p2a: Hatterene|72/100 psn|[from] psn
+|-sideend|p1: Floundso|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1781001623
+|move|p1a: Slowking|Psyshock|p2a: Hatterene
+|-damage|p2a: Hatterene|54/100 psn
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|-heal|p2a: Hatterene|60/100 psn|[from] item: Leftovers
+|-damage|p2a: Hatterene|48/100 psn|[from] psn
+|-sideend|p1: Floundso|Reflect
+|upkeep
+|turn|10
+|
+|t:|1781001628
+|move|p1a: Slowking|Psyshock|p2a: Hatterene
+|-damage|p2a: Hatterene|31/100 psn
+|move|p2a: Hatterene|Stored Power|p1a: Slowking
+|-damage|p1a: Slowking|20/100
+|
+|-heal|p2a: Hatterene|37/100 psn|[from] item: Leftovers
+|-damage|p2a: Hatterene|24/100 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1781001634
+|move|p1a: Slowking|Psyshock|p2a: Hatterene
+|-damage|p2a: Hatterene|9/100 psn
+|move|p2a: Hatterene|Stored Power|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-heal|p2a: Hatterene|15/100 psn|[from] item: Leftovers
+|-damage|p2a: Hatterene|2/100 psn|[from] psn
+|upkeep
+|
+|t:|1781001643
+|switch|p1a: Cinderace|Cinderace, M, shiny|22/100
+|turn|12
+|
+|t:|1781001647
+|move|p1a: Cinderace|U-turn|p2a: Hatterene
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|t:|1781001660
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781001668
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|13
+|j| lord shiddenfards
+|
+|t:|1781001679
+|move|p1a: Great Tusk|Ice Spinner|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|41/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|14
+|
+|t:|1781001685
+|move|p1a: Great Tusk|Ice Spinner|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|-sideend|p2: justvented|move: Light Screen
+|upkeep
+|
+|t:|1781001689
+|switch|p2a: Scizor|Scizor, F|100/100
+|turn|15
+|
+|t:|1781001697
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Kingambit|Kingambit, M, shiny|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|-item|p1a: Kingambit|Air Balloon
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|upkeep
+|turn|16
+|
+|t:|1781001701
+|move|p1a: Kingambit|Sucker Punch|p2a: Scizor
+|-damage|p2a: Scizor|52/100
+|move|p2a: Scizor|Close Combat|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|-unboost|p2a: Scizor|def|1
+|-unboost|p2a: Scizor|spd|1
+|-enditem|p1a: Kingambit|Air Balloon
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen1|[silent]
+|-damage|p2a: Scizor|42/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781001721
+|switch|p1a: Enamorus|Enamorus-Therian, F|100/100
+|turn|17
+|
+|t:|1781001729
+|-terastallize|p1a: Enamorus|Poison
+|move|p2a: Scizor|Close Combat|p1a: Enamorus
+|-resisted|p1a: Enamorus
+|-damage|p1a: Enamorus|60/100
+|-unboost|p2a: Scizor|def|1
+|-unboost|p2a: Scizor|spd|1
+|-damage|p2a: Scizor|32/100|[from] item: Life Orb
+|move|p1a: Enamorus|Earth Power|p2a: Scizor
+|-crit|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|-heal|p1a: Enamorus|66/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781001738
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|18
+|
+|t:|1781001742
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Enamorus
+|-damage|p1a: Enamorus|0 fnt
+|faint|p1a: Enamorus
+|
+|upkeep
+|
+|t:|1781001746
+|switch|p1a: Kyurem|Kyurem, shiny|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|19
+|
+|t:|1781001749
+|move|p1a: Kyurem|Ice Beam|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|31/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|21/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781001758
+|move|p2a: Raging Bolt|Thunderclap|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|6/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|win|Floundso
+|raw|Floundso's rating: 1616 &rarr; <strong>1640</strong><br />(+24 for winning)
+|raw|justvented's rating: 1681 &rarr; <strong>1657</strong><br />(-24 for losing)
+|l|☆Floundso
+|player|p1|
+|l|☆justvented
+|player|p2|
+|l| lord shiddenfards

@@ -1,0 +1,272 @@
+|j|☆KurisuChestnutOU
+|j|☆tony urbadaliano
+|t:|1781122746
+|gametype|singles
+|player|p1|KurisuChestnutOU|may-contest|1506
+|player|p2|tony urbadaliano|hooligans|1574
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, M|
+|poke|p1|Kommo-o, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Crown|
+|poke|p2|Iron Valiant|
+|poke|p2|Latias, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Cinderace, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tony urbadaliano)
+|inactive|KurisuChestnutOU also wants the timer to be on.
+|
+|t:|1781122755
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|switch|p2a: Loveless|Iron Valiant|100/100
+|turn|1
+|
+|t:|1781122759
+|move|p2a: Loveless|Vacuum Wave|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|
+|upkeep
+|
+|t:|1781122766
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|2
+|
+|t:|1781122770
+|-end|p2a: Loveless|Quark Drive|[silent]
+|switch|p2a: Firestarter|Cinderace, F|100/100
+|move|p1a: Iron Valiant|Focus Blast|p2a: Firestarter
+|-damage|p2a: Firestarter|35/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781122778
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Firestarter|Pyro Ball|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|35/100
+|-status|p1a: Iron Valiant|brn
+|
+|-damage|p1a: Iron Valiant|29/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1781122786
+|move|p1a: Iron Valiant|Moonblast|p2a: Firestarter
+|-resisted|p2a: Firestarter
+|-damage|p2a: Firestarter|0 fnt
+|faint|p2a: Firestarter
+|
+|-damage|p1a: Iron Valiant|23/100 brn|[from] brn
+|upkeep
+|
+|t:|1781122796
+|switch|p2a: The Blue Mask|Ogerpon-Wellspring, F|100/100
+|turn|5
+|
+|t:|1781122804
+|move|p1a: Iron Valiant|Focus Blast|p2a: The Blue Mask
+|-damage|p2a: The Blue Mask|0 fnt
+|faint|p2a: The Blue Mask
+|
+|-damage|p1a: Iron Valiant|16/100 brn|[from] brn
+|upkeep
+|
+|t:|1781122827
+|switch|p2a: Lodi Dodi|Latias, F|100/100
+|turn|6
+|
+|t:|1781122834
+|-terastallize|p2a: Lodi Dodi|Fairy
+|move|p1a: Iron Valiant|Moonblast|p2a: Lodi Dodi
+|-damage|p2a: Lodi Dodi|47/100
+|move|p2a: Lodi Dodi|Agility|p2a: Lodi Dodi
+|-boost|p2a: Lodi Dodi|spe|2
+|
+|-damage|p1a: Iron Valiant|10/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1781122846
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|move|p2a: Lodi Dodi|Calm Mind|p2a: Lodi Dodi
+|-boost|p2a: Lodi Dodi|spa|1
+|-boost|p2a: Lodi Dodi|spd|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781122852
+|move|p2a: Lodi Dodi|Stored Power|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|88/100
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Lodi Dodi
+|-supereffective|p2a: Lodi Dodi
+|-damage|p2a: Lodi Dodi|23/100
+|-enditem|p2a: Lodi Dodi|Weakness Policy
+|-boost|p2a: Lodi Dodi|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Lodi Dodi|spa|2|[from] item: Weakness Policy
+|-supereffective|p2a: Lodi Dodi
+|-damage|p2a: Lodi Dodi|0 fnt
+|faint|p2a: Lodi Dodi
+|-hitcount|p2: Lodi Dodi|2
+|
+|upkeep
+|
+|t:|1781122856
+|switch|p2a: Crimson King|Kingambit, M|100/100
+|turn|9
+|
+|t:|1781122860
+|move|p1a: Iron Crown|Focus Blast|p2a: Crimson King|[miss]
+|-miss|p1a: Iron Crown|p2a: Crimson King
+|move|p2a: Crimson King|Kowtow Cleave|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781122868
+|switch|p1a: Iron Valiant|Iron Valiant|10/100 brn
+|turn|10
+|
+|t:|1781122875
+|move|p2a: Crimson King|Sucker Punch|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781122879
+|switch|p1a: Kommo-o|Kommo-o, F|100/100
+|turn|11
+|
+|t:|1781122893
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|switch|p2a: Loveless|Iron Valiant|100/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781122898
+|-end|p2a: Loveless|Quark Drive|[silent]
+|switch|p2a: cLOUDDEAD|Landorus-Therian, M|100/100
+|-ability|p2a: cLOUDDEAD|Intimidate|boost
+|-unboost|p1a: Iron Treads|atk|1
+|move|p1a: Iron Treads|Earthquake|p2a: cLOUDDEAD
+|-immune|p2a: cLOUDDEAD
+|
+|upkeep
+|turn|13
+|
+|t:|1781122905
+|move|p1a: Iron Treads|Stealth Rock|p2a: cLOUDDEAD
+|-sidestart|p2: tony urbadaliano|move: Stealth Rock
+|move|p2a: cLOUDDEAD|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|28/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781122912
+|move|p1a: Iron Treads|Endeavor|p2a: cLOUDDEAD
+|-damage|p2a: cLOUDDEAD|28/100
+|-damage|p1a: Iron Treads|12/100|[from] item: Rocky Helmet|[of] p2a: cLOUDDEAD
+|move|p2a: cLOUDDEAD|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781122918
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|15
+|
+|t:|1781122927
+|move|p1a: Kyurem|Icicle Spear|p2a: cLOUDDEAD
+|-supereffective|p2a: cLOUDDEAD
+|-damage|p2a: cLOUDDEAD|0 fnt
+|faint|p2a: cLOUDDEAD
+|-hitcount|p2: cLOUDDEAD|1
+|
+|upkeep
+|
+|t:|1781122935
+|switch|p2a: Loveless|Iron Valiant|100/100
+|-damage|p2a: Loveless|94/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781122939
+|-terastallize|p1a: Kyurem|Ground
+|move|p2a: Loveless|Moonblast|p1a: Kyurem
+|-damage|p1a: Kyurem|23/100
+|move|p1a: Kyurem|Earth Power|p2a: Loveless
+|-damage|p2a: Loveless|18/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781122945
+|switch|p1a: Kommo-o|Kommo-o, F|100/100
+|move|p2a: Loveless|Moonblast|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|upkeep
+|
+|t:|1781122949
+|switch|p1a: Kyurem|Kyurem, tera:Ground|23/100
+|-ability|p1a: Kyurem|Pressure
+|turn|18
+|
+|t:|1781122955
+|move|p2a: Loveless|Moonblast|p1a: Kyurem
+|-crit|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|win|tony urbadaliano
+|raw|KurisuChestnutOU's rating: 1524 &rarr; <strong>1507</strong><br />(-17 for losing)
+|raw|tony urbadaliano's rating: 1574 &rarr; <strong>1591</strong><br />(+17 for winning)

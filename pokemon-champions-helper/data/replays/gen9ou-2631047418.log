@@ -1,0 +1,245 @@
+|j|☆Izlymoney
+|j|☆jd2sleepy
+|t:|1781330885
+|gametype|singles
+|player|p1|Izlymoney|1|1627
+|player|p2|jd2sleepy|blackbelt-gen4dp|1545
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cramorant, F|
+|poke|p1|Gallade, M|
+|poke|p1|Kingambit, F|
+|poke|p1|Iron Moth|
+|poke|p1|Enamorus, F|
+|poke|p1|Ogerpon-Cornerstone, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Pelipper, L99, F|
+|poke|p2|Iron Treads|
+|poke|p2|Zamazenta-*|
+|poke|p2|Iron Valiant|
+|poke|p2|Keldeo-Resolute|
+|teampreview
+|
+|t:|1781330892
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cramorant|Cramorant, F, shiny|100/100
+|switch|p2a: Drizzy|Pelipper, L99, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Drizzy
+|turn|1
+|
+|t:|1781330899
+|move|p1a: Cramorant|Surf|p2a: Drizzy
+|-formechange|p1a: Cramorant|Cramorant-Gulping|
+|-resisted|p2a: Drizzy
+|-damage|p2a: Drizzy|62/100
+|move|p2a: Drizzy|U-turn|p1a: Cramorant
+|-resisted|p1a: Cramorant
+|-damage|p1a: Cramorant|92/100
+|-damage|p2a: Drizzy|37/100|[from] ability: Gulp Missile|[of] p1a: Cramorant
+|-unboost|p2a: Drizzy|def|1
+|-formechange|p1a: Cramorant|Cramorant|
+|
+|t:|1781330902
+|switch|p2a: Tready Way|Iron Treads|100/100|[from] U-turn
+|-enditem|p2a: Tready Way|Booster Energy
+|-activate|p2a: Tready Way|ability: Quark Drive|[fromitem]
+|-start|p2a: Tready Way|quarkdrivespe
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781330906
+|move|p2a: Tready Way|Thunder|p1a: Cramorant
+|-supereffective|p1a: Cramorant
+|-damage|p1a: Cramorant|0 fnt
+|faint|p1a: Cramorant
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781330909
+|switch|p1a: Gallade|Gallade, M|100/100
+|turn|3
+|
+|t:|1781330913
+|move|p2a: Tready Way|Stealth Rock|p1a: Gallade
+|-sidestart|p1: Izlymoney|move: Stealth Rock
+|move|p1a: Gallade|Sacred Sword|p2a: Tready Way
+|-supereffective|p2a: Tready Way
+|-damage|p2a: Tready Way|0 fnt
+|faint|p2a: Tready Way
+|-end|p2a: Tready Way|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781330941
+|switch|p2a: Valiant Effort|Iron Valiant|100/100
+|-enditem|p2a: Valiant Effort|Booster Energy
+|-activate|p2a: Valiant Effort|ability: Quark Drive|[fromitem]
+|-start|p2a: Valiant Effort|quarkdrivespe
+|turn|4
+|
+|t:|1781330954
+|move|p2a: Valiant Effort|Moonblast|p1a: Gallade
+|-supereffective|p1a: Gallade
+|-damage|p1a: Gallade|2/100
+|move|p1a: Gallade|Psycho Cut|p2a: Valiant Effort
+|-supereffective|p2a: Valiant Effort
+|-damage|p2a: Valiant Effort|0 fnt
+|faint|p2a: Valiant Effort
+|-end|p2a: Valiant Effort|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781330970
+|switch|p2a: My Little Pony|Keldeo-Resolute|100/100
+|turn|5
+|
+|t:|1781330981
+|move|p2a: My Little Pony|Secret Sword|p1a: Gallade
+|-resisted|p1a: Gallade
+|-damage|p1a: Gallade|0 fnt
+|faint|p1a: Gallade
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781330998
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1781331002
+|switch|p2a: Drizzy|Pelipper, L99, F|37/100
+|move|p1a: Ogerpon|Power Whip|p2a: Drizzy
+|-damage|p2a: Drizzy|0 fnt
+|faint|p2a: Drizzy
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781331005
+|switch|p2a: Legend Of Zama|Zamazenta|100/100
+|-ability|p2a: Legend Of Zama|Dauntless Shield|boost
+|-boost|p2a: Legend Of Zama|def|1
+|turn|7
+|
+|t:|1781331010
+|move|p2a: Legend Of Zama|Heavy Slam|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|-damage|p2a: Legend Of Zama|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781331020
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|8
+|
+|t:|1781331025
+|-terastallize|p1a: Kingambit|Ghost
+|move|p2a: Legend Of Zama|Close Combat|p1a: Kingambit
+|-immune|p1a: Kingambit
+|move|p1a: Kingambit|Iron Head|p2a: Legend Of Zama
+|-damage|p2a: Legend Of Zama|40/100
+|-damage|p1a: Kingambit|84/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781331035
+|-end|p1a: Kingambit|fallen3|[silent]
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-damage|p1a: Iron Moth|76/100|[from] Stealth Rock
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|move|p2a: Legend Of Zama|Crunch|p1a: Iron Moth
+|-damage|p1a: Iron Moth|20/100
+|-damage|p2a: Legend Of Zama|30/100|[from] item: Life Orb
+|
+|upkeep
+|turn|10
+|
+|t:|1781331040
+|move|p1a: Iron Moth|Fiery Dance|p2a: Legend Of Zama
+|-damage|p2a: Legend Of Zama|0 fnt
+|-boost|p1a: Iron Moth|spa|1
+|faint|p2a: Legend Of Zama
+|
+|upkeep
+|
+|t:|1781331044
+|switch|p2a: IfILoseitall|Kingambit, M|100/100
+|-activate|p2a: IfILoseitall|ability: Supreme Overlord
+|-start|p2a: IfILoseitall|fallen4|[silent]
+|-item|p2a: IfILoseitall|Air Balloon
+|turn|11
+|
+|t:|1781331047
+|move|p2a: IfILoseitall|Sucker Punch|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781331049
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|-damage|p1a: Enamorus|76/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781331065
+|-terastallize|p2a: IfILoseitall|Fire
+|move|p1a: Enamorus|Superpower|p2a: IfILoseitall
+|-damage|p2a: IfILoseitall|74/100
+|-boost|p1a: Enamorus|atk|1
+|-boost|p1a: Enamorus|def|1
+|-enditem|p2a: IfILoseitall|Air Balloon
+|move|p2a: IfILoseitall|Iron Head|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-damage|p1a: Enamorus|0 fnt
+|faint|p1a: Enamorus
+|
+|upkeep
+|
+|t:|1781331082
+|switch|p1a: Kingambit|Kingambit, F, tera:Ghost|84/100
+|-damage|p1a: Kingambit|72/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|turn|13
+|
+|t:|1781331087
+|move|p2a: IfILoseitall|Kowtow Cleave|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen5|[silent]
+|
+|win|jd2sleepy
+|raw|Izlymoney's rating: 1627 &rarr; <strong>1602</strong><br />(-25 for losing)
+|raw|jd2sleepy's rating: 1545 &rarr; <strong>1570</strong><br />(+25 for winning)
+|l|☆Izlymoney
+|player|p1|

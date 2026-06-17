@@ -1,0 +1,214 @@
+|j|☆bluntsmoker3000
+|j|‽TheCannonites
+|t:|1781366852
+|gametype|singles
+|player|p1|bluntsmoker3000|bugcatcher-gen4dp|1662
+|player|p2|TheCannonites|n|1627
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ting-Lu|
+|poke|p1|Scizor, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Alomomola, M|
+|poke|p1|Hatterene, F|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Blastoise, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Iron Crown|
+|poke|p2|Great Tusk|
+|poke|p2|Ceruledge, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by TheCannonites)
+|inactive|bluntsmoker3000 also wants the timer to be on.
+|
+|t:|1781366862
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|turn|1
+|
+|t:|1781366867
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: TheCannonites|move: Light Screen
+|move|p1a: Hatterene|Nuzzle|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|96/100
+|-status|p2a: Grimmsnarl|par
+|
+|upkeep
+|turn|2
+|
+|t:|1781366876
+|switch|p1a: Scizor|Scizor, F|100/100
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781366882
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1781366889
+|move|p2a: Ceruledge|Close Combat|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|-unboost|p2a: Ceruledge|def|1
+|-unboost|p2a: Ceruledge|spd|1
+|faint|p1a: Ting-Lu
+|-damage|p2a: Ceruledge|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781366894
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|5
+|
+|t:|1781366901
+|move|p2a: Ceruledge|Close Combat|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|1/100
+|-unboost|p2a: Ceruledge|def|1
+|-unboost|p2a: Ceruledge|spd|1
+|-damage|p2a: Ceruledge|81/100|[from] item: Life Orb
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|upkeep
+|
+|t:|1781366914
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-enditem|p2a: Iron Crown|Booster Energy
+|-activate|p2a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Crown|quarkdrivespa
+|turn|6
+|
+|t:|1781366920
+|move|p2a: Iron Crown|Agility|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spe|2
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Iron Crown
+|-damage|p2a: Iron Crown|67/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781366926
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Iron Crown
+|-damage|p2a: Iron Crown|43/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781366933
+|move|p2a: Iron Crown|Stored Power|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-sideend|p2: TheCannonites|move: Light Screen
+|upkeep
+|
+|t:|1781366936
+|switch|p1a: Scizor|Scizor, F|100/100
+|turn|9
+|
+|t:|1781366940
+|move|p2a: Iron Crown|Focus Blast|p1a: Scizor
+|-damage|p1a: Scizor|6/100
+|move|p1a: Scizor|Knock Off|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781366956
+|switch|p2a: Blastoise|Blastoise, M|100/100
+|turn|10
+|
+|t:|1781366967
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|-enditem|p2a: Blastoise|White Herb
+|-clearnegativeboost|p2a: Blastoise|[silent]
+|
+|upkeep
+|turn|11
+|
+|t:|1781366977
+|-terastallize|p1a: Hatterene|Grass
+|move|p2a: Blastoise|Surf|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|63/100
+|move|p1a: Hatterene|Nuzzle|p2a: Blastoise
+|-supereffective|p2a: Blastoise
+|-damage|p2a: Blastoise|92/100
+|-status|p2a: Blastoise|par
+|
+|upkeep
+|turn|12
+|
+|t:|1781366990
+|move|p2a: Blastoise|Ice Beam|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781366991
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|turn|13
+|
+|t:|1781366996
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Blastoise
+|-damage|p2a: Blastoise|23/100 par
+|-unboost|p2a: Blastoise|spe|1
+|-damage|p1a: Tornadus|91/100|[from] item: Life Orb
+|move|p2a: Blastoise|Ice Beam|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-crit|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|-message|bluntsmoker3000 forfeited.
+|
+|win|TheCannonites
+|raw|bluntsmoker3000's rating: 1662 &rarr; <strong>1640</strong><br />(-22 for losing)
+|raw|TheCannonites's rating: 1627 &rarr; <strong>1649</strong><br />(+22 for winning)
+|l|☆bluntsmoker3000
+|player|p1|
+|l|‽TheCannonites
+|player|p2|
+|j| jimola
+|l| jimola

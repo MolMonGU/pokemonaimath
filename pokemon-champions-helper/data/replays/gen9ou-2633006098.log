@@ -1,0 +1,344 @@
+|j|☆arteezy magnus
+|j|☆lupiit
+|t:|1781592530
+|gametype|singles
+|player|p1|arteezy magnus|2|1480
+|player|p2|lupiit|lucas|1542
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragonite, M|
+|poke|p1|Blaziken, M|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Gholdengo|
+|poke|p1|Kyurem|
+|poke|p1|Iron Valiant|
+|poke|p2|Comfey, M|
+|poke|p2|Skeledirge, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Smeargle, M|
+|poke|p2|Diancie|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lupiit)
+|
+|t:|1781592546
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|1
+|
+|t:|1781592550
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Iron Valiant|Moonblast|p2a: Rillaboom
+|-damage|p2a: Rillaboom|61/100
+|
+|-heal|p2a: Rillaboom|68/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781592570
+|move|p1a: Iron Valiant|Destiny Bond|p1a: Iron Valiant
+|-singlemove|p1a: Iron Valiant|Destiny Bond
+|move|p2a: Rillaboom|U-turn|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|93/100
+|
+|t:|1781592577
+|switch|p2a: Diancie|Diancie|100/100|[from] U-turn
+|
+|-heal|p1a: Iron Valiant|99/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781592583
+|move|p1a: Iron Valiant|Taunt|p2a: Diancie
+|-start|p2a: Diancie|move: Taunt
+|cant|p2a: Diancie|move: Taunt|Trick Room
+|
+|-heal|p1a: Iron Valiant|100/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781592588
+|switch|p2a: Rillaboom|Rillaboom, M|68/100
+|move|p1a: Iron Valiant|Destiny Bond|p1a: Iron Valiant
+|-singlemove|p1a: Iron Valiant|Destiny Bond
+|
+|-heal|p2a: Rillaboom|74/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781592599
+|move|p2a: Rillaboom|Grassy Glide|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|50/100
+|move|p1a: Iron Valiant|Knock Off|p2a: Rillaboom
+|-damage|p2a: Rillaboom|40/100
+|-enditem|p2a: Rillaboom|Terrain Extender|[from] move: Knock Off|[of] p1a: Iron Valiant
+|
+|-heal|p1a: Iron Valiant|57/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|47/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781592605
+|move|p1a: Iron Valiant|Moonblast|p2a: Rillaboom
+|-damage|p2a: Rillaboom|3/100
+|move|p2a: Rillaboom|U-turn|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|49/100
+|
+|t:|1781592608
+|switch|p2a: Comfey|Comfey, M|100/100|[from] U-turn
+|
+|-heal|p1a: Iron Valiant|55/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781592620
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Comfey|Draining Kiss|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|90/100
+|
+|-heal|p1a: Gholdengo|96/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1781592630
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781592651
+|switch|p2a: Rillaboom|Rillaboom, M|3/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Kyurem|Earth Power|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|upkeep
+|
+|t:|1781592657
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|turn|10
+|
+|t:|1781592661
+|move|p2a: Samurott|Ceaseless Edge|p1a: Kyurem|[miss]
+|-miss|p2a: Samurott|p1a: Kyurem
+|move|p1a: Kyurem|Freeze-Dry|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|upkeep
+|
+|t:|1781592667
+|switch|p2a: Comfey|Comfey, M|100/100
+|turn|11
+|
+|t:|1781592680
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Comfey|Trick Room|p2a: Comfey
+|-fieldstart|move: Trick Room|[of] p2a: Comfey
+|
+|upkeep
+|turn|12
+|
+|t:|1781592686
+|switch|p2a: Skeledirge|Skeledirge, F|100/100
+|move|p1a: Deoxys|Taunt|p2a: Skeledirge
+|-start|p2a: Skeledirge|move: Taunt
+|
+|upkeep
+|turn|13
+|
+|t:|1781592707
+|move|p2a: Skeledirge|Torch Song|p1a: Deoxys
+|-damage|p1a: Deoxys|59/100
+|-boost|p2a: Skeledirge|spa|1
+|move|p1a: Deoxys|Skill Swap|p2a: Skeledirge
+|-activate|p1a: Deoxys|Skill Swap|Unaware|Pressure|[of] p2a: Skeledirge
+|-ability|p2a: Skeledirge|Pressure
+|
+|-heal|p1a: Deoxys|65/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1781592711
+|move|p2a: Skeledirge|Torch Song|p1a: Deoxys
+|-damage|p1a: Deoxys|9/100
+|-boost|p2a: Skeledirge|spa|1
+|move|p1a: Deoxys|Stealth Rock|p2a: Skeledirge
+|-sidestart|p2: lupiit|move: Stealth Rock
+|
+|-end|p2a: Skeledirge|move: Taunt
+|upkeep
+|turn|15
+|c|☆lupiit|wtf
+|
+|t:|1781592725
+|move|p2a: Skeledirge|Torch Song|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|-boost|p2a: Skeledirge|spa|1
+|faint|p1a: Deoxys
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1781592741
+|switch|p1a: Iron Valiant|Iron Valiant|55/100
+|turn|16
+|
+|t:|1781592749
+|move|p1a: Iron Valiant|Destiny Bond|p1a: Iron Valiant
+|-singlemove|p1a: Iron Valiant|Destiny Bond
+|move|p2a: Skeledirge|Substitute|p2a: Skeledirge
+|-start|p2a: Skeledirge|Substitute
+|-damage|p2a: Skeledirge|76/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781592755
+|move|p1a: Iron Valiant|Knock Off|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-end|p2a: Skeledirge|Substitute
+|move|p2a: Skeledirge|Torch Song|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|-boost|p2a: Skeledirge|spa|1
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781592762
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|18
+|
+|t:|1781592767
+|switch|p2a: Comfey|Comfey, M|100/100
+|-damage|p2a: Comfey|88/100|[from] Stealth Rock
+|move|p1a: Kyurem|Earth Power|p2a: Comfey
+|-damage|p2a: Comfey|53/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781592775
+|switch|p1a: Gholdengo|Gholdengo|96/100
+|move|p2a: Comfey|Calm Mind|p2a: Comfey
+|-boost|p2a: Comfey|spa|1
+|-boost|p2a: Comfey|spd|1
+|
+|upkeep
+|turn|20
+|
+|t:|1781592779
+|switch|p2a: Smeargle|Smeargle, M|100/100
+|-damage|p2a: Smeargle|88/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|
+|upkeep
+|turn|21
+|
+|t:|1781592788
+|move|p2a: Smeargle|Destiny Bond|p2a: Smeargle
+|-singlemove|p2a: Smeargle|Destiny Bond
+|move|p1a: Gholdengo|Make It Rain|p2a: Smeargle
+|-damage|p2a: Smeargle|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Smeargle
+|-activate|p2a: Smeargle|move: Destiny Bond
+|faint|p1a: Gholdengo
+|
+|upkeep
+|inactive|arteezy magnus has 120 seconds left.
+|
+|t:|1781592837
+|switch|p2a: Diancie|Diancie|100/100
+|switch|p1a: Blaziken|Blaziken, M|100/100
+|-damage|p2a: Diancie|88/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781592851
+|move|p1a: Blaziken|Close Combat|p2a: Diancie
+|-damage|p2a: Diancie|56/100
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|move|p2a: Diancie|Encore|p1a: Blaziken
+|-start|p1a: Blaziken|Encore
+|
+|-heal|p2a: Diancie|62/100|[from] item: Leftovers
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|23
+|
+|t:|1781592857
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|move|p2a: Diancie|Misty Explosion|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|64/100
+|faint|p2a: Diancie
+|
+|upkeep
+|
+|t:|1781592860
+|switch|p2a: Comfey|Comfey, M|53/100
+|-damage|p2a: Comfey|41/100|[from] Stealth Rock
+|turn|24
+|inactive|arteezy magnus has 120 seconds left.
+|
+|t:|1781592892
+|-terastallize|p1a: Dragonite|Fire
+|move|p1a: Dragonite|Extreme Speed|p2a: Comfey
+|-damage|p2a: Comfey|0 fnt
+|faint|p2a: Comfey
+|-damage|p1a: Dragonite|54/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781592894
+|switch|p2a: Skeledirge|Skeledirge, F|76/100
+|-damage|p2a: Skeledirge|51/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1781592897
+|move|p1a: Dragonite|Outrage|p2a: Skeledirge
+|-damage|p2a: Skeledirge|0 fnt
+|faint|p2a: Skeledirge
+|-damage|p1a: Dragonite|44/100|[from] item: Life Orb
+|
+|win|arteezy magnus
+|raw|arteezy magnus's rating: 1480 &rarr; <strong>1504</strong><br />(+24 for winning)
+|raw|lupiit's rating: 1542 &rarr; <strong>1518</strong><br />(-24 for losing)
+|l|☆lupiit
+|player|p2|
+|l|☆arteezy magnus
+|player|p1|

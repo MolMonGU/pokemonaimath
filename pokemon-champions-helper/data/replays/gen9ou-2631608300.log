@@ -1,0 +1,240 @@
+|badge|p2|bronze|gen9ou|100-9
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆lklowxhn
+|j|‽elsadm27
+|t:|1781408165
+|gametype|singles
+|player|p1|lklowxhn|miku-ghost|1591
+|player|p2|elsadm27|leaf-masters2|1810
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Serperior, M|
+|poke|p1|Slowbro, F|
+|poke|p1|Fezandipiti, M|
+|poke|p1|Great Tusk|
+|poke|p1|Heatran, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Cinderace, F|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Iron Valiant|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Pecharunt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lklowxhn)
+|
+|t:|1781408185
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|1
+|
+|t:|1781408192
+|move|p2a: Cinderace|U-turn|p1a: Great Tusk
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|88/100
+|
+|t:|1781408194
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from] U-turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Great Tusk|atk|1
+|move|p1a: Great Tusk|Ice Spinner|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1781408200
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|turn|2
+|
+|t:|1781408206
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Fezandipiti|Fezandipiti, M|100/100
+|move|p2a: Iron Valiant|Moonblast|p1a: Fezandipiti
+|-resisted|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|82/100
+|
+|-heal|p1a: Fezandipiti|88/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781408216
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Fezandipiti|U-turn|p2a: Pecharunt
+|-resisted|p2a: Pecharunt
+|-damage|p2a: Pecharunt|99/100
+|
+|t:|1781408223
+|switch|p1a: Great Tusk|Great Tusk|88/100|[from] U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1781408252
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Alomomola
+|-damage|p2a: Alomomola|55/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1781408261
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Serperior|Serperior, M|100/100
+|move|p2a: Alomomola|Flip Turn|p1a: Serperior
+|-resisted|p1a: Serperior
+|-damage|p1a: Serperior|91/100
+|
+|t:|1781408278
+|switch|p2a: Cinderace|Cinderace, F|100/100|[from] Flip Turn
+|
+|-heal|p1a: Serperior|97/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781408281
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Cinderace|U-turn|p1a: Heatran
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|94/100
+|
+|t:|1781408284
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100|[from] U-turn
+|
+|-heal|p1a: Heatran|99/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781408296
+|switch|p1a: 小树林|Slowbro, F|100/100
+|move|p2a: Hoopa|Hyperspace Fury|p1a: 小树林
+|-supereffective|p1a: 小树林
+|-enditem|p1a: 小树林|Colbur Berry|[eat]
+|-enditem|p1a: 小树林|Colbur Berry|[weaken]
+|-damage|p1a: 小树林|40/100
+|-unboost|p2a: Hoopa|def|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781408314
+|switch|p1a: Great Tusk|Great Tusk|88/100
+|move|p2a: Hoopa|Hyperspace Fury|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|50/100
+|-unboost|p2a: Hoopa|def|1
+|
+|upkeep
+|turn|9
+|
+|t:|1781408321
+|switch|p2a: Alomomola|Alomomola, M|88/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Alomomola
+|-damage|p2a: Alomomola|39/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1781408334
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Cinderace
+|-supereffective|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Cinderace
+|
+|upkeep
+|
+|t:|1781408336
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|turn|11
+|
+|t:|1781408339
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Fezandipiti|Fezandipiti, M|88/100
+|move|p2a: Iron Valiant|Trick|p1a: Fezandipiti
+|-activate|p2a: Iron Valiant|move: Trick|[of] p1a: Fezandipiti
+|-item|p1a: Fezandipiti|Choice Specs|[from] move: Trick
+|-item|p2a: Iron Valiant|Leftovers|[from] move: Trick
+|
+|upkeep
+|turn|12
+|
+|t:|1781408344
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Pecharunt|Pecharunt|99/100
+|move|p1a: Fezandipiti|Moonblast|p2a: Pecharunt
+|-resisted|p2a: Pecharunt
+|-damage|p2a: Pecharunt|82/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781408352
+|move|p2a: Pecharunt|Parting Shot|p1a: Fezandipiti
+|-unboost|p1a: Fezandipiti|atk|1
+|-unboost|p1a: Fezandipiti|spa|1
+|
+|t:|1781408354
+|switch|p2a: Alomomola|Alomomola, M|72/100|[from] Parting Shot
+|move|p1a: Fezandipiti|Moonblast|p2a: Alomomola
+|-damage|p2a: Alomomola|60/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781408362
+|switch|p1a: 小树林|Slowbro, F|74/100
+|move|p2a: Alomomola|Flip Turn|p1a: 小树林
+|-resisted|p1a: 小树林
+|-damage|p1a: 小树林|69/100
+|
+|t:|1781408366
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|15
+|
+|t:|1781408370
+|-terastallize|p1a: 小树林|Fighting
+|move|p2a: Hoopa|Hyperspace Fury|p1a: 小树林
+|-resisted|p1a: 小树林
+|-damage|p1a: 小树林|39/100
+|-unboost|p2a: Hoopa|def|1
+|move|p1a: 小树林|Body Press|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|faint|p2a: Hoopa
+|
+|upkeep
+|-message|elsadm27 forfeited.
+|
+|win|lklowxhn
+|raw|lklowxhn's rating: 1579 &rarr; <strong>1611</strong><br />(+32 for winning)
+|raw|elsadm27's rating: 1810 &rarr; <strong>1778</strong><br />(-32 for losing)
+|l|‽elsadm27
+|player|p2|

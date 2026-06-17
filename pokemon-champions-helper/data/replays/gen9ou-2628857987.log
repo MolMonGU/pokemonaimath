@@ -1,0 +1,550 @@
+|j|☆kadu99
+|j|☆Golem Rising
+|t:|1781064039
+|gametype|singles
+|player|p1|kadu99|policeman-gen4|1591
+|player|p2|Golem Rising|bruno|1638
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cinderace, F|
+|poke|p1|Ting-Lu|
+|poke|p1|Garganacl, M|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Alomomola, M|
+|poke|p1|Kyurem|
+|poke|p2|Torkoal, M|
+|poke|p2|Walking Wake|
+|poke|p2|Great Tusk|
+|poke|p2|Goodra-Hisui, F|
+|poke|p2|Slither Wing|
+|poke|p2|Venusaur, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by kadu99)
+|
+|t:|1781064050
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Garganacl|Garganacl, M|100/100
+|switch|p2a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|1
+|
+|t:|1781064056
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Garganacl|Curse|p1a: Garganacl
+|-unboost|p1a: Garganacl|spe|1
+|-boost|p1a: Garganacl|atk|1
+|-boost|p1a: Garganacl|def|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781064065
+|switch|p1a: Alomomola|Alomomola, M, shiny|100/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Alomomola
+|-damage|p1a: Alomomola|38/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-damage|p2a: Great Tusk|84/100|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781064079
+|move|p2a: Great Tusk|Headlong Rush|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-damage|p2a: Great Tusk|67/100|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|faint|p1a: Alomomola
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781064083
+|switch|p1a: Kyurem|Kyurem, shiny|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|4
+|
+|t:|1781064091
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Goodra|Goodra-Hisui, F|100/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Goodra
+|-damage|p2a: Goodra|85/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781064098
+|switch|p1a: Ting-Lu|Ting-Lu, shiny|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Goodra|Sludge Bomb|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|94/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Ting-Lu|99/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781064110
+|switch|p2a: Great Tusk|Great Tusk|67/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Ting-Lu|Ruination|p2a: Great Tusk
+|-damage|p2a: Great Tusk|34/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781064119
+|move|p2a: Great Tusk|Close Combat|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Ting-Lu
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781064122
+|switch|p1a: Kyurem|Kyurem, shiny|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|8
+|
+|t:|1781064129
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Goodra|Goodra-Hisui, F|85/100
+|move|p1a: Kyurem|Earth Power|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|59/100
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781064136
+|move|p1a: Kyurem|Substitute|p1a: Kyurem
+|-start|p1a: Kyurem|Substitute
+|-damage|p1a: Kyurem|75/100
+|move|p2a: Goodra|Dragon Pulse|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-end|p1a: Kyurem|Substitute
+|
+|-heal|p1a: Kyurem|82/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781064143
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|move|p2a: Goodra|Dragon Pulse|p1a: Cinderace
+|-damage|p1a: Cinderace|40/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781064151
+|switch|p2a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Cinderace|Super Fang|p2a: Torkoal
+|-start|p1a: Cinderace|typechange|Normal|[from] ability: Libero
+|-damage|p2a: Torkoal|51/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781064164
+|switch|p2a: Great Tusk|Great Tusk|34/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Cinderace|U-turn|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|26/100
+|
+|t:|1781064166
+|switch|p1a: Kyurem|Kyurem, shiny|82/100|[from] U-turn
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Kyurem|88/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|j| nepturee
+|
+|t:|1781064178
+|move|p1a: Kyurem|Earth Power|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Kyurem|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781064192
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|turn|14
+|
+|t:|1781064200
+|-terastallize|p2a: Walking Wake|Water
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: Walking Wake|Hydro Steam|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Kyurem|99/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781064208
+|move|p2a: Walking Wake|Hydro Steam|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|41/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Walking Wake
+|-supereffective|p2a: Walking Wake
+|-damage|p2a: Walking Wake|22/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Kyurem|47/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781064216
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: Walking Wake|Hydro Steam|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Kyurem|53/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|kadu99 has 120 seconds left.
+|
+|t:|1781064249
+|switch|p1a: Cinderace|Cinderace, F|40/100
+|move|p2a: Walking Wake|Hydro Steam|p1a: Cinderace
+|-supereffective|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|kadu99 has 120 seconds left.
+|
+|t:|1781064260
+|switch|p1a: Kyurem|Kyurem, shiny|53/100
+|-ability|p1a: Kyurem|Pressure
+|turn|18
+|inactive|kadu99 has 120 seconds left.
+|
+|t:|1781064270
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|move|p1a: Kyurem|Protect||[still]
+|-fail|p1a: Kyurem
+|
+|-weather|none
+|-end|p2a: Slither Wing|Protosynthesis
+|-heal|p1a: Kyurem|59/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|kadu99 has 120 seconds left.
+|
+|t:|1781064281
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: Slither Wing|First Impression|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-heal|p1a: Kyurem|65/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|c|☆Golem Rising|sigh
+|
+|t:|1781064288
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Goodra|Goodra-Hisui, F|59/100
+|move|p1a: Kyurem|Substitute|p1a: Kyurem
+|-start|p1a: Kyurem|Substitute
+|-damage|p1a: Kyurem|40/100
+|
+|-heal|p1a: Kyurem|47/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781064294
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: Goodra|Dragon Pulse|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-heal|p1a: Kyurem|53/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781064301
+|move|p1a: Kyurem|Earth Power|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|34/100
+|move|p2a: Goodra|Dragon Pulse|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-end|p1a: Kyurem|Substitute
+|
+|-heal|p1a: Kyurem|59/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781064309
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: Goodra|Sludge Bomb|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-heal|p1a: Kyurem|65/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|inactive|kadu99 has 120 seconds left.
+|inactive|kadu99 has 90 seconds left.
+|
+|t:|1781064389
+|move|p1a: Kyurem|Substitute|p1a: Kyurem
+|-start|p1a: Kyurem|Substitute
+|-damage|p1a: Kyurem|40/100
+|move|p2a: Goodra|Dragon Pulse|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-crit|p1a: Kyurem
+|-end|p1a: Kyurem|Substitute
+|
+|-heal|p1a: Kyurem|46/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781064409
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: Goodra|Sludge Bomb|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-heal|p1a: Kyurem|52/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|inactive|kadu99 has 60 seconds left.
+|
+|t:|1781064429
+|switch|p1a: Garganacl|Garganacl, M|100/100
+|move|p2a: Goodra|Dragon Pulse|p1a: Garganacl
+|-damage|p1a: Garganacl|69/100
+|
+|-heal|p1a: Garganacl|75/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781064437
+|switch|p2a: Torkoal|Torkoal, M|51/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Garganacl|Salt Cure|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|33/100
+|-start|p2a: Torkoal|Salt Cure
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Garganacl|82/100|[from] item: Leftovers
+|-damage|p2a: Torkoal|20/100|[from] Salt Cure
+|upkeep
+|turn|28
+|
+|t:|1781064447
+|switch|p2a: Venusaur|Venusaur, F|100/100
+|move|p1a: Garganacl|Curse|p1a: Garganacl
+|-unboost|p1a: Garganacl|spe|1
+|-boost|p1a: Garganacl|atk|1
+|-boost|p1a: Garganacl|def|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Garganacl|88/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1781064455
+|move|p2a: Venusaur|Growth|p2a: Venusaur
+|-boost|p2a: Venusaur|atk|2
+|-boost|p2a: Venusaur|spa|2
+|move|p1a: Garganacl|Salt Cure|p2a: Venusaur
+|-damage|p2a: Venusaur|72/100
+|-start|p2a: Venusaur|Salt Cure
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Garganacl|94/100|[from] item: Leftovers
+|-damage|p2a: Venusaur|60/100|[from] Salt Cure
+|upkeep
+|turn|30
+|
+|t:|1781064465
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Venusaur|Giga Drain|p1a: Garganacl
+|-activate|p1a: Garganacl|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Garganacl|99/100|[from] item: Leftovers
+|-damage|p2a: Venusaur|48/100|[from] Salt Cure
+|upkeep
+|turn|31
+|inactive|kadu99 has 90 seconds left.
+|
+|t:|1781064485
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Venusaur|Giga Drain|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|41/100
+|-heal|p2a: Venusaur|81/100|[from] drain|[of] p1a: Weezing
+|-damage|p2a: Venusaur|71/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Weezing|47/100|[from] item: Leftovers
+|-damage|p2a: Venusaur|59/100|[from] Salt Cure
+|upkeep
+|turn|32
+|
+|t:|1781064496
+|move|p1a: Weezing|Protect|p1a: Weezing
+|-singleturn|p1a: Weezing|Protect
+|move|p2a: Venusaur|Giga Drain|p1a: Weezing
+|-activate|p1a: Weezing|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Weezing|53/100|[from] item: Leftovers
+|-damage|p2a: Venusaur|46/100|[from] Salt Cure
+|upkeep
+|turn|33
+|
+|t:|1781064504
+|-terastallize|p1a: Weezing|Grass
+|move|p2a: Venusaur|Giga Drain|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|-heal|p2a: Venusaur|76/100|[from] drain|[of] p1a: Weezing
+|faint|p1a: Weezing
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|-damage|p2a: Venusaur|66/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Venusaur|53/100|[from] Salt Cure
+|upkeep
+|
+|t:|1781064512
+|switch|p1a: Kyurem|Kyurem, shiny|52/100
+|-ability|p1a: Kyurem|Pressure
+|turn|34
+|
+|t:|1781064517
+|switch|p2a: Goodra|Goodra-Hisui, F|34/100
+|move|p1a: Kyurem|Protect||[still]
+|-fail|p1a: Kyurem
+|
+|-weather|none
+|-heal|p1a: Kyurem|59/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1781064523
+|switch|p1a: Garganacl|Garganacl, M|99/100
+|move|p2a: Goodra|Dragon Pulse|p1a: Garganacl
+|-damage|p1a: Garganacl|69/100
+|
+|-heal|p1a: Garganacl|75/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|inactive|kadu99 has 120 seconds left.
+|
+|t:|1781064533
+|switch|p2a: Torkoal|Torkoal, M|20/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Garganacl|Curse|p1a: Garganacl
+|-unboost|p1a: Garganacl|spe|1
+|-boost|p1a: Garganacl|atk|1
+|-boost|p1a: Garganacl|def|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Garganacl|81/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1781064543
+|move|p1a: Garganacl|Salt Cure|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Garganacl|87/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781064550
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|turn|38
+|
+|t:|1781064558
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Slither Wing|Close Combat|p1a: Garganacl
+|-activate|p1a: Garganacl|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Garganacl|94/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1781064568
+|move|p2a: Slither Wing|Close Combat|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|-unboost|p2a: Slither Wing|def|1
+|-unboost|p2a: Slither Wing|spd|1
+|faint|p1a: Garganacl
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781064573
+|switch|p1a: Kyurem|Kyurem, shiny|59/100
+|-ability|p1a: Kyurem|Pressure
+|turn|40
+|-message|kadu99 forfeited.
+|
+|win|Golem Rising
+|raw|kadu99's rating: 1591 &rarr; <strong>1574</strong><br />(-17 for losing)
+|raw|Golem Rising's rating: 1638 &rarr; <strong>1655</strong><br />(+17 for winning)
+|l|☆kadu99
+|player|p1|
+|l|☆Golem Rising
+|player|p2|

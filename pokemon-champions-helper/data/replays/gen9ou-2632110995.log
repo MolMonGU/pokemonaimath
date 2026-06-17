@@ -1,0 +1,456 @@
+|j|☆InfinityPokeRang3r
+|j|☆Okenuth
+|t:|1781477384
+|gametype|singles
+|player|p1|InfinityPokeRang3r|ingo|1554
+|player|p2|Okenuth|hilbert|1575
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon, F|
+|poke|p1|Greninja-*, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Kyurem|
+|poke|p1|Rotom-Heat|
+|poke|p1|Iron Treads|
+|poke|p2|Alomomola, F|
+|poke|p2|Gholdengo|
+|poke|p2|Corviknight, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Meowscarada, F|
+|poke|p2|Great Tusk|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Okenuth)
+|
+|t:|1781477395
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rotom|Rotom-Heat|100/100
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|turn|1
+|
+|t:|1781477415
+|move|p2a: Meowscarada|U-turn|p1a: Rotom
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-resisted|p1a: Rotom
+|-crit|p1a: Rotom
+|-damage|p1a: Rotom|49/100
+|
+|t:|1781477421
+|switch|p2a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|move|p1a: Rotom|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|77/100
+|
+|t:|1781477431
+|switch|p1a: Ogerpon|Ogerpon, F|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|2
+|
+|t:|1781477437
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ogerpon|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|95/100
+|
+|t:|1781477441
+|switch|p1a: Rotom|Rotom-Heat|49/100|[from] U-turn
+|
+|-heal|p2a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781477447
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Rotom|Overheat|p2a: Slowking|[miss]
+|-miss|p1a: Rotom|p2a: Slowking
+|
+|upkeep
+|turn|4
+|
+|t:|1781477455
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Slowking|Future Sight|p1a: Iron Treads
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|5
+|
+|t:|1781477465
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Iron Treads|Ice Spinner|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|93/100
+|-damage|p1a: Iron Treads|84/100|[from] item: Rocky Helmet|[of] p2a: Alomomola
+|
+|upkeep
+|turn|6
+|
+|t:|1781477473
+|move|p1a: Iron Treads|Earthquake|p2a: Alomomola
+|-damage|p2a: Alomomola|66/100
+|move|p2a: Alomomola|Scald|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|59/100
+|-status|p1a: Iron Treads|brn
+|
+|-end|p1a: Iron Treads|move: Future Sight
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|30/100 brn
+|-damage|p1a: Iron Treads|24/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1781477488
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|
+|upkeep
+|turn|8
+|
+|t:|1781477495
+|move|p2a: Alomomola|Flip Turn|p1a: Slowking
+|-damage|p1a: Slowking|86/100
+|-damage|p2a: Alomomola|49/100|[from] item: Rocky Helmet|[of] p1a: Slowking
+|
+|t:|1781477499
+|switch|p2a: Slowking|Slowking-Galar, M|100/100|[from] Flip Turn
+|move|p1a: Slowking|Future Sight|p2a: Slowking
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|9
+|
+|t:|1781477504
+|move|p2a: Slowking|Future Sight|p1a: Slowking
+|-start|p2a: Slowking|move: Future Sight
+|move|p1a: Slowking|Thunder Wave|p2a: Slowking
+|-status|p2a: Slowking|par
+|
+|upkeep
+|turn|10
+|
+|t:|1781477510
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781477515
+|switch|p1a: Greninja|Greninja, M|100/100|[from] Chilly Reception
+|move|p2a: Slowking|Psychic|p1a: Greninja
+|-immune|p1a: Greninja
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Slowking|move: Future Sight
+|-damage|p2a: Slowking|73/100 par
+|upkeep
+|turn|11
+|
+|t:|1781477528
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|move|p1a: Greninja|Dark Pulse|p2a: Meowscarada
+|-resisted|p2a: Meowscarada
+|-damage|p2a: Meowscarada|73/100
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Greninja|move: Future Sight
+|-immune|p1a: Greninja
+|upkeep
+|turn|12
+|
+|t:|1781477537
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Meowscarada|U-turn|p1a: Slowking
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p1a: Slowking|51/100
+|-damage|p2a: Meowscarada|57/100|[from] item: Rocky Helmet|[of] p1a: Slowking
+|
+|t:|1781477546
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781477551
+|move|p2a: Great Tusk|Headlong Rush|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-damage|p2a: Great Tusk|84/100|[from] item: Rocky Helmet|[of] p1a: Slowking
+|faint|p1a: Slowking
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Great Tusk|90/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781477555
+|switch|p1a: Greninja|Greninja, M|100/100
+|turn|14
+|
+|t:|1781477568
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, F|82/100
+|move|p1a: Greninja|Ice Beam|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|67/100
+|
+|-weather|none
+|upkeep
+|turn|15
+|
+|t:|1781477575
+|move|p1a: Greninja|Dark Pulse|p2a: Alomomola
+|-damage|p2a: Alomomola|28/100
+|move|p2a: Alomomola|Flip Turn|p1a: Greninja
+|-resisted|p1a: Greninja
+|-damage|p1a: Greninja|89/100
+|
+|t:|1781477581
+|switch|p2a: Meowscarada|Meowscarada, F|57/100|[from] Flip Turn
+|
+|upkeep
+|turn|16
+|
+|t:|1781477591
+|switch|p1a: Iron Treads|Iron Treads|24/100 brn
+|move|p2a: Meowscarada|U-turn|p1a: Iron Treads
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|2/100 brn
+|
+|t:|1781477599
+|switch|p2a: Alomomola|Alomomola, F|61/100|[from] U-turn
+|
+|-damage|p1a: Iron Treads|0 fnt|[from] brn
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|upkeep
+|
+|t:|1781477611
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|17
+|
+|t:|1781477622
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|-terastallize|p2a: Alomomola|Steel
+|move|p2a: Alomomola|Flip Turn|p1a: Ogerpon
+|-resisted|p1a: Ogerpon
+|-damage|p1a: Ogerpon|91/100
+|
+|t:|1781477629
+|switch|p2a: Meowscarada|Meowscarada, F|57/100|[from] Flip Turn
+|
+|upkeep
+|turn|18
+|
+|t:|1781477633
+|-terastallize|p1a: Ogerpon|Grass
+|detailschange|p1a: Ogerpon|Ogerpon-Teal-Tera, F, tera:Grass
+|-ability|p1a: Ogerpon|Embody Aspect (Teal)|boost
+|-boost|p1a: Ogerpon|spe|1
+|move|p1a: Ogerpon|U-turn|p2a: Meowscarada
+|-supereffective|p2a: Meowscarada
+|-damage|p2a: Meowscarada|0 fnt
+|faint|p2a: Meowscarada
+|
+|t:|1781477642
+|switch|p1a: Rotom|Rotom-Heat|49/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781477649
+|switch|p2a: Slowking|Slowking-Galar, M|100/100 par
+|turn|19
+|
+|t:|1781477652
+|move|p1a: Rotom|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|77/100 par
+|
+|t:|1781477659
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Volt Switch
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Slowking|Future Sight|p1a: Kyurem
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|20
+|
+|t:|1781477666
+|move|p1a: Kyurem|Substitute|p1a: Kyurem
+|-start|p1a: Kyurem|Substitute
+|-damage|p1a: Kyurem|76/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Kyurem
+|-end|p1a: Kyurem|Substitute
+|
+|upkeep
+|turn|21
+|
+|t:|1781477675
+|move|p1a: Kyurem|Icicle Spear|p2a: Slowking
+|-damage|p2a: Slowking|62/100 par
+|-damage|p2a: Slowking|49/100 par
+|-damage|p2a: Slowking|35/100 par
+|-damage|p2a: Slowking|21/100 par
+|-hitcount|p2a: Slowking|4
+|move|p2a: Slowking|Sludge Bomb|p1a: Kyurem
+|-damage|p1a: Kyurem|34/100
+|
+|-end|p1a: Kyurem|move: Future Sight
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|upkeep
+|
+|t:|1781477686
+|switch|p1a: Greninja|Greninja, M|89/100
+|turn|22
+|
+|t:|1781477692
+|switch|p2a: Alomomola|Alomomola, F, tera:Steel|95/100
+|move|p1a: Greninja|Hydro Pump|p2a: Alomomola
+|-damage|p2a: Alomomola|44/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781477700
+|move|p1a: Greninja|Hydro Pump|p2a: Alomomola|[miss]
+|-miss|p1a: Greninja|p2a: Alomomola
+|move|p2a: Alomomola|Flip Turn|p1a: Greninja
+|-resisted|p1a: Greninja
+|-crit|p1a: Greninja
+|-damage|p1a: Greninja|71/100
+|
+|t:|1781477709
+|switch|p2a: Gholdengo|Gholdengo|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|24
+|
+|t:|1781477714
+|move|p1a: Greninja|Dark Pulse|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|53/100
+|cant|p2a: Gholdengo|flinch
+|
+|upkeep
+|turn|25
+|
+|t:|1781477720
+|move|p1a: Greninja|Dark Pulse|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|8/100
+|move|p2a: Gholdengo|Thunder|p1a: Greninja
+|-supereffective|p1a: Greninja
+|-damage|p1a: Greninja|0 fnt
+|faint|p1a: Greninja
+|
+|upkeep
+|
+|t:|1781477728
+|switch|p1a: Rotom|Rotom-Heat|49/100
+|turn|26
+|
+|t:|1781477734
+|move|p1a: Rotom|Volt Switch|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|t:|1781477737
+|switch|p1a: Ogerpon|Ogerpon-Teal-Tera, F, tera:Grass|91/100|[from] Volt Switch
+|-ability|p1a: Ogerpon|Embody Aspect (Teal)|boost
+|-boost|p1a: Ogerpon|spe|1
+|
+|upkeep
+|
+|t:|1781477739
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|turn|27
+|
+|t:|1781477743
+|move|p1a: Ogerpon|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|95/100
+|
+|t:|1781477745
+|switch|p1a: Rotom|Rotom-Heat|49/100|[from] U-turn
+|move|p2a: Corviknight|Brave Bird|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|27/100
+|-damage|p2a: Corviknight|90/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|96/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781477753
+|switch|p2a: Alomomola|Alomomola, F, tera:Steel|77/100
+|move|p1a: Rotom|Overheat|p2a: Alomomola
+|-supereffective|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|-unboost|p1a: Rotom|spa|2
+|faint|p2a: Alomomola
+|
+|upkeep
+|
+|t:|1781477768
+|switch|p2a: Slowking|Slowking-Galar, M|54/100 par
+|turn|29
+|
+|t:|1781477780
+|switch|p1a: Ogerpon|Ogerpon-Teal-Tera, F, tera:Grass|91/100
+|-ability|p1a: Ogerpon|Embody Aspect (Teal)|boost
+|-boost|p1a: Ogerpon|spe|1
+|move|p2a: Slowking|Future Sight|p1a: Ogerpon
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|30
+|
+|t:|1781477787
+|switch|p2a: Corviknight|Corviknight, M|96/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ogerpon|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|67/100
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Ogerpon
+|
+|upkeep
+|turn|31
+|
+|t:|1781477796
+|switch|p1a: Rotom|Rotom-Heat|27/100
+|move|p2a: Corviknight|U-turn|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|16/100
+|
+|t:|1781477802
+|switch|p2a: Slowking|Slowking-Galar, M|88/100 par|[from] U-turn
+|
+|-end|p1a: Rotom|move: Future Sight
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|upkeep
+|-message|InfinityPokeRang3r forfeited.
+|
+|win|Okenuth
+|raw|InfinityPokeRang3r's rating: 1554 &rarr; <strong>1535</strong><br />(-19 for losing)
+|raw|Okenuth's rating: 1575 &rarr; <strong>1594</strong><br />(+19 for winning)
+|l|☆InfinityPokeRang3r
+|player|p1|
+|l|☆Okenuth
+|player|p2|

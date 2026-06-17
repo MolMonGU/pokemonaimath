@@ -1,0 +1,449 @@
+|j|☆The Name Change
+|j|☆Scratchez
+|t:|1780897074
+|gametype|singles
+|player|p1|The Name Change|2|1534
+|player|p2|Scratchez|265|1537
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, F|
+|poke|p1|Barraskewda, F|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, F|
+|poke|p2|Tyranitar, F|
+|poke|p2|Excadrill, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Hippowdon, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Scratchez)
+|
+|t:|1780897107
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1780897112
+|move|p1a: Iron Treads|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: Scratchez|move: Stealth Rock
+|move|p2a: Corviknight|U-turn|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-crit|p1a: Iron Treads
+|-damage|p1a: Iron Treads|90/100
+|
+|t:|1780897115
+|switch|p2a: Hippowdon|Hippowdon, F|100/100|[from] U-turn
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1780897127
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1780897137
+|move|p2a: Corviknight|Defog|p1a: Pelipper
+|-unboost|p1a: Pelipper|evasion|1
+|-sideend|p2: Scratchez|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: Pelipper|Weather Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|57/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1780897145
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Pelipper|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|97/100
+|-damage|p1a: Pelipper|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|t:|1780897165
+|switch|p1a: Barraskewda|Barraskewda, F|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1780897168
+|move|p1a: Barraskewda|Flip Turn|p2a: Corviknight
+|-damage|p2a: Corviknight|38/100
+|-damage|p1a: Barraskewda|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|t:|1780897174
+|switch|p1a: Iron Treads|Iron Treads|90/100|[from] Flip Turn
+|move|p2a: Corviknight|U-turn|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|84/100
+|
+|t:|1780897183
+|switch|p2a: Hippowdon|Hippowdon, F|94/100|[from] U-turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1780897188
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Pelipper|Pelipper, M|84/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Hippowdon|Earthquake|p1a: Pelipper
+|-immune|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1780897195
+|move|p2a: Hippowdon|Protect|p2a: Hippowdon
+|-singleturn|p2a: Hippowdon|Protect
+|move|p1a: Pelipper|U-turn|p2a: Hippowdon
+|-activate|p2a: Hippowdon|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1780897203
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Pelipper|U-turn|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|87/100
+|
+|t:|1780897209
+|switch|p1a: Barraskewda|Barraskewda, F|84/100|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Barraskewda|78/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|93/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1780897229
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|move|p1a: Barraskewda|Flip Turn|p2a: Garchomp
+|-damage|p2a: Garchomp|54/100
+|-damage|p1a: Barraskewda|65/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|
+|t:|1780897240
+|switch|p1a: Pelipper|Pelipper, M|84/100|[from] Flip Turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1780897249
+|move|p2a: Garchomp|Stealth Rock|p1a: Pelipper
+|-sidestart|p1: The Name Change|move: Stealth Rock
+|move|p1a: Pelipper|Weather Ball|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1780897254
+|switch|p2a: Tyranitar|Tyranitar, F|93/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|11
+|
+|t:|1780897266
+|switch|p1a: Iron Treads|Iron Treads|84/100
+|-damage|p1a: Iron Treads|81/100|[from] Stealth Rock
+|move|p2a: Tyranitar|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|11/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|99/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1780897272
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|move|p1a: Iron Treads|Earth Power|p2a: Dragapult
+|-damage|p2a: Dragapult|52/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|46/100|[from] Sandstorm
+|-heal|p2a: Dragapult|52/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1780897277
+|move|p2a: Dragapult|Hex|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|46/100|[from] Sandstorm
+|-heal|p2a: Dragapult|52/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780897283
+|switch|p1a: Overqwil|Overqwil, F|100/100
+|-damage|p1a: Overqwil|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1780897292
+|move|p2a: Dragapult|Draco Meteor|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Overqwil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|46/100|[from] Sandstorm
+|-heal|p2a: Dragapult|52/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780897303
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|turn|15
+|
+|t:|1780897311
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Kingambit
+|-status|p1a: Kingambit|brn
+|move|p1a: Kingambit|Iron Head|p2a: Dragapult
+|-damage|p2a: Dragapult|16/100
+|
+|-weather|none
+|-heal|p2a: Dragapult|22/100|[from] item: Leftovers
+|-heal|p1a: Kingambit|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Kingambit|94/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1780897317
+|move|p2a: Dragapult|U-turn|p1a: Kingambit
+|-damage|p1a: Kingambit|82/100 brn
+|
+|t:|1780897320
+|switch|p2a: Hippowdon|Hippowdon, F|94/100|[from] U-turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Kingambit|89/100 brn|[from] item: Leftovers
+|-damage|p1a: Kingambit|82/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1780897330
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|move|p2a: Hippowdon|Earthquake|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|26/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Kingambit|33/100 brn|[from] item: Leftovers
+|-damage|p1a: Kingambit|26/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1780897334
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Hippowdon
+|-damage|p2a: Hippowdon|44/100
+|move|p2a: Hippowdon|Earthquake|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen2|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1780897339
+|switch|p1a: Pelipper|Pelipper, M|84/100
+|-damage|p1a: Pelipper|59/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|19
+|
+|t:|1780897345
+|move|p2a: Hippowdon|Protect|p2a: Hippowdon
+|-singleturn|p2a: Hippowdon|Protect
+|move|p1a: Pelipper|U-turn|p2a: Hippowdon
+|-activate|p2a: Hippowdon|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1780897357
+|switch|p2a: Corviknight|Corviknight, M|38/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Pelipper|Weather Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|1/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1780897360
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|51/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Pelipper|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|47/100
+|-damage|p1a: Pelipper|43/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|t:|1780897362
+|switch|p1a: Barraskewda|Barraskewda, F|65/100|[from] U-turn
+|-damage|p1a: Barraskewda|53/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1780897377
+|-terastallize|p1a: Barraskewda|Water
+|move|p1a: Barraskewda|Liquidation|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-damage|p1a: Barraskewda|36/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p2a: Corviknight
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1780897386
+|switch|p2a: Hippowdon|Hippowdon, F|44/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|23
+|inactive|Scratchez has 120 seconds left.
+|j| crust king kahn
+|
+|t:|1780897430
+|move|p2a: Hippowdon|Protect|p2a: Hippowdon
+|-singleturn|p2a: Hippowdon|Protect
+|move|p1a: Barraskewda|Liquidation|p2a: Hippowdon
+|-activate|p2a: Hippowdon|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Barraskewda|30/100|[from] Sandstorm
+|upkeep
+|turn|24
+|inactive|Scratchez has 90 seconds left.
+|
+|t:|1780897473
+|-terastallize|p2a: Hippowdon|Grass
+|move|p1a: Barraskewda|Liquidation|p2a: Hippowdon
+|-resisted|p2a: Hippowdon
+|-damage|p2a: Hippowdon|19/100
+|move|p2a: Hippowdon|Earthquake|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hippowdon|13/100|[from] Sandstorm
+|upkeep
+|l| crust king kahn
+|
+|t:|1780897483
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-damage|p1a: Raging Bolt|88/100|[from] Stealth Rock
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|25
+|inactive|Scratchez has 90 seconds left.
+|
+|t:|1780897489
+|move|p1a: Raging Bolt|Weather Ball|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Raging Bolt|82/100|[from] Sandstorm
+|upkeep
+|inactive|Scratchez has 90 seconds left.
+|
+|t:|1780897501
+|switch|p2a: Tyranitar|Tyranitar, F|99/100
+|turn|26
+|
+|t:|1780897505
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Pelipper|Pelipper, M|43/100
+|-damage|p1a: Pelipper|18/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Tyranitar|Earthquake|p1a: Pelipper
+|-immune|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Tyranitar|100/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|inactive|Scratchez has 90 seconds left.
+|
+|t:|1780897533
+|switch|p2a: Dragapult|Dragapult, M|22/100
+|move|p1a: Pelipper|Roost|p1a: Pelipper
+|-heal|p1a: Pelipper|68/100
+|-singleturn|p1a: Pelipper|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Dragapult|28/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1780897539
+|move|p2a: Dragapult|Draco Meteor|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Dragapult|34/100|[from] item: Leftovers
+|upkeep
+|-message|The Name Change forfeited.
+|
+|win|Scratchez
+|raw|The Name Change's rating: 1534 &rarr; <strong>1514</strong><br />(-20 for losing)
+|raw|Scratchez's rating: 1537 &rarr; <strong>1557</strong><br />(+20 for winning)
+|l|☆The Name Change
+|player|p1|
+|l|☆Scratchez
+|player|p2|

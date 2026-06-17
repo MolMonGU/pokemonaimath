@@ -1,0 +1,394 @@
+|j|☆cachowcapow
+|j|☆suminkwak249
+|t:|1781086420
+|gametype|singles
+|player|p1|cachowcapow|265|1648
+|player|p2|suminkwak249|170|1642
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cinderace, F|
+|poke|p1|Slither Wing|
+|poke|p1|Alomomola, F|
+|poke|p1|Great Tusk|
+|poke|p1|Meowscarada, F|
+|poke|p1|Froslass, F|
+|poke|p2|Torkoal, F|
+|poke|p2|Walking Wake|
+|poke|p2|Raging Bolt|
+|poke|p2|Espeon, M|
+|poke|p2|Ceruledge, M|
+|poke|p2|Iron Treads|
+|teampreview
+|
+|t:|1781086445
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Meowscarada|Meowscarada, F|100/100
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|turn|1
+|
+|t:|1781086461
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Walking Wake|Flamethrower|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|87/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781086475
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Alomomola|Flip Turn|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|88/100
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by suminkwak249)
+|
+|t:|1781086492
+|switch|p1a: Meowscarada|Meowscarada, F|100/100|[from] Flip Turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781086495
+|switch|p2a: Espeon|Espeon, M|100/100
+|move|p1a: Meowscarada|Power Gem|p2a: Espeon
+|-start|p1a: Meowscarada|typechange|Rock|[from] ability: Protean
+|-damage|p2a: Espeon|48/100
+|-enditem|p2a: Espeon|Eject Button
+|
+|t:|1781086501
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspa
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|j| Peter97
+|
+|t:|1781086525
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Walking Wake|Dragon Pulse|p1a: Alomomola
+|-crit|p1a: Alomomola
+|-damage|p1a: Alomomola|35/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781086536
+|switch|p1a: Froslass|Froslass, F|100/100
+|move|p2a: Walking Wake|Dragon Pulse|p1a: Froslass
+|-enditem|p1a: Froslass|Focus Sash
+|-damage|p1a: Froslass|1/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781086539
+|move|p1a: Froslass|Destiny Bond|p1a: Froslass
+|-singlemove|p1a: Froslass|Destiny Bond
+|move|p2a: Walking Wake|Dragon Pulse|p1a: Froslass
+|-damage|p1a: Froslass|0 fnt
+|faint|p1a: Froslass
+|-activate|p1a: Froslass|move: Destiny Bond
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781086547
+|switch|p1a: Meowscarada|Meowscarada, F|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|7
+|
+|t:|1781086553
+|switch|p1a: Alomomola|Alomomola, F|68/100
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p2a: Raging Bolt|Weather Ball|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|43/100
+|-damage|p2a: Raging Bolt|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781086556
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Great Tusk
+|-immune|p1a: Great Tusk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781086567
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-item|p2a: Iron Treads|Air Balloon
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|
+|-weather|none
+|-end|p1a: Great Tusk|Protosynthesis
+|upkeep
+|turn|10
+|
+|t:|1781086578
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|move|p2a: Iron Treads|Earthquake|p1a: Cinderace
+|-supereffective|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|upkeep
+|
+|t:|1781086589
+|switch|p1a: Alomomola|Alomomola, F|76/100
+|turn|11
+|
+|t:|1781086592
+|move|p2a: Iron Treads|Volt Switch|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|64/100
+|
+|t:|1781086595
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Torkoal|Torkoal, F|88/100|[from] Volt Switch
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Alomomola|Flip Turn|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|76/100
+|
+|t:|1781086602
+|switch|p1a: Meowscarada|Meowscarada, F|100/100|[from] Flip Turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781086608
+|switch|p2a: Espeon|Espeon, M|48/100
+|move|p1a: Meowscarada|Dark Pulse|p2a: Espeon
+|-start|p1a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-supereffective|p2a: Espeon
+|-damage|p2a: Espeon|0 fnt
+|faint|p2a: Espeon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|j| wuxinshushu1
+|
+|t:|1781086615
+|switch|p2a: Raging Bolt|Raging Bolt, tera:Fairy|91/100
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|13
+|
+|t:|1781086619
+|switch|p1a: Alomomola|Alomomola, F|98/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Alomomola
+|-damage|p1a: Alomomola|54/100
+|-damage|p2a: Raging Bolt|81/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781086624
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-crit|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|faint|p1a: Alomomola
+|-damage|p2a: Raging Bolt|71/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781086627
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|15
+|
+|t:|1781086633
+|move|p1a: Great Tusk|Headlong Rush|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781086637
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-item|p2a: Iron Treads|Air Balloon
+|turn|16
+|
+|t:|1781086646
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Slither Wing|Slither Wing|100/100
+|-activate|p1a: Slither Wing|ability: Protosynthesis
+|-start|p1a: Slither Wing|protosynthesisatk
+|move|p2a: Iron Treads|Rapid Spin|p1a: Slither Wing
+|-damage|p1a: Slither Wing|88/100
+|-boost|p2a: Iron Treads|spe|1
+|-damage|p2a: Iron Treads|84/100|[from] item: Rocky Helmet|[of] p1a: Slither Wing
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781086652
+|move|p2a: Iron Treads|Earthquake|p1a: Slither Wing
+|-resisted|p1a: Slither Wing
+|-damage|p1a: Slither Wing|70/100
+|move|p1a: Slither Wing|U-turn|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|69/100
+|-enditem|p2a: Iron Treads|Air Balloon
+|
+|t:|1781086656
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Meowscarada|Meowscarada, F|100/100|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781086659
+|switch|p1a: Slither Wing|Slither Wing|70/100
+|-activate|p1a: Slither Wing|ability: Protosynthesis
+|-start|p1a: Slither Wing|protosynthesisatk
+|move|p2a: Iron Treads|Ice Spinner|p1a: Slither Wing
+|-damage|p1a: Slither Wing|52/100
+|-damage|p2a: Iron Treads|52/100|[from] item: Rocky Helmet|[of] p1a: Slither Wing
+|
+|-weather|none
+|-end|p1a: Slither Wing|Protosynthesis
+|upkeep
+|turn|19
+|
+|t:|1781086668
+|move|p2a: Iron Treads|Volt Switch|p1a: Slither Wing
+|-damage|p1a: Slither Wing|43/100
+|
+|t:|1781086671
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Ceruledge|Ceruledge, M|100/100|[from] Volt Switch
+|move|p1a: Slither Wing|Morning Sun|p1a: Slither Wing
+|-heal|p1a: Slither Wing|93/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781086677
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Meowscarada|Meowscarada, F|100/100
+|move|p2a: Ceruledge|Bitter Blade|p1a: Meowscarada
+|-supereffective|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|faint|p1a: Meowscarada
+|
+|upkeep
+|
+|t:|1781086678
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|21
+|
+|t:|1781086687
+|switch|p2a: Torkoal|Torkoal, F|76/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p1a: Great Tusk|Headlong Rush|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781086692
+|switch|p2a: Iron Treads|Iron Treads|52/100
+|turn|22
+|
+|t:|1781086697
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781086704
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|turn|23
+|
+|t:|1781086707
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Slither Wing|Slither Wing|93/100
+|-activate|p1a: Slither Wing|ability: Protosynthesis
+|-start|p1a: Slither Wing|protosynthesisatk
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Slither Wing
+|-crit|p1a: Slither Wing
+|-damage|p1a: Slither Wing|55/100
+|-damage|p2a: Ceruledge|84/100|[from] item: Rocky Helmet|[of] p1a: Slither Wing
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1781086712
+|move|p1a: Slither Wing|First Impression|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|68/100
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Slither Wing
+|-damage|p1a: Slither Wing|28/100
+|-damage|p2a: Ceruledge|52/100|[from] item: Rocky Helmet|[of] p1a: Slither Wing
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|25
+|-message|suminkwak249 forfeited.
+|
+|win|cachowcapow
+|raw|cachowcapow's rating: 1630 &rarr; <strong>1651</strong><br />(+21 for winning)
+|raw|suminkwak249's rating: 1642 &rarr; <strong>1621</strong><br />(-21 for losing)
+|l|☆cachowcapow
+|player|p1|
+|l|☆suminkwak249
+|player|p2|
+|l| Peter97
+|l| wuxinshushu1

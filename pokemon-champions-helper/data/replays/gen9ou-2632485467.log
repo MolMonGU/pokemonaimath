@@ -1,0 +1,165 @@
+|j|☆volc1877
+|j|☆adil
+|t:|1781531680
+|gametype|singles
+|player|p1|volc1877|2|1610
+|player|p2|adil|265|1681
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ninetales, F|
+|poke|p1|Walking Wake|
+|poke|p1|Pawmot, M|
+|poke|p1|Comfey, F|
+|poke|p1|Great Tusk|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Ceruledge, M|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Iron Treads|
+|poke|p2|Kyurem|
+|poke|p2|Gholdengo|
+|teampreview
+|j| BiscoitoXDBr
+|
+|t:|1781531703
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Comfey|Comfey, F|100/100
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|turn|1
+|
+|t:|1781531710
+|move|p1a: Comfey|Draining Kiss|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|60/100
+|-damage|p1a: Comfey|91/100|[from] item: Life Orb
+|move|p2a: Samurott|Knock Off|p1a: Comfey
+|-resisted|p1a: Comfey
+|-damage|p1a: Comfey|67/100
+|-enditem|p1a: Comfey|Life Orb|[from] move: Knock Off|[of] p2a: Samurott
+|
+|upkeep
+|turn|2
+|
+|t:|1781531715
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Comfey|Draining Kiss|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|87/100
+|-heal|p1a: Comfey|78/100|[from] drain|[of] p2a: Iron Treads
+|
+|upkeep
+|turn|3
+|
+|t:|1781531719
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Iron Treads|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|72/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781531724
+|move|p2a: Iron Treads|Stealth Rock|p1a: Great Tusk
+|-sidestart|p1: volc1877|move: Stealth Rock
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|-damage|p1a: Great Tusk|62/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781531731
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|turn|5
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by adil)
+|
+|t:|1781531759
+|move|p1a: Great Tusk|Headlong Rush|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-enditem|p2a: Ceruledge|Focus Sash
+|-damage|p2a: Ceruledge|1/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|-damage|p1a: Great Tusk|52/100|[from] item: Life Orb
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|6
+|
+|t:|1781531765
+|move|p2a: Ceruledge|Bitter Blade|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-heal|p2a: Ceruledge|40/100|[from] drain|[of] p1a: Great Tusk
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781531792
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-damage|p1a: Ninetales|76/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|7
+|j| bingbong441
+|
+|t:|1781531798
+|move|p2a: Ceruledge|Bitter Blade|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|-heal|p2a: Ceruledge|85/100|[from] drain|[of] p1a: Ninetales
+|faint|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781531802
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-damage|p1a: Walking Wake|88/100|[from] Stealth Rock
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|turn|8
+|
+|t:|1781531809
+|move|p2a: Ceruledge|Close Combat|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|-unboost|p2a: Ceruledge|def|1
+|-unboost|p2a: Ceruledge|spd|1
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|-message|volc1877 forfeited.
+|
+|win|adil
+|raw|volc1877's rating: 1610 &rarr; <strong>1594</strong><br />(-16 for losing)
+|raw|adil's rating: 1681 &rarr; <strong>1697</strong><br />(+16 for winning)
+|l|☆volc1877
+|player|p1|
+|l| BiscoitoXDBr
+|l|☆adil
+|player|p2|
+|l| bingbong441

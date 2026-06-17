@@ -1,0 +1,328 @@
+|j|☆FireSide_01
+|j|☆m5322
+|t:|1781274113
+|gametype|singles
+|player|p1|FireSide_01|janine|1520
+|player|p2|m5322|2|1544
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ninetales, F|
+|poke|p1|Walking Wake|
+|poke|p1|Typhlosion-Hisui, F|
+|poke|p1|Great Tusk|
+|poke|p1|Rillaboom, F|
+|poke|p1|Raging Bolt|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Ceruledge, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Glimmora, F|
+|poke|p2|Moltres-Galar|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FireSide_01)
+|inactive|m5322 also wants the timer to be on.
+|
+|t:|1781274130
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|1
+|
+|t:|1781274141
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: m5322|move: Light Screen
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Deoxys
+|-damage|p2a: Deoxys|68/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781274147
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: m5322|Reflect
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Deoxys
+|-damage|p2a: Deoxys|35/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781274157
+|switch|p2a: Moltres|Moltres-Galar|100/100
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Moltres
+|-crit|p2a: Moltres
+|-damage|p2a: Moltres|34/100
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|-enditem|p2a: Moltres|Sitrus Berry|[eat]
+|-heal|p2a: Moltres|59/100|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|4
+|
+|t:|1781274164
+|move|p2a: Moltres|Fiery Wrath|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|62/100
+|move|p1a: Raging Bolt|Volt Switch|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|22/100
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|
+|t:|1781274176
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Typhlosion|Typhlosion-Hisui, F|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|5
+|
+|t:|1781274193
+|move|p1a: Typhlosion|Eruption|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|
+|upkeep
+|
+|t:|1781274198
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|turn|6
+|
+|t:|1781274206
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781274211
+|move|p1a: Ninetales|Encore|p2a: Ceruledge
+|-start|p2a: Ceruledge|Encore
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781274220
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|-sideend|p2: m5322|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1781274229
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Walking Wake|Draco Meteor|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|-unboost|p1a: Walking Wake|spa|2
+|faint|p2a: Ogerpon
+|
+|-weather|SunnyDay|[upkeep]
+|-sideend|p2: m5322|Reflect
+|upkeep
+|
+|t:|1781274233
+|switch|p2a: Deoxys|Deoxys-Speed|35/100
+|-ability|p2a: Deoxys|Pressure
+|turn|10
+|
+|t:|1781274239
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: m5322|move: Light Screen
+|move|p1a: Walking Wake|Draco Meteor|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|-unboost|p1a: Walking Wake|spa|2
+|faint|p2a: Deoxys
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781274243
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|turn|11
+|
+|t:|1781274248
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781274252
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Ninetales
+|-damage|p1a: Ninetales|30/100
+|-damage|p2a: Ceruledge|91/100|[from] item: Life Orb
+|move|p1a: Ninetales|Encore|p2a: Ceruledge
+|-start|p2a: Ceruledge|Encore
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781274257
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Great Tusk
+|-damage|p1a: Great Tusk|66/100
+|-damage|p2a: Ceruledge|81/100|[from] item: Life Orb
+|
+|-weather|none
+|-end|p1a: Great Tusk|Protosynthesis
+|upkeep
+|turn|14
+|
+|t:|1781274264
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Great Tusk|Headlong Rush|p2a: Zamazenta
+|-damage|p2a: Zamazenta|72/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-heal|p2a: Zamazenta|78/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781274281
+|switch|p2a: Ceruledge|Ceruledge, M|81/100
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ninetales|Ninetales, F|30/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781274297
+|move|p1a: Ninetales|Healing Wish|p1a: Ninetales
+|faint|p1a: Ninetales
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781274308
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|turn|17
+|
+|t:|1781274317
+|-terastallize|p2a: Ceruledge|Ghost
+|move|p1a: Walking Wake|Hydro Steam|p2a: Ceruledge
+|-damage|p2a: Ceruledge|9/100
+|move|p2a: Ceruledge|Poltergeist|p1a: Walking Wake
+|-activate|p1a: Walking Wake|move: Poltergeist|Choice Specs
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|-damage|p2a: Ceruledge|0 fnt|[from] item: Life Orb
+|faint|p2a: Ceruledge
+|
+|-weather|SunnyDay|[upkeep]
+|-sideend|p2: m5322|move: Light Screen
+|upkeep
+|
+|t:|1781274335
+|switch|p1a: Typhlosion|Typhlosion-Hisui, F|100/100
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|turn|18
+|
+|t:|1781274344
+|-terastallize|p1a: Typhlosion|Fire
+|move|p1a: Typhlosion|Eruption|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|2/100
+|move|p2a: Glimmora|Earth Power|p1a: Typhlosion
+|-supereffective|p1a: Typhlosion
+|-damage|p1a: Typhlosion|19/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781274359
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Glimmora|Stealth Rock|p1a: Rillaboom
+|-sidestart|p1: FireSide_01|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Glimmora|9/100|[from] Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1781274367
+|move|p2a: Glimmora|Meteor Beam||[still]
+|-prepare|p2a: Glimmora|Meteor Beam
+|-boost|p2a: Glimmora|spa|1
+|-enditem|p2a: Glimmora|Power Herb
+|-anim|p2a: Glimmora|Meteor Beam|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Glimmora|15/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781274373
+|switch|p1a: Typhlosion|Typhlosion-Hisui, F, tera:Fire|19/100
+|-heal|p1a: Typhlosion|100/100|[from] move: Healing Wish
+|-damage|p1a: Typhlosion|75/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1781274378
+|move|p1a: Typhlosion|Eruption|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Typhlosion|82/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781274380
+|switch|p2a: Zamazenta|Zamazenta|78/100
+|turn|22
+|
+|t:|1781274383
+|move|p1a: Typhlosion|Eruption|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|win|FireSide_01
+|raw|FireSide_01's rating: 1520 &rarr; <strong>1541</strong><br />(+21 for winning)
+|raw|m5322's rating: 1544 &rarr; <strong>1523</strong><br />(-21 for losing)
+|c|☆FireSide_01|gg
+|c|☆m5322|gg
+|l|☆m5322
+|player|p2|
+|l|☆FireSide_01
+|player|p1|

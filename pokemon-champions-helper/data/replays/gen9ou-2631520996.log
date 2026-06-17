@@ -1,0 +1,361 @@
+|j|☆phreshoatmeal
+|j|☆Aguila74
+|t:|1781395942
+|gametype|singles
+|player|p1|phreshoatmeal|169|1523
+|player|p2|Aguila74|ethan|1518
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Excadrill, M|
+|poke|p1|Amoonguss, M|
+|poke|p1|Pawmot, F|
+|poke|p1|Alomomola, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Iron Moth|
+|poke|p2|Meowscarada, M|
+|poke|p2|Iron Treads|
+|poke|p2|Primarina, F|
+|poke|p2|Conkeldurr, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by phreshoatmeal)
+|inactive|phreshoatmeal has 120 seconds left.
+|
+|t:|1781395983
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|switch|p2a: Conkeldurr|Conkeldurr, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|1
+|
+|t:|1781395995
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Conkeldurr|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|72/100
+|-enditem|p1a: Hatterene|Leftovers|[from] move: Knock Off|[of] p2a: Conkeldurr
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Conkeldurr|94/100|[from] Sandstorm
+|-damage|p1a: Hatterene|66/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1781396004
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Hatterene|Pain Split|p2a: Iron Treads
+|-sethp|p2a: Iron Treads|83/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Hatterene|84/100|[from] move: Pain Split
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hatterene|78/100|[from] Sandstorm
+|-heal|p2a: Iron Treads|89/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781396016
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Iron Treads|Iron Head|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|89/100
+|-enditem|p1a: Alomomola|Eject Button
+|
+|t:|1781396019
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Iron Treads|95/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781396025
+|-terastallize|p1a: Excadrill|Ground
+|-terastallize|p2a: Iron Treads|Ground
+|move|p1a: Excadrill|Earthquake|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781396030
+|switch|p2a: Primarina|Primarina, F|100/100
+|turn|5
+|
+|t:|1781396033
+|move|p1a: Excadrill|Earthquake|p2a: Primarina
+|-damage|p2a: Primarina|3/100
+|move|p2a: Primarina|Psychic Noise|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|14/100
+|-start|p1a: Excadrill|move: Heal Block
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Primarina|0 fnt|[from] Sandstorm
+|faint|p2a: Primarina
+|upkeep
+|
+|t:|1781396037
+|switch|p2a: Conkeldurr|Conkeldurr, F|94/100
+|turn|6
+|
+|t:|1781396043
+|switch|p1a: Hatterene|Hatterene, F|78/100
+|move|p2a: Conkeldurr|Mach Punch|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|73/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Conkeldurr|88/100|[from] Sandstorm
+|-damage|p1a: Hatterene|67/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1781396049
+|move|p2a: Conkeldurr|Ice Punch|p1a: Hatterene
+|-damage|p1a: Hatterene|40/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Conkeldurr
+|-supereffective|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|50/100
+|-heal|p1a: Hatterene|78/100|[from] drain|[of] p2a: Conkeldurr
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Conkeldurr|44/100|[from] Sandstorm
+|-damage|p1a: Hatterene|72/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1781396053
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|move|p1a: Hatterene|Draining Kiss|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-damage|p2a: Iron Moth|95/100
+|-heal|p1a: Hatterene|76/100|[from] drain|[of] p2a: Iron Moth
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781396060
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Conkeldurr|Conkeldurr, F|44/100
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Conkeldurr|38/100|[from] Sandstorm
+|upkeep
+|turn|10
+|
+|t:|1781396083
+|switch|p1a: Hatterene|Hatterene, F|76/100
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Meowscarada|94/100|[from] Sandstorm
+|-damage|p1a: Hatterene|70/100|[from] Sandstorm
+|upkeep
+|turn|11
+|
+|t:|1781396090
+|move|p2a: Meowscarada|Triple Axel|p1a: Hatterene
+|-start|p2a: Meowscarada|typechange|Ice|[from] ability: Protean
+|-damage|p1a: Hatterene|60/100
+|-damage|p1a: Hatterene|39/100
+|-damage|p1a: Hatterene|8/100
+|-hitcount|p1a: Hatterene|3
+|-damage|p2a: Meowscarada|84/100|[from] item: Life Orb
+|move|p1a: Hatterene|Future Sight|p2a: Meowscarada
+|-start|p1a: Hatterene|move: Future Sight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Meowscarada|78/100|[from] Sandstorm
+|-damage|p1a: Hatterene|2/100|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1781396110
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Meowscarada|U-turn|p1a: Alomomola
+|-damage|p1a: Alomomola|82/100
+|-damage|p2a: Meowscarada|68/100|[from] item: Life Orb
+|
+|t:|1781396118
+|switch|p2a: Conkeldurr|Conkeldurr, F|38/100|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Conkeldurr|32/100|[from] Sandstorm
+|-damage|p1a: Alomomola|76/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1781396123
+|move|p2a: Conkeldurr|Drain Punch|p1a: Alomomola
+|-damage|p1a: Alomomola|51/100
+|-heal|p2a: Conkeldurr|46/100|[from] drain|[of] p1a: Alomomola
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Conkeldurr|40/100|[from] Sandstorm
+|-damage|p1a: Alomomola|45/100|[from] Sandstorm
+|-end|p2a: Conkeldurr|move: Future Sight
+|-supereffective|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|faint|p2a: Conkeldurr
+|upkeep
+|
+|t:|1781396132
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|14
+|
+|t:|1781396160
+|switch|p1a: Amoonguss|Amoonguss, M|100/100
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|95/100|[from] Sandstorm
+|-damage|p1a: Amoonguss|94/100|[from] Sandstorm
+|-heal|p1a: Amoonguss|100/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|15
+|
+|t:|1781396170
+|move|p2a: Dragapult|Dragon Darts|p1a: Amoonguss
+|-damage|p1a: Amoonguss|59/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Amoonguss
+|-damage|p1a: Amoonguss|19/100
+|-enditem|p1a: Amoonguss|Eject Button
+|-damage|p2a: Dragapult|85/100|[from] item: Life Orb
+|inactive|phreshoatmeal has 120 seconds left.
+|
+|t:|1781396181
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|79/100|[from] Sandstorm
+|upkeep
+|turn|16
+|
+|t:|1781396185
+|move|p2a: Dragapult|Dragon Darts|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|37/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|-damage|p2a: Dragapult|69/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|j| Squilliam2g
+|inactive|phreshoatmeal has 120 seconds left.
+|
+|t:|1781396201
+|switch|p1a: Alomomola|Alomomola, F|78/100
+|turn|17
+|
+|t:|1781396208
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Alomomola|Acrobatics|p2a: Dragapult
+|-damage|p2a: Dragapult|40/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781396221
+|move|p2a: Dragapult|Dragon Darts|p1a: Alomomola
+|-damage|p1a: Alomomola|38/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|faint|p1a: Alomomola
+|-damage|p2a: Dragapult|30/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781396225
+|switch|p1a: Hatterene|Hatterene, F|2/100
+|turn|19
+|
+|t:|1781396235
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Hatterene|Future Sight|p2a: Dragapult
+|-start|p1a: Hatterene|move: Future Sight
+|
+|upkeep
+|turn|20
+|
+|t:|1781396243
+|switch|p1a: Amoonguss|Amoonguss, M|52/100
+|move|p2a: Dragapult|Phantom Force|p1a: Amoonguss|[from] lockedmove
+|-damage|p1a: Amoonguss|0 fnt
+|faint|p1a: Amoonguss
+|-damage|p2a: Dragapult|21/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781396252
+|switch|p1a: Hatterene|Hatterene, F|2/100
+|turn|21
+|
+|t:|1781396277
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Hatterene|Draining Kiss|p2a: Dragapult|[miss]|[miss]
+|-miss|p1a: Hatterene|p2a: Dragapult
+|
+|-end|p2a: Dragapult|move: Future Sight
+|-miss|p1a: Hatterene|p2a: Dragapult
+|upkeep
+|turn|22
+|
+|t:|1781396282
+|move|p2a: Dragapult|Phantom Force|p1a: Hatterene|[from] lockedmove
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|-damage|p2a: Dragapult|11/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781396285
+|switch|p1a: Pawmot|Pawmot, F|100/100
+|turn|23
+|
+|t:|1781396288
+|move|p2a: Dragapult|Dragon Darts|p1a: Pawmot
+|-damage|p1a: Pawmot|0 fnt
+|faint|p1a: Pawmot
+|-damage|p2a: Dragapult|1/100|[from] item: Life Orb
+|
+|upkeep
+|-message|phreshoatmeal forfeited.
+|
+|win|Aguila74
+|raw|phreshoatmeal's rating: 1523 &rarr; <strong>1503</strong><br />(-20 for losing)
+|raw|Aguila74's rating: 1518 &rarr; <strong>1538</strong><br />(+20 for winning)
+|l|☆phreshoatmeal
+|player|p1|
+|l| Squilliam2g
+|l|☆Aguila74
+|player|p2|

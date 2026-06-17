@@ -1,0 +1,323 @@
+|j|☆AmygdalanResponse
+|j|☆stevstacks
+|t:|1781400434
+|gametype|singles
+|player|p1|AmygdalanResponse|marshal|1548
+|player|p2|stevstacks|266|1574
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Excadrill, M|
+|poke|p1|Hydrapple, M|
+|poke|p1|Ogerpon-Cornerstone, F|
+|poke|p1|Alomomola, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Torkoal, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Walking Wake|
+|poke|p2|Great Tusk|
+|poke|p2|Zamazenta-*|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by stevstacks)
+|c|☆AmygdalanResponse|gl hf
+|
+|t:|1781400444
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|switch|p2a: Corviknight|Corviknight, F, shiny|100/100
+|-ability|p2a: Corviknight|Pressure
+|turn|1
+|
+|t:|1781400451
+|move|p2a: Corviknight|Brave Bird|p1a: Alomomola
+|-crit|p1a: Alomomola
+|-damage|p1a: Alomomola|56/100
+|-damage|p2a: Corviknight|81/100|[from] Recoil
+|move|p1a: Alomomola|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|72/100
+|-status|p2a: Corviknight|brn
+|
+|-heal|p2a: Corviknight|78/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|72/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1781400455
+|move|p2a: Corviknight|U-turn|p1a: Alomomola
+|-damage|p1a: Alomomola|51/100
+|
+|t:|1781400456
+|switch|p2a: Torkoal|Torkoal, M, shiny|100/100|[from] U-turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Alomomola|Flip Turn|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|88/100
+|
+|t:|1781400458
+|switch|p1a: Tyranitar|Tyranitar, M|100/100|[from] Flip Turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Torkoal|82/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1781400462
+|switch|p2a: Great Tusk|Great Tusk, shiny|100/100
+|move|p1a: Tyranitar|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: stevstacks|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781400466
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|move|p2a: Great Tusk|Ice Spinner|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|21/100
+|-damage|p2a: Great Tusk|91/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hydrapple|15/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1781400470
+|switch|p1a: Alomomola|Alomomola, M|84/100
+|move|p2a: Great Tusk|Close Combat|p1a: Alomomola
+|-damage|p1a: Alomomola|23/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-damage|p2a: Great Tusk|81/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Alomomola|17/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1781400474
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Great Tusk|Knock Off|p1a: Tornadus
+|-damage|p1a: Tornadus|49/100
+|-enditem|p1a: Tornadus|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Great Tusk
+|-damage|p2a: Great Tusk|71/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|42/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1781400479
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Corviknight|Corviknight, F, shiny|72/100 brn
+|-damage|p2a: Corviknight|60/100 brn|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|47/100 brn
+|-unboost|p2a: Corviknight|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|36/100|[from] Sandstorm
+|-heal|p2a: Corviknight|53/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|47/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1781400482
+|switch|p2a: Torkoal|Torkoal, M, shiny|82/100
+|-damage|p2a: Torkoal|57/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Tornadus|Heat Wave|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-crit|p2a: Torkoal
+|-damage|p2a: Torkoal|33/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781400489
+|switch|p2a: Great Tusk|Great Tusk, shiny|71/100
+|-damage|p2a: Great Tusk|68/100|[from] Stealth Rock
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781400492
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-damage|p2a: Walking Wake|88/100|[from] Stealth Rock
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|turn|10
+|
+|t:|1781400504
+|switch|p1a: Alomomola|Alomomola, M|50/100
+|move|p2a: Walking Wake|Hydro Steam|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|33/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781400525
+|move|p2a: Walking Wake|Draco Meteor|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|-unboost|p2a: Walking Wake|spa|2
+|faint|p1a: Alomomola
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781400540
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|-end|p2a: Walking Wake|Protosynthesis
+|turn|12
+|
+|t:|1781400550
+|move|p2a: Walking Wake|Flip Turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|64/100
+|
+|t:|1781400555
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Torkoal|Torkoal, M, shiny|33/100|[from] Flip Turn
+|-damage|p2a: Torkoal|8/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Tyranitar|Knock Off|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|-enditem|p2a: Torkoal|Heat Rock|[from] move: Knock Off|[of] p1a: Tyranitar
+|faint|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781400556
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|13
+|
+|t:|1781400559
+|switch|p1a: Hydrapple|Hydrapple, M|49/100
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Hydrapple
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781400560
+|switch|p1a: Tyranitar|Tyranitar, M|64/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|-end|p2a: Raging Bolt|Protosynthesis
+|turn|14
+|
+|t:|1781400566
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Tyranitar
+|-damage|p1a: Tyranitar|27/100
+|-unboost|p2a: Raging Bolt|spa|2
+|move|p1a: Tyranitar|Ice Punch|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|36/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Raging Bolt|30/100|[from] Sandstorm
+|upkeep
+|turn|15
+|
+|t:|1781400572
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Tyranitar|[miss]
+|-miss|p2a: Raging Bolt|p1a: Tyranitar
+|move|p1a: Tyranitar|Ice Punch|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781400578
+|switch|p2a: Walking Wake|Walking Wake|88/100
+|-damage|p2a: Walking Wake|76/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781400585
+|move|p2a: Walking Wake|Hydro Steam|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Walking Wake|70/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781400589
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|turn|17
+|
+|t:|1781400599
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Corviknight|Corviknight, F, shiny|47/100 brn
+|-damage|p2a: Corviknight|35/100 brn|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Corviknight|[anim] Ivy Cudgel Rock
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781400600
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-damage|p2a: Zamazenta|94/100|[from] Stealth Rock
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|18
+|
+|t:|1781400609
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p1a: Ogerpon|Power Whip|p2a: Zamazenta
+|-crit|p2a: Zamazenta
+|-damage|p2a: Zamazenta|24/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|18/100|[from] Sandstorm
+|-heal|p2a: Zamazenta|24/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|-message|stevstacks forfeited.
+|
+|win|AmygdalanResponse
+|raw|AmygdalanResponse's rating: 1548 &rarr; <strong>1569</strong><br />(+21 for winning)
+|raw|stevstacks's rating: 1574 &rarr; <strong>1553</strong><br />(-21 for losing)
+|l|☆stevstacks
+|player|p2|

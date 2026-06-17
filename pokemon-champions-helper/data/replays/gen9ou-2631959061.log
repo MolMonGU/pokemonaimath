@@ -1,0 +1,287 @@
+|j|☆Void_33
+|j|☆karakel
+|t:|1781460000
+|gametype|singles
+|player|p1|Void_33|266|1596
+|player|p2|karakel|cowgirl|1665
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Iron Moth|
+|poke|p1|Kingambit, F|
+|poke|p1|Zamazenta-*|
+|poke|p2|Lilligant-Hisui, F|
+|poke|p2|Ninetales, M|
+|poke|p2|Great Tusk|
+|poke|p2|Walking Wake|
+|poke|p2|Cresselia, F|
+|poke|p2|Cinderace, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by karakel)
+|
+|t:|1781460007
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Ninetales|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Ninetales|atk|1
+|turn|1
+|
+|t:|1781460014
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisspe
+|move|p1a: Landorus|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|71/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781460021
+|move|p2a: Great Tusk|Ice Spinner|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|19/100
+|-damage|p2a: Great Tusk|54/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|move|p1a: Landorus|Psychic|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|6/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781460031
+|move|p2a: Great Tusk|Close Combat|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-damage|p2a: Great Tusk|0 fnt|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p1a: Landorus
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781460043
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|turn|4
+|
+|t:|1781460049
+|move|p2a: Cinderace|Pyro Ball|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|43/100
+|move|p1a: Iron Moth|Sludge Wave|p2a: Cinderace
+|-damage|p2a: Cinderace|30/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781460058
+|move|p2a: Cinderace|Pyro Ball|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781460065
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|turn|6
+|
+|t:|1781460070
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781460084
+|move|p2a: Cresselia|Thunder Wave|p1a: Kingambit|[miss]
+|-miss|p2a: Cresselia|p1a: Kingambit
+|move|p1a: Kingambit|Iron Head|p2a: Cresselia
+|-damage|p2a: Cresselia|67/100
+|-enditem|p2a: Cresselia|Eject Button
+|
+|t:|1781460088
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspa
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781460097
+|-terastallize|p1a: Kingambit|Dark
+|move|p2a: Walking Wake|Weather Ball|p1a: Kingambit
+|-crit|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen2|[silent]
+|
+|-weather|none
+|-end|p2a: Walking Wake|Protosynthesis
+|upkeep
+|
+|t:|1781460104
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|9
+|
+|t:|1781460107
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Cresselia|Cresselia, F|67/100
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|upkeep
+|turn|10
+|
+|t:|1781460112
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Cresselia|[anim] Ivy Cudgel Water
+|-damage|p2a: Cresselia|0 fnt
+|faint|p2a: Cresselia
+|
+|upkeep
+|
+|t:|1781460115
+|switch|p2a: Cinderace|Cinderace, F|30/100
+|turn|11
+|
+|t:|1781460121
+|move|p2a: Cinderace|U-turn|p1a: Ogerpon
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|17/100
+|
+|t:|1781460124
+|switch|p2a: Lilligant|Lilligant-Hisui, F|100/100|[from] U-turn
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Lilligant|[anim] Ivy Cudgel Water
+|-resisted|p2a: Lilligant
+|-damage|p2a: Lilligant|15/100
+|
+|-heal|p2a: Lilligant|22/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781460136
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Lilligant|Leaf Blade|p1a: Zamazenta
+|-damage|p1a: Zamazenta|79/100
+|
+|-heal|p1a: Zamazenta|85/100|[from] item: Leftovers
+|-heal|p2a: Lilligant|28/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781460145
+|switch|p2a: Ninetales|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|move|p1a: Zamazenta|Body Press|p2a: Ninetales
+|-damage|p2a: Ninetales|28/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Zamazenta|92/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781460153
+|move|p1a: Zamazenta|Body Press|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Zamazenta|98/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781460155
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspa
+|turn|15
+|
+|t:|1781460162
+|move|p1a: Zamazenta|Body Press|p2a: Walking Wake
+|-damage|p2a: Walking Wake|43/100
+|move|p2a: Walking Wake|Weather Ball|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781460169
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|turn|16
+|
+|t:|1781460180
+|move|p2a: Walking Wake|Weather Ball|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|c|☆karakel|gg
+|
+|t:|1781460186
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|17/100
+|turn|17
+|
+|t:|1781460189
+|move|p1a: Ogerpon|Play Rough|p2a: Walking Wake
+|-supereffective|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781460193
+|switch|p2a: Lilligant|Lilligant-Hisui, F|28/100
+|turn|18
+|
+|t:|1781460196
+|move|p2a: Lilligant|Close Combat|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|-unboost|p2a: Lilligant|def|1
+|-unboost|p2a: Lilligant|spd|1
+|faint|p1a: Ogerpon
+|
+|win|karakel
+|raw|Void_33's rating: 1596 &rarr; <strong>1580</strong><br />(-16 for losing)
+|raw|karakel's rating: 1665 &rarr; <strong>1681</strong><br />(+16 for winning)
+|l|☆Void_33
+|player|p1|
+|l|☆karakel
+|player|p2|

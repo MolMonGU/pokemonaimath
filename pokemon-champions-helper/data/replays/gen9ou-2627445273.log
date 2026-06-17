@@ -1,0 +1,242 @@
+|j|☆icylikedecember
+|j|☆DiceyRice
+|t:|1780903832
+|gametype|singles
+|player|p1|icylikedecember|skierf|1737
+|player|p2|DiceyRice|miku-ghost|1779
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Corviknight, F|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Darkrai|
+|poke|p1|Kyurem|
+|poke|p1|Zamazenta-*|
+|poke|p1|Samurott-Hisui, M|
+|poke|p2|Latias, F|
+|poke|p2|Mimikyu, M|
+|poke|p2|Glimmora, F|
+|poke|p2|Kingambit, F|
+|poke|p2|Iron Boulder|
+|poke|p2|Iron Moth|
+|teampreview
+|
+|t:|1780903848
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100
+|switch|p2a: Senbonzakura|Glimmora, F|100/100
+|turn|1
+|
+|t:|1780903853
+|move|p2a: Senbonzakura|Stealth Rock|p1a: Slowking
+|-sidestart|p1: icylikedecember|move: Stealth Rock
+|move|p1a: Slowking|Psyshock|p2a: Senbonzakura
+|-supereffective|p2a: Senbonzakura
+|-damage|p2a: Senbonzakura|15/100
+|
+|upkeep
+|turn|2
+|
+|t:|1780903866
+|move|p2a: Senbonzakura|Earth Power|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|68/100
+|move|p1a: Slowking|Flamethrower|p2a: Senbonzakura
+|-resisted|p2a: Senbonzakura
+|-damage|p2a: Senbonzakura|0 fnt
+|faint|p2a: Senbonzakura
+|
+|upkeep
+|
+|t:|1780903870
+|switch|p2a: Smithy|Iron Boulder|100/100
+|-enditem|p2a: Smithy|Booster Energy
+|-activate|p2a: Smithy|ability: Quark Drive|[fromitem]
+|-start|p2a: Smithy|quarkdrivespe
+|turn|3
+|
+|t:|1780903883
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-damage|p1a: Zamazenta|94/100|[from] Stealth Rock
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Smithy|Swords Dance|p2a: Smithy
+|-boost|p2a: Smithy|atk|2
+|
+|-heal|p1a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1780903891
+|-terastallize|p1a: Zamazenta|Fire
+|move|p2a: Smithy|Zen Headbutt|p1a: Zamazenta
+|-damage|p1a: Zamazenta|64/100
+|move|p1a: Zamazenta|Roar|p2a: Smithy
+|-end|p2a: Smithy|Quark Drive|[silent]
+|drag|p2a: Mimikyute|Mimikyu, M|100/100
+|
+|-heal|p1a: Zamazenta|70/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1780903901
+|switch|p2a: Portal|Iron Moth|100/100
+|-enditem|p2a: Portal|Booster Energy
+|-activate|p2a: Portal|ability: Quark Drive|[fromitem]
+|-start|p2a: Portal|quarkdrivespe
+|move|p1a: Zamazenta|Crunch|p2a: Portal
+|-damage|p2a: Portal|71/100
+|-unboost|p2a: Portal|def|1
+|
+|-heal|p1a: Zamazenta|76/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1780903911
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100
+|-damage|p1a: Slowking|88/100|[from] Stealth Rock
+|move|p2a: Portal|Sludge Wave|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|77/100
+|
+|upkeep
+|turn|7
+|
+|t:|1780903927
+|move|p2a: Portal|Fiery Dance|p1a: Slowking
+|-damage|p1a: Slowking|58/100
+|move|p1a: Slowking|Psyshock|p2a: Portal
+|-supereffective|p2a: Portal
+|-damage|p2a: Portal|0 fnt
+|faint|p2a: Portal
+|-end|p2a: Portal|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780903930
+|switch|p2a: Smithy|Iron Boulder|100/100
+|turn|8
+|
+|t:|1780903937
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|-damage|p1a: Samurott|88/100|[from] Stealth Rock
+|move|p2a: Smithy|Swords Dance|p2a: Smithy
+|-boost|p2a: Smithy|atk|2
+|
+|upkeep
+|turn|9
+|
+|t:|1780903945
+|move|p1a: Samurott|Ceaseless Edge|p2a: Smithy
+|-supereffective|p2a: Smithy
+|-damage|p2a: Smithy|0 fnt
+|-sidestart|p2: DiceyRice|Spikes
+|faint|p2a: Smithy
+|-end|p2a: Smithy|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780903948
+|switch|p2a: Kanaria|Kingambit, F|100/100
+|-damage|p2a: Kanaria|88/100|[from] Spikes
+|-activate|p2a: Kanaria|ability: Supreme Overlord
+|-start|p2a: Kanaria|fallen3|[silent]
+|turn|10
+|
+|t:|1780903955
+|switch|p1a: Corviknight|Corviknight, F, shiny|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Kanaria|Swords Dance|p2a: Kanaria
+|-boost|p2a: Kanaria|atk|2
+|
+|-heal|p2a: Kanaria|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1780903962
+|move|p2a: Kanaria|Kowtow Cleave|p1a: Corviknight
+|-damage|p1a: Corviknight|4/100
+|-damage|p2a: Kanaria|78/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|move|p1a: Corviknight|U-turn|p2a: Kanaria
+|-damage|p2a: Kanaria|66/100
+|
+|t:|1780903968
+|switch|p1a: Zamazenta|Zamazenta, tera:Fire|76/100|[from] U-turn
+|-damage|p1a: Zamazenta|51/100|[from] Stealth Rock
+|
+|-heal|p1a: Zamazenta|57/100|[from] item: Leftovers
+|-heal|p2a: Kanaria|72/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1780903971
+|-terastallize|p2a: Kanaria|Ghost
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Kanaria|Swords Dance|p2a: Kanaria
+|-boost|p2a: Kanaria|atk|2
+|
+|-heal|p1a: Zamazenta|64/100|[from] item: Leftovers
+|-heal|p2a: Kanaria|79/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1780903977
+|move|p1a: Zamazenta|Crunch|p2a: Kanaria
+|-supereffective|p2a: Kanaria
+|-damage|p2a: Kanaria|45/100
+|move|p2a: Kanaria|Kowtow Cleave|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|-heal|p2a: Kanaria|51/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780903988
+|switch|p1a: Darkrai|Darkrai|100/100
+|-damage|p1a: Darkrai|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1780903997
+|move|p2a: Kanaria|Sucker Punch|p1a: Darkrai
+|-resisted|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|-heal|p2a: Kanaria|57/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780904001
+|switch|p1a: Samurott|Samurott-Hisui, M|88/100
+|-damage|p1a: Samurott|76/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1780904003
+|move|p2a: Kanaria|Sucker Punch|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|-heal|p2a: Kanaria|64/100|[from] item: Leftovers
+|upkeep
+|-message|icylikedecember forfeited.
+|
+|win|DiceyRice
+|raw|icylikedecember's rating: 1737 &rarr; <strong>1719</strong><br />(-18 for losing)
+|raw|DiceyRice's rating: 1779 &rarr; <strong>1797</strong><br />(+18 for winning)
+|l|☆icylikedecember
+|player|p1|
+|l|☆DiceyRice
+|player|p2|

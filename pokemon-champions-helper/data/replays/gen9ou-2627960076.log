@@ -1,0 +1,174 @@
+|j|☆Mr.X&Y97
+|j|☆Rick Boogs 4
+|t:|1780958895
+|gametype|singles
+|player|p1|Mr.X&Y97|ingo|1597
+|player|p2|Rick Boogs 4|170|1641
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Indeedee, M|
+|poke|p1|Armarouge, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Hawlucha, F|
+|poke|p1|Maushold|
+|poke|p1|Polteageist|
+|poke|p2|Iron Treads|
+|poke|p2|Cinderace, M|
+|poke|p2|Darkrai|
+|poke|p2|Iron Valiant|
+|poke|p2|Dragonite, M|
+|poke|p2|Alomomola, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mr.X&Y97)
+|
+|t:|1780958917
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Indeedee|Indeedee, M|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|turn|1
+|
+|t:|1780958923
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Iron Treads|Ice Spinner|p1a: Hatterene
+|-damage|p1a: Hatterene|78/100
+|-fieldend|move: Psychic Terrain
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1780958927
+|switch|p1a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|
+|upkeep
+|turn|2
+|
+|t:|1780958942
+|switch|p1a: Armarouge|Armarouge, M|100/100
+|move|p2a: Iron Treads|Earthquake|p1a: Armarouge
+|-supereffective|p1a: Armarouge
+|-crit|p1a: Armarouge
+|-damage|p1a: Armarouge|0 fnt
+|faint|p1a: Armarouge
+|
+|upkeep
+|
+|t:|1780958953
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p1a: Hawlucha|Psychic Seed
+|-boost|p1a: Hawlucha|spd|1|[from] item: Psychic Seed
+|turn|3
+|
+|t:|1780958963
+|move|p1a: Hawlucha|Encore|p2a: Iron Treads
+|-start|p2a: Iron Treads|Encore
+|move|p2a: Iron Treads|Earthquake|p1a: Hawlucha
+|-immune|p1a: Hawlucha
+|
+|upkeep
+|turn|4
+|
+|t:|1780958966
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1780958976
+|move|p1a: Hawlucha|Acrobatics|p2a: Dragonite
+|-damage|p2a: Dragonite|63/100
+|-damage|p1a: Hawlucha|84/100|[from] item: Rocky Helmet|[of] p2a: Dragonite
+|move|p2a: Dragonite|Ice Beam|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|45/100
+|
+|upkeep
+|turn|6
+|
+|t:|1780959002
+|move|p1a: Hawlucha|Acrobatics|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|-damage|p1a: Hawlucha|28/100|[from] item: Rocky Helmet|[of] p2a: Dragonite
+|faint|p2a: Dragonite
+|
+|upkeep
+|j| Nachoboroooo
+|
+|t:|1780959011
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|turn|7
+|
+|t:|1780959040
+|-terastallize|p1a: Hawlucha|Steel
+|-terastallize|p2a: Iron Treads|Ground
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Iron Treads|Ice Spinner|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|10/100
+|-fieldend|move: Psychic Terrain
+|
+|upkeep
+|turn|8
+|
+|t:|1780959056
+|move|p1a: Hawlucha|Close Combat|p2a: Iron Treads
+|-crit|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780959059
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|turn|9
+|
+|t:|1780959066
+|move|p1a: Hawlucha|Encore||[still]
+|-fail|p1a: Hawlucha
+|move|p2a: Cinderace|Pyro Ball|p1a: Hawlucha|[miss]
+|-miss|p2a: Cinderace|p1a: Hawlucha
+|
+|upkeep
+|turn|10
+|
+|t:|1780959081
+|move|p1a: Hawlucha|Close Combat|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|faint|p2a: Cinderace
+|
+|upkeep
+|c|☆Rick Boogs 4|Better to be lucky then good
+|-message|Rick Boogs 4 forfeited.
+|
+|win|Mr.X&Y97
+|raw|Mr.X&amp;Y97's rating: 1597 &rarr; <strong>1620</strong><br />(+23 for winning)
+|raw|Rick Boogs 4's rating: 1641 &rarr; <strong>1618</strong><br />(-23 for losing)
+|l|☆Rick Boogs 4
+|player|p2|
+|l|☆Mr.X&Y97
+|player|p1|
+|l| Nachoboroooo
+|j|☆Mr.X&Y97
+|player|p1|Mr.X&Y97|ingo|
+|l|☆Mr.X&Y97
+|player|p1|

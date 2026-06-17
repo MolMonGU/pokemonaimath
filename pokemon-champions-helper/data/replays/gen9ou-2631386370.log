@@ -1,0 +1,256 @@
+|j|☆jd2sleepy
+|j|☆MAMELUCO DE ELITE
+|t:|1781378531
+|gametype|singles
+|player|p1|jd2sleepy|blackbelt-gen4dp|1566
+|player|p2|MAMELUCO DE ELITE|101|1632
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Excadrill, M|
+|poke|p1|Gholdengo|
+|poke|p1|Kingambit, F|
+|poke|p1|Zoroark-Hisui, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p2|Pelipper, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Iron Treads|
+|poke|p2|Toxicroak, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Zapdos|
+|teampreview
+|
+|t:|1781378542
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: OnThatExca|Excadrill, M|100/100
+|switch|p2a: Pelipper|Pelipper, F, shiny|100/100
+|-ability|p1a: OnThatExca|Mold Breaker
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1781378551
+|move|p1a: OnThatExca|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: MAMELUCO DE ELITE|move: Stealth Rock
+|move|p2a: Pelipper|Hydro Pump|p1a: OnThatExca
+|-supereffective|p1a: OnThatExca
+|-enditem|p1a: OnThatExca|Focus Sash
+|-damage|p1a: OnThatExca|1/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781378553
+|move|p1a: OnThatExca|Steel Beam|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|80/100
+|-damage|p1a: OnThatExca|0 fnt|[from] steelbeam
+|faint|p1a: OnThatExca
+|move|p2a: Pelipper|U-turn|p1: OnThatExca|[notarget]
+|-fail|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781378557
+|switch|p1a: Valiant Effort|Iron Valiant|100/100
+|-enditem|p1a: Valiant Effort|Booster Energy
+|-activate|p1a: Valiant Effort|ability: Quark Drive|[fromitem]
+|-start|p1a: Valiant Effort|quarkdrivespe
+|turn|3
+|j| Vitriso
+|
+|t:|1781378571
+|switch|p2a: Hatterene|Hatterene, F, shiny|100/100
+|-damage|p2a: Hatterene|88/100|[from] Stealth Rock
+|move|p1a: Valiant Effort|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|67/100
+|-enditem|p2a: Hatterene|Eject Button|[from] move: Knock Off|[of] p1a: Valiant Effort
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781378577
+|move|p1a: Valiant Effort|Moonblast|p2a: Hatterene
+|-damage|p2a: Hatterene|19/100
+|move|p2a: Hatterene|Draining Kiss|p1a: Valiant Effort
+|-supereffective|p1a: Valiant Effort
+|-damage|p1a: Valiant Effort|13/100
+|-heal|p2a: Hatterene|78/100|[from] drain|[of] p1a: Valiant Effort
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781378580
+|move|p1a: Valiant Effort|Destiny Bond|p1a: Valiant Effort
+|-singlemove|p1a: Valiant Effort|Destiny Bond
+|move|p2a: Hatterene|Draining Kiss|p1a: Valiant Effort
+|-supereffective|p1a: Valiant Effort
+|-damage|p1a: Valiant Effort|0 fnt
+|-heal|p2a: Hatterene|87/100|[from] drain|[of] p1a: Valiant Effort
+|faint|p1a: Valiant Effort
+|-activate|p1a: Valiant Effort|move: Destiny Bond
+|-end|p1a: Valiant Effort|Quark Drive|[silent]
+|faint|p2a: Hatterene
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781378597
+|switch|p1a: Cudge Judy|Ogerpon-Wellspring, F|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-damage|p2a: Iron Treads|98/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1781378629
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Toxicroak|Toxicroak, F, shiny|100/100
+|-damage|p2a: Toxicroak|94/100|[from] Stealth Rock
+|move|p1a: Cudge Judy|Swords Dance|p1a: Cudge Judy
+|-boost|p1a: Cudge Judy|atk|2
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxicroak|100/100|[from] ability: Dry Skin
+|upkeep
+|turn|7
+|
+|t:|1781378636
+|move|p1a: Cudge Judy|Poltergeist|p2a: Toxicroak
+|-activate|p2a: Toxicroak|move: Poltergeist|Rocky Helmet
+|-damage|p2a: Toxicroak|0 fnt
+|faint|p2a: Toxicroak
+|-damage|p1a: Cudge Judy|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781378640
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|-damage|p2a: Barraskewda|88/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1781378645
+|move|p1a: Cudge Judy|Shadow Sneak|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|-damage|p1a: Cudge Judy|81/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1781378654
+|switch|p2a: Pelipper|Pelipper, F, shiny|80/100
+|-damage|p2a: Pelipper|55/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|9
+|
+|t:|1781378666
+|-terastallize|p2a: Pelipper|Normal
+|move|p1a: Cudge Judy|Poltergeist|p2a: Pelipper
+|-immune|p2a: Pelipper
+|move|p2a: Pelipper|Hydro Pump|p1a: Cudge Judy
+|-damage|p1a: Cudge Judy|0 fnt
+|replace|p1a: Zoro's Ark|Zoroark-Hisui, F
+|-end|p1a: Zoro's Ark|Illusion
+|faint|p1a: Zoro's Ark
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781378671
+|switch|p1a: Cudge Judy|Ogerpon-Wellspring, F|100/100
+|turn|10
+|
+|t:|1781378683
+|move|p1a: Cudge Judy|Ivy Cudgel|p2a: Pelipper|[anim] Ivy Cudgel Water
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781378686
+|switch|p2a: Zapdos|Zapdos, shiny|100/100
+|-damage|p2a: Zapdos|76/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1781378690
+|switch|p1a: Dengos Domain|Gholdengo|100/100
+|move|p2a: Zapdos|Thunder|p1a: Dengos Domain
+|-damage|p1a: Dengos Domain|2/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781378693
+|move|p1a: Dengos Domain|Shadow Ball|p2a: Zapdos
+|-damage|p2a: Zapdos|23/100
+|move|p2a: Zapdos|Thunder|p1a: Dengos Domain
+|-damage|p1a: Dengos Domain|0 fnt
+|faint|p1a: Dengos Domain
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781378696
+|switch|p1a: 平和|Kingambit, F|100/100
+|-activate|p1a: 平和|ability: Supreme Overlord
+|-start|p1a: 平和|fallen4|[silent]
+|-item|p1a: 平和|Air Balloon
+|turn|13
+|
+|t:|1781378700
+|switch|p2a: Iron Treads|Iron Treads|98/100
+|-damage|p2a: Iron Treads|95/100|[from] Stealth Rock
+|move|p1a: 平和|Kowtow Cleave|p2a: Iron Treads
+|-damage|p2a: Iron Treads|43/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Iron Treads|49/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781378707
+|move|p2a: Iron Treads|Rapid Spin|p1a: 平和
+|-resisted|p1a: 平和
+|-damage|p1a: 平和|95/100
+|-boost|p2a: Iron Treads|spe|1
+|-enditem|p1a: 平和|Air Balloon
+|-sideend|p2: MAMELUCO DE ELITE|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: 平和|Kowtow Cleave|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781378709
+|switch|p2a: Zapdos|Zapdos, shiny|23/100
+|turn|15
+|
+|t:|1781378711
+|move|p1a: 平和|Sucker Punch|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|win|jd2sleepy
+|raw|jd2sleepy's rating: 1566 &rarr; <strong>1590</strong><br />(+24 for winning)
+|raw|MAMELUCO DE ELITE's rating: 1632 &rarr; <strong>1608</strong><br />(-24 for losing)
+|l|☆MAMELUCO DE ELITE
+|player|p2|

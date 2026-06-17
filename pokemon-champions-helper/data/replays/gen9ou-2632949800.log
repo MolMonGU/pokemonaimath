@@ -1,0 +1,159 @@
+|j|☆poor team design
+|j|☆AllHailLechuguita
+|t:|1781582947
+|gametype|singles
+|player|p1|poor team design|1|1517
+|player|p2|AllHailLechuguita|170|1523
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Moth|
+|poke|p1|Gliscor, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Zamazenta-*|
+|poke|p2|Ribombee, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Great Tusk|
+|poke|p2|Kingambit, F|
+|poke|p2|Skeledirge, F|
+|poke|p2|Gholdengo|
+|teampreview
+|j| Concept Everything
+|
+|t:|1781582960
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|switch|p2a: Ribombee|Ribombee, M, shiny|100/100
+|turn|1
+|
+|t:|1781582962
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Ribombee|Sticky Web|p1a: Hatterene
+|move|p1a: Hatterene|Sticky Web|p2a: Ribombee|[from] ability: Magic Bounce
+|-sidestart|p2: AllHailLechuguita|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1781582966
+|switch|p2a: Great Tusk|Great Tusk, shiny|100/100
+|-activate|p2a: Great Tusk|move: Sticky Web
+|-unboost|p2a: Great Tusk|spe|1
+|move|p1a: Hatterene|Mystical Fire|p2a: Great Tusk
+|-damage|p2a: Great Tusk|69/100
+|-unboost|p2a: Great Tusk|spa|1
+|
+|-heal|p2a: Great Tusk|75/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781582969
+|move|p2a: Great Tusk|Rapid Spin|p1a: Hatterene
+|-damage|p1a: Hatterene|88/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: AllHailLechuguita|Sticky Web|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|move|p1a: Hatterene|Draining Kiss|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|15/100
+|-heal|p1a: Hatterene|100/100|[from] drain|[of] p2a: Great Tusk
+|
+|-heal|p2a: Great Tusk|21/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781582975
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Hatterene|Mystical Fire|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|43/100
+|-unboost|p2a: Gholdengo|spa|1
+|-enditem|p2a: Gholdengo|Air Balloon
+|
+|upkeep
+|turn|5
+|
+|t:|1781582978
+|move|p2a: Gholdengo|Make It Rain|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|12/100
+|-unboost|p2a: Gholdengo|spa|1
+|move|p1a: Hatterene|Mystical Fire|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|-heal|p1a: Hatterene|18/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781582980
+|switch|p2a: Ribombee|Ribombee, M, shiny|100/100
+|turn|6
+|
+|t:|1781582988
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|move|p2a: Ribombee|Moonblast|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|91/100
+|
+|upkeep
+|turn|7
+|j| choispecs ironmoth
+|
+|t:|1781582993
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Hatterene|Hatterene, F|18/100
+|move|p2a: Ribombee|Stun Spore|p1a: Hatterene
+|move|p1a: Hatterene|Stun Spore|p2a: Ribombee|[from] ability: Magic Bounce
+|-status|p2a: Ribombee|par
+|
+|-heal|p1a: Hatterene|24/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781582997
+|cant|p2a: Ribombee|par
+|move|p1a: Hatterene|Mystical Fire|p2a: Ribombee
+|-supereffective|p2a: Ribombee
+|-damage|p2a: Ribombee|25/100 par
+|
+|-heal|p1a: Hatterene|30/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781583003
+|move|p2a: Ribombee|Sticky Web|p1a: Hatterene
+|move|p1a: Hatterene|Sticky Web|p2a: Ribombee|[from] ability: Magic Bounce
+|-sidestart|p2: AllHailLechuguita|move: Sticky Web
+|move|p1a: Hatterene|Mystical Fire|p2a: Ribombee
+|-supereffective|p2a: Ribombee
+|-damage|p2a: Ribombee|0 fnt
+|faint|p2a: Ribombee
+|
+|-heal|p1a: Hatterene|36/100|[from] item: Leftovers
+|upkeep
+|-message|AllHailLechuguita forfeited.
+|
+|win|poor team design
+|raw|poor team design's rating: 1517 &rarr; <strong>1537</strong><br />(+20 for winning)
+|raw|AllHailLechuguita's rating: 1523 &rarr; <strong>1503</strong><br />(-20 for losing)
+|l|☆AllHailLechuguita
+|player|p2|
+|l| choispecs ironmoth

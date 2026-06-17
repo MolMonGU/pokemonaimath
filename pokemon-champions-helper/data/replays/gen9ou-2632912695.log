@@ -1,0 +1,294 @@
+|j|☆Exxxn
+|j|☆rrbrru
+|t:|1781577861
+|gametype|singles
+|player|p1|Exxxn|2|1623
+|player|p2|rrbrru|101|1699
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragapult, M|
+|poke|p1|Glimmora, F|
+|poke|p1|Dondozo, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Gardevoir, M|
+|poke|p1|Great Tusk|
+|poke|p2|Tyranitar, F|
+|poke|p2|Excadrill, M|
+|poke|p2|Hydrapple, M|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Alomomola, F|
+|poke|p2|Houndstone, M|
+|teampreview
+|
+|t:|1781577867
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gardevoir|Gardevoir, M, shiny|100/100
+|switch|p2a: Crocodile|Tyranitar, F|100/100
+|-ability|p1a: Gardevoir|Sand Stream|Trace|[from] ability: Trace|[of] p2a: Crocodile
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Gardevoir
+|turn|1
+|
+|t:|1781577875
+|move|p1a: Gardevoir|Aura Sphere|p2a: Crocodile
+|-supereffective|p2a: Crocodile
+|-damage|p2a: Crocodile|55/100
+|move|p2a: Crocodile|Stealth Rock|p1a: Gardevoir
+|-sidestart|p1: Exxxn|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Gardevoir|94/100|[from] Sandstorm
+|-heal|p2a: Crocodile|61/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781577883
+|switch|p2a: Ryuma|Houndstone, M|100/100
+|move|p1a: Gardevoir|Aura Sphere|p2a: Ryuma
+|-immune|p2a: Ryuma
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Gardevoir|88/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1781577886
+|-terastallize|p1a: Gardevoir|Normal
+|move|p2a: Ryuma|Poltergeist|p1a: Gardevoir
+|-immune|p1a: Gardevoir
+|move|p1a: Gardevoir|Moonblast|p2a: Ryuma
+|-damage|p2a: Ryuma|39/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Gardevoir|82/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1781577893
+|switch|p2a: Mr. 1|Excadrill, M|100/100
+|move|p1a: Gardevoir|Moonblast|p2a: Mr. 1
+|-resisted|p2a: Mr. 1
+|-damage|p2a: Mr. 1|71/100
+|-unboost|p2a: Mr. 1|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Gardevoir|76/100|[from] Sandstorm
+|-heal|p2a: Mr. 1|77/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781577906
+|move|p2a: Mr. 1|Earthquake|p1a: Gardevoir
+|-damage|p1a: Gardevoir|13/100
+|move|p1a: Gardevoir|Aura Sphere|p2a: Mr. 1
+|-supereffective|p2a: Mr. 1
+|-damage|p2a: Mr. 1|7/100
+|
+|-weather|none
+|-heal|p2a: Mr. 1|13/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781577915
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|move|p2a: Mr. 1|Rapid Spin|p1a: Ogerpon
+|-damage|p1a: Ogerpon|70/100
+|-boost|p2a: Mr. 1|spe|1
+|
+|-heal|p2a: Mr. 1|19/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781577920
+|switch|p2a: Queen|Hydrapple, M|100/100
+|move|p1a: Ogerpon|Horn Leech|p2a: Queen
+|-resisted|p2a: Queen
+|-damage|p2a: Queen|93/100
+|-heal|p1a: Ogerpon|75/100|[from] drain|[of] p2a: Queen
+|
+|upkeep
+|turn|8
+|
+|t:|1781577924
+|move|p1a: Ogerpon|Knock Off|p2a: Queen
+|-damage|p2a: Queen|65/100
+|-enditem|p2a: Queen|Eject Pack|[from] move: Knock Off|[of] p1a: Ogerpon
+|move|p2a: Queen|Draco Meteor|p1a: Ogerpon
+|-damage|p1a: Ogerpon|8/100
+|-unboost|p2a: Queen|spa|2
+|
+|upkeep
+|turn|9
+|
+|t:|1781577930
+|switch|p2a: Crocodile|Tyranitar, F|61/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Crocodile
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Crocodile|[anim] Ivy Cudgel Water
+|-supereffective|p2a: Crocodile
+|-damage|p2a: Crocodile|0 fnt
+|faint|p2a: Crocodile
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ogerpon|2/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781577936
+|switch|p2a: Mr. 1|Excadrill, M|19/100
+|turn|10
+|
+|t:|1781577945
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|move|p2a: Mr. 1|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|8/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|2/100|[from] Sandstorm
+|-heal|p2a: Mr. 1|25/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781577950
+|move|p1a: Dragapult|Sucker Punch|p2a: Mr. 1
+|-damage|p2a: Mr. 1|0 fnt
+|faint|p2a: Mr. 1
+|-damage|p1a: Dragapult|0 fnt|[from] item: Life Orb
+|faint|p1a: Dragapult
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781577955
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|switch|p2a: Queen|Hydrapple, M|98/100
+|-damage|p1a: Great Tusk|98/100|[from] Stealth Rock
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|12
+|
+|t:|1781577962
+|switch|p2a: Ryuma|Houndstone, M|39/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Ryuma
+|-crit|p2a: Ryuma
+|-damage|p2a: Ryuma|0 fnt
+|faint|p2a: Ryuma
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781577965
+|switch|p2a: Marco|Tornadus-Therian, M|100/100
+|turn|13
+|
+|t:|1781577969
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|-damage|p1a: Glimmora|88/100|[from] Stealth Rock
+|move|p2a: Marco|Bleakwind Storm|p1a: Glimmora|[miss]
+|-miss|p2a: Marco|p1a: Glimmora
+|
+|-weather|none
+|upkeep
+|turn|14
+|j| Shucklepilled
+|
+|t:|1781577983
+|switch|p2a: Big Mom|Alomomola, F|100/100
+|move|p1a: Glimmora|Meteor Beam||[still]
+|-prepare|p1a: Glimmora|Meteor Beam
+|-boost|p1a: Glimmora|spa|1
+|-enditem|p1a: Glimmora|Power Herb
+|-anim|p1a: Glimmora|Meteor Beam|p2a: Big Mom
+|-damage|p2a: Big Mom|18/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781577994
+|move|p1a: Glimmora|Sludge Wave|p2a: Big Mom
+|-damage|p2a: Big Mom|0 fnt
+|faint|p2a: Big Mom
+|
+|upkeep
+|
+|t:|1781577998
+|switch|p2a: Queen|Hydrapple, M|100/100
+|turn|16
+|
+|t:|1781578000
+|-terastallize|p2a: Queen|Steel
+|move|p1a: Glimmora|Sludge Wave|p2a: Queen
+|-immune|p2a: Queen
+|move|p2a: Queen|Earth Power|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1781578004
+|switch|p1a: Great Tusk|Great Tusk|98/100
+|-damage|p1a: Great Tusk|95/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1781578007
+|switch|p2a: Marco|Tornadus-Therian, M|100/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Marco
+|-damage|p2a: Marco|82/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: Exxxn|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|18
+|
+|t:|1781578009
+|move|p1a: Great Tusk|Supercell Slam|p2a: Marco
+|-supereffective|p2a: Marco
+|-damage|p2a: Marco|7/100
+|move|p2a: Marco|Bleakwind Storm|p1a: Great Tusk|[miss]
+|-miss|p2a: Marco|p1a: Great Tusk
+|
+|upkeep
+|turn|19
+|
+|t:|1781578017
+|switch|p2a: Queen|Hydrapple, M, tera:Steel|100/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Queen
+|-resisted|p2a: Queen
+|-damage|p2a: Queen|91/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781578025
+|move|p1a: Great Tusk|Headlong Rush|p2a: Queen
+|-supereffective|p2a: Queen
+|-damage|p2a: Queen|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Queen
+|
+|upkeep
+|-message|rrbrru forfeited.
+|
+|win|Exxxn
+|raw|Exxxn's rating: 1623 &rarr; <strong>1647</strong><br />(+24 for winning)
+|raw|rrbrru's rating: 1699 &rarr; <strong>1675</strong><br />(-24 for losing)
+|l|☆rrbrru
+|player|p2|
+|l|☆Exxxn
+|player|p1|
+|l| Shucklepilled

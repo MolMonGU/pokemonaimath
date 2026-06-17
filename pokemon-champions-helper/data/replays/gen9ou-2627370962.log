@@ -1,0 +1,495 @@
+|j|☆tuanquewang
+|j|☆interceptor_xwing
+|t:|1780891871
+|gametype|singles
+|player|p1|tuanquewang|backersf|1720
+|player|p2|interceptor_xwing|2|1646
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Hydrapple, F|
+|poke|p1|Cinderace, M|
+|poke|p1|Alomomola, F|
+|poke|p1|Mamoswine, M|
+|poke|p1|Thundurus-Therian, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Great Tusk|
+|poke|p2|Dondozo, M|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Heatran, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tuanquewang)
+|
+|t:|1780891898
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Thundurus|Thundurus-Therian, M|100/100
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|1
+|
+|t:|1780891902
+|move|p1a: Thundurus|Volt Switch|p2a: Heatran
+|-damage|p2a: Heatran|66/100
+|
+|t:|1780891904
+|switch|p1a: Alomomola|Alomomola, F|100/100|[from] Volt Switch
+|move|p2a: Heatran|Magma Storm|p1a: Alomomola|[miss]
+|-miss|p2a: Heatran|p1a: Alomomola
+|
+|-heal|p2a: Heatran|73/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1780891912
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Alomomola|Flip Turn|p2a: Ogerpon
+|-immune|p2a: Ogerpon|[from] ability: Water Absorb
+|
+|upkeep
+|turn|3
+|
+|t:|1780891917
+|switch|p1a: Hydrapple|Hydrapple, F, shiny|100/100
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|4
+|j| Fumarracho
+|
+|t:|1780891931
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|move|p2a: Ogerpon|Play Rough|p1a: Cinderace
+|-resisted|p1a: Cinderace
+|-damage|p1a: Cinderace|50/100
+|
+|upkeep
+|turn|5
+|l| Fumarracho
+|
+|t:|1780891936
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Cinderace|U-turn|p2a: Great Tusk
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|88/100
+|-damage|p1a: Cinderace|34/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|j| liechiteladihul
+|
+|t:|1780891945
+|switch|p1a: Hydrapple|Hydrapple, F, shiny|100/100|[from] U-turn
+|
+|upkeep
+|turn|6
+|
+|t:|1780891950
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Hydrapple|Draco Meteor|p2a: Hatterene
+|-immune|p2a: Hatterene
+|
+|upkeep
+|turn|7
+|
+|t:|1780891955
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Hatterene|Future Sight|p1a: Slowking
+|-start|p2a: Hatterene|move: Future Sight
+|
+|upkeep
+|turn|8
+|
+|t:|1780891965
+|move|p2a: Hatterene|Psychic Noise|p1a: Slowking
+|-damage|p1a: Slowking|74/100
+|-start|p1a: Slowking|move: Heal Block
+|move|p1a: Slowking|Trick|p2a: Hatterene
+|-activate|p1a: Slowking|move: Trick|[of] p2a: Hatterene
+|-item|p2a: Hatterene|Black Sludge|[from] move: Trick
+|-item|p1a: Slowking|Assault Vest|[from] move: Trick
+|
+|-damage|p2a: Hatterene|88/100|[from] item: Black Sludge
+|upkeep
+|turn|9
+|
+|t:|1780891984
+|move|p2a: Hatterene|Draining Kiss|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|69/100
+|-heal|p2a: Hatterene|93/100|[from] drain|[of] p1a: Slowking
+|move|p1a: Slowking|Psychic Noise|p2a: Hatterene
+|-resisted|p2a: Hatterene
+|-damage|p2a: Hatterene|78/100
+|-start|p2a: Hatterene|move: Heal Block
+|
+|-end|p1a: Slowking|move: Future Sight
+|-damage|p1a: Slowking|41/100
+|-damage|p2a: Hatterene|65/100|[from] item: Black Sludge
+|-end|p1a: Slowking|move: Heal Block
+|upkeep
+|turn|10
+|
+|t:|1780891992
+|switch|p1a: Thundurus|Thundurus-Therian, M|100/100
+|move|p2a: Hatterene|Future Sight|p1a: Thundurus
+|-start|p2a: Hatterene|move: Future Sight
+|
+|-damage|p2a: Hatterene|53/100|[from] item: Black Sludge
+|-end|p2a: Hatterene|move: Heal Block
+|upkeep
+|turn|11
+|
+|t:|1780892002
+|move|p1a: Thundurus|Sludge Wave|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1780892010
+|switch|p2a: Heatran|Heatran, M|73/100
+|turn|12
+|
+|t:|1780892012
+|switch|p1a: Slowking|Slowking-Galar, M|74/100
+|move|p2a: Heatran|Magma Storm|p1a: Slowking
+|-damage|p1a: Slowking|51/100
+|-activate|p1a: Slowking|move: Magma Storm|[of] p2a: Heatran
+|
+|-end|p1a: Slowking|move: Future Sight
+|-damage|p1a: Slowking|25/100
+|-heal|p2a: Heatran|79/100|[from] item: Leftovers
+|-damage|p1a: Slowking|12/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|13
+|
+|t:|1780892018
+|move|p2a: Heatran|Flash Cannon|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-heal|p2a: Heatran|85/100|[from] item: Leftovers
+|upkeep
+|j| Champion reko
+|
+|t:|1780892036
+|switch|p1a: Hydrapple|Hydrapple, F, shiny|100/100
+|turn|14
+|
+|t:|1780892048
+|move|p2a: Heatran|Overheat|p1a: Hydrapple
+|-damage|p1a: Hydrapple|29/100
+|-unboost|p2a: Heatran|spa|2
+|move|p1a: Hydrapple|Hydro Pump|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1780892062
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|15
+|
+|t:|1780892065
+|switch|p1a: Thundurus|Thundurus-Therian, M|100/100
+|move|p2a: Tornadus|U-turn|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-damage|p1a: Thundurus|89/100
+|
+|t:|1780892068
+|switch|p2a: Great Tusk|Great Tusk|88/100|[from] U-turn
+|
+|upkeep
+|turn|16
+|
+|t:|1780892074
+|move|p1a: Thundurus|Sludge Wave|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|57/100
+|move|p2a: Great Tusk|Stealth Rock|p1a: Thundurus
+|-sidestart|p1: tuanquewang|move: Stealth Rock
+|
+|upkeep
+|turn|17
+|
+|t:|1780892080
+|move|p1a: Thundurus|Sludge Wave|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|24/100
+|move|p2a: Great Tusk|Ice Spinner|p1a: Thundurus
+|-supereffective|p1a: Thundurus
+|-damage|p1a: Thundurus|7/100
+|
+|upkeep
+|turn|18
+|
+|t:|1780892088
+|move|p1a: Thundurus|Sludge Wave|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780892097
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|19
+|
+|t:|1780892102
+|move|p1a: Thundurus|Sludge Wave|p2a: Tornadus
+|-damage|p2a: Tornadus|52/100
+|move|p2a: Tornadus|U-turn|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|
+|t:|1780892105
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1780892107
+|switch|p1a: Cinderace|Cinderace, M|34/100
+|turn|20
+|
+|t:|1780892112
+|switch|p2a: Dondozo|Dondozo, M|100/100
+|move|p1a: Cinderace|U-turn|p2a: Dondozo
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p2a: Dondozo|81/100
+|
+|t:|1780892116
+|switch|p1a: Hydrapple|Hydrapple, F, shiny|62/100|[from] U-turn
+|-damage|p1a: Hydrapple|50/100|[from] Stealth Rock
+|
+|-heal|p2a: Dondozo|87/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1780892127
+|-terastallize|p2a: Dondozo|Fairy
+|move|p2a: Dondozo|Curse|p2a: Dondozo
+|-unboost|p2a: Dondozo|spe|1
+|-boost|p2a: Dondozo|atk|1
+|-boost|p2a: Dondozo|def|1
+|move|p1a: Hydrapple|Draco Meteor|p2a: Dondozo
+|-immune|p2a: Dondozo
+|
+|-heal|p2a: Dondozo|93/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1780892131
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|-damage|p1a: Alomomola|88/100|[from] Stealth Rock
+|move|p2a: Dondozo|Curse|p2a: Dondozo
+|-unboost|p2a: Dondozo|spe|1
+|-boost|p2a: Dondozo|atk|1
+|-boost|p2a: Dondozo|def|1
+|
+|-heal|p1a: Alomomola|94/100|[from] item: Leftovers
+|-heal|p2a: Dondozo|99/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1780892140
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|move|p2a: Dondozo|Wave Crash|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|73/100
+|-damage|p2a: Dondozo|92/100|[from] Recoil
+|
+|-heal|p1a: Alomomola|79/100|[from] item: Leftovers
+|-heal|p2a: Dondozo|98/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1780892155
+|move|p1a: Alomomola|Flip Turn|p2a: Dondozo
+|-damage|p2a: Dondozo|93/100
+|
+|t:|1780892157
+|switch|p1a: Hydrapple|Hydrapple, F, shiny|83/100|[from] Flip Turn
+|-damage|p1a: Hydrapple|71/100|[from] Stealth Rock
+|move|p2a: Dondozo|Wave Crash|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|54/100
+|-damage|p2a: Dondozo|89/100|[from] Recoil
+|
+|-heal|p1a: Hydrapple|100/100|[from] move: Wish|[wisher] Alomomola
+|-heal|p2a: Dondozo|95/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1780892174
+|move|p1a: Hydrapple|Leaf Storm|p2a: Dondozo
+|-damage|p2a: Dondozo|26/100
+|-unboost|p1a: Hydrapple|spa|2
+|move|p2a: Dondozo|Curse|p2a: Dondozo
+|-unboost|p2a: Dondozo|spe|1
+|-boost|p2a: Dondozo|atk|1
+|-boost|p2a: Dondozo|def|1
+|
+|-heal|p2a: Dondozo|32/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1780892181
+|switch|p1a: Mamoswine|Mamoswine, M|100/100
+|-damage|p1a: Mamoswine|88/100|[from] Stealth Rock
+|move|p2a: Dondozo|Rest|p2a: Dondozo
+|-status|p2a: Dondozo|slp|[from] move: Rest
+|-heal|p2a: Dondozo|100/100 slp|[silent]
+|
+|upkeep
+|turn|27
+|
+|t:|1780892184
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|-damage|p1a: Alomomola|88/100|[from] Stealth Rock
+|cant|p2a: Dondozo|slp
+|move|p2a: Dondozo|Sleep Talk|p2a: Dondozo
+|move|p2a: Dondozo|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Dondozo
+|
+|-heal|p1a: Alomomola|94/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1780892188
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|cant|p2a: Dondozo|slp
+|move|p2a: Dondozo|Sleep Talk|p2a: Dondozo
+|move|p2a: Dondozo|Wave Crash|p1a: Alomomola|[from] move: Sleep Talk
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|69/100
+|-damage|p2a: Dondozo|92/100 slp|[from] Recoil
+|
+|-heal|p1a: Alomomola|75/100|[from] item: Leftovers
+|-heal|p2a: Dondozo|98/100 slp|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1780892191
+|switch|p1a: Hydrapple|Hydrapple, F, shiny|100/100
+|-damage|p1a: Hydrapple|88/100|[from] Stealth Rock
+|-curestatus|p2a: Dondozo|slp|[msg]
+|move|p2a: Dondozo|Wave Crash|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|69/100
+|-damage|p2a: Dondozo|93/100|[from] Recoil
+|
+|-heal|p1a: Hydrapple|100/100|[from] move: Wish|[wisher] Alomomola
+|-heal|p2a: Dondozo|99/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1780892202
+|move|p1a: Hydrapple|Leaf Storm|p2a: Dondozo
+|-damage|p2a: Dondozo|34/100
+|-unboost|p1a: Hydrapple|spa|2
+|move|p2a: Dondozo|Wave Crash|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|82/100
+|-damage|p2a: Dondozo|29/100|[from] Recoil
+|
+|-heal|p2a: Dondozo|36/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1780892210
+|move|p1a: Hydrapple|Leaf Storm|p2a: Dondozo
+|-damage|p2a: Dondozo|0 fnt
+|-unboost|p1a: Hydrapple|spa|2
+|faint|p2a: Dondozo
+|
+|upkeep
+|
+|t:|1780892213
+|switch|p2a: Tornadus|Tornadus-Therian, M|85/100
+|turn|32
+|
+|t:|1780892221
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|-damage|p1a: Alomomola|88/100|[from] Stealth Rock
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Alomomola|[miss]
+|-miss|p2a: Tornadus|p1a: Alomomola
+|
+|-heal|p1a: Alomomola|94/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1780892226
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Alomomola
+|-damage|p1a: Alomomola|9/100
+|move|p1a: Alomomola|Mirror Coat|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|-heal|p1a: Alomomola|16/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780892234
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|34
+|
+|t:|1780892239
+|switch|p1a: Cinderace|Cinderace, M|34/100
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|35
+|
+|t:|1780892245
+|move|p1a: Cinderace|U-turn|p2a: Ogerpon
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|6/100
+|
+|t:|1780892248
+|switch|p1a: Hydrapple|Hydrapple, F, shiny|100/100|[from] U-turn
+|-damage|p1a: Hydrapple|88/100|[from] Stealth Rock
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Hydrapple|[anim] Ivy Cudgel Water
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|67/100
+|
+|upkeep
+|turn|36
+|
+|t:|1780892251
+|move|p2a: Ogerpon|Play Rough|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|0 fnt
+|faint|p1a: Hydrapple
+|
+|upkeep
+|
+|t:|1780892254
+|switch|p1a: Cinderace|Cinderace, M|34/100
+|turn|37
+|-message|interceptor_xwing forfeited.
+|
+|win|tuanquewang
+|raw|tuanquewang's rating: 1720 &rarr; <strong>1736</strong><br />(+16 for winning)
+|raw|interceptor_xwing's rating: 1646 &rarr; <strong>1630</strong><br />(-16 for losing)
+|l|☆interceptor_xwing
+|player|p2|
+|l|☆tuanquewang
+|player|p1|
+|l| Champion reko

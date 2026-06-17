@@ -1,0 +1,527 @@
+|j|☆tb poke
+|j|☆fivetomatoes
+|t:|1781358243
+|gametype|singles
+|player|p1|tb poke|170|1645
+|player|p2|fivetomatoes|1|1622
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Iron Treads|
+|poke|p1|Pecharunt|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Alomomola, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Rillaboom, M|
+|poke|p2|Glimmora, F|
+|poke|p2|Garganacl, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by fivetomatoes)
+|
+|t:|1781358251
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|-item|p1a: Iron Treads|Air Balloon
+|turn|1
+|
+|t:|1781358256
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Rotom|Trick|p1a: Alomomola
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Alomomola
+|-item|p1a: Alomomola|Choice Scarf|[from] move: Trick
+|-item|p2a: Rotom|Assault Vest|[from] move: Trick
+|
+|upkeep
+|turn|2
+|
+|t:|1781358261
+|move|p2a: Rotom|Volt Switch|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|50/100
+|
+|t:|1781358263
+|switch|p2a: Rillaboom|Rillaboom, M|100/100|[from] Volt Switch
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Alomomola|Flip Turn|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|93/100
+|
+|t:|1781358267
+|switch|p1a: Pecharunt|Pecharunt|100/100|[from] Flip Turn
+|
+|-heal|p2a: Rillaboom|99/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781358271
+|switch|p2a: Garganacl|Garganacl, F|100/100
+|move|p1a: Pecharunt|Parting Shot|p2a: Garganacl
+|-unboost|p2a: Garganacl|atk|1
+|-unboost|p2a: Garganacl|spa|1
+|j| insaneprefire
+|
+|t:|1781358282
+|switch|p1a: Hatterene|Hatterene, F|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|4
+|
+|t:|1781358285
+|move|p1a: Hatterene|Psychic Noise|p2a: Garganacl
+|-damage|p2a: Garganacl|71/100
+|-start|p2a: Garganacl|move: Heal Block
+|move|p2a: Garganacl|Salt Cure|p1a: Hatterene
+|-damage|p1a: Hatterene|92/100
+|-start|p1a: Hatterene|Salt Cure
+|
+|-heal|p1a: Hatterene|98/100|[from] Grassy Terrain
+|-damage|p1a: Hatterene|86/100|[from] Salt Cure
+|upkeep
+|turn|5
+|
+|t:|1781358291
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|move|p1a: Hatterene|Psychic Noise|p2a: Garganacl
+|-activate|p2a: Garganacl|move: Protect
+|
+|-heal|p1a: Hatterene|92/100|[from] Grassy Terrain
+|-damage|p1a: Hatterene|79/100|[from] Salt Cure
+|-end|p2a: Garganacl|move: Heal Block
+|upkeep
+|turn|6
+|
+|t:|1781358305
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Hatterene|Psychic Noise|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|81/100
+|-start|p2a: Gholdengo|move: Heal Block
+|
+|-heal|p1a: Hatterene|85/100|[from] Grassy Terrain
+|-damage|p1a: Hatterene|73/100|[from] Salt Cure
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781358312
+|switch|p1a: Alomomola|Alomomola, F|83/100
+|move|p2a: Gholdengo|Shadow Ball|p1a: Alomomola
+|-damage|p1a: Alomomola|53/100
+|
+|-end|p2a: Gholdengo|move: Heal Block
+|upkeep
+|turn|8
+|
+|t:|1781358315
+|move|p2a: Gholdengo|Shadow Ball|p1a: Alomomola
+|-damage|p1a: Alomomola|19/100
+|move|p1a: Alomomola|Flip Turn|p2a: Gholdengo
+|-damage|p2a: Gholdengo|60/100
+|
+|t:|1781358320
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|9
+|
+|t:|1781358331
+|switch|p2a: Garganacl|Garganacl, F|71/100
+|move|p1a: Tornadus|Nasty Plot|p1a: Tornadus
+|-boost|p1a: Tornadus|spa|2
+|
+|-heal|p2a: Garganacl|77/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781358335
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|move|p1a: Tornadus|Grass Knot|p2a: Garganacl
+|-activate|p2a: Garganacl|move: Protect
+|
+|-heal|p2a: Garganacl|83/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781358342
+|-terastallize|p2a: Garganacl|Dark
+|move|p1a: Tornadus|Grass Knot|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|faint|p2a: Garganacl
+|-damage|p1a: Tornadus|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781358350
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|12
+|
+|t:|1781358360
+|switch|p1a: Alomomola|Alomomola, F|52/100
+|move|p2a: Rotom|Volt Switch|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|5/100
+|
+|t:|1781358363
+|switch|p2a: Dragapult|Dragapult, F|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|13
+|
+|t:|1781358367
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|76/100
+|move|p1a: Alomomola|Flip Turn|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-activate|p2a: Dragapult|move: Substitute|[damage]
+|
+|t:|1781358375
+|switch|p1a: Iron Treads|Iron Treads|100/100|[from] Flip Turn
+|-item|p1a: Iron Treads|Air Balloon
+|
+|-heal|p2a: Dragapult|82/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781358377
+|move|p2a: Dragapult|Hex|p1a: Iron Treads
+|-damage|p1a: Iron Treads|70/100
+|-enditem|p1a: Iron Treads|Air Balloon
+|move|p1a: Iron Treads|Knock Off|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-end|p2a: Dragapult|Substitute
+|
+|-heal|p2a: Dragapult|88/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781358383
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|63/100
+|move|p1a: Iron Treads|Stealth Rock|p2a: Dragapult
+|-sidestart|p2: fivetomatoes|move: Stealth Rock
+|
+|-heal|p2a: Dragapult|69/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781358387
+|move|p2a: Dragapult|Hex|p1a: Iron Treads
+|-damage|p1a: Iron Treads|40/100
+|move|p1a: Iron Treads|Knock Off|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-end|p2a: Dragapult|Substitute
+|
+|-heal|p2a: Dragapult|75/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781358398
+|switch|p2a: Rillaboom|Rillaboom, M|99/100
+|-damage|p2a: Rillaboom|86/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Iron Treads|Knock Off|p2a: Rillaboom
+|-damage|p2a: Rillaboom|58/100
+|-enditem|p2a: Rillaboom|Life Orb|[from] move: Knock Off|[of] p1a: Iron Treads
+|
+|-heal|p1a: Iron Treads|46/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|64/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1781358403
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Rillaboom|Knock Off|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|66/100
+|-enditem|p1a: Pecharunt|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-heal|p1a: Pecharunt|72/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|71/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1781358406
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|move|p1a: Pecharunt|Parting Shot|p2a: Glimmora
+|-unboost|p2a: Glimmora|atk|1
+|-unboost|p2a: Glimmora|spa|1
+|
+|t:|1781358414
+|switch|p1a: Alomomola|Alomomola, F|39/100|[from] Parting Shot
+|
+|-heal|p1a: Alomomola|45/100|[from] Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1781358418
+|move|p2a: Glimmora|Mortal Spin|p1a: Alomomola
+|-damage|p1a: Alomomola|42/100
+|-status|p1a: Alomomola|psn
+|-sideend|p2: fivetomatoes|Stealth Rock|[from] move: Mortal Spin|[of] p2a: Glimmora
+|move|p1a: Alomomola|Flip Turn|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|73/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: tb poke|move: Toxic Spikes
+|
+|t:|1781358422
+|switch|p1a: Iron Treads|Iron Treads|46/100|[from] Flip Turn
+|
+|-heal|p1a: Iron Treads|53/100|[from] Grassy Terrain
+|-heal|p2a: Glimmora|79/100|[from] Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1781358426
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|move|p1a: Iron Treads|Earthquake|p2a: Rotom
+|-immune|p2a: Rotom|[from] ability: Levitate
+|
+|-heal|p1a: Iron Treads|59/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|22
+|
+|t:|1781358431
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Alomomola|Alomomola, F|75/100 psn
+|move|p2a: Rotom|Hydro Pump|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|57/100 psn
+|
+|-damage|p1a: Alomomola|45/100 psn|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1781358434
+|move|p2a: Rotom|Volt Switch|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|faint|p1a: Alomomola
+|
+|t:|1781358447
+|switch|p2a: Gholdengo|Gholdengo|60/100|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1781358451
+|switch|p1a: Iron Treads|Iron Treads|59/100
+|turn|24
+|
+|t:|1781358464
+|move|p2a: Gholdengo|Shadow Ball|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781358469
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|turn|25
+|inactive|fivetomatoes has 120 seconds left.
+|
+|t:|1781358514
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|move|p1a: Tornadus|Heat Wave|p2a: Rotom
+|-resisted|p2a: Rotom
+|-crit|p2a: Rotom
+|-damage|p2a: Rotom|75/100
+|-damage|p1a: Tornadus|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|26
+|
+|t:|1781358522
+|switch|p1a: Pecharunt|Pecharunt|72/100
+|-sideend|p1: tb poke|move: Toxic Spikes|[of] p1a: Pecharunt
+|move|p2a: Rotom|Hydro Pump|p1a: Pecharunt
+|-damage|p1a: Pecharunt|26/100
+|
+|upkeep
+|turn|27
+|
+|t:|1781358531
+|move|p2a: Rotom|Volt Switch|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|faint|p1a: Pecharunt
+|
+|t:|1781358537
+|switch|p2a: Glimmora|Glimmora, F|79/100|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1781358542
+|switch|p1a: Hatterene|Hatterene, F|73/100
+|turn|28
+|inactive|fivetomatoes has 120 seconds left.
+|
+|t:|1781358553
+|switch|p2a: Gholdengo|Gholdengo|60/100
+|move|p1a: Hatterene|Psychic Noise|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|41/100
+|-start|p2a: Gholdengo|move: Heal Block
+|
+|upkeep
+|turn|29
+|l| insaneprefire
+|
+|t:|1781358562
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Gholdengo|Shadow Ball|p1a: Tornadus
+|-damage|p1a: Tornadus|49/100
+|
+|-end|p2a: Gholdengo|move: Heal Block
+|upkeep
+|turn|30
+|
+|t:|1781358566
+|move|p2a: Gholdengo|Shadow Ball|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1781358568
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|31
+|
+|t:|1781358574
+|switch|p2a: Glimmora|Glimmora, F|79/100
+|-terastallize|p1a: Zamazenta|Dark
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|upkeep
+|turn|32
+|
+|t:|1781358578
+|move|p2a: Glimmora|Spiky Shield|p2a: Glimmora
+|-singleturn|p2a: Glimmora|move: Protect
+|move|p1a: Zamazenta|Body Press|p2a: Glimmora
+|-activate|p2a: Glimmora|move: Protect
+|-damage|p1a: Zamazenta|88/100|[from] Spiky Shield|[of] p2a: Glimmora
+|
+|-heal|p1a: Zamazenta|94/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1781358580
+|move|p1a: Zamazenta|Body Press|p2a: Glimmora
+|-damage|p2a: Glimmora|5/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: tb poke|move: Toxic Spikes
+|move|p2a: Glimmora|Mortal Spin|p1a: Zamazenta
+|-damage|p1a: Zamazenta|92/100
+|-status|p1a: Zamazenta|psn
+|
+|-heal|p1a: Zamazenta|98/100 psn|[from] item: Leftovers
+|-damage|p1a: Zamazenta|86/100 psn|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1781358583
+|move|p1a: Zamazenta|Body Press|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: tb poke|move: Toxic Spikes
+|faint|p2a: Glimmora
+|
+|-heal|p1a: Zamazenta|92/100 psn|[from] item: Leftovers
+|-damage|p1a: Zamazenta|80/100 psn|[from] psn
+|upkeep
+|
+|t:|1781358607
+|switch|p2a: Gholdengo|Gholdengo|41/100
+|turn|35
+|j| insaneprefire
+|
+|t:|1781358609
+|move|p2a: Gholdengo|Make It Rain|p1a: Zamazenta
+|-damage|p1a: Zamazenta|21/100 psn
+|-unboost|p2a: Gholdengo|spa|1
+|move|p1a: Zamazenta|Crunch|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|-heal|p1a: Zamazenta|28/100 psn|[from] item: Leftovers
+|-damage|p1a: Zamazenta|15/100 psn|[from] psn
+|upkeep
+|
+|t:|1781358618
+|switch|p2a: Dragapult|Dragapult, F|75/100
+|turn|36
+|
+|t:|1781358622
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|50/100
+|move|p1a: Zamazenta|Crunch|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-end|p2a: Dragapult|Substitute
+|
+|-heal|p2a: Dragapult|56/100|[from] item: Leftovers
+|-heal|p1a: Zamazenta|21/100 psn|[from] item: Leftovers
+|-damage|p1a: Zamazenta|9/100 psn|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1781358630
+|move|p2a: Dragapult|Hex|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|-heal|p2a: Dragapult|63/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781358632
+|switch|p1a: Hatterene|Hatterene, F|73/100
+|-status|p1a: Hatterene|tox
+|turn|38
+|
+|t:|1781358634
+|move|p2a: Dragapult|Hex|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|win|fivetomatoes
+|raw|tb poke's rating: 1645 &rarr; <strong>1624</strong><br />(-21 for losing)
+|raw|fivetomatoes's rating: 1622 &rarr; <strong>1643</strong><br />(+21 for winning)
+|l|☆fivetomatoes
+|player|p2|
+|l|☆tb poke
+|player|p1|
+|c| insaneprefire|yo
+|j|☆tb poke
+|player|p1|tb poke|170|
+|l|☆tb poke
+|player|p1|
+|l| insaneprefire

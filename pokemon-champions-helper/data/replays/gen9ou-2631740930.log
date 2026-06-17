@@ -1,0 +1,462 @@
+|j|☆Vitriso
+|j|☆Belike
+|t:|1781431961
+|gametype|singles
+|player|p1|Vitriso|169|1556
+|player|p2|Belike|rocketgrunt|1569
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Kyurem|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Kingambit, F|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Garchomp, F|
+|poke|p2|Umbreon, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Thundurus-Therian, M|
+|poke|p2|Serperior, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Belike)
+|
+|t:|1781431975
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|turn|1
+|
+|t:|1781431983
+|move|p2a: Cinderace|Pyro Ball|p1a: Slowking|[miss]
+|-miss|p2a: Cinderace|p1a: Slowking
+|move|p1a: Slowking|Future Sight|p2a: Cinderace
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|2
+|
+|t:|1781431996
+|move|p2a: Cinderace|Pyro Ball|p1a: Slowking|[miss]
+|-miss|p2a: Cinderace|p1a: Slowking
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781432003
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|c|☆Belike|Wow
+|
+|t:|1781432010
+|switch|p2a: Umbreon|Umbreon, M|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Umbreon
+|-damage|p2a: Umbreon|48/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Umbreon|move: Future Sight
+|-immune|p2a: Umbreon
+|-heal|p2a: Umbreon|54/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781432018
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|move|p1a: Great Tusk|Stealth Rock|p2a: Garchomp
+|-sidestart|p2: Belike|move: Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781432023
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Garchomp|Spikes|p1a: Hatterene
+|move|p1a: Hatterene|Spikes|p2a: Garchomp|[from] ability: Magic Bounce
+|-sidestart|p2: Belike|Spikes
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781432033
+|switch|p2a: Umbreon|Umbreon, M|54/100
+|-damage|p2a: Umbreon|42/100|[from] Stealth Rock
+|-damage|p2a: Umbreon|29/100|[from] Spikes
+|move|p1a: Hatterene|Draining Kiss|p2a: Umbreon
+|-supereffective|p2a: Umbreon
+|-damage|p2a: Umbreon|5/100
+|
+|-weather|none
+|-heal|p2a: Umbreon|11/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781432038
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|move|p1a: Hatterene|Draining Kiss|p2a: Umbreon
+|-supereffective|p2a: Umbreon
+|-damage|p2a: Umbreon|0 fnt
+|faint|p2a: Umbreon
+|
+|upkeep
+|
+|t:|1781432041
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|-damage|p2a: Cinderace|76/100|[from] Stealth Rock
+|-damage|p2a: Cinderace|63/100|[from] Spikes
+|turn|8
+|
+|t:|1781432049
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-start|p2a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|move|p1a: Hatterene|Psychic Noise|p2a: Cinderace
+|-damage|p2a: Cinderace|11/100
+|-start|p2a: Cinderace|move: Heal Block
+|
+|upkeep
+|turn|9
+|
+|t:|1781432057
+|switch|p2a: Serperior|Serperior, M|100/100
+|move|p1a: Hatterene|Psychic Noise|p2a: Serperior
+|-damage|p2a: Serperior|67/100
+|-start|p2a: Serperior|move: Heal Block
+|
+|upkeep
+|turn|10
+|
+|t:|1781432061
+|move|p2a: Serperior|Leaf Storm|p1a: Hatterene
+|-damage|p1a: Hatterene|61/100
+|-boost|p2a: Serperior|spa|2
+|move|p1a: Hatterene|Nuzzle|p2a: Serperior
+|-resisted|p2a: Serperior
+|-damage|p2a: Serperior|66/100
+|-status|p2a: Serperior|par
+|
+|-end|p2a: Serperior|move: Heal Block
+|upkeep
+|turn|11
+|
+|t:|1781432065
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|-damage|p1a: Tornadus|76/100|[from] Stealth Rock
+|move|p2a: Serperior|Leaf Storm|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|52/100
+|-boost|p2a: Serperior|spa|2
+|
+|-heal|p2a: Serperior|72/100 par|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781432072
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|move|p1a: Tornadus|U-turn|p2a: Garchomp
+|-damage|p2a: Garchomp|89/100
+|-damage|p1a: Tornadus|40/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Tornadus|23/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|
+|t:|1781432076
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|-damage|p1a: Great Tusk|98/100|[from] Stealth Rock
+|-damage|p1a: Great Tusk|85/100|[from] Spikes
+|
+|upkeep
+|turn|13
+|
+|t:|1781432083
+|move|p1a: Great Tusk|Rapid Spin|p2a: Garchomp
+|-damage|p2a: Garchomp|74/100
+|-boost|p1a: Great Tusk|spe|1
+|-damage|p1a: Great Tusk|73/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Great Tusk|56/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|-sideend|p1: Vitriso|Spikes|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|-sideend|p1: Vitriso|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|move|p2a: Garchomp|Dragon Tail|p1a: Great Tusk
+|-damage|p1a: Great Tusk|30/100
+|-damage|p2a: Garchomp|57/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|drag|p1a: Tornadus|Tornadus-Therian, M|56/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781432095
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Garchomp|Earthquake|p1a: Kyurem
+|-damage|p1a: Kyurem|48/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781432104
+|-terastallize|p2a: Garchomp|Steel
+|move|p1a: Kyurem|Ice Beam|p2a: Garchomp
+|-resisted|p2a: Garchomp
+|-damage|p2a: Garchomp|27/100
+|move|p2a: Garchomp|Dragon Tail|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-crit|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781432115
+|switch|p1a: Tornadus|Tornadus-Therian, M|89/100
+|turn|16
+|
+|t:|1781432120
+|move|p1a: Tornadus|Heat Wave|p2a: Garchomp|[miss]
+|-miss|p1a: Tornadus|p2a: Garchomp
+|move|p2a: Garchomp|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: Vitriso|move: Stealth Rock
+|
+|upkeep
+|turn|17
+|
+|t:|1781432125
+|switch|p2a: Thundurus|Thundurus-Therian, M|100/100
+|move|p1a: Tornadus|Heat Wave|p2a: Thundurus
+|-damage|p2a: Thundurus|65/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781432131
+|move|p2a: Thundurus|Grass Knot|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|80/100
+|move|p1a: Tornadus|Knock Off|p2a: Thundurus
+|-damage|p2a: Thundurus|36/100
+|-enditem|p2a: Thundurus|Choice Scarf|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|upkeep
+|turn|19
+|
+|t:|1781432137
+|move|p1a: Tornadus|Heat Wave|p2a: Thundurus
+|-damage|p2a: Thundurus|6/100
+|-status|p2a: Thundurus|brn
+|move|p2a: Thundurus|Volt Switch|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|31/100
+|
+|t:|1781432143
+|switch|p2a: Cinderace|Cinderace, M|11/100|[from] Volt Switch
+|
+|upkeep
+|turn|20
+|
+|t:|1781432150
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|-damage|p1a: Slowking|88/100|[from] Stealth Rock
+|move|p2a: Cinderace|Sucker Punch||[still]
+|-fail|p2a: Cinderace
+|
+|-heal|p1a: Slowking|94/100|[from] item: Black Sludge
+|upkeep
+|turn|21
+|
+|t:|1781432160
+|switch|p2a: Serperior|Serperior, M|72/100 par
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781432164
+|switch|p1a: Great Tusk|Great Tusk|30/100|[from] Chilly Reception
+|-damage|p1a: Great Tusk|27/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Serperior|78/100 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781432166
+|move|p1a: Great Tusk|Rapid Spin|p2a: Serperior
+|-damage|p2a: Serperior|61/100 par
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: Vitriso|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|move|p2a: Serperior|Leaf Storm|p1a: Great Tusk|[miss]
+|-miss|p2a: Serperior|p1a: Great Tusk
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Serperior|67/100 par|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781432169
+|move|p1a: Great Tusk|Ice Spinner|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|15/100 par
+|move|p2a: Serperior|Leaf Storm|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-boost|p2a: Serperior|spa|2
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Serperior|22/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1781432172
+|switch|p1a: Tornadus|Tornadus-Therian, M|65/100
+|turn|24
+|
+|t:|1781432175
+|move|p1a: Tornadus|U-turn|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|0 fnt
+|faint|p2a: Serperior
+|
+|t:|1781432179
+|switch|p1a: Hatterene|Hatterene, F|61/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781432184
+|switch|p2a: Cinderace|Cinderace, M|11/100
+|turn|25
+|
+|t:|1781432191
+|move|p2a: Cinderace|Pyro Ball|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-weather|none
+|upkeep
+|
+|t:|1781432196
+|switch|p1a: Tornadus|Tornadus-Therian, M|98/100
+|turn|26
+|
+|t:|1781432202
+|switch|p2a: Garchomp|Garchomp, F, tera:Steel|27/100
+|move|p1a: Tornadus|U-turn|p2a: Garchomp
+|-resisted|p2a: Garchomp
+|-damage|p2a: Garchomp|22/100
+|-damage|p1a: Tornadus|86/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Tornadus|69/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|
+|t:|1781432212
+|switch|p1a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|27
+|
+|t:|1781432218
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Garchomp|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: Vitriso|move: Stealth Rock
+|
+|upkeep
+|turn|28
+|
+|t:|1781432225
+|move|p1a: Tornadus|Heat Wave|p2a: Garchomp|[miss]
+|-miss|p1a: Tornadus|p2a: Garchomp
+|move|p2a: Garchomp|Spikes|p1a: Tornadus
+|-sidestart|p1: Vitriso|Spikes
+|
+|upkeep
+|turn|29
+|
+|t:|1781432230
+|move|p1a: Tornadus|Heat Wave|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1781432235
+|switch|p2a: Thundurus|Thundurus-Therian, M|6/100 brn
+|turn|30
+|
+|t:|1781432239
+|move|p1a: Tornadus|Knock Off|p2a: Thundurus
+|-damage|p2a: Thundurus|0 fnt
+|faint|p2a: Thundurus
+|
+|upkeep
+|
+|t:|1781432243
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|31
+|
+|t:|1781432246
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Zapdos|[miss]
+|-miss|p1a: Tornadus|p2a: Zapdos
+|move|p2a: Zapdos|Brave Bird|p1a: Tornadus
+|-damage|p1a: Tornadus|21/100
+|-damage|p2a: Zapdos|73/100|[from] Recoil
+|
+|upkeep
+|turn|32
+|
+|t:|1781432251
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1781432252
+|switch|p2a: Cinderace|Cinderace, M|11/100
+|turn|33
+|
+|t:|1781432256
+|move|p2a: Cinderace|Sucker Punch|p1a: Tornadus
+|-start|p2a: Cinderace|typechange|Dark|[from] ability: Libero
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1781432258
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|-damage|p1a: Slowking|88/100|[from] Stealth Rock
+|-damage|p1a: Slowking|76/100|[from] Spikes
+|turn|34
+|inactive|Belike has 120 seconds left.
+|inactive|Belike has 90 seconds left.
+|inactive|Belike has 60 seconds left.
+|inactive|Belike has 30 seconds left.
+|inactive|Belike has 20 seconds left.
+|inactive|Belike has 15 seconds left.
+|inactive|Belike has 10 seconds left.
+|inactive|Belike has 5 seconds left.
+|-message|Belike lost due to inactivity.
+|
+|win|Vitriso
+|raw|Vitriso's rating: 1556 &rarr; <strong>1577</strong><br />(+21 for winning)
+|raw|Belike's rating: 1569 &rarr; <strong>1548</strong><br />(-21 for losing)
+|l|☆Vitriso
+|player|p1|

@@ -1,0 +1,342 @@
+|j|☆hotnips
+|j|☆Always bet on red
+|t:|1781241178
+|gametype|singles
+|player|p1|hotnips|bruno|1597
+|player|p2|Always bet on red|170|1571
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Great Tusk|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Corviknight, F|
+|poke|p1|Clefable, F|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Dragapult, F|
+|poke|p2|Torkoal, M|
+|poke|p2|Slither Wing|
+|poke|p2|Venusaur, F|
+|poke|p2|Walking Wake|
+|poke|p2|Corviknight, M|
+|poke|p2|Primarina, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hotnips)
+|
+|t:|1781241203
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Clefable|Clefable, F|100/100
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|turn|1
+|
+|t:|1781241209
+|switch|p2a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Clefable|Stealth Rock|p2a: Torkoal
+|-sidestart|p2: Always bet on red|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781241230
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|-damage|p2a: Slither Wing|88/100|[from] Stealth Rock
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|move|p1a: Clefable|Knock Off|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-crit|p2a: Slither Wing
+|-damage|p2a: Slither Wing|73/100
+|-enditem|p2a: Slither Wing|Choice Band|[from] move: Knock Off|[of] p1a: Clefable
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781241248
+|move|p2a: Slither Wing|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|81/100
+|
+|t:|1781241253
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Venusaur|Venusaur, F|100/100|[from] U-turn
+|-damage|p2a: Venusaur|88/100|[from] Stealth Rock
+|move|p1a: Clefable|Moonblast|p2a: Venusaur
+|-resisted|p2a: Venusaur
+|-damage|p2a: Venusaur|69/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Clefable|87/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781241265
+|move|p2a: Venusaur|Growth|p2a: Venusaur
+|-boost|p2a: Venusaur|atk|2
+|-boost|p2a: Venusaur|spa|2
+|move|p1a: Clefable|Knock Off|p2a: Venusaur
+|-damage|p2a: Venusaur|50/100
+|-enditem|p2a: Venusaur|Life Orb|[from] move: Knock Off|[of] p1a: Clefable
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Clefable|93/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781241282
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Venusaur|Weather Ball|p1a: Slowking
+|-damage|p1a: Slowking|57/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781241294
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Corviknight|94/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781241297
+|move|p2a: Corviknight|Defog|p1a: Corviknight
+|-unboost|p1a: Corviknight|evasion|1
+|-sideend|p2: Always bet on red|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: Corviknight|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|91/100
+|
+|t:|1781241315
+|switch|p1a: Clefable|Clefable, F|93/100|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Corviknight|97/100|[from] item: Leftovers
+|-heal|p1a: Clefable|99/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781241327
+|switch|p2a: Primarina|Primarina, F|100/100
+|move|p1a: Clefable|Stealth Rock|p2a: Primarina
+|-sidestart|p2: Always bet on red|move: Stealth Rock
+|
+|-weather|none
+|-heal|p1a: Clefable|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781241337
+|move|p2a: Primarina|Encore|p1a: Clefable
+|-start|p1a: Clefable|Encore
+|move|p1a: Clefable|Stealth Rock||[still]
+|-fail|p1a: Clefable
+|
+|upkeep
+|turn|10
+|
+|t:|1781241351
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|move|p2a: Primarina|Calm Mind|p2a: Primarina
+|-boost|p2a: Primarina|spa|1
+|-boost|p2a: Primarina|spd|1
+|
+|upkeep
+|turn|11
+|
+|t:|1781241355
+|switch|p1a: Slowking|Slowking-Galar, M|91/100
+|move|p2a: Primarina|Draining Kiss|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|80/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781241358
+|move|p2a: Primarina|Psychic Noise|p1a: Slowking
+|-damage|p1a: Slowking|51/100
+|-start|p1a: Slowking|move: Heal Block
+|move|p1a: Slowking|Sludge Bomb|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|41/100
+|-status|p2a: Primarina|psn
+|
+|-heal|p2a: Primarina|47/100 psn|[from] item: Leftovers
+|-damage|p2a: Primarina|34/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1781241383
+|move|p2a: Primarina|Psychic Noise|p1a: Slowking
+|-damage|p1a: Slowking|22/100
+|move|p1a: Slowking|Sludge Bomb|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|-end|p1a: Slowking|move: Heal Block
+|upkeep
+|
+|t:|1781241392
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-damage|p2a: Walking Wake|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1781241409
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|-terastallize|p2a: Walking Wake|Water
+|move|p2a: Walking Wake|Hydro Steam|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|47/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781241419
+|move|p1a: Samurott|Aqua Jet|p2a: Walking Wake
+|-resisted|p2a: Walking Wake
+|-damage|p2a: Walking Wake|78/100
+|move|p2a: Walking Wake|Hydro Steam|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781241436
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|16
+|
+|t:|1781241442
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Corviknight|Corviknight, M|97/100
+|-damage|p2a: Corviknight|85/100|[from] Stealth Rock
+|move|p1a: Dragapult|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|46/100
+|
+|-heal|p2a: Corviknight|52/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781241458
+|move|p1a: Dragapult|Shadow Ball|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781241464
+|switch|p2a: Torkoal|Torkoal, M|100/100
+|-damage|p2a: Torkoal|76/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|18
+|
+|t:|1781241478
+|move|p1a: Dragapult|Shadow Ball|p2a: Torkoal
+|-damage|p2a: Torkoal|13/100
+|move|p2a: Torkoal|Lava Plume|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|74/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781241484
+|move|p1a: Dragapult|Shadow Ball|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781241488
+|switch|p2a: Walking Wake|Walking Wake, tera:Water|78/100
+|-damage|p2a: Walking Wake|66/100|[from] Stealth Rock
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|turn|20
+|
+|t:|1781241506
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Walking Wake|Hydro Steam|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781241508
+|switch|p1a: Slowking|Slowking-Galar, M|55/100
+|turn|21
+|
+|t:|1781241513
+|-terastallize|p1a: Slowking|Water
+|move|p2a: Walking Wake|Hydro Steam|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|23/100
+|move|p1a: Slowking|Sludge Bomb|p2a: Walking Wake
+|-damage|p2a: Walking Wake|16/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1781241539
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: Walking Wake|Hydro Steam|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781241542
+|switch|p1a: Slowking|Slowking-Galar, M, tera:Water|57/100
+|turn|23
+|
+|t:|1781241559
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Slither Wing|Slither Wing|73/100
+|-damage|p2a: Slither Wing|61/100|[from] Stealth Rock
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|move|p1a: Slowking|Psyshock|p2a: Slither Wing
+|-supereffective|p2a: Slither Wing
+|-damage|p2a: Slither Wing|0 fnt
+|faint|p2a: Slither Wing
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|-message|Always bet on red forfeited.
+|
+|win|hotnips
+|raw|hotnips's rating: 1597 &rarr; <strong>1616</strong><br />(+19 for winning)
+|raw|Always bet on red's rating: 1571 &rarr; <strong>1552</strong><br />(-19 for losing)
+|l|☆Always bet on red
+|player|p2|
+|l|☆hotnips
+|player|p1|

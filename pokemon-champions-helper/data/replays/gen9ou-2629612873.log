@@ -1,0 +1,310 @@
+|j|☆owl_with_scarf
+|j|☆KurisuChestnutLab
+|t:|1781153229
+|gametype|singles
+|player|p1|owl_with_scarf|#owlwithscarf|1570
+|player|p2|KurisuChestnutLab|may-contest|1554
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Indeedee, M|
+|poke|p1|Hawlucha, F|
+|poke|p1|Walking Wake|
+|poke|p1|Great Tusk|
+|poke|p1|Iron Crown|
+|poke|p2|Primarina, M|
+|poke|p2|Hippowdon, F|
+|poke|p2|Skarmory, M|
+|poke|p2|Zapdos|
+|poke|p2|Dragonite, M|
+|poke|p2|Slowking, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by owl_with_scarf)
+|inactive|KurisuChestnutLab also wants the timer to be on.
+|inactive|owl_with_scarf has 120 seconds left.
+|inactive|owl_with_scarf has 90 seconds left.
+|
+|t:|1781153293
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Indeedee|Indeedee, M|100/100
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|1
+|
+|t:|1781153296
+|move|p1a: Indeedee|Expanding Force|p2a: Hippowdon
+|-damage|p2a: Hippowdon|32/100
+|move|p2a: Hippowdon|Earthquake|p1a: Indeedee
+|-damage|p1a: Indeedee|27/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Indeedee|21/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|39/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781153301
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|switch|p2a: Slowking|Slowking, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowking|94/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1781153307
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|move|p2a: Slowking|Future Sight|p1a: Iron Crown
+|-start|p2a: Slowking|move: Future Sight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowking|88/100|[from] Sandstorm
+|upkeep
+|turn|4
+|inactive|owl_with_scarf has 120 seconds left.
+|
+|t:|1781153337
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781153341
+|switch|p2a: Dragonite|Dragonite, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781153346
+|-terastallize|p1a: Iron Crown|Steel
+|move|p2a: Dragonite|Earthquake|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|43/100
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Dragonite
+|-damage|p2a: Dragonite|67/100
+|-damage|p2a: Dragonite|8/100
+|-hitcount|p2a: Dragonite|2
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Iron Crown|move: Future Sight
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|32/100
+|-heal|p1a: Iron Crown|38/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781153351
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p1a: Hawlucha|Psychic Seed
+|-boost|p1a: Hawlucha|spd|1|[from] item: Psychic Seed
+|move|p2a: Dragonite|Earthquake|p1a: Hawlucha
+|-immune|p1a: Hawlucha
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781153356
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-enditem|p1a: Walking Wake|Booster Energy
+|-activate|p1a: Walking Wake|ability: Protosynthesis|[fromitem]
+|-start|p1a: Walking Wake|protosynthesisspa
+|move|p2a: Dragonite|Extreme Speed|p1a: Walking Wake
+|-activate|p1a: Walking Wake|move: Psychic Terrain
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781153360
+|switch|p2a: Primarina|Primarina, M|100/100
+|move|p1a: Walking Wake|Substitute|p1a: Walking Wake
+|-start|p1a: Walking Wake|Substitute
+|-damage|p1a: Walking Wake|75/100
+|
+|-weather|none
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|9
+|
+|t:|1781153363
+|move|p1a: Walking Wake|Hydro Steam|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|85/100
+|move|p2a: Primarina|Psychic|p1a: Walking Wake
+|-end|p1a: Walking Wake|Substitute
+|
+|upkeep
+|turn|10
+|
+|t:|1781153369
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Indeedee|Indeedee, M|21/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|move|p2a: Primarina|Moonblast|p1a: Indeedee
+|-damage|p1a: Indeedee|0 fnt
+|faint|p1a: Indeedee
+|
+|upkeep
+|
+|t:|1781153371
+|switch|p1a: Iron Crown|Iron Crown, tera:Steel|38/100
+|turn|11
+|
+|t:|1781153375
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|move|p2a: Primarina|Surf|p1a: Iron Crown
+|-damage|p1a: Iron Crown|9/100
+|
+|-heal|p1a: Iron Crown|15/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781153378
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Primarina
+|-damage|p2a: Primarina|62/100
+|-damage|p2a: Primarina|39/100
+|-hitcount|p2a: Primarina|2
+|move|p2a: Primarina|Surf|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781153386
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|13
+|
+|t:|1781153389
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Great Tusk|Head Smash|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|16/100
+|-damage|p1a: Great Tusk|57/100|[from] Recoil
+|
+|-heal|p1a: Great Tusk|63/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781153393
+|move|p1a: Great Tusk|Headlong Rush|p2a: Zapdos
+|-immune|p2a: Zapdos
+|move|p2a: Zapdos|Hurricane|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781153397
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|turn|15
+|
+|t:|1781153404
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|66/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Slowking|Trick Room|p1a: Slowking
+|-fieldstart|move: Trick Room|[of] p1a: Slowking
+|
+|upkeep
+|turn|16
+|
+|t:|1781153412
+|switch|p2a: Slowking|Slowking, F|100/100
+|move|p1a: Slowking|Expanding Force|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|69/100
+|-damage|p1a: Slowking|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|17
+|
+|t:|1781153415
+|move|p1a: Slowking|Expanding Force|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|40/100
+|-damage|p1a: Slowking|81/100|[from] item: Life Orb
+|move|p2a: Slowking|Slack Off|p2a: Slowking
+|-heal|p2a: Slowking|90/100
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|18
+|
+|t:|1781153419
+|move|p1a: Slowking|Ice Beam|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|79/100
+|-damage|p1a: Slowking|71/100|[from] item: Life Orb
+|move|p2a: Slowking|Future Sight|p1a: Slowking
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|19
+|
+|t:|1781153425
+|move|p1a: Slowking|Ice Beam|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|68/100
+|-damage|p1a: Slowking|61/100|[from] item: Life Orb
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781153430
+|switch|p2a: Hippowdon|Hippowdon, F|39/100|[from] Chilly Reception
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowking|55/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|45/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|20
+|
+|t:|1781153436
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|move|p2a: Hippowdon|Earthquake|p1a: Hawlucha
+|-immune|p1a: Hawlucha
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hawlucha|94/100|[from] Sandstorm
+|-end|p1a: Hawlucha|move: Future Sight
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|-heal|p2a: Hippowdon|51/100|[from] item: Leftovers
+|upkeep
+|-message|owl_with_scarf forfeited.
+|
+|win|KurisuChestnutLab
+|raw|owl_with_scarf's rating: 1584 &rarr; <strong>1563</strong><br />(-21 for losing)
+|raw|KurisuChestnutLab's rating: 1567 &rarr; <strong>1588</strong><br />(+21 for winning)
+|l|☆owl_with_scarf
+|player|p1|
+|l|☆KurisuChestnutLab
+|player|p2|

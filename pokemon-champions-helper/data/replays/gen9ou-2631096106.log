@@ -1,0 +1,381 @@
+|j|☆jhfsjdhfksjdhf
+|j|☆tuanquewang
+|t:|1781340223
+|gametype|singles
+|player|p1|jhfsjdhfksjdhf|170|1539
+|player|p2|tuanquewang|backersf|1813
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ribombee, M|
+|poke|p1|Gholdengo|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Pecharunt|
+|poke|p1|Dragonite, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Hydrapple, F|
+|poke|p2|Cinderace, M|
+|poke|p2|Alomomola, F|
+|poke|p2|Mamoswine, M|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tuanquewang)
+|
+|t:|1781340232
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ribombee|Ribombee, M|100/100
+|switch|p2a: Hydrapple|Hydrapple, F, shiny|100/100
+|turn|1
+|
+|t:|1781340238
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Ribombee|Sticky Web|p2a: Slowking
+|-sidestart|p2: tuanquewang|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1781340244
+|move|p1a: Ribombee|Stun Spore|p2a: Slowking
+|-status|p2a: Slowking|par
+|move|p2a: Slowking|Toxic|p1a: Ribombee
+|-status|p1a: Ribombee|tox
+|
+|-damage|p1a: Ribombee|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1781340249
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|cant|p2a: Slowking|par
+|
+|upkeep
+|turn|4
+|
+|t:|1781340255
+|switch|p2a: Hydrapple|Hydrapple, F, shiny|100/100
+|-activate|p2a: Hydrapple|move: Sticky Web
+|-unboost|p2a: Hydrapple|spe|1
+|move|p1a: Samurott|Knock Off|p2a: Hydrapple
+|-damage|p2a: Hydrapple|68/100
+|-enditem|p2a: Hydrapple|Choice Specs|[from] move: Knock Off|[of] p1a: Samurott
+|
+|upkeep
+|turn|5
+|
+|t:|1781340260
+|move|p1a: Samurott|Flip Turn|p2a: Hydrapple
+|-resisted|p2a: Hydrapple
+|-damage|p2a: Hydrapple|64/100
+|
+|t:|1781340265
+|switch|p1a: Ribombee|Ribombee, M|94/100 tox|[from] Flip Turn
+|move|p2a: Hydrapple|Leaf Storm|p1a: Ribombee
+|-resisted|p1a: Ribombee
+|-damage|p1a: Ribombee|46/100 tox
+|-unboost|p2a: Hydrapple|spa|2
+|
+|-damage|p1a: Ribombee|40/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1781340269
+|switch|p2a: Slowking|Slowking-Galar, M|100/100 par
+|-activate|p2a: Slowking|move: Sticky Web
+|-unboost|p2a: Slowking|spe|1
+|move|p1a: Ribombee|Stun Spore|p2a: Slowking
+|-fail|p2a: Slowking|par
+|
+|-damage|p1a: Ribombee|28/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1781340274
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781340276
+|switch|p2a: Hydrapple|Hydrapple, F, shiny|97/100|[from] Chilly Reception
+|-activate|p2a: Hydrapple|move: Sticky Web
+|-unboost|p2a: Hydrapple|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781340281
+|switch|p1a: Ribombee|Ribombee, M|28/100 tox
+|move|p2a: Hydrapple|Earth Power|p1a: Ribombee
+|-resisted|p1a: Ribombee
+|-damage|p1a: Ribombee|6/100 tox
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Ribombee|0 fnt|[from] psn
+|faint|p1a: Ribombee
+|upkeep
+|
+|t:|1781340293
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|-item|p1a: Pecharunt|Air Balloon
+|turn|9
+|
+|t:|1781340302
+|move|p1a: Pecharunt|Nasty Plot|p1a: Pecharunt
+|-boost|p1a: Pecharunt|spa|2
+|move|p2a: Hydrapple|Hydro Pump|p1a: Pecharunt
+|-damage|p1a: Pecharunt|55/100
+|-enditem|p1a: Pecharunt|Air Balloon
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781340307
+|switch|p2a: Slowking|Slowking-Galar, M|100/100 par
+|-activate|p2a: Slowking|move: Sticky Web
+|-unboost|p2a: Slowking|spe|1
+|move|p1a: Pecharunt|Malignant Chain|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|76/100 par
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Slowking|82/100 par|[from] item: Black Sludge
+|upkeep
+|turn|11
+|
+|t:|1781340310
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|100/100
+|move|p2a: Slowking|Psychic Noise|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|38/100
+|-start|p1a: Pecharunt|move: Heal Block
+|
+|-weather|none
+|-heal|p2a: Slowking|89/100 par|[from] item: Black Sludge
+|upkeep
+|turn|12
+|
+|t:|1781340315
+|move|p1a: Pecharunt|Shadow Ball|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|9/100 par
+|-unboost|p2a: Slowking|spd|1
+|move|p2a: Slowking|Psychic Noise|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|faint|p1a: Pecharunt
+|
+|-heal|p2a: Slowking|15/100 par|[from] item: Black Sludge
+|upkeep
+|
+|t:|1781340321
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|turn|13
+|
+|t:|1781340325
+|switch|p2a: Hydrapple|Hydrapple, F, shiny|100/100
+|-activate|p2a: Hydrapple|move: Sticky Web
+|-unboost|p2a: Hydrapple|spe|1
+|move|p1a: Samurott|Ceaseless Edge|p2a: Hydrapple
+|-damage|p2a: Hydrapple|65/100
+|-sidestart|p2: tuanquewang|Spikes
+|
+|upkeep
+|turn|14
+|
+|t:|1781340334
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Hydrapple|Leaf Storm|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|61/100
+|-unboost|p2a: Hydrapple|spa|2
+|
+|upkeep
+|turn|15
+|
+|t:|1781340342
+|switch|p2a: Slowking|Slowking-Galar, M|48/100 par
+|-activate|p2a: Slowking|move: Sticky Web
+|-unboost|p2a: Slowking|spe|1
+|-damage|p2a: Slowking|36/100 par|[from] Spikes
+|move|p1a: Gholdengo|Shadow Ball|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781340345
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|turn|16
+|
+|t:|1781340349
+|move|p1a: Gholdengo|Shadow Ball|p2a: Cinderace
+|-damage|p2a: Cinderace|36/100
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-start|p2a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|
+|upkeep
+|turn|17
+|
+|t:|1781340355
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Cinderace|atk|1
+|move|p2a: Cinderace|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|91/100
+|
+|t:|1781340377
+|switch|p2a: Mamoswine|Mamoswine, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|18
+|
+|t:|1781340383
+|switch|p1a: Gholdengo|Gholdengo|61/100
+|-activate|p1a: Gholdengo|move: Sticky Web
+|-unboost|p1a: Gholdengo|spe|1
+|-damage|p1a: Gholdengo|49/100|[from] Spikes
+|move|p2a: Mamoswine|Earthquake|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781340386
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|turn|19
+|
+|t:|1781340393
+|switch|p2a: Hydrapple|Hydrapple, F, shiny|98/100
+|move|p1a: Samurott|Ceaseless Edge|p2a: Hydrapple|[miss]
+|-miss|p1a: Samurott|p2a: Hydrapple
+|
+|upkeep
+|turn|20
+|
+|t:|1781340407
+|move|p1a: Samurott|Ceaseless Edge|p2a: Hydrapple
+|-damage|p2a: Hydrapple|67/100
+|-sidestart|p2: tuanquewang|Spikes
+|move|p2a: Hydrapple|Leaf Storm|p1a: Samurott|[miss]
+|-miss|p2a: Hydrapple|p1a: Samurott
+|
+|upkeep
+|turn|21
+|
+|t:|1781340417
+|move|p1a: Samurott|Ceaseless Edge|p2a: Hydrapple
+|-damage|p2a: Hydrapple|31/100
+|-sidestart|p2: tuanquewang|Spikes
+|move|p2a: Hydrapple|Leaf Storm|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|-unboost|p2a: Hydrapple|spa|2
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781340423
+|switch|p1a: Landorus|Landorus-Therian, M|91/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Hydrapple|atk|1
+|turn|22
+|
+|t:|1781340428
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|-damage|p2a: Alomomola|84/100|[from] Spikes
+|move|p1a: Landorus|Stealth Rock|p2a: Alomomola
+|-sidestart|p2: tuanquewang|move: Stealth Rock
+|
+|-heal|p2a: Alomomola|90/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781340432
+|move|p1a: Landorus|Taunt|p2a: Alomomola
+|-start|p2a: Alomomola|move: Taunt
+|cant|p2a: Alomomola|move: Taunt|Wish
+|
+|-heal|p2a: Alomomola|96/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781340435
+|move|p1a: Landorus|Earthquake|p2a: Alomomola
+|-crit|p2a: Alomomola
+|-damage|p2a: Alomomola|54/100
+|move|p2a: Alomomola|Flip Turn|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|54/100
+|
+|t:|1781340444
+|switch|p2a: Cinderace|Cinderace, M|36/100|[from] Flip Turn
+|
+|upkeep
+|turn|25
+|
+|t:|1781340448
+|move|p2a: Cinderace|Pyro Ball|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1781340451
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|26
+|
+|t:|1781340458
+|move|p1a: Dragonite|Extreme Speed|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|upkeep
+|
+|t:|1781340463
+|switch|p2a: Gholdengo|Gholdengo, shiny|100/100
+|-damage|p2a: Gholdengo|84/100|[from] Spikes
+|-damage|p2a: Gholdengo|78/100|[from] Stealth Rock
+|turn|27
+|
+|t:|1781340470
+|move|p2a: Gholdengo|Trick|p1a: Dragonite
+|-activate|p2a: Gholdengo|move: Trick|[of] p1a: Dragonite
+|-item|p1a: Dragonite|Choice Scarf|[from] move: Trick
+|-item|p2a: Gholdengo|Heavy-Duty Boots|[from] move: Trick
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|28
+|-message|jhfsjdhfksjdhf forfeited.
+|
+|win|tuanquewang
+|raw|jhfsjdhfksjdhf's rating: 1539 &rarr; <strong>1532</strong><br />(-7 for losing)
+|raw|tuanquewang's rating: 1813 &rarr; <strong>1820</strong><br />(+7 for winning)
+|l|☆jhfsjdhfksjdhf
+|player|p1|
+|l|☆tuanquewang
+|player|p2|

@@ -1,0 +1,298 @@
+|j|☆erhai
+|j|☆lesbiancleric
+|t:|1781265784
+|gametype|singles
+|player|p1|erhai|170|1591
+|player|p2|lesbiancleric|plasmagruntf|1503
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Jugulis|
+|poke|p1|Ogerpon, F|
+|poke|p1|Scizor, M|
+|poke|p1|Latios, M|
+|poke|p1|Manaphy|
+|poke|p1|Sandy Shocks|
+|poke|p2|Alomomola, F|
+|poke|p2|Hydreigon, F|
+|poke|p2|Garganacl, M|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Great Tusk|
+|poke|p2|Pecharunt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lesbiancleric)
+|
+|t:|1781265812
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sandy Shocks|Sandy Shocks|100/100
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|-enditem|p1a: Sandy Shocks|Booster Energy
+|-activate|p1a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p1a: Sandy Shocks|protosynthesisspe
+|turn|1
+|
+|t:|1781265826
+|move|p1a: Sandy Shocks|Stealth Rock|p2a: Hydreigon
+|-sidestart|p2: lesbiancleric|move: Stealth Rock
+|move|p2a: Hydreigon|Surf|p1a: Sandy Shocks
+|-supereffective|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|0 fnt
+|faint|p1a: Sandy Shocks
+|-end|p1a: Sandy Shocks|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781265843
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|2
+|
+|t:|1781265853
+|move|p1a: Iron Jugulis|Hurricane|p2a: Hydreigon|[miss]
+|-miss|p1a: Iron Jugulis|p2a: Hydreigon
+|move|p2a: Hydreigon|Surf|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|37/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781265866
+|move|p1a: Iron Jugulis|Hurricane|p2a: Hydreigon
+|-damage|p2a: Hydreigon|39/100
+|move|p2a: Hydreigon|Surf|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781265874
+|switch|p1a: Latios|Latios, M, shiny|100/100
+|turn|4
+|
+|t:|1781265885
+|switch|p2a: Garganacl|Garganacl, M|100/100
+|-damage|p2a: Garganacl|88/100|[from] Stealth Rock
+|move|p1a: Latios|Agility|p1a: Latios
+|-boost|p1a: Latios|spe|2
+|
+|-heal|p2a: Garganacl|94/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781265891
+|move|p1a: Latios|Calm Mind|p1a: Latios
+|-boost|p1a: Latios|spa|1
+|-boost|p1a: Latios|spd|1
+|move|p2a: Garganacl|Salt Cure|p1a: Latios
+|-damage|p1a: Latios|87/100
+|-start|p1a: Latios|Salt Cure
+|
+|-heal|p2a: Garganacl|100/100|[from] item: Leftovers
+|-damage|p1a: Latios|75/100|[from] Salt Cure
+|upkeep
+|turn|6
+|
+|t:|1781265896
+|move|p1a: Latios|Calm Mind|p1a: Latios
+|-boost|p1a: Latios|spa|1
+|-boost|p1a: Latios|spd|1
+|move|p2a: Garganacl|Stealth Rock|p1a: Latios
+|-sidestart|p1: erhai|move: Stealth Rock
+|
+|-damage|p1a: Latios|62/100|[from] Salt Cure
+|upkeep
+|turn|7
+|
+|t:|1781265905
+|move|p1a: Latios|Calm Mind|p1a: Latios
+|-boost|p1a: Latios|spa|1
+|-boost|p1a: Latios|spd|1
+|move|p2a: Garganacl|Recover||[still]
+|-fail|p2a: Garganacl|heal
+|
+|-damage|p1a: Latios|50/100|[from] Salt Cure
+|upkeep
+|turn|8
+|
+|t:|1781265917
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Latios|Stored Power|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-damage|p1a: Latios|38/100|[from] Salt Cure
+|upkeep
+|
+|t:|1781265921
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|-damage|p2a: Samurott|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1781265951
+|move|p1a: Latios|Aura Sphere|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-damage|p1a: Latios|25/100|[from] Salt Cure
+|upkeep
+|
+|t:|1781265967
+|switch|p2a: Garganacl|Garganacl, M|100/100
+|-damage|p2a: Garganacl|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1781265983
+|switch|p2a: Hydreigon|Hydreigon, F|39/100
+|-damage|p2a: Hydreigon|26/100|[from] Stealth Rock
+|move|p1a: Latios|Stored Power|p2a: Hydreigon
+|-immune|p2a: Hydreigon
+|
+|-damage|p1a: Latios|13/100|[from] Salt Cure
+|upkeep
+|turn|11
+|
+|t:|1781265989
+|move|p1a: Latios|Aura Sphere|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|-damage|p1a: Latios|0 fnt|[from] Salt Cure
+|faint|p1a: Latios
+|upkeep
+|
+|t:|1781265996
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|switch|p1a: Manaphy|Manaphy, shiny|100/100
+|-damage|p1a: Manaphy|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781266000
+|move|p1a: Manaphy|Tail Glow|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|3
+|move|p2a: Pecharunt|Malignant Chain|p1a: Manaphy
+|-damage|p1a: Manaphy|54/100
+|-status|p1a: Manaphy|tox
+|-start|p1a: Manaphy|confusion|[from] ability: Poison Puppeteer|[of] p2a: Pecharunt
+|
+|-damage|p1a: Manaphy|48/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1781266012
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|-damage|p2a: Alomomola|88/100|[from] Stealth Rock
+|-activate|p1a: Manaphy|confusion
+|move|p1a: Manaphy|Surf|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|27/100
+|
+|-damage|p1a: Manaphy|36/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1781266019
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|-end|p1a: Manaphy|confusion
+|move|p1a: Manaphy|Surf|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Protect
+|
+|-damage|p1a: Manaphy|18/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1781266026
+|move|p1a: Manaphy|Surf|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|
+|-damage|p1a: Manaphy|0 fnt|[from] psn
+|faint|p1a: Manaphy
+|upkeep
+|
+|t:|1781266037
+|switch|p1a: Scizor|Scizor, M, shiny|100/100
+|switch|p2a: Garganacl|Garganacl, M|88/100
+|-damage|p1a: Scizor|88/100|[from] Stealth Rock
+|-damage|p2a: Garganacl|75/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781266042
+|-terastallize|p2a: Garganacl|Ghost
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|move|p2a: Garganacl|Salt Cure|p1a: Scizor
+|-damage|p1a: Scizor|75/100
+|-start|p1a: Scizor|Salt Cure
+|
+|-heal|p2a: Garganacl|82/100|[from] item: Leftovers
+|-damage|p1a: Scizor|50/100|[from] Salt Cure
+|upkeep
+|turn|17
+|
+|t:|1781266047
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|move|p1a: Scizor|Knock Off|p2a: Garganacl
+|-activate|p2a: Garganacl|move: Protect
+|
+|-heal|p2a: Garganacl|88/100|[from] item: Leftovers
+|-damage|p1a: Scizor|25/100|[from] Salt Cure
+|upkeep
+|turn|18
+|
+|t:|1781266051
+|move|p1a: Scizor|Knock Off|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|-enditem|p2a: Garganacl|Leftovers|[from] move: Knock Off|[of] p1a: Scizor
+|faint|p2a: Garganacl
+|
+|-damage|p1a: Scizor|0 fnt|[from] Salt Cure
+|faint|p1a: Scizor
+|upkeep
+|
+|t:|1781266055
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1781266066
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Pecharunt|Malignant Chain|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|2/100
+|-status|p1a: Ogerpon|tox
+|-start|p1a: Ogerpon|confusion|[from] ability: Poison Puppeteer|[of] p2a: Pecharunt
+|
+|-damage|p1a: Ogerpon|0 fnt|[from] psn
+|faint|p1a: Ogerpon
+|
+|win|lesbiancleric
+|raw|erhai's rating: 1591 &rarr; <strong>1566</strong><br />(-25 for losing)
+|raw|lesbiancleric's rating: 1503 &rarr; <strong>1528</strong><br />(+25 for winning)
+|l|☆erhai
+|player|p1|
+|l|☆lesbiancleric
+|player|p2|

@@ -1,0 +1,476 @@
+|j|☆Loums
+|j|☆Vernita
+|t:|1781545266
+|gametype|singles
+|player|p1|Loums|nate|1540
+|player|p2|Vernita|169|1649
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Excadrill, M|
+|poke|p1|Ogerpon-Cornerstone, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Moltres|
+|poke|p1|Great Tusk|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Alomomola, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Kyurem|
+|poke|p2|Tinkaton, F|
+|poke|p2|Great Tusk|
+|teampreview
+|
+|t:|1781545273
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|switch|p2a: Tinkaton|Tinkaton, F|100/100
+|-item|p2a: Tinkaton|Air Balloon
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Loums)
+|
+|t:|1781545282
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Tinkaton|Stealth Rock|p1a: Moltres
+|-sidestart|p1: Loums|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Moltres|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1781545289
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Moltres|U-turn|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|92/100
+|
+|t:|1781545299
+|switch|p1a: Tyranitar|Tyranitar, M|100/100|[from] U-turn
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|86/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1781545306
+|switch|p1a: Moltres|Moltres|94/100
+|move|p2a: Tornadus|U-turn|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|92/100
+|
+|t:|1781545311
+|switch|p2a: Kyurem|Kyurem|100/100|[from] U-turn
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kyurem|94/100|[from] Sandstorm
+|-damage|p1a: Moltres|86/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1781545318
+|move|p2a: Kyurem|Draco Meteor|p1a: Moltres
+|-damage|p1a: Moltres|19/100
+|-unboost|p2a: Kyurem|spa|2
+|move|p1a: Moltres|Flamethrower|p2a: Kyurem
+|-damage|p2a: Kyurem|68/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kyurem|62/100|[from] Sandstorm
+|-damage|p1a: Moltres|13/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1781545328
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|-damage|p1a: Excadrill|97/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Alomomola|94/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1781545339
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|move|p2a: Alomomola|Flip Turn|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-crit|p1a: Excadrill
+|-damage|p1a: Excadrill|34/100
+|
+|t:|1781545352
+|switch|p2a: Tinkaton|Tinkaton, F|100/100|[from] Flip Turn
+|-item|p2a: Tinkaton|Air Balloon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781545361
+|move|p1a: Excadrill|Iron Head|p2a: Tinkaton
+|-damage|p2a: Tinkaton|0 fnt
+|-enditem|p2a: Tinkaton|Air Balloon
+|faint|p2a: Tinkaton
+|-damage|p1a: Excadrill|24/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781545369
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|turn|8
+|
+|t:|1781545373
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Excadrill|Earthquake|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Protect
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781545379
+|move|p1a: Excadrill|Earthquake|p2a: Alomomola
+|-damage|p2a: Alomomola|24/100
+|-damage|p1a: Excadrill|14/100|[from] item: Life Orb
+|move|p2a: Alomomola|Flip Turn|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|t:|1781545382
+|switch|p2a: Kyurem|Kyurem|62/100|[from] Flip Turn
+|-ability|p2a: Kyurem|Pressure
+|
+|upkeep
+|
+|t:|1781545394
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|98/100|[from] Stealth Rock
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|10
+|
+|t:|1781545404
+|-terastallize|p1a: Great Tusk|Poison
+|move|p2a: Kyurem|Freeze-Dry|p1a: Great Tusk
+|-damage|p1a: Great Tusk|40/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Kyurem
+|-damage|p2a: Kyurem|39/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: Loums|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|11
+|
+|t:|1781545413
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Great Tusk|Knock Off|p2a: Tornadus
+|-damage|p2a: Tornadus|49/100
+|-enditem|p2a: Tornadus|Assault Vest|[from] move: Knock Off|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|12
+|
+|t:|1781545419
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Hatterene
+|-damage|p2a: Hatterene|73/100
+|-damage|p1a: Great Tusk|24/100|[from] item: Rocky Helmet|[of] p2a: Hatterene
+|
+|upkeep
+|turn|13
+|
+|t:|1781545426
+|switch|p2a: Tornadus|Tornadus-Therian, M|82/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Tornadus
+|-immune|p2a: Tornadus
+|
+|upkeep
+|turn|14
+|
+|t:|1781545432
+|move|p1a: Great Tusk|Knock Off|p2a: Tornadus
+|-damage|p2a: Tornadus|46/100
+|move|p2a: Tornadus|Heat Wave|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781545440
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|15
+|
+|t:|1781545445
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Dragapult|Shadow Ball|p2a: Great Tusk
+|-damage|p2a: Great Tusk|71/100
+|-unboost|p2a: Great Tusk|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781545454
+|switch|p1a: Tyranitar|Tyranitar, M|88/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Great Tusk|Knock Off|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|77/100
+|-enditem|p1a: Tyranitar|Smooth Rock|[from] move: Knock Off|[of] p2a: Great Tusk
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781545464
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, F|57/100
+|move|p1a: Tyranitar|Stealth Rock|p2a: Alomomola
+|-sidestart|p2: Vernita|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Alomomola|51/100|[from] Sandstorm
+|upkeep
+|turn|18
+|
+|t:|1781545471
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|95/100|[from] Sandstorm
+|-damage|p2a: Alomomola|45/100|[from] Sandstorm
+|upkeep
+|turn|19
+|
+|t:|1781545480
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Dragapult|Draco Meteor|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|89/100|[from] Sandstorm
+|-damage|p2a: Alomomola|38/100|[from] Sandstorm
+|-heal|p2a: Alomomola|88/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|20
+|
+|t:|1781545489
+|switch|p1a: Moltres|Moltres|13/100
+|switch|p2a: Hatterene|Hatterene, F|73/100
+|-damage|p2a: Hatterene|60/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Moltres|7/100|[from] Sandstorm
+|-damage|p2a: Hatterene|54/100|[from] Sandstorm
+|upkeep
+|turn|21
+|
+|t:|1781545497
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|57/100
+|-singleturn|p1a: Moltres|move: Roost
+|move|p2a: Hatterene|Psychic Noise|p1a: Moltres
+|-damage|p1a: Moltres|22/100
+|-start|p1a: Moltres|move: Heal Block
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Moltres|16/100|[from] Sandstorm
+|-damage|p2a: Hatterene|48/100|[from] Sandstorm
+|upkeep
+|turn|22
+|
+|t:|1781545509
+|move|p1a: Moltres|U-turn|p2a: Hatterene
+|-damage|p2a: Hatterene|37/100
+|-damage|p1a: Moltres|0 fnt|[from] item: Rocky Helmet|[of] p2a: Hatterene
+|faint|p1a: Moltres
+|move|p2a: Hatterene|Draining Kiss|p1: Moltres|[notarget]
+|-fail|p2a: Hatterene
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hatterene|31/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781545518
+|switch|p1a: Dragapult|Dragapult, M|89/100
+|turn|23
+|
+|t:|1781545524
+|move|p1a: Dragapult|Shadow Ball|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|-weather|none
+|upkeep
+|
+|t:|1781545526
+|switch|p2a: Great Tusk|Great Tusk|71/100
+|-damage|p2a: Great Tusk|68/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781545533
+|switch|p1a: Tyranitar|Tyranitar, M|77/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Great Tusk|Ice Spinner|p1a: Tyranitar
+|-damage|p1a: Tyranitar|59/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1781545544
+|move|p2a: Great Tusk|Rapid Spin|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|53/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: Vernita|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|move|p1a: Tyranitar|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|49/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1781545554
+|move|p2a: Great Tusk|Rapid Spin|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|48/100
+|-boost|p2a: Great Tusk|spe|1
+|move|p1a: Tyranitar|Knock Off|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|36/100
+|-enditem|p2a: Great Tusk|Assault Vest|[from] move: Knock Off|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|27
+|
+|t:|1781545562
+|move|p2a: Great Tusk|Headlong Rush|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781545569
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|turn|28
+|
+|t:|1781545574
+|move|p2a: Great Tusk|Headlong Rush|p1a: Ogerpon
+|-damage|p1a: Ogerpon|33/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Ogerpon|Power Whip|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781545581
+|switch|p2a: Tornadus|Tornadus-Therian, M|80/100
+|turn|29
+|
+|t:|1781545585
+|switch|p1a: Dragapult|Dragapult, M|89/100
+|move|p2a: Tornadus|U-turn|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|79/100
+|
+|t:|1781545589
+|switch|p2a: Alomomola|Alomomola, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|30
+|
+|t:|1781545594
+|move|p1a: Dragapult|Draco Meteor|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|-unboost|p1a: Dragapult|spa|2
+|faint|p2a: Alomomola
+|
+|upkeep
+|
+|t:|1781545597
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|31
+|
+|t:|1781545602
+|move|p1a: Dragapult|Draco Meteor|p2a: Tornadus
+|-damage|p2a: Tornadus|58/100
+|-unboost|p1a: Dragapult|spa|2
+|move|p2a: Tornadus|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|21/100
+|-enditem|p1a: Dragapult|Choice Specs|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|upkeep
+|turn|32
+|
+|t:|1781545610
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, F|33/100
+|move|p2a: Tornadus|Knock Off|p1a: Ogerpon
+|-damage|p1a: Ogerpon|16/100
+|
+|upkeep
+|turn|33
+|
+|t:|1781545615
+|move|p2a: Tornadus|U-turn|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|t:|1781545617
+|switch|p2a: Kyurem|Kyurem|39/100|[from] U-turn
+|-ability|p2a: Kyurem|Pressure
+|
+|upkeep
+|
+|t:|1781545623
+|switch|p1a: Dragapult|Dragapult, M|21/100
+|turn|34
+|
+|t:|1781545625
+|move|p1a: Dragapult|Shadow Ball|p2a: Kyurem
+|-damage|p2a: Kyurem|15/100
+|move|p2a: Kyurem|Earth Power|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|win|Vernita
+|raw|Loums's rating: 1540 &rarr; <strong>1526</strong><br />(-14 for losing)
+|raw|Vernita's rating: 1649 &rarr; <strong>1663</strong><br />(+14 for winning)
+|l|☆Loums
+|player|p1|
+|l|☆Vernita
+|player|p2|

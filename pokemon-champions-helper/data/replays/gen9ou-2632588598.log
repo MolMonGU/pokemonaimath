@@ -1,0 +1,492 @@
+|j|☆Oatsz
+|j|☆A Welcome Guest
+|t:|1781541788
+|gametype|singles
+|player|p1|Oatsz|cynthia-gen4|1549
+|player|p2|A Welcome Guest|#uwliiiskyminflyers|1570
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Gholdengo|
+|poke|p1|Gliscor, M|
+|poke|p1|Toxapex, F|
+|poke|p1|Hydrapple, M|
+|poke|p1|Ting-Lu|
+|poke|p1|Moltres|
+|poke|p2|Clefable, F|
+|poke|p2|Alomomola, F|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Gliscor, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Skarmory, F|
+|teampreview
+|c|☆A Welcome Guest|hf
+|c|☆Oatsz|u2 brother
+|
+|t:|1781541828
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Moltres|Moltres|100/100
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|1
+|
+|t:|1781541838
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Moltres|Flamethrower|p2a: Clefable
+|-damage|p2a: Clefable|64/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781541847
+|move|p2a: Clefable|Knock Off|p1a: Moltres
+|-damage|p1a: Moltres|90/100
+|-status|p2a: Clefable|brn|[from] ability: Flame Body|[of] p1a: Moltres
+|-enditem|p1a: Moltres|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Clefable
+|move|p1a: Moltres|Roar|p2a: Clefable
+|drag|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|
+|upkeep
+|turn|3
+|
+|t:|1781541866
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Deoxys|Thunderbolt|p1a: Ting-Lu
+|-immune|p1a: Ting-Lu
+|
+|upkeep
+|turn|4
+|
+|t:|1781541877
+|switch|p2a: Skarmory|Skarmory, F|100/100
+|move|p1a: Ting-Lu|Earthquake|p2a: Skarmory
+|-immune|p2a: Skarmory
+|
+|upkeep
+|turn|5
+|
+|t:|1781541881
+|move|p2a: Skarmory|Stealth Rock|p1a: Ting-Lu
+|-sidestart|p1: Oatsz|move: Stealth Rock
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Skarmory
+|-sidestart|p2: A Welcome Guest|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1781541890
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|-damage|p2a: Gliscor|88/100|[from] Stealth Rock
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|-damage|p1a: Gliscor|88/100|[from] Stealth Rock
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|7
+|
+|t:|1781541894
+|move|p1a: Gliscor|Spikes|p2a: Gliscor
+|-sidestart|p2: A Welcome Guest|Spikes
+|move|p2a: Gliscor|Spikes|p1a: Gliscor
+|-sidestart|p1: Oatsz|Spikes
+|
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|8
+|
+|t:|1781541898
+|move|p2a: Gliscor|Spikes|p1a: Gliscor
+|-sidestart|p1: Oatsz|Spikes
+|move|p1a: Gliscor|Spikes|p2a: Gliscor
+|-sidestart|p2: A Welcome Guest|Spikes
+|
+|upkeep
+|turn|9
+|
+|t:|1781541899
+|move|p1a: Gliscor|Spikes|p2a: Gliscor
+|-sidestart|p2: A Welcome Guest|Spikes
+|move|p2a: Gliscor|Spikes|p1a: Gliscor
+|-sidestart|p1: Oatsz|Spikes
+|
+|upkeep
+|turn|10
+|
+|t:|1781541907
+|move|p1a: Gliscor|Knock Off|p2a: Gliscor
+|-damage|p2a: Gliscor|84/100 tox
+|-enditem|p2a: Gliscor|Toxic Orb|[from] move: Knock Off|[of] p1a: Gliscor
+|move|p2a: Gliscor|Toxic|p1a: Gliscor
+|-fail|p1a: Gliscor|tox
+|
+|-heal|p2a: Gliscor|96/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|11
+|
+|t:|1781541919
+|move|p2a: Gliscor|Toxic|p1a: Gliscor
+|-fail|p1a: Gliscor|tox
+|move|p1a: Gliscor|Spikes||[still]
+|-fail|p1a: Gliscor
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|12
+|
+|t:|1781541927
+|switch|p2a: Clefable|Clefable, F|64/100 brn
+|move|p1a: Gliscor|Spikes||[still]
+|-fail|p1a: Gliscor
+|
+|upkeep
+|turn|13
+|
+|t:|1781541938
+|move|p1a: Gliscor|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|56/100 brn
+|-enditem|p2a: Clefable|Sticky Barb|[from] move: Knock Off|[of] p1a: Gliscor
+|move|p2a: Clefable|Knock Off|p1a: Gliscor
+|-damage|p1a: Gliscor|95/100 tox
+|-enditem|p1a: Gliscor|Toxic Orb|[from] move: Knock Off|[of] p2a: Clefable
+|
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|14
+|
+|t:|1781541957
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|-damage|p1a: Gholdengo|69/100|[from] Spikes
+|move|p2a: Clefable|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|54/100
+|-enditem|p1a: Gholdengo|Choice Scarf|[from] move: Knock Off|[of] p2a: Clefable
+|
+|upkeep
+|turn|15
+|
+|t:|1781541977
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|100/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781541984
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Alomomola|Flip Turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|94/100
+|
+|t:|1781541996
+|switch|p2a: Clefable|Clefable, F|56/100 brn|[from] Flip Turn
+|
+|upkeep
+|turn|17
+|
+|t:|1781542007
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|-damage|p1a: Gholdengo|69/100|[from] Spikes
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|100/100 brn
+|
+|upkeep
+|turn|18
+|
+|t:|1781542023
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Alomomola
+|-damage|p2a: Alomomola|64/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781542030
+|move|p1a: Gholdengo|Shadow Ball|p2a: Alomomola
+|-damage|p2a: Alomomola|27/100
+|move|p2a: Alomomola|Flip Turn|p1a: Gholdengo
+|-damage|p1a: Gholdengo|50/100
+|
+|t:|1781542048
+|switch|p2a: Gliscor|Gliscor, M|100/100 tox|[from] Flip Turn
+|-damage|p2a: Gliscor|88/100 tox|[from] Stealth Rock
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|20
+|
+|t:|1781542065
+|switch|p2a: Clefable|Clefable, F|100/100 brn
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|99/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781542085
+|-terastallize|p2a: Clefable|Water
+|move|p1a: Gholdengo|Shadow Ball|p2a: Clefable
+|-damage|p2a: Clefable|61/100 brn
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|22
+|
+|t:|1781542092
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|100/100 brn
+|
+|upkeep
+|turn|23
+|
+|t:|1781542094
+|move|p2a: Clefable|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|95/100
+|-enditem|p1a: Toxapex|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Clefable
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|24
+|
+|t:|1781542100
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|25
+|
+|t:|1781542103
+|move|p2a: Clefable|Knock Off|p1a: Hydrapple
+|-damage|p1a: Hydrapple|96/100
+|-enditem|p1a: Hydrapple|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Clefable
+|move|p1a: Hydrapple|Nasty Plot|p1a: Hydrapple
+|-boost|p1a: Hydrapple|spa|2
+|
+|upkeep
+|turn|26
+|
+|t:|1781542109
+|move|p2a: Clefable|Moonblast|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|6/100
+|move|p1a: Hydrapple|Giga Drain|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|30/100 brn
+|-heal|p1a: Hydrapple|40/100|[from] drain|[of] p2a: Clefable
+|
+|upkeep
+|turn|27
+|
+|t:|1781542155
+|move|p2a: Clefable|Moonblast|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|0 fnt
+|faint|p1a: Hydrapple
+|
+|upkeep
+|
+|t:|1781542158
+|switch|p1a: Gholdengo|Gholdengo|99/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|-damage|p1a: Gholdengo|69/100|[from] Spikes
+|turn|28
+|
+|t:|1781542164
+|move|p1a: Gholdengo|Shadow Ball|p2a: Clefable
+|-damage|p2a: Clefable|2/100 brn
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|52/100 brn
+|
+|upkeep
+|turn|29
+|
+|t:|1781542168
+|move|p1a: Gholdengo|Shadow Ball|p2a: Clefable
+|-damage|p2a: Clefable|27/100 brn
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|77/100 brn
+|
+|upkeep
+|turn|30
+|
+|t:|1781542173
+|move|p1a: Gholdengo|Shadow Ball|p2a: Clefable
+|-damage|p2a: Clefable|50/100 brn
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|31
+|
+|t:|1781542179
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|-damage|p1a: Toxapex|64/100|[from] Spikes
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|99/100 brn
+|
+|upkeep
+|turn|32
+|
+|t:|1781542183
+|move|p2a: Clefable|Moonblast|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|44/100
+|-unboost|p1a: Toxapex|spa|1
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|95/100
+|
+|upkeep
+|turn|33
+|
+|t:|1781542190
+|move|p2a: Clefable|Moonblast|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|74/100
+|-unboost|p1a: Toxapex|spa|1
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|34
+|
+|t:|1781542201
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|move|p1a: Toxapex|Toxic Spikes|p2a: Clefable
+|-sidestart|p2: A Welcome Guest|move: Toxic Spikes
+|
+|upkeep
+|turn|35
+|
+|t:|1781542204
+|move|p2a: Clefable|Moonblast|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|59/100
+|move|p1a: Toxapex|Toxic Spikes|p2a: Clefable
+|-sidestart|p2: A Welcome Guest|move: Toxic Spikes
+|
+|upkeep
+|turn|36
+|
+|t:|1781542209
+|move|p2a: Clefable|Moonblast|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|44/100
+|-unboost|p1a: Toxapex|spa|1
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|37
+|
+|t:|1781542212
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|95/100
+|
+|upkeep
+|turn|38
+|
+|t:|1781542225
+|move|p2a: Clefable|Moonblast|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|79/100
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|39
+|
+|t:|1781542235
+|switch|p2a: Gliscor|Gliscor, M|100/100 tox
+|-damage|p2a: Gliscor|88/100 tox|[from] Stealth Rock
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|40
+|
+|t:|1781542241
+|switch|p2a: Alomomola|Alomomola, F|60/100
+|switch|p1a: Gliscor|Gliscor, M|100/100 tox
+|-damage|p1a: Gliscor|88/100 tox|[from] Stealth Rock
+|
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|41
+|
+|t:|1781542249
+|switch|p2a: Clefable|Clefable, F, tera:Water|99/100 brn
+|move|p1a: Gliscor|Knock Off|p2a: Clefable
+|-damage|p2a: Clefable|89/100 brn
+|
+|upkeep
+|turn|42
+|
+|t:|1781542261
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|-damage|p1a: Toxapex|64/100|[from] Spikes
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|43
+|
+|t:|1781542264
+|switch|p2a: Gliscor|Gliscor, M|100/100 tox
+|-damage|p2a: Gliscor|88/100 tox|[from] Stealth Rock
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|44
+|
+|t:|1781542267
+|switch|p2a: Clefable|Clefable, F, tera:Water|89/100 brn
+|switch|p1a: Gliscor|Gliscor, M|100/100 tox
+|-damage|p1a: Gliscor|88/100 tox|[from] Stealth Rock
+|
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|45
+|-message|Oatsz forfeited.
+|
+|win|A Welcome Guest
+|raw|Oatsz's rating: 1549 &rarr; <strong>1530</strong><br />(-19 for losing)
+|raw|A Welcome Guest's rating: 1570 &rarr; <strong>1589</strong><br />(+19 for winning)
+|l|☆Oatsz
+|player|p1|
+|c|☆A Welcome Guest|gg

@@ -1,0 +1,164 @@
+|badge|p1|bronze|gen9randombattle|100-9
+|badge|p1|bronze|gen9ru|100-9
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆phantasmiccat
+|j|☆gabboh
+|t:|1781010812
+|gametype|singles
+|player|p1|phantasmiccat|miku-grass|1551
+|player|p2|gabboh|102|1533
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, F|
+|poke|p1|Great Tusk|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Iron Moth|
+|poke|p1|Zapdos|
+|poke|p2|Hawlucha, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Iron Moth|
+|poke|p2|Iron Treads|
+|poke|p2|Enamorus, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by phantasmiccat)
+|
+|t:|1781010826
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781010834
+|move|p2a: Iron Treads|Knock Off|p1a: Samurott
+|-resisted|p1a: Samurott
+|-crit|p1a: Samurott
+|-damage|p1a: Samurott|76/100
+|-enditem|p1a: Samurott|Assault Vest|[from] move: Knock Off|[of] p2a: Iron Treads
+|move|p1a: Samurott|Ceaseless Edge|p2a: Iron Treads
+|-damage|p2a: Iron Treads|56/100
+|-sidestart|p2: gabboh|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1781010842
+|move|p2a: Iron Treads|Stealth Rock|p1a: Samurott
+|-sidestart|p1: phantasmiccat|move: Stealth Rock
+|move|p1a: Samurott|Razor Shell|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781010858
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|-damage|p2a: Dragapult|88/100|[from] Spikes
+|turn|3
+|
+|t:|1781010867
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Samurott
+|-status|p1a: Samurott|brn
+|move|p1a: Samurott|Ceaseless Edge|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|31/100
+|-sidestart|p2: gabboh|Spikes
+|
+|-damage|p1a: Samurott|70/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1781010876
+|move|p2a: Dragapult|Reflect|p2a: Dragapult
+|-sidestart|p2: gabboh|Reflect
+|move|p1a: Samurott|Ceaseless Edge|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|2/100
+|-sidestart|p2: gabboh|Spikes
+|
+|-damage|p1a: Samurott|64/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1781010882
+|move|p1a: Samurott|Aqua Jet|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-damage|p1a: Samurott|58/100 brn|[from] brn
+|upkeep
+|
+|t:|1781010891
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|turn|6
+|
+|t:|1781010897
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1781010907
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|move|p1a: Zapdos|Thunder Wave|p2a: Hawlucha
+|-status|p2a: Hawlucha|par
+|
+|upkeep
+|turn|8
+|
+|t:|1781010913
+|move|p1a: Zapdos|Hurricane|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|upkeep
+|
+|t:|1781010922
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-damage|p2a: Iron Moth|76/100|[from] Spikes
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|turn|9
+|
+|t:|1781010929
+|move|p2a: Iron Moth|Fiery Dance|p1a: Zapdos
+|-damage|p1a: Zapdos|60/100
+|-boost|p2a: Iron Moth|spa|1
+|move|p1a: Zapdos|Thunder Wave|p2a: Iron Moth
+|-status|p2a: Iron Moth|par
+|
+|upkeep
+|turn|10
+|-message|gabboh forfeited.
+|
+|win|phantasmiccat
+|raw|phantasmiccat's rating: 1551 &rarr; <strong>1570</strong><br />(+19 for winning)
+|raw|gabboh's rating: 1533 &rarr; <strong>1514</strong><br />(-19 for losing)
+|l|☆gabboh
+|player|p2|
+|l|☆phantasmiccat
+|player|p1|

@@ -1,0 +1,438 @@
+|j|☆extra-pseudo man
+|j|☆cachowcapow
+|t:|1781093911
+|gametype|singles
+|player|p1|extra-pseudo man|supernerd|1629
+|player|p2|cachowcapow|265|1657
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragonite, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Tyranitar, F|
+|poke|p1|Metagross|
+|poke|p1|Goodra-Hisui, F|
+|poke|p1|Garchomp, F|
+|poke|p2|Gardevoir, F|
+|poke|p2|Gliscor, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Alomomola, F|
+|poke|p2|Meowscarada, F|
+|teampreview
+|
+|t:|1781093938
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: The Sac|Garchomp, F|100/100
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|turn|1
+|
+|t:|1781093947
+|switch|p1a: The good|Goodra-Hisui, F|100/100
+|move|p2a: Meowscarada|U-turn|p1a: The good
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-resisted|p1a: The good
+|-damage|p1a: The good|83/100
+|-ability|p1a: The good|Gooey
+|-unboost|p2a: Meowscarada|spe|1
+|
+|t:|1781093952
+|switch|p2a: Gliscor|Gliscor, F|100/100|[from] U-turn
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781093954
+|move|p2a: Gliscor|Knock Off|p1a: The good
+|-damage|p1a: The good|60/100
+|-ability|p1a: The good|Gooey
+|-unboost|p2a: Gliscor|spe|1
+|-enditem|p1a: The good|Choice Specs|[from] move: Knock Off|[of] p2a: Gliscor
+|move|p1a: The good|Ice Beam|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|upkeep
+|
+|t:|1781093959
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|turn|3
+|
+|t:|1781093962
+|move|p2a: Cinderace|U-turn|p1a: The good
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: The good
+|-damage|p1a: The good|43/100
+|-ability|p1a: The good|Gooey
+|-unboost|p2a: Cinderace|spe|1
+|
+|t:|1781093966
+|switch|p2a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|move|p1a: The good|Draco Meteor|p2a: Slowking
+|-damage|p2a: Slowking|60/100
+|-unboost|p1a: The good|spa|2
+|
+|upkeep
+|turn|4
+|j| choispecs ironmoth
+|
+|t:|1781093972
+|switch|p1a: Burn Up|Metagross|100/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781093978
+|switch|p2a: Cinderace|Cinderace, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781093982
+|switch|p1a: The Sac|Garchomp, F|100/100
+|move|p2a: Cinderace|U-turn|p1a: The Sac
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p1a: The Sac|80/100
+|-damage|p2a: Cinderace|88/100|[from] ability: Rough Skin|[of] p1a: The Sac
+|-damage|p2a: Cinderace|72/100|[from] item: Rocky Helmet|[of] p1a: The Sac
+|
+|t:|1781093986
+|switch|p2a: Gardevoir|Gardevoir, F|100/100|[from] U-turn
+|-ability|p2a: Gardevoir|Rough Skin|Trace|[from] ability: Trace|[of] p1a: The Sac
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781093991
+|switch|p1a: Tyranocif|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranocif
+|move|p2a: Gardevoir|Moonblast|p1a: Tyranocif
+|-supereffective|p1a: Tyranocif
+|-damage|p1a: Tyranocif|30/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gardevoir|94/100|[from] Sandstorm
+|-heal|p1a: Tyranocif|36/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781094002
+|switch|p1a: Burn Up|Metagross|100/100
+|move|p2a: Gardevoir|Moonblast|p1a: Burn Up
+|-resisted|p1a: Burn Up
+|-damage|p1a: Burn Up|54/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gardevoir|88/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1781094007
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Burn Up|Heavy Slam|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|67/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Alomomola|60/100|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1781094015
+|move|p1a: Burn Up|Heavy Slam|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|23/100
+|move|p2a: Alomomola|Flip Turn|p1a: Burn Up
+|-damage|p1a: Burn Up|40/100
+|
+|t:|1781094018
+|switch|p2a: Cinderace|Cinderace, M|72/100|[from] Flip Turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Cinderace|66/100|[from] Sandstorm
+|upkeep
+|turn|10
+|
+|t:|1781094022
+|switch|p2a: Gardevoir|Gardevoir, F|88/100
+|-ability|p2a: Gardevoir|Clear Body|Trace|[from] ability: Trace|[of] p1a: Burn Up
+|switch|p1a: The Sac|Garchomp, F|80/100
+|
+|-weather|none
+|upkeep
+|turn|11
+|
+|t:|1781094028
+|switch|p1a: Tyranocif|Tyranitar, F|36/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranocif
+|move|p2a: Gardevoir|Moonblast|p1a: Tyranocif
+|-supereffective|p1a: Tyranocif
+|-damage|p1a: Tyranocif|0 fnt
+|faint|p1a: Tyranocif
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gardevoir|82/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781094030
+|switch|p1a: Burn Up|Metagross|40/100
+|turn|12
+|
+|t:|1781094033
+|switch|p2a: Alomomola|Alomomola, F|56/100
+|move|p1a: Burn Up|Bullet Punch|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|45/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Alomomola|39/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1781094037
+|switch|p1a: The good|Goodra-Hisui, F|43/100
+|move|p2a: Alomomola|Flip Turn|p1a: The good
+|-resisted|p1a: The good
+|-damage|p1a: The good|33/100
+|-ability|p1a: The good|Gooey
+|-unboost|p2a: Alomomola|spe|1
+|
+|t:|1781094047
+|switch|p2a: Gardevoir|Gardevoir, F|82/100|[from] Flip Turn
+|-ability|p2a: Gardevoir|Gooey|Trace|[from] ability: Trace|[of] p1a: The good
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gardevoir|76/100|[from] Sandstorm
+|upkeep
+|turn|14
+|
+|t:|1781094051
+|move|p2a: Gardevoir|Moonblast|p1a: The good
+|-damage|p1a: The good|0 fnt
+|faint|p1a: The good
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gardevoir|70/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781094052
+|switch|p1a: Burn Up|Metagross|40/100
+|turn|15
+|
+|t:|1781094055
+|move|p1a: Burn Up|Bullet Punch|p2a: Gardevoir
+|-supereffective|p2a: Gardevoir
+|-damage|p2a: Gardevoir|0 fnt
+|-ability|p2a: Gardevoir|Gooey
+|-fail|p1a: Burn Up|unboost|[from] ability: Clear Body|[of] p1a: Burn Up
+|faint|p2a: Gardevoir
+|
+|-weather|none
+|upkeep
+|
+|t:|1781094059
+|switch|p2a: Alomomola|Alomomola, F|72/100
+|turn|16
+|
+|t:|1781094063
+|switch|p1a: The Sac|Garchomp, F|80/100
+|move|p2a: Alomomola|Scald|p1a: The Sac
+|-damage|p1a: The Sac|66/100
+|-status|p1a: The Sac|brn
+|
+|-damage|p1a: The Sac|60/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781094068
+|move|p1a: The Sac|Spikes|p2a: Alomomola
+|-sidestart|p2: cachowcapow|Spikes
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|
+|-damage|p1a: The Sac|54/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1781094071
+|move|p2a: Alomomola|Flip Turn|p1a: The Sac
+|-damage|p1a: The Sac|44/100 brn
+|-damage|p2a: Alomomola|59/100|[from] ability: Rough Skin|[of] p1a: The Sac
+|-damage|p2a: Alomomola|43/100|[from] item: Rocky Helmet|[of] p1a: The Sac
+|
+|t:|1781094077
+|switch|p2a: Slowking|Slowking-Galar, M|93/100|[from] Flip Turn
+|move|p1a: The Sac|Dragon Tail|p2a: Slowking
+|-damage|p2a: Slowking|79/100
+|drag|p2a: Meowscarada|Meowscarada, F|100/100
+|-damage|p2a: Meowscarada|88/100|[from] Spikes
+|
+|-heal|p2a: Meowscarada|100/100|[from] move: Wish|[wisher] Alomomola
+|-damage|p1a: The Sac|38/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1781094082
+|move|p2a: Meowscarada|U-turn|p1a: The Sac
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p1a: The Sac|18/100 brn
+|-damage|p2a: Meowscarada|88/100|[from] ability: Rough Skin|[of] p1a: The Sac
+|-damage|p2a: Meowscarada|72/100|[from] item: Rocky Helmet|[of] p1a: The Sac
+|
+|t:|1781094083
+|switch|p2a: Alomomola|Alomomola, F|76/100|[from] U-turn
+|move|p1a: The Sac|Fire Fang|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|73/100
+|
+|-damage|p1a: The Sac|12/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1781094090
+|move|p1a: The Sac|Spikes|p2a: Alomomola
+|-sidestart|p2: cachowcapow|Spikes
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|
+|-damage|p1a: The Sac|5/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1781094096
+|move|p2a: Alomomola|Flip Turn|p1a: The Sac
+|-damage|p1a: The Sac|0 fnt
+|-damage|p2a: Alomomola|60/100|[from] ability: Rough Skin|[of] p1a: The Sac
+|-damage|p2a: Alomomola|44/100|[from] item: Rocky Helmet|[of] p1a: The Sac
+|faint|p1a: The Sac
+|
+|t:|1781094100
+|switch|p2a: Meowscarada|Meowscarada, F|72/100|[from] Flip Turn
+|-damage|p2a: Meowscarada|55/100|[from] Spikes
+|
+|-heal|p2a: Meowscarada|100/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|
+|t:|1781094107
+|switch|p1a: He pulten on it|Dragapult, M|100/100
+|turn|22
+|
+|t:|1781094110
+|move|p2a: Meowscarada|Knock Off|p1a: He pulten on it
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-supereffective|p1a: He pulten on it
+|-damage|p1a: He pulten on it|0 fnt
+|-enditem|p1a: He pulten on it|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Meowscarada
+|faint|p1a: He pulten on it
+|
+|upkeep
+|
+|t:|1781094116
+|switch|p1a: Manny|Dragonite, M|100/100
+|turn|23
+|
+|t:|1781094120
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Manny|Dragon Dance|p1a: Manny
+|-boost|p1a: Manny|atk|1
+|-boost|p1a: Manny|spe|1
+|
+|upkeep
+|turn|24
+|
+|t:|1781094124
+|move|p1a: Manny|Earthquake|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781094131
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|-damage|p2a: Meowscarada|84/100|[from] Spikes
+|turn|25
+|
+|t:|1781094134
+|-terastallize|p2a: Meowscarada|Ghost
+|move|p1a: Manny|Extreme Speed|p2a: Meowscarada
+|-immune|p2a: Meowscarada
+|move|p2a: Meowscarada|Triple Axel|p1a: Manny
+|-supereffective|p1a: Manny
+|-damage|p1a: Manny|86/100
+|-hitcount|p1a: Manny|1
+|
+|upkeep
+|turn|26
+|
+|t:|1781094141
+|-terastallize|p1a: Manny|Normal
+|move|p2a: Meowscarada|Triple Axel|p1a: Manny
+|-damage|p1a: Manny|78/100
+|-damage|p1a: Manny|63/100
+|-damage|p1a: Manny|43/100
+|-hitcount|p1a: Manny|3
+|move|p1a: Manny|Earthquake|p2a: Meowscarada
+|-damage|p2a: Meowscarada|0 fnt
+|faint|p2a: Meowscarada
+|
+|upkeep
+|
+|t:|1781094146
+|switch|p2a: Alomomola|Alomomola, F|77/100
+|turn|27
+|
+|t:|1781094152
+|move|p1a: Manny|Extreme Speed|p2a: Alomomola
+|-damage|p2a: Alomomola|35/100
+|move|p2a: Alomomola|Scald|p1a: Manny
+|-damage|p1a: Manny|29/100
+|
+|upkeep
+|turn|28
+|
+|t:|1781094157
+|switch|p2a: Cinderace|Cinderace, M|66/100
+|move|p1a: Manny|Extreme Speed|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|upkeep
+|
+|t:|1781094159
+|switch|p2a: Alomomola|Alomomola, F|68/100
+|turn|29
+|
+|t:|1781094161
+|move|p1a: Manny|Extreme Speed|p2a: Alomomola
+|-damage|p2a: Alomomola|19/100
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|
+|upkeep
+|turn|30
+|
+|t:|1781094164
+|move|p1a: Manny|Extreme Speed|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|
+|win|extra-pseudo man
+|raw|extra-pseudo man's rating: 1629 &rarr; <strong>1651</strong><br />(+22 for winning)
+|raw|cachowcapow's rating: 1657 &rarr; <strong>1635</strong><br />(-22 for losing)
+|l|☆extra-pseudo man
+|player|p1|
+|l|☆cachowcapow
+|player|p2|

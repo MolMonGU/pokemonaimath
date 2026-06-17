@@ -1,0 +1,316 @@
+|j|☆okbomber
+|j|☆Kinair
+|t:|1781518265
+|gametype|singles
+|player|p1|okbomber|170|1620
+|player|p2|Kinair|266|1637
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Zapdos|
+|poke|p1|Iron Treads|
+|poke|p1|Ceruledge, M|
+|poke|p1|Gholdengo|
+|poke|p1|Kingambit, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Kingdra, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Iron Treads|
+|poke|p2|Zamazenta-*|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kinair)
+|
+|t:|1781518274
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781518289
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Iron Treads|Knock Off|p1a: Iron Treads
+|-damage|p1a: Iron Treads|78/100
+|-enditem|p1a: Iron Treads|Leftovers|[from] move: Knock Off|[of] p2a: Iron Treads
+|
+|upkeep
+|turn|2
+|
+|t:|1781518317
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Iron Treads|Earth Power|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|
+|upkeep
+|turn|3
+|
+|t:|1781518324
+|move|p2a: Iron Treads|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|66/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|move|p1a: Gholdengo|Focus Blast|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|14/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781518348
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: Samurott
+|-sidestart|p1: okbomber|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1781518359
+|move|p1a: Samurott|Sucker Punch|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781518366
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|6
+|
+|t:|1781518371
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Zamazenta|Body Press|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|75/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781518389
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Zapdos|Volt Switch|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|93/100
+|
+|t:|1781518392
+|switch|p1a: Iron Treads|Iron Treads|78/100|[from] Volt Switch
+|-damage|p1a: Iron Treads|75/100|[from] Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1781518402
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Iron Treads|Rapid Spin|p2a: Pelipper
+|-damage|p2a: Pelipper|87/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: okbomber|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781518412
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|move|p2a: Pelipper|Surf|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|83/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781518415
+|move|p1a: Samurott|Ceaseless Edge|p2a: Pelipper
+|-damage|p2a: Pelipper|54/100
+|-sidestart|p2: Kinair|Spikes
+|move|p2a: Pelipper|U-turn|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|65/100
+|
+|t:|1781518420
+|switch|p2a: Zamazenta|Zamazenta|100/100|[from] U-turn
+|-damage|p2a: Zamazenta|88/100|[from] Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zamazenta|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781518428
+|switch|p2a: Kingdra|Kingdra, M|100/100
+|-damage|p2a: Kingdra|88/100|[from] Spikes
+|switch|p1a: Zapdos|Zapdos|75/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781518441
+|switch|p1a: Gholdengo|Gholdengo|66/100
+|move|p2a: Kingdra|Surf|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781518444
+|switch|p1a: Samurott|Samurott-Hisui, M|65/100
+|turn|13
+|
+|t:|1781518451
+|switch|p2a: Zamazenta|Zamazenta|94/100
+|-damage|p2a: Zamazenta|82/100|[from] Spikes
+|move|p1a: Samurott|Razor Shell|p2a: Zamazenta|[miss]
+|-miss|p1a: Samurott|p2a: Zamazenta
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zamazenta|88/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781518456
+|switch|p2a: Kingdra|Kingdra, M|88/100
+|-damage|p2a: Kingdra|76/100|[from] Spikes
+|switch|p1a: Zapdos|Zapdos|75/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781518470
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|move|p2a: Kingdra|Surf|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|-weather|none
+|upkeep
+|
+|t:|1781518472
+|switch|p1a: Samurott|Samurott-Hisui, M|65/100
+|turn|16
+|
+|t:|1781518483
+|switch|p2a: Zamazenta|Zamazenta|88/100
+|-damage|p2a: Zamazenta|76/100|[from] Spikes
+|move|p1a: Samurott|Ceaseless Edge|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|59/100
+|-sidestart|p2: Kinair|Spikes
+|
+|-heal|p2a: Zamazenta|65/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781518495
+|move|p2a: Zamazenta|Body Press|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|-heal|p2a: Zamazenta|71/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781518499
+|switch|p1a: Zapdos|Zapdos|75/100
+|turn|18
+|
+|t:|1781518511
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p1a: Zapdos|Volt Switch|p2a: Zamazenta
+|-crit|p2a: Zamazenta
+|-damage|p2a: Zamazenta|36/100
+|
+|t:|1781518519
+|switch|p1a: Iron Treads|Iron Treads|75/100|[from] Volt Switch
+|
+|-heal|p2a: Zamazenta|42/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781518523
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Zapdos|Zapdos|75/100
+|move|p2a: Zamazenta|Body Press|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|55/100
+|
+|-heal|p2a: Zamazenta|48/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781518534
+|switch|p2a: Pelipper|Pelipper, M|54/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Zapdos|Hurricane|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781518536
+|switch|p2a: Kingdra|Kingdra, M|76/100
+|-damage|p2a: Kingdra|59/100|[from] Spikes
+|turn|21
+|
+|t:|1781518539
+|move|p2a: Kingdra|Surf|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781518541
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|22
+|
+|t:|1781518549
+|move|p2a: Kingdra|Surf|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|okbomber forfeited.
+|
+|win|Kinair
+|raw|okbomber's rating: 1620 &rarr; <strong>1601</strong><br />(-19 for losing)
+|raw|Kinair's rating: 1637 &rarr; <strong>1656</strong><br />(+19 for winning)
+|l|☆okbomber
+|player|p1|
+|l|☆Kinair
+|player|p2|

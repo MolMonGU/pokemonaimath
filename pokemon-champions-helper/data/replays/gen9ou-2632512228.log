@@ -1,0 +1,411 @@
+|j|☆smokesniper3
+|j|☆SlimyTime
+|t:|1781534362
+|gametype|singles
+|player|p1|smokesniper3|veteran|1583
+|player|p2|SlimyTime|ltsurge|1566
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ninetales, M|
+|poke|p1|Scovillain, M|
+|poke|p1|Walking Wake|
+|poke|p1|Great Tusk|
+|poke|p1|Hatterene, F|
+|poke|p1|Kingambit, F|
+|poke|p2|Ursaluna, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Heatran, M|
+|poke|p2|Primarina, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Darkrai|
+|teampreview
+|
+|t:|1781534374
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ninetales|Ninetales, M|100/100
+|switch|p2a: Darkrai|Darkrai|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1781534381
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|move|p2a: Darkrai|Dark Pulse|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|72/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781534398
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Great Tusk|Ice Spinner|p2a: Corviknight
+|-damage|p2a: Corviknight|87/100
+|-damage|p1a: Great Tusk|55/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781534407
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Corviknight|U-turn|p1a: Hatterene
+|-damage|p1a: Hatterene|89/100
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781534411
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781534431
+|switch|p2a: Primarina|Primarina, M|100/100
+|-terastallize|p1a: Walking Wake|Water
+|move|p1a: Walking Wake|Hydro Steam|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|31/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Primarina|37/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781534441
+|move|p1a: Walking Wake|Hydro Steam|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781534444
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|6
+|
+|t:|1781534450
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Scovillain|Scovillain, M|100/100
+|move|p2a: Rillaboom|U-turn|p1a: Scovillain
+|-damage|p1a: Scovillain|26/100
+|
+|t:|1781534454
+|switch|p2a: Heatran|Heatran, M|100/100|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Scovillain|32/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781534458
+|move|p1a: Scovillain|Stomping Tantrum|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|16/100
+|-damage|p1a: Scovillain|22/100|[from] item: Life Orb
+|move|p2a: Heatran|Magma Storm|p1a: Scovillain
+|-damage|p1a: Scovillain|0 fnt
+|faint|p1a: Scovillain
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Heatran|22/100|[from] Grassy Terrain
+|-heal|p2a: Heatran|28/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781534465
+|switch|p1a: Walking Wake|Walking Wake, tera:Water|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|turn|8
+|
+|t:|1781534468
+|move|p1a: Walking Wake|Hydro Steam|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-weather|none
+|-end|p1a: Walking Wake|Protosynthesis
+|upkeep
+|
+|t:|1781534470
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|turn|9
+|
+|t:|1781534478
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Ninetales|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|move|p2a: Rillaboom|U-turn|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|75/100
+|
+|t:|1781534480
+|switch|p2a: Darkrai|Darkrai|100/100|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Ninetales|81/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1781534485
+|switch|p1a: Great Tusk|Great Tusk|55/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|move|p2a: Darkrai|Dark Pulse|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|29/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Great Tusk|35/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781534493
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Walking Wake|Walking Wake, tera:Water|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|switch|p2a: Corviknight|Corviknight, F|87/100
+|-ability|p2a: Corviknight|Pressure
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781534500
+|move|p1a: Walking Wake|Hydro Steam|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781534502
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|13
+|
+|t:|1781534509
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|89/100
+|move|p2a: Rillaboom|U-turn|p1a: Hatterene
+|-damage|p1a: Hatterene|57/100
+|
+|t:|1781534511
+|switch|p2a: Darkrai|Darkrai|100/100|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Hatterene|63/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1781534522
+|move|p2a: Darkrai|Dark Pulse|p1a: Hatterene
+|-damage|p1a: Hatterene|1/100
+|move|p1a: Hatterene|Dazzling Gleam|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|13/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Darkrai|19/100|[from] Grassy Terrain
+|-heal|p1a: Hatterene|7/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1781534540
+|move|p2a: Darkrai|Dark Pulse|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Darkrai|25/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781534544
+|switch|p1a: Great Tusk|Great Tusk|35/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|turn|16
+|
+|t:|1781534548
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|51/100
+|-fieldend|move: Grassy Terrain
+|
+|-weather|none
+|-end|p1a: Great Tusk|Protosynthesis
+|upkeep
+|turn|17
+|
+|t:|1781534555
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ninetales|Ninetales, M|81/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|switch|p2a: Darkrai|Darkrai|25/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781534567
+|move|p2a: Darkrai|Trick|p1a: Ninetales
+|-activate|p2a: Darkrai|move: Trick|[of] p1a: Ninetales
+|-item|p1a: Ninetales|Choice Specs|[from] move: Trick
+|-item|p2a: Darkrai|Heat Rock|[from] move: Trick
+|move|p1a: Ninetales|Overheat|p2a: Darkrai|[miss]
+|-miss|p1a: Ninetales|p2a: Darkrai
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781534581
+|switch|p1a: Great Tusk|Great Tusk|35/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|move|p2a: Darkrai|Dark Pulse|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|16/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781534588
+|move|p1a: Great Tusk|Ice Spinner|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781534590
+|switch|p2a: Rillaboom|Rillaboom, F|51/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|21
+|
+|t:|1781534604
+|move|p2a: Rillaboom|Grassy Glide|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Rillaboom|57/100|[from] Grassy Terrain
+|upkeep
+|j| tokyo sushi
+|
+|t:|1781534612
+|switch|p1a: Ninetales|Ninetales, M|81/100
+|turn|22
+|
+|t:|1781534615
+|move|p2a: Rillaboom|Grassy Glide|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|46/100
+|move|p1a: Ninetales|Overheat|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|-unboost|p1a: Ninetales|spa|2
+|faint|p2a: Rillaboom
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Ninetales|52/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781534617
+|switch|p2a: Ursaluna|Ursaluna, M|100/100
+|turn|23
+|
+|t:|1781534639
+|switch|p1a: Walking Wake|Walking Wake, tera:Water|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|move|p2a: Ursaluna|Bulk Up|p2a: Ursaluna
+|-boost|p2a: Ursaluna|atk|1
+|-boost|p2a: Ursaluna|def|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1781534646
+|move|p2a: Ursaluna|Protect|p2a: Ursaluna
+|-singleturn|p2a: Ursaluna|Protect
+|move|p1a: Walking Wake|Hydro Steam|p2a: Ursaluna
+|-activate|p2a: Ursaluna|move: Protect
+|
+|-weather|none
+|-end|p1a: Walking Wake|Protosynthesis
+|upkeep
+|turn|25
+|
+|t:|1781534653
+|-terastallize|p2a: Ursaluna|Poison
+|move|p1a: Walking Wake|Hydro Steam|p2a: Ursaluna
+|-damage|p2a: Ursaluna|46/100
+|move|p2a: Ursaluna|Body Slam|p1a: Walking Wake
+|-damage|p1a: Walking Wake|42/100
+|-status|p1a: Walking Wake|par
+|
+|-heal|p1a: Walking Wake|48/100 par|[from] Grassy Terrain
+|-heal|p2a: Ursaluna|52/100|[from] Grassy Terrain
+|-heal|p2a: Ursaluna|58/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|26
+|
+|t:|1781534663
+|move|p1a: Walking Wake|Hydro Steam|p2a: Ursaluna
+|-damage|p2a: Ursaluna|5/100
+|move|p2a: Ursaluna|Body Slam|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-heal|p2a: Ursaluna|11/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781534674
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|27
+|
+|t:|1781534677
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Ursaluna
+|-damage|p2a: Ursaluna|0 fnt
+|faint|p2a: Ursaluna
+|
+|win|smokesniper3
+|raw|smokesniper3's rating: 1583 &rarr; <strong>1602</strong><br />(+19 for winning)
+|raw|SlimyTime's rating: 1566 &rarr; <strong>1547</strong><br />(-19 for losing)
+|l|☆SlimyTime
+|player|p2|
+|l|☆smokesniper3
+|player|p1|

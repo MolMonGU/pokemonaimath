@@ -1,0 +1,250 @@
+|j|☆Mr.X&Y97
+|j|☆lemontheheavens
+|t:|1780974678
+|gametype|singles
+|player|p1|Mr.X&Y97|ingo|1634
+|player|p2|lemontheheavens|266|1567
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Indeedee, M|
+|poke|p1|Armarouge, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Hawlucha, F|
+|poke|p1|Maushold|
+|poke|p1|Polteageist|
+|poke|p2|Ting-Lu|
+|poke|p2|Dragapult, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Alomomola, F|
+|poke|p2|Torterra, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mr.X&Y97)
+|
+|t:|1780974689
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Indeedee|Indeedee, M|100/100
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|turn|1
+|
+|t:|1780974695
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Hoopa|Hyperspace Fury|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|31/100
+|-unboost|p2a: Hoopa|def|1
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1780974699
+|switch|p1a: Maushold|Maushold|100/100
+|
+|upkeep
+|turn|2
+|
+|t:|1780974706
+|move|p2a: Hoopa|Hyperspace Fury|p1a: Maushold
+|-damage|p1a: Maushold|0 fnt
+|-unboost|p2a: Hoopa|def|1
+|faint|p1a: Maushold
+|
+|upkeep
+|j| whatevadontcare
+|
+|t:|1780974717
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p1a: Hawlucha|Psychic Seed
+|-boost|p1a: Hawlucha|spd|1|[from] item: Psychic Seed
+|turn|3
+|
+|t:|1780974725
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1780974732
+|move|p1a: Hawlucha|Acrobatics|p2a: Alomomola
+|-damage|p2a: Alomomola|45/100
+|move|p2a: Alomomola|Scald|p1a: Hawlucha
+|-damage|p1a: Hawlucha|88/100
+|
+|upkeep
+|turn|5
+|
+|t:|1780974736
+|move|p1a: Hawlucha|Acrobatics|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|
+|upkeep
+|
+|t:|1780974740
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|6
+|
+|t:|1780974747
+|-terastallize|p2a: Ting-Lu|Poison
+|move|p1a: Hawlucha|Close Combat|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|73/100
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|move|p2a: Ting-Lu|Whirlwind|p1a: Hawlucha
+|drag|p1a: Armarouge|Armarouge, M|100/100
+|
+|-heal|p2a: Ting-Lu|79/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1780974758
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100
+|move|p1a: Armarouge|Aura Sphere|p2a: Hoopa
+|-damage|p2a: Hoopa|73/100
+|
+|upkeep
+|turn|8
+|
+|t:|1780974771
+|move|p1a: Armarouge|Endure|p1a: Armarouge
+|-singleturn|p1a: Armarouge|move: Endure
+|move|p2a: Hoopa|Hyperspace Fury|p1a: Armarouge
+|-supereffective|p1a: Armarouge
+|-activate|p1a: Armarouge|move: Endure
+|-damage|p1a: Armarouge|1/100
+|-unboost|p2a: Hoopa|def|1
+|-ability|p1a: Armarouge|Weak Armor|boost
+|-unboost|p1a: Armarouge|def|1
+|-boost|p1a: Armarouge|spe|2
+|-enditem|p1a: Armarouge|Weakness Policy
+|-boost|p1a: Armarouge|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Armarouge|spa|2|[from] item: Weakness Policy
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|9
+|
+|t:|1780974785
+|move|p1a: Armarouge|Armor Cannon|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|-unboost|p1a: Armarouge|def|1
+|-unboost|p1a: Armarouge|spd|1
+|faint|p2a: Hoopa
+|
+|upkeep
+|
+|t:|1780974789
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|10
+|
+|t:|1780974801
+|move|p1a: Armarouge|Endure|p1a: Armarouge
+|-singleturn|p1a: Armarouge|move: Endure
+|move|p2a: Iron Valiant|Knock Off|p1a: Armarouge
+|-supereffective|p1a: Armarouge
+|-activate|p1a: Armarouge|move: Endure
+|-damage|p1a: Armarouge|1/100
+|-ability|p1a: Armarouge|Weak Armor|boost
+|-unboost|p1a: Armarouge|def|1
+|-boost|p1a: Armarouge|spe|2
+|
+|upkeep
+|turn|11
+|
+|t:|1780974809
+|move|p1a: Armarouge|Expanding Force|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780974812
+|switch|p2a: Ting-Lu|Ting-Lu, tera:Poison|79/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|12
+|
+|t:|1780974814
+|move|p1a: Armarouge|Expanding Force|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|1/100
+|move|p2a: Ting-Lu|Whirlwind|p1a: Armarouge
+|drag|p1a: Hatterene|Hatterene, F|31/100
+|
+|-heal|p2a: Ting-Lu|7/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1780974823
+|move|p2a: Ting-Lu|Memento|p1a: Hatterene
+|-unboost|p1a: Hatterene|atk|2
+|-unboost|p1a: Hatterene|spa|2
+|faint|p2a: Ting-Lu
+|move|p1a: Hatterene|Healing Wish|p1a: Hatterene
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1780974848
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|switch|p1a: Polteageist|Polteageist|100/100
+|turn|14
+|
+|t:|1780974858
+|move|p2a: Dragapult|Shadow Ball|p1a: Polteageist
+|-supereffective|p1a: Polteageist
+|-enditem|p1a: Polteageist|Focus Sash
+|-damage|p1a: Polteageist|1/100
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|
+|upkeep
+|turn|15
+|
+|t:|1780974861
+|move|p1a: Polteageist|Shadow Ball|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1780974864
+|switch|p2a: Torterra|Torterra, F|100/100
+|turn|16
+|
+|t:|1780974870
+|move|p1a: Polteageist|Stored Power|p2a: Torterra
+|-damage|p2a: Torterra|0 fnt
+|faint|p2a: Torterra
+|
+|win|Mr.X&Y97
+|raw|Mr.X&amp;Y97's rating: 1634 &rarr; <strong>1650</strong><br />(+16 for winning)
+|raw|lemontheheavens's rating: 1567 &rarr; <strong>1551</strong><br />(-16 for losing)
+|l|☆lemontheheavens
+|player|p2|
+|l|☆Mr.X&Y97
+|player|p1|

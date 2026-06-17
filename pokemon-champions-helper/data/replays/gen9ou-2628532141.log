@@ -1,0 +1,277 @@
+|j|☆hausty
+|j|☆suminkwak249
+|t:|1781027862
+|gametype|singles
+|player|p1|hausty|266|1495
+|player|p2|suminkwak249|shadowtriad|1636
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Heatran, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Greninja-*, M|
+|poke|p1|Rotom-Wash|
+|poke|p1|Great Tusk|
+|poke|p2|Torkoal, M|
+|poke|p2|Walking Wake|
+|poke|p2|Raging Bolt|
+|poke|p2|Espeon, F|
+|poke|p2|Ceruledge, M|
+|poke|p2|Iron Treads|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hausty)
+|
+|t:|1781027879
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Heatran|Heatran, M, shiny|100/100
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|turn|1
+|
+|t:|1781027883
+|move|p2a: Walking Wake|Hydro Steam|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|18/100
+|move|p1a: Heatran|Stealth Rock|p2a: Walking Wake
+|-sidestart|p2: suminkwak249|move: Stealth Rock
+|
+|-heal|p1a: Heatran|24/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781027891
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-damage|p2a: Iron Treads|97/100|[from] Stealth Rock
+|-item|p2a: Iron Treads|Air Balloon
+|move|p1a: Heatran|Protect||[still]
+|-fail|p1a: Heatran
+|
+|-heal|p1a: Heatran|31/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781027897
+|switch|p1a: Rotom|Rotom-Wash, shiny|100/100
+|move|p2a: Iron Treads|Earthquake|p1a: Rotom
+|-immune|p1a: Rotom|[from] ability: Levitate
+|
+|upkeep
+|turn|4
+|
+|t:|1781027901
+|move|p2a: Iron Treads|Ice Spinner|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|91/100
+|move|p1a: Rotom|Hydro Pump|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-enditem|p2a: Iron Treads|Air Balloon
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p1a: Rotom|98/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781027908
+|switch|p2a: Torkoal|Torkoal, M|100/100
+|-damage|p2a: Torkoal|76/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|5
+|
+|t:|1781027910
+|move|p1a: Rotom|Volt Switch|p2a: Torkoal
+|-damage|p2a: Torkoal|43/100
+|
+|t:|1781027913
+|switch|p1a: Heatran|Heatran, M, shiny|31/100|[from] Volt Switch
+|move|p2a: Torkoal|Rapid Spin|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|27/100
+|-boost|p2a: Torkoal|spe|1
+|-sideend|p2: suminkwak249|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Heatran|33/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781027918
+|move|p1a: Heatran|Stealth Rock|p2a: Torkoal
+|-sidestart|p2: suminkwak249|move: Stealth Rock
+|move|p2a: Torkoal|Earthquake|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781027928
+|switch|p1a: Dragapult|Dragapult, M, shiny|100/100
+|turn|7
+|
+|t:|1781027936
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Torkoal|Rapid Spin|p1a: Dragapult
+|-immune|p1a: Dragapult
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781027941
+|move|p1a: Dragapult|Dragon Darts|p2a: Torkoal
+|-damage|p2a: Torkoal|4/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|-damage|p1a: Dragapult|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781027944
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|9
+|
+|t:|1781027947
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p1a: Dragapult|Sucker Punch|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|68/100
+|-damage|p1a: Dragapult|81/100|[from] item: Life Orb
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|-damage|p2a: Raging Bolt|58/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781027961
+|switch|p1a: Rotom|Rotom-Wash, shiny|98/100
+|turn|10
+|
+|t:|1781027966
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Rotom
+|-crit|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|-damage|p2a: Raging Bolt|48/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781027975
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|turn|11
+|
+|t:|1781027980
+|move|p1a: Hoopa|Psychic|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781027989
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-damage|p2a: Walking Wake|88/100|[from] Stealth Rock
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspa
+|turn|12
+|
+|t:|1781027994
+|move|p1a: Hoopa|Psychic|p2a: Walking Wake
+|-damage|p2a: Walking Wake|17/100
+|move|p2a: Walking Wake|Hydro Steam|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|-weather|none
+|-end|p2a: Walking Wake|Protosynthesis
+|upkeep
+|
+|t:|1781028000
+|switch|p1a: Greninja|Greninja, M|100/100
+|turn|13
+|
+|t:|1781028002
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Espeon|Espeon, F|100/100
+|-damage|p2a: Espeon|88/100|[from] Stealth Rock
+|move|p1a: Greninja|Ice Beam|p2a: Espeon
+|-damage|p2a: Espeon|54/100
+|-enditem|p2a: Espeon|Eject Button
+|
+|t:|1781028004
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|-damage|p2a: Ceruledge|76/100|[from] Stealth Rock
+|
+|upkeep
+|turn|14
+|
+|t:|1781028014
+|move|p1a: Greninja|Surf|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|-ability|p1a: Greninja|Battle Bond|boost
+|-boost|p1a: Greninja|atk|1
+|-boost|p1a: Greninja|spa|1
+|-boost|p1a: Greninja|spe|1
+|-activate|p1a: Greninja|ability: Battle Bond
+|
+|upkeep
+|
+|t:|1781028016
+|switch|p2a: Espeon|Espeon, F|54/100
+|-damage|p2a: Espeon|42/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1781028019
+|move|p1a: Greninja|Dark Pulse|p2a: Espeon
+|-supereffective|p2a: Espeon
+|-damage|p2a: Espeon|0 fnt
+|faint|p2a: Espeon
+|
+|upkeep
+|
+|t:|1781028021
+|switch|p2a: Walking Wake|Walking Wake|17/100
+|-damage|p2a: Walking Wake|5/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781028024
+|move|p1a: Greninja|Ice Beam|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|win|hausty
+|raw|hausty's rating: 1495 &rarr; <strong>1523</strong><br />(+28 for winning)
+|raw|suminkwak249's rating: 1636 &rarr; <strong>1608</strong><br />(-28 for losing)
+|l|☆suminkwak249
+|player|p2|
+|l|☆hausty
+|player|p1|

@@ -1,0 +1,258 @@
+|j|☆chill element
+|j|☆rekjllj
+|t:|1781340678
+|gametype|singles
+|player|p1|chill element|youngster|1537
+|player|p2|rekjllj|169|1664
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Reuniclus, M|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Cinderace, F|
+|poke|p1|Breloom, M|
+|poke|p1|Enamorus, F|
+|poke|p1|Ditto|
+|poke|p2|Kingambit, F|
+|poke|p2|Kommo-o, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Kyurem|
+|poke|p2|Iron Treads|
+|poke|p2|Iron Crown|
+|teampreview
+|c|☆rekjllj|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by rekjllj)
+|
+|t:|1781340707
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781340712
+|move|p1a: Cinderace|Pyro Ball|p2a: Kyurem
+|-damage|p2a: Kyurem|33/100
+|-damage|p1a: Cinderace|91/100|[from] item: Life Orb
+|move|p2a: Kyurem|Dragon Dance|p2a: Kyurem
+|-boost|p2a: Kyurem|atk|1
+|-boost|p2a: Kyurem|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1781340719
+|move|p1a: Cinderace|Sucker Punch|p2a: Kyurem
+|-start|p1a: Cinderace|typechange|Dark|[from] ability: Libero
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|-damage|p1a: Cinderace|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781340725
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|3
+|
+|t:|1781340732
+|move|p2a: Iron Valiant|Moonblast|p1a: Cinderace
+|-supereffective|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|upkeep
+|
+|t:|1781340736
+|switch|p1a: Reuniclus|Reuniclus, M|100/100
+|turn|4
+|
+|t:|1781340742
+|move|p2a: Iron Valiant|Moonblast|p1a: Reuniclus
+|-damage|p1a: Reuniclus|55/100
+|-unboost|p1a: Reuniclus|spa|1
+|move|p1a: Reuniclus|Psychic Noise|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781340749
+|switch|p2a: Kommo-o|Kommo-o, F|100/100
+|turn|5
+|
+|t:|1781340762
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|68/100
+|
+|-heal|p2a: Kommo-o|74/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781340768
+|-terastallize|p2a: Kommo-o|Ghost
+|move|p1a: Enamorus|Moonblast|p2a: Kommo-o
+|-damage|p2a: Kommo-o|41/100
+|move|p2a: Kommo-o|Shadow Claw|p1a: Enamorus
+|-damage|p1a: Enamorus|34/100
+|
+|-heal|p2a: Kommo-o|47/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781340775
+|move|p1a: Enamorus|Moonblast|p2a: Kommo-o
+|-damage|p2a: Kommo-o|11/100
+|move|p2a: Kommo-o|Shadow Claw|p1a: Enamorus
+|-damage|p1a: Enamorus|0 fnt
+|faint|p1a: Enamorus
+|
+|-heal|p2a: Kommo-o|17/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781340784
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|turn|8
+|
+|t:|1781340789
+|move|p1a: Samurott|Sucker Punch|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|
+|upkeep
+|
+|t:|1781340796
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|turn|9
+|
+|t:|1781340801
+|switch|p1a: Breloom|Breloom, M|100/100
+|move|p2a: Kingambit|Iron Head|p1a: Breloom
+|-damage|p1a: Breloom|44/100
+|
+|-status|p1a: Breloom|tox|[from] item: Toxic Orb
+|upkeep
+|turn|10
+|
+|t:|1781340808
+|move|p2a: Kingambit|Iron Head|p1a: Breloom
+|-damage|p1a: Breloom|0 fnt
+|faint|p1a: Breloom
+|
+|upkeep
+|
+|t:|1781340817
+|switch|p1a: Reuniclus|Reuniclus, M|55/100
+|turn|11
+|
+|t:|1781340823
+|move|p2a: Kingambit|Iron Head|p1a: Reuniclus
+|-damage|p1a: Reuniclus|0 fnt
+|faint|p1a: Reuniclus
+|
+|upkeep
+|
+|t:|1781340826
+|switch|p1a: Ditto|Ditto|100/100
+|-transform|p1a: Ditto|p2a: Kingambit|[from] ability: Imposter
+|-activate|p1a: Ditto|ability: Supreme Overlord
+|-start|p1a: Ditto|fallen4|[silent]
+|turn|12
+|
+|t:|1781340829
+|move|p1a: Ditto|Low Kick|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1781340833
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|13
+|
+|t:|1781340841
+|-terastallize|p1a: Ditto|Ghost
+|move|p2a: Iron Treads|Earthquake|p1a: Ditto
+|-damage|p1a: Ditto|63/100
+|move|p1a: Ditto|Low Kick|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|2/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781340845
+|move|p2a: Iron Treads|Earthquake|p1a: Ditto
+|-damage|p1a: Ditto|28/100
+|move|p1a: Ditto|Low Kick|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781340848
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-enditem|p2a: Iron Crown|Booster Energy
+|-activate|p2a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Crown|quarkdrivespe
+|turn|15
+|
+|t:|1781340856
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|move|p1a: Ditto|Low Kick|p2a: Iron Crown
+|-crit|p2a: Iron Crown
+|-damage|p2a: Iron Crown|18/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781340860
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|move|p1a: Ditto|Low Kick|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|win|chill element
+|raw|chill element's rating: 1537 &rarr; <strong>1564</strong><br />(+27 for winning)
+|raw|rekjllj's rating: 1664 &rarr; <strong>1637</strong><br />(-27 for losing)
+|c|☆rekjllj|gg
+|l|☆rekjllj
+|player|p2|
+|l|☆chill element
+|player|p1|

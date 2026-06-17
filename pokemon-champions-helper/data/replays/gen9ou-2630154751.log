@@ -1,0 +1,260 @@
+|j|‽yesterdaymister
+|j|☆Glimpse Man
+|t:|1781216262
+|gametype|singles
+|player|p1|yesterdaymister|striker|1640
+|player|p2|Glimpse Man|acetrainer-gen4dp|1639
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ninetales, F|
+|poke|p1|Ceruledge, M|
+|poke|p1|Venusaur, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Walking Wake|
+|poke|p2|Great Tusk|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Gholdengo|
+|poke|p2|Zamazenta-*|
+|poke|p2|Iron Valiant|
+|poke|p2|Talonflame, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yesterdaymister)
+|inactive|Glimpse Man also wants the timer to be on.
+|
+|t:|1781216269
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Venusaur|Venusaur, M|100/100
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|turn|1
+|
+|t:|1781216274
+|move|p1a: Venusaur|Giga Drain|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|41/100
+|-damage|p1a: Venusaur|91/100|[from] item: Life Orb
+|move|p2a: Samurott|Ceaseless Edge|p1a: Venusaur
+|-damage|p1a: Venusaur|30/100
+|-sidestart|p1: yesterdaymister|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1781216278
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|88/100|[from] Spikes
+|move|p2a: Samurott|Sucker Punch||[still]
+|-fail|p2a: Samurott
+|
+|upkeep
+|turn|3
+|
+|t:|1781216280
+|switch|p2a: Talonflame|Talonflame, M|100/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Talonflame
+|-damage|p2a: Talonflame|73/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781216283
+|move|p2a: Talonflame|U-turn|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|84/100
+|-damage|p2a: Talonflame|56/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|
+|t:|1781216285
+|switch|p2a: Gholdengo|Gholdengo|100/100|[from] U-turn
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Great Tusk|Rapid Spin|p2a: Gholdengo
+|-immune|p2a: Gholdengo
+|
+|upkeep
+|turn|5
+|
+|t:|1781216294
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-damage|p1a: Ninetales|88/100|[from] Spikes
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|move|p2a: Gholdengo|Make It Rain|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|56/100
+|-unboost|p2a: Gholdengo|spa|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781216303
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-damage|p1a: Walking Wake|88/100|[from] Spikes
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|switch|p2a: Samurott|Samurott-Hisui, M|41/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781216308
+|move|p1a: Walking Wake|Hydro Steam|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781216324
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|8
+|
+|t:|1781216328
+|move|p2a: Zamazenta|Body Press|p1a: Walking Wake
+|-damage|p1a: Walking Wake|36/100
+|move|p1a: Walking Wake|Hydro Steam|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781216330
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|9
+|
+|t:|1781216332
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|-damage|p1a: Hatterene|88/100|[from] Spikes
+|move|p2a: Iron Valiant|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|59/100
+|-enditem|p1a: Hatterene|Eject Button|[from] move: Knock Off|[of] p2a: Iron Valiant
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781216348
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Talonflame|Talonflame, M|56/100
+|move|p1a: Hatterene|Dazzling Gleam|p2a: Talonflame
+|-resisted|p2a: Talonflame
+|-damage|p2a: Talonflame|27/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781216352
+|move|p2a: Talonflame|U-turn|p1a: Hatterene
+|-damage|p1a: Hatterene|46/100
+|
+|t:|1781216357
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Hatterene|Psychic Noise|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|6/100
+|-start|p2a: Great Tusk|move: Heal Block
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781216361
+|switch|p1a: Great Tusk|Great Tusk|84/100
+|-damage|p1a: Great Tusk|71/100|[from] Spikes
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|move|p2a: Great Tusk|Headlong Rush|p1a: Great Tusk
+|-damage|p1a: Great Tusk|16/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-damage|p2a: Great Tusk|0 fnt|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|none
+|-end|p1a: Great Tusk|Protosynthesis
+|upkeep
+|
+|t:|1781216365
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|turn|13
+|
+|t:|1781216372
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|46/100
+|-damage|p1a: Hatterene|34/100|[from] Spikes
+|move|p2a: Iron Valiant|Ice Punch|p1a: Hatterene
+|-damage|p1a: Hatterene|11/100
+|-status|p1a: Hatterene|frz
+|
+|upkeep
+|turn|14
+|
+|t:|1781216374
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|cant|p1a: Hatterene|frz
+|
+|upkeep
+|turn|15
+|
+|t:|1781216381
+|switch|p1a: Ninetales|Ninetales, F|56/100
+|-damage|p1a: Ninetales|43/100|[from] Spikes
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|move|p2a: Iron Valiant|Knock Off|p1a: Ninetales
+|-crit|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|-enditem|p1a: Ninetales|Heat Rock|[from] move: Knock Off|[of] p2a: Iron Valiant
+|faint|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781216384
+|switch|p1a: Venusaur|Venusaur, M|30/100
+|-damage|p1a: Venusaur|18/100|[from] Spikes
+|turn|16
+|
+|t:|1781216387
+|-terastallize|p2a: Iron Valiant|Ground
+|move|p1a: Venusaur|Weather Ball|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|-damage|p1a: Venusaur|8/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|-message|Glimpse Man forfeited.
+|
+|win|yesterdaymister
+|raw|yesterdaymister's rating: 1640 &rarr; <strong>1660</strong><br />(+20 for winning)
+|raw|Glimpse Man's rating: 1639 &rarr; <strong>1619</strong><br />(-20 for losing)
+|l|☆Glimpse Man
+|player|p2|
+|l|‽yesterdaymister
+|player|p1|

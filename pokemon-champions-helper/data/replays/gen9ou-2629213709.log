@@ -1,0 +1,402 @@
+|j|☆KurisuChestnutOU
+|j|☆praveenkumart236
+|t:|1781109186
+|gametype|singles
+|player|p1|KurisuChestnutOU|2|1521
+|player|p2|praveenkumart236|266|1605
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Gliscor, F|
+|poke|p1|Dondozo, F|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Gholdengo|
+|poke|p1|Great Tusk|
+|poke|p1|Kingambit, M|
+|poke|p2|Pincurchin, F|
+|poke|p2|Pawmot, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Raging Bolt|
+|poke|p2|Iron Treads|
+|poke|p2|Iron Moth|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by praveenkumart236)
+|inactive|KurisuChestnutOU also wants the timer to be on.
+|
+|t:|1781109193
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|switch|p2a: Pincurchin|Pincurchin, F|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|turn|1
+|
+|t:|1781109207
+|switch|p1a: Gliscor|Gliscor, F|100/100
+|move|p2a: Pincurchin|Supercell Slam|p1a: Gliscor
+|-immune|p1a: Gliscor
+|-damage|p2a: Pincurchin|50/100|[from] supercellslam
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781109215
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-item|p2a: Iron Moth|Air Balloon
+|-activate|p2a: Iron Moth|ability: Quark Drive
+|-start|p2a: Iron Moth|quarkdrivespa
+|move|p1a: Gliscor|Earthquake|p2a: Iron Moth
+|-immune|p2a: Iron Moth
+|
+|upkeep
+|turn|3
+|j| heptastrike
+|
+|t:|1781109225
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Slowking
+|-damage|p1a: Slowking|77/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781109236
+|move|p2a: Iron Moth|Fiery Dance|p1a: Slowking
+|-damage|p1a: Slowking|54/100
+|-boost|p2a: Iron Moth|spa|1
+|move|p1a: Slowking|Future Sight|p2a: Iron Moth
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|5
+|
+|t:|1781109243
+|move|p2a: Iron Moth|Overheat|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|-unboost|p2a: Iron Moth|spa|2
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1781109247
+|switch|p1a: Gliscor|Gliscor, F|100/100 tox
+|turn|6
+|l| heptastrike
+|
+|t:|1781109269
+|move|p2a: Iron Moth|Fiery Dance|p1a: Gliscor
+|-damage|p1a: Gliscor|53/100 tox
+|-boost|p2a: Iron Moth|spa|1
+|move|p1a: Gliscor|Spikes|p2a: Iron Moth
+|-sidestart|p2: praveenkumart236|Spikes
+|
+|-end|p2a: Iron Moth|move: Future Sight
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|8/100
+|-enditem|p2a: Iron Moth|Air Balloon
+|-heal|p1a: Gliscor|65/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|7
+|
+|t:|1781109285
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Iron Moth|Overheat|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p1a: Gliscor|78/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|8
+|
+|t:|1781109292
+|switch|p1a: Dondozo|Dondozo, F|100/100
+|move|p2a: Iron Moth|Sludge Wave|p1a: Dondozo
+|-damage|p1a: Dondozo|37/100
+|
+|-heal|p1a: Dondozo|43/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|-end|p2a: Iron Moth|Quark Drive
+|upkeep
+|turn|9
+|
+|t:|1781109301
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|move|p2a: Iron Moth|Sludge Wave|p1a: Kingambit
+|-immune|p1a: Kingambit
+|
+|upkeep
+|turn|10
+|
+|t:|1781109307
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Pincurchin|Pincurchin, F|50/100
+|-damage|p2a: Pincurchin|38/100|[from] Spikes
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|upkeep
+|turn|11
+|
+|t:|1781109323
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Gliscor|Gliscor, F|78/100 tox
+|move|p2a: Pincurchin|Memento|p1a: Gliscor
+|-unboost|p1a: Gliscor|atk|2
+|-unboost|p1a: Gliscor|spa|2
+|faint|p2a: Pincurchin
+|
+|-heal|p1a: Gliscor|90/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781109331
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-damage|p2a: Iron Treads|88/100|[from] Spikes
+|-activate|p2a: Iron Treads|ability: Quark Drive
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|12
+|
+|t:|1781109339
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Iron Treads|Rapid Spin|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|86/100
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: praveenkumart236|Spikes|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|
+|upkeep
+|turn|13
+|
+|t:|1781109360
+|move|p2a: Iron Treads|Knock Off|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|76/100
+|-enditem|p1a: Great Tusk|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Iron Treads
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781109373
+|switch|p2a: Iron Moth|Iron Moth|8/100
+|-activate|p2a: Iron Moth|ability: Quark Drive
+|-start|p2a: Iron Moth|quarkdrivespa
+|turn|14
+|
+|t:|1781109390
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Dondozo|Dondozo, F|43/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Dondozo
+|-resisted|p1a: Dondozo
+|-damage|p1a: Dondozo|13/100
+|-boost|p2a: Iron Moth|spa|1
+|
+|-heal|p1a: Dondozo|20/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781109402
+|move|p2a: Iron Moth|Fiery Dance|p1a: Dondozo
+|-resisted|p1a: Dondozo
+|-damage|p1a: Dondozo|0 fnt
+|faint|p1a: Dondozo
+|
+|upkeep
+|
+|t:|1781109409
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|turn|16
+|
+|t:|1781109415
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-activate|p2a: Iron Valiant|ability: Quark Drive
+|-start|p2a: Iron Valiant|quarkdrivespe
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|upkeep
+|turn|17
+|
+|t:|1781109427
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|move|p1a: Kingambit|Iron Head|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1781109433
+|switch|p2a: Pawmot|Pawmot, M|100/100
+|turn|18
+|
+|t:|1781109445
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Gliscor|Gliscor, F|90/100 tox
+|move|p2a: Pawmot|Nuzzle|p1a: Gliscor
+|-immune|p1a: Gliscor
+|
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|19
+|
+|t:|1781109452
+|move|p2a: Pawmot|Revival Blessing|p2a: Pawmot
+|-enditem|p2a: Pawmot|Leppa Berry|[eat]
+|-activate|p2a: Pawmot|item: Leppa Berry|Revival Blessing|[consumed]
+|
+|t:|1781109456
+|-heal|p2: Pincurchin|50/100|[from] move: Revival Blessing
+|move|p1a: Gliscor|Earthquake|p2a: Pawmot
+|-supereffective|p2a: Pawmot
+|-damage|p2a: Pawmot|6/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781109461
+|move|p2a: Pawmot|Revival Blessing|p2a: Pawmot
+|
+|t:|1781109464
+|-heal|p2: Iron Valiant|50/100|[from] move: Revival Blessing
+|move|p1a: Gliscor|Spikes|p2a: Pawmot
+|-sidestart|p2: praveenkumart236|Spikes
+|
+|upkeep
+|turn|21
+|
+|t:|1781109478
+|switch|p2a: Pincurchin|Pincurchin, F|50/100
+|-damage|p2a: Pincurchin|38/100|[from] Spikes
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|move|p1a: Gliscor|Spikes|p2a: Pincurchin
+|-sidestart|p2: praveenkumart236|Spikes
+|
+|upkeep
+|turn|22
+|
+|t:|1781109486
+|move|p1a: Gliscor|Earthquake|p2a: Pincurchin
+|-supereffective|p2a: Pincurchin
+|-damage|p2a: Pincurchin|0 fnt
+|faint|p2a: Pincurchin
+|
+|upkeep
+|
+|t:|1781109492
+|switch|p2a: Iron Valiant|Iron Valiant|50/100
+|-damage|p2a: Iron Valiant|34/100|[from] Spikes
+|-activate|p2a: Iron Valiant|ability: Quark Drive
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|23
+|
+|t:|1781109499
+|move|p2a: Iron Valiant|Ice Punch|p1a: Gliscor
+|-supereffective|p1a: Gliscor
+|-damage|p1a: Gliscor|21/100 tox
+|-damage|p2a: Iron Valiant|24/100|[from] item: Life Orb
+|move|p1a: Gliscor|Earthquake|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-heal|p1a: Gliscor|33/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781109508
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|84/100|[from] Spikes
+|-enditem|p2a: Raging Bolt|Electric Seed
+|-boost|p2a: Raging Bolt|def|1|[from] item: Electric Seed
+|turn|24
+|
+|t:|1781109522
+|switch|p1a: Great Tusk|Great Tusk|76/100
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|25
+|
+|t:|1781109530
+|-terastallize|p2a: Raging Bolt|Ghost
+|move|p1a: Great Tusk|Headlong Rush|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|47/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781109537
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|26
+|
+|t:|1781109556
+|move|p1a: Gholdengo|Shadow Ball|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|1/100
+|move|p2a: Raging Bolt|Rising Voltage|p1a: Gholdengo
+|-damage|p1a: Gholdengo|14/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|upkeep
+|turn|27
+|
+|t:|1781109564
+|move|p2a: Raging Bolt|Thunderclap|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781109569
+|switch|p1a: Gliscor|Gliscor, F|33/100 tox
+|turn|28
+|
+|t:|1781109576
+|move|p1a: Gliscor|Knock Off|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-heal|p1a: Gliscor|46/100 tox|[from] ability: Poison Heal
+|-fieldend|move: Electric Terrain
+|upkeep
+|-message|praveenkumart236 forfeited.
+|
+|win|KurisuChestnutOU
+|raw|KurisuChestnutOU's rating: 1521 &rarr; <strong>1546</strong><br />(+25 for winning)
+|raw|praveenkumart236's rating: 1605 &rarr; <strong>1580</strong><br />(-25 for losing)
+|l|☆praveenkumart236
+|player|p2|

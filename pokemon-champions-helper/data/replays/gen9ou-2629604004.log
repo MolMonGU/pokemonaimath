@@ -1,0 +1,287 @@
+|j|☆LetsgoBrandonJ
+|j|‽LT_Alt1
+|t:|1781151881
+|gametype|singles
+|player|p1|LetsgoBrandonJ|palmer|1721
+|player|p2|LT_Alt1|266|1659
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Araquanid, M|
+|poke|p1|Gholdengo|
+|poke|p1|Iron Moth|
+|poke|p1|Iron Valiant|
+|poke|p1|Raging Bolt|
+|poke|p1|Kingambit, M|
+|poke|p2|Kyurem|
+|poke|p2|Raging Bolt|
+|poke|p2|Hatterene, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Corviknight, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LetsgoBrandonJ)
+|
+|t:|1781151898
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|1
+|
+|t:|1781151907
+|move|p1a: Gholdengo|Shadow Ball|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|76/100
+|-unboost|p2a: Raging Bolt|spd|1
+|move|p2a: Raging Bolt|Volt Switch|p1a: Gholdengo
+|-damage|p1a: Gholdengo|50/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|t:|1781151913
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Volt Switch
+|-ability|p2a: Kyurem|Pressure
+|
+|upkeep
+|turn|2
+|
+|t:|1781151921
+|move|p2a: Kyurem|Draco Meteor|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-unboost|p2a: Kyurem|spa|2
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781151928
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespa
+|turn|3
+|
+|t:|1781151948
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1781151956
+|-terastallize|p2a: Ting-Lu|Ghost
+|move|p1a: Iron Valiant|Moonblast|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|58/100
+|-unboost|p2a: Ting-Lu|spa|1
+|move|p2a: Ting-Lu|Whirlwind|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|drag|p1a: Araquanid|Araquanid, M, shiny|100/100
+|
+|-heal|p2a: Ting-Lu|64/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781151968
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Araquanid|Surf|p2a: Hatterene
+|-damage|p2a: Hatterene|67/100
+|
+|-heal|p2a: Hatterene|73/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781151980
+|switch|p1a: Kingambit|Kingambit, M, shiny|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|-item|p1a: Kingambit|Air Balloon
+|move|p2a: Hatterene|Nuzzle|p1a: Kingambit
+|-damage|p1a: Kingambit|98/100
+|-status|p1a: Kingambit|par
+|-enditem|p1a: Kingambit|Air Balloon
+|
+|-heal|p2a: Hatterene|79/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781152000
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Corviknight
+|-damage|p2a: Corviknight|65/100
+|-damage|p1a: Kingambit|81/100 par|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|upkeep
+|turn|8
+|
+|t:|1781152009
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|9
+|
+|t:|1781152019
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Slowking
+|-damage|p2a: Slowking|54/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781152025
+|move|p1a: Raging Bolt|Calm Mind|p1a: Raging Bolt
+|-boost|p1a: Raging Bolt|spa|1
+|-boost|p1a: Raging Bolt|spd|1
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781152029
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781152044
+|-terastallize|p1a: Raging Bolt|Ghost
+|move|p2a: Kyurem|Blizzard|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|43/100
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|j| The Hippo Don
+|
+|t:|1781152056
+|switch|p2a: Ting-Lu|Ting-Lu, tera:Ghost|64/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|12
+|
+|t:|1781152061
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|20/100
+|move|p2a: Ting-Lu|Whirlwind|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|drag|p1a: Araquanid|Araquanid, M, shiny|100/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Ting-Lu|26/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781152071
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Araquanid
+|-sidestart|p1: LetsgoBrandonJ|move: Stealth Rock
+|move|p1a: Araquanid|Surf|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|9/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Ting-Lu|15/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781152079
+|move|p2a: Ting-Lu|Ruination|p1a: Araquanid
+|-damage|p1a: Araquanid|50/100
+|move|p1a: Araquanid|Surf|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|-weather|none
+|upkeep
+|
+|t:|1781152083
+|switch|p2a: Raging Bolt|Raging Bolt|76/100
+|turn|15
+|
+|t:|1781152092
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Araquanid
+|-supereffective|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|faint|p1a: Araquanid
+|
+|upkeep
+|
+|t:|1781152099
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781152104
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|31/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781152115
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|87/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|60/100
+|-unboost|p2a: Slowking|spa|1
+|
+|upkeep
+|turn|18
+|
+|t:|1781152123
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781152127
+|switch|p2a: Raging Bolt|Raging Bolt|76/100
+|turn|19
+|
+|t:|1781152132
+|move|p1a: Iron Valiant|Moonblast|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|-message|LT_Alt1 forfeited.
+|
+|win|LetsgoBrandonJ
+|raw|LetsgoBrandonJ's rating: 1721 &rarr; <strong>1737</strong><br />(+16 for winning)
+|raw|LT_Alt1's rating: 1659 &rarr; <strong>1643</strong><br />(-16 for losing)
+|l|‽LT_Alt1
+|player|p2|
+|l| The Hippo Don
+|l|☆LetsgoBrandonJ
+|player|p1|

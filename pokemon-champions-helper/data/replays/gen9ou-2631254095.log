@@ -1,0 +1,236 @@
+|j|☆skayotest
+|j|‽TheCannonites
+|t:|1781363822
+|gametype|singles
+|player|p1|skayotest|266|1651
+|player|p2|TheCannonites|n|1653
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Rillaboom, F|
+|poke|p1|Garchomp, F|
+|poke|p1|Gholdengo|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Cinderace, F|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Blastoise, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Iron Crown|
+|poke|p2|Great Tusk|
+|poke|p2|Ceruledge, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by TheCannonites)
+|
+|t:|1781363845
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|turn|1
+|
+|t:|1781363850
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: TheCannonites|move: Light Screen
+|move|p1a: Slowking|Toxic Spikes|p2a: Grimmsnarl
+|-sidestart|p2: TheCannonites|move: Toxic Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1781363856
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: TheCannonites|Reflect
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781363872
+|switch|p1a: Gholdengo|Gholdengo|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781363877
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|-status|p2a: Ceruledge|psn
+|move|p1a: Gholdengo|Make It Rain|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|82/100 psn
+|-unboost|p1a: Gholdengo|spa|1
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Ceruledge|70/100 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1781363889
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Ceruledge|57/100 psn|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1781363898
+|move|p1a: Garchomp|Protect|p1a: Garchomp
+|-singleturn|p1a: Garchomp|Protect
+|move|p2a: Ceruledge|Poltergeist|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Protect
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Ceruledge|45/100 psn|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1781363907
+|move|p2a: Ceruledge|Close Combat|p1a: Garchomp
+|-damage|p1a: Garchomp|35/100
+|-unboost|p2a: Ceruledge|def|1
+|-unboost|p2a: Ceruledge|spd|1
+|-damage|p2a: Ceruledge|32/100 psn|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Ceruledge|16/100 psn|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|-damage|p2a: Ceruledge|6/100 psn|[from] item: Life Orb
+|move|p1a: Garchomp|Earthquake|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|-weather|none
+|upkeep
+|
+|t:|1781363920
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-enditem|p2a: Iron Crown|Booster Energy
+|-activate|p2a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Crown|quarkdrivespa
+|turn|7
+|
+|t:|1781363927
+|-terastallize|p2a: Iron Crown|Fighting
+|move|p2a: Iron Crown|Agility|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spe|2
+|move|p1a: Garchomp|Dragon Tail|p2a: Iron Crown
+|-damage|p2a: Iron Crown|86/100
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|drag|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|-status|p2a: Grimmsnarl|psn
+|
+|-damage|p2a: Grimmsnarl|88/100 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781363942
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Grimmsnarl|Taunt|p1a: Gholdengo
+|-immune|p1a: Gholdengo|[from] ability: Good as Gold
+|
+|-damage|p2a: Grimmsnarl|76/100 psn|[from] psn
+|-sideend|p2: TheCannonites|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1781363951
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: TheCannonites|move: Light Screen
+|move|p1a: Gholdengo|Make It Rain|p2a: Grimmsnarl
+|-supereffective|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|22/100 psn
+|-unboost|p1a: Gholdengo|spa|1
+|
+|-damage|p2a: Grimmsnarl|9/100 psn|[from] psn
+|-sideend|p2: TheCannonites|Reflect
+|upkeep
+|turn|10
+|
+|t:|1781363969
+|switch|p1a: Garchomp|Garchomp, F|35/100
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: TheCannonites|Reflect
+|
+|-damage|p2a: Grimmsnarl|0 fnt|[from] psn
+|faint|p2a: Grimmsnarl
+|upkeep
+|
+|t:|1781363981
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-status|p2a: Great Tusk|psn
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisspe
+|turn|11
+|inactive|skayotest has 120 seconds left.
+|
+|t:|1781364013
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|move|p1a: Garchomp|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: TheCannonites|move: Stealth Rock
+|
+|-damage|p2a: Great Tusk|88/100 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1781364022
+|move|p1a: Garchomp|Protect|p1a: Garchomp
+|-singleturn|p1a: Garchomp|Protect
+|move|p2a: Great Tusk|Ice Spinner|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Protect
+|
+|-damage|p2a: Great Tusk|76/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1781364030
+|move|p1a: Garchomp|Protect||[still]
+|-fail|p1a: Garchomp
+|move|p2a: Great Tusk|Headlong Rush|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-damage|p2a: Great Tusk|63/100 psn|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Great Tusk|47/100 psn|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|-damage|p2a: Great Tusk|34/100 psn|[from] psn
+|upkeep
+|inactive|skayotest has 120 seconds left.
+|
+|t:|1781364057
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|14
+|
+|t:|1781364064
+|-terastallize|p1a: Rillaboom|Grass
+|move|p1a: Rillaboom|Grassy Glide|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-crit|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|-message|TheCannonites forfeited.
+|
+|win|skayotest
+|raw|skayotest's rating: 1651 &rarr; <strong>1671</strong><br />(+20 for winning)
+|raw|TheCannonites's rating: 1653 &rarr; <strong>1633</strong><br />(-20 for losing)
+|l|‽TheCannonites
+|player|p2|
+|l|☆skayotest
+|player|p1|

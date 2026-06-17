@@ -1,0 +1,366 @@
+|j|☆iamverykarpy
+|j|☆quolius
+|t:|1781187374
+|gametype|singles
+|player|p1|iamverykarpy|colress|1637
+|player|p2|quolius|266|1678
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cetitan, F|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Kyurem|
+|poke|p1|Rillaboom, F|
+|poke|p1|Alomomola, F|
+|poke|p1|Great Tusk|
+|poke|p2|Darkrai|
+|poke|p2|Great Tusk|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Iron Moth|
+|poke|p2|Gholdengo|
+|poke|p2|Ogerpon, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by iamverykarpy)
+|
+|t:|1781187386
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem, shiny|100/100
+|switch|p2a: Ogerpon|Ogerpon, F|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|j| newhere1310
+|
+|t:|1781187390
+|move|p2a: Ogerpon|U-turn|p1a: Kyurem
+|-damage|p1a: Kyurem|77/100
+|
+|t:|1781187405
+|switch|p2a: Iron Moth|Iron Moth|100/100|[from] U-turn
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|move|p1a: Kyurem|Ice Beam|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-damage|p2a: Iron Moth|69/100
+|-status|p2a: Iron Moth|frz
+|
+|upkeep
+|turn|2
+|
+|t:|1781187409
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100
+|cant|p2a: Iron Moth|frz
+|
+|upkeep
+|turn|3
+|
+|t:|1781187412
+|-curestatus|p2a: Iron Moth|frz|[msg]
+|move|p2a: Iron Moth|Toxic Spikes|p1a: Slowking
+|-sidestart|p1: iamverykarpy|move: Toxic Spikes
+|move|p1a: Slowking|Future Sight|p2a: Iron Moth
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|4
+|
+|t:|1781187417
+|move|p2a: Iron Moth|Substitute|p2a: Iron Moth
+|-start|p2a: Iron Moth|Substitute
+|-damage|p2a: Iron Moth|44/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781187422
+|switch|p1a: Kyurem|Kyurem, shiny|77/100|[from] Chilly Reception
+|-status|p1a: Kyurem|psn
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Kyurem|65/100 psn|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1781187426
+|move|p2a: Iron Moth|Dazzling Gleam|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|10/100 psn
+|move|p1a: Kyurem|Earth Power|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-end|p2a: Iron Moth|Substitute
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Iron Moth|move: Future Sight
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|-damage|p1a: Kyurem|0 fnt|[from] psn
+|faint|p1a: Kyurem
+|upkeep
+|
+|t:|1781187434
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100
+|-sideend|p1: iamverykarpy|move: Toxic Spikes|[of] p1a: Slowking
+|turn|6
+|
+|t:|1781187439
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Samurott|Ceaseless Edge|p1a: Rillaboom
+|-damage|p1a: Rillaboom|53/100
+|-sidestart|p1: iamverykarpy|Spikes
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Rillaboom|59/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781187450
+|move|p1a: Rillaboom|Grassy Glide|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Rillaboom|65/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781187456
+|switch|p2a: Ogerpon|Ogerpon, F|100/100
+|turn|8
+|
+|t:|1781187461
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100
+|-damage|p1a: Slowking|88/100|[from] Spikes
+|move|p2a: Ogerpon|U-turn|p1a: Slowking
+|-damage|p1a: Slowking|66/100
+|
+|t:|1781187465
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|
+|-weather|none
+|-heal|p1a: Slowking|72/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781187468
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|-damage|p1a: Alomomola|88/100|[from] Spikes
+|move|p2a: Great Tusk|Ice Spinner|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|83/100
+|-damage|p2a: Great Tusk|84/100|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|-fieldend|move: Grassy Terrain
+|
+|upkeep
+|turn|10
+|
+|t:|1781187472
+|move|p2a: Great Tusk|Stealth Rock|p1a: Alomomola
+|-sidestart|p1: iamverykarpy|move: Stealth Rock
+|move|p1a: Alomomola|Scald|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|48/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781187477
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Darkrai|Darkrai|100/100
+|move|p1a: Alomomola|Flip Turn|p2a: Darkrai
+|-damage|p2a: Darkrai|83/100
+|
+|t:|1781187479
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] Flip Turn
+|-damage|p1a: Great Tusk|88/100|[from] Spikes
+|-damage|p1a: Great Tusk|85/100|[from] Stealth Rock
+|
+|-heal|p1a: Great Tusk|91/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781187481
+|-terastallize|p1a: Great Tusk|Steel
+|move|p2a: Darkrai|Ice Beam|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|71/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Darkrai
+|-damage|p2a: Darkrai|64/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: iamverykarpy|Spikes|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|-sideend|p1: iamverykarpy|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|
+|-heal|p1a: Great Tusk|77/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781187488
+|switch|p2a: Great Tusk|Great Tusk|48/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Great Tusk
+|-damage|p2a: Great Tusk|14/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|61/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|
+|-heal|p1a: Great Tusk|67/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781187492
+|move|p1a: Great Tusk|Headlong Rush|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|50/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-heal|p1a: Great Tusk|56/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781187493
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|15
+|
+|t:|1781187496
+|move|p1a: Great Tusk|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|59/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|
+|-heal|p1a: Great Tusk|62/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781187501
+|-terastallize|p2a: Gholdengo|Fairy
+|move|p1a: Great Tusk|Headlong Rush|p2a: Gholdengo
+|-damage|p2a: Gholdengo|20/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Gholdengo|Shadow Ball|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781187511
+|switch|p1a: Rillaboom|Rillaboom, F|65/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|17
+|
+|t:|1781187514
+|switch|p2a: Ogerpon|Ogerpon, F|100/100
+|move|p1a: Rillaboom|Grassy Glide|p2a: Ogerpon
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|58/100
+|
+|-heal|p2a: Ogerpon|64/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|71/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1781187519
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100
+|move|p2a: Ogerpon|U-turn|p1a: Slowking
+|-damage|p1a: Slowking|75/100
+|
+|t:|1781187522
+|switch|p2a: Darkrai|Darkrai|64/100|[from] U-turn
+|
+|-heal|p2a: Darkrai|70/100|[from] Grassy Terrain
+|-heal|p1a: Slowking|81/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1781187530
+|move|p2a: Darkrai|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-enditem|p1a: Slowking|Colbur Berry|[eat]
+|-enditem|p1a: Slowking|Colbur Berry|[weaken]
+|-damage|p1a: Slowking|40/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781187533
+|switch|p1a: Cetitan|Cetitan, F, shiny|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Darkrai|76/100|[from] Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1781187543
+|move|p1a: Cetitan|Ice Spinner|p2a: Darkrai
+|-damage|p2a: Darkrai|33/100
+|-fieldend|move: Grassy Terrain
+|move|p2a: Darkrai|Dark Pulse|p1a: Cetitan
+|-damage|p1a: Cetitan|56/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781187557
+|switch|p2a: Gholdengo|Gholdengo, tera:Fairy|20/100
+|move|p1a: Cetitan|Ice Spinner|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781187559
+|switch|p2a: Darkrai|Darkrai|33/100
+|turn|22
+|
+|t:|1781187562
+|move|p2a: Darkrai|Sucker Punch|p1a: Cetitan
+|-damage|p1a: Cetitan|40/100
+|-enditem|p1a: Cetitan|Sitrus Berry|[eat]
+|-heal|p1a: Cetitan|65/100|[from] item: Sitrus Berry
+|move|p1a: Cetitan|Ice Spinner|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781187564
+|switch|p2a: Ogerpon|Ogerpon, F|64/100
+|turn|23
+|
+|t:|1781187566
+|move|p1a: Cetitan|Ice Spinner|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|win|iamverykarpy
+|raw|iamverykarpy's rating: 1637 &rarr; <strong>1659</strong><br />(+22 for winning)
+|raw|quolius's rating: 1678 &rarr; <strong>1656</strong><br />(-22 for losing)
+|l|☆quolius
+|player|p2|
+|l|☆iamverykarpy
+|player|p1|
+|l| newhere1310

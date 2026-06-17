@@ -1,0 +1,263 @@
+|j|☆soviet15
+|j|☆achbeet
+|t:|1781579836
+|gametype|singles
+|player|p1|soviet15|olympia|1646
+|player|p2|achbeet|102|1673
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Treads|
+|poke|p1|Dragonite, F|
+|poke|p1|Great Tusk|
+|poke|p1|Iron Valiant|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Raging Bolt|
+|poke|p2|Darkrai|
+|poke|p2|Okidogi, M|
+|poke|p2|Sandy Shocks|
+|poke|p2|Araquanid, M|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Moth|
+|teampreview
+|
+|t:|1781579854
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|switch|p2a: Araquanid|Araquanid, M|100/100
+|turn|1
+|
+|t:|1781579862
+|move|p1a: Dragonite|Outrage|p2a: Araquanid
+|-damage|p2a: Araquanid|0 fnt
+|faint|p2a: Araquanid
+|
+|upkeep
+|
+|t:|1781579874
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|2
+|
+|t:|1781579885
+|move|p2a: Gholdengo|Make It Rain|p1a: Dragonite
+|-damage|p1a: Dragonite|64/100
+|-unboost|p2a: Gholdengo|spa|1
+|move|p1a: Dragonite|Outrage|p2a: Gholdengo|[from] lockedmove
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|42/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|-start|p1a: Dragonite|confusion|[fatigue]
+|
+|upkeep
+|turn|3
+|
+|t:|1781579893
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|move|p2a: Gholdengo|Make It Rain|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|68/100
+|-unboost|p2a: Gholdengo|spa|1
+|
+|upkeep
+|turn|4
+|
+|t:|1781579900
+|switch|p2a: Okidogi|Okidogi, M|100/100
+|move|p1a: Samurott|Flip Turn|p2a: Okidogi
+|-damage|p2a: Okidogi|77/100
+|
+|t:|1781579908
+|switch|p1a: Dragonite|Dragonite, F|64/100|[from] Flip Turn
+|
+|-heal|p2a: Okidogi|83/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781579914
+|switch|p2a: Gholdengo|Gholdengo|42/100
+|move|p1a: Dragonite|Outrage|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781579921
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|6
+|
+|t:|1781579925
+|move|p2a: Darkrai|Ice Beam|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|-damage|p2a: Darkrai|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781579943
+|switch|p1a: Samurott|Samurott-Hisui, M|68/100
+|turn|7
+|
+|t:|1781579946
+|move|p1a: Samurott|Flip Turn|p2a: Darkrai
+|-damage|p2a: Darkrai|57/100
+|
+|t:|1781579951
+|switch|p1a: Iron Treads|Iron Treads|100/100|[from] Flip Turn
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|move|p2a: Darkrai|Focus Blast|p1a: Iron Treads|[miss]
+|-miss|p2a: Darkrai|p1a: Iron Treads
+|
+|upkeep
+|turn|8
+|
+|t:|1781579961
+|move|p1a: Iron Treads|Steel Beam|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|-damage|p1a: Iron Treads|50/100|[from] steelbeam
+|faint|p2a: Darkrai
+|
+|upkeep
+|
+|t:|1781579975
+|switch|p2a: Okidogi|Okidogi, M|83/100
+|turn|9
+|
+|t:|1781579979
+|move|p1a: Iron Treads|Stealth Rock|p2a: Okidogi
+|-sidestart|p2: achbeet|move: Stealth Rock
+|move|p2a: Okidogi|Drain Punch|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-heal|p2a: Okidogi|100/100|[from] drain|[of] p1a: Iron Treads
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781580000
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|10
+|
+|t:|1781580003
+|move|p1a: Iron Valiant|Encore|p2a: Okidogi
+|-start|p2a: Okidogi|Encore
+|move|p2a: Okidogi|Drain Punch|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|75/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781580012
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-damage|p2a: Iron Moth|76/100|[from] Stealth Rock
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespa
+|move|p1a: Iron Valiant|Moonblast|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-damage|p2a: Iron Moth|64/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781580032
+|move|p1a: Iron Valiant|Close Combat|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-crit|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781580040
+|switch|p2a: Sandy Shocks|Sandy Shocks|100/100
+|-damage|p2a: Sandy Shocks|94/100|[from] Stealth Rock
+|-enditem|p2a: Sandy Shocks|Booster Energy
+|-activate|p2a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p2a: Sandy Shocks|protosynthesisspe
+|turn|13
+|
+|t:|1781580054
+|move|p1a: Iron Valiant|Close Combat|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|37/100
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|move|p2a: Sandy Shocks|Earth Power|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781580064
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisspe
+|turn|14
+|
+|t:|1781580069
+|move|p2a: Sandy Shocks|Earth Power|p1a: Great Tusk
+|-damage|p1a: Great Tusk|48/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Sandy Shocks
+|-supereffective|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|0 fnt
+|faint|p2a: Sandy Shocks
+|-end|p2a: Sandy Shocks|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781580074
+|switch|p2a: Okidogi|Okidogi, M|100/100
+|-damage|p2a: Okidogi|94/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1781580078
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|move|p2a: Okidogi|Drain Punch|p1a: Great Tusk
+|-damage|p1a: Great Tusk|32/100
+|-heal|p2a: Okidogi|100/100|[from] drain|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|16
+|
+|t:|1781580082
+|move|p1a: Great Tusk|Headlong Rush|p2a: Okidogi
+|-supereffective|p2a: Okidogi
+|-damage|p2a: Okidogi|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Okidogi
+|
+|win|soviet15
+|raw|soviet15's rating: 1646 &rarr; <strong>1668</strong><br />(+22 for winning)
+|raw|achbeet's rating: 1673 &rarr; <strong>1651</strong><br />(-22 for losing)
+|l|☆achbeet
+|player|p2|
+|l|☆soviet15
+|player|p1|

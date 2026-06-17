@@ -1,0 +1,272 @@
+|j|☆LUPIIT
+|j|☆saxafrax
+|t:|1781026337
+|gametype|singles
+|player|p1|LUPIIT|lucas|1559
+|player|p2|saxafrax|dancer|1563
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Comfey, M|
+|poke|p1|Smeargle, F|
+|poke|p1|Zapdos|
+|poke|p1|Garganacl, M|
+|poke|p1|Scizor, F|
+|poke|p1|Tinkaton, F|
+|poke|p2|Araquanid, F|
+|poke|p2|Ceruledge, M|
+|poke|p2|Enamorus, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|poke|p2|Pecharunt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LUPIIT)
+|
+|t:|1781026345
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Garganacl|Garganacl, M|100/100
+|switch|p2a: Araquanid|Araquanid, F|100/100
+|turn|1
+|
+|t:|1781026348
+|move|p2a: Araquanid|Surf|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|18/100
+|move|p1a: Garganacl|Salt Cure|p2a: Araquanid
+|-supereffective|p2a: Araquanid
+|-damage|p2a: Araquanid|72/100
+|-start|p2a: Araquanid|Salt Cure
+|
+|-heal|p1a: Garganacl|24/100|[from] item: Leftovers
+|-damage|p2a: Araquanid|47/100|[from] Salt Cure
+|upkeep
+|turn|2
+|
+|t:|1781026354
+|move|p2a: Araquanid|Surf|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|faint|p1a: Garganacl
+|
+|-damage|p2a: Araquanid|22/100|[from] Salt Cure
+|upkeep
+|
+|t:|1781026360
+|switch|p1a: Tinkaton|Tinkaton, F|100/100
+|-item|p1a: Tinkaton|Air Balloon
+|turn|3
+|-enditem|p2a: Araquanid|Custap Berry|[eat]
+|-activate|p2a: Araquanid|item: Custap Berry|[consumed]
+|
+|t:|1781026362
+|move|p2a: Araquanid|Surf|p1a: Tinkaton
+|-damage|p1a: Tinkaton|43/100
+|-enditem|p1a: Tinkaton|Air Balloon
+|move|p1a: Tinkaton|Stealth Rock|p2a: Araquanid
+|-sidestart|p2: saxafrax|move: Stealth Rock
+|
+|-damage|p2a: Araquanid|0 fnt|[from] Salt Cure
+|faint|p2a: Araquanid
+|upkeep
+|
+|t:|1781026366
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-damage|p2a: Iron Treads|97/100|[from] Stealth Rock
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|4
+|
+|t:|1781026371
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Iron Treads|Rapid Spin|p1a: Zapdos
+|-damage|p1a: Zapdos|91/100
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: saxafrax|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|
+|upkeep
+|turn|5
+|
+|t:|1781026374
+|move|p2a: Iron Treads|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: LUPIIT|move: Stealth Rock
+|move|p1a: Zapdos|Heat Wave|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|26/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781026399
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|move|p1a: Zapdos|Discharge|p2a: Enamorus
+|-supereffective|p2a: Enamorus
+|-damage|p2a: Enamorus|3/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781026404
+|switch|p1a: Tinkaton|Tinkaton, F|43/100
+|-damage|p1a: Tinkaton|37/100|[from] Stealth Rock
+|move|p2a: Enamorus|Moonblast|p1a: Tinkaton
+|-resisted|p1a: Tinkaton
+|-damage|p1a: Tinkaton|0 fnt
+|faint|p1a: Tinkaton
+|
+|upkeep
+|
+|t:|1781026407
+|switch|p1a: Comfey|Comfey, M|100/100
+|-damage|p1a: Comfey|88/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1781026411
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|move|p1a: Comfey|Draining Kiss|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|89/100
+|-heal|p1a: Comfey|98/100|[from] drain|[of] p2a: Ceruledge
+|
+|upkeep
+|turn|9
+|
+|t:|1781026419
+|switch|p1a: Zapdos|Zapdos|91/100
+|move|p2a: Ceruledge|Poltergeist|p1a: Zapdos
+|-activate|p1a: Zapdos|move: Poltergeist|Heavy-Duty Boots
+|-damage|p1a: Zapdos|32/100
+|-damage|p2a: Ceruledge|79/100|[from] item: Life Orb
+|
+|upkeep
+|turn|10
+|
+|t:|1781026426
+|switch|p1a: Smeargle|Smeargle, F|100/100
+|-damage|p1a: Smeargle|88/100|[from] Stealth Rock
+|move|p2a: Ceruledge|Poltergeist|p1a: Smeargle
+|-immune|p1a: Smeargle
+|
+|upkeep
+|turn|11
+|
+|t:|1781026431
+|move|p1a: Smeargle|Trick|p2a: Ceruledge
+|-activate|p1a: Smeargle|move: Trick|[of] p2a: Ceruledge
+|-item|p2a: Ceruledge|Choice Scarf|[from] move: Trick
+|-item|p1a: Smeargle|Life Orb|[from] move: Trick
+|move|p2a: Ceruledge|Close Combat|p1a: Smeargle
+|-supereffective|p1a: Smeargle
+|-damage|p1a: Smeargle|0 fnt
+|-unboost|p2a: Ceruledge|def|1
+|-unboost|p2a: Ceruledge|spd|1
+|faint|p1a: Smeargle
+|
+|upkeep
+|
+|t:|1781026434
+|switch|p1a: Comfey|Comfey, M|98/100
+|-damage|p1a: Comfey|85/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781026439
+|switch|p2a: Iron Treads|Iron Treads|26/100
+|move|p1a: Comfey|Leech Seed|p2a: Iron Treads
+|-start|p2a: Iron Treads|move: Leech Seed
+|
+|-damage|p2a: Iron Treads|13/100|[from] Leech Seed|[of] p1a: Comfey
+|-heal|p1a: Comfey|98/100|[silent]
+|upkeep
+|turn|13
+|
+|t:|1781026451
+|move|p1a: Comfey|Draining Kiss|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-heal|p1a: Comfey|100/100|[from] drain|[of] p2a: Iron Treads
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781026468
+|switch|p2a: Ceruledge|Ceruledge, M|79/100
+|turn|14
+|
+|t:|1781026471
+|switch|p1a: Zapdos|Zapdos|32/100
+|move|p2a: Ceruledge|Bitter Blade|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|-heal|p2a: Ceruledge|98/100|[from] drain|[of] p1a: Zapdos
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1781026473
+|switch|p1a: Scizor|Scizor, F|100/100
+|turn|15
+|
+|t:|1781026486
+|-terastallize|p1a: Scizor|Rock
+|move|p2a: Ceruledge|Bitter Blade|p1a: Scizor
+|-resisted|p1a: Scizor
+|-crit|p1a: Scizor
+|-damage|p1a: Scizor|52/100
+|-heal|p2a: Ceruledge|100/100|[from] drain|[of] p1a: Scizor
+|move|p1a: Scizor|Knock Off|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|12/100
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|-enditem|p2a: Ceruledge|Choice Scarf|[from] move: Knock Off|[of] p1a: Scizor
+|
+|upkeep
+|turn|16
+|
+|t:|1781026497
+|move|p1a: Scizor|Bullet Punch|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|upkeep
+|
+|t:|1781026513
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|turn|17
+|
+|t:|1781026517
+|move|p2a: Kingambit|Sucker Punch|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1781026520
+|switch|p1a: Comfey|Comfey, M|100/100
+|-damage|p1a: Comfey|88/100|[from] Stealth Rock
+|turn|18
+|-message|LUPIIT forfeited.
+|
+|win|saxafrax
+|raw|LUPIIT's rating: 1559 &rarr; <strong>1539</strong><br />(-20 for losing)
+|raw|saxafrax's rating: 1563 &rarr; <strong>1583</strong><br />(+20 for winning)
+|l|☆LUPIIT
+|player|p1|
+|l|☆saxafrax
+|player|p2|

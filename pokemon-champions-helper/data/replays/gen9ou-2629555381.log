@@ -1,0 +1,193 @@
+|j|☆Arcosara
+|j|☆KurisuChestnutLab
+|t:|1781145290
+|gametype|singles
+|player|p1|Arcosara|adaman|1569
+|player|p2|KurisuChestnutLab|may-contest|1600
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Iron Hands|
+|poke|p1|Ceruledge, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Iron Treads|
+|poke|p2|Primarina, M|
+|poke|p2|Hippowdon, M|
+|poke|p2|Skarmory, M|
+|poke|p2|Zapdos|
+|poke|p2|Dragonite, F|
+|poke|p2|Slowking, M|
+|teampreview
+|
+|t:|1781145296
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|switch|p2a: Primarina|Primarina, M|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutLab)
+|j| nesnot
+|
+|t:|1781145300
+|move|p1a: Deoxys|Light Screen|p1a: Deoxys
+|-sidestart|p1: Arcosara|move: Light Screen
+|move|p2a: Primarina|Surf|p1a: Deoxys
+|-damage|p1a: Deoxys|70/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781145305
+|move|p1a: Deoxys|Reflect|p1a: Deoxys
+|-sidestart|p1: Arcosara|Reflect
+|move|p2a: Primarina|Surf|p1a: Deoxys
+|-damage|p1a: Deoxys|39/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781145311
+|move|p2a: Primarina|Surf|p1a: Deoxys
+|-crit|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|upkeep
+|
+|t:|1781145313
+|switch|p1a: Iron Hands|Iron Hands|100/100
+|-enditem|p1a: Iron Hands|Booster Energy
+|-activate|p1a: Iron Hands|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Hands|quarkdriveatk
+|turn|4
+|j| redjeg118
+|
+|t:|1781145320
+|move|p1a: Iron Hands|Ice Punch|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|78/100
+|move|p2a: Primarina|Moonblast|p1a: Iron Hands
+|-supereffective|p1a: Iron Hands
+|-damage|p1a: Iron Hands|40/100
+|
+|upkeep
+|turn|5
+|l| redjeg118
+|
+|t:|1781145325
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Iron Hands|Supercell Slam|p2a: Hippowdon
+|-immune|p2a: Hippowdon
+|-damage|p1a: Iron Hands|0 fnt|[from] supercellslam
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781145329
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|turn|6
+|
+|t:|1781145334
+|move|p1a: Iron Treads|Stealth Rock|p2a: Hippowdon
+|-sidestart|p2: KurisuChestnutLab|move: Stealth Rock
+|move|p2a: Hippowdon|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|73/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Iron Treads|79/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781145341
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Hippowdon|Earthquake|p1a: Zamazenta
+|-damage|p1a: Zamazenta|92/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zamazenta|85/100|[from] Sandstorm
+|-heal|p1a: Zamazenta|92/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781145348
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Hippowdon|Stealth Rock|p1a: Zamazenta
+|-sidestart|p1: Arcosara|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zamazenta|85/100|[from] Sandstorm
+|-heal|p1a: Zamazenta|92/100|[from] item: Leftovers
+|-sideend|p1: Arcosara|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1781145352
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Hippowdon|Whirlwind|p1a: Zamazenta
+|drag|p1a: Iron Treads|Iron Treads|79/100
+|-damage|p1a: Iron Treads|76/100|[from] Stealth Rock
+|
+|-weather|none
+|-heal|p1a: Iron Treads|82/100|[from] item: Leftovers
+|-sideend|p1: Arcosara|Reflect
+|upkeep
+|turn|10
+|
+|t:|1781145368
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Zamazenta|Zamazenta|92/100
+|-damage|p1a: Zamazenta|85/100|[from] Stealth Rock
+|move|p2a: Hippowdon|Earthquake|p1a: Zamazenta
+|-damage|p1a: Zamazenta|56/100
+|
+|-heal|p1a: Zamazenta|62/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781145373
+|move|p1a: Zamazenta|Roar|p2a: Hippowdon
+|drag|p2a: Zapdos|Zapdos|100/100
+|
+|-heal|p1a: Zamazenta|68/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781145378
+|switch|p1a: Iron Treads|Iron Treads|82/100
+|-damage|p1a: Iron Treads|79/100|[from] Stealth Rock
+|move|p2a: Zapdos|Heat Wave|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|17/100
+|
+|-heal|p1a: Iron Treads|23/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|-message|Arcosara forfeited.
+|
+|win|KurisuChestnutLab
+|raw|Arcosara's rating: 1569 &rarr; <strong>1550</strong><br />(-19 for losing)
+|raw|KurisuChestnutLab's rating: 1588 &rarr; <strong>1607</strong><br />(+19 for winning)
+|l|☆Arcosara
+|player|p1|

@@ -1,0 +1,336 @@
+|j|☆Brassendaer
+|j|☆rockeater9000
+|t:|1781014139
+|gametype|singles
+|player|p1|Brassendaer|policeman-gen4|1618
+|player|p2|rockeater9000|265|1654
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Clefable, M|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Tyranitar, M|
+|poke|p1|Metagross|
+|poke|p1|Greninja-*, M|
+|poke|p1|Zamazenta-*|
+|poke|p2|Greninja-*, M|
+|poke|p2|Glimmora, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Kingambit, F|
+|poke|p2|Ceruledge, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Brassendaer)
+|inactive|rockeater9000 also wants the timer to be on.
+|
+|t:|1781014144
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Greninja|Greninja, M|100/100
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|turn|1
+|
+|t:|1781014160
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|move|p1a: Greninja|Extrasensory|p2a: Iron Valiant
+|-start|p1a: Greninja|typechange|Psychic|[from] ability: Protean
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|-damage|p1a: Greninja|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781014163
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|turn|2
+|
+|t:|1781014166
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: Kingambit|Iron Head|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|71/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781014171
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|move|p1a: Mandibuzz|Knock Off|p2a: Glimmora
+|-damage|p2a: Glimmora|70/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: Brassendaer|move: Toxic Spikes
+|-enditem|p2a: Glimmora|Power Herb|[from] move: Knock Off|[of] p1a: Mandibuzz
+|
+|upkeep
+|turn|4
+|
+|t:|1781014178
+|switch|p1a: Metagross|Metagross|100/100
+|move|p2a: Glimmora|Meteor Beam||[still]
+|-prepare|p2a: Glimmora|Meteor Beam
+|-boost|p2a: Glimmora|spa|1
+|
+|upkeep
+|turn|5
+|
+|t:|1781014189
+|move|p1a: Metagross|Bullet Punch|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-crit|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: Brassendaer|move: Toxic Spikes
+|faint|p2a: Glimmora
+|
+|upkeep
+|
+|t:|1781014197
+|switch|p2a: Greninja|Greninja, M|100/100
+|turn|6
+|inactive|Brassendaer has 120 seconds left.
+|
+|t:|1781014238
+|move|p2a: Greninja|Dark Pulse|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|26/100
+|move|p1a: Metagross|Heavy Slam|p2a: Greninja
+|-resisted|p2a: Greninja
+|-damage|p2a: Greninja|50/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781014244
+|move|p1a: Metagross|Bullet Punch|p2a: Greninja
+|-resisted|p2a: Greninja
+|-damage|p2a: Greninja|32/100
+|move|p2a: Greninja|Surf|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|faint|p1a: Metagross
+|-ability|p2a: Greninja|Battle Bond|boost
+|-boost|p2a: Greninja|atk|1
+|-boost|p2a: Greninja|spa|1
+|-boost|p2a: Greninja|spe|1
+|-activate|p2a: Greninja|ability: Battle Bond
+|
+|upkeep
+|
+|t:|1781014248
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-status|p1a: Tyranitar|tox
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|8
+|
+|t:|1781014253
+|move|p2a: Greninja|Surf|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|24/100 tox
+|move|p1a: Tyranitar|Low Kick|p2a: Greninja
+|-supereffective|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|faint|p2a: Greninja
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tyranitar|18/100 tox|[from] psn
+|upkeep
+|
+|t:|1781014258
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|9
+|
+|t:|1781014268
+|switch|p1a: Mandibuzz|Mandibuzz, F|71/100
+|move|p2a: Garchomp|Scale Shot|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|64/100
+|-damage|p1a: Mandibuzz|56/100
+|-damage|p1a: Mandibuzz|48/100
+|-damage|p1a: Mandibuzz|41/100
+|-hitcount|p1a: Mandibuzz|4
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781014275
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|move|p1a: Mandibuzz|Defog|p2a: Garchomp
+|-unboost|p2a: Garchomp|evasion|1
+|-sideend|p1: Brassendaer|Toxic Spikes|[from] move: Defog|[of] p1a: Mandibuzz
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781014281
+|move|p2a: Garchomp|Scale Shot|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|26/100
+|-damage|p1a: Mandibuzz|9/100
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|-hitcount|p1: Mandibuzz|3
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781014284
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|12
+|
+|t:|1781014291
+|move|p2a: Garchomp|Earthquake|p1a: Zamazenta
+|-damage|p1a: Zamazenta|47/100
+|move|p1a: Zamazenta|Body Press|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Zamazenta|35/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|-weather|none
+|upkeep
+|
+|t:|1781014302
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|-item|p2a: Ceruledge|Air Balloon
+|turn|13
+|
+|t:|1781014307
+|move|p1a: Zamazenta|Rest|p1a: Zamazenta
+|-status|p1a: Zamazenta|slp|[from] move: Rest
+|-heal|p1a: Zamazenta|100/100 slp|[silent]
+|-enditem|p1a: Zamazenta|Chesto Berry|[eat]
+|-curestatus|p1a: Zamazenta|slp|[msg]
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|14
+|
+|t:|1781014317
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Ceruledge|Bitter Blade|p1a: Zamazenta
+|-damage|p1a: Zamazenta|73/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781014323
+|move|p1a: Zamazenta|Crunch|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|40/100
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|-enditem|p2a: Ceruledge|Air Balloon
+|move|p2a: Ceruledge|Bitter Blade|p1a: Zamazenta
+|-damage|p1a: Zamazenta|48/100
+|-heal|p2a: Ceruledge|57/100|[from] drain|[of] p1a: Zamazenta
+|
+|upkeep
+|turn|16
+|
+|t:|1781014332
+|-terastallize|p1a: Zamazenta|Dark
+|move|p2a: Ceruledge|Bitter Blade|p1a: Zamazenta
+|-crit|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|-heal|p2a: Ceruledge|88/100|[from] drain|[of] p1a: Zamazenta
+|faint|p1a: Zamazenta
+|
+|upkeep
+|
+|t:|1781014340
+|switch|p1a: Clefable|Clefable, M, shiny|100/100
+|turn|17
+|
+|t:|1781014343
+|move|p2a: Ceruledge|Poltergeist|p1a: Clefable
+|-activate|p1a: Clefable|move: Poltergeist|Leftovers
+|-damage|p1a: Clefable|17/100
+|move|p1a: Clefable|Thunder Wave|p2a: Ceruledge
+|-status|p2a: Ceruledge|par
+|
+|-heal|p1a: Clefable|23/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781014354
+|move|p2a: Ceruledge|Bitter Blade|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|-heal|p2a: Ceruledge|100/100 par|[from] drain|[of] p1a: Clefable
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1781014355
+|switch|p1a: Greninja|Greninja, M|91/100
+|turn|19
+|
+|t:|1781014358
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Greninja
+|-resisted|p1a: Greninja
+|-damage|p1a: Greninja|54/100
+|move|p1a: Greninja|Surf|p2a: Ceruledge
+|-start|p1a: Greninja|typechange|Water|[from] ability: Protean
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|-damage|p1a: Greninja|44/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781014360
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|turn|20
+|
+|t:|1781014366
+|move|p2a: Kingambit|Sucker Punch|p1a: Greninja
+|-damage|p1a: Greninja|0 fnt
+|faint|p1a: Greninja
+|
+|upkeep
+|
+|t:|1781014368
+|switch|p1a: Tyranitar|Tyranitar, M|18/100 tox
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|21
+|
+|t:|1781014371
+|-terastallize|p2a: Kingambit|Dark
+|move|p2a: Kingambit|Sucker Punch|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|win|rockeater9000
+|raw|Brassendaer's rating: 1618 &rarr; <strong>1600</strong><br />(-18 for losing)
+|raw|rockeater9000's rating: 1654 &rarr; <strong>1672</strong><br />(+18 for winning)
+|l|☆Brassendaer
+|player|p1|
+|l|☆rockeater9000
+|player|p2|

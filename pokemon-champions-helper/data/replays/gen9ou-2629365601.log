@@ -1,0 +1,361 @@
+|j|☆somsleep
+|j|☆The median voter
+|t:|1781123175
+|gametype|singles
+|player|p1|somsleep|2|1547
+|player|p2|The median voter|scientist-gen4dp|1556
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Abomasnow, M|
+|poke|p1|Cetitan, F|
+|poke|p1|Rotom|
+|poke|p1|Illumise, F|
+|poke|p1|Keldeo-Resolute|
+|poke|p1|Iron Treads|
+|poke|p2|Zapdos|
+|poke|p2|Great Tusk|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Alomomola, M|
+|poke|p2|Scizor, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by somsleep)
+|
+|t:|1781123184
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rotom|Rotom|100/100
+|switch|p2a: Experiment|Scizor, M|100/100
+|turn|1
+|
+|t:|1781123187
+|switch|p2a: Holy Envoy|Alomomola, M|100/100
+|move|p1a: Rotom|Trick|p2a: Holy Envoy
+|-activate|p1a: Rotom|move: Trick|[of] p2a: Holy Envoy
+|-item|p2a: Holy Envoy|Choice Scarf|[from] move: Trick
+|-item|p1a: Rotom|Assault Vest|[from] move: Trick
+|
+|upkeep
+|turn|2
+|
+|t:|1781123194
+|move|p1a: Rotom|Shadow Ball|p2a: Holy Envoy
+|-damage|p2a: Holy Envoy|81/100
+|move|p2a: Holy Envoy|Flip Turn|p1a: Rotom
+|-damage|p1a: Rotom|77/100
+|
+|t:|1781123198
+|switch|p2a: The End of All|Hoopa-Unbound|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|3
+|
+|t:|1781123201
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|move|p2a: The End of All|Psychic Noise|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-crit|p1a: Iron Treads
+|-damage|p1a: Iron Treads|52/100
+|-start|p1a: Iron Treads|move: Heal Block
+|
+|upkeep
+|turn|4
+|
+|t:|1781123206
+|move|p1a: Iron Treads|Stealth Rock|p2a: The End of All
+|-sidestart|p2: The median voter|move: Stealth Rock
+|move|p2a: The End of All|Drain Punch|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|2/100
+|
+|-end|p1a: Iron Treads|move: Heal Block
+|upkeep
+|turn|5
+|
+|t:|1781123214
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Illumise|Illumise, F|100/100
+|move|p2a: The End of All|Psychic Noise|p1a: Illumise
+|-damage|p1a: Illumise|42/100
+|-start|p1a: Illumise|move: Heal Block
+|-enditem|p1a: Illumise|Eject Button
+|
+|t:|1781123219
+|switch|p1a: Abomasnow|Abomasnow, M, shiny|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Abomasnow
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781123223
+|move|p1a: Abomasnow|Aurora Veil|p1a: Abomasnow
+|-sidestart|p1: somsleep|move: Aurora Veil
+|move|p2a: The End of All|Psychic Noise|p1a: Abomasnow
+|-damage|p1a: Abomasnow|73/100
+|-start|p1a: Abomasnow|move: Heal Block
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781123227
+|move|p1a: Abomasnow|Blizzard|p2a: The End of All
+|-damage|p2a: The End of All|74/100
+|move|p2a: The End of All|Drain Punch|p1a: Abomasnow
+|-supereffective|p1a: Abomasnow
+|-damage|p1a: Abomasnow|50/100
+|-heal|p2a: The End of All|85/100|[from] drain|[of] p1a: Abomasnow
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Abomasnow|move: Heal Block
+|upkeep
+|turn|8
+|
+|t:|1781123233
+|switch|p1a: Iron Treads|Iron Treads|2/100
+|move|p2a: The End of All|Drain Punch|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-heal|p2a: The End of All|85/100|[from] drain|[of] p1a: Iron Treads
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781123236
+|switch|p1a: Cetitan|Cetitan, F|100/100
+|turn|9
+|
+|t:|1781123243
+|move|p1a: Cetitan|Belly Drum|p1a: Cetitan
+|-damage|p1a: Cetitan|50/100
+|-setboost|p1a: Cetitan|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Cetitan|Sitrus Berry|[eat]
+|-heal|p1a: Cetitan|75/100|[from] item: Sitrus Berry
+|move|p2a: The End of All|Drain Punch|p1a: Cetitan
+|-supereffective|p1a: Cetitan
+|-damage|p1a: Cetitan|59/100
+|-heal|p2a: The End of All|96/100|[from] drain|[of] p1a: Cetitan
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781123246
+|move|p1a: Cetitan|Earthquake|p2a: The End of All
+|-damage|p2a: The End of All|0 fnt
+|faint|p2a: The End of All
+|
+|-weather|Snowscape|[upkeep]
+|-sideend|p1: somsleep|move: Aurora Veil
+|upkeep
+|
+|t:|1781123249
+|switch|p2a: Experiment|Scizor, M|100/100
+|-damage|p2a: Experiment|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1781123256
+|-terastallize|p1a: Cetitan|Ghost
+|move|p2a: Experiment|Bullet Punch|p1a: Cetitan
+|-damage|p1a: Cetitan|15/100
+|move|p1a: Cetitan|Earthquake|p2a: Experiment
+|-damage|p2a: Experiment|0 fnt
+|faint|p2a: Experiment
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781123275
+|switch|p2a: Holy Envoy|Alomomola, M|100/100
+|-damage|p2a: Holy Envoy|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781123277
+|move|p1a: Cetitan|Earthquake|p2a: Holy Envoy
+|-damage|p2a: Holy Envoy|0 fnt
+|faint|p2a: Holy Envoy
+|
+|-weather|none
+|upkeep
+|
+|t:|1781123279
+|switch|p2a: Acolyte|Iron Valiant|100/100
+|-damage|p2a: Acolyte|94/100|[from] Stealth Rock
+|-enditem|p2a: Acolyte|Booster Energy
+|-activate|p2a: Acolyte|ability: Quark Drive|[fromitem]
+|-start|p2a: Acolyte|quarkdrivespe
+|turn|13
+|
+|t:|1781123281
+|move|p1a: Cetitan|Ice Shard|p2a: Acolyte
+|-damage|p2a: Acolyte|0 fnt
+|faint|p2a: Acolyte
+|-end|p2a: Acolyte|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781123284
+|switch|p2a: Templar|Great Tusk|100/100
+|turn|14
+|
+|t:|1781123286
+|-terastallize|p2a: Templar|Steel
+|move|p1a: Cetitan|Ice Shard|p2a: Templar
+|-resisted|p2a: Templar
+|-damage|p2a: Templar|73/100
+|move|p2a: Templar|Ice Spinner|p1a: Cetitan
+|-damage|p1a: Cetitan|0 fnt
+|faint|p1a: Cetitan
+|
+|upkeep
+|
+|t:|1781123291
+|switch|p1a: Illumise|Illumise, F|42/100
+|turn|15
+|
+|t:|1781123294
+|move|p1a: Illumise|Encore|p2a: Templar
+|-start|p2a: Templar|Encore
+|move|p2a: Templar|Ice Spinner|p1a: Illumise
+|-damage|p1a: Illumise|16/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781123296
+|switch|p1a: Keldeo|Keldeo-Resolute|100/100
+|move|p2a: Templar|Ice Spinner|p1a: Keldeo
+|-resisted|p1a: Keldeo
+|-damage|p1a: Keldeo|84/100
+|
+|-heal|p1a: Keldeo|90/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781123298
+|-end|p2a: Templar|Protosynthesis|[silent]
+|switch|p2a: Preacher|Zapdos|100/100
+|move|p1a: Keldeo|Surf|p2a: Preacher
+|-damage|p2a: Preacher|58/100
+|
+|-heal|p1a: Keldeo|96/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781123302
+|switch|p1a: Rotom|Rotom|77/100
+|move|p2a: Preacher|Roost|p2a: Preacher
+|-heal|p2a: Preacher|100/100
+|-singleturn|p2a: Preacher|move: Roost
+|
+|upkeep
+|turn|19
+|
+|t:|1781123304
+|move|p1a: Rotom|Shadow Ball|p2a: Preacher
+|-damage|p2a: Preacher|73/100
+|move|p2a: Preacher|Discharge|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|60/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781123308
+|move|p1a: Rotom|Shadow Ball|p2a: Preacher
+|-damage|p2a: Preacher|45/100
+|move|p2a: Preacher|U-turn|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|50/100
+|
+|t:|1781123310
+|switch|p2a: Templar|Great Tusk, tera:Steel|73/100|[from] U-turn
+|
+|upkeep
+|turn|21
+|
+|t:|1781123314
+|move|p1a: Rotom|Shadow Ball|p2a: Templar
+|-damage|p2a: Templar|32/100
+|move|p2a: Templar|Stealth Rock|p1a: Rotom
+|-sidestart|p1: somsleep|move: Stealth Rock
+|
+|upkeep
+|turn|22
+|
+|t:|1781123319
+|move|p1a: Rotom|Shadow Ball|p2a: Templar
+|-crit|p2a: Templar
+|-damage|p2a: Templar|0 fnt
+|faint|p2a: Templar
+|-end|p2a: Templar|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781123320
+|switch|p2a: Preacher|Zapdos|45/100
+|turn|23
+|
+|t:|1781123322
+|move|p1a: Rotom|Shadow Ball|p2a: Preacher
+|-damage|p2a: Preacher|18/100
+|move|p2a: Preacher|Roost|p2a: Preacher
+|-heal|p2a: Preacher|68/100
+|-singleturn|p2a: Preacher|move: Roost
+|
+|upkeep
+|turn|24
+|
+|t:|1781123323
+|move|p1a: Rotom|Shadow Ball|p2a: Preacher
+|-damage|p2a: Preacher|39/100
+|-unboost|p2a: Preacher|spd|1
+|move|p2a: Preacher|Roost|p2a: Preacher
+|-heal|p2a: Preacher|89/100
+|-singleturn|p2a: Preacher|move: Roost
+|
+|upkeep
+|turn|25
+|
+|t:|1781123325
+|move|p1a: Rotom|Shadow Ball|p2a: Preacher
+|-damage|p2a: Preacher|47/100
+|-unboost|p2a: Preacher|spd|1
+|move|p2a: Preacher|Hurricane|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|27/100
+|-start|p1a: Rotom|confusion
+|
+|upkeep
+|turn|26
+|
+|t:|1781123327
+|-activate|p1a: Rotom|confusion
+|move|p1a: Rotom|Shadow Ball|p2a: Preacher
+|-damage|p2a: Preacher|0 fnt
+|faint|p2a: Preacher
+|
+|win|somsleep
+|raw|somsleep's rating: 1547 &rarr; <strong>1568</strong><br />(+21 for winning)
+|raw|The median voter's rating: 1556 &rarr; <strong>1535</strong><br />(-21 for losing)
+|l|☆The median voter
+|player|p2|
+|l|☆somsleep
+|player|p1|

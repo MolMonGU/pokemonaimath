@@ -1,0 +1,376 @@
+|j|☆mythiixx
+|j|☆Roseofrosarade
+|t:|1781385500
+|gametype|singles
+|player|p1|mythiixx|valerie|1791
+|player|p2|Roseofrosarade|1|1695
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Iron Hands|
+|poke|p1|Ceruledge, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Glimmora, F|
+|poke|p2|Garchomp, F|
+|poke|p2|Alomomola, M|
+|poke|p2|Gholdengo|
+|poke|p2|Zamazenta-*|
+|poke|p2|Clefable, F|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|
+|t:|1781385513
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|1
+|
+|t:|1781385521
+|move|p1a: Deoxys|Reflect|p1a: Deoxys
+|-sidestart|p1: mythiixx|Reflect
+|move|p2a: Tornadus|Knock Off|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|75/100
+|-enditem|p1a: Deoxys|Light Clay|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|upkeep
+|turn|2
+|
+|t:|1781385535
+|move|p2a: Tornadus|U-turn|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|57/100
+|
+|t:|1781385536
+|switch|p2a: Garchomp|Garchomp, F|100/100|[from] U-turn
+|move|p1a: Deoxys|Teleport|p1a: Deoxys
+|
+|t:|1781385542
+|switch|p1a: Iron Valiant|Iron Valiant|100/100|[from] Teleport
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|
+|upkeep
+|turn|3
+|
+|t:|1781385547
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|58/100
+|
+|-heal|p2a: Clefable|64/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781385554
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|move|p2a: Clefable|Moonblast|p1a: Glimmora
+|-resisted|p1a: Glimmora
+|-damage|p1a: Glimmora|85/100
+|-enditem|p1a: Glimmora|Red Card|[of] p2a: Clefable
+|drag|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|
+|upkeep
+|turn|5
+|
+|t:|1781385563
+|move|p2a: Zamazenta|Heavy Slam|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|63/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: Roseofrosarade|move: Toxic Spikes
+|move|p1a: Glimmora|Spikes|p2a: Zamazenta
+|-sidestart|p2: Roseofrosarade|Spikes
+|
+|upkeep
+|turn|6
+|
+|t:|1781385567
+|move|p2a: Zamazenta|Close Combat|p1a: Glimmora
+|-damage|p1a: Glimmora|42/100
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: Roseofrosarade|move: Toxic Spikes
+|move|p1a: Glimmora|Stealth Rock|p2a: Zamazenta
+|-sidestart|p2: Roseofrosarade|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1781385570
+|move|p2a: Zamazenta|Close Combat|p1a: Glimmora
+|-damage|p1a: Glimmora|22/100
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|move|p1a: Glimmora|Mortal Spin|p2a: Zamazenta
+|-damage|p2a: Zamazenta|93/100
+|-status|p2a: Zamazenta|psn
+|
+|-damage|p2a: Zamazenta|80/100 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781385576
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|move|p2a: Zamazenta|Heavy Slam|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|91/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|
+|-damage|p2a: Zamazenta|68/100 psn|[from] psn
+|-sideend|p1: mythiixx|Reflect
+|upkeep
+|turn|9
+|
+|t:|1781385586
+|move|p1a: Ceruledge|Bitter Blade|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|-heal|p1a: Ceruledge|100/100|[from] drain|[of] p2a: Zamazenta
+|faint|p2a: Zamazenta
+|-damage|p1a: Ceruledge|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781385590
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|turn|10
+|
+|t:|1781385599
+|switch|p1a: Glimmora|Glimmora, F|22/100
+|move|p2a: Garchomp|Earthquake|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1781385604
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|turn|11
+|
+|t:|1781385609
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|88/100|[from] Spikes
+|-damage|p2a: Gholdengo|82/100|[from] Stealth Rock
+|move|p1a: Iron Valiant|Moonblast|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|53/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781385618
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Iron Hands|Iron Hands|100/100
+|-enditem|p1a: Iron Hands|Booster Energy
+|-activate|p1a: Iron Hands|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Hands|quarkdriveatk
+|move|p2a: Gholdengo|Shadow Ball|p1a: Iron Hands
+|-damage|p1a: Iron Hands|60/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781385626
+|move|p2a: Gholdengo|Shadow Ball|p1a: Iron Hands
+|-damage|p1a: Iron Hands|18/100
+|move|p1a: Iron Hands|Ice Punch|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|30/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781385633
+|move|p2a: Gholdengo|Shadow Ball|p1a: Iron Hands
+|-damage|p1a: Iron Hands|0 fnt
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781385637
+|switch|p1a: Ceruledge|Ceruledge, F|91/100
+|turn|15
+|
+|t:|1781385640
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Garchomp
+|-damage|p2a: Garchomp|83/100
+|-damage|p1a: Ceruledge|78/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Ceruledge|68/100|[from] item: Life Orb
+|
+|upkeep
+|turn|16
+|
+|t:|1781385646
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|move|p2a: Garchomp|Earthquake|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|40/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781385661
+|switch|p2a: Clefable|Clefable, F|64/100
+|-status|p2a: Clefable|tox
+|move|p1a: Iron Valiant|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|22/100 tox
+|-unboost|p2a: Clefable|spa|1
+|
+|-heal|p2a: Clefable|28/100 tox|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781385667
+|move|p1a: Iron Valiant|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1781385669
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|19
+|
+|t:|1781385674
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Deoxys|Deoxys-Speed|57/100
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Deoxys
+|-damage|p1a: Deoxys|13/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781385681
+|move|p1a: Deoxys|Light Screen|p1a: Deoxys
+|-sidestart|p1: mythiixx|move: Light Screen
+|move|p2a: Tornadus|U-turn|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-crit|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|t:|1781385685
+|switch|p2a: Alomomola|Alomomola, M|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781385689
+|switch|p1a: Ceruledge|Ceruledge, F|68/100
+|turn|21
+|
+|t:|1781385696
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|move|p2a: Alomomola|Scald|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|53/100
+|
+|upkeep
+|turn|22
+|
+|t:|1781385707
+|switch|p2a: Gholdengo|Gholdengo|30/100
+|-damage|p2a: Gholdengo|18/100|[from] Spikes
+|-damage|p2a: Gholdengo|12/100|[from] Stealth Rock
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|upkeep
+|turn|23
+|
+|t:|1781385715
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|-damage|p1a: Ceruledge|43/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781385717
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|24
+|
+|t:|1781385723
+|-terastallize|p1a: Ceruledge|Ghost
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|-damage|p1a: Ceruledge|33/100|[from] item: Life Orb
+|
+|-sideend|p1: mythiixx|move: Light Screen
+|upkeep
+|
+|t:|1781385728
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|turn|25
+|
+|t:|1781385734
+|move|p1a: Ceruledge|Bitter Blade|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|51/100
+|-heal|p1a: Ceruledge|79/100|[from] drain|[of] p2a: Alomomola
+|-damage|p1a: Ceruledge|69/100|[from] item: Life Orb
+|move|p2a: Alomomola|Flip Turn|p1a: Ceruledge
+|-damage|p1a: Ceruledge|48/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|
+|t:|1781385742
+|switch|p2a: Garchomp|Garchomp, F|83/100|[from] Flip Turn
+|
+|upkeep
+|turn|26
+|
+|t:|1781385745
+|move|p1a: Ceruledge|Poltergeist|p2a: Garchomp
+|-activate|p2a: Garchomp|move: Poltergeist|Heavy-Duty Boots
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|-damage|p1a: Ceruledge|38/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781385747
+|switch|p2a: Alomomola|Alomomola, M|84/100
+|turn|27
+|
+|t:|1781385749
+|move|p1a: Ceruledge|Poltergeist|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Poltergeist|Heavy-Duty Boots
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|-damage|p1a: Ceruledge|28/100|[from] item: Life Orb
+|
+|win|mythiixx
+|raw|mythiixx's rating: 1791 &rarr; <strong>1806</strong><br />(+15 for winning)
+|raw|Roseofrosarade's rating: 1695 &rarr; <strong>1680</strong><br />(-15 for losing)
+|l|☆Roseofrosarade
+|player|p2|
+|l|☆mythiixx
+|player|p1|

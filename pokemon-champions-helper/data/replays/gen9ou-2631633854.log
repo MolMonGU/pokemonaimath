@@ -1,0 +1,240 @@
+|j|☆razerblake
+|j|☆LowEL0God
+|t:|1781412151
+|gametype|singles
+|player|p1|razerblake|tuberf|1518
+|player|p2|LowEL0God|265|1566
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hawlucha, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Gholdengo|
+|poke|p1|Kyurem|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by razerblake)
+|c|☆LowEL0God|hf
+|inactive|LowEL0God also wants the timer to be on.
+|
+|t:|1781412157
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|c|☆razerblake|y2
+|
+|t:|1781412161
+|move|p1a: Kyurem|Focus Blast|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|
+|upkeep
+|
+|t:|1781412163
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|2
+|
+|t:|1781412165
+|move|p2a: Barraskewda|Close Combat|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781412169
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|3
+|
+|t:|1781412170
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781412172
+|move|p1a: Rillaboom|Wood Hammer|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|-damage|p1a: Rillaboom|72/100|[from] Recoil
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rillaboom|78/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781412174
+|switch|p2a: Overqwil|Overqwil, F|100/100
+|turn|5
+|
+|t:|1781412178
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Overqwil|atk|1
+|move|p2a: Overqwil|Gunk Shot|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|73/100
+|-damage|p2a: Overqwil|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Overqwil|97/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781412183
+|move|p2a: Overqwil|Swords Dance|p2a: Overqwil
+|-boost|p2a: Overqwil|atk|2
+|move|p1a: Landorus|Earth Power|p2a: Overqwil
+|-supereffective|p2a: Overqwil
+|-damage|p2a: Overqwil|4/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Overqwil|10/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781412185
+|move|p2a: Overqwil|Crunch|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-damage|p2a: Overqwil|0 fnt|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p1a: Landorus
+|faint|p2a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781412188
+|switch|p1a: Rillaboom|Rillaboom, F|78/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|8
+|
+|t:|1781412193
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Raging Bolt|Thunder|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781412197
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|turn|9
+|
+|t:|1781412201
+|move|p1a: Samurott|Sucker Punch|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|75/100
+|move|p2a: Raging Bolt|Thunder|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Raging Bolt|82/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781412203
+|switch|p1a: Rillaboom|Rillaboom, F|78/100
+|turn|10
+|
+|t:|1781412205
+|move|p1a: Rillaboom|Grassy Glide|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|65/100
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Rillaboom
+|
+|-weather|none
+|-heal|p2a: Raging Bolt|71/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781412208
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p1a: Hawlucha|Grassy Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Grassy Seed
+|turn|11
+|
+|t:|1781412210
+|-terastallize|p1a: Hawlucha|Steel
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|67/100
+|-unboost|p2a: Raging Bolt|spa|2
+|
+|-heal|p1a: Hawlucha|73/100|[from] Grassy Terrain
+|-heal|p2a: Raging Bolt|77/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781412213
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|move|p1a: Hawlucha|Low Kick|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-heal|p1a: Hawlucha|79/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781412214
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|13
+|
+|t:|1781412221
+|-terastallize|p2a: Iron Treads|Ghost
+|move|p1a: Hawlucha|Acrobatics|p2a: Iron Treads
+|-damage|p2a: Iron Treads|14/100
+|move|p2a: Iron Treads|Earth Power|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|win|LowEL0God
+|raw|razerblake's rating: 1518 &rarr; <strong>1501</strong><br />(-17 for losing)
+|raw|LowEL0God's rating: 1566 &rarr; <strong>1583</strong><br />(+17 for winning)
+|l|☆razerblake
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|

@@ -1,0 +1,223 @@
+|j|☆amiruae
+|j|☆Walvis Timmy
+|t:|1781461726
+|gametype|singles
+|player|p1|amiruae|palmer|1507
+|player|p2|Walvis Timmy|170|1577
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Zamazenta-*|
+|poke|p1|Greninja-*, M|
+|poke|p1|Salamence, M|
+|poke|p1|Porygon-Z|
+|poke|p1|Volcanion|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Alomomola, F|
+|poke|p2|Iron Treads|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Lokix, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by amiruae)
+|
+|t:|1781461752
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Greninja|Greninja, M|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|1
+|
+|t:|1781461777
+|move|p1a: Greninja|Dark Pulse|p2a: Tornadus
+|-start|p1a: Greninja|typechange|Dark|[from] ability: Protean
+|-damage|p2a: Tornadus|64/100
+|move|p2a: Tornadus|U-turn|p1a: Greninja
+|-supereffective|p1a: Greninja
+|-crit|p1a: Greninja
+|-damage|p1a: Greninja|25/100
+|
+|t:|1781461783
+|switch|p2a: Lokix|Lokix, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1781461792
+|switch|p1a: Salamence|Salamence, M|100/100
+|-ability|p1a: Salamence|Intimidate|boost
+|-unboost|p2a: Lokix|atk|1
+|move|p2a: Lokix|U-turn|p1a: Salamence
+|-resisted|p1a: Salamence
+|-damage|p1a: Salamence|59/100
+|
+|t:|1781461804
+|switch|p2a: Zamazenta|Zamazenta|100/100|[from] U-turn
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781461810
+|move|p2a: Zamazenta|Stone Edge|p1a: Salamence|[miss]
+|-miss|p2a: Zamazenta|p1a: Salamence
+|move|p1a: Salamence|Dragon Dance|p1a: Salamence
+|-boost|p1a: Salamence|atk|1
+|-boost|p1a: Salamence|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1781461820
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Salamence|Hurricane|p2a: Alomomola
+|-damage|p2a: Alomomola|64/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781461828
+|move|p1a: Salamence|Outrage|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|-damage|p1a: Salamence|42/100|[from] item: Rocky Helmet|[of] p2a: Alomomola
+|faint|p2a: Alomomola
+|
+|upkeep
+|
+|t:|1781461833
+|switch|p2a: Lokix|Lokix, M|100/100
+|turn|6
+|
+|t:|1781461835
+|move|p2a: Lokix|First Impression|p1a: Salamence
+|-resisted|p1a: Salamence
+|-crit|p1a: Salamence
+|-damage|p1a: Salamence|0 fnt
+|faint|p1a: Salamence
+|
+|upkeep
+|
+|t:|1781461851
+|switch|p1a: Porygon-Z|Porygon-Z|100/100
+|turn|7
+|
+|t:|1781461855
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Porygon-Z|Ice Beam|p2a: Iron Treads
+|-damage|p2a: Iron Treads|63/100
+|-status|p2a: Iron Treads|frz
+|
+|-heal|p2a: Iron Treads|69/100 frz|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781461864
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|cant|p2a: Iron Treads|frz
+|
+|-heal|p2a: Iron Treads|75/100 frz|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781461869
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Lokix|Lokix, M|100/100
+|move|p1a: Samurott|Ceaseless Edge|p2a: Lokix
+|-resisted|p2a: Lokix
+|-damage|p2a: Lokix|62/100
+|-sidestart|p2: Walvis Timmy|Spikes
+|
+|upkeep
+|turn|10
+|
+|t:|1781461877
+|move|p2a: Lokix|First Impression|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781461886
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|11
+|
+|t:|1781461888
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|-damage|p2a: Weezing|88/100|[from] Spikes
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|-heal|p2a: Weezing|94/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781461896
+|-terastallize|p1a: Zamazenta|Steel
+|move|p1a: Zamazenta|Heavy Slam|p2a: Weezing
+|-supereffective|p2a: Weezing
+|-damage|p2a: Weezing|29/100
+|move|p2a: Weezing|Toxic|p1a: Zamazenta
+|-immune|p1a: Zamazenta
+|
+|-heal|p2a: Weezing|35/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781461922
+|move|p2a: Weezing|Protect|p2a: Weezing
+|-singleturn|p2a: Weezing|Protect
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|-heal|p2a: Weezing|41/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|Walvis Timmy has 120 seconds left.
+|
+|t:|1781461944
+|move|p1a: Zamazenta|Heavy Slam|p2a: Weezing
+|-supereffective|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|
+|upkeep
+|
+|t:|1781461951
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-damage|p2a: Zamazenta|88/100|[from] Spikes
+|turn|15
+|
+|t:|1781461954
+|-terastallize|p2a: Zamazenta|Steel
+|move|p1a: Zamazenta|Body Press|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|-message|Walvis Timmy forfeited.
+|
+|win|amiruae
+|raw|amiruae's rating: 1507 &rarr; <strong>1531</strong><br />(+24 for winning)
+|raw|Walvis Timmy's rating: 1577 &rarr; <strong>1553</strong><br />(-24 for losing)
+|l|☆Walvis Timmy
+|player|p2|
+|l|☆amiruae
+|player|p1|

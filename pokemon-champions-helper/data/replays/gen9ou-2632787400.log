@@ -1,0 +1,323 @@
+|j|☆LowEL0God
+|j|☆the small cow
+|t:|1781562122
+|gametype|singles
+|player|p1|LowEL0God|265|1571
+|player|p2|the small cow|n|1613
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Latias, F|
+|poke|p2|Mimikyu, F|
+|poke|p2|Glimmora, F|
+|poke|p2|Kingambit, F|
+|poke|p2|Iron Boulder|
+|poke|p2|Iron Moth|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|inactive|the small cow has 120 seconds left.
+|
+|t:|1781562181
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|switch|p2a: Senbonzakura|Glimmora, F|100/100
+|turn|1
+|
+|t:|1781562185
+|move|p2a: Senbonzakura|Stealth Rock|p1a: Kingambit
+|-sidestart|p1: LowEL0God|move: Stealth Rock
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781562190
+|move|p2a: Senbonzakura|Earth Power|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|41/100
+|-unboost|p1a: Kingambit|spd|1
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Senbonzakura
+|-enditem|p2a: Senbonzakura|Focus Sash
+|-damage|p2a: Senbonzakura|1/100
+|-activate|p2a: Senbonzakura|ability: Toxic Debris
+|-sidestart|p1: LowEL0God|move: Toxic Spikes
+|
+|-heal|p1a: Kingambit|47/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781562198
+|move|p1a: Kingambit|Sucker Punch|p2a: Senbonzakura
+|-damage|p2a: Senbonzakura|0 fnt
+|-activate|p2a: Senbonzakura|ability: Toxic Debris
+|-sidestart|p1: LowEL0God|move: Toxic Spikes
+|faint|p2a: Senbonzakura
+|
+|-heal|p1a: Kingambit|54/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781562206
+|switch|p2a: Portal|Iron Moth|100/100
+|-enditem|p2a: Portal|Booster Energy
+|-activate|p2a: Portal|ability: Quark Drive|[fromitem]
+|-start|p2a: Portal|quarkdrivespe
+|turn|4
+|
+|t:|1781562208
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|move|p2a: Portal|Substitute|p2a: Portal
+|-start|p2a: Portal|Substitute
+|-damage|p2a: Portal|76/100
+|
+|-heal|p1a: Kingambit|60/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781562211
+|move|p1a: Kingambit|Sucker Punch|p2a: Portal
+|-end|p2a: Portal|Substitute
+|move|p2a: Portal|Fiery Dance|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|
+|upkeep
+|
+|t:|1781562212
+|switch|p1a: Overqwil|Overqwil, M|100/100
+|-damage|p1a: Overqwil|88/100|[from] Stealth Rock
+|-sideend|p1: LowEL0God|move: Toxic Spikes|[of] p1a: Overqwil
+|turn|6
+|
+|t:|1781562218
+|move|p2a: Portal|Fiery Dance|p1a: Overqwil
+|-damage|p1a: Overqwil|25/100
+|-boost|p2a: Portal|spa|1
+|move|p1a: Overqwil|Crunch|p2a: Portal
+|-damage|p2a: Portal|2/100
+|-damage|p1a: Overqwil|15/100|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|
+|t:|1781562221
+|move|p2a: Portal|Fiery Dance|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|faint|p1a: Overqwil
+|
+|upkeep
+|
+|t:|1781562222
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-damage|p1a: Raging Bolt|88/100|[from] Stealth Rock
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|8
+|
+|t:|1781562225
+|move|p1a: Raging Bolt|Thunderclap|p2a: Portal
+|-damage|p2a: Portal|0 fnt
+|faint|p2a: Portal
+|-end|p2a: Portal|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781562231
+|switch|p2a: Mimikyute|Mimikyu, F|100/100
+|turn|9
+|
+|t:|1781562236
+|move|p2a: Mimikyute|Swords Dance|p2a: Mimikyute
+|-boost|p2a: Mimikyute|atk|2
+|move|p1a: Raging Bolt|Thunder|p2a: Mimikyute
+|-activate|p2a: Mimikyute|ability: Disguise
+|-damage|p2a: Mimikyute|100/100
+|detailschange|p2a: Mimikyute|Mimikyu-Busted, F
+|-damage|p2a: Mimikyute|88/100|[from] pokemon: Mimikyu-Busted
+|
+|upkeep
+|turn|10
+|
+|t:|1781562238
+|move|p1a: Raging Bolt|Thunderclap|p2a: Mimikyute
+|-damage|p2a: Mimikyute|22/100
+|move|p2a: Mimikyute|Play Rough|p1a: Raging Bolt|[miss]
+|-miss|p2a: Mimikyute|p1a: Raging Bolt
+|
+|upkeep
+|turn|11
+|
+|t:|1781562245
+|move|p2a: Mimikyute|Shadow Sneak|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|49/100
+|-damage|p2a: Mimikyute|12/100|[from] item: Life Orb
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|
+|upkeep
+|turn|12
+|
+|t:|1781562249
+|move|p2a: Mimikyute|Shadow Sneak|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|9/100
+|-damage|p2a: Mimikyute|2/100|[from] item: Life Orb
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|
+|upkeep
+|turn|13
+|
+|t:|1781562251
+|move|p2a: Mimikyute|Shadow Sneak|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|-damage|p2a: Mimikyute|0 fnt|[from] item: Life Orb
+|faint|p2a: Mimikyute
+|
+|upkeep
+|
+|t:|1781562257
+|switch|p2a: Latinas|Latias, F|100/100
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-damage|p1a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|14
+|
+|t:|1781562273
+|-terastallize|p2a: Latinas|Poison
+|move|p2a: Latinas|Calm Mind|p2a: Latinas
+|-boost|p2a: Latinas|spa|1
+|-boost|p2a: Latinas|spd|1
+|move|p1a: Pelipper|U-turn|p2a: Latinas
+|-resisted|p2a: Latinas
+|-damage|p2a: Latinas|96/100
+|-enditem|p2a: Latinas|Kee Berry|[eat]
+|-boost|p2a: Latinas|def|1|[from] item: Kee Berry
+|
+|t:|1781562274
+|switch|p1a: Barraskewda|Barraskewda, M|100/100|[from] U-turn
+|-damage|p1a: Barraskewda|88/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781562284
+|-terastallize|p1a: Barraskewda|Water
+|move|p1a: Barraskewda|Liquidation|p2a: Latinas
+|-damage|p2a: Latinas|2/100
+|move|p2a: Latinas|Draining Kiss|p1a: Barraskewda
+|-crit|p1a: Barraskewda
+|-damage|p1a: Barraskewda|25/100
+|-heal|p2a: Latinas|37/100|[from] drain|[of] p1a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781562294
+|move|p1a: Barraskewda|Liquidation|p2a: Latinas
+|-damage|p2a: Latinas|0 fnt
+|faint|p2a: Latinas
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781562296
+|switch|p2a: Kanaria|Kingambit, F|100/100
+|-activate|p2a: Kanaria|ability: Supreme Overlord
+|-start|p2a: Kanaria|fallen4|[silent]
+|turn|17
+|
+|t:|1781562300
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-damage|p1a: Iron Treads|97/100|[from] Stealth Rock
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|move|p2a: Kanaria|Sucker Punch||[still]
+|-fail|p2a: Kanaria
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781562305
+|move|p1a: Iron Treads|Earth Power|p2a: Kanaria
+|-supereffective|p2a: Kanaria
+|-damage|p2a: Kanaria|15/100
+|move|p2a: Kanaria|Kowtow Cleave|p1a: Iron Treads
+|-damage|p1a: Iron Treads|28/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781562309
+|move|p2a: Kanaria|Sucker Punch|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781562309
+|switch|p1a: Barraskewda|Barraskewda, M, tera:Water|25/100
+|-damage|p1a: Barraskewda|12/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1781562313
+|move|p1a: Barraskewda|Aqua Jet|p2a: Kanaria
+|-damage|p2a: Kanaria|0 fnt
+|faint|p2a: Kanaria
+|-end|p2a: Kanaria|fallen4|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781562314
+|switch|p2a: Smithy|Iron Boulder|100/100
+|-enditem|p2a: Smithy|Booster Energy
+|-activate|p2a: Smithy|ability: Quark Drive|[fromitem]
+|-start|p2a: Smithy|quarkdrivespe
+|turn|21
+|
+|t:|1781562319
+|move|p1a: Barraskewda|Aqua Jet|p2a: Smithy
+|-supereffective|p2a: Smithy
+|-damage|p2a: Smithy|0 fnt
+|faint|p2a: Smithy
+|-end|p2a: Smithy|Quark Drive|[silent]
+|
+|win|LowEL0God
+|raw|LowEL0God's rating: 1571 &rarr; <strong>1593</strong><br />(+22 for winning)
+|raw|the small cow's rating: 1613 &rarr; <strong>1591</strong><br />(-22 for losing)
+|l|☆the small cow
+|player|p2|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p1|

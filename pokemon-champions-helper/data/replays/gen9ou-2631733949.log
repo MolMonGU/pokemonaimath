@@ -1,0 +1,355 @@
+|j|☆151htyrneh
+|j|☆healorant
+|t:|1781430700
+|gametype|singles
+|player|p1|151htyrneh|skyla|1830
+|player|p2|healorant|alder|1760
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ninetales, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Walking Wake|
+|poke|p1|Raging Bolt|
+|poke|p1|Kingambit, M|
+|poke|p2|Heatran, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Dragonite, M|
+|poke|p2|Clefable, F|
+|poke|p2|Gliscor, M|
+|poke|p2|Zarude|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 151htyrneh)
+|
+|t:|1781430728
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1781430738
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|move|p2a: Gliscor|Protect||[still]
+|-fail|p2a: Gliscor
+|
+|-weather|SunnyDay|[upkeep]
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781430746
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|-terastallize|p2a: Gliscor|Water
+|move|p2a: Gliscor|Toxic Spikes|p1a: Hatterene
+|move|p1a: Hatterene|Toxic Spikes|p2a: Gliscor|[from] ability: Magic Bounce
+|-sidestart|p2: healorant|move: Toxic Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781430754
+|move|p2a: Gliscor|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|51/100
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781430755
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781430758
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Raging Bolt|Volt Switch|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781430763
+|switch|p2a: Zarude|Zarude|100/100
+|move|p1a: Raging Bolt|Volt Switch|p2a: Zarude
+|-resisted|p2a: Zarude
+|-damage|p2a: Zarude|58/100
+|
+|t:|1781430765
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Walking Wake|Walking Wake|100/100|[from] Volt Switch
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781430769
+|switch|p2a: Clefable|Clefable, F|100/100
+|-status|p2a: Clefable|psn
+|move|p1a: Walking Wake|Flamethrower|p2a: Clefable
+|-damage|p2a: Clefable|50/100 psn
+|-damage|p1a: Walking Wake|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781430773
+|switch|p2a: Gliscor|Gliscor, M, tera:Water|100/100 tox
+|move|p1a: Walking Wake|Hydro Steam|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|66/100 tox
+|-damage|p1a: Walking Wake|81/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Gliscor|79/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|8
+|
+|t:|1781430777
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|51/100
+|move|p2a: Gliscor|Protect||[still]
+|-fail|p2a: Gliscor
+|
+|-weather|none
+|-heal|p2a: Gliscor|91/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|9
+|
+|t:|1781430780
+|move|p2a: Gliscor|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|4/100
+|move|p1a: Hatterene|Pain Split|p2a: Gliscor
+|-sethp|p2a: Gliscor|47/100 tox|[from] move: Pain Split|[silent]
+|-sethp|p1a: Hatterene|65/100|[from] move: Pain Split
+|
+|-heal|p2a: Gliscor|60/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|10
+|
+|t:|1781430783
+|move|p2a: Gliscor|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|19/100
+|move|p1a: Hatterene|Psychic Noise|p2a: Gliscor
+|-damage|p2a: Gliscor|25/100 tox
+|-start|p2a: Gliscor|move: Heal Block
+|
+|upkeep
+|turn|11
+|
+|t:|1781430792
+|move|p2a: Gliscor|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-end|p2a: Gliscor|move: Heal Block
+|upkeep
+|
+|t:|1781430793
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|12
+|
+|t:|1781430794
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Great Tusk|Headlong Rush|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|38/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|13
+|
+|t:|1781430798
+|switch|p2a: Zarude|Zarude|58/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Zarude
+|-resisted|p2a: Zarude
+|-damage|p2a: Zarude|34/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1781430801
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|move|p2a: Zarude|Power Whip|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|53/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781430806
+|switch|p1a: Walking Wake|Walking Wake|81/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|move|p2a: Zarude|Knock Off|p1a: Walking Wake
+|-damage|p1a: Walking Wake|32/100
+|-enditem|p1a: Walking Wake|Life Orb|[from] move: Knock Off|[of] p2a: Zarude
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781430814
+|move|p1a: Walking Wake|Flamethrower|p2a: Zarude
+|-supereffective|p2a: Zarude
+|-crit|p2a: Zarude
+|-damage|p2a: Zarude|0 fnt
+|faint|p2a: Zarude
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781430820
+|switch|p2a: Gliscor|Gliscor, M, tera:Water|38/100 tox
+|turn|17
+|
+|t:|1781430822
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Walking Wake|Draco Meteor|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Gliscor|50/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|18
+|
+|t:|1781430828
+|switch|p2a: Clefable|Clefable, F|50/100 psn
+|move|p1a: Walking Wake|Hydro Steam|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781430832
+|switch|p2a: Gliscor|Gliscor, M, tera:Water|50/100 tox
+|turn|19
+|
+|t:|1781430835
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Walking Wake|Draco Meteor|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Gliscor|63/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|20
+|
+|t:|1781430839
+|-terastallize|p1a: Walking Wake|Dragon
+|move|p1a: Walking Wake|Draco Meteor|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|-unboost|p1a: Walking Wake|spa|2
+|faint|p2a: Gliscor
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|c|☆healorant|lmao u took notes from last game
+|
+|t:|1781430860
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|turn|21
+|c|☆151htyrneh|Ofc i did
+|c|☆151htyrneh|Lmfao
+|
+|t:|1781430865
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-weather|none
+|-end|p1a: Great Tusk|Protosynthesis
+|upkeep
+|turn|22
+|
+|t:|1781430868
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Great Tusk|Ice Spinner|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|19/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781430872
+|move|p2a: Dragonite|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|54/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|c|☆151htyrneh|Yea ima be honest
+|c|☆151htyrneh|Now that i learned
+|c|☆151htyrneh|Ur tspike
+|c|☆151htyrneh|Yea this shi was a free mu
+|c|☆healorant|yeah
+|c|☆healorant|its ok tho
+|c|☆healorant|it works like this
+|c|☆healorant|gg
+|inactive|healorant has 120 seconds left.
+|c|☆151htyrneh|Bro i think ive gonelike
+|-message|healorant forfeited.
+|
+|win|151htyrneh
+|raw|151htyrneh's rating: 1830 &rarr; <strong>1846</strong><br />(+16 for winning)
+|raw|healorant's rating: 1760 &rarr; <strong>1744</strong><br />(-16 for losing)
+|c|☆151htyrneh|25-3
+|c|☆151htyrneh|Or 25-2
+|c|☆151htyrneh|From 16-1800s
+|c|☆151htyrneh|I might be in the flowstatw
+|c|☆151htyrneh|State
+|c|☆healorant|life orb wake is a threat
+|c|☆151htyrneh|Yea
+|c|☆151htyrneh|Its outrage
+|c|☆healorant|and specs bolt destroys
+|c|☆healorant|anyway gl laddering
+|c|☆151htyrneh|Fat teams
+|c|☆151htyrneh|Yea ty
+|c|☆151htyrneh|Gl to u
+|l|☆healorant
+|player|p2|
+|c|☆151htyrneh|Hope u untilt
+|l|☆151htyrneh
+|player|p1|
+|j|☆151htyrneh
+|player|p1|151htyrneh|skyla|
+|j| Kyurem

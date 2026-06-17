@@ -1,0 +1,257 @@
+|j|☆palmin
+|j|☆TwinkleLittleStars
+|t:|1781430935
+|gametype|singles
+|player|p1|palmin|169|1525
+|player|p2|TwinkleLittleStars|alec-anime|1495
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Crown|
+|poke|p1|Enamorus, F|
+|poke|p1|Zapdos|
+|poke|p1|Kingambit, F|
+|poke|p1|Great Tusk|
+|poke|p1|Glimmora, F|
+|poke|p2|Lilligant, F|
+|poke|p2|Walking Wake|
+|poke|p2|Great Tusk|
+|poke|p2|Ninetales, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Cinderace, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by palmin)
+|
+|t:|1781430940
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Ninetales|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|1
+|
+|t:|1781430947
+|move|p2a: Ninetales|Overheat|p1a: Zapdos
+|-damage|p1a: Zapdos|38/100
+|-unboost|p2a: Ninetales|spa|2
+|move|p1a: Zapdos|Volt Switch|p2a: Ninetales
+|-damage|p2a: Ninetales|62/100
+|
+|t:|1781430952
+|switch|p1a: Glimmora|Glimmora, F|100/100|[from] Volt Switch
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781430954
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Glimmora|Earth Power|p2a: Hatterene
+|-damage|p2a: Hatterene|69/100
+|-enditem|p2a: Hatterene|Eject Button
+|
+|t:|1781430959
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781430961
+|move|p2a: Walking Wake|Hydro Steam|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-enditem|p1a: Glimmora|Focus Sash
+|-damage|p1a: Glimmora|1/100
+|move|p1a: Glimmora|Power Gem|p2a: Walking Wake
+|-damage|p2a: Walking Wake|48/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781430966
+|move|p2a: Walking Wake|Hydro Steam|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781430970
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|-item|p1a: Kingambit|Air Balloon
+|turn|5
+|
+|t:|1781430976
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781430983
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|move|p2a: Great Tusk|Ice Spinner|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-damage|p1a: Enamorus|0 fnt
+|faint|p1a: Enamorus
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781430986
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|turn|7
+|
+|t:|1781430990
+|-terastallize|p1a: Iron Crown|Steel
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Great Tusk
+|-damage|p2a: Great Tusk|49/100
+|-damage|p2a: Great Tusk|2/100
+|-hitcount|p2a: Great Tusk|2
+|move|p2a: Great Tusk|Headlong Rush|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781430996
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|turn|8
+|
+|t:|1781431002
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Lilligant|Lilligant, F|100/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Lilligant
+|-damage|p2a: Lilligant|78/100
+|-boost|p1a: Great Tusk|spe|1
+|
+|-weather|none
+|-end|p1a: Great Tusk|Protosynthesis
+|upkeep
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisspe
+|turn|9
+|
+|t:|1781431006
+|move|p1a: Great Tusk|Ice Spinner|p2a: Lilligant
+|-supereffective|p2a: Lilligant
+|-damage|p2a: Lilligant|6/100
+|move|p2a: Lilligant|Alluring Voice|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|15/100
+|-damage|p2a: Lilligant|0 fnt|[from] item: Life Orb
+|faint|p2a: Lilligant
+|
+|upkeep
+|
+|t:|1781431011
+|switch|p2a: Hatterene|Hatterene, F|69/100
+|turn|10
+|
+|t:|1781431015
+|move|p1a: Great Tusk|Headlong Rush|p2a: Hatterene
+|-damage|p2a: Hatterene|13/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Hatterene|Draining Kiss|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-heal|p2a: Hatterene|29/100|[from] drain|[of] p1a: Great Tusk
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781431020
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|-item|p1a: Kingambit|Air Balloon
+|turn|11
+|
+|t:|1781431023
+|move|p1a: Kingambit|Iron Head|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781431026
+|switch|p2a: Ninetales|Ninetales, M|62/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|12
+|
+|t:|1781431029
+|-end|p1a: Kingambit|fallen4|[silent]
+|switch|p1a: Zapdos|Zapdos|38/100
+|move|p2a: Ninetales|Healing Wish|p2a: Ninetales
+|faint|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781431032
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|turn|13
+|
+|t:|1781431036
+|move|p2a: Cinderace|Pyro Ball|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781431038
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|-item|p1a: Kingambit|Air Balloon
+|turn|14
+|
+|t:|1781431043
+|move|p2a: Cinderace|Pyro Ball|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|-enditem|p1a: Kingambit|Air Balloon
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen5|[silent]
+|
+|win|TwinkleLittleStars
+|raw|palmin's rating: 1525 &rarr; <strong>1503</strong><br />(-22 for losing)
+|raw|TwinkleLittleStars's rating: 1495 &rarr; <strong>1517</strong><br />(+22 for winning)
+|l|☆palmin
+|player|p1|
+|l|☆TwinkleLittleStars
+|player|p2|

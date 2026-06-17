@@ -1,0 +1,166 @@
+|j|☆Kinair
+|j|☆rockeater9000
+|t:|1781360782
+|gametype|singles
+|player|p1|Kinair|101|1581
+|player|p2|rockeater9000|2|1591
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Kingdra, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Iron Treads|
+|poke|p1|Zamazenta-*|
+|poke|p1|Kingambit, M|
+|poke|p2|Greninja-*, M|
+|poke|p2|Glimmora, F|
+|poke|p2|Garchomp, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Kingambit, F|
+|poke|p2|Ceruledge, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by rockeater9000)
+|
+|t:|1781360799
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781360805
+|move|p1a: Iron Treads|Rapid Spin|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|93/100
+|-boost|p1a: Iron Treads|spe|1
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: Kinair|move: Toxic Spikes
+|-sideend|p1: Kinair|Toxic Spikes|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Glimmora|Earth Power|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|19/100
+|-unboost|p1a: Iron Treads|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1781360809
+|switch|p2a: Greninja|Greninja, M|100/100
+|move|p1a: Iron Treads|Earth Power|p2a: Greninja
+|-damage|p2a: Greninja|63/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781360815
+|move|p2a: Greninja|Water Shuriken|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|-ability|p2a: Greninja|Battle Bond|boost
+|-boost|p2a: Greninja|atk|1
+|-boost|p2a: Greninja|spa|1
+|-boost|p2a: Greninja|spe|1
+|-activate|p2a: Greninja|ability: Battle Bond
+|-hitcount|p1: Iron Treads|1
+|
+|upkeep
+|
+|t:|1781360834
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|4
+|
+|t:|1781360838
+|move|p2a: Greninja|Surf|p1a: Zamazenta
+|-damage|p1a: Zamazenta|56/100
+|move|p1a: Zamazenta|Body Press|p2a: Greninja
+|-supereffective|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|faint|p2a: Greninja
+|
+|-heal|p1a: Zamazenta|62/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781360850
+|switch|p2a: Glimmora|Glimmora, F|93/100
+|turn|5
+|
+|t:|1781360855
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Glimmora|Stealth Rock|p1a: Pelipper
+|-sidestart|p1: Kinair|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781360861
+|switch|p1a: Kingdra|Kingdra, M|100/100
+|-damage|p1a: Kingdra|88/100|[from] Stealth Rock
+|move|p2a: Glimmora|Meteor Beam||[still]
+|-prepare|p2a: Glimmora|Meteor Beam
+|-boost|p2a: Glimmora|spa|1
+|-enditem|p2a: Glimmora|Power Herb
+|-anim|p2a: Glimmora|Meteor Beam|p1a: Kingdra
+|-damage|p1a: Kingdra|0 fnt
+|faint|p1a: Kingdra
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781360866
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-damage|p1a: Raging Bolt|88/100|[from] Stealth Rock
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|7
+|
+|t:|1781360868
+|move|p2a: Glimmora|Earth Power|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|l|☆Kinair
+|inactive|Kinair disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|Kinair has 30 seconds to reconnect!
+|l|☆rockeater9000
+|inactive|rockeater9000 disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|Kinair has 20 seconds to reconnect!
+|inactive|Kinair has 15 seconds to reconnect!
+|inactive|Kinair has 10 seconds to reconnect!
+|inactive|Kinair has 5 seconds to reconnect!
+|j|☆rockeater9000
+|inactive|rockeater9000 reconnected.
+|player|p2|rockeater9000|2|
+|-message|Kinair lost due to inactivity.
+|
+|win|rockeater9000
+|raw|Kinair's rating: 1581 &rarr; <strong>1562</strong><br />(-19 for losing)
+|raw|rockeater9000's rating: 1591 &rarr; <strong>1610</strong><br />(+19 for winning)
+|l|☆rockeater9000
+|player|p2|

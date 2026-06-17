@@ -1,0 +1,327 @@
+|j|☆tb poke
+|j|☆extra-pseudo man
+|t:|1781094174
+|gametype|singles
+|player|p1|tb poke|2|1634
+|player|p2|extra-pseudo man|supernerd|1651
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragonite, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Great Tusk|
+|poke|p1|Gholdengo|
+|poke|p1|Iron Moth|
+|poke|p2|Dragonite, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Tyranitar, F|
+|poke|p2|Metagross|
+|poke|p2|Goodra-Hisui, M|
+|poke|p2|Garchomp, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tb poke)
+|
+|t:|1781094184
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|switch|p2a: The Sac|Garchomp, M|100/100
+|turn|1
+|
+|t:|1781094191
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: The Sac|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|73/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781094193
+|move|p1a: Great Tusk|Stealth Rock|p2a: The Sac
+|-sidestart|p2: extra-pseudo man|move: Stealth Rock
+|move|p2a: The Sac|Spikes|p1a: Great Tusk
+|-sidestart|p1: tb poke|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1781094196
+|move|p1a: Great Tusk|Ice Spinner|p2a: The Sac
+|-supereffective|p2a: The Sac
+|-damage|p2a: The Sac|40/100
+|-damage|p1a: Great Tusk|60/100|[from] ability: Rough Skin|[of] p2a: The Sac
+|-damage|p1a: Great Tusk|44/100|[from] item: Rocky Helmet|[of] p2a: The Sac
+|move|p2a: The Sac|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|14/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781094200
+|move|p1a: Great Tusk|Rapid Spin|p2a: The Sac
+|-damage|p2a: The Sac|30/100
+|-boost|p1a: Great Tusk|spe|1
+|-damage|p1a: Great Tusk|2/100|[from] ability: Rough Skin|[of] p2a: The Sac
+|-damage|p1a: Great Tusk|0 fnt|[from] item: Rocky Helmet|[of] p2a: The Sac
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|move|p2a: The Sac|Earthquake|p1: Great Tusk|[notarget]
+|-fail|p2a: The Sac
+|
+|upkeep
+|
+|t:|1781094203
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|88/100|[from] Spikes
+|turn|5
+|
+|t:|1781094207
+|switch|p2a: Tyranocif|Tyranitar, F|100/100
+|-damage|p2a: Tyranocif|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranocif
+|move|p1a: Gholdengo|Shadow Ball|p2a: Tyranocif
+|-resisted|p2a: Tyranocif
+|-damage|p2a: Tyranocif|79/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranocif|85/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781094213
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|-damage|p1a: Hatterene|88/100|[from] Spikes
+|move|p2a: Tyranocif|Knock Off|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|35/100
+|-enditem|p1a: Hatterene|Leftovers|[from] move: Knock Off|[of] p2a: Tyranocif
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hatterene|29/100|[from] Sandstorm
+|-heal|p2a: Tyranocif|92/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781094220
+|switch|p2a: The Sac|Garchomp, M|30/100
+|-damage|p2a: The Sac|24/100|[from] Stealth Rock
+|move|p1a: Hatterene|Draining Kiss|p2a: The Sac
+|-supereffective|p2a: The Sac
+|-damage|p2a: The Sac|0 fnt
+|-heal|p1a: Hatterene|52/100|[from] drain|[of] p2a: The Sac
+|-damage|p1a: Hatterene|40/100|[from] ability: Rough Skin|[of] p2a: The Sac
+|-damage|p1a: Hatterene|23/100|[from] item: Rocky Helmet|[of] p2a: The Sac
+|faint|p2a: The Sac
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hatterene|17/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781094227
+|switch|p2a: He pulten on it|Dragapult, M|100/100
+|turn|8
+|j| Easontom
+|
+|t:|1781094228
+|move|p2a: He pulten on it|Hex|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: He pulten on it|95/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781094230
+|switch|p1a: Gholdengo|Gholdengo|88/100
+|-damage|p1a: Gholdengo|76/100|[from] Spikes
+|turn|9
+|
+|t:|1781094235
+|switch|p2a: The good|Goodra-Hisui, M|100/100
+|-damage|p2a: The good|94/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Shadow Ball|p2a: The good
+|-crit|p2a: The good
+|-damage|p2a: The good|46/100
+|
+|-weather|none
+|upkeep
+|turn|10
+|
+|t:|1781094242
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|-damage|p1a: Samurott|88/100|[from] Spikes
+|move|p2a: The good|Thunderbolt|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|19/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781094245
+|move|p1a: Samurott|Ceaseless Edge|p2a: The good|[miss]
+|-miss|p1a: Samurott|p2a: The good
+|move|p2a: The good|Thunderbolt|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781094252
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-damage|p1a: Iron Moth|88/100|[from] Spikes
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|turn|12
+|
+|t:|1781094255
+|move|p1a: Iron Moth|Fiery Dance|p2a: The good
+|-damage|p2a: The good|12/100
+|-boost|p1a: Iron Moth|spa|1
+|move|p2a: The good|Thunderbolt|p1a: Iron Moth
+|-damage|p1a: Iron Moth|36/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781094258
+|switch|p2a: Tyranocif|Tyranitar, F|92/100
+|-damage|p2a: Tyranocif|79/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranocif
+|move|p1a: Iron Moth|Fiery Dance|p2a: Tyranocif
+|-resisted|p2a: Tyranocif
+|-damage|p2a: Tyranocif|67/100
+|-boost|p1a: Iron Moth|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Moth|30/100|[from] Sandstorm
+|-heal|p2a: Tyranocif|74/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781094261
+|-terastallize|p1a: Iron Moth|Fairy
+|move|p1a: Iron Moth|Dazzling Gleam|p2a: Tyranocif
+|-supereffective|p2a: Tyranocif
+|-damage|p2a: Tyranocif|9/100
+|move|p2a: Tyranocif|Stealth Rock|p1a: Iron Moth
+|-sidestart|p1: tb poke|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Moth|24/100|[from] Sandstorm
+|-heal|p2a: Tyranocif|15/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781094268
+|move|p1a: Iron Moth|Dazzling Gleam|p2a: Tyranocif
+|-supereffective|p2a: Tyranocif
+|-damage|p2a: Tyranocif|0 fnt
+|faint|p2a: Tyranocif
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Moth|18/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781094270
+|switch|p2a: Burn Up|Metagross|100/100
+|-damage|p2a: Burn Up|95/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781094273
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Gholdengo|Gholdengo|76/100
+|-damage|p1a: Gholdengo|63/100|[from] Spikes
+|-damage|p1a: Gholdengo|57/100|[from] Stealth Rock
+|move|p2a: Burn Up|Bullet Punch|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|38/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781094276
+|switch|p2a: The good|Goodra-Hisui, M|12/100
+|-damage|p2a: The good|6/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Shadow Ball|p2a: The good
+|-damage|p2a: The good|0 fnt
+|faint|p2a: The good
+|
+|-weather|none
+|upkeep
+|
+|t:|1781094279
+|switch|p2a: Manny|Dragonite, F|100/100
+|turn|18
+|
+|t:|1781094281
+|-terastallize|p2a: Manny|Normal
+|move|p1a: Gholdengo|Shadow Ball|p2a: Manny
+|-immune|p2a: Manny
+|move|p2a: Manny|Dragon Dance|p2a: Manny
+|-boost|p2a: Manny|atk|1
+|-boost|p2a: Manny|spe|1
+|
+|upkeep
+|turn|19
+|
+|t:|1781094286
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|-damage|p1a: Dragonite|76/100|[from] Stealth Rock
+|move|p2a: Manny|Dragon Dance|p2a: Manny
+|-boost|p2a: Manny|atk|1
+|-boost|p2a: Manny|spe|1
+|
+|upkeep
+|turn|20
+|j| choispecs ironmoth
+|
+|t:|1781094289
+|move|p2a: Manny|Extreme Speed|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1781094293
+|switch|p1a: Gholdengo|Gholdengo|38/100
+|-damage|p1a: Gholdengo|26/100|[from] Spikes
+|-damage|p1a: Gholdengo|20/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1781094296
+|move|p2a: Manny|Earthquake|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781094297
+|switch|p1a: Iron Moth|Iron Moth, tera:Fairy|18/100
+|-damage|p1a: Iron Moth|6/100|[from] Spikes
+|-damage|p1a: Iron Moth|0 fnt|[from] Stealth Rock
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|win|extra-pseudo man
+|raw|tb poke's rating: 1634 &rarr; <strong>1615</strong><br />(-19 for losing)
+|raw|extra-pseudo man's rating: 1651 &rarr; <strong>1670</strong><br />(+19 for winning)
+|l|☆extra-pseudo man
+|player|p2|
+|l|☆tb poke
+|player|p1|

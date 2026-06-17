@@ -1,0 +1,277 @@
+|j|☆erhai
+|j|☆juli<33
+|t:|1781284653
+|gametype|singles
+|player|p1|erhai|169|1681
+|player|p2|juli<33|caitlin-masters|1718
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Jugulis|
+|poke|p1|Ogerpon, F|
+|poke|p1|Scizor, F|
+|poke|p1|Latios, M|
+|poke|p1|Manaphy|
+|poke|p1|Sandy Shocks|
+|poke|p2|Slither Wing|
+|poke|p2|Ninetales, M|
+|poke|p2|Ceruledge, M|
+|poke|p2|Great Tusk|
+|poke|p2|Walking Wake|
+|poke|p2|Venusaur, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by erhai)
+|
+|t:|1781284662
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sandy Shocks|Sandy Shocks|100/100
+|switch|p2a: Nah I'd Spin|Great Tusk|100/100
+|-enditem|p1a: Sandy Shocks|Booster Energy
+|-activate|p1a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p1a: Sandy Shocks|protosynthesisspe
+|turn|1
+|
+|t:|1781284668
+|move|p1a: Sandy Shocks|Earth Power|p2a: Nah I'd Spin
+|-damage|p2a: Nah I'd Spin|53/100
+|move|p2a: Nah I'd Spin|Headlong Rush|p1a: Sandy Shocks
+|-supereffective|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|0 fnt
+|-unboost|p2a: Nah I'd Spin|def|1
+|-unboost|p2a: Nah I'd Spin|spd|1
+|faint|p1a: Sandy Shocks
+|-end|p1a: Sandy Shocks|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781284673
+|switch|p1a: Latios|Latios, M, shiny|100/100
+|turn|2
+|
+|t:|1781284678
+|-end|p2a: Nah I'd Spin|Protosynthesis|[silent]
+|switch|p2a: naruto|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: naruto
+|move|p1a: Latios|Agility|p1a: Latios
+|-boost|p1a: Latios|spe|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781284684
+|move|p1a: Latios|Stored Power|p2a: naruto
+|-damage|p2a: naruto|64/100
+|move|p2a: naruto|Encore|p1a: Latios
+|-start|p1a: Latios|Encore
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781284696
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|switch|p2a: Red judas|Ceruledge, M|100/100
+|-item|p2a: Red judas|Air Balloon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781284707
+|-terastallize|p2a: Red judas|Fairy
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Red judas
+|-resisted|p2a: Red judas
+|-damage|p2a: Red judas|78/100
+|-enditem|p2a: Red judas|Air Balloon
+|move|p2a: Red judas|Bitter Blade|p1a: Iron Jugulis
+|-crit|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|-heal|p2a: Red judas|100/100|[from] drain|[of] p1a: Iron Jugulis
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781284715
+|switch|p1a: Scizor|Scizor, F, shiny|100/100
+|turn|6
+|
+|t:|1781284720
+|move|p1a: Scizor|Bullet Punch|p2a: Red judas
+|-supereffective|p2a: Red judas
+|-crit|p2a: Red judas
+|-damage|p2a: Red judas|0 fnt
+|faint|p2a: Red judas
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781284723
+|switch|p2a: Walkenheimer|Walking Wake|100/100
+|-activate|p2a: Walkenheimer|ability: Protosynthesis
+|-start|p2a: Walkenheimer|protosynthesisspe
+|turn|7
+|
+|t:|1781284732
+|switch|p1a: Manaphy|Manaphy, shiny|100/100
+|move|p2a: Walkenheimer|Weather Ball|p1a: Manaphy
+|-resisted|p1a: Manaphy
+|-crit|p1a: Manaphy
+|-damage|p1a: Manaphy|57/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781284749
+|move|p2a: Walkenheimer|Draco Meteor|p1a: Manaphy|[miss]
+|-miss|p2a: Walkenheimer|p1a: Manaphy
+|move|p1a: Manaphy|Ice Beam|p2a: Walkenheimer
+|-crit|p2a: Walkenheimer
+|-damage|p2a: Walkenheimer|56/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781284754
+|move|p2a: Walkenheimer|Draco Meteor|p1a: Manaphy
+|-damage|p1a: Manaphy|0 fnt
+|-unboost|p2a: Walkenheimer|spa|2
+|faint|p1a: Manaphy
+|
+|-weather|none
+|-end|p2a: Walkenheimer|Protosynthesis
+|upkeep
+|
+|t:|1781284760
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|turn|10
+|
+|t:|1781284764
+|-end|p2a: Walkenheimer|Protosynthesis|[silent]
+|switch|p2a: naruto|Ninetales, M|64/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: naruto
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781284769
+|move|p1a: Ogerpon|Rock Tomb|p2a: naruto
+|-supereffective|p2a: naruto
+|-damage|p2a: naruto|0 fnt
+|faint|p2a: naruto
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781284771
+|switch|p2a: OMG ILY|Slither Wing|100/100
+|-activate|p2a: OMG ILY|ability: Protosynthesis
+|-start|p2a: OMG ILY|protosynthesisatk
+|turn|12
+|
+|t:|1781284797
+|move|p1a: Ogerpon|Rock Tomb|p2a: OMG ILY
+|-damage|p2a: OMG ILY|57/100
+|-unboost|p2a: OMG ILY|spe|1
+|move|p2a: OMG ILY|U-turn|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|t:|1781284803
+|-end|p2a: OMG ILY|Protosynthesis|[silent]
+|switch|p2a: Walkenheimer|Walking Wake|56/100|[from] U-turn
+|-activate|p2a: Walkenheimer|ability: Protosynthesis
+|-start|p2a: Walkenheimer|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781284815
+|switch|p1a: Scizor|Scizor, F, shiny|100/100
+|turn|13
+|
+|t:|1781284826
+|move|p2a: Walkenheimer|Weather Ball|p1a: Scizor
+|-supereffective|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781284829
+|switch|p1a: Latios|Latios, M, shiny|100/100
+|turn|14
+|
+|t:|1781284849
+|-terastallize|p1a: Latios|Fighting
+|move|p2a: Walkenheimer|Hydro Steam|p1a: Latios
+|-damage|p1a: Latios|47/100
+|move|p1a: Latios|Agility|p1a: Latios
+|-boost|p1a: Latios|spe|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781284856
+|move|p1a: Latios|Calm Mind|p1a: Latios
+|-boost|p1a: Latios|spa|1
+|-boost|p1a: Latios|spd|1
+|move|p2a: Walkenheimer|Hydro Steam|p1a: Latios
+|-damage|p1a: Latios|9/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781284862
+|move|p1a: Latios|Stored Power|p2a: Walkenheimer
+|-damage|p2a: Walkenheimer|0 fnt
+|faint|p2a: Walkenheimer
+|-end|p2a: Walkenheimer|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781284864
+|switch|p2a: OMG ILY|Slither Wing|57/100
+|-activate|p2a: OMG ILY|ability: Protosynthesis
+|-start|p2a: OMG ILY|protosynthesisatk
+|turn|17
+|
+|t:|1781284870
+|move|p2a: OMG ILY|First Impression|p1a: Latios
+|-resisted|p1a: Latios
+|-damage|p1a: Latios|0 fnt
+|faint|p1a: Latios
+|
+|win|juli<33
+|raw|erhai's rating: 1681 &rarr; <strong>1663</strong><br />(-18 for losing)
+|raw|juli&lt;33's rating: 1718 &rarr; <strong>1736</strong><br />(+18 for winning)
+|l|☆juli<33
+|player|p2|
+|l|☆erhai
+|player|p1|

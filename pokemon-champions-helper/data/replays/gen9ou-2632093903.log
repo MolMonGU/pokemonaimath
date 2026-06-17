@@ -1,0 +1,442 @@
+|j|☆18dabloons
+|j|☆Xaldyn&Rhapsodie
+|t:|1781475309
+|gametype|singles
+|player|p1|18dabloons|caitlin|1616
+|player|p2|Xaldyn&Rhapsodie|mrstone|1553
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ursaluna, M|
+|poke|p1|Alomomola, F|
+|poke|p1|Excadrill, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Keldeo-Resolute|
+|poke|p1|Gholdengo|
+|poke|p2|Gardevoir, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Hawlucha, F|
+|poke|p2|Iron Moth|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Kingambit, F|
+|teampreview
+|
+|t:|1781475341
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1781475368
+|move|p2a: Rillaboom|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-crit|p1a: Gholdengo
+|-enditem|p1a: Gholdengo|Colbur Berry|[eat]
+|-enditem|p1a: Gholdengo|Colbur Berry|[weaken]
+|-damage|p1a: Gholdengo|61/100
+|move|p1a: Gholdengo|Thunder Wave|p2a: Rillaboom
+|-status|p2a: Rillaboom|par
+|
+|-heal|p1a: Gholdengo|67/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781475375
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|100/100
+|move|p2a: Rillaboom|U-turn|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|96/100
+|
+|t:|1781475407
+|switch|p2a: Rhapsodie|Gardevoir, F, shiny|100/100|[from] U-turn
+|-ability|p2a: Rhapsodie|Good as Gold|Trace|[from] ability: Trace|[of] p1a: Gholdengo
+|-enditem|p2a: Rhapsodie|Grassy Seed
+|-boost|p2a: Rhapsodie|def|1|[from] item: Grassy Seed
+|
+|-heal|p1a: Gholdengo|100/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781475425
+|switch|p1a: Alomomola|Alomomola, F, shiny|100/100
+|-terastallize|p2a: Rhapsodie|Water
+|move|p2a: Rhapsodie|Calm Mind|p2a: Rhapsodie
+|-boost|p2a: Rhapsodie|spa|1
+|-boost|p2a: Rhapsodie|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1781475446
+|move|p2a: Rhapsodie|Calm Mind|p2a: Rhapsodie
+|-boost|p2a: Rhapsodie|spa|1
+|-boost|p2a: Rhapsodie|spd|1
+|move|p1a: Alomomola|Flip Turn|p2a: Rhapsodie
+|-resisted|p2a: Rhapsodie
+|-damage|p2a: Rhapsodie|94/100
+|
+|t:|1781475457
+|switch|p1a: Ursaluna|Ursaluna, M|100/100|[from] Flip Turn
+|
+|-heal|p2a: Rhapsodie|99/100|[from] Grassy Terrain
+|-status|p1a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|5
+|
+|t:|1781475468
+|move|p2a: Rhapsodie|Stored Power|p1a: Ursaluna
+|-damage|p1a: Ursaluna|0 fnt
+|faint|p1a: Ursaluna
+|
+|-heal|p2a: Rhapsodie|100/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781475491
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|6
+|
+|t:|1781475506
+|move|p2a: Rhapsodie|Draining Kiss|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|67/100
+|move|p1a: Tyranitar|Knock Off|p2a: Rhapsodie
+|-damage|p2a: Rhapsodie|77/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rhapsodie|71/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1781475516
+|switch|p1a: Alomomola|Alomomola, F, shiny|100/100
+|move|p2a: Rhapsodie|Draining Kiss|p1a: Alomomola
+|-damage|p1a: Alomomola|48/100
+|-heal|p2a: Rhapsodie|100/100|[from] drain|[of] p1a: Alomomola
+|-enditem|p1a: Alomomola|Red Card|[of] p2a: Rhapsodie
+|drag|p2a: El Contrabandista|Hawlucha, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: El Contrabandista|94/100|[from] Sandstorm
+|-damage|p1a: Alomomola|41/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1781475543
+|move|p2a: El Contrabandista|Close Combat|p1a: Alomomola
+|-damage|p1a: Alomomola|14/100
+|-unboost|p2a: El Contrabandista|def|1
+|-unboost|p2a: El Contrabandista|spd|1
+|move|p1a: Alomomola|Acrobatics|p2a: El Contrabandista
+|-supereffective|p2a: El Contrabandista
+|-damage|p2a: El Contrabandista|6/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: El Contrabandista|0 fnt|[from] Sandstorm
+|-damage|p1a: Alomomola|8/100|[from] Sandstorm
+|faint|p2a: El Contrabandista
+|upkeep
+|
+|t:|1781475574
+|switch|p2a: Rhapsodie|Gardevoir, F, shiny, tera:Water|100/100
+|-ability|p2a: Rhapsodie|Regenerator|Trace|[from] ability: Trace|[of] p1a: Alomomola
+|turn|9
+|
+|t:|1781475606
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Rhapsodie|Mystical Fire|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|57/100
+|-unboost|p1a: Gholdengo|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rhapsodie|94/100|[from] Sandstorm
+|upkeep
+|turn|10
+|
+|t:|1781475620
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Gholdengo|atk|1
+|move|p1a: Gholdengo|Thunder Wave|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781475640
+|move|p2a: Landorus|U-turn|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|54/100
+|
+|t:|1781475646
+|switch|p2a: Kingambitch|Kingambit, F|100/100|[from] U-turn
+|-activate|p2a: Kingambitch|ability: Supreme Overlord
+|-start|p2a: Kingambitch|fallen1|[silent]
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781475660
+|-end|p2a: Kingambitch|fallen1|[silent]
+|switch|p2a: Rillaboom|Rillaboom, F|100/100 par
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Gholdengo|Thunder Wave|p2a: Rillaboom
+|-fail|p2a: Rillaboom|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rillaboom|94/100 par|[from] Sandstorm
+|-heal|p2a: Rillaboom|100/100 par|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781475691
+|move|p1a: Gholdengo|Hex|p2a: Rillaboom
+|-damage|p2a: Rillaboom|69/100 par
+|move|p2a: Rillaboom|U-turn|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|96/100
+|
+|t:|1781475699
+|switch|p2a: Rhapsodie|Gardevoir, F, shiny, tera:Water|100/100|[from] U-turn
+|-ability|p2a: Rhapsodie|Good as Gold|Trace|[from] ability: Trace|[of] p1a: Gholdengo
+|
+|-weather|none
+|-heal|p1a: Gholdengo|100/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|c|☆Xaldyn&Rhapsodie|you've got this, Rhapsodie <3
+|
+|t:|1781475736
+|switch|p1a: Keldeo|Keldeo-Resolute|100/100
+|move|p2a: Rhapsodie|Calm Mind|p2a: Rhapsodie
+|-boost|p2a: Rhapsodie|spa|1
+|-boost|p2a: Rhapsodie|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1781475738
+|move|p1a: Keldeo|Secret Sword|p2a: Rhapsodie
+|-damage|p2a: Rhapsodie|22/100
+|move|p2a: Rhapsodie|Draining Kiss|p1a: Keldeo
+|-supereffective|p1a: Keldeo
+|-damage|p1a: Keldeo|27/100
+|-heal|p2a: Rhapsodie|79/100|[from] drain|[of] p1a: Keldeo
+|
+|-heal|p1a: Keldeo|34/100|[from] Grassy Terrain
+|-heal|p2a: Rhapsodie|85/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1781475766
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Keldeo|atk|1
+|move|p1a: Keldeo|Secret Sword|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|71/100
+|
+|-heal|p1a: Keldeo|40/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1781475780
+|move|p1a: Keldeo|Secret Sword|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|41/100
+|move|p2a: Landorus|Earth Power|p1a: Keldeo
+|-damage|p1a: Keldeo|5/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781475793
+|switch|p1a: Alomomola|Alomomola, F, shiny|41/100
+|move|p2a: Landorus|Earth Power|p1a: Alomomola
+|-damage|p1a: Alomomola|2/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781475797
+|move|p2a: Landorus|Earth Power|p1a: Alomomola
+|-crit|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|faint|p1a: Alomomola
+|
+|upkeep
+|
+|t:|1781475800
+|switch|p1a: Tyranitar|Tyranitar, M|67/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|20
+|
+|t:|1781475816
+|move|p2a: Landorus|U-turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|34/100
+|
+|t:|1781475823
+|switch|p2a: Rillaboom|Rillaboom, F|69/100 par|[from] U-turn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Tyranitar|Stealth Rock|p2a: Rillaboom
+|-sidestart|p2: Xaldyn&Rhapsodie|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rillaboom|63/100 par|[from] Sandstorm
+|-heal|p1a: Tyranitar|40/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|69/100 par|[from] Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1781475840
+|move|p1a: Tyranitar|Knock Off|p2a: Rillaboom
+|-damage|p2a: Rillaboom|27/100 par
+|-enditem|p2a: Rillaboom|Assault Vest|[from] move: Knock Off|[of] p1a: Tyranitar
+|move|p2a: Rillaboom|U-turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|t:|1781475857
+|switch|p2a: Kingambitch|Kingambit, F|100/100|[from] U-turn
+|-damage|p2a: Kingambitch|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambitch|ability: Supreme Overlord
+|-start|p2a: Kingambitch|fallen1|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Kingambitch|100/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781475866
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|22
+|
+|t:|1781475886
+|-end|p2a: Kingambitch|fallen1|[silent]
+|switch|p2a: Rhapsodie|Gardevoir, F, shiny, tera:Water|85/100
+|-damage|p2a: Rhapsodie|73/100|[from] Stealth Rock
+|-ability|p2a: Rhapsodie|Good as Gold|Trace|[from] ability: Trace|[of] p1a: Gholdengo
+|move|p1a: Gholdengo|Focus Blast|p2a: Rhapsodie|[miss]
+|-miss|p1a: Gholdengo|p2a: Rhapsodie
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rhapsodie|67/100|[from] Sandstorm
+|-heal|p2a: Rhapsodie|73/100|[from] Grassy Terrain
+|upkeep
+|turn|23
+|
+|t:|1781475914
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|-item|p1a: Excadrill|Air Balloon
+|move|p2a: Rhapsodie|Mystical Fire|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|49/100
+|-unboost|p1a: Excadrill|spa|1
+|-enditem|p1a: Excadrill|Air Balloon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rhapsodie|67/100|[from] Sandstorm
+|-heal|p1a: Excadrill|55/100|[from] Grassy Terrain
+|-heal|p2a: Rhapsodie|73/100|[from] Grassy Terrain
+|upkeep
+|turn|24
+|
+|t:|1781475948
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|move|p2a: Rhapsodie|Mystical Fire|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rhapsodie|67/100|[from] Sandstorm
+|-heal|p2a: Rhapsodie|73/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781475962
+|switch|p1a: Keldeo|Keldeo-Resolute|5/100
+|turn|25
+|
+|t:|1781475990
+|switch|p2a: Rillaboom|Rillaboom, F|27/100 par
+|-damage|p2a: Rillaboom|15/100 par|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Keldeo|Secret Sword|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Keldeo|0 fnt|[from] Sandstorm
+|faint|p1a: Keldeo
+|upkeep
+|c|☆Xaldyn&Rhapsodie|ggs
+|
+|t:|1781476008
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|switch|p2a: Rhapsodie|Gardevoir, F, shiny, tera:Water|73/100
+|-damage|p2a: Rhapsodie|61/100|[from] Stealth Rock
+|-ability|p2a: Rhapsodie|Good as Gold|Trace|[from] ability: Trace|[of] p1a: Gholdengo
+|turn|26
+|
+|t:|1781476021
+|move|p2a: Rhapsodie|Calm Mind|p2a: Rhapsodie
+|-boost|p2a: Rhapsodie|spa|1
+|-boost|p2a: Rhapsodie|spd|1
+|move|p1a: Gholdengo|Hex|p2a: Rhapsodie
+|-damage|p2a: Rhapsodie|43/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rhapsodie|37/100|[from] Sandstorm
+|-heal|p2a: Rhapsodie|43/100|[from] Grassy Terrain
+|upkeep
+|turn|27
+|
+|t:|1781476027
+|move|p2a: Rhapsodie|Mystical Fire|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|35/100
+|-unboost|p1a: Gholdengo|spa|1
+|move|p1a: Gholdengo|Hex|p2a: Rhapsodie
+|-damage|p2a: Rhapsodie|30/100
+|
+|-weather|none
+|-heal|p2a: Rhapsodie|36/100|[from] Grassy Terrain
+|-heal|p1a: Gholdengo|42/100|[from] Grassy Terrain
+|upkeep
+|turn|28
+|
+|t:|1781476034
+|move|p2a: Rhapsodie|Mystical Fire|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|win|Xaldyn&Rhapsodie
+|raw|18dabloons's rating: 1616 &rarr; <strong>1592</strong><br />(-24 for losing)
+|raw|Xaldyn&amp;Rhapsodie's rating: 1553 &rarr; <strong>1577</strong><br />(+24 for winning)
+|l|☆18dabloons
+|player|p1|
+|j| Hashg Skynyrd

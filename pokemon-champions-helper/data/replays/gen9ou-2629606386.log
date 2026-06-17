@@ -1,0 +1,179 @@
+|j|☆KurisuChestnutOU
+|j|☆dooming
+|t:|1781152246
+|gametype|singles
+|player|p1|KurisuChestnutOU|may-contest|1510
+|player|p2|dooming|marshal|1523
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, F|
+|poke|p1|Kommo-o, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Crown|
+|poke|p2|Heatran, F|
+|poke|p2|Dragonite, M|
+|poke|p2|Great Tusk|
+|poke|p2|Kyurem|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutOU)
+|
+|t:|1781152259
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|switch|p2a: Great Tusk|Great Tusk, shiny|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|1
+|
+|t:|1781152264
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Heatran|Heatran, F, shiny|100/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|95/100
+|-unboost|p2a: Heatran|spa|1
+|
+|upkeep
+|turn|2
+|
+|t:|1781152272
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|switch|p2a: Weezing|Weezing-Galar, M, shiny|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|
+|upkeep
+|turn|3
+|
+|t:|1781152279
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Heatran|Heatran, F, shiny|95/100
+|move|p1a: Kommo-o|Substitute|p1a: Kommo-o
+|-start|p1a: Kommo-o|Substitute
+|-damage|p1a: Kommo-o|75/100
+|
+|-heal|p1a: Kommo-o|82/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781152284
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|49/100
+|move|p2a: Heatran|Earth Power|p1a: Kommo-o
+|-activate|p1a: Kommo-o|move: Substitute|[damage]
+|
+|-heal|p1a: Kommo-o|55/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781152289
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|22/100
+|move|p2a: Heatran|Magma Storm|p1a: Kommo-o|[miss]
+|-miss|p2a: Heatran|p1a: Kommo-o
+|
+|-heal|p1a: Kommo-o|28/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781152298
+|move|p1a: Kommo-o|Drain Punch|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|-heal|p1a: Kommo-o|72/100|[from] drain|[of] p2a: Heatran
+|faint|p2a: Heatran
+|
+|-heal|p1a: Kommo-o|78/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781152308
+|switch|p2a: Weezing|Weezing-Galar, M, shiny|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|turn|7
+|
+|t:|1781152317
+|-terastallize|p1a: Kommo-o|Ghost
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|45/100
+|move|p2a: Weezing|Pain Split||[still]
+|-fail|p2a: Weezing
+|
+|-heal|p1a: Kommo-o|51/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781152324
+|move|p1a: Kommo-o|Shadow Claw|p2a: Weezing
+|-crit|p2a: Weezing
+|-damage|p2a: Weezing|17/100
+|-damage|p1a: Kommo-o|35/100|[from] item: Rocky Helmet|[of] p2a: Weezing
+|move|p2a: Weezing|Flamethrower|p1a: Kommo-o
+|-end|p1a: Kommo-o|Substitute
+|
+|-heal|p1a: Kommo-o|41/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781152331
+|move|p1a: Kommo-o|Shadow Claw|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|-damage|p1a: Kommo-o|24/100|[from] item: Rocky Helmet|[of] p2a: Weezing
+|faint|p2a: Weezing
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|
+|-heal|p1a: Kommo-o|31/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781152341
+|switch|p2a: Kyurem|Kyurem, shiny|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|10
+|
+|t:|1781152354
+|move|p1a: Kommo-o|Drain Punch|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|-heal|p1a: Kommo-o|87/100|[from] drain|[of] p2a: Kyurem
+|faint|p2a: Kyurem
+|
+|-heal|p1a: Kommo-o|93/100|[from] item: Leftovers
+|upkeep
+|-message|dooming forfeited.
+|
+|win|KurisuChestnutOU
+|raw|KurisuChestnutOU's rating: 1494 &rarr; <strong>1516</strong><br />(+22 for winning)
+|raw|dooming's rating: 1523 &rarr; <strong>1501</strong><br />(-22 for losing)
+|l|☆dooming
+|player|p2|

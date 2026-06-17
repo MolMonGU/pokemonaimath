@@ -1,0 +1,296 @@
+|j|☆zylsnbb
+|j|☆Izlymoney
+|t:|1781169444
+|gametype|singles
+|player|p1|zylsnbb|102|1633
+|player|p2|Izlymoney|169|1662
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Moth|
+|poke|p1|Gliscor, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Zamazenta-*|
+|poke|p2|Cramorant, F|
+|poke|p2|Gallade, M|
+|poke|p2|Kingambit, M|
+|poke|p2|Iron Moth|
+|poke|p2|Enamorus, F|
+|poke|p2|Ogerpon-Cornerstone, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by zylsnbb)
+|
+|t:|1781169461
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|switch|p2a: Cramorant|Cramorant, F, shiny|100/100
+|turn|1
+|
+|t:|1781169477
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Cramorant|Tailwind|p2a: Cramorant
+|-sidestart|p2: Izlymoney|move: Tailwind
+|
+|upkeep
+|turn|2
+|
+|t:|1781169486
+|move|p2a: Cramorant|Surf|p1a: Raging Bolt
+|-formechange|p2a: Cramorant|Cramorant-Gulping|
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|81/100
+|move|p1a: Raging Bolt|Calm Mind|p1a: Raging Bolt
+|-boost|p1a: Raging Bolt|spa|1
+|-boost|p1a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781169494
+|move|p1a: Raging Bolt|Thunderclap|p2a: Cramorant
+|-supereffective|p2a: Cramorant
+|-enditem|p2a: Cramorant|Focus Sash
+|-damage|p2a: Cramorant|1/100
+|-damage|p1a: Raging Bolt|57/100|[from] ability: Gulp Missile|[of] p2a: Cramorant
+|-unboost|p1a: Raging Bolt|def|1
+|-formechange|p2a: Cramorant|Cramorant|
+|move|p2a: Cramorant|Surf|p1a: Raging Bolt
+|-formechange|p2a: Cramorant|Cramorant-Gorging|
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|45/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781169505
+|move|p2a: Cramorant|Surf|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|33/100
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Cramorant
+|-supereffective|p2a: Cramorant
+|-damage|p2a: Cramorant|0 fnt
+|-damage|p1a: Raging Bolt|8/100|[from] ability: Gulp Missile|[of] p2a: Cramorant
+|-formechange|p2a: Cramorant|Cramorant|
+|faint|p2a: Cramorant
+|
+|-sideend|p2: Izlymoney|move: Tailwind
+|upkeep
+|
+|t:|1781169511
+|switch|p2a: Gallade|Gallade, M|100/100
+|turn|5
+|
+|t:|1781169515
+|move|p2a: Gallade|Shadow Sneak|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781169523
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|turn|6
+|
+|t:|1781169530
+|move|p1a: Iron Moth|Fiery Dance|p2a: Gallade
+|-damage|p2a: Gallade|59/100
+|move|p2a: Gallade|Psycho Cut|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781169557
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|7
+|
+|t:|1781169567
+|move|p1a: Ogerpon|Trailblaze|p2a: Gallade
+|-damage|p2a: Gallade|4/100
+|-boost|p1a: Ogerpon|spe|1
+|move|p2a: Gallade|Sacred Sword|p1a: Ogerpon
+|-damage|p1a: Ogerpon|11/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781169576
+|move|p2a: Gallade|Shadow Sneak|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1781169580
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|9
+|
+|t:|1781169593
+|move|p1a: Zamazenta|Reflect|p1a: Zamazenta
+|-sidestart|p1: zylsnbb|Reflect
+|move|p2a: Gallade|Psycho Cut|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-crit|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|upkeep
+|
+|t:|1781169602
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|turn|10
+|
+|t:|1781169628
+|move|p2a: Gallade|Psycho Cut|p1a: Gliscor
+|-damage|p1a: Gliscor|78/100
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|11
+|
+|t:|1781169632
+|move|p2a: Gallade|Psycho Cut|p1a: Gliscor
+|-damage|p1a: Gliscor|55/100 tox
+|move|p1a: Gliscor|Agility|p1a: Gliscor
+|-boost|p1a: Gliscor|spe|2
+|
+|-heal|p1a: Gliscor|67/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|12
+|
+|t:|1781169636
+|move|p1a: Gliscor|Earthquake|p2a: Gallade
+|-damage|p2a: Gallade|0 fnt
+|faint|p2a: Gallade
+|
+|-heal|p1a: Gliscor|79/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781169638
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|turn|13
+|
+|t:|1781169645
+|move|p1a: Gliscor|Facade|p2a: Enamorus
+|-enditem|p2a: Enamorus|Focus Sash
+|-damage|p2a: Enamorus|1/100
+|move|p2a: Enamorus|Moonblast|p1a: Gliscor
+|-damage|p1a: Gliscor|11/100 tox
+|
+|-heal|p1a: Gliscor|23/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|14
+|
+|t:|1781169653
+|move|p1a: Gliscor|Facade|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|
+|-heal|p1a: Gliscor|36/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781169662
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|turn|15
+|
+|t:|1781169669
+|move|p1a: Gliscor|Earthquake|p2a: Ogerpon
+|-ability|p2a: Ogerpon|Sturdy
+|-damage|p2a: Ogerpon|1/100
+|move|p2a: Ogerpon|Power Whip|p1a: Gliscor
+|-damage|p1a: Gliscor|6/100 tox
+|
+|-heal|p1a: Gliscor|18/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|16
+|
+|t:|1781169677
+|move|p1a: Gliscor|Earthquake|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|-heal|p1a: Gliscor|30/100 tox|[from] ability: Poison Heal
+|-sideend|p1: zylsnbb|Reflect
+|upkeep
+|
+|t:|1781169684
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|17
+|
+|t:|1781169689
+|-terastallize|p2a: Kingambit|Ghost
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|move|p2a: Kingambit|Iron Head|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|-damage|p2a: Kingambit|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781169696
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|turn|18
+|
+|t:|1781169704
+|-terastallize|p1a: Hatterene|Water
+|move|p2a: Kingambit|Iron Head|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|62/100
+|-damage|p2a: Kingambit|81/100|[from] item: Life Orb
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-heal|p1a: Hatterene|68/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|Izlymoney has 120 seconds left.
+|inactive|Izlymoney has 90 seconds left.
+|inactive|Izlymoney has 60 seconds left.
+|inactive|Izlymoney has 30 seconds left.
+|inactive|Izlymoney has 20 seconds left.
+|inactive|Izlymoney has 15 seconds left.
+|inactive|Izlymoney has 10 seconds left.
+|inactive|Izlymoney has 5 seconds left.
+|-message|Izlymoney lost due to inactivity.
+|
+|win|zylsnbb
+|raw|zylsnbb's rating: 1633 &rarr; <strong>1655</strong><br />(+22 for winning)
+|raw|Izlymoney's rating: 1662 &rarr; <strong>1640</strong><br />(-22 for losing)
+|l|☆zylsnbb
+|player|p1|
+|j|☆zylsnbb
+|player|p1|zylsnbb|102|
+|l|☆zylsnbb
+|player|p1|
+|l|☆Izlymoney
+|player|p2|

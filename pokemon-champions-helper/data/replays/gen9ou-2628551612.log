@@ -1,0 +1,850 @@
+|j|☆SofteLocke
+|j|☆5th Floor Atrium
+|t:|1781029626
+|gametype|singles
+|player|p1|SofteLocke|1|1604
+|player|p2|5th Floor Atrium|1|1605
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, M|
+|poke|p1|Zapdos|
+|poke|p1|Primarina, F|
+|poke|p1|Clodsire, M|
+|poke|p1|Cinderace, F|
+|poke|p1|Deoxys-Speed|
+|poke|p2|Rillaboom, F|
+|poke|p2|Conkeldurr, M|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|poke|p2|Alomomola, M|
+|poke|p2|Dragapult, F|
+|teampreview
+|c|☆5th Floor Atrium|hf
+|
+|t:|1781029649
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: LaurynChill|Primarina, F|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|turn|1
+|c|☆SofteLocke|u2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SofteLocke)
+|
+|t:|1781029688
+|move|p2a: Iron Treads|Volt Switch|p1a: LaurynChill
+|-supereffective|p1a: LaurynChill
+|-damage|p1a: LaurynChill|87/100
+|
+|t:|1781029704
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Alomomola|Alomomola, M|100/100|[from] Volt Switch
+|move|p1a: LaurynChill|Surf|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|79/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781029711
+|move|p1a: LaurynChill|Moonblast|p2a: Alomomola
+|-damage|p2a: Alomomola|32/100
+|move|p2a: Alomomola|Flip Turn|p1a: LaurynChill
+|-resisted|p1a: LaurynChill
+|-damage|p1a: LaurynChill|78/100
+|
+|t:|1781029718
+|switch|p2a: Rillaboom|Rillaboom, F|100/100|[from] Flip Turn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|
+|-heal|p1a: LaurynChill|84/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781029725
+|switch|p1a: Asbestos|Zapdos|100/100
+|move|p2a: Rillaboom|Wood Hammer|p1a: Asbestos
+|-resisted|p1a: Asbestos
+|-damage|p1a: Asbestos|50/100
+|-damage|p2a: Rillaboom|82/100|[from] Recoil
+|
+|-heal|p2a: Rillaboom|88/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781029734
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Asbestos|Roost|p1a: Asbestos
+|-heal|p1a: Asbestos|100/100
+|-singleturn|p1a: Asbestos|move: Roost
+|
+|upkeep
+|turn|5
+|
+|t:|1781029743
+|move|p2a: Iron Treads|Stealth Rock|p1a: Asbestos
+|-sidestart|p1: SofteLocke|move: Stealth Rock
+|move|p1a: Asbestos|U-turn|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|95/100
+|
+|t:|1781029744
+|switch|p1a: Maritime Messi|Cinderace, F|100/100|[from] U-turn
+|
+|-heal|p2a: Iron Treads|100/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781029754
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Conkeldurr|Conkeldurr, M|100/100
+|move|p1a: Maritime Messi|Pyro Ball|p2a: Conkeldurr|[miss]
+|-miss|p1a: Maritime Messi|p2a: Conkeldurr
+|
+|-fieldend|move: Grassy Terrain
+|-status|p2a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|7
+|
+|t:|1781029760
+|move|p1a: Maritime Messi|U-turn|p2a: Conkeldurr
+|-resisted|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|90/100 brn
+|
+|t:|1781029762
+|switch|p1a: Asbestos|Zapdos|100/100|[from] U-turn
+|move|p2a: Conkeldurr|Facade|p1a: Asbestos
+|-damage|p1a: Asbestos|43/100
+|
+|-damage|p2a: Conkeldurr|84/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1781029769
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Asbestos|Hurricane|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|78/100
+|
+|-heal|p2a: Iron Treads|84/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781029789
+|move|p2a: Iron Treads|Volt Switch|p1a: Asbestos
+|-damage|p1a: Asbestos|31/100
+|
+|t:|1781029791
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Dragapult|Dragapult, F|100/100|[from] Volt Switch
+|move|p1a: Asbestos|Roost|p1a: Asbestos
+|-heal|p1a: Asbestos|81/100
+|-singleturn|p1a: Asbestos|move: Roost
+|
+|upkeep
+|turn|10
+|
+|t:|1781029800
+|switch|p1a: SwitchinStature|Clodsire, M|100/100
+|-damage|p1a: SwitchinStature|94/100|[from] Stealth Rock
+|move|p2a: Dragapult|U-turn|p1a: SwitchinStature
+|-resisted|p1a: SwitchinStature
+|-damage|p1a: SwitchinStature|89/100
+|
+|t:|1781029806
+|switch|p2a: Conkeldurr|Conkeldurr, M|84/100 brn|[from] U-turn
+|
+|-damage|p2a: Conkeldurr|78/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781029812
+|move|p2a: Conkeldurr|Facade|p1a: SwitchinStature
+|-damage|p1a: SwitchinStature|29/100
+|move|p1a: SwitchinStature|Counter|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|faint|p2a: Conkeldurr
+|
+|upkeep
+|inactive|5th Floor Atrium has 120 seconds left.
+|c|☆5th Floor Atrium|ah, it learns that eh
+|
+|t:|1781029851
+|switch|p2a: Rillaboom|Rillaboom, F|88/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|12
+|
+|t:|1781029858
+|switch|p1a: Asbestos|Zapdos|81/100
+|move|p2a: Rillaboom|Knock Off|p1a: Asbestos
+|-damage|p1a: Asbestos|42/100
+|-enditem|p1a: Asbestos|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-heal|p2a: Rillaboom|94/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781029865
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Asbestos|Roost|p1a: Asbestos
+|-heal|p1a: Asbestos|92/100
+|-singleturn|p1a: Asbestos|move: Roost
+|
+|-heal|p1a: Asbestos|98/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1781029879
+|move|p2a: Dragapult|Shadow Ball|p1a: Asbestos
+|-damage|p1a: Asbestos|47/100
+|-unboost|p1a: Asbestos|spd|1
+|move|p1a: Asbestos|U-turn|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|92/100
+|
+|t:|1781029888
+|switch|p1a: LaurynChill|Primarina, F|84/100|[from] U-turn
+|-damage|p1a: LaurynChill|72/100|[from] Stealth Rock
+|
+|-heal|p2a: Dragapult|98/100|[from] Grassy Terrain
+|-heal|p1a: LaurynChill|78/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|inactive|5th Floor Atrium has 120 seconds left.
+|inactive|5th Floor Atrium has 90 seconds left.
+|
+|t:|1781029944
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: LaurynChill|Flip Turn|p2a: Kingambit
+|-damage|p2a: Kingambit|89/100
+|
+|t:|1781029949
+|switch|p1a: Maritime Messi|Cinderace, F|100/100|[from] Flip Turn
+|
+|-heal|p2a: Kingambit|95/100|[from] Grassy Terrain
+|-heal|p2a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781029963
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Alomomola|Alomomola, M|65/100
+|move|p1a: Maritime Messi|Will-O-Wisp|p2a: Alomomola
+|-status|p2a: Alomomola|brn
+|
+|-heal|p2a: Alomomola|71/100 brn|[from] Grassy Terrain
+|-damage|p2a: Alomomola|65/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1781029967
+|move|p1a: Maritime Messi|Court Change|p1a: Maritime Messi
+|-swapsideconditions
+|-activate|p1a: Maritime Messi|move: Court Change
+|move|p2a: Alomomola|Flip Turn|p1a: Maritime Messi
+|-supereffective|p1a: Maritime Messi
+|-damage|p1a: Maritime Messi|80/100
+|
+|t:|1781029974
+|switch|p2a: Dragapult|Dragapult, F|98/100|[from] Flip Turn
+|-damage|p2a: Dragapult|86/100|[from] Stealth Rock
+|
+|upkeep
+|turn|18
+|
+|t:|1781029986
+|switch|p1a: Imu|Kingambit, M|100/100
+|move|p2a: Dragapult|Shadow Ball|p1a: Imu
+|-resisted|p1a: Imu
+|-damage|p1a: Imu|76/100
+|
+|-heal|p1a: Imu|82/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781029990
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Imu|Kowtow Cleave|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|75/100
+|
+|-heal|p2a: Kingambit|81/100|[from] item: Leftovers
+|-heal|p1a: Imu|88/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|5th Floor Atrium has 120 seconds left.
+|
+|t:|1781030006
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Iron Treads|Iron Treads|84/100
+|-damage|p2a: Iron Treads|81/100|[from] Stealth Rock
+|-end|p1a: Imu|fallenundefined|[silent]
+|switch|p1a: Asbestos|Zapdos|47/100
+|
+|-heal|p2a: Iron Treads|87/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781030011
+|move|p2a: Iron Treads|Stealth Rock|p1a: Asbestos
+|-sidestart|p1: SofteLocke|move: Stealth Rock
+|move|p1a: Asbestos|Roost|p1a: Asbestos
+|-heal|p1a: Asbestos|98/100
+|-singleturn|p1a: Asbestos|move: Roost
+|
+|-heal|p2a: Iron Treads|93/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781030022
+|move|p2a: Iron Treads|Rapid Spin|p1a: Asbestos
+|-damage|p1a: Asbestos|87/100
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: 5th Floor Atrium|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: Asbestos|U-turn|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|87/100
+|
+|t:|1781030027
+|switch|p1a: Maritime Messi|Cinderace, F|80/100|[from] U-turn
+|
+|-heal|p2a: Iron Treads|93/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781030031
+|switch|p1a: Asbestos|Zapdos|87/100
+|-damage|p1a: Asbestos|63/100|[from] Stealth Rock
+|move|p2a: Iron Treads|Earthquake|p1a: Asbestos
+|-immune|p1a: Asbestos
+|
+|-heal|p2a: Iron Treads|99/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781030037
+|move|p2a: Iron Treads|Volt Switch|p1a: Asbestos
+|-damage|p1a: Asbestos|51/100
+|
+|t:|1781030040
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Dragapult|Dragapult, F|86/100|[from] Volt Switch
+|move|p1a: Asbestos|Roost|p1a: Asbestos
+|-heal|p1a: Asbestos|100/100
+|-singleturn|p1a: Asbestos|move: Roost
+|
+|upkeep
+|turn|25
+|
+|t:|1781030064
+|move|p2a: Dragapult|Shadow Ball|p1a: Asbestos
+|-damage|p1a: Asbestos|53/100
+|move|p1a: Asbestos|Hurricane|p2a: Dragapult
+|-damage|p2a: Dragapult|27/100
+|-start|p2a: Dragapult|confusion
+|
+|upkeep
+|turn|26
+|
+|t:|1781030078
+|switch|p2a: Iron Treads|Iron Treads|99/100
+|switch|p1a: Imu|Kingambit, M|88/100
+|-damage|p1a: Imu|82/100|[from] Stealth Rock
+|
+|-heal|p2a: Iron Treads|100/100|[from] item: Leftovers
+|-heal|p1a: Imu|88/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781030093
+|move|p2a: Iron Treads|Volt Switch|p1a: Imu
+|-damage|p1a: Imu|76/100
+|
+|t:|1781030098
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Alomomola|Alomomola, M|98/100 brn|[from] Volt Switch
+|move|p1a: Imu|Kowtow Cleave|p2a: Alomomola
+|-damage|p2a: Alomomola|66/100 brn
+|
+|-heal|p1a: Imu|82/100|[from] item: Leftovers
+|-damage|p2a: Alomomola|60/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1781030105
+|move|p1a: Imu|Swords Dance|p1a: Imu
+|-boost|p1a: Imu|atk|2
+|move|p2a: Alomomola|Flip Turn|p1a: Imu
+|-damage|p1a: Imu|75/100
+|
+|t:|1781030135
+|switch|p2a: Kingambit|Kingambit, F|81/100|[from] Flip Turn
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|
+|-heal|p2a: Kingambit|87/100|[from] item: Leftovers
+|-heal|p1a: Imu|81/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1781030140
+|move|p2a: Kingambit|Low Kick|p1a: Imu
+|-supereffective|p1a: Imu
+|-damage|p1a: Imu|0 fnt
+|faint|p1a: Imu
+|-end|p1a: Imu|fallenundefined|[silent]
+|
+|-heal|p2a: Kingambit|93/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781030143
+|switch|p1a: Maritime Messi|Cinderace, F|80/100
+|turn|30
+|
+|t:|1781030150
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Alomomola|Alomomola, M|93/100 brn
+|move|p1a: Maritime Messi|Pyro Ball|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|78/100 brn
+|
+|-damage|p2a: Alomomola|72/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1781030156
+|move|p1a: Maritime Messi|Court Change|p1a: Maritime Messi
+|-swapsideconditions
+|-activate|p1a: Maritime Messi|move: Court Change
+|move|p2a: Alomomola|Flip Turn|p1a: Maritime Messi
+|-supereffective|p1a: Maritime Messi
+|-damage|p1a: Maritime Messi|59/100
+|
+|t:|1781030163
+|switch|p2a: Dragapult|Dragapult, F|27/100|[from] Flip Turn
+|-damage|p2a: Dragapult|15/100|[from] Stealth Rock
+|
+|upkeep
+|turn|32
+|
+|t:|1781030178
+|switch|p1a: LaurynChill|Primarina, F|78/100
+|move|p2a: Dragapult|Shadow Ball|p1a: LaurynChill
+|-damage|p1a: LaurynChill|50/100
+|
+|upkeep
+|turn|33
+|inactive|5th Floor Atrium has 120 seconds left.
+|
+|t:|1781030214
+|move|p2a: Dragapult|Shadow Ball|p1a: LaurynChill
+|-damage|p1a: LaurynChill|18/100
+|move|p1a: LaurynChill|Moonblast|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1781030233
+|switch|p2a: Rillaboom|Rillaboom, F|94/100
+|-damage|p2a: Rillaboom|82/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|34
+|
+|t:|1781030239
+|switch|p1a: Asbestos|Zapdos|53/100
+|move|p2a: Rillaboom|Grassy Glide|p1a: Asbestos
+|-resisted|p1a: Asbestos
+|-damage|p1a: Asbestos|30/100
+|-status|p2a: Rillaboom|par|[from] ability: Static|[of] p1a: Asbestos
+|
+|-heal|p2a: Rillaboom|88/100 par|[from] Grassy Terrain
+|upkeep
+|turn|35
+|
+|t:|1781030263
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-damage|p2a: Iron Treads|98/100|[from] Stealth Rock
+|move|p1a: Asbestos|Roost|p1a: Asbestos
+|-heal|p1a: Asbestos|80/100
+|-singleturn|p1a: Asbestos|move: Roost
+|
+|-heal|p2a: Iron Treads|100/100|[from] Grassy Terrain
+|-heal|p1a: Asbestos|86/100|[from] Grassy Terrain
+|upkeep
+|turn|36
+|
+|t:|1781030272
+|switch|p1a: SwitchinStature|Clodsire, M|29/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: SwitchinStature
+|-sidestart|p1: SofteLocke|move: Stealth Rock
+|
+|-heal|p1a: SwitchinStature|35/100|[from] Grassy Terrain
+|upkeep
+|turn|37
+|
+|t:|1781030275
+|move|p2a: Iron Treads|Earthquake|p1a: SwitchinStature
+|-supereffective|p1a: SwitchinStature
+|-enditem|p1a: SwitchinStature|Shuca Berry|[eat]
+|-enditem|p1a: SwitchinStature|Shuca Berry|[weaken]
+|-damage|p1a: SwitchinStature|20/100
+|move|p1a: SwitchinStature|Recover|p1a: SwitchinStature
+|-heal|p1a: SwitchinStature|70/100
+|
+|-heal|p1a: SwitchinStature|77/100|[from] Grassy Terrain
+|upkeep
+|turn|38
+|inactive|5th Floor Atrium has 120 seconds left.
+|
+|t:|1781030291
+|move|p2a: Iron Treads|Earthquake|p1a: SwitchinStature
+|-supereffective|p1a: SwitchinStature
+|-damage|p1a: SwitchinStature|48/100
+|move|p1a: SwitchinStature|Toxic|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|
+|-heal|p1a: SwitchinStature|54/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|39
+|
+|t:|1781030310
+|-terastallize|p1a: SwitchinStature|Fairy
+|move|p2a: Iron Treads|Earthquake|p1a: SwitchinStature
+|-damage|p1a: SwitchinStature|27/100
+|move|p1a: SwitchinStature|Counter|p2a: Iron Treads
+|-damage|p2a: Iron Treads|35/100
+|
+|-heal|p2a: Iron Treads|41/100|[from] item: Leftovers
+|upkeep
+|turn|40
+|inactive|5th Floor Atrium has 120 seconds left.
+|
+|t:|1781030334
+|move|p2a: Iron Treads|Earthquake|p1a: SwitchinStature
+|-crit|p1a: SwitchinStature
+|-damage|p1a: SwitchinStature|0 fnt
+|faint|p1a: SwitchinStature
+|
+|-heal|p2a: Iron Treads|47/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781030338
+|switch|p1a: Maritime Messi|Cinderace, F|59/100
+|turn|41
+|
+|t:|1781030342
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Alomomola|Alomomola, M|100/100 brn
+|move|p1a: Maritime Messi|U-turn|p2a: Alomomola
+|-damage|p2a: Alomomola|89/100 brn
+|
+|t:|1781030348
+|switch|p1a: Diet Lele|Deoxys-Speed|100/100|[from] U-turn
+|-damage|p1a: Diet Lele|88/100|[from] Stealth Rock
+|-ability|p1a: Diet Lele|Pressure
+|
+|-damage|p2a: Alomomola|83/100 brn|[from] brn
+|upkeep
+|turn|42
+|
+|t:|1781030365
+|move|p1a: Diet Lele|Focus Blast|p2a: Alomomola
+|-damage|p2a: Alomomola|34/100 brn
+|move|p2a: Alomomola|Flip Turn|p1a: Diet Lele
+|-damage|p1a: Diet Lele|77/100
+|inactive|5th Floor Atrium has 120 seconds left.
+|inactive|5th Floor Atrium has 90 seconds left.
+|
+|t:|1781030409
+|switch|p2a: Kingambit|Kingambit, F|93/100|[from] Flip Turn
+|-damage|p2a: Kingambit|87/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|
+|-heal|p2a: Kingambit|93/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|inactive|5th Floor Atrium has 90 seconds left.
+|
+|t:|1781030426
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Alomomola|Alomomola, M|67/100 brn
+|move|p1a: Diet Lele|Focus Blast|p2a: Alomomola
+|-damage|p2a: Alomomola|20/100 brn
+|
+|-damage|p2a: Alomomola|14/100 brn|[from] brn
+|upkeep
+|turn|44
+|inactive|5th Floor Atrium has 90 seconds left.
+|
+|t:|1781030433
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Diet Lele|Focus Blast|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Protect
+|
+|-damage|p2a: Alomomola|7/100 brn|[from] brn
+|upkeep
+|turn|45
+|inactive|5th Floor Atrium has 90 seconds left.
+|
+|t:|1781030449
+|switch|p2a: Iron Treads|Iron Treads|47/100
+|-damage|p2a: Iron Treads|44/100|[from] Stealth Rock
+|move|p1a: Diet Lele|Focus Blast|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-crit|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781030457
+|switch|p2a: Kingambit|Kingambit, F|93/100
+|-damage|p2a: Kingambit|87/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|turn|46
+|inactive|5th Floor Atrium has 90 seconds left.
+|
+|t:|1781030470
+|switch|p1a: LaurynChill|Primarina, F|18/100
+|-damage|p1a: LaurynChill|6/100|[from] Stealth Rock
+|-terastallize|p2a: Kingambit|Fire
+|move|p2a: Kingambit|Kowtow Cleave|p1a: LaurynChill
+|-resisted|p1a: LaurynChill
+|-damage|p1a: LaurynChill|0 fnt
+|faint|p1a: LaurynChill
+|
+|-heal|p2a: Kingambit|93/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781030479
+|switch|p1a: Asbestos|Zapdos|86/100
+|-damage|p1a: Asbestos|61/100|[from] Stealth Rock
+|turn|47
+|inactive|5th Floor Atrium has 90 seconds left.
+|
+|t:|1781030495
+|move|p1a: Asbestos|Discharge|p2a: Kingambit
+|-damage|p2a: Kingambit|58/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Asbestos
+|-damage|p1a: Asbestos|22/100
+|
+|-heal|p2a: Kingambit|64/100|[from] item: Leftovers
+|upkeep
+|turn|48
+|inactive|5th Floor Atrium has 90 seconds left.
+|
+|t:|1781030520
+|move|p1a: Asbestos|Roost|p1a: Asbestos
+|-heal|p1a: Asbestos|72/100
+|-singleturn|p1a: Asbestos|move: Roost
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|70/100|[from] item: Leftovers
+|upkeep
+|turn|49
+|
+|t:|1781030534
+|move|p1a: Asbestos|Discharge|p2a: Kingambit
+|-crit|p2a: Kingambit
+|-damage|p2a: Kingambit|10/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Asbestos
+|-damage|p1a: Asbestos|0 fnt
+|faint|p1a: Asbestos
+|
+|-heal|p2a: Kingambit|16/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781030541
+|switch|p1a: Diet Lele|Deoxys-Speed|77/100
+|-damage|p1a: Diet Lele|64/100|[from] Stealth Rock
+|-ability|p1a: Diet Lele|Pressure
+|turn|50
+|
+|t:|1781030547
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Diet Lele|Trick|p2a: Kingambit
+|-activate|p1a: Diet Lele|move: Trick|[of] p2a: Kingambit
+|-item|p2a: Kingambit|Choice Specs|[from] move: Trick
+|-item|p1a: Diet Lele|Leftovers|[from] move: Trick
+|
+|-heal|p1a: Diet Lele|70/100|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1781030557
+|switch|p1a: Maritime Messi|Cinderace, F|59/100
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|
+|upkeep
+|turn|52
+|
+|t:|1781030562
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Maritime Messi|Will-O-Wisp|p2a: Kingambit|[miss]
+|-miss|p1a: Maritime Messi|p2a: Kingambit
+|
+|upkeep
+|turn|53
+|
+|t:|1781030569
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Maritime Messi|Will-O-Wisp|p2a: Kingambit
+|-immune|p2a: Kingambit
+|
+|upkeep
+|turn|54
+|
+|t:|1781030571
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Maritime Messi|Will-O-Wisp|p2a: Kingambit|[miss]
+|-miss|p1a: Maritime Messi|p2a: Kingambit
+|
+|upkeep
+|turn|55
+|
+|t:|1781030573
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Maritime Messi|Will-O-Wisp|p2a: Kingambit
+|-immune|p2a: Kingambit
+|
+|upkeep
+|turn|56
+|
+|t:|1781030574
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Maritime Messi|Will-O-Wisp|p2a: Kingambit
+|-immune|p2a: Kingambit
+|
+|upkeep
+|turn|57
+|
+|t:|1781030581
+|move|p1a: Maritime Messi|Pyro Ball|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1781030583
+|switch|p2a: Alomomola|Alomomola, M|41/100 brn
+|turn|58
+|
+|t:|1781030587
+|move|p1a: Maritime Messi|U-turn|p2a: Alomomola
+|-damage|p2a: Alomomola|30/100 brn
+|
+|t:|1781030589
+|switch|p1a: Diet Lele|Deoxys-Speed|70/100|[from] U-turn
+|-damage|p1a: Diet Lele|58/100|[from] Stealth Rock
+|-ability|p1a: Diet Lele|Pressure
+|move|p2a: Alomomola|Flip Turn|p1a: Diet Lele
+|-damage|p1a: Diet Lele|47/100
+|
+|t:|1781030596
+|switch|p2a: Rillaboom|Rillaboom, F|88/100 par|[from] Flip Turn
+|-damage|p2a: Rillaboom|76/100 par|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|
+|-heal|p1a: Diet Lele|53/100|[from] Grassy Terrain
+|-heal|p1a: Diet Lele|59/100|[from] item: Leftovers
+|-heal|p2a: Rillaboom|82/100 par|[from] Grassy Terrain
+|upkeep
+|turn|59
+|
+|t:|1781030608
+|switch|p1a: Maritime Messi|Cinderace, F|59/100
+|move|p2a: Rillaboom|Grassy Glide|p1a: Maritime Messi
+|-resisted|p1a: Maritime Messi
+|-crit|p1a: Maritime Messi
+|-damage|p1a: Maritime Messi|3/100
+|
+|-heal|p1a: Maritime Messi|9/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|88/100 par|[from] Grassy Terrain
+|upkeep
+|turn|60
+|inactive|5th Floor Atrium has 120 seconds left.
+|
+|t:|1781030654
+|switch|p2a: Alomomola|Alomomola, M|63/100 brn
+|move|p1a: Maritime Messi|Pyro Ball|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|41/100 brn
+|
+|-heal|p1a: Maritime Messi|15/100|[from] Grassy Terrain
+|-heal|p2a: Alomomola|47/100 brn|[from] Grassy Terrain
+|-damage|p2a: Alomomola|41/100 brn|[from] brn
+|upkeep
+|turn|61
+|
+|t:|1781030663
+|move|p1a: Maritime Messi|U-turn|p2a: Alomomola
+|-damage|p2a: Alomomola|29/100 brn
+|
+|t:|1781030665
+|switch|p1a: Diet Lele|Deoxys-Speed|59/100|[from] U-turn
+|-damage|p1a: Diet Lele|46/100|[from] Stealth Rock
+|-ability|p1a: Diet Lele|Pressure
+|move|p2a: Alomomola|Flip Turn|p1a: Diet Lele
+|-damage|p1a: Diet Lele|35/100
+|inactive|5th Floor Atrium has 120 seconds left.
+|
+|t:|1781030672
+|switch|p2a: Rillaboom|Rillaboom, F|88/100 par|[from] Flip Turn
+|-damage|p2a: Rillaboom|76/100 par|[from] Stealth Rock
+|
+|-heal|p1a: Diet Lele|41/100|[from] Grassy Terrain
+|-heal|p1a: Diet Lele|47/100|[from] item: Leftovers
+|-heal|p2a: Rillaboom|82/100 par|[from] Grassy Terrain
+|upkeep
+|turn|62
+|
+|t:|1781030675
+|move|p2a: Rillaboom|Grassy Glide|p1a: Diet Lele
+|-damage|p1a: Diet Lele|0 fnt
+|faint|p1a: Diet Lele
+|
+|-heal|p2a: Rillaboom|88/100 par|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|-message|SofteLocke forfeited.
+|
+|win|5th Floor Atrium
+|raw|SofteLocke's rating: 1604 &rarr; <strong>1584</strong><br />(-20 for losing)
+|raw|5th Floor Atrium's rating: 1605 &rarr; <strong>1625</strong><br />(+20 for winning)
+|l|☆SofteLocke
+|player|p1|
+|l|☆5th Floor Atrium
+|player|p2|

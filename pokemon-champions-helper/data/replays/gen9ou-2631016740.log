@@ -1,0 +1,209 @@
+|j|☆zxcvbh
+|j|☆cataclyst03
+|t:|1781325536
+|gametype|singles
+|player|p1|zxcvbh|elesa|1501
+|player|p2|cataclyst03|hilbert|1546
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Darkrai|
+|poke|p1|Great Tusk|
+|poke|p1|Dragonite, F|
+|poke|p1|Gholdengo|
+|poke|p1|Glimmora, F|
+|poke|p2|Cresselia, F|
+|poke|p2|Torkoal, F|
+|poke|p2|Ursaluna, M|
+|poke|p2|Porygon2|
+|poke|p2|Glastrier|
+|poke|p2|Hatterene, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by cataclyst03)
+|j| Yamhard
+|
+|t:|1781325553
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Darkrai|Darkrai|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|1
+|
+|t:|1781325561
+|move|p1a: Darkrai|Trick|p2a: Hatterene
+|-activate|p1a: Darkrai|move: Trick|[of] p2a: Hatterene
+|-item|p2a: Hatterene|Choice Scarf|[from] move: Trick
+|-item|p1a: Darkrai|Life Orb|[from] move: Trick
+|move|p2a: Hatterene|Draining Kiss|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|15/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781325577
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|move|p2a: Hatterene|Draining Kiss|p1a: Glimmora
+|-resisted|p1a: Glimmora
+|-damage|p1a: Glimmora|82/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781325598
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|move|p1a: Glimmora|Sludge Wave|p2a: Cresselia
+|-damage|p2a: Cresselia|65/100
+|-status|p2a: Cresselia|psn
+|
+|-damage|p2a: Cresselia|53/100 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1781325603
+|move|p1a: Glimmora|Stealth Rock|p2a: Cresselia
+|-sidestart|p2: cataclyst03|move: Stealth Rock
+|move|p2a: Cresselia|Trick Room|p2a: Cresselia
+|-fieldstart|move: Trick Room|[of] p2a: Cresselia
+|
+|-damage|p2a: Cresselia|40/100 psn|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1781325610
+|move|p2a: Cresselia|Lunar Dance|p2a: Cresselia
+|faint|p2a: Cresselia
+|move|p1a: Glimmora|Sludge Wave|p2: Cresselia|[notarget]
+|-fail|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1781325628
+|switch|p2a: Glastrier|Glastrier|100/100
+|turn|6
+|l| Yamhard
+|
+|t:|1781325645
+|move|p2a: Glastrier|High Horsepower|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: cataclyst03|move: Toxic Spikes
+|faint|p1a: Glimmora
+|-ability|p2a: Glastrier|Chilling Neigh|boost
+|-boost|p2a: Glastrier|atk|1
+|
+|upkeep
+|
+|t:|1781325657
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|7
+|
+|t:|1781325663
+|move|p2a: Glastrier|Icicle Crash|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|58/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|move|p1a: Gholdengo|Make It Rain|p2a: Glastrier
+|-supereffective|p2a: Glastrier
+|-damage|p2a: Glastrier|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Glastrier
+|
+|upkeep
+|
+|t:|1781325684
+|switch|p2a: Ursaluna|Ursaluna, M|100/100
+|-damage|p2a: Ursaluna|94/100|[from] Stealth Rock
+|-status|p2a: Ursaluna|psn
+|turn|8
+|
+|t:|1781325697
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|move|p2a: Ursaluna|Swords Dance|p2a: Ursaluna
+|-boost|p2a: Ursaluna|atk|2
+|
+|-damage|p2a: Ursaluna|82/100 psn|[from] psn
+|-fieldend|move: Trick Room
+|upkeep
+|turn|9
+|
+|t:|1781325704
+|-terastallize|p2a: Ursaluna|Normal
+|move|p1a: Dragonite|Encore|p2a: Ursaluna
+|-start|p2a: Ursaluna|Encore
+|move|p2a: Ursaluna|Swords Dance|p2a: Ursaluna
+|-boost|p2a: Ursaluna|atk|2
+|
+|-damage|p2a: Ursaluna|69/100 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1781325710
+|switch|p2a: Porygon2|Porygon2|100/100
+|-damage|p2a: Porygon2|88/100|[from] Stealth Rock
+|-status|p2a: Porygon2|psn
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|atk|1
+|move|p1a: Dragonite|Earthquake|p2a: Porygon2
+|-damage|p2a: Porygon2|65/100 psn
+|
+|-damage|p2a: Porygon2|53/100 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1781325725
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|100/100 psn
+|
+|-damage|p2a: Porygon2|88/100 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1781325729
+|move|p1a: Dragonite|Encore|p2a: Porygon2
+|-start|p2a: Porygon2|Encore
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|100/100 psn
+|
+|-damage|p2a: Porygon2|88/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1781325735
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-heal|p2a: Hatterene|100/100|[from] move: Lunar Dance
+|-damage|p2a: Hatterene|88/100|[from] Stealth Rock
+|-status|p2a: Hatterene|psn
+|move|p1a: Dragonite|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|26/100 psn
+|
+|-damage|p2a: Hatterene|13/100 psn|[from] psn
+|upkeep
+|turn|14
+|c|☆cataclyst03|I was gonna click facade too
+|c|☆cataclyst03|Gg
+|-message|cataclyst03 forfeited.
+|
+|win|zxcvbh
+|raw|zxcvbh's rating: 1501 &rarr; <strong>1524</strong><br />(+23 for winning)
+|raw|cataclyst03's rating: 1546 &rarr; <strong>1523</strong><br />(-23 for losing)
+|l|☆cataclyst03
+|player|p2|
+|l|☆zxcvbh
+|player|p1|

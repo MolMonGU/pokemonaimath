@@ -1,0 +1,315 @@
+|j|☆bigburgerboss
+|j|☆KurisuChestnutOU
+|t:|1781165853
+|gametype|singles
+|player|p1|bigburgerboss|1|1537
+|player|p2|KurisuChestnutOU|may-contest|1649
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Deoxys-Speed|
+|poke|p1|Tyranitar, M|
+|poke|p1|Excadrill, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Scizor, M|
+|poke|p2|Kingambit, M|
+|poke|p2|Kommo-o, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Kyurem|
+|poke|p2|Iron Treads|
+|poke|p2|Iron Crown|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutOU)
+|
+|t:|1781165871
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781165881
+|move|p2a: Iron Treads|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|47/100
+|move|p1a: Dragapult|Will-O-Wisp|p2a: Iron Treads
+|-status|p2a: Iron Treads|brn
+|
+|-damage|p2a: Iron Treads|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1781165892
+|move|p2a: Iron Treads|Stealth Rock|p1a: Dragapult
+|-sidestart|p1: bigburgerboss|move: Stealth Rock
+|move|p1a: Dragapult|Hex|p2a: Iron Treads
+|-damage|p2a: Iron Treads|3/100 brn
+|-damage|p1a: Dragapult|37/100|[from] item: Life Orb
+|
+|-damage|p2a: Iron Treads|0 fnt|[from] brn
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|upkeep
+|
+|t:|1781165896
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|3
+|
+|t:|1781165905
+|move|p2a: Iron Valiant|Moonblast|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1781165916
+|switch|p1a: Scizor|Scizor, M|100/100
+|-damage|p1a: Scizor|88/100|[from] Stealth Rock
+|turn|4
+|
+|t:|1781165922
+|move|p1a: Scizor|Bullet Punch|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|13/100
+|move|p2a: Iron Valiant|Focus Blast|p1a: Scizor
+|-damage|p1a: Scizor|21/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781165933
+|move|p1a: Scizor|Bullet Punch|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781165936
+|switch|p2a: Kommo-o|Kommo-o, M|100/100
+|turn|6
+|
+|t:|1781165943
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|68/100
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|-heal|p2a: Kommo-o|74/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781165949
+|move|p1a: Scizor|Bullet Punch|p2a: Kommo-o
+|-damage|p2a: Kommo-o|34/100
+|move|p2a: Kommo-o|Drain Punch|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|-heal|p2a: Kommo-o|44/100|[from] drain|[of] p1a: Scizor
+|faint|p1a: Scizor
+|
+|-heal|p2a: Kommo-o|50/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781165958
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-damage|p1a: Deoxys|88/100|[from] Stealth Rock
+|-ability|p1a: Deoxys|Pressure
+|turn|8
+|
+|t:|1781165965
+|-terastallize|p2a: Kommo-o|Ghost
+|move|p1a: Deoxys|Psycho Boost|p2a: Kommo-o
+|-damage|p2a: Kommo-o|19/100
+|-unboost|p1a: Deoxys|spa|2
+|move|p2a: Kommo-o|Drain Punch|p1a: Deoxys
+|-resisted|p1a: Deoxys
+|-damage|p1a: Deoxys|61/100
+|-heal|p2a: Kommo-o|31/100|[from] drain|[of] p1a: Deoxys
+|
+|-heal|p2a: Kommo-o|37/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781165975
+|move|p1a: Deoxys|Thunder Wave|p2a: Kommo-o
+|-status|p2a: Kommo-o|par
+|cant|p2a: Kommo-o|par
+|
+|-heal|p2a: Kommo-o|44/100 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781165984
+|move|p2a: Kommo-o|Drain Punch|p1a: Deoxys
+|-resisted|p1a: Deoxys
+|-damage|p1a: Deoxys|36/100
+|-heal|p2a: Kommo-o|54/100 par|[from] drain|[of] p1a: Deoxys
+|move|p1a: Deoxys|Teleport|p1a: Deoxys
+|
+|t:|1781165987
+|switch|p1a: Tyranitar|Tyranitar, M|100/100|[from] Teleport
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kommo-o|48/100 par|[from] Sandstorm
+|-heal|p2a: Kommo-o|54/100 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781165996
+|-terastallize|p1a: Tyranitar|Ghost
+|move|p1a: Tyranitar|Dragon Dance|p1a: Tyranitar
+|-boost|p1a: Tyranitar|atk|1
+|-boost|p1a: Tyranitar|spe|1
+|move|p2a: Kommo-o|Drain Punch|p1a: Tyranitar
+|-immune|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tyranitar|82/100|[from] Sandstorm
+|-damage|p2a: Kommo-o|48/100 par|[from] Sandstorm
+|-heal|p2a: Kommo-o|54/100 par|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781166009
+|move|p1a: Tyranitar|Knock Off|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|-enditem|p2a: Kommo-o|Leftovers|[from] move: Knock Off|[of] p1a: Tyranitar
+|faint|p2a: Kommo-o
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tyranitar|76/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781166012
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|turn|13
+|
+|t:|1781166018
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|-damage|p1a: Excadrill|97/100|[from] Stealth Rock
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781166027
+|move|p2a: Kingambit|Sucker Punch|p1a: Excadrill
+|-damage|p1a: Excadrill|21/100
+|move|p1a: Excadrill|Earthquake|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen3|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781166031
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|15
+|
+|t:|1781166038
+|move|p1a: Excadrill|Iron Head|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|11/100
+|move|p2a: Kyurem|Dragon Dance|p2a: Kyurem
+|-boost|p2a: Kyurem|atk|1
+|-boost|p2a: Kyurem|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kyurem|5/100|[from] Sandstorm
+|upkeep
+|turn|16
+|
+|t:|1781166044
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-enditem|p2a: Iron Crown|Booster Energy
+|-activate|p2a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Crown|quarkdrivespe
+|move|p1a: Excadrill|Iron Head|p2a: Iron Crown
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|76/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781166050
+|move|p1a: Excadrill|Earthquake|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781166055
+|switch|p2a: Kyurem|Kyurem|5/100
+|-ability|p2a: Kyurem|Pressure
+|turn|18
+|
+|t:|1781166059
+|move|p2a: Kyurem|Scale Shot|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|13/100
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|4/100
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|-hitcount|p1: Excadrill|3
+|-unboost|p2a: Kyurem|def|1
+|-boost|p2a: Kyurem|spe|1
+|
+|upkeep
+|
+|t:|1781166063
+|switch|p1a: Tyranitar|Tyranitar, M, tera:Ghost|76/100
+|-damage|p1a: Tyranitar|64/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|19
+|
+|t:|1781166067
+|move|p2a: Kyurem|Dragon Dance|p2a: Kyurem
+|-boost|p2a: Kyurem|atk|1
+|-boost|p2a: Kyurem|spe|1
+|move|p1a: Tyranitar|Knock Off|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|-enditem|p2a: Kyurem|Loaded Dice|[from] move: Knock Off|[of] p1a: Tyranitar
+|faint|p2a: Kyurem
+|
+|win|bigburgerboss
+|raw|bigburgerboss's rating: 1537 &rarr; <strong>1563</strong><br />(+26 for winning)
+|raw|KurisuChestnutOU's rating: 1640 &rarr; <strong>1614</strong><br />(-26 for losing)

@@ -1,0 +1,322 @@
+|j|☆Klopple
+|j|☆meio_potato
+|t:|1781377533
+|gametype|singles
+|player|p1|Klopple|sailor|1641
+|player|p2|meio_potato|hilda-wonderlauncher|1645
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Arboliva, M|
+|poke|p1|Gliscor, M|
+|poke|p1|Iron Crown|
+|poke|p1|Zamazenta-*|
+|poke|p1|Hatterene, F|
+|poke|p1|Dragonite, M|
+|poke|p2|Latias, F|
+|poke|p2|Polteageist|
+|poke|p2|Zamazenta-*|
+|poke|p2|Kingambit, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Iron Moth|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by meio_potato)
+|
+|t:|1781377544
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|1
+|
+|t:|1781377548
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Hatterene|Nuzzle|p2a: Ogerpon
+|-damage|p2a: Ogerpon|96/100
+|-status|p2a: Ogerpon|par
+|
+|upkeep
+|turn|2
+|
+|t:|1781377554
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|cant|p2a: Ogerpon|par
+|
+|upkeep
+|turn|3
+|
+|t:|1781377561
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Dragonite|[anim] Ivy Cudgel Water
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|71/100
+|move|p1a: Dragonite|Dragon Tail|p2a: Ogerpon
+|-damage|p2a: Ogerpon|48/100 par
+|drag|p2a: Polteageist|Polteageist|100/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781377569
+|move|p2a: Polteageist|Shadow Ball|p1a: Dragonite
+|-damage|p1a: Dragonite|33/100
+|-unboost|p1a: Dragonite|spd|1
+|move|p1a: Dragonite|Dragon Tail|p2a: Polteageist
+|-damage|p2a: Polteageist|35/100
+|-ability|p2a: Polteageist|Weak Armor|boost
+|-unboost|p2a: Polteageist|def|1
+|-boost|p2a: Polteageist|spe|2
+|drag|p2a: Latias|Latias, F|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781377583
+|-terastallize|p2a: Latias|Fairy
+|move|p2a: Latias|Agility|p2a: Latias
+|-boost|p2a: Latias|spe|2
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|83/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|upkeep
+|turn|6
+|
+|t:|1781377588
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781377593
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|77/100
+|-enditem|p2a: Latias|Weakness Policy
+|-boost|p2a: Latias|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Latias|spa|2|[from] item: Weakness Policy
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|55/100
+|-hitcount|p2a: Latias|2
+|
+|upkeep
+|turn|8
+|
+|t:|1781377601
+|move|p2a: Latias|Draining Kiss|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|74/100
+|-heal|p2a: Latias|76/100|[from] drain|[of] p1a: Iron Crown
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|53/100
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|29/100
+|-hitcount|p2a: Latias|2
+|
+|upkeep
+|turn|9
+|
+|t:|1781377612
+|move|p2a: Latias|Stored Power|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|31/100
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|7/100
+|-supereffective|p2a: Latias
+|-crit|p2a: Latias
+|-damage|p2a: Latias|0 fnt
+|faint|p2a: Latias
+|-hitcount|p2: Latias|2
+|
+|upkeep
+|
+|t:|1781377616
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|turn|10
+|
+|t:|1781377625
+|move|p2a: Iron Moth|Fiery Dance|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781377628
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|turn|11
+|
+|t:|1781377633
+|move|p2a: Iron Moth|Fiery Dance|p1a: Gliscor
+|-damage|p1a: Gliscor|66/100
+|-boost|p2a: Iron Moth|spa|1
+|move|p1a: Gliscor|Earthquake|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-enditem|p2a: Iron Moth|Focus Sash
+|-damage|p2a: Iron Moth|1/100
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|12
+|
+|t:|1781377638
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Iron Moth|Fiery Dance|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p1a: Gliscor|78/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|13
+|
+|t:|1781377645
+|move|p2a: Iron Moth|Fiery Dance|p1a: Gliscor
+|-crit|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|-boost|p2a: Iron Moth|spa|1
+|faint|p1a: Gliscor
+|
+|upkeep
+|
+|t:|1781377653
+|switch|p1a: Dragonite|Dragonite, M|83/100
+|turn|14
+|
+|t:|1781377656
+|move|p1a: Dragonite|Extreme Speed|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781377661
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|15
+|
+|t:|1781377666
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|upkeep
+|turn|16
+|
+|t:|1781377675
+|move|p1a: Hatterene|Nuzzle|p2a: Zamazenta
+|-damage|p2a: Zamazenta|99/100
+|-status|p2a: Zamazenta|par
+|cant|p2a: Zamazenta|par
+|
+|-heal|p2a: Zamazenta|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781377681
+|move|p1a: Hatterene|Psychic Noise|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|43/100 par
+|-start|p2a: Zamazenta|move: Heal Block
+|cant|p2a: Zamazenta|par
+|
+|upkeep
+|turn|18
+|
+|t:|1781377688
+|move|p1a: Hatterene|Draining Kiss|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-crit|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781377694
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|turn|19
+|
+|t:|1781377705
+|move|p2a: Kingambit|Iron Head|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-damage|p2a: Kingambit|84/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781377710
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|20
+|
+|t:|1781377715
+|switch|p2a: Polteageist|Polteageist|35/100
+|move|p1a: Zamazenta|Close Combat|p2a: Polteageist
+|-immune|p2a: Polteageist
+|
+|upkeep
+|turn|21
+|
+|t:|1781377719
+|move|p1a: Zamazenta|Crunch|p2a: Polteageist
+|-supereffective|p2a: Polteageist
+|-damage|p2a: Polteageist|0 fnt
+|faint|p2a: Polteageist
+|
+|upkeep
+|
+|t:|1781377721
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|48/100 par
+|turn|22
+|
+|t:|1781377724
+|move|p1a: Zamazenta|Close Combat|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781377736
+|switch|p2a: Kingambit|Kingambit, M|84/100
+|turn|23
+|
+|t:|1781377737
+|move|p1a: Zamazenta|Close Combat|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|faint|p2a: Kingambit
+|
+|win|Klopple
+|raw|Klopple's rating: 1641 &rarr; <strong>1661</strong><br />(+20 for winning)
+|raw|meio_potato's rating: 1645 &rarr; <strong>1625</strong><br />(-20 for losing)
+|l|☆meio_potato
+|player|p2|
+|l|☆Klopple
+|player|p1|

@@ -1,0 +1,237 @@
+|j|☆arteezy magnus
+|j|‽SWAGGER_W2F
+|t:|1781593479
+|gametype|singles
+|player|p1|arteezy magnus|2|1521
+|player|p2|SWAGGER_W2F|flint|1582
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragonite, F|
+|poke|p1|Blaziken, F|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Gholdengo|
+|poke|p1|Kyurem|
+|poke|p1|Iron Valiant|
+|poke|p2|Ceruledge, F|
+|poke|p2|Scizor, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Primarina, F|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Great Tusk|
+|teampreview
+|
+|t:|1781593522
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781593529
+|move|p1a: Kyurem|Earth Power|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|56/100
+|move|p2a: Ceruledge|Bitter Blade|p1a: Kyurem
+|-crit|p1a: Kyurem
+|-damage|p1a: Kyurem|41/100
+|-heal|p2a: Ceruledge|89/100|[from] drain|[of] p1a: Kyurem
+|
+|upkeep
+|turn|2
+|
+|t:|1781593540
+|move|p1a: Kyurem|Earth Power|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|48/100
+|move|p2a: Ceruledge|Bitter Blade|p1a: Kyurem
+|-damage|p1a: Kyurem|1/100
+|-heal|p2a: Ceruledge|71/100|[from] drain|[of] p1a: Kyurem
+|
+|upkeep
+|turn|3
+|
+|t:|1781593551
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781593575
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|4
+|
+|t:|1781593584
+|switch|p2a: Mandibuzz|Mandibuzz, F|100/100
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|5
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SWAGGER_W2F)
+|
+|t:|1781593611
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Mandibuzz|Foul Play|p1a: Dragonite
+|-damage|p1a: Dragonite|39/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781593618
+|move|p1a: Dragonite|Outrage|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|0 fnt
+|faint|p2a: Mandibuzz
+|-damage|p1a: Dragonite|29/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781593623
+|switch|p2a: Primarina|Primarina, F|100/100
+|turn|7
+|
+|t:|1781593626
+|move|p1a: Dragonite|Outrage|p2a: Primarina|[from] lockedmove
+|-immune|p2a: Primarina
+|move|p2a: Primarina|Draining Kiss|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1781593642
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|8
+|
+|t:|1781593647
+|move|p1a: Deoxys|Stealth Rock|p2a: Primarina
+|-sidestart|p2: SWAGGER_W2F|move: Stealth Rock
+|move|p2a: Primarina|Calm Mind|p2a: Primarina
+|-boost|p2a: Primarina|spa|1
+|-boost|p2a: Primarina|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1781593653
+|move|p1a: Deoxys|Taunt|p2a: Primarina
+|-start|p2a: Primarina|move: Taunt
+|move|p2a: Primarina|Draining Kiss|p1a: Deoxys
+|-damage|p1a: Deoxys|63/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781593660
+|move|p1a: Deoxys|Spikes|p2a: Primarina
+|-sidestart|p2: SWAGGER_W2F|Spikes
+|move|p2a: Primarina|Psychic Noise|p1a: Deoxys
+|-damage|p1a: Deoxys|4/100
+|-start|p1a: Deoxys|move: Heal Block
+|
+|upkeep
+|turn|11
+|
+|t:|1781593688
+|move|p1a: Deoxys|Spikes|p2a: Primarina
+|-sidestart|p2: SWAGGER_W2F|Spikes
+|move|p2a: Primarina|Draining Kiss|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|-end|p2a: Primarina|move: Taunt
+|upkeep
+|
+|t:|1781593696
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|12
+|
+|t:|1781593705
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Primarina|Draining Kiss|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|86/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781593714
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|move|p2a: Primarina|Calm Mind|p2a: Primarina
+|-boost|p2a: Primarina|spa|1
+|-boost|p2a: Primarina|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1781593722
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|move|p2a: Primarina|Psychic Noise|p1a: Gholdengo
+|-damage|p1a: Gholdengo|20/100
+|-start|p1a: Gholdengo|move: Heal Block
+|
+|upkeep
+|turn|15
+|-enditem|p1a: Gholdengo|Custap Berry|[eat]
+|-activate|p1a: Gholdengo|item: Custap Berry|[consumed]
+|
+|t:|1781593748
+|move|p1a: Gholdengo|Make It Rain|p2a: Primarina
+|-damage|p2a: Primarina|22/100
+|-unboost|p1a: Gholdengo|spa|1
+|move|p2a: Primarina|Psychic Noise|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-heal|p2a: Primarina|28/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781593758
+|switch|p1a: Blaziken|Blaziken, F|100/100
+|turn|16
+|
+|t:|1781593765
+|move|p1a: Blaziken|Close Combat|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|7/100
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|move|p2a: Primarina|Psychic Noise|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|-heal|p2a: Primarina|13/100|[from] item: Leftovers
+|upkeep
+|-message|arteezy magnus forfeited.
+|
+|win|SWAGGER_W2F
+|raw|arteezy magnus's rating: 1521 &rarr; <strong>1504</strong><br />(-17 for losing)
+|raw|SWAGGER_W2F's rating: 1582 &rarr; <strong>1599</strong><br />(+17 for winning)
+|l|☆arteezy magnus
+|player|p1|
+|l|‽SWAGGER_W2F
+|player|p2|

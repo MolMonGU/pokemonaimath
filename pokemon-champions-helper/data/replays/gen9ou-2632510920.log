@@ -1,0 +1,259 @@
+|j|☆erhai
+|j|☆Noamm
+|t:|1781534233
+|gametype|singles
+|player|p1|erhai|101|1662
+|player|p2|Noamm|gambler|1734
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Jugulis|
+|poke|p1|Ogerpon, F|
+|poke|p1|Scizor, F|
+|poke|p1|Latios, M|
+|poke|p1|Manaphy|
+|poke|p1|Sandy Shocks|
+|poke|p2|Lokix, F|
+|poke|p2|Gholdengo|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Great Tusk|
+|poke|p2|Zamazenta-*|
+|poke|p2|Hydreigon, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Noamm)
+|
+|t:|1781534243
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sandy Shocks|Sandy Shocks|100/100
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|-enditem|p1a: Sandy Shocks|Booster Energy
+|-activate|p1a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p1a: Sandy Shocks|protosynthesisspe
+|turn|1
+|
+|t:|1781534246
+|move|p1a: Sandy Shocks|Stealth Rock|p2a: Slowking
+|-sidestart|p2: Noamm|move: Stealth Rock
+|move|p2a: Slowking|Ice Beam|p1a: Sandy Shocks
+|-supereffective|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|32/100
+|
+|upkeep
+|turn|2
+|j| little dig planet
+|
+|t:|1781534261
+|move|p1a: Sandy Shocks|Spikes|p2a: Slowking
+|-sidestart|p2: Noamm|Spikes
+|move|p2a: Slowking|Ice Beam|p1a: Sandy Shocks
+|-supereffective|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|0 fnt
+|faint|p1a: Sandy Shocks
+|-end|p1a: Sandy Shocks|Protosynthesis|[silent]
+|
+|upkeep
+|inactive|erhai has 120 seconds left.
+|
+|t:|1781534289
+|switch|p1a: Manaphy|Manaphy, shiny|100/100
+|turn|3
+|
+|t:|1781534291
+|move|p1a: Manaphy|Tail Glow|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|3
+|move|p2a: Slowking|Sludge Bomb|p1a: Manaphy
+|-damage|p1a: Manaphy|57/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781534306
+|move|p1a: Manaphy|Surf|p2a: Slowking
+|-damage|p2a: Slowking|51/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Manaphy
+|-damage|p1a: Manaphy|16/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781534313
+|move|p1a: Manaphy|Surf|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781534320
+|switch|p2a: Hydreigon|Hydreigon, M|100/100
+|-damage|p2a: Hydreigon|88/100|[from] Stealth Rock
+|turn|6
+|j| choispecs ironmoth
+|
+|t:|1781534348
+|move|p1a: Manaphy|Ice Beam|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|upkeep
+|
+|t:|1781534352
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-damage|p2a: Zamazenta|94/100|[from] Stealth Rock
+|-damage|p2a: Zamazenta|82/100|[from] Spikes
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|7
+|
+|t:|1781534361
+|move|p2a: Zamazenta|Crunch|p1a: Manaphy
+|-damage|p1a: Manaphy|0 fnt
+|faint|p1a: Manaphy
+|
+|-heal|p2a: Zamazenta|88/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781534366
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|8
+|
+|t:|1781534372
+|-terastallize|p2a: Zamazenta|Fire
+|move|p1a: Iron Jugulis|Hurricane|p2a: Zamazenta
+|-damage|p2a: Zamazenta|39/100
+|move|p2a: Zamazenta|Body Press|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|38/100
+|
+|-heal|p2a: Zamazenta|46/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781534379
+|move|p1a: Iron Jugulis|Earth Power|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781534382
+|switch|p2a: Lokix|Lokix, F|100/100
+|-damage|p2a: Lokix|76/100|[from] Stealth Rock
+|-damage|p2a: Lokix|63/100|[from] Spikes
+|turn|10
+|
+|t:|1781534390
+|move|p2a: Lokix|First Impression|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781534394
+|switch|p1a: Scizor|Scizor, F, shiny|100/100
+|turn|11
+|
+|t:|1781534398
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|upkeep
+|turn|12
+|
+|t:|1781534403
+|move|p2a: Great Tusk|Headlong Rush|p1a: Scizor
+|-damage|p1a: Scizor|41/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|upkeep
+|turn|13
+|j| bingbong441
+|inactive|Noamm has 120 seconds left.
+|
+|t:|1781534449
+|move|p1a: Scizor|Bullet Punch|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781534451
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|94/100|[from] Stealth Rock
+|-damage|p2a: Gholdengo|82/100|[from] Spikes
+|turn|14
+|
+|t:|1781534454
+|move|p1a: Scizor|Bullet Punch|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|14/100
+|move|p2a: Gholdengo|Shadow Ball|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1781534463
+|switch|p1a: Latios|Latios, M, shiny|100/100
+|turn|15
+|
+|t:|1781534475
+|move|p1a: Latios|Agility|p1a: Latios
+|-boost|p1a: Latios|spe|2
+|move|p2a: Gholdengo|Shadow Ball|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|24/100
+|-enditem|p1a: Latios|Weakness Policy
+|-boost|p1a: Latios|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Latios|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|16
+|
+|t:|1781534481
+|move|p1a: Latios|Stored Power|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781534484
+|switch|p2a: Lokix|Lokix, F|63/100
+|-damage|p2a: Lokix|39/100|[from] Stealth Rock
+|-damage|p2a: Lokix|26/100|[from] Spikes
+|turn|17
+|
+|t:|1781534487
+|move|p1a: Latios|Aura Sphere|p2a: Lokix
+|-damage|p2a: Lokix|0 fnt
+|faint|p2a: Lokix
+|
+|win|erhai
+|raw|erhai's rating: 1662 &rarr; <strong>1686</strong><br />(+24 for winning)
+|raw|Noamm's rating: 1734 &rarr; <strong>1710</strong><br />(-24 for losing)
+|c|☆Noamm|Gg
+|l|☆Noamm
+|player|p2|
+|l|☆erhai
+|player|p1|

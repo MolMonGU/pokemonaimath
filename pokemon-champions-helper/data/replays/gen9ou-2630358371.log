@@ -1,0 +1,523 @@
+|j|☆Yellowishnesses
+|j|☆Stealthalo
+|t:|1781243885
+|gametype|singles
+|player|p1|Yellowishnesses|evelyn|1555
+|player|p2|Stealthalo|2|1524
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Blissey, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Alomomola, F|
+|poke|p1|Lokix, M|
+|poke|p1|Weezing-Galar, M|
+|poke|p1|Cinderace, F|
+|poke|p2|Mamoswine, M|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Moltres|
+|poke|p2|Glimmora, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Yellowishnesses)
+|
+|t:|1781243891
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Lokix|Lokix, M|100/100
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|1
+|
+|t:|1781243897
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Lokix|First Impression|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|78/100
+|-status|p1a: Lokix|brn|[from] ability: Flame Body|[of] p2a: Moltres
+|
+|-damage|p1a: Lokix|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1781243908
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Moltres|U-turn|p1a: Blissey
+|-damage|p1a: Blissey|85/100
+|
+|t:|1781243913
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1781243918
+|move|p2a: Ogerpon|Knock Off|p1a: Blissey
+|-damage|p1a: Blissey|44/100
+|-enditem|p1a: Blissey|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ogerpon
+|move|p1a: Blissey|Thunder Wave|p2a: Ogerpon
+|-status|p2a: Ogerpon|par
+|
+|upkeep
+|turn|4
+|
+|t:|1781243927
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Ogerpon|Knock Off|p1a: Ogerpon
+|-damage|p1a: Ogerpon|67/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781243937
+|move|p1a: Ogerpon|Trailblaze|p2a: Ogerpon
+|-damage|p2a: Ogerpon|60/100 par
+|-boost|p1a: Ogerpon|spe|1
+|move|p2a: Ogerpon|Horn Leech|p1a: Ogerpon
+|-damage|p1a: Ogerpon|7/100
+|-heal|p2a: Ogerpon|90/100 par|[from] drain|[of] p1a: Ogerpon
+|
+|upkeep
+|turn|6
+|
+|t:|1781243947
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|cant|p2a: Ogerpon|par
+|
+|upkeep
+|turn|7
+|
+|t:|1781243953
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|move|p1a: Cinderace|U-turn|p2a: Glimmora
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|85/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: Yellowishnesses|move: Toxic Spikes
+|
+|t:|1781243959
+|switch|p1a: Blissey|Blissey, F|44/100|[from] U-turn
+|-status|p1a: Blissey|psn
+|
+|-heal|p2a: Glimmora|91/100|[from] item: Leftovers
+|-damage|p1a: Blissey|32/100 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781243969
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|82/100 psn
+|
+|-damage|p1a: Blissey|69/100 psn|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1781243978
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|76/100
+|move|p1a: Blissey|Heal Bell|p1a: Blissey
+|-activate|p1a: Blissey|move: Heal Bell
+|-curestatus|p1a: Blissey|psn|[msg]
+|-curestatus|p1: Lokix|brn|[msg]
+|
+|-heal|p2a: Dragapult|82/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781243988
+|switch|p1a: Weezing|Weezing-Galar, M|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|-sideend|p1: Yellowishnesses|move: Toxic Spikes|[of] p1a: Weezing
+|move|p2a: Dragapult|Dragon Darts|p1a: Weezing
+|-immune|p1a: Weezing
+|
+|-heal|p2a: Dragapult|88/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781243997
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Weezing|Strange Steam|p2a: Dragapult|[miss]
+|-miss|p1a: Weezing|p2a: Dragapult
+|
+|-heal|p2a: Dragapult|94/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781244005
+|move|p2a: Dragapult|Phantom Force|p1a: Weezing|[from] lockedmove
+|-damage|p1a: Weezing|65/100
+|move|p1a: Weezing|Strange Steam|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-end|p2a: Dragapult|Substitute
+|
+|-heal|p2a: Dragapult|99/100|[from] item: Leftovers
+|-heal|p1a: Weezing|71/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781244015
+|switch|p2a: Glimmora|Glimmora, M|91/100
+|move|p1a: Weezing|Strange Steam|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|79/100
+|
+|-heal|p2a: Glimmora|85/100|[from] item: Leftovers
+|-heal|p1a: Weezing|77/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781244024
+|move|p2a: Glimmora|Stealth Rock|p1a: Weezing
+|-sidestart|p1: Yellowishnesses|move: Stealth Rock
+|move|p1a: Weezing|Will-O-Wisp|p2a: Glimmora
+|-status|p2a: Glimmora|brn
+|
+|-heal|p2a: Glimmora|92/100 brn|[from] item: Leftovers
+|-heal|p1a: Weezing|83/100|[from] item: Leftovers
+|-damage|p2a: Glimmora|85/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781244033
+|move|p2a: Glimmora|Sludge Bomb|p1a: Weezing
+|-damage|p1a: Weezing|34/100
+|move|p1a: Weezing|Defog|p2a: Glimmora
+|-unboost|p2a: Glimmora|evasion|1
+|-sideend|p1: Yellowishnesses|Stealth Rock|[from] move: Defog|[of] p1a: Weezing
+|
+|-heal|p2a: Glimmora|92/100 brn|[from] item: Leftovers
+|-heal|p1a: Weezing|40/100|[from] item: Leftovers
+|-damage|p2a: Glimmora|85/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1781244055
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Blissey|Blissey, F|69/100
+|move|p2a: Glimmora|Sludge Bomb|p1a: Blissey
+|-damage|p1a: Blissey|55/100
+|
+|-heal|p2a: Glimmora|92/100 brn|[from] item: Leftovers
+|-damage|p2a: Glimmora|85/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781244065
+|move|p2a: Glimmora|Stealth Rock|p1a: Blissey
+|-sidestart|p1: Yellowishnesses|move: Stealth Rock
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|
+|-heal|p2a: Glimmora|92/100 brn|[from] item: Leftovers
+|-damage|p2a: Glimmora|85/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1781244077
+|move|p2a: Glimmora|Sludge Bomb|p1a: Blissey
+|-damage|p1a: Blissey|87/100
+|move|p1a: Blissey|Seismic Toss|p2a: Glimmora
+|-damage|p2a: Glimmora|58/100 brn
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: Yellowishnesses|move: Toxic Spikes
+|
+|-heal|p2a: Glimmora|65/100 brn|[from] item: Leftovers
+|-damage|p2a: Glimmora|58/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1781244089
+|switch|p2a: Mamoswine|Mamoswine, M|100/100
+|move|p1a: Blissey|Thunder Wave|p2a: Mamoswine
+|-immune|p2a: Mamoswine
+|
+|upkeep
+|turn|20
+|
+|t:|1781244095
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|-damage|p1a: Alomomola|88/100|[from] Stealth Rock
+|-status|p1a: Alomomola|psn
+|move|p2a: Mamoswine|Knock Off|p1a: Alomomola
+|-damage|p1a: Alomomola|67/100 psn
+|-damage|p2a: Mamoswine|84/100|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|-enditem|p1a: Alomomola|Rocky Helmet|[from] move: Knock Off|[of] p2a: Mamoswine
+|
+|-damage|p1a: Alomomola|55/100 psn|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1781244116
+|move|p2a: Mamoswine|Earthquake|p1a: Alomomola
+|-damage|p1a: Alomomola|24/100 psn
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-damage|p1a: Alomomola|12/100 psn|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1781244124
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Mamoswine|Earthquake|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-heal|p1a: Alomomola|62/100 psn|[from] move: Wish|[wisher] Alomomola
+|-damage|p1a: Alomomola|50/100 psn|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1781244139
+|move|p2a: Mamoswine|Earthquake|p1a: Alomomola
+|-damage|p1a: Alomomola|21/100 psn
+|move|p1a: Alomomola|Flip Turn|p2a: Mamoswine
+|-supereffective|p2a: Mamoswine
+|-damage|p2a: Mamoswine|47/100
+|
+|t:|1781244144
+|switch|p1a: Weezing|Weezing-Galar, M|40/100|[from] Flip Turn
+|-ability|p1a: Weezing|Neutralizing Gas
+|-damage|p1a: Weezing|27/100|[from] Stealth Rock
+|-sideend|p1: Yellowishnesses|move: Toxic Spikes|[of] p1a: Weezing
+|
+|-heal|p1a: Weezing|33/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781244159
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Lokix|Lokix, M|94/100
+|-damage|p1a: Lokix|70/100|[from] Stealth Rock
+|move|p2a: Mamoswine|Earthquake|p1a: Lokix
+|-resisted|p1a: Lokix
+|-damage|p1a: Lokix|29/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781244172
+|switch|p2a: Moltres|Moltres|78/100
+|move|p1a: Lokix|Knock Off|p2a: Moltres
+|-damage|p2a: Moltres|25/100
+|-enditem|p2a: Moltres|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Lokix
+|
+|upkeep
+|turn|26
+|
+|t:|1781244179
+|move|p1a: Lokix|Knock Off|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|
+|upkeep
+|
+|t:|1781244184
+|switch|p2a: Dragapult|Dragapult, M|99/100
+|turn|27
+|
+|t:|1781244198
+|switch|p1a: Alomomola|Alomomola, F|54/100 psn
+|-damage|p1a: Alomomola|42/100 psn|[from] Stealth Rock
+|move|p2a: Dragapult|Dragon Darts|p1a: Alomomola
+|-damage|p1a: Alomomola|27/100 psn
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Alomomola
+|-damage|p1a: Alomomola|13/100 psn
+|
+|-heal|p2a: Dragapult|100/100|[from] item: Leftovers
+|-damage|p1a: Alomomola|1/100 psn|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1781244210
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|76/100
+|move|p1a: Alomomola|Healing Wish|p1a: Alomomola
+|faint|p1a: Alomomola
+|
+|-heal|p2a: Dragapult|82/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781244216
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|7/100
+|-heal|p1a: Ogerpon|100/100|[from] move: Healing Wish
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|turn|29
+|
+|t:|1781244233
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Ogerpon|Knock Off|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-end|p2a: Dragapult|Substitute
+|
+|-heal|p2a: Dragapult|88/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781244246
+|move|p2a: Dragapult|Dragon Darts|p1a: Ogerpon
+|-damage|p1a: Ogerpon|43/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|-heal|p2a: Dragapult|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781244259
+|switch|p1a: Lokix|Lokix, M|29/100
+|-damage|p1a: Lokix|5/100|[from] Stealth Rock
+|turn|31
+|
+|t:|1781244263
+|-terastallize|p1a: Lokix|Bug
+|move|p1a: Lokix|First Impression|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1781244278
+|switch|p2a: Mamoswine|Mamoswine, M|47/100
+|turn|32
+|
+|t:|1781244283
+|switch|p1a: Weezing|Weezing-Galar, M|33/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|-damage|p1a: Weezing|21/100|[from] Stealth Rock
+|move|p2a: Mamoswine|Earthquake|p1a: Weezing
+|-supereffective|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|
+|upkeep
+|
+|t:|1781244290
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|turn|33
+|
+|t:|1781244298
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-start|p1a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|move|p2a: Mamoswine|Earthquake|p1a: Cinderace
+|-damage|p1a: Cinderace|13/100
+|
+|upkeep
+|turn|34
+|
+|t:|1781244308
+|move|p2a: Mamoswine|Ice Shard|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|upkeep
+|
+|t:|1781244312
+|switch|p1a: Lokix|Lokix, M, tera:Bug|5/100
+|turn|35
+|
+|t:|1781244316
+|switch|p2a: Glimmora|Glimmora, M|58/100 brn
+|-damage|p2a: Glimmora|46/100 brn|[from] Stealth Rock
+|move|p1a: Lokix|First Impression|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: Yellowishnesses|move: Toxic Spikes
+|faint|p2a: Glimmora
+|
+|upkeep
+|
+|t:|1781244326
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-damage|p2a: Weezing|88/100|[from] Stealth Rock
+|turn|36
+|
+|t:|1781244335
+|switch|p1a: Blissey|Blissey, F|87/100
+|-status|p1a: Blissey|psn
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|90/100 par
+|-damage|p2a: Ogerpon|78/100 par|[from] Stealth Rock
+|
+|-damage|p1a: Blissey|74/100 psn|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1781244346
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Blissey|[anim] Ivy Cudgel Water
+|-damage|p1a: Blissey|8/100 psn
+|move|p1a: Blissey|Heal Bell|p1a: Blissey
+|-activate|p1a: Blissey|move: Heal Bell
+|-curestatus|p1a: Blissey|psn|[msg]
+|
+|upkeep
+|turn|38
+|
+|t:|1781244353
+|move|p2a: Ogerpon|Horn Leech|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|-heal|p2a: Ogerpon|86/100 par|[from] drain|[of] p1a: Blissey
+|faint|p1a: Blissey
+|
+|upkeep
+|
+|t:|1781244356
+|switch|p1a: Lokix|Lokix, M, tera:Bug|5/100
+|-status|p1a: Lokix|psn
+|turn|39
+|
+|t:|1781244363
+|move|p1a: Lokix|Leech Life|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|-heal|p1a: Lokix|50/100 psn|[from] drain|[of] p2a: Ogerpon
+|faint|p2a: Ogerpon
+|
+|-damage|p1a: Lokix|38/100 psn|[from] psn
+|upkeep
+|
+|t:|1781244371
+|switch|p2a: Weezing|Weezing-Galar, F|88/100
+|-damage|p2a: Weezing|76/100|[from] Stealth Rock
+|turn|40
+|
+|t:|1781244375
+|move|p1a: Lokix|Leech Life|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|47/100
+|-heal|p1a: Lokix|55/100 psn|[from] drain|[of] p2a: Weezing
+|move|p2a: Weezing|Strange Steam|p1a: Lokix
+|-damage|p1a: Lokix|3/100 psn
+|
+|-heal|p2a: Weezing|53/100|[from] item: Leftovers
+|-damage|p1a: Lokix|0 fnt|[from] psn
+|faint|p1a: Lokix
+|
+|win|Stealthalo
+|raw|Yellowishnesses's rating: 1555 &rarr; <strong>1533</strong><br />(-22 for losing)
+|raw|Stealthalo's rating: 1524 &rarr; <strong>1546</strong><br />(+22 for winning)
+|l|☆Yellowishnesses
+|player|p1|
+|l|☆Stealthalo
+|player|p2|

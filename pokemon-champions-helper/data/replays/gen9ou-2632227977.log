@@ -1,0 +1,324 @@
+|j|☆suminkwak249
+|j|☆isaac_gam3r
+|t:|1781492553
+|gametype|singles
+|player|p1|suminkwak249|102|1605
+|player|p2|isaac_gam3r|acetrainer-gen4dp|1599
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torkoal, M|
+|poke|p1|Ceruledge, F|
+|poke|p1|Leavanny, F|
+|poke|p1|Walking Wake|
+|poke|p1|Raging Bolt|
+|poke|p1|Espeon, F|
+|poke|p2|Primarina, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Heatran, M|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Weavile, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by isaac_gam3r)
+|
+|t:|1781492557
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|1
+|
+|t:|1781492563
+|switch|p1a: Espeon|Espeon, F|100/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Espeon
+|-damage|p1a: Espeon|32/100
+|-enditem|p1a: Espeon|Eject Button
+|
+|t:|1781492565
+|switch|p1a: Leavanny|Leavanny, F|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781492571
+|move|p1a: Leavanny|Sticky Web|p2a: Raging Bolt
+|-sidestart|p2: isaac_gam3r|move: Sticky Web
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Leavanny
+|-damage|p1a: Leavanny|3/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781492573
+|move|p2a: Raging Bolt|Thunderclap|p1a: Leavanny
+|-resisted|p1a: Leavanny
+|-damage|p1a: Leavanny|0 fnt
+|faint|p1a: Leavanny
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781492577
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|turn|4
+|
+|t:|1781492579
+|-terastallize|p1a: Walking Wake|Water
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p1a: Walking Wake|Hydro Steam|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781492587
+|switch|p2a: Primarina|Primarina, F, shiny|100/100
+|-activate|p2a: Primarina|move: Sticky Web
+|-unboost|p2a: Primarina|spe|1
+|turn|5
+|
+|t:|1781492589
+|move|p1a: Walking Wake|Hydro Steam|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|33/100
+|move|p2a: Primarina|Draining Kiss|p1a: Walking Wake
+|-crit|p1a: Walking Wake
+|-damage|p1a: Walking Wake|49/100
+|-heal|p2a: Primarina|69/100|[from] drain|[of] p1a: Walking Wake
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Primarina|75/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781492592
+|move|p2a: Primarina|Protect|p2a: Primarina
+|-singleturn|p2a: Primarina|Protect
+|move|p1a: Walking Wake|Hydro Steam|p2a: Primarina
+|-activate|p2a: Primarina|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Primarina|81/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781492600
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|move|p2a: Primarina|Draining Kiss|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|83/100
+|-heal|p2a: Primarina|92/100|[from] drain|[of] p1a: Ceruledge
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Primarina|98/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781492604
+|move|p1a: Ceruledge|Solar Blade||[still]
+|-prepare|p1a: Ceruledge|Solar Blade
+|-anim|p1a: Ceruledge|Solar Blade|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|-weather|none
+|upkeep
+|
+|t:|1781492608
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|-activate|p2a: Garchomp|move: Sticky Web
+|-unboost|p2a: Garchomp|spe|1
+|turn|9
+|
+|t:|1781492610
+|switch|p1a: Espeon|Espeon, F|32/100
+|move|p2a: Garchomp|Earthquake|p1a: Espeon
+|-damage|p1a: Espeon|0 fnt
+|faint|p1a: Espeon
+|
+|upkeep
+|
+|t:|1781492613
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|10
+|
+|t:|1781492624
+|switch|p2a: Weezing|Weezing-Galar, M, shiny|100/100
+|switch|p1a: Ceruledge|Ceruledge, F|83/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781492627
+|move|p1a: Ceruledge|Bitter Blade|p2a: Weezing
+|-damage|p2a: Weezing|50/100
+|-heal|p1a: Ceruledge|100/100|[from] drain|[of] p2a: Weezing
+|move|p2a: Weezing|Defog|p1a: Ceruledge
+|-unboost|p1a: Ceruledge|evasion|1
+|-sideend|p2: isaac_gam3r|Sticky Web|[from] move: Defog|[of] p2a: Weezing
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Weezing|56/100|[from] item: Black Sludge
+|upkeep
+|turn|12
+|
+|t:|1781492631
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|move|p2a: Weezing|Pain Split|p1a: Ceruledge
+|-sethp|p1a: Ceruledge|82/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|72/100|[from] move: Pain Split
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Weezing|78/100|[from] item: Black Sludge
+|upkeep
+|turn|13
+|
+|t:|1781492634
+|move|p1a: Ceruledge|Bitter Blade|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|-heal|p1a: Ceruledge|100/100|[from] drain|[of] p2a: Weezing
+|faint|p2a: Weezing
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781492636
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|14
+|
+|t:|1781492640
+|move|p2a: Weavile|Knock Off|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-enditem|p1a: Ceruledge|Focus Sash
+|-damage|p1a: Ceruledge|1/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|move|p1a: Ceruledge|Bitter Blade|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-enditem|p2a: Weavile|Focus Sash
+|-damage|p2a: Weavile|1/100
+|-heal|p1a: Ceruledge|49/100|[from] drain|[of] p2a: Weavile
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781492643
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Weavile
+|-resisted|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781492644
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|16
+|
+|t:|1781492648
+|move|p1a: Ceruledge|Bitter Blade|p2a: Garchomp
+|-resisted|p2a: Garchomp
+|-damage|p2a: Garchomp|28/100
+|-heal|p1a: Ceruledge|93/100|[from] drain|[of] p2a: Garchomp
+|-damage|p1a: Ceruledge|81/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|move|p2a: Garchomp|Earthquake|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781492662
+|switch|p1a: Walking Wake|Walking Wake, tera:Water|49/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|turn|17
+|
+|t:|1781492664
+|move|p2a: Garchomp|Earthquake|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781492666
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|18
+|
+|t:|1781492668
+|move|p2a: Garchomp|Earthquake|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|9/100
+|move|p1a: Torkoal|Earthquake|p2a: Garchomp
+|-damage|p2a: Garchomp|7/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781492673
+|move|p2a: Garchomp|Earthquake|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781492674
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|20
+|
+|t:|1781492678
+|move|p2a: Garchomp|Earthquake|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|1/100
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|-damage|p1a: Raging Bolt|0 fnt|[from] item: Life Orb
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|win|isaac_gam3r
+|raw|suminkwak249's rating: 1605 &rarr; <strong>1585</strong><br />(-20 for losing)
+|raw|isaac_gam3r's rating: 1599 &rarr; <strong>1619</strong><br />(+20 for winning)
+|l|☆isaac_gam3r
+|player|p2|
+|l|☆suminkwak249
+|player|p1|

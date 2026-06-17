@@ -1,0 +1,548 @@
+|j|☆theoddkeystone
+|j|☆smithwick1
+|t:|1781129571
+|gametype|singles
+|player|p1|theoddkeystone|bruno-gen2|1596
+|player|p2|smithwick1|1|1657
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, M|
+|poke|p1|Slowbro, F|
+|poke|p1|Gliscor, F|
+|poke|p1|Garganacl, F|
+|poke|p1|Kyurem|
+|poke|p1|Brambleghast, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Dragapult, M|
+|poke|p2|Pecharunt|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by smithwick1)
+|
+|t:|1781129585
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781129589
+|move|p2a: Iron Treads|Knock Off|p1a: Garganacl
+|-damage|p1a: Garganacl|79/100
+|-enditem|p1a: Garganacl|Leftovers|[from] move: Knock Off|[of] p2a: Iron Treads
+|move|p1a: Garganacl|Salt Cure|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|97/100
+|-start|p2a: Iron Treads|Salt Cure
+|
+|-damage|p2a: Iron Treads|72/100|[from] Salt Cure
+|upkeep
+|turn|2
+|
+|t:|1781129592
+|move|p2a: Iron Treads|Stealth Rock|p1a: Garganacl
+|-sidestart|p1: theoddkeystone|move: Stealth Rock
+|move|p1a: Garganacl|Salt Cure|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|69/100
+|
+|-damage|p2a: Iron Treads|44/100|[from] Salt Cure
+|upkeep
+|turn|3
+|
+|t:|1781129600
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Garganacl|Recover|p1a: Garganacl
+|-heal|p1a: Garganacl|100/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781129604
+|move|p2a: Zamazenta|Close Combat|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|40/100
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|move|p1a: Garganacl|Salt Cure|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|95/100
+|-start|p2a: Zamazenta|Salt Cure
+|
+|-damage|p2a: Zamazenta|83/100|[from] Salt Cure
+|upkeep
+|turn|5
+|
+|t:|1781129626
+|switch|p1a: Brambleghast|Brambleghast, F|100/100
+|-damage|p1a: Brambleghast|88/100|[from] Stealth Rock
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: smithwick1|Reflect
+|
+|-damage|p2a: Zamazenta|71/100|[from] Salt Cure
+|upkeep
+|turn|6
+|
+|t:|1781129630
+|move|p1a: Brambleghast|Rapid Spin|p2a: Zamazenta
+|-damage|p2a: Zamazenta|64/100
+|-boost|p1a: Brambleghast|spe|1
+|-sideend|p1: theoddkeystone|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Brambleghast
+|move|p2a: Zamazenta|Roar|p1a: Brambleghast
+|drag|p1a: Slowbro|Slowbro, F|100/100
+|
+|-damage|p2a: Zamazenta|52/100|[from] Salt Cure
+|upkeep
+|turn|7
+|
+|t:|1781129634
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: smithwick1|move: Light Screen
+|move|p1a: Slowbro|Future Sight|p2a: Zamazenta
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-damage|p2a: Zamazenta|40/100|[from] Salt Cure
+|upkeep
+|turn|8
+|
+|t:|1781129644
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|switch|p1a: Garganacl|Garganacl, F|40/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781129647
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Garganacl
+|-damage|p1a: Garganacl|8/100
+|move|p1a: Garganacl|Salt Cure|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|97/100
+|-start|p2a: Kingambit|Salt Cure
+|
+|-end|p2a: Kingambit|move: Future Sight
+|-immune|p2a: Kingambit
+|-heal|p2a: Kingambit|100/100|[from] item: Leftovers
+|-damage|p2a: Kingambit|76/100|[from] Salt Cure
+|upkeep
+|turn|10
+|
+|t:|1781129651
+|move|p2a: Kingambit|Iron Head|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|faint|p1a: Garganacl
+|
+|-heal|p2a: Kingambit|82/100|[from] item: Leftovers
+|-damage|p2a: Kingambit|57/100|[from] Salt Cure
+|upkeep
+|
+|t:|1781129667
+|switch|p1a: Gliscor|Gliscor, F|100/100
+|turn|11
+|
+|t:|1781129681
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|12
+|
+|t:|1781129689
+|-terastallize|p1a: Gliscor|Normal
+|move|p2a: Dragapult|Dragon Darts|p1a: Gliscor
+|-damage|p1a: Gliscor|79/100 tox
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Gliscor
+|-damage|p1a: Gliscor|58/100 tox
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|
+|-heal|p1a: Gliscor|71/100 tox|[from] ability: Poison Heal
+|-sideend|p2: smithwick1|Reflect
+|upkeep
+|turn|13
+|
+|t:|1781129702
+|move|p2a: Dragapult|Dragon Darts|p1a: Gliscor
+|-damage|p1a: Gliscor|49/100 tox
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Gliscor
+|-damage|p1a: Gliscor|30/100 tox
+|move|p1a: Gliscor|Knock Off|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|-enditem|p2a: Dragapult|Leftovers|[from] move: Knock Off|[of] p1a: Gliscor
+|faint|p2a: Dragapult
+|
+|-heal|p1a: Gliscor|42/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781129709
+|switch|p2a: Iron Treads|Iron Treads|44/100
+|turn|14
+|
+|t:|1781129715
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Iron Treads|Stealth Rock|p1a: Gliscor
+|-sidestart|p1: theoddkeystone|move: Stealth Rock
+|
+|-heal|p1a: Gliscor|55/100 tox|[from] ability: Poison Heal
+|-sideend|p2: smithwick1|move: Light Screen
+|upkeep
+|turn|15
+|
+|t:|1781129723
+|move|p2a: Iron Treads|Earthquake|p1a: Gliscor
+|-damage|p1a: Gliscor|15/100 tox
+|move|p1a: Gliscor|Knock Off|p2a: Iron Treads
+|-damage|p2a: Iron Treads|5/100
+|
+|-heal|p1a: Gliscor|28/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|16
+|j| sigmatoiletord
+|
+|t:|1781129730
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Iron Treads|Earthquake|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p1a: Gliscor|40/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|17
+|
+|t:|1781129735
+|switch|p1a: Brambleghast|Brambleghast, F|88/100
+|-damage|p1a: Brambleghast|76/100|[from] Stealth Rock
+|move|p2a: Iron Treads|Earthquake|p1a: Brambleghast
+|-resisted|p1a: Brambleghast
+|-damage|p1a: Brambleghast|32/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781129739
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Brambleghast|Poltergeist|p2a: Pecharunt
+|-activate|p2a: Pecharunt|move: Poltergeist|Leftovers
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|41/100
+|
+|-heal|p2a: Pecharunt|47/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781129745
+|move|p1a: Brambleghast|Poltergeist|p2a: Pecharunt
+|-activate|p2a: Pecharunt|move: Poltergeist|Leftovers
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|faint|p2a: Pecharunt
+|
+|upkeep
+|
+|t:|1781129755
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|20
+|
+|t:|1781129759
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Kyurem|[anim] Ivy Cudgel Water
+|-resisted|p1a: Kyurem
+|-crit|p1a: Kyurem
+|-damage|p1a: Kyurem|54/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781129770
+|switch|p2a: Zamazenta|Zamazenta|40/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Zamazenta
+|-damage|p2a: Zamazenta|13/100
+|
+|upkeep
+|turn|22
+|
+|t:|1781129774
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|move|p2a: Zamazenta|Roar|p1a: Slowbro
+|drag|p1a: Kingambit|Kingambit, M|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|
+|-heal|p1a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|j| roarcat
+|
+|t:|1781129779
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: smithwick1|Reflect
+|
+|upkeep
+|turn|24
+|
+|t:|1781129783
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: smithwick1|move: Light Screen
+|move|p1a: Slowbro|Scald|p2a: Zamazenta
+|-damage|p2a: Zamazenta|3/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781129788
+|move|p2a: Zamazenta|Close Combat|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|85/100
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|move|p1a: Slowbro|Body Press|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781129794
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|26
+|
+|t:|1781129803
+|move|p2a: Ogerpon|Substitute|p2a: Ogerpon
+|-start|p2a: Ogerpon|Substitute
+|-damage|p2a: Ogerpon|76/100
+|move|p1a: Slowbro|Future Sight|p2a: Ogerpon
+|-start|p1a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|27
+|
+|t:|1781129806
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Slowbro|Body Press|p2a: Ogerpon
+|-activate|p2a: Ogerpon|move: Substitute|[damage]
+|
+|upkeep
+|turn|28
+|
+|t:|1781129808
+|move|p2a: Ogerpon|Horn Leech|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|-heal|p2a: Ogerpon|100/100|[from] drain|[of] p1a: Slowbro
+|faint|p1a: Slowbro
+|
+|-end|p2a: Ogerpon|move: Future Sight
+|-end|p2a: Ogerpon|Substitute
+|upkeep
+|
+|t:|1781129812
+|switch|p1a: Brambleghast|Brambleghast, F|32/100
+|-damage|p1a: Brambleghast|20/100|[from] Stealth Rock
+|turn|29
+|
+|t:|1781129819
+|move|p1a: Brambleghast|Strength Sap|p2a: Ogerpon
+|-unboost|p2a: Ogerpon|atk|1
+|-heal|p1a: Brambleghast|100/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Brambleghast|[anim] Ivy Cudgel Water
+|-resisted|p1a: Brambleghast
+|-crit|p1a: Brambleghast
+|-damage|p1a: Brambleghast|0 fnt
+|faint|p1a: Brambleghast
+|
+|upkeep
+|
+|t:|1781129828
+|switch|p1a: Kyurem|Kyurem|54/100
+|-ability|p1a: Kyurem|Pressure
+|turn|30
+|
+|t:|1781129845
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Kyurem|[anim] Ivy Cudgel Water
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|7/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|23/100
+|
+|-sideend|p2: smithwick1|Reflect
+|upkeep
+|turn|31
+|
+|t:|1781129854
+|move|p2a: Ogerpon|Horn Leech|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|-heal|p2a: Ogerpon|27/100|[from] drain|[of] p1a: Kyurem
+|faint|p1a: Kyurem
+|
+|-sideend|p2: smithwick1|move: Light Screen
+|upkeep
+|
+|t:|1781129857
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|32
+|
+|t:|1781129863
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|move|p2a: Ogerpon|Substitute|p2a: Ogerpon
+|-start|p2a: Ogerpon|Substitute
+|-damage|p2a: Ogerpon|2/100
+|
+|-heal|p1a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1781129865
+|move|p1a: Kingambit|Sucker Punch|p2a: Ogerpon
+|-end|p2a: Ogerpon|Substitute
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Kingambit|[anim] Ivy Cudgel Water
+|-damage|p1a: Kingambit|21/100
+|
+|-heal|p1a: Kingambit|27/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1781129872
+|switch|p2a: Iron Treads|Iron Treads|5/100
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-heal|p1a: Kingambit|34/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1781129877
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|move|p2a: Iron Treads|Stealth Rock||[still]
+|-fail|p2a: Iron Treads
+|
+|-heal|p1a: Kingambit|40/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1781129883
+|move|p1a: Kingambit|Sucker Punch|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p1a: Kingambit|46/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781129885
+|switch|p2a: Kingambit|Kingambit, M|57/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|37
+|
+|t:|1781129896
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|17/100
+|move|p1a: Kingambit|Iron Head|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|26/100
+|
+|-heal|p2a: Kingambit|32/100|[from] item: Leftovers
+|-heal|p1a: Kingambit|23/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1781129910
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|4/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|
+|-heal|p2a: Kingambit|10/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781129913
+|switch|p1a: Gliscor|Gliscor, F, tera:Normal|40/100 tox
+|-damage|p1a: Gliscor|28/100 tox|[from] Stealth Rock
+|turn|39
+|
+|t:|1781129919
+|move|p1a: Gliscor|Facade|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen4|[silent]
+|
+|-heal|p1a: Gliscor|40/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781129921
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|2/100
+|turn|40
+|
+|t:|1781129925
+|-terastallize|p2a: Ogerpon|Water
+|detailschange|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Gliscor|[anim] Ivy Cudgel Water
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p1a: Gliscor|53/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|41
+|
+|t:|1781129934
+|move|p1a: Gliscor|Protect||[still]
+|-fail|p1a: Gliscor
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Gliscor|[anim] Ivy Cudgel Water
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|
+|win|smithwick1
+|raw|theoddkeystone's rating: 1596 &rarr; <strong>1579</strong><br />(-17 for losing)
+|raw|smithwick1's rating: 1657 &rarr; <strong>1674</strong><br />(+17 for winning)
+|l|☆theoddkeystone
+|player|p1|
+|l|☆smithwick1
+|player|p2|
+|l| sigmatoiletord
+|l| roarcat

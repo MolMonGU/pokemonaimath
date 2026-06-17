@@ -1,0 +1,453 @@
+|j|☆jameshardensucks
+|j|☆testingyup
+|t:|1781448817
+|gametype|singles
+|player|p1|jameshardensucks|harlequin|1627
+|player|p2|testingyup|marlon|1614
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Gholdengo|
+|poke|p1|Zapdos|
+|poke|p1|Garchomp, M|
+|poke|p1|Ting-Lu|
+|poke|p1|Clefable, F|
+|poke|p1|Zamazenta-*|
+|poke|p2|Skeledirge, M|
+|poke|p2|Kyurem|
+|poke|p2|Cinderace, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Pecharunt|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by testingyup)
+|
+|t:|1781448824
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|1
+|
+|t:|1781448836
+|move|p1a: Zapdos|Thunder Wave|p2a: Tornadus
+|-status|p2a: Tornadus|par
+|move|p2a: Tornadus|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|77/100
+|-enditem|p1a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|upkeep
+|turn|2
+|
+|t:|1781448841
+|move|p1a: Zapdos|Hurricane|p2a: Tornadus|[miss]
+|-miss|p1a: Zapdos|p2a: Tornadus
+|move|p2a: Tornadus|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|67/100
+|j| nesnot
+|
+|t:|1781448862
+|switch|p2a: Kyurem|Kyurem|100/100|[from] U-turn
+|-ability|p2a: Kyurem|Pressure
+|
+|upkeep
+|turn|3
+|
+|t:|1781448867
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Kyurem|Icicle Spear|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|93/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|85/100
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|78/100
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|70/100
+|-hitcount|p1a: Gholdengo|4
+|
+|upkeep
+|turn|4
+|
+|t:|1781448875
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100 par
+|move|p1a: Gholdengo|Make It Rain|p2a: Tornadus
+|-damage|p2a: Tornadus|67/100 par
+|-unboost|p1a: Gholdengo|spa|1
+|
+|upkeep
+|turn|5
+|
+|t:|1781448890
+|switch|p1a: Clefable|Clefable, F|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|
+|upkeep
+|turn|6
+|
+|t:|1781448902
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Clefable|Trick|p2a: Pecharunt
+|-activate|p1a: Clefable|move: Trick|[of] p2a: Pecharunt
+|-item|p2a: Pecharunt|Sticky Barb|[from] move: Trick
+|-item|p1a: Clefable|Choice Specs|[from] move: Trick
+|
+|-damage|p2a: Pecharunt|88/100|[from] item: Sticky Barb
+|upkeep
+|turn|7
+|
+|t:|1781448925
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Pecharunt|Shadow Ball|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|93/100
+|
+|-damage|p2a: Pecharunt|76/100|[from] item: Sticky Barb
+|upkeep
+|turn|8
+|
+|t:|1781448932
+|move|p2a: Pecharunt|Malignant Chain|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|85/100
+|-status|p1a: Ting-Lu|tox
+|-start|p1a: Ting-Lu|confusion|[from] ability: Poison Puppeteer|[of] p2a: Pecharunt
+|-activate|p1a: Ting-Lu|confusion
+|-damage|p1a: Ting-Lu|79/100 tox|[from] confusion
+|
+|-damage|p1a: Ting-Lu|73/100 tox|[from] psn
+|-damage|p2a: Pecharunt|64/100|[from] item: Sticky Barb
+|upkeep
+|turn|9
+|
+|t:|1781448942
+|move|p2a: Pecharunt|Parting Shot|p1a: Ting-Lu
+|-unboost|p1a: Ting-Lu|atk|1
+|-unboost|p1a: Ting-Lu|spa|1
+|
+|t:|1781448949
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] Parting Shot
+|-activate|p1a: Ting-Lu|confusion
+|-damage|p1a: Ting-Lu|70/100 tox|[from] confusion
+|
+|-damage|p1a: Ting-Lu|57/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1781448960
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|11
+|
+|t:|1781448973
+|move|p1a: Zamazenta|Close Combat|p2a: Ogerpon
+|-damage|p2a: Ogerpon|27/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|move|p2a: Ogerpon|Trailblaze|p1a: Zamazenta
+|-damage|p1a: Zamazenta|43/100
+|-boost|p2a: Ogerpon|spe|1
+|
+|upkeep
+|turn|12
+|
+|t:|1781448982
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Zamazenta|[anim] Ivy Cudgel Water
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|upkeep
+|
+|t:|1781448986
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|13
+|
+|t:|1781448995
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Garchomp|[anim] Ivy Cudgel Water
+|-damage|p1a: Garchomp|17/100
+|move|p1a: Garchomp|Earthquake|p2a: Ogerpon
+|-resisted|p2a: Ogerpon
+|-crit|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781449004
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|turn|14
+|
+|t:|1781449010
+|switch|p1a: Ting-Lu|Ting-Lu|57/100 tox
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Cinderace|Pyro Ball|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|14/100 tox
+|
+|-damage|p1a: Ting-Lu|8/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1781449034
+|switch|p1a: Garchomp|Garchomp, M|17/100
+|move|p2a: Cinderace|Pyro Ball|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1781449039
+|switch|p1a: Zapdos|Zapdos|67/100
+|turn|16
+|
+|t:|1781449044
+|switch|p2a: Tornadus|Tornadus-Therian, M|99/100 par
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|17
+|
+|t:|1781449048
+|move|p1a: Zapdos|U-turn|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-crit|p2a: Tornadus
+|-damage|p2a: Tornadus|91/100 par
+|j| Yamhard
+|
+|t:|1781449056
+|switch|p1a: Clefable|Clefable, F|100/100|[from] U-turn
+|move|p2a: Tornadus|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|92/100
+|
+|t:|1781449063
+|switch|p2a: Pecharunt|Pecharunt|64/100|[from] U-turn
+|
+|-damage|p2a: Pecharunt|51/100|[from] item: Sticky Barb
+|upkeep
+|turn|18
+|
+|t:|1781449072
+|switch|p1a: Gholdengo|Gholdengo|70/100
+|move|p2a: Pecharunt|Malignant Chain|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|
+|-damage|p2a: Pecharunt|39/100|[from] item: Sticky Barb
+|upkeep
+|turn|19
+|
+|t:|1781449080
+|move|p2a: Pecharunt|Shadow Ball|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|4/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|faint|p2a: Pecharunt
+|
+|upkeep
+|
+|t:|1781449102
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|turn|20
+|
+|t:|1781449112
+|switch|p1a: Ting-Lu|Ting-Lu|8/100 tox
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Cinderace|Pyro Ball|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781449113
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|21
+|
+|t:|1781449117
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100 par
+|move|p1a: Zapdos|Thunder Wave|p2a: Tornadus
+|-fail|p2a: Tornadus|par
+|
+|upkeep
+|turn|22
+|
+|t:|1781449123
+|move|p1a: Zapdos|Hurricane|p2a: Tornadus|[miss]
+|-miss|p1a: Zapdos|p2a: Tornadus
+|move|p2a: Tornadus|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|92/100
+|
+|t:|1781449127
+|switch|p2a: Kyurem|Kyurem|100/100|[from] U-turn
+|-ability|p2a: Kyurem|Pressure
+|
+|upkeep
+|turn|23
+|
+|t:|1781449129
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100 par
+|-terastallize|p1a: Zapdos|Ghost
+|move|p1a: Zapdos|Thunder Wave|p2a: Tornadus
+|-fail|p2a: Tornadus|par
+|
+|upkeep
+|turn|24
+|j| samurajen
+|
+|t:|1781449132
+|move|p1a: Zapdos|Hurricane|p2a: Tornadus
+|-damage|p2a: Tornadus|65/100 par
+|move|p2a: Tornadus|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|83/100
+|
+|t:|1781449147
+|switch|p2a: Skeledirge|Skeledirge, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|25
+|
+|t:|1781449150
+|move|p1a: Zapdos|Thunder Wave|p2a: Skeledirge
+|-status|p2a: Skeledirge|par
+|move|p2a: Skeledirge|Torch Song|p1a: Zapdos
+|-damage|p1a: Zapdos|41/100
+|-boost|p2a: Skeledirge|spa|1
+|
+|upkeep
+|turn|26
+|
+|t:|1781449153
+|move|p1a: Zapdos|U-turn|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|98/100 par
+|
+|t:|1781449155
+|switch|p1a: Gholdengo|Gholdengo|4/100|[from] U-turn
+|cant|p2a: Skeledirge|par
+|
+|-heal|p2a: Skeledirge|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|27
+|j| Zamansky
+|l| Zamansky
+|
+|t:|1781449164
+|switch|p2a: Tornadus|Tornadus-Therian, M|98/100 par
+|move|p1a: Gholdengo|Shadow Ball|p2a: Tornadus
+|-damage|p2a: Tornadus|75/100 par
+|
+|upkeep
+|turn|28
+|l| samurajen
+|
+|t:|1781449168
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|54/100
+|move|p2a: Tornadus|U-turn|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|50/100
+|
+|t:|1781449172
+|switch|p2a: Cinderace|Cinderace, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|29
+|
+|t:|1781449186
+|move|p2a: Cinderace|Pyro Ball|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781449188
+|switch|p1a: Clefable|Clefable, F|92/100
+|turn|30
+|j| newhere1310
+|
+|t:|1781449202
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100 par
+|move|p1a: Clefable|Moonblast|p2a: Tornadus
+|-damage|p2a: Tornadus|71/100 par
+|-unboost|p2a: Tornadus|spa|1
+|
+|upkeep
+|turn|31
+|l| newhere1310
+|
+|t:|1781449224
+|switch|p1a: Zapdos|Zapdos, tera:Ghost|41/100
+|move|p2a: Tornadus|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|33/100
+|l| Yamhard
+|inactive|testingyup has 120 seconds left.
+|
+|t:|1781449242
+|switch|p2a: Kyurem|Kyurem|100/100|[from] U-turn
+|-ability|p2a: Kyurem|Pressure
+|
+|upkeep
+|turn|32
+|
+|t:|1781449247
+|move|p1a: Zapdos|Thunder Wave|p2a: Kyurem
+|-status|p2a: Kyurem|par
+|move|p2a: Kyurem|Icicle Spear|p1a: Zapdos
+|-damage|p1a: Zapdos|15/100
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-hitcount|p1: Zapdos|2
+|
+|upkeep
+|
+|t:|1781449252
+|switch|p1a: Clefable|Clefable, F|92/100
+|turn|33
+|
+|t:|1781449256
+|move|p1a: Clefable|Trick|p2a: Kyurem
+|-activate|p1a: Clefable|move: Trick|[of] p2a: Kyurem
+|-item|p2a: Kyurem|Choice Specs|[from] move: Trick
+|-item|p1a: Clefable|Loaded Dice|[from] move: Trick
+|move|p2a: Kyurem|Iron Head|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|win|testingyup
+|raw|jameshardensucks's rating: 1627 &rarr; <strong>1606</strong><br />(-21 for losing)
+|raw|testingyup's rating: 1614 &rarr; <strong>1635</strong><br />(+21 for winning)
+|l|☆testingyup
+|player|p2|
+|j| we be out here
+|l|☆jameshardensucks
+|player|p1|
+|l| we be out here

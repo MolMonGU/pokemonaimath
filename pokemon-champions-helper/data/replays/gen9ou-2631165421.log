@@ -1,0 +1,320 @@
+|j|☆Ausar489
+|j|☆FireSide_01
+|t:|1781352247
+|gametype|singles
+|player|p1|Ausar489|lucas-gen4pt|1590
+|player|p2|FireSide_01|janine|1575
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Weezing-Galar, M|
+|poke|p1|Alomomola, M|
+|poke|p1|Iron Treads|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Zamazenta-*|
+|poke|p1|Lokix, M|
+|poke|p2|Ninetales, F|
+|poke|p2|Walking Wake|
+|poke|p2|Typhlosion-Hisui, F|
+|poke|p2|Great Tusk|
+|poke|p2|Rillaboom, F|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ausar489)
+|inactive|Ausar489 has 120 seconds left.
+|
+|t:|1781352278
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1781352285
+|move|p1a: Zamazenta|Close Combat|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|faint|p2a: Rillaboom
+|
+|upkeep
+|
+|t:|1781352289
+|switch|p2a: Typhlosion|Typhlosion-Hisui, F|100/100
+|turn|2
+|
+|t:|1781352299
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Typhlosion|Eruption|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|66/100
+|
+|-heal|p1a: Alomomola|72/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|inactive|FireSide_01 has 120 seconds left.
+|
+|t:|1781352334
+|-terastallize|p2a: Typhlosion|Fire
+|move|p2a: Typhlosion|Eruption|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|26/100
+|move|p1a: Alomomola|Flip Turn|p2a: Typhlosion
+|-supereffective|p2a: Typhlosion
+|-damage|p2a: Typhlosion|53/100
+|
+|t:|1781352350
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100|[from] Flip Turn
+|
+|-heal|p2a: Typhlosion|59/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781352354
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|move|p1a: Tornadus|U-turn|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|87/100
+|
+|t:|1781352375
+|switch|p1a: Lokix|Lokix, M|100/100|[from] U-turn
+|
+|-heal|p2a: Raging Bolt|93/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781352382
+|move|p1a: Lokix|U-turn|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|45/100
+|
+|t:|1781352385
+|switch|p1a: Iron Treads|Iron Treads|100/100|[from] U-turn
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|71/100
+|
+|-heal|p1a: Iron Treads|77/100|[from] Grassy Terrain
+|-heal|p1a: Iron Treads|84/100|[from] item: Leftovers
+|-heal|p2a: Raging Bolt|51/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781352391
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|move|p1a: Iron Treads|Earthquake|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Treads|90/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781352396
+|switch|p2a: Typhlosion|Typhlosion-Hisui, F, tera:Fire|59/100
+|turn|7
+|
+|t:|1781352412
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Weezing|Weezing-Galar, M|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Typhlosion|Eruption|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781352425
+|switch|p1a: Alomomola|Alomomola, M|60/100
+|turn|8
+|
+|t:|1781352430
+|move|p2a: Typhlosion|Eruption|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|16/100
+|move|p1a: Alomomola|Flip Turn|p2a: Typhlosion
+|-supereffective|p2a: Typhlosion
+|-damage|p2a: Typhlosion|36/100
+|
+|t:|1781352434
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100|[from] Flip Turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781352437
+|switch|p2a: Raging Bolt|Raging Bolt|51/100
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Tornadus|U-turn|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|38/100
+|
+|t:|1781352442
+|switch|p1a: Iron Treads|Iron Treads|90/100|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Treads|96/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781352447
+|move|p1a: Iron Treads|Earthquake|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Treads|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781352449
+|switch|p2a: Typhlosion|Typhlosion-Hisui, F, tera:Fire|36/100
+|turn|11
+|
+|t:|1781352454
+|move|p2a: Typhlosion|Flamethrower|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781352460
+|switch|p1a: Lokix|Lokix, M|100/100
+|turn|12
+|
+|t:|1781352464
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisspe
+|move|p1a: Lokix|First Impression|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|59/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781352469
+|switch|p1a: Alomomola|Alomomola, M|49/100
+|move|p2a: Great Tusk|Stealth Rock|p1a: Alomomola
+|-sidestart|p1: Ausar489|move: Stealth Rock
+|
+|-weather|none
+|-end|p2a: Great Tusk|Protosynthesis
+|upkeep
+|turn|14
+|
+|t:|1781352471
+|move|p2a: Great Tusk|Headlong Rush|p1a: Alomomola
+|-damage|p1a: Alomomola|19/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-damage|p2a: Great Tusk|42/100|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|move|p1a: Alomomola|Flip Turn|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|13/100
+|
+|t:|1781352480
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100|[from] Flip Turn
+|-damage|p1a: Tornadus|76/100|[from] Stealth Rock
+|
+|upkeep
+|turn|15
+|
+|t:|1781352489
+|move|p1a: Tornadus|U-turn|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|6/100
+|
+|t:|1781352491
+|switch|p1a: Alomomola|Alomomola, M|52/100|[from] U-turn
+|-damage|p1a: Alomomola|40/100|[from] Stealth Rock
+|move|p2a: Great Tusk|Ice Spinner|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|33/100
+|-damage|p2a: Great Tusk|0 fnt|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781352494
+|switch|p2a: Typhlosion|Typhlosion-Hisui, F, tera:Fire|36/100
+|turn|16
+|
+|t:|1781352501
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|-damage|p1a: Tornadus|76/100|[from] Stealth Rock
+|move|p2a: Typhlosion|Shadow Ball|p1a: Tornadus
+|-damage|p1a: Tornadus|48/100
+|-unboost|p1a: Tornadus|spd|1
+|
+|upkeep
+|turn|17
+|
+|t:|1781352511
+|move|p2a: Typhlosion|Shadow Ball|p1a: Tornadus
+|-damage|p1a: Tornadus|6/100
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Typhlosion
+|-damage|p2a: Typhlosion|0 fnt
+|faint|p2a: Typhlosion
+|
+|upkeep
+|
+|t:|1781352515
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|turn|18
+|
+|t:|1781352519
+|move|p1a: Tornadus|Knock Off|p2a: Walking Wake
+|-damage|p2a: Walking Wake|79/100
+|-enditem|p2a: Walking Wake|Choice Specs|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Walking Wake|Hydro Steam|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1781352528
+|switch|p1a: Lokix|Lokix, M|100/100
+|-damage|p1a: Lokix|76/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1781352532
+|-terastallize|p1a: Lokix|Bug
+|move|p1a: Lokix|First Impression|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|win|Ausar489
+|raw|Ausar489's rating: 1590 &rarr; <strong>1609</strong><br />(+19 for winning)
+|raw|FireSide_01's rating: 1575 &rarr; <strong>1556</strong><br />(-19 for losing)
+|c|☆FireSide_01|gg
+|l|☆FireSide_01
+|player|p2|
+|c|☆Ausar489|ggg
+|l|☆Ausar489
+|player|p1|

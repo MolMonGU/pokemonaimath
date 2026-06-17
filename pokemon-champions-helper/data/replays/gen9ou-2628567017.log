@@ -1,0 +1,385 @@
+|j|☆Bigsylveon
+|j|☆GODKUD
+|t:|1781031031
+|gametype|singles
+|player|p1|Bigsylveon|lenora|1536
+|player|p2|GODKUD|ghetsis|1544
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Garchomp, M|
+|poke|p1|Darkrai|
+|poke|p1|Gholdengo|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Iron Treads|
+|poke|p2|Hydreigon, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Sandy Shocks|
+|poke|p2|Quaquaval, F|
+|poke|p2|Ceruledge, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by GODKUD)
+|
+|t:|1781031057
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|turn|1
+|
+|t:|1781031067
+|move|p1a: Iron Treads|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|53/100
+|-enditem|p2a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: Slowking|Future Sight|p1a: Iron Treads
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|2
+|
+|t:|1781031072
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Iron Treads|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|upkeep
+|turn|3
+|
+|t:|1781031081
+|move|p1a: Iron Treads|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|86/100
+|-damage|p1a: Iron Treads|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-enditem|p2a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: Corviknight|U-turn|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|78/100
+|
+|t:|1781031084
+|switch|p2a: Sandy Shocks|Sandy Shocks|100/100|[from] U-turn
+|-enditem|p2a: Sandy Shocks|Booster Energy
+|-activate|p2a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p2a: Sandy Shocks|protosynthesisspe
+|
+|-end|p1a: Iron Treads|move: Future Sight
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|54/100
+|-heal|p1a: Iron Treads|60/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781031090
+|move|p2a: Sandy Shocks|Earth Power|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781031092
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|5
+|
+|t:|1781031094
+|move|p2a: Sandy Shocks|Stealth Rock|p1a: Garchomp
+|-sidestart|p1: Bigsylveon|move: Stealth Rock
+|move|p1a: Garchomp|Stealth Rock|p2a: Sandy Shocks
+|-sidestart|p2: GODKUD|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1781031098
+|move|p2a: Sandy Shocks|Spikes|p1a: Garchomp
+|-sidestart|p1: Bigsylveon|Spikes
+|move|p1a: Garchomp|Spikes|p2a: Sandy Shocks
+|-sidestart|p2: GODKUD|Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1781031101
+|move|p2a: Sandy Shocks|Earth Power|p1a: Garchomp
+|-damage|p1a: Garchomp|60/100
+|move|p1a: Garchomp|Spikes|p2a: Sandy Shocks
+|-sidestart|p2: GODKUD|Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1781031105
+|move|p2a: Sandy Shocks|Spikes|p1a: Garchomp
+|-sidestart|p1: Bigsylveon|Spikes
+|move|p1a: Garchomp|Earthquake|p2a: Sandy Shocks
+|-supereffective|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|12/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781031110
+|move|p2a: Sandy Shocks|Spikes|p1a: Garchomp
+|-sidestart|p1: Bigsylveon|Spikes
+|move|p1a: Garchomp|Earthquake|p2a: Sandy Shocks
+|-supereffective|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|0 fnt
+|faint|p2a: Sandy Shocks
+|-end|p2a: Sandy Shocks|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781031113
+|switch|p2a: God of Destruction|Hydreigon, M|100/100
+|-damage|p2a: God of Destruction|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1781031117
+|move|p2a: God of Destruction|Draco Meteor|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-unboost|p2a: God of Destruction|spa|2
+|faint|p1a: Garchomp
+|-damage|p2a: God of Destruction|78/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781031118
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-damage|p1a: Iron Valiant|69/100|[from] Spikes
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|11
+|
+|t:|1781031124
+|switch|p2a: Slowking|Slowking-Galar, M|87/100
+|-damage|p2a: Slowking|74/100|[from] Stealth Rock
+|-damage|p2a: Slowking|58/100|[from] Spikes
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1781031128
+|-terastallize|p1a: Iron Valiant|Electric
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781031132
+|switch|p2a: Quaquaval|Quaquaval, F|100/100|[from] Chilly Reception
+|-damage|p2a: Quaquaval|94/100|[from] Stealth Rock
+|-damage|p2a: Quaquaval|78/100|[from] Spikes
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781031134
+|-terastallize|p2a: Quaquaval|Steel
+|move|p1a: Iron Valiant|Moonblast|p2a: Quaquaval
+|-resisted|p2a: Quaquaval
+|-damage|p2a: Quaquaval|39/100
+|-unboost|p2a: Quaquaval|spa|1
+|move|p2a: Quaquaval|Rapid Spin|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|49/100
+|-boost|p2a: Quaquaval|spe|1
+|-sideend|p2: GODKUD|Spikes|[from] move: Rapid Spin|[of] p2a: Quaquaval
+|-sideend|p2: GODKUD|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Quaquaval
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781031140
+|move|p1a: Iron Valiant|Thunderbolt|p2a: Quaquaval
+|-damage|p2a: Quaquaval|0 fnt
+|faint|p2a: Quaquaval
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781031143
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|turn|15
+|
+|t:|1781031150
+|move|p1a: Iron Valiant|Thunderbolt|p2a: Ceruledge
+|-enditem|p2a: Ceruledge|Focus Sash
+|-damage|p2a: Ceruledge|1/100
+|move|p2a: Ceruledge|Bitter Blade|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|-heal|p2a: Ceruledge|25/100|[from] drain|[of] p1a: Iron Valiant
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781031153
+|switch|p1a: Darkrai|Darkrai|100/100
+|turn|16
+|
+|t:|1781031156
+|move|p1a: Darkrai|Dark Pulse|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|-weather|none
+|upkeep
+|
+|t:|1781031157
+|switch|p2a: Slowking|Slowking-Galar, M|91/100
+|turn|17
+|
+|t:|1781031160
+|move|p1a: Darkrai|Dark Pulse|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|40/100
+|move|p2a: Slowking|Toxic|p1a: Darkrai
+|-status|p1a: Darkrai|tox
+|
+|-damage|p1a: Darkrai|94/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1781031162
+|switch|p2a: God of Destruction|Hydreigon, M|78/100
+|move|p1a: Darkrai|Dark Pulse|p2a: God of Destruction
+|-resisted|p2a: God of Destruction
+|-damage|p2a: God of Destruction|55/100
+|
+|-damage|p1a: Darkrai|82/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1781031169
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: God of Destruction|Draco Meteor|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|50/100
+|-unboost|p2a: God of Destruction|spa|2
+|-enditem|p1a: Gholdengo|Air Balloon
+|-damage|p2a: God of Destruction|45/100|[from] item: Life Orb
+|
+|upkeep
+|turn|20
+|
+|t:|1781031174
+|switch|p2a: Slowking|Slowking-Galar, M|73/100
+|move|p1a: Gholdengo|Make It Rain|p2a: Slowking
+|-damage|p2a: Slowking|44/100
+|-unboost|p1a: Gholdengo|spa|1
+|
+|upkeep
+|turn|21
+|
+|t:|1781031180
+|move|p1a: Gholdengo|Thunder Wave|p2a: Slowking
+|-status|p2a: Slowking|par
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781031185
+|switch|p2a: God of Destruction|Hydreigon, M|45/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1781031199
+|move|p2a: God of Destruction|Dark Pulse|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|-damage|p2a: God of Destruction|35/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781031200
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|-damage|p1a: Ogerpon|63/100|[from] Spikes
+|turn|23
+|
+|t:|1781031203
+|move|p1a: Ogerpon|Trailblaze|p2a: God of Destruction
+|-resisted|p2a: God of Destruction
+|-damage|p2a: God of Destruction|20/100
+|-boost|p1a: Ogerpon|spe|1
+|move|p2a: God of Destruction|Draco Meteor|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|-unboost|p2a: God of Destruction|spa|2
+|faint|p1a: Ogerpon
+|-damage|p2a: God of Destruction|11/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781031206
+|switch|p1a: Darkrai|Darkrai|82/100 tox
+|turn|24
+|
+|t:|1781031211
+|move|p1a: Darkrai|Dark Pulse|p2a: God of Destruction
+|-resisted|p2a: God of Destruction
+|-damage|p2a: God of Destruction|0 fnt
+|faint|p2a: God of Destruction
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Darkrai|76/100 tox|[from] psn
+|upkeep
+|
+|t:|1781031213
+|switch|p2a: Slowking|Slowking-Galar, M|78/100 par
+|turn|25
+|l|☆GODKUD
+|inactive|GODKUD disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆GODKUD
+|inactive|GODKUD reconnected.
+|player|p2|GODKUD|ghetsis|
+|inactive|Bigsylveon has 120 seconds left.
+|inactive|Bigsylveon has 90 seconds left.
+|inactive|Bigsylveon has 60 seconds left.
+|c|☆GODKUD|Ataca o ridente, no me hagas perder el tiempo, basura
+|inactive|Bigsylveon has 30 seconds left.
+|inactive|Bigsylveon has 20 seconds left.
+|inactive|Bigsylveon has 15 seconds left.
+|inactive|Bigsylveon has 10 seconds left.
+|inactive|Bigsylveon has 5 seconds left.
+|-message|Bigsylveon lost due to inactivity.
+|
+|win|GODKUD
+|raw|Bigsylveon's rating: 1536 &rarr; <strong>1516</strong><br />(-20 for losing)
+|raw|GODKUD's rating: 1544 &rarr; <strong>1564</strong><br />(+20 for winning)
+|l|☆GODKUD
+|player|p2|
+|j| kanaete onegai
+|l|☆Bigsylveon
+|player|p1|

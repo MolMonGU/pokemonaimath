@@ -1,0 +1,359 @@
+|j|☆mossful
+|j|☆Mkap
+|t:|1781150407
+|gametype|singles
+|player|p1|mossful|juniper|1565
+|player|p2|Mkap|2|1605
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Excadrill, F|
+|poke|p1|Iron Crown|
+|poke|p1|Salamence, M|
+|poke|p1|Azumarill, M|
+|poke|p1|Zamazenta-*|
+|poke|p2|Chesnaught, F|
+|poke|p2|Iron Treads|
+|poke|p2|Raging Bolt|
+|poke|p2|Enamorus, F|
+|poke|p2|Manaphy|
+|poke|p2|Zamazenta-*|
+|teampreview
+|
+|t:|1781150448
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|1
+|
+|t:|1781150462
+|move|p1a: Iron Crown|Psychic Noise|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|42/100
+|-start|p2a: Zamazenta|move: Heal Block
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: Mkap|move: Light Screen
+|
+|upkeep
+|turn|2
+|
+|t:|1781150492
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|move|p1a: Iron Crown|Psychic Noise|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|85/100
+|-start|p2a: Raging Bolt|move: Heal Block
+|
+|upkeep
+|turn|3
+|
+|t:|1781150500
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Excadrill|Excadrill, F, shiny|100/100
+|-item|p1a: Excadrill|Air Balloon
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|47/100
+|-unboost|p2a: Raging Bolt|spa|2
+|-enditem|p1a: Excadrill|Air Balloon
+|
+|-end|p2a: Raging Bolt|move: Heal Block
+|upkeep
+|turn|4
+|
+|t:|1781150508
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Chesnaught|Chesnaught, F|100/100
+|move|p1a: Excadrill|Rapid Spin|p2a: Chesnaught
+|-damage|p2a: Chesnaught|84/100
+|-boost|p1a: Excadrill|spe|1
+|
+|upkeep
+|turn|5
+|
+|t:|1781150519
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|move|p2a: Chesnaught|Belly Drum|p2a: Chesnaught
+|-damage|p2a: Chesnaught|34/100
+|-setboost|p2a: Chesnaught|atk|6|[from] move: Belly Drum
+|
+|upkeep
+|turn|6
+|
+|t:|1781150522
+|move|p1a: Excadrill|Iron Head|p2a: Chesnaught
+|-damage|p2a: Chesnaught|0 fnt
+|faint|p2a: Chesnaught
+|
+|upkeep
+|
+|t:|1781150530
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|turn|7
+|
+|t:|1781150533
+|move|p2a: Enamorus|Earth Power|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|t:|1781150548
+|switch|p1a: Azumarill|Azumarill, M, shiny|100/100
+|turn|8
+|
+|t:|1781150556
+|switch|p2a: Zamazenta|Zamazenta|42/100
+|move|p1a: Azumarill|Belly Drum|p1a: Azumarill
+|-damage|p1a: Azumarill|50/100
+|-setboost|p1a: Azumarill|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Azumarill|Sitrus Berry|[eat]
+|-heal|p1a: Azumarill|75/100|[from] item: Sitrus Berry
+|
+|-sideend|p2: Mkap|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1781150559
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: Mkap|Reflect
+|move|p1a: Azumarill|Play Rough|p2a: Zamazenta|[miss]
+|-miss|p1a: Azumarill|p2a: Zamazenta
+|
+|upkeep
+|turn|10
+|
+|t:|1781150565
+|move|p1a: Azumarill|Play Rough|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781150568
+|switch|p2a: Raging Bolt|Raging Bolt|85/100
+|turn|11
+|
+|t:|1781150572
+|move|p2a: Raging Bolt|Thunderclap|p1a: Azumarill
+|-supereffective|p1a: Azumarill
+|-damage|p1a: Azumarill|0 fnt
+|faint|p1a: Azumarill
+|
+|-heal|p2a: Raging Bolt|91/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781150575
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|12
+|
+|t:|1781150597
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Tyranitar|Knock Off|p2a: Iron Treads
+|-crit|p2a: Iron Treads
+|-damage|p2a: Iron Treads|28/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781150602
+|switch|p1a: Salamence|Salamence, M|100/100
+|-ability|p1a: Salamence|Intimidate|boost
+|-unboost|p2a: Iron Treads|atk|1
+|move|p2a: Iron Treads|Steel Beam|p1a: Salamence
+|-damage|p1a: Salamence|42/100
+|-damage|p2a: Iron Treads|0 fnt|[from] steelbeam
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Salamence|36/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781150643
+|switch|p2a: Manaphy|Manaphy|100/100
+|turn|14
+|
+|t:|1781150647
+|move|p2a: Manaphy|Alluring Voice|p1a: Salamence
+|-supereffective|p1a: Salamence
+|-damage|p1a: Salamence|0 fnt
+|faint|p1a: Salamence
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Manaphy|94/100|[from] Sandstorm
+|-heal|p2a: Manaphy|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781150651
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|15
+|
+|t:|1781150658
+|move|p1a: Zamazenta|Wild Charge|p2a: Manaphy
+|-supereffective|p2a: Manaphy
+|-damage|p2a: Manaphy|62/100
+|-damage|p1a: Zamazenta|90/100|[from] Recoil
+|-damage|p1a: Zamazenta|80/100|[from] item: Life Orb
+|move|p2a: Manaphy|Tail Glow|p2a: Manaphy
+|-boost|p2a: Manaphy|spa|3
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zamazenta|74/100|[from] Sandstorm
+|-damage|p2a: Manaphy|56/100|[from] Sandstorm
+|-heal|p2a: Manaphy|62/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781150664
+|move|p1a: Zamazenta|Wild Charge|p2a: Manaphy
+|-supereffective|p2a: Manaphy
+|-crit|p2a: Manaphy
+|-damage|p2a: Manaphy|0 fnt
+|faint|p2a: Manaphy
+|-damage|p1a: Zamazenta|58/100|[from] Recoil
+|-damage|p1a: Zamazenta|48/100|[from] item: Life Orb
+|
+|-weather|none
+|-sideend|p2: Mkap|Reflect
+|upkeep
+|
+|t:|1781150669
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|turn|17
+|
+|t:|1781150672
+|move|p2a: Enamorus|Moonblast|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|upkeep
+|
+|t:|1781150675
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|turn|18
+|
+|t:|1781150683
+|switch|p2a: Raging Bolt|Raging Bolt|91/100
+|-terastallize|p1a: Iron Crown|Steel
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|75/100
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|59/100
+|-hitcount|p2a: Raging Bolt|2
+|
+|-heal|p2a: Raging Bolt|65/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781150688
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|50/100
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|36/100
+|-hitcount|p2a: Raging Bolt|2
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|-heal|p2a: Raging Bolt|42/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781150691
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|32/100
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|22/100
+|-hitcount|p2a: Raging Bolt|2
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Iron Crown
+|-damage|p1a: Iron Crown|19/100
+|
+|-heal|p2a: Raging Bolt|29/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781150694
+|move|p2a: Raging Bolt|Thunderclap|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|-heal|p2a: Raging Bolt|35/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781150696
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|22
+|
+|t:|1781150699
+|move|p1a: Tyranitar|Stone Edge|p2a: Raging Bolt|[miss]
+|-miss|p1a: Tyranitar|p2a: Raging Bolt
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Tyranitar
+|-damage|p1a: Tyranitar|22/100
+|-unboost|p2a: Raging Bolt|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Raging Bolt|29/100|[from] Sandstorm
+|-heal|p2a: Raging Bolt|35/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|c|☆mossful|sure
+|
+|t:|1781150703
+|move|p1a: Tyranitar|Stone Edge|p2a: Raging Bolt
+|-crit|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781150705
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|turn|24
+|
+|t:|1781150710
+|-terastallize|p2a: Enamorus|Fairy
+|move|p2a: Enamorus|Moonblast|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|win|Mkap
+|raw|mossful's rating: 1565 &rarr; <strong>1547</strong><br />(-18 for losing)
+|raw|Mkap's rating: 1605 &rarr; <strong>1623</strong><br />(+18 for winning)
+|l|☆mossful
+|player|p1|
+|l|☆Mkap
+|player|p2|

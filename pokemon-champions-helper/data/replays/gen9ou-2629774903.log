@@ -1,0 +1,601 @@
+|j|☆GoToLadder
+|j|☆KurisuChestnutLab
+|t:|1781178501
+|gametype|singles
+|player|p1|GoToLadder|riley|1580
+|player|p2|KurisuChestnutLab|may-contest|1596
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Primarina, F|
+|poke|p1|Kingambit, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Great Tusk|
+|poke|p1|Rillaboom, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Zapdos|
+|poke|p2|Garganacl, M|
+|poke|p2|Clefable, M|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutLab)
+|
+|t:|1781178536
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1781178550
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100
+|move|p2a: Zapdos|Hurricane|p1a: Slowking
+|-damage|p1a: Slowking|73/100
+|-start|p1a: Slowking|confusion
+|
+|-heal|p1a: Slowking|79/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781178559
+|move|p2a: Zapdos|Volt Switch|p1a: Slowking
+|-damage|p1a: Slowking|61/100
+|
+|t:|1781178563
+|switch|p2a: Garganacl|Garganacl, M|100/100|[from] Volt Switch
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|-activate|p1a: Slowking|confusion
+|-damage|p1a: Slowking|56/100|[from] confusion
+|
+|-heal|p1a: Slowking|62/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781178570
+|move|p2a: Garganacl|Stealth Rock|p1a: Slowking
+|-sidestart|p1: GoToLadder|move: Stealth Rock
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|-activate|p1a: Slowking|confusion
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781178576
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] Chilly Reception
+|-damage|p1a: Great Tusk|98/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Great Tusk|100/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781178584
+|move|p1a: Great Tusk|Knock Off|p2a: Garganacl
+|-damage|p2a: Garganacl|81/100
+|-enditem|p2a: Garganacl|Leftovers|[from] move: Knock Off|[of] p1a: Great Tusk
+|move|p2a: Garganacl|Salt Cure|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|98/100
+|-start|p1a: Great Tusk|Salt Cure
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Great Tusk|100/100|[from] Grassy Terrain
+|-heal|p2a: Garganacl|87/100|[from] Grassy Terrain
+|-damage|p1a: Great Tusk|88/100|[from] Salt Cure
+|upkeep
+|turn|5
+|
+|t:|1781178595
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Great Tusk|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|36/100
+|-enditem|p2a: Gholdengo|Choice Scarf|[from] move: Knock Off|[of] p1a: Great Tusk
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Great Tusk|94/100|[from] Grassy Terrain
+|-heal|p1a: Great Tusk|100/100|[from] item: Leftovers
+|-heal|p2a: Gholdengo|42/100|[from] Grassy Terrain
+|-damage|p1a: Great Tusk|88/100|[from] Salt Cure
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781178615
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|95/100
+|move|p2a: Gholdengo|Make It Rain|p1a: Slowking
+|-damage|p1a: Slowking|57/100
+|-unboost|p2a: Gholdengo|spa|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781178624
+|move|p2a: Gholdengo|Trick|p1a: Slowking
+|-activate|p2a: Gholdengo|move: Trick|[of] p1a: Slowking
+|-enditem|p1a: Slowking|Heavy-Duty Boots|[silent]|[from] move: Trick
+|-item|p2a: Gholdengo|Heavy-Duty Boots|[from] move: Trick
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|
+|t:|1781178635
+|switch|p1a: Great Tusk|Great Tusk|88/100|[from] Chilly Reception
+|-damage|p1a: Great Tusk|85/100|[from] Stealth Rock
+|
+|-weather|none
+|-heal|p1a: Great Tusk|91/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781178641
+|move|p1a: Great Tusk|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|-enditem|p2a: Gholdengo|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Great Tusk
+|faint|p2a: Gholdengo
+|
+|-heal|p1a: Great Tusk|98/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781178645
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|9
+|
+|t:|1781178654
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|90/100
+|-damage|p1a: Slowking|78/100|[from] Stealth Rock
+|move|p2a: Zapdos|Hurricane|p1a: Slowking
+|-damage|p1a: Slowking|50/100
+|-start|p1a: Slowking|confusion
+|
+|upkeep
+|turn|10
+|
+|t:|1781178662
+|move|p2a: Zapdos|Hurricane|p1a: Slowking
+|-damage|p1a: Slowking|21/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|-activate|p1a: Slowking|confusion
+|-damage|p1a: Slowking|16/100|[from] confusion
+|
+|upkeep
+|turn|11
+|
+|t:|1781178682
+|switch|p1a: Kingambit|Kingambit, F, shiny|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|move|p2a: Zapdos|Hurricane|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|74/100
+|
+|-heal|p1a: Kingambit|80/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781178704
+|move|p2a: Zapdos|Volt Switch|p1a: Kingambit
+|-damage|p1a: Kingambit|50/100
+|
+|t:|1781178709
+|switch|p2a: Zamazenta|Zamazenta|100/100|[from] Volt Switch
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|87/100
+|
+|-heal|p2a: Zamazenta|93/100|[from] item: Leftovers
+|-heal|p1a: Kingambit|56/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781178720
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Great Tusk|Great Tusk|98/100
+|-damage|p1a: Great Tusk|95/100|[from] Stealth Rock
+|move|p2a: Zamazenta|Roar|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|drag|p1a: Kingambit|Kingambit, F, shiny|56/100
+|-damage|p1a: Kingambit|50/100|[from] Stealth Rock
+|
+|-heal|p2a: Zamazenta|99/100|[from] item: Leftovers
+|-heal|p1a: Kingambit|56/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781178730
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Great Tusk|Great Tusk|95/100
+|-damage|p1a: Great Tusk|92/100|[from] Stealth Rock
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-heal|p2a: Zamazenta|100/100|[from] item: Leftovers
+|-heal|p1a: Great Tusk|98/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781178739
+|move|p2a: Zamazenta|Body Press|p1a: Great Tusk
+|-damage|p1a: Great Tusk|47/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Zamazenta
+|-damage|p2a: Zamazenta|96/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: GoToLadder|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|
+|-heal|p1a: Great Tusk|53/100|[from] item: Leftovers
+|-heal|p2a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781178749
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Dragapult|Dragapult, M, shiny|100/100
+|move|p2a: Zamazenta|Body Press|p1a: Dragapult
+|-immune|p1a: Dragapult
+|
+|upkeep
+|turn|17
+|
+|t:|1781178758
+|move|p1a: Dragapult|Will-O-Wisp|p2a: Zamazenta
+|-status|p2a: Zamazenta|brn
+|move|p2a: Zamazenta|Crunch|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|73/100
+|
+|-damage|p2a: Zamazenta|94/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1781178767
+|move|p1a: Dragapult|Hex|p2a: Zamazenta
+|-damage|p2a: Zamazenta|48/100 brn
+|move|p2a: Zamazenta|Body Press|p1a: Dragapult
+|-immune|p1a: Dragapult
+|
+|-heal|p2a: Zamazenta|55/100 brn|[from] item: Leftovers
+|-damage|p2a: Zamazenta|48/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1781178777
+|move|p1a: Dragapult|Hex|p2a: Zamazenta
+|-damage|p2a: Zamazenta|6/100 brn
+|move|p2a: Zamazenta|Crunch|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|44/100
+|
+|-heal|p2a: Zamazenta|13/100 brn|[from] item: Leftovers
+|-damage|p2a: Zamazenta|6/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1781178786
+|switch|p2a: Garganacl|Garganacl, M|87/100
+|move|p1a: Dragapult|Hex|p2a: Garganacl
+|-damage|p2a: Garganacl|78/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781178792
+|move|p1a: Dragapult|U-turn|p2a: Garganacl
+|-damage|p2a: Garganacl|66/100
+|j| JensPaulVI
+|
+|t:|1781178797
+|switch|p1a: Great Tusk|Great Tusk|53/100|[from] U-turn
+|move|p2a: Garganacl|Salt Cure|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|51/100
+|-start|p1a: Great Tusk|Salt Cure
+|
+|-heal|p1a: Great Tusk|57/100|[from] item: Leftovers
+|-damage|p1a: Great Tusk|45/100|[from] Salt Cure
+|upkeep
+|turn|22
+|
+|t:|1781178813
+|-terastallize|p2a: Garganacl|Water
+|move|p1a: Great Tusk|Stealth Rock|p2a: Garganacl
+|-sidestart|p2: KurisuChestnutLab|move: Stealth Rock
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|100/100
+|
+|-heal|p1a: Great Tusk|51/100|[from] item: Leftovers
+|-damage|p1a: Great Tusk|39/100|[from] Salt Cure
+|upkeep
+|turn|23
+|
+|t:|1781178823
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|49/100
+|move|p2a: Garganacl|Stealth Rock|p1a: Slowking
+|-sidestart|p1: GoToLadder|move: Stealth Rock
+|
+|upkeep
+|turn|24
+|
+|t:|1781178829
+|switch|p1a: Great Tusk|Great Tusk|39/100
+|-damage|p1a: Great Tusk|36/100|[from] Stealth Rock
+|move|p2a: Garganacl|Salt Cure|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|33/100
+|-start|p1a: Great Tusk|Salt Cure
+|
+|-heal|p1a: Great Tusk|39/100|[from] item: Leftovers
+|-damage|p1a: Great Tusk|27/100|[from] Salt Cure
+|upkeep
+|turn|25
+|
+|t:|1781178839
+|switch|p2a: Zamazenta|Zamazenta|6/100 brn
+|-damage|p2a: Zamazenta|0 fnt|[from] Stealth Rock
+|faint|p2a: Zamazenta
+|move|p1a: Great Tusk|Rapid Spin|p2: Zamazenta|[notarget]
+|-fail|p1a: Great Tusk
+|
+|-heal|p1a: Great Tusk|33/100|[from] item: Leftovers
+|-damage|p1a: Great Tusk|21/100|[from] Salt Cure
+|upkeep
+|
+|t:|1781178842
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|-damage|p2a: Samurott|88/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1781178856
+|move|p2a: Samurott|Razor Shell|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781178872
+|switch|p1a: Primarina|Primarina, F, shiny|100/100
+|-damage|p1a: Primarina|88/100|[from] Stealth Rock
+|turn|27
+|
+|t:|1781178885
+|switch|p2a: Garganacl|Garganacl, M, tera:Water|100/100
+|-damage|p2a: Garganacl|88/100|[from] Stealth Rock
+|move|p1a: Primarina|Substitute|p1a: Primarina
+|-start|p1a: Primarina|Substitute
+|-damage|p1a: Primarina|63/100
+|
+|-heal|p1a: Primarina|69/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781178900
+|move|p1a: Primarina|Draining Kiss|p2a: Garganacl
+|-damage|p2a: Garganacl|75/100
+|-heal|p1a: Primarina|80/100|[from] drain|[of] p2a: Garganacl
+|move|p2a: Garganacl|Salt Cure|p1a: Primarina
+|-activate|p1a: Primarina|move: Substitute|[damage]
+|
+|-heal|p1a: Primarina|86/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|l| JensPaulVI
+|
+|t:|1781178910
+|move|p1a: Primarina|Calm Mind|p1a: Primarina
+|-boost|p1a: Primarina|spa|1
+|-boost|p1a: Primarina|spd|1
+|move|p2a: Garganacl|Salt Cure|p1a: Primarina
+|-activate|p1a: Primarina|move: Substitute|[damage]
+|
+|-heal|p1a: Primarina|93/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781178920
+|move|p1a: Primarina|Calm Mind|p1a: Primarina
+|-boost|p1a: Primarina|spa|1
+|-boost|p1a: Primarina|spd|1
+|move|p2a: Garganacl|Salt Cure|p1a: Primarina
+|-end|p1a: Primarina|Substitute
+|
+|-heal|p1a: Primarina|99/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1781178928
+|move|p1a: Primarina|Substitute|p1a: Primarina
+|-start|p1a: Primarina|Substitute
+|-damage|p1a: Primarina|74/100
+|move|p2a: Garganacl|Salt Cure|p1a: Primarina
+|-activate|p1a: Primarina|move: Substitute|[damage]
+|
+|-heal|p1a: Primarina|80/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1781178936
+|move|p1a: Primarina|Calm Mind|p1a: Primarina
+|-boost|p1a: Primarina|spa|1
+|-boost|p1a: Primarina|spd|1
+|move|p2a: Garganacl|Salt Cure|p1a: Primarina
+|-end|p1a: Primarina|Substitute
+|
+|-heal|p1a: Primarina|86/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1781178944
+|move|p1a: Primarina|Substitute|p1a: Primarina
+|-start|p1a: Primarina|Substitute
+|-damage|p1a: Primarina|61/100
+|move|p2a: Garganacl|Salt Cure|p1a: Primarina
+|-activate|p1a: Primarina|move: Substitute|[damage]
+|
+|-heal|p1a: Primarina|67/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1781178954
+|move|p1a: Primarina|Calm Mind|p1a: Primarina
+|-boost|p1a: Primarina|spa|1
+|-boost|p1a: Primarina|spd|1
+|move|p2a: Garganacl|Salt Cure|p1a: Primarina
+|-activate|p1a: Primarina|move: Substitute|[damage]
+|
+|-heal|p1a: Primarina|73/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1781178963
+|move|p1a: Primarina|Draining Kiss|p2a: Garganacl
+|-damage|p2a: Garganacl|32/100
+|-heal|p1a: Primarina|100/100|[from] drain|[of] p2a: Garganacl
+|move|p2a: Garganacl|Salt Cure|p1a: Primarina
+|-end|p1a: Primarina|Substitute
+|
+|upkeep
+|turn|36
+|
+|t:|1781178976
+|move|p1a: Primarina|Substitute|p1a: Primarina
+|-start|p1a: Primarina|Substitute
+|-damage|p1a: Primarina|75/100
+|move|p2a: Garganacl|Salt Cure|p1a: Primarina
+|-activate|p1a: Primarina|move: Substitute|[damage]
+|
+|-heal|p1a: Primarina|82/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1781178983
+|move|p1a: Primarina|Draining Kiss|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|-heal|p1a: Primarina|100/100|[from] drain|[of] p2a: Garganacl
+|faint|p2a: Garganacl
+|
+|upkeep
+|
+|t:|1781178987
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|38
+|
+|t:|1781178994
+|move|p1a: Primarina|Psychic Noise|p2a: Clefable
+|-damage|p2a: Clefable|69/100
+|-start|p2a: Clefable|move: Heal Block
+|move|p2a: Clefable|Moonblast|p1a: Primarina
+|-end|p1a: Primarina|Substitute
+|
+|upkeep
+|turn|39
+|
+|t:|1781179004
+|move|p1a: Primarina|Substitute|p1a: Primarina
+|-start|p1a: Primarina|Substitute
+|-damage|p1a: Primarina|75/100
+|move|p2a: Clefable|Thunder Wave||[still]
+|-fail|p2a: Clefable
+|
+|-heal|p1a: Primarina|82/100|[from] item: Leftovers
+|-end|p2a: Clefable|move: Heal Block
+|upkeep
+|turn|40
+|
+|t:|1781179016
+|move|p1a: Primarina|Psychic Noise|p2a: Clefable
+|-damage|p2a: Clefable|39/100
+|-start|p2a: Clefable|move: Heal Block
+|move|p2a: Clefable|Moonblast|p1a: Primarina
+|-activate|p1a: Primarina|move: Substitute|[damage]
+|
+|-heal|p1a: Primarina|88/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1781179033
+|move|p1a: Primarina|Draining Kiss|p2a: Clefable
+|-damage|p2a: Clefable|19/100
+|-heal|p1a: Primarina|100/100|[from] drain|[of] p2a: Clefable
+|move|p2a: Clefable|Moonblast|p1a: Primarina
+|-end|p1a: Primarina|Substitute
+|
+|-end|p2a: Clefable|move: Heal Block
+|upkeep
+|turn|42
+|
+|t:|1781179043
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Primarina|Psychic Noise|p2a: Zapdos
+|-damage|p2a: Zapdos|13/100
+|-start|p2a: Zapdos|move: Heal Block
+|
+|upkeep
+|turn|43
+|
+|t:|1781179051
+|move|p2a: Zapdos|Volt Switch|p1a: Primarina
+|-supereffective|p1a: Primarina
+|-damage|p1a: Primarina|84/100
+|
+|t:|1781179055
+|switch|p2a: Clefable|Clefable, M|19/100|[from] Volt Switch
+|move|p1a: Primarina|Psychic Noise|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-heal|p1a: Primarina|90/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781179059
+|switch|p2a: Zapdos|Zapdos|13/100
+|turn|44
+|
+|t:|1781179067
+|move|p2a: Zapdos|Discharge|p1a: Primarina
+|-supereffective|p1a: Primarina
+|-damage|p1a: Primarina|72/100
+|move|p1a: Primarina|Psychic Noise|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-heal|p1a: Primarina|78/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781179072
+|switch|p2a: Samurott|Samurott-Hisui, F|88/100
+|-damage|p2a: Samurott|76/100|[from] Stealth Rock
+|turn|45
+|
+|t:|1781179079
+|move|p2a: Samurott|Razor Shell|p1a: Primarina
+|-resisted|p1a: Primarina
+|-crit|p1a: Primarina
+|-damage|p1a: Primarina|47/100
+|-unboost|p1a: Primarina|def|1
+|move|p1a: Primarina|Draining Kiss|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|-heal|p1a: Primarina|97/100|[from] drain|[of] p2a: Samurott
+|faint|p2a: Samurott
+|
+|win|GoToLadder
+|raw|GoToLadder's rating: 1580 &rarr; <strong>1597</strong><br />(+17 for winning)
+|raw|KurisuChestnutLab's rating: 1535 &rarr; <strong>1518</strong><br />(-17 for losing)

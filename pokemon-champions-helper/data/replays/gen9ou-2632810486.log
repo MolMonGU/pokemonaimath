@@ -1,0 +1,305 @@
+|j|☆Chaincrush
+|j|☆CassiusAuBellossom
+|t:|1781564896
+|gametype|singles
+|player|p1|Chaincrush|102|1558
+|player|p2|CassiusAuBellossom|102|1603
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Rillaboom, M|
+|poke|p1|Hawlucha, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Kyurem|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Ceruledge, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Beartic, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Zapdos|
+|poke|p2|Regieleki|
+|poke|p2|Goodra-Hisui, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by CassiusAuBellossom)
+|
+|t:|1781564908
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|switch|p2a: Armin|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Armin
+|turn|1
+|
+|t:|1781564917
+|switch|p2a: Pieck|Goodra-Hisui, M|100/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781564927
+|switch|p1a: Rillaboom|Rillaboom, M|100/100|[from] Chilly Reception
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781564936
+|move|p1a: Rillaboom|Drain Punch|p2a: Pieck
+|-supereffective|p2a: Pieck
+|-damage|p2a: Pieck|20/100
+|-ability|p2a: Pieck|Gooey
+|-unboost|p1a: Rillaboom|spe|1
+|move|p2a: Pieck|Draco Meteor|p1a: Rillaboom
+|-damage|p1a: Rillaboom|25/100
+|-unboost|p2a: Pieck|spa|2
+|-enditem|p2a: Pieck|Eject Pack
+|
+|t:|1781564946
+|switch|p2a: Armin|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Armin
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rillaboom|31/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781564959
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Armin|U-turn|p1a: Slowking
+|-damage|p1a: Slowking|90/100
+|
+|t:|1781564967
+|switch|p2a: Levi|Barraskewda, F|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Slowking|96/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781564982
+|-terastallize|p1a: Slowking|Water
+|move|p2a: Levi|Flip Turn|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|67/100
+|
+|t:|1781564992
+|switch|p2a: Pieck|Goodra-Hisui, M|20/100|[from] Flip Turn
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781564999
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Pieck|26/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|j| lowladderubersnoob
+|
+|t:|1781565012
+|move|p1a: Kyurem|Blizzard|p2a: Pieck
+|-damage|p2a: Pieck|0 fnt
+|faint|p2a: Pieck
+|
+|-weather|Snowscape|[upkeep]
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781565019
+|switch|p2a: Armin|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Armin
+|turn|6
+|
+|t:|1781565024
+|switch|p2a: Eren|Beartic, F|100/100
+|move|p1a: Kyurem|Blizzard|p2a: Eren
+|-resisted|p2a: Eren
+|-damage|p2a: Eren|45/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781565038
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|move|p2a: Eren|Icicle Spear|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|93/100
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|84/100
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|76/100
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|68/100
+|-hitcount|p1a: Ceruledge|4
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781565053
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Eren
+|-damage|p2a: Eren|18/100
+|move|p2a: Eren|Earthquake|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781565066
+|switch|p1a: Rillaboom|Rillaboom, M|31/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|9
+|j| DA COME UP
+|
+|t:|1781565076
+|move|p1a: Rillaboom|Grassy Glide|p2a: Eren
+|-damage|p2a: Eren|0 fnt
+|faint|p2a: Eren
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rillaboom|37/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781565084
+|switch|p2a: Zeke|Zapdos|100/100
+|turn|10
+|
+|t:|1781565092
+|switch|p1a: Slowking|Slowking-Galar, M, tera:Water|99/100
+|move|p2a: Zeke|Hurricane|p1a: Slowking
+|-damage|p1a: Slowking|64/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Slowking|71/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781565106
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|-enditem|p1a: Hoopa|Grassy Seed
+|-boost|p1a: Hoopa|def|1|[from] item: Grassy Seed
+|move|p2a: Zeke|Thunder|p1a: Hoopa
+|-damage|p1a: Hoopa|62/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Hoopa|68/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781565121
+|move|p2a: Zeke|Thunder|p1a: Hoopa
+|-damage|p1a: Hoopa|29/100
+|move|p1a: Hoopa|Trick Room|p1a: Hoopa
+|-fieldstart|move: Trick Room|[of] p1a: Hoopa
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Hoopa|35/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781565136
+|move|p1a: Hoopa|Psychic|p2a: Zeke
+|-damage|p2a: Zeke|58/100
+|-item|p1a: Hoopa|Assault Vest|[from] ability: Magician|[of] p2a: Zeke
+|move|p2a: Zeke|Thunder|p1a: Hoopa
+|-damage|p1a: Hoopa|8/100
+|-status|p1a: Hoopa|par
+|
+|-weather|none
+|-heal|p1a: Hoopa|14/100 par|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1781565163
+|switch|p2a: Armin|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Armin
+|move|p1a: Hoopa|Psychic|p2a: Armin
+|-damage|p2a: Armin|19/100
+|-unboost|p2a: Armin|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781565174
+|move|p1a: Hoopa|Psychic|p2a: Armin
+|-damage|p2a: Armin|0 fnt
+|faint|p2a: Armin
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781565184
+|switch|p2a: Mikasa|Regieleki|100/100
+|turn|16
+|
+|t:|1781565189
+|move|p2a: Mikasa|Extreme Speed|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1781565196
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|17
+|
+|t:|1781565206
+|move|p2a: Mikasa|Volt Switch|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|81/100
+|
+|t:|1781565209
+|switch|p2a: Zeke|Zapdos|58/100|[from] Volt Switch
+|move|p1a: Kyurem|Freeze-Dry|p2a: Zeke
+|-supereffective|p2a: Zeke
+|-damage|p2a: Zeke|0 fnt
+|faint|p2a: Zeke
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781565218
+|switch|p2a: Levi|Barraskewda, F|100/100
+|turn|18
+|
+|t:|1781565223
+|switch|p1a: Slowking|Slowking-Galar, M, tera:Water|100/100
+|move|p2a: Levi|Close Combat|p1a: Slowking
+|-damage|p1a: Slowking|59/100
+|-unboost|p2a: Levi|def|1
+|-unboost|p2a: Levi|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|-message|CassiusAuBellossom forfeited.
+|
+|win|Chaincrush
+|raw|Chaincrush's rating: 1558 &rarr; <strong>1581</strong><br />(+23 for winning)
+|raw|CassiusAuBellossom's rating: 1603 &rarr; <strong>1580</strong><br />(-23 for losing)
+|l|☆CassiusAuBellossom
+|player|p2|
+|l|☆Chaincrush
+|player|p1|
+|l| lowladderubersnoob

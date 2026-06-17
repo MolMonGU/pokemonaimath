@@ -1,0 +1,164 @@
+|j|☆omari p
+|j|☆Alvarosam
+|t:|1781400890
+|gametype|singles
+|player|p1|omari p|pokemonrangerf|1505
+|player|p2|Alvarosam|cheren-gen5bw2|1557
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Venusaur, M|
+|poke|p1|Cinderace, F|
+|poke|p1|Iron Moth|
+|poke|p1|Torkoal, M|
+|poke|p1|Shaymin|
+|poke|p1|Slither Wing|
+|poke|p2|Alomomola, F|
+|poke|p2|Cinderace, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Kingambit, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Alvarosam)
+|
+|t:|1781400898
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, M, shiny|100/100
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Torkoal|atk|1
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|inactive|omari p has 120 seconds left.
+|
+|t:|1781400929
+|move|p2a: Landorus|Earthquake|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|28/100
+|move|p1a: Torkoal|Fire Blast|p2a: Landorus
+|-damage|p2a: Landorus|13/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781400939
+|switch|p1a: Shaymin|Shaymin|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Shaymin
+|-sidestart|p1: omari p|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781400946
+|move|p2a: Landorus|U-turn|p1a: Shaymin
+|-supereffective|p1a: Shaymin
+|-damage|p1a: Shaymin|67/100
+|
+|t:|1781400950
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] U-turn
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Shaymin|Growth|p1a: Shaymin
+|-boost|p1a: Shaymin|atk|2
+|-boost|p1a: Shaymin|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Shaymin|73/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781400961
+|move|p1a: Shaymin|Earth Power|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|29/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Shaymin
+|-damage|p1a: Shaymin|20/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Shaymin|27/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781400970
+|move|p2a: Raging Bolt|Thunderclap|p1a: Shaymin
+|-resisted|p1a: Shaymin
+|-damage|p1a: Shaymin|3/100
+|move|p1a: Shaymin|Solar Beam||[still]
+|-prepare|p1a: Shaymin|Solar Beam
+|-anim|p1a: Shaymin|Solar Beam|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Shaymin|10/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781400982
+|switch|p2a: Cinderace|Cinderace, M, shiny|100/100
+|turn|6
+|
+|t:|1781400987
+|move|p2a: Cinderace|U-turn|p1a: Shaymin
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-supereffective|p1a: Shaymin
+|-damage|p1a: Shaymin|0 fnt
+|faint|p1a: Shaymin
+|
+|t:|1781400997
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|13/100|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781401007
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-damage|p1a: Iron Moth|75/100|[from] Stealth Rock
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|turn|7
+|
+|t:|1781401015
+|move|p1a: Iron Moth|Fiery Dance|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|-boost|p1a: Iron Moth|spa|1
+|faint|p2a: Landorus
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781401023
+|switch|p2a: Cinderace|Cinderace, M, shiny|100/100
+|turn|8
+|inactive|omari p has 120 seconds left.
+|
+|t:|1781401055
+|move|p1a: Iron Moth|Sludge Wave|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|-weather|none
+|upkeep
+|-message|Alvarosam forfeited.
+|
+|win|omari p
+|raw|omari p's rating: 1505 &rarr; <strong>1528</strong><br />(+23 for winning)
+|raw|Alvarosam's rating: 1557 &rarr; <strong>1534</strong><br />(-23 for losing)
+|l|☆Alvarosam
+|player|p2|

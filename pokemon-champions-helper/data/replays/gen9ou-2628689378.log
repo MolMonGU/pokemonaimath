@@ -1,0 +1,211 @@
+|j|☆Mkap
+|j|☆vartholomeus
+|t:|1781043342
+|gametype|singles
+|player|p1|Mkap|169|1535
+|player|p2|vartholomeus|gambler|1548
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Chesnaught, M|
+|poke|p1|Iron Treads|
+|poke|p1|Raging Bolt|
+|poke|p1|Enamorus, F|
+|poke|p1|Manaphy|
+|poke|p1|Zamazenta-*|
+|poke|p2|Moltres|
+|poke|p2|Kleavor, F|
+|poke|p2|Greninja-*, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by vartholomeus)
+|
+|t:|1781043354
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Klingk|Kleavor, F|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781043358
+|move|p1a: Iron Treads|Steel Beam|p2a: Klingk
+|-supereffective|p2a: Klingk
+|-enditem|p2a: Klingk|Focus Sash
+|-damage|p2a: Klingk|1/100
+|-damage|p1a: Iron Treads|50/100|[from] steelbeam
+|move|p2a: Klingk|Stone Axe|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-crit|p1a: Iron Treads
+|-damage|p1a: Iron Treads|30/100
+|-sidestart|p1: Mkap|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781043376
+|switch|p2a: Mantequillo|Gholdengo|100/100
+|move|p1a: Iron Treads|Stealth Rock|p2a: Mantequillo
+|-sidestart|p2: vartholomeus|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781043380
+|switch|p2a: Maltro|Moltres|100/100
+|move|p1a: Iron Treads|Earth Power|p2a: Maltro
+|-immune|p2a: Maltro
+|
+|upkeep
+|turn|4
+|
+|t:|1781043385
+|switch|p2a: Klingk|Kleavor, F|1/100
+|-damage|p2a: Klingk|0 fnt|[from] Stealth Rock
+|faint|p2a: Klingk
+|move|p1a: Iron Treads|Rapid Spin|p2: Klingk|[notarget]
+|-fail|p1a: Iron Treads
+|
+|upkeep
+|
+|t:|1781043389
+|switch|p2a: Suke|Greninja, M|100/100
+|-damage|p2a: Suke|88/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1781043396
+|move|p2a: Suke|Water Shuriken|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|2/100
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|-ability|p2a: Suke|Battle Bond|boost
+|-boost|p2a: Suke|atk|1
+|-boost|p2a: Suke|spa|1
+|-boost|p2a: Suke|spe|1
+|-activate|p2a: Suke|ability: Battle Bond
+|-hitcount|p1: Iron Treads|2
+|-damage|p2a: Suke|78/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781043402
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-damage|p1a: Raging Bolt|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1781043405
+|move|p2a: Suke|Water Shuriken|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|83/100
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|77/100
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|72/100
+|-hitcount|p1a: Raging Bolt|3
+|-damage|p2a: Suke|69/100|[from] item: Life Orb
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|
+|-heal|p1a: Raging Bolt|78/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781043410
+|move|p1a: Raging Bolt|Thunderclap|p2a: Suke
+|-supereffective|p2a: Suke
+|-damage|p2a: Suke|0 fnt
+|faint|p2a: Suke
+|
+|-heal|p1a: Raging Bolt|84/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781043413
+|switch|p2a: Irohak|Iron Valiant|100/100
+|-damage|p2a: Irohak|94/100|[from] Stealth Rock
+|-enditem|p2a: Irohak|Booster Energy
+|-activate|p2a: Irohak|ability: Quark Drive|[fromitem]
+|-start|p2a: Irohak|quarkdrivespe
+|turn|8
+|
+|t:|1781043424
+|-terastallize|p1a: Raging Bolt|Fairy
+|move|p2a: Irohak|Calm Mind|p2a: Irohak
+|-boost|p2a: Irohak|spa|1
+|-boost|p2a: Irohak|spd|1
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Irohak
+|-damage|p2a: Irohak|33/100
+|
+|-heal|p1a: Raging Bolt|90/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781043431
+|move|p2a: Irohak|Encore|p1a: Raging Bolt
+|-start|p1a: Raging Bolt|Encore
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Irohak
+|-damage|p2a: Irohak|0 fnt
+|faint|p2a: Irohak
+|-end|p2a: Irohak|Quark Drive|[silent]
+|
+|-heal|p1a: Raging Bolt|96/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781043434
+|switch|p2a: Rolla|Rillaboom, F|100/100
+|-damage|p2a: Rolla|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rolla
+|turn|10
+|inactive|Mkap has 120 seconds left.
+|
+|t:|1781043464
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Chesnaught|Chesnaught, M|100/100
+|-damage|p1a: Chesnaught|95/100|[from] Stealth Rock
+|move|p2a: Rolla|Wood Hammer|p1a: Chesnaught
+|-resisted|p1a: Chesnaught
+|-damage|p1a: Chesnaught|40/100
+|-damage|p2a: Rolla|71/100|[from] Recoil
+|
+|-heal|p2a: Rolla|78/100|[from] Grassy Terrain
+|-heal|p1a: Chesnaught|46/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781043470
+|switch|p2a: Maltro|Moltres|100/100
+|move|p1a: Chesnaught|Drain Punch|p2a: Maltro
+|-resisted|p2a: Maltro
+|-damage|p2a: Maltro|89/100
+|-heal|p1a: Chesnaught|53/100|[from] drain|[of] p2a: Maltro
+|
+|-heal|p1a: Chesnaught|59/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|j| S\Il!^ve>RjAY22=40
+|-message|vartholomeus forfeited.
+|
+|win|Mkap
+|raw|Mkap's rating: 1535 &rarr; <strong>1556</strong><br />(+21 for winning)
+|raw|vartholomeus's rating: 1548 &rarr; <strong>1527</strong><br />(-21 for losing)
+|l|☆vartholomeus
+|player|p2|
+|l|☆Mkap
+|player|p1|
+|l| S\Il!^ve>RjAY22=40

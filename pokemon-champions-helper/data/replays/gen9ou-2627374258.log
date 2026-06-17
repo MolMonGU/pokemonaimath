@@ -1,0 +1,522 @@
+|j|‽LT_Alt1
+|j|☆eros maniac
+|t:|1780892354
+|gametype|singles
+|player|p1|LT_Alt1|265|1658
+|player|p2|eros maniac|hilbert-wonderlauncher|1761
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Garganacl, F|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Kyurem|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Moltres|
+|poke|p1|Iron Treads|
+|poke|p2|Frosmoth, F|
+|poke|p2|Maushold-Four|
+|poke|p2|Okidogi, M|
+|poke|p2|Sinistcha|
+|poke|p2|Alomomola, M|
+|poke|p2|Weezing-Galar, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by eros maniac)
+|
+|t:|1780892364
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Okidogi|Okidogi, M|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|
+|t:|1780892369
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Okidogi|Poison Fang|p1a: Weezing
+|-damage|p1a: Weezing|70/100
+|
+|-heal|p1a: Weezing|76/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|j| kanaete onegai
+|
+|t:|1780892375
+|switch|p2a: Alomomola|Alomomola, M, shiny|100/100
+|move|p1a: Weezing|Will-O-Wisp|p2a: Alomomola
+|-status|p2a: Alomomola|brn
+|
+|-heal|p1a: Weezing|82/100|[from] item: Leftovers
+|-damage|p2a: Alomomola|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1780892384
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Alomomola|Flip Turn|p1a: Slowking
+|-damage|p1a: Slowking|92/100
+|
+|t:|1780892387
+|switch|p2a: Frosmoth|Frosmoth, F, shiny|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|4
+|j| Champion reko
+|
+|t:|1780892393
+|move|p2a: Frosmoth|Substitute|p2a: Frosmoth
+|-start|p2a: Frosmoth|Substitute
+|-damage|p2a: Frosmoth|75/100
+|move|p1a: Slowking|Thunder Wave||[still]
+|-fail|p1a: Slowking
+|
+|-heal|p2a: Frosmoth|82/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1780892398
+|move|p2a: Frosmoth|Quiver Dance|p2a: Frosmoth
+|-boost|p2a: Frosmoth|spa|1
+|-boost|p2a: Frosmoth|spd|1
+|-boost|p2a: Frosmoth|spe|1
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1780892400
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Frosmoth|88/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1780892403
+|-terastallize|p1a: Kyurem|Ice
+|move|p1a: Kyurem|Scale Shot|p2a: Frosmoth
+|-crit|p2a: Frosmoth
+|-activate|p2a: Frosmoth|move: Substitute|[damage]
+|-crit|p2a: Frosmoth
+|-end|p2a: Frosmoth|Substitute
+|-damage|p2a: Frosmoth|78/100
+|-damage|p2a: Frosmoth|68/100
+|-damage|p2a: Frosmoth|57/100
+|-hitcount|p2a: Frosmoth|5
+|-unboost|p1a: Kyurem|def|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Frosmoth|Ice Beam|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|71/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Frosmoth|63/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1780892420
+|move|p1a: Kyurem|Freeze-Dry|p2a: Frosmoth
+|-resisted|p2a: Frosmoth
+|-damage|p2a: Frosmoth|55/100
+|move|p2a: Frosmoth|Bug Buzz|p1a: Kyurem
+|-damage|p1a: Kyurem|13/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Frosmoth|61/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1780892423
+|move|p1a: Kyurem|Scale Shot|p2a: Frosmoth
+|-damage|p2a: Frosmoth|51/100
+|-damage|p2a: Frosmoth|41/100
+|-damage|p2a: Frosmoth|30/100
+|-damage|p2a: Frosmoth|21/100
+|-damage|p2a: Frosmoth|11/100
+|-hitcount|p2a: Frosmoth|5
+|-unboost|p1a: Kyurem|def|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Frosmoth|Bug Buzz|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Frosmoth|17/100|[from] item: Leftovers
+|upkeep
+|c|☆eros maniac|The snow buff me
+|
+|t:|1780892437
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|turn|9
+|
+|t:|1780892454
+|switch|p2a: Alomomola|Alomomola, M, shiny|100/100 brn
+|move|p1a: Garganacl|Salt Cure|p2a: Alomomola
+|-damage|p2a: Alomomola|92/100 brn
+|-start|p2a: Alomomola|Salt Cure
+|
+|-weather|none
+|-damage|p2a: Alomomola|86/100 brn|[from] brn
+|-damage|p2a: Alomomola|61/100 brn|[from] Salt Cure
+|upkeep
+|turn|10
+|
+|t:|1780892459
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|move|p1a: Garganacl|Salt Cure|p2a: Alomomola
+|-crit|p2a: Alomomola
+|-damage|p2a: Alomomola|48/100 brn
+|
+|-damage|p2a: Alomomola|42/100 brn|[from] brn
+|-damage|p2a: Alomomola|17/100 brn|[from] Salt Cure
+|upkeep
+|turn|11
+|
+|t:|1780892462
+|move|p2a: Alomomola|Flip Turn|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|90/100
+|
+|t:|1780892468
+|switch|p2a: Okidogi|Okidogi, M|100/100|[from] Flip Turn
+|move|p1a: Garganacl|Salt Cure|p2a: Okidogi
+|-resisted|p2a: Okidogi
+|-damage|p2a: Okidogi|95/100
+|-start|p2a: Okidogi|Salt Cure
+|
+|-heal|p2a: Okidogi|100/100|[from] move: Wish|[wisher] Alomomola
+|-heal|p1a: Garganacl|96/100|[from] item: Leftovers
+|-damage|p2a: Okidogi|88/100|[from] Salt Cure
+|upkeep
+|turn|12
+|
+|t:|1780892472
+|switch|p1a: Weezing|Weezing-Galar, F|82/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Okidogi|Knock Off|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|62/100
+|-enditem|p1a: Weezing|Leftovers|[from] move: Knock Off|[of] p2a: Okidogi
+|
+|-damage|p2a: Okidogi|75/100|[from] Salt Cure
+|upkeep
+|turn|13
+|
+|t:|1780892477
+|switch|p2a: Alomomola|Alomomola, M, shiny|51/100 brn
+|move|p1a: Weezing|Strange Steam|p2a: Alomomola
+|-damage|p2a: Alomomola|28/100 brn
+|
+|-damage|p2a: Alomomola|22/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1780892481
+|switch|p2a: Frosmoth|Frosmoth, F, shiny|17/100
+|move|p1a: Weezing|Strange Steam|p2a: Frosmoth
+|-damage|p2a: Frosmoth|0 fnt
+|faint|p2a: Frosmoth
+|
+|upkeep
+|
+|t:|1780892486
+|switch|p2a: Sinistcha|Sinistcha, shiny|100/100
+|turn|15
+|
+|t:|1780892492
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1780892495
+|move|p1a: Moltres|Flamethrower|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|69/100
+|move|p2a: Sinistcha|Shadow Ball|p1a: Moltres
+|-damage|p1a: Moltres|53/100
+|
+|upkeep
+|turn|17
+|
+|t:|1780892499
+|move|p1a: Moltres|Flamethrower|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|40/100
+|move|p2a: Sinistcha|Shadow Ball|p1a: Moltres
+|-damage|p1a: Moltres|5/100
+|
+|upkeep
+|turn|18
+|
+|t:|1780892507
+|move|p1a: Moltres|Flamethrower|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|9/100
+|move|p2a: Sinistcha|Shadow Ball|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|upkeep
+|
+|t:|1780892512
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|turn|19
+|
+|t:|1780892517
+|switch|p2a: Maushold|Maushold-Four|100/100
+|move|p1a: Iron Treads|Knock Off|p2a: Maushold
+|-damage|p2a: Maushold|64/100
+|-enditem|p2a: Maushold|Wide Lens|[from] move: Knock Off|[of] p1a: Iron Treads
+|
+|upkeep
+|turn|20
+|
+|t:|1780892523
+|move|p2a: Maushold|Population Bomb|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|96/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|92/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|87/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|83/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|79/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|75/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|71/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|67/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|63/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|58/100
+|-hitcount|p1a: Iron Treads|10
+|move|p1a: Iron Treads|Earthquake|p2a: Maushold
+|-damage|p2a: Maushold|1/100
+|
+|-heal|p1a: Iron Treads|64/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1780892528
+|move|p2a: Maushold|Population Bomb|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|60/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|56/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|51/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|47/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|43/100
+|-resisted|p1a: Iron Treads
+|-crit|p1a: Iron Treads
+|-damage|p1a: Iron Treads|37/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|33/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|29/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|25/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|21/100
+|-hitcount|p1a: Iron Treads|10
+|move|p1a: Iron Treads|Rapid Spin|p2a: Maushold
+|-damage|p2a: Maushold|0 fnt
+|-boost|p1a: Iron Treads|spe|1
+|faint|p2a: Maushold
+|
+|-heal|p1a: Iron Treads|27/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780892531
+|switch|p2a: Alomomola|Alomomola, M, shiny|22/100 brn
+|turn|22
+|
+|t:|1780892537
+|switch|p2a: Okidogi|Okidogi, M|75/100
+|move|p1a: Iron Treads|Earthquake|p2a: Okidogi
+|-supereffective|p2a: Okidogi
+|-damage|p2a: Okidogi|14/100
+|
+|-heal|p1a: Iron Treads|33/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1780892542
+|move|p1a: Iron Treads|Earthquake|p2a: Okidogi
+|-supereffective|p2a: Okidogi
+|-damage|p2a: Okidogi|0 fnt
+|faint|p2a: Okidogi
+|
+|-heal|p1a: Iron Treads|39/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780892544
+|switch|p2a: Alomomola|Alomomola, M, shiny|55/100 brn
+|turn|24
+|
+|t:|1780892547
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Garganacl|Garganacl, F|96/100
+|move|p2a: Alomomola|Healing Wish|p2a: Alomomola
+|faint|p2a: Alomomola
+|
+|-heal|p1a: Garganacl|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780892551
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|turn|25
+|
+|t:|1780892559
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Weezing|Toxic|p1a: Slowking
+|-immune|p1a: Slowking
+|
+|upkeep
+|turn|26
+|l| Champion reko
+|
+|t:|1780892562
+|move|p2a: Weezing|Strange Steam|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|92/100
+|move|p1a: Slowking|Future Sight|p2a: Weezing
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|27
+|
+|t:|1780892565
+|move|p2a: Weezing|Strange Steam|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|84/100
+|move|p1a: Slowking|Sludge Bomb|p2a: Weezing
+|-damage|p2a: Weezing|57/100
+|
+|upkeep
+|turn|28
+|
+|t:|1780892568
+|move|p2a: Weezing|Strange Steam|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|76/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1780892571
+|switch|p1a: Garganacl|Garganacl, F|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Weezing|move: Future Sight
+|-supereffective|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|upkeep
+|
+|t:|1780892573
+|switch|p2a: Sinistcha|Sinistcha, shiny|9/100
+|-heal|p2a: Sinistcha|100/100|[from] move: Healing Wish
+|turn|29
+|
+|t:|1780892575
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|move|p1a: Garganacl|Salt Cure|p2a: Sinistcha
+|-damage|p2a: Sinistcha|91/100
+|-start|p2a: Sinistcha|Salt Cure
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Sinistcha|79/100|[from] Salt Cure
+|upkeep
+|turn|30
+|
+|t:|1780892582
+|switch|p1a: Slowking|Slowking-Galar, F|76/100
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Sinistcha|66/100|[from] Salt Cure
+|upkeep
+|turn|31
+|
+|t:|1780892587
+|move|p2a: Sinistcha|Shadow Ball|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Sinistcha|54/100|[from] Salt Cure
+|upkeep
+|j| nepturee
+|
+|t:|1780892591
+|switch|p1a: Iron Treads|Iron Treads|39/100
+|turn|32
+|
+|t:|1780892593
+|move|p1a: Iron Treads|Knock Off|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-enditem|p2a: Sinistcha|Colbur Berry|[eat]
+|-enditem|p2a: Sinistcha|Colbur Berry|[weaken]
+|-damage|p2a: Sinistcha|35/100
+|move|p2a: Sinistcha|Strength Sap|p1a: Iron Treads
+|-unboost|p1a: Iron Treads|atk|1
+|-heal|p2a: Sinistcha|100/100
+|
+|-weather|none
+|-heal|p1a: Iron Treads|45/100|[from] item: Leftovers
+|-damage|p2a: Sinistcha|88/100|[from] Salt Cure
+|upkeep
+|turn|33
+|
+|t:|1780892599
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|move|p2a: Sinistcha|Matcha Gotcha|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|-heal|p2a: Sinistcha|100/100|[from] drain|[of] p1a: Garganacl
+|faint|p1a: Garganacl
+|
+|-damage|p2a: Sinistcha|88/100|[from] Salt Cure
+|upkeep
+|-message|LT_Alt1 forfeited.
+|
+|win|eros maniac
+|raw|LT_Alt1's rating: 1658 &rarr; <strong>1644</strong><br />(-14 for losing)
+|raw|eros maniac's rating: 1761 &rarr; <strong>1775</strong><br />(+14 for winning)
+|l|‽LT_Alt1
+|player|p1|
+|c|☆eros maniac|Gg
+|l|☆eros maniac
+|player|p2|
+|l| nepturee

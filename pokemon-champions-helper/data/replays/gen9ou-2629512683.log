@@ -1,0 +1,338 @@
+|j|☆AllHailLechuguita
+|j|☆ddukkes
+|t:|1781140077
+|gametype|singles
+|player|p1|AllHailLechuguita|265|1591
+|player|p2|ddukkes|smasher|1549
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ribombee, M|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Great Tusk|
+|poke|p1|Kingambit, M|
+|poke|p1|Skeledirge, M|
+|poke|p1|Gholdengo|
+|poke|p2|Tyranitar, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Hydrapple, F|
+|poke|p2|Zapdos|
+|poke|p2|Cinderace, F|
+|poke|p2|Alomomola, M|
+|teampreview
+|
+|t:|1781140107
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ribombee|Ribombee, M, shiny|100/100
+|switch|p2a: Tyranitar|Tyranitar, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|1
+|
+|t:|1781140121
+|move|p1a: Ribombee|Sticky Web|p2a: Tyranitar
+|-sidestart|p2: ddukkes|move: Sticky Web
+|move|p2a: Tyranitar|Heavy Slam|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-enditem|p1a: Ribombee|Focus Sash
+|-damage|p1a: Ribombee|1/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ribombee|0 fnt|[from] Sandstorm
+|faint|p1a: Ribombee
+|upkeep
+|
+|t:|1781140123
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100
+|turn|2
+|
+|t:|1781140131
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Alomomola
+|-crit|p2a: Alomomola
+|-damage|p2a: Alomomola|87/100
+|-boost|p1a: Great Tusk|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Alomomola|81/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1781140141
+|-terastallize|p1a: Great Tusk|Fire
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|move|p2a: Alomomola|Flip Turn|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|87/100
+|
+|t:|1781140149
+|switch|p2a: Hydrapple|Hydrapple, F|100/100|[from] Flip Turn
+|-activate|p2a: Hydrapple|move: Sticky Web
+|-unboost|p2a: Hydrapple|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Great Tusk|81/100|[from] Sandstorm
+|-damage|p2a: Hydrapple|94/100|[from] Sandstorm
+|-heal|p1a: Great Tusk|87/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781140157
+|-terastallize|p2a: Hydrapple|Fairy
+|move|p1a: Great Tusk|Ice Spinner|p2a: Hydrapple
+|-damage|p2a: Hydrapple|72/100
+|-damage|p1a: Great Tusk|70/100|[from] item: Rocky Helmet|[of] p2a: Hydrapple
+|move|p2a: Hydrapple|Earth Power|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|5/100
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Great Tusk|0 fnt|[from] Sandstorm
+|-damage|p2a: Hydrapple|66/100|[from] Sandstorm
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|upkeep
+|
+|t:|1781140162
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|5
+|
+|t:|1781140171
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Hydrapple|Giga Drain|p1a: Ogerpon
+|-damage|p1a: Ogerpon|68/100
+|-heal|p2a: Hydrapple|78/100|[from] drain|[of] p1a: Ogerpon
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1781140179
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Hydrapple|Fickle Beam|p1a: Ogerpon
+|-damage|p1a: Ogerpon|27/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781140192
+|move|p1a: Ogerpon|Horn Leech|p2a: Hydrapple
+|-damage|p2a: Hydrapple|3/100
+|-heal|p1a: Ogerpon|80/100|[from] drain|[of] p2a: Hydrapple
+|-damage|p1a: Ogerpon|63/100|[from] item: Rocky Helmet|[of] p2a: Hydrapple
+|move|p2a: Hydrapple|Fickle Beam|p1a: Ogerpon
+|-damage|p1a: Ogerpon|25/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781140200
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Hydrapple|[anim] Ivy Cudgel Water
+|-damage|p2a: Hydrapple|0 fnt
+|faint|p2a: Hydrapple
+|
+|upkeep
+|
+|t:|1781140204
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|9
+|
+|t:|1781140214
+|move|p2a: Cinderace|U-turn|p1a: Ogerpon
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|t:|1781140219
+|switch|p2a: Alomomola|Alomomola, M|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781140222
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|10
+|
+|t:|1781140226
+|move|p1a: Gholdengo|Thunder Wave|p2a: Alomomola|[miss]
+|-miss|p1a: Gholdengo|p2a: Alomomola
+|move|p2a: Alomomola|Flip Turn|p1a: Gholdengo
+|-damage|p1a: Gholdengo|83/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|t:|1781140233
+|switch|p2a: Cinderace|Cinderace, F|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|11
+|
+|t:|1781140237
+|switch|p1a: Skeledirge|Skeledirge, M|100/100
+|move|p2a: Cinderace|Pyro Ball|p1a: Skeledirge
+|-resisted|p1a: Skeledirge
+|-damage|p1a: Skeledirge|77/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781140247
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-start|p2a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|move|p1a: Skeledirge|Torch Song|p2a: Cinderace
+|-damage|p2a: Cinderace|54/100
+|-boost|p1a: Skeledirge|spa|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781140259
+|move|p2a: Cinderace|Gunk Shot|p1a: Skeledirge|[miss]
+|-miss|p2a: Cinderace|p1a: Skeledirge
+|move|p1a: Skeledirge|Will-O-Wisp|p2a: Cinderace
+|-status|p2a: Cinderace|brn
+|
+|-damage|p2a: Cinderace|48/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781140266
+|move|p2a: Cinderace|Gunk Shot|p1a: Skeledirge
+|-resisted|p1a: Skeledirge
+|-damage|p1a: Skeledirge|70/100
+|move|p1a: Skeledirge|Slack Off|p1a: Skeledirge
+|-heal|p1a: Skeledirge|100/100
+|
+|-damage|p2a: Cinderace|42/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781140273
+|move|p2a: Cinderace|Gunk Shot|p1a: Skeledirge
+|-resisted|p1a: Skeledirge
+|-damage|p1a: Skeledirge|93/100
+|move|p1a: Skeledirge|Torch Song|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|-boost|p1a: Skeledirge|spa|1
+|faint|p2a: Cinderace
+|
+|upkeep
+|
+|t:|1781140282
+|switch|p2a: Tyranitar|Tyranitar, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|16
+|
+|t:|1781140289
+|move|p2a: Tyranitar|Knock Off|p1a: Skeledirge
+|-supereffective|p1a: Skeledirge
+|-damage|p1a: Skeledirge|5/100
+|-enditem|p1a: Skeledirge|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tyranitar
+|move|p1a: Skeledirge|Will-O-Wisp|p2a: Tyranitar
+|-status|p2a: Tyranitar|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Skeledirge|0 fnt|[from] Sandstorm
+|faint|p1a: Skeledirge
+|-damage|p2a: Tyranitar|94/100 brn|[from] brn
+|upkeep
+|
+|t:|1781140292
+|switch|p1a: Kingambit|Kingambit, M, shiny|100/100
+|-activate|p1a: Kingambit|move: Sticky Web
+|-unboost|p1a: Kingambit|spe|1
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|17
+|
+|t:|1781140304
+|move|p2a: Tyranitar|Low Kick|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|37/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tyranitar|88/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1781140311
+|move|p1a: Kingambit|Sucker Punch|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|44/100 brn
+|move|p2a: Tyranitar|Low Kick|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tyranitar|38/100 brn|[from] brn
+|upkeep
+|
+|t:|1781140315
+|switch|p1a: Gholdengo|Gholdengo|83/100
+|-activate|p1a: Gholdengo|move: Sticky Web
+|-unboost|p1a: Gholdengo|spe|1
+|turn|19
+|
+|t:|1781140322
+|move|p2a: Tyranitar|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|42/100
+|move|p1a: Gholdengo|Focus Blast|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781140329
+|switch|p2a: Excadrill|Excadrill, M, shiny|100/100
+|turn|20
+|
+|t:|1781140332
+|move|p2a: Excadrill|Substitute|p2a: Excadrill
+|-start|p2a: Excadrill|Substitute
+|-damage|p2a: Excadrill|76/100
+|move|p1a: Gholdengo|Focus Blast|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-end|p2a: Excadrill|Substitute
+|
+|-weather|none
+|-heal|p2a: Excadrill|82/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781140339
+|move|p2a: Excadrill|Earthquake|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|win|ddukkes
+|raw|AllHailLechuguita's rating: 1591 &rarr; <strong>1569</strong><br />(-22 for losing)
+|raw|ddukkes's rating: 1549 &rarr; <strong>1571</strong><br />(+22 for winning)
+|l|☆AllHailLechuguita
+|player|p1|
+|l|☆ddukkes
+|player|p2|

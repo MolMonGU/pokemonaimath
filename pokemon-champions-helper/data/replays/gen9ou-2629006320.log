@@ -1,0 +1,298 @@
+|j|☆ankoro
+|j|☆gabboh
+|t:|1781087402
+|gametype|singles
+|player|p1|ankoro|acetrainer-gen2|1552
+|player|p2|gabboh|170|1526
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Lycanroc, M|
+|poke|p1|Kingambit, M|
+|poke|p1|Azumarill, M|
+|poke|p1|Pawmot, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Dragonite, M|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Pecharunt|
+|poke|p2|Darkrai|
+|poke|p2|Reuniclus, F|
+|poke|p2|Kingambit, F|
+|teampreview
+|
+|t:|1781087406
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: doggorock|Lycanroc, M|100/100
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|turn|1
+|
+|t:|1781087411
+|move|p1a: doggorock|Stealth Rock|p2a: Samurott
+|-sidestart|p2: gabboh|move: Stealth Rock
+|move|p2a: Samurott|Ceaseless Edge|p1a: doggorock
+|-damage|p1a: doggorock|45/100
+|-sidestart|p1: ankoro|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1781087417
+|move|p1a: doggorock|Endeavor|p2a: Samurott
+|-damage|p2a: Samurott|49/100
+|move|p2a: Samurott|Ceaseless Edge|p1a: doggorock
+|-damage|p1a: doggorock|0 fnt
+|-sidestart|p1: ankoro|Spikes
+|faint|p1a: doggorock
+|
+|upkeep
+|
+|t:|1781087424
+|switch|p1a: joy|Pawmot, F|100/100
+|-item|p1a: joy|Air Balloon
+|turn|3
+|
+|t:|1781087429
+|move|p2a: Samurott|Aqua Jet|p1a: joy
+|-damage|p1a: joy|74/100
+|-enditem|p1a: joy|Air Balloon
+|move|p1a: joy|Close Combat|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|-unboost|p1a: joy|def|1
+|-unboost|p1a: joy|spd|1
+|faint|p2a: Samurott
+|
+|upkeep
+|j| wuxinshushu1
+|
+|t:|1781087445
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-damage|p2a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespa
+|turn|4
+|
+|t:|1781087457
+|move|p1a: joy|Thunder Wave|p2a: Iron Valiant
+|-status|p2a: Iron Valiant|par
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|5
+|j| Peter97
+|
+|t:|1781087484
+|move|p1a: joy|Volt Switch|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|75/100 par
+|
+|t:|1781087487
+|switch|p1a: koolguybit|Kingambit, M|100/100|[from] Volt Switch
+|-activate|p1a: koolguybit|ability: Supreme Overlord
+|-start|p1a: koolguybit|fallen1|[silent]
+|-item|p1a: koolguybit|Air Balloon
+|cant|p2a: Iron Valiant|par
+|
+|upkeep
+|turn|6
+|
+|t:|1781087497
+|cant|p2a: Iron Valiant|par
+|move|p1a: koolguybit|Iron Head|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781087529
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|turn|7
+|
+|t:|1781087537
+|-end|p1a: koolguybit|fallen1|[silent]
+|switch|p1a: joy|Pawmot, F|74/100
+|-damage|p1a: joy|57/100|[from] Spikes
+|move|p2a: Kingambit|Low Kick|p1a: joy
+|-crit|p1a: joy
+|-damage|p1a: joy|0 fnt
+|faint|p1a: joy
+|
+|upkeep
+|
+|t:|1781087544
+|switch|p1a: juquinha|Azumarill, M|100/100
+|-damage|p1a: juquinha|84/100|[from] Spikes
+|turn|8
+|
+|t:|1781087550
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|-damage|p2a: Pecharunt|88/100|[from] Stealth Rock
+|move|p1a: juquinha|Belly Drum|p1a: juquinha
+|-damage|p1a: juquinha|34/100
+|-setboost|p1a: juquinha|atk|6|[from] move: Belly Drum
+|-enditem|p1a: juquinha|Sitrus Berry|[eat]
+|-heal|p1a: juquinha|59/100|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|9
+|j| cloudishh
+|
+|t:|1781087559
+|move|p1a: juquinha|Aqua Jet|p2a: Pecharunt
+|-damage|p2a: Pecharunt|12/100
+|move|p2a: Pecharunt|Malignant Chain|p1a: juquinha
+|-supereffective|p1a: juquinha
+|-damage|p1a: juquinha|0 fnt
+|faint|p1a: juquinha
+|
+|upkeep
+|
+|t:|1781087565
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|84/100|[from] Spikes
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|10
+|
+|t:|1781087571
+|move|p1a: Iron Valiant|Moonblast|p2a: Pecharunt
+|-resisted|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|faint|p2a: Pecharunt
+|
+|upkeep
+|
+|t:|1781087582
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|100/100
+|turn|11
+|
+|t:|1781087586
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Reuniclus|Trick Room|p2a: Reuniclus
+|-fieldstart|move: Trick Room|[of] p2a: Reuniclus
+|
+|upkeep
+|turn|12
+|
+|t:|1781087594
+|move|p2a: Reuniclus|Psychic Noise|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781087603
+|switch|p1a: koolguybit|Kingambit, M|100/100
+|-activate|p1a: koolguybit|ability: Supreme Overlord
+|-start|p1a: koolguybit|fallen4|[silent]
+|-item|p1a: koolguybit|Air Balloon
+|turn|13
+|l| Peter97
+|
+|t:|1781087609
+|-terastallize|p2a: Reuniclus|Fighting
+|-terastallize|p1a: koolguybit|Ghost
+|move|p2a: Reuniclus|Focus Blast|p1a: koolguybit
+|-immune|p1a: koolguybit
+|move|p1a: koolguybit|Swords Dance|p1a: koolguybit
+|-boost|p1a: koolguybit|atk|2
+|
+|upkeep
+|turn|14
+|
+|t:|1781087619
+|move|p2a: Reuniclus|Psychic Noise|p1a: koolguybit
+|-damage|p1a: koolguybit|40/100
+|-start|p1a: koolguybit|move: Heal Block
+|-enditem|p1a: koolguybit|Air Balloon
+|move|p1a: koolguybit|Iron Head|p2a: Reuniclus
+|-damage|p2a: Reuniclus|0 fnt
+|faint|p2a: Reuniclus
+|
+|upkeep
+|j| CLICK BEFORE CALC
+|
+|t:|1781087628
+|switch|p2a: Kingambit|Kingambit, F|94/100
+|-damage|p2a: Kingambit|88/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|15
+|
+|t:|1781087634
+|move|p1a: koolguybit|Sucker Punch|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|47/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: koolguybit
+|-supereffective|p1a: koolguybit
+|-damage|p1a: koolguybit|0 fnt
+|faint|p1a: koolguybit
+|-end|p1a: koolguybit|fallen4|[silent]
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1781087637
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|16
+|
+|t:|1781087643
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Dragonite
+|-damage|p1a: Dragonite|62/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781087650
+|move|p1a: Dragonite|Extreme Speed|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|31/100
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|
+|upkeep
+|turn|18
+|
+|t:|1781087656
+|move|p2a: Kingambit|Sucker Punch|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|win|gabboh
+|raw|ankoro's rating: 1552 &rarr; <strong>1531</strong><br />(-21 for losing)
+|raw|gabboh's rating: 1526 &rarr; <strong>1547</strong><br />(+21 for winning)
+|l|☆ankoro
+|player|p1|
+|l| wuxinshushu1
+|l| cloudishh
+|l|☆gabboh
+|player|p2|
+|l| CLICK BEFORE CALC

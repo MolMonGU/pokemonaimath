@@ -1,0 +1,365 @@
+|j|☆flamesjefferyx
+|j|☆rockeater9000
+|t:|1781399887
+|gametype|singles
+|player|p1|flamesjefferyx|zinnia|1541
+|player|p2|rockeater9000|265|1658
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Greninja-*, M|
+|poke|p2|Glimmora, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Kingambit, M|
+|poke|p2|Ceruledge, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by flamesjefferyx)
+|
+|t:|1781399916
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: man|Iron Treads|100/100
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|-enditem|p1a: man|Booster Energy
+|-activate|p1a: man|ability: Quark Drive|[fromitem]
+|-start|p1a: man|quarkdrivespe
+|turn|1
+|
+|t:|1781399927
+|move|p1a: man|Earth Power|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|
+|upkeep
+|
+|t:|1781399930
+|switch|p2a: Greninja|Greninja, M|100/100
+|turn|2
+|
+|t:|1781399934
+|-end|p1a: man|Quark Drive|[silent]
+|switch|p1a: rabbit|Raging Bolt|100/100
+|-enditem|p1a: rabbit|Booster Energy
+|-activate|p1a: rabbit|ability: Protosynthesis|[fromitem]
+|-start|p1a: rabbit|protosynthesisspa
+|move|p2a: Greninja|Surf|p1a: rabbit
+|-resisted|p1a: rabbit
+|-damage|p1a: rabbit|78/100
+|-damage|p2a: Greninja|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1781399942
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|-end|p1a: rabbit|Protosynthesis|[silent]
+|switch|p1a: cat|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: cat
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781399947
+|switch|p1a: man|Iron Treads|100/100
+|move|p2a: Iron Valiant|Moonblast|p1a: man
+|-resisted|p1a: man
+|-crit|p1a: man
+|-damage|p1a: man|52/100
+|-unboost|p1a: man|spa|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781399953
+|move|p2a: Iron Valiant|Shadow Ball|p1a: man
+|-damage|p1a: man|17/100
+|move|p1a: man|Stealth Rock|p2a: Iron Valiant
+|-sidestart|p2: rockeater9000|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781399958
+|move|p2a: Iron Valiant|Encore|p1a: man
+|-start|p1a: man|Encore
+|move|p1a: man|Stealth Rock||[still]
+|-fail|p1a: man
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781399962
+|-end|p1a: man|Quark Drive|[silent]
+|switch|p1a: dog|Overqwil, M|100/100
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781399965
+|move|p2a: Iron Valiant|Moonblast|p1a: dog
+|-damage|p1a: dog|0 fnt
+|faint|p1a: dog
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781399968
+|switch|p1a: e e|Barraskewda, M|100/100
+|turn|9
+|
+|t:|1781399979
+|-terastallize|p1a: e e|Water
+|move|p1a: e e|Liquidation|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781399985
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|turn|10
+|
+|t:|1781400000
+|switch|p1a: man|Iron Treads|17/100
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|
+|-weather|none
+|upkeep
+|turn|11
+|
+|t:|1781400004
+|move|p2a: Kingambit|Sucker Punch|p1a: man
+|-damage|p1a: man|0 fnt
+|faint|p1a: man
+|-end|p1a: man|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781400006
+|switch|p1a: cat|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: cat
+|turn|12
+|
+|t:|1781400023
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|-damage|p2a: Ceruledge|76/100|[from] Stealth Rock
+|-item|p2a: Ceruledge|Air Balloon
+|move|p1a: cat|U-turn|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|73/100
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|-enditem|p2a: Ceruledge|Air Balloon
+|
+|t:|1781400029
+|switch|p1a: e e|Barraskewda, M, tera:Water|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781400031
+|move|p1a: e e|Aqua Jet|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781400034
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1781400037
+|switch|p1a: cat|Pelipper, M|100/100
+|move|p2a: Garchomp|Scale Shot|p1a: cat
+|-damage|p1a: cat|90/100
+|-damage|p1a: cat|78/100
+|-damage|p1a: cat|66/100
+|-damage|p1a: cat|55/100
+|-damage|p1a: cat|44/100
+|-hitcount|p1a: cat|5
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781400040
+|move|p2a: Garchomp|Scale Shot|p1a: cat
+|-damage|p1a: cat|32/100
+|-damage|p1a: cat|22/100
+|-damage|p1a: cat|10/100
+|-damage|p1a: cat|0 fnt
+|faint|p1a: cat
+|-hitcount|p1: cat|4
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781400043
+|switch|p1a: e e|Barraskewda, M, tera:Water|100/100
+|turn|16
+|
+|t:|1781400050
+|move|p1a: e e|Liquidation|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: e e|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781400052
+|switch|p2a: Greninja|Greninja, M|91/100
+|-damage|p2a: Greninja|78/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1781400055
+|move|p2a: Greninja|Water Shuriken|p1a: e e
+|-resisted|p1a: e e
+|-damage|p1a: e e|72/100
+|-resisted|p1a: e e
+|-damage|p1a: e e|57/100
+|-resisted|p1a: e e
+|-damage|p1a: e e|42/100
+|-hitcount|p1a: e e|3
+|-damage|p2a: Greninja|69/100|[from] item: Life Orb
+|move|p1a: e e|Liquidation|p2a: Greninja
+|-resisted|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|faint|p2a: Greninja
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781400062
+|switch|p2a: Kingambit|Kingambit, M|94/100
+|-damage|p2a: Kingambit|88/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|turn|18
+|
+|t:|1781400065
+|switch|p1a: woman|Kingambit, M, shiny|100/100
+|-activate|p1a: woman|ability: Supreme Overlord
+|-start|p1a: woman|fallen3|[silent]
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781400068
+|-terastallize|p2a: Kingambit|Dark
+|move|p2a: Kingambit|Kowtow Cleave|p1a: woman
+|-resisted|p1a: woman
+|-damage|p1a: woman|8/100
+|move|p1a: woman|Kowtow Cleave|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|60/100
+|
+|-weather|none
+|-heal|p1a: woman|14/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781400073
+|move|p2a: Kingambit|Sucker Punch|p1a: woman
+|-resisted|p1a: woman
+|-damage|p1a: woman|0 fnt
+|faint|p1a: woman
+|-end|p1a: woman|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1781400075
+|switch|p1a: e e|Barraskewda, M, tera:Water|42/100
+|turn|21
+|
+|t:|1781400078
+|move|p1a: e e|Aqua Jet|p2a: Kingambit
+|-damage|p2a: Kingambit|26/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: e e
+|-damage|p1a: e e|0 fnt
+|faint|p1a: e e
+|
+|upkeep
+|
+|t:|1781400081
+|switch|p1a: rabbit|Raging Bolt|78/100
+|turn|22
+|
+|t:|1781400086
+|move|p1a: rabbit|Thunderclap||[still]
+|-fail|p1a: rabbit
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|upkeep
+|turn|23
+|
+|t:|1781400097
+|move|p1a: rabbit|Thunderclap||[still]
+|-fail|p1a: rabbit
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|upkeep
+|turn|24
+|
+|t:|1781400112
+|move|p1a: rabbit|Thunderclap|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen5|[silent]
+|
+|win|flamesjefferyx
+|raw|flamesjefferyx's rating: 1541 &rarr; <strong>1567</strong><br />(+26 for winning)
+|raw|rockeater9000's rating: 1658 &rarr; <strong>1632</strong><br />(-26 for losing)
+|l|☆rockeater9000
+|player|p2|
+|c|☆flamesjefferyx|Lol

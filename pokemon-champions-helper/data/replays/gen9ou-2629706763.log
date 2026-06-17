@@ -1,0 +1,427 @@
+|j|☆snurke
+|j|☆Kirnil
+|t:|1781168593
+|gametype|singles
+|player|p1|snurke|sisandbro|1503
+|player|p2|Kirnil|maid|1561
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cinderace, M|
+|poke|p1|Torkoal, F|
+|poke|p1|Walking Wake|
+|poke|p1|Enamorus, F|
+|poke|p1|Bronzong|
+|poke|p1|Great Tusk|
+|poke|p2|Glimmora, F|
+|poke|p2|Great Tusk|
+|poke|p2|Alomomola, F|
+|poke|p2|Amoonguss, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Hoopa-Unbound|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kirnil)
+|
+|t:|1781168636
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|-item|p2a: Glimmora|Air Balloon
+|turn|1
+|
+|t:|1781168642
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Walking Wake|Draco Meteor|p2a: Alomomola
+|-damage|p2a: Alomomola|56/100
+|-unboost|p1a: Walking Wake|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781168649
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Alomomola|Flip Turn|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|77/100
+|-damage|p2a: Alomomola|40/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|
+|t:|1781168655
+|switch|p2a: Amoonguss|Amoonguss, F|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|3
+|
+|t:|1781168665
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Bronzong|Bronzong, shiny|100/100
+|move|p2a: Amoonguss|Stun Spore|p1a: Bronzong
+|-status|p1a: Bronzong|par
+|
+|upkeep
+|turn|4
+|
+|t:|1781168670
+|move|p2a: Amoonguss|Foul Play|p1a: Bronzong
+|-supereffective|p1a: Bronzong
+|-damage|p1a: Bronzong|79/100 par
+|cant|p1a: Bronzong|par
+|
+|-heal|p1a: Bronzong|85/100 par|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781168673
+|move|p2a: Amoonguss|Foul Play|p1a: Bronzong
+|-supereffective|p1a: Bronzong
+|-damage|p1a: Bronzong|65/100 par
+|move|p1a: Bronzong|Calm Mind|p1a: Bronzong
+|-boost|p1a: Bronzong|spa|1
+|-boost|p1a: Bronzong|spd|1
+|
+|-heal|p1a: Bronzong|71/100 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781168683
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100
+|move|p1a: Bronzong|Psychic Noise|p2a: Hoopa
+|-immune|p2a: Hoopa
+|
+|-heal|p1a: Bronzong|78/100 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781168690
+|switch|p1a: Great Tusk|Great Tusk|77/100
+|move|p2a: Hoopa|Dark Pulse|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|35/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781168699
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|switch|p2a: Amoonguss|Amoonguss, F|100/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781168704
+|switch|p1a: Bronzong|Bronzong, shiny|78/100 par
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Bronzong
+|-immune|p1a: Bronzong
+|
+|-heal|p1a: Bronzong|84/100 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781168707
+|switch|p2a: Alomomola|Alomomola, F|73/100
+|switch|p1a: Torkoal|Torkoal, F, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781168724
+|move|p2a: Alomomola|Flip Turn|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|91/100
+|
+|t:|1781168727
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] Flip Turn
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Torkoal|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: Kirnil|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781168749
+|move|p2a: Great Tusk|Rapid Spin|p1a: Torkoal
+|-damage|p1a: Torkoal|79/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: Kirnil|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|move|p1a: Torkoal|Lava Plume|p2a: Great Tusk
+|-damage|p2a: Great Tusk|49/100
+|-status|p2a: Great Tusk|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Great Tusk|43/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1781168757
+|move|p2a: Great Tusk|Headlong Rush|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|34/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Torkoal|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: Kirnil|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Great Tusk|37/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781168766
+|switch|p1a: Great Tusk|Great Tusk|35/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Great Tusk|Rapid Spin|p1a: Great Tusk
+|-damage|p1a: Great Tusk|26/100
+|-boost|p2a: Great Tusk|spe|1
+|-damage|p2a: Great Tusk|20/100 brn|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|-sideend|p2: Kirnil|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Great Tusk|14/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781168773
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Bronzong|Bronzong, shiny|84/100 par
+|move|p2a: Great Tusk|Close Combat|p1a: Bronzong
+|-damage|p1a: Bronzong|58/100 par
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Bronzong|64/100 par|[from] item: Leftovers
+|-damage|p2a: Great Tusk|8/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1781168784
+|move|p2a: Great Tusk|Close Combat|p1a: Bronzong
+|-damage|p1a: Bronzong|36/100 par
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|cant|p1a: Bronzong|par
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Bronzong|42/100 par|[from] item: Leftovers
+|-damage|p2a: Great Tusk|2/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781168792
+|move|p2a: Great Tusk|Close Combat|p1a: Bronzong
+|-damage|p1a: Bronzong|14/100 par
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Bronzong|Calm Mind|p1a: Bronzong
+|-boost|p1a: Bronzong|spa|1
+|-boost|p1a: Bronzong|spd|1
+|
+|-weather|none
+|-end|p2a: Great Tusk|Protosynthesis
+|-heal|p1a: Bronzong|20/100 par|[from] item: Leftovers
+|-damage|p2a: Great Tusk|0 fnt|[from] brn
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|upkeep
+|
+|t:|1781168795
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100
+|turn|18
+|
+|t:|1781168802
+|move|p2a: Hoopa|Dark Pulse|p1a: Bronzong
+|-supereffective|p1a: Bronzong
+|-damage|p1a: Bronzong|0 fnt
+|faint|p1a: Bronzong
+|
+|upkeep
+|
+|t:|1781168805
+|switch|p1a: Cinderace|Cinderace, M, shiny|100/100
+|turn|19
+|
+|t:|1781168808
+|switch|p2a: Amoonguss|Amoonguss, F|100/100
+|move|p1a: Cinderace|U-turn|p2a: Amoonguss
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p2a: Amoonguss|66/100
+|-damage|p1a: Cinderace|84/100|[from] item: Rocky Helmet|[of] p2a: Amoonguss
+|
+|t:|1781168836
+|switch|p1a: Torkoal|Torkoal, F, shiny|34/100|[from] U-turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781168853
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|-item|p2a: Glimmora|Air Balloon
+|move|p1a: Torkoal|Stealth Rock|p2a: Glimmora
+|-sidestart|p2: Kirnil|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781168861
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|move|p2a: Glimmora|Mortal Spin|p1a: Walking Wake
+|-damage|p1a: Walking Wake|93/100
+|-status|p1a: Walking Wake|psn
+|-sideend|p2: Kirnil|Stealth Rock|[from] move: Mortal Spin|[of] p2a: Glimmora
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Walking Wake|81/100 psn|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1781168864
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Walking Wake|Hydro Steam|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|77/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Walking Wake|69/100 psn|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1781168870
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Cinderace|Cinderace, M, shiny|84/100
+|move|p2a: Alomomola|Flip Turn|p1a: Cinderace
+|-supereffective|p1a: Cinderace
+|-damage|p1a: Cinderace|61/100
+|
+|t:|1781168877
+|switch|p2a: Amoonguss|Amoonguss, F|99/100|[from] Flip Turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1781168882
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|-terastallize|p1a: Cinderace|Fire
+|move|p1a: Cinderace|Pyro Ball|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|34/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1781168890
+|switch|p2a: Amoonguss|Amoonguss, F|100/100
+|move|p1a: Cinderace|Pyro Ball|p2a: Amoonguss
+|-supereffective|p2a: Amoonguss
+|-damage|p2a: Amoonguss|0 fnt
+|faint|p2a: Amoonguss
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781168897
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|-item|p2a: Glimmora|Air Balloon
+|turn|26
+|
+|t:|1781168900
+|move|p1a: Cinderace|Pyro Ball|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: snurke|move: Toxic Spikes
+|-enditem|p2a: Glimmora|Air Balloon
+|faint|p2a: Glimmora
+|
+|-weather|none
+|upkeep
+|
+|t:|1781168909
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|27
+|
+|t:|1781168921
+|switch|p1a: Torkoal|Torkoal, F, shiny|34/100
+|-status|p1a: Torkoal|psn
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Iron Valiant|Close Combat|p1a: Torkoal
+|-damage|p1a: Torkoal|5/100 psn
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Torkoal|0 fnt|[from] psn
+|faint|p1a: Torkoal
+|upkeep
+|
+|t:|1781168926
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|turn|28
+|
+|t:|1781168937
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Alomomola|Alomomola, F|67/100
+|move|p1a: Enamorus|Moonblast|p2a: Alomomola
+|-damage|p2a: Alomomola|41/100
+|-unboost|p2a: Alomomola|spa|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|29
+|
+|t:|1781168941
+|move|p1a: Enamorus|Moonblast|p2a: Alomomola
+|-damage|p2a: Alomomola|15/100
+|move|p2a: Alomomola|Flip Turn|p1a: Enamorus
+|-crit|p1a: Enamorus
+|-damage|p1a: Enamorus|80/100
+|
+|t:|1781168947
+|switch|p2a: Iron Valiant|Iron Valiant|100/100|[from] Flip Turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|30
+|
+|t:|1781168951
+|move|p1a: Enamorus|Moonblast|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|-message|Kirnil forfeited.
+|
+|win|snurke
+|raw|snurke's rating: 1503 &rarr; <strong>1526</strong><br />(+23 for winning)
+|raw|Kirnil's rating: 1561 &rarr; <strong>1538</strong><br />(-23 for losing)
+|l|☆Kirnil
+|player|p2|

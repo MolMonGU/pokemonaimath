@@ -1,0 +1,318 @@
+|j|☆Mca player 11
+|j|☆skyhighmiles
+|t:|1781108670
+|gametype|singles
+|player|p1|Mca player 11|skierf|1633
+|player|p2|skyhighmiles|169|1556
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Deoxys-Speed|
+|poke|p1|Iron Moth|
+|poke|p1|Zamazenta-*|
+|poke|p1|Gholdengo|
+|poke|p1|Rillaboom, M|
+|poke|p1|Iron Jugulis|
+|poke|p2|Alomomola, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Kyurem|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Cinderace, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by skyhighmiles)
+|
+|t:|1781108712
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Jugulis|Iron Jugulis, shiny|100/100
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|1
+|
+|t:|1781108721
+|move|p1a: Iron Jugulis|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|44/100
+|-enditem|p2a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Iron Jugulis
+|move|p2a: Slowking|Thunder Wave|p1a: Iron Jugulis
+|-status|p1a: Iron Jugulis|par
+|
+|upkeep
+|turn|2
+|
+|t:|1781108728
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Iron Jugulis|Taunt|p2a: Alomomola
+|-start|p2a: Alomomola|move: Taunt
+|
+|upkeep
+|turn|3
+|
+|t:|1781108730
+|move|p1a: Iron Jugulis|Knock Off|p2a: Alomomola
+|-damage|p2a: Alomomola|85/100
+|-damage|p1a: Iron Jugulis|84/100 par|[from] item: Rocky Helmet|[of] p2a: Alomomola
+|-enditem|p2a: Alomomola|Rocky Helmet|[from] move: Knock Off|[of] p1a: Iron Jugulis
+|move|p2a: Alomomola|Flip Turn|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|66/100 par
+|
+|t:|1781108750
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Flip Turn
+|-ability|p2a: Kyurem|Pressure
+|
+|upkeep
+|turn|4
+|
+|t:|1781108757
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|switch|p1a: Gholdengo|Gholdengo, shiny|100/100
+|move|p2a: Kyurem|Earth Power|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|35/100
+|-unboost|p1a: Gholdengo|spd|1
+|
+|upkeep
+|turn|5
+|inactive|skyhighmiles has 120 seconds left.
+|
+|t:|1781108789
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Kyurem|Earth Power|p1a: Deoxys
+|-damage|p1a: Deoxys|42/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781108796
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Deoxys|Pain Split|p2a: Alomomola
+|-sethp|p2a: Alomomola|63/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Deoxys|100/100|[from] move: Pain Split
+|
+|upkeep
+|turn|7
+|
+|t:|1781108801
+|switch|p2a: Slowking|Slowking-Galar, F|77/100
+|move|p1a: Deoxys|Stealth Rock|p2a: Slowking
+|-sidestart|p2: skyhighmiles|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1781108805
+|move|p1a: Deoxys|Spikes|p2a: Slowking
+|-sidestart|p2: skyhighmiles|Spikes
+|move|p2a: Slowking|Thunder Wave|p1a: Deoxys
+|-status|p1a: Deoxys|par
+|
+|upkeep
+|turn|9
+|
+|t:|1781108810
+|switch|p1a: Zamazenta|Zamazenta, shiny|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781108816
+|switch|p2a: Cinderace|Cinderace, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781108818
+|move|p1a: Zamazenta|Close Combat|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|faint|p2a: Cinderace
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781108827
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zamazenta|atk|1
+|turn|11
+|
+|t:|1781108836
+|switch|p1a: Deoxys|Deoxys-Speed|100/100 par
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Landorus|U-turn|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|48/100 par
+|-damage|p2a: Landorus|72/100|[from] item: Rocky Helmet|[of] p1a: Deoxys
+|
+|t:|1781108839
+|switch|p2a: Kyurem|Kyurem|100/100|[from] U-turn
+|-damage|p2a: Kyurem|76/100|[from] Stealth Rock
+|-damage|p2a: Kyurem|63/100|[from] Spikes
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781108844
+|switch|p1a: Iron Jugulis|Iron Jugulis, shiny|66/100 par
+|move|p2a: Kyurem|Blizzard|p1a: Iron Jugulis
+|-supereffective|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781108846
+|switch|p1a: Iron Moth|Iron Moth, shiny|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|turn|13
+|
+|t:|1781108848
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|-damage|p2a: Slowking|88/100|[from] Stealth Rock
+|-damage|p2a: Slowking|76/100|[from] Spikes
+|move|p1a: Iron Moth|Fiery Dance|p2a: Slowking
+|-damage|p2a: Slowking|51/100
+|-boost|p1a: Iron Moth|spa|1
+|
+|-weather|none
+|upkeep
+|turn|14
+|
+|t:|1781108853
+|move|p1a: Iron Moth|Fiery Dance|p2a: Slowking
+|-damage|p2a: Slowking|15/100
+|move|p2a: Slowking|Thunder Wave|p1a: Iron Moth
+|-status|p1a: Iron Moth|par
+|
+|upkeep
+|turn|15
+|
+|t:|1781108860
+|switch|p2a: Alomomola|Alomomola, F|96/100
+|-damage|p2a: Alomomola|84/100|[from] Stealth Rock
+|-damage|p2a: Alomomola|71/100|[from] Spikes
+|cant|p1a: Iron Moth|par
+|
+|upkeep
+|turn|16
+|
+|t:|1781108865
+|move|p1a: Iron Moth|Sludge Wave|p2a: Alomomola
+|-damage|p2a: Alomomola|3/100
+|move|p2a: Alomomola|Flip Turn|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|52/100 par
+|
+|t:|1781108871
+|switch|p2a: Landorus|Landorus-Therian, M|72/100|[from] Flip Turn
+|-damage|p2a: Landorus|59/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Iron Moth|atk|1
+|
+|upkeep
+|turn|17
+|
+|t:|1781108876
+|move|p2a: Landorus|Stone Edge|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781108879
+|switch|p1a: Rillaboom|Rillaboom, M, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|18
+|
+|t:|1781108887
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-damage|p2a: Kingambit|82/100|[from] Spikes
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|
+|-heal|p2a: Kingambit|88/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1781108891
+|move|p2a: Kingambit|Sucker Punch|p1a: Rillaboom
+|-damage|p1a: Rillaboom|44/100
+|move|p1a: Rillaboom|High Horsepower|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen1|[silent]
+|-damage|p1a: Rillaboom|34/100|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|40/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781108895
+|switch|p2a: Landorus|Landorus-Therian, M|59/100
+|-damage|p2a: Landorus|47/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Rillaboom|atk|1
+|turn|20
+|
+|t:|1781108899
+|move|p1a: Rillaboom|Grassy Glide|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-damage|p1a: Rillaboom|30/100|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|37/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781108902
+|switch|p2a: Kyurem|Kyurem|63/100
+|-damage|p2a: Kyurem|39/100|[from] Stealth Rock
+|-damage|p2a: Kyurem|26/100|[from] Spikes
+|-ability|p2a: Kyurem|Pressure
+|turn|21
+|
+|t:|1781108905
+|move|p1a: Rillaboom|Grassy Glide|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|-damage|p1a: Rillaboom|27/100|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|33/100|[from] Grassy Terrain
+|upkeep
+|-message|skyhighmiles forfeited.
+|
+|win|Mca player 11
+|raw|Mca player 11's rating: 1633 &rarr; <strong>1649</strong><br />(+16 for winning)
+|raw|skyhighmiles's rating: 1556 &rarr; <strong>1540</strong><br />(-16 for losing)
+|l|☆skyhighmiles
+|player|p2|

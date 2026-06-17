@@ -1,0 +1,595 @@
+|j|☆slightlyartistic
+|j|☆yangtao
+|t:|1780997058
+|gametype|singles
+|player|p1|slightlyartistic|102|1499
+|player|p2|yangtao|reporter|1548
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Gholdengo|
+|poke|p1|Alomomola, M|
+|poke|p1|Zamazenta-*|
+|poke|p1|Iron Treads|
+|poke|p1|Gliscor, M|
+|poke|p2|Hydreigon, M|
+|poke|p2|Fezandipiti, M|
+|poke|p2|Scizor, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Gliscor, F|
+|poke|p2|Iron Moth|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yangtao)
+|
+|t:|1780997065
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|switch|p2a: Scizor|Scizor, M|100/100
+|turn|1
+|
+|t:|1780997070
+|move|p2a: Scizor|Knock Off|p1a: Alomomola
+|-damage|p1a: Alomomola|66/100
+|-damage|p2a: Scizor|84/100|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|-enditem|p1a: Alomomola|Rocky Helmet|[from] move: Knock Off|[of] p2a: Scizor
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|upkeep
+|turn|2
+|
+|t:|1780997076
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Alomomola|Flip Turn|p2a: Ogerpon
+|-immune|p2a: Ogerpon|[from] ability: Water Absorb
+|
+|-heal|p1a: Alomomola|100/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|3
+|
+|t:|1780997080
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1780997085
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|5
+|
+|t:|1780997090
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|move|p2a: Gliscor|Toxic|p1a: Samurott
+|-status|p1a: Samurott|tox
+|
+|-damage|p1a: Samurott|94/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1780997094
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Samurott|Ceaseless Edge|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-damage|p1a: Samurott|82/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1780997113
+|switch|p2a: Fezandipiti|Fezandipiti, M|100/100
+|move|p1a: Samurott|Razor Shell|p2a: Fezandipiti
+|-damage|p2a: Fezandipiti|58/100
+|-unboost|p2a: Fezandipiti|def|1
+|
+|-damage|p1a: Samurott|63/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1780997123
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|
+|upkeep
+|turn|9
+|
+|t:|1780997128
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Zamazenta|[anim] Ivy Cudgel Water
+|-damage|p1a: Zamazenta|60/100
+|
+|-heal|p1a: Zamazenta|66/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1780997135
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|switch|p2a: Gliscor|Gliscor, F|100/100 tox
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|11
+|
+|t:|1780997140
+|switch|p2a: Hydreigon|Hydreigon, M|100/100
+|move|p1a: Gliscor|Stealth Rock|p2a: Hydreigon
+|-sidestart|p2: yangtao|move: Stealth Rock
+|
+|upkeep
+|turn|12
+|
+|t:|1780997150
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Hydreigon|Substitute|p2a: Hydreigon
+|-start|p2a: Hydreigon|Substitute
+|-damage|p2a: Hydreigon|76/100
+|
+|-heal|p2a: Hydreigon|82/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1780997156
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Hydreigon|Nasty Plot|p2a: Hydreigon
+|-boost|p2a: Hydreigon|spa|2
+|
+|-heal|p2a: Hydreigon|88/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1780997162
+|move|p1a: Iron Treads|Body Press|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-end|p2a: Hydreigon|Substitute
+|move|p2a: Hydreigon|Fire Blast|p1a: Iron Treads|[miss]
+|-miss|p2a: Hydreigon|p1a: Iron Treads
+|
+|-heal|p2a: Hydreigon|94/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1780997173
+|move|p1a: Iron Treads|Body Press|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|41/100
+|move|p2a: Hydreigon|Fire Blast|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p2a: Hydreigon|47/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780997178
+|switch|p1a: Zamazenta|Zamazenta|66/100
+|turn|16
+|
+|t:|1780997180
+|switch|p2a: Gliscor|Gliscor, F|100/100 tox
+|-damage|p2a: Gliscor|88/100 tox|[from] Stealth Rock
+|move|p1a: Zamazenta|Body Press|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-crit|p2a: Gliscor
+|-damage|p2a: Gliscor|66/100 tox
+|
+|-heal|p1a: Zamazenta|73/100|[from] item: Leftovers
+|-heal|p2a: Gliscor|79/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|17
+|
+|t:|1780997183
+|switch|p1a: Gliscor|Gliscor, M|100/100 tox
+|move|p2a: Gliscor|Stealth Rock|p1a: Gliscor
+|-sidestart|p1: slightlyartistic|move: Stealth Rock
+|
+|-heal|p2a: Gliscor|91/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|18
+|
+|t:|1780997186
+|switch|p2a: Hydreigon|Hydreigon, M|47/100
+|-damage|p2a: Hydreigon|35/100|[from] Stealth Rock
+|move|p1a: Gliscor|Knock Off|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|22/100
+|-enditem|p2a: Hydreigon|Leftovers|[from] move: Knock Off|[of] p1a: Gliscor
+|
+|upkeep
+|turn|19
+|
+|t:|1780997192
+|switch|p1a: Zamazenta|Zamazenta|73/100
+|-damage|p1a: Zamazenta|66/100|[from] Stealth Rock
+|move|p2a: Hydreigon|Nasty Plot|p2a: Hydreigon
+|-boost|p2a: Hydreigon|spa|2
+|
+|-heal|p1a: Zamazenta|73/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1780997195
+|switch|p2a: Gliscor|Gliscor, F|91/100 tox
+|-damage|p2a: Gliscor|79/100 tox|[from] Stealth Rock
+|move|p1a: Zamazenta|Roar|p2a: Gliscor
+|drag|p2a: Hydreigon|Hydreigon, M|22/100
+|-damage|p2a: Hydreigon|10/100|[from] Stealth Rock
+|
+|-heal|p1a: Zamazenta|79/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1780997198
+|switch|p2a: Gliscor|Gliscor, F|79/100 tox
+|-damage|p2a: Gliscor|66/100 tox|[from] Stealth Rock
+|move|p1a: Zamazenta|Body Press|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|52/100 tox
+|
+|-heal|p1a: Zamazenta|85/100|[from] item: Leftovers
+|-heal|p2a: Gliscor|65/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|22
+|
+|t:|1780997207
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|88/100|[from] Stealth Rock
+|move|p1a: Zamazenta|Roar|p2a: Ogerpon
+|drag|p2a: Iron Moth|Iron Moth|100/100
+|
+|-heal|p1a: Zamazenta|91/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1780997223
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|-damage|p1a: Alomomola|88/100|[from] Stealth Rock
+|move|p2a: Iron Moth|Fiery Dance|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|67/100
+|-boost|p2a: Iron Moth|spa|1
+|
+|upkeep
+|turn|24
+|
+|t:|1780997231
+|move|p2a: Iron Moth|Energy Ball|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|faint|p1a: Alomomola
+|
+|upkeep
+|
+|t:|1780997243
+|switch|p1a: Samurott|Samurott-Hisui, F|63/100 tox
+|-damage|p1a: Samurott|51/100 tox|[from] Stealth Rock
+|turn|25
+|
+|t:|1780997248
+|move|p1a: Samurott|Aqua Jet|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|36/100
+|move|p2a: Iron Moth|Energy Ball|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1780997258
+|switch|p1a: Zamazenta|Zamazenta|91/100
+|-damage|p1a: Zamazenta|85/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1780997266
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Fezandipiti|Fezandipiti, M|58/100
+|move|p1a: Zamazenta|Body Press|p2a: Fezandipiti
+|-resisted|p2a: Fezandipiti
+|-damage|p2a: Fezandipiti|50/100
+|
+|-heal|p1a: Zamazenta|91/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1780997271
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|move|p2a: Fezandipiti|Roost|p2a: Fezandipiti
+|-heal|p2a: Fezandipiti|99/100
+|-singleturn|p2a: Fezandipiti|move: Roost
+|
+|-heal|p1a: Gholdengo|100/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1780997278
+|switch|p2a: Hydreigon|Hydreigon, M|10/100
+|-damage|p2a: Hydreigon|0 fnt|[from] Stealth Rock
+|faint|p2a: Hydreigon
+|move|p1a: Gholdengo|Thunder Wave|p2: Hydreigon|[notarget]
+|-fail|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1780997282
+|switch|p2a: Iron Moth|Iron Moth|36/100
+|turn|29
+|
+|t:|1780997295
+|-terastallize|p1a: Gholdengo|Water
+|move|p2a: Iron Moth|Fiery Dance|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|79/100
+|-boost|p2a: Iron Moth|spa|1
+|move|p1a: Gholdengo|Thunder Wave|p2a: Iron Moth
+|-status|p2a: Iron Moth|par
+|
+|-heal|p1a: Gholdengo|85/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1780997313
+|move|p1a: Gholdengo|Hex|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p1a: Gholdengo|92/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780997316
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|88/100
+|-damage|p2a: Ogerpon|76/100|[from] Stealth Rock
+|turn|31
+|
+|t:|1780997320
+|move|p2a: Ogerpon|Encore|p1a: Gholdengo
+|-immune|p1a: Gholdengo|[from] ability: Good as Gold
+|move|p1a: Gholdengo|Thunder Wave|p2a: Ogerpon
+|-status|p2a: Ogerpon|par
+|
+|-heal|p1a: Gholdengo|98/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1780997327
+|move|p1a: Gholdengo|Hex|p2a: Ogerpon
+|-damage|p2a: Ogerpon|4/100 par
+|move|p2a: Ogerpon|Horn Leech|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|29/100
+|-heal|p2a: Ogerpon|47/100 par|[from] drain|[of] p1a: Gholdengo
+|
+|-heal|p1a: Gholdengo|35/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1780997331
+|move|p1a: Gholdengo|Hex|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|-heal|p1a: Gholdengo|42/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780997338
+|switch|p2a: Scizor|Scizor, M|84/100
+|-damage|p2a: Scizor|72/100|[from] Stealth Rock
+|turn|34
+|
+|t:|1780997342
+|switch|p1a: Zamazenta|Zamazenta|91/100
+|-damage|p1a: Zamazenta|85/100|[from] Stealth Rock
+|move|p2a: Scizor|Knock Off|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|66/100
+|-enditem|p1a: Zamazenta|Leftovers|[from] move: Knock Off|[of] p2a: Scizor
+|
+|upkeep
+|turn|35
+|
+|t:|1780997347
+|switch|p2a: Fezandipiti|Fezandipiti, M|99/100
+|move|p1a: Zamazenta|Roar|p2a: Fezandipiti
+|drag|p2a: Gliscor|Gliscor, F|65/100 tox
+|-damage|p2a: Gliscor|52/100 tox|[from] Stealth Rock
+|
+|-heal|p2a: Gliscor|65/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|36
+|
+|t:|1780997351
+|switch|p1a: Gliscor|Gliscor, M|100/100 tox
+|-damage|p1a: Gliscor|88/100 tox|[from] Stealth Rock
+|move|p2a: Gliscor|Toxic|p1a: Gliscor
+|-fail|p1a: Gliscor|tox
+|
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|-heal|p2a: Gliscor|77/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|37
+|
+|t:|1780997356
+|move|p1a: Gliscor|Knock Off|p2a: Gliscor
+|-damage|p2a: Gliscor|61/100 tox
+|-enditem|p2a: Gliscor|Toxic Orb|[from] move: Knock Off|[of] p1a: Gliscor
+|move|p2a: Gliscor|Earthquake|p1a: Gliscor
+|-immune|p1a: Gliscor
+|
+|-heal|p2a: Gliscor|73/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|38
+|
+|t:|1780997365
+|switch|p2a: Scizor|Scizor, M|72/100
+|-damage|p2a: Scizor|59/100|[from] Stealth Rock
+|move|p1a: Gliscor|Knock Off|p2a: Scizor
+|-damage|p2a: Scizor|40/100
+|-enditem|p2a: Scizor|Choice Band|[from] move: Knock Off|[of] p1a: Gliscor
+|
+|upkeep
+|turn|39
+|
+|t:|1780997371
+|move|p2a: Scizor|Bullet Punch|p1a: Gliscor
+|-damage|p1a: Gliscor|80/100 tox
+|move|p1a: Gliscor|Knock Off|p2a: Scizor
+|-damage|p2a: Scizor|24/100
+|
+|-heal|p1a: Gliscor|93/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|40
+|
+|t:|1780997374
+|move|p2a: Scizor|Bullet Punch|p1a: Gliscor
+|-damage|p1a: Gliscor|71/100 tox
+|move|p1a: Gliscor|Knock Off|p2a: Scizor
+|-damage|p2a: Scizor|10/100
+|
+|-heal|p1a: Gliscor|84/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|41
+|
+|t:|1780997387
+|switch|p1a: Gholdengo|Gholdengo, tera:Water|42/100
+|-damage|p1a: Gholdengo|29/100|[from] Stealth Rock
+|move|p2a: Scizor|Bullet Punch|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|16/100
+|
+|-heal|p1a: Gholdengo|22/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1780997398
+|move|p2a: Scizor|Bullet Punch|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|8/100
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|58/100
+|
+|-heal|p1a: Gholdengo|64/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1780997401
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|100/100
+|move|p2a: Scizor|Knock Off|p1a: Gholdengo
+|-damage|p1a: Gholdengo|71/100
+|-enditem|p1a: Gholdengo|Leftovers|[from] move: Knock Off|[of] p2a: Scizor
+|
+|upkeep
+|turn|44
+|
+|t:|1780997406
+|move|p2a: Scizor|Bullet Punch|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|57/100
+|move|p1a: Gholdengo|Hex|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1780997420
+|switch|p2a: Gliscor|Gliscor, F|73/100 tox
+|-damage|p2a: Gliscor|61/100 tox|[from] Stealth Rock
+|turn|45
+|
+|t:|1780997426
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|100/100
+|
+|-heal|p2a: Gliscor|73/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|46
+|
+|t:|1780997428
+|move|p2a: Gliscor|Earthquake|p1a: Gholdengo
+|-crit|p1a: Gholdengo
+|-damage|p1a: Gholdengo|62/100
+|move|p1a: Gholdengo|Hex|p2a: Gliscor
+|-crit|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|upkeep
+|
+|t:|1780997434
+|switch|p2a: Fezandipiti|Fezandipiti, M|99/100
+|turn|47
+|
+|t:|1780997445
+|move|p2a: Fezandipiti|Moonblast|p1a: Gholdengo
+|-crit|p1a: Gholdengo
+|-damage|p1a: Gholdengo|30/100
+|move|p1a: Gholdengo|Thunder Wave|p2a: Fezandipiti
+|-status|p2a: Fezandipiti|par
+|
+|upkeep
+|turn|48
+|
+|t:|1780997449
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|80/100
+|move|p2a: Fezandipiti|Moonblast|p1a: Gholdengo
+|-damage|p1a: Gholdengo|57/100
+|-status|p1a: Gholdengo|tox|[from] ability: Toxic Chain|[of] p2a: Fezandipiti
+|
+|-damage|p1a: Gholdengo|51/100 tox|[from] psn
+|upkeep
+|turn|49
+|
+|t:|1780997453
+|move|p1a: Gholdengo|Make It Rain|p2a: Fezandipiti
+|-supereffective|p2a: Fezandipiti
+|-damage|p2a: Fezandipiti|21/100 par
+|-unboost|p1a: Gholdengo|spa|1
+|move|p2a: Fezandipiti|Moonblast|p1a: Gholdengo
+|-crit|p1a: Gholdengo
+|-damage|p1a: Gholdengo|17/100 tox
+|-unboost|p1a: Gholdengo|spa|1
+|
+|-damage|p1a: Gholdengo|4/100 tox|[from] psn
+|upkeep
+|turn|50
+|
+|t:|1780997459
+|move|p1a: Gholdengo|Hex|p2a: Fezandipiti
+|-crit|p2a: Fezandipiti
+|-damage|p2a: Fezandipiti|0 fnt
+|faint|p2a: Fezandipiti
+|
+|win|slightlyartistic
+|raw|slightlyartistic's rating: 1499 &rarr; <strong>1522</strong><br />(+23 for winning)
+|raw|yangtao's rating: 1548 &rarr; <strong>1525</strong><br />(-23 for losing)
+|l|☆yangtao
+|player|p2|
+|l|☆slightlyartistic
+|player|p1|

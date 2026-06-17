@@ -1,0 +1,242 @@
+|j|☆ScribbleScribble
+|j|☆thegreatestnone
+|t:|1781485362
+|gametype|singles
+|player|p1|ScribbleScribble|mina-lgpe|1611
+|player|p2|thegreatestnone|102|1593
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Raging Bolt|
+|poke|p1|Lokix, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Alomomola, F|
+|poke|p1|Kyurem|
+|poke|p2|Pawmot, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Skeledirge, F|
+|poke|p2|Greninja-*, M|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Slowking, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ScribbleScribble)
+|
+|t:|1781485372
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Brim Reaper|Hatterene, F|100/100
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|turn|1
+|
+|t:|1781485392
+|switch|p2a: Slowking|Slowking, M|100/100
+|move|p1a: Brim Reaper|Psychic Noise|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|91/100
+|-start|p2a: Slowking|move: Heal Block
+|
+|upkeep
+|turn|2
+|
+|t:|1781485398
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781485405
+|switch|p2a: Pawmot|Pawmot, M|100/100|[from] Chilly Reception
+|move|p1a: Brim Reaper|Calm Mind|p1a: Brim Reaper
+|-boost|p1a: Brim Reaper|spa|1
+|-boost|p1a: Brim Reaper|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781485415
+|switch|p2a: Skeledirge|Skeledirge, F|100/100
+|move|p1a: Brim Reaper|Draining Kiss|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|88/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781485421
+|move|p2a: Skeledirge|Torch Song|p1a: Brim Reaper
+|-damage|p1a: Brim Reaper|67/100
+|-boost|p2a: Skeledirge|spa|1
+|move|p1a: Brim Reaper|Psychic Noise|p2a: Skeledirge
+|-damage|p2a: Skeledirge|55/100
+|-start|p2a: Skeledirge|move: Heal Block
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781485431
+|switch|p1a: Lil' Flip|Alomomola, F|100/100
+|move|p2a: Skeledirge|Hex|p1a: Lil' Flip
+|-damage|p1a: Lil' Flip|83/100
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Skeledirge|move: Heal Block
+|upkeep
+|turn|6
+|
+|t:|1781485436
+|move|p2a: Skeledirge|Will-O-Wisp|p1a: Lil' Flip
+|-status|p1a: Lil' Flip|brn
+|move|p1a: Lil' Flip|Flip Turn|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|45/100
+|
+|t:|1781485439
+|switch|p1a: Nikola Jokix|Lokix, M, shiny|100/100|[from] Flip Turn
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1781485444
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|move|p1a: Nikola Jokix|Knock Off|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|47/100
+|-enditem|p2a: Weezing|Leftovers|[from] move: Knock Off|[of] p1a: Nikola Jokix
+|
+|upkeep
+|turn|8
+|
+|t:|1781485453
+|switch|p1a: Lil' Flip|Alomomola, F|100/100 brn
+|move|p2a: Weezing|Pain Split|p1a: Lil' Flip
+|-sethp|p1a: Lil' Flip|65/100 brn|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|100/100|[from] move: Pain Split
+|
+|-damage|p1a: Lil' Flip|59/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1781485458
+|move|p2a: Weezing|Sludge Bomb|p1a: Lil' Flip
+|-damage|p1a: Lil' Flip|43/100 brn
+|move|p1a: Lil' Flip|Flip Turn|p2a: Weezing
+|-damage|p2a: Weezing|95/100
+|
+|t:|1781485470
+|switch|p1a: Neckst Up|Raging Bolt|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|10
+|
+|t:|1781485490
+|move|p1a: Neckst Up|Volt Switch|p2a: Weezing
+|-damage|p2a: Weezing|47/100
+|
+|t:|1781485502
+|-end|p1a: Neckst Up|Protosynthesis|[silent]
+|switch|p1a: Nikola Jokix|Lokix, M, shiny|100/100|[from] Volt Switch
+|move|p2a: Weezing|Sludge Bomb|p1a: Nikola Jokix
+|-damage|p1a: Nikola Jokix|46/100
+|-status|p1a: Nikola Jokix|psn
+|
+|-damage|p1a: Nikola Jokix|34/100 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1781485519
+|move|p1a: Nikola Jokix|Leech Life|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|26/100
+|-heal|p1a: Nikola Jokix|46/100 psn|[from] drain|[of] p2a: Weezing
+|move|p2a: Weezing|Sludge Bomb|p1a: Nikola Jokix
+|-damage|p1a: Nikola Jokix|0 fnt
+|faint|p1a: Nikola Jokix
+|
+|upkeep
+|
+|t:|1781485524
+|switch|p1a: Great Husk|Kyurem|100/100
+|-ability|p1a: Great Husk|Pressure
+|turn|12
+|
+|t:|1781485529
+|switch|p2a: Slowking|Slowking, M|100/100
+|move|p1a: Great Husk|Icicle Spear|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|94/100
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|88/100
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|81/100
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|75/100
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|69/100
+|-hitcount|p2a: Slowking|5
+|
+|upkeep
+|turn|13
+|
+|t:|1781485535
+|move|p1a: Great Husk|Dragon Dance|p1a: Great Husk
+|-boost|p1a: Great Husk|atk|1
+|-boost|p1a: Great Husk|spe|1
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781485544
+|switch|p2a: Pawmot|Pawmot, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781485549
+|move|p1a: Great Husk|Icicle Spear|p2a: Pawmot
+|-damage|p2a: Pawmot|72/100
+|-damage|p2a: Pawmot|42/100
+|-damage|p2a: Pawmot|14/100
+|-damage|p2a: Pawmot|0 fnt
+|faint|p2a: Pawmot
+|-hitcount|p2: Pawmot|4
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781485558
+|switch|p2a: Skeledirge|Skeledirge, F|45/100
+|turn|15
+|
+|t:|1781485564
+|move|p1a: Great Husk|Earth Power|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-crit|p2a: Skeledirge
+|-damage|p2a: Skeledirge|0 fnt
+|faint|p2a: Skeledirge
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|-message|thegreatestnone forfeited.
+|
+|win|ScribbleScribble
+|raw|ScribbleScribble's rating: 1611 &rarr; <strong>1630</strong><br />(+19 for winning)
+|raw|thegreatestnone's rating: 1593 &rarr; <strong>1574</strong><br />(-19 for losing)
+|l|☆thegreatestnone
+|player|p2|
+|l|☆ScribbleScribble
+|player|p1|

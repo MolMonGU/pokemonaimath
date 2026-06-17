@@ -1,0 +1,373 @@
+|j|☆waha8
+|j|☆mister_ttar
+|t:|1781025005
+|gametype|singles
+|player|p1|waha8|102|1608
+|player|p2|mister_ttar|1|1590
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Indeedee, M|
+|poke|p1|Cinderace, F|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Cetitan, M|
+|poke|p1|Kyurem|
+|poke|p2|Quaquaval, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Gholdengo|
+|poke|p2|Raging Bolt|
+|teampreview
+|
+|t:|1781025017
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: DeeDee|Indeedee, M|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: DeeDee
+|turn|1
+|
+|t:|1781025034
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: DeeDee|Expanding Force|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|66/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781025040
+|move|p1a: DeeDee|Expanding Force|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|32/100
+|move|p2a: Gholdengo|Thunder Wave|p1a: DeeDee|[miss]
+|-miss|p2a: Gholdengo|p1a: DeeDee
+|
+|upkeep
+|turn|3
+|
+|t:|1781025059
+|move|p1a: DeeDee|Expanding Force|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|1/100
+|move|p2a: Gholdengo|Recover|p2a: Gholdengo
+|-heal|p2a: Gholdengo|51/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781025064
+|switch|p1a: ReverseUNO|Cinderace, F|100/100
+|move|p2a: Gholdengo|Recover|p2a: Gholdengo
+|-heal|p2a: Gholdengo|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781025072
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: ReverseUNO|atk|1
+|move|p1a: ReverseUNO|Pyro Ball|p2a: Landorus
+|-damage|p2a: Landorus|66/100
+|
+|upkeep
+|turn|6
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by waha8)
+|
+|t:|1781025086
+|move|p1a: ReverseUNO|Pyro Ball|p2a: Landorus
+|-damage|p2a: Landorus|29/100
+|move|p2a: Landorus|U-turn|p1a: ReverseUNO
+|-resisted|p1a: ReverseUNO
+|-damage|p1a: ReverseUNO|86/100
+|
+|t:|1781025089
+|switch|p2a: Quaquaval|Quaquaval, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|7
+|
+|t:|1781025095
+|switch|p1a: Mavis|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Mavis
+|move|p2a: Quaquaval|Aqua Step|p1a: Mavis
+|-damage|p1a: Mavis|58/100
+|-boost|p2a: Quaquaval|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781025103
+|move|p2a: Quaquaval|Close Combat|p1a: Mavis
+|-damage|p1a: Mavis|0 fnt
+|-unboost|p2a: Quaquaval|def|1
+|-unboost|p2a: Quaquaval|spd|1
+|faint|p1a: Mavis
+|-ability|p2a: Quaquaval|Moxie|boost
+|-boost|p2a: Quaquaval|atk|1
+|
+|-weather|Snowscape|[upkeep]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1781025111
+|switch|p1a: SageOfSixPaths|Slowking-Galar, M|100/100
+|turn|9
+|
+|t:|1781025124
+|switch|p2a: Landorus|Landorus-Therian, M|29/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: SageOfSixPaths|atk|1
+|move|p1a: SageOfSixPaths|Trick Room|p1a: SageOfSixPaths
+|-fieldstart|move: Trick Room|[of] p1a: SageOfSixPaths
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781025132
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: SageOfSixPaths|Expanding Force|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|75/100
+|-damage|p1a: SageOfSixPaths|91/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781025142
+|move|p1a: SageOfSixPaths|Fire Blast|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|-damage|p1a: SageOfSixPaths|81/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781025146
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|12
+|
+|t:|1781025150
+|switch|p1a: DeeDee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: DeeDee
+|move|p2a: Tornadus|Knock Off|p1a: DeeDee
+|-supereffective|p1a: DeeDee
+|-damage|p1a: DeeDee|8/100
+|-enditem|p1a: DeeDee|Terrain Extender|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781025159
+|switch|p2a: Landorus|Landorus-Therian, M|29/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: DeeDee|atk|1
+|move|p1a: DeeDee|Expanding Force|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-weather|Snowscape|[upkeep]
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1781025166
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|14
+|
+|t:|1781025173
+|switch|p1a: Thing|Cetitan, M|100/100
+|move|p2a: Tornadus|Knock Off|p1a: Thing
+|-damage|p1a: Thing|87/100
+|-enditem|p1a: Thing|Sitrus Berry|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|-weather|none
+|upkeep
+|turn|15
+|
+|t:|1781025189
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Thing|[miss]
+|-miss|p2a: Tornadus|p1a: Thing
+|move|p1a: Thing|Icicle Spear|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|62/100
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|25/100
+|-hitcount|p2a: Tornadus|2
+|
+|upkeep
+|turn|16
+|
+|t:|1781025201
+|move|p1a: Thing|Ice Shard|p2a: Tornadus
+|-hint|Psychic Terrain doesn't affect airborne Pokémon.
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|upkeep
+|
+|t:|1781025204
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|17
+|
+|t:|1781025209
+|move|p2a: Zamazenta|Crunch|p1a: Thing
+|-damage|p1a: Thing|60/100
+|move|p1a: Thing|Icicle Spear|p2a: Zamazenta
+|-damage|p2a: Zamazenta|93/100
+|-damage|p2a: Zamazenta|84/100
+|-crit|p2a: Zamazenta
+|-damage|p2a: Zamazenta|66/100
+|-damage|p2a: Zamazenta|57/100
+|-hitcount|p2a: Zamazenta|4
+|
+|upkeep
+|turn|18
+|
+|t:|1781025218
+|move|p2a: Zamazenta|Close Combat|p1a: Thing
+|-supereffective|p1a: Thing
+|-damage|p1a: Thing|0 fnt
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|faint|p1a: Thing
+|
+|upkeep
+|
+|t:|1781025224
+|switch|p1a: SageOfSixPaths|Slowking-Galar, M|100/100
+|turn|19
+|
+|t:|1781025229
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: mister_ttar|move: Light Screen
+|move|p1a: SageOfSixPaths|Trick Room|p1a: SageOfSixPaths
+|-fieldstart|move: Trick Room|[of] p1a: SageOfSixPaths
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|20
+|
+|t:|1781025234
+|-terastallize|p1a: SageOfSixPaths|Psychic
+|move|p1a: SageOfSixPaths|Expanding Force|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|-damage|p1a: SageOfSixPaths|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781025242
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|21
+|
+|t:|1781025246
+|switch|p1a: DeeDee|Indeedee, M|8/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: DeeDee
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|22
+|
+|t:|1781025254
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: DeeDee
+|-damage|p1a: DeeDee|0 fnt
+|faint|p1a: DeeDee
+|
+|upkeep
+|
+|t:|1781025262
+|switch|p1a: SageOfSixPaths|Slowking-Galar, M, tera:Psychic|100/100
+|turn|23
+|
+|t:|1781025273
+|move|p1a: SageOfSixPaths|Expanding Force|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|63/100
+|-damage|p1a: SageOfSixPaths|91/100|[from] item: Life Orb
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|-heal|p2a: Raging Bolt|70/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|24
+|
+|t:|1781025287
+|move|p2a: Raging Bolt|Thunderbolt|p1a: SageOfSixPaths
+|-damage|p1a: SageOfSixPaths|15/100
+|move|p1a: SageOfSixPaths|Expanding Force|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|39/100
+|-damage|p1a: SageOfSixPaths|5/100|[from] item: Life Orb
+|
+|-heal|p2a: Raging Bolt|45/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|j| Ak444me
+|
+|t:|1781025295
+|move|p2a: Raging Bolt|Thunderbolt|p1a: SageOfSixPaths
+|-damage|p1a: SageOfSixPaths|0 fnt
+|faint|p1a: SageOfSixPaths
+|
+|-heal|p2a: Raging Bolt|51/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1781025305
+|switch|p1a: SubZero|Kyurem|100/100
+|-ability|p1a: SubZero|Pressure
+|turn|26
+|l| Ak444me
+|
+|t:|1781025335
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p1a: SubZero|Icicle Spear|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|42/100
+|-damage|p2a: Raging Bolt|33/100
+|-damage|p2a: Raging Bolt|24/100
+|-damage|p2a: Raging Bolt|14/100
+|-hitcount|p2a: Raging Bolt|4
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: SubZero
+|-supereffective|p1a: SubZero
+|-damage|p1a: SubZero|0 fnt
+|faint|p1a: SubZero
+|
+|-heal|p2a: Raging Bolt|20/100|[from] item: Leftovers
+|-sideend|p2: mister_ttar|move: Light Screen
+|upkeep
+|j| Ak444me
+|l| Ak444me
+|c|☆waha8|gg
+|-message|waha8 forfeited.
+|
+|win|mister_ttar
+|raw|waha8's rating: 1608 &rarr; <strong>1587</strong><br />(-21 for losing)
+|raw|mister_ttar's rating: 1590 &rarr; <strong>1611</strong><br />(+21 for winning)
+|l|☆waha8
+|player|p1|
+|l|☆mister_ttar
+|player|p2|

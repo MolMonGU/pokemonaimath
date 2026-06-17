@@ -1,0 +1,675 @@
+|j|☆blueisnoob
+|j|‽LT_Alt1
+|t:|1780895752
+|gametype|singles
+|player|p1|blueisnoob|1|1590
+|player|p2|LT_Alt1|265|1622
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Great Tusk|
+|poke|p1|Kingambit, M|
+|poke|p1|Zapdos|
+|poke|p2|Garganacl, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Kyurem|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Moltres|
+|poke|p2|Iron Treads|
+|teampreview
+|
+|t:|1780895762
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|switch|p2a: Moltres|Moltres|100/100
+|turn|1
+|
+|t:|1780895777
+|-terastallize|p1a: Ogerpon|Water
+|detailschange|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|-terastallize|p2a: Moltres|Dragon
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Moltres|[anim] Ivy Cudgel Water
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|72/100
+|move|p2a: Moltres|Will-O-Wisp|p1a: Ogerpon
+|-status|p1a: Ogerpon|brn
+|
+|-damage|p1a: Ogerpon|95/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1780895792
+|move|p1a: Ogerpon|Knock Off|p2a: Moltres
+|-damage|p2a: Moltres|57/100
+|-enditem|p2a: Moltres|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Ogerpon
+|move|p2a: Moltres|U-turn|p1a: Ogerpon
+|-damage|p1a: Ogerpon|74/100 brn
+|
+|t:|1780895804
+|switch|p2a: Slowking|Slowking-Galar, F|100/100|[from] U-turn
+|
+|-damage|p1a: Ogerpon|68/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1780895806
+|move|p1a: Ogerpon|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-enditem|p2a: Slowking|Colbur Berry|[eat]
+|-enditem|p2a: Slowking|Colbur Berry|[weaken]
+|-damage|p2a: Slowking|82/100
+|move|p2a: Slowking|Future Sight|p1a: Ogerpon
+|-start|p2a: Slowking|move: Future Sight
+|
+|-damage|p1a: Ogerpon|62/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1780895812
+|move|p1a: Ogerpon|U-turn|p2a: Slowking
+|-damage|p2a: Slowking|68/100
+|
+|t:|1780895813
+|switch|p1a: Kingambit|Kingambit, M|100/100|[from] U-turn
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1780895816
+|switch|p2a: Moltres|Moltres, tera:Dragon|57/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1780895818
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water|62/100 brn
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p2a: Moltres|Roost|p2a: Moltres
+|-heal|p2a: Moltres|100/100
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Ogerpon|move: Future Sight
+|-damage|p1a: Ogerpon|25/100 brn
+|-damage|p1a: Ogerpon|19/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1780895825
+|move|p1a: Ogerpon|U-turn|p2a: Moltres
+|-damage|p2a: Moltres|90/100
+|
+|t:|1780895828
+|switch|p1a: Zapdos|Zapdos|100/100|[from] U-turn
+|move|p2a: Moltres|Flamethrower|p1a: Zapdos
+|-damage|p1a: Zapdos|65/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1780895833
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Zapdos|Volt Switch|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1780895837
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: Great Tusk
+|-sidestart|p1: blueisnoob|move: Stealth Rock
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1780895840
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Moltres|Moltres, tera:Dragon|90/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Moltres
+|-damage|p2a: Moltres|41/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1780895854
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|1/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-heal|p2a: Iron Treads|7/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1780895863
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Moltres|Moltres, tera:Dragon|41/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Moltres
+|-damage|p2a: Moltres|28/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: blueisnoob|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|12
+|
+|t:|1780895866
+|switch|p2a: Iron Treads|Iron Treads|7/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780895868
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|13
+|
+|t:|1780895872
+|move|p1a: Great Tusk|Stealth Rock|p2a: Kyurem
+|-sidestart|p2: LT_Alt1|move: Stealth Rock
+|move|p2a: Kyurem|Earth Power|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780895878
+|switch|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water|19/100 brn
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|turn|14
+|j| Kisaragi Station
+|
+|t:|1780895882
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|-damage|p2a: Weezing|88/100|[from] Stealth Rock
+|move|p1a: Ogerpon|Knock Off|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|81/100
+|-enditem|p2a: Weezing|Leftovers|[from] move: Knock Off|[of] p1a: Ogerpon
+|
+|-damage|p1a: Ogerpon|13/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1780895886
+|move|p1a: Ogerpon|U-turn|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|79/100
+|
+|t:|1780895888
+|switch|p1a: Slowking|Slowking-Galar, F|100/100|[from] U-turn
+|move|p2a: Weezing|Defog|p1a: Slowking
+|-unboost|p1a: Slowking|evasion|1
+|-sideend|p2: LT_Alt1|Stealth Rock|[from] move: Defog|[of] p2a: Weezing
+|
+|upkeep
+|turn|16
+|
+|t:|1780895898
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Garganacl|Garganacl, F|100/100
+|move|p1a: Slowking|Sludge Bomb|p2a: Garganacl
+|-resisted|p2a: Garganacl
+|-damage|p2a: Garganacl|85/100
+|
+|-heal|p2a: Garganacl|92/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1780895905
+|switch|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water|13/100 brn
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p2a: Garganacl|Curse|p2a: Garganacl
+|-unboost|p2a: Garganacl|spe|1
+|-boost|p2a: Garganacl|atk|1
+|-boost|p2a: Garganacl|def|1
+|
+|-heal|p2a: Garganacl|98/100|[from] item: Leftovers
+|-damage|p1a: Ogerpon|7/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1780895912
+|move|p1a: Ogerpon|Knock Off|p2a: Garganacl
+|-damage|p2a: Garganacl|90/100
+|-enditem|p2a: Garganacl|Leftovers|[from] move: Knock Off|[of] p1a: Ogerpon
+|move|p2a: Garganacl|Curse|p2a: Garganacl
+|-unboost|p2a: Garganacl|spe|1
+|-boost|p2a: Garganacl|atk|1
+|-boost|p2a: Garganacl|def|1
+|
+|-damage|p1a: Ogerpon|1/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1780895920
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Garganacl|[anim] Ivy Cudgel Water
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|67/100
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|100/100
+|
+|-damage|p1a: Ogerpon|0 fnt|[from] brn
+|faint|p1a: Ogerpon
+|detailschange|p1: Ogerpon|Ogerpon-Wellspring, F|[silent]
+|upkeep
+|
+|t:|1780895926
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|20
+|
+|t:|1780895928
+|move|p1a: Zamazenta|Close Combat|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|57/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|move|p2a: Garganacl|Salt Cure|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|88/100
+|-start|p1a: Zamazenta|Salt Cure
+|
+|-damage|p1a: Zamazenta|76/100|[from] Salt Cure
+|upkeep
+|turn|21
+|
+|t:|1780895933
+|move|p1a: Zamazenta|Close Combat|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|14/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|64/100
+|
+|-damage|p1a: Zamazenta|64/100|[from] Salt Cure
+|upkeep
+|turn|22
+|
+|t:|1780895935
+|move|p1a: Zamazenta|Close Combat|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|25/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|75/100
+|
+|-damage|p1a: Zamazenta|52/100|[from] Salt Cure
+|upkeep
+|turn|23
+|
+|t:|1780895938
+|move|p1a: Zamazenta|Close Combat|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|27/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|77/100
+|
+|-damage|p1a: Zamazenta|39/100|[from] Salt Cure
+|upkeep
+|turn|24
+|
+|t:|1780895943
+|move|p1a: Zamazenta|Close Combat|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-crit|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|faint|p2a: Garganacl
+|
+|-damage|p1a: Zamazenta|27/100|[from] Salt Cure
+|upkeep
+|
+|t:|1780895951
+|switch|p2a: Weezing|Weezing-Galar, F|79/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|turn|25
+|
+|t:|1780895956
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Weezing|Will-O-Wisp|p1a: Slowking
+|-status|p1a: Slowking|brn
+|
+|-damage|p1a: Slowking|94/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1780895963
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Slowking|Psyshock|p2a: Slowking
+|-damage|p2a: Slowking|56/100
+|
+|-damage|p1a: Slowking|88/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1780895971
+|move|p1a: Slowking|Psyshock|p2a: Slowking
+|-damage|p2a: Slowking|16/100
+|move|p2a: Slowking|Future Sight|p1a: Slowking
+|-start|p2a: Slowking|move: Future Sight
+|
+|-damage|p1a: Slowking|82/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1780895983
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1780895991
+|switch|p2a: Weezing|Weezing-Galar, F|79/100|[from] Chilly Reception
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Slowking|Psyshock|p2a: Weezing
+|-supereffective|p2a: Weezing
+|-damage|p2a: Weezing|19/100
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Slowking|76/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1780895995
+|move|p2a: Weezing|Pain Split|p1a: Slowking
+|-sethp|p1a: Slowking|46/100 brn|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|59/100|[from] move: Pain Split
+|move|p1a: Slowking|Sludge Bomb|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Slowking|move: Future Sight
+|-damage|p1a: Slowking|24/100 brn
+|-damage|p1a: Slowking|18/100 brn|[from] brn
+|upkeep
+|
+|t:|1780896002
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|30
+|
+|t:|1780896007
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|move|p2a: Kyurem|Scale Shot|p1a: Kingambit|[miss]
+|-miss|p2a: Kyurem|p1a: Kingambit
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|31
+|
+|t:|1780896010
+|move|p2a: Kyurem|Earth Power|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|35/100
+|move|p1a: Kingambit|Low Kick|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|26/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kingambit|41/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1780896016
+|switch|p2a: Moltres|Moltres, tera:Dragon|28/100
+|move|p1a: Kingambit|Low Kick|p2a: Moltres
+|-damage|p2a: Moltres|2/100
+|
+|-weather|none
+|-heal|p1a: Kingambit|47/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1780896023
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Zapdos|Zapdos|65/100
+|move|p2a: Moltres|Will-O-Wisp|p1a: Zapdos
+|-status|p1a: Zapdos|brn
+|
+|-damage|p1a: Zapdos|59/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1780896029
+|move|p1a: Zapdos|Thunder Wave|p2a: Moltres|[miss]
+|-miss|p1a: Zapdos|p2a: Moltres
+|move|p2a: Moltres|Roost|p2a: Moltres
+|-heal|p2a: Moltres|52/100
+|
+|-damage|p1a: Zapdos|53/100 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1780896035
+|switch|p2a: Slowking|Slowking-Galar, F|49/100
+|move|p1a: Zapdos|Thunder Wave|p2a: Slowking
+|-status|p2a: Slowking|par
+|
+|-damage|p1a: Zapdos|47/100 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1780896038
+|move|p1a: Zapdos|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|30/100 par
+|
+|t:|1780896040
+|switch|p1a: Kingambit|Kingambit, M|47/100|[from] Volt Switch
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1780896043
+|switch|p2a: Moltres|Moltres, tera:Dragon|52/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kingambit|53/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1780896047
+|switch|p2a: Kyurem|Kyurem|26/100
+|-ability|p2a: Kyurem|Pressure
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Zapdos|Zapdos|47/100 brn
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Zapdos|41/100 brn|[from] brn
+|upkeep
+|turn|38
+|
+|t:|1780896056
+|move|p2a: Kyurem|Ice Beam|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1780896060
+|switch|p1a: Zamazenta|Zamazenta|27/100
+|turn|39
+|
+|t:|1780896063
+|switch|p2a: Slowking|Slowking-Galar, F|63/100 par
+|move|p1a: Zamazenta|Stone Edge|p2a: Slowking
+|-damage|p2a: Slowking|28/100 par
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|40
+|
+|t:|1780896070
+|move|p1a: Zamazenta|Stone Edge|p2a: Slowking|[miss]
+|-miss|p1a: Zamazenta|p2a: Slowking
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1780896074
+|switch|p2a: Moltres|Moltres, tera:Dragon|52/100|[from] Chilly Reception
+|
+|-weather|none
+|upkeep
+|turn|41
+|
+|t:|1780896079
+|switch|p1a: Slowking|Slowking-Galar, F|51/100 brn
+|move|p2a: Moltres|Flamethrower|p1a: Slowking
+|-damage|p1a: Slowking|33/100 brn
+|
+|-damage|p1a: Slowking|27/100 brn|[from] brn
+|upkeep
+|turn|42
+|
+|t:|1780896088
+|move|p2a: Moltres|U-turn|p1a: Slowking
+|-damage|p1a: Slowking|12/100 brn
+|j| crust king kahn
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by blueisnoob)
+|
+|t:|1780896109
+|switch|p2a: Slowking|Slowking-Galar, F|61/100 par|[from] U-turn
+|move|p1a: Slowking|Ice Beam|p2a: Slowking
+|-damage|p2a: Slowking|45/100 par
+|
+|-damage|p1a: Slowking|6/100 brn|[from] brn
+|upkeep
+|turn|43
+|
+|t:|1780896116
+|switch|p1a: Kingambit|Kingambit, M|53/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1780896119
+|switch|p2a: Moltres|Moltres, tera:Dragon|52/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kingambit|59/100|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1780896123
+|-end|p1a: Kingambit|fallen3|[silent]
+|switch|p1a: Slowking|Slowking-Galar, F|39/100 brn
+|move|p2a: Moltres|Flamethrower|p1a: Slowking
+|-damage|p1a: Slowking|22/100 brn
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Slowking|16/100 brn|[from] brn
+|upkeep
+|turn|45
+|l| crust king kahn
+|
+|t:|1780896130
+|move|p2a: Moltres|Flamethrower|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1780896132
+|switch|p1a: Zamazenta|Zamazenta|27/100
+|turn|46
+|
+|t:|1780896147
+|switch|p2a: Kyurem|Kyurem|26/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Zamazenta|Ice Fang|p2a: Kyurem
+|-damage|p2a: Kyurem|13/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|47
+|
+|t:|1780896151
+|move|p1a: Zamazenta|Crunch|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|-weather|none
+|upkeep
+|
+|t:|1780896154
+|switch|p2a: Moltres|Moltres, tera:Dragon|52/100
+|turn|48
+|
+|t:|1780896159
+|move|p1a: Zamazenta|Ice Fang|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|16/100
+|move|p2a: Moltres|Roost|p2a: Moltres
+|-heal|p2a: Moltres|66/100
+|
+|upkeep
+|turn|49
+|
+|t:|1780896165
+|move|p1a: Zamazenta|Ice Fang|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|25/100
+|move|p2a: Moltres|Will-O-Wisp|p1a: Zamazenta|[miss]
+|-miss|p2a: Moltres|p1a: Zamazenta
+|
+|upkeep
+|turn|50
+|-message|LT_Alt1 forfeited.
+|
+|win|blueisnoob
+|raw|blueisnoob's rating: 1590 &rarr; <strong>1612</strong><br />(+22 for winning)
+|raw|LT_Alt1's rating: 1622 &rarr; <strong>1600</strong><br />(-22 for losing)
+|l|‽LT_Alt1
+|player|p2|

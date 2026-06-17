@@ -1,0 +1,323 @@
+|j|☆funnygames(1997)
+|j|☆firewall1234
+|t:|1781535959
+|gametype|singles
+|player|p1|funnygames(1997)|2|1641
+|player|p2|firewall1234|hugh|1618
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Arcanine-Hisui, M|
+|poke|p1|Darkrai|
+|poke|p1|Great Tusk|
+|poke|p1|Hatterene, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Zapdos|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Pecharunt|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|
+|t:|1781535966
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Ogerpon|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by firewall1234)
+|
+|t:|1781535973
+|move|p2a: Landorus|U-turn|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|35/100
+|
+|t:|1781535976
+|switch|p2a: Pecharunt|Pecharunt|100/100|[from] U-turn
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Pecharunt|[anim] Ivy Cudgel Water
+|-damage|p2a: Pecharunt|84/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781535985
+|switch|p1a: Darkrai|Darkrai|100/100
+|move|p2a: Pecharunt|Parting Shot|p1a: Darkrai
+|-unboost|p1a: Darkrai|atk|1
+|-unboost|p1a: Darkrai|spa|1
+|
+|t:|1781535988
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|100/100|[from] Parting Shot
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Darkrai|atk|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781536002
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Landorus|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|90/100
+|-status|p2a: Landorus|par|[from] ability: Static|[of] p1a: Zapdos
+|
+|t:|1781536015
+|switch|p2a: Iron Valiant|Iron Valiant, shiny|100/100|[from] U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1781536028
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|-terastallize|p2a: Iron Valiant|Fairy
+|move|p2a: Iron Valiant|Moonblast|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|9/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781536038
+|move|p2a: Iron Valiant|Moonblast|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781536044
+|switch|p1a: Arcanine|Arcanine-Hisui, M|100/100
+|turn|6
+|
+|t:|1781536049
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|100/100 par
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Arcanine|atk|1
+|move|p1a: Arcanine|Head Smash|p2a: Landorus
+|-damage|p2a: Landorus|12/100 par
+|
+|upkeep
+|turn|7
+|
+|t:|1781536056
+|move|p1a: Arcanine|Head Smash|p2a: Landorus|[miss]
+|-miss|p1a: Arcanine|p2a: Landorus
+|cant|p2a: Landorus|par
+|
+|upkeep
+|turn|8
+|
+|t:|1781536059
+|move|p1a: Arcanine|Head Smash|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1781536066
+|switch|p2a: Alomomola|Alomomola, M, shiny|100/100
+|turn|9
+|
+|t:|1781536074
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|35/100
+|move|p2a: Alomomola|Body Slam|p1a: Ogerpon
+|-damage|p1a: Ogerpon|14/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781536081
+|switch|p2a: Pecharunt|Pecharunt|84/100
+|move|p1a: Ogerpon|Horn Leech|p2a: Pecharunt
+|-resisted|p2a: Pecharunt
+|-damage|p2a: Pecharunt|73/100
+|-heal|p1a: Ogerpon|21/100|[from] drain|[of] p2a: Pecharunt
+|
+|upkeep
+|turn|11
+|
+|t:|1781536090
+|switch|p1a: Darkrai|Darkrai|100/100
+|move|p2a: Pecharunt|Recover|p2a: Pecharunt
+|-heal|p2a: Pecharunt|100/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781536097
+|switch|p2a: Alomomola|Alomomola, M, shiny|100/100
+|move|p1a: Darkrai|Trick|p2a: Alomomola
+|-activate|p1a: Darkrai|move: Trick|[of] p2a: Alomomola
+|-item|p2a: Alomomola|Choice Scarf|[from] move: Trick
+|-item|p1a: Darkrai|Assault Vest|[from] move: Trick
+|
+|upkeep
+|turn|13
+|
+|t:|1781536111
+|move|p1a: Darkrai|Sludge Bomb|p2a: Alomomola
+|-damage|p2a: Alomomola|75/100
+|-status|p2a: Alomomola|psn
+|move|p2a: Alomomola|Body Slam|p1a: Darkrai
+|-damage|p1a: Darkrai|81/100
+|-status|p1a: Darkrai|par
+|
+|-damage|p2a: Alomomola|62/100 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1781536121
+|switch|p2a: Cinderace|Cinderace, M, shiny|100/100
+|move|p1a: Darkrai|Sludge Bomb|p2a: Cinderace
+|-damage|p2a: Cinderace|56/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781536128
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Cinderace|U-turn|p1a: Great Tusk
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|88/100
+|-damage|p2a: Cinderace|39/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|
+|t:|1781536130
+|switch|p2a: Iron Valiant|Iron Valiant, shiny, tera:Fairy|100/100|[from] U-turn
+|
+|upkeep
+|turn|16
+|
+|t:|1781536138
+|-terastallize|p1a: Great Tusk|Steel
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Great Tusk
+|-damage|p1a: Great Tusk|31/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|15/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|17
+|
+|t:|1781536144
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781536147
+|switch|p1a: Darkrai|Darkrai|81/100 par
+|turn|18
+|
+|t:|1781536153
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Cinderace|Cinderace, M, shiny|39/100
+|move|p1a: Darkrai|Dark Pulse|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|upkeep
+|
+|t:|1781536159
+|switch|p2a: Iron Valiant|Iron Valiant, shiny, tera:Fairy|15/100
+|turn|19
+|
+|t:|1781536174
+|switch|p1a: Zapdos|Zapdos|90/100
+|move|p2a: Iron Valiant|Moonblast|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1781536176
+|switch|p1a: Arcanine|Arcanine-Hisui, M|100/100
+|turn|20
+|
+|t:|1781536183
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Arcanine|Head Smash|p2a: Pecharunt
+|-damage|p2a: Pecharunt|54/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781536189
+|switch|p1a: Darkrai|Darkrai|81/100 par
+|move|p2a: Pecharunt|Recover|p2a: Pecharunt
+|-heal|p2a: Pecharunt|100/100
+|
+|upkeep
+|turn|22
+|
+|t:|1781536193
+|switch|p2a: Alomomola|Alomomola, M, shiny|95/100 psn
+|move|p1a: Darkrai|Dark Pulse|p2a: Alomomola
+|-damage|p2a: Alomomola|62/100 psn
+|
+|-damage|p2a: Alomomola|50/100 psn|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1781536201
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100
+|cant|p1a: Darkrai|par
+|
+|upkeep
+|turn|24
+|
+|t:|1781536205
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|21/100
+|move|p2a: Hoopa|Drain Punch|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1781536207
+|switch|p1a: Arcanine|Arcanine-Hisui, M|100/100
+|turn|25
+|
+|t:|1781536223
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Arcanine|Head Smash|p2a: Pecharunt|[miss]
+|-miss|p1a: Arcanine|p2a: Pecharunt
+|
+|upkeep
+|turn|26
+|inactive|funnygames(1997) has 120 seconds left.
+|inactive|funnygames(1997) has 90 seconds left.
+|inactive|funnygames(1997) has 60 seconds left.
+|inactive|funnygames(1997) has 30 seconds left.
+|inactive|funnygames(1997) has 20 seconds left.
+|inactive|funnygames(1997) has 15 seconds left.
+|inactive|funnygames(1997) has 10 seconds left.
+|inactive|funnygames(1997) has 5 seconds left.
+|-message|funnygames(1997) lost due to inactivity.
+|
+|win|firewall1234
+|raw|funnygames(1997)'s rating: 1641 &rarr; <strong>1620</strong><br />(-21 for losing)
+|raw|firewall1234's rating: 1618 &rarr; <strong>1639</strong><br />(+21 for winning)
+|l|☆firewall1234
+|player|p2|
+|l|☆funnygames(1997)
+|player|p1|

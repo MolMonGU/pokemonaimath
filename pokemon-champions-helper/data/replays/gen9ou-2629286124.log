@@ -1,0 +1,499 @@
+|j|☆KurisuChestnutLab
+|j|☆King.cah
+|t:|1781115633
+|gametype|singles
+|player|p1|KurisuChestnutLab|may-contest|1525
+|player|p2|King.cah|dancer|1559
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Primarina, F|
+|poke|p1|Hippowdon, F|
+|poke|p1|Skarmory, M|
+|poke|p1|Zapdos|
+|poke|p1|Dragonite, F|
+|poke|p1|Slowking, M|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Diancie|
+|poke|p2|Hatterene, F|
+|poke|p2|Iron Hands|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Dragonite, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutLab)
+|
+|t:|1781115647
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hippowdon|Hippowdon, F|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|1
+|
+|t:|1781115653
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hippowdon|atk|1
+|move|p1a: Hippowdon|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781115658
+|switch|p1a: Skarmory|Skarmory, M|100/100
+|move|p2a: Landorus|U-turn|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|98/100
+|
+|t:|1781115666
+|switch|p2a: Hatterene|Hatterene, F|100/100|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hatterene|95/100|[from] Sandstorm
+|-heal|p1a: Skarmory|100/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781115670
+|move|p1a: Skarmory|Iron Head|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|41/100
+|move|p2a: Hatterene|Trick Room|p2a: Hatterene
+|-fieldstart|move: Trick Room|[of] p2a: Hatterene
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hatterene|35/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1781115674
+|switch|p1a: Primarina|Primarina, F|100/100
+|move|p2a: Hatterene|Mystical Fire|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|90/100
+|-unboost|p1a: Primarina|spa|1
+|-damage|p2a: Hatterene|25/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hatterene|19/100|[from] Sandstorm
+|-damage|p1a: Primarina|84/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1781115679
+|switch|p1a: Slowking|Slowking, M|100/100
+|move|p2a: Hatterene|Psychic|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|82/100
+|-damage|p2a: Hatterene|10/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1781115683
+|move|p2a: Hatterene|Draining Kiss|p1a: Slowking
+|-damage|p1a: Slowking|59/100
+|-heal|p2a: Hatterene|31/100|[from] drain|[of] p1a: Slowking
+|-damage|p2a: Hatterene|21/100|[from] item: Life Orb
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781115687
+|switch|p1a: Primarina|Primarina, F|84/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781115692
+|move|p2a: Hatterene|Psychic|p1a: Primarina
+|-damage|p1a: Primarina|45/100
+|-damage|p2a: Hatterene|12/100|[from] item: Life Orb
+|move|p1a: Primarina|Moonblast|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|-weather|Snowscape|[upkeep]
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1781115712
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|8
+|
+|t:|1781115718
+|switch|p1a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Dragonite|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|80/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragonite|94/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|86/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781115725
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hippowdon|atk|1
+|move|p1a: Hippowdon|Stealth Rock|p2a: Landorus
+|-sidestart|p2: King.cah|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|92/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781115730
+|switch|p1a: Skarmory|Skarmory, M|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Skarmory
+|-sidestart|p1: KurisuChestnutLab|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781115733
+|switch|p1a: Hippowdon|Hippowdon, F|92/100
+|-damage|p1a: Hippowdon|86/100|[from] Stealth Rock
+|move|p2a: Landorus|Taunt|p1a: Hippowdon
+|-start|p1a: Hippowdon|move: Taunt
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|92/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781115740
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Landorus|Earth Power|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|-weather|none
+|upkeep
+|turn|13
+|
+|t:|1781115744
+|move|p2a: Landorus|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|93/100
+|
+|t:|1781115749
+|switch|p2a: Princess|Diancie, shiny|100/100|[from] U-turn
+|-damage|p2a: Princess|88/100|[from] Stealth Rock
+|move|p1a: Zapdos|Hurricane|p2a: Princess
+|-resisted|p2a: Princess
+|-damage|p2a: Princess|68/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781115752
+|move|p1a: Zapdos|Volt Switch|p2a: Princess
+|-damage|p2a: Princess|46/100
+|
+|t:|1781115757
+|switch|p1a: Hippowdon|Hippowdon, F|92/100|[from] Volt Switch
+|-damage|p1a: Hippowdon|86/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Princess|Trick Room|p2a: Princess
+|-fieldstart|move: Trick Room|[of] p2a: Princess
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|92/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781115764
+|move|p2a: Princess|Moonblast|p1a: Hippowdon
+|-damage|p1a: Hippowdon|47/100
+|move|p1a: Hippowdon|Earthquake|p2a: Princess
+|-supereffective|p2a: Princess
+|-damage|p2a: Princess|0 fnt
+|faint|p2a: Princess
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|53/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781115774
+|switch|p2a: Harichroma|Iron Hands, shiny|100/100
+|-damage|p2a: Harichroma|94/100|[from] Stealth Rock
+|-enditem|p2a: Harichroma|Booster Energy
+|-activate|p2a: Harichroma|ability: Quark Drive|[fromitem]
+|-start|p2a: Harichroma|quarkdriveatk
+|turn|16
+|
+|t:|1781115778
+|move|p2a: Harichroma|Swords Dance|p2a: Harichroma
+|-boost|p2a: Harichroma|atk|2
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Harichroma|88/100|[from] Sandstorm
+|upkeep
+|turn|17
+|
+|t:|1781115782
+|move|p2a: Harichroma|Ice Punch|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|13/100
+|move|p1a: Hippowdon|Whirlwind|p2a: Harichroma
+|-end|p2a: Harichroma|Quark Drive|[silent]
+|drag|p2a: Hoopa|Hoopa-Unbound|100/100
+|-damage|p2a: Hoopa|88/100|[from] Stealth Rock
+|-item|p2a: Hoopa|Air Balloon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hoopa|82/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|20/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781115786
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|70/100
+|move|p2a: Hoopa|Psychic|p1a: Hippowdon
+|-damage|p1a: Hippowdon|20/100
+|
+|-weather|none
+|-heal|p1a: Hippowdon|26/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|19
+|
+|t:|1781115791
+|switch|p1a: Slowking|Slowking, M|92/100
+|move|p2a: Hoopa|Psychic|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|77/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781115795
+|move|p2a: Hoopa|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|-enditem|p1a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Hoopa
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1781115801
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|21
+|
+|t:|1781115807
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Hoopa|Knock Off|p1a: Dragonite
+|-damage|p1a: Dragonite|68/100
+|-enditem|p1a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Hoopa
+|
+|upkeep
+|turn|22
+|
+|t:|1781115814
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Dragonite|atk|1
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|23
+|
+|t:|1781115821
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Landorus|Taunt|p1a: Dragonite
+|-start|p1a: Dragonite|move: Taunt
+|
+|upkeep
+|turn|24
+|
+|t:|1781115830
+|-terastallize|p1a: Dragonite|Normal
+|move|p1a: Dragonite|Extreme Speed|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|-damage|p1a: Dragonite|52/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1781115835
+|switch|p2a: Harichroma|Iron Hands, shiny|88/100
+|-damage|p2a: Harichroma|82/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1781115842
+|-terastallize|p2a: Harichroma|Grass
+|move|p1a: Dragonite|Earthquake|p2a: Harichroma
+|-resisted|p2a: Harichroma
+|-damage|p2a: Harichroma|59/100
+|move|p2a: Harichroma|Drain Punch|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|-heal|p2a: Harichroma|78/100|[from] drain|[of] p1a: Dragonite
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1781115847
+|switch|p1a: Zapdos|Zapdos|93/100
+|turn|26
+|
+|t:|1781115854
+|move|p1a: Zapdos|Volt Switch|p2a: Harichroma
+|-resisted|p2a: Harichroma
+|-damage|p2a: Harichroma|65/100
+|
+|t:|1781115857
+|switch|p1a: Primarina|Primarina, F|45/100|[from] Volt Switch
+|-damage|p1a: Primarina|33/100|[from] Stealth Rock
+|move|p2a: Harichroma|Ice Punch|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|15/100
+|
+|upkeep
+|turn|27
+|
+|t:|1781115862
+|move|p1a: Primarina|Moonblast|p2a: Harichroma
+|-damage|p2a: Harichroma|15/100
+|-unboost|p2a: Harichroma|spa|1
+|move|p2a: Harichroma|Drain Punch|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|-heal|p2a: Harichroma|21/100|[from] drain|[of] p1a: Primarina
+|faint|p1a: Primarina
+|
+|upkeep
+|
+|t:|1781115867
+|switch|p1a: Skarmory|Skarmory, M|100/100
+|-damage|p1a: Skarmory|88/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1781115876
+|move|p1a: Skarmory|Body Press|p2a: Harichroma
+|-damage|p2a: Harichroma|0 fnt
+|faint|p2a: Harichroma
+|-end|p2a: Harichroma|Quark Drive|[silent]
+|
+|-heal|p1a: Skarmory|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781115878
+|switch|p2a: Hoopa|Hoopa-Unbound|82/100
+|-damage|p2a: Hoopa|70/100|[from] Stealth Rock
+|-item|p2a: Hoopa|Air Balloon
+|turn|29
+|
+|t:|1781115883
+|move|p2a: Hoopa|Knock Off|p1a: Skarmory
+|-damage|p1a: Skarmory|58/100
+|-enditem|p1a: Skarmory|Leftovers|[from] move: Knock Off|[of] p2a: Hoopa
+|move|p1a: Skarmory|Body Press|p2a: Hoopa
+|-damage|p2a: Hoopa|23/100
+|-enditem|p2a: Hoopa|Air Balloon
+|
+|upkeep
+|turn|30
+|
+|t:|1781115886
+|move|p1a: Skarmory|Iron Head|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|faint|p2a: Hoopa
+|
+|upkeep
+|
+|t:|1781115888
+|switch|p2a: Dragonite|Dragonite, F|94/100
+|turn|31
+|
+|t:|1781115893
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Skarmory|Iron Head|p2a: Dragonite
+|-damage|p2a: Dragonite|69/100
+|
+|upkeep
+|turn|32
+|
+|t:|1781115898
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Skarmory|Iron Head|p2a: Dragonite
+|-damage|p2a: Dragonite|42/100
+|
+|upkeep
+|turn|33
+|
+|t:|1781115903
+|move|p2a: Dragonite|Ice Spinner|p1a: Skarmory
+|-damage|p1a: Skarmory|22/100
+|move|p1a: Skarmory|Iron Head|p2a: Dragonite
+|-damage|p2a: Dragonite|17/100
+|
+|upkeep
+|turn|34
+|
+|t:|1781115908
+|move|p2a: Dragonite|Ice Spinner|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|faint|p1a: Skarmory
+|
+|upkeep
+|
+|t:|1781115915
+|switch|p1a: Zapdos|Zapdos|93/100
+|turn|35
+|
+|t:|1781115920
+|move|p2a: Dragonite|Ice Spinner|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1781115926
+|switch|p1a: Hippowdon|Hippowdon, F|26/100
+|-damage|p1a: Hippowdon|20/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|36
+|
+|t:|1781115932
+|move|p2a: Dragonite|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|faint|p1a: Hippowdon
+|
+|win|King.cah
+|raw|KurisuChestnutLab's rating: 1537 &rarr; <strong>1518</strong><br />(-19 for losing)
+|raw|King.cah's rating: 1559 &rarr; <strong>1578</strong><br />(+19 for winning)
+|l|☆King.cah
+|player|p2|

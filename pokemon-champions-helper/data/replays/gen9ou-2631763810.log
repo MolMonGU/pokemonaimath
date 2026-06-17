@@ -1,0 +1,511 @@
+|j|☆suaiaj
+|j|☆llachiee
+|t:|1781435888
+|gametype|singles
+|player|p1|suaiaj|juan|1603
+|player|p2|llachiee|170|1653
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Flygon, F|
+|poke|p1|Gholdengo|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Zapdos|
+|poke|p1|Tyranitar, F|
+|poke|p1|Great Tusk|
+|poke|p2|Gliscor, F|
+|poke|p2|Blissey, F|
+|poke|p2|Clefable, F|
+|poke|p2|Toxapex, F|
+|poke|p2|Dondozo, F|
+|poke|p2|Corviknight, F|
+|teampreview
+|
+|t:|1781435911
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|switch|p2a: Adder|Gliscor, F|100/100
+|turn|1
+|
+|t:|1781435925
+|-terastallize|p1a: Ogerpon|Water
+|detailschange|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p2a: Adder|Protect|p2a: Adder
+|-singleturn|p2a: Adder|Protect
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Adder|[anim] Ivy Cudgel Water
+|-activate|p2a: Adder|move: Protect
+|
+|-status|p2a: Adder|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781435932
+|switch|p2a: Lash|Toxapex, F, shiny|100/100
+|move|p1a: Ogerpon|Spikes|p2a: Lash
+|-sidestart|p2: llachiee|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1781435938
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Lash|Toxic|p1a: Gholdengo
+|-immune|p1a: Gholdengo|[from] ability: Good as Gold
+|
+|upkeep
+|turn|4
+|
+|t:|1781435944
+|move|p1a: Gholdengo|Shadow Ball|p2a: Lash
+|-damage|p2a: Lash|72/100
+|-unboost|p2a: Lash|spd|1
+|move|p2a: Lash|Infestation|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|99/100
+|-activate|p1a: Gholdengo|move: Infestation|[of] p2a: Lash
+|
+|-damage|p1a: Gholdengo|88/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|5
+|
+|t:|1781435950
+|switch|p2a: Flesh Tutu|Blissey, F|100/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Flesh Tutu
+|-immune|p2a: Flesh Tutu
+|
+|-end|p1a: Gholdengo|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|turn|6
+|
+|t:|1781435954
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Flesh Tutu|Shadow Ball|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|98/100
+|-unboost|p1a: Tyranitar|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Flesh Tutu|94/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|100/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781435961
+|switch|p2a: Adder|Gliscor, F|100/100 tox
+|move|p1a: Tyranitar|Knock Off|p2a: Adder
+|-damage|p2a: Adder|74/100 tox
+|-enditem|p2a: Adder|Toxic Orb|[from] move: Knock Off|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Adder|87/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|8
+|
+|t:|1781435966
+|switch|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water|100/100
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p2a: Adder|Protect||[still]
+|-fail|p2a: Adder
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ogerpon|94/100|[from] Sandstorm
+|-heal|p2a: Adder|99/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|9
+|
+|t:|1781435974
+|-terastallize|p2a: Adder|Ghost
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Adder|[anim] Ivy Cudgel Water
+|-damage|p2a: Adder|51/100 tox
+|move|p2a: Adder|Toxic|p1a: Ogerpon
+|-status|p1a: Ogerpon|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ogerpon|88/100 tox|[from] Sandstorm
+|-damage|p2a: Adder|45/100 tox|[from] Sandstorm
+|-damage|p1a: Ogerpon|82/100 tox|[from] psn
+|-heal|p2a: Adder|58/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|10
+|
+|t:|1781435985
+|move|p2a: Adder|Protect|p2a: Adder
+|-singleturn|p2a: Adder|Protect
+|move|p1a: Ogerpon|Spikes|p2a: Adder
+|-sidestart|p2: llachiee|Spikes
+|
+|-weather|none
+|-damage|p1a: Ogerpon|70/100 tox|[from] psn
+|-heal|p2a: Adder|70/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|11
+|
+|t:|1781435991
+|move|p1a: Ogerpon|Encore|p2a: Adder
+|-start|p2a: Adder|Encore
+|move|p2a: Adder|Protect||[still]
+|-fail|p2a: Adder
+|
+|-damage|p1a: Ogerpon|51/100 tox|[from] psn
+|-heal|p2a: Adder|83/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|12
+|
+|t:|1781435997
+|move|p2a: Adder|Protect|p2a: Adder
+|-singleturn|p2a: Adder|Protect
+|move|p1a: Ogerpon|Spikes|p2a: Adder
+|-sidestart|p2: llachiee|Spikes
+|
+|-damage|p1a: Ogerpon|27/100 tox|[from] psn
+|-heal|p2a: Adder|95/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|13
+|
+|t:|1781436005
+|switch|p1a: Gholdengo|Gholdengo|88/100
+|switch|p2a: Lash|Toxapex, F, shiny|100/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781436011
+|move|p1a: Gholdengo|Shadow Ball|p2a: Lash
+|-damage|p2a: Lash|73/100
+|move|p2a: Lash|Infestation|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|87/100
+|-activate|p1a: Gholdengo|move: Infestation|[of] p2a: Lash
+|
+|-damage|p1a: Gholdengo|75/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|15
+|
+|t:|1781436020
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Lash|Infestation|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|99/100
+|-activate|p1a: Great Tusk|move: Infestation|[of] p2a: Lash
+|
+|-damage|p1a: Great Tusk|87/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|16
+|
+|t:|1781436031
+|switch|p2a: Adder|Gliscor, F, tera:Ghost|95/100 tox
+|-damage|p2a: Adder|70/100 tox|[from] Spikes
+|move|p1a: Great Tusk|Close Combat|p2a: Adder
+|-immune|p2a: Adder
+|
+|-heal|p2a: Adder|83/100 tox|[from] ability: Poison Heal
+|-end|p1a: Great Tusk|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|turn|17
+|
+|t:|1781436040
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Flygon|Flygon, F, shiny|100/100
+|move|p2a: Adder|Protect||[still]
+|-fail|p2a: Adder
+|
+|-heal|p2a: Adder|95/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|18
+|
+|t:|1781436051
+|switch|p1a: Gholdengo|Gholdengo|75/100
+|switch|p2a: Nell|Clefable, F|100/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781436063
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|switch|p2a: Lash|Toxapex, F, shiny|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Lash|95/100|[from] Sandstorm
+|upkeep
+|turn|20
+|
+|t:|1781436071
+|switch|p2a: Nell|Clefable, F|100/100
+|move|p1a: Tyranitar|Stealth Rock|p2a: Nell
+|-sidestart|p2: llachiee|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781436078
+|switch|p1a: Gholdengo|Gholdengo|75/100
+|move|p2a: Nell|Stealth Rock|p1a: Gholdengo
+|-sidestart|p1: suaiaj|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1781436083
+|switch|p2a: Lash|Toxapex, F, shiny|100/100
+|move|p1a: Gholdengo|Trick|p2a: Lash
+|-activate|p1a: Gholdengo|move: Trick|[of] p2a: Lash
+|-item|p2a: Lash|Choice Scarf|[from] move: Trick
+|-item|p1a: Gholdengo|Heavy-Duty Boots|[from] move: Trick
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Lash|95/100|[from] Sandstorm
+|upkeep
+|turn|23
+|
+|t:|1781436089
+|move|p1a: Gholdengo|Shadow Ball|p2a: Lash
+|-damage|p2a: Lash|66/100
+|move|p2a: Lash|Infestation|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|74/100
+|-activate|p1a: Gholdengo|move: Infestation|[of] p2a: Lash
+|
+|-weather|none
+|-damage|p1a: Gholdengo|62/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|24
+|j| Schlafparalyse
+|
+|t:|1781436098
+|switch|p1a: Great Tusk|Great Tusk|87/100
+|-damage|p1a: Great Tusk|83/100|[from] Stealth Rock
+|switch|p2a: Flesh Tutu|Blissey, F|94/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781436102
+|switch|p2a: Adder|Gliscor, F, tera:Ghost|95/100 tox
+|-damage|p2a: Adder|70/100 tox|[from] Spikes
+|-damage|p2a: Adder|58/100 tox|[from] Stealth Rock
+|move|p1a: Great Tusk|Close Combat|p2a: Adder
+|-immune|p2a: Adder
+|
+|-heal|p2a: Adder|70/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|26
+|
+|t:|1781436108
+|move|p1a: Great Tusk|Earthquake|p2a: Adder
+|-damage|p2a: Adder|36/100 tox
+|move|p2a: Adder|Spikes|p1a: Great Tusk
+|-sidestart|p1: suaiaj|Spikes
+|
+|-heal|p2a: Adder|48/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|27
+|
+|t:|1781436113
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Gholdengo|Gholdengo|62/100
+|move|p2a: Adder|Protect||[still]
+|-fail|p2a: Adder
+|
+|-heal|p2a: Adder|61/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|28
+|
+|t:|1781436116
+|move|p2a: Adder|Protect|p2a: Adder
+|-singleturn|p2a: Adder|Protect
+|move|p1a: Gholdengo|Shadow Ball|p2a: Adder
+|-activate|p2a: Adder|move: Protect
+|
+|-heal|p2a: Adder|73/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|29
+|
+|t:|1781436129
+|switch|p2a: Flesh Tutu|Blissey, F|94/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Flesh Tutu
+|-immune|p2a: Flesh Tutu
+|
+|upkeep
+|turn|30
+|
+|t:|1781436134
+|switch|p1a: Great Tusk|Great Tusk|83/100
+|-damage|p1a: Great Tusk|80/100|[from] Stealth Rock
+|-damage|p1a: Great Tusk|68/100|[from] Spikes
+|move|p2a: Flesh Tutu|Seismic Toss|p1a: Great Tusk
+|-damage|p1a: Great Tusk|42/100
+|
+|upkeep
+|turn|31
+|
+|t:|1781436144
+|switch|p2a: Nell|Clefable, F|100/100
+|move|p1a: Great Tusk|Earthquake|p2a: Nell
+|-damage|p2a: Nell|60/100
+|
+|upkeep
+|turn|32
+|
+|t:|1781436150
+|move|p1a: Great Tusk|Rapid Spin|p2a: Nell
+|-damage|p2a: Nell|44/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: suaiaj|Spikes|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|-sideend|p1: suaiaj|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|move|p2a: Nell|Moonblast|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|j| nngf鬼蝉侠
+|l| nngf鬼蝉侠
+|
+|t:|1781436159
+|switch|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water|27/100 tox
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|turn|33
+|
+|t:|1781436167
+|move|p1a: Ogerpon|Power Whip|p2a: Nell
+|-damage|p2a: Nell|0 fnt
+|faint|p2a: Nell
+|
+|-damage|p1a: Ogerpon|20/100 tox|[from] psn
+|upkeep
+|
+|t:|1781436171
+|switch|p2a: Adder|Gliscor, F, tera:Ghost|73/100 tox
+|-damage|p2a: Adder|48/100 tox|[from] Spikes
+|-damage|p2a: Adder|36/100 tox|[from] Stealth Rock
+|turn|34
+|
+|t:|1781436175
+|move|p2a: Adder|Protect|p2a: Adder
+|-singleturn|p2a: Adder|Protect
+|move|p1a: Ogerpon|Power Whip|p2a: Adder
+|-activate|p2a: Adder|move: Protect
+|
+|-damage|p1a: Ogerpon|8/100 tox|[from] psn
+|-heal|p2a: Adder|48/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|35
+|
+|t:|1781436179
+|move|p1a: Ogerpon|Encore|p2a: Adder
+|-start|p2a: Adder|Encore
+|move|p2a: Adder|Protect||[still]
+|-fail|p2a: Adder
+|
+|-damage|p1a: Ogerpon|0 fnt|[from] psn
+|faint|p1a: Ogerpon
+|detailschange|p1: Ogerpon|Ogerpon-Wellspring, F|[silent]
+|-heal|p2a: Adder|61/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781436182
+|switch|p1a: Flygon|Flygon, F, shiny|100/100
+|turn|36
+|
+|t:|1781436185
+|move|p2a: Adder|Protect|p2a: Adder
+|-singleturn|p2a: Adder|Protect
+|move|p1a: Flygon|Earth Power|p2a: Adder
+|-activate|p2a: Adder|move: Protect
+|
+|-heal|p2a: Adder|73/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|37
+|
+|t:|1781436189
+|switch|p2a: Sturm|Corviknight, F, shiny|100/100
+|-damage|p2a: Sturm|88/100|[from] Stealth Rock
+|-ability|p2a: Sturm|Pressure
+|move|p1a: Flygon|Earth Power|p2a: Sturm
+|-immune|p2a: Sturm
+|
+|-heal|p2a: Sturm|94/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1781436193
+|switch|p1a: Gholdengo|Gholdengo|62/100
+|switch|p2a: Flesh Tutu|Blissey, F|94/100
+|
+|upkeep
+|turn|39
+|
+|t:|1781436200
+|move|p1a: Gholdengo|Focus Blast|p2a: Flesh Tutu
+|-supereffective|p2a: Flesh Tutu
+|-damage|p2a: Flesh Tutu|71/100
+|move|p2a: Flesh Tutu|Seismic Toss|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|
+|upkeep
+|turn|40
+|
+|t:|1781436209
+|move|p1a: Gholdengo|Focus Blast|p2a: Flesh Tutu
+|-supereffective|p2a: Flesh Tutu
+|-damage|p2a: Flesh Tutu|46/100
+|move|p2a: Flesh Tutu|Seismic Toss|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|
+|upkeep
+|turn|41
+|
+|t:|1781436218
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Flesh Tutu|Soft-Boiled|p2a: Flesh Tutu
+|-heal|p2a: Flesh Tutu|96/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Flesh Tutu|90/100|[from] Sandstorm
+|upkeep
+|turn|42
+|
+|t:|1781436225
+|switch|p2a: Lash|Toxapex, F, shiny|99/100
+|-damage|p2a: Lash|74/100|[from] Spikes
+|-damage|p2a: Lash|62/100|[from] Stealth Rock
+|move|p1a: Tyranitar|Knock Off|p2a: Lash
+|-crit|p2a: Lash
+|-damage|p2a: Lash|15/100
+|-enditem|p2a: Lash|Choice Scarf|[from] move: Knock Off|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Lash|9/100|[from] Sandstorm
+|upkeep
+|turn|43
+|-message|llachiee forfeited.
+|
+|win|suaiaj
+|raw|suaiaj's rating: 1603 &rarr; <strong>1626</strong><br />(+23 for winning)
+|raw|llachiee's rating: 1653 &rarr; <strong>1630</strong><br />(-23 for losing)
+|l|☆llachiee
+|player|p2|
+|l| Schlafparalyse
+|l|☆suaiaj
+|player|p1|

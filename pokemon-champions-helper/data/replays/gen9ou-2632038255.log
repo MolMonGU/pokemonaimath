@@ -1,0 +1,362 @@
+|j|☆LetsgoBrandonJ
+|j|☆LowEL0God
+|t:|1781468757
+|gametype|singles
+|player|p1|LetsgoBrandonJ|palmer|1615
+|player|p2|LowEL0God|265|1593
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Excadrill, F|
+|poke|p1|Keldeo-Resolute|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Heatran, F|
+|poke|p1|Hydrapple, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, F|
+|poke|p2|Barraskewda, M|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LetsgoBrandonJ)
+|c|☆LowEL0God|hf
+|inactive|LowEL0God also wants the timer to be on.
+|
+|t:|1781468770
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|1
+|
+|t:|1781468780
+|move|p1a: Tornadus|U-turn|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|89/100
+|
+|t:|1781468783
+|switch|p1a: Excadrill|Excadrill, F|100/100|[from] U-turn
+|-item|p1a: Excadrill|Air Balloon
+|move|p2a: Raging Bolt|Thunder|p1a: Excadrill
+|-immune|p1a: Excadrill
+|
+|upkeep
+|turn|2
+|
+|t:|1781468805
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|j| laggybaggy516
+|
+|t:|1781468817
+|move|p1a: Tyranitar|Stone Edge|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-crit|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781468818
+|switch|p2a: Raging Bolt|Raging Bolt|89/100
+|turn|4
+|
+|t:|1781468828
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Raging Bolt|Weather Ball|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|18/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Heatran|24/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781468838
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Raging Bolt|Thunder|p1a: Tyranitar
+|-damage|p1a: Tyranitar|60/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Raging Bolt|82/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1781468850
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Tyranitar|Ice Punch|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|83/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Kingambit|90/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781468864
+|switch|p1a: Heatran|Heatran, F|24/100
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Heatran|31/100|[from] item: Leftovers
+|-heal|p2a: Kingambit|96/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781468874
+|move|p2a: Kingambit|Sucker Punch|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781468887
+|switch|p1a: Keldeo|Keldeo-Resolute|100/100
+|turn|9
+|l| laggybaggy516
+|
+|t:|1781468907
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Raging Bolt|Raging Bolt|82/100
+|move|p1a: Keldeo|Surf|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|53/100
+|
+|-weather|none
+|upkeep
+|turn|10
+|
+|t:|1781468916
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|-item|p1a: Excadrill|Air Balloon
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|46/100
+|-unboost|p2a: Raging Bolt|spa|2
+|-enditem|p1a: Excadrill|Air Balloon
+|
+|upkeep
+|turn|11
+|
+|t:|1781468926
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Excadrill|Earthquake|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|21/100
+|
+|-heal|p2a: Kingambit|27/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781468936
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|
+|-heal|p2a: Kingambit|33/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781468944
+|move|p2a: Kingambit|Iron Head|p1a: Hydrapple
+|-damage|p1a: Hydrapple|72/100
+|-damage|p2a: Kingambit|17/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|cant|p1a: Hydrapple|flinch
+|
+|-heal|p2a: Kingambit|23/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781468952
+|move|p2a: Kingambit|Iron Head|p1a: Hydrapple
+|-damage|p1a: Hydrapple|41/100
+|-damage|p2a: Kingambit|6/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|cant|p1a: Hydrapple|flinch
+|
+|-heal|p2a: Kingambit|13/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781468961
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Hydrapple
+|-damage|p1a: Hydrapple|8/100
+|-damage|p2a: Kingambit|0 fnt|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Hydrapple|Giga Drain|p2: Kingambit|[notarget]
+|-fail|p1a: Hydrapple
+|
+|upkeep
+|
+|t:|1781468962
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|16
+|
+|t:|1781468974
+|switch|p1a: Keldeo|Keldeo-Resolute|100/100
+|move|p2a: Barraskewda|Liquidation|p1a: Keldeo
+|-resisted|p1a: Keldeo
+|-crit|p1a: Keldeo
+|-damage|p1a: Keldeo|39/100
+|-unboost|p1a: Keldeo|def|1
+|
+|upkeep
+|turn|17
+|
+|t:|1781468987
+|move|p1a: Keldeo|Vacuum Wave|p2a: Barraskewda
+|-damage|p2a: Barraskewda|33/100
+|move|p2a: Barraskewda|Liquidation|p1a: Keldeo
+|-resisted|p1a: Keldeo
+|-damage|p1a: Keldeo|0 fnt
+|faint|p1a: Keldeo
+|
+|upkeep
+|
+|t:|1781469001
+|switch|p1a: Hydrapple|Hydrapple, M|42/100
+|turn|18
+|
+|t:|1781469006
+|switch|p2a: Overqwil|Overqwil, F|100/100
+|switch|p1a: Tyranitar|Tyranitar, M|60/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Overqwil|95/100|[from] Sandstorm
+|upkeep
+|turn|19
+|
+|t:|1781469021
+|move|p2a: Overqwil|Liquidation|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|-damage|p2a: Overqwil|85/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Overqwil|79/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781469030
+|switch|p1a: Excadrill|Excadrill, F|46/100
+|turn|20
+|
+|t:|1781469033
+|-terastallize|p2a: Overqwil|Water
+|move|p1a: Excadrill|Earthquake|p2a: Overqwil
+|-damage|p2a: Overqwil|12/100
+|move|p2a: Overqwil|Liquidation|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|-damage|p2a: Overqwil|2/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Overqwil|0 fnt|[from] Sandstorm
+|faint|p2a: Overqwil
+|upkeep
+|j| Partynparadise
+|
+|t:|1781469048
+|switch|p1a: Hydrapple|Hydrapple, M|75/100
+|switch|p2a: Raging Bolt|Raging Bolt|53/100
+|turn|21
+|
+|t:|1781469056
+|-terastallize|p1a: Hydrapple|Fairy
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Hydrapple
+|-immune|p1a: Hydrapple
+|move|p1a: Hydrapple|Fickle Beam|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hydrapple|69/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781469057
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|22
+|l| Partynparadise
+|
+|t:|1781469073
+|move|p2a: Iron Treads|Steel Beam|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|0 fnt
+|-damage|p2a: Iron Treads|50/100|[from] steelbeam
+|faint|p1a: Hydrapple
+|
+|-weather|none
+|upkeep
+|
+|t:|1781469080
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|turn|23
+|
+|t:|1781469085
+|move|p2a: Iron Treads|Steel Beam|p1a: Tornadus
+|-damage|p1a: Tornadus|46/100
+|-damage|p2a: Iron Treads|0 fnt|[from] steelbeam
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|move|p1a: Tornadus|Heat Wave|p2: Iron Treads|[notarget]
+|-fail|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1781469086
+|switch|p2a: Barraskewda|Barraskewda, M|33/100
+|turn|24
+|
+|t:|1781469095
+|move|p2a: Barraskewda|Liquidation|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|win|LowEL0God
+|raw|LetsgoBrandonJ's rating: 1615 &rarr; <strong>1594</strong><br />(-21 for losing)
+|raw|LowEL0God's rating: 1593 &rarr; <strong>1614</strong><br />(+21 for winning)
+|l|☆LetsgoBrandonJ
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|
+|j| Partynparadise

@@ -1,0 +1,450 @@
+|j|☆SofteLocke
+|j|☆XianTwa
+|t:|1780893871
+|gametype|singles
+|player|p1|SofteLocke|265|1505
+|player|p2|XianTwa|dawn|1564
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torkoal, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Walking Wake|
+|poke|p1|Blaziken, M|
+|poke|p1|Great Tusk|
+|poke|p1|Rillaboom, F|
+|poke|p2|Zoroark-Hisui, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Great Tusk|
+|poke|p2|Garganacl, M|
+|poke|p2|Pecharunt|
+|poke|p2|Alomomola, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by XianTwa)
+|
+|t:|1780893886
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|1
+|
+|t:|1780893896
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Great Tusk|Close Combat|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|74/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1780893901
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1780893905
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Rillaboom|Knock Off|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|51/100
+|-enditem|p2a: Pecharunt|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Rillaboom
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Pecharunt|57/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1780893908
+|move|p1a: Rillaboom|Knock Off|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|25/100
+|move|p2a: Pecharunt|Recover|p2a: Pecharunt
+|-heal|p2a: Pecharunt|75/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Pecharunt|82/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1780893914
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Pecharunt|Malignant Chain|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|78/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Great Tusk|84/100|[from] Grassy Terrain
+|-heal|p2a: Pecharunt|88/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1780893930
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Alomomola
+|-damage|p2a: Alomomola|45/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Great Tusk|90/100|[from] Grassy Terrain
+|-heal|p2a: Alomomola|52/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1780893940
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Ogerpon
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|46/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1780893951
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|move|p2a: Ogerpon|Horn Leech|p1a: Walking Wake
+|-crit|p1a: Walking Wake
+|-damage|p1a: Walking Wake|32/100
+|-heal|p2a: Ogerpon|85/100|[from] drain|[of] p1a: Walking Wake
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1780893960
+|switch|p2a: Alomomola|Alomomola, F|85/100
+|move|p1a: Walking Wake|Draco Meteor|p2a: Alomomola
+|-damage|p2a: Alomomola|28/100
+|-unboost|p1a: Walking Wake|spa|2
+|
+|-weather|none
+|-end|p1a: Walking Wake|Protosynthesis
+|upkeep
+|turn|9
+|
+|t:|1780893973
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Alomomola|Flip Turn|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|91/100
+|
+|t:|1780893976
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] Flip Turn
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1780893980
+|switch|p1a: Hatterene|Hatterene, F|74/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Hatterene
+|-damage|p1a: Hatterene|4/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1780893986
+|move|p2a: Great Tusk|Rapid Spin|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-boost|p2a: Great Tusk|spe|1
+|faint|p1a: Hatterene
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1780893988
+|switch|p1a: Walking Wake|Walking Wake|32/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|12
+|
+|t:|1780893994
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, F|61/100
+|move|p1a: Walking Wake|Dragon Pulse|p2a: Alomomola
+|-crit|p2a: Alomomola
+|-damage|p2a: Alomomola|10/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1780894004
+|-terastallize|p2a: Alomomola|Fairy
+|move|p1a: Walking Wake|Dragon Pulse|p2a: Alomomola
+|-immune|p2a: Alomomola
+|move|p2a: Alomomola|Flip Turn|p1a: Walking Wake
+|-resisted|p1a: Walking Wake
+|-damage|p1a: Walking Wake|30/100
+|
+|t:|1780894014
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|85/100|[from] Flip Turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1780894016
+|switch|p2a: Alomomola|Alomomola, F, tera:Fairy|43/100
+|move|p1a: Walking Wake|Dragon Pulse|p2a: Alomomola
+|-immune|p2a: Alomomola
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1780894021
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Great Tusk|Great Tusk|90/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Alomomola|Flip Turn|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|73/100
+|
+|t:|1780894034
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] Flip Turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1780894040
+|move|p2a: Ogerpon|Shadow Ball|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1780894048
+|switch|p1a: Torkoal|Torkoal, M|91/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|17
+|
+|t:|1780894055
+|move|p2a: Ogerpon|Shadow Ball|p1a: Torkoal
+|-damage|p1a: Torkoal|17/100
+|-unboost|p1a: Torkoal|spd|1
+|move|p1a: Torkoal|Stealth Rock|p2a: Ogerpon
+|-sidestart|p2: XianTwa|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1780894065
+|move|p2a: Ogerpon|Shadow Ball|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1780894068
+|switch|p1a: Walking Wake|Walking Wake|30/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|19
+|j| Easontom
+|
+|t:|1780894076
+|move|p1a: Walking Wake|Hydro Steam|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|replace|p2a: Zoroark|Zoroark-Hisui, F
+|-end|p2a: Zoroark|Illusion
+|faint|p2a: Zoroark
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1780894080
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|85/100
+|-damage|p2a: Ogerpon|72/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1780894087
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Ogerpon|Horn Leech|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|70/100
+|-heal|p2a: Ogerpon|90/100|[from] drain|[of] p1a: Rillaboom
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Ogerpon|96/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|76/100|[from] Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1780894093
+|switch|p2a: Pecharunt|Pecharunt|88/100
+|-damage|p2a: Pecharunt|75/100|[from] Stealth Rock
+|move|p1a: Rillaboom|U-turn|p2a: Pecharunt
+|-resisted|p2a: Pecharunt
+|-damage|p2a: Pecharunt|71/100
+|
+|t:|1780894096
+|switch|p1a: Blaziken|Blaziken, M|100/100|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Pecharunt|77/100|[from] Grassy Terrain
+|upkeep
+|turn|22
+|
+|t:|1780894106
+|move|p1a: Blaziken|Overheat|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|-unboost|p1a: Blaziken|spa|2
+|faint|p2a: Pecharunt
+|
+|-weather|SunnyDay|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1780894114
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|23
+|
+|t:|1780894124
+|switch|p1a: Rillaboom|Rillaboom, F|76/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|32/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Rillaboom|38/100|[from] Grassy Terrain
+|upkeep
+|turn|24
+|
+|t:|1780894131
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Garganacl|Garganacl, M|100/100
+|-damage|p2a: Garganacl|88/100|[from] Stealth Rock
+|move|p1a: Rillaboom|Grassy Glide|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|12/100
+|
+|-weather|none
+|-heal|p1a: Rillaboom|44/100|[from] Grassy Terrain
+|-heal|p2a: Garganacl|19/100|[from] Grassy Terrain
+|-heal|p2a: Garganacl|25/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|25
+|
+|t:|1780894138
+|move|p1a: Rillaboom|Grassy Glide|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|faint|p2a: Garganacl
+|
+|upkeep
+|
+|t:|1780894145
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|26
+|
+|t:|1780894150
+|switch|p1a: Walking Wake|Walking Wake|30/100
+|move|p2a: Great Tusk|Ice Spinner|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780894152
+|switch|p1a: Rillaboom|Rillaboom, F|44/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|27
+|inactive|XianTwa has 120 seconds left.
+|
+|t:|1780894186
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, F, tera:Fairy|76/100
+|-damage|p2a: Alomomola|64/100|[from] Stealth Rock
+|-terastallize|p1a: Rillaboom|Grass
+|move|p1a: Rillaboom|Grassy Glide|p2a: Alomomola
+|-crit|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|
+|-heal|p1a: Rillaboom|50/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1780894189
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|96/100
+|-damage|p2a: Ogerpon|84/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1780894195
+|move|p1a: Rillaboom|Grassy Glide|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|-heal|p1a: Rillaboom|56/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1780894198
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|29
+|
+|t:|1780894200
+|move|p1a: Rillaboom|Grassy Glide|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|win|SofteLocke
+|raw|SofteLocke's rating: 1505 &rarr; <strong>1528</strong><br />(+23 for winning)
+|raw|XianTwa's rating: 1564 &rarr; <strong>1541</strong><br />(-23 for losing)
+|l|☆XianTwa
+|player|p2|
+|l|☆SofteLocke
+|player|p1|
+|l| Easontom

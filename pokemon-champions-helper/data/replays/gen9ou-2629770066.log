@@ -1,0 +1,300 @@
+|j|☆Topclass-A
+|j|☆KurisuChestnutOU
+|t:|1781177865
+|gametype|singles
+|player|p1|Topclass-A|bellelba|1496
+|player|p2|KurisuChestnutOU|may-contest|1529
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Pecharunt|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Cinderace, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Primarina, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Kommo-o, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Kyurem|
+|poke|p2|Iron Treads|
+|poke|p2|Iron Crown|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Topclass-A)
+|
+|t:|1781177870
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Khaos|Hoopa-Unbound|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|inactive|KurisuChestnutOU also wants the timer to be on.
+|
+|t:|1781177885
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Khaos|Hyperspace Fury|p2a: Iron Treads
+|-damage|p2a: Iron Treads|30/100
+|-unboost|p1a: Khaos|def|1
+|
+|upkeep
+|turn|2
+|
+|t:|1781177892
+|switch|p1a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Enten|Intimidate|boost
+|-unboost|p2a: Iron Treads|atk|1
+|move|p2a: Iron Treads|Stealth Rock|p1a: Enten
+|-sidestart|p1: Topclass-A|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781177897
+|move|p2a: Iron Treads|Endeavor|p1a: Enten
+|-damage|p1a: Enten|36/100
+|move|p1a: Enten|Earthquake|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781177903
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|4
+|
+|t:|1781177907
+|switch|p1a: Overseer|Pecharunt|100/100
+|move|p2a: Iron Valiant|Moonblast|p1a: Overseer
+|-resisted|p1a: Overseer
+|-damage|p1a: Overseer|76/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781177912
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Overseer|Parting Shot|p2a: Kingambit
+|-unboost|p2a: Kingambit|atk|1
+|-unboost|p2a: Kingambit|spa|1
+|
+|t:|1781177914
+|switch|p1a: Liberacy|Cinderace, M, shiny|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|6
+|
+|t:|1781177922
+|move|p1a: Liberacy|Court Change|p1a: Liberacy
+|-start|p1a: Liberacy|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: Liberacy|move: Court Change
+|move|p2a: Kingambit|Low Kick|p1a: Liberacy
+|-supereffective|p1a: Liberacy
+|-damage|p1a: Liberacy|55/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781177929
+|move|p1a: Liberacy|High Jump Kick|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen1|[silent]
+|
+|upkeep
+|
+|t:|1781177935
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-damage|p2a: Iron Crown|94/100|[from] Stealth Rock
+|-enditem|p2a: Iron Crown|Booster Energy
+|-activate|p2a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Crown|quarkdrivespe
+|turn|8
+|
+|t:|1781177942
+|move|p1a: Liberacy|Sucker Punch||[still]
+|-fail|p1a: Liberacy
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1781177949
+|-terastallize|p2a: Iron Crown|Fighting
+|move|p2a: Iron Crown|Psychic Noise|p1a: Liberacy
+|-damage|p1a: Liberacy|0 fnt
+|faint|p1a: Liberacy
+|
+|upkeep
+|
+|t:|1781177952
+|switch|p1a: Primarina|Primarina, F|100/100
+|turn|10
+|
+|t:|1781177959
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Primarina
+|-damage|p1a: Primarina|79/100
+|-damage|p1a: Primarina|57/100
+|-hitcount|p1a: Primarina|2
+|move|p1a: Primarina|Moonblast|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|32/100
+|-unboost|p2a: Iron Crown|spa|1
+|
+|upkeep
+|turn|11
+|inactive|Topclass-A has 120 seconds left.
+|
+|t:|1781178006
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Primarina
+|-damage|p1a: Primarina|43/100
+|-damage|p1a: Primarina|27/100
+|-hitcount|p1a: Primarina|2
+|move|p1a: Primarina|Moonblast|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781178014
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-damage|p2a: Iron Valiant|94/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781178044
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Primarina
+|-damage|p1a: Primarina|10/100
+|move|p1a: Primarina|Moonblast|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781178048
+|switch|p2a: Kommo-o|Kommo-o, M|100/100
+|-damage|p2a: Kommo-o|94/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1781178064
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|69/100
+|move|p1a: Primarina|Moonblast|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|
+|-heal|p2a: Kommo-o|75/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781178068
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|50/100
+|move|p1a: Primarina|Moonblast|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|
+|-heal|p2a: Kommo-o|57/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781178072
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|32/100
+|move|p1a: Primarina|Moonblast|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-crit|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|
+|-heal|p2a: Kommo-o|38/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781178079
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|13/100
+|move|p1a: Primarina|Moonblast|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|
+|-heal|p2a: Kommo-o|19/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781178083
+|move|p2a: Kommo-o|Shadow Claw|p1a: Primarina
+|-crit|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|faint|p1a: Primarina
+|
+|-heal|p2a: Kommo-o|25/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781178087
+|switch|p1a: Enten|Landorus-Therian, M, shiny|36/100
+|-ability|p1a: Enten|Intimidate|boost
+|-unboost|p2a: Kommo-o|atk|1
+|turn|18
+|
+|t:|1781178093
+|switch|p2a: Kyurem|Kyurem|100/100
+|-damage|p2a: Kyurem|76/100|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Enten|Earthquake|p2a: Kyurem
+|-damage|p2a: Kyurem|18/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781178107
+|move|p1a: Enten|Earthquake|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781178113
+|switch|p2a: Kommo-o|Kommo-o, M|25/100
+|-damage|p2a: Kommo-o|19/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1781178121
+|move|p1a: Enten|Earthquake|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|
+|win|Topclass-A
+|raw|Topclass-A's rating: 1496 &rarr; <strong>1519</strong><br />(+23 for winning)
+|raw|KurisuChestnutOU's rating: 1545 &rarr; <strong>1522</strong><br />(-23 for losing)

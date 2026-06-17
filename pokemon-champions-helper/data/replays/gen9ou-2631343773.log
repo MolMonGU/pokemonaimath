@@ -1,0 +1,209 @@
+|j|‽Cte plays
+|j|☆extra-pseudo man
+|t:|1781373651
+|gametype|singles
+|player|p1|Cte plays|brendan|1609
+|player|p2|extra-pseudo man|102|1638
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Scizor, F|
+|poke|p1|Kyurem|
+|poke|p1|Cinderace, F|
+|poke|p1|Primarina, F|
+|poke|p1|Zapdos|
+|poke|p1|Iron Valiant|
+|poke|p2|Dragonite, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Tyranitar, F|
+|poke|p2|Metagross|
+|poke|p2|Goodra-Hisui, M|
+|poke|p2|Garchomp, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Cte plays)
+|
+|t:|1781373670
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Primarina|Primarina, F, shiny|100/100
+|switch|p2a: Marill me|Garchomp, F|100/100
+|turn|1
+|
+|t:|1781373680
+|switch|p2a: The goot|Goodra-Hisui, M|100/100
+|move|p1a: Primarina|Moonblast|p2a: The goot
+|-damage|p2a: The goot|63/100
+|-unboost|p2a: The goot|spa|1
+|
+|upkeep
+|turn|2
+|
+|t:|1781373688
+|move|p1a: Primarina|Moonblast|p2a: The goot
+|-damage|p2a: The goot|28/100
+|move|p2a: The goot|Thunderbolt|p1a: Primarina
+|-supereffective|p1a: Primarina
+|-damage|p1a: Primarina|43/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781373695
+|switch|p2a: Tyranocif|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranocif
+|move|p1a: Primarina|Moonblast|p2a: Tyranocif
+|-supereffective|p2a: Tyranocif
+|-damage|p2a: Tyranocif|63/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Primarina|36/100|[from] Sandstorm
+|-heal|p2a: Tyranocif|70/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781373709
+|move|p1a: Primarina|Moonblast|p2a: Tyranocif
+|-supereffective|p2a: Tyranocif
+|-damage|p2a: Tyranocif|32/100
+|move|p2a: Tyranocif|Knock Off|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|5/100
+|-enditem|p1a: Primarina|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tyranocif
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Primarina|0 fnt|[from] Sandstorm
+|faint|p1a: Primarina
+|-heal|p2a: Tyranocif|38/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781373730
+|switch|p1a: Scizor|Scizor, F, shiny|100/100
+|turn|5
+|
+|t:|1781373734
+|switch|p2a: Marill me|Garchomp, F|100/100
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781373741
+|move|p2a: Marill me|Fire Fang|p1a: Scizor
+|-supereffective|p1a: Scizor
+|-damage|p1a: Scizor|18/100
+|move|p1a: Scizor|Knock Off|p2a: Marill me
+|-damage|p2a: Marill me|52/100
+|-damage|p1a: Scizor|5/100|[from] ability: Rough Skin|[of] p2a: Marill me
+|-damage|p1a: Scizor|0 fnt|[from] item: Rocky Helmet|[of] p2a: Marill me
+|faint|p1a: Scizor
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781373759
+|switch|p1a: Kyurem|Kyurem, shiny|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|7
+|
+|t:|1781373769
+|switch|p2a: The goot|Goodra-Hisui, M|28/100
+|move|p1a: Kyurem|Icicle Spear|p2a: The goot
+|-damage|p2a: The goot|14/100
+|-damage|p2a: The goot|0 fnt
+|faint|p2a: The goot
+|-hitcount|p2: The goot|2
+|
+|-weather|none
+|upkeep
+|
+|t:|1781373782
+|switch|p2a: Tyranocif|Tyranitar, F|38/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranocif
+|turn|8
+|
+|t:|1781373792
+|switch|p1a: Iron Valiant|Iron Valiant, shiny|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Tyranocif|Knock Off|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|92/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Valiant|86/100|[from] Sandstorm
+|-heal|p2a: Tyranocif|44/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781373804
+|switch|p2a: kaboom|Metagross|100/100
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Valiant|79/100|[from] Sandstorm
+|upkeep
+|turn|10
+|
+|t:|1781373815
+|-terastallize|p1a: Iron Valiant|Ghost
+|move|p1a: Iron Valiant|Shadow Ball|p2a: kaboom
+|-supereffective|p2a: kaboom
+|-damage|p2a: kaboom|0 fnt
+|faint|p2a: kaboom
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Valiant|73/100|[from] Sandstorm
+|upkeep
+|j| LOTRsucks
+|j| KangkongNation
+|
+|t:|1781373831
+|switch|p2a: He pulten on it|Dragapult, M|100/100
+|turn|11
+|l| KangkongNation
+|
+|t:|1781373835
+|-terastallize|p2a: He pulten on it|Fairy
+|move|p1a: Iron Valiant|Moonblast|p2a: He pulten on it
+|-damage|p2a: He pulten on it|13/100
+|-unboost|p2a: He pulten on it|spa|1
+|move|p2a: He pulten on it|Hex|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|27/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Valiant|21/100|[from] Sandstorm
+|-damage|p2a: He pulten on it|7/100|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1781373849
+|move|p1a: Iron Valiant|Moonblast|p2a: He pulten on it
+|-damage|p2a: He pulten on it|0 fnt
+|faint|p2a: He pulten on it
+|
+|-weather|none
+|upkeep
+|-message|extra-pseudo man forfeited.
+|
+|win|Cte plays
+|raw|Cte plays's rating: 1609 &rarr; <strong>1631</strong><br />(+22 for winning)
+|raw|extra-pseudo man's rating: 1638 &rarr; <strong>1616</strong><br />(-22 for losing)
+|l|☆extra-pseudo man
+|player|p2|
+|l| LOTRsucks

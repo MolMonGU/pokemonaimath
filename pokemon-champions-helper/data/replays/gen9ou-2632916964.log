@@ -1,0 +1,388 @@
+|j|☆Uberzilla
+|j|☆Humerus_Skelepun
+|t:|1781578409
+|gametype|singles
+|player|p1|Uberzilla|miku-flying|1602
+|player|p2|Humerus_Skelepun|169|1591
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Valiant|
+|poke|p1|Dragonite, M|
+|poke|p1|Araquanid, M|
+|poke|p1|Iron Moth|
+|poke|p1|Great Tusk|
+|poke|p1|Raging Bolt|
+|poke|p2|Meloetta|
+|poke|p2|Kingambit, F|
+|poke|p2|Great Tusk|
+|poke|p2|Alomomola, F|
+|poke|p2|Enamorus, F|
+|poke|p2|Cinderace, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Humerus_Skelepun)
+|
+|t:|1781578416
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Amnion|Araquanid, M|100/100
+|switch|p2a: Meloetta|Meloetta|100/100
+|turn|1
+|j| richieleo0802
+|
+|t:|1781578419
+|move|p2a: Meloetta|Relic Song|p1a: Amnion
+|-damage|p1a: Amnion|77/100
+|-status|p1a: Amnion|slp|[from] move: Relic Song
+|-formechange|p2a: Meloetta|Meloetta-Pirouette|[msg]
+|cant|p1a: Amnion|slp
+|
+|upkeep
+|turn|2
+|
+|t:|1781578425
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|cant|p1a: Amnion|slp
+|
+|upkeep
+|turn|3
+|
+|t:|1781578429
+|move|p2a: Enamorus|Moonblast|p1a: Amnion
+|-damage|p1a: Amnion|35/100 slp
+|-unboost|p1a: Amnion|spa|1
+|-curestatus|p1a: Amnion|slp|[msg]
+|move|p1a: Amnion|Liquidation|p2a: Enamorus
+|-damage|p2a: Enamorus|5/100
+|
+|upkeep
+|turn|4
+|l| richieleo0802
+|
+|t:|1781578436
+|switch|p1a: Melville|Iron Moth|100/100
+|-enditem|p1a: Melville|Booster Energy
+|-activate|p1a: Melville|ability: Quark Drive|[fromitem]
+|-start|p1a: Melville|quarkdrivespa
+|move|p2a: Enamorus|Moonblast|p1a: Melville
+|-resisted|p1a: Melville
+|-damage|p1a: Melville|86/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781578439
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Melville|Fiery Dance|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|85/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781578443
+|move|p1a: Melville|Substitute|p1a: Melville
+|-start|p1a: Melville|Substitute
+|-damage|p1a: Melville|61/100
+|move|p2a: Alomomola|Flip Turn|p1a: Melville
+|-supereffective|p1a: Melville
+|-end|p1a: Melville|Substitute
+|
+|t:|1781578447
+|switch|p2a: Enamorus|Enamorus, F|5/100|[from] Flip Turn
+|
+|upkeep
+|turn|7
+|
+|t:|1781578452
+|move|p2a: Enamorus|Earth Power|p1a: Melville
+|-supereffective|p1a: Melville
+|-damage|p1a: Melville|0 fnt
+|faint|p1a: Melville
+|-end|p1a: Melville|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781578458
+|switch|p1a: Mikiya|Dragonite, M|100/100
+|turn|8
+|
+|t:|1781578462
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|switch|p1a: Marcus Aurelius|Great Tusk|100/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781578464
+|-end|p1a: Marcus Aurelius|Protosynthesis|[silent]
+|switch|p1a: Franklin|Raging Bolt|100/100
+|move|p2a: Alomomola|Scald|p1a: Franklin
+|-resisted|p1a: Franklin
+|-damage|p1a: Franklin|95/100
+|-status|p1a: Franklin|brn
+|
+|-heal|p1a: Franklin|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Franklin|94/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1781578477
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Franklin|Dragon Pulse|p2a: Great Tusk
+|-damage|p2a: Great Tusk|36/100
+|
+|-heal|p1a: Franklin|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Franklin|94/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781578483
+|-end|p1a: Franklin|Protosynthesis|[silent]
+|switch|p1a: Marcus Aurelius|Great Tusk|100/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Marcus Aurelius
+|-damage|p1a: Marcus Aurelius|55/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-damage|p2a: Great Tusk|19/100|[from] item: Rocky Helmet|[of] p1a: Marcus Aurelius
+|
+|upkeep
+|turn|12
+|
+|t:|1781578490
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Marcus Aurelius|Rapid Spin|p2a: Alomomola
+|-damage|p2a: Alomomola|87/100
+|-boost|p1a: Marcus Aurelius|spe|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781578493
+|move|p1a: Marcus Aurelius|Stealth Rock|p2a: Alomomola
+|-sidestart|p2: Humerus_Skelepun|move: Stealth Rock
+|move|p2a: Alomomola|Flip Turn|p1a: Marcus Aurelius
+|-supereffective|p1a: Marcus Aurelius
+|-damage|p1a: Marcus Aurelius|29/100
+|-damage|p2a: Alomomola|71/100|[from] item: Rocky Helmet|[of] p1a: Marcus Aurelius
+|
+|t:|1781578500
+|switch|p2a: Great Tusk|Great Tusk|19/100|[from] Flip Turn
+|
+|upkeep
+|turn|14
+|
+|t:|1781578504
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|-damage|p2a: Alomomola|88/100|[from] Stealth Rock
+|move|p1a: Marcus Aurelius|Ice Spinner|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|78/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781578509
+|move|p1a: Marcus Aurelius|Headlong Rush|p2a: Alomomola
+|-damage|p2a: Alomomola|35/100
+|-unboost|p1a: Marcus Aurelius|def|1
+|-unboost|p1a: Marcus Aurelius|spd|1
+|move|p2a: Alomomola|Flip Turn|p1a: Marcus Aurelius
+|-supereffective|p1a: Marcus Aurelius
+|-damage|p1a: Marcus Aurelius|0 fnt
+|-damage|p2a: Alomomola|19/100|[from] item: Rocky Helmet|[of] p1a: Marcus Aurelius
+|faint|p1a: Marcus Aurelius
+|-end|p1a: Marcus Aurelius|Protosynthesis|[silent]
+|
+|t:|1781578514
+|switch|p2a: Great Tusk|Great Tusk|19/100|[from] Flip Turn
+|
+|upkeep
+|
+|t:|1781578527
+|switch|p1a: Shiki|Iron Valiant|100/100
+|-enditem|p1a: Shiki|Booster Energy
+|-activate|p1a: Shiki|ability: Quark Drive|[fromitem]
+|-start|p1a: Shiki|quarkdrivespe
+|turn|16
+|
+|t:|1781578532
+|move|p1a: Shiki|Moonblast|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781578535
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|turn|17
+|inactive|Humerus_Skelepun has 120 seconds left.
+|
+|t:|1781578566
+|move|p1a: Shiki|Psyshock|p2a: Cinderace
+|-damage|p2a: Cinderace|68/100
+|move|p2a: Cinderace|Pyro Ball|p1a: Shiki
+|-damage|p1a: Shiki|39/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781578569
+|move|p1a: Shiki|Close Combat|p2a: Cinderace
+|-damage|p2a: Cinderace|9/100
+|-unboost|p1a: Shiki|def|1
+|-unboost|p1a: Shiki|spd|1
+|move|p2a: Cinderace|Pyro Ball|p1a: Shiki
+|-damage|p1a: Shiki|0 fnt
+|faint|p1a: Shiki
+|-end|p1a: Shiki|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781578576
+|switch|p1a: Mikiya|Dragonite, M|100/100
+|turn|19
+|
+|t:|1781578591
+|move|p1a: Mikiya|Extreme Speed|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|upkeep
+|
+|t:|1781578593
+|switch|p2a: Alomomola|Alomomola, F|52/100
+|-damage|p2a: Alomomola|39/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1781578597
+|switch|p1a: Franklin|Raging Bolt|94/100 brn
+|move|p2a: Alomomola|Scald|p1a: Franklin
+|-resisted|p1a: Franklin
+|-damage|p1a: Franklin|89/100 brn
+|
+|-heal|p1a: Franklin|95/100 brn|[from] item: Leftovers
+|-damage|p1a: Franklin|89/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1781578600
+|-terastallize|p2a: Alomomola|Normal
+|move|p1a: Franklin|Thunderbolt|p2a: Alomomola
+|-damage|p2a: Alomomola|12/100
+|move|p2a: Alomomola|Mirror Coat|p1a: Franklin
+|-damage|p1a: Franklin|31/100 brn
+|
+|-heal|p1a: Franklin|37/100 brn|[from] item: Leftovers
+|-damage|p1a: Franklin|31/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1781578612
+|move|p1a: Franklin|Thunderbolt|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|
+|-heal|p1a: Franklin|37/100 brn|[from] item: Leftovers
+|-damage|p1a: Franklin|31/100 brn|[from] brn
+|upkeep
+|
+|t:|1781578618
+|switch|p2a: Meloetta|Meloetta|100/100
+|-damage|p2a: Meloetta|88/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1781578625
+|move|p2a: Meloetta|Close Combat|p1a: Franklin
+|-damage|p1a: Franklin|0 fnt
+|-unboost|p2a: Meloetta|def|1
+|-unboost|p2a: Meloetta|spd|1
+|faint|p1a: Franklin
+|-end|p1a: Franklin|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781578628
+|switch|p1a: Amnion|Araquanid, M|35/100
+|turn|24
+|
+|t:|1781578634
+|move|p2a: Meloetta|Close Combat|p1a: Amnion
+|-resisted|p1a: Amnion
+|-damage|p1a: Amnion|10/100
+|-unboost|p2a: Meloetta|def|1
+|-unboost|p2a: Meloetta|spd|1
+|move|p1a: Amnion|Liquidation|p2a: Meloetta
+|-damage|p2a: Meloetta|0 fnt
+|faint|p2a: Meloetta
+|
+|upkeep
+|
+|t:|1781578640
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|25
+|-enditem|p1a: Amnion|Custap Berry|[eat]
+|-activate|p1a: Amnion|item: Custap Berry|[consumed]
+|
+|t:|1781578643
+|move|p1a: Amnion|Endeavor|p2a: Kingambit
+|-damage|p2a: Kingambit|10/100
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|17/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781578654
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Amnion
+|-damage|p1a: Amnion|0 fnt
+|faint|p1a: Amnion
+|
+|-heal|p2a: Kingambit|23/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781578657
+|switch|p1a: Mikiya|Dragonite, M|100/100
+|turn|27
+|
+|t:|1781578660
+|move|p2a: Kingambit|Sucker Punch|p1a: Mikiya
+|-damage|p1a: Mikiya|39/100
+|move|p1a: Mikiya|Fire Punch|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen4|[silent]
+|
+|upkeep
+|
+|t:|1781578663
+|switch|p2a: Enamorus|Enamorus, F|5/100
+|-damage|p2a: Enamorus|0 fnt|[from] Stealth Rock
+|faint|p2a: Enamorus
+|
+|win|Uberzilla
+|raw|Uberzilla's rating: 1602 &rarr; <strong>1621</strong><br />(+19 for winning)
+|raw|Humerus_Skelepun's rating: 1591 &rarr; <strong>1572</strong><br />(-19 for losing)
+|l|☆Humerus_Skelepun
+|player|p2|
+|l|☆Uberzilla
+|player|p1|

@@ -1,0 +1,216 @@
+|j|☆halaman95
+|j|☆Igoodnamename
+|t:|1781015377
+|gametype|singles
+|player|p1|halaman95|101|1753
+|player|p2|Igoodnamename|aaron|1695
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Rillaboom, M|
+|poke|p1|Iron Crown|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Garganacl, F|
+|poke|p1|Hawlucha, M|
+|poke|p1|Hatterene, F|
+|poke|p2|Gholdengo|
+|poke|p2|Zamazenta-*|
+|poke|p2|Moltres|
+|poke|p2|Ting-Lu|
+|poke|p2|Serperior, M|
+|poke|p2|Kyurem|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by halaman95)
+|
+|t:|1781015388
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1781015396
+|move|p1a: Rillaboom|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|-enditem|p2a: Gholdengo|Metal Coat|[from] move: Knock Off|[of] p1a: Rillaboom
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781015401
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|2
+|
+|t:|1781015410
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|move|p2a: Kyurem|Earth Power|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|48/100
+|
+|-heal|p1a: Iron Crown|54/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781015417
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|
+|-heal|p1a: Iron Crown|60/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781015422
+|move|p1a: Iron Crown|Focus Blast|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|51/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-crit|p1a: Iron Crown
+|-damage|p1a: Iron Crown|2/100
+|
+|-heal|p1a: Iron Crown|8/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|57/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|64/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781015429
+|move|p1a: Iron Crown|Focus Blast|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-crit|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|-heal|p1a: Iron Crown|14/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781015433
+|switch|p2a: Serperior|Serperior, M|100/100
+|turn|6
+|
+|t:|1781015437
+|move|p2a: Serperior|Leaf Storm|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|-boost|p2a: Serperior|spa|2
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781015442
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|7
+|
+|t:|1781015447
+|-terastallize|p2a: Serperior|Grass
+|move|p2a: Serperior|Leaf Storm|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|-boost|p2a: Serperior|spa|2
+|faint|p1a: Rillaboom
+|
+|upkeep
+|
+|t:|1781015452
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p1a: Hawlucha|Grassy Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Grassy Seed
+|turn|8
+|
+|t:|1781015459
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Hawlucha|Acrobatics|p2a: Moltres
+|-damage|p2a: Moltres|65/100
+|-status|p1a: Hawlucha|brn|[from] ability: Flame Body|[of] p2a: Moltres
+|
+|-damage|p1a: Hawlucha|94/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1781015464
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Moltres|U-turn|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|91/100 brn
+|
+|t:|1781015467
+|switch|p2a: Zamazenta|Zamazenta|100/100|[from] U-turn
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|
+|-damage|p1a: Hawlucha|85/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1781015479
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-damage|p1a: Hawlucha|79/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781015488
+|switch|p2a: Moltres|Moltres|65/100
+|move|p1a: Hawlucha|Acrobatics|p2a: Moltres
+|-damage|p2a: Moltres|14/100
+|
+|-damage|p1a: Hawlucha|73/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781015491
+|move|p1a: Hawlucha|Acrobatics|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|
+|-damage|p1a: Hawlucha|67/100 brn|[from] brn
+|upkeep
+|
+|t:|1781015497
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|turn|13
+|
+|t:|1781015502
+|move|p1a: Hawlucha|Acrobatics|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|-damage|p1a: Hawlucha|61/100 brn|[from] brn
+|upkeep
+|-message|Igoodnamename forfeited.
+|
+|win|halaman95
+|raw|halaman95's rating: 1753 &rarr; <strong>1770</strong><br />(+17 for winning)
+|raw|Igoodnamename's rating: 1695 &rarr; <strong>1678</strong><br />(-17 for losing)
+|l|☆Igoodnamename
+|player|p2|
+|l|☆halaman95
+|player|p1|

@@ -1,0 +1,391 @@
+|j|☆Rj yoip
+|j|☆KurisuChestnutOU
+|t:|1781137599
+|gametype|singles
+|player|p1|Rj yoip|caitlin-masters|1550
+|player|p2|KurisuChestnutOU|may-contest|1600
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Hydrapple, F|
+|poke|p1|Enamorus, F|
+|poke|p1|Garganacl, F|
+|poke|p1|Excadrill, M|
+|poke|p1|Alomomola, F|
+|poke|p2|Hawlucha, F|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Gholdengo|
+|poke|p2|Kyurem|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Rj yoip)
+|
+|t:|1781137606
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|turn|1
+|
+|t:|1781137610
+|move|p2a: Samurott|Flip Turn|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|71/100
+|
+|t:|1781137619
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from] Flip Turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garganacl|atk|1
+|move|p1a: Garganacl|Salt Cure|p2a: Landorus
+|-damage|p2a: Landorus|91/100
+|-start|p2a: Landorus|Salt Cure
+|
+|-heal|p1a: Garganacl|77/100|[from] item: Leftovers
+|-damage|p2a: Landorus|79/100|[from] Salt Cure
+|upkeep
+|turn|2
+|
+|t:|1781137626
+|move|p2a: Landorus|U-turn|p1a: Garganacl
+|-damage|p1a: Garganacl|65/100
+|
+|t:|1781137630
+|switch|p2a: Rillaboom|Rillaboom, F|100/100|[from] U-turn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Garganacl|Stealth Rock|p2a: Rillaboom
+|-sidestart|p2: KurisuChestnutOU|move: Stealth Rock
+|
+|-heal|p1a: Garganacl|71/100|[from] Grassy Terrain
+|-heal|p1a: Garganacl|77/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781137634
+|switch|p2a: Kyurem|Kyurem|100/100
+|-damage|p2a: Kyurem|76/100|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Garganacl|Protect||[still]
+|-fail|p1a: Garganacl
+|
+|-heal|p2a: Kyurem|82/100|[from] Grassy Terrain
+|-heal|p1a: Garganacl|83/100|[from] Grassy Terrain
+|-heal|p1a: Garganacl|89/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781137649
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Kyurem|Focus Blast|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kyurem|76/100|[from] Sandstorm
+|-heal|p2a: Kyurem|82/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781137651
+|switch|p1a: Garganacl|Garganacl, F|89/100
+|turn|5
+|
+|t:|1781137656
+|switch|p2a: Landorus|Landorus-Therian, M|79/100
+|-damage|p2a: Landorus|66/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garganacl|atk|1
+|move|p1a: Garganacl|Salt Cure|p2a: Landorus
+|-damage|p2a: Landorus|57/100
+|-start|p2a: Landorus|Salt Cure
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Garganacl|96/100|[from] Grassy Terrain
+|-heal|p1a: Garganacl|100/100|[from] item: Leftovers
+|-damage|p2a: Landorus|45/100|[from] Salt Cure
+|upkeep
+|turn|6
+|
+|t:|1781137659
+|move|p2a: Landorus|Stealth Rock|p1a: Garganacl
+|-sidestart|p1: Rj yoip|move: Stealth Rock
+|move|p1a: Garganacl|Salt Cure|p2a: Landorus
+|-damage|p2a: Landorus|36/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Landorus|23/100|[from] Salt Cure
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781137663
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Landorus|Earth Power|p1a: Garganacl
+|-activate|p1a: Garganacl|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Landorus|11/100|[from] Salt Cure
+|upkeep
+|turn|8
+|
+|t:|1781137668
+|move|p2a: Landorus|Earth Power|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|73/100
+|move|p1a: Garganacl|Recover|p1a: Garganacl
+|-heal|p1a: Garganacl|100/100
+|
+|-weather|none
+|-damage|p2a: Landorus|0 fnt|[from] Salt Cure
+|faint|p2a: Landorus
+|upkeep
+|
+|t:|1781137671
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|94/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1781137675
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Gholdengo|Make It Rain|p1a: Garganacl
+|-activate|p1a: Garganacl|move: Protect
+|
+|upkeep
+|turn|10
+|
+|t:|1781137678
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-damage|p2a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|-damage|p1a: Alomomola|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Rillaboom|94/100|[from] Grassy Terrain
+|-heal|p1a: Alomomola|94/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781137681
+|switch|p1a: Hydrapple|Hydrapple, F|100/100
+|-damage|p1a: Hydrapple|88/100|[from] Stealth Rock
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|
+|-heal|p2a: Rillaboom|100/100|[from] Grassy Terrain
+|-heal|p1a: Hydrapple|94/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781137685
+|switch|p2a: Kyurem|Kyurem|82/100
+|-damage|p2a: Kyurem|57/100|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Hydrapple|Fickle Beam|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|16/100
+|
+|-heal|p2a: Kyurem|22/100|[from] Grassy Terrain
+|-heal|p1a: Hydrapple|99/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781137693
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|-damage|p1a: Alomomola|88/100|[from] Stealth Rock
+|move|p2a: Kyurem|Ice Beam|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|75/100
+|
+|-heal|p2a: Kyurem|28/100|[from] Grassy Terrain
+|-heal|p1a: Alomomola|81/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1781137699
+|move|p2a: Kyurem|Freeze-Dry|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|39/100
+|move|p1a: Alomomola|Flip Turn|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|19/100
+|
+|t:|1781137702
+|switch|p1a: Enamorus|Enamorus, F|100/100|[from] Flip Turn
+|-damage|p1a: Enamorus|76/100|[from] Stealth Rock
+|
+|-heal|p2a: Kyurem|26/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1781137705
+|move|p1a: Enamorus|Moonblast|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781137709
+|switch|p2a: Gholdengo|Gholdengo|94/100
+|-damage|p2a: Gholdengo|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781137716
+|switch|p1a: Alomomola|Alomomola, F|72/100
+|-damage|p1a: Alomomola|60/100|[from] Stealth Rock
+|move|p2a: Gholdengo|Shadow Ball|p1a: Alomomola
+|-damage|p1a: Alomomola|35/100
+|-unboost|p1a: Alomomola|spd|1
+|
+|upkeep
+|turn|17
+|
+|t:|1781137720
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|-damage|p2a: Hawlucha|88/100|[from] Stealth Rock
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|-damage|p1a: Garganacl|88/100|[from] Stealth Rock
+|
+|-heal|p1a: Garganacl|94/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781137724
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|move|p1a: Garganacl|Salt Cure|p2a: Hawlucha
+|-crit|p2a: Hawlucha
+|-damage|p2a: Hawlucha|63/100
+|-start|p2a: Hawlucha|Salt Cure
+|
+|-heal|p1a: Garganacl|100/100|[from] item: Leftovers
+|-damage|p2a: Hawlucha|50/100|[from] Salt Cure
+|upkeep
+|turn|19
+|
+|t:|1781137728
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Hawlucha|Acrobatics|p1a: Garganacl
+|-activate|p1a: Garganacl|move: Protect
+|
+|-damage|p2a: Hawlucha|38/100|[from] Salt Cure
+|upkeep
+|turn|20
+|
+|t:|1781137731
+|switch|p1a: Hydrapple|Hydrapple, F|100/100
+|-damage|p1a: Hydrapple|88/100|[from] Stealth Rock
+|move|p2a: Hawlucha|Acrobatics|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|36/100
+|-damage|p2a: Hawlucha|21/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|
+|-damage|p2a: Hawlucha|9/100|[from] Salt Cure
+|upkeep
+|turn|21
+|
+|t:|1781137734
+|move|p2a: Hawlucha|Low Kick|p1a: Hydrapple
+|-damage|p1a: Hydrapple|0 fnt
+|-damage|p2a: Hawlucha|0 fnt|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|faint|p1a: Hydrapple
+|faint|p2a: Hawlucha
+|
+|upkeep
+|
+|t:|1781137740
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|switch|p1a: Alomomola|Alomomola, F|69/100
+|-damage|p2a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|-damage|p1a: Alomomola|56/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781137745
+|-terastallize|p1a: Alomomola|Poison
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|move|p1a: Alomomola|Scald|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|79/100
+|
+|-heal|p2a: Rillaboom|85/100|[from] Grassy Terrain
+|-heal|p1a: Alomomola|62/100|[from] Grassy Terrain
+|upkeep
+|turn|23
+|
+|t:|1781137749
+|move|p2a: Rillaboom|Knock Off|p1a: Alomomola
+|-damage|p1a: Alomomola|16/100
+|-enditem|p1a: Alomomola|Assault Vest|[from] move: Knock Off|[of] p2a: Rillaboom
+|move|p1a: Alomomola|Scald|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|77/100
+|
+|-heal|p2a: Rillaboom|83/100|[from] Grassy Terrain
+|-heal|p1a: Alomomola|22/100|[from] Grassy Terrain
+|upkeep
+|turn|24
+|
+|t:|1781137756
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|-damage|p1a: Excadrill|97/100|[from] Stealth Rock
+|move|p2a: Rillaboom|Grassy Glide|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|-heal|p2a: Rillaboom|89/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781137761
+|switch|p1a: Enamorus|Enamorus, F|76/100
+|-damage|p1a: Enamorus|51/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1781137768
+|move|p2a: Rillaboom|Grassy Glide|p1a: Enamorus
+|-resisted|p1a: Enamorus
+|-damage|p1a: Enamorus|0 fnt
+|faint|p1a: Enamorus
+|
+|-heal|p2a: Rillaboom|95/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781137771
+|switch|p1a: Alomomola|Alomomola, F, tera:Poison|55/100
+|-damage|p1a: Alomomola|43/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1781137779
+|move|p2a: Rillaboom|Wood Hammer|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|faint|p1a: Alomomola
+|-damage|p2a: Rillaboom|77/100|[from] Recoil
+|
+|-heal|p2a: Rillaboom|84/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|-message|Rj yoip forfeited.
+|
+|win|KurisuChestnutOU
+|raw|Rj yoip's rating: 1550 &rarr; <strong>1532</strong><br />(-18 for losing)
+|raw|KurisuChestnutOU's rating: 1580 &rarr; <strong>1598</strong><br />(+18 for winning)
+|l|☆Rj yoip
+|player|p1|

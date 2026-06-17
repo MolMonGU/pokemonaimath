@@ -1,0 +1,260 @@
+|j|☆talveznao
+|j|☆lolcano46
+|t:|1781563639
+|gametype|singles
+|player|p1|talveznao|evelyn|1609
+|player|p2|lolcano46|fisherman-gen4|1591
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Kingambit, M|
+|poke|p1|Glimmora, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Great Tusk|
+|poke|p2|Azelf|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Scizor, M|
+|poke|p2|Gengar, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Cinderace, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lolcano46)
+|
+|t:|1781563657
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|switch|p2a: Gengar|Gengar, M|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|1
+|
+|t:|1781563663
+|move|p2a: Gengar|Shadow Ball|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|1/100
+|move|p1a: Deoxys|Light Screen|p1a: Deoxys
+|-sidestart|p1: talveznao|move: Light Screen
+|
+|upkeep
+|turn|2
+|
+|t:|1781563671
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-item|p1a: Kingambit|Air Balloon
+|move|p2a: Gengar|Shadow Ball|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|91/100
+|-enditem|p1a: Kingambit|Air Balloon
+|
+|upkeep
+|turn|3
+|
+|t:|1781563675
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Cinderace
+|-damage|p2a: Cinderace|29/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781563681
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Deoxys|Deoxys-Speed|1/100
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Cinderace|Will-O-Wisp|p1a: Deoxys
+|-status|p1a: Deoxys|brn
+|
+|-damage|p1a: Deoxys|0 fnt|[from] brn
+|faint|p1a: Deoxys
+|upkeep
+|
+|t:|1781563684
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|turn|5
+|
+|t:|1781563688
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-start|p2a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|move|p1a: Glimmora|Meteor Beam||[still]
+|-prepare|p1a: Glimmora|Meteor Beam
+|-boost|p1a: Glimmora|spa|1
+|-enditem|p1a: Glimmora|Power Herb
+|-anim|p1a: Glimmora|Meteor Beam|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|upkeep
+|
+|t:|1781563690
+|switch|p2a: Azelf|Azelf|100/100
+|turn|6
+|
+|t:|1781563714
+|move|p2a: Azelf|Mystical Power|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-boost|p2a: Azelf|spa|1
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1781563720
+|switch|p1a: Kingambit|Kingambit, M|91/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|turn|7
+|
+|t:|1781563729
+|-terastallize|p2a: Azelf|Fairy
+|move|p1a: Kingambit|Sucker Punch|p2a: Azelf
+|-resisted|p2a: Azelf
+|-damage|p2a: Azelf|62/100
+|move|p2a: Azelf|Flamethrower|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen2|[silent]
+|
+|upkeep
+|
+|t:|1781563737
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|8
+|
+|t:|1781563766
+|move|p2a: Azelf|Mystical Power|p1a: Ogerpon
+|-damage|p1a: Ogerpon|40/100
+|-boost|p2a: Azelf|spa|1
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Azelf|[anim] Ivy Cudgel Water
+|-damage|p2a: Azelf|0 fnt
+|faint|p2a: Azelf
+|
+|-sideend|p2: lolcano46|move: Light Screen
+|upkeep
+|
+|t:|1781563772
+|switch|p2a: Gengar|Gengar, M|100/100
+|turn|9
+|
+|t:|1781563777
+|move|p2a: Gengar|Sludge Bomb|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1781563780
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|10
+|
+|t:|1781563782
+|move|p1a: Iron Valiant|Knock Off|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|-enditem|p2a: Gengar|Choice Scarf|[from] move: Knock Off|[of] p1a: Iron Valiant
+|faint|p2a: Gengar
+|
+|upkeep
+|
+|t:|1781563784
+|switch|p2a: Scizor|Scizor, M|100/100
+|turn|11
+|
+|t:|1781563788
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisspe
+|move|p2a: Scizor|Bullet Punch|p1a: Great Tusk
+|-damage|p1a: Great Tusk|78/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781563794
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781563812
+|-terastallize|p1a: Great Tusk|Ice
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Great Tusk|[anim] Ivy Cudgel Water
+|-damage|p1a: Great Tusk|61/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781563819
+|move|p1a: Great Tusk|Close Combat|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781563822
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|15
+|
+|t:|1781563828
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781563831
+|switch|p1a: Great Tusk|Great Tusk, tera:Ice|61/100
+|turn|16
+|
+|t:|1781563834
+|move|p1a: Great Tusk|Headlong Rush|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|9/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|win|lolcano46
+|raw|talveznao's rating: 1609 &rarr; <strong>1588</strong><br />(-21 for losing)
+|raw|lolcano46's rating: 1591 &rarr; <strong>1612</strong><br />(+21 for winning)
+|l|☆lolcano46
+|player|p2|
+|l|☆talveznao
+|player|p1|

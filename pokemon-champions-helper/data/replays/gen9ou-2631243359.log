@@ -1,0 +1,306 @@
+|j|☆healorant
+|j|☆cachowcapow
+|t:|1781362566
+|gametype|singles
+|player|p1|healorant|alder|1753
+|player|p2|cachowcapow|170|1756
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ceruledge, F|
+|poke|p1|Glimmora, M|
+|poke|p1|Great Tusk|
+|poke|p1|Walking Wake|
+|poke|p1|Kingambit, M|
+|poke|p1|Iron Valiant|
+|poke|p2|Primarina, M|
+|poke|p2|Slither Wing|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Great Tusk|
+|poke|p2|Meowscarada, M|
+|poke|p2|Gardevoir, M|
+|teampreview
+|
+|t:|1781362581
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|turn|1
+|
+|t:|1781362585
+|move|p1a: Glimmora|Stealth Rock|p2a: Slowking
+|-sidestart|p2: cachowcapow|move: Stealth Rock
+|move|p2a: Slowking|Thunder Wave|p1a: Glimmora
+|-status|p1a: Glimmora|par
+|
+|upkeep
+|turn|2
+|
+|t:|1781362590
+|move|p1a: Glimmora|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|70/100
+|move|p2a: Slowking|Future Sight|p1a: Glimmora
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|3
+|
+|t:|1781362593
+|cant|p1a: Glimmora|par
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781362596
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781362608
+|move|p2a: Great Tusk|Rapid Spin|p1a: Glimmora
+|-resisted|p1a: Glimmora
+|-damage|p1a: Glimmora|95/100 par
+|-boost|p2a: Great Tusk|spe|1
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: cachowcapow|move: Toxic Spikes
+|-sideend|p2: cachowcapow|Toxic Spikes|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|-sideend|p2: cachowcapow|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|-enditem|p1a: Glimmora|Red Card|[of] p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|drag|p2a: Meowscarada|Meowscarada, M|100/100
+|cant|p1a: Glimmora|par
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Glimmora|move: Future Sight
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|upkeep
+|
+|t:|1781362630
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-enditem|p1a: Walking Wake|Booster Energy
+|-activate|p1a: Walking Wake|ability: Protosynthesis|[fromitem]
+|-start|p1a: Walking Wake|protosynthesisspa
+|turn|5
+|
+|t:|1781362636
+|move|p2a: Meowscarada|U-turn|p1a: Walking Wake
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p1a: Walking Wake|62/100
+|
+|t:|1781362637
+|switch|p2a: Primarina|Primarina, M, shiny|100/100|[from] U-turn
+|move|p1a: Walking Wake|Dragon Pulse|p2a: Primarina
+|-immune|p2a: Primarina
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781362644
+|move|p1a: Walking Wake|Surf|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|72/100
+|move|p2a: Primarina|Calm Mind|p2a: Primarina
+|-boost|p2a: Primarina|spa|1
+|-boost|p2a: Primarina|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Primarina|79/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781362651
+|move|p1a: Walking Wake|Surf|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|62/100
+|move|p2a: Primarina|Draining Kiss|p1a: Walking Wake
+|-supereffective|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|-heal|p2a: Primarina|100/100|[from] drain|[of] p1a: Walking Wake
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781362655
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|-item|p1a: Kingambit|Air Balloon
+|turn|8
+|
+|t:|1781362658
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|move|p2a: Primarina|Psychic Noise|p1a: Kingambit
+|-damage|p1a: Kingambit|48/100
+|-start|p1a: Kingambit|move: Heal Block
+|-enditem|p1a: Kingambit|Air Balloon
+|
+|upkeep
+|turn|9
+|
+|t:|1781362665
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|move|p1a: Kingambit|Iron Head|p2a: Slither Wing
+|-damage|p2a: Slither Wing|26/100
+|-damage|p1a: Kingambit|31/100|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|
+|-end|p1a: Kingambit|move: Heal Block
+|upkeep
+|turn|10
+|
+|t:|1781362672
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisspe
+|move|p2a: Slither Wing|First Impression|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|88/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781362675
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|move|p2a: Slither Wing|Morning Sun|p2a: Slither Wing
+|-heal|p2a: Slither Wing|76/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781362679
+|move|p1a: Great Tusk|Taunt|p2a: Slither Wing
+|-start|p2a: Slither Wing|move: Taunt
+|cant|p2a: Slither Wing|move: Taunt|Will-O-Wisp
+|
+|upkeep
+|turn|13
+|
+|t:|1781362681
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|move|p2a: Slither Wing|U-turn|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|83/100
+|
+|t:|1781362695
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Primarina|Primarina, M, shiny|100/100|[from] U-turn
+|
+|upkeep
+|turn|14
+|
+|t:|1781362699
+|move|p1a: Great Tusk|Headlong Rush|p2a: Primarina
+|-damage|p2a: Primarina|11/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Primarina|Draining Kiss|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|3/100
+|-heal|p2a: Primarina|84/100|[from] drain|[of] p1a: Great Tusk
+|
+|-heal|p2a: Primarina|90/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781362703
+|switch|p2a: Slither Wing|Slither Wing|76/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-damage|p2a: Slither Wing|38/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|0 fnt|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781362705
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|-item|p1a: Ceruledge|Air Balloon
+|turn|16
+|
+|t:|1781362710
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|upkeep
+|turn|17
+|
+|t:|1781362715
+|move|p2a: Great Tusk|Headlong Rush|p1a: Ceruledge
+|-immune|p1a: Ceruledge
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|upkeep
+|turn|18
+|
+|t:|1781362721
+|move|p2a: Great Tusk|Knock Off|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|5/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|-enditem|p1a: Ceruledge|Air Balloon
+|move|p1a: Ceruledge|Bitter Blade|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|-heal|p1a: Ceruledge|69/100|[from] drain|[of] p2a: Great Tusk
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781362733
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|turn|19
+|
+|t:|1781362741
+|-terastallize|p1a: Ceruledge|Ghost
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Meowscarada
+|-resisted|p2a: Meowscarada
+|-damage|p2a: Meowscarada|27/100
+|move|p2a: Meowscarada|Knock Off|p1a: Ceruledge
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|upkeep
+|-message|healorant forfeited.
+|
+|win|cachowcapow
+|raw|healorant's rating: 1753 &rarr; <strong>1733</strong><br />(-20 for losing)
+|raw|cachowcapow's rating: 1756 &rarr; <strong>1776</strong><br />(+20 for winning)
+|l|☆healorant
+|player|p1|
+|l|☆cachowcapow
+|player|p2|

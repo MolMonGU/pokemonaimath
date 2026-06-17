@@ -1,0 +1,268 @@
+|badge|p2|bronze|gen9ou|100-9
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆newgensbetter
+|j|☆dsekop
+|t:|1781587591
+|gametype|singles
+|player|p1|newgensbetter|unknownf|1766
+|player|p2|dsekop|unknown|1830
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Gholdengo|
+|poke|p1|Dragonite, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Great Tusk|
+|poke|p1|Iron Valiant|
+|poke|p1|Ting-Lu|
+|poke|p2|Glimmora, F|
+|poke|p2|Iron Treads|
+|poke|p2|Polteageist-Antique|
+|poke|p2|Raging Bolt|
+|poke|p2|Dragonite, F|
+|poke|p2|Zamazenta-*|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by dsekop)
+|
+|t:|1781587598
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Great Neck|Raging Bolt|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781587602
+|-end|p1a: Great Neck|Protosynthesis|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: Great Tusk
+|-sidestart|p1: newgensbetter|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781587607
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Polteageist|Polteageist-Antique|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Polteageist
+|-enditem|p2a: Polteageist|Focus Sash
+|-damage|p2a: Polteageist|1/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-ability|p2a: Polteageist|Weak Armor|boost
+|-unboost|p2a: Polteageist|def|1
+|-boost|p2a: Polteageist|spe|2
+|
+|upkeep
+|turn|3
+|
+|t:|1781587614
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-damage|p1a: Ting-Lu|94/100|[from] Stealth Rock
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Polteageist|Pain Split|p1a: Ting-Lu
+|-sethp|p1a: Ting-Lu|47/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Polteageist|93/100|[from] move: Pain Split
+|
+|-heal|p1a: Ting-Lu|54/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781587618
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Ting-Lu|Earthquake|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|40/100
+|
+|-heal|p1a: Ting-Lu|60/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781587629
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|97/100|[from] Stealth Rock
+|move|p2a: Iron Treads|Endeavor|p1a: Great Tusk
+|-damage|p1a: Great Tusk|35/100
+|-damage|p2a: Iron Treads|23/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|6
+|
+|t:|1781587635
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Polteageist|Polteageist-Antique|93/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Polteageist
+|-damage|p2a: Polteageist|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Polteageist
+|
+|upkeep
+|
+|t:|1781587641
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|turn|7
+|
+|t:|1781587646
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ting-Lu|Ting-Lu|60/100
+|-damage|p1a: Ting-Lu|54/100|[from] Stealth Rock
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Glimmora|Energy Ball|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|22/100
+|
+|-heal|p1a: Ting-Lu|28/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781587654
+|switch|p1a: Great Neck|Raging Bolt|100/100
+|-damage|p1a: Great Neck|88/100|[from] Stealth Rock
+|move|p2a: Glimmora|Energy Ball|p1a: Great Neck
+|-resisted|p1a: Great Neck
+|-damage|p1a: Great Neck|73/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781587658
+|switch|p2a: Iron Treads|Iron Treads|23/100
+|move|p1a: Great Neck|Volt Switch|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|
+|upkeep
+|turn|10
+|
+|t:|1781587665
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|-end|p1a: Great Neck|Protosynthesis|[silent]
+|switch|p1a: Great Tusk|Great Tusk|35/100
+|-damage|p1a: Great Tusk|32/100|[from] Stealth Rock
+|
+|upkeep
+|turn|11
+|
+|t:|1781587671
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|move|p2a: Glimmora|Energy Ball|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|97/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781587675
+|switch|p2a: Iron Treads|Iron Treads|23/100
+|move|p1a: Dragonite|Earthquake|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781587686
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|13
+|
+|t:|1781587699
+|move|p1a: Dragonite|Earthquake|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|33/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1781587703
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|14
+|
+|t:|1781587706
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1781587711
+|-terastallize|p1a: Iron Valiant|Ghost
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Glimmora|Sludge Wave|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|72/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781587715
+|switch|p2a: Raging Bolt|Raging Bolt|33/100
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|17
+|
+|t:|1781587719
+|move|p1a: Iron Valiant|Moonblast|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781587726
+|switch|p2a: 快龙一定要快|Dragonite, F|100/100
+|turn|18
+|
+|t:|1781587731
+|-terastallize|p2a: 快龙一定要快|Normal
+|move|p1a: Iron Valiant|Moonblast|p2a: 快龙一定要快
+|-crit|p2a: 快龙一定要快
+|-damage|p2a: 快龙一定要快|28/100
+|move|p2a: 快龙一定要快|Earthquake|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|1/100
+|
+|upkeep
+|turn|19
+|-message|dsekop forfeited.
+|
+|win|newgensbetter
+|raw|newgensbetter's rating: 1766 &rarr; <strong>1790</strong><br />(+24 for winning)
+|raw|dsekop's rating: 1830 &rarr; <strong>1806</strong><br />(-24 for losing)
+|l|☆dsekop
+|player|p2|
+|l|☆newgensbetter
+|player|p1|

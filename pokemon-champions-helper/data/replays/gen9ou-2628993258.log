@@ -1,0 +1,360 @@
+|j|☆ankoro
+|j|☆ihymyly
+|t:|1781085493
+|gametype|singles
+|player|p1|ankoro|acetrainer-gen2|1592
+|player|p2|ihymyly|1|1599
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Corviknight, M|
+|poke|p1|Cinderace, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Kyurem|
+|poke|p1|Dragonite, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Kingdra, M|
+|poke|p2|Zapdos|
+|poke|p2|Kingambit, F|
+|poke|p2|Iron Treads|
+|poke|p2|Iron Valiant|
+|teampreview
+|j| lord shiddenfards
+|
+|t:|1781085510
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: ecdysis|Kyurem|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-ability|p1a: ecdysis|Pressure
+|turn|1
+|
+|t:|1781085521
+|switch|p1a: The Rooster|Corviknight, M|100/100
+|-ability|p1a: The Rooster|Pressure
+|move|p2a: Iron Treads|Knock Off|p1a: The Rooster
+|-damage|p1a: The Rooster|82/100
+|-damage|p2a: Iron Treads|84/100|[from] item: Rocky Helmet|[of] p1a: The Rooster
+|-enditem|p1a: The Rooster|Rocky Helmet|[from] move: Knock Off|[of] p2a: Iron Treads
+|
+|-heal|p2a: Iron Treads|90/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781085527
+|move|p2a: Iron Treads|Stealth Rock|p1a: The Rooster
+|-sidestart|p1: ankoro|move: Stealth Rock
+|move|p1a: The Rooster|Body Press|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|48/100
+|
+|-heal|p2a: Iron Treads|54/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781085533
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: The Rooster|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|95/100
+|-status|p1a: The Rooster|par|[from] ability: Static|[of] p2a: Zapdos
+|
+|t:|1781085540
+|switch|p1a: ecdysis|Kyurem|100/100|[from] U-turn
+|-damage|p1a: ecdysis|76/100|[from] Stealth Rock
+|-ability|p1a: ecdysis|Pressure
+|
+|upkeep
+|turn|4
+|
+|t:|1781085543
+|switch|p2a: Iron Treads|Iron Treads|54/100
+|move|p1a: ecdysis|Ice Beam|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781085553
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|5
+|
+|t:|1781085560
+|switch|p1a: rei malandro|Slowking-Galar, M|100/100
+|move|p2a: Iron Valiant|Knock Off|p1a: rei malandro
+|-supereffective|p1a: rei malandro
+|-damage|p1a: rei malandro|46/100
+|-enditem|p1a: rei malandro|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Iron Valiant
+|
+|upkeep
+|turn|6
+|
+|t:|1781085564
+|move|p2a: Iron Valiant|Knock Off|p1a: rei malandro
+|-supereffective|p1a: rei malandro
+|-damage|p1a: rei malandro|9/100
+|move|p1a: rei malandro|Sludge Bomb|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781085569
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|7
+|
+|t:|1781085572
+|move|p2a: Pelipper|U-turn|p1a: rei malandro
+|-damage|p1a: rei malandro|1/100
+|
+|t:|1781085583
+|switch|p2a: Kingambit|Kingambit, F|100/100|[from] U-turn
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|-item|p2a: Kingambit|Air Balloon
+|move|p1a: rei malandro|Future Sight|p2a: Kingambit
+|-start|p1a: rei malandro|move: Future Sight
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781085588
+|move|p2a: Kingambit|Kowtow Cleave|p1a: rei malandro
+|-supereffective|p1a: rei malandro
+|-crit|p1a: rei malandro
+|-damage|p1a: rei malandro|0 fnt
+|faint|p1a: rei malandro
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781085594
+|switch|p1a: Lagosta de agosto|Crawdaunt, M|100/100
+|-damage|p1a: Lagosta de agosto|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1781085605
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Zapdos|Zapdos|95/100
+|move|p1a: Lagosta de agosto|Crabhammer|p2a: Zapdos|[miss]
+|-miss|p1a: Lagosta de agosto|p2a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|-end|p2a: Zapdos|move: Future Sight
+|-damage|p2a: Zapdos|53/100
+|upkeep
+|turn|10
+|
+|t:|1781085615
+|switch|p1a: Paquebet|Cinderace, M|100/100
+|move|p2a: Zapdos|Thunder|p1a: Paquebet
+|-damage|p1a: Paquebet|38/100
+|-status|p1a: Paquebet|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781085620
+|move|p2a: Zapdos|Thunder|p1a: Paquebet
+|-damage|p1a: Paquebet|0 fnt
+|faint|p1a: Paquebet
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781085624
+|switch|p1a: The Rooster|Corviknight, M|82/100 par
+|-damage|p1a: The Rooster|70/100 par|[from] Stealth Rock
+|-ability|p1a: The Rooster|Pressure
+|turn|12
+|
+|t:|1781085629
+|-terastallize|p1a: The Rooster|Dragon
+|move|p2a: Zapdos|Thunder|p1a: The Rooster
+|-resisted|p1a: The Rooster
+|-damage|p1a: The Rooster|47/100 par
+|move|p1a: The Rooster|Defog|p2a: Zapdos
+|-unboost|p2a: Zapdos|evasion|1
+|-sideend|p1: ankoro|Stealth Rock|[from] move: Defog|[of] p1a: The Rooster
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781085635
+|move|p2a: Zapdos|Hurricane|p1a: The Rooster
+|-damage|p1a: The Rooster|4/100 par
+|move|p1a: The Rooster|Roost|p1a: The Rooster
+|-heal|p1a: The Rooster|54/100 par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781085640
+|move|p2a: Zapdos|Hurricane|p1a: The Rooster
+|-damage|p1a: The Rooster|11/100 par
+|-start|p1a: The Rooster|confusion
+|-activate|p1a: The Rooster|confusion
+|move|p1a: The Rooster|Roost|p1a: The Rooster
+|-heal|p1a: The Rooster|61/100 par
+|
+|-weather|none
+|upkeep
+|turn|15
+|
+|t:|1781085645
+|move|p2a: Zapdos|U-turn|p1a: The Rooster
+|-damage|p1a: The Rooster|53/100 par
+|
+|t:|1781085648
+|switch|p2a: Pelipper|Pelipper, M|100/100|[from] U-turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|-activate|p1a: The Rooster|confusion
+|move|p1a: The Rooster|U-turn|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|95/100
+|
+|t:|1781085653
+|switch|p1a: ecdysis|Kyurem|76/100|[from] U-turn
+|-ability|p1a: ecdysis|Pressure
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781085656
+|switch|p2a: Zapdos|Zapdos|53/100
+|move|p1a: ecdysis|Freeze-Dry|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781085663
+|switch|p2a: Kingdra|Kingdra, M|100/100
+|turn|17
+|
+|t:|1781085667
+|move|p2a: Kingdra|Dragon Pulse|p1a: ecdysis
+|-supereffective|p1a: ecdysis
+|-damage|p1a: ecdysis|0 fnt
+|faint|p1a: ecdysis
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781085682
+|switch|p1a: dragospeedo|Dragonite, M|100/100
+|turn|18
+|
+|t:|1781085685
+|move|p2a: Kingdra|Dragon Pulse|p1a: dragospeedo
+|-supereffective|p1a: dragospeedo
+|-damage|p1a: dragospeedo|39/100
+|move|p1a: dragospeedo|Scale Shot|p2a: Kingdra
+|-supereffective|p2a: Kingdra
+|-damage|p2a: Kingdra|61/100
+|-supereffective|p2a: Kingdra
+|-damage|p2a: Kingdra|27/100
+|-supereffective|p2a: Kingdra
+|-damage|p2a: Kingdra|0 fnt
+|faint|p2a: Kingdra
+|-hitcount|p2: Kingdra|3
+|-unboost|p1a: dragospeedo|def|1
+|-boost|p1a: dragospeedo|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781085695
+|switch|p2a: Pelipper|Pelipper, M|95/100
+|turn|19
+|
+|t:|1781085699
+|move|p1a: dragospeedo|Scale Shot|p2a: Pelipper|[miss]
+|-miss|p1a: dragospeedo|p2a: Pelipper
+|move|p2a: Pelipper|Hurricane|p1a: dragospeedo
+|-damage|p1a: dragospeedo|2/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781085704
+|move|p1a: dragospeedo|Scale Shot|p2a: Pelipper
+|-damage|p2a: Pelipper|82/100
+|-damage|p2a: Pelipper|71/100
+|-damage|p2a: Pelipper|59/100
+|-damage|p2a: Pelipper|48/100
+|-crit|p2a: Pelipper
+|-damage|p2a: Pelipper|31/100
+|-hitcount|p2a: Pelipper|5
+|-unboost|p1a: dragospeedo|def|1
+|-boost|p1a: dragospeedo|spe|1
+|move|p2a: Pelipper|Hurricane|p1a: dragospeedo
+|-damage|p1a: dragospeedo|0 fnt
+|faint|p1a: dragospeedo
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|j| biscoitotroll
+|
+|t:|1781085714
+|switch|p1a: Lagosta de agosto|Crawdaunt, M|88/100
+|turn|21
+|
+|t:|1781085717
+|move|p1a: Lagosta de agosto|Crabhammer|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781085720
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|-item|p2a: Kingambit|Air Balloon
+|turn|22
+|
+|t:|1781085733
+|move|p1a: Lagosta de agosto|Crabhammer|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-enditem|p2a: Kingambit|Air Balloon
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen5|[silent]
+|
+|win|ankoro
+|raw|ankoro's rating: 1592 &rarr; <strong>1612</strong><br />(+20 for winning)
+|raw|ihymyly's rating: 1599 &rarr; <strong>1579</strong><br />(-20 for losing)
+|l|☆ihymyly
+|player|p2|
+|l|☆ankoro
+|player|p1|
+|l| biscoitotroll

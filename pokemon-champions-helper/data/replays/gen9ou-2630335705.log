@@ -1,0 +1,428 @@
+|j|☆runningdan
+|j|☆Archerdadon
+|t:|1781240004
+|gametype|singles
+|player|p1|runningdan|1|1550
+|player|p2|Archerdadon|marshal|1516
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Great Tusk|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Darkrai|
+|poke|p1|Gliscor, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Dragapult, M|
+|poke|p2|Dondozo, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Glimmora, F|
+|poke|p2|Scizor, M|
+|poke|p2|Hydrapple, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by runningdan)
+|
+|t:|1781240019
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|turn|1
+|
+|t:|1781240026
+|move|p1a: Dragapult|Draco Meteor|p2a: Glimmora
+|-enditem|p2a: Glimmora|Focus Sash
+|-damage|p2a: Glimmora|1/100
+|-unboost|p1a: Dragapult|spa|2
+|move|p2a: Glimmora|Dazzling Gleam|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|19/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781240036
+|switch|p2a: Hydrapple|Hydrapple, F|100/100
+|move|p1a: Dragapult|Draco Meteor|p2a: Hydrapple|[miss]
+|-miss|p1a: Dragapult|p2a: Hydrapple
+|
+|upkeep
+|turn|3
+|
+|t:|1781240050
+|switch|p2a: Scizor|Scizor, M|100/100
+|move|p1a: Dragapult|Draco Meteor|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|78/100
+|-unboost|p1a: Dragapult|spa|2
+|
+|upkeep
+|turn|4
+|
+|t:|1781240058
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Scizor|Knock Off|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|88/100
+|-enditem|p1a: Great Tusk|Leftovers|[from] move: Knock Off|[of] p2a: Scizor
+|
+|upkeep
+|turn|5
+|
+|t:|1781240067
+|switch|p2a: Glimmora|Glimmora, F|1/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: runningdan|move: Toxic Spikes
+|faint|p2a: Glimmora
+|
+|upkeep
+|
+|t:|1781240072
+|switch|p2a: Hydrapple|Hydrapple, F|100/100
+|turn|6
+|
+|t:|1781240093
+|-terastallize|p1a: Great Tusk|Poison
+|move|p1a: Great Tusk|Rapid Spin|p2a: Hydrapple
+|-damage|p2a: Hydrapple|92/100
+|-boost|p1a: Great Tusk|spe|1
+|-damage|p1a: Great Tusk|71/100|[from] item: Rocky Helmet|[of] p2a: Hydrapple
+|-sideend|p1: runningdan|Toxic Spikes|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|move|p2a: Hydrapple|Giga Drain|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|50/100
+|-heal|p2a: Hydrapple|100/100|[from] drain|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|7
+|
+|t:|1781240101
+|move|p1a: Great Tusk|Ice Spinner|p2a: Hydrapple
+|-supereffective|p2a: Hydrapple
+|-damage|p2a: Hydrapple|44/100
+|-damage|p1a: Great Tusk|34/100|[from] item: Rocky Helmet|[of] p2a: Hydrapple
+|move|p2a: Hydrapple|Earth Power|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781240116
+|switch|p1a: Dragapult|Dragapult, M|19/100
+|turn|8
+|
+|t:|1781240126
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Dragapult|Shadow Ball|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|90/100
+|
+|-heal|p2a: Ting-Lu|96/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781240133
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|68/100
+|
+|-heal|p2a: Ting-Lu|100/100|[from] item: Leftovers
+|-heal|p1a: Hatterene|74/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781240140
+|move|p2a: Ting-Lu|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|44/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|80/100
+|-heal|p1a: Hatterene|68/100|[from] drain|[of] p2a: Ting-Lu
+|
+|-heal|p2a: Ting-Lu|86/100|[from] item: Leftovers
+|-heal|p1a: Hatterene|74/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|l|☆Archerdadon
+|inactive|Archerdadon disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆Archerdadon
+|inactive|Archerdadon reconnected and has 115 seconds left.
+|player|p2|Archerdadon|marshal|
+|
+|t:|1781240177
+|move|p2a: Ting-Lu|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|42/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-crit|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|58/100
+|-heal|p1a: Hatterene|77/100|[from] drain|[of] p2a: Ting-Lu
+|
+|-heal|p2a: Ting-Lu|64/100|[from] item: Leftovers
+|-heal|p1a: Hatterene|83/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|Archerdadon has 120 seconds left.
+|
+|t:|1781240188
+|switch|p2a: Scizor|Scizor, M|78/100
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|13
+|
+|t:|1781240198
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|move|p2a: Scizor|U-turn|p1a: Gliscor
+|-resisted|p1a: Gliscor
+|-crit|p1a: Gliscor
+|-damage|p1a: Gliscor|68/100 tox
+|
+|t:|1781240201
+|switch|p2a: Dondozo|Dondozo, M|100/100|[from] U-turn
+|
+|-heal|p1a: Gliscor|81/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|14
+|
+|t:|1781240217
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Dondozo|Waterfall|p1a: Ninetales
+|-crit|p1a: Ninetales
+|-damage|p1a: Ninetales|66/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781240225
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: runningdan|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781240230
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-start|p2a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: runningdan|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781240240
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|move|p1a: Ninetales|Roar|p2a: Cinderace
+|drag|p2a: Ting-Lu|Ting-Lu|64/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Ting-Lu|71/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781240253
+|move|p1a: Ninetales|Freeze-Dry|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|61/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Ninetales
+|-damage|p1a: Ninetales|50/100
+|
+|-weather|none
+|-heal|p2a: Ting-Lu|67/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781240260
+|switch|p2a: Scizor|Scizor, M|78/100
+|move|p1a: Ninetales|Encore||[still]
+|-fail|p1a: Ninetales
+|
+|upkeep
+|turn|20
+|
+|t:|1781240274
+|switch|p1a: Gliscor|Gliscor, M|81/100 tox
+|move|p2a: Scizor|U-turn|p1a: Gliscor
+|-resisted|p1a: Gliscor
+|-damage|p1a: Gliscor|69/100 tox
+|
+|t:|1781240277
+|switch|p2a: Hydrapple|Hydrapple, F|77/100|[from] U-turn
+|
+|-heal|p1a: Gliscor|82/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|21
+|
+|t:|1781240297
+|switch|p1a: Hatterene|Hatterene, F|83/100
+|move|p2a: Hydrapple|Nasty Plot|p2a: Hydrapple
+|-boost|p2a: Hydrapple|spa|2
+|
+|-heal|p1a: Hatterene|89/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781240306
+|move|p2a: Hydrapple|Giga Drain|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-heal|p2a: Hydrapple|100/100|[from] drain|[of] p1a: Hatterene
+|faint|p1a: Hatterene
+|
+|-sideend|p1: runningdan|move: Aurora Veil
+|upkeep
+|c|☆runningdan|k
+|inactive|runningdan has 120 seconds left.
+|
+|t:|1781240332
+|switch|p1a: Dragapult|Dragapult, M|19/100
+|turn|23
+|
+|t:|1781240337
+|move|p1a: Dragapult|Draco Meteor|p2a: Hydrapple
+|-supereffective|p2a: Hydrapple
+|-damage|p2a: Hydrapple|0 fnt
+|-unboost|p1a: Dragapult|spa|2
+|faint|p2a: Hydrapple
+|
+|-sideend|p2: Archerdadon|move: Aurora Veil
+|upkeep
+|
+|t:|1781240340
+|switch|p2a: Scizor|Scizor, M|78/100
+|turn|24
+|
+|t:|1781240351
+|move|p1a: Dragapult|Draco Meteor|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|51/100
+|-unboost|p1a: Dragapult|spa|2
+|move|p2a: Scizor|U-turn|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|t:|1781240354
+|switch|p2a: Cinderace|Cinderace, M|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781240369
+|switch|p1a: Darkrai|Darkrai|100/100
+|turn|25
+|l|☆Archerdadon
+|inactive|Archerdadon disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆Archerdadon
+|inactive|Archerdadon reconnected and has 120 seconds left.
+|player|p2|Archerdadon|marshal|
+|
+|t:|1781240401
+|move|p1a: Darkrai|Dark Pulse|p2a: Cinderace
+|-damage|p2a: Cinderace|44/100
+|move|p2a: Cinderace|High Jump Kick|p1a: Darkrai
+|-start|p2a: Cinderace|typechange|Fighting|[from] ability: Libero
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|upkeep
+|
+|t:|1781240415
+|switch|p1a: Gliscor|Gliscor, M|82/100 tox
+|turn|26
+|
+|t:|1781240419
+|move|p2a: Cinderace|U-turn|p1a: Gliscor
+|-resisted|p1a: Gliscor
+|-damage|p1a: Gliscor|73/100 tox
+|
+|t:|1781240424
+|switch|p2a: Dondozo|Dondozo, M|100/100|[from] U-turn
+|move|p1a: Gliscor|Agility|p1a: Gliscor
+|-boost|p1a: Gliscor|spe|2
+|
+|-heal|p1a: Gliscor|85/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|27
+|
+|t:|1781240428
+|switch|p1a: Ninetales|Ninetales-Alola, F|50/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Dondozo|Waterfall|p1a: Ninetales
+|-damage|p1a: Ninetales|27/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|28
+|
+|t:|1781240435
+|switch|p2a: Ting-Lu|Ting-Lu|67/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Ninetales|Freeze-Dry|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|50/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Ting-Lu|57/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1781240446
+|switch|p1a: Gliscor|Gliscor, M|85/100 tox
+|-terastallize|p2a: Ting-Lu|Ghost
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Gliscor
+|-sidestart|p1: runningdan|move: Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Ting-Lu|63/100|[from] item: Leftovers
+|-heal|p1a: Gliscor|98/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|30
+|
+|t:|1781240456
+|switch|p2a: Dondozo|Dondozo, M|100/100
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|31
+|-message|runningdan forfeited.
+|
+|win|Archerdadon
+|raw|runningdan's rating: 1550 &rarr; <strong>1528</strong><br />(-22 for losing)
+|raw|Archerdadon's rating: 1516 &rarr; <strong>1538</strong><br />(+22 for winning)
+|l|☆runningdan
+|player|p1|
+|l|☆Archerdadon
+|player|p2|

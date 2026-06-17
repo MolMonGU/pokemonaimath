@@ -1,0 +1,342 @@
+|j|☆The median voter
+|j|☆jd2sleepy
+|t:|1781181702
+|gametype|singles
+|player|p1|The median voter|scientist-gen4dp|1586
+|player|p2|jd2sleepy|blackbelt-gen4dp|1607
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Great Tusk|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Alomomola, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Rillaboom, M|
+|poke|p2|Abomasnow, M|
+|poke|p2|Iron Treads|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Golduck, M|
+|poke|p2|Kingambit, M|
+|teampreview
+|
+|t:|1781181717
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Preacher|Zapdos|100/100
+|switch|p2a: Drizzy|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Drizzy
+|turn|1
+|
+|t:|1781181723
+|switch|p2a: Tready Way|Iron Treads|100/100
+|-enditem|p2a: Tready Way|Booster Energy
+|-activate|p2a: Tready Way|ability: Quark Drive|[fromitem]
+|-start|p2a: Tready Way|quarkdrivespe
+|move|p1a: Preacher|U-turn|p2a: Tready Way
+|-resisted|p2a: Tready Way
+|-damage|p2a: Tready Way|94/100
+|
+|t:|1781181735
+|switch|p1a: Zealot|Rillaboom, M|100/100|[from] U-turn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Zealot
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Tready Way|100/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781181739
+|move|p2a: Tready Way|Stealth Rock|p1a: Zealot
+|-sidestart|p1: The median voter|move: Stealth Rock
+|move|p1a: Zealot|U-turn|p2a: Tready Way
+|-resisted|p2a: Tready Way
+|-damage|p2a: Tready Way|81/100
+|
+|t:|1781181744
+|switch|p1a: Templar|Great Tusk|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Tready Way|88/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781181747
+|move|p2a: Tready Way|Earth Power|p1a: Templar
+|-damage|p1a: Templar|56/100
+|move|p1a: Templar|Rapid Spin|p2a: Tready Way
+|-resisted|p2a: Tready Way
+|-damage|p2a: Tready Way|81/100
+|-boost|p1a: Templar|spe|1
+|-sideend|p1: The median voter|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Templar
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Tready Way|87/100|[from] Grassy Terrain
+|-heal|p1a: Templar|62/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781181751
+|move|p2a: Tready Way|Earth Power|p1a: Templar
+|-damage|p1a: Templar|17/100
+|move|p1a: Templar|Headlong Rush|p2a: Tready Way
+|-supereffective|p2a: Tready Way
+|-damage|p2a: Tready Way|0 fnt
+|-unboost|p1a: Templar|def|1
+|-unboost|p1a: Templar|spd|1
+|faint|p2a: Tready Way
+|-end|p2a: Tready Way|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Templar|24/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781181753
+|switch|p2a: Hit Or Miss|Golduck, M|100/100
+|turn|5
+|
+|t:|1781181758
+|-end|p1a: Templar|Protosynthesis|[silent]
+|switch|p1a: Zealot|Rillaboom, M|100/100
+|move|p2a: Hit Or Miss|Ice Beam|p1a: Zealot
+|-supereffective|p1a: Zealot
+|-damage|p1a: Zealot|23/100
+|-damage|p2a: Hit Or Miss|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Hit Or Miss|97/100|[from] Grassy Terrain
+|-heal|p1a: Zealot|29/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781181769
+|switch|p2a: ObamaKnows|Abomasnow, M|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: ObamaKnows
+|switch|p1a: Holy Envoy|Alomomola, F|100/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781181776
+|move|p2a: ObamaKnows|Swords Dance|p2a: ObamaKnows
+|-boost|p2a: ObamaKnows|atk|2
+|move|p1a: Holy Envoy|Flip Turn|p2a: ObamaKnows
+|-resisted|p2a: ObamaKnows
+|-damage|p2a: ObamaKnows|94/100
+|
+|t:|1781181780
+|switch|p1a: Acolyte|Iron Valiant|100/100|[from] Flip Turn
+|-enditem|p1a: Acolyte|Booster Energy
+|-activate|p1a: Acolyte|ability: Quark Drive|[fromitem]
+|-start|p1a: Acolyte|quarkdrivespe
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781181787
+|move|p2a: ObamaKnows|Ice Shard|p1a: Acolyte
+|-damage|p1a: Acolyte|51/100
+|move|p1a: Acolyte|Encore|p2a: ObamaKnows
+|-start|p2a: ObamaKnows|Encore
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781181798
+|-end|p1a: Acolyte|Quark Drive|[silent]
+|switch|p1a: Holy Envoy|Alomomola, F|100/100
+|move|p2a: ObamaKnows|Ice Shard|p1a: Holy Envoy
+|-resisted|p1a: Holy Envoy
+|-crit|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|81/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781181800
+|move|p2a: ObamaKnows|Ice Shard|p1a: Holy Envoy
+|-resisted|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|67/100
+|move|p1a: Holy Envoy|Scald|p2a: ObamaKnows
+|-resisted|p2a: ObamaKnows
+|-damage|p2a: ObamaKnows|86/100
+|-status|p2a: ObamaKnows|brn
+|
+|-weather|none
+|-damage|p2a: ObamaKnows|80/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781181802
+|move|p2a: ObamaKnows|Ice Shard|p1a: Holy Envoy
+|-resisted|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|61/100
+|move|p1a: Holy Envoy|Flip Turn|p2a: ObamaKnows
+|-resisted|p2a: ObamaKnows
+|-damage|p2a: ObamaKnows|70/100 brn
+|
+|t:|1781181811
+|switch|p1a: Preacher|Zapdos|100/100|[from] Flip Turn
+|
+|-damage|p2a: ObamaKnows|63/100 brn|[from] brn
+|-end|p2a: ObamaKnows|Encore
+|upkeep
+|turn|12
+|
+|t:|1781181814
+|move|p1a: Preacher|Hurricane|p2a: ObamaKnows|[miss]
+|-miss|p1a: Preacher|p2a: ObamaKnows
+|move|p2a: ObamaKnows|Icicle Spear|p1a: Preacher
+|-supereffective|p1a: Preacher
+|-damage|p1a: Preacher|85/100
+|-supereffective|p1a: Preacher
+|-damage|p1a: Preacher|67/100
+|-supereffective|p1a: Preacher
+|-damage|p1a: Preacher|50/100
+|-supereffective|p1a: Preacher
+|-damage|p1a: Preacher|33/100
+|-hitcount|p1a: Preacher|4
+|
+|-damage|p2a: ObamaKnows|57/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1781181816
+|move|p2a: ObamaKnows|Ice Shard|p1a: Preacher
+|-supereffective|p1a: Preacher
+|-damage|p1a: Preacher|8/100
+|move|p1a: Preacher|Hurricane|p2a: ObamaKnows
+|-supereffective|p2a: ObamaKnows
+|-damage|p2a: ObamaKnows|0 fnt
+|faint|p2a: ObamaKnows
+|
+|upkeep
+|
+|t:|1781181829
+|switch|p2a: Drizzy|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Drizzy
+|turn|14
+|
+|t:|1781181831
+|switch|p2a: Rage N Furious|Raging Bolt|100/100
+|-enditem|p2a: Rage N Furious|Booster Energy
+|-activate|p2a: Rage N Furious|ability: Protosynthesis|[fromitem]
+|-start|p2a: Rage N Furious|protosynthesisspa
+|move|p1a: Preacher|Roost|p1a: Preacher
+|-heal|p1a: Preacher|58/100
+|-singleturn|p1a: Preacher|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781181835
+|switch|p1a: The End of All|Hoopa-Unbound|100/100
+|move|p2a: Rage N Furious|Weather Ball|p1a: The End of All
+|-damage|p1a: The End of All|65/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781181840
+|move|p2a: Rage N Furious|Thunder|p1a: The End of All
+|-damage|p1a: The End of All|21/100
+|move|p1a: The End of All|Psychic Noise|p2a: Rage N Furious
+|-damage|p2a: Rage N Furious|52/100
+|-start|p2a: Rage N Furious|move: Heal Block
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781181848
+|move|p2a: Rage N Furious|Weather Ball|p1a: The End of All
+|-damage|p1a: The End of All|0 fnt
+|faint|p1a: The End of All
+|
+|-weather|RainDance|[upkeep]
+|-end|p2a: Rage N Furious|move: Heal Block
+|upkeep
+|
+|t:|1781181850
+|switch|p1a: Acolyte|Iron Valiant|51/100
+|turn|18
+|
+|t:|1781181852
+|move|p1a: Acolyte|Moonblast|p2a: Rage N Furious
+|-supereffective|p2a: Rage N Furious
+|-damage|p2a: Rage N Furious|0 fnt
+|faint|p2a: Rage N Furious
+|-end|p2a: Rage N Furious|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781181854
+|switch|p2a: Hit Or Miss|Golduck, M|97/100
+|turn|19
+|
+|t:|1781181857
+|-end|p1a: Acolyte|Quark Drive|[silent]
+|switch|p1a: Holy Envoy|Alomomola, F|94/100
+|move|p2a: Hit Or Miss|Hydro Pump|p1a: Holy Envoy
+|-resisted|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|74/100
+|-damage|p2a: Hit Or Miss|87/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781181863
+|move|p2a: Hit Or Miss|Nasty Plot|p2a: Hit Or Miss
+|-boost|p2a: Hit Or Miss|spa|2
+|move|p1a: Holy Envoy|Flip Turn|p2a: Hit Or Miss
+|-resisted|p2a: Hit Or Miss
+|-damage|p2a: Hit Or Miss|71/100
+|
+|t:|1781181867
+|switch|p1a: Zealot|Rillaboom, M|29/100|[from] Flip Turn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Zealot
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Hit Or Miss|77/100|[from] Grassy Terrain
+|-heal|p1a: Zealot|35/100|[from] Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1781181872
+|-terastallize|p2a: Hit Or Miss|Ghost
+|move|p1a: Zealot|Grassy Glide|p2a: Hit Or Miss
+|-damage|p2a: Hit Or Miss|0 fnt
+|faint|p2a: Hit Or Miss
+|
+|-weather|none
+|-heal|p1a: Zealot|41/100|[from] Grassy Terrain
+|upkeep
+|-message|jd2sleepy forfeited.
+|
+|win|The median voter
+|raw|The median voter's rating: 1586 &rarr; <strong>1607</strong><br />(+21 for winning)
+|raw|jd2sleepy's rating: 1607 &rarr; <strong>1586</strong><br />(-21 for losing)
+|l|☆jd2sleepy
+|player|p2|
+|l|☆The median voter
+|player|p1|

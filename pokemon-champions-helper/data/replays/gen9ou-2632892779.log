@@ -1,0 +1,277 @@
+|j|☆achbeet
+|j|☆mongwong
+|t:|1781575347
+|gametype|singles
+|player|p1|achbeet|102|1630
+|player|p2|mongwong|eusine-gen2|1655
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Darkrai|
+|poke|p1|Okidogi, M|
+|poke|p1|Sandy Shocks|
+|poke|p1|Araquanid, M|
+|poke|p1|Gholdengo|
+|poke|p1|Iron Moth|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Iron Boulder|
+|poke|p2|Kyurem|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Samurott-Hisui, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mongwong)
+|
+|t:|1781575354
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Araquanid|Araquanid, M|100/100
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|turn|1
+|
+|t:|1781575361
+|move|p2a: Samurott|Ceaseless Edge|p1a: Araquanid
+|-damage|p1a: Araquanid|63/100
+|-sidestart|p1: achbeet|Spikes
+|move|p1a: Araquanid|Sticky Web|p2a: Samurott
+|-sidestart|p2: mongwong|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1781575366
+|move|p2a: Samurott|Knock Off|p1a: Araquanid
+|-damage|p1a: Araquanid|22/100
+|-enditem|p1a: Araquanid|Custap Berry|[from] move: Knock Off|[of] p2a: Samurott
+|move|p1a: Araquanid|Endeavor|p2a: Samurott
+|-damage|p2a: Samurott|19/100
+|
+|upkeep
+|turn|3
+|j| Drewisonline
+|
+|t:|1781575372
+|move|p2a: Samurott|Ceaseless Edge|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|-sidestart|p1: achbeet|Spikes
+|faint|p1a: Araquanid
+|
+|upkeep
+|
+|t:|1781575380
+|switch|p1a: Darkrai|Darkrai|100/100
+|-damage|p1a: Darkrai|84/100|[from] Spikes
+|turn|4
+|
+|t:|1781575384
+|move|p1a: Darkrai|Dark Pulse|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|5/100
+|-damage|p1a: Darkrai|74/100|[from] item: Life Orb
+|move|p2a: Samurott|Razor Shell|p1a: Darkrai
+|-damage|p1a: Darkrai|22/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781575388
+|move|p1a: Darkrai|Dark Pulse|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|-damage|p1a: Darkrai|13/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781575390
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|-activate|p2a: Weezing|move: Sticky Web
+|-unboost|p2a: Weezing|spe|1
+|turn|6
+|
+|t:|1781575396
+|move|p1a: Darkrai|Ice Beam|p2a: Weezing
+|-damage|p2a: Weezing|46/100
+|-damage|p1a: Darkrai|3/100|[from] item: Life Orb
+|move|p2a: Weezing|Defog|p1a: Darkrai
+|-unboost|p1a: Darkrai|evasion|1
+|-sideend|p1: achbeet|Spikes|[from] move: Defog|[of] p2a: Weezing
+|-sideend|p2: mongwong|Sticky Web|[from] move: Defog|[of] p2a: Weezing
+|
+|-heal|p2a: Weezing|52/100|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1781575401
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Darkrai|Ice Beam|p2a: Slowking
+|-damage|p2a: Slowking|77/100
+|-damage|p1a: Darkrai|0 fnt|[from] item: Life Orb
+|faint|p1a: Darkrai
+|
+|upkeep
+|
+|t:|1781575414
+|switch|p1a: Sandy Shocks|Sandy Shocks|100/100
+|-enditem|p1a: Sandy Shocks|Booster Energy
+|-activate|p1a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p1a: Sandy Shocks|protosynthesisspe
+|turn|8
+|
+|t:|1781575430
+|move|p1a: Sandy Shocks|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|27/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781575434
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781575440
+|move|p1a: Sandy Shocks|Thunder Wave|p2a: Kyurem
+|-status|p2a: Kyurem|par
+|move|p2a: Kyurem|Blizzard|p1a: Sandy Shocks
+|-supereffective|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|0 fnt
+|faint|p1a: Sandy Shocks
+|-end|p1a: Sandy Shocks|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781575449
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|10
+|j| kanaete onegai
+|j| Little CuackPiC
+|inactive|mongwong has 120 seconds left.
+|j| Mega Delibird X
+|
+|t:|1781575481
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|move|p2a: Kyurem|Blizzard|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|48/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781575485
+|move|p1a: Gholdengo|Make It Rain|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Kyurem
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|inactive|mongwong has 120 seconds left.
+|
+|t:|1781575505
+|switch|p2a: Iron Boulder|Iron Boulder|100/100
+|-enditem|p2a: Iron Boulder|Booster Energy
+|-activate|p2a: Iron Boulder|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Boulder|quarkdrivespe
+|turn|12
+|
+|t:|1781575510
+|move|p2a: Iron Boulder|Earthquake|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781575521
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespa
+|turn|13
+|
+|t:|1781575529
+|-terastallize|p2a: Iron Boulder|Ground
+|-terastallize|p1a: Iron Moth|Grass
+|move|p2a: Iron Boulder|Swords Dance|p2a: Iron Boulder
+|-boost|p2a: Iron Boulder|atk|2
+|move|p1a: Iron Moth|Energy Ball|p2a: Iron Boulder
+|-supereffective|p2a: Iron Boulder
+|-damage|p2a: Iron Boulder|0 fnt
+|faint|p2a: Iron Boulder
+|-end|p2a: Iron Boulder|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781575542
+|switch|p2a: Slowking|Slowking-Galar, M|61/100
+|turn|14
+|
+|t:|1781575550
+|move|p1a: Iron Moth|Fiery Dance|p2a: Slowking
+|-damage|p2a: Slowking|28/100
+|-boost|p1a: Iron Moth|spa|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|32/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781575559
+|move|p1a: Iron Moth|Fiery Dance|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|-weather|none
+|upkeep
+|
+|t:|1781575560
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|16
+|
+|t:|1781575563
+|move|p1a: Iron Moth|Sludge Wave|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|-message|mongwong forfeited.
+|
+|win|achbeet
+|raw|achbeet's rating: 1630 &rarr; <strong>1651</strong><br />(+21 for winning)
+|raw|mongwong's rating: 1655 &rarr; <strong>1634</strong><br />(-21 for losing)
+|l|☆mongwong
+|player|p2|
+|l|☆achbeet
+|player|p1|
+|l| Drewisonline
+|l| Mega Delibird X

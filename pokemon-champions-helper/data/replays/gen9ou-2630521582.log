@@ -1,0 +1,261 @@
+|j|☆biryanilover
+|j|☆gabboh
+|t:|1781268596
+|gametype|singles
+|player|p1|biryanilover|101|1584
+|player|p2|gabboh|265|1527
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Rillaboom, M|
+|poke|p1|Heatran, F|
+|poke|p1|Walking Wake|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Zamazenta-*|
+|poke|p1|Weezing-Galar, F|
+|poke|p2|Indeedee, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Ursaluna, M|
+|poke|p2|Azumarill, M|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Mimikyu, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by biryanilover)
+|
+|t:|1781268602
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|switch|p2a: Azumarill|Azumarill, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1781268615
+|move|p1a: Rillaboom|Knock Off|p2a: Azumarill
+|-resisted|p2a: Azumarill
+|-damage|p2a: Azumarill|83/100
+|-enditem|p2a: Azumarill|Assault Vest|[from] move: Knock Off|[of] p1a: Rillaboom
+|move|p2a: Azumarill|Play Rough|p1a: Rillaboom
+|-damage|p1a: Rillaboom|36/100
+|
+|-heal|p1a: Rillaboom|42/100|[from] Grassy Terrain
+|-heal|p2a: Azumarill|89/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781268625
+|move|p1a: Rillaboom|Grassy Glide|p2a: Azumarill
+|-supereffective|p2a: Azumarill
+|-damage|p2a: Azumarill|2/100
+|move|p2a: Azumarill|Play Rough|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Azumarill|8/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781268629
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Azumarill|atk|1
+|turn|3
+|
+|t:|1781268639
+|move|p1a: Landorus|Stealth Rock|p2a: Azumarill
+|-sidestart|p2: gabboh|move: Stealth Rock
+|move|p2a: Azumarill|Liquidation|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|32/100
+|-damage|p2a: Azumarill|0 fnt|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p2a: Azumarill
+|
+|upkeep
+|
+|t:|1781268648
+|switch|p2a: Indeedee|Indeedee, M|100/100
+|-damage|p2a: Indeedee|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|4
+|
+|t:|1781268653
+|move|p1a: Landorus|Taunt|p2a: Indeedee
+|-start|p2a: Indeedee|move: Taunt
+|cant|p2a: Indeedee|move: Taunt|Trick Room
+|
+|upkeep
+|turn|5
+|
+|t:|1781268659
+|move|p1a: Landorus|U-turn|p2a: Indeedee
+|-supereffective|p2a: Indeedee
+|-damage|p2a: Indeedee|48/100
+|
+|t:|1781268664
+|switch|p1a: Heatran|Heatran, F|100/100|[from] U-turn
+|move|p2a: Indeedee|Expanding Force|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|83/100
+|
+|-heal|p1a: Heatran|89/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781268681
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100
+|-damage|p2a: Hoopa|88/100|[from] Stealth Rock
+|-enditem|p2a: Hoopa|Psychic Seed
+|-boost|p2a: Hoopa|spd|1|[from] item: Psychic Seed
+|move|p1a: Heatran|Magma Storm|p2a: Hoopa|[miss]
+|-miss|p1a: Heatran|p2a: Hoopa
+|
+|-heal|p1a: Heatran|95/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781268691
+|move|p1a: Heatran|Taunt|p2a: Hoopa
+|-start|p2a: Hoopa|move: Taunt
+|cant|p2a: Hoopa|move: Taunt|Trick Room
+|
+|-heal|p1a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781268697
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Hoopa|Focus Blast|p1a: Zamazenta|[miss]
+|-miss|p2a: Hoopa|p1a: Zamazenta
+|
+|upkeep
+|turn|9
+|
+|t:|1781268705
+|move|p1a: Zamazenta|Close Combat|p2a: Hoopa
+|-damage|p2a: Hoopa|2/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|-damage|p1a: Zamazenta|91/100|[from] item: Life Orb
+|move|p2a: Hoopa|Expanding Force|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|-item|p2a: Hoopa|Life Orb|[from] ability: Magician|[of] p1: Zamazenta
+|
+|-end|p2a: Hoopa|move: Taunt
+|upkeep
+|
+|t:|1781268709
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|turn|10
+|
+|t:|1781268718
+|move|p1a: Walking Wake|Scald|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|faint|p2a: Hoopa
+|
+|upkeep
+|
+|t:|1781268724
+|switch|p2a: Mimikyu|Mimikyu, M|100/100
+|-damage|p2a: Mimikyu|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1781268729
+|move|p1a: Walking Wake|Knock Off|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|88/100
+|-enditem|p2a: Mimikyu|Red Card|[from] move: Knock Off|[of] p1a: Walking Wake
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, M
+|-damage|p2a: Mimikyu|76/100|[from] pokemon: Mimikyu-Busted
+|move|p2a: Mimikyu|Trick Room|p2a: Mimikyu
+|-fieldstart|move: Trick Room|[of] p2a: Mimikyu
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|12
+|
+|t:|1781268738
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Mimikyu|Play Rough|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|91/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781268745
+|move|p1a: Weezing|Strange Steam|p2a: Mimikyu
+|-damage|p2a: Mimikyu|46/100
+|move|p2a: Mimikyu|Curse|p1a: Weezing
+|-start|p1a: Weezing|Curse|[of] p2a: Mimikyu
+|-damage|p2a: Mimikyu|0 fnt
+|faint|p2a: Mimikyu
+|
+|-damage|p1a: Weezing|66/100|[from] Curse
+|upkeep
+|
+|t:|1781268754
+|switch|p2a: Indeedee|Indeedee, M|48/100
+|-damage|p2a: Indeedee|35/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1781268762
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Indeedee|Expanding Force|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|83/100
+|
+|-heal|p1a: Heatran|89/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781268780
+|switch|p2a: Ursaluna|Ursaluna, M|100/100
+|-damage|p2a: Ursaluna|94/100|[from] Stealth Rock
+|move|p1a: Heatran|Earth Power|p2a: Ursaluna
+|-damage|p2a: Ursaluna|71/100
+|
+|-heal|p1a: Heatran|95/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|-status|p2a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|16
+|
+|t:|1781268792
+|move|p1a: Heatran|Magma Storm|p2a: Ursaluna
+|-damage|p2a: Ursaluna|30/100 brn
+|-activate|p2a: Ursaluna|move: Magma Storm|[of] p1a: Heatran
+|move|p2a: Ursaluna|Ice Punch|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|85/100
+|
+|-heal|p1a: Heatran|91/100|[from] item: Leftovers
+|-damage|p2a: Ursaluna|24/100 brn|[from] brn
+|-damage|p2a: Ursaluna|12/100 brn|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|17
+|-message|gabboh forfeited.
+|
+|win|biryanilover
+|raw|biryanilover's rating: 1584 &rarr; <strong>1601</strong><br />(+17 for winning)
+|raw|gabboh's rating: 1527 &rarr; <strong>1510</strong><br />(-17 for losing)
+|l|☆gabboh
+|player|p2|
+|l|☆biryanilover
+|player|p1|

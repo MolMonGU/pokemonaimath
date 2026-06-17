@@ -1,0 +1,374 @@
+|j|☆saxafrax
+|j|☆lord shiddenfards
+|t:|1781021571
+|gametype|singles
+|player|p1|saxafrax|dancer|1646
+|player|p2|lord shiddenfards|blaine|1697
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ninetales, F|
+|poke|p1|Walking Wake|
+|poke|p1|Raging Bolt|
+|poke|p1|Great Tusk|
+|poke|p1|Slither Wing|
+|poke|p1|Rillaboom, M|
+|poke|p2|Ninetales, M|
+|poke|p2|Great Tusk|
+|poke|p2|Slither Wing|
+|poke|p2|Alomomola, M|
+|poke|p2|Iron Moth|
+|poke|p2|Raging Bolt|
+|teampreview
+|j| Fat_Yogi
+|
+|t:|1781021579
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1781021602
+|move|p1a: Rillaboom|Knock Off|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|71/100
+|-enditem|p2a: Raging Bolt|Assault Vest|[from] move: Knock Off|[of] p1a: Rillaboom
+|move|p2a: Raging Bolt|Volt Switch|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|75/100
+|
+|t:|1781021610
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slither Wing|Slither Wing|100/100|[from] Volt Switch
+|
+|-heal|p1a: Rillaboom|81/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|87/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lord shiddenfards)
+|
+|t:|1781021646
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|move|p2a: Slither Wing|U-turn|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|51/100
+|j| jsnsddk
+|j| newhere1310
+|
+|t:|1781021670
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Ninetales|57/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781021687
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Ninetales|Ninetales, M|100/100
+|move|p1a: Ninetales|Will-O-Wisp|p2a: Ninetales
+|-immune|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Ninetales|63/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781021696
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|move|p2a: Ninetales|Scorching Sands|p1a: Walking Wake
+|-damage|p1a: Walking Wake|69/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Walking Wake|75/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781021700
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Walking Wake|Flip Turn|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|98/100
+|-enditem|p2a: Alomomola|Eject Button
+|
+|t:|1781021705
+|switch|p2a: Raging Bolt|Raging Bolt|71/100
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Walking Wake|81/100|[from] Grassy Terrain
+|-heal|p2a: Raging Bolt|77/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|j| nzdndnndndbd
+|
+|t:|1781021713
+|move|p1a: Walking Wake|Flip Turn|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|73/100
+|
+|t:|1781021717
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Slither Wing|Slither Wing|100/100|[from] Flip Turn
+|-activate|p1a: Slither Wing|ability: Protosynthesis
+|-start|p1a: Slither Wing|protosynthesisatk
+|move|p2a: Raging Bolt|Weather Ball|p1a: Slither Wing
+|-supereffective|p1a: Slither Wing
+|-damage|p1a: Slither Wing|16/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781021731
+|move|p1a: Slither Wing|First Impression|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|32/100
+|move|p2a: Raging Bolt|Weather Ball|p1a: Slither Wing
+|-supereffective|p1a: Slither Wing
+|-damage|p1a: Slither Wing|0 fnt
+|faint|p1a: Slither Wing
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781021735
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|8
+|l| newhere1310
+|
+|t:|1781021740
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Alomomola
+|-damage|p2a: Alomomola|50/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781021750
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Great Tusk|Stealth Rock|p2a: Alomomola
+|-sidestart|p2: lord shiddenfards|move: Stealth Rock
+|
+|-weather|none
+|-end|p1a: Great Tusk|Protosynthesis
+|upkeep
+|turn|10
+|
+|t:|1781021755
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Rillaboom|Rillaboom, M|87/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Alomomola|Flip Turn|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|78/100
+|
+|t:|1781021759
+|switch|p2a: Ninetales|Ninetales, M|100/100|[from] Flip Turn
+|-damage|p2a: Ninetales|76/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Ninetales|82/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|84/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|91/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781021773
+|switch|p1a: Walking Wake|Walking Wake|81/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|move|p2a: Ninetales|Weather Ball|p1a: Walking Wake
+|-resisted|p1a: Walking Wake
+|-damage|p1a: Walking Wake|55/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Walking Wake|62/100|[from] Grassy Terrain
+|-heal|p2a: Ninetales|88/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781021780
+|switch|p2a: Alomomola|Alomomola, M|83/100
+|-damage|p2a: Alomomola|71/100|[from] Stealth Rock
+|-terastallize|p1a: Walking Wake|Water
+|move|p1a: Walking Wake|Hydro Steam|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|18/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Walking Wake|68/100|[from] Grassy Terrain
+|-heal|p2a: Alomomola|24/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781021787
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Walking Wake|Hydro Steam|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Walking Wake|74/100|[from] Grassy Terrain
+|-heal|p2a: Alomomola|30/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1781021795
+|move|p1a: Walking Wake|Hydro Steam|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-crit|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|
+|-weather|none
+|-end|p1a: Walking Wake|Protosynthesis
+|-heal|p1a: Walking Wake|80/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781021808
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|-damage|p2a: Slither Wing|88/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1781021821
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Ninetales|Ninetales, F|63/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|move|p2a: Slither Wing|First Impression|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781021830
+|switch|p1a: Walking Wake|Walking Wake, tera:Water|80/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|16
+|l| jsnsddk
+|
+|t:|1781021846
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Raging Bolt|Raging Bolt|32/100
+|-damage|p2a: Raging Bolt|20/100|[from] Stealth Rock
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Walking Wake|Hydro Steam|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781021851
+|switch|p2a: Slither Wing|Slither Wing|88/100
+|-damage|p2a: Slither Wing|76/100|[from] Stealth Rock
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|turn|17
+|
+|t:|1781021861
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Slither Wing|Close Combat|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-unboost|p2a: Slither Wing|def|1
+|-unboost|p2a: Slither Wing|spd|1
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|l| nzdndnndndbd
+|
+|t:|1781021868
+|switch|p1a: Walking Wake|Walking Wake, tera:Water|80/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|18
+|
+|t:|1781021873
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Ninetales|Ninetales, M|88/100
+|-damage|p2a: Ninetales|63/100|[from] Stealth Rock
+|move|p1a: Walking Wake|Hydro Steam|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781021875
+|switch|p2a: Slither Wing|Slither Wing|76/100
+|-damage|p2a: Slither Wing|64/100|[from] Stealth Rock
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|turn|19
+|
+|t:|1781021879
+|move|p2a: Slither Wing|First Impression|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781021883
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|20
+|l|☆saxafrax
+|inactive|saxafrax disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|saxafrax has 30 seconds to reconnect!
+|inactive|saxafrax has 20 seconds to reconnect!
+|inactive|saxafrax has 15 seconds to reconnect!
+|inactive|saxafrax has 10 seconds to reconnect!
+|inactive|saxafrax has 5 seconds to reconnect!
+|-message|saxafrax lost due to inactivity.
+|
+|win|lord shiddenfards
+|raw|saxafrax's rating: 1628 &rarr; <strong>1612</strong><br />(-16 for losing)
+|raw|lord shiddenfards's rating: 1697 &rarr; <strong>1713</strong><br />(+16 for winning)

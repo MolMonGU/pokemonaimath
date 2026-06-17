@@ -1,0 +1,441 @@
+|j|☆CMHERSOM
+|j|☆ohlookarock3
+|t:|1780931002
+|gametype|singles
+|player|p1|CMHERSOM|hiker-gen4|1553
+|player|p2|ohlookarock3|geeta|1593
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Regidrago|
+|poke|p1|Kyurem|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Dragonite, F|
+|poke|p1|Great Tusk|
+|poke|p1|Pecharunt|
+|poke|p2|Araquanid, F|
+|poke|p2|Dragonite, F|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Moth|
+|poke|p2|Iron Valiant|
+|poke|p2|Iron Treads|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ohlookarock3)
+|
+|t:|1780931014
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Yumame|Araquanid, F, shiny|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|
+|t:|1780931031
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Yumame|Sticky Web|p1a: Kyurem
+|-sidestart|p1: CMHERSOM|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1780931034
+|move|p1a: Kyurem|Scale Shot|p2a: Yumame|[miss]
+|-miss|p1a: Kyurem|p2a: Yumame
+|move|p2a: Yumame|Lunge|p1a: Kyurem
+|-damage|p1a: Kyurem|81/100
+|-unboost|p1a: Kyurem|atk|1
+|
+|upkeep
+|turn|3
+|
+|t:|1780931036
+|move|p1a: Kyurem|Scale Shot|p2a: Yumame
+|-damage|p2a: Yumame|89/100
+|-damage|p2a: Yumame|78/100
+|-damage|p2a: Yumame|66/100
+|-damage|p2a: Yumame|55/100
+|-hitcount|p2a: Yumame|4
+|-unboost|p1a: Kyurem|def|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Yumame|Lunge|p1a: Kyurem
+|-damage|p1a: Kyurem|51/100
+|-unboost|p1a: Kyurem|atk|1
+|
+|upkeep
+|turn|4
+|
+|t:|1780931056
+|move|p1a: Kyurem|Outrage|p2a: Yumame
+|-damage|p2a: Yumame|23/100
+|move|p2a: Yumame|Lunge|p1a: Kyurem
+|-damage|p1a: Kyurem|22/100
+|-unboost|p1a: Kyurem|atk|1
+|
+|upkeep
+|turn|5
+|
+|t:|1780931059
+|move|p1a: Kyurem|Outrage|p2a: Yumame|[from] lockedmove
+|-damage|p2a: Yumame|0 fnt
+|faint|p2a: Yumame
+|-start|p1a: Kyurem|confusion|[fatigue]
+|
+|upkeep
+|
+|t:|1780931082
+|switch|p2a: Sumireko|Iron Moth|100/100
+|-enditem|p2a: Sumireko|Booster Energy
+|-activate|p2a: Sumireko|ability: Quark Drive|[fromitem]
+|-start|p2a: Sumireko|quarkdrivespa
+|turn|6
+|
+|t:|1780931091
+|-end|p2a: Sumireko|Quark Drive|[silent]
+|switch|p2a: Chimata|Gholdengo|100/100
+|-item|p2a: Chimata|Air Balloon
+|-activate|p1a: Kyurem|confusion
+|move|p1a: Kyurem|Outrage|p2a: Chimata
+|-resisted|p2a: Chimata
+|-damage|p2a: Chimata|80/100
+|-enditem|p2a: Chimata|Air Balloon
+|
+|upkeep
+|turn|7
+|
+|t:|1780931095
+|-end|p1a: Kyurem|confusion
+|move|p1a: Kyurem|Outrage|p2a: Chimata|[from] lockedmove
+|-resisted|p2a: Chimata
+|-damage|p2a: Chimata|62/100
+|-start|p1a: Kyurem|confusion|[fatigue]
+|move|p2a: Chimata|Dazzling Gleam|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1780931106
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|move: Sticky Web
+|-unboost|p1a: Great Tusk|spe|1
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|8
+|
+|t:|1780931114
+|move|p2a: Chimata|Dazzling Gleam|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|26/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Chimata
+|-supereffective|p2a: Chimata
+|-damage|p2a: Chimata|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Chimata
+|
+|upkeep
+|
+|t:|1780931117
+|switch|p2a: Sumireko|Iron Moth|100/100
+|turn|9
+|
+|t:|1780931119
+|move|p2a: Sumireko|Fiery Dance|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-boost|p2a: Sumireko|spa|1
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780931122
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|10
+|
+|t:|1780931131
+|move|p2a: Sumireko|Sludge Wave|p1a: Dragonite
+|-damage|p1a: Dragonite|58/100
+|-status|p1a: Dragonite|psn
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-damage|p1a: Dragonite|45/100 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1780931136
+|move|p1a: Dragonite|Earthquake|p2a: Sumireko
+|-supereffective|p2a: Sumireko
+|-damage|p2a: Sumireko|0 fnt
+|faint|p2a: Sumireko
+|-end|p2a: Sumireko|Quark Drive|[silent]
+|
+|-damage|p1a: Dragonite|33/100 psn|[from] psn
+|upkeep
+|
+|t:|1780931139
+|switch|p2a: Byakuren|Dragonite, F|100/100
+|turn|12
+|
+|t:|1780931142
+|move|p1a: Dragonite|Extreme Speed|p2a: Byakuren
+|-damage|p2a: Byakuren|77/100
+|move|p2a: Byakuren|Dragon Dance|p2a: Byakuren
+|-boost|p2a: Byakuren|atk|1
+|-boost|p2a: Byakuren|spe|1
+|
+|-damage|p1a: Dragonite|21/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1780931145
+|move|p2a: Byakuren|Extreme Speed|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1780931152
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|-activate|p1a: Grimmsnarl|move: Sticky Web
+|-unboost|p1a: Grimmsnarl|spe|1
+|turn|14
+|
+|t:|1780931166
+|switch|p2a: Tenshi|Iron Treads|100/100
+|-enditem|p2a: Tenshi|Booster Energy
+|-activate|p2a: Tenshi|ability: Quark Drive|[fromitem]
+|-start|p2a: Tenshi|quarkdriveatk
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: CMHERSOM|Reflect
+|
+|upkeep
+|turn|15
+|
+|t:|1780931176
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: CMHERSOM|move: Light Screen
+|move|p2a: Tenshi|Knock Off|p1a: Grimmsnarl
+|-resisted|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|94/100
+|-enditem|p1a: Grimmsnarl|Light Clay|[from] move: Knock Off|[of] p2a: Tenshi
+|
+|upkeep
+|turn|16
+|
+|t:|1780931190
+|move|p1a: Grimmsnarl|Parting Shot|p2a: Tenshi
+|-unboost|p2a: Tenshi|atk|1
+|-unboost|p2a: Tenshi|spa|1
+|
+|t:|1780931192
+|switch|p1a: Regidrago|Regidrago|100/100|[from] Parting Shot
+|-activate|p1a: Regidrago|move: Sticky Web
+|-unboost|p1a: Regidrago|spe|1
+|move|p2a: Tenshi|Earthquake|p1a: Regidrago
+|-damage|p1a: Regidrago|76/100
+|
+|upkeep
+|turn|17
+|
+|t:|1780931195
+|move|p2a: Tenshi|Knock Off|p1a: Regidrago
+|-damage|p1a: Regidrago|61/100
+|-enditem|p1a: Regidrago|Life Orb|[from] move: Knock Off|[of] p2a: Tenshi
+|move|p1a: Regidrago|Fire Fang|p2a: Tenshi|[miss]
+|-miss|p1a: Regidrago|p2a: Tenshi
+|
+|upkeep
+|turn|18
+|
+|t:|1780931201
+|move|p2a: Tenshi|Earthquake|p1a: Regidrago
+|-damage|p1a: Regidrago|35/100
+|move|p1a: Regidrago|Fire Fang|p2a: Tenshi
+|-supereffective|p2a: Tenshi
+|-damage|p2a: Tenshi|62/100
+|
+|upkeep
+|turn|19
+|
+|t:|1780931211
+|move|p2a: Tenshi|Earthquake|p1a: Regidrago
+|-damage|p1a: Regidrago|12/100
+|move|p1a: Regidrago|Outrage|p2a: Tenshi
+|-resisted|p2a: Tenshi
+|-damage|p2a: Tenshi|23/100
+|
+|upkeep
+|turn|20
+|
+|t:|1780931216
+|move|p2a: Tenshi|Earthquake|p1a: Regidrago
+|-damage|p1a: Regidrago|0 fnt
+|faint|p1a: Regidrago
+|
+|upkeep
+|
+|t:|1780931222
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|-activate|p1a: Pecharunt|move: Sticky Web
+|-unboost|p1a: Pecharunt|spe|1
+|turn|21
+|
+|t:|1780931234
+|move|p2a: Tenshi|Earthquake|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|72/100
+|move|p1a: Pecharunt|Shadow Ball|p2a: Tenshi
+|-damage|p2a: Tenshi|0 fnt
+|faint|p2a: Tenshi
+|-end|p2a: Tenshi|Quark Drive|[silent]
+|
+|-heal|p1a: Pecharunt|78/100|[from] item: Leftovers
+|-sideend|p1: CMHERSOM|Reflect
+|upkeep
+|
+|t:|1780931240
+|switch|p2a: Byakuren|Dragonite, F|77/100
+|turn|22
+|
+|t:|1780931243
+|move|p2a: Byakuren|Earthquake|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|33/100
+|move|p1a: Pecharunt|Malignant Chain|p2a: Byakuren
+|-damage|p2a: Byakuren|44/100
+|
+|-heal|p1a: Pecharunt|39/100|[from] item: Leftovers
+|-sideend|p1: CMHERSOM|move: Light Screen
+|upkeep
+|turn|23
+|
+|t:|1780931253
+|-terastallize|p1a: Pecharunt|Dark
+|move|p2a: Byakuren|Earthquake|p1a: Pecharunt
+|-damage|p1a: Pecharunt|17/100
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|67/100
+|
+|-heal|p1a: Pecharunt|73/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1780931262
+|move|p2a: Byakuren|Outrage|p1a: Pecharunt
+|-damage|p1a: Pecharunt|31/100
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|81/100
+|
+|-heal|p1a: Pecharunt|87/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1780931268
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|94/100
+|-activate|p1a: Grimmsnarl|move: Sticky Web
+|-unboost|p1a: Grimmsnarl|spe|1
+|move|p2a: Byakuren|Outrage|p1a: Grimmsnarl|[from] lockedmove
+|-immune|p1a: Grimmsnarl
+|-start|p2a: Byakuren|confusion|[fatigue]
+|
+|upkeep
+|turn|26
+|
+|t:|1780931275
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: CMHERSOM|move: Light Screen
+|-activate|p2a: Byakuren|confusion
+|-damage|p2a: Byakuren|28/100|[from] confusion
+|
+|upkeep
+|turn|27
+|
+|t:|1780931279
+|-end|p2a: Byakuren|confusion
+|move|p2a: Byakuren|Extreme Speed|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|54/100
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Byakuren
+|-supereffective|p2a: Byakuren
+|-damage|p2a: Byakuren|0 fnt
+|faint|p2a: Byakuren
+|
+|upkeep
+|
+|t:|1780931285
+|switch|p2a: Patchouli|Iron Valiant|100/100
+|-enditem|p2a: Patchouli|Booster Energy
+|-activate|p2a: Patchouli|ability: Quark Drive|[fromitem]
+|-start|p2a: Patchouli|quarkdrivespa
+|turn|28
+|
+|t:|1780931289
+|-terastallize|p2a: Patchouli|Ghost
+|move|p2a: Patchouli|Moonblast|p1a: Grimmsnarl
+|-supereffective|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|2/100
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Patchouli
+|-damage|p2a: Patchouli|60/100
+|-unboost|p2a: Patchouli|spa|1
+|
+|upkeep
+|turn|29
+|
+|t:|1780931304
+|move|p2a: Patchouli|Calm Mind|p2a: Patchouli
+|-boost|p2a: Patchouli|spa|1
+|-boost|p2a: Patchouli|spd|1
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Patchouli
+|-damage|p2a: Patchouli|22/100
+|-unboost|p2a: Patchouli|spa|1
+|
+|upkeep
+|turn|30
+|
+|t:|1780931311
+|move|p2a: Patchouli|Moonblast|p1a: Grimmsnarl
+|-supereffective|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|faint|p1a: Grimmsnarl
+|
+|-sideend|p1: CMHERSOM|move: Light Screen
+|upkeep
+|
+|t:|1780931313
+|switch|p1a: Pecharunt|Pecharunt, tera:Dark|87/100
+|-activate|p1a: Pecharunt|move: Sticky Web
+|-unboost|p1a: Pecharunt|spe|1
+|turn|31
+|
+|t:|1780931316
+|move|p2a: Patchouli|Moonblast|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|5/100
+|move|p1a: Pecharunt|Shadow Ball|p2a: Patchouli
+|-supereffective|p2a: Patchouli
+|-damage|p2a: Patchouli|0 fnt
+|faint|p2a: Patchouli
+|-end|p2a: Patchouli|Quark Drive|[silent]
+|
+|win|CMHERSOM
+|raw|CMHERSOM's rating: 1553 &rarr; <strong>1575</strong><br />(+22 for winning)
+|raw|ohlookarock3's rating: 1593 &rarr; <strong>1571</strong><br />(-22 for losing)
+|l|☆ohlookarock3
+|player|p2|
+|l|☆CMHERSOM
+|player|p1|

@@ -1,0 +1,522 @@
+|j|☆picosto
+|j|☆JacquesDeAlderberg
+|t:|1780915643
+|gametype|singles
+|player|p1|picosto|1|1673
+|player|p2|JacquesDeAlderberg|2|1808
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Cinderace, F|
+|poke|p1|Enamorus, F|
+|poke|p1|Zamazenta-*|
+|poke|p1|Gholdengo|
+|poke|p1|Hoopa-Unbound|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Pecharunt|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|
+|t:|1780915658
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|switch|p2a: Liberacy|Cinderace, M, shiny|100/100
+|turn|1
+|
+|t:|1780915674
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|
+|upkeep
+|turn|2
+|
+|t:|1780915679
+|move|p1a: Zamazenta|Crunch|p2a: Pisces
+|-damage|p2a: Pisces|85/100
+|-unboost|p2a: Pisces|def|1
+|move|p2a: Pisces|Flip Turn|p1a: Zamazenta
+|-damage|p1a: Zamazenta|94/100
+|
+|t:|1780915684
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100|[from] Flip Turn
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Zamazenta|atk|1
+|
+|-heal|p1a: Zamazenta|99/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1780915689
+|move|p2a: Enten|U-turn|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|95/100
+|
+|t:|1780915692
+|switch|p2a: Overseer|Pecharunt|100/100|[from] U-turn
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|-heal|p1a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1780915699
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|move|p2a: Overseer|Shadow Ball|p1a: Hoopa
+|-damage|p1a: Hoopa|90/100
+|
+|upkeep
+|turn|5
+|
+|t:|1780915701
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Pisces
+|-damage|p2a: Pisces|67/100
+|-unboost|p1a: Hoopa|def|1
+|
+|upkeep
+|turn|6
+|
+|t:|1780915711
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Pisces|atk|1
+|move|p2a: Pisces|Flip Turn|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|77/100
+|
+|t:|1780915716
+|switch|p2a: Calamity|Iron Valiant, shiny|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|7
+|
+|t:|1780915720
+|move|p1a: Landorus|Earthquake|p2a: Calamity
+|-damage|p2a: Calamity|22/100
+|move|p2a: Calamity|Moonblast|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1780915725
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|turn|8
+|
+|t:|1780915729
+|move|p1a: Cinderace|Gunk Shot|p2a: Calamity
+|-start|p1a: Cinderace|typechange|Poison|[from] ability: Libero
+|-supereffective|p2a: Calamity
+|-damage|p2a: Calamity|0 fnt
+|faint|p2a: Calamity
+|-end|p2a: Calamity|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780915732
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Cinderace|atk|1
+|turn|9
+|
+|t:|1780915737
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|move|p2a: Enten|U-turn|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|92/100
+|
+|t:|1780915746
+|switch|p2a: Khaos|Hoopa-Unbound|100/100|[from] U-turn
+|
+|-heal|p1a: Zamazenta|98/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1780915754
+|move|p1a: Zamazenta|Body Press|p2a: Khaos
+|-damage|p2a: Khaos|27/100
+|move|p2a: Khaos|Zen Headbutt|p1a: Zamazenta|[miss]
+|-miss|p2a: Khaos|p1a: Zamazenta
+|
+|-heal|p1a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1780915762
+|switch|p2a: Liberacy|Cinderace, M, shiny|100/100
+|move|p1a: Zamazenta|Crunch|p2a: Liberacy
+|-damage|p2a: Liberacy|72/100
+|
+|upkeep
+|turn|12
+|
+|t:|1780915765
+|move|p2a: Liberacy|U-turn|p1a: Zamazenta
+|-start|p2a: Liberacy|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|91/100
+|
+|t:|1780915770
+|switch|p2a: Overseer|Pecharunt|100/100|[from] U-turn
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|-heal|p1a: Zamazenta|97/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1780915773
+|switch|p1a: Hoopa|Hoopa-Unbound|90/100
+|move|p2a: Overseer|Parting Shot|p1a: Hoopa
+|-unboost|p1a: Hoopa|atk|1
+|-unboost|p1a: Hoopa|spa|1
+|
+|t:|1780915776
+|switch|p2a: Liberacy|Cinderace, M, shiny|72/100|[from] Parting Shot
+|
+|upkeep
+|turn|14
+|
+|t:|1780915782
+|switch|p1a: Zamazenta|Zamazenta|97/100
+|move|p2a: Liberacy|U-turn|p1a: Zamazenta
+|-start|p2a: Liberacy|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|88/100
+|
+|t:|1780915788
+|switch|p2a: Overseer|Pecharunt|100/100|[from] U-turn
+|
+|-heal|p1a: Zamazenta|94/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1780915791
+|switch|p1a: Hoopa|Hoopa-Unbound|90/100
+|move|p2a: Overseer|Shadow Ball|p1a: Hoopa
+|-damage|p1a: Hoopa|80/100
+|
+|upkeep
+|turn|16
+|j| flaymespl2
+|
+|t:|1780915798
+|switch|p2a: Pisces|Alomomola, M, shiny|99/100
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Pisces
+|-damage|p2a: Pisces|62/100
+|-unboost|p1a: Hoopa|def|1
+|
+|upkeep
+|turn|17
+|
+|t:|1780915803
+|move|p1a: Hoopa|Thunderbolt|p2a: Pisces
+|-supereffective|p2a: Pisces
+|-damage|p2a: Pisces|25/100
+|move|p2a: Pisces|Flip Turn|p1a: Hoopa
+|-damage|p1a: Hoopa|39/100
+|
+|t:|1780915806
+|switch|p2a: Liberacy|Cinderace, M, shiny|72/100|[from] Flip Turn
+|
+|upkeep
+|turn|18
+|
+|t:|1780915812
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Liberacy|U-turn|p1a: Gholdengo
+|-start|p2a: Liberacy|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|93/100
+|
+|t:|1780915816
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100|[from] U-turn
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Gholdengo|atk|1
+|
+|upkeep
+|turn|19
+|
+|t:|1780915819
+|move|p2a: Enten|Earthquake|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1780915823
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|turn|20
+|
+|t:|1780915829
+|switch|p2a: Overseer|Pecharunt|100/100
+|move|p1a: Enamorus|Moonblast|p2a: Overseer
+|-resisted|p2a: Overseer
+|-damage|p2a: Overseer|73/100
+|-unboost|p2a: Overseer|spa|1
+|
+|upkeep
+|turn|21
+|
+|t:|1780915835
+|switch|p2a: Pisces|Alomomola, M, shiny|58/100
+|move|p1a: Enamorus|Moonblast|p2a: Pisces
+|-damage|p2a: Pisces|27/100
+|
+|upkeep
+|turn|22
+|
+|t:|1780915839
+|switch|p2a: Liberacy|Cinderace, M, shiny|72/100
+|move|p1a: Enamorus|Moonblast|p2a: Liberacy
+|-resisted|p2a: Liberacy
+|-damage|p2a: Liberacy|35/100
+|-unboost|p2a: Liberacy|spa|1
+|
+|upkeep
+|turn|23
+|
+|t:|1780915844
+|move|p1a: Enamorus|Moonblast|p2a: Liberacy
+|-resisted|p2a: Liberacy
+|-damage|p2a: Liberacy|0 fnt
+|faint|p2a: Liberacy
+|
+|upkeep
+|
+|t:|1780915846
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Enamorus|atk|1
+|turn|24
+|
+|t:|1780915849
+|move|p1a: Enamorus|Moonblast|p2a: Enten
+|-damage|p2a: Enten|20/100
+|move|p2a: Enten|Stone Edge|p1a: Enamorus|[miss]
+|-miss|p2a: Enten|p1a: Enamorus
+|
+|upkeep
+|turn|25
+|
+|t:|1780915853
+|switch|p2a: Pisces|Alomomola, M, shiny|60/100
+|move|p1a: Enamorus|Moonblast|p2a: Pisces
+|-damage|p2a: Pisces|27/100
+|
+|upkeep
+|turn|26
+|
+|t:|1780915856
+|move|p1a: Enamorus|Moonblast|p2a: Pisces
+|-damage|p2a: Pisces|0 fnt
+|faint|p2a: Pisces
+|
+|upkeep
+|l| flaymespl2
+|
+|t:|1780915858
+|switch|p2a: Overseer|Pecharunt|73/100
+|turn|27
+|
+|t:|1780915862
+|switch|p1a: Hoopa|Hoopa-Unbound|39/100
+|move|p2a: Overseer|Malignant Chain|p1a: Hoopa
+|-damage|p1a: Hoopa|27/100
+|
+|upkeep
+|turn|28
+|
+|t:|1780915870
+|switch|p2a: Khaos|Hoopa-Unbound|27/100
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Khaos
+|-damage|p2a: Khaos|0 fnt
+|-unboost|p1a: Hoopa|def|1
+|faint|p2a: Khaos
+|
+|upkeep
+|
+|t:|1780915872
+|switch|p2a: Enten|Landorus-Therian, M, shiny|20/100
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Hoopa|atk|1
+|turn|29
+|
+|t:|1780915875
+|switch|p1a: Zamazenta|Zamazenta|94/100
+|move|p2a: Enten|Stone Edge|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|83/100
+|
+|-heal|p1a: Zamazenta|89/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1780915877
+|switch|p2a: Overseer|Pecharunt|73/100
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|52/100
+|
+|-heal|p1a: Zamazenta|95/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1780915880
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|32/100
+|move|p2a: Overseer|Parting Shot|p1a: Zamazenta
+|-unboost|p1a: Zamazenta|atk|1
+|-unboost|p1a: Zamazenta|spa|1
+|
+|t:|1780915882
+|switch|p2a: Enten|Landorus-Therian, M, shiny|20/100|[from] Parting Shot
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Zamazenta|atk|1
+|
+|-heal|p1a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1780915884
+|move|p2a: Enten|U-turn|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|94/100
+|
+|t:|1780915886
+|switch|p2a: Overseer|Pecharunt|32/100|[from] U-turn
+|move|p1a: Zamazenta|Body Press|p2a: Overseer
+|-immune|p2a: Overseer
+|
+|-heal|p1a: Zamazenta|99/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1780915889
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|22/100
+|move|p2a: Overseer|Parting Shot|p1a: Zamazenta
+|-unboost|p1a: Zamazenta|atk|1
+|-unboost|p1a: Zamazenta|spa|1
+|
+|t:|1780915891
+|switch|p2a: Enten|Landorus-Therian, M, shiny|20/100|[from] Parting Shot
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Zamazenta|atk|1
+|
+|-heal|p1a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1780915894
+|move|p2a: Enten|U-turn|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|92/100
+|
+|t:|1780915896
+|switch|p2a: Overseer|Pecharunt|22/100|[from] U-turn
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|15/100
+|-unboost|p2a: Overseer|def|1
+|
+|-heal|p1a: Zamazenta|98/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1780915899
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|4/100
+|move|p2a: Overseer|Recover|p2a: Overseer
+|-heal|p2a: Overseer|54/100
+|
+|-heal|p1a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1780915903
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|44/100
+|-unboost|p2a: Overseer|def|1
+|move|p2a: Overseer|Parting Shot|p1a: Zamazenta
+|-unboost|p1a: Zamazenta|atk|1
+|-unboost|p1a: Zamazenta|spa|1
+|
+|t:|1780915905
+|switch|p2a: Enten|Landorus-Therian, M, shiny|20/100|[from] Parting Shot
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Zamazenta|atk|1
+|
+|upkeep
+|turn|37
+|
+|t:|1780915907
+|move|p2a: Enten|U-turn|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|93/100
+|
+|t:|1780915909
+|switch|p2a: Overseer|Pecharunt|44/100|[from] U-turn
+|move|p1a: Zamazenta|Body Press|p2a: Overseer
+|-immune|p2a: Overseer
+|
+|-heal|p1a: Zamazenta|99/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1780915912
+|switch|p1a: Hoopa|Hoopa-Unbound|27/100
+|move|p2a: Overseer|Recover|p2a: Overseer
+|-heal|p2a: Overseer|94/100
+|
+|upkeep
+|turn|39
+|
+|t:|1780915915
+|move|p2a: Overseer|Shadow Ball|p1a: Hoopa
+|-damage|p1a: Hoopa|18/100
+|move|p1a: Hoopa|Psychic|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|0 fnt
+|faint|p2a: Overseer
+|
+|upkeep
+|
+|t:|1780915920
+|switch|p2a: Enten|Landorus-Therian, M, shiny|20/100
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Hoopa|atk|1
+|turn|40
+|-message|JacquesDeAlderberg forfeited.
+|
+|win|picosto
+|raw|picosto's rating: 1673 &rarr; <strong>1700</strong><br />(+27 for winning)
+|raw|JacquesDeAlderberg's rating: 1808 &rarr; <strong>1781</strong><br />(-27 for losing)
+|l|☆JacquesDeAlderberg
+|player|p2|
+|l|☆picosto
+|player|p1|
+|j| flaymespl2

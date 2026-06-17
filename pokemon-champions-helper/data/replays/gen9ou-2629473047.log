@@ -1,0 +1,725 @@
+|j|☆suprya
+|j|☆KurisuChestnutLab
+|t:|1781135160
+|gametype|singles
+|player|p1|suprya|clown|1697
+|player|p2|KurisuChestnutLab|may-contest|1661
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Dragonite, M|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Iron Treads|
+|poke|p1|Basculegion, M|
+|poke|p1|Fezandipiti, M|
+|poke|p2|Primarina, F|
+|poke|p2|Hippowdon, M|
+|poke|p2|Skarmory, M|
+|poke|p2|Zapdos|
+|poke|p2|Dragonite, M|
+|poke|p2|Slowking, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by suprya)
+|
+|t:|1781135164
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Fezandipiti|Fezandipiti, M|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|1
+|inactive|KurisuChestnutLab also wants the timer to be on.
+|
+|t:|1781135168
+|move|p1a: Fezandipiti|Moonblast|p2a: Zapdos
+|-damage|p2a: Zapdos|81/100
+|move|p2a: Zapdos|Heat Wave|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|85/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781135175
+|move|p1a: Fezandipiti|Moonblast|p2a: Zapdos
+|-damage|p2a: Zapdos|57/100
+|-status|p2a: Zapdos|tox|[from] ability: Toxic Chain|[of] p1a: Fezandipiti
+|move|p2a: Zapdos|Volt Switch|p1a: Fezandipiti
+|-crit|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|57/100
+|
+|t:|1781135179
+|switch|p2a: Dragonite|Dragonite, M|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|3
+|
+|t:|1781135184
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781135190
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Pelipper|U-turn|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|98/100
+|
+|t:|1781135194
+|switch|p1a: Dragonite|Dragonite, M|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781135199
+|-terastallize|p1a: Dragonite|Normal
+|move|p2a: Dragonite|Extreme Speed|p1a: Dragonite
+|-damage|p1a: Dragonite|69/100
+|move|p1a: Dragonite|Dragon Tail|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|18/100
+|drag|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragonite|63/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1781135207
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Hippowdon|Stealth Rock|p1a: Pelipper
+|-sidestart|p1: suprya|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781135212
+|move|p1a: Pelipper|U-turn|p2a: Hippowdon
+|-damage|p2a: Hippowdon|95/100
+|
+|t:|1781135215
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|move|p2a: Hippowdon|Whirlwind|p1a: Ogerpon
+|drag|p1a: Iron Treads|Iron Treads|100/100
+|-damage|p1a: Iron Treads|98/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Iron Treads|100/100|[from] item: Leftovers
+|-heal|p2a: Hippowdon|100/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781135220
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|88/100
+|-damage|p1a: Ogerpon|76/100|[from] Stealth Rock
+|move|p2a: Hippowdon|Earthquake|p1a: Ogerpon
+|-resisted|p1a: Ogerpon
+|-damage|p1a: Ogerpon|50/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781135227
+|switch|p2a: Dragonite|Dragonite, M|18/100
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Dragonite|[anim] Ivy Cudgel Water
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781135231
+|switch|p2a: Skarmory|Skarmory, M|100/100
+|turn|10
+|
+|t:|1781135234
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-damage|p1a: Iron Treads|98/100|[from] Stealth Rock
+|move|p2a: Skarmory|Body Press|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|50/100
+|
+|-weather|none
+|-heal|p1a: Iron Treads|56/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|j| Zenitsu is god 123
+|
+|t:|1781135244
+|move|p1a: Iron Treads|Stealth Rock|p2a: Skarmory
+|-sidestart|p2: KurisuChestnutLab|move: Stealth Rock
+|move|p2a: Skarmory|Body Press|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|10/100
+|
+|-heal|p1a: Iron Treads|16/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781135250
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Skarmory|Body Press|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|87/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781135254
+|switch|p2a: Slowking|Slowking, M|100/100
+|move|p1a: Pelipper|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|80/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781135258
+|move|p1a: Pelipper|U-turn|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|60/100
+|
+|t:|1781135261
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|50/100|[from] U-turn
+|-damage|p1a: Ogerpon|38/100|[from] Stealth Rock
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781135267
+|switch|p2a: Skarmory|Skarmory, M|100/100|[from] Chilly Reception
+|-damage|p2a: Skarmory|88/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Skarmory|94/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|suprya has 120 seconds left.
+|
+|t:|1781135306
+|move|p1a: Ogerpon|U-turn|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|90/100
+|
+|t:|1781135310
+|switch|p1a: Fezandipiti|Fezandipiti, M|57/100|[from] U-turn
+|move|p2a: Skarmory|Body Press|p1a: Fezandipiti
+|-resisted|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|49/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Skarmory|96/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781135315
+|move|p1a: Fezandipiti|Roost|p1a: Fezandipiti
+|-heal|p1a: Fezandipiti|99/100
+|-singleturn|p1a: Fezandipiti|move: Roost
+|move|p2a: Skarmory|Iron Head|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|51/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Skarmory|100/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781135320
+|move|p1a: Fezandipiti|U-turn|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|99/100
+|
+|t:|1781135324
+|switch|p1a: Pelipper|Pelipper, F|87/100|[from] U-turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Skarmory|Spikes|p1a: Pelipper
+|-sidestart|p1: suprya|Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Skarmory|100/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781135329
+|move|p2a: Skarmory|Spikes|p1a: Pelipper
+|-sidestart|p1: suprya|Spikes
+|move|p1a: Pelipper|Hurricane|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|78/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Skarmory|84/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781135333
+|move|p2a: Skarmory|Spikes|p1a: Pelipper
+|-sidestart|p1: suprya|Spikes
+|move|p1a: Pelipper|Hurricane|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|59/100
+|-start|p2a: Skarmory|confusion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Skarmory|65/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781135337
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Pelipper|Hurricane|p2a: Hippowdon
+|-damage|p2a: Hippowdon|55/100
+|-start|p2a: Hippowdon|confusion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Pelipper|81/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|62/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781135341
+|-activate|p2a: Hippowdon|confusion
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100
+|move|p1a: Pelipper|Ice Beam|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|59/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Pelipper|75/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|65/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781135346
+|switch|p2a: Slowking|Slowking, M|94/100
+|move|p1a: Pelipper|U-turn|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|73/100
+|inactive|suprya has 120 seconds left.
+|inactive|suprya has 90 seconds left.
+|
+|t:|1781135420
+|switch|p1a: Fezandipiti|Fezandipiti, M|51/100|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fezandipiti|45/100|[from] Sandstorm
+|-damage|p2a: Slowking|67/100|[from] Sandstorm
+|upkeep
+|turn|23
+|inactive|suprya has 90 seconds left.
+|
+|t:|1781135426
+|switch|p2a: Skarmory|Skarmory, M|65/100
+|-damage|p2a: Skarmory|53/100|[from] Stealth Rock
+|move|p1a: Fezandipiti|Roost|p1a: Fezandipiti
+|-heal|p1a: Fezandipiti|95/100
+|-singleturn|p1a: Fezandipiti|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fezandipiti|89/100|[from] Sandstorm
+|-heal|p2a: Skarmory|59/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781135430
+|move|p1a: Fezandipiti|U-turn|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|57/100
+|
+|t:|1781135433
+|switch|p1a: Pelipper|Pelipper, F|75/100|[from] U-turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|100/100
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1781135438
+|move|p2a: Skarmory|Iron Head|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|66/100
+|move|p1a: Pelipper|Ice Beam|p2a: Skarmory
+|-damage|p2a: Skarmory|76/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Skarmory|82/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|inactive|suprya has 120 seconds left.
+|
+|t:|1781135462
+|switch|p2a: Primarina|Primarina, F|100/100
+|-damage|p2a: Primarina|88/100|[from] Stealth Rock
+|move|p1a: Pelipper|U-turn|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|82/100
+|
+|t:|1781135468
+|switch|p1a: Fezandipiti|Fezandipiti, M|89/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|27
+|
+|t:|1781135470
+|move|p1a: Fezandipiti|Moonblast|p2a: Primarina
+|-damage|p2a: Primarina|69/100
+|-status|p2a: Primarina|tox|[from] ability: Toxic Chain|[of] p1a: Fezandipiti
+|move|p2a: Primarina|Psychic|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|53/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Primarina|63/100 tox|[from] psn
+|upkeep
+|turn|28
+|inactive|suprya has 120 seconds left.
+|
+|t:|1781135478
+|move|p1a: Fezandipiti|Roost|p1a: Fezandipiti
+|-heal|p1a: Fezandipiti|100/100
+|-singleturn|p1a: Fezandipiti|move: Roost
+|move|p2a: Primarina|Flip Turn|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|82/100
+|
+|t:|1781135483
+|switch|p2a: Hippowdon|Hippowdon, M|65/100|[from] Flip Turn
+|-damage|p2a: Hippowdon|59/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fezandipiti|76/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|65/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|inactive|suprya has 120 seconds left.
+|
+|t:|1781135503
+|move|p1a: Fezandipiti|U-turn|p2a: Hippowdon
+|-damage|p2a: Hippowdon|56/100
+|
+|t:|1781135513
+|switch|p1a: Pelipper|Pelipper, F|66/100|[from] U-turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|30
+|inactive|suprya has 120 seconds left.
+|
+|t:|1781135518
+|switch|p2a: Slowking|Slowking, M|100/100
+|move|p1a: Pelipper|Ice Beam|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|95/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|31
+|inactive|suprya has 120 seconds left.
+|
+|t:|1781135529
+|move|p1a: Pelipper|Roost|p1a: Pelipper
+|-heal|p1a: Pelipper|100/100
+|-singleturn|p1a: Pelipper|move: Roost
+|move|p2a: Slowking|Future Sight|p1a: Pelipper
+|-start|p2a: Slowking|move: Future Sight
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|32
+|inactive|suprya has 120 seconds left.
+|
+|t:|1781135539
+|move|p1a: Pelipper|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|72/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781135542
+|switch|p2a: Zapdos|Zapdos|57/100 tox|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Zapdos|51/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1781135549
+|switch|p1a: Iron Treads|Iron Treads|16/100
+|-damage|p1a: Iron Treads|13/100|[from] Stealth Rock
+|-damage|p1a: Iron Treads|0 fnt|[from] Spikes
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100 tox
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-weather|Snowscape|[upkeep]
+|-hint|Future Sight did not hit because the target is fainted.
+|-damage|p2a: Zapdos|88/100 tox|[from] psn
+|upkeep
+|
+|t:|1781135561
+|switch|p1a: Fezandipiti|Fezandipiti, M|76/100
+|turn|34
+|
+|t:|1781135564
+|move|p1a: Fezandipiti|Moonblast|p2a: Zapdos
+|-damage|p2a: Zapdos|69/100 tox
+|move|p2a: Zapdos|Volt Switch|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|59/100
+|
+|t:|1781135569
+|switch|p2a: Hippowdon|Hippowdon, M|100/100|[from] Volt Switch
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fezandipiti|52/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|100/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1781135573
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|switch|p2a: Skarmory|Skarmory, M|82/100
+|-damage|p2a: Skarmory|69/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Skarmory|75/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1781135578
+|move|p2a: Skarmory|Iron Head|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|91/100
+|cant|p1a: Pelipper|flinch
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Skarmory|81/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1781135583
+|move|p2a: Skarmory|Iron Head|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|82/100
+|move|p1a: Pelipper|Ice Beam|p2a: Skarmory
+|-damage|p2a: Skarmory|54/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Skarmory|60/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1781135590
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|100/100
+|-singleturn|p2a: Skarmory|move: Roost
+|move|p1a: Pelipper|Ice Beam|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|87/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Skarmory|93/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1781135592
+|move|p2a: Skarmory|Iron Head|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-crit|p1a: Pelipper
+|-damage|p1a: Pelipper|70/100
+|move|p1a: Pelipper|Ice Beam|p2a: Skarmory
+|-damage|p2a: Skarmory|67/100
+|
+|-weather|none
+|-heal|p2a: Skarmory|73/100|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1781135603
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|100/100
+|-singleturn|p2a: Skarmory|move: Roost
+|move|p1a: Pelipper|Ice Beam|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|88/100
+|
+|-heal|p2a: Skarmory|94/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1781135607
+|switch|p2a: Zapdos|Zapdos|69/100 tox
+|move|p1a: Pelipper|Ice Beam|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|26/100 tox
+|
+|-damage|p2a: Zapdos|20/100 tox|[from] psn
+|upkeep
+|turn|42
+|
+|t:|1781135617
+|switch|p1a: Fezandipiti|Fezandipiti, M|52/100
+|move|p2a: Zapdos|Volt Switch|p1a: Fezandipiti
+|-crit|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|26/100
+|
+|t:|1781135625
+|switch|p2a: Hippowdon|Hippowdon, M|100/100|[from] Volt Switch
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fezandipiti|19/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|100/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1781135629
+|switch|p1a: Pelipper|Pelipper, F|70/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Hippowdon|Whirlwind|p1a: Pelipper
+|drag|p1a: Ogerpon|Ogerpon-Wellspring, F|38/100
+|-damage|p1a: Ogerpon|25/100|[from] Stealth Rock
+|-damage|p1a: Ogerpon|0 fnt|[from] Spikes
+|faint|p1a: Ogerpon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781135641
+|switch|p1a: Basculegion|Basculegion, M|100/100
+|-damage|p1a: Basculegion|88/100|[from] Stealth Rock
+|-damage|p1a: Basculegion|63/100|[from] Spikes
+|turn|44
+|
+|t:|1781135646
+|switch|p2a: Zapdos|Zapdos|20/100 tox
+|move|p1a: Basculegion|Liquidation|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781135653
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|45
+|
+|t:|1781135660
+|-terastallize|p2a: Hippowdon|Steel
+|move|p1a: Basculegion|Liquidation|p2a: Hippowdon
+|-damage|p2a: Hippowdon|61/100
+|move|p2a: Hippowdon|Earthquake|p1a: Basculegion
+|-damage|p1a: Basculegion|20/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Basculegion|14/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|68/100|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1781135668
+|switch|p1a: Pelipper|Pelipper, F|70/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|47
+|
+|t:|1781135675
+|switch|p2a: Slowking|Slowking, M|100/100
+|move|p1a: Pelipper|Roost|p1a: Pelipper
+|-heal|p1a: Pelipper|100/100
+|-singleturn|p1a: Pelipper|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|48
+|
+|t:|1781135680
+|move|p1a: Pelipper|U-turn|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|80/100
+|
+|t:|1781135683
+|switch|p1a: Fezandipiti|Fezandipiti, M|19/100|[from] U-turn
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781135687
+|switch|p2a: Hippowdon|Hippowdon, M, tera:Steel|100/100|[from] Chilly Reception
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fezandipiti|13/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|100/100|[from] item: Leftovers
+|upkeep
+|turn|49
+|
+|t:|1781135698
+|move|p1a: Fezandipiti|Roost|p1a: Fezandipiti
+|-heal|p1a: Fezandipiti|64/100
+|-singleturn|p1a: Fezandipiti|move: Roost
+|move|p2a: Hippowdon|Earthquake|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|0 fnt
+|faint|p1a: Fezandipiti
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|-message|suprya forfeited.
+|
+|win|KurisuChestnutLab
+|raw|suprya's rating: 1715 &rarr; <strong>1690</strong><br />(-25 for losing)
+|raw|KurisuChestnutLab's rating: 1628 &rarr; <strong>1653</strong><br />(+25 for winning)
+|l|☆suprya
+|player|p1|

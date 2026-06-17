@@ -1,0 +1,316 @@
+|j|☆fj9endk
+|j|☆tiftif
+|t:|1781254763
+|gametype|singles
+|player|p1|fj9endk|1|1593
+|player|p2|tiftif|266|1534
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Salamence, M|
+|poke|p1|Glimmora, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Scizor, F|
+|poke|p1|Raging Bolt|
+|poke|p2|Pelipper, M|
+|poke|p2|Iron Treads|
+|poke|p2|Barraskewda, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Talonflame, M|
+|poke|p2|Keldeo-Resolute|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by fj9endk)
+|
+|t:|1781254804
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Scizor|Scizor, F|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781254824
+|move|p2a: Iron Treads|Stealth Rock|p1a: Scizor
+|-sidestart|p1: fj9endk|move: Stealth Rock
+|move|p1a: Scizor|Close Combat|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-unboost|p1a: Scizor|def|1
+|-unboost|p1a: Scizor|spd|1
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781254833
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|2
+|
+|t:|1781254835
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|-damage|p1a: Glimmora|88/100|[from] Stealth Rock
+|move|p2a: Pelipper|U-turn|p1a: Glimmora
+|-resisted|p1a: Glimmora
+|-damage|p1a: Glimmora|83/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: tiftif|move: Toxic Spikes
+|
+|t:|1781254844
+|switch|p2a: Barraskewda|Barraskewda, M|100/100|[from] U-turn
+|-status|p2a: Barraskewda|psn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Barraskewda|88/100 psn|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1781254856
+|move|p2a: Barraskewda|Flip Turn|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: tiftif|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|t:|1781254867
+|switch|p2a: Talonflame|Talonflame, M|100/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781254873
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-damage|p1a: Raging Bolt|88/100|[from] Stealth Rock
+|turn|4
+|
+|t:|1781254887
+|move|p2a: Talonflame|U-turn|p1a: Raging Bolt
+|-crit|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|74/100
+|
+|t:|1781254891
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] U-turn
+|-status|p2a: Raging Bolt|tox
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Raging Bolt|Volt Switch|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|90/100 tox
+|
+|t:|1781254899
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Iron Valiant|Iron Valiant|100/100|[from] Volt Switch
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Raging Bolt|84/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1781254905
+|move|p1a: Iron Valiant|Moonblast|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781254909
+|switch|p2a: Barraskewda|Barraskewda, M|88/100 psn
+|turn|6
+|
+|t:|1781254912
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|move|p2a: Barraskewda|Flip Turn|p1a: Ogerpon
+|-heal|p1a: Ogerpon|100/100|[from] ability: Water Absorb|[of] p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Barraskewda|76/100 psn|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1781254921
+|switch|p2a: Keldeo|Keldeo-Resolute|100/100
+|-status|p2a: Keldeo|tox
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Keldeo|[anim] Ivy Cudgel Water
+|-resisted|p2a: Keldeo
+|-damage|p2a: Keldeo|53/100 tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Keldeo|59/100 tox|[from] item: Leftovers
+|-damage|p2a: Keldeo|53/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781254933
+|switch|p1a: Raging Bolt|Raging Bolt|74/100
+|-damage|p1a: Raging Bolt|62/100|[from] Stealth Rock
+|move|p2a: Keldeo|Secret Sword|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|23/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Keldeo|59/100 tox|[from] item: Leftovers
+|-damage|p2a: Keldeo|47/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1781254947
+|move|p2a: Keldeo|Substitute|p2a: Keldeo
+|-start|p2a: Keldeo|Substitute
+|-damage|p2a: Keldeo|22/100 tox
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Keldeo
+|-supereffective|p2a: Keldeo
+|-end|p2a: Keldeo|Substitute
+|
+|-weather|none
+|-heal|p2a: Keldeo|28/100 tox|[from] item: Leftovers
+|-damage|p2a: Keldeo|10/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1781254960
+|move|p1a: Raging Bolt|Thunderclap|p2a: Keldeo
+|-supereffective|p2a: Keldeo
+|-damage|p2a: Keldeo|0 fnt
+|faint|p2a: Keldeo
+|
+|upkeep
+|
+|t:|1781254967
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|11
+|
+|t:|1781254978
+|-terastallize|p2a: Pelipper|Grass
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|-unboost|p1a: Raging Bolt|spa|2
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781254984
+|switch|p2a: Talonflame|Talonflame, M|100/100
+|turn|12
+|
+|t:|1781254987
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Scizor|Scizor, F|100/100
+|-damage|p1a: Scizor|88/100|[from] Stealth Rock
+|move|p2a: Talonflame|Hurricane|p1a: Scizor
+|-damage|p1a: Scizor|7/100
+|-start|p1a: Scizor|confusion
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781254993
+|move|p2a: Talonflame|Hurricane|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781255011
+|switch|p1a: Salamence|Salamence, M|100/100
+|-damage|p1a: Salamence|76/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1781255035
+|move|p2a: Talonflame|Hurricane|p1a: Salamence
+|-damage|p1a: Salamence|2/100
+|move|p1a: Salamence|Dual Wingbeat|p2a: Talonflame
+|-damage|p2a: Talonflame|65/100
+|-damage|p2a: Talonflame|29/100
+|-hitcount|p2a: Talonflame|2
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Salamence|9/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781255047
+|move|p2a: Talonflame|Hurricane|p1a: Salamence
+|-damage|p1a: Salamence|0 fnt
+|faint|p1a: Salamence
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781255052
+|switch|p1a: Raging Bolt|Raging Bolt|23/100
+|-damage|p1a: Raging Bolt|11/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781255057
+|switch|p2a: Barraskewda|Barraskewda, M|76/100 psn
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Barraskewda|64/100 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1781255059
+|move|p2a: Barraskewda|Aqua Jet|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Barraskewda|52/100 psn|[from] psn
+|upkeep
+|
+|t:|1781255062
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781255069
+|move|p2a: Barraskewda|Aqua Jet|p1a: Ogerpon
+|-heal|p1a: Ogerpon|100/100|[from] ability: Water Absorb|[of] p2a: Barraskewda
+|move|p1a: Ogerpon|Trailblaze|p2a: Barraskewda
+|-supereffective|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|-boost|p1a: Ogerpon|spe|1
+|faint|p2a: Barraskewda
+|
+|-weather|none
+|upkeep
+|
+|t:|1781255071
+|switch|p2a: Talonflame|Talonflame, M|29/100
+|turn|19
+|-message|tiftif forfeited.
+|
+|win|fj9endk
+|raw|fj9endk's rating: 1593 &rarr; <strong>1610</strong><br />(+17 for winning)
+|raw|tiftif's rating: 1534 &rarr; <strong>1517</strong><br />(-17 for losing)

@@ -1,0 +1,300 @@
+|j|☆zxrkawa
+|j|☆electricdingdong
+|t:|1781011415
+|gametype|singles
+|player|p1|zxrkawa|elesa|1523
+|player|p2|electricdingdong|pokekid|1535
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Meowscarada, M|
+|poke|p1|Pecharunt|
+|poke|p1|Enamorus, F|
+|poke|p1|Iron Treads|
+|poke|p1|Skarmory, M|
+|poke|p1|Slowking, M|
+|poke|p2|Iron Hands|
+|poke|p2|Iron Valiant|
+|poke|p2|Pincurchin, M|
+|poke|p2|Iron Moth|
+|poke|p2|Cresselia, F|
+|poke|p2|Hawlucha, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by zxrkawa)
+|
+|t:|1781011421
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|switch|p2a: Pincurchin|Pincurchin, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|turn|1
+|
+|t:|1781011428
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-activate|p2a: Iron Moth|ability: Quark Drive
+|-start|p2a: Iron Moth|quarkdrivespe
+|move|p1a: Meowscarada|Knock Off|p2a: Iron Moth
+|-start|p1a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p2a: Iron Moth|0 fnt
+|-enditem|p2a: Iron Moth|Power Herb|[from] move: Knock Off|[of] p1a: Meowscarada
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781011441
+|switch|p2a: Iron Hands|Iron Hands|100/100
+|-activate|p2a: Iron Hands|ability: Quark Drive
+|-start|p2a: Iron Hands|quarkdriveatk
+|turn|2
+|
+|t:|1781011447
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Iron Hands|Swords Dance|p2a: Iron Hands
+|-boost|p2a: Iron Hands|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1781011454
+|move|p1a: Pecharunt|Malignant Chain|p2a: Iron Hands
+|-damage|p2a: Iron Hands|75/100
+|-status|p2a: Iron Hands|tox
+|-start|p2a: Iron Hands|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|-enditem|p2a: Iron Hands|Lum Berry|[eat]
+|-curestatus|p2a: Iron Hands|tox|[msg]
+|-end|p2a: Iron Hands|confusion
+|move|p2a: Iron Hands|Swords Dance|p2a: Iron Hands
+|-boost|p2a: Iron Hands|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1781011464
+|move|p1a: Pecharunt|Malignant Chain|p2a: Iron Hands
+|-damage|p2a: Iron Hands|49/100
+|-status|p2a: Iron Hands|tox
+|-start|p2a: Iron Hands|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|-activate|p2a: Iron Hands|confusion
+|move|p2a: Iron Hands|Thunder Punch|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|-damage|p2a: Iron Hands|32/100 tox|[from] item: Rocky Helmet|[of] p1a: Pecharunt
+|faint|p1a: Pecharunt
+|
+|-damage|p2a: Iron Hands|26/100 tox|[from] psn
+|upkeep
+|
+|t:|1781011480
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|turn|5
+|
+|t:|1781011485
+|move|p1a: Meowscarada|Triple Axel|p2a: Iron Hands
+|-start|p1a: Meowscarada|typechange|Ice|[from] ability: Protean
+|-crit|p2a: Iron Hands
+|-damage|p2a: Iron Hands|12/100 tox
+|-damage|p2a: Iron Hands|0 fnt
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|-hitcount|p2: Iron Hands|2
+|
+|upkeep
+|
+|t:|1781011498
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-activate|p2a: Iron Valiant|ability: Quark Drive
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|6
+|
+|t:|1781011503
+|switch|p1a: Slowking|Slowking, M|100/100
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781011509
+|-terastallize|p2a: Iron Valiant|Electric
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|move|p1a: Slowking|Psyshock|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|63/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781011524
+|move|p2a: Iron Valiant|Thunderbolt|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-fieldend|move: Electric Terrain
+|-end|p2a: Iron Valiant|Quark Drive
+|upkeep
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespa
+|
+|t:|1781011533
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|turn|9
+|
+|t:|1781011538
+|move|p2a: Iron Valiant|Vacuum Wave|p1a: Meowscarada
+|-supereffective|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|faint|p1a: Meowscarada
+|
+|upkeep
+|
+|t:|1781011546
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|turn|10
+|
+|t:|1781011549
+|move|p2a: Iron Valiant|Vacuum Wave|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|9/100
+|move|p1a: Iron Treads|Earthquake|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-heal|p1a: Iron Treads|15/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781011560
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|turn|11
+|
+|t:|1781011571
+|move|p2a: Hawlucha|Close Combat|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781011574
+|switch|p1a: Skarmory|Skarmory, M|100/100
+|turn|12
+|
+|t:|1781011577
+|switch|p2a: Pincurchin|Pincurchin, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|move|p1a: Skarmory|Iron Defense|p1a: Skarmory
+|-boost|p1a: Skarmory|def|2
+|
+|upkeep
+|turn|13
+|
+|t:|1781011593
+|-terastallize|p1a: Skarmory|Dragon
+|move|p1a: Skarmory|Iron Defense|p1a: Skarmory
+|-boost|p1a: Skarmory|def|2
+|move|p2a: Pincurchin|Memento|p1a: Skarmory
+|-unboost|p1a: Skarmory|atk|2
+|-unboost|p1a: Skarmory|spa|2
+|faint|p2a: Pincurchin
+|
+|upkeep
+|
+|t:|1781011597
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|turn|14
+|
+|t:|1781011602
+|move|p1a: Skarmory|Body Press|p2a: Cresselia
+|-resisted|p2a: Cresselia
+|-damage|p2a: Cresselia|71/100
+|move|p2a: Cresselia|Calm Mind|p2a: Cresselia
+|-boost|p2a: Cresselia|spa|1
+|-boost|p2a: Cresselia|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1781011606
+|move|p1a: Skarmory|Iron Defense|p1a: Skarmory
+|-boost|p1a: Skarmory|def|2
+|move|p2a: Cresselia|Calm Mind|p2a: Cresselia
+|-boost|p2a: Cresselia|spa|1
+|-boost|p2a: Cresselia|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781011609
+|move|p1a: Skarmory|Body Press|p2a: Cresselia
+|-resisted|p2a: Cresselia
+|-damage|p2a: Cresselia|29/100
+|move|p2a: Cresselia|Calm Mind|p2a: Cresselia
+|-boost|p2a: Cresselia|spa|1
+|-boost|p2a: Cresselia|spd|1
+|
+|upkeep
+|turn|17
+|
+|t:|1781011612
+|move|p1a: Skarmory|Body Press|p2a: Cresselia
+|-resisted|p2a: Cresselia
+|-damage|p2a: Cresselia|0 fnt
+|faint|p2a: Cresselia
+|
+|upkeep
+|c|☆electricdingdong|how you doing that much
+|
+|t:|1781011624
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p2a: Hawlucha|Electric Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Electric Seed
+|turn|18
+|c|☆zxrkawa|body press doesnt calculate with attack stat
+|c|☆zxrkawa|it uses defense
+|c|☆zxrkawa|and im +6
+|
+|t:|1781011647
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|move|p1a: Skarmory|Body Press|p2a: Hawlucha
+|-resisted|p2a: Hawlucha
+|-damage|p2a: Hawlucha|45/100
+|
+|upkeep
+|turn|19
+|c|☆electricdingdong|ohhh i chocked i had moonblast
+|
+|t:|1781011658
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|move|p1a: Skarmory|Body Press|p2a: Hawlucha
+|-resisted|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|win|zxrkawa
+|raw|zxrkawa's rating: 1523 &rarr; <strong>1544</strong><br />(+21 for winning)
+|raw|electricdingdong's rating: 1535 &rarr; <strong>1514</strong><br />(-21 for losing)
+|c|☆zxrkawa|yeah u kinda did lmao
+|c|☆zxrkawa|ggs tho
+|l|☆zxrkawa
+|player|p1|

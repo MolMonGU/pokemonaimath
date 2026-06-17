@@ -1,0 +1,490 @@
+|j|☆buhuifeihhh
+|j|☆vartholomeus
+|t:|1781498528
+|gametype|singles
+|player|p1|buhuifeihhh|hilbert|1528
+|player|p2|vartholomeus|gambler|1526
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Heatran, F|
+|poke|p1|Rillaboom, M|
+|poke|p1|Moltres-Galar|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Tyranitar, F|
+|poke|p1|Volcanion|
+|poke|p2|Moltres|
+|poke|p2|Kleavor, F|
+|poke|p2|Greninja-*, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Iron Valiant|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by vartholomeus)
+|
+|t:|1781498538
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|switch|p2a: Lulu|Ting-Lu|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|-ability|p2a: Lulu|Vessel of Ruin
+|turn|1
+|
+|t:|1781498543
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|switch|p2a: Maltro|Moltres|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Maltro|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1781498545
+|move|p2a: Maltro|U-turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|76/100
+|
+|t:|1781498549
+|switch|p2a: Mantequillo|Gholdengo|100/100|[from] U-turn
+|move|p1a: Tyranitar|Stone Edge|p2a: Mantequillo
+|-resisted|p2a: Mantequillo
+|-damage|p2a: Mantequillo|70/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Mantequillo|76/100|[from] Grassy Terrain
+|-heal|p1a: Tyranitar|82/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781498556
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Mantequillo|Trick|p1a: Heatran
+|-activate|p2a: Mantequillo|move: Trick|[of] p1a: Heatran
+|-item|p1a: Heatran|Choice Scarf|[from] move: Trick
+|-item|p2a: Mantequillo|Leftovers|[from] move: Trick
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Mantequillo|82/100|[from] Grassy Terrain
+|-heal|p2a: Mantequillo|88/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781498563
+|switch|p2a: Maltro|Moltres|94/100
+|move|p1a: Heatran|Magma Storm|p2a: Maltro
+|-resisted|p2a: Maltro
+|-damage|p2a: Maltro|67/100
+|-activate|p2a: Maltro|move: Magma Storm|[of] p1a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Maltro|61/100|[from] Sandstorm
+|-damage|p2a: Maltro|49/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|5
+|
+|t:|1781498577
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|move|p2a: Maltro|Roost|p2a: Maltro
+|-heal|p2a: Maltro|99/100
+|-singleturn|p2a: Maltro|move: Roost
+|
+|-weather|none
+|-heal|p2a: Maltro|100/100|[from] Grassy Terrain
+|-end|p2a: Maltro|Magma Storm|[partiallytrapped]|[silent]
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781498580
+|move|p2a: Maltro|Flamethrower|p1a: Weezing
+|-damage|p1a: Weezing|56/100
+|move|p1a: Weezing|Toxic|p2a: Maltro
+|-status|p2a: Maltro|tox
+|
+|-heal|p1a: Weezing|62/100|[from] item: Leftovers
+|-damage|p2a: Maltro|94/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1781498584
+|move|p2a: Maltro|Flamethrower|p1a: Weezing
+|-damage|p1a: Weezing|23/100
+|move|p1a: Weezing|Pain Split|p2a: Maltro
+|-sethp|p2a: Maltro|55/100 tox|[from] move: Pain Split|[silent]
+|-sethp|p1a: Weezing|78/100|[from] move: Pain Split
+|
+|-heal|p1a: Weezing|84/100|[from] item: Leftovers
+|-damage|p2a: Maltro|43/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781498591
+|move|p2a: Maltro|U-turn|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|81/100
+|
+|t:|1781498594
+|switch|p2a: Mantequillo|Gholdengo|88/100|[from] U-turn
+|move|p1a: Weezing|Strange Steam|p2a: Mantequillo
+|-resisted|p2a: Mantequillo
+|-damage|p2a: Mantequillo|72/100
+|-start|p2a: Mantequillo|confusion
+|
+|-heal|p2a: Mantequillo|78/100|[from] item: Leftovers
+|-heal|p1a: Weezing|87/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781498601
+|switch|p1a: Heatran|Heatran, F|100/100
+|-activate|p2a: Mantequillo|confusion
+|move|p2a: Mantequillo|Focus Blast|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|35/100
+|
+|-heal|p2a: Mantequillo|84/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781498605
+|-activate|p2a: Mantequillo|confusion
+|-damage|p2a: Mantequillo|78/100|[from] confusion
+|move|p1a: Heatran|Magma Storm|p2a: Mantequillo
+|-supereffective|p2a: Mantequillo
+|-damage|p2a: Mantequillo|0 fnt
+|faint|p2a: Mantequillo
+|
+|upkeep
+|
+|t:|1781498609
+|switch|p2a: Klingk|Kleavor, F|100/100
+|turn|11
+|
+|t:|1781498612
+|move|p1a: Heatran|Magma Storm|p2a: Klingk|[miss]
+|-miss|p1a: Heatran|p2a: Klingk
+|move|p2a: Klingk|Stone Axe|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|-sidestart|p1: buhuifeihhh|move: Stealth Rock
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1781498631
+|switch|p1a: Weezing|Weezing-Galar, F|87/100
+|-damage|p1a: Weezing|75/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781498636
+|switch|p2a: Maltro|Moltres|43/100 tox
+|move|p1a: Weezing|Defog|p2a: Maltro
+|-unboost|p2a: Maltro|evasion|1
+|-sideend|p1: buhuifeihhh|Stealth Rock|[from] move: Defog|[of] p1a: Weezing
+|
+|-heal|p1a: Weezing|81/100|[from] item: Leftovers
+|-damage|p2a: Maltro|37/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1781498640
+|move|p2a: Maltro|Roost|p2a: Maltro
+|-heal|p2a: Maltro|87/100 tox
+|-singleturn|p2a: Maltro|move: Roost
+|move|p1a: Weezing|Strange Steam|p2a: Maltro
+|-resisted|p2a: Maltro
+|-damage|p2a: Maltro|74/100 tox
+|
+|-heal|p1a: Weezing|87/100|[from] item: Leftovers
+|-damage|p2a: Maltro|62/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1781498643
+|move|p2a: Maltro|Flamethrower|p1a: Weezing
+|-damage|p1a: Weezing|44/100
+|move|p1a: Weezing|Strange Steam|p2a: Maltro
+|-resisted|p2a: Maltro
+|-damage|p2a: Maltro|48/100 tox
+|
+|-heal|p1a: Weezing|50/100|[from] item: Leftovers
+|-damage|p2a: Maltro|30/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1781498648
+|move|p2a: Maltro|U-turn|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|47/100
+|
+|t:|1781498651
+|switch|p2a: Klingk|Kleavor, F|100/100|[from] U-turn
+|move|p1a: Weezing|Pain Split|p2a: Klingk
+|-sethp|p2a: Klingk|73/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Weezing|75/100|[from] move: Pain Split
+|
+|-heal|p1a: Weezing|82/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781498658
+|move|p2a: Klingk|Stone Axe|p1a: Weezing
+|-damage|p1a: Weezing|34/100
+|-sidestart|p1: buhuifeihhh|move: Stealth Rock
+|move|p1a: Weezing|Strange Steam|p2a: Klingk
+|-damage|p2a: Klingk|32/100
+|-start|p2a: Klingk|confusion
+|
+|-heal|p1a: Weezing|40/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781498668
+|switch|p1a: Tyranitar|Tyranitar, F|82/100
+|-damage|p1a: Tyranitar|70/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|-activate|p2a: Klingk|confusion
+|move|p2a: Klingk|Stone Axe|p1a: Tyranitar
+|-damage|p1a: Tyranitar|13/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781498672
+|-end|p2a: Klingk|confusion
+|move|p2a: Klingk|Close Combat|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|-unboost|p2a: Klingk|def|1
+|-unboost|p2a: Klingk|spd|1
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781498676
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-damage|p1a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|19
+|
+|t:|1781498685
+|switch|p2a: Maltro|Moltres|30/100 tox
+|switch|p1a: Volcanion|Volcanion|100/100
+|-damage|p1a: Volcanion|76/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Maltro|24/100 tox|[from] Sandstorm
+|-damage|p1a: Volcanion|70/100|[from] Sandstorm
+|-heal|p1a: Volcanion|76/100|[from] Grassy Terrain
+|-heal|p1a: Volcanion|82/100|[from] item: Leftovers
+|-damage|p2a: Maltro|18/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1781498690
+|switch|p2a: Suke|Greninja, M|100/100
+|move|p1a: Volcanion|Protect||[still]
+|-fail|p1a: Volcanion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Suke|95/100|[from] Sandstorm
+|-damage|p1a: Volcanion|76/100|[from] Sandstorm
+|-heal|p2a: Suke|100/100|[from] Grassy Terrain
+|-heal|p1a: Volcanion|82/100|[from] Grassy Terrain
+|-heal|p1a: Volcanion|88/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781498695
+|move|p2a: Suke|Dark Pulse|p1a: Volcanion
+|-damage|p1a: Volcanion|45/100
+|-damage|p2a: Suke|91/100|[from] item: Life Orb
+|move|p1a: Volcanion|Earth Power|p2a: Suke
+|-damage|p2a: Suke|35/100
+|
+|-weather|none
+|-heal|p2a: Suke|41/100|[from] Grassy Terrain
+|-heal|p1a: Volcanion|51/100|[from] Grassy Terrain
+|-heal|p1a: Volcanion|57/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781498706
+|move|p2a: Suke|Dark Pulse|p1a: Volcanion
+|-damage|p1a: Volcanion|14/100
+|-damage|p2a: Suke|31/100|[from] item: Life Orb
+|move|p1a: Volcanion|Earth Power|p2a: Suke
+|-damage|p2a: Suke|0 fnt
+|faint|p2a: Suke
+|
+|-heal|p1a: Volcanion|20/100|[from] Grassy Terrain
+|-heal|p1a: Volcanion|26/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781498711
+|switch|p2a: Klingk|Kleavor, F|32/100
+|turn|23
+|
+|t:|1781498715
+|move|p1a: Volcanion|Protect|p1a: Volcanion
+|-singleturn|p1a: Volcanion|Protect
+|move|p2a: Klingk|Stone Axe|p1a: Volcanion
+|-activate|p1a: Volcanion|move: Protect
+|
+|-heal|p2a: Klingk|38/100|[from] Grassy Terrain
+|-heal|p1a: Volcanion|32/100|[from] Grassy Terrain
+|-heal|p1a: Volcanion|38/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|24
+|
+|t:|1781498728
+|move|p2a: Klingk|Stone Axe|p1a: Volcanion|[miss]
+|-miss|p2a: Klingk|p1a: Volcanion
+|move|p1a: Volcanion|Steam Eruption|p2a: Klingk
+|-supereffective|p2a: Klingk
+|-damage|p2a: Klingk|0 fnt
+|faint|p2a: Klingk
+|
+|-heal|p1a: Volcanion|44/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781498733
+|switch|p2a: Lulu|Ting-Lu|100/100
+|-ability|p2a: Lulu|Vessel of Ruin
+|turn|25
+|
+|t:|1781498737
+|move|p1a: Volcanion|Steam Eruption|p2a: Lulu
+|-supereffective|p2a: Lulu
+|-damage|p2a: Lulu|44/100
+|move|p2a: Lulu|Earthquake|p1a: Volcanion
+|-supereffective|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|faint|p1a: Volcanion
+|
+|-heal|p2a: Lulu|50/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781498743
+|switch|p1a: Rillaboom|Rillaboom, M|88/100
+|-damage|p1a: Rillaboom|76/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|26
+|
+|t:|1781498750
+|switch|p2a: Maltro|Moltres|18/100 tox
+|move|p1a: Rillaboom|Wood Hammer|p2a: Maltro
+|-resisted|p2a: Maltro
+|-damage|p2a: Maltro|0 fnt
+|-status|p1a: Rillaboom|brn|[from] ability: Flame Body|[of] p2a: Maltro
+|faint|p2a: Maltro
+|-damage|p1a: Rillaboom|69/100 brn|[from] Recoil
+|
+|-heal|p1a: Rillaboom|76/100 brn|[from] Grassy Terrain
+|-damage|p1a: Rillaboom|69/100 brn|[from] brn
+|upkeep
+|
+|t:|1781498753
+|switch|p2a: Irohak|Iron Valiant|100/100
+|-enditem|p2a: Irohak|Booster Energy
+|-activate|p2a: Irohak|ability: Quark Drive|[fromitem]
+|-start|p2a: Irohak|quarkdrivespe
+|turn|27
+|
+|t:|1781498759
+|switch|p1a: Weezing|Weezing-Galar, F|40/100
+|-damage|p1a: Weezing|28/100|[from] Stealth Rock
+|move|p2a: Irohak|Moonblast|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|
+|upkeep
+|
+|t:|1781498761
+|switch|p1a: Rillaboom|Rillaboom, M|69/100 brn
+|-damage|p1a: Rillaboom|57/100 brn|[from] Stealth Rock
+|turn|28
+|
+|t:|1781498764
+|move|p1a: Rillaboom|Grassy Glide|p2a: Irohak
+|-damage|p2a: Irohak|62/100
+|move|p2a: Irohak|Moonblast|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Irohak|68/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781498767
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|-damage|p1a: Moltres|76/100|[from] Stealth Rock
+|turn|29
+|
+|t:|1781498771
+|-terastallize|p1a: Moltres|Poison
+|move|p2a: Irohak|Moonblast|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|55/100
+|move|p1a: Moltres|Hurricane|p2a: Irohak
+|-supereffective|p2a: Irohak
+|-damage|p2a: Irohak|0 fnt
+|faint|p2a: Irohak
+|-end|p2a: Irohak|Quark Drive|[silent]
+|
+|-heal|p1a: Moltres|61/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781498774
+|switch|p2a: Lulu|Ting-Lu|50/100
+|-ability|p2a: Lulu|Vessel of Ruin
+|turn|30
+|
+|t:|1781498781
+|move|p1a: Moltres|Hurricane|p2a: Lulu
+|-damage|p2a: Lulu|27/100
+|-start|p2a: Lulu|confusion
+|-activate|p2a: Lulu|confusion
+|move|p2a: Lulu|Earthquake|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|28/100
+|-ability|p1a: Moltres|Berserk|boost
+|-boost|p1a: Moltres|spa|1
+|-enditem|p1a: Moltres|Sitrus Berry|[eat]
+|-heal|p1a: Moltres|53/100|[from] item: Sitrus Berry
+|
+|-heal|p1a: Moltres|59/100|[from] Grassy Terrain
+|-heal|p2a: Lulu|34/100|[from] Grassy Terrain
+|-heal|p2a: Lulu|40/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|31
+|
+|t:|1781498792
+|move|p1a: Moltres|Hurricane|p2a: Lulu
+|-damage|p2a: Lulu|5/100
+|-activate|p2a: Lulu|confusion
+|-damage|p2a: Lulu|0 fnt|[from] confusion
+|faint|p2a: Lulu
+|
+|win|buhuifeihhh
+|raw|buhuifeihhh's rating: 1528 &rarr; <strong>1548</strong><br />(+20 for winning)
+|raw|vartholomeus's rating: 1526 &rarr; <strong>1506</strong><br />(-20 for losing)
+|l|☆vartholomeus
+|player|p2|
+|l|☆buhuifeihhh
+|player|p1|

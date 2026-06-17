@@ -1,0 +1,301 @@
+|j|☆suparsayajin
+|j|☆KnightKnaveSpy
+|t:|1781157405
+|gametype|singles
+|player|p1|suparsayajin|2|1529
+|player|p2|KnightKnaveSpy|101|1632
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Bellibolt, M|
+|poke|p1|Salamence, M|
+|poke|p1|Mimikyu, M|
+|poke|p1|Krookodile, M|
+|poke|p1|Quaquaval, F|
+|poke|p1|Charizard, F|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Blaziken, M|
+|poke|p2|Kingambit, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Greninja-*, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by suparsayajin)
+|
+|t:|1781157418
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Krookodile|Krookodile, M|100/100
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|turn|1
+|
+|t:|1781157423
+|move|p1a: Krookodile|Close Combat|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|9/100
+|-unboost|p1a: Krookodile|def|1
+|-unboost|p1a: Krookodile|spd|1
+|move|p2a: Samurott|Aqua Cutter|p1a: Krookodile
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|0 fnt
+|faint|p1a: Krookodile
+|
+|upkeep
+|
+|t:|1781157428
+|switch|p1a: Quaquaval|Quaquaval, F|100/100
+|turn|2
+|
+|t:|1781157447
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Quaquaval|Rapid Spin|p2a: Ogerpon
+|-damage|p2a: Ogerpon|78/100
+|-boost|p1a: Quaquaval|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781157451
+|move|p1a: Quaquaval|Triple Axel|p2a: Ogerpon
+|-damage|p2a: Ogerpon|69/100
+|-hitcount|p2a: Ogerpon|1
+|move|p2a: Ogerpon|Horn Leech|p1a: Quaquaval
+|-supereffective|p1a: Quaquaval
+|-damage|p1a: Quaquaval|0 fnt
+|-heal|p2a: Ogerpon|100/100|[from] drain|[of] p1a: Quaquaval
+|faint|p1a: Quaquaval
+|
+|upkeep
+|
+|t:|1781157458
+|switch|p1a: Salamence|Salamence, M|100/100
+|turn|4
+|
+|t:|1781157475
+|move|p1a: Salamence|Outrage|p2a: Ogerpon
+|-damage|p2a: Ogerpon|23/100
+|move|p2a: Ogerpon|U-turn|p1a: Salamence
+|-resisted|p1a: Salamence
+|-damage|p1a: Salamence|84/100
+|
+|t:|1781157482
+|switch|p2a: Kingambit|Kingambit, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|5
+|
+|t:|1781157487
+|move|p1a: Salamence|Outrage|p2a: Kingambit|[from] lockedmove
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|77/100
+|-start|p1a: Salamence|confusion|[fatigue]
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Salamence
+|-damage|p1a: Salamence|11/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781157494
+|move|p2a: Kingambit|Sucker Punch|p1a: Salamence
+|-damage|p1a: Salamence|0 fnt
+|faint|p1a: Salamence
+|
+|upkeep
+|
+|t:|1781157496
+|switch|p1a: Mimikyu|Mimikyu, M|100/100
+|turn|7
+|
+|t:|1781157503
+|move|p1a: Mimikyu|Swords Dance|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|2
+|move|p2a: Kingambit|Iron Head|p1a: Mimikyu
+|-activate|p1a: Mimikyu|ability: Disguise
+|-damage|p1a: Mimikyu|100/100
+|detailschange|p1a: Mimikyu|Mimikyu-Busted, M
+|-damage|p1a: Mimikyu|88/100|[from] pokemon: Mimikyu-Busted
+|-enditem|p1a: Mimikyu|Red Card|[of] p2a: Kingambit
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|drag|p2a: Raging Bolt|Raging Bolt|100/100
+|-item|p2a: Raging Bolt|Air Balloon
+|
+|upkeep
+|turn|8
+|
+|t:|1781157510
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Samurott|Samurott-Hisui, F|9/100
+|move|p1a: Mimikyu|Play Rough|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|upkeep
+|
+|t:|1781157531
+|switch|p2a: Greninja|Greninja, M|100/100
+|turn|9
+|
+|t:|1781157538
+|move|p2a: Greninja|Hydro Pump|p1a: Mimikyu
+|-start|p2a: Greninja|typechange|Water|[from] ability: Protean
+|-damage|p1a: Mimikyu|26/100
+|move|p1a: Mimikyu|Drain Punch|p2a: Greninja
+|-damage|p2a: Greninja|36/100
+|-heal|p1a: Mimikyu|63/100|[from] drain|[of] p2a: Greninja
+|
+|upkeep
+|turn|10
+|
+|t:|1781157546
+|move|p2a: Greninja|Water Shuriken|p1a: Mimikyu
+|-damage|p1a: Mimikyu|54/100
+|-damage|p1a: Mimikyu|46/100
+|-hitcount|p1a: Mimikyu|2
+|move|p1a: Mimikyu|Shadow Sneak|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|faint|p2a: Greninja
+|
+|upkeep
+|
+|t:|1781157556
+|switch|p2a: Blaziken|Blaziken, M|100/100
+|turn|11
+|
+|t:|1781157559
+|move|p2a: Blaziken|Detect|p2a: Blaziken
+|-singleturn|p2a: Blaziken|Protect
+|move|p1a: Mimikyu|Swords Dance|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|2
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|12
+|
+|t:|1781157562
+|move|p1a: Mimikyu|Shadow Sneak|p2a: Blaziken
+|-damage|p2a: Blaziken|27/100
+|move|p2a: Blaziken|Flare Blitz|p1a: Mimikyu
+|-damage|p1a: Mimikyu|0 fnt
+|faint|p1a: Mimikyu
+|-damage|p2a: Blaziken|14/100|[from] Recoil
+|
+|-heal|p2a: Blaziken|20/100|[from] item: Leftovers
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1781157567
+|switch|p1a: Bellibolt|Bellibolt, M|100/100
+|turn|13
+|
+|t:|1781157572
+|move|p2a: Blaziken|Close Combat|p1a: Bellibolt
+|-damage|p1a: Bellibolt|56/100
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|-start|p1a: Bellibolt|Charge|Close Combat|[from] ability: Electromorphosis
+|move|p1a: Bellibolt|Parabolic Charge|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|-heal|p1a: Bellibolt|63/100|[from] drain|[of] p2a: Blaziken
+|faint|p2a: Blaziken
+|-end|p1a: Bellibolt|Charge|[silent]
+|
+|-heal|p1a: Bellibolt|69/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781157583
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|23/100
+|turn|14
+|
+|t:|1781157595
+|-terastallize|p1a: Bellibolt|Grass
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Bellibolt|[anim] Ivy Cudgel Water
+|-resisted|p1a: Bellibolt
+|-damage|p1a: Bellibolt|48/100
+|-start|p1a: Bellibolt|Charge|Ivy Cudgel|[from] ability: Electromorphosis
+|move|p1a: Bellibolt|Parabolic Charge|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|-heal|p1a: Bellibolt|56/100|[from] drain|[of] p2a: Ogerpon
+|faint|p2a: Ogerpon
+|-end|p1a: Bellibolt|Charge|[silent]
+|
+|-heal|p1a: Bellibolt|62/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781157600
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-item|p2a: Raging Bolt|Air Balloon
+|turn|15
+|
+|t:|1781157606
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Bellibolt
+|-damage|p1a: Bellibolt|2/100
+|-unboost|p2a: Raging Bolt|spa|2
+|-start|p1a: Bellibolt|Charge|Draco Meteor|[from] ability: Electromorphosis
+|move|p1a: Bellibolt|Charge Beam|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|93/100
+|-boost|p1a: Bellibolt|spa|1
+|-enditem|p2a: Raging Bolt|Air Balloon
+|-end|p1a: Bellibolt|Charge|[silent]
+|
+|-heal|p1a: Bellibolt|8/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781157610
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Bellibolt
+|-damage|p1a: Bellibolt|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Bellibolt
+|
+|upkeep
+|
+|t:|1781157612
+|switch|p1a: Charizard|Charizard, F|100/100
+|turn|17
+|
+|t:|1781157613
+|move|p1a: Charizard|Belly Drum|p1a: Charizard
+|-damage|p1a: Charizard|50/100
+|-setboost|p1a: Charizard|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Charizard|Sitrus Berry|[eat]
+|-heal|p1a: Charizard|75/100|[from] item: Sitrus Berry
+|move|p2a: Raging Bolt|Volt Switch|p1a: Charizard
+|-supereffective|p1a: Charizard
+|-damage|p1a: Charizard|39/100
+|
+|t:|1781157616
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Kingambit|Kingambit, M|77/100|[from] Volt Switch
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|
+|upkeep
+|turn|18
+|
+|t:|1781157620
+|move|p2a: Kingambit|Sucker Punch|p1a: Charizard
+|-damage|p1a: Charizard|0 fnt
+|faint|p1a: Charizard
+|
+|win|KnightKnaveSpy
+|raw|suparsayajin's rating: 1529 &rarr; <strong>1515</strong><br />(-14 for losing)
+|raw|KnightKnaveSpy's rating: 1632 &rarr; <strong>1646</strong><br />(+14 for winning)
+|l|☆suparsayajin
+|player|p1|
+|c|☆KnightKnaveSpy|Gg
+|l|☆KnightKnaveSpy
+|player|p2|

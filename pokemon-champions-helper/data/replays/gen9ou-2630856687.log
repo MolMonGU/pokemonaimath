@@ -1,0 +1,283 @@
+|j|☆DonovanIsNotHere
+|j|☆Croomz
+|t:|1781302955
+|gametype|singles
+|player|p1|DonovanIsNotHere|1|1510
+|player|p2|Croomz|170|1525
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragonite, M|
+|poke|p1|Darkrai|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Corviknight, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Gholdengo|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Dragonite, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Iron Moth|
+|poke|p2|Iron Valiant|
+|poke|p2|Moltres-Galar|
+|teampreview
+|
+|t:|1781302969
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Conquest|Landorus-Therian, M|100/100
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-ability|p1a: Conquest|Intimidate|boost
+|-unboost|p2a: Iron Valiant|atk|1
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|1
+|
+|t:|1781302976
+|switch|p1a: Lucan|Corviknight, M, shiny|100/100
+|-ability|p1a: Lucan|Pressure
+|move|p2a: Iron Valiant|Moonblast|p1a: Lucan
+|-resisted|p1a: Lucan
+|-damage|p1a: Lucan|86/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781302980
+|move|p2a: Iron Valiant|Destiny Bond|p2a: Iron Valiant
+|-singlemove|p2a: Iron Valiant|Destiny Bond
+|move|p1a: Lucan|Brave Bird|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|7/100
+|-damage|p1a: Lucan|63/100|[from] Recoil
+|
+|upkeep
+|turn|3
+|
+|t:|1781302990
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|move|p1a: Lucan|Brave Bird|p2a: Iron Moth
+|-damage|p2a: Iron Moth|51/100
+|-damage|p1a: Lucan|51/100|[from] Recoil
+|
+|upkeep
+|turn|4
+|
+|t:|1781303001
+|switch|p1a: Thragg|Dragonite, M|100/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Thragg
+|-resisted|p1a: Thragg
+|-damage|p1a: Thragg|91/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781303007
+|move|p1a: Thragg|Extreme Speed|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DonovanIsNotHere)
+|
+|t:|1781303015
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|turn|6
+|
+|t:|1781303020
+|move|p1a: Thragg|Extreme Speed|p2a: Samurott
+|-damage|p2a: Samurott|37/100
+|move|p2a: Samurott|Ceaseless Edge|p1a: Thragg
+|-damage|p1a: Thragg|39/100
+|-sidestart|p1: DonovanIsNotHere|Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1781303026
+|move|p1a: Thragg|Extreme Speed|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|upkeep
+|
+|t:|1781303028
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|-item|p2a: Kingambit|Air Balloon
+|turn|8
+|
+|t:|1781303031
+|switch|p1a: Conquest|Landorus-Therian, M|100/100
+|-ability|p1a: Conquest|Intimidate|boost
+|-unboost|p2a: Kingambit|atk|1
+|move|p2a: Kingambit|Iron Head|p1a: Conquest
+|-damage|p1a: Conquest|55/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781303040
+|move|p1a: Conquest|Stone Edge|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-crit|p2a: Kingambit
+|-damage|p2a: Kingambit|80/100
+|-enditem|p2a: Kingambit|Air Balloon
+|move|p2a: Kingambit|Iron Head|p1a: Conquest
+|-damage|p1a: Conquest|15/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781303045
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Conquest|Taunt|p2a: Kingambit
+|-start|p2a: Kingambit|move: Taunt
+|
+|upkeep
+|turn|11
+|
+|t:|1781303049
+|move|p1a: Conquest|Stealth Rock|p2a: Kingambit
+|-sidestart|p2: Croomz|move: Stealth Rock
+|move|p2a: Kingambit|Iron Head|p1a: Conquest
+|-damage|p1a: Conquest|0 fnt
+|faint|p1a: Conquest
+|
+|upkeep
+|
+|t:|1781303065
+|switch|p1a: Thula|Samurott-Hisui, F, shiny|100/100
+|-damage|p1a: Thula|88/100|[from] Spikes
+|turn|12
+|
+|t:|1781303071
+|move|p1a: Thula|Sacred Sword|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen2|[silent]
+|
+|upkeep
+|
+|t:|1781303077
+|switch|p2a: Iron Valiant|Iron Valiant|7/100
+|-damage|p2a: Iron Valiant|1/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1781303087
+|switch|p1a: Lucan|Corviknight, M, shiny|51/100
+|-ability|p1a: Lucan|Pressure
+|move|p2a: Iron Valiant|Knock Off|p1a: Lucan
+|-damage|p1a: Lucan|26/100
+|-enditem|p1a: Lucan|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Iron Valiant
+|
+|upkeep
+|turn|14
+|
+|t:|1781303092
+|move|p2a: Iron Valiant|Close Combat|p1a: Lucan
+|-damage|p1a: Lucan|0 fnt
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|faint|p1a: Lucan
+|
+|upkeep
+|
+|t:|1781303097
+|switch|p1a: Kregg|Darkrai|100/100
+|turn|15
+|
+|t:|1781303100
+|move|p1a: Kregg|Sludge Bomb|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781303103
+|switch|p2a: Moltres|Moltres-Galar|100/100
+|-damage|p2a: Moltres|76/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781303108
+|move|p1a: Kregg|Nasty Plot|p1a: Kregg
+|-boost|p1a: Kregg|spa|2
+|move|p2a: Moltres|Hurricane|p1a: Kregg|[miss]
+|-miss|p2a: Moltres|p1a: Kregg
+|
+|upkeep
+|turn|17
+|
+|t:|1781303114
+|move|p1a: Kregg|Sludge Bomb|p2a: Moltres
+|-crit|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|
+|upkeep
+|
+|t:|1781303117
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|18
+|
+|t:|1781303120
+|move|p1a: Kregg|Sludge Bomb|p2a: Dragonite
+|-damage|p2a: Dragonite|68/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|19
+|
+|t:|1781303131
+|move|p2a: Dragonite|Outrage|p1a: Kregg
+|-damage|p1a: Kregg|0 fnt
+|faint|p1a: Kregg
+|
+|upkeep
+|
+|t:|1781303142
+|switch|p1a: Anissa|Gholdengo|100/100
+|-item|p1a: Anissa|Air Balloon
+|turn|20
+|
+|t:|1781303147
+|-terastallize|p1a: Anissa|Fairy
+|move|p2a: Dragonite|Outrage|p1a: Anissa|[from] lockedmove
+|-immune|p1a: Anissa
+|-start|p2a: Dragonite|confusion|[fatigue]
+|move|p1a: Anissa|Make It Rain|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|-unboost|p1a: Anissa|spa|1
+|faint|p2a: Dragonite
+|
+|win|DonovanIsNotHere
+|raw|DonovanIsNotHere's rating: 1510 &rarr; <strong>1531</strong><br />(+21 for winning)
+|raw|Croomz's rating: 1525 &rarr; <strong>1504</strong><br />(-21 for losing)
+|l|☆Croomz
+|player|p2|
+|l|☆DonovanIsNotHere
+|player|p1|
+|j|☆DonovanIsNotHere
+|player|p1|DonovanIsNotHere|1|

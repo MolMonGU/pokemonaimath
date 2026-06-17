@@ -1,0 +1,292 @@
+|j|☆bigguy916
+|j|☆Davetron3030
+|t:|1781489522
+|gametype|singles
+|player|p1|bigguy916|unknownf|1620
+|player|p2|Davetron3030|dancer|1691
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torterra, M|
+|poke|p1|Glimmora, F|
+|poke|p1|Iron Moth|
+|poke|p1|Dragonite, M|
+|poke|p1|Kingambit, M|
+|poke|p1|Walking Wake|
+|poke|p2|Garchomp, F|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Crown|
+|poke|p2|Iron Valiant|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Zapdos-Galar|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by bigguy916)
+|
+|t:|1781489525
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ber|Glimmora, F|100/100
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|turn|1
+|
+|t:|1781489541
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-enditem|p1a: Walking Wake|Booster Energy
+|-activate|p1a: Walking Wake|ability: Protosynthesis|[fromitem]
+|-start|p1a: Walking Wake|protosynthesisspa
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Walking Wake
+|-resisted|p1a: Walking Wake
+|-damage|p1a: Walking Wake|86/100
+|-resisted|p1a: Walking Wake
+|-damage|p1a: Walking Wake|71/100
+|-hitcount|p1a: Walking Wake|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781489551
+|move|p2a: Iron Crown|Volt Switch|p1a: Walking Wake
+|-damage|p1a: Walking Wake|41/100
+|
+|t:|1781489554
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100|[from] Volt Switch
+|move|p1a: Walking Wake|Surf|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|53/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781489562
+|move|p1a: Walking Wake|Dragon Pulse|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|upkeep
+|
+|t:|1781489567
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|turn|4
+|
+|t:|1781489578
+|move|p2a: Iron Valiant|Moonblast|p1a: Walking Wake
+|-supereffective|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781489582
+|switch|p1a: Be|Iron Moth|100/100
+|-enditem|p1a: Be|Booster Energy
+|-activate|p1a: Be|ability: Quark Drive|[fromitem]
+|-start|p1a: Be|quarkdrivespa
+|turn|5
+|
+|t:|1781489592
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|-terastallize|p1a: Be|Psychic
+|move|p1a: Be|Psychic|p2a: Garchomp
+|-damage|p2a: Garchomp|38/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781489607
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Be|Psychic|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|68/100
+|
+|-heal|p2a: Gholdengo|74/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781489619
+|move|p1a: Be|Agility|p1a: Be
+|-boost|p1a: Be|spe|2
+|move|p2a: Gholdengo|Thunder Wave|p1a: Be
+|-status|p1a: Be|par
+|
+|-heal|p2a: Gholdengo|80/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781489628
+|cant|p1a: Be|par
+|move|p2a: Gholdengo|Hex|p1a: Be
+|-supereffective|p1a: Be
+|-damage|p1a: Be|0 fnt
+|faint|p1a: Be
+|-end|p1a: Be|Quark Drive|[silent]
+|
+|-heal|p2a: Gholdengo|86/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781489637
+|switch|p1a: Ber|Glimmora, F|100/100
+|turn|9
+|
+|t:|1781489641
+|move|p1a: Ber|Stealth Rock|p2a: Gholdengo
+|-sidestart|p2: Davetron3030|move: Stealth Rock
+|move|p2a: Gholdengo|Thunder Wave|p1a: Ber
+|-status|p1a: Ber|par
+|
+|-heal|p2a: Gholdengo|92/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781489648
+|move|p2a: Gholdengo|Hex|p1a: Ber
+|-damage|p1a: Ber|26/100 par
+|move|p1a: Ber|Earth Power|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|35/100
+|-unboost|p2a: Gholdengo|spd|1
+|
+|-heal|p2a: Gholdengo|41/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781489658
+|move|p2a: Gholdengo|Hex|p1a: Ber
+|-damage|p1a: Ber|0 fnt
+|faint|p1a: Ber
+|
+|-heal|p2a: Gholdengo|47/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781489662
+|switch|p1a: Torterra|Torterra, M|100/100
+|turn|12
+|
+|t:|1781489668
+|move|p2a: Gholdengo|Make It Rain|p1a: Torterra
+|-damage|p1a: Torterra|39/100
+|-unboost|p2a: Gholdengo|spa|1
+|move|p1a: Torterra|Shell Smash|p1a: Torterra
+|-unboost|p1a: Torterra|def|1
+|-unboost|p1a: Torterra|spd|1
+|-boost|p1a: Torterra|atk|2
+|-boost|p1a: Torterra|spa|2
+|-boost|p1a: Torterra|spe|2
+|
+|-heal|p2a: Gholdengo|53/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781489680
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|-damage|p2a: Zapdos|88/100|[from] Stealth Rock
+|move|p1a: Torterra|Headlong Rush|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|upkeep
+|turn|14
+|
+|t:|1781489688
+|move|p2a: Zapdos|Brave Bird|p1a: Torterra
+|-supereffective|p1a: Torterra
+|-damage|p1a: Torterra|0 fnt
+|faint|p1a: Torterra
+|-damage|p2a: Zapdos|75/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1781489698
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|15
+|
+|t:|1781489701
+|move|p2a: Zapdos|Brave Bird|p1a: Dragonite
+|-damage|p1a: Dragonite|66/100
+|-damage|p2a: Zapdos|63/100|[from] Recoil
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781489712
+|move|p2a: Zapdos|Brave Bird|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|-damage|p2a: Zapdos|42/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1781489715
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|turn|17
+|
+|t:|1781489722
+|switch|p2a: Garchomp|Garchomp, F|38/100
+|-damage|p2a: Garchomp|32/100|[from] Stealth Rock
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|upkeep
+|turn|18
+|
+|t:|1781489739
+|move|p1a: Kingambit|Sucker Punch|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Kingambit|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Kingambit|72/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1781489746
+|switch|p2a: Gholdengo|Gholdengo|53/100
+|-damage|p2a: Gholdengo|47/100|[from] Stealth Rock
+|turn|19
+|inactive|bigguy916 has 120 seconds left.
+|
+|t:|1781489793
+|move|p2a: Gholdengo|Thunder Wave|p1a: Kingambit
+|-status|p1a: Kingambit|par
+|-enditem|p1a: Kingambit|Lum Berry|[eat]
+|-curestatus|p1a: Kingambit|par|[msg]
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781489803
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-damage|p2a: Iron Valiant|94/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1781489812
+|-terastallize|p2a: Iron Valiant|Fighting
+|move|p2a: Iron Valiant|Vacuum Wave|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen5|[silent]
+|
+|win|Davetron3030
+|raw|bigguy916's rating: 1620 &rarr; <strong>1604</strong><br />(-16 for losing)
+|raw|Davetron3030's rating: 1691 &rarr; <strong>1707</strong><br />(+16 for winning)
+|l|☆Davetron3030
+|player|p2|

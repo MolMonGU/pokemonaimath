@@ -1,0 +1,208 @@
+|j|☆Davy12345
+|j|☆LowEL0God
+|t:|1781414906
+|gametype|singles
+|player|p1|Davy12345|drayden|1631
+|player|p2|LowEL0God|265|1610
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Garchomp, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Kyurem|
+|poke|p1|Corviknight, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Davy12345)
+|c|☆LowEL0God|hf
+|inactive|LowEL0God also wants the timer to be on.
+|
+|t:|1781414924
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|1
+|
+|t:|1781414929
+|move|p1a: Iron Valiant|Close Combat|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|
+|upkeep
+|
+|t:|1781414930
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|2
+|
+|t:|1781414932
+|move|p1a: Iron Valiant|Thunderbolt|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781414933
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|3
+|
+|t:|1781414937
+|move|p2a: Barraskewda|Liquidation|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781414942
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|4
+|
+|t:|1781414945
+|move|p2a: Barraskewda|Liquidation|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|49/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Barraskewda
+|-supereffective|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781414947
+|switch|p2a: Overqwil|Overqwil, M|100/100
+|turn|5
+|
+|t:|1781414951
+|move|p2a: Overqwil|Crunch|p1a: Kyurem
+|-damage|p1a: Kyurem|1/100
+|-damage|p2a: Overqwil|91/100|[from] item: Life Orb
+|move|p1a: Kyurem|Freeze-Dry|p2a: Overqwil
+|-damage|p2a: Overqwil|35/100
+|-status|p2a: Overqwil|frz
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781414954
+|cant|p2a: Overqwil|frz
+|move|p1a: Kyurem|Freeze-Dry|p2a: Overqwil
+|-damage|p2a: Overqwil|0 fnt
+|faint|p2a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781414954
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|7
+|
+|t:|1781414956
+|move|p2a: Iron Treads|Earth Power|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781414959
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|turn|8
+|
+|t:|1781414961
+|move|p2a: Iron Treads|Earth Power|p1a: Garchomp
+|-damage|p1a: Garchomp|67/100
+|move|p1a: Garchomp|Earthquake|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-crit|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781414963
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|9
+|
+|t:|1781414965
+|-terastallize|p1a: Garchomp|Fairy
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p1a: Garchomp|Earthquake|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|65/100
+|move|p2a: Raging Bolt|Weather Ball|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-weather|none
+|upkeep
+|
+|t:|1781414975
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|turn|10
+|
+|t:|1781414977
+|move|p2a: Raging Bolt|Thunder|p1a: Slowking
+|-damage|p1a: Slowking|54/100
+|move|p1a: Slowking|Sludge Bomb|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|9/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781414981
+|move|p2a: Raging Bolt|Thunder|p1a: Slowking
+|-damage|p1a: Slowking|7/100
+|move|p1a: Slowking|Sludge Bomb|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|win|Davy12345
+|raw|Davy12345's rating: 1631 &rarr; <strong>1650</strong><br />(+19 for winning)
+|raw|LowEL0God's rating: 1610 &rarr; <strong>1591</strong><br />(-19 for losing)
+|l|☆Davy12345
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|

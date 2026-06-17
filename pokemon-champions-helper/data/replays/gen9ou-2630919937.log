@@ -1,0 +1,371 @@
+|badge|p2|bronze|gen9randombattle|100-9
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆MRH1106
+|j|‽LT_Alt1
+|t:|1781311377
+|gametype|singles
+|player|p1|MRH1106|miku-ghost|1671
+|player|p2|LT_Alt1|1|1819
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Indeedee, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Ursaluna, F|
+|poke|p1|Iron Hands|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Mimikyu, F|
+|poke|p2|Kyurem|
+|poke|p2|Raging Bolt|
+|poke|p2|Hatterene, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Corviknight, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by MRH1106)
+|
+|t:|1781311401
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Hands|Iron Hands, shiny|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-enditem|p1a: Iron Hands|Booster Energy
+|-activate|p1a: Iron Hands|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Hands|quarkdriveatk
+|turn|1
+|
+|t:|1781311410
+|move|p1a: Iron Hands|Heavy Slam|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|j| ketbreezy
+|
+|t:|1781311420
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|turn|2
+|
+|t:|1781311424
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|move|p1a: Iron Hands|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|71/100
+|-unboost|p1a: Iron Hands|def|1
+|-unboost|p1a: Iron Hands|spd|1
+|-damage|p1a: Iron Hands|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|upkeep
+|turn|3
+|
+|t:|1781311429
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Mimikyu|Mimikyu, F, shiny|100/100
+|move|p2a: Corviknight|Body Press|p1a: Mimikyu
+|-immune|p1a: Mimikyu
+|
+|upkeep
+|turn|4
+|
+|t:|1781311433
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|move|p1a: Mimikyu|Trick Room|p1a: Mimikyu
+|-fieldstart|move: Trick Room|[of] p1a: Mimikyu
+|
+|upkeep
+|turn|5
+|
+|t:|1781311442
+|switch|p1a: Hatterene|Hatterene, F, shiny|100/100
+|move|p2a: Corviknight|Body Press|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|81/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781311449
+|switch|p1a: Ursaluna|Ursaluna, F, shiny|100/100
+|move|p2a: Corviknight|Body Press|p1a: Ursaluna
+|-supereffective|p1a: Ursaluna
+|-damage|p1a: Ursaluna|9/100
+|
+|-status|p1a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|7
+|j| welovevaporeon
+|c|☆MRH1106|wtf
+|
+|t:|1781311459
+|move|p1a: Ursaluna|Supercell Slam|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|43/100
+|-damage|p1a: Ursaluna|0 fnt|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p1a: Ursaluna
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|93/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|
+|t:|1781311461
+|switch|p1a: Hatterene|Hatterene, F, shiny|81/100
+|turn|8
+|
+|t:|1781311464
+|move|p1a: Hatterene|Mystical Fire|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|22/100
+|-unboost|p2a: Corviknight|spa|1
+|-damage|p1a: Hatterene|71/100|[from] item: Life Orb
+|move|p2a: Corviknight|Body Press|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|42/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|9
+|
+|t:|1781311475
+|move|p2a: Corviknight|Body Press|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|22/100
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldstart|move: Trick Room|[of] p1a: Hatterene
+|
+|upkeep
+|turn|10
+|
+|t:|1781311480
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|-terastallize|p1a: Hatterene|Stellar
+|move|p1a: Hatterene|Expanding Force|p2a: Slowking
+|-damage|p2a: Slowking|42/100
+|-damage|p1a: Hatterene|12/100|[from] item: Life Orb
+|
+|upkeep
+|turn|11
+|
+|t:|1781311490
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Hatterene|Expanding Force|p2a: Ting-Lu
+|-immune|p2a: Ting-Lu
+|
+|upkeep
+|turn|12
+|
+|t:|1781311496
+|switch|p2a: Slowking|Slowking-Galar, M|76/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|55/100
+|-heal|p1a: Hatterene|31/100|[from] drain|[of] p2a: Slowking
+|-damage|p1a: Hatterene|22/100|[from] item: Life Orb
+|
+|upkeep
+|turn|13
+|
+|t:|1781311507
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Hoopa
+|-damage|p1a: Hoopa|76/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|14
+|
+|t:|1781311513
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|89/100
+|-unboost|p1a: Hoopa|def|1
+|
+|-heal|p2a: Ting-Lu|95/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781311523
+|move|p1a: Hoopa|Focus Blast|p2a: Ting-Lu|[miss]
+|-miss|p1a: Hoopa|p2a: Ting-Lu
+|move|p2a: Ting-Lu|Ruination|p1a: Hoopa
+|-damage|p1a: Hoopa|38/100
+|
+|-heal|p2a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781311531
+|move|p1a: Hoopa|Focus Blast|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|53/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|-heal|p2a: Ting-Lu|60/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781311534
+|switch|p1a: Indeedee|Indeedee, M, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|turn|17
+|
+|t:|1781311542
+|move|p1a: Indeedee|Healing Wish|p1a: Indeedee
+|faint|p1a: Indeedee
+|move|p2a: Ting-Lu|Spikes|p1: Indeedee
+|-sidestart|p1: MRH1106|Spikes
+|
+|-heal|p2a: Ting-Lu|66/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781311545
+|switch|p1a: Hatterene|Hatterene, F, shiny, tera:Stellar|22/100
+|-heal|p1a: Hatterene|100/100|[from] move: Healing Wish
+|-damage|p1a: Hatterene|88/100|[from] Spikes
+|turn|18
+|l| welovevaporeon
+|
+|t:|1781311552
+|move|p2a: Ting-Lu|Ruination|p1a: Hatterene
+|-damage|p1a: Hatterene|44/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|27/100
+|-heal|p1a: Hatterene|91/100|[from] drain|[of] p2a: Ting-Lu
+|-damage|p1a: Hatterene|82/100|[from] item: Life Orb
+|
+|-heal|p2a: Ting-Lu|34/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781311556
+|move|p2a: Ting-Lu|Ruination|p1a: Hatterene
+|-damage|p1a: Hatterene|41/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|-heal|p1a: Hatterene|82/100|[from] drain|[of] p2a: Ting-Lu
+|faint|p2a: Ting-Lu
+|-damage|p1a: Hatterene|72/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781311562
+|switch|p2a: Slowking|Slowking-Galar, M|88/100
+|turn|20
+|
+|t:|1781311566
+|move|p2a: Slowking|Sludge Bomb|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|4/100
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldstart|move: Trick Room|[of] p1a: Hatterene
+|
+|upkeep
+|turn|21
+|
+|t:|1781311574
+|move|p1a: Hatterene|Expanding Force|p2a: Slowking
+|-damage|p2a: Slowking|12/100
+|-damage|p1a: Hatterene|0 fnt|[from] item: Life Orb
+|faint|p1a: Hatterene
+|move|p2a: Slowking|Future Sight|p1: Hatterene
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|
+|t:|1781311577
+|switch|p1a: Iron Hands|Iron Hands, shiny|84/100
+|-damage|p1a: Iron Hands|71/100|[from] Spikes
+|turn|22
+|
+|t:|1781311581
+|switch|p2a: Corviknight|Corviknight, M|22/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Iron Hands|Supercell Slam|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-damage|p1a: Iron Hands|55/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781311588
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|23
+|
+|t:|1781311591
+|move|p1a: Iron Hands|Close Combat|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|42/100
+|-unboost|p1a: Iron Hands|def|1
+|-unboost|p1a: Iron Hands|spd|1
+|move|p2a: Raging Bolt|Volt Switch|p1a: Iron Hands
+|-resisted|p1a: Iron Hands
+|-damage|p1a: Iron Hands|33/100
+|
+|t:|1781311601
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|45/100|[from] Volt Switch
+|
+|-end|p1a: Iron Hands|move: Future Sight
+|-supereffective|p1a: Iron Hands
+|-damage|p1a: Iron Hands|0 fnt
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|upkeep
+|
+|t:|1781311603
+|switch|p1a: Mimikyu|Mimikyu, F, shiny|100/100
+|-damage|p1a: Mimikyu|88/100|[from] Spikes
+|turn|24
+|
+|t:|1781311609
+|move|p2a: Slowking|Sludge Bomb|p1a: Mimikyu
+|-activate|p1a: Mimikyu|ability: Disguise
+|-damage|p1a: Mimikyu|88/100
+|-status|p1a: Mimikyu|psn
+|detailschange|p1a: Mimikyu|Mimikyu-Busted, F, shiny
+|-damage|p1a: Mimikyu|76/100 psn|[from] pokemon: Mimikyu-Busted
+|-enditem|p1a: Mimikyu|Red Card|[of] p2a: Slowking
+|drag|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Mimikyu|Play Rough|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|45/100
+|
+|-damage|p1a: Mimikyu|63/100 psn|[from] psn
+|-fieldend|move: Trick Room
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|25
+|
+|t:|1781311613
+|move|p2a: Kyurem|Freeze-Dry|p1a: Mimikyu
+|-damage|p1a: Mimikyu|7/100 psn
+|move|p1a: Mimikyu|Trick Room|p1a: Mimikyu
+|-fieldstart|move: Trick Room|[of] p1a: Mimikyu
+|
+|-damage|p1a: Mimikyu|0 fnt|[from] psn
+|faint|p1a: Mimikyu
+|
+|win|LT_Alt1
+|raw|MRH1106's rating: 1671 &rarr; <strong>1659</strong><br />(-12 for losing)
+|raw|LT_Alt1's rating: 1819 &rarr; <strong>1831</strong><br />(+12 for winning)

@@ -1,0 +1,267 @@
+|j|☆iamverykarpy
+|j|☆OUZQ Crocodile
+|t:|1781013493
+|gametype|singles
+|player|p1|iamverykarpy|colress|1646
+|player|p2|OUZQ Crocodile|2|1659
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cetitan, F|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Kyurem|
+|poke|p1|Rillaboom, F|
+|poke|p1|Alomomola, F|
+|poke|p1|Great Tusk|
+|poke|p2|Greninja-*, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Great Tusk|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Iron Valiant|
+|poke|p2|Iron Moth|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by iamverykarpy)
+|inactive|iamverykarpy has 120 seconds left.
+|inactive|OUZQ Crocodile has 120 seconds left.
+|
+|t:|1781013531
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1781013534
+|move|p2a: Deoxys|Psycho Boost|p1a: Rillaboom
+|-damage|p1a: Rillaboom|20/100
+|-unboost|p2a: Deoxys|spa|2
+|-enditem|p2a: Deoxys|Eject Pack
+|
+|t:|1781013537
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|move|p1a: Rillaboom|U-turn|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-damage|p2a: Iron Moth|87/100
+|
+|t:|1781013540
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100|[from] U-turn
+|
+|-heal|p2a: Iron Moth|93/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781013546
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Slowking|Future Sight|p2a: Great Tusk
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|3
+|
+|t:|1781013552
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Alomomola
+|-damage|p1a: Alomomola|57/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-damage|p2a: Great Tusk|84/100|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|
+|-heal|p2a: Great Tusk|90/100|[from] Grassy Terrain
+|-heal|p1a: Alomomola|63/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781013561
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Greninja|Greninja, M|100/100
+|move|p1a: Alomomola|Flip Turn|p2a: Greninja
+|-resisted|p2a: Greninja
+|-damage|p2a: Greninja|86/100
+|
+|t:|1781013572
+|switch|p1a: Kyurem|Kyurem, shiny|100/100|[from] Flip Turn
+|-ability|p1a: Kyurem|Pressure
+|
+|-end|p2a: Greninja|move: Future Sight
+|-immune|p2a: Greninja
+|-heal|p2a: Greninja|92/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781013581
+|move|p2a: Greninja|Dark Pulse|p1a: Kyurem
+|-damage|p1a: Kyurem|57/100
+|-damage|p2a: Greninja|83/100|[from] item: Life Orb
+|move|p1a: Kyurem|Draco Meteor|p2a: Greninja
+|-crit|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|-unboost|p1a: Kyurem|spa|2
+|faint|p2a: Greninja
+|
+|-heal|p1a: Kyurem|63/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781013588
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|6
+|
+|t:|1781013602
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100
+|move|p2a: Deoxys|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-enditem|p1a: Slowking|Colbur Berry|[eat]
+|-enditem|p1a: Slowking|Colbur Berry|[weaken]
+|-damage|p1a: Slowking|75/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781013611
+|move|p2a: Deoxys|Stealth Rock|p1a: Slowking
+|-sidestart|p1: iamverykarpy|move: Stealth Rock
+|move|p1a: Slowking|Future Sight|p2a: Deoxys
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|8
+|
+|t:|1781013615
+|move|p2a: Deoxys|Psycho Boost|p1a: Slowking
+|-damage|p1a: Slowking|40/100
+|-unboost|p2a: Deoxys|spa|2
+|move|p1a: Slowking|Sludge Bomb|p2a: Deoxys
+|-damage|p2a: Deoxys|48/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781013623
+|move|p2a: Deoxys|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-end|p2a: Deoxys|move: Future Sight
+|-resisted|p2a: Deoxys
+|-damage|p2a: Deoxys|13/100
+|upkeep
+|
+|t:|1781013643
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|97/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1781013648
+|move|p2a: Deoxys|Psycho Boost|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|21/100
+|-unboost|p2a: Deoxys|spa|2
+|move|p1a: Great Tusk|Rapid Spin|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: iamverykarpy|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|faint|p2a: Deoxys
+|
+|-heal|p1a: Great Tusk|27/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781013653
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|11
+|
+|t:|1781013659
+|move|p2a: Iron Valiant|Moonblast|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781013665
+|switch|p1a: Cetitan|Cetitan, F, shiny|100/100
+|turn|12
+|
+|t:|1781013671
+|move|p2a: Iron Valiant|Moonblast|p1a: Cetitan
+|-damage|p1a: Cetitan|48/100
+|-unboost|p1a: Cetitan|spa|1
+|-enditem|p1a: Cetitan|Sitrus Berry|[eat]
+|-heal|p1a: Cetitan|73/100|[from] item: Sitrus Berry
+|move|p1a: Cetitan|Ice Spinner|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|42/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781013681
+|move|p2a: Iron Valiant|Close Combat|p1a: Cetitan
+|-supereffective|p1a: Cetitan
+|-crit|p1a: Cetitan
+|-damage|p1a: Cetitan|0 fnt
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|faint|p1a: Cetitan
+|
+|upkeep
+|
+|t:|1781013685
+|switch|p1a: Rillaboom|Rillaboom, F|20/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|14
+|
+|t:|1781013692
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Iron Moth|Iron Moth|93/100
+|move|p1a: Rillaboom|Grassy Glide|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-damage|p2a: Iron Moth|72/100
+|
+|-heal|p2a: Iron Moth|78/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|26/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1781013695
+|switch|p1a: Kyurem|Kyurem, shiny|63/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Iron Moth|Fiery Dance|p1a: Kyurem
+|-damage|p1a: Kyurem|23/100
+|
+|-heal|p2a: Iron Moth|84/100|[from] Grassy Terrain
+|-heal|p1a: Kyurem|29/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|-message|iamverykarpy forfeited.
+|
+|win|OUZQ Crocodile
+|raw|iamverykarpy's rating: 1646 &rarr; <strong>1627</strong><br />(-19 for losing)
+|raw|OUZQ Crocodile's rating: 1659 &rarr; <strong>1678</strong><br />(+19 for winning)
+|l|☆iamverykarpy
+|player|p1|
+|l|☆OUZQ Crocodile
+|player|p2|

@@ -1,0 +1,306 @@
+|j|☆KurisuChestnutOU
+|j|☆EtnaArmpits
+|t:|1781128075
+|gametype|singles
+|player|p1|KurisuChestnutOU|may-contest|1500
+|player|p2|EtnaArmpits|170|1614
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hawlucha, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Gholdengo|
+|poke|p1|Kyurem|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Kyurem|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Iron Valiant|
+|poke|p2|Dragonite, F|
+|poke|p2|Darkrai|
+|poke|p2|Iron Treads|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by EtnaArmpits)
+|inactive|KurisuChestnutOU also wants the timer to be on.
+|
+|t:|1781128086
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-ability|p1a: Kyurem|Pressure
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781128092
+|move|p2a: Iron Treads|Steel Beam|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|31/100
+|-damage|p2a: Iron Treads|50/100|[from] steelbeam
+|move|p1a: Kyurem|Ice Beam|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781128099
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|2
+|
+|t:|1781128117
+|move|p2a: Kyurem|Freeze-Dry|p1a: Kyurem
+|-damage|p1a: Kyurem|5/100
+|move|p1a: Kyurem|Focus Blast|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|20/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781128127
+|move|p2a: Kyurem|Freeze-Dry|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781128138
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|4
+|
+|t:|1781128142
+|move|p1a: Gholdengo|Make It Rain|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781128153
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|5
+|
+|t:|1781128158
+|move|p2a: Deoxys|Nasty Plot|p2a: Deoxys
+|-boost|p2a: Deoxys|spa|2
+|move|p1a: Gholdengo|Make It Rain|p2a: Deoxys
+|-damage|p2a: Deoxys|40/100
+|-unboost|p1a: Gholdengo|spa|1
+|
+|upkeep
+|turn|6
+|
+|t:|1781128163
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|move|p2a: Deoxys|Psycho Boost|p1a: Samurott
+|-immune|p1a: Samurott
+|
+|upkeep
+|turn|7
+|
+|t:|1781128169
+|move|p1a: Samurott|Sucker Punch||[still]
+|-fail|p1a: Samurott
+|move|p2a: Deoxys|Nasty Plot|p2a: Deoxys
+|-boost|p2a: Deoxys|spa|2
+|
+|upkeep
+|turn|8
+|
+|t:|1781128175
+|move|p1a: Samurott|Sucker Punch||[still]
+|-fail|p1a: Samurott
+|move|p2a: Deoxys|Nasty Plot|p2a: Deoxys
+|-boost|p2a: Deoxys|spa|2
+|
+|upkeep
+|turn|9
+|
+|t:|1781128180
+|move|p1a: Samurott|Sucker Punch||[still]
+|-fail|p1a: Samurott
+|move|p2a: Deoxys|Nasty Plot|p2a: Deoxys
+|-boost|p2a: Deoxys|spa|0
+|
+|upkeep
+|turn|10
+|
+|t:|1781128189
+|move|p2a: Deoxys|Focus Blast|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|-damage|p2a: Deoxys|30/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781128195
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|11
+|
+|t:|1781128200
+|move|p1a: Rillaboom|Grassy Glide|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1781128202
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|12
+|
+|t:|1781128206
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Dragonite|atk|1
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781128213
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Landorus|U-turn|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|95/100
+|
+|t:|1781128219
+|switch|p1a: Hawlucha|Hawlucha, F|100/100|[from] U-turn
+|-enditem|p1a: Hawlucha|Grassy Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Grassy Seed
+|
+|upkeep
+|turn|14
+|
+|t:|1781128224
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Dragonite|Ice Punch|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|24/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781128231
+|move|p2a: Dragonite|Extreme Speed|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781128236
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|16
+|
+|t:|1781128243
+|move|p2a: Dragonite|Earthquake|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781128248
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Dragonite|atk|1
+|turn|17
+|
+|t:|1781128255
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Landorus|U-turn|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|83/100
+|
+|t:|1781128258
+|switch|p1a: Rillaboom|Rillaboom, F|100/100|[from] U-turn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|
+|upkeep
+|turn|18
+|
+|t:|1781128265
+|-terastallize|p1a: Rillaboom|Fire
+|move|p2a: Dragonite|Ice Punch|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|79/100
+|move|p1a: Rillaboom|Knock Off|p2a: Dragonite
+|-damage|p2a: Dragonite|41/100
+|-enditem|p2a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Rillaboom
+|
+|-heal|p1a: Rillaboom|85/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1781128270
+|move|p2a: Dragonite|Extreme Speed|p1a: Rillaboom
+|-damage|p1a: Rillaboom|38/100
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|
+|-heal|p1a: Rillaboom|45/100|[from] Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1781128277
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Dragonite|atk|1
+|-terastallize|p2a: Dragonite|Normal
+|move|p2a: Dragonite|Extreme Speed|p1a: Landorus
+|-damage|p1a: Landorus|51/100
+|-damage|p2a: Dragonite|25/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|
+|-heal|p2a: Dragonite|31/100|[from] Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1781128281
+|move|p2a: Dragonite|Ice Punch|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-damage|p2a: Dragonite|15/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p1a: Landorus
+|
+|-heal|p2a: Dragonite|21/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781128287
+|switch|p1a: Rillaboom|Rillaboom, F, tera:Fire|45/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|22
+|
+|t:|1781128290
+|move|p2a: Dragonite|Extreme Speed|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|win|EtnaArmpits
+|raw|KurisuChestnutOU's rating: 1523 &rarr; <strong>1508</strong><br />(-15 for losing)
+|raw|EtnaArmpits's rating: 1614 &rarr; <strong>1629</strong><br />(+15 for winning)

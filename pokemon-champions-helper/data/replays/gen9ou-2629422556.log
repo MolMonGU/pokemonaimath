@@ -1,0 +1,272 @@
+|j|☆stevstacks
+|j|☆waha8
+|t:|1781129118
+|gametype|singles
+|player|p1|stevstacks|102|1635
+|player|p2|waha8|101|1584
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torkoal, F|
+|poke|p1|Corviknight, M|
+|poke|p1|Walking Wake|
+|poke|p1|Dragonite, F|
+|poke|p1|Great Tusk|
+|poke|p1|Raging Bolt|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Indeedee, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Cetitan, F|
+|poke|p2|Kyurem|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by stevstacks)
+|
+|t:|1781129126
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100
+|switch|p2a: DeeDee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: DeeDee
+|turn|1
+|
+|t:|1781129131
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Corviknight|Corviknight, M, shiny|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: DeeDee|Expanding Force|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|78/100
+|
+|-heal|p1a: Corviknight|84/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781129139
+|move|p2a: DeeDee|Expanding Force|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|61/100
+|move|p1a: Corviknight|U-turn|p2a: DeeDee
+|-supereffective|p2a: DeeDee
+|-damage|p2a: DeeDee|39/100
+|
+|t:|1781129142
+|switch|p1a: Walking Wake|Walking Wake|100/100|[from] U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1781129148
+|switch|p2a: ReverseUNO|Cinderace, M|100/100
+|move|p1a: Walking Wake|Flip Turn|p2a: ReverseUNO
+|-supereffective|p2a: ReverseUNO
+|-damage|p2a: ReverseUNO|45/100
+|
+|t:|1781129151
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|4
+|
+|t:|1781129156
+|move|p1a: Raging Bolt|Volt Switch|p2a: ReverseUNO
+|-damage|p2a: ReverseUNO|0 fnt
+|faint|p2a: ReverseUNO
+|
+|t:|1781129158
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, F, shiny|100/100|[from] Volt Switch
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781129164
+|switch|p2a: SageOfSixPaths|Slowking-Galar, F|100/100
+|turn|5
+|
+|t:|1781129166
+|move|p1a: Torkoal|Stealth Rock|p2a: SageOfSixPaths
+|-sidestart|p2: waha8|move: Stealth Rock
+|move|p2a: SageOfSixPaths|Trick Room|p2a: SageOfSixPaths
+|-fieldstart|move: Trick Room|[of] p2a: SageOfSixPaths
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781129171
+|switch|p1a: Corviknight|Corviknight, M, shiny|61/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: SageOfSixPaths|Expanding Force|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|28/100
+|-damage|p2a: SageOfSixPaths|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Corviknight|35/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781129180
+|move|p2a: SageOfSixPaths|Fire Blast|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|-damage|p2a: SageOfSixPaths|81/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781129187
+|switch|p1a: Dragonite|Dragonite, F, shiny|100/100
+|turn|8
+|
+|t:|1781129196
+|move|p2a: SageOfSixPaths|Expanding Force|p1a: Dragonite
+|-damage|p1a: Dragonite|47/100
+|-damage|p2a: SageOfSixPaths|71/100|[from] item: Life Orb
+|move|p1a: Dragonite|Scale Shot|p2a: SageOfSixPaths|[miss]
+|-miss|p1a: Dragonite|p2a: SageOfSixPaths
+|
+|-weather|SunnyDay|[upkeep]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|9
+|
+|t:|1781129203
+|move|p2a: SageOfSixPaths|Sludge Wave|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|-damage|p2a: SageOfSixPaths|61/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1781129206
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|10
+|
+|t:|1781129213
+|switch|p2a: DeeDee|Indeedee, M|39/100
+|-damage|p2a: DeeDee|27/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: DeeDee
+|move|p1a: Great Tusk|Close Combat|p2a: DeeDee
+|-damage|p2a: DeeDee|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: DeeDee
+|-damage|p1a: Great Tusk|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781129226
+|switch|p2a: Mavis|Ninetales-Alola, F|100/100
+|-damage|p2a: Mavis|76/100|[from] Stealth Rock
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Mavis
+|-end|p1a: Great Tusk|Protosynthesis
+|turn|11
+|
+|t:|1781129231
+|switch|p2a: SageOfSixPaths|Slowking-Galar, F|94/100
+|-damage|p2a: SageOfSixPaths|82/100|[from] Stealth Rock
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, F, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781129250
+|move|p1a: Torkoal|Will-O-Wisp|p2a: SageOfSixPaths
+|-status|p2a: SageOfSixPaths|brn
+|move|p2a: SageOfSixPaths|Trick Room|p2a: SageOfSixPaths
+|-fieldstart|move: Trick Room|[of] p2a: SageOfSixPaths
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: SageOfSixPaths|76/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1781129258
+|-terastallize|p2a: SageOfSixPaths|Psychic
+|move|p2a: SageOfSixPaths|Expanding Force|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|-damage|p2a: SageOfSixPaths|66/100 brn|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: SageOfSixPaths|60/100 brn|[from] brn
+|upkeep
+|
+|t:|1781129265
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|14
+|
+|t:|1781129269
+|move|p2a: SageOfSixPaths|Expanding Force|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|-damage|p2a: SageOfSixPaths|50/100 brn|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: SageOfSixPaths|44/100 brn|[from] brn
+|upkeep
+|
+|t:|1781129270
+|switch|p1a: Great Tusk|Great Tusk, shiny|91/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|15
+|
+|t:|1781129278
+|move|p2a: SageOfSixPaths|Expanding Force|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|-damage|p2a: SageOfSixPaths|34/100 brn|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: SageOfSixPaths|27/100 brn|[from] brn
+|upkeep
+|c|☆stevstacks|nice set
+|c|☆waha8|ty
+|
+|t:|1781129284
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|16
+|
+|t:|1781129288
+|move|p2a: SageOfSixPaths|Expanding Force|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|-damage|p2a: SageOfSixPaths|18/100 brn|[from] item: Life Orb
+|
+|win|waha8
+|raw|stevstacks's rating: 1635 &rarr; <strong>1612</strong><br />(-23 for losing)
+|raw|waha8's rating: 1584 &rarr; <strong>1607</strong><br />(+23 for winning)
+|l|☆stevstacks
+|player|p1|

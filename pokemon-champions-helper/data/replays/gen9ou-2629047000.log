@@ -1,0 +1,370 @@
+|j|☆TsekaiAndIncognito
+|j|☆Galarian Blades
+|t:|1781092912
+|gametype|singles
+|player|p1|TsekaiAndIncognito|170|1599
+|player|p2|Galarian Blades|#capplxiwutangclants|1568
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Heatran, M|
+|poke|p1|Iron Hands|
+|poke|p1|Kingambit, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Zapdos|
+|poke|p2|Gliscor, M|
+|poke|p2|Gholdengo|
+|poke|p2|Dragonite, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Darkrai|
+|poke|p2|Zamazenta-*|
+|teampreview
+|
+|t:|1781092918
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|turn|1
+|
+|t:|1781092921
+|-terastallize|p1a: Hoopa|Dark
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Hyperspace Fury|[broken]
+|-damage|p2a: Gliscor|24/100
+|-unboost|p1a: Hoopa|def|1
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781092930
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|62/100
+|-unboost|p1a: Hoopa|def|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781092937
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Zamazenta|Stone Edge|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|56/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781092942
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|5
+|
+|t:|1781092944
+|move|p1a: Zapdos|U-turn|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|86/100
+|
+|t:|1781092947
+|switch|p1a: Hoopa|Hoopa-Unbound, tera:Dark|100/100|[from] U-turn
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Hoopa
+|-sidestart|p1: TsekaiAndIncognito|move: Stealth Rock
+|
+|-heal|p2a: Ting-Lu|93/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781092952
+|move|p1a: Hoopa|Drain Punch|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|38/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Hoopa
+|-damage|p1a: Hoopa|42/100
+|
+|-heal|p2a: Ting-Lu|44/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781092962
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781092968
+|switch|p2a: Ting-Lu|Ting-Lu|44/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Kingambit|Iron Head|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|18/100
+|
+|-heal|p2a: Ting-Lu|24/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781092975
+|move|p1a: Kingambit|Iron Head|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781092982
+|switch|p2a: Zamazenta|Zamazenta|62/100
+|turn|10
+|
+|t:|1781092986
+|switch|p2a: Darkrai|Darkrai|100/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|upkeep
+|turn|11
+|
+|t:|1781092988
+|move|p2a: Darkrai|Will-O-Wisp|p1a: Kingambit
+|-status|p1a: Kingambit|brn
+|move|p1a: Kingambit|Iron Head|p2a: Darkrai
+|-damage|p2a: Darkrai|35/100
+|
+|-damage|p1a: Kingambit|88/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1781092991
+|switch|p2a: Zamazenta|Zamazenta|62/100
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-damage|p1a: Kingambit|82/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1781092993
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Zapdos|Zapdos|100/100
+|-damage|p1a: Zapdos|76/100|[from] Stealth Rock
+|move|p2a: Zamazenta|Close Combat|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|54/100
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|-damage|p2a: Zamazenta|46/100|[from] item: Rocky Helmet|[of] p1a: Zapdos
+|
+|upkeep
+|turn|14
+|
+|t:|1781093001
+|move|p2a: Zamazenta|Stone Edge|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|9/100
+|move|p1a: Zapdos|Hurricane|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781093007
+|switch|p2a: Darkrai|Darkrai|35/100
+|turn|15
+|
+|t:|1781093010
+|move|p2a: Darkrai|Dark Pulse|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1781093020
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781093030
+|move|p1a: Dragapult|Shadow Ball|p2a: Darkrai
+|-resisted|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|upkeep
+|
+|t:|1781093034
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|17
+|
+|t:|1781093038
+|switch|p1a: Kingambit|Kingambit, F|82/100 brn
+|-damage|p1a: Kingambit|76/100 brn|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|move|p2a: Gholdengo|Shadow Ball|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|54/100 brn
+|
+|-damage|p1a: Kingambit|47/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1781093044
+|switch|p2a: Gliscor|Gliscor, M|24/100 tox
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Gliscor
+|-damage|p2a: Gliscor|2/100 tox
+|
+|-heal|p2a: Gliscor|15/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Kingambit|41/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1781093051
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p2a: Gliscor|27/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Kingambit|35/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1781093054
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|move|p2a: Gliscor|Spikes|p1a: Kingambit
+|-sidestart|p1: TsekaiAndIncognito|Spikes
+|
+|-heal|p2a: Gliscor|40/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Kingambit|29/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1781093058
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-heal|p2a: Gliscor|52/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Kingambit|23/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1781093061
+|move|p1a: Kingambit|Sucker Punch|p2a: Gliscor
+|-damage|p2a: Gliscor|18/100 tox
+|move|p2a: Gliscor|Earthquake|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen1|[silent]
+|
+|-heal|p2a: Gliscor|31/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781093064
+|switch|p1a: Dragapult|Dragapult, M|88/100
+|-damage|p1a: Dragapult|76/100|[from] Stealth Rock
+|-damage|p1a: Dragapult|64/100|[from] Spikes
+|turn|23
+|
+|t:|1781093067
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Dragapult|Shadow Ball|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|43/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|24
+|
+|t:|1781093070
+|move|p1a: Dragapult|Shadow Ball|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|upkeep
+|
+|t:|1781093073
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|25
+|
+|t:|1781093079
+|switch|p1a: Hoopa|Hoopa-Unbound, tera:Dark|42/100
+|-damage|p1a: Hoopa|30/100|[from] Stealth Rock
+|-damage|p1a: Hoopa|17/100|[from] Spikes
+|-terastallize|p2a: Dragonite|Normal
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|26
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by TsekaiAndIncognito)
+|
+|t:|1781093100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Dragonite
+|-damage|p2a: Dragonite|33/100
+|-unboost|p1a: Hoopa|def|1
+|
+|upkeep
+|turn|27
+|
+|t:|1781093105
+|move|p2a: Dragonite|Earthquake|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|upkeep
+|
+|t:|1781093108
+|switch|p1a: Iron Hands|Iron Hands|100/100
+|-damage|p1a: Iron Hands|94/100|[from] Stealth Rock
+|-damage|p1a: Iron Hands|82/100|[from] Spikes
+|-enditem|p1a: Iron Hands|Booster Energy
+|-activate|p1a: Iron Hands|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Hands|quarkdriveatk
+|turn|28
+|
+|t:|1781093112
+|move|p2a: Dragonite|Earthquake|p1a: Iron Hands
+|-supereffective|p1a: Iron Hands
+|-damage|p1a: Iron Hands|0 fnt
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|
+|upkeep
+|-message|TsekaiAndIncognito forfeited.
+|
+|win|Galarian Blades
+|raw|TsekaiAndIncognito's rating: 1599 &rarr; <strong>1577</strong><br />(-22 for losing)
+|raw|Galarian Blades's rating: 1568 &rarr; <strong>1590</strong><br />(+22 for winning)
+|l|☆TsekaiAndIncognito
+|player|p1|
+|l|☆Galarian Blades
+|player|p2|

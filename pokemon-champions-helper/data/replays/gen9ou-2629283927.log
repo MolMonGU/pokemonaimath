@@ -1,0 +1,230 @@
+|j|☆gongcitaihou
+|j|☆dia-sre
+|t:|1781115438
+|gametype|singles
+|player|p1|gongcitaihou|bellelba|1665
+|player|p2|dia-sre|2|1740
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Great Tusk|
+|poke|p1|Garganacl, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Kyurem|
+|poke|p2|Azumarill, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Garchomp, F|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Gholdengo|
+|poke|p2|Hoopa-Unbound|
+|teampreview
+|
+|t:|1781115457
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|switch|p2a: Azumarill|Azumarill, F|100/100
+|turn|1
+|
+|t:|1781115465
+|move|p1a: Tornadus|Knock Off|p2a: Azumarill
+|-resisted|p2a: Azumarill
+|-damage|p2a: Azumarill|89/100
+|-enditem|p2a: Azumarill|Assault Vest|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Azumarill|Knock Off|p1a: Tornadus
+|-damage|p1a: Tornadus|58/100
+|-enditem|p1a: Tornadus|Assault Vest|[from] move: Knock Off|[of] p2a: Azumarill
+|
+|upkeep
+|turn|2
+|
+|t:|1781115474
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Azumarill
+|-damage|p2a: Azumarill|57/100
+|move|p2a: Azumarill|Play Rough|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1781115486
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|3
+|
+|t:|1781115490
+|move|p1a: Deoxys|Psycho Boost|p2a: Azumarill
+|-damage|p2a: Azumarill|0 fnt
+|-unboost|p1a: Deoxys|spa|2
+|faint|p2a: Azumarill
+|-damage|p1a: Deoxys|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781115499
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100
+|turn|4
+|
+|t:|1781115506
+|-terastallize|p1a: Deoxys|Fighting
+|move|p1a: Deoxys|Superpower|p2a: Hoopa
+|-damage|p2a: Hoopa|1/100
+|-unboost|p1a: Deoxys|atk|1
+|-unboost|p1a: Deoxys|def|1
+|-damage|p1a: Deoxys|81/100|[from] item: Life Orb
+|move|p2a: Hoopa|Knock Off|p1a: Deoxys
+|-resisted|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|-enditem|p1a: Deoxys|Life Orb|[from] move: Knock Off|[of] p2a: Hoopa
+|faint|p1a: Deoxys
+|
+|upkeep
+|
+|t:|1781115521
+|switch|p1a: Kyurem|Kyurem, shiny|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|5
+|
+|t:|1781115525
+|move|p1a: Kyurem|Icicle Spear|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|faint|p2a: Hoopa
+|-hitcount|p2: Hoopa|1
+|
+|upkeep
+|
+|t:|1781115531
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|6
+|
+|t:|1781115539
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|-terastallize|p2a: Gholdengo|Steel
+|move|p2a: Gholdengo|Make It Rain|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|18/100
+|-unboost|p2a: Gholdengo|spa|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781115550
+|move|p2a: Gholdengo|Make It Rain|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-unboost|p2a: Gholdengo|spa|1
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781115561
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|8
+|
+|t:|1781115576
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|move|p1a: Great Tusk|Stealth Rock|p2a: Garchomp
+|-sidestart|p2: dia-sre|move: Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1781115587
+|move|p2a: Garchomp|Stealth Rock|p1a: Great Tusk
+|-sidestart|p1: gongcitaihou|move: Stealth Rock
+|move|p1a: Great Tusk|Ice Spinner|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|44/100
+|-damage|p1a: Great Tusk|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Great Tusk|71/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|
+|upkeep
+|turn|10
+|
+|t:|1781115596
+|move|p1a: Great Tusk|Rapid Spin|p2a: Garchomp
+|-crit|p2a: Garchomp
+|-damage|p2a: Garchomp|30/100
+|-boost|p1a: Great Tusk|spe|1
+|-damage|p1a: Great Tusk|59/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Great Tusk|42/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|-sideend|p1: gongcitaihou|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|move|p2a: Garchomp|Dragon Tail|p1a: Great Tusk|[miss]
+|-miss|p2a: Garchomp|p1a: Great Tusk
+|
+|upkeep
+|turn|11
+|
+|t:|1781115607
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|-damage|p2a: Weezing|88/100|[from] Stealth Rock
+|move|p1a: Great Tusk|Rapid Spin|p2a: Weezing
+|-damage|p2a: Weezing|77/100
+|-boost|p1a: Great Tusk|spe|1
+|
+|upkeep
+|turn|12
+|
+|t:|1781115615
+|move|p1a: Great Tusk|Headlong Rush|p2a: Weezing
+|-immune|p2a: Weezing|[from] ability: Levitate
+|move|p2a: Weezing|Strange Steam|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781115624
+|switch|p1a: Kyurem|Kyurem, shiny|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|13
+|
+|t:|1781115630
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Weezing|Strange Steam|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|45/100
+|-start|p1a: Kyurem|confusion
+|
+|upkeep
+|turn|14
+|
+|t:|1781115639
+|-activate|p1a: Kyurem|confusion
+|move|p1a: Kyurem|Icicle Spear|p2a: Weezing
+|-damage|p2a: Weezing|59/100
+|-damage|p2a: Weezing|42/100
+|-damage|p2a: Weezing|25/100
+|-damage|p2a: Weezing|8/100
+|-hitcount|p2a: Weezing|4
+|move|p2a: Weezing|Strange Steam|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|-message|gongcitaihou forfeited.
+|
+|win|dia-sre
+|raw|gongcitaihou's rating: 1665 &rarr; <strong>1649</strong><br />(-16 for losing)
+|raw|dia-sre's rating: 1740 &rarr; <strong>1756</strong><br />(+16 for winning)
+|l|☆gongcitaihou
+|player|p1|
+|l|☆dia-sre
+|player|p2|

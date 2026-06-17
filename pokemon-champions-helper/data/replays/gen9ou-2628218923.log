@@ -1,0 +1,134 @@
+|j|☆tb poke
+|j|☆cachowcapow
+|t:|1780993764
+|gametype|singles
+|player|p1|tb poke|1|1628
+|player|p2|cachowcapow|169|1698
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragonite, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Great Tusk|
+|poke|p1|Gholdengo|
+|poke|p1|Iron Moth|
+|poke|p2|Gardevoir, M|
+|poke|p2|Gliscor, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Meowscarada, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tb poke)
+|
+|t:|1780993778
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|turn|1
+|
+|t:|1780993780
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Meowscarada|U-turn|p1a: Great Tusk
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|90/100
+|-damage|p2a: Meowscarada|84/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|
+|t:|1780993789
+|switch|p2a: Gardevoir|Gardevoir, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1780993795
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|-ability|p2a: Gardevoir|Sharpness|Trace|[from] ability: Trace|[of] p1a: Samurott
+|move|p2a: Gardevoir|Shadow Ball|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|83/100
+|-unboost|p1a: Samurott|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1780993802
+|switch|p2a: Meowscarada|Meowscarada, F|84/100
+|move|p1a: Samurott|Knock Off|p2a: Meowscarada
+|-resisted|p2a: Meowscarada
+|-damage|p2a: Meowscarada|50/100
+|-enditem|p2a: Meowscarada|Choice Scarf|[from] move: Knock Off|[of] p1a: Samurott
+|
+|upkeep
+|turn|4
+|
+|t:|1780993806
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|move|p2a: Meowscarada|U-turn|p1a: Iron Moth
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|90/100
+|
+|t:|1780993818
+|switch|p2a: Gliscor|Gliscor, M|100/100|[from] U-turn
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|5
+|
+|t:|1780993822
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Great Tusk|Great Tusk|90/100
+|move|p2a: Gliscor|Sand Tomb|p1a: Great Tusk
+|-damage|p1a: Great Tusk|83/100
+|-activate|p1a: Great Tusk|move: Sand Tomb|[of] p2a: Gliscor
+|
+|-damage|p1a: Great Tusk|70/100|[from] move: Sand Tomb|[partiallytrapped]
+|upkeep
+|turn|6
+|
+|t:|1780993829
+|move|p1a: Great Tusk|Ice Spinner|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|41/100 tox
+|move|p2a: Gliscor|Toxic|p1a: Great Tusk|[miss]
+|-miss|p2a: Gliscor|p1a: Great Tusk
+|
+|-heal|p2a: Gliscor|53/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Great Tusk|58/100|[from] move: Sand Tomb|[partiallytrapped]
+|upkeep
+|turn|7
+|
+|t:|1780993835
+|move|p1a: Great Tusk|Ice Spinner|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|-end|p1a: Great Tusk|Sand Tomb|[partiallytrapped]|[silent]
+|upkeep
+|-message|cachowcapow forfeited.
+|
+|win|tb poke
+|raw|tb poke's rating: 1628 &rarr; <strong>1652</strong><br />(+24 for winning)
+|raw|cachowcapow's rating: 1698 &rarr; <strong>1674</strong><br />(-24 for losing)
+|l|☆cachowcapow
+|player|p2|
+|l|☆tb poke
+|player|p1|

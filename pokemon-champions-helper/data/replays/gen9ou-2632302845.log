@@ -1,0 +1,251 @@
+|j|☆ihymyly
+|j|☆hawkins0
+|t:|1781504709
+|gametype|singles
+|player|p1|ihymyly|1|1657
+|player|p2|hawkins0|2|1742
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Kingdra, M|
+|poke|p1|Weavile, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Clodsire, F|
+|poke|p1|Corviknight, F|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Pecharunt|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|
+|t:|1781504720
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cokuf|Corviknight, F|100/100
+|switch|p2a: Khaos|Hoopa-Unbound|100/100
+|-ability|p1a: Cokuf|Pressure
+|turn|1
+|
+|t:|1781504724
+|-terastallize|p2a: Khaos|Dark
+|move|p2a: Khaos|Hyperspace Fury|p1a: Cokuf
+|-damage|p1a: Cokuf|0 fnt
+|-unboost|p2a: Khaos|def|1
+|faint|p1a: Cokuf
+|
+|upkeep
+|
+|t:|1781504732
+|switch|p1a: Nails|Weavile, M|100/100
+|-ability|p1a: Nails|Pressure
+|turn|2
+|
+|t:|1781504736
+|switch|p2a: Overseer|Pecharunt|100/100
+|move|p1a: Nails|Knock Off|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|55/100
+|-enditem|p2a: Overseer|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Nails
+|
+|upkeep
+|turn|3
+|
+|t:|1781504741
+|switch|p1a: Sire Slayton|Clodsire, F|100/100
+|move|p2a: Overseer|Recover|p2a: Overseer
+|-heal|p2a: Overseer|100/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781504745
+|switch|p2a: Khaos|Hoopa-Unbound, tera:Dark|100/100
+|move|p1a: Sire Slayton|Stealth Rock|p2a: Khaos
+|-sidestart|p2: hawkins0|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1781504749
+|move|p2a: Khaos|Hyperspace Fury|p1a: Sire Slayton
+|-damage|p1a: Sire Slayton|0 fnt
+|-unboost|p2a: Khaos|def|1
+|faint|p1a: Sire Slayton
+|
+|upkeep
+|
+|t:|1781504752
+|switch|p1a: Nails|Weavile, M|100/100
+|-ability|p1a: Nails|Pressure
+|turn|6
+|
+|t:|1781504768
+|switch|p2a: Overseer|Pecharunt|100/100
+|-damage|p2a: Overseer|88/100|[from] Stealth Rock
+|move|p1a: Nails|Swords Dance|p1a: Nails
+|-boost|p1a: Nails|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1781504771
+|move|p1a: Nails|Triple Axel|p2a: Overseer
+|-damage|p2a: Overseer|79/100
+|-damage|p2a: Overseer|62/100
+|-damage|p2a: Overseer|33/100
+|-hitcount|p2a: Overseer|3
+|move|p2a: Overseer|Malignant Chain|p1a: Nails
+|-crit|p1a: Nails
+|-damage|p1a: Nails|32/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781504777
+|move|p1a: Nails|Knock Off|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|0 fnt
+|faint|p2a: Overseer
+|
+|upkeep
+|
+|t:|1781504780
+|switch|p2a: Calamity|Iron Valiant, shiny|100/100
+|-damage|p2a: Calamity|94/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1781504789
+|move|p1a: Nails|Ice Shard|p2a: Calamity
+|-damage|p2a: Calamity|42/100
+|move|p2a: Calamity|Vacuum Wave|p1a: Nails
+|-supereffective|p1a: Nails
+|-damage|p1a: Nails|0 fnt
+|faint|p1a: Nails
+|
+|upkeep
+|
+|t:|1781504794
+|switch|p1a: Beakblaster 3000|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Beakblaster 3000
+|turn|10
+|
+|t:|1781504822
+|-end|p2a: Calamity|Quark Drive|[silent]
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|-damage|p2a: Pisces|88/100|[from] Stealth Rock
+|move|p1a: Beakblaster 3000|U-turn|p2a: Pisces
+|-damage|p2a: Pisces|82/100
+|
+|t:|1781504826
+|switch|p1a: Elongatedkou|Raging Bolt|100/100|[from] U-turn
+|-enditem|p1a: Elongatedkou|Booster Energy
+|-activate|p1a: Elongatedkou|ability: Protosynthesis|[fromitem]
+|-start|p1a: Elongatedkou|protosynthesisspa
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781504835
+|switch|p2a: Liberacy|Cinderace, M, shiny|100/100
+|move|p1a: Elongatedkou|Weather Ball|p2a: Liberacy
+|-supereffective|p2a: Liberacy
+|-damage|p2a: Liberacy|0 fnt
+|faint|p2a: Liberacy
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781504841
+|switch|p2a: Khaos|Hoopa-Unbound, tera:Dark|100/100
+|-damage|p2a: Khaos|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781504845
+|move|p1a: Elongatedkou|Thunderclap|p2a: Khaos
+|-damage|p2a: Khaos|45/100
+|move|p2a: Khaos|Hyperspace Fury|p1a: Elongatedkou
+|-damage|p1a: Elongatedkou|0 fnt
+|-unboost|p2a: Khaos|def|1
+|faint|p1a: Elongatedkou
+|-end|p1a: Elongatedkou|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781504848
+|switch|p1a: Vincent Von Vain|Kingdra, M|100/100
+|turn|13
+|
+|t:|1781504852
+|move|p1a: Vincent Von Vain|Flip Turn|p2a: Khaos
+|-damage|p2a: Khaos|0 fnt
+|faint|p2a: Khaos
+|
+|t:|1781504856
+|switch|p1a: Beakblaster 3000|Pelipper, F|100/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781504858
+|switch|p2a: Calamity|Iron Valiant, shiny|42/100
+|-damage|p2a: Calamity|36/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1781504862
+|move|p2a: Calamity|Thunderbolt|p1a: Beakblaster 3000
+|-supereffective|p1a: Beakblaster 3000
+|-damage|p1a: Beakblaster 3000|0 fnt
+|faint|p1a: Beakblaster 3000
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781504865
+|switch|p1a: Vincent Von Vain|Kingdra, M|100/100
+|turn|15
+|
+|t:|1781504868
+|-terastallize|p1a: Vincent Von Vain|Water
+|move|p1a: Vincent Von Vain|Weather Ball|p2a: Calamity
+|-damage|p2a: Calamity|0 fnt
+|faint|p2a: Calamity
+|-end|p2a: Calamity|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781504873
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|-damage|p2a: Pisces|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781504876
+|move|p1a: Vincent Von Vain|Weather Ball|p2a: Pisces
+|-resisted|p2a: Pisces
+|-damage|p2a: Pisces|48/100
+|move|p2a: Pisces|Mirror Coat|p1a: Vincent Von Vain
+|-damage|p1a: Vincent Von Vain|0 fnt
+|faint|p1a: Vincent Von Vain
+|
+|win|hawkins0
+|raw|ihymyly's rating: 1657 &rarr; <strong>1642</strong><br />(-15 for losing)
+|raw|hawkins0's rating: 1742 &rarr; <strong>1757</strong><br />(+15 for winning)
+|l|☆ihymyly
+|player|p1|
+|l|☆hawkins0
+|player|p2|

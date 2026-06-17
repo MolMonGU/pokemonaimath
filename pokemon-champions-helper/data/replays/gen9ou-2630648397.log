@@ -1,0 +1,311 @@
+|j|☆achbeet
+|j|☆PepeNike
+|t:|1781281080
+|gametype|singles
+|player|p1|achbeet|169|1538
+|player|p2|PepeNike|170|1618
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Darkrai|
+|poke|p1|Okidogi, M|
+|poke|p1|Sandy Shocks|
+|poke|p1|Araquanid, M|
+|poke|p1|Gholdengo|
+|poke|p1|Iron Moth|
+|poke|p2|Kleavor, M|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Gholdengo|
+|poke|p2|Ceruledge, F|
+|poke|p2|Greninja-*, M|
+|poke|p2|Dragapult, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by PepeNike)
+|inactive|PepeNike has 120 seconds left.
+|
+|t:|1781281118
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Araquanid|Araquanid, M|100/100
+|switch|p2a: Kleavor|Kleavor, M|100/100
+|turn|1
+|
+|t:|1781281125
+|move|p2a: Kleavor|Stone Axe|p1a: Araquanid
+|-supereffective|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|-sidestart|p1: achbeet|move: Stealth Rock
+|faint|p1a: Araquanid
+|
+|upkeep
+|
+|t:|1781281136
+|switch|p1a: Sandy Shocks|Sandy Shocks|100/100
+|-damage|p1a: Sandy Shocks|94/100|[from] Stealth Rock
+|-enditem|p1a: Sandy Shocks|Booster Energy
+|-activate|p1a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p1a: Sandy Shocks|protosynthesisspe
+|turn|2
+|
+|t:|1781281158
+|move|p1a: Sandy Shocks|Thunderbolt|p2a: Kleavor
+|-damage|p2a: Kleavor|28/100
+|move|p2a: Kleavor|Tailwind|p2a: Kleavor
+|-sidestart|p2: PepeNike|move: Tailwind
+|
+|upkeep
+|turn|3
+|
+|t:|1781281165
+|move|p2a: Kleavor|U-turn|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|49/100
+|inactive|PepeNike has 120 seconds left.
+|
+|t:|1781281209
+|switch|p2a: Dragapult|Dragapult, M|100/100|[from] U-turn
+|move|p1a: Sandy Shocks|Thunderbolt|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|69/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781281219
+|move|p2a: Dragapult|Dragon Darts|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|6/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|0 fnt
+|faint|p1a: Sandy Shocks
+|-end|p1a: Sandy Shocks|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781281231
+|switch|p1a: Okidogi|Okidogi, M|100/100
+|-damage|p1a: Okidogi|94/100|[from] Stealth Rock
+|turn|5
+|inactive|PepeNike has 120 seconds left.
+|inactive|PepeNike has 90 seconds left.
+|
+|t:|1781281266
+|switch|p2a: Kleavor|Kleavor, M|28/100
+|move|p1a: Okidogi|Knock Off|p2a: Kleavor
+|-damage|p2a: Kleavor|0 fnt
+|-enditem|p2a: Kleavor|Focus Sash|[from] move: Knock Off|[of] p1a: Okidogi
+|faint|p2a: Kleavor
+|
+|-heal|p1a: Okidogi|100/100|[from] item: Leftovers
+|-sideend|p2: PepeNike|move: Tailwind
+|upkeep
+|inactive|PepeNike has 90 seconds left.
+|
+|t:|1781281272
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|6
+|inactive|achbeet has 120 seconds left.
+|
+|t:|1781281307
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-damage|p1a: Iron Moth|76/100|[from] Stealth Rock
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespa
+|move|p2a: Gholdengo|Thunder Wave|p1a: Iron Moth
+|-status|p1a: Iron Moth|par
+|
+|upkeep
+|turn|7
+|inactive|PepeNike has 90 seconds left.
+|
+|t:|1781281352
+|move|p2a: Gholdengo|Hex|p1a: Iron Moth
+|-damage|p1a: Iron Moth|21/100 par
+|cant|p1a: Iron Moth|par
+|
+|upkeep
+|turn|8
+|
+|t:|1781281359
+|move|p2a: Gholdengo|Hex|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781281363
+|switch|p1a: Darkrai|Darkrai|100/100
+|-damage|p1a: Darkrai|88/100|[from] Stealth Rock
+|turn|9
+|inactive|PepeNike has 90 seconds left.
+|
+|t:|1781281386
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|move|p1a: Darkrai|Dark Pulse|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|67/100
+|-damage|p1a: Darkrai|78/100|[from] item: Life Orb
+|
+|upkeep
+|turn|10
+|
+|t:|1781281398
+|move|p1a: Darkrai|Focus Blast|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-crit|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|-damage|p1a: Darkrai|68/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781281401
+|switch|p2a: Dragapult|Dragapult, M|69/100
+|turn|11
+|
+|t:|1781281407
+|move|p1a: Darkrai|Dark Pulse|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|-damage|p1a: Darkrai|58/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781281413
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|turn|12
+|
+|t:|1781281418
+|move|p1a: Darkrai|Dark Pulse|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-enditem|p2a: Ceruledge|Focus Sash
+|-damage|p2a: Ceruledge|1/100
+|-damage|p1a: Darkrai|48/100|[from] item: Life Orb
+|move|p2a: Ceruledge|Bitter Blade|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|-heal|p2a: Ceruledge|24/100|[from] drain|[of] p1a: Darkrai
+|faint|p1a: Darkrai
+|
+|upkeep
+|
+|t:|1781281425
+|switch|p1a: Okidogi|Okidogi, M|100/100
+|-damage|p1a: Okidogi|94/100|[from] Stealth Rock
+|turn|13
+|inactive|PepeNike has 120 seconds left.
+|
+|t:|1781281457
+|move|p2a: Ceruledge|Poltergeist|p1a: Okidogi
+|-activate|p1a: Okidogi|move: Poltergeist|Leftovers
+|-damage|p1a: Okidogi|49/100
+|move|p1a: Okidogi|Knock Off|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|-heal|p1a: Okidogi|55/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781281461
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|14
+|
+|t:|1781281465
+|move|p1a: Okidogi|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|53/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|move|p2a: Gholdengo|Thunder Wave|p1a: Okidogi
+|-status|p1a: Okidogi|par
+|
+|-heal|p1a: Okidogi|61/100 par|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|PepeNike has 90 seconds left.
+|
+|t:|1781281499
+|move|p2a: Gholdengo|Hex|p1a: Okidogi
+|-damage|p1a: Okidogi|5/100 par
+|move|p1a: Okidogi|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|25/100
+|
+|-heal|p1a: Okidogi|11/100 par|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781281508
+|move|p2a: Gholdengo|Recover|p2a: Gholdengo
+|-heal|p2a: Gholdengo|75/100
+|cant|p1a: Okidogi|par
+|
+|-heal|p1a: Okidogi|17/100 par|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|PepeNike has 90 seconds left.
+|
+|t:|1781281547
+|move|p2a: Gholdengo|Hex|p1a: Okidogi
+|-damage|p1a: Okidogi|0 fnt
+|faint|p1a: Okidogi
+|
+|upkeep
+|
+|t:|1781281555
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|-item|p1a: Gholdengo|Air Balloon
+|turn|18
+|
+|t:|1781281570
+|move|p1a: Gholdengo|Shadow Ball|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781281572
+|switch|p2a: Greninja|Greninja, M|100/100
+|turn|19
+|
+|t:|1781281581
+|-terastallize|p2a: Greninja|Water
+|-terastallize|p1a: Gholdengo|Fairy
+|move|p2a: Greninja|Dark Pulse|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|65/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|-damage|p2a: Greninja|91/100|[from] item: Life Orb
+|move|p1a: Gholdengo|Focus Blast|p2a: Greninja
+|-damage|p2a: Greninja|12/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781281595
+|move|p2a: Greninja|Surf|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|-damage|p2a: Greninja|2/100|[from] item: Life Orb
+|
+|win|PepeNike
+|raw|achbeet's rating: 1538 &rarr; <strong>1523</strong><br />(-15 for losing)
+|raw|PepeNike's rating: 1618 &rarr; <strong>1633</strong><br />(+15 for winning)
+|l|☆achbeet
+|player|p1|
+|l|☆PepeNike
+|player|p2|

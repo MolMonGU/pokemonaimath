@@ -1,0 +1,326 @@
+|j|☆lityl
+|j|☆LowEL0God
+|t:|1781430649
+|gametype|singles
+|player|p1|lityl|101|1572
+|player|p2|LowEL0God|265|1596
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Darkrai|
+|poke|p1|Garganacl, F|
+|poke|p1|Zapdos|
+|poke|p1|Great Tusk|
+|poke|p1|Kingambit, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781430677
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|turn|1
+|
+|t:|1781430679
+|move|p1a: Zapdos|Thunder Wave|p2a: Kingambit
+|-status|p2a: Kingambit|par
+|cant|p2a: Kingambit|par
+|
+|upkeep
+|turn|2
+|
+|t:|1781430681
+|move|p1a: Zapdos|Volt Switch|p2a: Kingambit
+|-damage|p2a: Kingambit|70/100 par
+|
+|t:|1781430684
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] Volt Switch
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|76/100 par|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781430687
+|move|p1a: Great Tusk|Headlong Rush|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|
+|upkeep
+|
+|t:|1781430688
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|4
+|
+|t:|1781430692
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Barraskewda|Close Combat|p1a: Ogerpon
+|-damage|p1a: Ogerpon|14/100
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1781430696
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Barraskewda|Close Combat|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|76/100
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|-status|p2a: Barraskewda|par|[from] ability: Static|[of] p1a: Zapdos
+|
+|upkeep
+|turn|6
+|
+|t:|1781430700
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|14/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|
+|upkeep
+|turn|7
+|
+|t:|1781430704
+|move|p1a: Ogerpon|Play Rough|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|36/100
+|move|p2a: Raging Bolt|Weather Ball|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1781430708
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|8
+|
+|t:|1781430710
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Great Tusk|Ice Spinner|p2a: Pelipper
+|-damage|p2a: Pelipper|83/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781430713
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Zapdos|Zapdos|76/100
+|move|p2a: Pelipper|Weather Ball|p1a: Zapdos
+|-damage|p1a: Zapdos|27/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781430715
+|switch|p2a: Raging Bolt|Raging Bolt|36/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|78/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781430718
+|move|p1a: Zapdos|Volt Switch|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|29/100
+|
+|t:|1781430720
+|switch|p1a: Kingambit|Kingambit, M|100/100|[from] Volt Switch
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|move|p2a: Raging Bolt|Weather Ball|p1a: Kingambit
+|-damage|p1a: Kingambit|38/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kingambit|44/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781430723
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781430726
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Pelipper|Pelipper, M|83/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Pelipper
+|-immune|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781430733
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Zapdos|Zapdos|78/100
+|move|p2a: Pelipper|Weather Ball|p1a: Zapdos
+|-damage|p1a: Zapdos|32/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781430735
+|switch|p2a: Raging Bolt|Raging Bolt|29/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|82/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-weather|none
+|upkeep
+|turn|16
+|
+|t:|1781430738
+|move|p1a: Zapdos|Volt Switch|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|23/100
+|
+|t:|1781430741
+|switch|p1a: Darkrai|Darkrai|100/100|[from] Volt Switch
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Darkrai
+|-crit|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Darkrai
+|
+|upkeep
+|
+|t:|1781430748
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|turn|17
+|
+|t:|1781430750
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Pelipper|Pelipper, M|83/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Garganacl|Salt Cure|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|62/100
+|-start|p2a: Pelipper|Salt Cure
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Pelipper|37/100|[from] Salt Cure
+|upkeep
+|turn|18
+|
+|t:|1781430755
+|-terastallize|p1a: Garganacl|Fairy
+|move|p2a: Pelipper|Weather Ball|p1a: Garganacl
+|-damage|p1a: Garganacl|64/100
+|move|p1a: Garganacl|Salt Cure|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|16/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Garganacl|70/100|[from] item: Leftovers
+|-damage|p2a: Pelipper|0 fnt|[from] Salt Cure
+|faint|p2a: Pelipper
+|upkeep
+|
+|t:|1781430759
+|switch|p2a: Overqwil|Overqwil, M|100/100
+|turn|19
+|
+|t:|1781430766
+|switch|p1a: Zapdos|Zapdos|82/100
+|move|p2a: Overqwil|Swords Dance|p2a: Overqwil
+|-boost|p2a: Overqwil|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781430769
+|move|p2a: Overqwil|Liquidation|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-damage|p2a: Overqwil|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781430786
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|21
+|
+|t:|1781430787
+|move|p2a: Overqwil|Liquidation|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-damage|p2a: Overqwil|74/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|-damage|p2a: Overqwil|64/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781430789
+|switch|p1a: Kingambit|Kingambit, M|44/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|22
+|
+|t:|1781430790
+|move|p1a: Kingambit|Sucker Punch|p2a: Overqwil
+|-resisted|p2a: Overqwil
+|-damage|p2a: Overqwil|34/100
+|move|p2a: Overqwil|Liquidation|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|-damage|p2a: Overqwil|24/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|lityl forfeited.
+|
+|win|LowEL0God
+|raw|lityl's rating: 1572 &rarr; <strong>1553</strong><br />(-19 for losing)
+|raw|LowEL0God's rating: 1596 &rarr; <strong>1615</strong><br />(+19 for winning)
+|l|☆lityl
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|

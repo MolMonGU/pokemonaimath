@@ -1,0 +1,449 @@
+|j|☆Omari P
+|j|☆adil
+|t:|1781044290
+|gametype|singles
+|player|p1|Omari P|pokemonrangerf|1607
+|player|p2|adil|102|1673
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa|
+|poke|p1|Cinderace, F|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Kyurem|
+|poke|p1|Ting-Lu|
+|poke|p1|Manaphy|
+|poke|p2|Kyurem|
+|poke|p2|Corviknight, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Dondozo, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Cinderace, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by adil)
+|
+|t:|1781044304
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Dondozo|Dondozo, F|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781044309
+|switch|p1a: Ting-Lucifer|Ting-Lu|100/100
+|-ability|p1a: Ting-Lucifer|Vessel of Ruin
+|move|p2a: Dondozo|Body Press|p1a: Ting-Lucifer
+|-supereffective|p1a: Ting-Lucifer
+|-damage|p1a: Ting-Lucifer|75/100
+|-enditem|p1a: Ting-Lucifer|Weakness Policy
+|-boost|p1a: Ting-Lucifer|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Ting-Lucifer|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|2
+|
+|t:|1781044318
+|move|p1a: Ting-Lucifer|Stealth Rock|p2a: Dondozo
+|-sidestart|p2: adil|move: Stealth Rock
+|move|p2a: Dondozo|Curse|p2a: Dondozo
+|-unboost|p2a: Dondozo|spe|1
+|-boost|p2a: Dondozo|atk|1
+|-boost|p2a: Dondozo|def|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781044322
+|switch|p1a: Hoopa|Hoopa|100/100
+|move|p2a: Dondozo|Waterfall|p1a: Hoopa
+|-damage|p1a: Hoopa|36/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781044333
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-damage|p2a: Ting-Lu|94/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Hoopa|Substitute|p1a: Hoopa
+|-start|p1a: Hoopa|Substitute
+|-damage|p1a: Hoopa|11/100
+|-enditem|p1a: Hoopa|Aguav Berry|[eat]
+|-heal|p1a: Hoopa|45/100|[from] item: Aguav Berry
+|
+|-heal|p2a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781044338
+|move|p1a: Hoopa|Focus Blast|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|59/100
+|-item|p1a: Hoopa|Leftovers|[from] ability: Magician|[of] p2a: Ting-Lu
+|move|p2a: Ting-Lu|Whirlwind|p1a: Hoopa
+|drag|p1a: Manaphy|Manaphy|100/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781044348
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Manaphy|Tail Glow|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|3
+|
+|upkeep
+|turn|7
+|
+|t:|1781044353
+|move|p1a: Manaphy|Scald|p2a: Slowking
+|-damage|p2a: Slowking|56/100
+|move|p2a: Slowking|Toxic|p1a: Manaphy
+|-status|p1a: Manaphy|tox
+|
+|-damage|p1a: Manaphy|94/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781044360
+|switch|p2a: Dondozo|Dondozo, F|100/100
+|-damage|p2a: Dondozo|88/100|[from] Stealth Rock
+|move|p1a: Manaphy|Take Heart|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|1
+|-boost|p1a: Manaphy|spd|1
+|-curestatus|p1a: Manaphy|tox|[msg]
+|
+|-heal|p1a: Manaphy|100/100|[from] item: Leftovers
+|-heal|p2a: Dondozo|94/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781044366
+|move|p1a: Manaphy|Scald|p2a: Dondozo
+|-resisted|p2a: Dondozo
+|-damage|p2a: Dondozo|86/100
+|-status|p2a: Dondozo|brn
+|move|p2a: Dondozo|Curse|p2a: Dondozo
+|-unboost|p2a: Dondozo|spe|1
+|-boost|p2a: Dondozo|atk|1
+|-boost|p2a: Dondozo|def|1
+|
+|-heal|p2a: Dondozo|92/100 brn|[from] item: Leftovers
+|-damage|p2a: Dondozo|86/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1781044374
+|switch|p1a: Hoopa|Hoopa|45/100
+|move|p2a: Dondozo|Waterfall|p1a: Hoopa
+|-damage|p1a: Hoopa|13/100
+|
+|-heal|p1a: Hoopa|19/100|[from] item: Leftovers
+|-heal|p2a: Dondozo|92/100 brn|[from] item: Leftovers
+|-damage|p2a: Dondozo|86/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781044384
+|move|p1a: Hoopa|Shadow Ball|p2a: Dondozo
+|-damage|p2a: Dondozo|53/100 brn
+|move|p2a: Dondozo|Waterfall|p1a: Hoopa
+|-crit|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|-heal|p2a: Dondozo|59/100 brn|[from] item: Leftovers
+|-damage|p2a: Dondozo|53/100 brn|[from] brn
+|upkeep
+|
+|t:|1781044389
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|12
+|
+|t:|1781044392
+|switch|p2a: Slowking|Slowking-Galar, F|89/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Slowking
+|-damage|p2a: Slowking|66/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781044395
+|switch|p1a: Manaphy|Manaphy|100/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781044399
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-damage|p2a: Kyurem|75/100|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Kyurem|82/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781044402
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Kyurem|Freeze-Dry|p1a: Kyurem
+|-damage|p1a: Kyurem|66/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Kyurem|88/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781044405
+|move|p2a: Kyurem|Protect|p2a: Kyurem
+|-singleturn|p2a: Kyurem|Protect
+|move|p1a: Kyurem|Draco Meteor|p2a: Kyurem
+|-activate|p2a: Kyurem|move: Protect
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Kyurem|94/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781044408
+|switch|p1a: Ting-Lucifer|Ting-Lu|75/100
+|-ability|p1a: Ting-Lucifer|Vessel of Ruin
+|switch|p2a: Slowking|Slowking-Galar, F|99/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781044410
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ting-Lucifer|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-weather|none
+|-heal|p2a: Corviknight|94/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781044416
+|switch|p1a: Manaphy|Manaphy|100/100
+|move|p2a: Corviknight|U-turn|p1a: Manaphy
+|-damage|p1a: Manaphy|89/100
+|
+|t:|1781044418
+|switch|p2a: Kyurem|Kyurem|94/100|[from] U-turn
+|-damage|p2a: Kyurem|69/100|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|
+|-heal|p2a: Kyurem|75/100|[from] item: Leftovers
+|-heal|p1a: Manaphy|95/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781044422
+|move|p2a: Kyurem|Freeze-Dry|p1a: Manaphy
+|-supereffective|p1a: Manaphy
+|-damage|p1a: Manaphy|36/100
+|move|p1a: Manaphy|Take Heart|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|1
+|-boost|p1a: Manaphy|spd|1
+|
+|-heal|p2a: Kyurem|81/100|[from] item: Leftovers
+|-heal|p1a: Manaphy|43/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781044427
+|move|p2a: Kyurem|Freeze-Dry|p1a: Manaphy
+|-supereffective|p1a: Manaphy
+|-damage|p1a: Manaphy|2/100
+|move|p1a: Manaphy|Alluring Voice|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|32/100
+|
+|-heal|p2a: Kyurem|39/100|[from] item: Leftovers
+|-heal|p1a: Manaphy|9/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781044432
+|switch|p1a: Kyurem|Kyurem|66/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Kyurem|Earth Power|p1a: Kyurem
+|-damage|p1a: Kyurem|37/100
+|-unboost|p1a: Kyurem|spd|1
+|
+|-heal|p2a: Kyurem|45/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|j| SilverDE
+|
+|t:|1781044435
+|move|p2a: Kyurem|Protect|p2a: Kyurem
+|-singleturn|p2a: Kyurem|Protect
+|move|p1a: Kyurem|Ice Beam|p2a: Kyurem
+|-activate|p2a: Kyurem|move: Protect
+|
+|-heal|p2a: Kyurem|51/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781044438
+|switch|p1a: Manaphy|Manaphy|9/100
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|
+|-heal|p1a: Manaphy|15/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781044441
+|move|p1a: Manaphy|Scald|p2a: Slowking
+|-damage|p2a: Slowking|82/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Manaphy
+|-damage|p1a: Manaphy|0 fnt
+|faint|p1a: Manaphy
+|
+|upkeep
+|
+|t:|1781044446
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|turn|25
+|
+|t:|1781044450
+|move|p1a: Cinderace|Pyro Ball|p2a: Slowking
+|-damage|p2a: Slowking|16/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781044466
+|switch|p2a: Cinderace|Cinderace, F|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1781044470
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|move|p1a: Cinderace|High Jump Kick|p2a: Cinderace|[miss]
+|-start|p1a: Cinderace|typechange|Fighting|[from] ability: Libero
+|-miss|p1a: Cinderace|p2a: Cinderace
+|-damage|p1a: Cinderace|51/100|[from] highjumpkick
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|27
+|
+|t:|1781044474
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|move|p2a: Cinderace|Pyro Ball|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781044476
+|switch|p1a: Kyurem|Kyurem|37/100
+|-ability|p1a: Kyurem|Pressure
+|turn|28
+|
+|t:|1781044485
+|-terastallize|p1a: Kyurem|Ground
+|move|p1a: Kyurem|Earth Power|p2a: Cinderace
+|-supereffective|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781044491
+|switch|p2a: Corviknight|Corviknight, F|94/100
+|-damage|p2a: Corviknight|82/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|turn|29
+|
+|t:|1781044493
+|switch|p1a: Ting-Lucifer|Ting-Lu|75/100
+|-ability|p1a: Ting-Lucifer|Vessel of Ruin
+|move|p2a: Corviknight|U-turn|p1a: Ting-Lucifer
+|-supereffective|p1a: Ting-Lucifer
+|-damage|p1a: Ting-Lucifer|57/100
+|
+|t:|1781044500
+|switch|p2a: Slowking|Slowking-Galar, F|49/100|[from] U-turn
+|
+|-weather|none
+|upkeep
+|turn|30
+|
+|t:|1781044503
+|switch|p2a: Corviknight|Corviknight, F|82/100
+|-damage|p2a: Corviknight|70/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ting-Lucifer|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-heal|p2a: Corviknight|76/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1781044507
+|move|p2a: Corviknight|Defog|p1a: Ting-Lucifer
+|-unboost|p1a: Ting-Lucifer|evasion|1
+|-sideend|p2: adil|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: Ting-Lucifer|Stone Edge|p2a: Corviknight
+|-damage|p2a: Corviknight|57/100
+|
+|-heal|p2a: Corviknight|63/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1781044511
+|move|p2a: Corviknight|Brave Bird|p1a: Ting-Lucifer
+|-damage|p1a: Ting-Lucifer|37/100
+|-damage|p2a: Corviknight|55/100|[from] Recoil
+|move|p1a: Ting-Lucifer|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: adil|move: Stealth Rock
+|
+|-heal|p2a: Corviknight|61/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1781044514
+|switch|p1a: Kyurem|Kyurem, tera:Ground|37/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Corviknight|Brave Bird|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|-damage|p2a: Corviknight|49/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|55/100|[from] item: Leftovers
+|upkeep
+|-message|Omari P forfeited.
+|
+|win|adil
+|raw|Omari P's rating: 1607 &rarr; <strong>1591</strong><br />(-16 for losing)
+|raw|adil's rating: 1673 &rarr; <strong>1689</strong><br />(+16 for winning)
+|l|☆Omari P
+|player|p1|
+|l|☆adil
+|player|p2|

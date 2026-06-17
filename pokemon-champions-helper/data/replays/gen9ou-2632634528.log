@@ -1,0 +1,281 @@
+|j|☆bfrhnnlfhroh
+|j|☆CyborgParrot127
+|t:|1781546328
+|gametype|singles
+|player|p1|bfrhnnlfhroh|1|1697
+|player|p2|CyborgParrot127|clerk|1673
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Walking Wake|
+|poke|p1|Great Tusk|
+|poke|p1|Ninetales, F|
+|poke|p1|Cinderace, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Glimmora, F|
+|poke|p2|Great Tusk|
+|poke|p2|Walking Wake|
+|poke|p2|Hatterene, F|
+|poke|p2|Cinderace, F|
+|poke|p2|Venusaur, F|
+|poke|p2|Ninetales, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by CyborgParrot127)
+|
+|t:|1781546364
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|1
+|
+|t:|1781546373
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-terastallize|p1a: Raging Bolt|Fairy
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Hatterene
+|-immune|p2a: Hatterene
+|
+|upkeep
+|turn|2
+|
+|t:|1781546388
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|move|p2a: Hatterene|Psychic Noise|p1a: Cinderace
+|-damage|p1a: Cinderace|50/100
+|-start|p1a: Cinderace|move: Heal Block
+|
+|upkeep
+|turn|3
+|
+|t:|1781546396
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|move|p1a: Cinderace|Pyro Ball|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-damage|p2a: Cinderace|38/100
+|
+|-end|p1a: Cinderace|move: Heal Block
+|upkeep
+|turn|4
+|
+|t:|1781546408
+|move|p2a: Cinderace|Sucker Punch|p1a: Cinderace
+|-start|p2a: Cinderace|typechange|Dark|[from] ability: Libero
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|upkeep
+|
+|t:|1781546417
+|switch|p1a: fast|Great Tusk|100/100
+|turn|5
+|
+|t:|1781546425
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: fast|Headlong Rush|p2a: Hatterene
+|-damage|p2a: Hatterene|53/100
+|-unboost|p1a: fast|def|1
+|-unboost|p1a: fast|spd|1
+|-enditem|p2a: Hatterene|Eject Button
+|
+|t:|1781546433
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781546441
+|-end|p1a: fast|Protosynthesis|[silent]
+|switch|p1a: good|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: good
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|move|p2a: Walking Wake|Flip Turn|p1a: good
+|-supereffective|p1a: good
+|-damage|p1a: good|80/100
+|
+|t:|1781546456
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Cinderace|Cinderace, F|38/100|[from] Flip Turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781546471
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|move|p2a: Cinderace|Pyro Ball|p1a: Glimmora
+|-resisted|p1a: Glimmora
+|-damage|p1a: Glimmora|21/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: CyborgParrot127|move: Toxic Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781546481
+|switch|p1a: fast strong|Walking Wake|100/100
+|-activate|p1a: fast strong|ability: Protosynthesis
+|-start|p1a: fast strong|protosynthesisspe
+|move|p2a: Cinderace|Pyro Ball|p1a: fast strong|[miss]
+|-miss|p2a: Cinderace|p1a: fast strong
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781546496
+|switch|p2a: Hatterene|Hatterene, F|53/100
+|-status|p2a: Hatterene|psn
+|move|p1a: fast strong|Hydro Steam|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781546499
+|switch|p2a: Venusaur|Venusaur, F, shiny|100/100
+|-sideend|p2: CyborgParrot127|move: Toxic Spikes|[of] p2a: Venusaur
+|turn|10
+|
+|t:|1781546509
+|-end|p1a: fast strong|Protosynthesis|[silent]
+|switch|p1a: Glimmora|Glimmora, F|21/100
+|move|p2a: Venusaur|Growth|p2a: Venusaur
+|-boost|p2a: Venusaur|atk|2
+|-boost|p2a: Venusaur|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781546517
+|move|p2a: Venusaur|Giga Drain|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|-damage|p2a: Venusaur|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781546527
+|switch|p1a: Raging Bolt|Raging Bolt, tera:Fairy|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|12
+|
+|t:|1781546533
+|move|p2a: Venusaur|Weather Ball|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|1/100
+|-damage|p2a: Venusaur|81/100|[from] item: Life Orb
+|move|p1a: Raging Bolt|Weather Ball|p2a: Venusaur
+|-supereffective|p2a: Venusaur
+|-crit|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|-damage|p1a: Raging Bolt|0 fnt|[from] item: Life Orb
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781546545
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|switch|p1a: fast strong|Walking Wake|100/100
+|-activate|p1a: fast strong|ability: Protosynthesis
+|-start|p1a: fast strong|protosynthesisspe
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|turn|13
+|
+|t:|1781546552
+|-terastallize|p2a: Walking Wake|Water
+|move|p2a: Walking Wake|Draco Meteor|p1a: fast strong
+|-supereffective|p1a: fast strong
+|-damage|p1a: fast strong|0 fnt
+|-unboost|p2a: Walking Wake|spa|2
+|faint|p1a: fast strong
+|-end|p1a: fast strong|Protosynthesis|[silent]
+|
+|-weather|none
+|-end|p2a: Walking Wake|Protosynthesis
+|upkeep
+|
+|t:|1781546566
+|switch|p1a: fast|Great Tusk|100/100
+|turn|14
+|
+|t:|1781546573
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-end|p1a: fast|Protosynthesis|[silent]
+|switch|p1a: good|Ninetales, F|80/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: good
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781546583
+|move|p1a: good|Will-O-Wisp|p2a: Great Tusk|[miss]
+|-miss|p1a: good|p2a: Great Tusk
+|move|p2a: Great Tusk|Headlong Rush|p1a: good
+|-supereffective|p1a: good
+|-damage|p1a: good|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: good
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781546591
+|switch|p1a: fast|Great Tusk|100/100
+|-activate|p1a: fast|ability: Protosynthesis
+|-start|p1a: fast|protosynthesisspe
+|turn|16
+|
+|t:|1781546599
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Walking Wake|Walking Wake, tera:Water|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|move|p1a: fast|Bulk Up|p1a: fast
+|-boost|p1a: fast|atk|1
+|-boost|p1a: fast|def|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781546608
+|move|p2a: Walking Wake|Hydro Steam|p1a: fast
+|-supereffective|p1a: fast
+|-crit|p1a: fast
+|-damage|p1a: fast|0 fnt
+|faint|p1a: fast
+|-end|p1a: fast|Protosynthesis|[silent]
+|
+|win|CyborgParrot127
+|raw|bfrhnnlfhroh's rating: 1697 &rarr; <strong>1676</strong><br />(-21 for losing)
+|raw|CyborgParrot127's rating: 1673 &rarr; <strong>1694</strong><br />(+21 for winning)
+|l|☆bfrhnnlfhroh
+|player|p1|
+|l|☆CyborgParrot127
+|player|p2|

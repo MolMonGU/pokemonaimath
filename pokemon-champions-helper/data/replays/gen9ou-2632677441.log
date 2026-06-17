@@ -1,0 +1,426 @@
+|j|☆lebirbyn
+|j|☆thegreatestnone
+|t:|1781550454
+|gametype|singles
+|player|p1|lebirbyn|swimmerf-gen4dp|1484
+|player|p2|thegreatestnone|1|1566
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Charizard, F|
+|poke|p1|Torkoal, F|
+|poke|p1|Walking Wake|
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Slither Wing|
+|poke|p2|Pawmot, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Skeledirge, F|
+|poke|p2|Greninja-*, M|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Slowking, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by thegreatestnone)
+|
+|t:|1781550496
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Charizard for OU|Charizard, F|100/100
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|turn|1
+|
+|t:|1781550502
+|switch|p2a: Slowking|Slowking, F|100/100
+|move|p1a: Charizard for OU|Overheat|p2a: Slowking|[miss]
+|-miss|p1a: Charizard for OU|p2a: Slowking
+|
+|upkeep
+|turn|2
+|
+|t:|1781550508
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Slowking|Scald|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|74/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781550515
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|-end|p1a: Walking Wake|Protosynthesis
+|
+|t:|1781550519
+|switch|p2a: Greninja|Greninja, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781550528
+|move|p2a: Greninja|U-turn|p1a: Walking Wake
+|-start|p2a: Greninja|typechange|Bug|[from] ability: Protean
+|-damage|p1a: Walking Wake|77/100
+|
+|t:|1781550532
+|switch|p2a: Slowking|Slowking, F|100/100|[from] U-turn
+|move|p1a: Walking Wake|Draco Meteor|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|42/100
+|-unboost|p1a: Walking Wake|spa|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781550539
+|move|p1a: Walking Wake|Flip Turn|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|34/100
+|
+|t:|1781550541
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, F|74/100|[from] Flip Turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781550545
+|switch|p2a: Greninja|Greninja, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781550552
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Greninja|Dark Pulse|p1a: Hatterene
+|-start|p2a: Greninja|typechange|Dark|[from] ability: Protean
+|-damage|p1a: Hatterene|44/100
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781550561
+|switch|p1a: Slither Wing|Slither Wing|100/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781550570
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|move|p1a: Slither Wing|U-turn|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|94/100
+|
+|t:|1781550578
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Walking Wake|Walking Wake|77/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Weezing|99/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781550606
+|switch|p2a: Slowking|Slowking, F|67/100
+|move|p1a: Walking Wake|Hydro Steam|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|54/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781550613
+|move|p1a: Walking Wake|Flip Turn|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|45/100
+|
+|t:|1781550617
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Slither Wing|Slither Wing|100/100|[from] Flip Turn
+|move|p2a: Slowking|Slack Off|p2a: Slowking
+|-heal|p2a: Slowking|95/100
+|
+|-weather|none
+|upkeep
+|turn|10
+|
+|t:|1781550625
+|switch|p2a: Weezing|Weezing-Galar, M|99/100
+|move|p1a: Slither Wing|U-turn|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|92/100
+|
+|t:|1781550641
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|
+|-heal|p2a: Weezing|98/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781550646
+|move|p1a: Great Tusk|Headlong Rush|p2a: Weezing
+|-immune|p2a: Weezing|[from] ability: Levitate
+|move|p2a: Weezing|Will-O-Wisp|p1a: Great Tusk
+|-status|p1a: Great Tusk|brn
+|
+|-heal|p2a: Weezing|100/100|[from] item: Leftovers
+|-damage|p1a: Great Tusk|94/100 brn|[from] brn
+|upkeep
+|turn|12
+|c|☆lebirbyn|huh
+|
+|t:|1781550657
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, F|74/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Weezing|Sludge Bomb|p1a: Torkoal
+|-damage|p1a: Torkoal|49/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781550671
+|switch|p2a: Slowking|Slowking, F|100/100
+|switch|p1a: Charizard for OU|Charizard, F|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Charizard for OU|88/100|[from] ability: Solar Power|[of] p1a: Charizard for OU
+|upkeep
+|turn|14
+|
+|t:|1781550689
+|move|p1a: Charizard for OU|Solar Beam||[still]
+|-prepare|p1a: Charizard for OU|Solar Beam
+|-anim|p1a: Charizard for OU|Solar Beam|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|2/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781550694
+|switch|p2a: Greninja|Greninja, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781550699
+|switch|p1a: Torkoal|Torkoal, F|49/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Greninja|U-turn|p1a: Torkoal
+|-start|p2a: Greninja|typechange|Bug|[from] ability: Protean
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|40/100
+|
+|t:|1781550702
+|switch|p2a: Slowking|Slowking, F|35/100|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781550708
+|switch|p1a: Slither Wing|Slither Wing|100/100
+|-activate|p1a: Slither Wing|ability: Protosynthesis
+|-start|p1a: Slither Wing|protosynthesisatk
+|move|p2a: Slowking|Slack Off|p2a: Slowking
+|-heal|p2a: Slowking|85/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781550716
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|move|p1a: Slither Wing|U-turn|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|91/100
+|
+|t:|1781550724
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Charizard for OU|Charizard, F|88/100|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Charizard for OU|76/100|[from] ability: Solar Power|[of] p1a: Charizard for OU
+|-heal|p2a: Weezing|97/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781550734
+|-terastallize|p1a: Charizard for OU|Fire
+|move|p1a: Charizard for OU|Weather Ball|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Charizard for OU|63/100|[from] ability: Solar Power|[of] p1a: Charizard for OU
+|upkeep
+|
+|t:|1781550742
+|switch|p2a: Greninja|Greninja, M|100/100
+|turn|19
+|
+|t:|1781550752
+|switch|p1a: Slither Wing|Slither Wing|100/100
+|-activate|p1a: Slither Wing|ability: Protosynthesis
+|-start|p1a: Slither Wing|protosynthesisatk
+|move|p2a: Greninja|Dark Pulse|p1a: Slither Wing
+|-start|p2a: Greninja|typechange|Dark|[from] ability: Protean
+|-resisted|p1a: Slither Wing
+|-damage|p1a: Slither Wing|85/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781550763
+|switch|p2a: Skeledirge|Skeledirge, F|100/100
+|move|p1a: Slither Wing|U-turn|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|93/100
+|
+|t:|1781550772
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Walking Wake|Walking Wake|77/100|[from] U-turn
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781550780
+|switch|p2a: Slowking|Slowking, F|100/100
+|move|p1a: Walking Wake|Hydro Steam|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|82/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1781550789
+|move|p1a: Walking Wake|Flip Turn|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|78/100
+|
+|t:|1781550792
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Slither Wing|Slither Wing|85/100|[from] Flip Turn
+|-activate|p1a: Slither Wing|ability: Protosynthesis
+|-start|p1a: Slither Wing|protosynthesisatk
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|-end|p1a: Slither Wing|Protosynthesis
+|
+|t:|1781550800
+|switch|p2a: Skeledirge|Skeledirge, F|93/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1781550805
+|move|p1a: Slither Wing|U-turn|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|88/100
+|
+|t:|1781550810
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Walking Wake|Walking Wake|77/100|[from] U-turn
+|move|p2a: Skeledirge|Torch Song|p1a: Walking Wake
+|-resisted|p1a: Walking Wake
+|-damage|p1a: Walking Wake|68/100
+|-boost|p2a: Skeledirge|spa|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1781550821
+|switch|p2a: Slowking|Slowking, F|100/100
+|move|p1a: Walking Wake|Flip Turn|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|92/100
+|
+|t:|1781550824
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Slither Wing|Slither Wing|85/100|[from] Flip Turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1781550838
+|switch|p2a: Skeledirge|Skeledirge, F|88/100
+|move|p1a: Slither Wing|First Impression|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|80/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1781550846
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Walking Wake|Walking Wake|68/100
+|move|p2a: Skeledirge|Will-O-Wisp|p1a: Walking Wake
+|-status|p1a: Walking Wake|brn
+|
+|-weather|none
+|-damage|p1a: Walking Wake|61/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1781550850
+|switch|p2a: Slowking|Slowking, F|100/100
+|move|p1a: Walking Wake|Flip Turn|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|97/100
+|
+|t:|1781550852
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Slither Wing|Slither Wing|85/100|[from] Flip Turn
+|
+|upkeep
+|turn|28
+|c|☆lebirbyn|ts frying me
+|inactive|thegreatestnone has 120 seconds left.
+|inactive|thegreatestnone has 90 seconds left.
+|inactive|thegreatestnone has 60 seconds left.
+|inactive|thegreatestnone has 30 seconds left.
+|inactive|thegreatestnone has 20 seconds left.
+|inactive|thegreatestnone has 15 seconds left.
+|inactive|thegreatestnone has 10 seconds left.
+|inactive|thegreatestnone has 5 seconds left.
+|-message|thegreatestnone lost due to inactivity.
+|
+|win|lebirbyn
+|raw|lebirbyn's rating: 1484 &rarr; <strong>1509</strong><br />(+25 for winning)
+|raw|thegreatestnone's rating: 1566 &rarr; <strong>1541</strong><br />(-25 for losing)
+|l|☆lebirbyn
+|player|p1|

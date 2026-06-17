@@ -1,0 +1,309 @@
+|j|‽LT_Alt1
+|j|☆18dabloons
+|t:|1780902743
+|gametype|singles
+|player|p1|LT_Alt1|265|1702
+|player|p2|18dabloons|caitlin|1739
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Garganacl, F|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Kyurem|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Moltres|
+|poke|p1|Iron Treads|
+|poke|p2|Ursaluna, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Tyranitar, F|
+|poke|p2|Pecharunt|
+|poke|p2|Keldeo-Resolute|
+|teampreview
+|
+|t:|1780902757
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|switch|p2a: Keldeo|Keldeo-Resolute|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|turn|1
+|
+|t:|1780902761
+|move|p2a: Keldeo|Surf|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|
+|upkeep
+|
+|t:|1780902763
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|2
+|
+|t:|1780902770
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Kyurem|Scale Shot|p2a: Tyranitar
+|-damage|p2a: Tyranitar|93/100
+|-damage|p2a: Tyranitar|86/100
+|-damage|p2a: Tyranitar|78/100
+|-damage|p2a: Tyranitar|71/100
+|-damage|p2a: Tyranitar|62/100
+|-hitcount|p2a: Tyranitar|5
+|-unboost|p1a: Kyurem|def|1
+|-boost|p1a: Kyurem|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Kyurem|94/100|[from] Sandstorm
+|upkeep
+|turn|3
+|j| Hakone Outbound
+|
+|t:|1780902774
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Tyranitar|Knock Off|p1a: Moltres
+|-damage|p1a: Moltres|69/100
+|-enditem|p1a: Moltres|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Moltres|63/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1780902778
+|move|p1a: Moltres|Will-O-Wisp|p2a: Tyranitar
+|-status|p2a: Tyranitar|brn
+|move|p2a: Tyranitar|Stealth Rock|p1a: Moltres
+|-sidestart|p1: LT_Alt1|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Moltres|57/100|[from] Sandstorm
+|-damage|p2a: Tyranitar|56/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1780902785
+|move|p1a: Moltres|U-turn|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|33/100 brn
+|
+|t:|1780902788
+|switch|p1a: Iron Treads|Iron Treads|100/100|[from] U-turn
+|-damage|p1a: Iron Treads|98/100|[from] Stealth Rock
+|move|p2a: Tyranitar|Thunder Wave|p1a: Iron Treads
+|-immune|p1a: Iron Treads
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Iron Treads|100/100|[from] item: Leftovers
+|-damage|p2a: Tyranitar|26/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1780902797
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Iron Treads|Stealth Rock|p2a: Pecharunt
+|-sidestart|p2: 18dabloons|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Pecharunt|94/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1780902803
+|move|p1a: Iron Treads|Knock Off|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|70/100
+|-enditem|p2a: Pecharunt|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: Pecharunt|Parting Shot|p1a: Iron Treads
+|-unboost|p1a: Iron Treads|atk|1
+|-unboost|p1a: Iron Treads|spa|1
+|
+|t:|1780902809
+|switch|p2a: Ursaluna|Ursaluna, M|100/100|[from] Parting Shot
+|-damage|p2a: Ursaluna|94/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-status|p2a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|8
+|
+|t:|1780902815
+|move|p1a: Iron Treads|Rapid Spin|p2a: Ursaluna
+|-damage|p2a: Ursaluna|88/100 brn
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: LT_Alt1|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Ursaluna|Headlong Rush|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-unboost|p2a: Ursaluna|def|1
+|-unboost|p2a: Ursaluna|spd|1
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ursaluna|82/100 brn|[from] brn
+|upkeep
+|
+|t:|1780902818
+|switch|p1a: Kyurem|Kyurem|94/100
+|-ability|p1a: Kyurem|Pressure
+|turn|9
+|
+|t:|1780902834
+|switch|p2a: Pecharunt|Pecharunt|70/100
+|-damage|p2a: Pecharunt|58/100|[from] Stealth Rock
+|move|p1a: Kyurem|Freeze-Dry|p2a: Pecharunt
+|-damage|p2a: Pecharunt|21/100
+|
+|-weather|none
+|upkeep
+|turn|10
+|
+|t:|1780902840
+|move|p1a: Kyurem|Scale Shot|p2a: Pecharunt
+|-damage|p2a: Pecharunt|16/100
+|-damage|p2a: Pecharunt|11/100
+|-damage|p2a: Pecharunt|6/100
+|-damage|p2a: Pecharunt|1/100
+|-damage|p2a: Pecharunt|0 fnt
+|faint|p2a: Pecharunt
+|-hitcount|p2: Pecharunt|5
+|-unboost|p1a: Kyurem|def|1
+|-boost|p1a: Kyurem|spe|1
+|
+|upkeep
+|
+|t:|1780902858
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|-damage|p2a: Excadrill|97/100|[from] Stealth Rock
+|-item|p2a: Excadrill|Air Balloon
+|turn|11
+|
+|t:|1780902863
+|-terastallize|p1a: Kyurem|Ice
+|move|p1a: Kyurem|Ice Beam|p2a: Excadrill
+|-damage|p2a: Excadrill|8/100
+|-enditem|p2a: Excadrill|Air Balloon
+|move|p2a: Excadrill|Rock Slide|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|10/100
+|
+|upkeep
+|turn|12
+|
+|t:|1780902880
+|switch|p2a: Tyranitar|Tyranitar, F|26/100 brn
+|-damage|p2a: Tyranitar|14/100 brn|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Kyurem|Ice Beam|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Kyurem|4/100|[from] Sandstorm
+|upkeep
+|
+|t:|1780902895
+|switch|p2a: Excadrill|Excadrill, M|8/100
+|-damage|p2a: Excadrill|5/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1780902907
+|switch|p1a: Moltres|Moltres|57/100
+|move|p2a: Excadrill|Rapid Spin|p1a: Moltres
+|-damage|p1a: Moltres|42/100
+|-boost|p2a: Excadrill|spe|1
+|-sideend|p2: 18dabloons|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Moltres|36/100|[from] Sandstorm
+|upkeep
+|turn|14
+|
+|t:|1780902913
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|move|p2a: Excadrill|Rock Slide|p1a: Garganacl
+|-damage|p1a: Garganacl|84/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Garganacl|90/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1780902931
+|move|p2a: Excadrill|Earthquake|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|22/100
+|move|p1a: Garganacl|Salt Cure|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Garganacl|28/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780902938
+|switch|p2a: Ursaluna|Ursaluna, M|82/100 brn
+|turn|16
+|
+|t:|1780902942
+|move|p2a: Ursaluna|Facade|p1a: Garganacl
+|-resisted|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|faint|p1a: Garganacl
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ursaluna|76/100 brn|[from] brn
+|upkeep
+|
+|t:|1780902945
+|switch|p1a: Kyurem|Kyurem, tera:Ice|4/100
+|-ability|p1a: Kyurem|Pressure
+|turn|17
+|
+|t:|1780902972
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|-terastallize|p2a: Ursaluna|Fairy
+|move|p2a: Ursaluna|Facade|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ursaluna|70/100 brn|[from] Sandstorm
+|-damage|p2a: Ursaluna|64/100 brn|[from] brn
+|upkeep
+|
+|t:|1780902978
+|switch|p1a: Kyurem|Kyurem, tera:Ice|4/100
+|-ability|p1a: Kyurem|Pressure
+|turn|18
+|
+|t:|1780902983
+|move|p1a: Kyurem|Ice Beam|p2a: Ursaluna
+|-damage|p2a: Ursaluna|0 fnt
+|faint|p2a: Ursaluna
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Kyurem|0 fnt|[from] Sandstorm
+|faint|p1a: Kyurem
+|upkeep
+|-message|LT_Alt1 forfeited.
+|
+|win|18dabloons
+|raw|LT_Alt1's rating: 1702 &rarr; <strong>1684</strong><br />(-18 for losing)
+|raw|18dabloons's rating: 1739 &rarr; <strong>1757</strong><br />(+18 for winning)
+|l|☆18dabloons
+|player|p2|

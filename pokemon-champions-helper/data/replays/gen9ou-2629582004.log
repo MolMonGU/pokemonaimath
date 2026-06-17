@@ -1,0 +1,260 @@
+|j|☆KurisuChestnutOU
+|j|☆t0nezoffun
+|t:|1781148678
+|gametype|singles
+|player|p1|KurisuChestnutOU|may-contest|1542
+|player|p2|t0nezoffun|102|1550
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hawlucha, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Gholdengo|
+|poke|p1|Kyurem|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Iron Treads|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Gholdengo|
+|teampreview
+|
+|t:|1781148683
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutOU)
+|
+|t:|1781148691
+|move|p2a: Tornadus|Knock Off|p1a: Kyurem
+|-damage|p1a: Kyurem|82/100
+|-enditem|p1a: Kyurem|Assault Vest|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Kyurem|Ice Beam|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|34/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781148700
+|move|p2a: Tornadus|U-turn|p1a: Kyurem
+|-damage|p1a: Kyurem|66/100
+|
+|t:|1781148711
+|switch|p2a: Zamazenta|Zamazenta|100/100|[from] U-turn
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Kyurem|Ice Beam|p2a: Zamazenta
+|-damage|p2a: Zamazenta|60/100
+|
+|-heal|p2a: Zamazenta|66/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781148720
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Ogerpon|atk|1
+|
+|upkeep
+|turn|4
+|
+|t:|1781148729
+|switch|p1a: Kyurem|Kyurem|66/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1781148736
+|move|p2a: Ogerpon|Play Rough|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781148740
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|6
+|
+|t:|1781148746
+|switch|p2a: Tornadus|Tornadus-Therian, M|67/100
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1781148754
+|-terastallize|p1a: Rillaboom|Fire
+|move|p2a: Tornadus|Heat Wave|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|87/100
+|move|p1a: Rillaboom|Knock Off|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|-enditem|p2a: Tornadus|Assault Vest|[from] move: Knock Off|[of] p1a: Rillaboom
+|faint|p2a: Tornadus
+|
+|-heal|p1a: Rillaboom|93/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781148765
+|switch|p2a: Zamazenta|Zamazenta|66/100
+|turn|8
+|
+|t:|1781148773
+|-terastallize|p2a: Zamazenta|Fire
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p1a: Rillaboom|Knock Off|p2a: Zamazenta
+|-damage|p2a: Zamazenta|41/100
+|-enditem|p2a: Zamazenta|Leftovers|[from] move: Knock Off|[of] p1a: Rillaboom
+|
+|-heal|p2a: Zamazenta|47/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|99/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781148782
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zamazenta|atk|1
+|move|p2a: Zamazenta|Body Press|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|68/100
+|-damage|p2a: Zamazenta|31/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|
+|-heal|p2a: Zamazenta|37/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1781148794
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Landorus|Stealth Rock|p2a: Iron Treads
+|-sidestart|p2: t0nezoffun|move: Stealth Rock
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781148799
+|move|p2a: Iron Treads|Stealth Rock|p1a: Landorus
+|-sidestart|p1: KurisuChestnutOU|move: Stealth Rock
+|move|p1a: Landorus|Earth Power|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|11/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781148805
+|move|p2a: Iron Treads|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|39/100
+|-damage|p2a: Iron Treads|0 fnt|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|move|p1a: Landorus|U-turn|p2: Iron Treads|[notarget]
+|-fail|p1a: Landorus
+|
+|upkeep
+|
+|t:|1781148813
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|88/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1781148818
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Landorus|[anim] Ivy Cudgel Water
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1781148822
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1781148830
+|move|p1a: Gholdengo|Shadow Ball|p2a: Ogerpon
+|-damage|p2a: Ogerpon|42/100
+|-unboost|p2a: Ogerpon|spd|1
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|15
+|
+|t:|1781148837
+|move|p1a: Gholdengo|Shadow Ball|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781148842
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|-damage|p2a: Samurott|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781148846
+|move|p1a: Gholdengo|Shadow Ball|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|71/100
+|move|p2a: Samurott|Ceaseless Edge|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-sidestart|p1: KurisuChestnutOU|Spikes
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781148851
+|switch|p1a: Rillaboom|Rillaboom, F, tera:Fire|99/100
+|-damage|p1a: Rillaboom|74/100|[from] Stealth Rock
+|-damage|p1a: Rillaboom|62/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|17
+|
+|t:|1781148859
+|move|p1a: Rillaboom|Grassy Glide|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-heal|p1a: Rillaboom|68/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781148865
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|94/100|[from] Stealth Rock
+|-item|p2a: Gholdengo|Air Balloon
+|turn|18
+|-message|t0nezoffun forfeited.
+|
+|win|KurisuChestnutOU
+|raw|KurisuChestnutOU's rating: 1497 &rarr; <strong>1520</strong><br />(+23 for winning)
+|raw|t0nezoffun's rating: 1550 &rarr; <strong>1527</strong><br />(-23 for losing)
+|l|☆t0nezoffun
+|player|p2|

@@ -1,0 +1,352 @@
+|j|☆teamskullenoxa
+|j|☆psylxr
+|t:|1781227202
+|gametype|singles
+|player|p1|teamskullenoxa|2|1522
+|player|p2|psylxr|169|1624
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Iron Treads|
+|poke|p1|Toxicroak, F|
+|poke|p1|Barraskewda, F|
+|poke|p1|Zapdos|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by teamskullenoxa)
+|
+|t:|1781227227
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Iron Belly|Iron Treads|100/100
+|-enditem|p2a: Iron Belly|Booster Energy
+|-activate|p2a: Iron Belly|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Belly|quarkdrivespe
+|turn|1
+|
+|t:|1781227250
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Iron Belly|Rapid Spin|p1a: Pelipper
+|-damage|p1a: Pelipper|87/100
+|-boost|p2a: Iron Belly|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781227260
+|-end|p2a: Iron Belly|Quark Drive|[silent]
+|switch|p2a: Raging Neck|Raging Bolt|100/100
+|-enditem|p2a: Raging Neck|Booster Energy
+|-activate|p2a: Raging Neck|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Neck|protosynthesisspa
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781227267
+|switch|p1a: Toxicroak|Toxicroak, F|100/100
+|move|p2a: Raging Neck|Thunder|p1a: Toxicroak
+|-damage|p1a: Toxicroak|0 fnt
+|faint|p1a: Toxicroak
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781227273
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|turn|4
+|
+|t:|1781227276
+|-terastallize|p2a: Raging Neck|Fairy
+|move|p1a: Iron Treads|Stealth Rock|p2a: Raging Neck
+|-sidestart|p2: psylxr|move: Stealth Rock
+|move|p2a: Raging Neck|Weather Ball|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781227289
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|turn|5
+|
+|t:|1781227295
+|-terastallize|p1a: Barraskewda|Water
+|move|p1a: Barraskewda|Aqua Jet|p2a: Raging Neck
+|-damage|p2a: Raging Neck|46/100
+|move|p2a: Raging Neck|Thunderclap||[still]
+|-fail|p2a: Raging Neck
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781227313
+|-end|p2a: Raging Neck|Protosynthesis|[silent]
+|switch|p2a: Gulp Gulp|Pelipper, M|100/100
+|-damage|p2a: Gulp Gulp|76/100|[from] Stealth Rock
+|move|p1a: Barraskewda|Aqua Jet|p2a: Gulp Gulp
+|-resisted|p2a: Gulp Gulp
+|-damage|p2a: Gulp Gulp|51/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781227317
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Gulp Gulp|Roost|p2a: Gulp Gulp
+|-heal|p2a: Gulp Gulp|100/100
+|-singleturn|p2a: Gulp Gulp|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781227326
+|switch|p2a: Iron Belly|Iron Treads|100/100
+|-damage|p2a: Iron Belly|97/100|[from] Stealth Rock
+|move|p1a: Zapdos|Weather Ball|p2a: Iron Belly
+|-supereffective|p2a: Iron Belly
+|-damage|p2a: Iron Belly|0 fnt
+|faint|p2a: Iron Belly
+|-end|p2a: Iron Belly|Quark Drive|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781227334
+|switch|p2a: Gulp Gulp|Pelipper, M|100/100
+|-damage|p2a: Gulp Gulp|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Gulp Gulp
+|turn|9
+|
+|t:|1781227340
+|switch|p1a: Pelipper|Pelipper, F|87/100
+|move|p2a: Gulp Gulp|Weather Ball|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|63/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781227346
+|move|p2a: Gulp Gulp|Hurricane|p1a: Pelipper
+|-crit|p1a: Pelipper
+|-damage|p1a: Pelipper|9/100
+|move|p1a: Pelipper|Roost|p1a: Pelipper
+|-heal|p1a: Pelipper|59/100
+|-singleturn|p1a: Pelipper|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781227353
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Gulp Gulp|Hurricane|p1a: Hatterene
+|-damage|p1a: Hatterene|61/100
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781227356
+|switch|p1a: Zapdos|Zapdos|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781227361
+|switch|p2a: Queengambit|Kingambit, F|100/100
+|-damage|p2a: Queengambit|94/100|[from] Stealth Rock
+|-activate|p2a: Queengambit|ability: Supreme Overlord
+|-start|p2a: Queengambit|fallen1|[silent]
+|move|p1a: Zapdos|Thunder|p2a: Queengambit
+|-damage|p2a: Queengambit|18/100
+|-status|p2a: Queengambit|par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Queengambit|24/100 par|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|teamskullenoxa has 120 seconds left.
+|
+|t:|1781227397
+|move|p2a: Queengambit|Sucker Punch|p1a: Zapdos
+|-damage|p1a: Zapdos|43/100
+|move|p1a: Zapdos|Thunder|p2a: Queengambit
+|-damage|p2a: Queengambit|0 fnt
+|faint|p2a: Queengambit
+|-end|p2a: Queengambit|fallen1|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781227401
+|switch|p2a: Spike|Overqwil, F|100/100
+|-damage|p2a: Spike|88/100|[from] Stealth Rock
+|turn|14
+|inactive|teamskullenoxa has 120 seconds left.
+|
+|t:|1781227420
+|switch|p1a: Hatterene|Hatterene, F|61/100
+|move|p2a: Spike|Gunk Shot|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|-damage|p2a: Spike|78/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781227422
+|switch|p1a: Barraskewda|Barraskewda, F, tera:Water|100/100
+|turn|15
+|
+|t:|1781227430
+|switch|p2a: Gulp Gulp|Pelipper, M|76/100
+|-damage|p2a: Gulp Gulp|51/100|[from] Stealth Rock
+|move|p1a: Barraskewda|Liquidation|p2a: Gulp Gulp
+|-resisted|p2a: Gulp Gulp
+|-damage|p2a: Gulp Gulp|0 fnt
+|faint|p2a: Gulp Gulp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781227436
+|switch|p2a: Raging Neck|Raging Bolt, tera:Fairy|46/100
+|-damage|p2a: Raging Neck|34/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781227442
+|switch|p1a: Zapdos|Zapdos|43/100
+|move|p2a: Raging Neck|Thunderclap||[still]
+|-fail|p2a: Raging Neck
+|
+|-weather|none
+|upkeep
+|turn|17
+|
+|t:|1781227453
+|move|p1a: Zapdos|Volt Switch|p2a: Raging Neck
+|-damage|p2a: Raging Neck|0 fnt
+|faint|p2a: Raging Neck
+|-end|p2a: Raging Neck|Protosynthesis|[silent]
+|
+|t:|1781227461
+|switch|p1a: Barraskewda|Barraskewda, F, tera:Water|100/100|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1781227473
+|switch|p2a: Flip Flop|Barraskewda, F|100/100
+|-damage|p2a: Flip Flop|88/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781227484
+|switch|p1a: Zapdos|Zapdos|43/100
+|move|p2a: Flip Flop|Close Combat|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|5/100
+|-unboost|p2a: Flip Flop|def|1
+|-unboost|p2a: Flip Flop|spd|1
+|
+|upkeep
+|turn|19
+|
+|t:|1781227496
+|move|p2a: Flip Flop|Close Combat|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|-unboost|p2a: Flip Flop|def|1
+|-unboost|p2a: Flip Flop|spd|1
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1781227509
+|switch|p1a: Pelipper|Pelipper, F|59/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|20
+|
+|t:|1781227512
+|switch|p2a: Spike|Overqwil, F|78/100
+|-damage|p2a: Spike|66/100|[from] Stealth Rock
+|move|p1a: Pelipper|Hurricane|p2a: Spike
+|-damage|p2a: Spike|14/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781227516
+|move|p2a: Spike|Gunk Shot|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|-damage|p2a: Spike|5/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781227519
+|switch|p1a: Barraskewda|Barraskewda, F, tera:Water|100/100
+|turn|22
+|inactive|teamskullenoxa has 120 seconds left.
+|
+|t:|1781227554
+|move|p1a: Barraskewda|Aqua Jet|p2a: Spike
+|-damage|p2a: Spike|0 fnt
+|faint|p2a: Spike
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781227556
+|switch|p2a: Flip Flop|Barraskewda, F|88/100
+|-damage|p2a: Flip Flop|75/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1781227561
+|move|p1a: Barraskewda|Aqua Jet|p2a: Flip Flop
+|-resisted|p2a: Flip Flop
+|-damage|p2a: Flip Flop|10/100
+|move|p2a: Flip Flop|Close Combat|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|-unboost|p2a: Flip Flop|def|1
+|-unboost|p2a: Flip Flop|spd|1
+|faint|p1a: Barraskewda
+|
+|win|psylxr
+|raw|teamskullenoxa's rating: 1522 &rarr; <strong>1508</strong><br />(-14 for losing)
+|raw|psylxr's rating: 1624 &rarr; <strong>1638</strong><br />(+14 for winning)
+|l|☆teamskullenoxa
+|player|p1|
+|l|☆psylxr
+|player|p2|

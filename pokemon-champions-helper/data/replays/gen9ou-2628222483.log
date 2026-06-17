@@ -1,0 +1,295 @@
+|j|☆imperimento
+|j|☆Capidaxter
+|t:|1780994313
+|gametype|singles
+|player|p1|imperimento|265|1783
+|player|p2|Capidaxter|ethan|1761
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Moltres|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Gholdengo|
+|poke|p1|Pecharunt|
+|poke|p1|Walking Wake|
+|poke|p1|Ting-Lu|
+|poke|p2|Ting-Lu|
+|poke|p2|Glimmora, F|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Valiant|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Dragonite, F|
+|teampreview
+|j| choispecs ironmoth
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Capidaxter)
+|j| Coolcube_3
+|
+|t:|1780994336
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|1
+|
+|t:|1780994352
+|move|p1a: Walking Wake|Surf|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|50/100
+|move|p2a: Ting-Lu|Ruination|p1a: Walking Wake|[miss]
+|-miss|p2a: Ting-Lu|p1a: Walking Wake
+|
+|upkeep
+|turn|2
+|
+|t:|1780994372
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Walking Wake|Surf|p2a: Ogerpon
+|-immune|p2a: Ogerpon|[from] ability: Water Absorb
+|
+|upkeep
+|turn|3
+|
+|t:|1780994382
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Ogerpon|Encore||[still]
+|-fail|p2a: Ogerpon
+|
+|upkeep
+|turn|4
+|
+|t:|1780994393
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Ogerpon|Knock Off|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|90/100
+|-enditem|p1a: Ting-Lu|Leftovers|[from] move: Knock Off|[of] p2a: Ogerpon
+|
+|upkeep
+|turn|5
+|
+|t:|1780994405
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Ting-Lu|[anim] Ivy Cudgel Water
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|21/100
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Ogerpon
+|-sidestart|p2: Capidaxter|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1780994417
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Pecharunt|[anim] Ivy Cudgel Water
+|-damage|p1a: Pecharunt|63/100
+|
+|upkeep
+|turn|7
+|
+|t:|1780994426
+|move|p2a: Ogerpon|Knock Off|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|14/100
+|-enditem|p1a: Pecharunt|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ogerpon
+|move|p1a: Pecharunt|Malignant Chain|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|26/100
+|-status|p2a: Ogerpon|tox
+|-start|p2a: Ogerpon|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|
+|-damage|p2a: Ogerpon|20/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1780994444
+|-activate|p2a: Ogerpon|confusion
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Pecharunt|[anim] Ivy Cudgel Water
+|-damage|p1a: Pecharunt|0 fnt
+|faint|p1a: Pecharunt
+|
+|-damage|p2a: Ogerpon|8/100 tox|[from] psn
+|upkeep
+|
+|t:|1780994449
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|turn|9
+|
+|t:|1780994455
+|move|p1a: Samurott|Sucker Punch|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1780994463
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-damage|p2a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|10
+|
+|t:|1780994475
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Iron Valiant|Knock Off|p1a: Moltres
+|-damage|p1a: Moltres|81/100
+|-status|p2a: Iron Valiant|brn|[from] ability: Flame Body|[of] p1a: Moltres
+|-enditem|p1a: Moltres|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Iron Valiant
+|
+|-damage|p2a: Iron Valiant|88/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1780994487
+|move|p2a: Iron Valiant|Thunderbolt|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-crit|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|-damage|p2a: Iron Valiant|82/100 brn|[from] brn
+|upkeep
+|
+|t:|1780994498
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|12
+|
+|t:|1780994505
+|move|p2a: Iron Valiant|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|66/100
+|-enditem|p1a: Gholdengo|Choice Scarf|[from] move: Knock Off|[of] p2a: Iron Valiant
+|move|p1a: Gholdengo|Shadow Ball|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780994520
+|switch|p2a: Ting-Lu|Ting-Lu|50/100
+|-damage|p2a: Ting-Lu|44/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|13
+|
+|t:|1780994529
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Walking Wake
+|-damage|p1a: Walking Wake|61/100
+|
+|upkeep
+|turn|14
+|
+|t:|1780994536
+|move|p1a: Walking Wake|Surf|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1780994539
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|15
+|
+|t:|1780994549
+|move|p1a: Walking Wake|Flip Turn|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|96/100
+|
+|t:|1780994555
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Ting-Lu|Ting-Lu|21/100|[from] Flip Turn
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|16
+|
+|t:|1780994564
+|move|p2a: Dragonite|Dragon Claw|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1780994588
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|turn|17
+|
+|t:|1780994599
+|move|p2a: Dragonite|Dragon Claw|p1a: Samurott
+|-damage|p1a: Samurott|22/100
+|move|p1a: Samurott|Ceaseless Edge|p2a: Dragonite
+|-damage|p2a: Dragonite|52/100
+|-sidestart|p2: Capidaxter|Spikes
+|
+|upkeep
+|turn|18
+|j| Hakone Outbound
+|
+|t:|1780994616
+|move|p1a: Samurott|Sucker Punch||[still]
+|-fail|p1a: Samurott
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|19
+|
+|t:|1780994623
+|move|p2a: Dragonite|Extreme Speed|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1780994630
+|switch|p1a: Walking Wake|Walking Wake|61/100
+|turn|20
+|l| Coolcube_3
+|
+|t:|1780994644
+|-terastallize|p1a: Walking Wake|Fairy
+|move|p2a: Dragonite|Extreme Speed|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780994650
+|switch|p1a: Gholdengo|Gholdengo|66/100
+|turn|21
+|
+|t:|1780994657
+|move|p2a: Dragonite|Fire Punch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|win|Capidaxter
+|raw|imperimento's rating: 1783 &rarr; <strong>1762</strong><br />(-21 for losing)
+|raw|Capidaxter's rating: 1761 &rarr; <strong>1782</strong><br />(+21 for winning)
+|l|☆Capidaxter
+|player|p2|
+|l| choispecs ironmoth
+|l|☆imperimento
+|player|p1|
+|j|☆imperimento
+|player|p1|imperimento|265|

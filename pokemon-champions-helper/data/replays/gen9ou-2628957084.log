@@ -1,0 +1,728 @@
+|j|☆monogatari0
+|j|☆Kallopala
+|t:|1781079898
+|gametype|singles
+|player|p1|monogatari0|1|1563
+|player|p2|Kallopala|gentleman|1583
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Cinderace, F|
+|poke|p1|Kyurem|
+|poke|p1|Corviknight, F|
+|poke|p1|Ting-Lu|
+|poke|p1|Dondozo, F|
+|poke|p2|Dondozo, M|
+|poke|p2|Blissey, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Gliscor, F|
+|poke|p2|Toxapex, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kallopala)
+|
+|t:|1781079911
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|turn|1
+|
+|t:|1781079914
+|move|p2a: Weezing|Will-O-Wisp|p1a: Slowking
+|-status|p1a: Slowking|brn
+|move|p1a: Slowking|Future Sight|p2a: Weezing
+|-start|p1a: Slowking|move: Future Sight
+|
+|-damage|p1a: Slowking|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1781079921
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781079924
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|3
+|
+|t:|1781079927
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Kyurem|Blizzard|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Gliscor|move: Future Sight
+|-damage|p2a: Gliscor|62/100 tox
+|-heal|p2a: Gliscor|75/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|4
+|
+|t:|1781079937
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Kyurem|Blizzard|p2a: Blissey
+|-damage|p2a: Blissey|72/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Blissey|78/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|j| kanaete onegai
+|
+|t:|1781079943
+|switch|p1a: Slowking|Slowking-Galar, F|100/100 brn
+|move|p2a: Blissey|Stealth Rock|p1a: Slowking
+|-sidestart|p1: monogatari0|move: Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Blissey|84/100|[from] item: Leftovers
+|-damage|p1a: Slowking|94/100 brn|[from] brn
+|upkeep
+|turn|6
+|j| lord shiddenfards
+|
+|t:|1781079948
+|move|p2a: Blissey|Seismic Toss|p1a: Slowking
+|-damage|p1a: Slowking|69/100 brn
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|
+|t:|1781079950
+|switch|p1a: Corviknight|Corviknight, F, shiny|100/100|[from] Chilly Reception
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|
+|-weather|none
+|-heal|p2a: Blissey|91/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781079958
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Corviknight|Defog|p2a: Weezing
+|-unboost|p2a: Weezing|evasion|1
+|-sideend|p1: monogatari0|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|upkeep
+|turn|8
+|
+|t:|1781079961
+|switch|p1a: Slowking|Slowking-Galar, F|100/100 brn
+|move|p2a: Weezing|Will-O-Wisp|p1a: Slowking
+|-fail|p1a: Slowking|brn
+|
+|-damage|p1a: Slowking|94/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1781079965
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Blissey|Blissey, F|91/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781079972
+|switch|p1a: Cinderace|Cinderace, F|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Blissey|97/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781079977
+|switch|p2a: Dondozo|Dondozo, M|100/100
+|move|p1a: Cinderace|Pyro Ball|p2a: Dondozo|[miss]
+|-miss|p1a: Cinderace|p2a: Dondozo
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781079984
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Cinderace|U-turn|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|98/100
+|
+|t:|1781079994
+|switch|p1a: Kyurem|Kyurem|100/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781080001
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|-ability|p1a: Kyurem|Pressure
+|switch|p2a: Blissey|Blissey, F|97/100
+|move|p1a: Kyurem|Blizzard|p2a: Blissey
+|-damage|p2a: Blissey|67/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Blissey|73/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781080008
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|move|p2a: Blissey|Stealth Rock|p1a: Cinderace
+|-sidestart|p1: monogatari0|move: Stealth Rock
+|
+|-weather|none
+|-heal|p2a: Blissey|79/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781080017
+|switch|p2a: Weezing|Weezing-Galar, F|98/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|
+|upkeep
+|turn|15
+|
+|t:|1781080022
+|move|p1a: Cinderace|Will-O-Wisp|p2a: Weezing
+|-status|p2a: Weezing|brn
+|move|p2a: Weezing|Defog|p1a: Cinderace
+|-unboost|p1a: Cinderace|evasion|1
+|-sideend|p2: Kallopala|Stealth Rock|[from] move: Defog|[of] p2a: Weezing
+|
+|-damage|p2a: Weezing|92/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1781080029
+|move|p1a: Cinderace|Pyro Ball|p2a: Weezing
+|-damage|p2a: Weezing|59/100 brn
+|move|p2a: Weezing|Strange Steam|p1a: Cinderace
+|-resisted|p1a: Cinderace
+|-damage|p1a: Cinderace|83/100
+|-start|p1a: Cinderace|confusion
+|
+|-damage|p2a: Weezing|53/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781080033
+|-activate|p1a: Cinderace|confusion
+|-damage|p1a: Cinderace|71/100|[from] confusion
+|move|p2a: Weezing|Pain Split|p1a: Cinderace
+|-sethp|p1a: Cinderace|60/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|64/100 brn|[from] move: Pain Split
+|
+|-damage|p2a: Weezing|58/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1781080041
+|switch|p1a: Slowking|Slowking-Galar, F|100/100 brn
+|move|p2a: Weezing|Will-O-Wisp|p1a: Slowking
+|-fail|p1a: Slowking|brn
+|
+|-damage|p2a: Weezing|52/100 brn|[from] brn
+|-damage|p1a: Slowking|94/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1781080046
+|move|p2a: Weezing|Pain Split|p1a: Slowking
+|-sethp|p1a: Slowking|69/100 brn|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|82/100 brn|[from] move: Pain Split
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781080049
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Weezing|76/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1781080064
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|-ability|p1a: Kyurem|Pressure
+|switch|p2a: Blissey|Blissey, F|79/100
+|move|p1a: Kyurem|Blizzard|p2a: Blissey
+|-damage|p2a: Blissey|52/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Blissey|59/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781080071
+|move|p1a: Kyurem|Blizzard|p2a: Blissey
+|-damage|p2a: Blissey|31/100
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|81/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Blissey|88/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781080085
+|switch|p1a: Cinderace|Cinderace, F|60/100
+|move|p2a: Blissey|Seismic Toss|p1a: Cinderace
+|-damage|p1a: Cinderace|32/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Blissey|94/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781080087
+|switch|p2a: Dondozo|Dondozo, M|100/100
+|move|p1a: Cinderace|Pyro Ball|p2a: Dondozo
+|-resisted|p2a: Dondozo
+|-damage|p2a: Dondozo|85/100
+|
+|-weather|none
+|-heal|p2a: Dondozo|92/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781080090
+|switch|p2a: Weezing|Weezing-Galar, F|76/100 brn
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Cinderace|U-turn|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|73/100 brn
+|
+|t:|1781080094
+|switch|p1a: Kyurem|Kyurem|100/100|[from] U-turn
+|
+|-damage|p2a: Weezing|67/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1781080100
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|-ability|p1a: Kyurem|Pressure
+|switch|p2a: Blissey|Blissey, F|94/100
+|move|p1a: Kyurem|Ice Beam|p2a: Blissey
+|-damage|p2a: Blissey|69/100
+|
+|-heal|p2a: Blissey|76/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781080106
+|switch|p1a: Corviknight|Corviknight, F, shiny|88/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Blissey|Stealth Rock|p1a: Corviknight
+|-sidestart|p1: monogatari0|move: Stealth Rock
+|
+|-heal|p2a: Blissey|82/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781080111
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Corviknight|Body Press|p2a: Corviknight
+|-damage|p2a: Corviknight|85/100
+|
+|-heal|p2a: Corviknight|91/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781080119
+|move|p2a: Corviknight|Body Press|p1a: Corviknight
+|-damage|p1a: Corviknight|71/100
+|-damage|p2a: Corviknight|75/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|move|p1a: Corviknight|Iron Defense|p1a: Corviknight
+|-boost|p1a: Corviknight|def|2
+|
+|-heal|p2a: Corviknight|81/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1781080124
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|move|p1a: Corviknight|Iron Defense|p1a: Corviknight
+|-boost|p1a: Corviknight|def|2
+|
+|-heal|p2a: Corviknight|87/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781080126
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|move|p1a: Corviknight|Body Press|p2a: Corviknight
+|-damage|p2a: Corviknight|72/100
+|
+|-heal|p2a: Corviknight|78/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1781080129
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|move|p1a: Corviknight|Iron Defense|p1a: Corviknight
+|-boost|p1a: Corviknight|def|2
+|
+|-heal|p2a: Corviknight|85/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1781080131
+|move|p2a: Corviknight|Body Press|p1a: Corviknight
+|-damage|p1a: Corviknight|54/100
+|-damage|p2a: Corviknight|68/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|move|p1a: Corviknight|Defog|p2a: Corviknight
+|-unboost|p2a: Corviknight|evasion|1
+|-sideend|p1: monogatari0|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|-heal|p2a: Corviknight|74/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1781080135
+|move|p2a: Corviknight|Body Press|p1a: Corviknight
+|-damage|p1a: Corviknight|36/100
+|-damage|p2a: Corviknight|58/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|86/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|64/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1781080142
+|move|p2a: Corviknight|Body Press|p1a: Corviknight
+|-damage|p1a: Corviknight|71/100
+|-damage|p2a: Corviknight|48/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|54/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1781080146
+|move|p2a: Corviknight|Body Press|p1a: Corviknight
+|-damage|p1a: Corviknight|83/100
+|-damage|p2a: Corviknight|37/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|move|p1a: Corviknight|Body Press|p2a: Corviknight
+|-damage|p2a: Corviknight|23/100
+|
+|-heal|p2a: Corviknight|30/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1781080149
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|80/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Corviknight|Body Press|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|49/100
+|
+|-heal|p2a: Corviknight|55/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1781080153
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Corviknight|Body Press|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|71/100
+|
+|-heal|p2a: Corviknight|78/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1781080158
+|switch|p2a: Dondozo|Dondozo, M|92/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p2a: Dondozo|98/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1781080179
+|move|p1a: Corviknight|Body Press|p2a: Dondozo
+|-damage|p2a: Dondozo|86/100
+|move|p2a: Dondozo|Body Press|p1a: Corviknight
+|-damage|p1a: Corviknight|84/100
+|-damage|p2a: Dondozo|69/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|-heal|p2a: Dondozo|75/100|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1781080192
+|move|p1a: Corviknight|Body Press|p2a: Dondozo
+|-damage|p2a: Dondozo|63/100
+|move|p2a: Dondozo|Avalanche|p1a: Corviknight
+|-damage|p1a: Corviknight|68/100
+|-damage|p2a: Dondozo|47/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|-heal|p2a: Dondozo|53/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1781080198
+|move|p1a: Corviknight|Body Press|p2a: Dondozo
+|-damage|p2a: Dondozo|42/100
+|move|p2a: Dondozo|Body Press|p1a: Corviknight
+|-crit|p1a: Corviknight
+|-damage|p1a: Corviknight|43/100
+|-damage|p2a: Dondozo|26/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|-heal|p2a: Dondozo|32/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1781080201
+|move|p1a: Corviknight|Body Press|p2a: Dondozo
+|-damage|p2a: Dondozo|21/100
+|move|p2a: Dondozo|Rest|p2a: Dondozo
+|-status|p2a: Dondozo|slp|[from] move: Rest
+|-heal|p2a: Dondozo|100/100 slp|[silent]
+|
+|upkeep
+|turn|43
+|
+|t:|1781080206
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|cant|p2a: Dondozo|slp
+|
+|upkeep
+|turn|44
+|
+|t:|1781080220
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|24/100
+|
+|-heal|p2a: Toxapex|30/100|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|t:|1781080227
+|switch|p2a: Blissey|Blissey, F|82/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Blissey
+|-damage|p2a: Blissey|63/100
+|
+|-heal|p2a: Blissey|70/100|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1781080231
+|switch|p1a: Corviknight|Corviknight, F, shiny|43/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Blissey|Seismic Toss|p1a: Corviknight
+|-damage|p1a: Corviknight|18/100
+|-damage|p2a: Blissey|53/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|-heal|p2a: Blissey|59/100|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1781080243
+|switch|p2a: Corviknight|Corviknight, M|78/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|68/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|84/100|[from] item: Leftovers
+|upkeep
+|turn|48
+|
+|t:|1781080247
+|switch|p2a: Gliscor|Gliscor, F|75/100 tox
+|switch|p1a: Cinderace|Cinderace, F|32/100
+|
+|-heal|p2a: Gliscor|87/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|49
+|
+|t:|1781080252
+|move|p1a: Cinderace|U-turn|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|80/100 tox
+|
+|t:|1781080256
+|switch|p1a: Slowking|Slowking-Galar, F|69/100 brn|[from] U-turn
+|move|p2a: Gliscor|Earthquake|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-enditem|p1a: Slowking|Shuca Berry|[eat]
+|-enditem|p1a: Slowking|Shuca Berry|[weaken]
+|-damage|p1a: Slowking|45/100 brn
+|
+|-heal|p2a: Gliscor|93/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Slowking|39/100 brn|[from] brn
+|upkeep
+|turn|50
+|
+|t:|1781080264
+|move|p2a: Gliscor|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|16/100 brn
+|move|p1a: Slowking|Ice Beam|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|14/100 tox
+|
+|-heal|p2a: Gliscor|27/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Slowking|10/100 brn|[from] brn
+|upkeep
+|turn|51
+|
+|t:|1781080270
+|move|p2a: Gliscor|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-heal|p2a: Gliscor|39/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781080272
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|52
+|
+|t:|1781080281
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Kyurem|Ice Beam|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|52/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|53
+|
+|t:|1781080286
+|switch|p2a: Toxapex|Toxapex, F|63/100
+|move|p1a: Kyurem|Ice Beam|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|40/100
+|
+|-heal|p2a: Toxapex|46/100|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1781080292
+|switch|p2a: Blissey|Blissey, F|59/100
+|move|p1a: Kyurem|Ice Beam|p2a: Blissey
+|-crit|p2a: Blissey
+|-damage|p2a: Blissey|25/100
+|
+|-heal|p2a: Blissey|31/100|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|t:|1781080298
+|move|p1a: Kyurem|Ice Beam|p2a: Blissey
+|-damage|p2a: Blissey|8/100
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|58/100
+|
+|-heal|p2a: Blissey|65/100|[from] item: Leftovers
+|upkeep
+|turn|56
+|
+|t:|1781080303
+|move|p1a: Kyurem|Ice Beam|p2a: Blissey
+|-damage|p2a: Blissey|39/100
+|move|p2a: Blissey|Calm Mind|p2a: Blissey
+|-boost|p2a: Blissey|spa|1
+|-boost|p2a: Blissey|spd|1
+|
+|-heal|p2a: Blissey|46/100|[from] item: Leftovers
+|upkeep
+|turn|57
+|
+|t:|1781080306
+|move|p1a: Kyurem|Ice Beam|p2a: Blissey
+|-damage|p2a: Blissey|30/100
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|80/100
+|
+|-heal|p2a: Blissey|87/100|[from] item: Leftovers
+|upkeep
+|turn|58
+|
+|t:|1781080317
+|switch|p1a: Dondozo|Dondozo, F|100/100
+|move|p2a: Blissey|Stealth Rock|p1a: Dondozo
+|-sidestart|p1: monogatari0|move: Stealth Rock
+|
+|-heal|p2a: Blissey|93/100|[from] item: Leftovers
+|upkeep
+|turn|59
+|l| lord shiddenfards
+|
+|t:|1781080324
+|switch|p2a: Toxapex|Toxapex, F|79/100
+|move|p1a: Dondozo|Curse|p1a: Dondozo
+|-unboost|p1a: Dondozo|spe|1
+|-boost|p1a: Dondozo|atk|1
+|-boost|p1a: Dondozo|def|1
+|
+|-heal|p2a: Toxapex|85/100|[from] item: Leftovers
+|upkeep
+|turn|60
+|
+|t:|1781080328
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|move|p1a: Dondozo|Curse|p1a: Dondozo
+|-unboost|p1a: Dondozo|spe|1
+|-boost|p1a: Dondozo|atk|1
+|-boost|p1a: Dondozo|def|1
+|
+|-heal|p2a: Toxapex|92/100|[from] item: Leftovers
+|upkeep
+|turn|61
+|-message|monogatari0 forfeited.
+|
+|win|Kallopala
+|raw|monogatari0's rating: 1563 &rarr; <strong>1544</strong><br />(-19 for losing)
+|raw|Kallopala's rating: 1583 &rarr; <strong>1602</strong><br />(+19 for winning)
+|l|☆monogatari0
+|player|p1|
+|l|☆Kallopala
+|player|p2|

@@ -1,0 +1,247 @@
+|j|☆getreyal
+|j|☆LowEL0God
+|t:|1781421123
+|gametype|singles
+|player|p1|getreyal|pokemaniac-gen6|1687
+|player|p2|LowEL0God|265|1664
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, F|
+|poke|p1|Ursaluna, F|
+|poke|p1|Iron Hands|
+|poke|p1|Cresselia, F|
+|poke|p1|Diancie|
+|poke|p1|Hatterene, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781421141
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|1
+|
+|t:|1781421142
+|move|p2a: Barraskewda|Liquidation|p1a: Cresselia
+|-damage|p1a: Cresselia|66/100
+|move|p1a: Cresselia|Trick Room|p1a: Cresselia
+|-fieldstart|move: Trick Room|[of] p1a: Cresselia
+|
+|upkeep
+|turn|2
+|
+|t:|1781421145
+|switch|p1a: Iron Hands|Iron Hands|100/100
+|-enditem|p1a: Iron Hands|Booster Energy
+|-activate|p1a: Iron Hands|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Hands|quarkdriveatk
+|move|p2a: Barraskewda|Liquidation|p1a: Iron Hands
+|-damage|p1a: Iron Hands|56/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781421147
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Iron Hands|Close Combat|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|63/100
+|-unboost|p1a: Iron Hands|def|1
+|-unboost|p1a: Iron Hands|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781421150
+|move|p2a: Pelipper|Weather Ball|p1a: Iron Hands
+|-damage|p1a: Iron Hands|0 fnt
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781421153
+|switch|p1a: Diancie|Diancie|100/100
+|turn|5
+|
+|t:|1781421154
+|move|p1a: Diancie|Meteor Beam||[still]
+|-prepare|p1a: Diancie|Meteor Beam
+|-boost|p1a: Diancie|spa|1
+|-enditem|p1a: Diancie|Power Herb
+|-anim|p1a: Diancie|Meteor Beam|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1781421154
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|6
+|
+|t:|1781421159
+|move|p2a: Barraskewda|Liquidation|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-damage|p1a: Diancie|0 fnt
+|faint|p1a: Diancie
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781421160
+|switch|p1a: Cresselia|Cresselia, F|66/100
+|turn|7
+|
+|t:|1781421162
+|move|p2a: Barraskewda|Liquidation|p1a: Cresselia
+|-damage|p1a: Cresselia|10/100
+|move|p1a: Cresselia|Trick Room|p1a: Cresselia
+|-fieldstart|move: Trick Room|[of] p1a: Cresselia
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781421166
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Cresselia|Lunar Dance|p1a: Cresselia
+|faint|p1a: Cresselia
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781421170
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|9
+|
+|t:|1781421172
+|-terastallize|p2a: Kingambit|Dark
+|move|p1a: Kingambit|Low Kick|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|23/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|73/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kingambit|29/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781421175
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|none
+|-heal|p2a: Kingambit|35/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781421181
+|move|p2a: Kingambit|Sucker Punch|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-crit|p1a: Kingambit
+|-damage|p1a: Kingambit|41/100
+|move|p1a: Kingambit|Iron Head|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen1|[silent]
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1781421184
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|12
+|
+|t:|1781421191
+|move|p2a: Raging Bolt|Thunderclap|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1781421192
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|turn|13
+|
+|t:|1781421193
+|move|p2a: Raging Bolt|Thunder|p1a: Hatterene
+|-damage|p1a: Hatterene|17/100
+|-status|p1a: Hatterene|par
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldstart|move: Trick Room|[of] p1a: Hatterene
+|
+|upkeep
+|turn|14
+|
+|t:|1781421198
+|switch|p1a: Ursaluna|Ursaluna, F|100/100
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Ursaluna
+|-damage|p1a: Ursaluna|17/100
+|-unboost|p2a: Raging Bolt|spa|2
+|
+|-status|p1a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|15
+|
+|t:|1781421200
+|move|p1a: Ursaluna|Headlong Rush|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-unboost|p1a: Ursaluna|def|1
+|-unboost|p1a: Ursaluna|spd|1
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-damage|p1a: Ursaluna|11/100 brn|[from] brn
+|upkeep
+|
+|t:|1781421202
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|16
+|-message|getreyal forfeited.
+|
+|win|LowEL0God
+|raw|getreyal's rating: 1711 &rarr; <strong>1688</strong><br />(-23 for losing)
+|raw|LowEL0God's rating: 1664 &rarr; <strong>1687</strong><br />(+23 for winning)
+|l|☆getreyal
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|

@@ -1,0 +1,313 @@
+|j|☆0c3an m4n
+|j|☆Dripple3000
+|t:|1781562838
+|gametype|singles
+|player|p1|0c3an m4n|marlon|1596
+|player|p2|Dripple3000|ingo|1552
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Quaquaval, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Pelipper, F|
+|poke|p1|Slither Wing|
+|poke|p1|Hatterene, F|
+|poke|p1|Gastrodon-East, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Overqwil, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Kingambit, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Dripple3000)
+|
+|t:|1781562845
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: El papu|Slither Wing, shiny|100/100
+|switch|p2a: Nelly|Iron Treads|100/100
+|-enditem|p2a: Nelly|Booster Energy
+|-activate|p2a: Nelly|ability: Quark Drive|[fromitem]
+|-start|p2a: Nelly|quarkdrivespe
+|turn|1
+|
+|t:|1781562848
+|-end|p1a: El papu|Protosynthesis|[silent]
+|switch|p1a: Si|Hatterene, F, shiny|100/100
+|move|p2a: Nelly|Stealth Rock|p1a: Si
+|move|p1a: Si|Stealth Rock|p2a: Nelly|[from] ability: Magic Bounce
+|-sidestart|p2: Dripple3000|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781562852
+|move|p2a: Nelly|Steel Beam|p1a: Si
+|-supereffective|p1a: Si
+|-damage|p1a: Si|19/100
+|-damage|p2a: Nelly|50/100|[from] steelbeam
+|move|p1a: Si|Mystical Fire|p2a: Nelly
+|-supereffective|p2a: Nelly
+|-damage|p2a: Nelly|0 fnt
+|faint|p2a: Nelly
+|-end|p2a: Nelly|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781562866
+|switch|p2a: Nigel|Pelipper, M, shiny|100/100
+|-damage|p2a: Nigel|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Nigel
+|turn|3
+|
+|t:|1781562869
+|move|p2a: Nigel|U-turn|p1a: Si
+|-damage|p1a: Si|9/100
+|
+|t:|1781562874
+|switch|p2a: Ghoti|Barraskewda, F|100/100|[from] U-turn
+|-damage|p2a: Ghoti|88/100|[from] Stealth Rock
+|move|p1a: Si|Draining Kiss|p2a: Ghoti
+|-damage|p2a: Ghoti|29/100
+|-heal|p1a: Si|46/100|[from] drain|[of] p2a: Ghoti
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781562881
+|switch|p1a: No Shell :(|Gastrodon-East, F, shiny|100/100
+|move|p2a: Ghoti|Close Combat|p1a: No Shell :(
+|-damage|p1a: No Shell :(|39/100
+|-unboost|p2a: Ghoti|def|1
+|-unboost|p2a: Ghoti|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: No Shell :(|46/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781562889
+|switch|p1a: El papu|Slither Wing, shiny|100/100
+|move|p2a: Ghoti|Close Combat|p1a: El papu
+|-resisted|p1a: El papu
+|-damage|p1a: El papu|60/100
+|-unboost|p2a: Ghoti|def|1
+|-unboost|p2a: Ghoti|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781562894
+|switch|p2a: Littlefoot|Raging Bolt|100/100
+|-damage|p2a: Littlefoot|88/100|[from] Stealth Rock
+|-enditem|p2a: Littlefoot|Booster Energy
+|-activate|p2a: Littlefoot|ability: Protosynthesis|[fromitem]
+|-start|p2a: Littlefoot|protosynthesisspa
+|move|p1a: El papu|U-turn|p2a: Littlefoot
+|-damage|p2a: Littlefoot|33/100
+|
+|t:|1781562907
+|-end|p1a: El papu|Protosynthesis|[silent]
+|switch|p1a: Si|Hatterene, F, shiny|46/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781562929
+|move|p2a: Littlefoot|Thunder|p1a: Si
+|-damage|p1a: Si|0 fnt
+|faint|p1a: Si
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781562933
+|switch|p1a: El papu|Slither Wing, shiny|60/100
+|turn|8
+|
+|t:|1781562942
+|-terastallize|p1a: El papu|Bug
+|move|p1a: El papu|First Impression|p2a: Littlefoot
+|-damage|p2a: Littlefoot|0 fnt
+|faint|p2a: Littlefoot
+|-end|p2a: Littlefoot|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781562949
+|switch|p2a: Ghoti|Barraskewda, F|29/100
+|-damage|p2a: Ghoti|16/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1781562958
+|-end|p1a: El papu|Protosynthesis|[silent]
+|switch|p1a: Risk of what?|Pelipper, F, shiny|100/100
+|move|p2a: Ghoti|Liquidation|p1a: Risk of what?
+|-resisted|p1a: Risk of what?
+|-crit|p1a: Risk of what?
+|-damage|p1a: Risk of what?|35/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781562963
+|switch|p1a: No Shell :(|Gastrodon-East, F, shiny|46/100
+|move|p2a: Ghoti|Liquidation|p1a: No Shell :(
+|-ability|p1a: No Shell :(|Storm Drain|boost
+|-boost|p1a: No Shell :(|spa|1
+|
+|-weather|none
+|-heal|p1a: No Shell :(|52/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781562968
+|switch|p2a: Nobunaga|Kingambit, F, shiny|100/100
+|-damage|p2a: Nobunaga|94/100|[from] Stealth Rock
+|-activate|p2a: Nobunaga|ability: Supreme Overlord
+|-start|p2a: Nobunaga|fallen2|[silent]
+|move|p1a: No Shell :(|Surf|p2a: Nobunaga
+|-damage|p2a: Nobunaga|41/100
+|
+|-heal|p2a: Nobunaga|47/100|[from] item: Leftovers
+|-heal|p1a: No Shell :(|58/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781562973
+|move|p2a: Nobunaga|Kowtow Cleave|p1a: No Shell :(
+|-damage|p1a: No Shell :(|0 fnt
+|faint|p1a: No Shell :(
+|
+|-heal|p2a: Nobunaga|53/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781562976
+|switch|p1a: El papu|Slither Wing, shiny, tera:Bug|60/100
+|turn|13
+|
+|t:|1781562983
+|-terastallize|p2a: Nobunaga|Flying
+|move|p1a: El papu|First Impression|p2a: Nobunaga
+|-resisted|p2a: Nobunaga
+|-damage|p2a: Nobunaga|17/100
+|move|p2a: Nobunaga|Kowtow Cleave|p1a: El papu
+|-damage|p1a: El papu|0 fnt
+|faint|p1a: El papu
+|-end|p1a: El papu|Protosynthesis|[silent]
+|
+|-heal|p2a: Nobunaga|24/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781562990
+|switch|p1a: Berdly|Quaquaval, M, shiny|100/100
+|turn|14
+|
+|t:|1781562995
+|move|p2a: Nobunaga|Sucker Punch|p1a: Berdly
+|-resisted|p1a: Berdly
+|-crit|p1a: Berdly
+|-damage|p1a: Berdly|54/100
+|move|p1a: Berdly|Aqua Step|p2a: Nobunaga
+|-damage|p2a: Nobunaga|0 fnt
+|-boost|p1a: Berdly|spe|1
+|faint|p2a: Nobunaga
+|-end|p2a: Nobunaga|fallen2|[silent]
+|-ability|p1a: Berdly|Moxie|boost
+|-boost|p1a: Berdly|atk|1
+|
+|upkeep
+|
+|t:|1781562999
+|switch|p2a: Nigel|Pelipper, M, shiny|76/100
+|-damage|p2a: Nigel|51/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Nigel
+|turn|15
+|
+|t:|1781563005
+|move|p1a: Berdly|Aqua Step|p2a: Nigel
+|-resisted|p2a: Nigel
+|-damage|p2a: Nigel|19/100
+|-boost|p1a: Berdly|spe|1
+|move|p2a: Nigel|Hurricane|p1a: Berdly
+|-supereffective|p1a: Berdly
+|-damage|p1a: Berdly|0 fnt
+|faint|p1a: Berdly
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781563011
+|switch|p1a: Sphyraena (Fih) 🐟|Barraskewda, M, shiny|100/100
+|turn|16
+|
+|t:|1781563018
+|move|p1a: Sphyraena (Fih) 🐟|Liquidation|p2a: Nigel
+|-resisted|p2a: Nigel
+|-damage|p2a: Nigel|0 fnt
+|faint|p2a: Nigel
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781563025
+|switch|p2a: Ghoti|Barraskewda, F|16/100
+|-damage|p2a: Ghoti|4/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1781563035
+|switch|p1a: Risk of what?|Pelipper, F, shiny|35/100
+|move|p2a: Ghoti|Liquidation|p1a: Risk of what?
+|-resisted|p1a: Risk of what?
+|-damage|p1a: Risk of what?|0 fnt
+|faint|p1a: Risk of what?
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781563039
+|switch|p1a: Sphyraena (Fih) 🐟|Barraskewda, M, shiny|100/100
+|turn|18
+|
+|t:|1781563041
+|move|p1a: Sphyraena (Fih) 🐟|Liquidation|p2a: Ghoti
+|-resisted|p2a: Ghoti
+|-damage|p2a: Ghoti|0 fnt
+|faint|p2a: Ghoti
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781563043
+|switch|p2a: Kinta|Overqwil, F|100/100
+|-damage|p2a: Kinta|88/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1781563048
+|move|p1a: Sphyraena (Fih) 🐟|Liquidation|p2a: Kinta
+|-damage|p2a: Kinta|0 fnt
+|faint|p2a: Kinta
+|
+|win|0c3an m4n
+|raw|0c3an m4n's rating: 1596 &rarr; <strong>1613</strong><br />(+17 for winning)
+|raw|Dripple3000's rating: 1552 &rarr; <strong>1535</strong><br />(-17 for losing)
+|l|☆0c3an m4n
+|player|p1|
+|l|☆Dripple3000
+|player|p2|

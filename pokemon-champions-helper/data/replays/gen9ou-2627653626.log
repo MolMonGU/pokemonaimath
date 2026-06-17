@@ -1,0 +1,310 @@
+|j|☆lolcano46
+|j|☆cachowcapow
+|t:|1780930183
+|gametype|singles
+|player|p1|lolcano46|fisherman-gen4|1648
+|player|p2|cachowcapow|102|1677
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Azelf|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Scizor, F|
+|poke|p1|Gengar, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Cinderace, M|
+|poke|p2|Primarina, F|
+|poke|p2|Slither Wing|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Great Tusk|
+|poke|p2|Meowscarada, M|
+|poke|p2|Gardevoir, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lolcano46)
+|
+|t:|1780930191
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gengar|Gengar, M|100/100
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|turn|1
+|
+|t:|1780930195
+|move|p2a: Meowscarada|Knock Off|p1a: Gengar
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-supereffective|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|-enditem|p1a: Gengar|Choice Scarf|[from] move: Knock Off|[of] p2a: Meowscarada
+|faint|p1a: Gengar
+|
+|upkeep
+|
+|t:|1780930197
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|2
+|
+|t:|1780930205
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Slowking
+|-damage|p2a: Slowking|62/100
+|
+|upkeep
+|turn|3
+|
+|t:|1780930212
+|move|p1a: Raging Bolt|Calm Mind|p1a: Raging Bolt
+|-boost|p1a: Raging Bolt|spa|1
+|-boost|p1a: Raging Bolt|spd|1
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1780930217
+|switch|p2a: Gardevoir|Gardevoir, M, shiny|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1780930219
+|move|p2a: Gardevoir|Moonblast|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1780930222
+|switch|p1a: Scizor|Scizor, F|100/100
+|-ability|p2a: Gardevoir|Technician|Trace|[from] ability: Trace|[of] p1a: Scizor
+|turn|5
+|
+|t:|1780930226
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1780930229
+|-terastallize|p1a: Scizor|Fire
+|move|p1a: Scizor|Bullet Punch|p2a: Slither Wing
+|-damage|p2a: Slither Wing|44/100
+|move|p2a: Slither Wing|Will-O-Wisp|p1a: Scizor
+|-immune|p1a: Scizor
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1780930235
+|move|p1a: Scizor|Bullet Punch|p2a: Slither Wing
+|-damage|p2a: Slither Wing|0 fnt
+|faint|p2a: Slither Wing
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1780930238
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|8
+|
+|t:|1780930241
+|switch|p1a: Azelf|Azelf|100/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Azelf
+|-immune|p1a: Azelf|[from] ability: Levitate
+|
+|upkeep
+|turn|9
+|
+|t:|1780930244
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|95/100
+|move|p1a: Azelf|Dazzling Gleam|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|87/100
+|
+|upkeep
+|turn|10
+|
+|t:|1780930248
+|move|p1a: Azelf|Mystical Power|p2a: Slowking|[miss]
+|-miss|p1a: Azelf|p2a: Slowking
+|move|p2a: Slowking|Future Sight|p1a: Azelf
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|11
+|
+|t:|1780930253
+|move|p1a: Azelf|Mystical Power|p2a: Slowking|[miss]
+|-miss|p1a: Azelf|p2a: Slowking
+|move|p2a: Slowking|Thunder Wave|p1a: Azelf
+|-status|p1a: Azelf|par
+|
+|upkeep
+|turn|12
+|
+|t:|1780930256
+|move|p1a: Azelf|Mystical Power|p2a: Slowking
+|-damage|p2a: Slowking|66/100
+|-boost|p1a: Azelf|spa|1
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1780930267
+|switch|p2a: Meowscarada|Meowscarada, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Azelf|move: Future Sight
+|-resisted|p1a: Azelf
+|-damage|p1a: Azelf|68/100 par
+|upkeep
+|turn|13
+|
+|t:|1780930272
+|move|p2a: Meowscarada|U-turn|p1a: Azelf
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-supereffective|p1a: Azelf
+|-damage|p1a: Azelf|0 fnt
+|faint|p1a: Azelf
+|
+|t:|1780930285
+|switch|p2a: Slowking|Slowking-Galar, F|99/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1780930288
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|turn|14
+|
+|t:|1780930291
+|move|p1a: Cinderace|Pyro Ball|p2a: Slowking
+|-damage|p2a: Slowking|43/100
+|move|p2a: Slowking|Thunder Wave|p1a: Cinderace
+|-status|p1a: Cinderace|par
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1780930297
+|switch|p2a: Primarina|Primarina, F, shiny|100/100
+|cant|p1a: Cinderace|par
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1780930303
+|switch|p2a: Slowking|Slowking-Galar, F|77/100
+|move|p1a: Cinderace|Pyro Ball|p2a: Slowking
+|-damage|p2a: Slowking|19/100
+|-status|p2a: Slowking|brn
+|
+|-weather|none
+|-damage|p2a: Slowking|13/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1780930307
+|move|p1a: Cinderace|Pyro Ball|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|j| michealjackkson
+|
+|t:|1780930320
+|switch|p2a: Gardevoir|Gardevoir, M, shiny|100/100
+|-ability|p2a: Gardevoir|Libero|Trace|[from] ability: Trace|[of] p1a: Cinderace
+|turn|18
+|
+|t:|1780930326
+|move|p2a: Gardevoir|Psyshock|p1a: Cinderace
+|-start|p2a: Gardevoir|typechange|Psychic|[from] ability: Libero
+|-damage|p1a: Cinderace|3/100 par
+|move|p1a: Cinderace|Pyro Ball|p2a: Gardevoir
+|-damage|p2a: Gardevoir|0 fnt
+|faint|p2a: Gardevoir
+|
+|upkeep
+|
+|t:|1780930331
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|19
+|
+|t:|1780930335
+|move|p2a: Great Tusk|Rapid Spin|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|-boost|p2a: Great Tusk|spe|1
+|faint|p1a: Cinderace
+|
+|upkeep
+|
+|t:|1780930337
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|20
+|
+|t:|1780930358
+|-terastallize|p2a: Great Tusk|Ghost
+|move|p2a: Great Tusk|Close Combat|p1a: Ogerpon
+|-damage|p1a: Ogerpon|13/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Ogerpon|Play Rough|p2a: Great Tusk
+|-damage|p2a: Great Tusk|62/100
+|
+|upkeep
+|turn|21
+|
+|t:|1780930379
+|move|p2a: Great Tusk|Knock Off|p1a: Ogerpon
+|-crit|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1780930381
+|switch|p1a: Scizor|Scizor, F, tera:Fire|100/100
+|turn|22
+|
+|t:|1780930385
+|move|p1a: Scizor|Bullet Punch|p2a: Great Tusk
+|-damage|p2a: Great Tusk|23/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Scizor
+|-supereffective|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Scizor
+|
+|win|cachowcapow
+|raw|lolcano46's rating: 1648 &rarr; <strong>1630</strong><br />(-18 for losing)
+|raw|cachowcapow's rating: 1677 &rarr; <strong>1695</strong><br />(+18 for winning)
+|l|☆cachowcapow
+|player|p2|
+|l| michealjackkson
+|l|☆lolcano46
+|player|p1|

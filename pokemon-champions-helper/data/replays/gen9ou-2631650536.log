@@ -1,0 +1,160 @@
+|j|☆waha8
+|j|☆The median voter
+|t:|1781414981
+|gametype|singles
+|player|p1|waha8|102|1594
+|player|p2|The median voter|scientist-gen4dp|1530
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Indeedee, M|
+|poke|p1|Cinderace, F|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Cetitan, F|
+|poke|p1|Kyurem|
+|poke|p2|Zapdos|
+|poke|p2|Great Tusk|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Scizor, M|
+|poke|p2|Dragapult, F|
+|teampreview
+|
+|t:|1781414991
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: ReverseUNO|Cinderace, F|100/100
+|switch|p2a: Emissary|Dragapult, F|100/100
+|turn|1
+|
+|t:|1781414995
+|move|p2a: Emissary|Dragon Darts|p1a: ReverseUNO
+|-damage|p1a: ReverseUNO|73/100
+|-anim|p2a: Emissary|Dragon Darts|p1a: ReverseUNO
+|-damage|p1a: ReverseUNO|46/100
+|move|p1a: ReverseUNO|Pyro Ball|p2a: Emissary
+|-resisted|p2a: Emissary
+|-damage|p2a: Emissary|60/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781415005
+|switch|p1a: Mavis|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Mavis
+|move|p2a: Emissary|Dragon Darts|p1a: Mavis
+|-immune|p1a: Mavis
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781415012
+|move|p2a: Emissary|U-turn|p1a: Mavis
+|-resisted|p1a: Mavis
+|-damage|p1a: Mavis|91/100
+|
+|t:|1781415014
+|switch|p2a: Experiment|Scizor, M|100/100|[from] U-turn
+|move|p1a: Mavis|Aurora Veil|p1a: Mavis
+|-sidestart|p1: waha8|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781415019
+|switch|p1a: ReverseUNO|Cinderace, F|46/100
+|move|p2a: Experiment|U-turn|p1a: ReverseUNO
+|-resisted|p1a: ReverseUNO
+|-crit|p1a: ReverseUNO
+|-damage|p1a: ReverseUNO|0 fnt
+|faint|p1a: ReverseUNO
+|
+|t:|1781415027
+|switch|p2a: Emissary|Dragapult, F|60/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781415031
+|switch|p1a: Thing|Cetitan, F|100/100
+|turn|5
+|
+|t:|1781415034
+|move|p1a: Thing|Icicle Spear|p2a: Emissary
+|-supereffective|p2a: Emissary
+|-damage|p2a: Emissary|24/100
+|-supereffective|p2a: Emissary
+|-damage|p2a: Emissary|0 fnt
+|faint|p2a: Emissary
+|-hitcount|p2: Emissary|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781415039
+|switch|p2a: Experiment|Scizor, M|100/100
+|turn|6
+|
+|t:|1781415042
+|-terastallize|p1a: Thing|Ground
+|move|p1a: Thing|Belly Drum|p1a: Thing
+|-damage|p1a: Thing|50/100
+|-setboost|p1a: Thing|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Thing|Sitrus Berry|[eat]
+|-heal|p1a: Thing|75/100|[from] item: Sitrus Berry
+|move|p2a: Experiment|U-turn|p1a: Thing
+|-damage|p1a: Thing|45/100
+|
+|t:|1781415053
+|switch|p2a: Templar|Great Tusk|100/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781415064
+|-end|p2a: Templar|Protosynthesis|[silent]
+|switch|p2a: Bishop|Slowking-Galar, M|100/100
+|move|p1a: Thing|Earthquake|p2a: Bishop
+|-supereffective|p2a: Bishop
+|-damage|p2a: Bishop|0 fnt
+|faint|p2a: Bishop
+|
+|-weather|Snowscape|[upkeep]
+|-sideend|p1: waha8|move: Aurora Veil
+|upkeep
+|
+|t:|1781415083
+|switch|p2a: Templar|Great Tusk|100/100
+|turn|8
+|
+|t:|1781415086
+|-terastallize|p2a: Templar|Steel
+|move|p1a: Thing|Earthquake|p2a: Templar
+|-supereffective|p2a: Templar
+|-damage|p2a: Templar|0 fnt
+|faint|p2a: Templar
+|-end|p2a: Templar|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|-message|The median voter forfeited.
+|
+|win|waha8
+|raw|waha8's rating: 1594 &rarr; <strong>1610</strong><br />(+16 for winning)
+|raw|The median voter's rating: 1530 &rarr; <strong>1514</strong><br />(-16 for losing)
+|l|☆The median voter
+|player|p2|

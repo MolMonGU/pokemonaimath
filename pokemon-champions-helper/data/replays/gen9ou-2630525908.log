@@ -1,0 +1,388 @@
+|j|☆skayotest
+|j|☆databricks
+|t:|1781269078
+|gametype|singles
+|player|p1|skayotest|170|1672
+|player|p2|databricks|lucas|1785
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Rillaboom, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Gholdengo|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Cinderace, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Garganacl, M|
+|poke|p2|Moltres|
+|poke|p2|Iron Treads|
+|poke|p2|Darkrai|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by databricks)
+|
+|t:|1781269086
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|switch|p2a: The Whisperer|Ogerpon-Wellspring, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1781269091
+|move|p2a: The Whisperer|U-turn|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|49/100
+|
+|t:|1781269095
+|switch|p2a: Nex|Moltres|100/100|[from] U-turn
+|move|p1a: Rillaboom|Knock Off|p2a: Nex
+|-damage|p2a: Nex|57/100
+|-enditem|p2a: Nex|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Rillaboom
+|
+|-heal|p1a: Rillaboom|55/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781269100
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Nex|Will-O-Wisp|p1a: Slowking
+|-status|p1a: Slowking|brn
+|
+|-damage|p1a: Slowking|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1781269107
+|switch|p2a: Callisto|Iron Treads|100/100
+|move|p1a: Slowking|Toxic Spikes|p2a: Callisto
+|-sidestart|p2: databricks|move: Toxic Spikes
+|
+|-heal|p1a: Slowking|100/100 brn|[from] Grassy Terrain
+|-damage|p1a: Slowking|94/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1781269114
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Callisto|Stealth Rock|p1a: Garchomp
+|-sidestart|p1: skayotest|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1781269120
+|move|p1a: Garchomp|Protect|p1a: Garchomp
+|-singleturn|p1a: Garchomp|Protect
+|move|p2a: Callisto|Knock Off|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Protect
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781269126
+|move|p2a: Callisto|Rapid Spin|p1a: Garchomp
+|-damage|p1a: Garchomp|92/100
+|-boost|p2a: Callisto|spe|1
+|-damage|p2a: Callisto|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Callisto|71/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|-sideend|p2: databricks|Toxic Spikes|[from] move: Rapid Spin|[of] p2a: Callisto
+|move|p1a: Garchomp|Earthquake|p2a: Callisto
+|-supereffective|p2a: Callisto
+|-damage|p2a: Callisto|8/100
+|
+|-heal|p2a: Callisto|15/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781269128
+|-end|p2a: Callisto|Quark Drive|[silent]
+|switch|p2a: The Whisperer|Ogerpon-Wellspring, F|100/100
+|move|p1a: Garchomp|Stealth Rock|p2a: The Whisperer
+|-sidestart|p2: databricks|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1781269136
+|move|p2a: The Whisperer|Ivy Cudgel|p1a: Garchomp|[anim] Ivy Cudgel Water
+|-damage|p1a: Garchomp|56/100
+|move|p1a: Garchomp|Dragon Tail|p2a: The Whisperer|[miss]
+|-miss|p1a: Garchomp|p2a: The Whisperer
+|
+|upkeep
+|turn|9
+|
+|t:|1781269142
+|move|p2a: The Whisperer|Ivy Cudgel|p1a: Garchomp|[anim] Ivy Cudgel Water
+|-damage|p1a: Garchomp|24/100
+|move|p1a: Garchomp|Dragon Tail|p2a: The Whisperer
+|-damage|p2a: The Whisperer|68/100
+|drag|p2a: Nex|Moltres|57/100
+|-damage|p2a: Nex|8/100|[from] Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|t:|1781269155
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|-damage|p1a: Samurott|88/100|[from] Stealth Rock
+|move|p2a: Nex|Roost|p2a: Nex
+|-heal|p2a: Nex|58/100
+|-singleturn|p2a: Nex|move: Roost
+|
+|-heal|p1a: Samurott|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781269161
+|move|p1a: Samurott|Ceaseless Edge|p2a: Nex
+|-damage|p2a: Nex|19/100
+|-status|p1a: Samurott|brn|[from] ability: Flame Body|[of] p2a: Nex
+|-sidestart|p2: databricks|Spikes
+|move|p2a: Nex|Will-O-Wisp|p1a: Samurott
+|-fail|p1a: Samurott|brn
+|
+|-heal|p1a: Samurott|99/100 brn|[from] item: Leftovers
+|-damage|p1a: Samurott|94/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1781269167
+|move|p1a: Samurott|Ceaseless Edge|p2a: Nex
+|-damage|p2a: Nex|0 fnt
+|-sidestart|p2: databricks|Spikes
+|faint|p2a: Nex
+|
+|-heal|p1a: Samurott|99/100 brn|[from] item: Leftovers
+|-damage|p1a: Samurott|94/100 brn|[from] brn
+|upkeep
+|
+|t:|1781269173
+|switch|p2a: The Whisperer|Ogerpon-Wellspring, F|68/100
+|-damage|p2a: The Whisperer|55/100|[from] Stealth Rock
+|-damage|p2a: The Whisperer|39/100|[from] Spikes
+|turn|13
+|
+|t:|1781269178
+|move|p2a: The Whisperer|Synthesis|p2a: The Whisperer
+|-heal|p2a: The Whisperer|89/100
+|move|p1a: Samurott|Ceaseless Edge|p2a: The Whisperer
+|-damage|p2a: The Whisperer|60/100
+|-sidestart|p2: databricks|Spikes
+|
+|-heal|p1a: Samurott|99/100 brn|[from] item: Leftovers
+|-damage|p1a: Samurott|94/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781269182
+|move|p2a: The Whisperer|Ivy Cudgel|p1a: Samurott|[anim] Ivy Cudgel Water
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|64/100 brn
+|move|p1a: Samurott|Encore|p2a: The Whisperer
+|-start|p2a: The Whisperer|Encore
+|
+|-heal|p1a: Samurott|70/100 brn|[from] item: Leftovers
+|-damage|p1a: Samurott|64/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781269189
+|move|p2a: The Whisperer|Ivy Cudgel|p1a: Samurott|[anim] Ivy Cudgel Water
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|35/100 brn
+|move|p1a: Samurott|Ceaseless Edge|p2a: The Whisperer
+|-damage|p2a: The Whisperer|31/100
+|
+|-heal|p1a: Samurott|41/100 brn|[from] item: Leftovers
+|-damage|p1a: Samurott|35/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1781269194
+|move|p2a: The Whisperer|Ivy Cudgel|p1a: Samurott|[anim] Ivy Cudgel Water
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|6/100 brn
+|move|p1a: Samurott|Ceaseless Edge|p2a: The Whisperer
+|-damage|p2a: The Whisperer|3/100
+|
+|-heal|p1a: Samurott|12/100 brn|[from] item: Leftovers
+|-damage|p1a: Samurott|6/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781269197
+|move|p1a: Samurott|Sucker Punch|p2a: The Whisperer
+|-damage|p2a: The Whisperer|0 fnt
+|faint|p2a: The Whisperer
+|
+|-heal|p1a: Samurott|12/100 brn|[from] item: Leftovers
+|-damage|p1a: Samurott|6/100 brn|[from] brn
+|upkeep
+|
+|t:|1781269204
+|switch|p2a: Cerberus|Zamazenta|100/100
+|-damage|p2a: Cerberus|94/100|[from] Stealth Rock
+|-damage|p2a: Cerberus|69/100|[from] Spikes
+|-ability|p2a: Cerberus|Dauntless Shield|boost
+|-boost|p2a: Cerberus|def|1
+|turn|18
+|
+|t:|1781269232
+|move|p2a: Cerberus|Crunch|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|-heal|p2a: Cerberus|76/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781269237
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1781269240
+|move|p1a: Gholdengo|Make It Rain|p2a: Cerberus
+|-damage|p2a: Cerberus|17/100
+|-unboost|p1a: Gholdengo|spa|1
+|move|p2a: Cerberus|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|45/100
+|
+|-heal|p2a: Cerberus|24/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781269265
+|move|p1a: Gholdengo|Make It Rain|p2a: Cerberus
+|-damage|p2a: Cerberus|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Cerberus
+|
+|upkeep
+|
+|t:|1781269276
+|switch|p2a: The Nightmare|Darkrai|100/100
+|-damage|p2a: The Nightmare|88/100|[from] Stealth Rock
+|-damage|p2a: The Nightmare|63/100|[from] Spikes
+|turn|21
+|
+|t:|1781269288
+|switch|p1a: Slowking|Slowking-Galar, F|100/100 brn
+|move|p2a: The Nightmare|Dark Pulse|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|19/100 brn
+|
+|-damage|p1a: Slowking|13/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1781269291
+|move|p2a: The Nightmare|Dark Pulse|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1781269294
+|switch|p1a: Gholdengo|Gholdengo|45/100
+|-damage|p1a: Gholdengo|39/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1781269301
+|switch|p2a: Callisto|Iron Treads|15/100
+|-damage|p2a: Callisto|11/100|[from] Stealth Rock
+|-damage|p2a: Callisto|0 fnt|[from] Spikes
+|faint|p2a: Callisto
+|-end|p2a: Callisto|Quark Drive|[silent]
+|move|p1a: Gholdengo|Make It Rain|p2: Callisto|[notarget]
+|-fail|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781269303
+|switch|p2a: Corporeal Beast|Garganacl, M|100/100
+|-damage|p2a: Corporeal Beast|88/100|[from] Stealth Rock
+|-damage|p2a: Corporeal Beast|63/100|[from] Spikes
+|turn|24
+|
+|t:|1781269310
+|switch|p1a: Garchomp|Garchomp, M|24/100
+|-damage|p1a: Garchomp|18/100|[from] Stealth Rock
+|-terastallize|p2a: Corporeal Beast|Water
+|move|p2a: Corporeal Beast|Curse|p2a: Corporeal Beast
+|-unboost|p2a: Corporeal Beast|spe|1
+|-boost|p2a: Corporeal Beast|atk|1
+|-boost|p2a: Corporeal Beast|def|1
+|
+|-heal|p2a: Corporeal Beast|69/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781269320
+|move|p2a: Corporeal Beast|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-heal|p2a: Corporeal Beast|75/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781269324
+|switch|p1a: Rillaboom|Rillaboom, M|55/100
+|-damage|p1a: Rillaboom|43/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|26
+|
+|t:|1781269328
+|-terastallize|p1a: Rillaboom|Grass
+|move|p1a: Rillaboom|Wood Hammer|p2a: Corporeal Beast
+|-supereffective|p2a: Corporeal Beast
+|-crit|p2a: Corporeal Beast
+|-damage|p2a: Corporeal Beast|0 fnt
+|faint|p2a: Corporeal Beast
+|-damage|p1a: Rillaboom|17/100|[from] Recoil
+|
+|-heal|p1a: Rillaboom|23/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781269331
+|switch|p2a: The Nightmare|Darkrai|63/100
+|-damage|p2a: The Nightmare|51/100|[from] Stealth Rock
+|-damage|p2a: The Nightmare|26/100|[from] Spikes
+|turn|27
+|c|☆databricks|gg
+|
+|t:|1781269341
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|move|p2a: The Nightmare|Dark Pulse|p1a: Cinderace
+|-damage|p1a: Cinderace|13/100
+|
+|-heal|p2a: The Nightmare|32/100|[from] Grassy Terrain
+|-heal|p1a: Cinderace|19/100|[from] Grassy Terrain
+|upkeep
+|turn|28
+|-message|databricks forfeited.
+|
+|win|skayotest
+|raw|skayotest's rating: 1672 &rarr; <strong>1698</strong><br />(+26 for winning)
+|raw|databricks's rating: 1785 &rarr; <strong>1759</strong><br />(-26 for losing)
+|c|☆skayotest|gg
+|l|☆databricks
+|player|p2|
+|l|☆skayotest
+|player|p1|

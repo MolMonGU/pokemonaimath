@@ -1,0 +1,400 @@
+|j|☆DarkG99
+|j|☆extra-pseudo man
+|t:|1781045238
+|gametype|singles
+|player|p1|DarkG99|karen|1609
+|player|p2|extra-pseudo man|102|1626
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kommo-o, M|
+|poke|p1|Sinistcha-Masterpiece|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Heatran, M|
+|poke|p1|Maushold-Four|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p2|Dragonite, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Metagross|
+|poke|p2|Goodra-Hisui, M|
+|poke|p2|Garchomp, F|
+|teampreview
+|
+|t:|1781045245
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Maushold|Maushold-Four|100/100
+|switch|p2a: The goot|Goodra-Hisui, M|100/100
+|turn|1
+|
+|t:|1781045247
+|move|p1a: Maushold|Switcheroo|p2a: The goot
+|-activate|p1a: Maushold|move: Trick|[of] p2a: The goot
+|-item|p2a: The goot|Choice Scarf|[from] move: Switcheroo
+|-item|p1a: Maushold|Choice Specs|[from] move: Switcheroo
+|move|p2a: The goot|Draco Meteor|p1a: Maushold
+|-damage|p1a: Maushold|10/100
+|-unboost|p2a: The goot|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781045259
+|switch|p1a: Heatran|Heatran, M|100/100
+|switch|p2a: Marill me|Garchomp, F|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781045264
+|switch|p1a: Sinistcha|Sinistcha-Masterpiece|100/100
+|move|p2a: Marill me|Earthquake|p1a: Sinistcha
+|-resisted|p1a: Sinistcha
+|-damage|p1a: Sinistcha|86/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781045274
+|switch|p2a: Tyranocif|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranocif
+|move|p1a: Sinistcha|Stun Spore|p2a: Tyranocif
+|-status|p2a: Tyranocif|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sinistcha|80/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1781045279
+|move|p1a: Sinistcha|Strength Sap|p2a: Tyranocif
+|-unboost|p2a: Tyranocif|atk|1
+|-heal|p1a: Sinistcha|100/100
+|move|p2a: Tyranocif|Knock Off|p1a: Sinistcha
+|-supereffective|p1a: Sinistcha
+|-damage|p1a: Sinistcha|58/100
+|-damage|p2a: Tyranocif|84/100 par|[from] item: Rocky Helmet|[of] p1a: Sinistcha
+|-enditem|p1a: Sinistcha|Rocky Helmet|[from] move: Knock Off|[of] p2a: Tyranocif
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sinistcha|52/100|[from] Sandstorm
+|-heal|p2a: Tyranocif|90/100 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781045287
+|move|p1a: Sinistcha|Matcha Gotcha|p2a: Tyranocif
+|-supereffective|p2a: Tyranocif
+|-damage|p2a: Tyranocif|63/100 par
+|-heal|p1a: Sinistcha|68/100|[from] drain|[of] p2a: Tyranocif
+|move|p2a: Tyranocif|Stealth Rock|p1a: Sinistcha
+|-sidestart|p1: DarkG99|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sinistcha|62/100|[from] Sandstorm
+|-heal|p2a: Tyranocif|69/100 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781045292
+|switch|p2a: The goot|Goodra-Hisui, M|100/100
+|move|p1a: Sinistcha|Matcha Gotcha|p2a: The goot
+|-resisted|p2a: The goot
+|-damage|p2a: The goot|94/100
+|-heal|p1a: Sinistcha|65/100|[from] drain|[of] p2a: The goot
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sinistcha|59/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1781045298
+|switch|p1a: Maushold|Maushold-Four|10/100
+|-damage|p1a: Maushold|0 fnt|[from] Stealth Rock
+|faint|p1a: Maushold
+|move|p2a: The goot|Ice Beam|p1: Maushold|[notarget]
+|-fail|p2a: The goot
+|
+|-weather|none
+|upkeep
+|
+|t:|1781045302
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|-damage|p1a: Ninetales|76/100|[from] Stealth Rock
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|9
+|
+|t:|1781045307
+|switch|p2a: Tyranocif|Tyranitar, M|69/100 par
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranocif
+|move|p1a: Ninetales|Aurora Veil||[still]
+|-fail|p1a: Ninetales
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ninetales|70/100|[from] Sandstorm
+|-heal|p2a: Tyranocif|75/100 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781045313
+|switch|p1a: Heatran|Heatran, M|100/100
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|move|p2a: Tyranocif|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|51/100
+|-enditem|p1a: Heatran|Leftovers|[from] move: Knock Off|[of] p2a: Tyranocif
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranocif|81/100 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781045320
+|switch|p2a: Marill me|Garchomp, F|100/100
+|move|p1a: Heatran|Stealth Rock|p2a: Marill me
+|-sidestart|p2: extra-pseudo man|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781045334
+|move|p1a: Heatran|Will-O-Wisp|p2a: Marill me
+|-status|p2a: Marill me|brn
+|move|p2a: Marill me|Dragon Tail|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|46/100
+|drag|p1a: Kommo-o|Kommo-o, M|100/100
+|-damage|p1a: Kommo-o|94/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Kommo-o|88/100|[from] Sandstorm
+|-damage|p2a: Marill me|94/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1781045346
+|switch|p1a: Ninetales|Ninetales-Alola, F|70/100
+|-damage|p1a: Ninetales|45/100|[from] Stealth Rock
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Marill me|Dragon Tail|p1a: Ninetales
+|-immune|p1a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Marill me|88/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781045352
+|switch|p2a: The goot|Goodra-Hisui, M|94/100
+|-damage|p2a: The goot|88/100|[from] Stealth Rock
+|move|p1a: Ninetales|Moonblast|p2a: The goot
+|-damage|p2a: The goot|58/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781045356
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: DarkG99|move: Aurora Veil
+|move|p2a: The goot|Flash Cannon|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781045360
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781045364
+|switch|p2a: Marill me|Garchomp, F|88/100 brn
+|-damage|p2a: Marill me|82/100 brn|[from] Stealth Rock
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Marill me|76/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781045372
+|-terastallize|p1a: Ogerpon|Water
+|detailschange|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Marill me|[anim] Ivy Cudgel Water
+|-damage|p2a: Marill me|0 fnt
+|faint|p2a: Marill me
+|
+|-weather|none
+|upkeep
+|
+|t:|1781045391
+|switch|p2a: He pulten on it|Dragapult, M|100/100
+|turn|18
+|
+|t:|1781045394
+|move|p2a: He pulten on it|U-turn|p1a: Ogerpon
+|-damage|p1a: Ogerpon|68/100
+|
+|t:|1781045398
+|switch|p2a: The goot|Goodra-Hisui, M|58/100|[from] U-turn
+|-damage|p2a: The goot|52/100|[from] Stealth Rock
+|move|p1a: Ogerpon|Trailblaze|p2a: The goot
+|-resisted|p2a: The goot
+|-damage|p2a: The goot|35/100
+|-boost|p1a: Ogerpon|spe|1
+|-ability|p2a: The goot|Gooey
+|-unboost|p1a: Ogerpon|spe|1
+|
+|upkeep
+|turn|19
+|
+|t:|1781045407
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: The goot|[anim] Ivy Cudgel Water
+|-resisted|p2a: The goot
+|-damage|p2a: The goot|0 fnt
+|faint|p2a: The goot
+|
+|upkeep
+|
+|t:|1781045416
+|switch|p2a: He pulten on it|Dragapult, M|100/100
+|turn|20
+|
+|t:|1781045420
+|move|p2a: He pulten on it|U-turn|p1a: Ogerpon
+|-damage|p1a: Ogerpon|46/100
+|
+|t:|1781045422
+|switch|p2a: Tyranocif|Tyranitar, M|81/100 par|[from] U-turn
+|-damage|p2a: Tyranocif|69/100 par|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranocif
+|move|p1a: Ogerpon|Trailblaze|p2a: Tyranocif
+|-supereffective|p2a: Tyranocif
+|-damage|p2a: Tyranocif|0 fnt
+|-boost|p1a: Ogerpon|spe|1
+|faint|p2a: Tyranocif
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ogerpon|40/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781045431
+|switch|p2a: He pulten on it|Dragapult, M|100/100
+|turn|21
+|
+|t:|1781045438
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: He pulten on it|[anim] Ivy Cudgel Water
+|-resisted|p2a: He pulten on it
+|-damage|p2a: He pulten on it|0 fnt
+|faint|p2a: He pulten on it
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ogerpon|34/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781045448
+|switch|p2a: Chud|Dragonite, M|100/100
+|turn|22
+|
+|t:|1781045453
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Chud|[anim] Ivy Cudgel Water
+|-resisted|p2a: Chud
+|-damage|p2a: Chud|55/100
+|move|p2a: Chud|Dragon Dance|p2a: Chud
+|-boost|p2a: Chud|atk|1
+|-boost|p2a: Chud|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ogerpon|28/100|[from] Sandstorm
+|-damage|p2a: Chud|48/100|[from] Sandstorm
+|-sideend|p1: DarkG99|move: Aurora Veil
+|upkeep
+|turn|23
+|
+|t:|1781045464
+|move|p2a: Chud|Extreme Speed|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|detailschange|p1: Ogerpon|Ogerpon-Wellspring, F|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Chud|42/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781045468
+|switch|p1a: Sinistcha|Sinistcha-Masterpiece|59/100
+|-damage|p1a: Sinistcha|47/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781045476
+|move|p2a: Chud|Earthquake|p1a: Sinistcha
+|-resisted|p1a: Sinistcha
+|-damage|p1a: Sinistcha|26/100
+|move|p1a: Sinistcha|Stun Spore|p2a: Chud
+|-status|p2a: Chud|par
+|
+|-weather|none
+|upkeep
+|turn|25
+|
+|t:|1781045481
+|switch|p2a: kaboom|Metagross|100/100
+|-damage|p2a: kaboom|95/100|[from] Stealth Rock
+|move|p1a: Sinistcha|Strength Sap|p2a: kaboom
+|-fail|p2a: kaboom|unboost|[from] ability: Clear Body|[of] p2a: kaboom
+|-heal|p1a: Sinistcha|100/100
+|
+|upkeep
+|turn|26
+|
+|t:|1781045487
+|move|p2a: kaboom|Heavy Slam|p1a: Sinistcha
+|-damage|p1a: Sinistcha|34/100
+|move|p1a: Sinistcha|Stun Spore|p2a: kaboom
+|-status|p2a: kaboom|par
+|
+|upkeep
+|turn|27
+|
+|t:|1781045491
+|move|p1a: Sinistcha|Strength Sap|p2a: kaboom
+|-fail|p2a: kaboom|unboost|[from] ability: Clear Body|[of] p2a: kaboom
+|-heal|p1a: Sinistcha|100/100
+|cant|p2a: kaboom|par
+|
+|upkeep
+|turn|28
+|
+|t:|1781045494
+|move|p1a: Sinistcha|Hex|p2a: kaboom
+|-supereffective|p2a: kaboom
+|-damage|p2a: kaboom|0 fnt
+|faint|p2a: kaboom
+|
+|upkeep
+|-message|extra-pseudo man forfeited.
+|
+|win|DarkG99
+|raw|DarkG99's rating: 1609 &rarr; <strong>1630</strong><br />(+21 for winning)
+|raw|extra-pseudo man's rating: 1626 &rarr; <strong>1605</strong><br />(-21 for losing)
+|l|☆extra-pseudo man
+|player|p2|
+|l|☆DarkG99
+|player|p1|

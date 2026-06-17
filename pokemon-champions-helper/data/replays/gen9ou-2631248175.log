@@ -1,0 +1,480 @@
+|j|☆ImmaSunU
+|j|☆cachowcapow
+|t:|1781363150
+|gametype|singles
+|player|p1|ImmaSunU|lance|1582
+|player|p2|cachowcapow|170|1797
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torkoal, F|
+|poke|p1|Walking Wake|
+|poke|p1|Scizor, M|
+|poke|p1|Great Tusk|
+|poke|p1|Hatterene, F|
+|poke|p1|Venusaur, M|
+|poke|p2|Primarina, F|
+|poke|p2|Slither Wing|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Great Tusk|
+|poke|p2|Meowscarada, M|
+|poke|p2|Gardevoir, F|
+|teampreview
+|
+|t:|1781363164
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Scizor|Scizor, M|100/100
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|turn|1
+|
+|t:|1781363169
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|move|p1a: Scizor|U-turn|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-damage|p2a: Slither Wing|79/100
+|-damage|p1a: Scizor|84/100|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|
+|t:|1781363178
+|switch|p1a: Torkoal|Torkoal, F|100/100|[from] U-turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781363185
+|move|p2a: Slither Wing|U-turn|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|90/100
+|
+|t:|1781363189
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|100/100|[from] U-turn
+|move|p1a: Torkoal|Rapid Spin|p2a: Slowking
+|-damage|p2a: Slowking|92/100
+|-boost|p1a: Torkoal|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|j| Silver Jay#2240
+|l| Silver Jay#2240
+|
+|t:|1781363196
+|move|p1a: Torkoal|Stealth Rock|p2a: Slowking
+|-sidestart|p2: cachowcapow|move: Stealth Rock
+|move|p2a: Slowking|Future Sight|p1a: Torkoal
+|-start|p2a: Slowking|move: Future Sight
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|c|☆ImmaSunU|misclick lol
+|
+|t:|1781363204
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781363214
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781363220
+|move|p2a: Great Tusk|Rapid Spin|p1a: Hatterene
+|-damage|p1a: Hatterene|80/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: cachowcapow|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|move|p1a: Hatterene|Draining Kiss|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|21/100
+|-heal|p1a: Hatterene|100/100|[from] drain|[of] p2a: Great Tusk
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Hatterene|move: Future Sight
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|87/100
+|upkeep
+|turn|6
+|
+|t:|1781363231
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Hatterene|Mystical Fire|p2a: Slowking
+|-damage|p2a: Slowking|85/100
+|-unboost|p2a: Slowking|spa|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781363238
+|move|p1a: Hatterene|Psyshock|p2a: Slowking
+|-damage|p2a: Slowking|42/100
+|move|p2a: Slowking|Future Sight|p1a: Hatterene
+|-start|p2a: Slowking|move: Future Sight
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781363247
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|move|p1a: Hatterene|Psyshock|p2a: Meowscarada
+|-immune|p2a: Meowscarada
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781363253
+|move|p2a: Meowscarada|U-turn|p1a: Hatterene
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p1a: Hatterene|53/100
+|
+|t:|1781363258
+|switch|p2a: Slowking|Slowking-Galar, F|75/100|[from] U-turn
+|move|p1a: Hatterene|Draining Kiss|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|68/100
+|-heal|p1a: Hatterene|60/100|[from] drain|[of] p2a: Slowking
+|
+|-end|p1a: Hatterene|move: Future Sight
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|45/100
+|upkeep
+|turn|10
+|
+|t:|1781363269
+|move|p1a: Hatterene|Psyshock|p2a: Slowking
+|-damage|p2a: Slowking|23/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781363276
+|switch|p1a: Scizor|Scizor, M|84/100
+|turn|11
+|
+|t:|1781363280
+|switch|p2a: Slither Wing|Slither Wing|79/100
+|move|p1a: Scizor|U-turn|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-crit|p2a: Slither Wing
+|-damage|p2a: Slither Wing|47/100
+|-damage|p1a: Scizor|67/100|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|
+|t:|1781363289
+|switch|p1a: Torkoal|Torkoal, F|90/100|[from] U-turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781363296
+|move|p2a: Slither Wing|U-turn|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|78/100
+|
+|t:|1781363298
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|56/100|[from] U-turn
+|move|p1a: Torkoal|Stealth Rock|p2a: Slowking
+|-sidestart|p2: cachowcapow|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781363305
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|-end|p1a: Walking Wake|Protosynthesis
+|
+|t:|1781363315
+|switch|p2a: Gardevoir|Gardevoir, F, shiny|100/100|[from] Chilly Reception
+|-damage|p2a: Gardevoir|88/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781363322
+|-terastallize|p1a: Walking Wake|Water
+|move|p1a: Walking Wake|Hydro Steam|p2a: Gardevoir
+|-damage|p2a: Gardevoir|6/100
+|move|p2a: Gardevoir|Moonblast|p1a: Walking Wake
+|-damage|p1a: Walking Wake|8/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781363330
+|switch|p2a: Primarina|Primarina, F, shiny|100/100
+|-damage|p2a: Primarina|88/100|[from] Stealth Rock
+|move|p1a: Walking Wake|Hydro Steam|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|54/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Primarina|60/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781363339
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, F|78/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Primarina|Draining Kiss|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|65/100
+|-heal|p2a: Primarina|69/100|[from] drain|[of] p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Primarina|75/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781363350
+|switch|p1a: Venusaur|Venusaur, M|100/100
+|move|p2a: Primarina|Psychic Noise|p1a: Venusaur
+|-resisted|p1a: Venusaur
+|-damage|p1a: Venusaur|92/100
+|-start|p1a: Venusaur|move: Heal Block
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Primarina|82/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781363359
+|move|p1a: Venusaur|Growth|p1a: Venusaur
+|-boost|p1a: Venusaur|atk|2
+|-boost|p1a: Venusaur|spa|2
+|move|p2a: Primarina|Encore|p1a: Venusaur
+|-start|p1a: Venusaur|Encore
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Primarina|88/100|[from] item: Leftovers
+|-end|p1a: Venusaur|move: Heal Block
+|upkeep
+|turn|19
+|
+|t:|1781363368
+|switch|p2a: Great Tusk|Great Tusk|21/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Venusaur|Growth|p1a: Venusaur
+|-boost|p1a: Venusaur|atk|2
+|-boost|p1a: Venusaur|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781363380
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Great Tusk|Rapid Spin|p1a: Great Tusk
+|-damage|p1a: Great Tusk|83/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: cachowcapow|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781363392
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Slither Wing|Slither Wing|47/100
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|move|p1a: Great Tusk|Headlong Rush|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-damage|p2a: Slither Wing|15/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|66/100|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1781363402
+|move|p1a: Great Tusk|Headlong Rush|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-damage|p2a: Slither Wing|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|50/100|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|faint|p2a: Slither Wing
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781363409
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|turn|23
+|
+|t:|1781363413
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Venusaur|Venusaur, M|92/100
+|move|p2a: Meowscarada|U-turn|p1a: Venusaur
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p1a: Venusaur|51/100
+|
+|t:|1781363417
+|switch|p2a: Great Tusk|Great Tusk|21/100|[from] U-turn
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|
+|-weather|none
+|-end|p2a: Great Tusk|Protosynthesis
+|upkeep
+|turn|24
+|
+|t:|1781363425
+|switch|p1a: Torkoal|Torkoal, F|65/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p2a: Great Tusk|Headlong Rush|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781363437
+|switch|p1a: Venusaur|Venusaur, M|51/100
+|turn|25
+|
+|t:|1781363442
+|move|p1a: Venusaur|Giga Drain|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|-heal|p1a: Venusaur|64/100|[from] drain|[of] p2a: Great Tusk
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|-damage|p1a: Venusaur|54/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781363448
+|switch|p2a: Slowking|Slowking-Galar, F|89/100
+|turn|26
+|
+|t:|1781363454
+|move|p1a: Venusaur|Weather Ball|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|34/100
+|-damage|p1a: Venusaur|44/100|[from] item: Life Orb
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781363456
+|switch|p2a: Meowscarada|Meowscarada, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|27
+|
+|t:|1781363464
+|move|p2a: Meowscarada|Knock Off|p1a: Venusaur
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p1a: Venusaur|0 fnt
+|-enditem|p1a: Venusaur|Life Orb|[from] move: Knock Off|[of] p2a: Meowscarada
+|faint|p1a: Venusaur
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781363471
+|switch|p1a: Scizor|Scizor, M|67/100
+|turn|28
+|
+|t:|1781363486
+|move|p1a: Scizor|Bullet Punch|p2a: Meowscarada
+|-damage|p2a: Meowscarada|26/100
+|move|p2a: Meowscarada|Knock Off|p1a: Scizor
+|-damage|p1a: Scizor|16/100
+|-enditem|p1a: Scizor|Choice Band|[from] move: Knock Off|[of] p2a: Meowscarada
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|29
+|
+|t:|1781363493
+|move|p1a: Scizor|Bullet Punch|p2a: Meowscarada
+|-damage|p2a: Meowscarada|0 fnt
+|faint|p2a: Meowscarada
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781363494
+|switch|p2a: Gardevoir|Gardevoir, F, shiny|6/100
+|-ability|p2a: Gardevoir|Technician|Trace|[from] ability: Trace|[of] p1a: Scizor
+|turn|30
+|
+|t:|1781363500
+|move|p2a: Gardevoir|Vacuum Wave|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|-weather|none
+|upkeep
+|
+|t:|1781363507
+|switch|p1a: Great Tusk|Great Tusk|50/100
+|turn|31
+|
+|t:|1781363510
+|move|p2a: Gardevoir|Vacuum Wave|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|-message|ImmaSunU forfeited.
+|
+|win|cachowcapow
+|raw|ImmaSunU's rating: 1582 &rarr; <strong>1573</strong><br />(-9 for losing)
+|raw|cachowcapow's rating: 1797 &rarr; <strong>1806</strong><br />(+9 for winning)
+|l|☆ImmaSunU
+|player|p1|

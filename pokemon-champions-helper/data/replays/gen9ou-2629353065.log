@@ -1,0 +1,536 @@
+|j|☆raulex902
+|j|☆hyperium1233
+|t:|1781121936
+|gametype|singles
+|player|p1|raulex902|alder|1558
+|player|p2|hyperium1233|#ptpl3medicham|1617
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Blissey, F|
+|poke|p1|Chesnaught, M|
+|poke|p1|Corviknight, M|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Ditto|
+|poke|p1|Alomomola, M|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Dragonite, M|
+|poke|p2|Great Tusk|
+|poke|p2|Iron Moth|
+|poke|p2|Kingambit, F|
+|poke|p2|Primarina, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by raulex902)
+|
+|t:|1781121951
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Chesnaught|Chesnaught, M, shiny|100/100
+|switch|p2a: Primarina|Primarina, M|100/100
+|turn|1
+|
+|t:|1781121958
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Primarina|Psychic Noise|p1a: Slowking
+|-damage|p1a: Slowking|85/100
+|-start|p1a: Slowking|move: Heal Block
+|
+|upkeep
+|turn|2
+|
+|t:|1781121968
+|move|p2a: Primarina|Whirlpool|p1a: Slowking
+|-damage|p1a: Slowking|77/100
+|-activate|p1a: Slowking|move: Whirlpool|[of] p2a: Primarina
+|move|p1a: Slowking|Future Sight|p2a: Primarina
+|-start|p1a: Slowking|move: Future Sight
+|
+|-damage|p1a: Slowking|64/100|[from] move: Whirlpool|[partiallytrapped]
+|-end|p1a: Slowking|move: Heal Block
+|upkeep
+|turn|3
+|
+|t:|1781121976
+|move|p2a: Primarina|Psychic Noise|p1a: Slowking
+|-damage|p1a: Slowking|49/100
+|-start|p1a: Slowking|move: Heal Block
+|move|p1a: Slowking|Sludge Bomb|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|64/100
+|
+|-damage|p1a: Slowking|37/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|4
+|
+|t:|1781121987
+|move|p2a: Primarina|Psychic Noise|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|11/100
+|move|p1a: Slowking|Sludge Bomb|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|24/100
+|
+|-end|p2a: Primarina|move: Future Sight
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|-end|p1a: Slowking|Whirlpool|[partiallytrapped]|[silent]
+|-end|p1a: Slowking|move: Heal Block
+|upkeep
+|
+|t:|1781122003
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|5
+|
+|t:|1781122008
+|switch|p1a: Ditto|Ditto|100/100
+|-transform|p1a: Ditto|p2a: Deoxys|[from] ability: Imposter
+|-ability|p1a: Ditto|Pressure
+|move|p2a: Deoxys|Nasty Plot|p2a: Deoxys
+|-boost|p2a: Deoxys|spa|2
+|
+|upkeep
+|turn|6
+|
+|t:|1781122017
+|switch|p1a: Slowking|Slowking-Galar, F|44/100
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|
+|upkeep
+|turn|7
+|
+|t:|1781122021
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|switch|p1a: Chesnaught|Chesnaught, M, shiny|100/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781122027
+|switch|p1a: X-avier|Corviknight, M, shiny|100/100
+|-ability|p1a: X-avier|Pressure
+|move|p2a: Deoxys|Nasty Plot|p2a: Deoxys
+|-boost|p2a: Deoxys|spa|2
+|
+|upkeep
+|turn|9
+|
+|t:|1781122032
+|move|p2a: Deoxys|Shadow Ball|p1a: X-avier
+|-damage|p1a: X-avier|43/100
+|-damage|p2a: Deoxys|91/100|[from] item: Life Orb
+|move|p1a: X-avier|U-turn|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|47/100
+|
+|t:|1781122035
+|switch|p1a: Ditto|Ditto|100/100|[from] U-turn
+|-transform|p1a: Ditto|p2a: Deoxys|[from] ability: Imposter
+|-ability|p1a: Ditto|Pressure
+|
+|upkeep
+|turn|10
+|
+|t:|1781122040
+|move|p1a: Ditto|Shadow Ball|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1781122043
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|turn|11
+|
+|t:|1781122048
+|switch|p1a: Chesnaught|Chesnaught, M, shiny|100/100
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|
+|upkeep
+|turn|12
+|
+|t:|1781122055
+|switch|p1a: Slowking|Slowking-Galar, F|77/100
+|move|p2a: Iron Moth|Substitute|p2a: Iron Moth
+|-start|p2a: Iron Moth|Substitute
+|-damage|p2a: Iron Moth|76/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781122059
+|move|p2a: Iron Moth|Fiery Dance|p1a: Slowking
+|-damage|p1a: Slowking|61/100
+|move|p1a: Slowking|Future Sight|p2a: Iron Moth
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|14
+|
+|t:|1781122063
+|switch|p1a: Huevona|Blissey, F, shiny|100/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Huevona
+|-damage|p1a: Huevona|89/100
+|-boost|p2a: Iron Moth|spa|1
+|
+|upkeep
+|turn|15
+|
+|t:|1781122070
+|move|p2a: Iron Moth|Sludge Wave|p1a: Huevona
+|-damage|p1a: Huevona|68/100
+|move|p1a: Huevona|Seismic Toss|p2a: Iron Moth
+|-end|p2a: Iron Moth|Substitute
+|
+|-end|p2a: Iron Moth|move: Future Sight
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|upkeep
+|
+|t:|1781122077
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|16
+|
+|t:|1781122082
+|switch|p1a: Hiori|Alomomola, M|100/100
+|move|p2a: Great Tusk|Stealth Rock|p1a: Hiori
+|-sidestart|p1: raulex902|move: Stealth Rock
+|
+|upkeep
+|turn|17
+|
+|t:|1781122086
+|move|p2a: Great Tusk|Headlong Rush|p1a: Hiori
+|-damage|p1a: Hiori|59/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Hiori|Scald|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|34/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781122091
+|move|p2a: Great Tusk|Headlong Rush|p1a: Hiori
+|-damage|p1a: Hiori|16/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Hiori|Wish|p1a: Hiori
+|
+|upkeep
+|turn|19
+|
+|t:|1781122097
+|move|p1a: Hiori|Protect|p1a: Hiori
+|-singleturn|p1a: Hiori|Protect
+|move|p2a: Great Tusk|Headlong Rush|p1a: Hiori
+|-activate|p1a: Hiori|move: Protect
+|
+|-heal|p1a: Hiori|66/100|[from] move: Wish|[wisher] Hiori
+|upkeep
+|turn|20
+|
+|t:|1781122100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Hiori
+|-damage|p1a: Hiori|19/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Hiori|Flip Turn|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|t:|1781122106
+|switch|p1a: Chesnaught|Chesnaught, M, shiny|100/100|[from] Flip Turn
+|-damage|p1a: Chesnaught|94/100|[from] Stealth Rock
+|
+|-heal|p1a: Chesnaught|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781122109
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|turn|21
+|
+|t:|1781122112
+|move|p2a: Dragonite|Ice Spinner|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|66/100
+|move|p1a: Chesnaught|Leech Seed|p2a: Dragonite
+|-start|p2a: Dragonite|move: Leech Seed
+|
+|-heal|p1a: Chesnaught|72/100|[from] item: Leftovers
+|-damage|p2a: Dragonite|88/100|[from] Leech Seed|[of] p1a: Chesnaught
+|-heal|p1a: Chesnaught|83/100|[silent]
+|upkeep
+|turn|22
+|
+|t:|1781122118
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Chesnaught|Knock Off|p2a: Dragonite
+|-damage|p2a: Dragonite|64/100
+|-enditem|p2a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Chesnaught
+|
+|-heal|p1a: Chesnaught|89/100|[from] item: Leftovers
+|-damage|p2a: Dragonite|52/100|[from] Leech Seed|[of] p1a: Chesnaught
+|-heal|p1a: Chesnaught|100/100|[silent]
+|upkeep
+|turn|23
+|
+|t:|1781122122
+|switch|p1a: Hiori|Alomomola, M|52/100
+|move|p2a: Dragonite|Ice Spinner|p1a: Hiori
+|-resisted|p1a: Hiori
+|-damage|p1a: Hiori|39/100
+|
+|-damage|p2a: Dragonite|39/100|[from] Leech Seed|[of] p1a: Hiori
+|-heal|p1a: Hiori|48/100|[silent]
+|upkeep
+|turn|24
+|
+|t:|1781122128
+|move|p1a: Hiori|Protect|p1a: Hiori
+|-singleturn|p1a: Hiori|Protect
+|move|p2a: Dragonite|Earthquake|p1a: Hiori
+|-activate|p1a: Hiori|move: Protect
+|
+|-damage|p2a: Dragonite|27/100|[from] Leech Seed|[of] p1a: Hiori
+|-heal|p1a: Hiori|56/100|[silent]
+|upkeep
+|turn|25
+|
+|t:|1781122131
+|move|p2a: Dragonite|Earthquake|p1a: Hiori
+|-damage|p1a: Hiori|26/100
+|move|p1a: Hiori|Wish|p1a: Hiori
+|
+|-damage|p2a: Dragonite|15/100|[from] Leech Seed|[of] p1a: Hiori
+|-heal|p1a: Hiori|34/100|[silent]
+|upkeep
+|turn|26
+|
+|t:|1781122134
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|move|p1a: Hiori|Protect||[still]
+|-fail|p1a: Hiori
+|
+|-heal|p1a: Hiori|84/100|[from] move: Wish|[wisher] Hiori
+|upkeep
+|turn|27
+|
+|t:|1781122145
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|move|p1a: Hiori|Scald|p2a: Kingambit
+|-damage|p2a: Kingambit|87/100
+|
+|-heal|p2a: Kingambit|93/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781122152
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|move|p1a: Hiori|Scald|p2a: Kingambit
+|-damage|p2a: Kingambit|78/100
+|
+|-heal|p2a: Kingambit|84/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1781122154
+|move|p2a: Kingambit|Low Kick|p1a: Hiori
+|-damage|p1a: Hiori|35/100
+|move|p1a: Hiori|Scald|p2a: Kingambit
+|-damage|p2a: Kingambit|69/100
+|-status|p2a: Kingambit|brn
+|
+|-heal|p2a: Kingambit|75/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|69/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1781122161
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|move|p1a: Hiori|Wish|p1a: Hiori
+|
+|-heal|p2a: Kingambit|75/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|69/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1781122164
+|switch|p1a: Chesnaught|Chesnaught, M, shiny|100/100
+|-damage|p1a: Chesnaught|94/100|[from] Stealth Rock
+|move|p2a: Kingambit|Low Kick|p1a: Chesnaught
+|-damage|p1a: Chesnaught|49/100
+|
+|-heal|p1a: Chesnaught|100/100|[from] move: Wish|[wisher] Hiori
+|-heal|p2a: Kingambit|75/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|69/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1781122167
+|move|p1a: Chesnaught|Leech Seed|p2a: Kingambit
+|-start|p2a: Kingambit|move: Leech Seed
+|move|p2a: Kingambit|Iron Head|p1a: Chesnaught
+|-damage|p1a: Chesnaught|20/100
+|
+|-heal|p1a: Chesnaught|27/100|[from] item: Leftovers
+|-heal|p2a: Kingambit|75/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|63/100 brn|[from] Leech Seed|[of] p1a: Chesnaught
+|-heal|p1a: Chesnaught|39/100|[silent]
+|-damage|p2a: Kingambit|57/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1781122171
+|-end|p2a: Kingambit|fallen4|[silent]
+|switch|p2a: Dragonite|Dragonite, M|15/100
+|move|p1a: Chesnaught|Spiky Shield||[still]
+|-fail|p1a: Chesnaught
+|
+|-heal|p1a: Chesnaught|45/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1781122175
+|move|p1a: Chesnaught|Spiky Shield|p1a: Chesnaught
+|-singleturn|p1a: Chesnaught|move: Protect
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-heal|p1a: Chesnaught|51/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1781122180
+|switch|p1a: Huevona|Blissey, F, shiny|68/100
+|move|p2a: Dragonite|Ice Spinner|p1a: Huevona
+|-damage|p1a: Huevona|0 fnt
+|faint|p1a: Huevona
+|
+|upkeep
+|
+|t:|1781122182
+|switch|p1a: Hiori|Alomomola, M|69/100
+|turn|36
+|
+|t:|1781122186
+|move|p2a: Dragonite|Earthquake|p1a: Hiori
+|-damage|p1a: Hiori|35/100
+|move|p1a: Hiori|Wish|p1a: Hiori
+|
+|upkeep
+|turn|37
+|
+|t:|1781122190
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Hiori|Flip Turn|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|7/100
+|
+|t:|1781122194
+|switch|p1a: Chesnaught|Chesnaught, M, shiny|51/100|[from] Flip Turn
+|-damage|p1a: Chesnaught|45/100|[from] Stealth Rock
+|
+|-heal|p1a: Chesnaught|100/100|[from] move: Wish|[wisher] Hiori
+|upkeep
+|turn|38
+|
+|t:|1781122196
+|switch|p1a: X-avier|Corviknight, M, shiny|43/100
+|-damage|p1a: X-avier|31/100|[from] Stealth Rock
+|-ability|p1a: X-avier|Pressure
+|move|p2a: Dragonite|Ice Spinner|p1a: X-avier
+|-damage|p1a: X-avier|0 fnt
+|-damage|p2a: Dragonite|0 fnt|[from] item: Rocky Helmet|[of] p1a: X-avier
+|faint|p1a: X-avier
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1781122199
+|switch|p2a: Kingambit|Kingambit, F|57/100 brn
+|switch|p1a: Chesnaught|Chesnaught, M, shiny|100/100
+|-damage|p1a: Chesnaught|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|turn|39
+|
+|t:|1781122202
+|-terastallize|p2a: Kingambit|Ghost
+|move|p1a: Chesnaught|Leech Seed|p2a: Kingambit|[miss]
+|-miss|p1a: Chesnaught|p2a: Kingambit
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p1a: Chesnaught|100/100|[from] item: Leftovers
+|-heal|p2a: Kingambit|63/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|57/100 brn|[from] brn
+|upkeep
+|turn|40
+|
+|t:|1781122206
+|move|p1a: Chesnaught|Knock Off|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|21/100 brn
+|-enditem|p2a: Kingambit|Leftovers|[from] move: Knock Off|[of] p1a: Chesnaught
+|move|p2a: Kingambit|Iron Head|p1a: Chesnaught
+|-damage|p1a: Chesnaught|62/100
+|
+|-heal|p1a: Chesnaught|68/100|[from] item: Leftovers
+|-damage|p2a: Kingambit|15/100 brn|[from] brn
+|upkeep
+|turn|41
+|
+|t:|1781122211
+|move|p1a: Chesnaught|Knock Off|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen5|[silent]
+|
+|win|raulex902
+|raw|raulex902's rating: 1558 &rarr; <strong>1581</strong><br />(+23 for winning)
+|raw|hyperium1233's rating: 1617 &rarr; <strong>1594</strong><br />(-23 for losing)
+|l|☆hyperium1233
+|player|p2|
+|l|☆raulex902
+|player|p1|

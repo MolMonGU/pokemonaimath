@@ -1,0 +1,293 @@
+|j|☆waha8
+|j|☆SEbasDB
+|t:|1781093622
+|gametype|singles
+|player|p1|waha8|266|1531
+|player|p2|SEbasDB|dawn|1525
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Scizor, M|
+|poke|p1|Indeedee, M|
+|poke|p1|Kyurem|
+|poke|p1|Cetitan, M|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Zapdos-Galar|
+|poke|p2|Dragapult, M|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Iron Treads|
+|teampreview
+|
+|t:|1781093634
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: DeeDee|Indeedee, M|100/100
+|switch|p2a: Slowking|Slowking-Galar, M, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: DeeDee
+|turn|1
+|
+|t:|1781093641
+|move|p1a: DeeDee|Expanding Force|p2a: Slowking
+|-damage|p2a: Slowking|60/100
+|move|p2a: Slowking|Toxic Spikes|p1a: DeeDee
+|-sidestart|p1: waha8|move: Toxic Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1781093646
+|move|p1a: DeeDee|Expanding Force|p2a: Slowking
+|-damage|p2a: Slowking|18/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781093651
+|switch|p2a: Samurott|Samurott-Hisui, M, shiny|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781093657
+|move|p2a: Samurott|Flip Turn|p1a: DeeDee
+|-damage|p1a: DeeDee|41/100
+|
+|t:|1781093664
+|switch|p2a: Iron Treads|Iron Treads, shiny|100/100|[from] Flip Turn
+|move|p1a: DeeDee|Dazzling Gleam|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|89/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781093675
+|switch|p1a: Zapdos|Zapdos-Galar|100/100
+|move|p2a: Iron Treads|Rapid Spin|p1a: Zapdos
+|-damage|p1a: Zapdos|82/100
+|-boost|p2a: Iron Treads|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781093683
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Dragapult|Dragapult, M, shiny|100/100
+|move|p1a: Zapdos|Thunderous Kick|p2a: Dragapult
+|-immune|p2a: Dragapult
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781093692
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Zapdos
+|-status|p1a: Zapdos|brn
+|move|p1a: Zapdos|Knock Off|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|40/100
+|-enditem|p2a: Dragapult|Spell Tag|[from] move: Knock Off|[of] p1a: Zapdos
+|-damage|p1a: Zapdos|72/100 brn|[from] item: Life Orb
+|
+|-weather|none
+|-damage|p1a: Zapdos|66/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1781093703
+|move|p2a: Dragapult|Hex|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1781093713
+|switch|p1a: Scizor|Scizor, M|100/100
+|turn|8
+|
+|t:|1781093717
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Scizor
+|-status|p1a: Scizor|brn
+|move|p1a: Scizor|Defog|p2a: Dragapult
+|-unboost|p2a: Dragapult|evasion|1
+|-sideend|p1: waha8|Toxic Spikes|[from] move: Defog|[of] p1a: Scizor
+|-fieldend|move: Psychic Terrain
+|
+|-damage|p1a: Scizor|94/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1781093727
+|switch|p1a: Mavis|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Mavis
+|move|p2a: Dragapult|Hex|p1a: Mavis
+|-damage|p1a: Mavis|63/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781093734
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Mavis
+|-status|p1a: Mavis|brn
+|move|p1a: Mavis|Aurora Veil|p1a: Mavis
+|-sidestart|p1: waha8|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Mavis|57/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781093740
+|move|p2a: Dragapult|Hex|p1a: Mavis
+|-damage|p1a: Mavis|0 fnt
+|faint|p1a: Mavis
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781093746
+|switch|p1a: Thing|Cetitan, M|100/100
+|turn|12
+|
+|t:|1781093749
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Thing|Icicle Spear|p2a: Ogerpon
+|-damage|p2a: Ogerpon|84/100
+|-damage|p2a: Ogerpon|65/100
+|-damage|p2a: Ogerpon|48/100
+|-hitcount|p2a: Ogerpon|3
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781093757
+|move|p1a: Thing|Belly Drum|p1a: Thing
+|-damage|p1a: Thing|50/100
+|-setboost|p1a: Thing|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Thing|Sitrus Berry|[eat]
+|-heal|p1a: Thing|75/100|[from] item: Sitrus Berry
+|move|p2a: Ogerpon|Encore|p1a: Thing
+|-start|p1a: Thing|Encore
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781093768
+|switch|p1a: SubZero|Kyurem|100/100
+|-ability|p1a: SubZero|Pressure
+|move|p2a: Ogerpon|U-turn|p1a: SubZero
+|-damage|p1a: SubZero|92/100
+|
+|t:|1781093773
+|switch|p2a: Dragapult|Dragapult, M, shiny|40/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|-sideend|p1: waha8|move: Aurora Veil
+|upkeep
+|turn|15
+|
+|t:|1781093778
+|move|p2a: Dragapult|Dragon Darts|p1a: SubZero
+|-supereffective|p1a: SubZero
+|-damage|p1a: SubZero|67/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: SubZero
+|-supereffective|p1a: SubZero
+|-damage|p1a: SubZero|41/100
+|move|p1a: SubZero|Dragon Dance|p1a: SubZero
+|-boost|p1a: SubZero|atk|1
+|-boost|p1a: SubZero|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781093786
+|move|p1a: SubZero|Scale Shot|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|-hitcount|p2: Dragapult|1
+|-unboost|p1a: SubZero|def|1
+|-boost|p1a: SubZero|spe|1
+|
+|-weather|none
+|upkeep
+|
+|t:|1781093799
+|switch|p2a: Iron Treads|Iron Treads, shiny|89/100
+|turn|17
+|
+|t:|1781093803
+|move|p1a: SubZero|Icicle Spear|p2a: Iron Treads
+|-damage|p2a: Iron Treads|67/100
+|-damage|p2a: Iron Treads|49/100
+|-damage|p2a: Iron Treads|30/100
+|-damage|p2a: Iron Treads|11/100
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|-hitcount|p2: Iron Treads|5
+|
+|upkeep
+|
+|t:|1781093817
+|switch|p2a: Samurott|Samurott-Hisui, M, shiny|100/100
+|turn|18
+|
+|t:|1781093820
+|move|p1a: SubZero|Scale Shot|p2a: Samurott
+|-damage|p2a: Samurott|72/100
+|-damage|p2a: Samurott|45/100
+|-damage|p2a: Samurott|19/100
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|-hitcount|p2: Samurott|4
+|-unboost|p1a: SubZero|def|1
+|-boost|p1a: SubZero|spe|1
+|
+|upkeep
+|
+|t:|1781093825
+|switch|p2a: Iron Valiant|Iron Valiant, shiny|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|19
+|
+|t:|1781093835
+|-terastallize|p1a: SubZero|Ice
+|move|p1a: SubZero|Icicle Spear|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|63/100
+|-damage|p2a: Iron Valiant|28/100
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|-hitcount|p2: Iron Valiant|3
+|
+|upkeep
+|-message|SEbasDB forfeited.
+|
+|win|waha8
+|raw|waha8's rating: 1531 &rarr; <strong>1551</strong><br />(+20 for winning)
+|raw|SEbasDB's rating: 1525 &rarr; <strong>1505</strong><br />(-20 for losing)
+|l|☆SEbasDB
+|player|p2|

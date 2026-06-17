@@ -1,0 +1,369 @@
+|j|☆pranjal singh
+|j|☆lolcano46
+|t:|1781274173
+|gametype|singles
+|player|p1|pranjal singh|266|1560
+|player|p2|lolcano46|fisherman-gen4|1614
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Araquanid, F|
+|poke|p1|Gholdengo|
+|poke|p1|Iron Moth|
+|poke|p1|Iron Valiant|
+|poke|p1|Raging Bolt|
+|poke|p1|Kingambit, F|
+|poke|p2|Azelf|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Scizor, F|
+|poke|p2|Gengar, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Cinderace, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lolcano46)
+|inactive|pranjal singh also wants the timer to be on.
+|
+|t:|1781274188
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: DELI|Raging Bolt|100/100
+|switch|p2a: Azelf|Azelf|100/100
+|-enditem|p1a: DELI|Booster Energy
+|-activate|p1a: DELI|ability: Protosynthesis|[fromitem]
+|-start|p1a: DELI|protosynthesisspa
+|turn|1
+|
+|t:|1781274197
+|-terastallize|p2a: Azelf|Fairy
+|move|p2a: Azelf|Dazzling Gleam|p1a: DELI
+|-supereffective|p1a: DELI
+|-damage|p1a: DELI|8/100
+|move|p1a: DELI|Thunderbolt|p2a: Azelf
+|-damage|p2a: Azelf|0 fnt
+|faint|p2a: Azelf
+|
+|upkeep
+|
+|t:|1781274199
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|2
+|
+|t:|1781274204
+|move|p2a: Cinderace|Sucker Punch|p1a: DELI
+|-start|p2a: Cinderace|typechange|Dark|[from] ability: Libero
+|-crit|p1a: DELI
+|-damage|p1a: DELI|0 fnt
+|faint|p1a: DELI
+|-end|p1a: DELI|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781274211
+|switch|p1a: QUZZ|Iron Valiant|100/100
+|-enditem|p1a: QUZZ|Booster Energy
+|-activate|p1a: QUZZ|ability: Quark Drive|[fromitem]
+|-start|p1a: QUZZ|quarkdrivespa
+|turn|3
+|
+|t:|1781274217
+|switch|p2a: Gengar|Gengar, M|100/100
+|move|p1a: QUZZ|Calm Mind|p1a: QUZZ
+|-boost|p1a: QUZZ|spa|1
+|-boost|p1a: QUZZ|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1781274221
+|-terastallize|p1a: QUZZ|Ghost
+|move|p2a: Gengar|Trick|p1a: QUZZ
+|-activate|p2a: Gengar|move: Trick|[of] p1a: QUZZ
+|-item|p1a: QUZZ|Choice Scarf|[from] move: Trick
+|-enditem|p2a: Gengar|Choice Scarf|[silent]|[from] move: Trick
+|move|p1a: QUZZ|Shadow Ball|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|faint|p2a: Gengar
+|
+|upkeep
+|
+|t:|1781274227
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|5
+|
+|t:|1781274230
+|move|p2a: Cinderace|Sucker Punch|p1a: QUZZ
+|-start|p2a: Cinderace|typechange|Dark|[from] ability: Libero
+|-supereffective|p1a: QUZZ
+|-damage|p1a: QUZZ|9/100
+|move|p1a: QUZZ|Shadow Ball|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-damage|p2a: Cinderace|44/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781274234
+|-end|p1a: QUZZ|Quark Drive|[silent]
+|switch|p1a: QUIL|Araquanid, F|100/100
+|move|p2a: Cinderace|Sucker Punch||[still]
+|-fail|p2a: Cinderace
+|
+|upkeep
+|turn|7
+|
+|t:|1781274238
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: QUIL|Surf|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|83/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781274242
+|switch|p1a: QUZZ|Iron Valiant, tera:Ghost|9/100
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1781274250
+|move|p1a: QUZZ|Moonblast|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|20/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: QUZZ
+|-damage|p1a: QUZZ|0 fnt
+|faint|p1a: QUZZ
+|-end|p1a: QUZZ|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781274261
+|switch|p1a: CALA|Iron Moth|100/100
+|-enditem|p1a: CALA|Booster Energy
+|-activate|p1a: CALA|ability: Quark Drive|[fromitem]
+|-start|p1a: CALA|quarkdrivespa
+|turn|10
+|
+|t:|1781274266
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: CALA|Substitute|p1a: CALA
+|-start|p1a: CALA|Substitute
+|-damage|p1a: CALA|76/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781274279
+|move|p2a: Raging Bolt|Thunderclap|p1a: CALA
+|-end|p1a: CALA|Substitute
+|move|p1a: CALA|Fiery Dance|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|2/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781274285
+|move|p1a: CALA|Substitute|p1a: CALA
+|-start|p1a: CALA|Substitute
+|-damage|p1a: CALA|51/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: CALA
+|-end|p1a: CALA|Substitute
+|
+|upkeep
+|turn|13
+|
+|t:|1781274289
+|move|p1a: CALA|Fiery Dance|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781274294
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|14
+|
+|t:|1781274296
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: CALA|[anim] Ivy Cudgel Water
+|-supereffective|p1a: CALA
+|-damage|p1a: CALA|0 fnt
+|faint|p1a: CALA
+|-end|p1a: CALA|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781274302
+|switch|p1a: TREE?|Gholdengo|100/100
+|-item|p1a: TREE?|Air Balloon
+|turn|15
+|
+|t:|1781274306
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: TREE?|[anim] Ivy Cudgel Water
+|-damage|p1a: TREE?|34/100
+|-enditem|p1a: TREE?|Air Balloon
+|move|p1a: TREE?|Nasty Plot|p1a: TREE?
+|-boost|p1a: TREE?|spa|2
+|
+|upkeep
+|turn|16
+|
+|t:|1781274310
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: TREE?|[anim] Ivy Cudgel Water
+|-damage|p1a: TREE?|0 fnt
+|faint|p1a: TREE?
+|
+|upkeep
+|
+|t:|1781274312
+|switch|p1a: SUPA|Kingambit, F|100/100
+|-activate|p1a: SUPA|ability: Supreme Overlord
+|-start|p1a: SUPA|fallen4|[silent]
+|-item|p1a: SUPA|Air Balloon
+|turn|17
+|
+|t:|1781274316
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: SUPA|[anim] Ivy Cudgel Water
+|-damage|p1a: SUPA|51/100
+|-enditem|p1a: SUPA|Air Balloon
+|move|p1a: SUPA|Kowtow Cleave|p2a: Ogerpon
+|-damage|p2a: Ogerpon|14/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781274320
+|switch|p2a: Cinderace|Cinderace, F|44/100
+|move|p1a: SUPA|Sucker Punch||[still]
+|-fail|p1a: SUPA
+|
+|upkeep
+|turn|19
+|
+|t:|1781274324
+|-end|p1a: SUPA|fallen4|[silent]
+|switch|p1a: QUIL|Araquanid, F|100/100
+|move|p2a: Cinderace|Will-O-Wisp|p1a: QUIL
+|-immune|p1a: QUIL|[from] ability: Water Bubble
+|
+|upkeep
+|turn|20
+|
+|t:|1781274328
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|14/100
+|switch|p1a: SUPA|Kingambit, F|51/100
+|-activate|p1a: SUPA|ability: Supreme Overlord
+|-start|p1a: SUPA|fallen4|[silent]
+|
+|upkeep
+|turn|21
+|
+|t:|1781274333
+|move|p1a: SUPA|Sucker Punch|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781274335
+|switch|p2a: Scizor|Scizor, F|100/100
+|turn|22
+|
+|t:|1781274340
+|-end|p1a: SUPA|fallen4|[silent]
+|switch|p1a: QUIL|Araquanid, F|100/100
+|move|p2a: Scizor|Knock Off|p1a: QUIL
+|-damage|p1a: QUIL|66/100
+|-enditem|p1a: QUIL|Custap Berry|[from] move: Knock Off|[of] p2a: Scizor
+|
+|upkeep
+|turn|23
+|
+|t:|1781274347
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|move|p1a: QUIL|Surf|p2a: Scizor
+|-damage|p2a: Scizor|52/100
+|
+|upkeep
+|turn|24
+|
+|t:|1781274353
+|move|p2a: Scizor|Knock Off|p1a: QUIL
+|-damage|p1a: QUIL|23/100
+|move|p1a: QUIL|Surf|p2a: Scizor
+|-damage|p2a: Scizor|8/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781274356
+|move|p2a: Scizor|Bullet Punch|p1a: QUIL
+|-resisted|p1a: QUIL
+|-damage|p1a: QUIL|0 fnt
+|faint|p1a: QUIL
+|
+|upkeep
+|
+|t:|1781274358
+|switch|p1a: SUPA|Kingambit, F|51/100
+|-activate|p1a: SUPA|ability: Supreme Overlord
+|-start|p1a: SUPA|fallen5|[silent]
+|turn|26
+|
+|t:|1781274360
+|move|p1a: SUPA|Sucker Punch|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1781274363
+|switch|p2a: Cinderace|Cinderace, F|44/100
+|turn|27
+|
+|t:|1781274369
+|move|p2a: Cinderace|Sucker Punch|p1a: SUPA
+|-start|p2a: Cinderace|typechange|Dark|[from] ability: Libero
+|-resisted|p1a: SUPA
+|-damage|p1a: SUPA|37/100
+|move|p1a: SUPA|Sucker Punch||[still]
+|-fail|p1a: SUPA
+|
+|upkeep
+|turn|28
+|
+|t:|1781274373
+|move|p2a: Cinderace|Pyro Ball|p1a: SUPA
+|-supereffective|p1a: SUPA
+|-damage|p1a: SUPA|0 fnt
+|faint|p1a: SUPA
+|-end|p1a: SUPA|fallen5|[silent]
+|
+|win|lolcano46
+|raw|pranjal singh's rating: 1560 &rarr; <strong>1543</strong><br />(-17 for losing)
+|raw|lolcano46's rating: 1614 &rarr; <strong>1631</strong><br />(+17 for winning)
+|l|☆pranjal singh
+|player|p1|
+|l|☆lolcano46
+|player|p2|

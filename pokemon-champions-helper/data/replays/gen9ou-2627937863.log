@@ -1,0 +1,1469 @@
+|j|☆minhoto
+|j|☆msean3
+|t:|1780956446
+|gametype|singles
+|player|p1|minhoto|1|1563
+|player|p2|msean3|170|1632
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Blissey, F|
+|poke|p1|Corviknight, F|
+|poke|p1|Cinderace, M|
+|poke|p1|Dondozo, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Toxapex, F|
+|poke|p2|Darkrai|
+|poke|p2|Alomomola, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Ogerpon, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by minhoto)
+|
+|t:|1780956455
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|turn|1
+|
+|t:|1780956459
+|move|p2a: Alomomola|Flip Turn|p1a: Slowking
+|-damage|p1a: Slowking|86/100
+|
+|t:|1780956461
+|switch|p2a: Corviknight|Corviknight, F|100/100|[from] Flip Turn
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Slowking|Future Sight|p2a: Corviknight
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p1a: Slowking|92/100|[from] item: Black Sludge
+|upkeep
+|turn|2
+|
+|t:|1780956464
+|move|p2a: Corviknight|Brave Bird|p1a: Slowking
+|-damage|p1a: Slowking|63/100
+|-damage|p2a: Corviknight|91/100|[from] Recoil
+|move|p1a: Slowking|Trick|p2a: Corviknight
+|-activate|p1a: Slowking|move: Trick|[of] p2a: Corviknight
+|-item|p2a: Corviknight|Black Sludge|[from] move: Trick
+|-item|p1a: Slowking|Leftovers|[from] move: Trick
+|
+|-damage|p2a: Corviknight|78/100|[from] item: Black Sludge
+|-heal|p1a: Slowking|69/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1780956472
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1780956475
+|switch|p1a: Cinderace|Cinderace, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Corviknight|move: Future Sight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|84/100
+|-damage|p2a: Corviknight|71/100|[from] item: Black Sludge
+|upkeep
+|turn|4
+|
+|t:|1780956484
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Cinderace|U-turn|p2a: Alomomola
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p2a: Alomomola|76/100
+|
+|t:|1780956490
+|switch|p1a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1780956494
+|move|p2a: Alomomola|Flip Turn|p1a: Slowking
+|-damage|p1a: Slowking|87/100
+|
+|t:|1780956496
+|switch|p2a: Darkrai|Darkrai|100/100|[from] Flip Turn
+|move|p1a: Slowking|Future Sight|p2a: Darkrai
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Slowking|93/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1780956501
+|move|p2a: Darkrai|Trick|p1a: Slowking
+|-activate|p2a: Darkrai|move: Trick|[of] p1a: Slowking
+|-item|p1a: Slowking|Choice Specs|[from] move: Trick
+|-item|p2a: Darkrai|Leftovers|[from] move: Trick
+|move|p1a: Slowking|Toxic|p2a: Darkrai
+|-status|p2a: Darkrai|tox
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Darkrai|94/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1780956517
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Darkrai|Dark Pulse|p1a: Corviknight
+|-damage|p1a: Corviknight|70/100
+|
+|-weather|none
+|-end|p2a: Darkrai|move: Future Sight
+|-immune|p2a: Darkrai
+|-heal|p2a: Darkrai|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Darkrai|88/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1780956523
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|move|p1a: Corviknight|U-turn|p2a: Garchomp
+|-damage|p2a: Garchomp|91/100
+|-damage|p1a: Corviknight|58/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Corviknight|41/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|
+|t:|1780956527
+|switch|p1a: Dondozo|Dondozo, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|9
+|
+|t:|1780956531
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Dondozo|Curse|p1a: Dondozo
+|-unboost|p1a: Dondozo|spe|1
+|-boost|p1a: Dondozo|atk|1
+|-boost|p1a: Dondozo|def|1
+|
+|upkeep
+|turn|10
+|
+|t:|1780956534
+|move|p2a: Weezing|Will-O-Wisp|p1a: Dondozo
+|-status|p1a: Dondozo|brn
+|move|p1a: Dondozo|Liquidation|p2a: Weezing
+|-damage|p2a: Weezing|87/100
+|-unboost|p2a: Weezing|def|1
+|
+|-heal|p2a: Weezing|93/100|[from] item: Leftovers
+|-damage|p1a: Dondozo|94/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1780956539
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Ogerpon|Ogerpon, F|100/100
+|switch|p1a: Blissey|Blissey, F|100/100
+|
+|upkeep
+|turn|12
+|
+|t:|1780956544
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Ogerpon|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|77/100
+|-damage|p2a: Ogerpon|84/100|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|-enditem|p1a: Toxapex|Rocky Helmet|[from] move: Knock Off|[of] p2a: Ogerpon
+|
+|upkeep
+|turn|13
+|
+|t:|1780956549
+|move|p2a: Ogerpon|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|70/100
+|
+|t:|1780956551
+|switch|p2a: Weezing|Weezing-Galar, F|93/100|[from] U-turn
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Toxapex|Toxic|p2a: Weezing
+|-immune|p2a: Weezing
+|
+|-heal|p2a: Weezing|99/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1780956556
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Weezing|Will-O-Wisp|p1a: Blissey
+|-status|p1a: Blissey|brn
+|
+|-heal|p2a: Weezing|100/100|[from] item: Leftovers
+|-damage|p1a: Blissey|94/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1780956562
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Garchomp|Garchomp, M|91/100
+|move|p1a: Blissey|Trick|p2a: Garchomp
+|-activate|p1a: Blissey|move: Trick|[of] p2a: Garchomp
+|-item|p2a: Garchomp|Choice Specs|[from] move: Trick
+|-item|p1a: Blissey|Rocky Helmet|[from] move: Trick
+|
+|-damage|p1a: Blissey|88/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1780956568
+|-curestatus|p1a: Blissey|brn|[from] ability: Natural Cure|[silent]
+|switch|p1a: Corviknight|Corviknight, F|41/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Garchomp|Stealth Rock|p1a: Corviknight
+|-sidestart|p1: minhoto|move: Stealth Rock
+|
+|upkeep
+|turn|17
+|
+|t:|1780956572
+|switch|p2a: Ogerpon|Ogerpon, F|84/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|91/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|18
+|
+|t:|1780956575
+|move|p2a: Ogerpon|Encore|p1a: Corviknight
+|-start|p1a: Corviknight|Encore
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|19
+|
+|t:|1780956581
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|91/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|20
+|
+|t:|1780956584
+|move|p2a: Ogerpon|Knock Off|p1a: Corviknight
+|-damage|p1a: Corviknight|79/100
+|-damage|p2a: Ogerpon|67/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|-enditem|p1a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p2a: Ogerpon
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-end|p1a: Corviknight|Encore
+|upkeep
+|turn|21
+|
+|t:|1780956594
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|move|p2a: Ogerpon|U-turn|p1a: Cinderace
+|-resisted|p1a: Cinderace
+|-damage|p1a: Cinderace|84/100
+|
+|t:|1780956602
+|switch|p2a: Garchomp|Garchomp, M|91/100|[from] U-turn
+|
+|upkeep
+|turn|22
+|
+|t:|1780956606
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Garchomp|Earthquake|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|upkeep
+|turn|23
+|
+|t:|1780956612
+|switch|p2a: Corviknight|Corviknight, F|71/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Corviknight|Defog|p2a: Corviknight
+|-unboost|p2a: Corviknight|evasion|1
+|-sideend|p1: minhoto|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|-damage|p2a: Corviknight|59/100|[from] item: Black Sludge
+|upkeep
+|turn|24
+|
+|t:|1780956617
+|move|p2a: Corviknight|U-turn|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|85/100
+|
+|t:|1780956620
+|switch|p2a: Garchomp|Garchomp, M|91/100|[from] U-turn
+|move|p1a: Corviknight|U-turn|p2a: Garchomp
+|-damage|p2a: Garchomp|80/100
+|-damage|p1a: Corviknight|73/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|
+|t:|1780956625
+|switch|p1a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|25
+|
+|t:|1780956630
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|switch|p1a: Corviknight|Corviknight, F|73/100
+|
+|upkeep
+|turn|26
+|
+|t:|1780956633
+|switch|p1a: Blissey|Blissey, F|88/100
+|move|p2a: Weezing|Will-O-Wisp|p1a: Blissey|[miss]
+|-miss|p2a: Weezing|p1a: Blissey
+|
+|upkeep
+|turn|27
+|
+|t:|1780956636
+|move|p2a: Weezing|Pain Split|p1a: Blissey
+|-sethp|p1a: Blissey|70/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|100/100|[from] move: Pain Split
+|move|p1a: Blissey|Stealth Rock|p2a: Weezing
+|-sidestart|p2: msean3|move: Stealth Rock
+|
+|upkeep
+|turn|28
+|
+|t:|1780956640
+|move|p2a: Weezing|Defog|p1a: Blissey
+|-unboost|p1a: Blissey|evasion|1
+|-sideend|p2: msean3|Stealth Rock|[from] move: Defog|[of] p2a: Weezing
+|move|p1a: Blissey|Fire Blast|p2a: Weezing|[miss]
+|-miss|p1a: Blissey|p2a: Weezing
+|
+|upkeep
+|turn|29
+|
+|t:|1780956648
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Garchomp|Garchomp, M|80/100
+|move|p1a: Blissey|Stealth Rock|p2a: Garchomp
+|-sidestart|p2: msean3|move: Stealth Rock
+|
+|upkeep
+|turn|30
+|
+|t:|1780956652
+|switch|p1a: Corviknight|Corviknight, F|73/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Garchomp|Stealth Rock|p1a: Corviknight
+|-sidestart|p1: minhoto|move: Stealth Rock
+|
+|upkeep
+|turn|31
+|
+|t:|1780956661
+|switch|p2a: Ogerpon|Ogerpon, F|67/100
+|move|p1a: Corviknight|Defog|p2a: Ogerpon
+|-unboost|p2a: Ogerpon|evasion|1
+|-ability|p2a: Ogerpon|Defiant|boost
+|-boost|p2a: Ogerpon|atk|2
+|-sideend|p2: msean3|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|-sideend|p1: minhoto|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|upkeep
+|turn|32
+|
+|t:|1780956669
+|move|p2a: Ogerpon|Encore|p1a: Corviknight
+|-start|p1a: Corviknight|Encore
+|move|p1a: Corviknight|Defog|p2a: Ogerpon
+|-unboost|p2a: Ogerpon|evasion|1
+|-ability|p2a: Ogerpon|Defiant|boost
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|33
+|
+|t:|1780956675
+|move|p2a: Ogerpon|Knock Off|p1a: Corviknight
+|-damage|p1a: Corviknight|24/100
+|move|p1a: Corviknight|Defog|p2a: Ogerpon
+|-unboost|p2a: Ogerpon|evasion|1
+|-ability|p2a: Ogerpon|Defiant|boost
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|34
+|
+|t:|1780956681
+|switch|p1a: Dondozo|Dondozo, M|94/100 brn
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Dondozo
+|-supereffective|p1a: Dondozo
+|-damage|p1a: Dondozo|44/100 brn
+|
+|-heal|p1a: Dondozo|50/100 brn|[from] item: Leftovers
+|-damage|p1a: Dondozo|44/100 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1780956687
+|-terastallize|p1a: Dondozo|Dragon
+|move|p2a: Ogerpon|Knock Off|p1a: Dondozo
+|-damage|p1a: Dondozo|26/100 brn
+|-enditem|p1a: Dondozo|Leftovers|[from] move: Knock Off|[of] p2a: Ogerpon
+|move|p1a: Dondozo|Rest|p1a: Dondozo
+|-status|p1a: Dondozo|slp|[from] move: Rest
+|-heal|p1a: Dondozo|100/100 slp|[silent]
+|
+|upkeep
+|turn|36
+|
+|t:|1780956690
+|switch|p1a: Corviknight|Corviknight, F|24/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Ogerpon|Encore||[still]
+|-fail|p2a: Ogerpon
+|
+|upkeep
+|turn|37
+|
+|t:|1780956692
+|switch|p1a: Dondozo|Dondozo, M, tera:Dragon|100/100 slp
+|move|p2a: Ogerpon|Knock Off|p1a: Dondozo
+|-damage|p1a: Dondozo|88/100 slp
+|
+|upkeep
+|turn|38
+|
+|t:|1780956695
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Dondozo
+|-resisted|p1a: Dondozo
+|-damage|p1a: Dondozo|76/100 slp
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Liquidation|p2a: Ogerpon|[from] move: Sleep Talk
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|47/100
+|-unboost|p2a: Ogerpon|def|1
+|-boost|p2a: Ogerpon|atk|0
+|
+|upkeep
+|turn|39
+|
+|t:|1780956701
+|move|p2a: Ogerpon|U-turn|p1a: Dondozo
+|-damage|p1a: Dondozo|62/100 slp
+|
+|t:|1780956703
+|switch|p2a: Garchomp|Garchomp, M|80/100|[from] U-turn
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Curse|p1a: Dondozo|[from] move: Sleep Talk
+|-unboost|p1a: Dondozo|spe|1
+|-boost|p1a: Dondozo|atk|1
+|-boost|p1a: Dondozo|def|1
+|
+|upkeep
+|turn|40
+|
+|t:|1780956706
+|move|p2a: Garchomp|Stealth Rock|p1a: Dondozo
+|-sidestart|p1: minhoto|move: Stealth Rock
+|-curestatus|p1a: Dondozo|slp|[msg]
+|move|p1a: Dondozo|Liquidation|p2a: Garchomp
+|-damage|p2a: Garchomp|52/100
+|-damage|p1a: Dondozo|50/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|
+|upkeep
+|turn|41
+|
+|t:|1780956712
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Dondozo|Rest|p1a: Dondozo
+|-status|p1a: Dondozo|slp|[from] move: Rest
+|-heal|p1a: Dondozo|100/100 slp|[silent]
+|
+|upkeep
+|turn|42
+|
+|t:|1780956716
+|move|p2a: Alomomola|Flip Turn|p1a: Dondozo
+|-resisted|p1a: Dondozo
+|-damage|p1a: Dondozo|97/100 slp
+|
+|t:|1780956719
+|switch|p2a: Weezing|Weezing-Galar, F|100/100|[from] Flip Turn
+|-ability|p2a: Weezing|Neutralizing Gas
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Rest||[from] move: Sleep Talk|[still]
+|-fail|p1a: Dondozo
+|
+|upkeep
+|turn|43
+|
+|t:|1780956722
+|move|p2a: Weezing|Pain Split|p1a: Dondozo
+|-sethp|p1a: Dondozo|83/100 slp|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|100/100|[from] move: Pain Split
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Liquidation|p2a: Weezing|[from] move: Sleep Talk
+|-damage|p2a: Weezing|74/100
+|
+|-heal|p2a: Weezing|80/100|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1780956728
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|-curestatus|p1a: Dondozo|slp|[msg]
+|move|p1a: Dondozo|Liquidation|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|82/100
+|
+|upkeep
+|turn|45
+|
+|t:|1780956732
+|move|p2a: Alomomola|Flip Turn|p1a: Dondozo
+|-resisted|p1a: Dondozo
+|-damage|p1a: Dondozo|80/100
+|
+|t:|1780956733
+|switch|p2a: Weezing|Weezing-Galar, F|80/100|[from] Flip Turn
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Dondozo|Curse|p1a: Dondozo
+|-unboost|p1a: Dondozo|spe|1
+|-boost|p1a: Dondozo|atk|1
+|-boost|p1a: Dondozo|def|1
+|
+|-heal|p2a: Weezing|86/100|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1780956737
+|move|p2a: Weezing|Sludge Bomb|p1a: Dondozo
+|-damage|p1a: Dondozo|62/100
+|move|p1a: Dondozo|Rest|p1a: Dondozo
+|-status|p1a: Dondozo|slp|[from] move: Rest
+|-heal|p1a: Dondozo|100/100 slp|[silent]
+|
+|-heal|p2a: Weezing|92/100|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1780956740
+|move|p2a: Weezing|Sludge Bomb|p1a: Dondozo
+|-damage|p1a: Dondozo|81/100 slp
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Curse|p1a: Dondozo|[from] move: Sleep Talk
+|-unboost|p1a: Dondozo|spe|1
+|-boost|p1a: Dondozo|atk|1
+|-boost|p1a: Dondozo|def|1
+|
+|-heal|p2a: Weezing|98/100|[from] item: Leftovers
+|upkeep
+|turn|48
+|
+|t:|1780956745
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Garchomp|Garchomp, M|52/100
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Rest||[from] move: Sleep Talk|[still]
+|-fail|p1a: Dondozo
+|
+|upkeep
+|turn|49
+|
+|t:|1780956748
+|-curestatus|p1a: Dondozo|slp|[msg]
+|move|p1a: Dondozo|Liquidation|p2a: Garchomp
+|-damage|p2a: Garchomp|1/100
+|-damage|p1a: Dondozo|69/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|move|p2a: Garchomp|Dragon Tail|p1a: Dondozo
+|-supereffective|p1a: Dondozo
+|-damage|p1a: Dondozo|58/100
+|drag|p1a: Corviknight|Corviknight, F|24/100
+|-damage|p1a: Corviknight|12/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|
+|upkeep
+|turn|50
+|
+|t:|1780956757
+|switch|p2a: Ogerpon|Ogerpon, F|47/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|62/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|51
+|
+|t:|1780956761
+|switch|p1a: Dondozo|Dondozo, M, tera:Dragon|58/100
+|-damage|p1a: Dondozo|45/100|[from] Stealth Rock
+|move|p2a: Ogerpon|Encore||[still]
+|-fail|p2a: Ogerpon
+|
+|upkeep
+|turn|52
+|
+|t:|1780956763
+|move|p2a: Ogerpon|U-turn|p1a: Dondozo
+|-damage|p1a: Dondozo|33/100
+|
+|t:|1780956768
+|switch|p2a: Darkrai|Darkrai|88/100 tox|[from] U-turn
+|move|p1a: Dondozo|Rest|p1a: Dondozo
+|-status|p1a: Dondozo|slp|[from] move: Rest
+|-heal|p1a: Dondozo|100/100 slp|[silent]
+|
+|-heal|p2a: Darkrai|94/100 tox|[from] item: Leftovers
+|-damage|p2a: Darkrai|88/100 tox|[from] psn
+|-damage|p1a: Dondozo|88/100 slp|[from] ability: Bad Dreams|[of] p2a: Darkrai
+|upkeep
+|turn|53
+|
+|t:|1780956778
+|switch|p1a: Blissey|Blissey, F|70/100
+|-damage|p1a: Blissey|57/100|[from] Stealth Rock
+|move|p2a: Darkrai|Dark Pulse|p1a: Blissey
+|-damage|p1a: Blissey|44/100
+|
+|-heal|p2a: Darkrai|94/100 tox|[from] item: Leftovers
+|-damage|p2a: Darkrai|82/100 tox|[from] psn
+|upkeep
+|turn|54
+|
+|t:|1780956786
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|94/100
+|
+|upkeep
+|turn|55
+|
+|t:|1780956793
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|-damage|p1a: Slowking|88/100|[from] Stealth Rock
+|move|p2a: Alomomola|Flip Turn|p1a: Slowking
+|-damage|p1a: Slowking|74/100
+|
+|t:|1780956796
+|switch|p2a: Garchomp|Garchomp, M|1/100|[from] Flip Turn
+|
+|upkeep
+|turn|56
+|
+|t:|1780956801
+|switch|p1a: Corviknight|Corviknight, F|62/100
+|-damage|p1a: Corviknight|49/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Garchomp|Spikes|p1a: Corviknight
+|-sidestart|p1: minhoto|Spikes
+|
+|upkeep
+|turn|57
+|
+|t:|1780956803
+|switch|p2a: Ogerpon|Ogerpon, F|47/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|99/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|58
+|
+|t:|1780956808
+|move|p2a: Ogerpon|Encore|p1a: Corviknight
+|-start|p1a: Corviknight|Encore
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|59
+|
+|t:|1780956815
+|switch|p1a: Cinderace|Cinderace, M|84/100
+|move|p2a: Ogerpon|Knock Off|p1a: Cinderace
+|-damage|p1a: Cinderace|39/100
+|-enditem|p1a: Cinderace|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ogerpon
+|
+|upkeep
+|turn|60
+|
+|t:|1780956825
+|-terastallize|p2a: Ogerpon|Grass
+|detailschange|p2a: Ogerpon|Ogerpon-Teal-Tera, F, tera:Grass
+|-ability|p2a: Ogerpon|Embody Aspect (Teal)|boost
+|-boost|p2a: Ogerpon|spe|1
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Cinderace
+|-resisted|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|upkeep
+|
+|t:|1780956829
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|turn|61
+|
+|t:|1780956831
+|move|p2a: Ogerpon|Knock Off|p1a: Corviknight
+|-damage|p1a: Corviknight|72/100
+|move|p1a: Corviknight|Brave Bird|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|detailschange|p2: Ogerpon|Ogerpon, F|[silent]
+|-damage|p1a: Corviknight|60/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1780956834
+|switch|p2a: Darkrai|Darkrai|82/100 tox
+|turn|62
+|
+|t:|1780956837
+|move|p2a: Darkrai|Dark Pulse|p1a: Corviknight
+|-damage|p1a: Corviknight|25/100
+|move|p1a: Corviknight|Defog|p2a: Darkrai
+|-unboost|p2a: Darkrai|evasion|1
+|-sideend|p1: minhoto|Spikes|[from] move: Defog|[of] p1a: Corviknight
+|-sideend|p1: minhoto|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|-heal|p2a: Darkrai|88/100 tox|[from] item: Leftovers
+|-damage|p2a: Darkrai|82/100 tox|[from] psn
+|upkeep
+|turn|63
+|
+|t:|1780956843
+|switch|p1a: Blissey|Blissey, F|94/100
+|move|p2a: Darkrai|Dark Pulse|p1a: Blissey
+|-damage|p1a: Blissey|79/100
+|
+|-heal|p2a: Darkrai|88/100 tox|[from] item: Leftovers
+|-damage|p2a: Darkrai|76/100 tox|[from] psn
+|upkeep
+|turn|64
+|
+|t:|1780956845
+|switch|p2a: Garchomp|Garchomp, M|1/100
+|move|p1a: Blissey|Stealth Rock|p2a: Garchomp
+|-sidestart|p2: msean3|move: Stealth Rock
+|
+|upkeep
+|turn|65
+|
+|t:|1780956848
+|switch|p1a: Corviknight|Corviknight, F|25/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Garchomp|Stealth Rock|p1a: Corviknight
+|-sidestart|p1: minhoto|move: Stealth Rock
+|
+|upkeep
+|turn|66
+|
+|t:|1780956852
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|-damage|p2a: Alomomola|88/100|[from] Stealth Rock
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|75/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|67
+|
+|t:|1780956855
+|move|p1a: Corviknight|Defog|p2a: Alomomola
+|-unboost|p2a: Alomomola|evasion|1
+|-sideend|p2: msean3|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|-sideend|p1: minhoto|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|move|p2a: Alomomola|Flip Turn|p1a: Corviknight
+|-damage|p1a: Corviknight|63/100
+|
+|t:|1780956859
+|switch|p2a: Garchomp|Garchomp, M|1/100|[from] Flip Turn
+|
+|upkeep
+|turn|68
+|
+|t:|1780956863
+|move|p2a: Garchomp|Stealth Rock|p1a: Corviknight
+|-sidestart|p1: minhoto|move: Stealth Rock
+|move|p1a: Corviknight|Brave Bird|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Corviknight|50/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|-damage|p1a: Corviknight|50/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1780956870
+|switch|p2a: Darkrai|Darkrai|76/100 tox
+|turn|69
+|
+|t:|1780956873
+|switch|p1a: Blissey|Blissey, F|79/100
+|-damage|p1a: Blissey|66/100|[from] Stealth Rock
+|move|p2a: Darkrai|Dark Pulse|p1a: Blissey
+|-damage|p1a: Blissey|52/100
+|
+|-heal|p2a: Darkrai|82/100 tox|[from] item: Leftovers
+|-damage|p2a: Darkrai|76/100 tox|[from] psn
+|upkeep
+|turn|70
+|
+|t:|1780956879
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|
+|upkeep
+|turn|71
+|
+|t:|1780956884
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|-damage|p1a: Slowking|88/100|[from] Stealth Rock
+|move|p2a: Alomomola|Flip Turn|p1a: Slowking
+|-damage|p1a: Slowking|73/100
+|
+|t:|1780956890
+|switch|p2a: Darkrai|Darkrai|76/100 tox|[from] Flip Turn
+|
+|-heal|p2a: Darkrai|82/100 tox|[from] item: Leftovers
+|-damage|p2a: Darkrai|76/100 tox|[from] psn
+|upkeep
+|turn|72
+|
+|t:|1780956891
+|switch|p1a: Toxapex|Toxapex, F|70/100
+|-damage|p1a: Toxapex|57/100|[from] Stealth Rock
+|move|p2a: Darkrai|Dark Pulse|p1a: Toxapex
+|-damage|p1a: Toxapex|21/100
+|
+|-heal|p2a: Darkrai|82/100 tox|[from] item: Leftovers
+|-damage|p2a: Darkrai|70/100 tox|[from] psn
+|upkeep
+|turn|73
+|
+|t:|1780956894
+|switch|p1a: Blissey|Blissey, F|100/100
+|-damage|p1a: Blissey|88/100|[from] Stealth Rock
+|move|p2a: Darkrai|Dark Pulse|p1a: Blissey
+|-damage|p1a: Blissey|72/100
+|
+|-heal|p2a: Darkrai|76/100 tox|[from] item: Leftovers
+|-damage|p2a: Darkrai|58/100 tox|[from] psn
+|upkeep
+|turn|74
+|
+|t:|1780956898
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Blissey|Fire Blast|p2a: Alomomola|[miss]
+|-miss|p1a: Blissey|p2a: Alomomola
+|
+|upkeep
+|turn|75
+|
+|t:|1780956901
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|-damage|p1a: Slowking|88/100|[from] Stealth Rock
+|move|p2a: Alomomola|Play Rough|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|81/100
+|
+|upkeep
+|turn|76
+|
+|t:|1780956907
+|move|p2a: Alomomola|Flip Turn|p1a: Slowking
+|-damage|p1a: Slowking|68/100
+|
+|t:|1780956909
+|switch|p2a: Weezing|Weezing-Galar, F|98/100|[from] Flip Turn
+|-ability|p2a: Weezing|Neutralizing Gas
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1780956912
+|switch|p1a: Corviknight|Corviknight, F|50/100|[from] Chilly Reception
+|-damage|p1a: Corviknight|38/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Weezing|100/100|[from] item: Leftovers
+|upkeep
+|turn|77
+|
+|t:|1780956914
+|move|p2a: Weezing|Will-O-Wisp|p1a: Corviknight
+|-status|p1a: Corviknight|brn
+|move|p1a: Corviknight|Defog|p2a: Weezing
+|-unboost|p2a: Weezing|evasion|1
+|-sideend|p1: minhoto|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Corviknight|31/100 brn|[from] brn
+|upkeep
+|turn|78
+|
+|t:|1780956922
+|move|p2a: Weezing|Will-O-Wisp|p1a: Corviknight
+|-fail|p1a: Corviknight|brn
+|move|p1a: Corviknight|U-turn|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|99/100
+|
+|t:|1780956925
+|switch|p1a: Slowking|Slowking-Galar, M|68/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Weezing|100/100|[from] item: Leftovers
+|upkeep
+|turn|79
+|
+|t:|1780956931
+|move|p2a: Weezing|Will-O-Wisp|p1a: Slowking
+|-status|p1a: Slowking|brn
+|move|p1a: Slowking|Future Sight|p2a: Weezing
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Slowking|62/100 brn|[from] brn
+|upkeep
+|turn|80
+|
+|t:|1780956936
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Corviknight|Corviknight, F|59/100
+|-ability|p2a: Corviknight|Pressure
+|switch|p1a: Blissey|Blissey, F|72/100
+|
+|-weather|none
+|-damage|p2a: Corviknight|46/100|[from] item: Black Sludge
+|upkeep
+|turn|81
+|
+|t:|1780956940
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|96/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Blissey|Fire Blast|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|54/100
+|
+|-end|p2a: Corviknight|move: Future Sight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|38/100
+|-damage|p2a: Corviknight|26/100|[from] item: Black Sludge
+|upkeep
+|turn|82
+|
+|t:|1780956948
+|move|p2a: Corviknight|U-turn|p1a: Blissey
+|-damage|p1a: Blissey|43/100
+|-damage|p2a: Corviknight|9/100|[from] item: Rocky Helmet|[of] p1a: Blissey
+|
+|t:|1780956950
+|switch|p2a: Alomomola|Alomomola, M|100/100|[from] U-turn
+|move|p1a: Blissey|Fire Blast|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|94/100
+|
+|upkeep
+|turn|83
+|
+|t:|1780956954
+|move|p1a: Blissey|Stealth Rock|p2a: Alomomola
+|-sidestart|p2: msean3|move: Stealth Rock
+|move|p2a: Alomomola|Flip Turn|p1a: Blissey
+|-damage|p1a: Blissey|8/100
+|-damage|p2a: Alomomola|77/100|[from] item: Rocky Helmet|[of] p1a: Blissey
+|
+|t:|1780956957
+|switch|p2a: Corviknight|Corviknight, F|9/100|[from] Flip Turn
+|-damage|p2a: Corviknight|0 fnt|[from] Stealth Rock
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1780956961
+|switch|p2a: Darkrai|Darkrai|58/100 tox
+|-damage|p2a: Darkrai|46/100 tox|[from] Stealth Rock
+|turn|84
+|
+|t:|1780956967
+|switch|p1a: Corviknight|Corviknight, F|31/100 brn
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Darkrai|Dark Pulse|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|-heal|p2a: Darkrai|52/100 tox|[from] item: Leftovers
+|-damage|p2a: Darkrai|46/100 tox|[from] psn
+|upkeep
+|
+|t:|1780956974
+|switch|p1a: Toxapex|Toxapex, F|54/100
+|turn|85
+|
+|t:|1780956977
+|switch|p1a: Blissey|Blissey, F|8/100
+|move|p2a: Darkrai|Dark Pulse|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|-heal|p2a: Darkrai|52/100 tox|[from] item: Leftovers
+|-damage|p2a: Darkrai|40/100 tox|[from] psn
+|upkeep
+|
+|t:|1780956982
+|switch|p1a: Toxapex|Toxapex, F|87/100
+|turn|86
+|
+|t:|1780956985
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|-damage|p2a: Weezing|88/100|[from] Stealth Rock
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|-heal|p2a: Weezing|94/100|[from] item: Leftovers
+|upkeep
+|turn|87
+|
+|t:|1780956988
+|switch|p1a: Slowking|Slowking-Galar, M|95/100 brn
+|move|p2a: Weezing|Defog|p1a: Slowking
+|-unboost|p1a: Slowking|evasion|1
+|-sideend|p2: msean3|Stealth Rock|[from] move: Defog|[of] p2a: Weezing
+|
+|-heal|p2a: Weezing|99/100|[from] item: Leftovers
+|-damage|p1a: Slowking|89/100 brn|[from] brn
+|upkeep
+|turn|88
+|
+|t:|1780956993
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Slowking|Trick|p2a: Alomomola
+|-activate|p1a: Slowking|move: Trick|[of] p2a: Alomomola
+|-item|p2a: Alomomola|Choice Specs|[from] move: Trick
+|-item|p1a: Slowking|Assault Vest|[from] move: Trick
+|
+|-damage|p1a: Slowking|83/100 brn|[from] brn
+|upkeep
+|turn|89
+|
+|t:|1780957002
+|move|p2a: Alomomola|Flip Turn|p1a: Slowking
+|-damage|p1a: Slowking|68/100 brn
+|
+|t:|1780957004
+|switch|p2a: Weezing|Weezing-Galar, F|99/100|[from] Flip Turn
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Slowking|Future Sight|p2a: Weezing
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p2a: Weezing|100/100|[from] item: Leftovers
+|-damage|p1a: Slowking|62/100 brn|[from] brn
+|upkeep
+|turn|90
+|
+|t:|1780957011
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Weezing|Sludge Bomb|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|90/100
+|
+|upkeep
+|turn|91
+|
+|t:|1780957014
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|switch|p1a: Slowking|Slowking-Galar, M|62/100 brn
+|
+|-end|p2a: Alomomola|move: Future Sight
+|-damage|p2a: Alomomola|65/100
+|-damage|p1a: Slowking|56/100 brn|[from] brn
+|upkeep
+|turn|92
+|
+|t:|1780957019
+|move|p2a: Alomomola|Flip Turn|p1a: Slowking
+|-damage|p1a: Slowking|42/100 brn
+|
+|t:|1780957022
+|switch|p2a: Darkrai|Darkrai|40/100 tox|[from] Flip Turn
+|move|p1a: Slowking|Future Sight|p2a: Darkrai
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p2a: Darkrai|46/100 tox|[from] item: Leftovers
+|-damage|p2a: Darkrai|40/100 tox|[from] psn
+|-damage|p1a: Slowking|36/100 brn|[from] brn
+|upkeep
+|turn|93
+|
+|t:|1780957025
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Darkrai|Dark Pulse|p1a: Toxapex
+|-damage|p1a: Toxapex|65/100
+|
+|-heal|p2a: Darkrai|46/100 tox|[from] item: Leftovers
+|-damage|p2a: Darkrai|34/100 tox|[from] psn
+|upkeep
+|turn|94
+|
+|t:|1780957028
+|move|p2a: Darkrai|Dark Pulse|p1a: Toxapex
+|-damage|p1a: Toxapex|26/100
+|cant|p1a: Toxapex|flinch
+|
+|-end|p2a: Darkrai|move: Future Sight
+|-immune|p2a: Darkrai
+|-heal|p2a: Darkrai|40/100 tox|[from] item: Leftovers
+|-damage|p2a: Darkrai|22/100 tox|[from] psn
+|upkeep
+|turn|95
+|
+|t:|1780957031
+|switch|p1a: Slowking|Slowking-Galar, M|69/100 brn
+|move|p2a: Darkrai|Dark Pulse|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|27/100 brn
+|
+|-heal|p2a: Darkrai|28/100 tox|[from] item: Leftovers
+|-damage|p2a: Darkrai|4/100 tox|[from] psn
+|-damage|p1a: Slowking|21/100 brn|[from] brn
+|upkeep
+|turn|96
+|
+|t:|1780957037
+|switch|p1a: Toxapex|Toxapex, F|59/100
+|move|p2a: Darkrai|Dark Pulse|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|5/100
+|
+|-heal|p2a: Darkrai|10/100 tox|[from] item: Leftovers
+|-damage|p2a: Darkrai|0 fnt|[from] psn
+|faint|p2a: Darkrai
+|upkeep
+|
+|t:|1780957042
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|turn|97
+|
+|t:|1780957045
+|switch|p1a: Slowking|Slowking-Galar, M|54/100 brn
+|move|p2a: Weezing|Sludge Bomb|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|47/100 brn
+|
+|-damage|p1a: Slowking|41/100 brn|[from] brn
+|upkeep
+|turn|98
+|
+|t:|1780957051
+|switch|p1a: Dondozo|Dondozo, M, tera:Dragon|88/100 slp
+|move|p2a: Weezing|Sludge Bomb|p1a: Dondozo
+|-damage|p1a: Dondozo|68/100 slp
+|
+|upkeep
+|turn|99
+|
+|t:|1780957053
+|move|p2a: Weezing|Sludge Bomb|p1a: Dondozo
+|-damage|p1a: Dondozo|47/100 slp
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Rest||[from] move: Sleep Talk|[still]
+|-fail|p1a: Dondozo
+|
+|upkeep
+|turn|100
+|
+|t:|1780957058
+|move|p2a: Weezing|Sludge Bomb|p1a: Dondozo
+|-damage|p1a: Dondozo|27/100 slp
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Rest||[from] move: Sleep Talk|[still]
+|-fail|p1a: Dondozo
+|
+|upkeep
+|turn|101
+|
+|t:|1780957061
+|move|p2a: Weezing|Sludge Bomb|p1a: Dondozo
+|-damage|p1a: Dondozo|6/100 slp
+|-curestatus|p1a: Dondozo|slp|[msg]
+|move|p1a: Dondozo|Rest|p1a: Dondozo
+|-status|p1a: Dondozo|slp|[from] move: Rest
+|-heal|p1a: Dondozo|100/100 slp|[silent]
+|
+|upkeep
+|turn|102
+|
+|t:|1780957067
+|move|p2a: Weezing|Pain Split|p1a: Dondozo
+|-sethp|p1a: Dondozo|85/100 slp|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|100/100|[from] move: Pain Split
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Liquidation|p2a: Weezing|[from] move: Sleep Talk
+|-damage|p2a: Weezing|82/100
+|-unboost|p2a: Weezing|def|1
+|
+|-heal|p2a: Weezing|88/100|[from] item: Leftovers
+|upkeep
+|turn|103
+|
+|t:|1780957069
+|move|p2a: Weezing|Pain Split|p1a: Dondozo
+|-sethp|p1a: Dondozo|73/100 slp|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|100/100|[from] move: Pain Split
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Rest||[from] move: Sleep Talk|[still]
+|-fail|p1a: Dondozo
+|
+|upkeep
+|turn|104
+|
+|t:|1780957072
+|move|p2a: Weezing|Pain Split|p1a: Dondozo
+|-sethp|p1a: Dondozo|71/100 slp|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|100/100|[from] move: Pain Split
+|-curestatus|p1a: Dondozo|slp|[msg]
+|move|p1a: Dondozo|Curse|p1a: Dondozo
+|-unboost|p1a: Dondozo|spe|1
+|-boost|p1a: Dondozo|atk|1
+|-boost|p1a: Dondozo|def|1
+|
+|upkeep
+|turn|105
+|
+|t:|1780957075
+|move|p2a: Weezing|Sludge Bomb|p1a: Dondozo
+|-damage|p1a: Dondozo|50/100
+|move|p1a: Dondozo|Curse|p1a: Dondozo
+|-unboost|p1a: Dondozo|spe|1
+|-boost|p1a: Dondozo|atk|1
+|-boost|p1a: Dondozo|def|1
+|
+|upkeep
+|turn|106
+|
+|t:|1780957079
+|move|p2a: Weezing|Sludge Bomb|p1a: Dondozo
+|-damage|p1a: Dondozo|30/100
+|-status|p1a: Dondozo|psn
+|move|p1a: Dondozo|Rest|p1a: Dondozo
+|-status|p1a: Dondozo|slp|[from] move: Rest
+|-heal|p1a: Dondozo|100/100 slp|[silent]
+|
+|upkeep
+|turn|107
+|
+|t:|1780957084
+|move|p2a: Weezing|Defog|p1a: Dondozo
+|-unboost|p1a: Dondozo|evasion|1
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Rest||[from] move: Sleep Talk|[still]
+|-fail|p1a: Dondozo
+|
+|upkeep
+|turn|108
+|
+|t:|1780957088
+|move|p2a: Weezing|Defog|p1a: Dondozo
+|-unboost|p1a: Dondozo|evasion|1
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Rest||[from] move: Sleep Talk|[still]
+|-fail|p1a: Dondozo
+|
+|upkeep
+|turn|109
+|
+|t:|1780957093
+|switch|p1a: Toxapex|Toxapex, F|5/100
+|move|p2a: Weezing|Defog|p1a: Toxapex
+|-unboost|p1a: Toxapex|evasion|1
+|
+|upkeep
+|turn|110
+|
+|t:|1780957096
+|switch|p1a: Dondozo|Dondozo, M, tera:Dragon|100/100 slp
+|move|p2a: Weezing|Sludge Bomb|p1a: Dondozo
+|-damage|p1a: Dondozo|81/100 slp
+|
+|upkeep
+|turn|111
+|
+|t:|1780957102
+|move|p2a: Weezing|Defog|p1a: Dondozo
+|-unboost|p1a: Dondozo|evasion|1
+|-curestatus|p1a: Dondozo|slp|[msg]
+|move|p1a: Dondozo|Rest|p1a: Dondozo
+|-status|p1a: Dondozo|slp|[from] move: Rest
+|-heal|p1a: Dondozo|100/100 slp|[silent]
+|
+|upkeep
+|turn|112
+|
+|t:|1780957106
+|move|p2a: Weezing|Defog|p1a: Dondozo
+|-unboost|p1a: Dondozo|evasion|1
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Liquidation|p2a: Weezing|[from] move: Sleep Talk
+|-damage|p2a: Weezing|73/100
+|
+|-heal|p2a: Weezing|79/100|[from] item: Leftovers
+|upkeep
+|turn|113
+|
+|t:|1780957109
+|move|p2a: Weezing|Defog|p1a: Dondozo
+|-unboost|p1a: Dondozo|evasion|1
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Liquidation|p2a: Weezing|[from] move: Sleep Talk
+|-damage|p2a: Weezing|50/100
+|
+|-heal|p2a: Weezing|56/100|[from] item: Leftovers
+|upkeep
+|turn|114
+|
+|t:|1780957112
+|move|p2a: Weezing|Pain Split|p1a: Dondozo
+|-sethp|p1a: Dondozo|69/100 slp|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|100/100|[from] move: Pain Split
+|-curestatus|p1a: Dondozo|slp|[msg]
+|move|p1a: Dondozo|Curse|p1a: Dondozo
+|-unboost|p1a: Dondozo|spe|1
+|-boost|p1a: Dondozo|atk|1
+|-boost|p1a: Dondozo|def|1
+|
+|upkeep
+|turn|115
+|
+|t:|1780957115
+|move|p2a: Weezing|Will-O-Wisp|p1a: Dondozo
+|-status|p1a: Dondozo|brn
+|move|p1a: Dondozo|Curse|p1a: Dondozo
+|-unboost|p1a: Dondozo|spe|1
+|-boost|p1a: Dondozo|atk|1
+|-boost|p1a: Dondozo|def|1
+|
+|-damage|p1a: Dondozo|63/100 brn|[from] brn
+|upkeep
+|turn|116
+|
+|t:|1780957120
+|move|p2a: Weezing|Sludge Bomb|p1a: Dondozo
+|-damage|p1a: Dondozo|45/100 brn
+|move|p1a: Dondozo|Rest|p1a: Dondozo
+|-status|p1a: Dondozo|slp|[from] move: Rest
+|-heal|p1a: Dondozo|100/100 slp|[silent]
+|
+|upkeep
+|turn|117
+|
+|t:|1780957124
+|move|p2a: Weezing|Will-O-Wisp||[still]
+|-fail|p2a: Weezing
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Curse|p1a: Dondozo|[from] move: Sleep Talk
+|-unboost|p1a: Dondozo|spe|1
+|-boost|p1a: Dondozo|atk|1
+|-boost|p1a: Dondozo|def|1
+|
+|upkeep
+|turn|118
+|
+|t:|1780957141
+|move|p2a: Weezing|Will-O-Wisp||[still]
+|-fail|p2a: Weezing
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Liquidation|p2a: Weezing|[from] move: Sleep Talk
+|-damage|p2a: Weezing|33/100
+|-unboost|p2a: Weezing|def|1
+|
+|-heal|p2a: Weezing|39/100|[from] item: Leftovers
+|upkeep
+|turn|119
+|
+|t:|1780957147
+|move|p2a: Weezing|Pain Split|p1a: Dondozo
+|-sethp|p1a: Dondozo|64/100 slp|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|92/100|[from] move: Pain Split
+|-curestatus|p1a: Dondozo|slp|[msg]
+|move|p1a: Dondozo|Liquidation|p2a: Weezing
+|-damage|p2a: Weezing|1/100
+|
+|-heal|p2a: Weezing|7/100|[from] item: Leftovers
+|upkeep
+|turn|120
+|
+|t:|1780957155
+|move|p2a: Weezing|Pain Split|p1a: Dondozo
+|-sethp|p1a: Dondozo|34/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|49/100|[from] move: Pain Split
+|move|p1a: Dondozo|Liquidation|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|
+|upkeep
+|-message|msean3 forfeited.
+|
+|win|minhoto
+|raw|minhoto's rating: 1563 &rarr; <strong>1587</strong><br />(+24 for winning)
+|raw|msean3's rating: 1632 &rarr; <strong>1608</strong><br />(-24 for losing)
+|l|☆msean3
+|player|p2|
+|l|☆minhoto
+|player|p1|

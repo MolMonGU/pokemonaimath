@@ -1,0 +1,309 @@
+|j|☆King.cah
+|j|☆Nat889
+|t:|1781115280
+|gametype|singles
+|player|p1|King.cah|dancer|1576
+|player|p2|Nat889|miku-ghost|1626
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Diancie|
+|poke|p1|Hatterene, F|
+|poke|p1|Iron Hands|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Dragonite, M|
+|poke|p2|Lokix, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Alomomola, L99, F|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Great Tusk|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by King.cah)
+|
+|t:|1781115294
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: MACHINE TORNADER|Gholdengo|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: MACHINE TORNADER|atk|1
+|turn|1
+|
+|t:|1781115310
+|switch|p2a: Overlord|Mandibuzz, F|100/100
+|move|p1a: Landorus|Earth Power|p2a: Overlord
+|-immune|p2a: Overlord
+|
+|upkeep
+|turn|2
+|
+|t:|1781115319
+|move|p1a: Landorus|Taunt|p2a: Overlord
+|-start|p2a: Overlord|move: Taunt
+|move|p2a: Overlord|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|95/100
+|-damage|p2a: Overlord|84/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|
+|t:|1781115333
+|switch|p2a: Tetsuya Sawaki|Alomomola, L99, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1781115339
+|move|p1a: Landorus|Stealth Rock|p2a: Tetsuya Sawaki
+|-sidestart|p2: Nat889|move: Stealth Rock
+|move|p2a: Tetsuya Sawaki|Flip Turn|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|64/100
+|-damage|p2a: Tetsuya Sawaki|84/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|
+|t:|1781115351
+|switch|p2a: G3-X|Iron Valiant, shiny|100/100|[from] Flip Turn
+|-damage|p2a: G3-X|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1781115359
+|move|p2a: G3-X|Moonblast|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1781115363
+|switch|p1a: Princess|Diancie, shiny|100/100
+|turn|5
+|
+|t:|1781115371
+|-end|p2a: G3-X|Quark Drive|[silent]
+|switch|p2a: Tetsuya Sawaki|Alomomola, L99, F|100/100
+|-damage|p2a: Tetsuya Sawaki|88/100|[from] Stealth Rock
+|move|p1a: Princess|Trick Room|p1a: Princess
+|-fieldstart|move: Trick Room|[of] p1a: Princess
+|
+|upkeep
+|turn|6
+|
+|t:|1781115383
+|move|p2a: Tetsuya Sawaki|Scald|p1a: Princess
+|-supereffective|p1a: Princess
+|-damage|p1a: Princess|81/100
+|move|p1a: Princess|Earth Power|p2a: Tetsuya Sawaki
+|-damage|p2a: Tetsuya Sawaki|72/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781115389
+|move|p2a: Tetsuya Sawaki|Scald|p1a: Princess
+|-supereffective|p1a: Princess
+|-damage|p1a: Princess|60/100
+|-status|p1a: Princess|brn
+|move|p1a: Princess|Meteor Beam||[still]
+|-prepare|p1a: Princess|Meteor Beam
+|-boost|p1a: Princess|spa|1
+|-enditem|p1a: Princess|Power Herb
+|-anim|p1a: Princess|Meteor Beam|p2a: Tetsuya Sawaki
+|-damage|p2a: Tetsuya Sawaki|25/100
+|
+|-damage|p1a: Princess|54/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1781115401
+|move|p2a: Tetsuya Sawaki|Flip Turn|p1a: Princess
+|-supereffective|p1a: Princess
+|-damage|p1a: Princess|28/100 brn
+|
+|t:|1781115411
+|switch|p2a: Overlord|Mandibuzz, F|84/100|[from] Flip Turn
+|move|p1a: Princess|Moonblast|p2a: Overlord
+|-supereffective|p2a: Overlord
+|-damage|p2a: Overlord|0 fnt
+|faint|p2a: Overlord
+|
+|-damage|p1a: Princess|22/100 brn|[from] brn
+|upkeep
+|
+|t:|1781115423
+|switch|p2a: Tetsuya Sawaki|Alomomola, L99, F|58/100
+|-damage|p2a: Tetsuya Sawaki|46/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1781115427
+|move|p2a: Tetsuya Sawaki|Flip Turn|p1a: Princess
+|-supereffective|p1a: Princess
+|-damage|p1a: Princess|0 fnt
+|faint|p1a: Princess
+|
+|t:|1781115449
+|switch|p2a: Gills Exceed|Great Tusk|100/100|[from] Flip Turn
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1781115462
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|-item|p1a: Hoopa|Air Balloon
+|turn|10
+|
+|t:|1781115471
+|-terastallize|p1a: Hoopa|Fairy
+|move|p2a: Gills Exceed|Rapid Spin|p1a: Hoopa
+|-damage|p1a: Hoopa|75/100
+|-boost|p2a: Gills Exceed|spe|1
+|-enditem|p1a: Hoopa|Air Balloon
+|-sideend|p2: Nat889|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Gills Exceed
+|move|p1a: Hoopa|Psychic|p2a: Gills Exceed
+|-supereffective|p2a: Gills Exceed
+|-damage|p2a: Gills Exceed|0 fnt
+|faint|p2a: Gills Exceed
+|-end|p2a: Gills Exceed|Protosynthesis|[silent]
+|-item|p1a: Hoopa|Heavy-Duty Boots|[from] ability: Magician|[of] p2: Gills Exceed
+|
+|upkeep
+|
+|t:|1781115483
+|switch|p2a: MACHINE TORNADER|Gholdengo|100/100
+|turn|11
+|
+|t:|1781115486
+|move|p2a: MACHINE TORNADER|Make It Rain|p1a: Hoopa
+|-supereffective|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|-unboost|p2a: MACHINE TORNADER|spa|1
+|faint|p1a: Hoopa
+|
+|upkeep
+|
+|t:|1781115494
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|12
+|
+|t:|1781115509
+|switch|p2a: G3-X|Iron Valiant, shiny|94/100
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781115531
+|-terastallize|p2a: G3-X|Fairy
+|move|p1a: Dragonite|Earthquake|p2a: G3-X
+|-damage|p2a: G3-X|19/100
+|move|p2a: G3-X|Moonblast|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1781115537
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|turn|14
+|
+|t:|1781115542
+|move|p2a: G3-X|Moonblast|p1a: Hatterene
+|-damage|p1a: Hatterene|4/100
+|-unboost|p1a: Hatterene|spa|1
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldstart|move: Trick Room|[of] p1a: Hatterene
+|
+|upkeep
+|turn|15
+|
+|t:|1781115551
+|-end|p2a: G3-X|Quark Drive|[silent]
+|switch|p2a: Tetsuya Sawaki|Alomomola, L99, F|79/100
+|move|p1a: Hatterene|Mystical Fire|p2a: Tetsuya Sawaki
+|-resisted|p2a: Tetsuya Sawaki
+|-damage|p2a: Tetsuya Sawaki|73/100
+|-unboost|p2a: Tetsuya Sawaki|spa|1
+|-damage|p1a: Hatterene|0 fnt|[from] item: Life Orb
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781115553
+|switch|p1a: Harichroma|Iron Hands, shiny|100/100
+|-enditem|p1a: Harichroma|Booster Energy
+|-activate|p1a: Harichroma|ability: Quark Drive|[fromitem]
+|-start|p1a: Harichroma|quarkdriveatk
+|turn|16
+|
+|t:|1781115564
+|move|p2a: Tetsuya Sawaki|Flip Turn|p1a: Harichroma
+|-damage|p1a: Harichroma|90/100
+|
+|t:|1781115567
+|switch|p2a: Shining Agito|Lokix, F, shiny|100/100|[from] Flip Turn
+|move|p1a: Harichroma|Supercell Slam|p2a: Shining Agito
+|-damage|p2a: Shining Agito|0 fnt
+|faint|p2a: Shining Agito
+|
+|upkeep
+|
+|t:|1781115576
+|switch|p2a: Tetsuya Sawaki|Alomomola, L99, F|100/100
+|turn|17
+|
+|t:|1781115579
+|move|p2a: Tetsuya Sawaki|Flip Turn|p1a: Harichroma
+|-damage|p1a: Harichroma|79/100
+|
+|t:|1781115583
+|switch|p2a: MACHINE TORNADER|Gholdengo|100/100|[from] Flip Turn
+|move|p1a: Harichroma|Supercell Slam|p2a: MACHINE TORNADER
+|-damage|p2a: MACHINE TORNADER|8/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781115591
+|switch|p2a: Tetsuya Sawaki|Alomomola, L99, F|100/100
+|move|p1a: Harichroma|Ice Punch|p2a: Tetsuya Sawaki
+|-resisted|p2a: Tetsuya Sawaki
+|-damage|p2a: Tetsuya Sawaki|88/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|19
+|
+|t:|1781115599
+|move|p1a: Harichroma|Swords Dance|p1a: Harichroma
+|-boost|p1a: Harichroma|atk|2
+|move|p2a: Tetsuya Sawaki|Flip Turn|p1a: Harichroma
+|-damage|p1a: Harichroma|70/100
+|
+|t:|1781115608
+|switch|p2a: G3-X|Iron Valiant, shiny, tera:Fairy|19/100|[from] Flip Turn
+|
+|upkeep
+|turn|20
+|-message|King.cah forfeited.
+|
+|win|Nat889
+|raw|King.cah's rating: 1576 &rarr; <strong>1559</strong><br />(-17 for losing)
+|raw|Nat889's rating: 1626 &rarr; <strong>1643</strong><br />(+17 for winning)
+|l|☆King.cah
+|player|p1|
+|c|☆Nat889|gg
+|l|☆Nat889
+|player|p2|

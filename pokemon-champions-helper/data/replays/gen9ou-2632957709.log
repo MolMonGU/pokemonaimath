@@ -1,0 +1,311 @@
+|j|☆LowEL0God
+|j|☆lolcano46
+|t:|1781584171
+|gametype|singles
+|player|p1|LowEL0God|265|1532
+|player|p2|lolcano46|fisherman-gen4|1544
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, F|
+|poke|p2|Azelf|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Scizor, F|
+|poke|p2|Gengar, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Cinderace, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lolcano46)
+|c|☆LowEL0God|hf
+|inactive|LowEL0God also wants the timer to be on.
+|
+|t:|1781584185
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|switch|p2a: Azelf|Azelf|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|1
+|
+|t:|1781584190
+|-terastallize|p2a: Azelf|Fairy
+|move|p2a: Azelf|Dazzling Gleam|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|8/100
+|move|p1a: Raging Bolt|Thunder|p2a: Azelf
+|-damage|p2a: Azelf|0 fnt
+|faint|p2a: Azelf
+|
+|upkeep
+|
+|t:|1781584192
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|2
+|
+|t:|1781584195
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2a: Cinderace|Will-O-Wisp|p1a: Raging Bolt|[miss]
+|-miss|p2a: Cinderace|p1a: Raging Bolt
+|
+|upkeep
+|turn|3
+|
+|t:|1781584198
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2a: Cinderace|Will-O-Wisp|p1a: Raging Bolt
+|-status|p1a: Raging Bolt|brn
+|
+|-damage|p1a: Raging Bolt|2/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1781584201
+|move|p2a: Cinderace|Sucker Punch|p1a: Raging Bolt
+|-start|p2a: Cinderace|typechange|Dark|[from] ability: Libero
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781584202
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|turn|5
+|
+|t:|1781584206
+|move|p2a: Cinderace|Sucker Punch|p1a: Barraskewda
+|-damage|p1a: Barraskewda|31/100
+|move|p1a: Barraskewda|Close Combat|p2a: Cinderace
+|-supereffective|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|faint|p2a: Cinderace
+|
+|upkeep
+|
+|t:|1781584208
+|switch|p2a: Scizor|Scizor, F|100/100
+|turn|6
+|
+|t:|1781584212
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|move|p2a: Scizor|Knock Off|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|87/100
+|-enditem|p1a: Kingambit|Leftovers|[from] move: Knock Off|[of] p2a: Scizor
+|
+|upkeep
+|turn|7
+|
+|t:|1781584214
+|move|p2a: Scizor|Close Combat|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|-unboost|p2a: Scizor|def|1
+|-unboost|p2a: Scizor|spd|1
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen1|[silent]
+|
+|upkeep
+|
+|t:|1781584216
+|switch|p1a: Overqwil|Overqwil, M|100/100
+|turn|8
+|
+|t:|1781584219
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Overqwil|Swords Dance|p1a: Overqwil
+|-boost|p1a: Overqwil|atk|2
+|
+|upkeep
+|turn|9
+|
+|t:|1781584221
+|move|p1a: Overqwil|Swords Dance|p1a: Overqwil
+|-boost|p1a: Overqwil|atk|2
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Overqwil
+|-damage|p1a: Overqwil|8/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781584224
+|move|p2a: Raging Bolt|Thunderclap|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|faint|p1a: Overqwil
+|
+|upkeep
+|
+|t:|1781584225
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|11
+|
+|t:|1781584228
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Iron Treads|Earth Power|p2a: Ogerpon
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|80/100
+|-unboost|p2a: Ogerpon|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1781584229
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Pelipper|[anim] Ivy Cudgel Water
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|69/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781584232
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|move|p1a: Pelipper|Hurricane|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|83/100
+|-start|p2a: Raging Bolt|confusion
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781584235
+|-activate|p2a: Raging Bolt|confusion
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Pelipper
+|-damage|p1a: Pelipper|3/100
+|move|p1a: Pelipper|Roost|p1a: Pelipper
+|-heal|p1a: Pelipper|53/100
+|-singleturn|p1a: Pelipper|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781584238
+|-activate|p2a: Raging Bolt|confusion
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781584239
+|switch|p1a: Barraskewda|Barraskewda, M|31/100
+|turn|16
+|
+|t:|1781584241
+|move|p1a: Barraskewda|Close Combat|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|24/100
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|-activate|p2a: Raging Bolt|confusion
+|-damage|p2a: Raging Bolt|18/100|[from] confusion
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781584245
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-end|p2a: Raging Bolt|confusion
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781584247
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Barraskewda|Barraskewda, M|31/100
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|80/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781584251
+|switch|p2a: Raging Bolt|Raging Bolt|18/100
+|move|p1a: Barraskewda|Close Combat|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781584253
+|switch|p2a: Gengar|Gengar, M|100/100
+|turn|20
+|
+|t:|1781584254
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Gengar|Shadow Ball|p1a: Iron Treads
+|-damage|p1a: Iron Treads|39/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781584257
+|move|p2a: Gengar|Shadow Ball|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781584258
+|switch|p1a: Barraskewda|Barraskewda, M|31/100
+|turn|22
+|
+|t:|1781584259
+|-terastallize|p1a: Barraskewda|Water
+|move|p2a: Gengar|Shadow Ball|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|win|lolcano46
+|raw|LowEL0God's rating: 1532 &rarr; <strong>1513</strong><br />(-19 for losing)
+|raw|lolcano46's rating: 1544 &rarr; <strong>1563</strong><br />(+19 for winning)
+|l|☆lolcano46
+|player|p2|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p1|

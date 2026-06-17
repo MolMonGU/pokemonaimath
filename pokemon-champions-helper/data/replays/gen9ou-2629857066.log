@@ -1,0 +1,317 @@
+|j|☆ChessDennis
+|j|☆LOUSINETCOKI
+|t:|1781187282
+|gametype|singles
+|player|p1|ChessDennis|265|1528
+|player|p2|LOUSINETCOKI|2|1547
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ursaluna, M|
+|poke|p1|Bronzong|
+|poke|p1|Garchomp, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Alomomola, M|
+|poke|p1|Torkoal, F|
+|poke|p2|Torkoal, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Walking Wake|
+|poke|p2|Great Tusk|
+|poke|p2|Ceruledge, M|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LOUSINETCOKI)
+|
+|t:|1781187300
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|switch|p2a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|1
+|
+|t:|1781187308
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781187316
+|move|p1a: Garchomp|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781187320
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|turn|3
+|
+|t:|1781187327
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|-terastallize|p2a: Walking Wake|Water
+|move|p2a: Walking Wake|Hydro Steam|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|34/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781187336
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Walking Wake|Hydro Steam|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|46/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781187345
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781187360
+|move|p2a: Great Tusk|Ice Spinner|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781187365
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|turn|7
+|
+|t:|1781187373
+|move|p2a: Great Tusk|Ice Spinner|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Great Tusk|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Great Tusk|71/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781187377
+|switch|p1a: Bronzong|Bronzong|100/100
+|turn|8
+|
+|t:|1781187406
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Walking Wake|Walking Wake, tera:Water|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|move|p1a: Bronzong|Stealth Rock|p2a: Walking Wake
+|-sidestart|p2: LOUSINETCOKI|move: Stealth Rock
+|
+|-weather|none
+|-end|p2a: Walking Wake|Protosynthesis
+|upkeep
+|turn|9
+|
+|t:|1781187416
+|move|p2a: Walking Wake|Flip Turn|p1a: Bronzong
+|-damage|p1a: Bronzong|83/100
+|
+|t:|1781187419
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Torkoal|Torkoal, F|100/100|[from] Flip Turn
+|-damage|p2a: Torkoal|76/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Bronzong|Body Press|p2a: Torkoal
+|-damage|p2a: Torkoal|59/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Bronzong|89/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781187428
+|move|p2a: Torkoal|Rapid Spin|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|86/100
+|-boost|p2a: Torkoal|spe|1
+|-sideend|p2: LOUSINETCOKI|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Torkoal
+|move|p1a: Bronzong|Trick Room|p1a: Bronzong
+|-fieldstart|move: Trick Room|[of] p1a: Bronzong
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Bronzong|92/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781187437
+|move|p1a: Bronzong|Stealth Rock|p2a: Torkoal
+|-sidestart|p2: LOUSINETCOKI|move: Stealth Rock
+|move|p2a: Torkoal|Lava Plume|p1a: Bronzong
+|-supereffective|p1a: Bronzong
+|-damage|p1a: Bronzong|25/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Bronzong|31/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781187449
+|switch|p1a: Ursaluna|Ursaluna, M|100/100
+|move|p2a: Torkoal|Rapid Spin|p1a: Ursaluna
+|-damage|p1a: Ursaluna|94/100
+|-boost|p2a: Torkoal|spe|1
+|-sideend|p2: LOUSINETCOKI|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|-status|p1a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|13
+|
+|t:|1781187466
+|switch|p2a: Great Tusk|Great Tusk|71/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Ursaluna|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|13/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Ursaluna|87/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781187476
+|switch|p1a: Bronzong|Bronzong|31/100
+|move|p2a: Great Tusk|Ice Spinner|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|17/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Bronzong|23/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|15
+|
+|t:|1781187483
+|move|p2a: Great Tusk|Supercell Slam|p1a: Bronzong
+|-damage|p1a: Bronzong|0 fnt
+|faint|p1a: Bronzong
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781187488
+|switch|p1a: Alomomola|Alomomola, M|68/100
+|turn|16
+|
+|t:|1781187490
+|move|p1a: Alomomola|Aqua Jet|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|-damage|p1a: Alomomola|51/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781187498
+|switch|p2a: Walking Wake|Walking Wake, tera:Water|100/100
+|turn|17
+|
+|t:|1781187502
+|move|p1a: Alomomola|Aqua Jet|p2a: Walking Wake
+|-resisted|p2a: Walking Wake
+|-damage|p2a: Walking Wake|87/100
+|move|p2a: Walking Wake|Draco Meteor|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|-unboost|p2a: Walking Wake|spa|2
+|faint|p1a: Alomomola
+|
+|upkeep
+|
+|t:|1781187507
+|switch|p1a: Ursaluna|Ursaluna, M|87/100 brn
+|turn|18
+|
+|t:|1781187512
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Torkoal|Torkoal, F|59/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781187523
+|switch|p2a: Walking Wake|Walking Wake, tera:Water|87/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|move|p1a: Torkoal|Earth Power|p2a: Walking Wake
+|-damage|p2a: Walking Wake|55/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781187530
+|move|p2a: Walking Wake|Hydro Steam|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781187531
+|switch|p1a: Ursaluna|Ursaluna, M|87/100 brn
+|turn|21
+|
+|t:|1781187537
+|-terastallize|p1a: Ursaluna|Ghost
+|move|p2a: Walking Wake|Hydro Steam|p1a: Ursaluna
+|-damage|p1a: Ursaluna|4/100 brn
+|move|p1a: Ursaluna|Facade|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Ursaluna|0 fnt|[from] brn
+|faint|p1a: Ursaluna
+|
+|win|LOUSINETCOKI
+|raw|ChessDennis's rating: 1528 &rarr; <strong>1509</strong><br />(-19 for losing)
+|raw|LOUSINETCOKI's rating: 1547 &rarr; <strong>1566</strong><br />(+19 for winning)
+|l|☆ChessDennis
+|player|p1|
+|l|☆LOUSINETCOKI
+|player|p2|

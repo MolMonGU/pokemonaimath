@@ -1,0 +1,280 @@
+|j|☆LowEL0God
+|j|☆ykykp
+|t:|1781528613
+|gametype|singles
+|player|p1|LowEL0God|265|1591
+|player|p2|ykykp|102|1525
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, F|
+|poke|p1|Barraskewda, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Blastoise, F|
+|poke|p2|Iron Crown|
+|poke|p2|Great Tusk|
+|poke|p2|Ceruledge, F|
+|poke|p2|Hydreigon, F|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781528623
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|1
+|
+|t:|1781528626
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: ykykp|Reflect
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|45/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781528631
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: ykykp|move: Light Screen
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1781528634
+|move|p2a: Deoxys|Taunt|p1a: Kingambit
+|-start|p1a: Kingambit|move: Taunt
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|inactive|ykykp has 120 seconds left.
+|
+|t:|1781528671
+|switch|p2a: Mecha Chiron|Iron Crown|100/100
+|-enditem|p2a: Mecha Chiron|Booster Energy
+|-activate|p2a: Mecha Chiron|ability: Quark Drive|[fromitem]
+|-start|p2a: Mecha Chiron|quarkdrivespe
+|turn|4
+|
+|t:|1781528673
+|-terastallize|p2a: Mecha Chiron|Fighting
+|move|p2a: Mecha Chiron|Iron Defense|p2a: Mecha Chiron
+|-boost|p2a: Mecha Chiron|def|2
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Mecha Chiron
+|-resisted|p2a: Mecha Chiron
+|-damage|p2a: Mecha Chiron|87/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781528680
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Mecha Chiron|Calm Mind|p2a: Mecha Chiron
+|-boost|p2a: Mecha Chiron|spa|1
+|-boost|p2a: Mecha Chiron|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781528689
+|switch|p1a: Overqwil|Overqwil, F|100/100
+|move|p2a: Mecha Chiron|Stored Power|p1a: Overqwil
+|-immune|p1a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781528692
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|move|p2a: Mecha Chiron|Focus Blast|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|44/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781528697
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|move|p2a: Mecha Chiron|Focus Blast|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p2: ykykp|Reflect
+|upkeep
+|
+|t:|1781528698
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|turn|9
+|
+|t:|1781528711
+|move|p1a: Barraskewda|Flip Turn|p2a: Mecha Chiron
+|-damage|p2a: Mecha Chiron|50/100
+|
+|t:|1781528712
+|switch|p1a: Overqwil|Overqwil, F|100/100|[from] Flip Turn
+|move|p2a: Mecha Chiron|Focus Blast|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|faint|p1a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p2: ykykp|move: Light Screen
+|upkeep
+|
+|t:|1781528712
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|turn|10
+|
+|t:|1781528721
+|move|p1a: Barraskewda|Liquidation|p2a: Mecha Chiron
+|-damage|p2a: Mecha Chiron|0 fnt
+|faint|p2a: Mecha Chiron
+|-end|p2a: Mecha Chiron|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781528725
+|switch|p2a: Gamera|Blastoise, F|100/100
+|turn|11
+|
+|t:|1781528728
+|move|p1a: Barraskewda|Liquidation|p2a: Gamera
+|-resisted|p2a: Gamera
+|-damage|p2a: Gamera|45/100
+|move|p2a: Gamera|Shell Smash|p2a: Gamera
+|-unboost|p2a: Gamera|def|1
+|-unboost|p2a: Gamera|spd|1
+|-boost|p2a: Gamera|atk|2
+|-boost|p2a: Gamera|spa|2
+|-boost|p2a: Gamera|spe|2
+|-enditem|p2a: Gamera|White Herb
+|-clearnegativeboost|p2a: Gamera|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781528740
+|move|p1a: Barraskewda|Liquidation|p2a: Gamera
+|-resisted|p2a: Gamera
+|-damage|p2a: Gamera|0 fnt
+|faint|p2a: Gamera
+|
+|-weather|none
+|upkeep
+|
+|t:|1781528744
+|switch|p2a: Megaman|Ceruledge, F|100/100
+|turn|13
+|
+|t:|1781528746
+|move|p1a: Barraskewda|Liquidation|p2a: Megaman
+|-supereffective|p2a: Megaman
+|-damage|p2a: Megaman|0 fnt
+|faint|p2a: Megaman
+|
+|upkeep
+|
+|t:|1781528749
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|turn|14
+|
+|t:|1781528751
+|switch|p1a: Pelipper|Pelipper, F|44/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Hydreigon|Earth Power|p1a: Pelipper
+|-immune|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781528754
+|switch|p2a: Manny|Great Tusk|100/100
+|-enditem|p2a: Manny|Booster Energy
+|-activate|p2a: Manny|ability: Protosynthesis|[fromitem]
+|-start|p2a: Manny|protosynthesisspe
+|move|p1a: Pelipper|Hurricane|p2a: Manny
+|-supereffective|p2a: Manny
+|-damage|p2a: Manny|6/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781528757
+|move|p2a: Manny|Ice Spinner|p1a: Pelipper
+|-damage|p1a: Pelipper|26/100
+|move|p1a: Pelipper|U-turn|p2a: Manny
+|-resisted|p2a: Manny
+|-damage|p2a: Manny|3/100
+|
+|t:|1781528758
+|switch|p1a: Barraskewda|Barraskewda, M|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781528760
+|move|p1a: Barraskewda|Close Combat|p2a: Manny
+|-damage|p2a: Manny|0 fnt
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|faint|p2a: Manny
+|-end|p2a: Manny|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781528764
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|turn|18
+|
+|t:|1781528768
+|-terastallize|p1a: Barraskewda|Water
+|move|p1a: Barraskewda|Close Combat|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|faint|p2a: Hydreigon
+|
+|win|LowEL0God
+|raw|LowEL0God's rating: 1591 &rarr; <strong>1607</strong><br />(+16 for winning)
+|raw|ykykp's rating: 1525 &rarr; <strong>1509</strong><br />(-16 for losing)
+|l|☆ykykp
+|player|p2|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p1|

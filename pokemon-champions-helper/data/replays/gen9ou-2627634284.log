@@ -1,0 +1,503 @@
+|j|☆Albret
+|j|☆adil
+|t:|1780928416
+|gametype|singles
+|player|p1|Albret|preschoolerf|1689
+|player|p2|adil|265|1709
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Gliscor, M|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Iron Crown|
+|poke|p1|Ting-Lu|
+|poke|p1|Kingambit, M|
+|poke|p2|Great Tusk|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Kyurem|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Ting-Lu|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Albret)
+|
+|t:|1780928440
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|j| BiscoitoXDBr
+|
+|t:|1780928456
+|move|p2a: Kyurem|Protect|p2a: Kyurem
+|-singleturn|p2a: Kyurem|Protect
+|move|p1a: Dragapult|Dragon Darts|p2a: Kyurem
+|-activate|p2a: Kyurem|move: Protect
+|
+|upkeep
+|turn|2
+|
+|t:|1780928466
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Dragapult|Dragon Darts|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|90/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|79/100
+|
+|-heal|p2a: Ting-Lu|85/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1780928473
+|move|p1a: Dragapult|Will-O-Wisp|p2a: Ting-Lu
+|-status|p2a: Ting-Lu|brn
+|move|p2a: Ting-Lu|Spikes|p1a: Dragapult
+|-sidestart|p1: Albret|Spikes
+|
+|-heal|p2a: Ting-Lu|91/100 brn|[from] item: Leftovers
+|-damage|p2a: Ting-Lu|85/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1780928477
+|move|p1a: Dragapult|U-turn|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|64/100 brn
+|
+|t:|1780928479
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|-damage|p1a: Ogerpon|88/100|[from] Spikes
+|move|p2a: Ting-Lu|Whirlwind|p1a: Ogerpon
+|drag|p1a: Gliscor|Gliscor, M|100/100
+|
+|-heal|p2a: Ting-Lu|70/100 brn|[from] item: Leftovers
+|-damage|p2a: Ting-Lu|64/100 brn|[from] brn
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|5
+|
+|t:|1780928485
+|move|p1a: Gliscor|Toxic Spikes|p2a: Ting-Lu
+|-sidestart|p2: adil|move: Toxic Spikes
+|move|p2a: Ting-Lu|Spikes|p1a: Gliscor
+|-sidestart|p1: Albret|Spikes
+|
+|-heal|p2a: Ting-Lu|70/100 brn|[from] item: Leftovers
+|-damage|p2a: Ting-Lu|64/100 brn|[from] brn
+|upkeep
+|turn|6
+|j| testingrainteam1
+|
+|t:|1780928488
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|-sideend|p2: adil|move: Toxic Spikes|[of] p2a: Slowking
+|move|p1a: Gliscor|Earthquake|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|31/100
+|
+|upkeep
+|turn|7
+|
+|t:|1780928492
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Gliscor|Toxic Spikes|p2a: Rillaboom
+|-sidestart|p2: adil|move: Toxic Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1780928502
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Rillaboom|Wood Hammer|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|upkeep
+|turn|9
+|
+|t:|1780928511
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|move|p1a: Gliscor|Toxic|p2a: Rillaboom
+|-status|p2a: Rillaboom|tox
+|
+|-damage|p2a: Rillaboom|94/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1780928517
+|move|p2a: Rillaboom|Wood Hammer|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|-damage|p2a: Rillaboom|60/100 tox|[from] Recoil
+|-damage|p2a: Rillaboom|50/100 tox|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|57/100 tox|[from] Grassy Terrain
+|-damage|p2a: Rillaboom|44/100 tox|[from] psn
+|upkeep
+|
+|t:|1780928528
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|11
+|
+|t:|1780928545
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|88/100
+|-damage|p1a: Ogerpon|72/100|[from] Spikes
+|move|p2a: Rillaboom|Grassy Glide|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|-damage|p2a: Rillaboom|34/100 tox|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|40/100 tox|[from] Grassy Terrain
+|-damage|p2a: Rillaboom|22/100 tox|[from] psn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1780928549
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|12
+|
+|t:|1780928553
+|switch|p2a: Ting-Lu|Ting-Lu|64/100 brn
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Dragapult|Dragon Darts|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|53/100 brn
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|43/100 brn
+|
+|-heal|p2a: Ting-Lu|49/100 brn|[from] item: Leftovers
+|-damage|p2a: Ting-Lu|43/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1780928558
+|move|p1a: Dragapult|Dragon Darts|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|32/100 brn
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|22/100 brn
+|move|p2a: Ting-Lu|Rest|p2a: Ting-Lu
+|-status|p2a: Ting-Lu|slp|[from] move: Rest
+|-heal|p2a: Ting-Lu|100/100 slp|[silent]
+|
+|upkeep
+|turn|14
+|inactive|adil has 120 seconds left.
+|l| testingrainteam1
+|inactive|adil has 90 seconds left.
+|
+|t:|1780928636
+|move|p1a: Dragapult|U-turn|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|78/100 slp
+|
+|t:|1780928638
+|switch|p1a: Kingambit|Kingambit, M|100/100|[from] U-turn
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|-item|p1a: Kingambit|Air Balloon
+|cant|p2a: Ting-Lu|slp
+|
+|-heal|p2a: Ting-Lu|85/100 slp|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1780928642
+|switch|p2a: Rillaboom|Rillaboom, F|22/100 tox
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p2a: Rillaboom|28/100 tox|[from] Grassy Terrain
+|-damage|p2a: Rillaboom|22/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1780928648
+|move|p2a: Rillaboom|Grassy Glide|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|77/100
+|-enditem|p1a: Kingambit|Air Balloon
+|-damage|p2a: Rillaboom|12/100 tox|[from] item: Life Orb
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-heal|p2a: Rillaboom|18/100 tox|[from] Grassy Terrain
+|-heal|p1a: Kingambit|83/100|[from] Grassy Terrain
+|-damage|p2a: Rillaboom|6/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1780928653
+|move|p2a: Rillaboom|Grassy Glide|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|62/100
+|-damage|p2a: Rillaboom|0 fnt|[from] item: Life Orb
+|faint|p2a: Rillaboom
+|move|p1a: Kingambit|Sucker Punch|p2: Rillaboom|[notarget]
+|-fail|p1a: Kingambit
+|
+|-heal|p1a: Kingambit|69/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1780928656
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|18
+|
+|t:|1780928662
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-damage|p1a: Ting-Lu|84/100|[from] Spikes
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Great Tusk|Headlong Rush|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|43/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-damage|p2a: Great Tusk|84/100|[from] item: Rocky Helmet|[of] p1a: Ting-Lu
+|
+|-heal|p2a: Great Tusk|90/100|[from] Grassy Terrain
+|-heal|p1a: Ting-Lu|49/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1780928675
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|65/100
+|-sideend|p2: adil|move: Toxic Spikes|[of] p2a: Slowking
+|move|p1a: Ting-Lu|Ruination|p2a: Slowking
+|-damage|p2a: Slowking|33/100
+|
+|-heal|p1a: Ting-Lu|55/100|[from] Grassy Terrain
+|-heal|p2a: Slowking|39/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1780928679
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: adil|move: Stealth Rock
+|
+|upkeep
+|turn|21
+|
+|t:|1780928683
+|move|p2a: Tornadus|Knock Off|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|49/100
+|-damage|p2a: Tornadus|84/100|[from] item: Rocky Helmet|[of] p1a: Ting-Lu
+|-enditem|p1a: Ting-Lu|Rocky Helmet|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Ting-Lu|Ruination|p2a: Tornadus
+|-damage|p2a: Tornadus|42/100
+|
+|upkeep
+|turn|22
+|
+|t:|1780928686
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|31/100
+|-unboost|p1a: Ting-Lu|spe|1
+|move|p1a: Ting-Lu|Heavy Slam|p2a: Tornadus
+|-damage|p2a: Tornadus|10/100
+|
+|upkeep
+|turn|23
+|
+|t:|1780928692
+|move|p2a: Tornadus|U-turn|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|12/100
+|
+|t:|1780928694
+|switch|p2a: Ting-Lu|Ting-Lu|85/100 slp|[from] U-turn
+|-damage|p2a: Ting-Lu|78/100 slp|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Ting-Lu|Ruination|p2a: Ting-Lu|[miss]
+|-miss|p1a: Ting-Lu|p2a: Ting-Lu
+|
+|-heal|p2a: Ting-Lu|85/100 slp|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1780928699
+|move|p1a: Ting-Lu|Ruination|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|43/100 slp
+|cant|p2a: Ting-Lu|slp
+|
+|-heal|p2a: Ting-Lu|49/100 slp|[from] item: Leftovers
+|upkeep
+|turn|25
+|l| BiscoitoXDBr
+|inactive|adil has 120 seconds left.
+|j| BiscoitoXDBr
+|
+|t:|1780928754
+|move|p1a: Ting-Lu|Taunt|p2a: Ting-Lu
+|-start|p2a: Ting-Lu|move: Taunt
+|-curestatus|p2a: Ting-Lu|slp|[msg]
+|cant|p2a: Ting-Lu|move: Taunt|Rest
+|
+|-heal|p2a: Ting-Lu|55/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1780928762
+|move|p1a: Ting-Lu|Ruination|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|28/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|-heal|p2a: Ting-Lu|34/100|[from] item: Leftovers
+|upkeep
+|j| 0RickMountStrong
+|
+|t:|1780928766
+|switch|p1a: Kingambit|Kingambit, M|69/100
+|-damage|p1a: Kingambit|52/100|[from] Spikes
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|27
+|c| 0RickMountStrong|tera flying
+|c| 0RickMountStrong|swords dance
+|c| 0RickMountStrong|ggs
+|inactive|adil has 90 seconds left.
+|
+|t:|1780928803
+|move|p1a: Kingambit|Low Kick|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1780928806
+|switch|p2a: Great Tusk|Great Tusk|90/100
+|turn|28
+|
+|t:|1780928809
+|move|p2a: Great Tusk|Headlong Rush|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1780928815
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|29
+|inactive|adil has 90 seconds left.
+|inactive|adil has 60 seconds left.
+|inactive|adil has 30 seconds left.
+|
+|t:|1780928905
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|72/100
+|move|p1a: Dragapult|Will-O-Wisp|p2a: Slowking
+|-status|p2a: Slowking|brn
+|
+|-damage|p2a: Slowking|66/100 brn|[from] brn
+|upkeep
+|turn|30
+|inactive|adil has 30 seconds left.
+|
+|t:|1780928918
+|move|p1a: Dragapult|Hex|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|4/100 brn
+|move|p2a: Slowking|Thunder Wave|p1a: Dragapult
+|-status|p1a: Dragapult|par
+|
+|-damage|p2a: Slowking|0 fnt|[from] brn
+|faint|p2a: Slowking
+|upkeep
+|inactive|adil has 30 seconds left this turn.
+|
+|t:|1780928924
+|switch|p2a: Kyurem|Kyurem|100/100
+|-damage|p2a: Kyurem|75/100|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|turn|31
+|
+|t:|1780928928
+|move|p2a: Kyurem|Freeze-Dry|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-heal|p2a: Kyurem|82/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780928931
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-damage|p1a: Iron Crown|84/100|[from] Spikes
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|turn|32
+|
+|t:|1780928943
+|-terastallize|p1a: Iron Crown|Fighting
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|move|p2a: Kyurem|Earth Power|p1a: Iron Crown
+|-damage|p1a: Iron Crown|64/100
+|-unboost|p1a: Iron Crown|spd|1
+|
+|-heal|p2a: Kyurem|88/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1780928965
+|switch|p2a: Tornadus|Tornadus-Therian, M|43/100
+|-damage|p2a: Tornadus|18/100|[from] Stealth Rock
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|-hitcount|p2: Tornadus|1
+|
+|upkeep
+|
+|t:|1780928968
+|switch|p2a: Great Tusk|Great Tusk|90/100
+|turn|34
+|inactive|adil has 60 seconds left.
+|
+|t:|1780928982
+|-terastallize|p2a: Great Tusk|Steel
+|move|p1a: Iron Crown|Psychic|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|46/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|win|adil
+|raw|Albret's rating: 1689 &rarr; <strong>1669</strong><br />(-20 for losing)
+|raw|adil's rating: 1691 &rarr; <strong>1711</strong><br />(+20 for winning)
+|l|☆Albret
+|player|p1|
+|l|☆adil
+|player|p2|
+|l| BiscoitoXDBr

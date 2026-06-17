@@ -1,0 +1,147 @@
+|j|☆Krupekon
+|j|☆Ausar48
+|t:|1781443844
+|gametype|singles
+|player|p1|Krupekon|170|1503
+|player|p2|Ausar48|ghetsis|1555
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dondozo, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Heatran, M|
+|poke|p1|Cinderace, F|
+|poke|p1|Meowscarada, M|
+|poke|p1|Iron Valiant|
+|poke|p2|Pelipper, M|
+|poke|p2|Noivern, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Iron Treads|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ausar48)
+|
+|t:|1781443913
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1781443936
+|move|p1a: Meowscarada|Knock Off|p2a: Pelipper
+|-start|p1a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p2a: Pelipper|53/100
+|-enditem|p2a: Pelipper|Damp Rock|[from] move: Knock Off|[of] p1a: Meowscarada
+|move|p2a: Pelipper|U-turn|p1a: Meowscarada
+|-supereffective|p1a: Meowscarada
+|-damage|p1a: Meowscarada|76/100
+|
+|t:|1781443949
+|switch|p2a: Iron Valiant|Iron Valiant|100/100|[from] U-turn
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781443977
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Iron Valiant|atk|1
+|move|p2a: Iron Valiant|Moonblast|p1a: Landorus
+|-damage|p1a: Landorus|68/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|inactive|Krupekon has 120 seconds left.
+|
+|t:|1781444015
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Noivern|Noivern, F|100/100
+|move|p1a: Landorus|Earthquake|p2a: Noivern
+|-immune|p2a: Noivern
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781444023
+|move|p2a: Noivern|Hurricane|p1a: Landorus
+|-damage|p1a: Landorus|18/100
+|-start|p1a: Landorus|confusion
+|-activate|p1a: Landorus|confusion
+|move|p1a: Landorus|Stone Edge|p2a: Noivern
+|-supereffective|p2a: Noivern
+|-damage|p2a: Noivern|0 fnt
+|faint|p2a: Noivern
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781444033
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|5
+|inactive|Krupekon has 120 seconds left.
+|
+|t:|1781444043
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Landorus|[anim] Ivy Cudgel Water
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|Krupekon has 120 seconds left.
+|
+|t:|1781444049
+|switch|p1a: Meowscarada|Meowscarada, M|76/100
+|turn|6
+|inactive|Ausar48 has 120 seconds left.
+|
+|t:|1781444098
+|move|p1a: Meowscarada|U-turn|p2a: Ogerpon
+|-start|p1a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|t:|1781444107
+|switch|p1a: Cinderace|Cinderace, F|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781444122
+|switch|p2a: Samurott|Samurott-Hisui, F, shiny|100/100
+|turn|7
+|
+|t:|1781444131
+|move|p1a: Cinderace|U-turn|p2a: Samurott
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|25/100
+|-message|Ausar48 forfeited.
+|
+|win|Krupekon
+|raw|Krupekon's rating: 1503 &rarr; <strong>1526</strong><br />(+23 for winning)
+|raw|Ausar48's rating: 1555 &rarr; <strong>1532</strong><br />(-23 for losing)
+|l|☆Ausar48
+|player|p2|
+|l|☆Krupekon
+|player|p1|

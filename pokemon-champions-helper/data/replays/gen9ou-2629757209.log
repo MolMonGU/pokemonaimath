@@ -1,0 +1,462 @@
+|j|☆LoseToRU?
+|j|☆KurisuChestnutOU
+|t:|1781176130
+|gametype|singles
+|player|p1|LoseToRU?|giovanni-gen1|1588
+|player|p2|KurisuChestnutOU|may-contest|1513
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Jugulis|
+|poke|p1|Moltres-Galar|
+|poke|p1|Darkrai|
+|poke|p1|Greninja-*, M|
+|poke|p1|Weavile, M|
+|poke|p1|Zarude-Dada|
+|poke|p2|Zamazenta-*|
+|poke|p2|Zapdos|
+|poke|p2|Garganacl, M|
+|poke|p2|Clefable, M|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutOU)
+|
+|t:|1781176151
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zarude|Zarude-Dada|100/100
+|switch|p2a: Garganacl|Garganacl, M|100/100
+|turn|1
+|
+|t:|1781176157
+|move|p1a: Zarude|Taunt|p2a: Garganacl
+|-start|p2a: Garganacl|move: Taunt
+|cant|p2a: Garganacl|move: Taunt|Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781176162
+|move|p1a: Zarude|Swords Dance|p1a: Zarude
+|-boost|p1a: Zarude|atk|2
+|move|p2a: Garganacl|Salt Cure|p1a: Zarude
+|-damage|p1a: Zarude|88/100
+|-start|p1a: Zarude|Salt Cure
+|
+|-damage|p1a: Zarude|76/100|[from] Salt Cure
+|upkeep
+|turn|3
+|
+|t:|1781176170
+|move|p1a: Zarude|Knock Off|p2a: Garganacl
+|-crit|p2a: Garganacl
+|-damage|p2a: Garganacl|7/100
+|-enditem|p2a: Garganacl|Leftovers|[from] move: Knock Off|[of] p1a: Zarude
+|move|p2a: Garganacl|Salt Cure|p1a: Zarude
+|-damage|p1a: Zarude|64/100
+|
+|-damage|p1a: Zarude|51/100|[from] Salt Cure
+|-end|p2a: Garganacl|move: Taunt
+|upkeep
+|turn|4
+|
+|t:|1781176177
+|move|p1a: Zarude|Knock Off|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|faint|p2a: Garganacl
+|
+|-damage|p1a: Zarude|39/100|[from] Salt Cure
+|upkeep
+|
+|t:|1781176182
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|5
+|
+|t:|1781176191
+|move|p2a: Zamazenta|Body Press|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|0 fnt
+|faint|p1a: Zarude
+|
+|upkeep
+|
+|t:|1781176209
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|6
+|
+|t:|1781176214
+|move|p1a: Iron Jugulis|Hurricane|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|9/100
+|move|p2a: Zamazenta|Body Press|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|49/100
+|
+|-heal|p2a: Zamazenta|15/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781176218
+|move|p1a: Iron Jugulis|Earth Power|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781176221
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|8
+|
+|t:|1781176230
+|-terastallize|p1a: Iron Jugulis|Ground
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Zapdos
+|-damage|p2a: Zapdos|60/100
+|move|p2a: Zapdos|Volt Switch|p1a: Iron Jugulis
+|-immune|p1a: Iron Jugulis
+|
+|upkeep
+|turn|9
+|
+|t:|1781176235
+|move|p1a: Iron Jugulis|Taunt|p2a: Zapdos
+|-start|p2a: Zapdos|move: Taunt
+|cant|p2a: Zapdos|move: Taunt|Roost
+|
+|upkeep
+|turn|10
+|
+|t:|1781176242
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|82/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781176245
+|move|p1a: Iron Jugulis|Hurricane|p2a: Clefable
+|-damage|p2a: Clefable|28/100
+|-start|p2a: Clefable|confusion
+|-activate|p2a: Clefable|confusion
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|78/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781176251
+|move|p1a: Iron Jugulis|Taunt|p2a: Clefable
+|-start|p2a: Clefable|move: Taunt
+|-end|p2a: Clefable|confusion
+|move|p2a: Clefable|Moonblast|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|8/100
+|-unboost|p1a: Iron Jugulis|spa|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781176257
+|switch|p2a: Zapdos|Zapdos|60/100
+|move|p1a: Iron Jugulis|Hurricane|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|44/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781176261
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|move|p1a: Iron Jugulis|Taunt|p2a: Samurott
+|-start|p2a: Samurott|move: Taunt
+|
+|upkeep
+|turn|15
+|
+|t:|1781176273
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|switch|p1a: Darkrai|Darkrai|100/100
+|move|p2a: Samurott|Ceaseless Edge|p1a: Darkrai
+|-resisted|p1a: Darkrai
+|-damage|p1a: Darkrai|72/100
+|-sidestart|p1: LoseToRU?|Spikes
+|
+|upkeep
+|turn|16
+|
+|t:|1781176279
+|move|p1a: Darkrai|Dark Pulse|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|68/100
+|move|p2a: Samurott|Ceaseless Edge|p1a: Darkrai
+|-resisted|p1a: Darkrai
+|-damage|p1a: Darkrai|43/100
+|-sidestart|p1: LoseToRU?|Spikes
+|
+|-end|p2a: Samurott|move: Taunt
+|upkeep
+|turn|17
+|
+|t:|1781176285
+|switch|p2a: Clefable|Clefable, M|78/100
+|move|p1a: Darkrai|Dark Pulse|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|58/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781176289
+|switch|p1a: Iron Jugulis|Iron Jugulis, tera:Ground|8/100
+|-damage|p1a: Iron Jugulis|0 fnt|[from] Spikes
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|
+|t:|1781176291
+|switch|p1a: Darkrai|Darkrai|43/100
+|-damage|p1a: Darkrai|26/100|[from] Spikes
+|turn|19
+|
+|t:|1781176296
+|move|p1a: Darkrai|Dark Pulse|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|81/100
+|move|p2a: Clefable|Moonblast|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|upkeep
+|
+|t:|1781176302
+|switch|p1a: Weavile|Weavile, M|100/100
+|-damage|p1a: Weavile|84/100|[from] Spikes
+|-ability|p1a: Weavile|Pressure
+|turn|20
+|
+|t:|1781176305
+|-terastallize|p2a: Clefable|Steel
+|move|p1a: Weavile|Triple Axel|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|77/100
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|69/100
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|58/100
+|-hitcount|p2a: Clefable|3
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781176309
+|move|p1a: Weavile|Knock Off|p2a: Clefable
+|-damage|p2a: Clefable|67/100
+|-enditem|p2a: Clefable|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Weavile
+|move|p2a: Clefable|Moonblast|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|2/100
+|
+|upkeep
+|turn|22
+|
+|t:|1781176314
+|move|p1a: Weavile|Swords Dance|p1a: Weavile
+|-boost|p1a: Weavile|atk|2
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781176320
+|move|p1a: Weavile|Knock Off|p2a: Clefable
+|-damage|p2a: Clefable|76/100
+|move|p2a: Clefable|Thunder Wave|p1a: Weavile
+|-status|p1a: Weavile|par
+|
+|upkeep
+|turn|24
+|
+|t:|1781176325
+|move|p1a: Weavile|Knock Off|p2a: Clefable
+|-damage|p2a: Clefable|50/100
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|99/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781176329
+|move|p1a: Weavile|Triple Axel|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|96/100
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|88/100
+|-resisted|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|72/100
+|-hitcount|p2a: Clefable|3
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|26
+|
+|t:|1781176334
+|cant|p1a: Weavile|par
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-fail|p2a: Clefable|heal
+|
+|upkeep
+|turn|27
+|
+|t:|1781176337
+|cant|p1a: Weavile|par
+|move|p2a: Clefable|Thunder Wave|p1a: Weavile
+|-fail|p1a: Weavile|par
+|
+|upkeep
+|turn|28
+|
+|t:|1781176340
+|move|p1a: Weavile|Triple Axel|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|97/100
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|89/100
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|78/100
+|-hitcount|p2a: Clefable|3
+|move|p2a: Clefable|Thunder Wave|p1a: Weavile
+|-fail|p1a: Weavile|par
+|
+|upkeep
+|turn|29
+|
+|t:|1781176345
+|move|p1a: Weavile|Swords Dance|p1a: Weavile
+|-boost|p1a: Weavile|atk|2
+|move|p2a: Clefable|Knock Off|p1a: Weavile
+|-resisted|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|-enditem|p1a: Weavile|Focus Sash|[from] move: Knock Off|[of] p2a: Clefable
+|faint|p1a: Weavile
+|
+|upkeep
+|
+|t:|1781176356
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|turn|30
+|
+|t:|1781176361
+|move|p1a: Moltres|Nasty Plot|p1a: Moltres
+|-boost|p1a: Moltres|spa|2
+|move|p2a: Clefable|Moonblast|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|46/100
+|-ability|p1a: Moltres|Berserk|boost
+|-boost|p1a: Moltres|spa|1
+|-enditem|p1a: Moltres|Sitrus Berry|[eat]
+|-heal|p1a: Moltres|71/100|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|31
+|
+|t:|1781176369
+|move|p1a: Moltres|Fiery Wrath|p2a: Clefable
+|-damage|p2a: Clefable|42/100
+|move|p2a: Clefable|Moonblast|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|19/100
+|-ability|p1a: Moltres|Berserk|boost
+|-boost|p1a: Moltres|spa|1
+|
+|upkeep
+|turn|32
+|
+|t:|1781176374
+|move|p1a: Moltres|Fiery Wrath|p2a: Clefable
+|-damage|p2a: Clefable|5/100
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|55/100
+|
+|upkeep
+|turn|33
+|
+|t:|1781176379
+|move|p1a: Moltres|Fiery Wrath|p2a: Clefable
+|-damage|p2a: Clefable|18/100
+|move|p2a: Clefable|Moonblast|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|upkeep
+|
+|t:|1781176381
+|switch|p1a: Greninja|Greninja, M|100/100
+|-damage|p1a: Greninja|84/100|[from] Spikes
+|turn|34
+|
+|t:|1781176386
+|switch|p2a: Samurott|Samurott-Hisui, F|68/100
+|move|p1a: Greninja|Hydro Pump|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|31/100
+|
+|upkeep
+|turn|35
+|
+|t:|1781176391
+|move|p2a: Samurott|Knock Off|p1a: Greninja
+|-resisted|p1a: Greninja
+|-damage|p1a: Greninja|49/100
+|-enditem|p1a: Greninja|Focus Sash|[from] move: Knock Off|[of] p2a: Samurott
+|move|p1a: Greninja|Grass Knot|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|-ability|p1a: Greninja|Battle Bond|boost
+|-boost|p1a: Greninja|atk|1
+|-boost|p1a: Greninja|spa|1
+|-boost|p1a: Greninja|spe|1
+|-activate|p1a: Greninja|ability: Battle Bond
+|
+|upkeep
+|
+|t:|1781176394
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|36
+|
+|t:|1781176398
+|move|p1a: Greninja|Hydro Pump|p2a: Gholdengo
+|-damage|p2a: Gholdengo|11/100
+|move|p2a: Gholdengo|Dazzling Gleam|p1a: Greninja
+|-supereffective|p1a: Greninja
+|-damage|p1a: Greninja|0 fnt
+|faint|p1a: Greninja
+|
+|win|KurisuChestnutOU
+|raw|LoseToRU?'s rating: 1588 &rarr; <strong>1562</strong><br />(-26 for losing)
+|raw|KurisuChestnutOU's rating: 1478 &rarr; <strong>1504</strong><br />(+26 for winning)

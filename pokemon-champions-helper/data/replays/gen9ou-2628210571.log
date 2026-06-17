@@ -1,0 +1,300 @@
+|badge|p2|bronze|gen9ou|100-9
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆psylxr
+|j|☆Billygunter
+|t:|1780992440
+|gametype|singles
+|player|p1|psylxr|101|1699
+|player|p2|Billygunter|102|1861
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, M|
+|poke|p1|Barraskewda, F|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Ceruledge, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Hatterene, F|
+|poke|p2|Cobalion|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by psylxr)
+|
+|t:|1780992456
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gulp Gulp|Pelipper, M|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Gulp Gulp
+|turn|1
+|
+|t:|1780992465
+|switch|p1a: Iron Belly|Iron Treads|100/100
+|-enditem|p1a: Iron Belly|Booster Energy
+|-activate|p1a: Iron Belly|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Belly|quarkdrivespe
+|-terastallize|p2a: Raging Bolt|Dragon
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Iron Belly
+|-resisted|p1a: Iron Belly
+|-damage|p1a: Iron Belly|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Iron Belly
+|-end|p1a: Iron Belly|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1780992492
+|switch|p1a: Raging Neck|Raging Bolt|100/100
+|-enditem|p1a: Raging Neck|Booster Energy
+|-activate|p1a: Raging Neck|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Neck|protosynthesisspa
+|turn|2
+|
+|t:|1780992521
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Raging Neck|Thunder|p2a: Hatterene
+|-damage|p2a: Hatterene|7/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1780992535
+|move|p1a: Raging Neck|Weather Ball|p2a: Hatterene
+|-crit|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|Billygunter has 120 seconds left.
+|
+|t:|1780992555
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Raging Neck|atk|1
+|turn|4
+|
+|t:|1780992567
+|move|p2a: Landorus|Outrage|p1a: Raging Neck
+|-supereffective|p1a: Raging Neck
+|-damage|p1a: Raging Neck|21/100
+|move|p1a: Raging Neck|Draco Meteor|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|-unboost|p1a: Raging Neck|spa|2
+|faint|p2a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1780992578
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|5
+|
+|t:|1780992582
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Raging Neck|[anim] Ivy Cudgel Water
+|-resisted|p1a: Raging Neck
+|-damage|p1a: Raging Neck|0 fnt
+|faint|p1a: Raging Neck
+|-end|p1a: Raging Neck|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1780992586
+|switch|p1a: Spike|Overqwil, M|100/100
+|turn|6
+|
+|t:|1780992596
+|switch|p2a: Raging Bolt|Raging Bolt, tera:Dragon|100/100
+|move|p1a: Spike|Swords Dance|p1a: Spike
+|-boost|p1a: Spike|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1780992609
+|move|p2a: Raging Bolt|Thunderclap|p1a: Spike
+|-damage|p1a: Spike|12/100
+|move|p1a: Spike|Gunk Shot|p2a: Raging Bolt|[miss]
+|-miss|p1a: Spike|p2a: Raging Bolt
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1780992616
+|move|p2a: Raging Bolt|Thunderclap|p1a: Spike
+|-damage|p1a: Spike|0 fnt
+|faint|p1a: Spike
+|
+|-weather|none
+|upkeep
+|
+|t:|1780992642
+|switch|p1a: Queengambit|Kingambit, M|100/100
+|-activate|p1a: Queengambit|ability: Supreme Overlord
+|-start|p1a: Queengambit|fallen3|[silent]
+|turn|9
+|
+|t:|1780992647
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Cobalion|Cobalion|100/100
+|move|p1a: Queengambit|Swords Dance|p1a: Queengambit
+|-boost|p1a: Queengambit|atk|2
+|
+|upkeep
+|turn|10
+|
+|t:|1780992658
+|-terastallize|p1a: Queengambit|Dark
+|move|p2a: Cobalion|Iron Defense|p2a: Cobalion
+|-boost|p2a: Cobalion|def|2
+|move|p1a: Queengambit|Kowtow Cleave|p2a: Cobalion
+|-resisted|p2a: Cobalion
+|-damage|p2a: Cobalion|72/100
+|-damage|p1a: Queengambit|84/100|[from] item: Rocky Helmet|[of] p2a: Cobalion
+|-ability|p2a: Cobalion|Justified|boost
+|-boost|p2a: Cobalion|atk|1
+|
+|-heal|p1a: Queengambit|90/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1780992672
+|-end|p1a: Queengambit|fallen3|[silent]
+|switch|p1a: Gulp Gulp|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Gulp Gulp
+|move|p2a: Cobalion|Stealth Rock|p1a: Gulp Gulp
+|-sidestart|p1: psylxr|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1780992681
+|move|p2a: Cobalion|Volt Switch|p1a: Gulp Gulp
+|-supereffective|p1a: Gulp Gulp
+|-damage|p1a: Gulp Gulp|20/100
+|
+|t:|1780992686
+|switch|p2a: Raging Bolt|Raging Bolt, tera:Dragon|100/100|[from] Volt Switch
+|move|p1a: Gulp Gulp|Hurricane|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|68/100
+|-start|p2a: Raging Bolt|confusion
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1780992696
+|-activate|p2a: Raging Bolt|confusion
+|-damage|p2a: Raging Bolt|62/100|[from] confusion
+|move|p1a: Gulp Gulp|Roost|p1a: Gulp Gulp
+|-heal|p1a: Gulp Gulp|70/100
+|-singleturn|p1a: Gulp Gulp|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1780992705
+|-activate|p2a: Raging Bolt|confusion
+|-damage|p2a: Raging Bolt|57/100|[from] confusion
+|move|p1a: Gulp Gulp|Hurricane|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|23/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1780992712
+|-activate|p2a: Raging Bolt|confusion
+|move|p2a: Raging Bolt|Volt Switch|p1a: Gulp Gulp
+|-supereffective|p1a: Gulp Gulp
+|-damage|p1a: Gulp Gulp|0 fnt
+|faint|p1a: Gulp Gulp
+|
+|t:|1780992723
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] Volt Switch
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1780992729
+|switch|p1a: Queengambit|Kingambit, M, tera:Dark|90/100
+|-damage|p1a: Queengambit|78/100|[from] Stealth Rock
+|-activate|p1a: Queengambit|ability: Supreme Overlord
+|-start|p1a: Queengambit|fallen4|[silent]
+|turn|16
+|
+|t:|1780992739
+|switch|p2a: Cobalion|Cobalion|72/100
+|move|p1a: Queengambit|Sucker Punch||[still]
+|-fail|p1a: Queengambit
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Queengambit|84/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1780992747
+|move|p2a: Cobalion|Iron Defense|p2a: Cobalion
+|-boost|p2a: Cobalion|def|2
+|move|p1a: Queengambit|Iron Head|p2a: Cobalion
+|-resisted|p2a: Cobalion
+|-damage|p2a: Cobalion|60/100
+|-damage|p1a: Queengambit|68/100|[from] item: Rocky Helmet|[of] p2a: Cobalion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Queengambit|74/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1780992757
+|move|p1a: Queengambit|Sucker Punch|p2a: Cobalion
+|-resisted|p2a: Cobalion
+|-damage|p2a: Cobalion|47/100
+|-damage|p1a: Queengambit|57/100|[from] item: Rocky Helmet|[of] p2a: Cobalion
+|-ability|p2a: Cobalion|Justified|boost
+|-boost|p2a: Cobalion|atk|1
+|move|p2a: Cobalion|Body Press|p1a: Queengambit
+|-supereffective|p1a: Queengambit
+|-damage|p1a: Queengambit|0 fnt
+|faint|p1a: Queengambit
+|-end|p1a: Queengambit|fallen4|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1780992759
+|switch|p1a: Flip Flop|Barraskewda, F|100/100
+|-damage|p1a: Flip Flop|88/100|[from] Stealth Rock
+|turn|19
+|-message|psylxr forfeited.
+|
+|win|Billygunter
+|raw|psylxr's rating: 1699 &rarr; <strong>1688</strong><br />(-11 for losing)
+|raw|Billygunter's rating: 1861 &rarr; <strong>1872</strong><br />(+11 for winning)
+|l|☆psylxr
+|player|p1|
+|l|☆Billygunter
+|player|p2|

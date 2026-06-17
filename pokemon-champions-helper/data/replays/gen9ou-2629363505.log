@@ -1,0 +1,225 @@
+|j|☆BloDragon
+|j|☆KurisuChestnutOU
+|t:|1781122969
+|gametype|singles
+|player|p1|BloDragon|caitlin|1521
+|player|p2|KurisuChestnutOU|may-contest|1507
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragapult, M|
+|poke|p1|Tyranitar, F|
+|poke|p1|Zamazenta-*|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Great Tusk|
+|poke|p1|Rotom-Wash|
+|poke|p2|Kingambit, F|
+|poke|p2|Kommo-o, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Kyurem|
+|poke|p2|Iron Treads|
+|poke|p2|Iron Crown|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutOU)
+|
+|t:|1781122979
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rotom|Rotom-Wash, shiny|100/100
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-enditem|p2a: Iron Crown|Booster Energy
+|-activate|p2a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Crown|quarkdrivespe
+|turn|1
+|
+|t:|1781122986
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|move|p1a: Rotom|Volt Switch|p2a: Iron Crown
+|-damage|p2a: Iron Crown|86/100
+|
+|t:|1781122991
+|switch|p1a: tung tung tung tar|Tyranitar, F, shiny|100/100|[from] Volt Switch
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: tung tung tung tar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781122997
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: tung tung tung tar
+|-supereffective|p1a: tung tung tung tar
+|-damage|p1a: tung tung tung tar|55/100
+|-supereffective|p1a: tung tung tung tar
+|-damage|p1a: tung tung tung tar|5/100
+|-hitcount|p1a: tung tung tung tar|2
+|move|p1a: tung tung tung tar|Knock Off|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781123001
+|switch|p2a: Kommo-o|Kommo-o, F|100/100
+|turn|3
+|
+|t:|1781123010
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Kommo-o|Shadow Claw|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|65/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kommo-o|94/100|[from] Sandstorm
+|-damage|p1a: Slowking|59/100|[from] Sandstorm
+|-heal|p2a: Kommo-o|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781123020
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|68/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781123025
+|switch|p1a: smokin dat za|Zamazenta|100/100|[from] Chilly Reception
+|-ability|p1a: smokin dat za|Dauntless Shield|boost
+|-boost|p1a: smokin dat za|def|1
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Kommo-o|74/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781123032
+|-terastallize|p2a: Kommo-o|Ghost
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|41/100
+|move|p1a: smokin dat za|Body Press|p2a: Kommo-o
+|-immune|p2a: Kommo-o
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Kommo-o|47/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781123042
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|22/100
+|move|p1a: smokin dat za|Iron Defense|p1a: smokin dat za
+|-boost|p1a: smokin dat za|def|2
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Kommo-o|28/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781123048
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-fail|p2a: Kommo-o|move: Substitute
+|move|p1a: smokin dat za|Heavy Slam|p2a: Kommo-o
+|-activate|p2a: Kommo-o|move: Substitute|[damage]
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Kommo-o|35/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781123054
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-fail|p2a: Kommo-o|move: Substitute
+|move|p1a: smokin dat za|Heavy Slam|p2a: Kommo-o
+|-activate|p2a: Kommo-o|move: Substitute|[damage]
+|
+|-weather|none
+|-heal|p2a: Kommo-o|41/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781123062
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Kommo-o|Drain Punch|p1a: Dragapult
+|-immune|p1a: Dragapult
+|
+|-heal|p2a: Kommo-o|47/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781123067
+|move|p2a: Kommo-o|Shadow Claw|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-heal|p2a: Kommo-o|53/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781123072
+|switch|p1a: Rotom|Rotom-Wash, shiny|100/100
+|turn|11
+|
+|t:|1781123076
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-fail|p2a: Kommo-o|move: Substitute
+|move|p1a: Rotom|Hydro Pump|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|
+|-heal|p2a: Kommo-o|60/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781123081
+|move|p2a: Kommo-o|Shadow Claw|p1a: Rotom
+|-crit|p1a: Rotom
+|-damage|p1a: Rotom|35/100
+|move|p1a: Rotom|Hydro Pump|p2a: Kommo-o
+|-damage|p2a: Kommo-o|43/100
+|
+|-heal|p2a: Kommo-o|49/100|[from] item: Leftovers
+|-heal|p1a: Rotom|42/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781123087
+|move|p2a: Kommo-o|Drain Punch|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|-heal|p2a: Kommo-o|67/100|[from] drain|[of] p1a: Rotom
+|faint|p1a: Rotom
+|
+|-heal|p2a: Kommo-o|73/100|[from] item: Leftovers
+|upkeep
+|-message|BloDragon forfeited.
+|
+|win|KurisuChestnutOU
+|raw|BloDragon's rating: 1521 &rarr; <strong>1502</strong><br />(-19 for losing)
+|raw|KurisuChestnutOU's rating: 1531 &rarr; <strong>1550</strong><br />(+19 for winning)
+|l|☆BloDragon
+|player|p1|

@@ -1,0 +1,773 @@
+|j|☆my2005
+|j|‽LT_Alt1
+|t:|1781333158
+|gametype|singles
+|player|p1|my2005|1|1680
+|player|p2|LT_Alt1|1|1842
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Whimsicott, F|
+|poke|p1|Kyurem|
+|poke|p1|Cinderace, F|
+|poke|p1|Alomomola, M|
+|poke|p1|Gliscor, M|
+|poke|p2|Kyurem|
+|poke|p2|Raging Bolt|
+|poke|p2|Hatterene, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Corviknight, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by my2005)
+|
+|t:|1781333171
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|turn|1
+|
+|t:|1781333177
+|move|p1a: Cinderace|U-turn|p2a: Slowking
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p2a: Slowking|69/100
+|
+|t:|1781333180
+|switch|p1a: Slowking|Slowking-Galar, F|100/100|[from] U-turn
+|move|p2a: Slowking|Future Sight|p1a: Slowking
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|2
+|
+|t:|1781333195
+|move|p1a: Slowking|Ice Beam|p2a: Slowking
+|-damage|p2a: Slowking|49/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781333200
+|switch|p2a: Ting-Lu|Ting-Lu|100/100|[from] Chilly Reception
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781333212
+|move|p2a: Ting-Lu|Ruination|p1a: Slowking
+|-damage|p1a: Slowking|50/100
+|move|p1a: Slowking|Ice Beam|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|71/100
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Slowking|move: Future Sight
+|-damage|p1a: Slowking|30/100
+|-heal|p2a: Ting-Lu|77/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781333219
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|
+|-weather|Snowscape|[upkeep]
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|5
+|
+|t:|1781333233
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Kyurem|Blizzard|p1a: Kyurem
+|-damage|p1a: Kyurem|25/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kyurem|31/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781333244
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: Kyurem|Blizzard|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-weather|none
+|-heal|p1a: Kyurem|37/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781333250
+|switch|p2a: Slowking|Slowking-Galar, M|82/100
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781333259
+|move|p1a: Cinderace|U-turn|p2a: Slowking
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|40/100
+|
+|t:|1781333265
+|switch|p1a: Gliscor|Gliscor, M|100/100 tox|[from] U-turn
+|move|p2a: Slowking|Sludge Bomb|p1a: Gliscor
+|-resisted|p1a: Gliscor
+|-damage|p1a: Gliscor|81/100 tox
+|
+|-heal|p1a: Gliscor|94/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|9
+|
+|t:|1781333277
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Gliscor|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|79/100
+|-enditem|p2a: Hatterene|Leftovers|[from] move: Knock Off|[of] p1a: Gliscor
+|
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|10
+|
+|t:|1781333284
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|move|p2a: Hatterene|Psyshock|p1a: Gliscor
+|-damage|p1a: Gliscor|69/100 tox
+|
+|-heal|p1a: Gliscor|81/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|11
+|
+|t:|1781333294
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|
+|-heal|p1a: Gliscor|94/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|12
+|
+|t:|1781333298
+|move|p1a: Gliscor|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|55/100
+|-damage|p1a: Gliscor|77/100 tox|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-enditem|p2a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p1a: Gliscor
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|
+|-heal|p1a: Gliscor|89/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|13
+|
+|t:|1781333309
+|switch|p1a: Slowking|Slowking-Galar, F|64/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|14
+|
+|t:|1781333317
+|switch|p2a: Slowking|Slowking-Galar, M|74/100
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781333321
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|move|p2a: Slowking|Future Sight|p1a: Alomomola
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|16
+|
+|t:|1781333326
+|move|p1a: Alomomola|Flip Turn|p2a: Slowking
+|-damage|p2a: Slowking|60/100
+|
+|t:|1781333338
+|switch|p1a: Kyurem|Kyurem|37/100|[from] Flip Turn
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Slowking|Sludge Bomb|p1a: Kyurem
+|-damage|p1a: Kyurem|7/100
+|
+|-heal|p1a: Kyurem|74/100|[from] move: Wish|[wisher] Alomomola
+|-heal|p1a: Kyurem|80/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781333346
+|switch|p1a: Slowking|Slowking-Galar, F|97/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781333348
+|switch|p2a: Ting-Lu|Ting-Lu|77/100|[from] Chilly Reception
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Slowking|move: Future Sight
+|-damage|p1a: Slowking|76/100
+|-heal|p2a: Ting-Lu|83/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781333355
+|switch|p1a: Kyurem|Kyurem|80/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Ting-Lu|Spikes|p1a: Kyurem
+|-sidestart|p1: my2005|Spikes
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kyurem|86/100|[from] item: Leftovers
+|-heal|p2a: Ting-Lu|90/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|j| Mega Delibird X
+|
+|t:|1781333362
+|switch|p2a: Slowking|Slowking-Galar, M|93/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Slowking
+|-damage|p2a: Slowking|69/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kyurem|92/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781333368
+|move|p1a: Kyurem|Substitute|p1a: Kyurem
+|-start|p1a: Kyurem|Substitute
+|-damage|p1a: Kyurem|67/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1781333373
+|switch|p2a: Hatterene|Hatterene, F|79/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kyurem|73/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781333377
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: Hatterene|Dazzling Gleam|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-weather|none
+|-heal|p1a: Kyurem|79/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781333382
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Slowking
+|-damage|p2a: Slowking|76/100
+|
+|-heal|p1a: Kyurem|85/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781333386
+|move|p1a: Kyurem|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-enditem|p2a: Slowking|Shuca Berry|[eat]
+|-enditem|p2a: Slowking|Shuca Berry|[weaken]
+|-damage|p2a: Slowking|55/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Kyurem
+|-end|p1a: Kyurem|Substitute
+|
+|-heal|p1a: Kyurem|91/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781333395
+|move|p1a: Kyurem|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|10/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Kyurem
+|-damage|p1a: Kyurem|59/100
+|
+|-heal|p1a: Kyurem|65/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781333404
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Kyurem|Freeze-Dry|p2a: Corviknight
+|-damage|p2a: Corviknight|66/100
+|
+|-heal|p1a: Kyurem|71/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781333412
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p1a: Kyurem|77/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781333422
+|move|p1a: Kyurem|Substitute|p1a: Kyurem
+|-start|p1a: Kyurem|Substitute
+|-damage|p1a: Kyurem|53/100
+|move|p2a: Corviknight|Body Press|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-end|p1a: Kyurem|Substitute
+|
+|-heal|p1a: Kyurem|59/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781333425
+|switch|p2a: Slowking|Slowking-Galar, M|43/100
+|move|p1a: Kyurem|Protect||[still]
+|-fail|p1a: Kyurem
+|
+|-heal|p1a: Kyurem|65/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1781333429
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Kyurem|Earth Power|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-heal|p1a: Kyurem|71/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781333453
+|move|p1a: Kyurem|Substitute|p1a: Kyurem
+|-start|p1a: Kyurem|Substitute
+|-damage|p1a: Kyurem|46/100
+|move|p2a: Corviknight|Body Press|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-end|p1a: Kyurem|Substitute
+|
+|-heal|p1a: Kyurem|52/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1781333458
+|switch|p2a: Slowking|Slowking-Galar, M|77/100
+|move|p1a: Kyurem|Protect||[still]
+|-fail|p1a: Kyurem
+|
+|-heal|p1a: Kyurem|58/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1781333462
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: Slowking|Sludge Bomb|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-heal|p1a: Kyurem|64/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1781333468
+|move|p1a: Kyurem|Substitute|p1a: Kyurem
+|-start|p1a: Kyurem|Substitute
+|-damage|p1a: Kyurem|39/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781333471
+|switch|p2a: Ting-Lu|Ting-Lu|90/100|[from] Chilly Reception
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kyurem|45/100|[from] item: Leftovers
+|-heal|p2a: Ting-Lu|96/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1781333474
+|move|p1a: Kyurem|Freeze-Dry|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|61/100
+|move|p2a: Ting-Lu|Whirlwind|p1a: Kyurem
+|drag|p1a: Gliscor|Gliscor, M|89/100 tox
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Ting-Lu|67/100|[from] item: Leftovers
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|35
+|
+|t:|1781333481
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Gliscor|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|89/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|36
+|
+|t:|1781333485
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|move|p2a: Corviknight|Body Press|p1a: Gliscor
+|-resisted|p1a: Gliscor
+|-damage|p1a: Gliscor|90/100 tox
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|37
+|
+|t:|1781333491
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|-damage|p1a: Slowking|88/100|[from] Spikes
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|
+|-weather|none
+|upkeep
+|turn|38
+|
+|t:|1781333503
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Slowking|Flamethrower|p2a: Slowking
+|-damage|p2a: Slowking|79/100
+|
+|upkeep
+|turn|39
+|
+|t:|1781333511
+|switch|p1a: Gliscor|Gliscor, M|100/100 tox
+|move|p2a: Slowking|Future Sight|p1a: Gliscor
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|40
+|
+|t:|1781333522
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781333525
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|41
+|
+|t:|1781333533
+|-terastallize|p1a: Gliscor|Normal
+|move|p2a: Kyurem|Freeze-Dry|p1a: Gliscor
+|-damage|p1a: Gliscor|31/100 tox
+|move|p1a: Gliscor|Facade|p2a: Kyurem
+|-damage|p2a: Kyurem|32/100
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Gliscor|move: Future Sight
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|upkeep
+|
+|t:|1781333542
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|turn|42
+|
+|t:|1781333549
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|move|p1a: Cinderace|Pyro Ball|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|77/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|43
+|
+|t:|1781333554
+|move|p1a: Cinderace|U-turn|p2a: Raging Bolt
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p2a: Raging Bolt|47/100
+|
+|t:|1781333557
+|switch|p1a: Slowking|Slowking-Galar, F|100/100|[from] U-turn
+|-damage|p1a: Slowking|88/100|[from] Spikes
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Slowking
+|-damage|p1a: Slowking|44/100
+|-unboost|p2a: Raging Bolt|spa|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|44
+|
+|t:|1781333560
+|switch|p1a: Whimsicott|Whimsicott, F|100/100
+|-damage|p1a: Whimsicott|88/100|[from] Spikes
+|move|p2a: Raging Bolt|Volt Switch|p1a: Whimsicott
+|-resisted|p1a: Whimsicott
+|-damage|p1a: Whimsicott|75/100
+|
+|t:|1781333565
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|100/100|[from] Volt Switch
+|
+|-weather|none
+|-heal|p1a: Whimsicott|81/100|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|t:|1781333578
+|move|p1a: Whimsicott|U-turn|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|84/100
+|
+|t:|1781333587
+|switch|p1a: Slowking|Slowking-Galar, F|77/100|[from] U-turn
+|-damage|p1a: Slowking|65/100|[from] Spikes
+|move|p2a: Slowking|Future Sight|p1a: Slowking
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|46
+|
+|t:|1781333596
+|move|p1a: Slowking|Flamethrower|p2a: Slowking
+|-damage|p2a: Slowking|65/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781333599
+|switch|p2a: Kyurem|Kyurem|32/100|[from] Chilly Reception
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|47
+|
+|t:|1781333610
+|move|p2a: Kyurem|Draco Meteor|p1a: Slowking
+|-damage|p1a: Slowking|11/100
+|-unboost|p2a: Kyurem|spa|2
+|move|p1a: Slowking|Sludge Wave|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Slowking|move: Future Sight
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|upkeep
+|
+|t:|1781333621
+|switch|p2a: Slowking|Slowking-Galar, M|99/100
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|turn|48
+|l| Mega Delibird X
+|
+|t:|1781333625
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-start|p1a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|move|p2a: Slowking|Sludge Bomb|p1a: Cinderace
+|-damage|p1a: Cinderace|50/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|49
+|
+|t:|1781333631
+|move|p1a: Cinderace|U-turn|p2a: Slowking
+|-damage|p2a: Slowking|78/100
+|j| testingrainteam1
+|
+|t:|1781333634
+|switch|p1a: Kyurem|Kyurem|45/100|[from] U-turn
+|-ability|p1a: Kyurem|Pressure
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1781333642
+|switch|p2a: Corviknight|Corviknight, F|89/100|[from] Chilly Reception
+|-ability|p2a: Corviknight|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kyurem|51/100|[from] item: Leftovers
+|upkeep
+|turn|50
+|
+|t:|1781333663
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: Corviknight|Defog|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-weather|none
+|-heal|p1a: Kyurem|57/100|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1781333675
+|switch|p1a: Cinderace|Cinderace, F|50/100
+|move|p2a: Corviknight|Defog|p1a: Cinderace
+|-unboost|p1a: Cinderace|evasion|1
+|-sideend|p2: LT_Alt1|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|52
+|
+|t:|1781333684
+|switch|p2a: Ting-Lu|Ting-Lu|67/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Cinderace|Pyro Ball|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|38/100
+|
+|-heal|p2a: Ting-Lu|44/100|[from] item: Leftovers
+|upkeep
+|turn|53
+|
+|t:|1781333689
+|switch|p2a: Corviknight|Corviknight, F|89/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Cinderace|U-turn|p2a: Corviknight
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|83/100
+|
+|t:|1781333698
+|switch|p1a: Kyurem|Kyurem|57/100|[from] U-turn
+|-ability|p1a: Kyurem|Pressure
+|
+|-heal|p1a: Kyurem|63/100|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1781333705
+|move|p1a: Kyurem|Freeze-Dry|p2a: Corviknight
+|-damage|p2a: Corviknight|49/100
+|move|p2a: Corviknight|Body Press|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|19/100
+|
+|-heal|p1a: Kyurem|25/100|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|t:|1781333712
+|move|p1a: Kyurem|Freeze-Dry|p2a: Corviknight
+|-damage|p2a: Corviknight|12/100
+|move|p2a: Corviknight|Body Press|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781333715
+|switch|p1a: Cinderace|Cinderace, F|50/100
+|turn|56
+|
+|t:|1781333722
+|move|p1a: Cinderace|Pyro Ball|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781333724
+|switch|p2a: Raging Bolt|Raging Bolt|47/100
+|turn|57
+|
+|t:|1781333730
+|switch|p1a: Whimsicott|Whimsicott, F|81/100
+|move|p2a: Raging Bolt|Volt Switch|p1a: Whimsicott
+|-resisted|p1a: Whimsicott
+|-damage|p1a: Whimsicott|53/100
+|
+|t:|1781333733
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|100/100|[from] Volt Switch
+|
+|-heal|p1a: Whimsicott|60/100|[from] item: Leftovers
+|upkeep
+|turn|58
+|
+|t:|1781333749
+|move|p1a: Whimsicott|U-turn|p2a: Slowking
+|-damage|p2a: Slowking|90/100
+|
+|t:|1781333752
+|switch|p1a: Alomomola|Alomomola, M|100/100|[from] U-turn
+|move|p2a: Slowking|Sludge Bomb|p1a: Alomomola
+|-damage|p1a: Alomomola|60/100
+|
+|upkeep
+|turn|59
+|
+|t:|1781333761
+|move|p1a: Alomomola|Flip Turn|p2a: Slowking
+|-damage|p2a: Slowking|75/100
+|
+|t:|1781333763
+|switch|p1a: Cinderace|Cinderace, F|50/100|[from] Flip Turn
+|move|p2a: Slowking|Sludge Bomb|p1a: Cinderace
+|-damage|p1a: Cinderace|3/100
+|
+|upkeep
+|turn|60
+|
+|t:|1781333772
+|switch|p2a: Ting-Lu|Ting-Lu|44/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Cinderace|Sucker Punch||[still]
+|-fail|p1a: Cinderace
+|
+|-heal|p2a: Ting-Lu|51/100|[from] item: Leftovers
+|upkeep
+|turn|61
+|-message|my2005 forfeited.
+|
+|win|LT_Alt1
+|raw|my2005's rating: 1680 &rarr; <strong>1669</strong><br />(-11 for losing)
+|raw|LT_Alt1's rating: 1842 &rarr; <strong>1853</strong><br />(+11 for winning)
+|l|☆my2005
+|player|p1|
+|l| testingrainteam1

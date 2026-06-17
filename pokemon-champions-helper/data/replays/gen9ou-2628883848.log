@@ -1,0 +1,194 @@
+|j|☆Paperm47
+|j|☆phreshoatmeal
+|t:|1781067920
+|gametype|singles
+|player|p1|Paperm47|ash-sinnoh|1499
+|player|p2|phreshoatmeal|clerk|1528
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Regieleki|
+|poke|p1|Conkeldurr, M|
+|poke|p1|Corviknight, M|
+|poke|p1|Volcanion|
+|poke|p1|Meowscarada, F|
+|poke|p1|Iron Treads|
+|poke|p2|Tyranitar, F|
+|poke|p2|Excadrill, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Hydrapple, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Zamazenta-*|
+|teampreview
+|
+|t:|1781067937
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Meowscarada|Meowscarada, F|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|1
+|
+|t:|1781067953
+|move|p1a: Meowscarada|U-turn|p2a: Hatterene
+|-start|p1a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p2a: Hatterene|62/100
+|
+|t:|1781067956
+|switch|p1a: Iron Treads|Iron Treads|100/100|[from] U-turn
+|move|p2a: Hatterene|Draining Kiss|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|85/100
+|-heal|p2a: Hatterene|73/100|[from] drain|[of] p1a: Iron Treads
+|
+|-heal|p1a: Iron Treads|91/100|[from] item: Leftovers
+|-heal|p2a: Hatterene|79/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781067961
+|move|p1a: Iron Treads|Iron Head|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|23/100
+|move|p2a: Hatterene|Gravity|p2a: Hatterene
+|-fieldstart|move: Gravity
+|
+|-heal|p1a: Iron Treads|98/100|[from] item: Leftovers
+|-heal|p2a: Hatterene|29/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781067968
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|move|p1a: Iron Treads|Earthquake|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|21/100
+|-enditem|p2a: Corviknight|Eject Button
+|
+|t:|1781067976
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|
+|-heal|p1a: Iron Treads|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781067980
+|move|p2a: Zamazenta|Close Combat|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781067985
+|switch|p1a: Volcanion|Volcanion|100/100
+|turn|5
+|
+|t:|1781067991
+|switch|p2a: Hydrapple|Hydrapple, F|100/100
+|move|p1a: Volcanion|Flamethrower|p2a: Hydrapple
+|-damage|p2a: Hydrapple|20/100
+|-enditem|p2a: Hydrapple|Eject Button
+|
+|t:|1781067995
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781068002
+|switch|p1a: Meowscarada|Meowscarada, F|100/100
+|move|p2a: Excadrill|Earthquake|p1a: Meowscarada
+|-resisted|p1a: Meowscarada
+|-damage|p1a: Meowscarada|37/100
+|
+|-fieldend|move: Gravity
+|upkeep
+|turn|7
+|
+|t:|1781068008
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Meowscarada|U-turn|p2a: Tyranitar
+|-start|p1a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|32/100
+|
+|t:|1781068011
+|switch|p1a: Corviknight|Corviknight, M|100/100|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781068021
+|switch|p2a: Hatterene|Hatterene, F|29/100
+|move|p1a: Corviknight|Iron Defense|p1a: Corviknight
+|-boost|p1a: Corviknight|def|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hatterene|23/100|[from] Sandstorm
+|-heal|p2a: Hatterene|29/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781068025
+|move|p1a: Corviknight|Brave Bird|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|-damage|p1a: Corviknight|93/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|99/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781068029
+|switch|p2a: Hydrapple|Hydrapple, F|54/100
+|turn|10
+|
+|t:|1781068034
+|move|p1a: Corviknight|Brave Bird|p2a: Hydrapple
+|-supereffective|p2a: Hydrapple
+|-damage|p2a: Hydrapple|16/100
+|-damage|p1a: Corviknight|86/100|[from] Recoil
+|move|p2a: Hydrapple|Nasty Plot|p2a: Hydrapple
+|-boost|p2a: Hydrapple|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hydrapple|10/100|[from] Sandstorm
+|-heal|p1a: Corviknight|93/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781068043
+|switch|p2a: Corviknight|Corviknight, M|21/100
+|move|p1a: Corviknight|Body Press|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|99/100|[from] item: Leftovers
+|upkeep
+|-message|phreshoatmeal forfeited.
+|
+|win|Paperm47
+|raw|Paperm47's rating: 1499 &rarr; <strong>1521</strong><br />(+22 for winning)
+|raw|phreshoatmeal's rating: 1528 &rarr; <strong>1506</strong><br />(-22 for losing)
+|l|☆phreshoatmeal
+|player|p2|
+|l|☆Paperm47
+|player|p1|

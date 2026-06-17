@@ -1,0 +1,371 @@
+|j|☆Vitriso
+|j|☆hawkins0
+|t:|1781503925
+|gametype|singles
+|player|p1|Vitriso|102|1656
+|player|p2|hawkins0|2|1762
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Kyurem|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Kingambit, M|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Pecharunt|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hawkins0)
+|
+|t:|1781503940
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|turn|1
+|
+|t:|1781503944
+|move|p1a: Tornadus|Knock Off|p2a: Pisces
+|-damage|p2a: Pisces|87/100
+|-enditem|p2a: Pisces|Assault Vest|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Pisces|Body Slam|p1a: Tornadus
+|-damage|p1a: Tornadus|81/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781503950
+|move|p1a: Tornadus|U-turn|p2a: Pisces
+|-damage|p2a: Pisces|77/100
+|
+|t:|1781503952
+|switch|p1a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|move|p2a: Pisces|Body Slam|p1a: Slowking
+|-damage|p1a: Slowking|89/100
+|-status|p1a: Slowking|par
+|
+|-heal|p1a: Slowking|95/100 par|[from] item: Black Sludge
+|upkeep
+|turn|3
+|
+|t:|1781503964
+|move|p2a: Pisces|Flip Turn|p1a: Slowking
+|-damage|p1a: Slowking|83/100 par
+|
+|t:|1781503969
+|switch|p2a: Khaos|Hoopa-Unbound|100/100|[from] Flip Turn
+|move|p1a: Slowking|Future Sight|p2a: Khaos
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p1a: Slowking|90/100 par|[from] item: Black Sludge
+|upkeep
+|turn|4
+|
+|t:|1781503973
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Khaos|Knock Off|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|66/100
+|-damage|p2a: Khaos|84/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|-enditem|p1a: Great Tusk|Rocky Helmet|[from] move: Knock Off|[of] p2a: Khaos
+|
+|upkeep
+|turn|5
+|
+|t:|1781503984
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Pisces
+|-damage|p2a: Pisces|53/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-end|p2a: Pisces|move: Future Sight
+|-damage|p2a: Pisces|16/100
+|upkeep
+|turn|6
+|
+|t:|1781503992
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|switch|p2a: Overseer|Pecharunt|100/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781504002
+|move|p1a: Kyurem|Earth Power|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|13/100
+|move|p2a: Overseer|Malignant Chain|p1a: Kyurem
+|-damage|p1a: Kyurem|71/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781504011
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Overseer|Recover|p2a: Overseer
+|-heal|p2a: Overseer|64/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781504016
+|move|p1a: Tornadus|Knock Off|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|45/100
+|-enditem|p2a: Overseer|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Overseer|Malignant Chain|p1a: Tornadus
+|-damage|p1a: Tornadus|81/100
+|-status|p1a: Tornadus|tox
+|-start|p1a: Tornadus|confusion|[from] ability: Poison Puppeteer|[of] p2a: Overseer
+|
+|-damage|p1a: Tornadus|75/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1781504023
+|-activate|p1a: Tornadus|confusion
+|-damage|p1a: Tornadus|64/100 tox|[from] confusion
+|move|p2a: Overseer|Recover|p2a: Overseer
+|-heal|p2a: Overseer|95/100
+|
+|-damage|p1a: Tornadus|52/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1781504032
+|-activate|p1a: Tornadus|confusion
+|move|p1a: Tornadus|U-turn|p2a: Overseer
+|-resisted|p2a: Overseer
+|-damage|p2a: Overseer|93/100
+|
+|t:|1781504035
+|switch|p1a: Kingambit|Kingambit, M|100/100|[from] U-turn
+|move|p2a: Overseer|Parting Shot|p1a: Kingambit
+|-unboost|p1a: Kingambit|atk|1
+|-unboost|p1a: Kingambit|spa|1
+|
+|t:|1781504041
+|switch|p2a: Calamity|Iron Valiant, shiny|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|12
+|
+|t:|1781504048
+|-end|p2a: Calamity|Quark Drive|[silent]
+|switch|p2a: Khaos|Hoopa-Unbound|84/100
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Tornadus|Tornadus-Therian, M|85/100 tox
+|
+|-damage|p1a: Tornadus|79/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1781504075
+|move|p1a: Tornadus|U-turn|p2a: Khaos
+|-supereffective|p2a: Khaos
+|-damage|p2a: Khaos|0 fnt
+|faint|p2a: Khaos
+|
+|t:|1781504086
+|switch|p1a: Slowking|Slowking-Galar, M|100/100 par|[from] U-turn
+|
+|upkeep
+|
+|t:|1781504094
+|switch|p2a: Liberacy|Cinderace, M, shiny|100/100
+|turn|14
+|
+|t:|1781504100
+|-terastallize|p2a: Liberacy|Fire
+|move|p2a: Liberacy|Pyro Ball|p1a: Slowking
+|-damage|p1a: Slowking|49/100 par
+|move|p1a: Slowking|Future Sight|p2a: Liberacy
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p1a: Slowking|55/100 par|[from] item: Black Sludge
+|upkeep
+|turn|15
+|
+|t:|1781504107
+|move|p2a: Liberacy|Pyro Ball|p1a: Slowking|[miss]
+|-miss|p2a: Liberacy|p1a: Slowking
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781504114
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100 tox|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Tornadus|94/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1781504125
+|switch|p2a: Pisces|Alomomola, M, shiny|49/100
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Pisces
+|-damage|p2a: Pisces|18/100
+|-unboost|p2a: Pisces|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Pisces|move: Future Sight
+|-damage|p2a: Pisces|0 fnt
+|faint|p2a: Pisces
+|-damage|p1a: Tornadus|82/100 tox|[from] psn
+|upkeep
+|
+|t:|1781504129
+|switch|p2a: Liberacy|Cinderace, M, shiny, tera:Fire|100/100
+|turn|17
+|
+|t:|1781504133
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Liberacy
+|-damage|p2a: Liberacy|42/100
+|-unboost|p2a: Liberacy|spe|1
+|move|p2a: Liberacy|Pyro Ball|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|inactive|Vitriso has 120 seconds left.
+|inactive|Vitriso has 90 seconds left.
+|
+|t:|1781504196
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|turn|18
+|inactive|hawkins0 has 120 seconds left.
+|
+|t:|1781504227
+|move|p2a: Liberacy|U-turn|p1a: Hatterene
+|-damage|p1a: Hatterene|82/100
+|-damage|p2a: Liberacy|26/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|
+|t:|1781504229
+|switch|p2a: Overseer|Pecharunt|93/100|[from] U-turn
+|move|p1a: Hatterene|Psychic Noise|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|29/100
+|-start|p2a: Overseer|move: Heal Block
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781504239
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|move|p2a: Overseer|Parting Shot|p1a: Kingambit
+|-unboost|p1a: Kingambit|atk|1
+|-unboost|p1a: Kingambit|spa|1
+|inactive|hawkins0 has 120 seconds left.
+|
+|t:|1781504267
+|switch|p2a: Calamity|Iron Valiant, shiny|100/100|[from] Parting Shot
+|
+|-weather|none
+|upkeep
+|turn|20
+|
+|t:|1781504271
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Slowking|Slowking-Galar, M|88/100 par
+|move|p2a: Calamity|Shadow Ball|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|20/100 par
+|
+|-heal|p1a: Slowking|26/100 par|[from] item: Black Sludge
+|upkeep
+|turn|21
+|
+|t:|1781504278
+|-end|p2a: Calamity|Quark Drive|[silent]
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Slowking|atk|1
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|
+|upkeep
+|turn|22
+|inactive|hawkins0 has 120 seconds left.
+|
+|t:|1781504306
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Great Tusk|Great Tusk|66/100
+|move|p2a: Enten|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|27/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781504318
+|move|p2a: Enten|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781504322
+|switch|p1a: Kyurem|Kyurem|71/100
+|-ability|p1a: Kyurem|Pressure
+|turn|24
+|
+|t:|1781504326
+|switch|p2a: Overseer|Pecharunt|29/100
+|move|p1a: Kyurem|Ice Beam|p2a: Overseer
+|-damage|p2a: Overseer|0 fnt
+|faint|p2a: Overseer
+|
+|upkeep
+|
+|t:|1781504328
+|switch|p2a: Liberacy|Cinderace, M, shiny, tera:Fire|26/100
+|turn|25
+|
+|t:|1781504332
+|switch|p1a: Hatterene|Hatterene, F|82/100
+|move|p2a: Liberacy|Pyro Ball|p1a: Hatterene|[miss]
+|-miss|p2a: Liberacy|p1a: Hatterene
+|
+|upkeep
+|turn|26
+|
+|t:|1781504341
+|move|p2a: Liberacy|Pyro Ball|p1a: Hatterene|[miss]
+|-miss|p2a: Liberacy|p1a: Hatterene
+|move|p1a: Hatterene|Psychic Noise|p2a: Liberacy
+|-damage|p2a: Liberacy|0 fnt
+|faint|p2a: Liberacy
+|
+|upkeep
+|-message|hawkins0 forfeited.
+|
+|win|Vitriso
+|raw|Vitriso's rating: 1656 &rarr; <strong>1683</strong><br />(+27 for winning)
+|raw|hawkins0's rating: 1775 &rarr; <strong>1748</strong><br />(-27 for losing)
+|l|☆hawkins0
+|player|p2|
+|l|☆Vitriso
+|player|p1|

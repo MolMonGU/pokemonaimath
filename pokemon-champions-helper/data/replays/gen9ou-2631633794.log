@@ -1,0 +1,238 @@
+|j|☆Klopple
+|j|☆sorry4usingstall
+|t:|1781412141
+|gametype|singles
+|player|p1|Klopple|sailor|1702
+|player|p2|sorry4usingstall|colress|1725
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Arboliva, F|
+|poke|p1|Gliscor, M|
+|poke|p1|Iron Crown|
+|poke|p1|Zamazenta-*|
+|poke|p1|Hatterene, F|
+|poke|p1|Dragonite, M|
+|poke|p2|Clodsire, F|
+|poke|p2|Dondozo, F|
+|poke|p2|Alomomola, F|
+|poke|p2|Talonflame, F|
+|poke|p2|Toxapex, F|
+|poke|p2|Blissey, F|
+|teampreview
+|
+|t:|1781412149
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|switch|p2a: Nice Try.|Talonflame, F, shiny|100/100
+|turn|1
+|
+|t:|1781412152
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Nice Try.|Will-O-Wisp|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781412156
+|switch|p2a: Keep Trying.|Toxapex, F|100/100
+|move|p1a: Gliscor|Knock Off|p2a: Keep Trying.
+|-damage|p2a: Keep Trying.|87/100
+|-enditem|p2a: Keep Trying.|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Gliscor
+|
+|upkeep
+|turn|3
+|
+|t:|1781412167
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Keep Trying.|Infestation|p1a: Hatterene
+|-damage|p1a: Hatterene|97/100
+|-activate|p1a: Hatterene|move: Infestation|[of] p2a: Keep Trying.
+|-damage|p2a: Keep Trying.|71/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|
+|-damage|p1a: Hatterene|85/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|4
+|
+|t:|1781412175
+|switch|p2a: Still Trying?|Blissey, F, shiny|100/100
+|move|p1a: Hatterene|Psychic Noise|p2a: Still Trying?
+|-damage|p2a: Still Trying?|90/100
+|-start|p2a: Still Trying?|move: Heal Block
+|
+|-end|p1a: Hatterene|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|turn|5
+|
+|t:|1781412181
+|move|p2a: Still Trying?|Shadow Ball|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|56/100
+|-unboost|p1a: Hatterene|spd|1
+|move|p1a: Hatterene|Pain Split|p2a: Still Trying?
+|-sethp|p2a: Still Trying?|59/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Hatterene|100/100|[from] move: Pain Split
+|
+|-end|p2a: Still Trying?|move: Heal Block
+|upkeep
+|turn|6
+|
+|t:|1781412192
+|move|p2a: Still Trying?|Calm Mind|p2a: Still Trying?
+|-boost|p2a: Still Trying?|spa|1
+|-boost|p2a: Still Trying?|spd|1
+|move|p1a: Hatterene|Psychic Noise|p2a: Still Trying?
+|-damage|p2a: Still Trying?|52/100
+|-start|p2a: Still Trying?|move: Heal Block
+|
+|upkeep
+|turn|7
+|
+|t:|1781412197
+|move|p2a: Still Trying?|Shadow Ball|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|32/100
+|move|p1a: Hatterene|Nuzzle|p2a: Still Trying?
+|-damage|p2a: Still Trying?|47/100
+|-status|p2a: Still Trying?|par
+|
+|-end|p2a: Still Trying?|move: Heal Block
+|upkeep
+|turn|8
+|
+|t:|1781412203
+|move|p1a: Hatterene|Pain Split|p2a: Still Trying?
+|-sethp|p2a: Still Trying?|32/100 par|[from] move: Pain Split|[silent]
+|-sethp|p1a: Hatterene|64/100|[from] move: Pain Split
+|cant|p2a: Still Trying?|par
+|
+|upkeep
+|turn|9
+|
+|t:|1781412209
+|move|p1a: Hatterene|Psychic Noise|p2a: Still Trying?
+|-damage|p2a: Still Trying?|25/100 par
+|-start|p2a: Still Trying?|move: Heal Block
+|cant|p2a: Still Trying?|par
+|
+|upkeep
+|turn|10
+|
+|t:|1781412231
+|switch|p1a: Gliscor|Gliscor, M|100/100 tox
+|move|p2a: Still Trying?|Shadow Ball|p1a: Gliscor
+|-damage|p1a: Gliscor|82/100 tox
+|
+|-heal|p1a: Gliscor|94/100 tox|[from] ability: Poison Heal
+|-end|p2a: Still Trying?|move: Heal Block
+|upkeep
+|turn|11
+|
+|t:|1781412237
+|-curestatus|p2a: Still Trying?|par|[from] ability: Natural Cure|[silent]
+|switch|p2a: Try Harder.|Alomomola, F, shiny|100/100
+|move|p1a: Gliscor|Earthquake|p2a: Try Harder.
+|-damage|p2a: Try Harder.|79/100
+|
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|12
+|
+|t:|1781412244
+|move|p2a: Try Harder.|Protect|p2a: Try Harder.
+|-singleturn|p2a: Try Harder.|Protect
+|move|p1a: Gliscor|Knock Off|p2a: Try Harder.
+|-activate|p2a: Try Harder.|move: Protect
+|
+|upkeep
+|turn|13
+|
+|t:|1781412249
+|move|p1a: Gliscor|Knock Off|p2a: Try Harder.
+|-damage|p2a: Try Harder.|65/100
+|-enditem|p2a: Try Harder.|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Gliscor
+|move|p2a: Try Harder.|Wish|p2a: Try Harder.
+|
+|upkeep
+|turn|14
+|
+|t:|1781412267
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|move|p2a: Try Harder.|Flip Turn|p1a: Iron Crown
+|-damage|p1a: Iron Crown|84/100
+|
+|t:|1781412271
+|switch|p2a: Still Trying?|Blissey, F, shiny|25/100|[from] Flip Turn
+|
+|-heal|p2a: Still Trying?|61/100|[from] move: Wish|[wisher] Try Harder.
+|upkeep
+|turn|15
+|
+|t:|1781412276
+|switch|p2a: Try Harder.|Alomomola, F, shiny|98/100
+|move|p1a: Iron Crown|Psychic Noise|p2a: Try Harder.
+|-damage|p2a: Try Harder.|62/100
+|-start|p2a: Try Harder.|move: Heal Block
+|
+|upkeep
+|turn|16
+|
+|t:|1781412285
+|move|p2a: Try Harder.|Protect|p2a: Try Harder.
+|-singleturn|p2a: Try Harder.|Protect
+|move|p1a: Iron Crown|Future Sight|p2a: Try Harder.
+|-start|p1a: Iron Crown|move: Future Sight
+|
+|-end|p2a: Try Harder.|move: Heal Block
+|upkeep
+|turn|17
+|
+|t:|1781412289
+|move|p1a: Iron Crown|Psychic Noise|p2a: Try Harder.
+|-damage|p2a: Try Harder.|26/100
+|-start|p2a: Try Harder.|move: Heal Block
+|cant|p2a: Try Harder.|move: Heal Block|Wish
+|
+|upkeep
+|turn|18
+|
+|t:|1781412300
+|switch|p2a: Still Trying?|Blissey, F, shiny|61/100
+|move|p1a: Iron Crown|Psychic Noise|p2a: Still Trying?
+|-damage|p2a: Still Trying?|50/100
+|-start|p2a: Still Trying?|move: Heal Block
+|
+|-end|p2a: Still Trying?|move: Future Sight
+|-crit|p2a: Still Trying?
+|-damage|p2a: Still Trying?|23/100
+|upkeep
+|turn|19
+|l|☆sorry4usingstall
+|player|p2|
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Klopple)
+|inactive|sorry4usingstall has 30 seconds to reconnect!
+|inactive|sorry4usingstall has 20 seconds to reconnect!
+|inactive|sorry4usingstall has 15 seconds to reconnect!
+|inactive|sorry4usingstall has 10 seconds to reconnect!
+|inactive|sorry4usingstall has 5 seconds to reconnect!
+|-message|sorry4usingstall lost due to inactivity.
+|
+|win|Klopple
+|raw|Klopple's rating: 1702 &rarr; <strong>1723</strong><br />(+21 for winning)
+|raw|sorry4usingstall's rating: 1725 &rarr; <strong>1704</strong><br />(-21 for losing)
+|l|☆Klopple
+|player|p1|

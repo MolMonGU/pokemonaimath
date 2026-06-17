@@ -1,0 +1,431 @@
+|j|‽LT_Alt1
+|j|‽yesterdaymister
+|t:|1780897769
+|gametype|singles
+|player|p1|LT_Alt1|265|1693
+|player|p2|yesterdaymister|striker|1747
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Garganacl, F|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Kyurem|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Moltres|
+|poke|p1|Iron Treads|
+|poke|p2|Ninetales, F|
+|poke|p2|Ceruledge, M|
+|poke|p2|Venusaur, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Great Tusk|
+|poke|p2|Walking Wake|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yesterdaymister)
+|
+|t:|1780897781
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|1
+|
+|t:|1780897789
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Great Tusk|Stealth Rock|p1a: Moltres
+|-sidestart|p1: LT_Alt1|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1780897799
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|move|p1a: Moltres|U-turn|p2a: Walking Wake
+|-damage|p2a: Walking Wake|84/100
+|
+|t:|1780897803
+|switch|p1a: Slowking|Slowking-Galar, F|100/100|[from] U-turn
+|-damage|p1a: Slowking|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1780897807
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Slowking|Future Sight|p2a: Hatterene
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|4
+|
+|t:|1780897810
+|move|p2a: Hatterene|Nuzzle|p1a: Slowking
+|-damage|p1a: Slowking|84/100
+|-status|p1a: Slowking|par
+|cant|p1a: Slowking|par
+|
+|upkeep
+|turn|5
+|
+|t:|1780897813
+|move|p2a: Hatterene|Psychic Noise|p1a: Slowking
+|-damage|p1a: Slowking|65/100 par
+|-start|p1a: Slowking|move: Heal Block
+|move|p1a: Slowking|Sludge Bomb|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|40/100
+|-status|p2a: Hatterene|psn
+|-enditem|p2a: Hatterene|Eject Button
+|
+|t:|1780897822
+|switch|p2a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|-end|p2a: Ninetales|move: Future Sight
+|-damage|p2a: Ninetales|57/100
+|upkeep
+|turn|6
+|
+|t:|1780897835
+|move|p2a: Ninetales|Encore|p1a: Slowking
+|-start|p1a: Slowking|Encore
+|move|p1a: Slowking|Sludge Bomb|p2a: Ninetales
+|-damage|p2a: Ninetales|22/100
+|-status|p2a: Ninetales|psn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Ninetales|10/100 psn|[from] psn
+|-end|p1a: Slowking|move: Heal Block
+|upkeep
+|turn|7
+|
+|t:|1780897846
+|switch|p2a: Hatterene|Hatterene, F|40/100 psn
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|-damage|p1a: Garganacl|88/100|[from] Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Garganacl|94/100|[from] item: Leftovers
+|-damage|p2a: Hatterene|28/100 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1780897850
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-damage|p1a: Iron Treads|98/100|[from] Stealth Rock
+|move|p2a: Hatterene|Healing Wish|p2a: Hatterene
+|faint|p2a: Hatterene
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Treads|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780897852
+|switch|p2a: Ninetales|Ninetales, F|10/100 psn
+|-heal|p2a: Ninetales|100/100|[from] move: Healing Wish
+|turn|9
+|
+|t:|1780897867
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisspe
+|move|p1a: Iron Treads|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: yesterdaymister|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1780897874
+|move|p2a: Great Tusk|Rapid Spin|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|95/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: yesterdaymister|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|move|p1a: Iron Treads|Rapid Spin|p2a: Great Tusk
+|-damage|p2a: Great Tusk|92/100
+|-boost|p1a: Iron Treads|spe|1
+|-damage|p1a: Iron Treads|78/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|-sideend|p1: LT_Alt1|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Treads|84/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1780897880
+|move|p2a: Great Tusk|Stealth Rock|p1a: Iron Treads
+|-sidestart|p1: LT_Alt1|move: Stealth Rock
+|move|p1a: Iron Treads|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: yesterdaymister|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Treads|90/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1780897887
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Moltres
+|-damage|p1a: Moltres|90/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: yesterdaymister|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|-weather|none
+|-end|p2a: Great Tusk|Protosynthesis
+|upkeep
+|turn|13
+|
+|t:|1780897895
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|move|p1a: Moltres|U-turn|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|92/100
+|
+|t:|1780897901
+|switch|p1a: Slowking|Slowking-Galar, F|98/100 par|[from] U-turn
+|-damage|p1a: Slowking|86/100 par|[from] Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1780897905
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1780897913
+|switch|p1a: Garganacl|Garganacl, F|94/100|[from] Chilly Reception
+|-damage|p1a: Garganacl|82/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Garganacl|88/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1780897916
+|switch|p2a: Great Tusk|Great Tusk|92/100
+|move|p1a: Garganacl|Salt Cure|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|90/100
+|-start|p2a: Great Tusk|Salt Cure
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Garganacl|94/100|[from] item: Leftovers
+|-damage|p2a: Great Tusk|78/100|[from] Salt Cure
+|upkeep
+|turn|16
+|
+|t:|1780897924
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Ninetales|Ninetales, F|92/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|move|p1a: Garganacl|Salt Cure|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-crit|p2a: Ninetales
+|-damage|p2a: Ninetales|38/100
+|-start|p2a: Ninetales|Salt Cure
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Garganacl|100/100|[from] item: Leftovers
+|-damage|p2a: Ninetales|26/100|[from] Salt Cure
+|upkeep
+|turn|17
+|
+|t:|1780897931
+|switch|p2a: Great Tusk|Great Tusk|78/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisspe
+|move|p1a: Garganacl|Salt Cure|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|76/100
+|-start|p2a: Great Tusk|Salt Cure
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Great Tusk|63/100|[from] Salt Cure
+|upkeep
+|turn|18
+|
+|t:|1780897937
+|switch|p1a: Moltres|Moltres|90/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Moltres
+|-immune|p1a: Moltres
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Great Tusk|51/100|[from] Salt Cure
+|upkeep
+|turn|19
+|
+|t:|1780897942
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Walking Wake|Walking Wake|84/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspa
+|move|p1a: Moltres|U-turn|p2a: Walking Wake
+|-crit|p2a: Walking Wake
+|-damage|p2a: Walking Wake|61/100
+|
+|t:|1780897947
+|switch|p1a: Slowking|Slowking-Galar, F|100/100 par|[from] U-turn
+|-damage|p1a: Slowking|88/100 par|[from] Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1780897952
+|move|p2a: Walking Wake|Draco Meteor|p1a: Slowking
+|-damage|p1a: Slowking|11/100 par
+|-unboost|p2a: Walking Wake|spa|2
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|-end|p2a: Walking Wake|Protosynthesis
+|
+|t:|1780897957
+|switch|p1a: Iron Treads|Iron Treads|90/100|[from] Chilly Reception
+|-damage|p1a: Iron Treads|87/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Iron Treads|93/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1780897963
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|move|p1a: Iron Treads|Earthquake|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|3/100
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Iron Treads|99/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1780897970
+|move|p2a: Ceruledge|Bitter Blade|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|25/100
+|-heal|p2a: Ceruledge|51/100|[from] drain|[of] p1a: Iron Treads
+|move|p1a: Iron Treads|Earthquake|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Iron Treads|31/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780897976
+|switch|p2a: Ninetales|Ninetales, F|26/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|23
+|
+|t:|1780897981
+|switch|p2a: Great Tusk|Great Tusk|51/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisspe
+|move|p1a: Iron Treads|Rapid Spin|p2a: Great Tusk
+|-damage|p2a: Great Tusk|42/100
+|-boost|p1a: Iron Treads|spe|1
+|-damage|p1a: Iron Treads|15/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|-sideend|p1: LT_Alt1|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Treads|21/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1780897988
+|move|p1a: Iron Treads|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|18/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-crit|p1a: Iron Treads
+|-damage|p1a: Iron Treads|12/100
+|-boost|p2a: Great Tusk|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Treads|18/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1780897997
+|move|p2a: Great Tusk|Stealth Rock|p1a: Iron Treads
+|-sidestart|p1: LT_Alt1|move: Stealth Rock
+|move|p1a: Iron Treads|Rapid Spin|p2a: Great Tusk
+|-damage|p2a: Great Tusk|9/100
+|-boost|p1a: Iron Treads|spe|1
+|-damage|p1a: Iron Treads|2/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|-sideend|p1: LT_Alt1|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Treads|8/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1780898005
+|move|p1a: Iron Treads|Earthquake|p2a: Great Tusk
+|-crit|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Treads|14/100|[from] item: Leftovers
+|upkeep
+|j| oatmealrazen
+|
+|t:|1780898010
+|switch|p2a: Venusaur|Venusaur, M|100/100
+|turn|27
+|
+|t:|1780898016
+|move|p1a: Iron Treads|Earthquake|p2a: Venusaur
+|-damage|p2a: Venusaur|48/100
+|move|p2a: Venusaur|Growth|p2a: Venusaur
+|-boost|p2a: Venusaur|atk|2
+|-boost|p2a: Venusaur|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Treads|20/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1780898022
+|move|p1a: Iron Treads|Earthquake|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Treads|26/100|[from] item: Leftovers
+|upkeep
+|-message|yesterdaymister forfeited.
+|
+|win|LT_Alt1
+|raw|LT_Alt1's rating: 1693 &rarr; <strong>1716</strong><br />(+23 for winning)
+|raw|yesterdaymister's rating: 1747 &rarr; <strong>1724</strong><br />(-23 for losing)
+|l|‽yesterdaymister
+|player|p2|
+|l| oatmealrazen

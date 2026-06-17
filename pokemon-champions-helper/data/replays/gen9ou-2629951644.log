@@ -1,0 +1,279 @@
+|j|☆SpringLucina
+|j|☆The median voter
+|t:|1781195865
+|gametype|singles
+|player|p1|SpringLucina|will|1599
+|player|p2|The median voter|scientist-gen4dp|1685
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Darkrai|
+|poke|p1|Clefable, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Corviknight, F|
+|poke|p1|Great Tusk|
+|poke|p1|Iron Crown|
+|poke|p2|Zapdos|
+|poke|p2|Great Tusk|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Alomomola, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Rillaboom, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SpringLucina)
+|
+|t:|1781195892
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Darkrai|Darkrai|100/100
+|switch|p2a: The End of All|Hoopa-Unbound|100/100
+|turn|1
+|
+|t:|1781195898
+|move|p1a: Darkrai|Dark Pulse|p2a: The End of All
+|-damage|p2a: The End of All|70/100
+|move|p2a: The End of All|Drain Punch|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|24/100
+|-heal|p2a: The End of All|99/100|[from] drain|[of] p1a: Darkrai
+|
+|upkeep
+|turn|2
+|
+|t:|1781195906
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: The End of All|Psychic Noise|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|76/100
+|-start|p1a: Corviknight|move: Heal Block
+|
+|upkeep
+|turn|3
+|
+|t:|1781195910
+|switch|p2a: Preacher|Zapdos|100/100
+|move|p1a: Corviknight|U-turn|p2a: Preacher
+|-resisted|p2a: Preacher
+|-damage|p2a: Preacher|96/100
+|
+|t:|1781195913
+|switch|p1a: Darkrai|Darkrai|24/100|[from] U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1781195917
+|switch|p2a: The End of All|Hoopa-Unbound|99/100
+|move|p1a: Darkrai|Ice Beam|p2a: The End of All
+|-damage|p2a: The End of All|75/100
+|-status|p2a: The End of All|frz
+|
+|upkeep
+|turn|5
+|
+|t:|1781195923
+|switch|p1a: Clefable|Clefable, F|100/100
+|cant|p2a: The End of All|frz
+|
+|upkeep
+|turn|6
+|
+|t:|1781195926
+|cant|p2a: The End of All|frz
+|move|p1a: Clefable|Stealth Rock|p2a: The End of All
+|-sidestart|p2: The median voter|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1781195927
+|cant|p2a: The End of All|frz
+|move|p1a: Clefable|Moonblast|p2a: The End of All
+|-supereffective|p2a: The End of All
+|-damage|p2a: The End of All|44/100 frz
+|-unboost|p2a: The End of All|spa|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781195930
+|cant|p2a: The End of All|frz
+|move|p1a: Clefable|Moonblast|p2a: The End of All
+|-supereffective|p2a: The End of All
+|-damage|p2a: The End of All|14/100 frz
+|
+|upkeep
+|turn|9
+|
+|t:|1781195933
+|cant|p2a: The End of All|frz
+|move|p1a: Clefable|Moonblast|p2a: The End of All
+|-supereffective|p2a: The End of All
+|-damage|p2a: The End of All|0 fnt
+|faint|p2a: The End of All
+|
+|upkeep
+|
+|t:|1781195939
+|switch|p2a: Zealot|Rillaboom, F|100/100
+|-damage|p2a: Zealot|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Zealot
+|turn|10
+|
+|t:|1781195941
+|move|p2a: Zealot|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|81/100
+|-enditem|p1a: Clefable|Leftovers|[from] move: Knock Off|[of] p2a: Zealot
+|move|p1a: Clefable|Thunder Wave|p2a: Zealot
+|-status|p2a: Zealot|par
+|
+|-heal|p1a: Clefable|88/100|[from] Grassy Terrain
+|-heal|p2a: Zealot|94/100 par|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781195945
+|switch|p1a: Corviknight|Corviknight, F|76/100
+|-ability|p1a: Corviknight|Pressure
+|cant|p2a: Zealot|par
+|
+|-heal|p2a: Zealot|100/100 par|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781195947
+|move|p1a: Corviknight|U-turn|p2a: Zealot
+|-supereffective|p2a: Zealot
+|-damage|p2a: Zealot|70/100 par
+|
+|t:|1781195951
+|switch|p1a: Clefable|Clefable, F|88/100|[from] U-turn
+|cant|p2a: Zealot|par
+|
+|-heal|p1a: Clefable|94/100|[from] Grassy Terrain
+|-heal|p2a: Zealot|77/100 par|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781195956
+|switch|p1a: Corviknight|Corviknight, F|76/100
+|-ability|p1a: Corviknight|Pressure
+|switch|p2a: Preacher|Zapdos|96/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781195965
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Preacher|U-turn|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|95/100
+|
+|t:|1781195971
+|switch|p2a: Zealot|Rillaboom, F|77/100 par|[from] U-turn
+|-damage|p2a: Zealot|64/100 par|[from] Stealth Rock
+|
+|-heal|p1a: Great Tusk|100/100|[from] Grassy Terrain
+|-heal|p2a: Zealot|70/100 par|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1781195976
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Corviknight|Corviknight, F|76/100
+|-ability|p1a: Corviknight|Pressure
+|cant|p2a: Zealot|par
+|
+|upkeep
+|turn|16
+|
+|t:|1781195979
+|switch|p2a: Preacher|Zapdos|96/100
+|move|p1a: Corviknight|U-turn|p2a: Preacher
+|-resisted|p2a: Preacher
+|-damage|p2a: Preacher|90/100
+|-status|p1a: Corviknight|par|[from] ability: Static|[of] p2a: Preacher
+|
+|t:|1781195981
+|switch|p1a: Darkrai|Darkrai|24/100|[from] U-turn
+|
+|upkeep
+|turn|17
+|
+|t:|1781195985
+|switch|p2a: Holy Envoy|Alomomola, M|100/100
+|-damage|p2a: Holy Envoy|88/100|[from] Stealth Rock
+|move|p1a: Darkrai|Dark Pulse|p2a: Holy Envoy
+|-damage|p2a: Holy Envoy|55/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781195989
+|move|p1a: Darkrai|Dark Pulse|p2a: Holy Envoy
+|-damage|p2a: Holy Envoy|22/100
+|move|p2a: Holy Envoy|Flip Turn|p1a: Darkrai
+|-damage|p1a: Darkrai|2/100
+|
+|t:|1781195994
+|switch|p2a: Zealot|Rillaboom, F|70/100 par|[from] Flip Turn
+|-damage|p2a: Zealot|58/100 par|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Zealot
+|
+|-heal|p1a: Darkrai|8/100|[from] Grassy Terrain
+|-heal|p2a: Zealot|64/100 par|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1781195998
+|switch|p1a: Corviknight|Corviknight, F|76/100 par
+|-ability|p1a: Corviknight|Pressure
+|cant|p2a: Zealot|par
+|
+|-heal|p2a: Zealot|70/100 par|[from] Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1781196000
+|cant|p2a: Zealot|par
+|move|p1a: Corviknight|U-turn|p2a: Zealot
+|-supereffective|p2a: Zealot
+|-damage|p2a: Zealot|40/100 par
+|
+|t:|1781196005
+|switch|p1a: Iron Crown|Iron Crown|100/100|[from] U-turn
+|
+|-heal|p2a: Zealot|46/100 par|[from] Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1781196008
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Zealot
+|-damage|p2a: Zealot|19/100 par
+|-damage|p2a: Zealot|0 fnt
+|faint|p2a: Zealot
+|-hitcount|p2: Zealot|2
+|
+|upkeep
+|-message|The median voter forfeited.
+|
+|win|SpringLucina
+|raw|SpringLucina's rating: 1599 &rarr; <strong>1624</strong><br />(+25 for winning)
+|raw|The median voter's rating: 1685 &rarr; <strong>1660</strong><br />(-25 for losing)
+|l|☆The median voter
+|player|p2|
+|l|☆SpringLucina
+|player|p1|

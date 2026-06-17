@@ -1,0 +1,430 @@
+|j|☆The Name Change
+|j|☆skayotest
+|t:|1781422241
+|gametype|singles
+|player|p1|The Name Change|170|1670
+|player|p2|skayotest|102|1668
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ting-Lu|
+|poke|p1|Torkoal, M|
+|poke|p1|Walking Wake|
+|poke|p1|Great Tusk|
+|poke|p1|Slither Wing|
+|poke|p1|Iron Moth|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Garchomp, F|
+|poke|p2|Gholdengo|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Cinderace, M|
+|teampreview
+|
+|t:|1781422249
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by skayotest)
+|
+|t:|1781422257
+|move|p1a: Torkoal|Stealth Rock|p2a: Slowking
+|-sidestart|p2: skayotest|move: Stealth Rock
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781422266
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100|[from] Chilly Reception
+|-damage|p2a: Samurott|88/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Samurott|94/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781422275
+|move|p2a: Samurott|Razor Shell|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|35/100
+|-unboost|p1a: Torkoal|def|1
+|move|p1a: Torkoal|Will-O-Wisp|p2a: Samurott
+|-status|p2a: Samurott|brn
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Samurott|99/100 brn|[from] item: Leftovers
+|-damage|p2a: Samurott|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1781422284
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781422288
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Walking Wake|Dragon Pulse|p2a: Slowking
+|-damage|p2a: Slowking|63/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781422293
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1781422296
+|switch|p2a: Rillaboom|Rillaboom, M|100/100|[from] Chilly Reception
+|-damage|p2a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|
+|-weather|none
+|-heal|p2a: Rillaboom|94/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781422302
+|switch|p1a: Slither Wing|Slither Wing|100/100
+|move|p2a: Rillaboom|Knock Off|p1a: Slither Wing
+|-resisted|p1a: Slither Wing
+|-damage|p1a: Slither Wing|66/100
+|-enditem|p1a: Slither Wing|Choice Band|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-heal|p1a: Slither Wing|72/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|99/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781422312
+|switch|p2a: Garchomp|Garchomp, F|94/100
+|-damage|p2a: Garchomp|88/100|[from] Stealth Rock
+|move|p1a: Slither Wing|U-turn|p2a: Garchomp
+|-damage|p2a: Garchomp|63/100
+|-damage|p1a: Slither Wing|60/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Slither Wing|43/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|
+|t:|1781422317
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|
+|-heal|p2a: Garchomp|69/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1781422325
+|move|p2a: Garchomp|Protect|p2a: Garchomp
+|-singleturn|p2a: Garchomp|Protect
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|
+|-heal|p2a: Garchomp|75/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781422328
+|move|p1a: Great Tusk|Ice Spinner|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-crit|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Great Tusk|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Great Tusk|71/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|-fieldend|move: Grassy Terrain
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1781422336
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|94/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1781422345
+|move|p2a: Gholdengo|Trick|p1a: Great Tusk
+|-activate|p2a: Gholdengo|move: Trick|[of] p1a: Great Tusk
+|-item|p1a: Great Tusk|Choice Scarf|[from] move: Trick
+|-item|p2a: Gholdengo|Heavy-Duty Boots|[from] move: Trick
+|move|p1a: Great Tusk|Headlong Rush|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781422352
+|switch|p2a: Rillaboom|Rillaboom, M|99/100
+|-damage|p2a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|11
+|
+|t:|1781422358
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Slither Wing|Slither Wing|43/100
+|move|p2a: Rillaboom|Wood Hammer|p1a: Slither Wing
+|-resisted|p1a: Slither Wing
+|-damage|p1a: Slither Wing|0 fnt
+|faint|p1a: Slither Wing
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|-damage|p2a: Rillaboom|76/100|[from] Recoil
+|
+|-heal|p2a: Rillaboom|82/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781422365
+|switch|p1a: Torkoal|Torkoal, M|35/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|12
+|
+|t:|1781422370
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|move|p2a: Rillaboom|Wood Hammer|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|48/100
+|-damage|p2a: Rillaboom|69/100|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Moth|54/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|75/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781422376
+|switch|p2a: Slowking|Slowking-Galar, M|96/100
+|move|p1a: Iron Moth|Fiery Dance|p2a: Slowking
+|-damage|p2a: Slowking|62/100
+|-boost|p1a: Iron Moth|spa|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Moth|60/100|[from] Grassy Terrain
+|-heal|p2a: Slowking|69/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1781422383
+|move|p1a: Iron Moth|Substitute|p1a: Iron Moth
+|-start|p1a: Iron Moth|Substitute
+|-damage|p1a: Iron Moth|35/100
+|move|p2a: Slowking|Future Sight|p1a: Iron Moth
+|-start|p2a: Slowking|move: Future Sight
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Moth|41/100|[from] Grassy Terrain
+|-heal|p2a: Slowking|75/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|inactive|skayotest has 120 seconds left.
+|
+|t:|1781422436
+|move|p1a: Iron Moth|Fiery Dance|p2a: Slowking
+|-damage|p2a: Slowking|21/100
+|move|p2a: Slowking|Toxic Spikes|p1a: Iron Moth
+|-sidestart|p1: The Name Change|move: Toxic Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Moth|47/100|[from] Grassy Terrain
+|-heal|p2a: Slowking|27/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1781422447
+|move|p1a: Iron Moth|Fiery Dance|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-boost|p1a: Iron Moth|spa|1
+|faint|p2a: Slowking
+|
+|-weather|SunnyDay|[upkeep]
+|-end|p1a: Iron Moth|move: Future Sight
+|-supereffective|p1a: Iron Moth
+|-end|p1a: Iron Moth|Substitute
+|upkeep
+|inactive|skayotest has 90 seconds left.
+|
+|t:|1781422468
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|turn|17
+|
+|t:|1781422471
+|move|p2a: Cinderace|Sucker Punch|p1a: Iron Moth
+|-damage|p1a: Iron Moth|7/100
+|move|p1a: Iron Moth|Sludge Wave|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781422476
+|switch|p2a: Rillaboom|Rillaboom, M|75/100
+|-damage|p2a: Rillaboom|62/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|18
+|
+|t:|1781422484
+|move|p2a: Rillaboom|Grassy Glide|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Rillaboom|69/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781422490
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-status|p1a: Walking Wake|psn
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|19
+|
+|t:|1781422517
+|switch|p2a: Samurott|Samurott-Hisui, F|94/100 brn
+|-damage|p2a: Samurott|82/100 brn|[from] Stealth Rock
+|move|p1a: Walking Wake|Flamethrower|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|37/100 brn
+|
+|-weather|none
+|-end|p1a: Walking Wake|Protosynthesis
+|-heal|p2a: Samurott|43/100 brn|[from] Grassy Terrain
+|-heal|p2a: Samurott|49/100 brn|[from] item: Leftovers
+|-damage|p1a: Walking Wake|88/100 psn|[from] psn
+|-damage|p2a: Samurott|43/100 brn|[from] brn
+|upkeep
+|turn|20
+|inactive|skayotest has 90 seconds left.
+|
+|t:|1781422563
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-status|p1a: Ting-Lu|psn
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Samurott|Ceaseless Edge|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|94/100 psn
+|-damage|p2a: Samurott|27/100 brn|[from] item: Rocky Helmet|[of] p1a: Ting-Lu
+|-sidestart|p1: The Name Change|Spikes
+|
+|-heal|p2a: Samurott|33/100 brn|[from] Grassy Terrain
+|-heal|p2a: Samurott|39/100 brn|[from] item: Leftovers
+|-heal|p1a: Ting-Lu|99/100 psn|[from] Grassy Terrain
+|-damage|p1a: Ting-Lu|88/100 psn|[from] psn
+|-damage|p2a: Samurott|33/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1781422574
+|move|p2a: Samurott|Ceaseless Edge|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|81/100 psn
+|-damage|p2a: Samurott|16/100 brn|[from] item: Rocky Helmet|[of] p1a: Ting-Lu
+|-sidestart|p1: The Name Change|Spikes
+|move|p1a: Ting-Lu|Earthquake|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-heal|p1a: Ting-Lu|87/100 psn|[from] Grassy Terrain
+|-damage|p1a: Ting-Lu|74/100 psn|[from] psn
+|upkeep
+|
+|t:|1781422582
+|switch|p2a: Rillaboom|Rillaboom, M|69/100
+|-damage|p2a: Rillaboom|56/100|[from] Stealth Rock
+|turn|22
+|l|☆The Name Change
+|inactive|The Name Change disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆The Name Change
+|inactive|The Name Change reconnected and has 110 seconds left.
+|player|p1|The Name Change|170|
+|
+|t:|1781422618
+|-terastallize|p2a: Rillaboom|Grass
+|move|p2a: Rillaboom|Grassy Glide|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|-damage|p2a: Rillaboom|40/100|[from] item: Rocky Helmet|[of] p1a: Ting-Lu
+|faint|p1a: Ting-Lu
+|
+|-heal|p2a: Rillaboom|46/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781422629
+|switch|p1a: Torkoal|Torkoal, M|35/100
+|-status|p1a: Torkoal|psn
+|-damage|p1a: Torkoal|19/100 psn|[from] Spikes
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|23
+|
+|t:|1781422633
+|move|p2a: Rillaboom|Grassy Glide|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781422636
+|switch|p1a: Great Tusk|Great Tusk|71/100
+|-status|p1a: Great Tusk|psn
+|-damage|p1a: Great Tusk|55/100 psn|[from] Spikes
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|turn|24
+|
+|t:|1781422641
+|-terastallize|p1a: Great Tusk|Ghost
+|move|p1a: Great Tusk|Ice Spinner|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|4/100
+|move|p2a: Rillaboom|Grassy Glide|p1a: Great Tusk
+|-damage|p1a: Great Tusk|15/100 psn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Great Tusk|2/100 psn|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1781422649
+|move|p1a: Great Tusk|Ice Spinner|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|win|The Name Change
+|raw|The Name Change's rating: 1670 &rarr; <strong>1690</strong><br />(+20 for winning)
+|raw|skayotest's rating: 1668 &rarr; <strong>1648</strong><br />(-20 for losing)
+|l|☆skayotest
+|player|p2|
+|l|☆The Name Change
+|player|p1|

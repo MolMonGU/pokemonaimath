@@ -1,0 +1,444 @@
+|j|☆supmydudetest1
+|j|☆okbomber
+|t:|1781518585
+|gametype|singles
+|player|p1|supmydudetest1|1|1632
+|player|p2|okbomber|170|1601
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Cinderace, F|
+|poke|p1|Corviknight, M|
+|poke|p1|Ting-Lu|
+|poke|p1|Gengar, F|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Zapdos|
+|poke|p2|Iron Treads|
+|poke|p2|Ceruledge, M|
+|poke|p2|Gholdengo|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by supmydudetest1)
+|
+|t:|1781518606
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|1
+|
+|t:|1781518615
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|82/100
+|
+|-heal|p1a: Ting-Lu|88/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781518627
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|move|p1a: Ting-Lu|Ruination|p2a: Samurott
+|-damage|p2a: Samurott|51/100
+|
+|-heal|p1a: Ting-Lu|94/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781518635
+|move|p2a: Samurott|Knock Off|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|83/100
+|-enditem|p1a: Ting-Lu|Leftovers|[from] move: Knock Off|[of] p2a: Samurott
+|move|p1a: Ting-Lu|Earthquake|p2a: Samurott
+|-damage|p2a: Samurott|7/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781518644
+|move|p2a: Samurott|Ceaseless Edge|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|71/100
+|-sidestart|p1: supmydudetest1|Spikes
+|move|p1a: Ting-Lu|Earthquake|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|upkeep
+|
+|t:|1781518653
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|5
+|
+|t:|1781518657
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu|[miss]
+|-miss|p2a: Zapdos|p1a: Ting-Lu
+|move|p1a: Ting-Lu|Ruination|p2a: Zapdos
+|-damage|p2a: Zapdos|51/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781518664
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|53/100
+|-start|p1a: Ting-Lu|confusion
+|-activate|p1a: Ting-Lu|confusion
+|move|p1a: Ting-Lu|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|upkeep
+|turn|7
+|
+|t:|1781518673
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|-activate|p1a: Ting-Lu|confusion
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: okbomber|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1781518680
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|35/100
+|-activate|p1a: Ting-Lu|confusion
+|-damage|p1a: Ting-Lu|29/100|[from] confusion
+|
+|upkeep
+|turn|9
+|
+|t:|1781518687
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu|[miss]
+|-miss|p2a: Zapdos|p1a: Ting-Lu
+|-end|p1a: Ting-Lu|confusion
+|move|p1a: Ting-Lu|Ruination|p2a: Zapdos
+|-damage|p2a: Zapdos|51/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781518697
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu|[miss]
+|-miss|p2a: Zapdos|p1a: Ting-Lu
+|move|p1a: Ting-Lu|Whirlwind|p2a: Zapdos
+|drag|p2a: Iron Treads|Iron Treads|100/100
+|-damage|p2a: Iron Treads|97/100|[from] Stealth Rock
+|
+|-heal|p2a: Iron Treads|100/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|j| firered27
+|
+|t:|1781518707
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Zapdos|Zapdos|51/100
+|move|p1a: Ting-Lu|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|upkeep
+|turn|12
+|
+|t:|1781518713
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|11/100
+|-start|p1a: Ting-Lu|confusion
+|-activate|p1a: Ting-Lu|confusion
+|move|p1a: Ting-Lu|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|upkeep
+|turn|13
+|
+|t:|1781518722
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|-activate|p1a: Ting-Lu|confusion
+|-damage|p1a: Ting-Lu|6/100|[from] confusion
+|
+|upkeep
+|turn|14
+|
+|t:|1781518729
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781518734
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-damage|p1a: Raging Bolt|88/100|[from] Spikes
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|15
+|
+|t:|1781518742
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Spikes
+|move|p2a: Zapdos|Volt Switch|p1a: Ogerpon
+|-damage|p1a: Ogerpon|55/100
+|inactive|okbomber has 120 seconds left.
+|
+|t:|1781518774
+|switch|p2a: Kingambit|Kingambit, M|100/100|[from] Volt Switch
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|
+|-heal|p2a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781518785
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Kingambit|[anim] Ivy Cudgel Water
+|-crit|p2a: Kingambit
+|-damage|p2a: Kingambit|31/100
+|move|p2a: Kingambit|Iron Head|p1a: Ogerpon
+|-resisted|p1a: Ogerpon
+|-damage|p1a: Ogerpon|24/100
+|
+|-heal|p2a: Kingambit|37/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781518808
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|-damage|p1a: Cinderace|88/100|[from] Spikes
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|
+|-heal|p2a: Kingambit|43/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781518817
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|move|p1a: Cinderace|Pyro Ball|p2a: Ceruledge|[miss]
+|-miss|p1a: Cinderace|p2a: Ceruledge
+|
+|upkeep
+|turn|19
+|
+|t:|1781518827
+|move|p1a: Cinderace|Pyro Ball|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|49/100
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|20
+|
+|t:|1781518836
+|switch|p1a: Raging Bolt|Raging Bolt|88/100
+|-damage|p1a: Raging Bolt|75/100|[from] Spikes
+|move|p2a: Ceruledge|Poltergeist||[still]
+|-fail|p2a: Ceruledge
+|
+|upkeep
+|turn|21
+|
+|t:|1781518843
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|36/100
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|upkeep
+|
+|t:|1781518848
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-damage|p2a: Iron Treads|97/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781518855
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|move|p2a: Iron Treads|Rapid Spin|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|96/100
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: okbomber|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|
+|-heal|p2a: Iron Treads|100/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781518865
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Corviknight|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|96/100
+|
+|t:|1781518879
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|24/100|[from] U-turn
+|-damage|p1a: Ogerpon|12/100|[from] Spikes
+|
+|upkeep
+|turn|24
+|
+|t:|1781518887
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Zapdos|[anim] Ivy Cudgel Water
+|-damage|p2a: Zapdos|55/100
+|move|p2a: Zapdos|Volt Switch|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|t:|1781518890
+|switch|p2a: Kingambit|Kingambit, M|43/100|[from] Volt Switch
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|
+|-heal|p2a: Kingambit|49/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781518904
+|switch|p1a: Cinderace|Cinderace, F|88/100
+|-damage|p1a: Cinderace|76/100|[from] Spikes
+|turn|25
+|
+|t:|1781518911
+|move|p2a: Kingambit|Sucker Punch|p1a: Cinderace
+|-damage|p1a: Cinderace|7/100
+|move|p1a: Cinderace|Pyro Ball|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen2|[silent]
+|
+|upkeep
+|
+|t:|1781518922
+|switch|p2a: Zapdos|Zapdos|55/100
+|turn|26
+|
+|t:|1781518925
+|-terastallize|p1a: Cinderace|Fire
+|move|p1a: Cinderace|Pyro Ball|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|l| firered27
+|
+|t:|1781518936
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|27
+|
+|t:|1781518940
+|-terastallize|p2a: Gholdengo|Fairy
+|move|p1a: Cinderace|Pyro Ball|p2a: Gholdengo
+|-crit|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|-enditem|p2a: Gholdengo|Air Balloon
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781518946
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|turn|28
+|
+|t:|1781518951
+|move|p1a: Cinderace|Pyro Ball|p2a: Iron Treads|[miss]
+|-miss|p1a: Cinderace|p2a: Iron Treads
+|move|p2a: Iron Treads|Rapid Spin|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|-boost|p2a: Iron Treads|spe|1
+|faint|p1a: Cinderace
+|
+|upkeep
+|
+|t:|1781518960
+|switch|p1a: Gengar|Gengar, F|100/100
+|-damage|p1a: Gengar|88/100|[from] Spikes
+|turn|29
+|
+|t:|1781518964
+|move|p1a: Gengar|Trick|p2a: Iron Treads
+|-activate|p1a: Gengar|move: Trick|[of] p2a: Iron Treads
+|-item|p2a: Iron Treads|Choice Scarf|[from] move: Trick
+|-item|p1a: Gengar|Leftovers|[from] move: Trick
+|move|p2a: Iron Treads|Earthquake|p1a: Gengar
+|-supereffective|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|-start|p2a: Iron Treads|Disable|Earthquake|[from] ability: Cursed Body|[of] p1a: Gengar
+|faint|p1a: Gengar
+|
+|upkeep
+|
+|t:|1781518974
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|turn|30
+|
+|t:|1781518977
+|-activate|p2a: Iron Treads|move: Struggle
+|move|p2a: Iron Treads|Struggle|p1a: Corviknight
+|-damage|p1a: Corviknight|90/100
+|-damage|p2a: Iron Treads|76/100|[from] recoil
+|move|p1a: Corviknight|Brave Bird|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|60/100
+|-damage|p1a: Corviknight|86/100|[from] Recoil
+|
+|-heal|p1a: Corviknight|92/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|j| firered27
+|
+|t:|1781518989
+|-activate|p2a: Iron Treads|move: Struggle
+|move|p2a: Iron Treads|Struggle|p1a: Corviknight
+|-damage|p1a: Corviknight|83/100
+|-damage|p2a: Iron Treads|35/100|[from] recoil
+|move|p1a: Corviknight|Brave Bird|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|18/100
+|-damage|p1a: Corviknight|78/100|[from] Recoil
+|
+|-heal|p1a: Corviknight|84/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1781519001
+|-activate|p2a: Iron Treads|move: Struggle
+|move|p2a: Iron Treads|Struggle|p1a: Corviknight
+|-damage|p1a: Corviknight|76/100
+|-damage|p2a: Iron Treads|0 fnt|[from] recoil
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|win|supmydudetest1
+|raw|supmydudetest1's rating: 1632 &rarr; <strong>1650</strong><br />(+18 for winning)
+|raw|okbomber's rating: 1601 &rarr; <strong>1583</strong><br />(-18 for losing)
+|l|☆okbomber
+|player|p2|
+|l| firered27

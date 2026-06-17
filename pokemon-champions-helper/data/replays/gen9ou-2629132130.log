@@ -1,0 +1,343 @@
+|j|☆SincereSarje
+|j|☆Liker of Mudkips
+|t:|1781101758
+|gametype|singles
+|player|p1|SincereSarje|morty|1605
+|player|p2|Liker of Mudkips|acetrainerf|1586
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Ursaluna, M|
+|poke|p1|Porygon2|
+|poke|p1|Cresselia, F|
+|poke|p1|Iron Hands|
+|poke|p1|Volcanion|
+|poke|p2|Dragapult, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Great Tusk|
+|poke|p2|Zapdos|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SincereSarje)
+|
+|t:|1781101785
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: TARS|Porygon2|100/100
+|switch|p2a: Suika|Ogerpon-Wellspring, F|100/100
+|-ability|p1a: TARS|Download|boost
+|-boost|p1a: TARS|atk|1
+|turn|1
+|
+|t:|1781101799
+|move|p2a: Suika|Knock Off|p1a: TARS
+|-damage|p1a: TARS|74/100
+|-enditem|p1a: TARS|Eviolite|[from] move: Knock Off|[of] p2a: Suika
+|move|p1a: TARS|Trick Room|p1a: TARS
+|-fieldstart|move: Trick Room|[of] p1a: TARS
+|
+|upkeep
+|turn|2
+|
+|t:|1781101808
+|switch|p1a: Saturn|Volcanion|100/100
+|move|p2a: Suika|U-turn|p1a: Saturn
+|-resisted|p1a: Saturn
+|-damage|p1a: Saturn|89/100
+|
+|t:|1781101818
+|switch|p2a: Larxene|Zapdos|100/100|[from] U-turn
+|
+|upkeep
+|turn|3
+|j| nesnot
+|
+|t:|1781101827
+|switch|p1a: CASE|Iron Hands|100/100
+|-enditem|p1a: CASE|Booster Energy
+|-activate|p1a: CASE|ability: Quark Drive|[fromitem]
+|-start|p1a: CASE|quarkdriveatk
+|move|p2a: Larxene|Volt Switch|p1a: CASE
+|-resisted|p1a: CASE
+|-damage|p1a: CASE|86/100
+|
+|t:|1781101835
+|switch|p2a: Baku|Great Tusk|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|4
+|
+|t:|1781101846
+|move|p1a: CASE|Ice Punch|p2a: Baku
+|-supereffective|p2a: Baku
+|-damage|p2a: Baku|48/100
+|-damage|p1a: CASE|69/100|[from] item: Rocky Helmet|[of] p2a: Baku
+|move|p2a: Baku|Headlong Rush|p1a: CASE
+|-supereffective|p1a: CASE
+|-damage|p1a: CASE|0 fnt
+|-unboost|p2a: Baku|def|1
+|-unboost|p2a: Baku|spd|1
+|faint|p1a: CASE
+|-end|p1a: CASE|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781101858
+|switch|p1a: Brand|Hatterene, F, shiny|100/100
+|turn|5
+|
+|t:|1781101862
+|-end|p2a: Baku|Protosynthesis|[silent]
+|switch|p2a: Larxene|Zapdos|100/100
+|move|p1a: Brand|Psychic Noise|p2a: Larxene
+|-crit|p2a: Larxene
+|-damage|p2a: Larxene|22/100
+|-start|p2a: Larxene|move: Heal Block
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1781101871
+|move|p2a: Larxene|Hurricane|p1a: Brand|[miss]
+|-miss|p2a: Larxene|p1a: Brand
+|move|p1a: Brand|Trick Room|p1a: Brand
+|-fieldstart|move: Trick Room|[of] p1a: Brand
+|
+|-end|p2a: Larxene|move: Heal Block
+|upkeep
+|turn|7
+|
+|t:|1781101878
+|switch|p2a: Pants|Slowking-Galar, M|100/100
+|move|p1a: Brand|Psychic Noise|p2a: Pants
+|-damage|p2a: Pants|83/100
+|-start|p2a: Pants|move: Heal Block
+|
+|upkeep
+|turn|8
+|
+|t:|1781101892
+|switch|p1a: Mann|Ursaluna, M|100/100
+|move|p2a: Pants|Ice Beam|p1a: Mann
+|-supereffective|p1a: Mann
+|-damage|p1a: Mann|58/100
+|
+|-end|p2a: Pants|move: Heal Block
+|-status|p1a: Mann|brn|[from] item: Flame Orb
+|upkeep
+|turn|9
+|
+|t:|1781101909
+|switch|p2a: Larxene|Zapdos|22/100
+|move|p1a: Mann|Facade|p2a: Larxene
+|-damage|p2a: Larxene|0 fnt
+|faint|p2a: Larxene
+|
+|-damage|p1a: Mann|52/100 brn|[from] brn
+|upkeep
+|j| mak7xz1
+|inactive|Liker of Mudkips has 120 seconds left.
+|
+|t:|1781101936
+|switch|p2a: Nobunaga|Kingambit, M|100/100
+|-activate|p2a: Nobunaga|ability: Supreme Overlord
+|-start|p2a: Nobunaga|fallen1|[silent]
+|turn|10
+|inactive|Liker of Mudkips has 120 seconds left.
+|
+|t:|1781101949
+|switch|p1a: Brand|Hatterene, F, shiny|100/100
+|move|p2a: Nobunaga|Sucker Punch||[still]
+|-fail|p2a: Nobunaga
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|11
+|inactive|Liker of Mudkips has 120 seconds left.
+|
+|t:|1781101955
+|move|p2a: Nobunaga|Iron Head|p1a: Brand
+|-supereffective|p1a: Brand
+|-enditem|p1a: Brand|Focus Sash
+|-damage|p1a: Brand|1/100
+|move|p1a: Brand|Trick Room|p1a: Brand
+|-fieldstart|move: Trick Room|[of] p1a: Brand
+|
+|upkeep
+|turn|12
+|
+|t:|1781101965
+|move|p1a: Brand|Healing Wish|p1a: Brand
+|faint|p1a: Brand
+|move|p2a: Nobunaga|Swords Dance|p2a: Nobunaga
+|-boost|p2a: Nobunaga|atk|2
+|
+|upkeep
+|
+|t:|1781101976
+|switch|p1a: Miller|Cresselia, F, shiny|100/100
+|turn|13
+|
+|t:|1781101986
+|-terastallize|p1a: Miller|Fairy
+|move|p1a: Miller|Moonblast|p2a: Nobunaga
+|-damage|p2a: Nobunaga|70/100
+|move|p2a: Nobunaga|Swords Dance|p2a: Nobunaga
+|-boost|p2a: Nobunaga|atk|2
+|
+|upkeep
+|turn|14
+|
+|t:|1781101993
+|move|p1a: Miller|Moonblast|p2a: Nobunaga
+|-damage|p2a: Nobunaga|38/100
+|-unboost|p2a: Nobunaga|spa|1
+|move|p2a: Nobunaga|Iron Head|p1a: Miller
+|-supereffective|p1a: Miller
+|-damage|p1a: Miller|0 fnt
+|faint|p1a: Miller
+|
+|upkeep
+|
+|t:|1781102001
+|switch|p1a: Mann|Ursaluna, M|52/100 brn
+|-heal|p1a: Mann|100/100|[from] move: Healing Wish
+|turn|15
+|l| nesnot
+|
+|t:|1781102009
+|move|p2a: Nobunaga|Sucker Punch|p1a: Mann
+|-damage|p1a: Mann|8/100
+|move|p1a: Mann|Fire Punch|p2a: Nobunaga
+|-supereffective|p2a: Nobunaga
+|-damage|p2a: Nobunaga|0 fnt
+|faint|p2a: Nobunaga
+|-end|p2a: Nobunaga|fallen1|[silent]
+|
+|-fieldend|move: Trick Room
+|-status|p1a: Mann|brn|[from] item: Flame Orb
+|upkeep
+|
+|t:|1781102023
+|switch|p2a: Baku|Great Tusk|48/100
+|turn|16
+|
+|t:|1781102030
+|move|p2a: Baku|Ice Spinner|p1a: Mann
+|-supereffective|p1a: Mann
+|-damage|p1a: Mann|0 fnt
+|faint|p1a: Mann
+|
+|upkeep
+|
+|t:|1781102037
+|switch|p1a: TARS|Porygon2|74/100
+|-ability|p1a: TARS|Download|boost
+|-boost|p1a: TARS|spa|1
+|turn|17
+|
+|t:|1781102044
+|move|p2a: Baku|Stealth Rock|p1a: TARS
+|-sidestart|p1: SincereSarje|move: Stealth Rock
+|move|p1a: TARS|Trick Room|p1a: TARS
+|-fieldstart|move: Trick Room|[of] p1a: TARS
+|
+|upkeep
+|turn|18
+|
+|t:|1781102052
+|-end|p2a: Baku|Protosynthesis|[silent]
+|switch|p2a: Pants|Slowking-Galar, M|100/100
+|move|p1a: TARS|Ice Beam|p2a: Pants
+|-damage|p2a: Pants|83/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781102058
+|move|p2a: Pants|Sludge Bomb|p1a: TARS
+|-damage|p1a: TARS|44/100
+|move|p1a: TARS|Shadow Ball|p2a: Pants
+|-supereffective|p2a: Pants
+|-damage|p2a: Pants|47/100
+|
+|upkeep
+|turn|20
+|j| newhere1310
+|
+|t:|1781102066
+|move|p2a: Pants|Sludge Bomb|p1a: TARS
+|-damage|p1a: TARS|11/100
+|move|p1a: TARS|Hyper Beam|p2a: Pants|[miss]
+|-miss|p1a: TARS|p2a: Pants
+|
+|upkeep
+|turn|21
+|
+|t:|1781102073
+|switch|p1a: Saturn|Volcanion|89/100
+|-damage|p1a: Saturn|65/100|[from] Stealth Rock
+|move|p2a: Pants|Sludge Bomb|p1a: Saturn
+|-damage|p1a: Saturn|28/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|22
+|l| newhere1310
+|
+|t:|1781102082
+|switch|p2a: Kos|Dragapult, F|100/100
+|move|p1a: Saturn|Earth Power|p2a: Kos
+|-damage|p2a: Kos|29/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781102088
+|move|p2a: Kos|Draco Meteor|p1a: Saturn|[miss]
+|-miss|p2a: Kos|p1a: Saturn
+|move|p1a: Saturn|Earth Power|p2a: Kos
+|-damage|p2a: Kos|0 fnt
+|faint|p2a: Kos
+|
+|upkeep
+|
+|t:|1781102097
+|switch|p2a: Baku|Great Tusk|48/100
+|turn|24
+|
+|t:|1781102100
+|move|p2a: Baku|Headlong Rush|p1a: Saturn
+|-supereffective|p1a: Saturn
+|-damage|p1a: Saturn|0 fnt
+|-unboost|p2a: Baku|def|1
+|-unboost|p2a: Baku|spd|1
+|faint|p1a: Saturn
+|
+|upkeep
+|
+|t:|1781102101
+|switch|p1a: TARS|Porygon2|11/100
+|-damage|p1a: TARS|0 fnt|[from] Stealth Rock
+|faint|p1a: TARS
+|
+|win|Liker of Mudkips
+|raw|SincereSarje's rating: 1605 &rarr; <strong>1584</strong><br />(-21 for losing)
+|raw|Liker of Mudkips's rating: 1586 &rarr; <strong>1607</strong><br />(+21 for winning)
+|c|☆Liker of Mudkips|gg
+|l|☆Liker of Mudkips
+|player|p2|
+|l| mak7xz1

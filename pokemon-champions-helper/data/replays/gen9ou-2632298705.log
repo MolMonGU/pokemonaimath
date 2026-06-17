@@ -1,0 +1,427 @@
+|j|☆Belike
+|j|☆FP.//06
+|t:|1781503978
+|gametype|singles
+|player|p1|Belike|rocketgrunt|1581
+|player|p2|FP.//06|hilda-masters3|1626
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zapdos-Galar|
+|poke|p1|Iron Treads|
+|poke|p1|Umbreon, F|
+|poke|p1|Cinderace, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Serperior, M|
+|poke|p2|Darkrai|
+|poke|p2|Iron Treads|
+|poke|p2|Dragonite, F|
+|poke|p2|Kyurem|
+|poke|p2|Hatterene, F|
+|poke|p2|Zamazenta-*|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FP.//06)
+|inactive|Belike also wants the timer to be on.
+|inactive|FP.//06 has 120 seconds left.
+|
+|t:|1781504032
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|1
+|inactive|Belike has 120 seconds left.
+|
+|t:|1781504090
+|move|p2a: Darkrai|Dark Pulse|p1a: Cinderace
+|-damage|p1a: Cinderace|39/100
+|move|p1a: Cinderace|U-turn|p2a: Darkrai
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|inactive|Belike has 90 seconds left.
+|
+|t:|1781504101
+|switch|p1a: Zapdos|Zapdos-Galar|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781504119
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|2
+|
+|t:|1781504122
+|move|p1a: Zapdos|U-turn|p2a: Hatterene
+|-damage|p2a: Hatterene|80/100
+|
+|t:|1781504126
+|switch|p1a: Iron Treads|Iron Treads|100/100|[from] U-turn
+|move|p2a: Hatterene|Dazzling Gleam|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|76/100
+|
+|-heal|p1a: Iron Treads|82/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781504130
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Iron Treads|Earthquake|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|6/100
+|
+|-heal|p1a: Iron Treads|88/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781504133
+|move|p2a: Iron Treads|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|18/100
+|move|p1a: Iron Treads|Earthquake|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p1a: Iron Treads|24/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781504136
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|5
+|
+|t:|1781504140
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Iron Treads|Ice Spinner|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|45/100
+|
+|-heal|p1a: Iron Treads|30/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781504143
+|move|p2a: Dragonite|Scale Shot|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|22/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|14/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|6/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|-hitcount|p1: Iron Treads|4
+|-unboost|p2a: Dragonite|def|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|
+|t:|1781504146
+|switch|p1a: Cinderace|Cinderace, F|39/100
+|turn|7
+|
+|t:|1781504149
+|move|p1a: Cinderace|Sucker Punch||[still]
+|-fail|p1a: Cinderace
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781504151
+|move|p1a: Cinderace|Sucker Punch||[still]
+|-fail|p1a: Cinderace
+|move|p2a: Dragonite|Encore|p1a: Cinderace
+|-start|p1a: Cinderace|Encore
+|
+|upkeep
+|turn|9
+|
+|t:|1781504152
+|move|p1a: Cinderace|Sucker Punch||[still]
+|-fail|p1a: Cinderace
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|10
+|
+|t:|1781504153
+|switch|p1a: Zapdos|Zapdos-Galar|100/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|11
+|
+|t:|1781504156
+|move|p2a: Dragonite|Scale Shot|p1a: Zapdos
+|-damage|p1a: Zapdos|45/100
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-hitcount|p1: Zapdos|2
+|-unboost|p2a: Dragonite|def|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|
+|t:|1781504158
+|switch|p1a: Cinderace|Cinderace, F|39/100
+|turn|12
+|
+|t:|1781504161
+|move|p1a: Cinderace|Sucker Punch|p2a: Dragonite
+|-start|p1a: Cinderace|typechange|Dark|[from] ability: Libero
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1781504164
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|13
+|
+|t:|1781504170
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Zamazenta|Crunch|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|90/100
+|-damage|p2a: Zamazenta|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|14
+|
+|t:|1781504173
+|-terastallize|p2a: Zamazenta|Steel
+|move|p1a: Iron Valiant|Encore|p2a: Zamazenta
+|-start|p2a: Zamazenta|Encore
+|move|p2a: Zamazenta|Crunch|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|79/100
+|-damage|p2a: Zamazenta|81/100|[from] item: Life Orb
+|
+|upkeep
+|turn|15
+|
+|t:|1781504176
+|switch|p2a: Hatterene|Hatterene, F|80/100
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781504178
+|move|p1a: Iron Valiant|Moonblast|p2a: Hatterene
+|-damage|p2a: Hatterene|12/100
+|-unboost|p2a: Hatterene|spa|1
+|move|p2a: Hatterene|Nuzzle|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|74/100
+|-status|p1a: Iron Valiant|par
+|
+|upkeep
+|turn|17
+|-enditem|p2a: Hatterene|Custap Berry|[eat]
+|-activate|p2a: Hatterene|item: Custap Berry|[consumed]
+|
+|t:|1781504181
+|move|p2a: Hatterene|Dazzling Gleam|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|14/100 par
+|move|p1a: Iron Valiant|Moonblast|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781504187
+|switch|p2a: Zamazenta|Zamazenta, tera:Steel|81/100
+|turn|18
+|
+|t:|1781504190
+|move|p2a: Zamazenta|Heavy Slam|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|-damage|p2a: Zamazenta|71/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781504194
+|switch|p1a: Cinderace|Cinderace, F|39/100
+|turn|19
+|
+|t:|1781504200
+|move|p2a: Zamazenta|Close Combat|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|faint|p1a: Cinderace
+|-damage|p2a: Zamazenta|61/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781504203
+|switch|p1a: Serperior|Serperior, M|100/100
+|turn|20
+|
+|t:|1781504206
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Serperior|Leech Seed|p2a: Kyurem
+|-start|p2a: Kyurem|move: Leech Seed
+|
+|-damage|p2a: Kyurem|88/100|[from] Leech Seed|[of] p1a: Serperior
+|upkeep
+|turn|21
+|
+|t:|1781504213
+|-terastallize|p1a: Serperior|Steel
+|move|p1a: Serperior|Glare|p2a: Kyurem
+|-status|p2a: Kyurem|par
+|cant|p2a: Kyurem|par
+|
+|-damage|p2a: Kyurem|76/100 par|[from] Leech Seed|[of] p1a: Serperior
+|upkeep
+|turn|22
+|
+|t:|1781504219
+|move|p1a: Serperior|Substitute|p1a: Serperior
+|-start|p1a: Serperior|Substitute
+|-damage|p1a: Serperior|76/100
+|move|p2a: Kyurem|Earth Power|p1a: Serperior
+|-supereffective|p1a: Serperior
+|-end|p1a: Serperior|Substitute
+|
+|-heal|p1a: Serperior|82/100|[from] item: Leftovers
+|-damage|p2a: Kyurem|64/100 par|[from] Leech Seed|[of] p1a: Serperior
+|-heal|p1a: Serperior|95/100|[silent]
+|upkeep
+|turn|23
+|
+|t:|1781504221
+|move|p1a: Serperior|Substitute|p1a: Serperior
+|-start|p1a: Serperior|Substitute
+|-damage|p1a: Serperior|71/100
+|move|p2a: Kyurem|Earth Power|p1a: Serperior
+|-supereffective|p1a: Serperior
+|-end|p1a: Serperior|Substitute
+|
+|-heal|p1a: Serperior|77/100|[from] item: Leftovers
+|-damage|p2a: Kyurem|51/100 par|[from] Leech Seed|[of] p1a: Serperior
+|-heal|p1a: Serperior|90/100|[silent]
+|upkeep
+|turn|24
+|
+|t:|1781504223
+|move|p1a: Serperior|Substitute|p1a: Serperior
+|-start|p1a: Serperior|Substitute
+|-damage|p1a: Serperior|65/100
+|cant|p2a: Kyurem|par
+|
+|-heal|p1a: Serperior|72/100|[from] item: Leftovers
+|-damage|p2a: Kyurem|39/100 par|[from] Leech Seed|[of] p1a: Serperior
+|-heal|p1a: Serperior|85/100|[silent]
+|upkeep
+|turn|25
+|
+|t:|1781504226
+|move|p1a: Serperior|Leaf Storm|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|28/100 par
+|-boost|p1a: Serperior|spa|2
+|move|p2a: Kyurem|Earth Power|p1a: Serperior
+|-supereffective|p1a: Serperior
+|-crit|p1a: Serperior
+|-end|p1a: Serperior|Substitute
+|
+|-heal|p1a: Serperior|91/100|[from] item: Leftovers
+|-damage|p2a: Kyurem|15/100 par|[from] Leech Seed|[of] p1a: Serperior
+|-heal|p1a: Serperior|100/100|[silent]
+|upkeep
+|turn|26
+|
+|t:|1781504230
+|move|p1a: Serperior|Substitute|p1a: Serperior
+|-start|p1a: Serperior|Substitute
+|-damage|p1a: Serperior|76/100
+|cant|p2a: Kyurem|par
+|
+|-heal|p1a: Serperior|82/100|[from] item: Leftovers
+|-damage|p2a: Kyurem|3/100 par|[from] Leech Seed|[of] p1a: Serperior
+|-heal|p1a: Serperior|95/100|[silent]
+|upkeep
+|turn|27
+|
+|t:|1781504231
+|move|p1a: Serperior|Leaf Storm|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|-boost|p1a: Serperior|spa|2
+|faint|p2a: Kyurem
+|
+|-heal|p1a: Serperior|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781504233
+|switch|p2a: Zamazenta|Zamazenta, tera:Steel|61/100
+|turn|28
+|
+|t:|1781504234
+|move|p2a: Zamazenta|Close Combat|p1a: Serperior
+|-supereffective|p1a: Serperior
+|-end|p1a: Serperior|Substitute
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|-damage|p2a: Zamazenta|51/100|[from] item: Life Orb
+|move|p1a: Serperior|Glare|p2a: Zamazenta
+|-status|p2a: Zamazenta|par
+|
+|upkeep
+|turn|29
+|
+|t:|1781504237
+|move|p1a: Serperior|Leaf Storm|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|-boost|p1a: Serperior|spa|2
+|faint|p2a: Zamazenta
+|
+|win|Belike
+|raw|Belike's rating: 1581 &rarr; <strong>1604</strong><br />(+23 for winning)
+|raw|FP.&#x2f;&#x2f;06's rating: 1626 &rarr; <strong>1603</strong><br />(-23 for losing)
+|l|☆FP.//06
+|player|p2|
+|l|☆Belike
+|player|p1|

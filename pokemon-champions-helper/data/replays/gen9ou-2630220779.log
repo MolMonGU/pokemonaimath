@@ -1,0 +1,576 @@
+|j|☆Klopple
+|j|☆thatguytnomas
+|t:|1781224470
+|gametype|singles
+|player|p1|Klopple|sailor|1501
+|player|p2|thatguytnomas|ingo-hisui|1552
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Arboliva, M|
+|poke|p1|Gliscor, M|
+|poke|p1|Iron Crown|
+|poke|p1|Zamazenta-*|
+|poke|p1|Hatterene, F|
+|poke|p1|Dragonite, M|
+|poke|p2|Meowscarada, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Great Tusk|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Dragonite, F|
+|poke|p2|Corviknight, F|
+|teampreview
+|
+|t:|1781224484
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|1
+|c|☆thatguytnomas|gl
+|
+|t:|1781224501
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Hatterene|Psychic Noise|p2a: Slowking
+|-damage|p2a: Slowking|79/100
+|-start|p2a: Slowking|move: Heal Block
+|
+|upkeep
+|turn|2
+|
+|t:|1781224511
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|move|p2a: Slowking|Trick|p1a: Gliscor
+|-activate|p2a: Slowking|move: Trick|[of] p1a: Gliscor
+|-item|p1a: Gliscor|Black Sludge|[from] move: Trick
+|-item|p2a: Slowking|Toxic Orb|[from] move: Trick
+|
+|-damage|p1a: Gliscor|88/100|[from] item: Black Sludge
+|-end|p2a: Slowking|move: Heal Block
+|upkeep
+|turn|3
+|
+|t:|1781224524
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Gliscor|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: thatguytnomas|move: Stealth Rock
+|
+|-damage|p1a: Gliscor|75/100|[from] item: Black Sludge
+|upkeep
+|turn|4
+|
+|t:|1781224532
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|move|p2a: Corviknight|Defog|p1a: Iron Crown
+|-unboost|p1a: Iron Crown|evasion|1
+|-sideend|p2: thatguytnomas|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|5
+|
+|t:|1781224562
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Iron Crown|Future Sight|p2a: Slowking
+|-start|p1a: Iron Crown|move: Future Sight
+|
+|upkeep
+|turn|6
+|
+|t:|1781224580
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Slowking
+|-damage|p2a: Slowking|84/100
+|-damage|p2a: Slowking|69/100
+|-hitcount|p2a: Slowking|2
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781224588
+|switch|p2a: Meowscarada|Meowscarada, F|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781224593
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Gliscor|Gliscor, M|75/100
+|move|p2a: Meowscarada|Knock Off|p1a: Gliscor
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p1a: Gliscor|22/100
+|-enditem|p1a: Gliscor|Black Sludge|[from] move: Knock Off|[of] p2a: Meowscarada
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Meowscarada|move: Future Sight
+|-immune|p2a: Meowscarada
+|upkeep
+|turn|8
+|
+|t:|1781224605
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Meowscarada|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|47/100
+|-damage|p2a: Meowscarada|84/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|-enditem|p1a: Hatterene|Rocky Helmet|[from] move: Knock Off|[of] p2a: Meowscarada
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781224618
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Hatterene|Pain Split|p2a: Slowking
+|-sethp|p2a: Slowking|69/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Hatterene|86/100|[from] move: Pain Split
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781224633
+|switch|p1a: Gliscor|Gliscor, M|22/100
+|move|p2a: Slowking|Future Sight|p1a: Gliscor
+|-start|p2a: Slowking|move: Future Sight
+|
+|-weather|none
+|upkeep
+|turn|11
+|
+|t:|1781224641
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Gliscor|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|88/100
+|-damage|p1a: Gliscor|6/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-enditem|p2a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p1a: Gliscor
+|
+|upkeep
+|turn|12
+|
+|t:|1781224651
+|move|p1a: Gliscor|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: thatguytnomas|move: Stealth Rock
+|move|p2a: Corviknight|U-turn|p1a: Gliscor
+|-resisted|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|
+|t:|1781224661
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|-damage|p2a: Great Tusk|98/100|[from] Stealth Rock
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|-heal|p2a: Great Tusk|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781224666
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|turn|13
+|
+|t:|1781224672
+|move|p1a: Iron Crown|Psychic Noise|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781224681
+|switch|p2a: Corviknight|Corviknight, F|88/100
+|-damage|p2a: Corviknight|75/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|turn|14
+|
+|t:|1781224701
+|move|p1a: Iron Crown|Psychic Noise|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|56/100
+|-start|p2a: Corviknight|move: Heal Block
+|move|p2a: Corviknight|Defog|p1a: Iron Crown
+|-unboost|p1a: Iron Crown|evasion|1
+|-sideend|p2: thatguytnomas|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|15
+|
+|t:|1781224720
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Iron Crown|Future Sight|p2a: Slowking
+|-start|p1a: Iron Crown|move: Future Sight
+|
+|upkeep
+|turn|16
+|
+|t:|1781224733
+|move|p1a: Iron Crown|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|87/100
+|
+|t:|1781224747
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Zamazenta|Zamazenta|100/100|[from] Volt Switch
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781224769
+|switch|p2a: Corviknight|Corviknight, F|56/100|[from] Chilly Reception
+|-ability|p2a: Corviknight|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781224778
+|move|p1a: Zamazenta|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|20/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|70/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Corviknight|move: Future Sight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|40/100
+|upkeep
+|turn|18
+|
+|t:|1781224794
+|-terastallize|p1a: Zamazenta|Fighting
+|move|p1a: Zamazenta|Close Combat|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|faint|p2a: Corviknight
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781224815
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|19
+|
+|t:|1781224830
+|switch|p1a: Arboliva|Arboliva, M|100/100
+|move|p2a: Raging Bolt|Volt Switch|p1a: Arboliva
+|-resisted|p1a: Arboliva
+|-damage|p1a: Arboliva|73/100
+|
+|t:|1781224840
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Meowscarada|Meowscarada, F|84/100|[from] Volt Switch
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781224845
+|move|p1a: Arboliva|Endure|p1a: Arboliva
+|-singleturn|p1a: Arboliva|move: Endure
+|move|p2a: Meowscarada|Knock Off|p1a: Arboliva
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p1a: Arboliva|3/100
+|-enditem|p1a: Arboliva|Custap Berry|[from] move: Knock Off|[of] p2a: Meowscarada
+|
+|-weather|none
+|upkeep
+|turn|21
+|
+|t:|1781224858
+|move|p2a: Meowscarada|Knock Off|p1a: Arboliva
+|-damage|p1a: Arboliva|0 fnt
+|faint|p1a: Arboliva
+|
+|upkeep
+|
+|t:|1781224861
+|switch|p1a: Zamazenta|Zamazenta, tera:Fighting|100/100
+|turn|22
+|
+|t:|1781224876
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Zamazenta|Crunch|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|44/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781224890
+|switch|p2a: BanDragonitePLEASE|Dragonite, F|100/100
+|move|p1a: Zamazenta|Crunch|p2a: BanDragonitePLEASE
+|-damage|p2a: BanDragonitePLEASE|84/100
+|
+|upkeep
+|turn|24
+|
+|t:|1781224900
+|move|p1a: Zamazenta|Ice Fang|p2a: BanDragonitePLEASE
+|-supereffective|p2a: BanDragonitePLEASE
+|-damage|p2a: BanDragonitePLEASE|0 fnt
+|faint|p2a: BanDragonitePLEASE
+|
+|upkeep
+|
+|t:|1781224923
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|25
+|
+|t:|1781224928
+|move|p1a: Zamazenta|Close Combat|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|28/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|upkeep
+|
+|t:|1781224940
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|turn|26
+|
+|t:|1781224964
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|77/100
+|move|p1a: Iron Crown|Psychic Noise|p2a: Slowking
+|-damage|p2a: Slowking|54/100
+|-start|p2a: Slowking|move: Heal Block
+|
+|upkeep
+|turn|27
+|
+|t:|1781224975
+|move|p1a: Iron Crown|Future Sight|p2a: Slowking
+|-start|p1a: Iron Crown|move: Future Sight
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781224979
+|switch|p2a: Meowscarada|Meowscarada, F|84/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|28
+|
+|t:|1781224986
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|move|p2a: Meowscarada|Knock Off|p1a: Dragonite
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p1a: Dragonite|71/100
+|-enditem|p1a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Meowscarada
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|29
+|
+|t:|1781225016
+|switch|p2a: Slowking|Slowking-Galar, F|88/100
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|100/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Slowking|move: Future Sight
+|-damage|p2a: Slowking|53/100
+|upkeep
+|turn|30
+|
+|t:|1781225030
+|switch|p2a: Meowscarada|Meowscarada, F|84/100
+|move|p1a: Dragonite|Earthquake|p2a: Meowscarada
+|-resisted|p2a: Meowscarada
+|-damage|p2a: Meowscarada|54/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|31
+|
+|t:|1781225047
+|switch|p1a: Hatterene|Hatterene, F|86/100
+|move|p2a: Meowscarada|Triple Axel|p1a: Hatterene
+|-start|p2a: Meowscarada|typechange|Ice|[from] ability: Protean
+|-damage|p1a: Hatterene|73/100
+|-damage|p1a: Hatterene|51/100
+|-damage|p1a: Hatterene|19/100
+|-hitcount|p1a: Hatterene|3
+|
+|-weather|none
+|upkeep
+|turn|32
+|
+|t:|1781225065
+|move|p2a: Meowscarada|Triple Axel|p1a: Hatterene
+|-damage|p1a: Hatterene|7/100
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|-hitcount|p1: Hatterene|2
+|
+|upkeep
+|
+|t:|1781225068
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|turn|33
+|
+|t:|1781225075
+|switch|p2a: Slowking|Slowking-Galar, F|86/100
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Slowking
+|-damage|p2a: Slowking|71/100
+|-damage|p2a: Slowking|55/100
+|-hitcount|p2a: Slowking|2
+|
+|upkeep
+|turn|34
+|
+|t:|1781225094
+|move|p1a: Iron Crown|Future Sight|p2a: Slowking
+|-start|p1a: Iron Crown|move: Future Sight
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781225143
+|switch|p2a: Meowscarada|Meowscarada, F|54/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|35
+|
+|t:|1781225156
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|move|p2a: Meowscarada|Knock Off|p1a: Dragonite
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p1a: Dragonite|81/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|36
+|
+|t:|1781225180
+|move|p2a: Meowscarada|Knock Off|p1a: Dragonite
+|-damage|p1a: Dragonite|36/100
+|move|p1a: Dragonite|Earthquake|p2a: Meowscarada
+|-damage|p2a: Meowscarada|0 fnt
+|faint|p2a: Meowscarada
+|
+|-weather|Snowscape|[upkeep]
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|
+|t:|1781225216
+|switch|p2a: Slowking|Slowking-Galar, F|88/100
+|turn|37
+|
+|t:|1781225230
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|move|p2a: Slowking|Future Sight|p1a: Iron Crown
+|-start|p2a: Slowking|move: Future Sight
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|38
+|
+|t:|1781225241
+|move|p1a: Iron Crown|Future Sight|p2a: Slowking
+|-start|p1a: Iron Crown|move: Future Sight
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1781225247
+|switch|p2a: Raging Bolt|Raging Bolt|28/100|[from] Chilly Reception
+|
+|-weather|none
+|upkeep
+|turn|39
+|
+|t:|1781225292
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Iron Crown|Psychic Noise|p2a: Slowking
+|-damage|p2a: Slowking|78/100
+|-start|p2a: Slowking|move: Heal Block
+|
+|-end|p1a: Iron Crown|move: Future Sight
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|93/100
+|upkeep
+|turn|40
+|
+|t:|1781225317
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Slowking
+|-damage|p2a: Slowking|63/100
+|-damage|p2a: Slowking|49/100
+|-hitcount|p2a: Slowking|2
+|move|p2a: Slowking|Future Sight|p1a: Iron Crown
+|-start|p2a: Slowking|move: Future Sight
+|
+|-end|p2a: Slowking|move: Future Sight
+|-damage|p2a: Slowking|16/100
+|-end|p2a: Slowking|move: Heal Block
+|upkeep
+|turn|41
+|
+|t:|1781225335
+|switch|p2a: Raging Bolt|Raging Bolt|28/100
+|move|p1a: Iron Crown|Psychic Noise|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781225338
+|switch|p2a: Slowking|Slowking-Galar, F|49/100
+|turn|42
+|
+|t:|1781225344
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Slowking
+|-damage|p2a: Slowking|34/100
+|-damage|p2a: Slowking|20/100
+|-hitcount|p2a: Slowking|2
+|move|p2a: Slowking|Future Sight||[still]
+|-fail|p2a: Slowking
+|
+|-end|p1a: Iron Crown|move: Future Sight
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|86/100
+|upkeep
+|turn|43
+|
+|t:|1781225350
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Slowking
+|-damage|p2a: Slowking|6/100
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|-hitcount|p2: Slowking|2
+|
+|win|Klopple
+|raw|Klopple's rating: 1501 &rarr; <strong>1524</strong><br />(+23 for winning)
+|raw|thatguytnomas's rating: 1552 &rarr; <strong>1529</strong><br />(-23 for losing)
+|l|☆thatguytnomas
+|player|p2|
+|l|☆Klopple
+|player|p1|
+|j|☆thatguytnomas
+|player|p2|thatguytnomas|ingo-hisui|

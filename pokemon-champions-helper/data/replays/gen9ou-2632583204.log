@@ -1,0 +1,396 @@
+|j|☆sweetflavors
+|j|☆Mr Tpen
+|t:|1781541261
+|gametype|singles
+|player|p1|sweetflavors|169|1602
+|player|p2|Mr Tpen|169|1614
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Cresselia, F|
+|poke|p1|Ursaluna, M|
+|poke|p1|Iron Hands|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Porygon2|
+|poke|p2|Moltres|
+|poke|p2|Corviknight, M|
+|poke|p2|Gliscor, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Gholdengo|
+|poke|p2|Hatterene, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mr Tpen)
+|
+|t:|1781541273
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|1
+|
+|t:|1781541279
+|move|p2a: Gholdengo|Trick|p1a: Hatterene
+|-activate|p2a: Gholdengo|move: Trick|[of] p1a: Hatterene
+|-item|p1a: Hatterene|Choice Scarf|[from] move: Trick
+|-item|p2a: Gholdengo|Focus Sash|[from] move: Trick
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldstart|move: Trick Room|[of] p1a: Hatterene
+|
+|upkeep
+|turn|2
+|
+|t:|1781541285
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|move|p2a: Gholdengo|Make It Rain|p1a: Hoopa
+|-damage|p1a: Hoopa|49/100
+|-unboost|p2a: Gholdengo|spa|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781541291
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-enditem|p2a: Gholdengo|Focus Sash
+|-damage|p2a: Gholdengo|1/100
+|-unboost|p1a: Hoopa|def|1
+|-enditem|p1a: Hoopa|Eject Pack
+|
+|t:|1781541293
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Gholdengo|Make It Rain|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|6/100
+|-unboost|p2a: Gholdengo|spa|1
+|
+|upkeep
+|turn|4
+|
+|t:|1781541305
+|move|p1a: Hatterene|Healing Wish|p1a: Hatterene
+|faint|p1a: Hatterene
+|move|p2a: Gholdengo|Make It Rain|p1: Hatterene|[notarget]
+|-fail|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781541306
+|switch|p1a: Hoopa|Hoopa-Unbound|49/100
+|-heal|p1a: Hoopa|100/100|[from] move: Healing Wish
+|turn|5
+|
+|t:|1781541309
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Hoopa|Psychic Noise|p2a: Moltres
+|-damage|p2a: Moltres|56/100
+|-start|p2a: Moltres|move: Heal Block
+|-item|p1a: Hoopa|Heavy-Duty Boots|[from] ability: Magician|[of] p2a: Moltres
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1781541312
+|switch|p1a: Porygon2|Porygon2|100/100
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|move|p2a: Moltres|U-turn|p1a: Porygon2
+|-damage|p1a: Porygon2|94/100
+|
+|t:|1781541314
+|switch|p2a: Gholdengo|Gholdengo|1/100|[from] U-turn
+|
+|upkeep
+|turn|7
+|
+|t:|1781541318
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|move|p2a: Gholdengo|Trick|p1a: Hoopa
+|-activate|p2a: Gholdengo|move: Trick|[of] p1a: Hoopa
+|-enditem|p1a: Hoopa|Heavy-Duty Boots|[silent]|[from] move: Trick
+|-item|p2a: Gholdengo|Heavy-Duty Boots|[from] move: Trick
+|
+|upkeep
+|turn|8
+|
+|t:|1781541325
+|move|p2a: Gholdengo|Make It Rain|p1a: Hoopa
+|-damage|p1a: Hoopa|47/100
+|-unboost|p2a: Gholdengo|spa|1
+|move|p1a: Hoopa|Trick Room|p1a: Hoopa
+|-fieldstart|move: Trick Room|[of] p1a: Hoopa
+|
+|upkeep
+|turn|9
+|
+|t:|1781541330
+|switch|p2a: Moltres|Moltres|56/100
+|move|p1a: Hoopa|Psychic Noise|p2a: Moltres
+|-crit|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|
+|upkeep
+|
+|t:|1781541333
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|turn|10
+|
+|t:|1781541338
+|switch|p1a: Porygon2|Porygon2|94/100
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|atk|1
+|move|p2a: Corviknight|Protect||[still]
+|-fail|p2a: Corviknight
+|
+|upkeep
+|turn|11
+|
+|t:|1781541345
+|move|p2a: Corviknight|Protect|p2a: Corviknight
+|-singleturn|p2a: Corviknight|Protect
+|move|p1a: Porygon2|Tri Attack|p2a: Corviknight
+|-activate|p2a: Corviknight|move: Protect
+|
+|upkeep
+|turn|12
+|
+|t:|1781541349
+|move|p1a: Porygon2|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|86/100
+|move|p2a: Corviknight|Brave Bird|p1a: Porygon2
+|-damage|p1a: Porygon2|76/100
+|-damage|p2a: Corviknight|81/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|87/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|13
+|
+|t:|1781541352
+|move|p2a: Corviknight|Brave Bird|p1a: Porygon2
+|-damage|p1a: Porygon2|58/100
+|-damage|p2a: Corviknight|81/100|[from] Recoil
+|move|p1a: Porygon2|Tri Attack|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|72/100
+|
+|-heal|p2a: Corviknight|79/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781541356
+|move|p2a: Corviknight|Protect|p2a: Corviknight
+|-singleturn|p2a: Corviknight|Protect
+|move|p1a: Porygon2|Recover|p1a: Porygon2
+|-heal|p1a: Porygon2|100/100
+|
+|-heal|p2a: Corviknight|85/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781541362
+|switch|p2a: Gholdengo|Gholdengo|1/100
+|move|p1a: Porygon2|Trick Room|p1a: Porygon2
+|-fieldstart|move: Trick Room|[of] p1a: Porygon2
+|
+|upkeep
+|turn|16
+|
+|t:|1781541368
+|switch|p2a: Corviknight|Corviknight, M|85/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Porygon2|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|72/100
+|-unboost|p2a: Corviknight|spd|1
+|
+|-heal|p2a: Corviknight|78/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781541372
+|switch|p1a: Iron Hands|Iron Hands|100/100
+|-enditem|p1a: Iron Hands|Booster Energy
+|-activate|p1a: Iron Hands|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Hands|quarkdriveatk
+|move|p2a: Corviknight|Protect||[still]
+|-fail|p2a: Corviknight
+|
+|-heal|p2a: Corviknight|84/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781541376
+|switch|p2a: Gholdengo|Gholdengo|1/100
+|move|p1a: Iron Hands|Swords Dance|p1a: Iron Hands
+|-boost|p1a: Iron Hands|atk|2
+|
+|upkeep
+|turn|19
+|
+|t:|1781541379
+|move|p1a: Iron Hands|Thunder Punch|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1781541381
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|20
+|
+|t:|1781541385
+|move|p2a: Ogerpon|Encore|p1a: Iron Hands
+|-start|p1a: Iron Hands|Encore
+|move|p1a: Iron Hands|Thunder Punch|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781541386
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|turn|21
+|
+|t:|1781541390
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Hoopa|Hoopa-Unbound|47/100
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|22
+|
+|t:|1781541395
+|move|p2a: Gliscor|Facade|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|upkeep
+|
+|t:|1781541397
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|turn|23
+|
+|t:|1781541400
+|-terastallize|p2a: Gliscor|Normal
+|move|p2a: Gliscor|Facade|p1a: Cresselia
+|-damage|p1a: Cresselia|11/100
+|move|p1a: Cresselia|Ice Beam|p2a: Gliscor
+|-damage|p2a: Gliscor|74/100 tox
+|
+|-heal|p2a: Gliscor|87/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|24
+|
+|t:|1781541405
+|move|p2a: Gliscor|Facade|p1a: Cresselia
+|-damage|p1a: Cresselia|0 fnt
+|faint|p1a: Cresselia
+|
+|-heal|p2a: Gliscor|99/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781541406
+|switch|p1a: Iron Hands|Iron Hands|100/100
+|turn|25
+|
+|t:|1781541409
+|-terastallize|p1a: Iron Hands|Flying
+|move|p2a: Gliscor|Earthquake|p1a: Iron Hands
+|-immune|p1a: Iron Hands
+|move|p1a: Iron Hands|Drain Punch|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|17/100 tox
+|
+|-heal|p2a: Gliscor|29/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|26
+|
+|t:|1781541416
+|move|p2a: Gliscor|Facade|p1a: Iron Hands
+|-damage|p1a: Iron Hands|26/100
+|move|p1a: Iron Hands|Drain Punch|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|-heal|p1a: Iron Hands|34/100|[from] drain|[of] p2a: Gliscor
+|faint|p2a: Gliscor
+|
+|upkeep
+|
+|t:|1781541421
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|27
+|
+|t:|1781541426
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Porygon2|Porygon2|100/100
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|atk|1
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|upkeep
+|turn|28
+|
+|t:|1781541433
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|move|p1a: Porygon2|Trick Room|p1a: Porygon2
+|-fieldstart|move: Trick Room|[of] p1a: Porygon2
+|
+|upkeep
+|turn|29
+|
+|t:|1781541442
+|switch|p1a: Iron Hands|Iron Hands, tera:Flying|34/100
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|upkeep
+|turn|30
+|
+|t:|1781541446
+|move|p2a: Hatterene|Draining Kiss|p1a: Iron Hands
+|-damage|p1a: Iron Hands|0 fnt
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781541448
+|switch|p1a: Ursaluna|Ursaluna, M|100/100
+|turn|31
+|
+|t:|1781541450
+|move|p2a: Hatterene|Psychic Noise|p1a: Ursaluna
+|-damage|p1a: Ursaluna|0 fnt
+|faint|p1a: Ursaluna
+|
+|upkeep
+|-message|sweetflavors forfeited.
+|
+|win|Mr Tpen
+|raw|sweetflavors's rating: 1602 &rarr; <strong>1583</strong><br />(-19 for losing)
+|raw|Mr Tpen's rating: 1614 &rarr; <strong>1633</strong><br />(+19 for winning)
+|l|☆sweetflavors
+|player|p1|
+|l|☆Mr Tpen
+|player|p2|

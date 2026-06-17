@@ -1,0 +1,255 @@
+|j|☆chill element
+|j|☆Supa Dupa Hoopa
+|t:|1780978601
+|gametype|singles
+|player|p1|chill element|youngster|1520
+|player|p2|Supa Dupa Hoopa|102|1556
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Toxicroak, M|
+|poke|p1|Pelipper, M|
+|poke|p1|Barraskewda, F|
+|poke|p1|Zapdos|
+|poke|p1|Reuniclus, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p2|Serperior, M|
+|poke|p2|Cinderace, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Clodsire, M|
+|poke|p2|Ditto|
+|poke|p2|Toxtricity-Low-Key, M|
+|teampreview
+|
+|t:|1780978616
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: ANOTHER ONE|Toxtricity-Low-Key, M|100/100
+|turn|1
+|
+|t:|1780978626
+|move|p1a: Zapdos|Volt Switch|p2a: ANOTHER ONE
+|-resisted|p2a: ANOTHER ONE
+|-damage|p2a: ANOTHER ONE|60/100
+|
+|t:|1780978631
+|switch|p1a: Pelipper|Pelipper, M|100/100|[from] Volt Switch
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: ANOTHER ONE|Boomburst|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1780978633
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|turn|2
+|
+|t:|1780978641
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|switch|p2a: Clodsire|Clodsire, M|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1780978648
+|switch|p2a: Skarmory-M|Corviknight, F|100/100
+|-ability|p2a: Skarmory-M|Pressure
+|move|p1a: Ogerpon|Power Whip|p2a: Skarmory-M
+|-resisted|p2a: Skarmory-M
+|-damage|p2a: Skarmory-M|90/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Skarmory-M|97/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1780978657
+|move|p1a: Ogerpon|Spikes|p2a: Skarmory-M
+|-sidestart|p2: Supa Dupa Hoopa|Spikes
+|move|p2a: Skarmory-M|U-turn|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|65/100
+|
+|t:|1780978665
+|switch|p2a: CinderMiss|Cinderace, F|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1780978670
+|move|p2a: CinderMiss|U-turn|p1a: Ogerpon
+|-start|p2a: CinderMiss|typechange|Bug|[from] ability: Libero
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|t:|1780978681
+|switch|p2a: Clodsire|Clodsire, M|100/100|[from] U-turn
+|-damage|p2a: Clodsire|88/100|[from] Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Clodsire|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780978685
+|switch|p1a: Reuniclus|Reuniclus, F|100/100
+|turn|6
+|
+|t:|1780978695
+|switch|p2a: What RU|Serperior, M|100/100
+|-damage|p2a: What RU|88/100|[from] Spikes
+|move|p1a: Reuniclus|Psychic Noise|p2a: What RU
+|-damage|p2a: What RU|31/100
+|-start|p2a: What RU|move: Heal Block
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1780978705
+|move|p2a: What RU|Leech Seed|p1a: Reuniclus
+|-start|p1a: Reuniclus|move: Leech Seed
+|move|p1a: Reuniclus|Psychic Noise|p2a: What RU
+|-damage|p2a: What RU|0 fnt
+|faint|p2a: What RU
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1780978717
+|switch|p2a: ANOTHER ONE|Toxtricity-Low-Key, M|60/100
+|-damage|p2a: ANOTHER ONE|47/100|[from] Spikes
+|turn|8
+|
+|t:|1780978724
+|-terastallize|p2a: ANOTHER ONE|Normal
+|move|p2a: ANOTHER ONE|Boomburst|p1a: Reuniclus
+|-damage|p1a: Reuniclus|0 fnt
+|faint|p1a: Reuniclus
+|
+|-weather|none
+|upkeep
+|
+|t:|1780978729
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|9
+|
+|t:|1780978731
+|move|p1a: Zapdos|Volt Switch|p2a: ANOTHER ONE
+|-damage|p2a: ANOTHER ONE|0 fnt
+|faint|p2a: ANOTHER ONE
+|
+|t:|1780978738
+|switch|p1a: Toxicroak|Toxicroak, M|100/100|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1780978760
+|switch|p2a: CinderMiss|Cinderace, F|100/100
+|turn|10
+|
+|t:|1780978766
+|move|p2a: CinderMiss|Pyro Ball|p1a: Toxicroak
+|-crit|p1a: Toxicroak
+|-damage|p1a: Toxicroak|6/100
+|move|p1a: Toxicroak|Encore|p2a: CinderMiss
+|-start|p2a: CinderMiss|Encore
+|
+|upkeep
+|turn|11
+|
+|t:|1780978772
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|move|p2a: CinderMiss|Pyro Ball|p1a: Barraskewda|[miss]
+|-miss|p2a: CinderMiss|p1a: Barraskewda
+|
+|upkeep
+|turn|12
+|
+|t:|1780978780
+|switch|p2a: Skarmory-M|Corviknight, F|97/100
+|-ability|p2a: Skarmory-M|Pressure
+|move|p1a: Barraskewda|Flip Turn|p2a: Skarmory-M
+|-damage|p2a: Skarmory-M|65/100
+|
+|t:|1780978784
+|switch|p1a: Zapdos|Zapdos|100/100|[from] Flip Turn
+|
+|-heal|p2a: Skarmory-M|71/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1780978791
+|switch|p2a: Clodsire|Clodsire, M|94/100
+|-damage|p2a: Clodsire|82/100|[from] Spikes
+|move|p1a: Zapdos|Hurricane|p2a: Clodsire|[miss]
+|-miss|p1a: Zapdos|p2a: Clodsire
+|
+|-heal|p2a: Clodsire|88/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1780978800
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|move|p2a: Clodsire|Earthquake|p1a: Barraskewda
+|-damage|p1a: Barraskewda|42/100
+|
+|-heal|p2a: Clodsire|94/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1780978806
+|move|p1a: Barraskewda|Flip Turn|p2a: Clodsire
+|-heal|p2a: Clodsire|100/100|[from] ability: Water Absorb|[of] p1a: Barraskewda
+|move|p2a: Clodsire|Earthquake|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|upkeep
+|
+|t:|1780978813
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|16
+|
+|t:|1780978820
+|-terastallize|p1a: Zapdos|Flying
+|move|p1a: Zapdos|Hurricane|p2a: Clodsire|[miss]
+|-miss|p1a: Zapdos|p2a: Clodsire
+|move|p2a: Clodsire|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: chill element|move: Stealth Rock
+|
+|upkeep
+|turn|17
+|
+|t:|1780978828
+|move|p1a: Zapdos|Hurricane|p2a: Clodsire|[miss]
+|-miss|p1a: Zapdos|p2a: Clodsire
+|move|p2a: Clodsire|Liquidation|p1a: Zapdos
+|-damage|p1a: Zapdos|82/100
+|
+|upkeep
+|turn|18
+|-message|chill element forfeited.
+|
+|win|Supa Dupa Hoopa
+|raw|chill element's rating: 1520 &rarr; <strong>1502</strong><br />(-18 for losing)
+|raw|Supa Dupa Hoopa's rating: 1556 &rarr; <strong>1574</strong><br />(+18 for winning)
+|l|☆chill element
+|player|p1|
+|l|☆Supa Dupa Hoopa
+|player|p2|

@@ -1,0 +1,312 @@
+|j|☆my2005
+|j|☆fifodrummer
+|t:|1781168523
+|gametype|singles
+|player|p1|my2005|101|1554
+|player|p2|fifodrummer|pokemaniac|1532
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Cinderace, M|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Gliscor, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Slowking-Galar, F|
+|poke|p2|Crawdaunt, M|
+|poke|p2|Krookodile, M|
+|poke|p2|Goodra-Hisui, F|
+|poke|p2|Haxorus, M|
+|poke|p2|Espeon, F|
+|poke|p2|Corviknight, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by fifodrummer)
+|
+|t:|1781168528
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Bubba Gump|Crawdaunt, M|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781168536
+|move|p1a: Kyurem|Substitute|p1a: Kyurem
+|-start|p1a: Kyurem|Substitute
+|-damage|p1a: Kyurem|76/100
+|move|p2a: Bubba Gump|Endeavor|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Substitute|[damage]
+|
+|-heal|p1a: Kyurem|82/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781168545
+|move|p1a: Kyurem|Freeze-Dry|p2a: Bubba Gump
+|-supereffective|p2a: Bubba Gump
+|-crit|p2a: Bubba Gump
+|-enditem|p2a: Bubba Gump|Focus Sash
+|-damage|p2a: Bubba Gump|1/100
+|move|p2a: Bubba Gump|Knock Off|p1a: Kyurem
+|-end|p1a: Kyurem|Substitute
+|
+|-heal|p1a: Kyurem|88/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781168555
+|move|p1a: Kyurem|Freeze-Dry|p2a: Bubba Gump
+|-supereffective|p2a: Bubba Gump
+|-damage|p2a: Bubba Gump|0 fnt
+|faint|p2a: Bubba Gump
+|
+|-heal|p1a: Kyurem|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781168563
+|switch|p2a: Bio Hazard|Espeon, F, shiny|100/100
+|turn|4
+|
+|t:|1781168566
+|move|p2a: Bio Hazard|Calm Mind|p2a: Bio Hazard
+|-boost|p2a: Bio Hazard|spa|1
+|-boost|p2a: Bio Hazard|spd|1
+|move|p1a: Kyurem|Substitute|p1a: Kyurem
+|-start|p1a: Kyurem|Substitute
+|-damage|p1a: Kyurem|69/100
+|
+|-heal|p1a: Kyurem|75/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781168575
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|move|p2a: Bio Hazard|Calm Mind|p2a: Bio Hazard
+|-boost|p2a: Bio Hazard|spa|1
+|-boost|p2a: Bio Hazard|spd|1
+|
+|upkeep
+|turn|6
+|
+|t:|1781168582
+|-terastallize|p2a: Bio Hazard|Fairy
+|move|p2a: Bio Hazard|Alluring Voice|p1a: Hoopa
+|-supereffective|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|upkeep
+|
+|t:|1781168593
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|turn|7
+|
+|t:|1781168596
+|move|p2a: Bio Hazard|Psychic|p1a: Slowking
+|-damage|p1a: Slowking|20/100
+|move|p1a: Slowking|Sludge Wave|p2a: Bio Hazard
+|-supereffective|p2a: Bio Hazard
+|-damage|p2a: Bio Hazard|20/100
+|-damage|p1a: Slowking|10/100|[from] item: Life Orb
+|
+|-heal|p2a: Bio Hazard|26/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781168606
+|move|p2a: Bio Hazard|Psychic|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-heal|p2a: Bio Hazard|32/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781168608
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|turn|9
+|
+|t:|1781168615
+|switch|p2a: AXE Bodyspray|Haxorus, M, shiny|100/100
+|-ability|p2a: AXE Bodyspray|Mold Breaker
+|move|p1a: Cinderace|Pyro Ball|p2a: AXE Bodyspray
+|-resisted|p2a: AXE Bodyspray
+|-damage|p2a: AXE Bodyspray|67/100
+|-status|p2a: AXE Bodyspray|brn
+|-enditem|p2a: AXE Bodyspray|Lum Berry|[eat]
+|-curestatus|p2a: AXE Bodyspray|brn|[msg]
+|
+|upkeep
+|turn|10
+|
+|t:|1781168626
+|move|p1a: Cinderace|U-turn|p2a: AXE Bodyspray
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p2a: AXE Bodyspray|23/100
+|
+|t:|1781168634
+|switch|p1a: Gliscor|Gliscor, F|100/100|[from] U-turn
+|move|p2a: AXE Bodyspray|Dragon Dance|p2a: AXE Bodyspray
+|-boost|p2a: AXE Bodyspray|atk|1
+|-boost|p2a: AXE Bodyspray|spe|1
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|11
+|
+|t:|1781168643
+|move|p2a: AXE Bodyspray|Outrage|p1a: Gliscor
+|-damage|p1a: Gliscor|21/100 tox
+|move|p1a: Gliscor|Earthquake|p2a: AXE Bodyspray
+|-damage|p2a: AXE Bodyspray|0 fnt
+|faint|p2a: AXE Bodyspray
+|
+|-heal|p1a: Gliscor|33/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781168654
+|switch|p2a: Bio Hazard|Espeon, F, shiny, tera:Fairy|32/100
+|turn|12
+|
+|t:|1781168658
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|move|p2a: Bio Hazard|Morning Sun|p2a: Bio Hazard
+|-heal|p2a: Bio Hazard|82/100
+|
+|-heal|p2a: Bio Hazard|88/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781168666
+|move|p1a: Cinderace|Pyro Ball|p2a: Bio Hazard
+|-damage|p2a: Bio Hazard|0 fnt
+|faint|p2a: Bio Hazard
+|
+|upkeep
+|
+|t:|1781168671
+|switch|p2a: 鉄の竜|Goodra-Hisui, F|100/100
+|turn|14
+|
+|t:|1781168691
+|move|p1a: Cinderace|U-turn|p2a: 鉄の竜
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p2a: 鉄の竜
+|-damage|p2a: 鉄の竜|85/100
+|-ability|p2a: 鉄の竜|Gooey
+|-unboost|p1a: Cinderace|spe|1
+|
+|t:|1781168702
+|switch|p1a: Gliscor|Gliscor, F|33/100 tox|[from] U-turn
+|move|p2a: 鉄の竜|Surf|p1a: Gliscor
+|-supereffective|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|
+|upkeep
+|
+|t:|1781168708
+|switch|p1a: Kyurem|Kyurem|75/100
+|-ability|p1a: Kyurem|Pressure
+|turn|15
+|
+|t:|1781168714
+|-terastallize|p1a: Kyurem|Ground
+|move|p1a: Kyurem|Earth Power|p2a: 鉄の竜
+|-supereffective|p2a: 鉄の竜
+|-damage|p2a: 鉄の竜|37/100
+|move|p2a: 鉄の竜|Flash Cannon|p1a: Kyurem
+|-damage|p1a: Kyurem|38/100
+|
+|-heal|p1a: Kyurem|44/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781168725
+|move|p1a: Kyurem|Earth Power|p2a: 鉄の竜
+|-supereffective|p2a: 鉄の竜
+|-damage|p2a: 鉄の竜|0 fnt
+|faint|p2a: 鉄の竜
+|
+|-heal|p1a: Kyurem|50/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781168739
+|switch|p2a: Mrs Raven|Corviknight, F, shiny|100/100
+|turn|17
+|
+|t:|1781168745
+|move|p1a: Kyurem|Freeze-Dry|p2a: Mrs Raven
+|-damage|p2a: Mrs Raven|67/100
+|-status|p2a: Mrs Raven|frz
+|cant|p2a: Mrs Raven|frz
+|
+|-heal|p1a: Kyurem|57/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781168754
+|move|p1a: Kyurem|Freeze-Dry|p2a: Mrs Raven
+|-damage|p2a: Mrs Raven|32/100 frz
+|-curestatus|p2a: Mrs Raven|frz|[msg]
+|move|p2a: Mrs Raven|Brave Bird|p1a: Kyurem
+|-damage|p1a: Kyurem|17/100
+|-damage|p2a: Mrs Raven|17/100|[from] Recoil
+|
+|-heal|p1a: Kyurem|23/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781168765
+|move|p1a: Kyurem|Freeze-Dry|p2a: Mrs Raven
+|-damage|p2a: Mrs Raven|0 fnt
+|faint|p2a: Mrs Raven
+|
+|-heal|p1a: Kyurem|29/100|[from] item: Leftovers
+|upkeep
+|c|☆fifodrummer|Ggs wp
+|
+|t:|1781168773
+|switch|p2a: The Lone Ranger|Krookodile, M, shiny|100/100
+|turn|20
+|
+|t:|1781168776
+|move|p2a: The Lone Ranger|Earthquake|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|-ability|p2a: The Lone Ranger|Moxie|boost
+|-boost|p2a: The Lone Ranger|atk|1
+|
+|upkeep
+|
+|t:|1781168784
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|turn|21
+|
+|t:|1781168787
+|move|p2a: The Lone Ranger|Earthquake|p1a: Cinderace
+|-supereffective|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|-ability|p2a: The Lone Ranger|Moxie|boost
+|-boost|p2a: The Lone Ranger|atk|1
+|
+|upkeep
+|-message|my2005 forfeited.
+|
+|win|fifodrummer
+|raw|my2005's rating: 1554 &rarr; <strong>1533</strong><br />(-21 for losing)
+|raw|fifodrummer's rating: 1532 &rarr; <strong>1553</strong><br />(+21 for winning)
+|l|☆my2005
+|player|p1|
+|l|☆fifodrummer
+|player|p2|

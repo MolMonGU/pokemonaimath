@@ -1,0 +1,465 @@
+|j|☆Mca Player 11
+|j|☆ghazi02
+|t:|1780993800
+|gametype|singles
+|player|p1|Mca Player 11|skierf|1500
+|player|p2|ghazi02|red|1538
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Deoxys-Speed|
+|poke|p1|Iron Moth|
+|poke|p1|Zamazenta-*|
+|poke|p1|Gholdengo|
+|poke|p1|Rillaboom, M|
+|poke|p1|Iron Jugulis|
+|poke|p2|Corviknight, F|
+|poke|p2|Kyurem|
+|poke|p2|Latias, F|
+|poke|p2|Cinderace, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Zamazenta-*|
+|teampreview
+|
+|t:|1780993817
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|switch|p2a: Border Immigration|Zamazenta|100/100
+|-ability|p1a: Deoxys|Pressure
+|-ability|p2a: Border Immigration|Dauntless Shield|boost
+|-boost|p2a: Border Immigration|def|1
+|turn|1
+|
+|t:|1780993824
+|move|p1a: Deoxys|Stealth Rock|p2a: Border Immigration
+|-sidestart|p2: ghazi02|move: Stealth Rock
+|move|p2a: Border Immigration|Light Screen|p2a: Border Immigration
+|-sidestart|p2: ghazi02|move: Light Screen
+|
+|upkeep
+|turn|2
+|
+|t:|1780993828
+|move|p1a: Deoxys|Taunt|p2a: Border Immigration
+|-start|p2a: Border Immigration|move: Taunt
+|cant|p2a: Border Immigration|move: Taunt|Reflect
+|
+|upkeep
+|turn|3
+|
+|t:|1780993833
+|switch|p2a: Sgt. Kabutar Khan|Corviknight, F|100/100
+|-damage|p2a: Sgt. Kabutar Khan|88/100|[from] Stealth Rock
+|-ability|p2a: Sgt. Kabutar Khan|Pressure
+|move|p1a: Deoxys|Spikes|p2a: Sgt. Kabutar Khan
+|-sidestart|p2: ghazi02|Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1780993840
+|move|p1a: Deoxys|Taunt|p2a: Sgt. Kabutar Khan
+|-start|p2a: Sgt. Kabutar Khan|move: Taunt
+|move|p2a: Sgt. Kabutar Khan|U-turn|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|66/100
+|-damage|p2a: Sgt. Kabutar Khan|72/100|[from] item: Rocky Helmet|[of] p1a: Deoxys
+|
+|t:|1780993855
+|switch|p2a: Border Immigration|Zamazenta|100/100|[from] U-turn
+|-damage|p2a: Border Immigration|94/100|[from] Stealth Rock
+|-damage|p2a: Border Immigration|82/100|[from] Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1780993861
+|move|p1a: Deoxys|Taunt|p2a: Border Immigration
+|-start|p2a: Border Immigration|move: Taunt
+|cant|p2a: Border Immigration|move: Taunt|Roar
+|
+|upkeep
+|turn|6
+|
+|t:|1780993870
+|switch|p2a: No Skill Win Con|Kingambit, M|100/100
+|-damage|p2a: No Skill Win Con|94/100|[from] Stealth Rock
+|-damage|p2a: No Skill Win Con|82/100|[from] Spikes
+|move|p1a: Deoxys|Spikes|p2a: No Skill Win Con
+|-sidestart|p2: ghazi02|Spikes
+|
+|-heal|p2a: No Skill Win Con|88/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1780993878
+|switch|p1a: Zamazenta|Zamazenta, shiny|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: No Skill Win Con|Kowtow Cleave|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|85/100
+|
+|-heal|p2a: No Skill Win Con|94/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1780993887
+|-end|p2a: No Skill Win Con|fallenundefined|[silent]
+|switch|p2a: Sgt. Kabutar Khan|Corviknight, F|72/100
+|-damage|p2a: Sgt. Kabutar Khan|59/100|[from] Stealth Rock
+|-ability|p2a: Sgt. Kabutar Khan|Pressure
+|move|p1a: Zamazenta|Close Combat|p2a: Sgt. Kabutar Khan
+|-damage|p2a: Sgt. Kabutar Khan|4/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|-damage|p1a: Zamazenta|68/100|[from] item: Rocky Helmet|[of] p2a: Sgt. Kabutar Khan
+|
+|-sideend|p2: ghazi02|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1780993899
+|switch|p1a: Gholdengo|Gholdengo, shiny|100/100
+|move|p2a: Sgt. Kabutar Khan|Roost|p2a: Sgt. Kabutar Khan
+|-heal|p2a: Sgt. Kabutar Khan|54/100
+|-singleturn|p2a: Sgt. Kabutar Khan|move: Roost
+|
+|upkeep
+|turn|10
+|
+|t:|1780993911
+|switch|p1a: Deoxys|Deoxys-Speed|66/100
+|-ability|p1a: Deoxys|Pressure
+|switch|p2a: Superslow Jet|Latias, F|100/100
+|-damage|p2a: Superslow Jet|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|11
+|
+|t:|1780993921
+|move|p1a: Deoxys|Taunt|p2a: Superslow Jet
+|-start|p2a: Superslow Jet|move: Taunt
+|cant|p2a: Superslow Jet|move: Taunt|Calm Mind
+|
+|upkeep
+|turn|12
+|
+|t:|1780993929
+|switch|p2a: No Skill Win Con|Kingambit, M|94/100
+|-damage|p2a: No Skill Win Con|88/100|[from] Stealth Rock
+|-damage|p2a: No Skill Win Con|72/100|[from] Spikes
+|move|p1a: Deoxys|Pain Split|p2a: No Skill Win Con
+|-sethp|p2a: No Skill Win Con|61/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Deoxys|79/100|[from] move: Pain Split
+|
+|-heal|p2a: No Skill Win Con|67/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1780993939
+|move|p1a: Deoxys|Spikes|p2a: No Skill Win Con
+|-sidestart|p2: ghazi02|Spikes
+|move|p2a: No Skill Win Con|Kowtow Cleave|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|-damage|p2a: No Skill Win Con|51/100|[from] item: Rocky Helmet|[of] p1a: Deoxys
+|faint|p1a: Deoxys
+|
+|-heal|p2a: No Skill Win Con|57/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780993943
+|switch|p1a: Zamazenta|Zamazenta, shiny|68/100
+|turn|14
+|
+|t:|1780993953
+|-terastallize|p2a: No Skill Win Con|Ghost
+|move|p1a: Zamazenta|Close Combat|p2a: No Skill Win Con
+|-immune|p2a: No Skill Win Con
+|move|p2a: No Skill Win Con|Swords Dance|p2a: No Skill Win Con
+|-boost|p2a: No Skill Win Con|atk|2
+|
+|-heal|p2a: No Skill Win Con|63/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1780993961
+|switch|p1a: Iron Jugulis|Iron Jugulis, shiny|100/100
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|move|p2a: No Skill Win Con|Iron Head|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|-heal|p2a: No Skill Win Con|69/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780993964
+|switch|p1a: Iron Moth|Iron Moth, shiny|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|turn|16
+|
+|t:|1780993974
+|move|p2a: No Skill Win Con|Kowtow Cleave|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p2a: No Skill Win Con|75/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780993979
+|switch|p1a: Rillaboom|Rillaboom, M, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|17
+|
+|t:|1780993988
+|-end|p2a: No Skill Win Con|fallenundefined|[silent]
+|switch|p2a: Sgt. Kabutar Khan|Corviknight, F|54/100
+|-damage|p2a: Sgt. Kabutar Khan|41/100|[from] Stealth Rock
+|-ability|p2a: Sgt. Kabutar Khan|Pressure
+|move|p1a: Rillaboom|Knock Off|p2a: Sgt. Kabutar Khan
+|-damage|p2a: Sgt. Kabutar Khan|12/100
+|-damage|p1a: Rillaboom|84/100|[from] item: Rocky Helmet|[of] p2a: Sgt. Kabutar Khan
+|-enditem|p2a: Sgt. Kabutar Khan|Rocky Helmet|[from] move: Knock Off|[of] p1a: Rillaboom
+|-damage|p1a: Rillaboom|74/100|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|80/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1780994000
+|move|p1a: Rillaboom|Knock Off|p2a: Sgt. Kabutar Khan
+|-damage|p2a: Sgt. Kabutar Khan|0 fnt
+|faint|p2a: Sgt. Kabutar Khan
+|-damage|p1a: Rillaboom|70/100|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|76/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1780994007
+|switch|p2a: Superslow Jet|Latias, F|88/100
+|-damage|p2a: Superslow Jet|76/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1780994017
+|switch|p2a: Border Immigration|Zamazenta|82/100
+|-damage|p2a: Border Immigration|76/100|[from] Stealth Rock
+|-damage|p2a: Border Immigration|51/100|[from] Spikes
+|move|p1a: Rillaboom|Knock Off|p2a: Border Immigration
+|-resisted|p2a: Border Immigration
+|-damage|p2a: Border Immigration|32/100
+|-enditem|p2a: Border Immigration|Light Clay|[from] move: Knock Off|[of] p1a: Rillaboom
+|-damage|p1a: Rillaboom|66/100|[from] item: Life Orb
+|
+|-heal|p2a: Border Immigration|38/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|73/100|[from] Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1780994028
+|switch|p1a: Gholdengo|Gholdengo, shiny|100/100
+|-enditem|p1a: Gholdengo|Grassy Seed
+|-boost|p1a: Gholdengo|def|1|[from] item: Grassy Seed
+|move|p2a: Border Immigration|Reflect|p2a: Border Immigration
+|-sidestart|p2: ghazi02|Reflect
+|
+|-heal|p2a: Border Immigration|44/100|[from] Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1780994035
+|move|p2a: Border Immigration|Light Screen|p2a: Border Immigration
+|-sidestart|p2: ghazi02|move: Light Screen
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|
+|-heal|p2a: Border Immigration|50/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|22
+|
+|t:|1780994041
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|move|p2a: Border Immigration|Roar|p1a: Gholdengo
+|-immune|p1a: Gholdengo|[from] ability: Good as Gold
+|
+|upkeep
+|turn|23
+|
+|t:|1780994053
+|move|p2a: Border Immigration|Light Screen||[still]
+|-fail|p2a: Border Immigration
+|move|p1a: Gholdengo|Shadow Ball|p2a: Border Immigration
+|-damage|p2a: Border Immigration|14/100
+|-unboost|p2a: Border Immigration|spd|1
+|
+|upkeep
+|turn|24
+|
+|t:|1780994061
+|move|p2a: Border Immigration|Reflect||[still]
+|-fail|p2a: Border Immigration
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|
+|-sideend|p2: ghazi02|Reflect
+|upkeep
+|turn|25
+|
+|t:|1780994067
+|move|p2a: Border Immigration|Reflect|p2a: Border Immigration
+|-sidestart|p2: ghazi02|Reflect
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|0
+|
+|-sideend|p2: ghazi02|move: Light Screen
+|upkeep
+|turn|26
+|
+|t:|1780994072
+|move|p2a: Border Immigration|Light Screen|p2a: Border Immigration
+|-sidestart|p2: ghazi02|move: Light Screen
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|0
+|
+|upkeep
+|turn|27
+|
+|t:|1780994077
+|move|p2a: Border Immigration|Reflect||[still]
+|-fail|p2a: Border Immigration
+|move|p1a: Gholdengo|Shadow Ball|p2a: Border Immigration
+|-damage|p2a: Border Immigration|0 fnt
+|faint|p2a: Border Immigration
+|
+|upkeep
+|
+|t:|1780994087
+|switch|p2a: Wayne ROOOOOONEY|Cinderace, F|100/100
+|-damage|p2a: Wayne ROOOOOONEY|76/100|[from] Stealth Rock
+|-damage|p2a: Wayne ROOOOOONEY|51/100|[from] Spikes
+|turn|28
+|
+|t:|1780994091
+|-terastallize|p1a: Gholdengo|Water
+|move|p2a: Wayne ROOOOOONEY|Pyro Ball|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|78/100
+|-status|p1a: Gholdengo|brn
+|-damage|p2a: Wayne ROOOOOONEY|41/100|[from] item: Life Orb
+|move|p1a: Gholdengo|Make It Rain|p2a: Wayne ROOOOOONEY
+|-resisted|p2a: Wayne ROOOOOONEY
+|-damage|p2a: Wayne ROOOOOONEY|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Wayne ROOOOOONEY
+|
+|-damage|p1a: Gholdengo|72/100 brn|[from] brn
+|upkeep
+|
+|t:|1780994104
+|switch|p2a: ICE ICE BABY|Kyurem|100/100
+|-damage|p2a: ICE ICE BABY|76/100|[from] Stealth Rock
+|-damage|p2a: ICE ICE BABY|51/100|[from] Spikes
+|-ability|p2a: ICE ICE BABY|Pressure
+|turn|29
+|
+|t:|1780994110
+|move|p2a: ICE ICE BABY|Freeze-Dry|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-sideend|p2: ghazi02|Reflect
+|upkeep
+|
+|t:|1780994114
+|switch|p1a: Zamazenta|Zamazenta, shiny|68/100
+|turn|30
+|
+|t:|1780994117
+|switch|p2a: Superslow Jet|Latias, F|76/100
+|-damage|p2a: Superslow Jet|63/100|[from] Stealth Rock
+|move|p1a: Zamazenta|Stone Edge|p2a: Superslow Jet
+|-damage|p2a: Superslow Jet|9/100
+|
+|-sideend|p2: ghazi02|move: Light Screen
+|upkeep
+|turn|31
+|
+|t:|1780994126
+|switch|p1a: Rillaboom|Rillaboom, M, shiny|73/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Superslow Jet|Recover|p2a: Superslow Jet
+|-heal|p2a: Superslow Jet|59/100
+|
+|-heal|p1a: Rillaboom|79/100|[from] Grassy Terrain
+|upkeep
+|turn|32
+|
+|t:|1780994134
+|move|p2a: Superslow Jet|Aura Sphere|p1a: Rillaboom
+|-damage|p1a: Rillaboom|50/100
+|move|p1a: Rillaboom|Knock Off|p2a: Superslow Jet
+|-supereffective|p2a: Superslow Jet
+|-damage|p2a: Superslow Jet|0 fnt
+|-enditem|p2a: Superslow Jet|Weakness Policy|[from] move: Knock Off|[of] p1a: Rillaboom
+|faint|p2a: Superslow Jet
+|-damage|p1a: Rillaboom|40/100|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|46/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1780994145
+|switch|p2a: ICE ICE BABY|Kyurem|51/100
+|-damage|p2a: ICE ICE BABY|26/100|[from] Stealth Rock
+|-damage|p2a: ICE ICE BABY|1/100|[from] Spikes
+|-ability|p2a: ICE ICE BABY|Pressure
+|turn|33
+|
+|t:|1780994151
+|move|p1a: Rillaboom|Grassy Glide|p2a: ICE ICE BABY
+|-resisted|p2a: ICE ICE BABY
+|-damage|p2a: ICE ICE BABY|0 fnt
+|faint|p2a: ICE ICE BABY
+|-damage|p1a: Rillaboom|36/100|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|42/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1780994158
+|switch|p2a: No Skill Win Con|Kingambit, M, tera:Ghost|75/100
+|-damage|p2a: No Skill Win Con|63/100|[from] Stealth Rock
+|-damage|p2a: No Skill Win Con|38/100|[from] Spikes
+|-activate|p2a: No Skill Win Con|ability: Supreme Overlord
+|-start|p2a: No Skill Win Con|fallen5|[silent]
+|turn|34
+|
+|t:|1780994167
+|move|p1a: Rillaboom|Grassy Glide|p2a: No Skill Win Con
+|-crit|p2a: No Skill Win Con
+|-damage|p2a: No Skill Win Con|0 fnt
+|faint|p2a: No Skill Win Con
+|-end|p2a: No Skill Win Con|fallen5|[silent]
+|-damage|p1a: Rillaboom|32/100|[from] item: Life Orb
+|
+|win|Mca Player 11
+|raw|Mca Player 11's rating: 1500 &rarr; <strong>1522</strong><br />(+22 for winning)
+|raw|ghazi02's rating: 1538 &rarr; <strong>1516</strong><br />(-22 for losing)

@@ -1,0 +1,278 @@
+|j|☆bigtestsofbig
+|j|☆LowEL0God
+|t:|1781307197
+|gametype|singles
+|player|p1|bigtestsofbig|266|1625
+|player|p2|LowEL0God|265|1693
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Armarouge, F|
+|poke|p1|Slither Wing|
+|poke|p1|Enamorus, F|
+|poke|p1|Iron Treads|
+|poke|p1|Dragonite, M|
+|poke|p1|Kingambit, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781307221
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Armarouge|Armarouge, F|100/100
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|1
+|
+|t:|1781307232
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|move|p2a: Barraskewda|Flip Turn|p1a: Kingambit
+|-damage|p1a: Kingambit|65/100
+|
+|t:|1781307234
+|switch|p2a: Kingambit|Kingambit, F|100/100|[from] Flip Turn
+|
+|-heal|p1a: Kingambit|71/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781307238
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Slither Wing|Slither Wing|100/100
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1781307243
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Slither Wing|Close Combat|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|62/100
+|-unboost|p1a: Slither Wing|def|1
+|-unboost|p1a: Slither Wing|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|j| simoncoward
+|
+|t:|1781307262
+|move|p1a: Slither Wing|Close Combat|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|26/100
+|-unboost|p1a: Slither Wing|def|1
+|-unboost|p1a: Slither Wing|spd|1
+|move|p2a: Pelipper|Weather Ball|p1a: Slither Wing
+|-damage|p1a: Slither Wing|0 fnt
+|faint|p1a: Slither Wing
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781307267
+|switch|p1a: Armarouge|Armarouge, F|100/100
+|turn|5
+|l| simoncoward
+|
+|t:|1781307276
+|move|p1a: Armarouge|Armor Cannon|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|-unboost|p1a: Armarouge|def|1
+|-unboost|p1a: Armarouge|spd|1
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781307278
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|6
+|
+|t:|1781307286
+|move|p2a: Barraskewda|Liquidation|p1a: Armarouge
+|-supereffective|p1a: Armarouge
+|-damage|p1a: Armarouge|0 fnt
+|faint|p1a: Armarouge
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781307292
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|7
+|
+|t:|1781307296
+|move|p2a: Barraskewda|Liquidation|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|76/100
+|move|p1a: Dragonite|Earthquake|p2a: Barraskewda
+|-damage|p2a: Barraskewda|31/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781307301
+|move|p1a: Dragonite|Extreme Speed|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781307301
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|turn|9
+|
+|t:|1781307306
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|100/100
+|-singleturn|p1a: Dragonite|move: Roost
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781307310
+|switch|p1a: Kingambit|Kingambit, F|71/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|25/100
+|
+|-weather|none
+|-heal|p1a: Kingambit|31/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781307313
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Enamorus
+|-resisted|p1a: Enamorus
+|-damage|p1a: Enamorus|1/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781307321
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Enamorus|Healing Wish|p1a: Enamorus
+|faint|p1a: Enamorus
+|
+|upkeep
+|
+|t:|1781307330
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|13
+|
+|t:|1781307333
+|-terastallize|p2a: Kingambit|Dark
+|move|p1a: Dragonite|Earthquake|p2a: Kingambit
+|-damage|p2a: Kingambit|72/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Dragonite
+|-damage|p1a: Dragonite|26/100
+|
+|-heal|p2a: Kingambit|78/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781307342
+|switch|p1a: Kingambit|Kingambit, F|31/100
+|-heal|p1a: Kingambit|100/100|[from] move: Healing Wish
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|39/100
+|
+|-heal|p2a: Kingambit|84/100|[from] item: Leftovers
+|-heal|p1a: Kingambit|46/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781307352
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen3|[silent]
+|
+|-heal|p2a: Kingambit|91/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781307355
+|switch|p1a: Dragonite|Dragonite, M|26/100
+|turn|16
+|
+|t:|1781307360
+|-terastallize|p1a: Dragonite|Fairy
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|76/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|1/100
+|
+|-heal|p2a: Kingambit|97/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781307368
+|move|p1a: Dragonite|Extreme Speed|p2a: Kingambit
+|-damage|p2a: Kingambit|73/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|-heal|p2a: Kingambit|79/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781307370
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|turn|18
+|
+|t:|1781307372
+|move|p1a: Iron Treads|Earthquake|p2a: Kingambit
+|-damage|p2a: Kingambit|44/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|win|LowEL0God
+|raw|bigtestsofbig's rating: 1625 &rarr; <strong>1609</strong><br />(-16 for losing)
+|raw|LowEL0God's rating: 1693 &rarr; <strong>1709</strong><br />(+16 for winning)
+|l|☆bigtestsofbig
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|

@@ -1,0 +1,537 @@
+|j|☆sawquarete
+|j|☆KurisuChestnutOU
+|t:|1781150554
+|gametype|singles
+|player|p1|sawquarete|li|1596
+|player|p2|KurisuChestnutOU|may-contest|1522
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Great Tusk|
+|poke|p1|Kingambit, F|
+|poke|p1|Gholdengo|
+|poke|p1|Ting-Lu|
+|poke|p1|Alomomola, F|
+|poke|p1|Zamazenta-*|
+|poke|p2|Zamazenta-*|
+|poke|p2|Zapdos|
+|poke|p2|Garganacl, F|
+|poke|p2|Clefable, F|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Gholdengo|
+|teampreview
+|
+|t:|1781150560
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutOU)
+|
+|t:|1781150564
+|move|p2a: Samurott|Ceaseless Edge|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|38/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|-sidestart|p1: sawquarete|Spikes
+|move|p1a: Gholdengo|Thunder Wave|p2a: Samurott
+|-status|p2a: Samurott|par
+|
+|upkeep
+|turn|2
+|
+|t:|1781150572
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|cant|p2a: Samurott|par
+|
+|upkeep
+|turn|3
+|
+|t:|1781150580
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Great Tusk|Head Smash|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|26/100
+|-damage|p1a: Great Tusk|62/100|[from] Recoil
+|
+|upkeep
+|turn|4
+|
+|t:|1781150590
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|85/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781150603
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-damage|p1a: Ting-Lu|88/100|[from] Spikes
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Gholdengo|Shadow Ball|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|80/100
+|
+|-heal|p1a: Ting-Lu|86/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781150610
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|switch|p1a: Great Tusk|Great Tusk|62/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781150614
+|move|p2a: Zamazenta|Body Press|p1a: Great Tusk
+|-damage|p1a: Great Tusk|27/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Zamazenta
+|-damage|p2a: Zamazenta|91/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: sawquarete|Spikes|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|
+|-heal|p2a: Zamazenta|97/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781150617
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Gholdengo|Gholdengo|38/100
+|move|p2a: Zamazenta|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|5/100
+|-unboost|p1a: Gholdengo|def|1
+|
+|-heal|p2a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781150624
+|move|p2a: Zamazenta|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781150630
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|turn|10
+|
+|t:|1781150633
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p1a: Alomomola|Scald|p2a: Zamazenta
+|-damage|p2a: Zamazenta|90/100
+|-status|p2a: Zamazenta|brn
+|
+|-heal|p2a: Zamazenta|96/100 brn|[from] item: Leftovers
+|-damage|p2a: Zamazenta|90/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781150642
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p1a: Alomomola|Flip Turn|p2a: Zamazenta
+|-damage|p2a: Zamazenta|86/100 brn
+|
+|t:|1781150644
+|switch|p1a: Zamazenta|Zamazenta|100/100|[from] Flip Turn
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|
+|-heal|p2a: Zamazenta|92/100 brn|[from] item: Leftovers
+|-damage|p2a: Zamazenta|86/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1781150647
+|move|p2a: Zamazenta|Body Press|p1a: Zamazenta
+|-crit|p1a: Zamazenta
+|-damage|p1a: Zamazenta|40/100
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|-heal|p2a: Zamazenta|92/100 brn|[from] item: Leftovers
+|-heal|p1a: Zamazenta|46/100|[from] item: Leftovers
+|-damage|p2a: Zamazenta|86/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1781150651
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Zamazenta|Roar|p1a: Zamazenta
+|drag|p1a: Great Tusk|Great Tusk|27/100
+|
+|-heal|p2a: Zamazenta|92/100 brn|[from] item: Leftovers
+|-damage|p2a: Zamazenta|86/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781150662
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Zamazenta|Body Press|p1a: Alomomola
+|-damage|p1a: Alomomola|62/100
+|
+|-heal|p2a: Zamazenta|92/100 brn|[from] item: Leftovers
+|-damage|p2a: Zamazenta|86/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781150668
+|move|p2a: Zamazenta|Body Press|p1a: Alomomola
+|-damage|p1a: Alomomola|22/100
+|move|p1a: Alomomola|Flip Turn|p2a: Zamazenta
+|-damage|p2a: Zamazenta|81/100 brn
+|
+|t:|1781150671
+|switch|p1a: Zamazenta|Zamazenta|46/100|[from] Flip Turn
+|
+|-heal|p2a: Zamazenta|88/100 brn|[from] item: Leftovers
+|-heal|p1a: Zamazenta|52/100|[from] item: Leftovers
+|-damage|p2a: Zamazenta|81/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1781150677
+|move|p2a: Zamazenta|Body Press|p1a: Zamazenta
+|-damage|p1a: Zamazenta|12/100
+|move|p1a: Zamazenta|Roar|p2a: Zamazenta
+|drag|p2a: Garganacl|Garganacl, F|100/100
+|
+|-heal|p1a: Zamazenta|18/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781150682
+|move|p1a: Zamazenta|Body Press|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|58/100
+|move|p2a: Garganacl|Salt Cure|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|13/100
+|-start|p1a: Zamazenta|Salt Cure
+|
+|-heal|p1a: Zamazenta|20/100|[from] item: Leftovers
+|-heal|p2a: Garganacl|65/100|[from] item: Leftovers
+|-damage|p1a: Zamazenta|7/100|[from] Salt Cure
+|upkeep
+|turn|18
+|
+|t:|1781150687
+|switch|p1a: Ting-Lu|Ting-Lu|86/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Garganacl|Stealth Rock|p1a: Ting-Lu
+|-sidestart|p1: sawquarete|move: Stealth Rock
+|
+|-heal|p1a: Ting-Lu|92/100|[from] item: Leftovers
+|-heal|p2a: Garganacl|71/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781150694
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Garganacl
+|-sidestart|p2: KurisuChestnutOU|move: Stealth Rock
+|move|p2a: Garganacl|Salt Cure|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|89/100
+|-start|p1a: Ting-Lu|Salt Cure
+|
+|-heal|p1a: Ting-Lu|95/100|[from] item: Leftovers
+|-heal|p2a: Garganacl|77/100|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|82/100|[from] Salt Cure
+|upkeep
+|turn|20
+|
+|t:|1781150699
+|switch|p1a: Great Tusk|Great Tusk|27/100
+|move|p2a: Garganacl|Salt Cure|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|25/100
+|-start|p1a: Great Tusk|Salt Cure
+|
+|-heal|p2a: Garganacl|83/100|[from] item: Leftovers
+|-damage|p1a: Great Tusk|13/100|[from] Salt Cure
+|upkeep
+|turn|21
+|
+|t:|1781150704
+|switch|p2a: Zapdos|Zapdos|26/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|-damage|p1a: Great Tusk|0 fnt|[from] Salt Cure
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|upkeep
+|
+|t:|1781150706
+|switch|p1a: Zamazenta|Zamazenta|7/100
+|-damage|p1a: Zamazenta|1/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781150714
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|76/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-heal|p1a: Zamazenta|7/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781150717
+|move|p2a: Zapdos|Hurricane|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|upkeep
+|
+|t:|1781150719
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|24
+|
+|t:|1781150722
+|move|p2a: Zapdos|Discharge|p1a: Kingambit
+|-damage|p1a: Kingambit|57/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|upkeep
+|turn|25
+|
+|t:|1781150727
+|switch|p2a: Zamazenta|Zamazenta|81/100 brn
+|-damage|p2a: Zamazenta|75/100 brn|[from] Stealth Rock
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-heal|p2a: Zamazenta|81/100 brn|[from] item: Leftovers
+|-damage|p2a: Zamazenta|75/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1781150731
+|-terastallize|p1a: Kingambit|Dark
+|move|p2a: Zamazenta|Body Press|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|32/100
+|move|p1a: Kingambit|Iron Head|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781150736
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|27
+|
+|t:|1781150739
+|-terastallize|p2a: Clefable|Steel
+|move|p1a: Kingambit|Iron Head|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|79/100
+|move|p2a: Clefable|Moonblast|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1781150746
+|switch|p1a: Alomomola|Alomomola, F|56/100
+|-damage|p1a: Alomomola|43/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1781150753
+|move|p2a: Clefable|Moonblast|p1a: Alomomola
+|-damage|p1a: Alomomola|28/100
+|move|p1a: Alomomola|Mirror Coat|p2a: Clefable
+|-damage|p2a: Clefable|37/100
+|
+|upkeep
+|turn|29
+|c|☆sawquarete|wait you again ?
+|
+|t:|1781150759
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|87/100
+|move|p1a: Alomomola|Flip Turn|p2a: Clefable
+|-damage|p2a: Clefable|74/100
+|
+|t:|1781150762
+|switch|p1a: Ting-Lu|Ting-Lu|82/100|[from] Flip Turn
+|-damage|p1a: Ting-Lu|76/100|[from] Stealth Rock
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|
+|-heal|p1a: Ting-Lu|82/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781150766
+|move|p2a: Clefable|Moonblast|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|57/100
+|move|p1a: Ting-Lu|Earthquake|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|19/100
+|
+|-heal|p1a: Ting-Lu|63/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1781150769
+|move|p2a: Clefable|Moonblast|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|35/100
+|move|p1a: Ting-Lu|Earthquake|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-heal|p1a: Ting-Lu|41/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781150774
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100 par
+|-damage|p2a: Samurott|88/100 par|[from] Stealth Rock
+|turn|32
+|
+|t:|1781150779
+|cant|p2a: Samurott|par
+|move|p1a: Ting-Lu|Earthquake|p2a: Samurott
+|-damage|p2a: Samurott|43/100 par
+|
+|-heal|p1a: Ting-Lu|47/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1781150783
+|move|p2a: Samurott|Ceaseless Edge|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|34/100
+|-sidestart|p1: sawquarete|Spikes
+|move|p1a: Ting-Lu|Earthquake|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-heal|p1a: Ting-Lu|40/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781150786
+|switch|p2a: Zapdos|Zapdos|76/100
+|turn|34
+|
+|t:|1781150791
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|22/100
+|move|p1a: Ting-Lu|Ruination|p2a: Zapdos
+|-damage|p2a: Zapdos|39/100
+|
+|-heal|p1a: Ting-Lu|28/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1781150796
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|10/100
+|move|p1a: Ting-Lu|Whirlwind|p2a: Zapdos
+|drag|p2a: Garganacl|Garganacl, F|83/100
+|-damage|p2a: Garganacl|71/100|[from] Stealth Rock
+|
+|-heal|p1a: Ting-Lu|16/100|[from] item: Leftovers
+|-heal|p2a: Garganacl|77/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1781150799
+|move|p1a: Ting-Lu|Earthquake|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|26/100
+|move|p2a: Garganacl|Salt Cure|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|12/100
+|-start|p1a: Ting-Lu|Salt Cure
+|
+|-heal|p1a: Ting-Lu|19/100|[from] item: Leftovers
+|-heal|p2a: Garganacl|33/100|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|6/100|[from] Salt Cure
+|upkeep
+|turn|37
+|
+|t:|1781150807
+|move|p1a: Ting-Lu|Earthquake|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|faint|p2a: Garganacl
+|
+|-heal|p1a: Ting-Lu|12/100|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|0 fnt|[from] Salt Cure
+|faint|p1a: Ting-Lu
+|upkeep
+|
+|t:|1781150810
+|switch|p1a: Alomomola|Alomomola, F|61/100
+|switch|p2a: Zapdos|Zapdos|39/100
+|-damage|p1a: Alomomola|49/100|[from] Stealth Rock
+|-damage|p1a: Alomomola|37/100|[from] Spikes
+|turn|38
+|
+|t:|1781150813
+|move|p2a: Zapdos|Volt Switch|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|7/100
+|
+|t:|1781150818
+|switch|p2a: Gholdengo|Gholdengo|85/100|[from] Volt Switch
+|-damage|p2a: Gholdengo|79/100|[from] Stealth Rock
+|move|p1a: Alomomola|Mirror Coat|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781150822
+|switch|p2a: Zapdos|Zapdos|39/100
+|turn|39
+|
+|t:|1781150827
+|move|p2a: Zapdos|Volt Switch|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|faint|p1a: Alomomola
+|
+|win|KurisuChestnutOU
+|raw|sawquarete's rating: 1596 &rarr; <strong>1572</strong><br />(-24 for losing)
+|raw|KurisuChestnutOU's rating: 1525 &rarr; <strong>1549</strong><br />(+24 for winning)
+|l|☆KurisuChestnutOU
+|player|p2|
+|l|☆sawquarete
+|player|p1|

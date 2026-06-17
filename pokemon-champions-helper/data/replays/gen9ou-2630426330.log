@@ -1,0 +1,291 @@
+|j|☆erjuanzas
+|j|☆tiftif
+|t:|1781255172
+|gametype|singles
+|player|p1|erjuanzas|linebacker|1535
+|player|p2|tiftif|266|1517
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Overqwil, F|
+|poke|p1|Barraskewda, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Iron Treads|
+|poke|p2|Barraskewda, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Talonflame, M|
+|poke|p2|Keldeo-Resolute|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by erjuanzas)
+|
+|t:|1781255184
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781255189
+|move|p2a: Iron Treads|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|18/100
+|move|p1a: Iron Treads|Earth Power|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|9/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781255195
+|move|p2a: Iron Treads|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781255197
+|switch|p1a: La Cabra|Barraskewda, F|100/100
+|turn|3
+|
+|t:|1781255211
+|move|p1a: La Cabra|Aqua Jet|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781255223
+|switch|p2a: Keldeo|Keldeo-Resolute|100/100
+|turn|4
+|
+|t:|1781255230
+|switch|p1a: Pelipas|Pelipper, M, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipas
+|move|p2a: Keldeo|Substitute|p2a: Keldeo
+|-start|p2a: Keldeo|Substitute
+|-damage|p2a: Keldeo|76/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Keldeo|82/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781255235
+|move|p2a: Keldeo|Surf|p1a: Pelipas
+|-resisted|p1a: Pelipas
+|-damage|p1a: Pelipas|48/100
+|move|p1a: Pelipas|Hurricane|p2a: Keldeo
+|-supereffective|p2a: Keldeo
+|-end|p2a: Keldeo|Substitute
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Keldeo|88/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781255240
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Keldeo|Surf|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|66/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Keldeo|94/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781255245
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Raging Bolt|Thunder|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|79/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781255264
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p2a: Raging Bolt|Weather Ball|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|34/100
+|move|p1a: Raging Bolt|Thunder|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781255280
+|switch|p2a: Talonflame|Talonflame, M|100/100
+|turn|9
+|
+|t:|1781255282
+|move|p2a: Talonflame|Hurricane|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|7/100
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781255288
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|move|p2a: Talonflame|Hurricane|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|67/100
+|-start|p1a: Kingambit|confusion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kingambit|74/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|tiftif has 120 seconds left.
+|c|☆erjuanzas|i completly forgot about gale wings
+|c|☆erjuanzas|tbh
+|inactive|tiftif has 90 seconds left.
+|c|☆tiftif|I count on that ngl
+|
+|t:|1781255356
+|switch|p2a: Keldeo|Keldeo-Resolute|94/100
+|-activate|p1a: Kingambit|confusion
+|-damage|p1a: Kingambit|62/100|[from] confusion
+|
+|-weather|none
+|-heal|p2a: Keldeo|100/100|[from] item: Leftovers
+|-heal|p1a: Kingambit|68/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|tiftif has 90 seconds left.
+|
+|t:|1781255372
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Pelipas|Pelipper, M, shiny|48/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipas
+|move|p2a: Keldeo|Substitute|p2a: Keldeo
+|-start|p2a: Keldeo|Substitute
+|-damage|p2a: Keldeo|76/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Keldeo|82/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781255377
+|move|p2a: Keldeo|Surf|p1a: Pelipas
+|-resisted|p1a: Pelipas
+|-damage|p1a: Pelipas|0 fnt
+|faint|p1a: Pelipas
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Keldeo|88/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781255379
+|switch|p1a: Overqwil|Overqwil, F|100/100
+|turn|14
+|
+|t:|1781255386
+|move|p1a: Overqwil|Gunk Shot|p2a: Keldeo
+|-end|p2a: Keldeo|Substitute
+|-damage|p1a: Overqwil|91/100|[from] item: Life Orb
+|move|p2a: Keldeo|Surf|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|faint|p1a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Keldeo|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781255394
+|switch|p1a: La Cabra|Barraskewda, F|100/100
+|turn|15
+|
+|t:|1781255402
+|-terastallize|p1a: La Cabra|Water
+|move|p1a: La Cabra|Flip Turn|p2a: Keldeo
+|-resisted|p2a: Keldeo
+|-damage|p2a: Keldeo|40/100
+|
+|t:|1781255406
+|switch|p1a: Kingambit|Kingambit, M|68/100|[from] Flip Turn
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|move|p2a: Keldeo|Secret Sword|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen3|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Keldeo|46/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781255411
+|switch|p1a: La Cabra|Barraskewda, F, tera:Water|100/100
+|turn|16
+|
+|t:|1781255416
+|move|p1a: La Cabra|Liquidation|p2a: Keldeo
+|-resisted|p2a: Keldeo
+|-damage|p2a: Keldeo|0 fnt
+|faint|p2a: Keldeo
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781255421
+|switch|p2a: Talonflame|Talonflame, M|100/100
+|turn|17
+|
+|t:|1781255425
+|move|p2a: Talonflame|Hurricane|p1a: La Cabra
+|-damage|p1a: La Cabra|0 fnt
+|faint|p1a: La Cabra
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆erjuanzas|gg
+|-message|erjuanzas forfeited.
+|
+|win|tiftif
+|raw|erjuanzas's rating: 1535 &rarr; <strong>1514</strong><br />(-21 for losing)
+|raw|tiftif's rating: 1517 &rarr; <strong>1538</strong><br />(+21 for winning)
+|l|☆erjuanzas
+|player|p1|

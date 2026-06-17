@@ -1,0 +1,363 @@
+|j|☆FP.//06
+|j|☆danmoses
+|t:|1781518203
+|gametype|singles
+|player|p1|FP.//06|hilda-masters3|1561
+|player|p2|danmoses|whitney|1614
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Darkrai|
+|poke|p1|Iron Treads|
+|poke|p1|Dragonite, M|
+|poke|p1|Kyurem|
+|poke|p1|Hatterene, F|
+|poke|p1|Zamazenta-*|
+|poke|p2|Kyurem|
+|poke|p2|Hatterene, F|
+|poke|p2|Darkrai|
+|poke|p2|Great Tusk|
+|poke|p2|Dragonite, F|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by danmoses)
+|inactive|FP.//06 also wants the timer to be on.
+|inactive|FP.//06 has 120 seconds left.
+|
+|t:|1781518244
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781518249
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Kyurem|Body Press|p2a: Hatterene
+|-resisted|p2a: Hatterene
+|-damage|p2a: Hatterene|96/100
+|-damage|p1a: Kyurem|84/100|[from] item: Rocky Helmet|[of] p2a: Hatterene
+|
+|upkeep
+|turn|2
+|
+|t:|1781518260
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|move|p2a: Hatterene|Pain Split|p1a: Iron Treads
+|-sethp|p1a: Iron Treads|97/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Hatterene|99/100|[from] move: Pain Split
+|
+|upkeep
+|turn|3
+|
+|t:|1781518269
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Iron Treads|Knock Off|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|92/100
+|-enditem|p2a: Great Tusk|Leftovers|[from] move: Knock Off|[of] p1a: Iron Treads
+|
+|upkeep
+|turn|4
+|
+|t:|1781518280
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Hatterene
+|-damage|p1a: Hatterene|54/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1781518287
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Hatterene|Nuzzle|p2a: Gholdengo
+|-damage|p2a: Gholdengo|96/100
+|-status|p2a: Gholdengo|par
+|
+|upkeep
+|turn|6
+|
+|t:|1781518293
+|switch|p1a: Iron Treads|Iron Treads|97/100
+|move|p2a: Gholdengo|Make It Rain|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|48/100
+|-unboost|p2a: Gholdengo|spa|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781518298
+|switch|p2a: Great Tusk|Great Tusk|92/100
+|move|p1a: Iron Treads|Knock Off|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|86/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781518303
+|move|p1a: Iron Treads|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: danmoses|move: Stealth Rock
+|move|p2a: Great Tusk|Headlong Rush|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781518307
+|switch|p1a: Darkrai|Darkrai|100/100
+|turn|9
+|
+|t:|1781518316
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Kyurem|Kyurem|100/100
+|-damage|p2a: Kyurem|76/100|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Darkrai|Ice Beam|p2a: Kyurem
+|-damage|p2a: Kyurem|54/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781518326
+|move|p1a: Darkrai|Focus Blast|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781518338
+|switch|p2a: Hatterene|Hatterene, F|99/100
+|-damage|p2a: Hatterene|86/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1781518342
+|-terastallize|p1a: Darkrai|Poison
+|move|p1a: Darkrai|Sludge Bomb|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781518352
+|switch|p2a: Darkrai|Darkrai|100/100
+|-damage|p2a: Darkrai|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781518357
+|switch|p1a: Kyurem|Kyurem|84/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Darkrai|Dark Pulse|p1a: Kyurem
+|-damage|p1a: Kyurem|58/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781518361
+|move|p2a: Darkrai|Dark Pulse|p1a: Kyurem
+|-damage|p1a: Kyurem|31/100
+|move|p1a: Kyurem|Ice Beam|p2a: Darkrai
+|-damage|p2a: Darkrai|25/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781518366
+|move|p2a: Darkrai|Dark Pulse|p1a: Kyurem
+|-damage|p1a: Kyurem|5/100
+|move|p1a: Kyurem|Ice Beam|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|upkeep
+|
+|t:|1781518380
+|switch|p2a: Great Tusk|Great Tusk|86/100
+|-damage|p2a: Great Tusk|83/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1781518388
+|move|p2a: Great Tusk|Rapid Spin|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: danmoses|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781518389
+|switch|p1a: Hatterene|Hatterene, F|54/100
+|turn|16
+|
+|t:|1781518393
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Gholdengo|Gholdengo|96/100 par
+|move|p1a: Hatterene|Dazzling Gleam|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|78/100 par
+|
+|upkeep
+|turn|17
+|
+|t:|1781518398
+|switch|p1a: Darkrai|Darkrai, tera:Poison|100/100
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|
+|upkeep
+|turn|18
+|
+|t:|1781518412
+|move|p1a: Darkrai|Dark Pulse|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781518419
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|19
+|
+|t:|1781518439
+|-terastallize|p2a: Dragonite|Normal
+|move|p1a: Darkrai|Ice Beam|p2a: Dragonite
+|-damage|p2a: Dragonite|87/100
+|move|p2a: Dragonite|Earthquake|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|12/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781518446
+|move|p2a: Dragonite|Extreme Speed|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|upkeep
+|
+|t:|1781518448
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|21
+|
+|t:|1781518454
+|switch|p2a: Great Tusk|Great Tusk|83/100
+|move|p1a: Zamazenta|Close Combat|p2a: Great Tusk
+|-damage|p2a: Great Tusk|45/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|-damage|p1a: Zamazenta|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|22
+|
+|t:|1781518465
+|switch|p1a: Hatterene|Hatterene, F|54/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781518468
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|23
+|
+|t:|1781518478
+|move|p1a: Dragonite|Scale Shot|p2a: Great Tusk
+|-damage|p2a: Great Tusk|32/100
+|-damage|p2a: Great Tusk|20/100
+|-damage|p2a: Great Tusk|8/100
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|-hitcount|p2: Great Tusk|4
+|-unboost|p1a: Dragonite|def|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|
+|t:|1781518484
+|switch|p2a: Dragonite|Dragonite, F, tera:Normal|87/100
+|turn|24
+|
+|t:|1781518493
+|move|p1a: Dragonite|Scale Shot|p2a: Dragonite|[miss]
+|-miss|p1a: Dragonite|p2a: Dragonite
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|25
+|
+|t:|1781518498
+|move|p2a: Dragonite|Extreme Speed|p1a: Dragonite
+|-damage|p1a: Dragonite|51/100
+|move|p1a: Dragonite|Encore|p2a: Dragonite
+|-start|p2a: Dragonite|Encore
+|
+|upkeep
+|turn|26
+|
+|t:|1781518502
+|move|p2a: Dragonite|Extreme Speed|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1781518504
+|switch|p1a: Zamazenta|Zamazenta|91/100
+|turn|27
+|
+|t:|1781518506
+|move|p2a: Dragonite|Extreme Speed|p1a: Zamazenta
+|-damage|p1a: Zamazenta|31/100
+|move|p1a: Zamazenta|Close Combat|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|faint|p2a: Dragonite
+|-damage|p1a: Zamazenta|21/100|[from] item: Life Orb
+|
+|win|FP.//06
+|raw|FP.&#x2f;&#x2f;06's rating: 1561 &rarr; <strong>1584</strong><br />(+23 for winning)
+|raw|danmoses's rating: 1614 &rarr; <strong>1591</strong><br />(-23 for losing)
+|l|☆FP.//06
+|player|p1|
+|l|☆danmoses
+|player|p2|

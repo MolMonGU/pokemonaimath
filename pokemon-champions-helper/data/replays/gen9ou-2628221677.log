@@ -1,0 +1,468 @@
+|j|☆Superhjkdetective
+|j|☆Mca Player 11
+|t:|1780994192
+|gametype|singles
+|player|p1|Superhjkdetective|170|1563
+|player|p2|Mca Player 11|skierf|1522
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Crown|
+|poke|p1|Lokix, M|
+|poke|p1|Dragonite, F|
+|poke|p1|Great Tusk|
+|poke|p1|Pecharunt|
+|poke|p1|Garganacl, M|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Iron Moth|
+|poke|p2|Zamazenta-*|
+|poke|p2|Gholdengo|
+|poke|p2|Rillaboom, M|
+|poke|p2|Iron Jugulis|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Superhjkdetective)
+|
+|t:|1780994210
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Garganacl|Garganacl, M|100/100
+|switch|p2a: Iron Jugulis|Iron Jugulis, shiny|100/100
+|-enditem|p2a: Iron Jugulis|Booster Energy
+|-activate|p2a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Jugulis|quarkdrivespe
+|turn|1
+|
+|t:|1780994214
+|move|p2a: Iron Jugulis|Taunt|p1a: Garganacl
+|-start|p1a: Garganacl|move: Taunt
+|cant|p1a: Garganacl|move: Taunt|Curse
+|
+|upkeep
+|turn|2
+|
+|t:|1780994216
+|move|p2a: Iron Jugulis|Knock Off|p1a: Garganacl
+|-damage|p1a: Garganacl|82/100
+|-enditem|p1a: Garganacl|Leftovers|[from] move: Knock Off|[of] p2a: Iron Jugulis
+|move|p1a: Garganacl|Salt Cure|p2a: Iron Jugulis
+|-supereffective|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|68/100
+|-start|p2a: Iron Jugulis|Salt Cure
+|
+|-damage|p2a: Iron Jugulis|55/100|[from] Salt Cure
+|upkeep
+|turn|3
+|
+|t:|1780994219
+|move|p2a: Iron Jugulis|Earth Power|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|39/100
+|-unboost|p1a: Garganacl|spd|1
+|move|p1a: Garganacl|Salt Cure|p2a: Iron Jugulis
+|-supereffective|p2a: Iron Jugulis
+|-crit|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|8/100
+|
+|-damage|p2a: Iron Jugulis|0 fnt|[from] Salt Cure
+|faint|p2a: Iron Jugulis
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|-end|p1a: Garganacl|move: Taunt
+|upkeep
+|
+|t:|1780994227
+|switch|p2a: Rillaboom|Rillaboom, M, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|4
+|
+|t:|1780994247
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|
+|upkeep
+|turn|5
+|inactive|Superhjkdetective has 120 seconds left.
+|
+|t:|1780994282
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Garganacl|Garganacl, M|39/100
+|move|p2a: Rillaboom|Grassy Glide|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|faint|p1a: Garganacl
+|-damage|p2a: Rillaboom|91/100|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|97/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1780994283
+|switch|p1a: Lokix|Lokix, M|100/100
+|turn|6
+|
+|t:|1780994287
+|switch|p2a: Gholdengo|Gholdengo, shiny|100/100
+|-enditem|p2a: Gholdengo|Grassy Seed
+|-boost|p2a: Gholdengo|def|1|[from] item: Grassy Seed
+|move|p1a: Lokix|First Impression|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|83/100
+|
+|-heal|p2a: Gholdengo|89/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1780994296
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|move|p2a: Gholdengo|Shadow Ball|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|36/100
+|
+|-heal|p1a: Iron Crown|43/100|[from] Grassy Terrain
+|-heal|p2a: Gholdengo|95/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1780994299
+|move|p1a: Iron Crown|Volt Switch|p2a: Gholdengo
+|-damage|p2a: Gholdengo|72/100
+|
+|t:|1780994306
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Lokix|Lokix, M|100/100|[from] Volt Switch
+|move|p2a: Gholdengo|Shadow Ball|p1a: Lokix
+|-resisted|p1a: Lokix
+|-damage|p1a: Lokix|64/100
+|
+|-heal|p1a: Lokix|70/100|[from] Grassy Terrain
+|-heal|p2a: Gholdengo|78/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1780994314
+|move|p1a: Lokix|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|25/100
+|move|p2a: Gholdengo|Recover|p2a: Gholdengo
+|-heal|p2a: Gholdengo|75/100
+|
+|upkeep
+|turn|10
+|
+|t:|1780994317
+|move|p1a: Lokix|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|17/100
+|move|p2a: Gholdengo|Make It Rain|p1a: Lokix
+|-damage|p1a: Lokix|0 fnt
+|-unboost|p2a: Gholdengo|spa|1
+|faint|p1a: Lokix
+|
+|upkeep
+|
+|t:|1780994322
+|switch|p1a: Iron Crown|Iron Crown|43/100
+|turn|11
+|
+|t:|1780994326
+|move|p1a: Iron Crown|Volt Switch|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|t:|1780994334
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Dragonite|Dragonite, F|100/100|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1780994339
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|12
+|
+|t:|1780994349
+|switch|p1a: Iron Crown|Iron Crown|43/100
+|move|p2a: Deoxys|Taunt|p1a: Iron Crown
+|-start|p1a: Iron Crown|move: Taunt
+|
+|upkeep
+|turn|13
+|
+|t:|1780994356
+|move|p2a: Deoxys|Spikes|p1a: Iron Crown
+|-sidestart|p1: Superhjkdetective|Spikes
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Deoxys
+|-damage|p2a: Deoxys|58/100
+|-damage|p2a: Deoxys|11/100
+|-hitcount|p2a: Deoxys|2
+|
+|upkeep
+|turn|14
+|
+|t:|1780994360
+|move|p2a: Deoxys|Spikes|p1a: Iron Crown
+|-sidestart|p1: Superhjkdetective|Spikes
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|-hitcount|p2: Deoxys|1
+|
+|-end|p1a: Iron Crown|move: Taunt
+|upkeep
+|
+|t:|1780994362
+|switch|p2a: Iron Moth|Iron Moth, shiny|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|turn|15
+|
+|t:|1780994366
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|90/100
+|-boost|p2a: Iron Moth|spa|1
+|
+|upkeep
+|turn|16
+|
+|t:|1780994374
+|-terastallize|p2a: Iron Moth|Ghost
+|move|p2a: Iron Moth|Sludge Wave|p1a: Dragonite
+|-damage|p1a: Dragonite|16/100
+|move|p1a: Dragonite|Earthquake|p2a: Iron Moth
+|-damage|p2a: Iron Moth|48/100
+|
+|upkeep
+|turn|17
+|
+|t:|1780994384
+|move|p2a: Iron Moth|Fiery Dance|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1780994390
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|84/100|[from] Spikes
+|turn|18
+|
+|t:|1780994394
+|move|p2a: Iron Moth|Fiery Dance|p1a: Great Tusk
+|-damage|p1a: Great Tusk|2/100
+|-boost|p2a: Iron Moth|spa|1
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p1a: Great Tusk|9/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780994397
+|switch|p2a: Rillaboom|Rillaboom, M, shiny|97/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|19
+|
+|t:|1780994401
+|move|p2a: Rillaboom|Grassy Glide|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|-damage|p2a: Rillaboom|87/100|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|93/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1780994406
+|switch|p1a: Iron Crown|Iron Crown|43/100
+|-damage|p1a: Iron Crown|26/100|[from] Spikes
+|turn|20
+|
+|t:|1780994413
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Rillaboom
+|-damage|p2a: Rillaboom|40/100
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|-hitcount|p2: Rillaboom|2
+|
+|-heal|p1a: Iron Crown|32/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1780994415
+|switch|p2a: Zamazenta|Zamazenta, shiny|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|21
+|
+|t:|1780994420
+|move|p2a: Zamazenta|Crunch|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780994421
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|turn|22
+|
+|t:|1780994424
+|move|p2a: Zamazenta|Crunch|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-crit|p1a: Pecharunt
+|-damage|p1a: Pecharunt|47/100
+|move|p1a: Pecharunt|Malignant Chain|p2a: Zamazenta
+|-damage|p2a: Zamazenta|71/100
+|
+|-heal|p2a: Zamazenta|77/100|[from] Grassy Terrain
+|-heal|p1a: Pecharunt|53/100|[from] Grassy Terrain
+|upkeep
+|turn|23
+|
+|t:|1780994435
+|move|p2a: Zamazenta|Crunch|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|15/100
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|65/100
+|
+|-heal|p2a: Zamazenta|83/100|[from] Grassy Terrain
+|-heal|p1a: Pecharunt|71/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|24
+|
+|t:|1780994440
+|move|p2a: Zamazenta|Crunch|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|33/100
+|move|p1a: Pecharunt|Parting Shot|p2a: Zamazenta
+|-unboost|p2a: Zamazenta|atk|1
+|-unboost|p2a: Zamazenta|spa|1
+|
+|upkeep
+|turn|25
+|
+|t:|1780994452
+|move|p2a: Zamazenta|Crunch|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|9/100
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|59/100
+|
+|upkeep
+|turn|26
+|
+|t:|1780994461
+|move|p2a: Zamazenta|Crunch|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|37/100
+|move|p1a: Pecharunt|Parting Shot|p2a: Zamazenta
+|-unboost|p2a: Zamazenta|atk|1
+|-unboost|p2a: Zamazenta|spa|1
+|
+|upkeep
+|turn|27
+|
+|t:|1780994464
+|move|p2a: Zamazenta|Crunch|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|19/100
+|-unboost|p1a: Pecharunt|def|1
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|69/100
+|
+|upkeep
+|turn|28
+|
+|t:|1780994468
+|move|p2a: Zamazenta|Crunch|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|40/100
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|90/100
+|
+|upkeep
+|turn|29
+|
+|t:|1780994471
+|move|p2a: Zamazenta|Crunch|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|62/100
+|move|p1a: Pecharunt|Parting Shot|p2a: Zamazenta
+|-unboost|p2a: Zamazenta|atk|1
+|-unboost|p2a: Zamazenta|spa|1
+|
+|upkeep
+|turn|30
+|
+|t:|1780994474
+|move|p2a: Zamazenta|Crunch|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|38/100
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|88/100
+|
+|upkeep
+|turn|31
+|
+|t:|1780994477
+|move|p2a: Zamazenta|Crunch|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|67/100
+|move|p1a: Pecharunt|Malignant Chain|p2a: Zamazenta
+|-damage|p2a: Zamazenta|56/100
+|-status|p2a: Zamazenta|tox
+|-start|p2a: Zamazenta|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|
+|-damage|p2a: Zamazenta|50/100 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1780994480
+|-activate|p2a: Zamazenta|confusion
+|-damage|p2a: Zamazenta|46/100 tox|[from] confusion
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|100/100
+|
+|-damage|p2a: Zamazenta|34/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1780994484
+|-activate|p2a: Zamazenta|confusion
+|-damage|p2a: Zamazenta|30/100 tox|[from] confusion
+|move|p1a: Pecharunt|Shadow Ball|p2a: Zamazenta
+|-damage|p2a: Zamazenta|9/100 tox
+|
+|-damage|p2a: Zamazenta|0 fnt|[from] psn
+|faint|p2a: Zamazenta
+|
+|win|Superhjkdetective
+|raw|Superhjkdetective's rating: 1563 &rarr; <strong>1581</strong><br />(+18 for winning)
+|raw|Mca Player 11's rating: 1522 &rarr; <strong>1504</strong><br />(-18 for losing)
+|c|☆Mca Player 11|these odds are fake
+|c|☆Mca Player 11|no way I clicked crunch that many times to only drop once
+|c|☆Mca Player 11|oh well
+|c|☆Mca Player 11|gg mn
+|l|☆Mca Player 11
+|player|p2|

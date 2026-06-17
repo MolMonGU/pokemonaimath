@@ -1,0 +1,366 @@
+|j|☆LowEL0God
+|j|☆ignaa
+|t:|1781290220
+|gametype|singles
+|player|p1|LowEL0God|265|1636
+|player|p2|ignaa|pokefan-gen4|1632
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Clodsire, F|
+|poke|p2|Primarina, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Kingambit, M|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|j| Pulkatz
+|c|☆ignaa|hf
+|
+|t:|1781290249
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|switch|p2a: Ness|Primarina, M|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|1
+|
+|t:|1781290253
+|switch|p2a: Danel|Clodsire, F|100/100
+|move|p1a: Raging Bolt|Thunder|p2a: Danel
+|-immune|p2a: Danel
+|
+|upkeep
+|turn|2
+|
+|t:|1781290261
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|move|p2a: Danel|Stealth Rock|p1a: Kingambit
+|-sidestart|p1: LowEL0God|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781290264
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|move|p2a: Danel|Earthquake|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|58/100
+|
+|-heal|p1a: Kingambit|64/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781290269
+|switch|p2a: Curty|Corviknight, F|100/100
+|-ability|p2a: Curty|Pressure
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Curty
+|-damage|p2a: Curty|37/100
+|-damage|p1a: Kingambit|48/100|[from] item: Rocky Helmet|[of] p2a: Curty
+|
+|-heal|p1a: Kingambit|54/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781290280
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|move|p2a: Curty|Roost|p2a: Curty
+|-heal|p2a: Curty|87/100
+|-singleturn|p2a: Curty|move: Roost
+|
+|-heal|p1a: Kingambit|60/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781290282
+|-terastallize|p1a: Kingambit|Dark
+|move|p2a: Curty|Body Press|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|23/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|30/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781290294
+|move|p1a: Kingambit|Sucker Punch|p2a: Curty
+|-damage|p2a: Curty|0 fnt
+|-damage|p1a: Kingambit|13/100|[from] item: Rocky Helmet|[of] p2a: Curty
+|faint|p2a: Curty
+|
+|-heal|p1a: Kingambit|19/100|[from] item: Leftovers
+|upkeep
+|j| mak7xr
+|inactive|ignaa has 120 seconds left.
+|
+|t:|1781290327
+|switch|p2a: Bruno|Kingambit, M|100/100
+|-activate|p2a: Bruno|ability: Supreme Overlord
+|-start|p2a: Bruno|fallen1|[silent]
+|turn|8
+|
+|t:|1781290330
+|move|p2a: Bruno|Sucker Punch|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|1/100
+|move|p1a: Kingambit|Iron Head|p2a: Bruno
+|-resisted|p2a: Bruno
+|-damage|p2a: Bruno|50/100
+|
+|-heal|p1a: Kingambit|7/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781290336
+|move|p1a: Kingambit|Sucker Punch|p2a: Bruno
+|-resisted|p2a: Bruno
+|-damage|p2a: Bruno|0 fnt
+|faint|p2a: Bruno
+|-end|p2a: Bruno|fallen1|[silent]
+|
+|-heal|p1a: Kingambit|13/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781290338
+|switch|p2a: El Furro|Landorus-Therian, M|100/100
+|-ability|p2a: El Furro|Intimidate|boost
+|-unboost|p1a: Kingambit|atk|1
+|turn|10
+|
+|t:|1781290340
+|move|p1a: Kingambit|Sucker Punch|p2a: El Furro
+|-damage|p2a: El Furro|0 fnt
+|faint|p2a: El Furro
+|
+|-heal|p1a: Kingambit|19/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781290343
+|switch|p2a: Luka|Raging Bolt|100/100
+|turn|11
+|
+|t:|1781290346
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-damage|p1a: Iron Treads|97/100|[from] Stealth Rock
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|move|p2a: Luka|Thunderbolt|p1a: Iron Treads
+|-immune|p1a: Iron Treads
+|
+|upkeep
+|turn|12
+|
+|t:|1781290349
+|-end|p2a: Luka|Protosynthesis|[silent]
+|switch|p2a: Danel|Clodsire, F|100/100
+|move|p1a: Iron Treads|Rapid Spin|p2a: Danel
+|-damage|p2a: Danel|88/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: LowEL0God|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|
+|-heal|p2a: Danel|94/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781290352
+|move|p1a: Iron Treads|Earth Power|p2a: Danel
+|-supereffective|p2a: Danel
+|-damage|p2a: Danel|60/100
+|move|p2a: Danel|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|52/100
+|
+|-heal|p2a: Danel|67/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781290355
+|move|p1a: Iron Treads|Earth Power|p2a: Danel
+|-supereffective|p2a: Danel
+|-damage|p2a: Danel|31/100
+|move|p2a: Danel|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|1/100
+|
+|-heal|p2a: Danel|38/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781290361
+|move|p1a: Iron Treads|Earth Power|p2a: Danel
+|-supereffective|p2a: Danel
+|-damage|p2a: Danel|3/100
+|move|p2a: Danel|Recover|p2a: Danel
+|-heal|p2a: Danel|53/100
+|
+|-heal|p2a: Danel|59/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781290363
+|move|p1a: Iron Treads|Earth Power|p2a: Danel
+|-supereffective|p2a: Danel
+|-damage|p2a: Danel|21/100
+|move|p2a: Danel|Recover|p2a: Danel
+|-heal|p2a: Danel|71/100
+|
+|-heal|p2a: Danel|77/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781290365
+|move|p1a: Iron Treads|Earth Power|p2a: Danel
+|-supereffective|p2a: Danel
+|-damage|p2a: Danel|37/100
+|move|p2a: Danel|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p2a: Danel|43/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781290366
+|switch|p1a: Overqwil|Overqwil, M|100/100
+|turn|18
+|
+|t:|1781290369
+|move|p1a: Overqwil|Crunch|p2a: Danel
+|-damage|p2a: Danel|0 fnt
+|faint|p2a: Danel
+|-damage|p1a: Overqwil|91/100|[from] item: Life Orb
+|
+|upkeep
+|l| mak7xr
+|
+|t:|1781290371
+|switch|p2a: Luka|Raging Bolt|100/100
+|turn|19
+|
+|t:|1781290373
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|move|p2a: Luka|Calm Mind|p2a: Luka
+|-boost|p2a: Luka|spa|1
+|-boost|p2a: Luka|spd|1
+|
+|upkeep
+|turn|20
+|l| Pulkatz
+|
+|t:|1781290381
+|-terastallize|p2a: Luka|Fairy
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Luka
+|-immune|p2a: Luka
+|move|p2a: Luka|Calm Mind|p2a: Luka
+|-boost|p2a: Luka|spa|1
+|-boost|p2a: Luka|spd|1
+|
+|upkeep
+|turn|21
+|j| Pulkatz
+|
+|t:|1781290385
+|move|p1a: Raging Bolt|Thunder|p2a: Luka
+|-damage|p2a: Luka|72/100
+|move|p2a: Luka|Dragon Pulse|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-heal|p2a: Luka|79/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781290386
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|turn|22
+|
+|t:|1781290390
+|switch|p1a: Kingambit|Kingambit, F, tera:Dark|19/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|move|p2a: Luka|Thunderbolt|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen2|[silent]
+|
+|-heal|p2a: Luka|85/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781290391
+|switch|p1a: Overqwil|Overqwil, M|91/100
+|turn|23
+|
+|t:|1781290393
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|move|p2a: Luka|Thunderbolt|p1a: Barraskewda
+|-supereffective|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-heal|p2a: Luka|91/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781290394
+|switch|p1a: Overqwil|Overqwil, M|91/100
+|turn|24
+|
+|t:|1781290395
+|move|p1a: Overqwil|Swords Dance|p1a: Overqwil
+|-boost|p1a: Overqwil|atk|2
+|move|p2a: Luka|Thunderbolt|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|faint|p1a: Overqwil
+|
+|-heal|p2a: Luka|97/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781290396
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|25
+|
+|t:|1781290398
+|move|p2a: Luka|Thunderbolt|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|win|ignaa
+|raw|LowEL0God's rating: 1636 &rarr; <strong>1616</strong><br />(-20 for losing)
+|raw|ignaa's rating: 1632 &rarr; <strong>1652</strong><br />(+20 for winning)
+|c|☆ignaa|gg
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p1|
+|l|☆ignaa
+|player|p2|
+|l| Pulkatz

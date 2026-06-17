@@ -1,0 +1,522 @@
+|j|‽LT_Alt1
+|j|☆suprya
+|t:|1780893456
+|gametype|singles
+|player|p1|LT_Alt1|265|1660
+|player|p2|suprya|clown|1690
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Garganacl, F|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Kyurem|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Moltres|
+|poke|p1|Iron Treads|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Overqwil, F|
+|poke|p2|Tauros-Paldea-Aqua, M|
+|poke|p2|Incineroar, M|
+|poke|p2|Salamence, F|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by suprya)
+|
+|t:|1780893467
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-ability|p1a: Kyurem|Pressure
+|-item|p2a: Gholdengo|Air Balloon
+|turn|1
+|
+|t:|1780893488
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Gholdengo|Thunder Wave|p1a: Iron Treads
+|-immune|p1a: Iron Treads
+|
+|upkeep
+|turn|2
+|
+|t:|1780893495
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Iron Treads|atk|1
+|move|p1a: Iron Treads|Stealth Rock|p2a: Landorus
+|-sidestart|p2: suprya|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1780893501
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Landorus|Stealth Rock|p1a: Kyurem
+|-sidestart|p1: LT_Alt1|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1780893508
+|switch|p2a: Incineroar|Incineroar, M|100/100
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Kyurem|atk|1
+|move|p1a: Kyurem|Ice Beam|p2a: Incineroar
+|-resisted|p2a: Incineroar
+|-damage|p2a: Incineroar|83/100
+|-status|p2a: Incineroar|frz
+|
+|upkeep
+|turn|5
+|j| SV G0AT
+|
+|t:|1780893523
+|move|p1a: Kyurem|Earth Power|p2a: Incineroar
+|-supereffective|p2a: Incineroar
+|-crit|p2a: Incineroar
+|-damage|p2a: Incineroar|18/100 frz
+|-curestatus|p2a: Incineroar|frz|[from] move: Flare Blitz
+|move|p2a: Incineroar|Flare Blitz|p1a: Kyurem
+|-damage|p1a: Kyurem|53/100
+|-damage|p2a: Incineroar|3/100|[from] Recoil
+|
+|upkeep
+|turn|6
+|
+|t:|1780893532
+|move|p1a: Kyurem|Ice Beam|p2a: Incineroar
+|-resisted|p2a: Incineroar
+|-damage|p2a: Incineroar|0 fnt
+|faint|p2a: Incineroar
+|
+|upkeep
+|
+|t:|1780893540
+|switch|p2a: Tauros|Tauros-Paldea-Aqua, M|100/100
+|-damage|p2a: Tauros|94/100|[from] Stealth Rock
+|-ability|p2a: Tauros|Intimidate|boost
+|-unboost|p1a: Kyurem|atk|1
+|turn|7
+|
+|t:|1780893548
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|-damage|p1a: Weezing|88/100|[from] Stealth Rock
+|move|p2a: Tauros|Close Combat|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|78/100
+|-unboost|p2a: Tauros|def|1
+|-unboost|p2a: Tauros|spd|1
+|
+|-heal|p1a: Weezing|84/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1780893552
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|move|p1a: Weezing|Strange Steam|p2a: Landorus
+|-damage|p2a: Landorus|58/100
+|
+|-heal|p1a: Weezing|90/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1780893559
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Weezing|atk|1
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Landorus|Earth Power|p1a: Moltres
+|-immune|p1a: Moltres
+|
+|upkeep
+|turn|10
+|
+|t:|1780893568
+|switch|p2a: Salamence|Salamence, F|100/100
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Moltres|atk|1
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-damage|p1a: Iron Treads|98/100|[from] Stealth Rock
+|
+|-heal|p1a: Iron Treads|100/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|j| Champion reko
+|
+|t:|1780893574
+|move|p1a: Iron Treads|Knock Off|p2a: Salamence
+|-damage|p2a: Salamence|81/100
+|-enditem|p2a: Salamence|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: Salamence|Flamethrower|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|46/100
+|
+|-heal|p1a: Iron Treads|52/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1780893584
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|-damage|p1a: Slowking|88/100|[from] Stealth Rock
+|move|p2a: Salamence|Flamethrower|p1a: Slowking
+|-damage|p1a: Slowking|75/100
+|
+|upkeep
+|turn|13
+|
+|t:|1780893591
+|switch|p2a: Overqwil|Overqwil, F|100/100
+|-ability|p2a: Overqwil|Intimidate|boost
+|-unboost|p1a: Slowking|atk|1
+|move|p1a: Slowking|Future Sight|p2a: Overqwil
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|14
+|
+|t:|1780893597
+|move|p2a: Overqwil|Spikes|p1a: Slowking
+|-sidestart|p1: LT_Alt1|Spikes
+|move|p1a: Slowking|Thunder Wave|p2a: Overqwil
+|-status|p2a: Overqwil|par
+|
+|upkeep
+|turn|15
+|
+|t:|1780893603
+|move|p2a: Overqwil|Spikes|p1a: Slowking
+|-sidestart|p1: LT_Alt1|Spikes
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1780893607
+|switch|p1a: Iron Treads|Iron Treads|52/100|[from] Chilly Reception
+|-damage|p1a: Iron Treads|50/100|[from] Stealth Rock
+|-damage|p1a: Iron Treads|33/100|[from] Spikes
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Overqwil|move: Future Sight
+|-immune|p2a: Overqwil
+|-heal|p1a: Iron Treads|39/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1780893615
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|94/100|[from] Stealth Rock
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Iron Treads|Rapid Spin|p2a: Gholdengo
+|-immune|p2a: Gholdengo
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Iron Treads|45/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1780893631
+|move|p1a: Iron Treads|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|61/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|move|p2a: Gholdengo|Hex|p1a: Iron Treads
+|-damage|p1a: Iron Treads|10/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Iron Treads|17/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1780893640
+|move|p1a: Iron Treads|Earthquake|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|9/100
+|move|p2a: Gholdengo|Hex|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1780893645
+|switch|p1a: Moltres|Moltres|100/100
+|turn|19
+|
+|t:|1780893649
+|switch|p2a: Salamence|Salamence, F|81/100
+|-damage|p2a: Salamence|56/100|[from] Stealth Rock
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Moltres|atk|1
+|move|p1a: Moltres|Flamethrower|p2a: Salamence
+|-resisted|p2a: Salamence
+|-damage|p2a: Salamence|36/100
+|
+|-weather|none
+|upkeep
+|turn|20
+|
+|t:|1780893657
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|-damage|p1a: Slowking|88/100|[from] Stealth Rock
+|-damage|p1a: Slowking|72/100|[from] Spikes
+|move|p2a: Salamence|Roost|p2a: Salamence
+|-heal|p2a: Salamence|86/100
+|-singleturn|p2a: Salamence|move: Roost
+|
+|upkeep
+|turn|21
+|
+|t:|1780893663
+|switch|p2a: Overqwil|Overqwil, F|100/100 par
+|-ability|p2a: Overqwil|Intimidate|boost
+|-unboost|p1a: Slowking|atk|1
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|j| oophyte
+|
+|t:|1780893677
+|switch|p1a: Moltres|Moltres|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1780893688
+|move|p1a: Moltres|Flamethrower|p2a: Overqwil
+|-damage|p2a: Overqwil|56/100 par
+|move|p2a: Overqwil|Gunk Shot|p1a: Moltres
+|-damage|p1a: Moltres|66/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1780893695
+|switch|p2a: Salamence|Salamence, F|86/100
+|-damage|p2a: Salamence|61/100|[from] Stealth Rock
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Moltres|atk|1
+|move|p1a: Moltres|Flamethrower|p2a: Salamence
+|-resisted|p2a: Salamence
+|-damage|p2a: Salamence|42/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1780893702
+|move|p2a: Salamence|Roost|p2a: Salamence
+|-heal|p2a: Salamence|92/100
+|-singleturn|p2a: Salamence|move: Roost
+|move|p1a: Moltres|U-turn|p2a: Salamence
+|-damage|p2a: Salamence|85/100
+|
+|t:|1780893706
+|switch|p1a: Slowking|Slowking-Galar, F|100/100|[from] U-turn
+|-damage|p1a: Slowking|88/100|[from] Stealth Rock
+|-damage|p1a: Slowking|72/100|[from] Spikes
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1780893720
+|move|p2a: Salamence|Hurricane|p1a: Slowking
+|-damage|p1a: Slowking|46/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|
+|t:|1780893724
+|switch|p1a: Garganacl|Garganacl, F|100/100|[from] Chilly Reception
+|-damage|p1a: Garganacl|88/100|[from] Stealth Rock
+|-damage|p1a: Garganacl|72/100|[from] Spikes
+|
+|-weather|none
+|-heal|p1a: Garganacl|78/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1780893732
+|move|p2a: Salamence|Draco Meteor|p1a: Garganacl
+|-damage|p1a: Garganacl|44/100
+|-unboost|p2a: Salamence|spa|2
+|move|p1a: Garganacl|Salt Cure|p2a: Salamence
+|-supereffective|p2a: Salamence
+|-damage|p2a: Salamence|62/100
+|-start|p2a: Salamence|Salt Cure
+|
+|-heal|p1a: Garganacl|50/100|[from] item: Leftovers
+|-damage|p2a: Salamence|50/100|[from] Salt Cure
+|upkeep
+|turn|27
+|
+|t:|1780893741
+|switch|p2a: Tauros|Tauros-Paldea-Aqua, M|94/100
+|-damage|p2a: Tauros|88/100|[from] Stealth Rock
+|-ability|p2a: Tauros|Intimidate|boost
+|-unboost|p1a: Garganacl|atk|1
+|move|p1a: Garganacl|Recover|p1a: Garganacl
+|-heal|p1a: Garganacl|100/100
+|
+|upkeep
+|turn|28
+|
+|t:|1780893751
+|-terastallize|p1a: Garganacl|Fairy
+|move|p2a: Tauros|Raging Bull|p1a: Garganacl
+|-damage|p1a: Garganacl|74/100
+|move|p1a: Garganacl|Salt Cure|p2a: Tauros
+|-resisted|p2a: Tauros
+|-damage|p2a: Tauros|83/100
+|-start|p2a: Tauros|Salt Cure
+|
+|-heal|p1a: Garganacl|80/100|[from] item: Leftovers
+|-damage|p2a: Tauros|58/100|[from] Salt Cure
+|upkeep
+|turn|29
+|l| Champion reko
+|
+|t:|1780893770
+|switch|p2a: Landorus|Landorus-Therian, M|58/100
+|-damage|p2a: Landorus|46/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garganacl|atk|1
+|move|p1a: Garganacl|Salt Cure|p2a: Landorus
+|-damage|p2a: Landorus|39/100
+|-start|p2a: Landorus|Salt Cure
+|
+|-heal|p1a: Garganacl|86/100|[from] item: Leftovers
+|-damage|p2a: Landorus|26/100|[from] Salt Cure
+|upkeep
+|turn|30
+|
+|t:|1780893776
+|move|p2a: Landorus|Earth Power|p1a: Garganacl
+|-damage|p1a: Garganacl|61/100
+|move|p1a: Garganacl|Recover|p1a: Garganacl
+|-heal|p1a: Garganacl|100/100
+|
+|-damage|p2a: Landorus|14/100|[from] Salt Cure
+|upkeep
+|turn|31
+|
+|t:|1780893782
+|switch|p1a: Moltres|Moltres|66/100
+|move|p2a: Landorus|U-turn|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|63/100
+|
+|t:|1780893789
+|switch|p2a: Tauros|Tauros-Paldea-Aqua, M|58/100|[from] U-turn
+|-damage|p2a: Tauros|52/100|[from] Stealth Rock
+|-ability|p2a: Tauros|Intimidate|boost
+|-unboost|p1a: Moltres|atk|1
+|
+|upkeep
+|turn|32
+|
+|t:|1780893795
+|switch|p1a: Garganacl|Garganacl, F, tera:Fairy|100/100
+|-damage|p1a: Garganacl|88/100|[from] Stealth Rock
+|-damage|p1a: Garganacl|72/100|[from] Spikes
+|move|p2a: Tauros|Raging Bull|p1a: Garganacl
+|-crit|p1a: Garganacl
+|-damage|p1a: Garganacl|36/100
+|
+|-heal|p1a: Garganacl|42/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1780893806
+|switch|p2a: Overqwil|Overqwil, F|56/100 par
+|-ability|p2a: Overqwil|Intimidate|boost
+|-unboost|p1a: Garganacl|atk|1
+|move|p1a: Garganacl|Recover|p1a: Garganacl
+|-heal|p1a: Garganacl|92/100
+|
+|-heal|p1a: Garganacl|98/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1780893812
+|switch|p1a: Weezing|Weezing-Galar, F|90/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|-damage|p1a: Weezing|78/100|[from] Stealth Rock
+|-damage|p1a: Weezing|61/100|[from] Spikes
+|move|p2a: Overqwil|Gunk Shot|p1a: Weezing
+|-damage|p1a: Weezing|28/100
+|
+|-heal|p1a: Weezing|35/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1780893821
+|move|p1a: Weezing|Defog|p2a: Overqwil
+|-unboost|p2a: Overqwil|evasion|1
+|-sideend|p2: suprya|Stealth Rock|[from] move: Defog|[of] p1a: Weezing
+|-sideend|p1: LT_Alt1|Spikes|[from] move: Defog|[of] p1a: Weezing
+|-sideend|p1: LT_Alt1|Stealth Rock|[from] move: Defog|[of] p1a: Weezing
+|move|p2a: Overqwil|Gunk Shot|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|
+|upkeep
+|
+|t:|1780893825
+|switch|p1a: Kyurem|Kyurem|53/100
+|-ability|p1a: Kyurem|Pressure
+|turn|36
+|
+|t:|1780893835
+|switch|p2a: Landorus|Landorus-Therian, M|14/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Kyurem|atk|1
+|move|p1a: Kyurem|Scale Shot|p2a: Landorus
+|-damage|p2a: Landorus|7/100
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-hitcount|p2: Landorus|2
+|-unboost|p1a: Kyurem|def|1
+|-boost|p1a: Kyurem|spe|1
+|
+|upkeep
+|
+|t:|1780893846
+|switch|p2a: Overqwil|Overqwil, F|56/100 par
+|-ability|p2a: Overqwil|Intimidate|boost
+|-unboost|p1a: Kyurem|atk|1
+|turn|37
+|
+|t:|1780893853
+|move|p1a: Kyurem|Earth Power|p2a: Overqwil
+|-supereffective|p2a: Overqwil
+|-damage|p2a: Overqwil|0 fnt
+|faint|p2a: Overqwil
+|
+|upkeep
+|-message|suprya forfeited.
+|
+|win|LT_Alt1
+|raw|LT_Alt1's rating: 1660 &rarr; <strong>1682</strong><br />(+22 for winning)
+|raw|suprya's rating: 1690 &rarr; <strong>1668</strong><br />(-22 for losing)
+|l|☆suprya
+|player|p2|
+|l| oophyte

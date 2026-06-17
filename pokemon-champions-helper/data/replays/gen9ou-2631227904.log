@@ -1,0 +1,442 @@
+|j|☆cachowcapow
+|j|‽oathusishere
+|t:|1781360727
+|gametype|singles
+|player|p1|cachowcapow|170|1724
+|player|p2|oathusishere|artistf-gen6|1704
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Meowscarada, F|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Alomomola, F|
+|poke|p1|Great Tusk|
+|poke|p1|Cetitan, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Gardevoir, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Iron Crown|
+|poke|p2|Great Tusk|
+|poke|p2|Glimmora, F|
+|poke|p2|Iron Jugulis|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by oathusishere)
+|
+|t:|1781360748
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1781360755
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Rillaboom|U-turn|p1a: Slowking
+|-damage|p1a: Slowking|76/100
+|
+|t:|1781360764
+|switch|p2a: Glimmora|Glimmora, F|100/100|[from] U-turn
+|
+|-heal|p1a: Slowking|82/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781360781
+|move|p2a: Glimmora|Stealth Rock|p1a: Slowking
+|-sidestart|p1: cachowcapow|move: Stealth Rock
+|move|p1a: Slowking|Thunder Wave|p2a: Glimmora
+|-status|p2a: Glimmora|par
+|
+|-heal|p1a: Slowking|89/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781360786
+|move|p2a: Glimmora|Earth Power|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|48/100
+|move|p1a: Slowking|Future Sight|p2a: Glimmora
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p1a: Slowking|55/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781360789
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Glimmora|Meteor Beam||[still]
+|-prepare|p2a: Glimmora|Meteor Beam
+|-boost|p2a: Glimmora|spa|1
+|-enditem|p2a: Glimmora|Power Herb
+|-anim|p2a: Glimmora|Meteor Beam|p1a: Alomomola
+|-damage|p1a: Alomomola|24/100
+|
+|-heal|p1a: Alomomola|31/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781360794
+|switch|p1a: Slowking|Slowking-Galar, M|88/100
+|-damage|p1a: Slowking|75/100|[from] Stealth Rock
+|move|p2a: Glimmora|Energy Ball|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|57/100
+|
+|-end|p2a: Glimmora|move: Future Sight
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|-heal|p1a: Slowking|63/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781360803
+|switch|p2a: Iron Jugulis|Iron Jugulis|100/100
+|-enditem|p2a: Iron Jugulis|Booster Energy
+|-activate|p2a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Jugulis|quarkdrivespe
+|turn|6
+|
+|t:|1781360811
+|-terastallize|p1a: Slowking|Fairy
+|move|p2a: Iron Jugulis|Taunt|p1a: Slowking
+|-start|p1a: Slowking|move: Taunt
+|cant|p1a: Slowking|move: Taunt|Thunder Wave
+|
+|-heal|p1a: Slowking|69/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781360818
+|move|p2a: Iron Jugulis|Hurricane|p1a: Slowking|[miss]
+|-miss|p2a: Iron Jugulis|p1a: Slowking
+|move|p1a: Slowking|Sludge Bomb|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|57/100
+|-status|p2a: Iron Jugulis|psn
+|
+|-heal|p1a: Slowking|75/100|[from] Grassy Terrain
+|-damage|p2a: Iron Jugulis|44/100 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781360823
+|move|p2a: Iron Jugulis|Hurricane|p1a: Slowking
+|-damage|p1a: Slowking|43/100
+|-start|p1a: Slowking|confusion
+|-activate|p1a: Slowking|confusion
+|move|p1a: Slowking|Sludge Bomb|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|0 fnt
+|faint|p2a: Iron Jugulis
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|
+|-heal|p1a: Slowking|49/100|[from] Grassy Terrain
+|-end|p1a: Slowking|move: Taunt
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781360827
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|9
+|
+|t:|1781360836
+|switch|p1a: Alomomola|Alomomola, F|64/100
+|move|p2a: Rillaboom|U-turn|p1a: Alomomola
+|-damage|p1a: Alomomola|46/100
+|
+|t:|1781360840
+|switch|p2a: Iron Crown|Iron Crown|100/100|[from] U-turn
+|-enditem|p2a: Iron Crown|Booster Energy
+|-activate|p2a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Crown|quarkdrivespe
+|
+|-heal|p1a: Alomomola|53/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1781360845
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|move|p1a: Alomomola|Flip Turn|p2a: Iron Crown
+|-damage|p2a: Iron Crown|83/100
+|
+|t:|1781360857
+|switch|p1a: Slowking|Slowking-Galar, M, tera:Fairy|82/100|[from] Flip Turn
+|-damage|p1a: Slowking|70/100|[from] Stealth Rock
+|
+|-heal|p2a: Iron Crown|89/100|[from] Grassy Terrain
+|-heal|p1a: Slowking|76/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781360860
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|move|p1a: Slowking|Thunder Wave|p2a: Iron Crown
+|-status|p2a: Iron Crown|par
+|
+|-heal|p2a: Iron Crown|95/100 par|[from] Grassy Terrain
+|-heal|p1a: Slowking|82/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781360863
+|move|p2a: Iron Crown|Iron Defense|p2a: Iron Crown
+|-boost|p2a: Iron Crown|def|2
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781360867
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Iron Crown|100/100 par|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781360874
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|39/100 par
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Iron Crown|Stored Power|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Iron Crown|45/100 par|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781360884
+|switch|p1a: Meowscarada|Meowscarada, F|100/100
+|-damage|p1a: Meowscarada|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1781360887
+|move|p1a: Meowscarada|Dark Pulse|p2a: Iron Crown
+|-start|p1a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|2/100 par
+|move|p2a: Iron Crown|Focus Blast|p1a: Meowscarada|[miss]
+|-miss|p2a: Iron Crown|p1a: Meowscarada
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Meowscarada|94/100|[from] Grassy Terrain
+|-heal|p2a: Iron Crown|8/100 par|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1781360894
+|move|p1a: Meowscarada|Dark Pulse|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Meowscarada|100/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781360922
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisspe
+|turn|16
+|
+|t:|1781360931
+|switch|p1a: Alomomola|Alomomola, F|86/100
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Alomomola|92/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1781360934
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|move|p1a: Alomomola|Scald|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|66/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781360939
+|move|p2a: Great Tusk|Headlong Rush|p1a: Alomomola
+|-damage|p1a: Alomomola|11/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Alomomola|Scald|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|12/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781360944
+|move|p2a: Great Tusk|Rapid Spin|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|-boost|p2a: Great Tusk|spe|1
+|faint|p1a: Alomomola
+|
+|-weather|none
+|upkeep
+|
+|t:|1781360953
+|switch|p1a: Cetitan|Cetitan, M|100/100
+|-damage|p1a: Cetitan|76/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1781360955
+|move|p1a: Cetitan|Ice Shard|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781360958
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|21
+|
+|t:|1781360963
+|switch|p1a: Slowking|Slowking-Galar, M, tera:Fairy|100/100
+|-damage|p1a: Slowking|88/100|[from] Stealth Rock
+|move|p2a: Rillaboom|Knock Off|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|71/100
+|-enditem|p1a: Slowking|Icy Rock|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-heal|p1a: Slowking|77/100|[from] Grassy Terrain
+|upkeep
+|turn|22
+|
+|t:|1781360971
+|move|p2a: Rillaboom|Grassy Glide|p1a: Slowking
+|-damage|p1a: Slowking|41/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781360975
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100|[from] Chilly Reception
+|-damage|p1a: Tornadus|76/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|23
+|j| choispecs ironmoth
+|
+|t:|1781360977
+|move|p1a: Tornadus|Weather Ball|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|9/100
+|-damage|p1a: Tornadus|66/100|[from] item: Life Orb
+|move|p2a: Rillaboom|Knock Off|p1a: Tornadus
+|-damage|p1a: Tornadus|13/100
+|-enditem|p1a: Tornadus|Life Orb|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Rillaboom|15/100|[from] Grassy Terrain
+|upkeep
+|turn|24
+|
+|t:|1781360983
+|switch|p1a: Meowscarada|Meowscarada, F|100/100
+|-damage|p1a: Meowscarada|88/100|[from] Stealth Rock
+|move|p2a: Rillaboom|Grassy Glide|p1a: Meowscarada
+|-resisted|p1a: Meowscarada
+|-damage|p1a: Meowscarada|55/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Meowscarada|61/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|21/100|[from] Grassy Terrain
+|upkeep
+|turn|25
+|
+|t:|1781360986
+|move|p1a: Meowscarada|U-turn|p2a: Rillaboom
+|-start|p1a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|t:|1781360992
+|switch|p1a: Cetitan|Cetitan, M|76/100|[from] U-turn
+|-damage|p1a: Cetitan|51/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Cetitan|57/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781360994
+|switch|p2a: Gardevoir|Gardevoir, F|100/100
+|-ability|p2a: Gardevoir|Slush Rush|Trace|[from] ability: Trace|[of] p1a: Cetitan
+|-enditem|p2a: Gardevoir|Grassy Seed
+|-boost|p2a: Gardevoir|def|1|[from] item: Grassy Seed
+|turn|26
+|
+|t:|1781360998
+|move|p1a: Cetitan|Icicle Crash|p2a: Gardevoir
+|-damage|p2a: Gardevoir|60/100
+|move|p2a: Gardevoir|Calm Mind|p2a: Gardevoir
+|-boost|p2a: Gardevoir|spa|1
+|-boost|p2a: Gardevoir|spd|1
+|
+|-weather|none
+|-heal|p1a: Cetitan|63/100|[from] Grassy Terrain
+|-heal|p2a: Gardevoir|67/100|[from] Grassy Terrain
+|upkeep
+|turn|27
+|
+|t:|1781361004
+|move|p1a: Cetitan|Icicle Crash|p2a: Gardevoir
+|-damage|p2a: Gardevoir|30/100
+|move|p2a: Gardevoir|Calm Mind|p2a: Gardevoir
+|-boost|p2a: Gardevoir|spa|1
+|-boost|p2a: Gardevoir|spd|1
+|
+|-heal|p1a: Cetitan|69/100|[from] Grassy Terrain
+|-heal|p2a: Gardevoir|36/100|[from] Grassy Terrain
+|upkeep
+|turn|28
+|
+|t:|1781361007
+|move|p1a: Cetitan|Icicle Crash|p2a: Gardevoir
+|-damage|p2a: Gardevoir|0 fnt
+|faint|p2a: Gardevoir
+|
+|win|cachowcapow
+|raw|cachowcapow's rating: 1724 &rarr; <strong>1743</strong><br />(+19 for winning)
+|raw|oathusishere's rating: 1704 &rarr; <strong>1685</strong><br />(-19 for losing)
+|l|☆cachowcapow
+|player|p1|
+|l|‽oathusishere
+|player|p2|

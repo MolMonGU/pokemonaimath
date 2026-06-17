@@ -1,0 +1,405 @@
+|j|☆OUZQ Crocodile
+|j|☆CDPGuillaume
+|t:|1780985992
+|gametype|singles
+|player|p1|OUZQ Crocodile|101|1696
+|player|p2|CDPGuillaume|101|1705
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cresselia, F|
+|poke|p1|Zamazenta-*|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Glimmora, M|
+|poke|p2|Iron Hands|
+|poke|p2|Ursaluna, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Kyurem|
+|poke|p2|Cinderace, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by OUZQ Crocodile)
+|
+|t:|1780986017
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|
+|t:|1780986020
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: OUZQ Crocodile|move: Light Screen
+|move|p2a: Kyurem|Ice Beam|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|71/100
+|
+|upkeep
+|turn|2
+|
+|t:|1780986024
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: OUZQ Crocodile|Reflect
+|
+|upkeep
+|turn|3
+|
+|t:|1780986032
+|move|p1a: Grimmsnarl|Taunt|p2a: Cinderace
+|-start|p2a: Cinderace|move: Taunt
+|move|p2a: Cinderace|Pyro Ball|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|34/100
+|
+|upkeep
+|turn|4
+|
+|t:|1780986036
+|move|p1a: Grimmsnarl|Parting Shot|p2a: Cinderace
+|-unboost|p2a: Cinderace|atk|1
+|-unboost|p2a: Cinderace|spa|1
+|
+|t:|1780986043
+|switch|p1a: Glimmora|Glimmora, M|100/100|[from] Parting Shot
+|move|p2a: Cinderace|U-turn|p1a: Glimmora
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Glimmora
+|-damage|p1a: Glimmora|94/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: CDPGuillaume|move: Toxic Spikes
+|
+|t:|1780986056
+|switch|p2a: Ting-Lu|Ting-Lu|100/100|[from] U-turn
+|-status|p2a: Ting-Lu|psn
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|-damage|p2a: Ting-Lu|88/100 psn|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1780986065
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Ogerpon
+|-resisted|p1a: Ogerpon
+|-damage|p1a: Ogerpon|88/100
+|
+|-damage|p2a: Ting-Lu|76/100 psn|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1780986073
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Ting-Lu|Whirlwind|p1a: Ogerpon
+|drag|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|
+|-damage|p2a: Ting-Lu|63/100 psn|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1780986077
+|move|p1a: Zamazenta|Body Press|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|19/100 psn
+|-damage|p1a: Zamazenta|84/100|[from] item: Rocky Helmet|[of] p2a: Ting-Lu
+|move|p2a: Ting-Lu|Ruination|p1a: Zamazenta
+|-damage|p1a: Zamazenta|42/100
+|
+|-heal|p1a: Zamazenta|48/100|[from] item: Leftovers
+|-damage|p2a: Ting-Lu|6/100 psn|[from] psn
+|upkeep
+|turn|8
+|j| DA COME UP
+|
+|t:|1780986084
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Ting-Lu|Whirlwind|p1a: Zamazenta
+|drag|p1a: Ogerpon|Ogerpon-Wellspring, F|88/100
+|
+|-damage|p2a: Ting-Lu|0 fnt|[from] psn
+|faint|p2a: Ting-Lu
+|-sideend|p1: OUZQ Crocodile|move: Light Screen
+|upkeep
+|
+|t:|1780986088
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|9
+|
+|t:|1780986091
+|move|p2a: Cinderace|U-turn|p1a: Ogerpon
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|41/100
+|
+|t:|1780986103
+|switch|p2a: Kyurem|Kyurem|100/100|[from] U-turn
+|-status|p2a: Kyurem|psn
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Ogerpon|Trailblaze|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|90/100 psn
+|-boost|p1a: Ogerpon|spe|1
+|
+|-damage|p2a: Kyurem|78/100 psn|[from] psn
+|-sideend|p1: OUZQ Crocodile|Reflect
+|upkeep
+|turn|10
+|
+|t:|1780986115
+|move|p1a: Ogerpon|Play Rough|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|22/100 psn
+|move|p2a: Kyurem|Ice Beam|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|-damage|p2a: Kyurem|9/100 psn|[from] psn
+|upkeep
+|
+|t:|1780986119
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|34/100
+|turn|11
+|
+|t:|1780986120
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: OUZQ Crocodile|move: Light Screen
+|move|p2a: Kyurem|Ice Beam|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|4/100
+|
+|-damage|p2a: Kyurem|0 fnt|[from] psn
+|faint|p2a: Kyurem
+|upkeep
+|
+|t:|1780986126
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|12
+|
+|t:|1780986130
+|move|p1a: Grimmsnarl|Taunt|p2a: Cinderace
+|-start|p2a: Cinderace|move: Taunt
+|move|p2a: Cinderace|U-turn|p1a: Grimmsnarl
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p1a: Grimmsnarl|0 fnt
+|faint|p1a: Grimmsnarl
+|
+|t:|1780986153
+|switch|p2a: Iron Hands|Iron Hands|100/100|[from] U-turn
+|-status|p2a: Iron Hands|psn
+|
+|-damage|p2a: Iron Hands|88/100 psn|[from] psn
+|upkeep
+|
+|t:|1780986159
+|switch|p1a: Glimmora|Glimmora, M|94/100
+|turn|13
+|inactive|CDPGuillaume has 120 seconds left.
+|
+|t:|1780986206
+|move|p1a: Glimmora|Earth Power|p2a: Iron Hands
+|-supereffective|p2a: Iron Hands
+|-damage|p2a: Iron Hands|54/100 psn
+|move|p2a: Iron Hands|Earthquake|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: CDPGuillaume|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|-damage|p2a: Iron Hands|41/100 psn|[from] psn
+|upkeep
+|
+|t:|1780986226
+|switch|p1a: Zamazenta|Zamazenta|48/100
+|turn|14
+|
+|t:|1780986235
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Iron Hands|Supercell Slam|p1a: Zamazenta
+|-crit|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|-damage|p2a: Iron Hands|29/100 psn|[from] psn
+|upkeep
+|j| Hakone Outbound
+|
+|t:|1780986251
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|turn|15
+|inactive|CDPGuillaume has 120 seconds left.
+|
+|t:|1780986261
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|switch|p2a: Ursaluna|Ursaluna, F|100/100
+|-status|p2a: Ursaluna|tox
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|-damage|p2a: Ursaluna|94/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1780986281
+|move|p1a: Cresselia|Moonblast|p2a: Ursaluna
+|-damage|p2a: Ursaluna|69/100 tox
+|move|p2a: Ursaluna|Facade|p1a: Cresselia
+|-damage|p1a: Cresselia|30/100
+|
+|-damage|p2a: Ursaluna|56/100 tox|[from] psn
+|upkeep
+|turn|17
+|inactive|CDPGuillaume has 120 seconds left.
+|inactive|CDPGuillaume has 90 seconds left.
+|
+|t:|1780986332
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|80/100
+|move|p2a: Ursaluna|Facade|p1a: Cresselia
+|-damage|p1a: Cresselia|14/100
+|
+|-damage|p2a: Ursaluna|38/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1780986344
+|move|p1a: Cresselia|Moonblast|p2a: Ursaluna
+|-damage|p2a: Ursaluna|10/100 tox
+|move|p2a: Ursaluna|Facade|p1a: Cresselia
+|-damage|p1a: Cresselia|0 fnt
+|faint|p1a: Cresselia
+|
+|-damage|p2a: Ursaluna|0 fnt|[from] psn
+|faint|p2a: Ursaluna
+|-sideend|p1: OUZQ Crocodile|move: Light Screen
+|upkeep
+|inactive|CDPGuillaume has 90 seconds left.
+|
+|t:|1780986354
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|switch|p2a: Iron Hands|Iron Hands|29/100 psn
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|19
+|
+|t:|1780986360
+|-terastallize|p1a: Raging Bolt|Ghost
+|move|p1a: Raging Bolt|Calm Mind|p1a: Raging Bolt
+|-boost|p1a: Raging Bolt|spa|1
+|-boost|p1a: Raging Bolt|spd|1
+|move|p2a: Iron Hands|Earthquake|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|62/100
+|
+|-damage|p2a: Iron Hands|16/100 psn|[from] psn
+|upkeep
+|turn|20
+|j| crust king kahn
+|inactive|OUZQ Crocodile has 120 seconds left.
+|l| DA COME UP
+|inactive|OUZQ Crocodile has 90 seconds left.
+|
+|t:|1780986429
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Iron Hands
+|-resisted|p2a: Iron Hands
+|-damage|p2a: Iron Hands|0 fnt
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780986438
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|21
+|
+|t:|1780986446
+|move|p1a: Raging Bolt|Thunderclap|p2a: Kingambit
+|-damage|p2a: Kingambit|18/100
+|move|p2a: Kingambit|Iron Head|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|3/100
+|
+|-heal|p2a: Kingambit|25/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|CDPGuillaume has 120 seconds left.
+|
+|t:|1780986454
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|31/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1780986458
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|37/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1780986462
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|43/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1780986465
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen4|[silent]
+|
+|upkeep
+|
+|t:|1780986468
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|26
+|
+|t:|1780986473
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-start|p2a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|win|OUZQ Crocodile
+|raw|OUZQ Crocodile's rating: 1696 &rarr; <strong>1716</strong><br />(+20 for winning)
+|raw|CDPGuillaume's rating: 1689 &rarr; <strong>1669</strong><br />(-20 for losing)
+|l|☆CDPGuillaume
+|player|p2|
+|j| ohmysquidward
+|l| ohmysquidward
+|l|☆OUZQ Crocodile
+|player|p1|
+|j| CloudyEJ
+|l| CloudyEJ

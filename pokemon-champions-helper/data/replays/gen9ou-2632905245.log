@@ -1,0 +1,230 @@
+|j|☆stevstacks
+|j|☆Mr.X&Y97
+|t:|1781576923
+|gametype|singles
+|player|p1|stevstacks|102|1649
+|player|p2|Mr.X&Y97|ingo|1627
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torkoal, F|
+|poke|p1|Corviknight, M|
+|poke|p1|Walking Wake|
+|poke|p1|Great Tusk|
+|poke|p1|Zamazenta-*|
+|poke|p1|Raging Bolt|
+|poke|p2|Regieleki|
+|poke|p2|Grafaiai, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Gliscor, F|
+|poke|p2|Zamazenta-*|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mr.X&Y97)
+|inactive|stevstacks also wants the timer to be on.
+|
+|t:|1781576941
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, F, shiny|100/100
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|
+|t:|1781576950
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Gliscor|Knock Off|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|80/100
+|-enditem|p1a: Raging Bolt|Choice Specs|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|-weather|SunnyDay|[upkeep]
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781576957
+|move|p1a: Raging Bolt|Weather Ball|p2a: Gliscor
+|-damage|p2a: Gliscor|32/100 tox
+|move|p2a: Gliscor|Earthquake|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|14/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Gliscor|45/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|3
+|
+|t:|1781576963
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Gliscor|57/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|4
+|
+|t:|1781576976
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Alomomola
+|-damage|p2a: Alomomola|53/100
+|-unboost|p1a: Raging Bolt|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781576983
+|switch|p2a: Gliscor|Gliscor, F|57/100 tox
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Gliscor|70/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|6
+|
+|t:|1781576988
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Gliscor
+|-damage|p2a: Gliscor|31/100 tox
+|-unboost|p1a: Raging Bolt|spa|2
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Gliscor|44/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|7
+|
+|t:|1781576991
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|move|p2a: Gliscor|Protect||[still]
+|-fail|p2a: Gliscor
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Gliscor|56/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|8
+|
+|t:|1781577004
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Walking Wake|Hydro Steam|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-weather|none
+|-end|p1a: Walking Wake|Protosynthesis
+|-heal|p2a: Gliscor|69/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|9
+|
+|t:|1781577012
+|switch|p2a: Alomomola|Alomomola, M|87/100
+|move|p1a: Walking Wake|Flip Turn|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|79/100
+|
+|t:|1781577027
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, F, shiny|100/100|[from] Flip Turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781577032
+|move|p2a: Alomomola|Flip Turn|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|89/100
+|
+|t:|1781577043
+|switch|p2a: Gliscor|Gliscor, F|69/100 tox|[from] Flip Turn
+|move|p1a: Torkoal|Stealth Rock|p2a: Gliscor
+|-sidestart|p2: Mr.X&Y97|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Gliscor|81/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|11
+|
+|t:|1781577065
+|switch|p1a: Raging Bolt|Raging Bolt|14/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Gliscor|Earthquake|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Gliscor|94/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781577067
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|12
+|
+|t:|1781577069
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Walking Wake|Hydro Steam|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|13
+|
+|t:|1781577074
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|-damage|p2a: Alomomola|88/100|[from] Stealth Rock
+|move|p1a: Walking Wake|Flip Turn|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|84/100
+|
+|t:|1781577077
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100|[from] Flip Turn
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781577088
+|move|p1a: Great Tusk|Close Combat|p2a: Alomomola
+|-damage|p2a: Alomomola|5/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|91/100|[from] item: Life Orb
+|move|p2a: Alomomola|Flip Turn|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|72/100
+|-message|stevstacks forfeited.
+|
+|win|Mr.X&Y97
+|raw|stevstacks's rating: 1649 &rarr; <strong>1628</strong><br />(-21 for losing)
+|raw|Mr.X&amp;Y97's rating: 1627 &rarr; <strong>1648</strong><br />(+21 for winning)
+|l|☆stevstacks
+|player|p1|

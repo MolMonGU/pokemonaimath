@@ -1,0 +1,283 @@
+|j|☆retsewe
+|j|☆Dr Gaster PHD
+|t:|1781024919
+|gametype|singles
+|player|p1|retsewe|1|1590
+|player|p2|Dr Gaster PHD|ghetsis|1578
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Gyarados, F|
+|poke|p1|Dragonite, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Heatran, M|
+|poke|p2|Ribombee, M|
+|poke|p2|Great Tusk|
+|poke|p2|Raging Bolt|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Moth|
+|poke|p2|Rillaboom, F|
+|teampreview
+|
+|t:|1781024930
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|switch|p2a: Ribombee|Ribombee, M, shiny|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Dr Gaster PHD)
+|
+|t:|1781024937
+|move|p2a: Ribombee|Skill Swap|p1a: Hatterene
+|-activate|p2a: Ribombee|Skill Swap|Magic Bounce|Shield Dust|[of] p1a: Hatterene
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1781024946
+|move|p2a: Ribombee|Sticky Web|p1a: Hatterene
+|-sidestart|p1: retsewe|move: Sticky Web
+|move|p1a: Hatterene|Psyshock|p2a: Ribombee
+|-enditem|p2a: Ribombee|Focus Sash
+|-damage|p2a: Ribombee|1/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781024953
+|move|p2a: Ribombee|Stun Spore|p1a: Hatterene|[miss]
+|-miss|p2a: Ribombee|p1a: Hatterene
+|move|p1a: Hatterene|Nuzzle|p2a: Ribombee
+|-damage|p2a: Ribombee|0 fnt
+|faint|p2a: Ribombee
+|
+|upkeep
+|
+|t:|1781024969
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|4
+|
+|t:|1781024976
+|move|p2a: Rillaboom|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|57/100
+|-enditem|p1a: Hatterene|Leftovers|[from] move: Knock Off|[of] p2a: Rillaboom
+|-damage|p2a: Rillaboom|91/100|[from] item: Life Orb
+|move|p1a: Hatterene|Nuzzle|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|88/100
+|-status|p2a: Rillaboom|par
+|
+|-heal|p2a: Rillaboom|94/100 par|[from] Grassy Terrain
+|-heal|p1a: Hatterene|63/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781024988
+|cant|p2a: Rillaboom|par
+|move|p1a: Hatterene|Draining Kiss|p2a: Rillaboom
+|-damage|p2a: Rillaboom|41/100 par
+|-heal|p1a: Hatterene|100/100|[from] drain|[of] p2a: Rillaboom
+|
+|-heal|p2a: Rillaboom|47/100 par|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781024997
+|move|p2a: Rillaboom|Wood Hammer|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|-damage|p2a: Rillaboom|16/100 par|[from] Recoil
+|-damage|p2a: Rillaboom|6/100 par|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|12/100 par|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781025013
+|switch|p1a: Gyarados|Gyarados, F|100/100
+|turn|7
+|
+|t:|1781025021
+|move|p1a: Gyarados|Ice Fang|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|-ability|p1a: Gyarados|Moxie|boost
+|-boost|p1a: Gyarados|atk|1
+|
+|upkeep
+|
+|t:|1781025030
+|switch|p2a: Great Tusk|Great Tusk, shiny|100/100
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|8
+|
+|t:|1781025048
+|-terastallize|p1a: Gyarados|Ground
+|move|p2a: Great Tusk|Head Smash|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|61/100
+|-damage|p2a: Great Tusk|83/100|[from] Recoil
+|move|p1a: Gyarados|Waterfall|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|-ability|p1a: Gyarados|Moxie|boost
+|-boost|p1a: Gyarados|atk|1
+|
+|-heal|p1a: Gyarados|67/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781025055
+|switch|p2a: Iron Moth|Iron Moth, shiny|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespa
+|turn|9
+|inactive|retsewe has 120 seconds left.
+|
+|t:|1781025089
+|switch|p1a: Heatran|Heatran, M|100/100
+|-activate|p1a: Heatran|move: Sticky Web
+|-unboost|p1a: Heatran|spe|1
+|move|p2a: Iron Moth|Energy Ball|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|91/100
+|
+|upkeep
+|turn|10
+|inactive|retsewe has 120 seconds left.
+|
+|t:|1781025103
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Heatran|Earth Power|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|37/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781025112
+|-terastallize|p2a: Raging Bolt|Ghost
+|move|p1a: Heatran|Earth Power|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|6/100
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1781025121
+|move|p1a: Heatran|Earth Power|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781025129
+|switch|p2a: Gholdengo|Gholdengo, shiny|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|13
+|
+|t:|1781025139
+|switch|p1a: Grimmsnarl|Grimmsnarl, M, shiny|100/100
+|-activate|p1a: Grimmsnarl|move: Sticky Web
+|-unboost|p1a: Grimmsnarl|spe|1
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|
+|upkeep
+|turn|14
+|
+|t:|1781025148
+|move|p1a: Grimmsnarl|Sucker Punch|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-crit|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|-enditem|p2a: Gholdengo|Air Balloon
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781025162
+|switch|p2a: Iron Moth|Iron Moth, shiny|100/100
+|turn|15
+|
+|t:|1781025166
+|move|p1a: Grimmsnarl|Taunt|p2a: Iron Moth
+|-start|p2a: Iron Moth|move: Taunt
+|move|p2a: Iron Moth|Fiery Dance|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|64/100
+|-boost|p2a: Iron Moth|spa|1
+|
+|-heal|p1a: Grimmsnarl|71/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781025176
+|move|p2a: Iron Moth|Fiery Dance|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|17/100
+|-boost|p2a: Iron Moth|spa|1
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-crit|p2a: Iron Moth
+|-damage|p2a: Iron Moth|78/100
+|-unboost|p2a: Iron Moth|spa|1
+|
+|-heal|p1a: Grimmsnarl|23/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781025189
+|move|p1a: Grimmsnarl|Sucker Punch|p2a: Iron Moth
+|-damage|p2a: Iron Moth|21/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|-boost|p2a: Iron Moth|spa|1
+|faint|p1a: Grimmsnarl
+|
+|-end|p2a: Iron Moth|move: Taunt
+|upkeep
+|
+|t:|1781025200
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|18
+|
+|t:|1781025204
+|move|p1a: Dragonite|Extreme Speed|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|win|retsewe
+|raw|retsewe's rating: 1590 &rarr; <strong>1609</strong><br />(+19 for winning)
+|raw|Dr Gaster PHD's rating: 1578 &rarr; <strong>1559</strong><br />(-19 for losing)
+|l|☆Dr Gaster PHD
+|player|p2|
+|l|☆retsewe
+|player|p1|

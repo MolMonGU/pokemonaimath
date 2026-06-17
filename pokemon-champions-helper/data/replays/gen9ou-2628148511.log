@@ -1,0 +1,343 @@
+|j|☆FireWolf89
+|j|☆psylxr
+|t:|1780982605
+|gametype|singles
+|player|p1|FireWolf89|psychic-gen4|1534
+|player|p2|psylxr|101|1730
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Valiant|
+|poke|p1|Slowking-Galar, L99, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Gliscor, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Clefable, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FireWolf89)
+|
+|t:|1780982627
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Airblade|Samurott-Hisui, F|100/100
+|switch|p2a: Gulp Gulp|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Gulp Gulp
+|turn|1
+|
+|t:|1780982636
+|switch|p2a: Raging Neck|Raging Bolt|100/100
+|-enditem|p2a: Raging Neck|Booster Energy
+|-activate|p2a: Raging Neck|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Neck|protosynthesisspa
+|move|p1a: Airblade|Knock Off|p2a: Raging Neck
+|-damage|p2a: Raging Neck|76/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1780982655
+|move|p2a: Raging Neck|Weather Ball|p1a: Airblade
+|-resisted|p1a: Airblade
+|-damage|p1a: Airblade|71/100
+|move|p1a: Airblade|Ceaseless Edge|p2a: Raging Neck
+|-damage|p2a: Raging Neck|41/100
+|-sidestart|p2: psylxr|Spikes
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1780982664
+|switch|p1a: Swing|Slowking-Galar, L99, F|100/100
+|move|p2a: Raging Neck|Thunderclap||[still]
+|-fail|p2a: Raging Neck
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1780982677
+|move|p2a: Raging Neck|Thunder|p1a: Swing
+|-damage|p1a: Swing|52/100
+|-prepare|p1a: Swing|Chilly Reception|[premajor]
+|move|p1a: Swing|Chilly Reception|p1a: Swing
+|-weather|Snowscape
+|
+|t:|1780982688
+|switch|p1a: Flag|Dragapult, F|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1780982700
+|-terastallize|p2a: Raging Neck|Fairy
+|move|p1a: Flag|Draco Meteor|p2a: Raging Neck
+|-immune|p2a: Raging Neck
+|move|p2a: Raging Neck|Weather Ball|p1a: Flag
+|-supereffective|p1a: Flag
+|-damage|p1a: Flag|0 fnt
+|faint|p1a: Flag
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1780982706
+|switch|p1a: Sabre|Iron Valiant|100/100
+|turn|6
+|
+|t:|1780982709
+|-end|p1a: Sabre|Quark Drive|[silent]
+|switch|p1a: Rifle|Gliscor, F|100/100
+|move|p2a: Raging Neck|Thunderclap||[still]
+|-fail|p2a: Raging Neck
+|
+|-weather|Snowscape|[upkeep]
+|-status|p1a: Rifle|tox|[from] item: Toxic Orb
+|upkeep
+|turn|7
+|
+|t:|1780982726
+|switch|p1a: Swing|Slowking-Galar, L99, F|86/100
+|move|p2a: Raging Neck|Weather Ball|p1a: Swing
+|-damage|p1a: Swing|53/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1780982735
+|move|p2a: Raging Neck|Draco Meteor|p1a: Swing
+|-damage|p1a: Swing|0 fnt
+|-unboost|p2a: Raging Neck|spa|2
+|faint|p1a: Swing
+|
+|-weather|none
+|upkeep
+|
+|t:|1780982740
+|switch|p1a: Rifle|Gliscor, F|100/100 tox
+|turn|9
+|
+|t:|1780982742
+|-end|p2a: Raging Neck|Protosynthesis|[silent]
+|switch|p2a: Gulp Gulp|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Gulp Gulp
+|move|p1a: Rifle|Swords Dance|p1a: Rifle
+|-boost|p1a: Rifle|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1780982747
+|move|p1a: Rifle|Protect|p1a: Rifle
+|-singleturn|p1a: Rifle|Protect
+|move|p2a: Gulp Gulp|Weather Ball|p1a: Rifle
+|-activate|p1a: Rifle|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1780982751
+|-terastallize|p1a: Rifle|Normal
+|move|p1a: Rifle|Facade|p2a: Gulp Gulp
+|-damage|p2a: Gulp Gulp|35/100
+|move|p2a: Gulp Gulp|Weather Ball|p1a: Rifle
+|-damage|p1a: Rifle|58/100 tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rifle|71/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|12
+|
+|t:|1780982765
+|move|p1a: Rifle|Protect|p1a: Rifle
+|-singleturn|p1a: Rifle|Protect
+|move|p2a: Gulp Gulp|Weather Ball|p1a: Rifle
+|-activate|p1a: Rifle|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rifle|83/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|13
+|
+|t:|1780982777
+|switch|p2a: Raging Neck|Raging Bolt, tera:Fairy|41/100
+|-damage|p2a: Raging Neck|29/100|[from] Spikes
+|move|p1a: Rifle|Facade|p2a: Raging Neck
+|-damage|p2a: Raging Neck|0 fnt
+|faint|p2a: Raging Neck
+|-end|p2a: Raging Neck|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rifle|96/100 tox|[from] ability: Poison Heal
+|upkeep
+|inactive|psylxr has 120 seconds left.
+|
+|t:|1780982807
+|switch|p2a: Flip Flop|Barraskewda, F|100/100
+|-damage|p2a: Flip Flop|88/100|[from] Spikes
+|turn|14
+|
+|t:|1780982814
+|move|p1a: Rifle|Protect|p1a: Rifle
+|-singleturn|p1a: Rifle|Protect
+|move|p2a: Flip Flop|Close Combat|p1a: Rifle
+|-activate|p1a: Rifle|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rifle|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|15
+|
+|t:|1780982824
+|switch|p2a: Spike|Overqwil, F|100/100
+|-damage|p2a: Spike|88/100|[from] Spikes
+|move|p1a: Rifle|Earthquake|p2a: Spike
+|-supereffective|p2a: Spike
+|-damage|p2a: Spike|0 fnt
+|faint|p2a: Spike
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1780982836
+|switch|p2a: Flip Flop|Barraskewda, F|88/100
+|-damage|p2a: Flip Flop|75/100|[from] Spikes
+|turn|16
+|
+|t:|1780982838
+|move|p1a: Rifle|Protect|p1a: Rifle
+|-singleturn|p1a: Rifle|Protect
+|move|p2a: Flip Flop|Flip Turn|p1a: Rifle
+|-activate|p1a: Rifle|move: Protect
+|
+|-weather|none
+|upkeep
+|turn|17
+|
+|t:|1780982846
+|move|p2a: Flip Flop|Flip Turn|p1a: Rifle
+|-damage|p1a: Rifle|58/100 tox
+|
+|t:|1780982849
+|switch|p2a: Gulp Gulp|Pelipper, M|35/100|[from] Flip Turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Gulp Gulp
+|move|p1a: Rifle|Facade|p2a: Gulp Gulp
+|-damage|p2a: Gulp Gulp|0 fnt
+|faint|p2a: Gulp Gulp
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rifle|71/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1780982857
+|switch|p2a: Flip Flop|Barraskewda, F|75/100
+|-damage|p2a: Flip Flop|63/100|[from] Spikes
+|turn|18
+|
+|t:|1780982860
+|move|p1a: Rifle|Protect|p1a: Rifle
+|-singleturn|p1a: Rifle|Protect
+|move|p2a: Flip Flop|Liquidation|p1a: Rifle
+|-activate|p1a: Rifle|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rifle|83/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|19
+|
+|t:|1780982876
+|switch|p1a: Airblade|Samurott-Hisui, F|71/100
+|move|p2a: Flip Flop|Liquidation|p1a: Airblade
+|-resisted|p1a: Airblade
+|-damage|p1a: Airblade|14/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1780982887
+|switch|p2a: Iron Belly|Iron Treads|100/100
+|-damage|p2a: Iron Belly|88/100|[from] Spikes
+|-enditem|p2a: Iron Belly|Booster Energy
+|-activate|p2a: Iron Belly|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Belly|quarkdrivespe
+|move|p1a: Airblade|Razor Shell|p2a: Iron Belly
+|-supereffective|p2a: Iron Belly
+|-damage|p2a: Iron Belly|0 fnt
+|faint|p2a: Iron Belly
+|-end|p2a: Iron Belly|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1780982896
+|switch|p2a: Flip Flop|Barraskewda, F|63/100
+|-damage|p2a: Flip Flop|50/100|[from] Spikes
+|turn|21
+|
+|t:|1780982899
+|move|p1a: Airblade|Sucker Punch|p2a: Flip Flop
+|-damage|p2a: Flip Flop|0 fnt
+|faint|p2a: Flip Flop
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1780982901
+|switch|p2a: Queengambit|Kingambit, F|100/100
+|-damage|p2a: Queengambit|88/100|[from] Spikes
+|-activate|p2a: Queengambit|ability: Supreme Overlord
+|-start|p2a: Queengambit|fallen5|[silent]
+|turn|22
+|
+|t:|1780982908
+|move|p2a: Queengambit|Sucker Punch|p1a: Airblade
+|-resisted|p1a: Airblade
+|-damage|p1a: Airblade|0 fnt
+|faint|p1a: Airblade
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Queengambit|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780982913
+|switch|p1a: Sabre|Iron Valiant|100/100
+|turn|23
+|
+|t:|1780982918
+|move|p1a: Sabre|Close Combat|p2a: Queengambit
+|-supereffective|p2a: Queengambit
+|-crit|p2a: Queengambit
+|-damage|p2a: Queengambit|0 fnt
+|-unboost|p1a: Sabre|def|1
+|-unboost|p1a: Sabre|spd|1
+|faint|p2a: Queengambit
+|-end|p2a: Queengambit|fallen5|[silent]
+|
+|win|FireWolf89
+|raw|FireWolf89's rating: 1534 &rarr; <strong>1564</strong><br />(+30 for winning)
+|raw|psylxr's rating: 1730 &rarr; <strong>1700</strong><br />(-30 for losing)
+|c|☆FireWolf89|gg
+|l|☆psylxr
+|player|p2|

@@ -1,0 +1,316 @@
+|j|☆cachowcapow
+|j|‽lucy cobblestone
+|t:|1780927352
+|gametype|singles
+|player|p1|cachowcapow|102|1648
+|player|p2|lucy cobblestone|guitarist|1553
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cinderace, M|
+|poke|p1|Slither Wing|
+|poke|p1|Alomomola, M|
+|poke|p1|Great Tusk|
+|poke|p1|Meowscarada, M|
+|poke|p1|Froslass, F|
+|poke|p2|Iron Moth|
+|poke|p2|Gliscor, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Zamazenta-*|
+|teampreview
+|
+|t:|1780927375
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Froslass|Froslass, F|100/100
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|1
+|
+|t:|1780927394
+|switch|p1a: Slither Wing|Slither Wing|100/100
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: lucy cobblestone|move: Light Screen
+|
+|upkeep
+|turn|2
+|
+|t:|1780927398
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: lucy cobblestone|Reflect
+|move|p1a: Slither Wing|Will-O-Wisp|p2a: Zamazenta|[miss]
+|-miss|p1a: Slither Wing|p2a: Zamazenta
+|
+|upkeep
+|turn|3
+|
+|t:|1780927402
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Slither Wing|U-turn|p2a: Hatterene
+|-damage|p2a: Hatterene|87/100
+|
+|t:|1780927407
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Cinderace|Cinderace, M|100/100|[from] U-turn
+|
+|-heal|p2a: Hatterene|93/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1780927410
+|move|p1a: Cinderace|Iron Head|p2a: Hatterene
+|-start|p1a: Cinderace|typechange|Steel|[from] ability: Libero
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|62/100
+|cant|p2a: Hatterene|flinch
+|
+|-heal|p2a: Hatterene|68/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1780927414
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|
+|upkeep
+|turn|6
+|
+|t:|1780927418
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|96/100
+|
+|upkeep
+|turn|7
+|
+|t:|1780927421
+|move|p2a: Iron Moth|Toxic Spikes|p1a: Alomomola
+|-sidestart|p1: cachowcapow|move: Toxic Spikes
+|move|p1a: Alomomola|Flip Turn|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|53/100
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lucy cobblestone)
+|
+|t:|1780927427
+|switch|p1a: Cinderace|Cinderace, M|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|8
+|
+|t:|1780927433
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|-status|p1a: Alomomola|psn
+|move|p2a: Iron Moth|Sludge Wave|p1a: Alomomola
+|-damage|p1a: Alomomola|87/100 psn
+|
+|-damage|p1a: Alomomola|75/100 psn|[from] psn
+|-sideend|p1: cachowcapow|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1780927442
+|move|p2a: Iron Moth|Toxic Spikes|p1a: Alomomola
+|-sidestart|p1: cachowcapow|move: Toxic Spikes
+|move|p1a: Alomomola|Flip Turn|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|5/100
+|
+|t:|1780927447
+|switch|p1a: Cinderace|Cinderace, M|100/100|[from] Flip Turn
+|
+|-sideend|p1: cachowcapow|Reflect
+|upkeep
+|turn|10
+|
+|t:|1780927454
+|move|p2a: Iron Moth|Sludge Wave|p1a: Cinderace
+|-damage|p1a: Cinderace|26/100
+|move|p1a: Cinderace|Pyro Ball|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780927459
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|turn|11
+|
+|t:|1780927467
+|switch|p1a: Slither Wing|Slither Wing|100/100
+|-status|p1a: Slither Wing|tox
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: lucy cobblestone|Reflect
+|
+|-damage|p1a: Slither Wing|94/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1780927470
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: lucy cobblestone|move: Light Screen
+|move|p1a: Slither Wing|U-turn|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|94/100
+|
+|t:|1780927477
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Cinderace|Cinderace, M|26/100|[from] U-turn
+|
+|upkeep
+|turn|13
+|
+|t:|1780927484
+|switch|p1a: Slither Wing|Slither Wing|94/100 tox
+|move|p2a: Zamazenta|Close Combat|p1a: Slither Wing
+|-resisted|p1a: Slither Wing
+|-damage|p1a: Slither Wing|76/100 tox
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|-damage|p2a: Zamazenta|78/100|[from] item: Rocky Helmet|[of] p1a: Slither Wing
+|
+|-damage|p1a: Slither Wing|70/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1780927489
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|move|p1a: Slither Wing|U-turn|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|94/100
+|
+|t:|1780927492
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Cinderace|Cinderace, M|26/100|[from] U-turn
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|15
+|
+|t:|1780927496
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-start|p1a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|move|p2a: Gliscor|Agility|p2a: Gliscor
+|-boost|p2a: Gliscor|spe|2
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|16
+|
+|t:|1780927500
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|move|p1a: Cinderace|U-turn|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|91/100 tox
+|
+|t:|1780927509
+|switch|p1a: Froslass|Froslass, F|100/100|[from] U-turn
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|17
+|
+|t:|1780927520
+|-terastallize|p2a: Gliscor|Normal
+|move|p2a: Gliscor|Earthquake|p1a: Froslass
+|-damage|p1a: Froslass|32/100
+|move|p1a: Froslass|Destiny Bond|p1a: Froslass
+|-singlemove|p1a: Froslass|Destiny Bond
+|
+|upkeep
+|turn|18
+|
+|t:|1780927534
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|
+|-sideend|p1: cachowcapow|Reflect
+|upkeep
+|turn|19
+|
+|t:|1780927538
+|move|p2a: Gliscor|Facade|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-sideend|p1: cachowcapow|move: Light Screen
+|upkeep
+|
+|t:|1780927551
+|switch|p1a: Slither Wing|Slither Wing|70/100 tox
+|turn|20
+|
+|t:|1780927555
+|move|p1a: Slither Wing|First Impression|p2a: Gliscor
+|-damage|p2a: Gliscor|69/100 tox
+|move|p2a: Gliscor|Facade|p1a: Slither Wing
+|-damage|p1a: Slither Wing|0 fnt
+|-damage|p2a: Gliscor|52/100 tox|[from] item: Rocky Helmet|[of] p1a: Slither Wing
+|faint|p1a: Slither Wing
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|
+|-heal|p2a: Gliscor|65/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1780927559
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|turn|21
+|
+|t:|1780927566
+|-terastallize|p1a: Meowscarada|Ghost
+|move|p2a: Gliscor|Facade|p1a: Meowscarada
+|-immune|p1a: Meowscarada
+|move|p1a: Meowscarada|Dark Pulse|p2a: Gliscor
+|-damage|p2a: Gliscor|6/100 tox
+|
+|-heal|p2a: Gliscor|18/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|22
+|
+|t:|1780927576
+|move|p2a: Gliscor|Earthquake|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|faint|p1a: Meowscarada
+|
+|-heal|p2a: Gliscor|31/100 tox|[from] ability: Poison Heal
+|upkeep
+|j| Agathina
+|
+|t:|1780927578
+|switch|p1a: Alomomola|Alomomola, M|100/100 psn
+|turn|23
+|-message|cachowcapow forfeited.
+|
+|win|lucy cobblestone
+|raw|cachowcapow's rating: 1667 &rarr; <strong>1640</strong><br />(-27 for losing)
+|raw|lucy cobblestone's rating: 1544 &rarr; <strong>1571</strong><br />(+27 for winning)
+|l|☆cachowcapow
+|player|p1|
+|l|‽lucy cobblestone
+|player|p2|

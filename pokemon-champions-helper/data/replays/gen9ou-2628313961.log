@@ -1,0 +1,168 @@
+|j|☆teamskullenoxa
+|j|☆tb poke
+|t:|1781007087
+|gametype|singles
+|player|p1|teamskullenoxa|101|1595
+|player|p2|tb poke|2|1651
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Iron Treads|
+|poke|p1|Toxicroak, F|
+|poke|p1|Barraskewda, F|
+|poke|p1|Zapdos|
+|poke|p2|Dragonite, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Great Tusk|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Moth|
+|teampreview
+|
+|t:|1781007094
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by teamskullenoxa)
+|inactive|tb poke also wants the timer to be on.
+|
+|t:|1781007102
+|move|p1a: Zapdos|Volt Switch|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|27/100
+|
+|t:|1781007106
+|switch|p1a: Toxicroak|Toxicroak, F|100/100|[from] Volt Switch
+|move|p2a: Samurott|Knock Off|p1a: Toxicroak
+|-resisted|p1a: Toxicroak
+|-damage|p1a: Toxicroak|82/100
+|-damage|p2a: Samurott|10/100|[from] item: Rocky Helmet|[of] p1a: Toxicroak
+|-enditem|p1a: Toxicroak|Rocky Helmet|[from] move: Knock Off|[of] p2a: Samurott
+|
+|upkeep
+|turn|2
+|
+|t:|1781007114
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Toxicroak|Drain Punch|p2a: Great Tusk
+|-damage|p2a: Great Tusk|82/100
+|-heal|p1a: Toxicroak|93/100|[from] drain|[of] p2a: Great Tusk
+|-damage|p1a: Toxicroak|77/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|3
+|
+|t:|1781007120
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|34/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781007124
+|switch|p1a: Zapdos|Zapdos|100/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781007127
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Samurott|Samurott-Hisui, F|10/100
+|move|p1a: Zapdos|Hurricane|p2a: Samurott
+|-crit|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|upkeep
+|
+|t:|1781007134
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|5
+|
+|t:|1781007140
+|move|p1a: Zapdos|Hurricane|p2a: Dragonite|[miss]
+|-miss|p1a: Zapdos|p2a: Dragonite
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1781007144
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Zapdos|Hurricane|p2a: Dragonite|[miss]
+|-miss|p1a: Zapdos|p2a: Dragonite
+|
+|upkeep
+|turn|7
+|
+|t:|1781007147
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Zapdos|Hurricane|p2a: Dragonite
+|-damage|p2a: Dragonite|59/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781007157
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Dragonite|Scale Shot|p1a: Pelipper
+|-damage|p1a: Pelipper|59/100
+|-damage|p1a: Pelipper|22/100
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|-hitcount|p1: Pelipper|3
+|-unboost|p2a: Dragonite|def|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781007171
+|switch|p1a: Toxicroak|Toxicroak, F|77/100
+|turn|9
+|
+|t:|1781007177
+|-terastallize|p1a: Toxicroak|Ghost
+|move|p2a: Dragonite|Scale Shot|p1a: Toxicroak
+|-damage|p1a: Toxicroak|41/100
+|-damage|p1a: Toxicroak|9/100
+|-damage|p1a: Toxicroak|0 fnt
+|faint|p1a: Toxicroak
+|-hitcount|p1: Toxicroak|3
+|-unboost|p2a: Dragonite|def|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|teamskullenoxa forfeited.
+|
+|win|tb poke
+|raw|teamskullenoxa's rating: 1595 &rarr; <strong>1578</strong><br />(-17 for losing)
+|raw|tb poke's rating: 1651 &rarr; <strong>1668</strong><br />(+17 for winning)
+|l|☆teamskullenoxa
+|player|p1|
+|l|☆tb poke
+|player|p2|

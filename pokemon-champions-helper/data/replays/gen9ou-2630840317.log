@@ -1,0 +1,464 @@
+|j|☆axleb27
+|j|☆belzen
+|t:|1781300933
+|gametype|singles
+|player|p1|axleb27|169|1573
+|player|p2|belzen|elesa-masters3|1601
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon-Cornerstone, F|
+|poke|p1|Tyranitar, F|
+|poke|p1|Excadrill, F|
+|poke|p1|Metagross|
+|poke|p1|Sinistcha-Masterpiece|
+|poke|p1|Weezing-Galar, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Great Tusk|
+|poke|p2|Kyurem|
+|poke|p2|Kingambit, M|
+|poke|p2|Cinderace, F|
+|poke|p2|Zapdos|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by belzen)
+|
+|t:|1781300946
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|1
+|
+|t:|1781300960
+|move|p1a: Ogerpon|Spiky Shield|p1a: Ogerpon
+|-singleturn|p1a: Ogerpon|move: Protect
+|move|p2a: Great Tusk|Rapid Spin|p1a: Ogerpon
+|-activate|p1a: Ogerpon|move: Protect
+|-damage|p2a: Great Tusk|88/100|[from] Spiky Shield|[of] p1a: Ogerpon
+|
+|-heal|p2a: Great Tusk|94/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781300968
+|switch|p1a: Sinistcha|Sinistcha-Masterpiece|100/100
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781300974
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Cinderace|U-turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|69/100
+|j| rexa2
+|
+|t:|1781300978
+|switch|p2a: Great Tusk|Great Tusk|94/100|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Great Tusk|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781300986
+|switch|p1a: Weezing|Weezing-Galar, M|100/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Weezing
+|-immune|p1a: Weezing|[from] ability: Levitate
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weezing|95/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1781300994
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Weezing|Strange Steam|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|93/100
+|-start|p2a: Slowking|confusion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weezing|89/100|[from] Sandstorm
+|-damage|p2a: Slowking|87/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1781300998
+|move|p1a: Weezing|Will-O-Wisp|p2a: Slowking|[miss]
+|-miss|p1a: Weezing|p2a: Slowking
+|-activate|p2a: Slowking|confusion
+|-damage|p2a: Slowking|82/100|[from] confusion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weezing|83/100|[from] Sandstorm
+|-damage|p2a: Slowking|76/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1781301002
+|move|p1a: Weezing|Will-O-Wisp|p2a: Slowking
+|-status|p2a: Slowking|brn
+|-activate|p2a: Slowking|confusion
+|move|p2a: Slowking|Future Sight|p1a: Weezing
+|-start|p2a: Slowking|move: Future Sight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weezing|77/100|[from] Sandstorm
+|-damage|p2a: Slowking|70/100 brn|[from] Sandstorm
+|-damage|p2a: Slowking|63/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1781301006
+|switch|p1a: Metagross|Metagross|100/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|-end|p2a: Slowking|confusion
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781301026
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781301029
+|move|p2a: Great Tusk|Headlong Rush|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|15/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Metagross|Knock Off|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|83/100
+|-enditem|p2a: Great Tusk|Leftovers|[from] move: Knock Off|[of] p1a: Metagross
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Metagross|move: Future Sight
+|-resisted|p1a: Metagross
+|-damage|p1a: Metagross|3/100
+|-heal|p1a: Metagross|9/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781301040
+|switch|p1a: Sinistcha|Sinistcha-Masterpiece|100/100
+|move|p2a: Great Tusk|Ice Spinner|p1a: Sinistcha
+|-supereffective|p1a: Sinistcha
+|-damage|p1a: Sinistcha|61/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Sinistcha|67/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781301048
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Sinistcha|Strength Sap|p2a: Kyurem
+|-unboost|p2a: Kyurem|atk|1
+|-heal|p1a: Sinistcha|100/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781301057
+|switch|p1a: Tyranitar|Tyranitar, F|69/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Kyurem|Ice Beam|p1a: Tyranitar
+|-damage|p1a: Tyranitar|30/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kyurem|94/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1781301060
+|move|p2a: Kyurem|Ice Beam|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kyurem|88/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781301062
+|switch|p1a: Excadrill|Excadrill, F, shiny|100/100
+|turn|14
+|
+|t:|1781301069
+|switch|p2a: Zapdos|Zapdos, shiny|100/100
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|94/100|[from] Sandstorm
+|upkeep
+|turn|15
+|
+|t:|1781301084
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|move|p2a: Zapdos|Hurricane|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|68/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|88/100|[from] Sandstorm
+|upkeep
+|turn|16
+|inactive|belzen has 120 seconds left.
+|
+|t:|1781301117
+|move|p1a: Excadrill|Iron Head|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|26/100
+|-damage|p1a: Excadrill|58/100|[from] item: Life Orb
+|move|p2a: Zapdos|Hurricane|p1a: Excadrill|[miss]
+|-miss|p2a: Zapdos|p1a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|20/100|[from] Sandstorm
+|upkeep
+|turn|17
+|
+|t:|1781301125
+|move|p1a: Excadrill|Rapid Spin|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|-boost|p1a: Excadrill|spe|1
+|faint|p2a: Zapdos
+|-damage|p1a: Excadrill|48/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781301128
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|turn|18
+|
+|t:|1781301132
+|switch|p1a: Weezing|Weezing-Galar, M|77/100
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weezing|71/100|[from] Sandstorm
+|upkeep
+|turn|19
+|
+|t:|1781301138
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|97/100 brn
+|move|p1a: Weezing|Will-O-Wisp|p2a: Slowking
+|-fail|p2a: Slowking|brn
+|
+|-weather|none
+|-damage|p2a: Slowking|91/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1781301142
+|switch|p1a: Metagross|Metagross|9/100
+|move|p2a: Slowking|Future Sight|p1a: Metagross
+|-start|p2a: Slowking|move: Future Sight
+|
+|-heal|p1a: Metagross|15/100|[from] item: Leftovers
+|-damage|p2a: Slowking|85/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1781301146
+|move|p1a: Metagross|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-enditem|p2a: Slowking|Colbur Berry|[eat]
+|-enditem|p2a: Slowking|Colbur Berry|[weaken]
+|-damage|p2a: Slowking|52/100 brn
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781301151
+|switch|p2a: Great Tusk|Great Tusk|83/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Metagross|21/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781301154
+|switch|p1a: Weezing|Weezing-Galar, M|71/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Weezing
+|-immune|p1a: Weezing|[from] ability: Levitate
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Weezing|move: Future Sight
+|-supereffective|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|upkeep
+|
+|t:|1781301157
+|switch|p1a: Sinistcha|Sinistcha-Masterpiece|100/100
+|turn|23
+|
+|t:|1781301163
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Kyurem|Kyurem|88/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Sinistcha|Calm Mind|p1a: Sinistcha
+|-boost|p1a: Sinistcha|spa|1
+|-boost|p1a: Sinistcha|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1781301176
+|-terastallize|p1a: Sinistcha|Poison
+|move|p2a: Kyurem|Blizzard|p1a: Sinistcha
+|-damage|p1a: Sinistcha|33/100
+|move|p1a: Sinistcha|Calm Mind|p1a: Sinistcha
+|-boost|p1a: Sinistcha|spa|1
+|-boost|p1a: Sinistcha|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Sinistcha|40/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781301189
+|move|p2a: Kyurem|Blizzard|p1a: Sinistcha
+|-damage|p1a: Sinistcha|0 fnt
+|faint|p1a: Sinistcha
+|
+|-weather|none
+|upkeep
+|
+|t:|1781301193
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|turn|26
+|
+|t:|1781301200
+|switch|p2a: Slowking|Slowking-Galar, M|85/100 brn
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Slowking|[anim] Ivy Cudgel Rock
+|-damage|p2a: Slowking|26/100 brn
+|
+|-damage|p2a: Slowking|20/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1781301207
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Slowking|[anim] Ivy Cudgel Rock
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781301212
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|28
+|
+|t:|1781301216
+|move|p1a: Ogerpon|Spiky Shield|p1a: Ogerpon
+|-singleturn|p1a: Ogerpon|move: Protect
+|move|p2a: Cinderace|U-turn|p1a: Ogerpon
+|-activate|p1a: Ogerpon|move: Protect
+|-damage|p2a: Cinderace|88/100|[from] Spiky Shield|[of] p1a: Ogerpon
+|
+|upkeep
+|turn|29
+|
+|t:|1781301222
+|move|p2a: Cinderace|U-turn|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|55/100
+|
+|t:|1781301227
+|switch|p2a: Kingambit|Kingambit, M|100/100|[from] U-turn
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Kingambit|[anim] Ivy Cudgel Rock
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|76/100
+|
+|-heal|p2a: Kingambit|82/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781301231
+|move|p2a: Kingambit|Sucker Punch|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|-heal|p2a: Kingambit|88/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781301243
+|switch|p1a: Metagross|Metagross|21/100
+|turn|31
+|l| rexa2
+|
+|t:|1781301249
+|move|p1a: Metagross|Hammer Arm|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1a: Metagross|spe|1
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen2|[silent]
+|
+|-heal|p1a: Metagross|27/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781301252
+|switch|p2a: Great Tusk|Great Tusk|83/100
+|turn|32
+|
+|t:|1781301259
+|move|p2a: Great Tusk|Headlong Rush|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Metagross
+|
+|upkeep
+|
+|t:|1781301262
+|switch|p1a: Excadrill|Excadrill, F, shiny|48/100
+|turn|33
+|
+|t:|1781301264
+|move|p2a: Great Tusk|Headlong Rush|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Excadrill
+|
+|win|belzen
+|raw|axleb27's rating: 1573 &rarr; <strong>1555</strong><br />(-18 for losing)
+|raw|belzen's rating: 1601 &rarr; <strong>1619</strong><br />(+18 for winning)
+|l|☆axleb27
+|player|p1|
+|l|☆belzen
+|player|p2|

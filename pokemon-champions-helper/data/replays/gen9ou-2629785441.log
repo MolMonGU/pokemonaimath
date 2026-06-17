@@ -1,0 +1,298 @@
+|j|‽Leap Call
+|j|☆FIREEEE
+|t:|1781179852
+|gametype|singles
+|player|p1|Leap Call|266|1562
+|player|p2|FIREEEE|pokekid|1570
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Lokix, M|
+|poke|p1|Glimmora, F|
+|poke|p1|Ting-Lu|
+|poke|p1|Raging Bolt|
+|poke|p1|Gholdengo|
+|poke|p1|Great Tusk|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Kyurem|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Ursaluna, M|
+|poke|p2|Primarina, F|
+|teampreview
+|
+|t:|1781179880
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|1
+|
+|t:|1781179885
+|switch|p1a: Lokix|Lokix, M|100/100
+|move|p2a: Deoxys|Taunt|p1a: Lokix
+|-start|p1a: Lokix|move: Taunt
+|
+|upkeep
+|turn|2
+|
+|t:|1781179891
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Lokix|U-turn|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|67/100
+|
+|t:|1781179894
+|switch|p1a: Glimmora|Glimmora, F|100/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781179902
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: FIREEEE|move: Aurora Veil
+|move|p1a: Glimmora|Meteor Beam||[still]
+|-prepare|p1a: Glimmora|Meteor Beam
+|-boost|p1a: Glimmora|spa|1
+|-enditem|p1a: Glimmora|Power Herb
+|-anim|p1a: Glimmora|Meteor Beam|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781179915
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|4
+|
+|t:|1781179942
+|-terastallize|p1a: Glimmora|Ghost
+|move|p1a: Glimmora|Stealth Rock|p2a: Kyurem
+|-sidestart|p2: FIREEEE|move: Stealth Rock
+|move|p2a: Kyurem|Ice Beam|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781179956
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|5
+|
+|t:|1781179962
+|move|p2a: Kyurem|Ice Beam|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|65/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|move|p1a: Gholdengo|Dazzling Gleam|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|78/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781179969
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|88/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|100/100
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1781179979
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|
+|upkeep
+|turn|8
+|
+|t:|1781179985
+|move|p2a: Ogerpon|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|29/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Ogerpon
+|-damage|p2a: Ogerpon|44/100
+|-unboost|p2a: Ogerpon|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1781179989
+|move|p2a: Ogerpon|Horn Leech|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-heal|p2a: Ogerpon|62/100|[from] drain|[of] p1a: Gholdengo
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781179993
+|switch|p1a: Lokix|Lokix, M|100/100
+|turn|10
+|
+|t:|1781180001
+|-terastallize|p2a: Ogerpon|Water
+|detailschange|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|move|p1a: Lokix|First Impression|p2a: Ogerpon
+|-crit|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|detailschange|p2: Ogerpon|Ogerpon-Wellspring, F|[silent]
+|
+|-sideend|p2: FIREEEE|move: Aurora Veil
+|upkeep
+|
+|t:|1781180016
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-damage|p2a: Deoxys|88/100|[from] Stealth Rock
+|-ability|p2a: Deoxys|Pressure
+|turn|11
+|
+|t:|1781180020
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: FIREEEE|Reflect
+|move|p1a: Lokix|U-turn|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|44/100
+|
+|t:|1781180031
+|switch|p1a: Raging Bolt|Raging Bolt|100/100|[from] U-turn
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|
+|upkeep
+|turn|12
+|
+|t:|1781180038
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: FIREEEE|move: Light Screen
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1781180041
+|switch|p2a: Ursaluna|Ursaluna, M|100/100
+|-damage|p2a: Ursaluna|94/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1781180050
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Ursaluna
+|-damage|p2a: Ursaluna|65/100
+|move|p2a: Ursaluna|Earthquake|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-crit|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-status|p2a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|
+|t:|1781180057
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|14
+|
+|t:|1781180065
+|move|p2a: Ursaluna|Facade|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|26/100
+|move|p1a: Ting-Lu|Ruination|p2a: Ursaluna
+|-damage|p2a: Ursaluna|33/100 brn
+|
+|-heal|p1a: Ting-Lu|32/100|[from] item: Leftovers
+|-damage|p2a: Ursaluna|27/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781180068
+|move|p2a: Ursaluna|Facade|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|-damage|p2a: Ursaluna|20/100 brn|[from] brn
+|upkeep
+|
+|t:|1781180078
+|switch|p1a: Lokix|Lokix, M|100/100
+|turn|16
+|
+|t:|1781180083
+|move|p1a: Lokix|First Impression|p2a: Ursaluna
+|-damage|p2a: Ursaluna|3/100 brn
+|move|p2a: Ursaluna|Facade|p1a: Lokix
+|-damage|p1a: Lokix|0 fnt
+|faint|p1a: Lokix
+|
+|-damage|p2a: Ursaluna|0 fnt|[from] brn
+|faint|p2a: Ursaluna
+|upkeep
+|
+|t:|1781180087
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|switch|p2a: Kyurem|Kyurem|78/100
+|-damage|p2a: Kyurem|53/100|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|turn|17
+|
+|t:|1781180091
+|move|p1a: Great Tusk|Close Combat|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781180094
+|switch|p2a: Primarina|Primarina, F|100/100
+|-damage|p2a: Primarina|88/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781180103
+|move|p1a: Great Tusk|Close Combat|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|74/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Primarina|Surf|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|win|FIREEEE
+|raw|Leap Call's rating: 1562 &rarr; <strong>1542</strong><br />(-20 for losing)
+|raw|FIREEEE's rating: 1570 &rarr; <strong>1590</strong><br />(+20 for winning)
+|l|‽Leap Call
+|player|p1|
+|l|☆FIREEEE
+|player|p2|

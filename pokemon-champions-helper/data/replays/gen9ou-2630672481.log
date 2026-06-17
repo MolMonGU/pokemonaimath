@@ -1,0 +1,510 @@
+|j|☆myree
+|j|☆somsleep
+|t:|1781283357
+|gametype|singles
+|player|p1|myree|benga|1565
+|player|p2|somsleep|1|1579
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ting-Lu|
+|poke|p1|Hydrapple, F|
+|poke|p1|Iron Boulder|
+|poke|p1|Iron Crown|
+|poke|p1|Pecharunt|
+|poke|p1|Enamorus-Therian, F|
+|poke|p2|Abomasnow, M|
+|poke|p2|Cetitan, F|
+|poke|p2|Rotom|
+|poke|p2|Illumise, F|
+|poke|p2|Keldeo-Resolute|
+|poke|p2|Iron Treads|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by somsleep)
+|
+|t:|1781283364
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: mrz. puff|Pecharunt|100/100
+|switch|p2a: Rotom|Rotom|100/100
+|turn|1
+|inactive|myree has 120 seconds left.
+|
+|t:|1781283394
+|switch|p1a: gov. gen.|Ting-Lu|100/100
+|-ability|p1a: gov. gen.|Vessel of Ruin
+|move|p2a: Rotom|Trick|p1a: gov. gen.
+|-activate|p2a: Rotom|move: Trick|[of] p1a: gov. gen.
+|-item|p1a: gov. gen.|Choice Scarf|[from] move: Trick
+|-item|p2a: Rotom|Leftovers|[from] move: Trick
+|
+|upkeep
+|turn|2
+|inactive|myree has 120 seconds left.
+|
+|t:|1781283412
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: gov. gen.|Spikes|p2a: Iron Treads
+|-sidestart|p2: somsleep|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1781283415
+|move|p2a: Iron Treads|Rapid Spin|p1a: gov. gen.
+|-damage|p1a: gov. gen.|93/100
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: somsleep|Spikes|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: gov. gen.|Spikes|p2a: Iron Treads
+|-sidestart|p2: somsleep|Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1781283419
+|move|p2a: Iron Treads|Rapid Spin|p1a: gov. gen.
+|-damage|p1a: gov. gen.|86/100
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: somsleep|Spikes|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: gov. gen.|Spikes|p2a: Iron Treads
+|-sidestart|p2: somsleep|Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1781283422
+|move|p2a: Iron Treads|Rapid Spin|p1a: gov. gen.
+|-damage|p1a: gov. gen.|78/100
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: somsleep|Spikes|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: gov. gen.|Spikes|p2a: Iron Treads
+|-sidestart|p2: somsleep|Spikes
+|
+|upkeep
+|turn|6
+|
+|t:|1781283426
+|switch|p1a: dr. hyd-raa|Hydrapple, F|100/100
+|move|p2a: Iron Treads|Rapid Spin|p1a: dr. hyd-raa
+|-damage|p1a: dr. hyd-raa|89/100
+|-boost|p2a: Iron Treads|spe|1
+|-damage|p2a: Iron Treads|84/100|[from] item: Rocky Helmet|[of] p1a: dr. hyd-raa
+|-sideend|p2: somsleep|Spikes|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|
+|upkeep
+|turn|7
+|
+|t:|1781283432
+|move|p2a: Iron Treads|Stealth Rock|p1a: dr. hyd-raa
+|-sidestart|p1: myree|move: Stealth Rock
+|move|p1a: dr. hyd-raa|Giga Drain|p2a: Iron Treads
+|-damage|p2a: Iron Treads|24/100
+|-heal|p1a: dr. hyd-raa|100/100|[from] drain|[of] p2a: Iron Treads
+|
+|upkeep
+|turn|8
+|
+|t:|1781283439
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Abomasnow|Abomasnow, M, shiny|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|move|p1a: dr. hyd-raa|Fickle Beam|p2a: Abomasnow|[anim] Fickle Beam All Out
+|-activate|p1a: dr. hyd-raa|move: Fickle Beam
+|-damage|p2a: Abomasnow|0 fnt
+|faint|p2a: Abomasnow
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781283447
+|switch|p2a: Cetitan|Cetitan, F|100/100
+|turn|9
+|
+|t:|1781283468
+|move|p2a: Cetitan|Belly Drum|p2a: Cetitan
+|-damage|p2a: Cetitan|50/100
+|-setboost|p2a: Cetitan|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Cetitan|Sitrus Berry|[eat]
+|-heal|p2a: Cetitan|75/100|[from] item: Sitrus Berry
+|move|p1a: dr. hyd-raa|Fickle Beam|p2a: Cetitan
+|-damage|p2a: Cetitan|29/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|inactive|myree has 120 seconds left.
+|
+|t:|1781283492
+|switch|p1a: na'am tee|Enamorus-Therian, F|100/100
+|-damage|p1a: na'am tee|76/100|[from] Stealth Rock
+|move|p2a: Cetitan|Earthquake|p1a: na'am tee
+|-immune|p1a: na'am tee
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781283500
+|move|p2a: Cetitan|Ice Shard|p1a: na'am tee
+|-supereffective|p1a: na'am tee
+|-damage|p1a: na'am tee|0 fnt
+|faint|p1a: na'am tee
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781283507
+|switch|p1a: mrz. puff|Pecharunt|100/100
+|-damage|p1a: mrz. puff|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781283514
+|-terastallize|p1a: mrz. puff|Bug
+|move|p2a: Cetitan|Earthquake|p1a: mrz. puff
+|-resisted|p1a: mrz. puff
+|-damage|p1a: mrz. puff|53/100
+|move|p1a: mrz. puff|Malignant Chain|p2a: Cetitan
+|-damage|p2a: Cetitan|0 fnt
+|faint|p2a: Cetitan
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781283522
+|switch|p2a: Iron Treads|Iron Treads|24/100
+|turn|13
+|
+|t:|1781283530
+|move|p2a: Iron Treads|Iron Head|p1a: mrz. puff
+|-damage|p1a: mrz. puff|33/100
+|-damage|p2a: Iron Treads|7/100|[from] item: Rocky Helmet|[of] p1a: mrz. puff
+|move|p1a: mrz. puff|Recover|p1a: mrz. puff
+|-heal|p1a: mrz. puff|83/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781283536
+|move|p2a: Iron Treads|Iron Head|p1a: mrz. puff
+|-damage|p1a: mrz. puff|61/100
+|-damage|p2a: Iron Treads|0 fnt|[from] item: Rocky Helmet|[of] p1a: mrz. puff
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|move|p1a: mrz. puff|Recover|p1a: mrz. puff
+|-heal|p1a: mrz. puff|100/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781283538
+|switch|p2a: Illumise|Illumise, F|100/100
+|turn|15
+|
+|t:|1781283541
+|move|p2a: Illumise|Encore|p1a: mrz. puff
+|-start|p1a: mrz. puff|Encore
+|move|p1a: mrz. puff|Recover||[still]
+|-fail|p1a: mrz. puff|heal
+|
+|-weather|none
+|upkeep
+|turn|16
+|
+|t:|1781283547
+|switch|p1a: s. kaiki|Iron Crown|100/100
+|-damage|p1a: s. kaiki|94/100|[from] Stealth Rock
+|move|p2a: Illumise|Mud-Slap|p1a: s. kaiki
+|-supereffective|p1a: s. kaiki
+|-damage|p1a: s. kaiki|90/100
+|-unboost|p1a: s. kaiki|accuracy|1
+|
+|upkeep
+|turn|17
+|
+|t:|1781283568
+|move|p2a: Illumise|Tailwind|p2a: Illumise
+|-sidestart|p2: somsleep|move: Tailwind
+|move|p1a: s. kaiki|Psychic|p2a: Illumise|[miss]
+|-miss|p1a: s. kaiki|p2a: Illumise
+|
+|upkeep
+|turn|18
+|
+|t:|1781283587
+|move|p2a: Illumise|Mud-Slap|p1a: s. kaiki
+|-supereffective|p1a: s. kaiki
+|-damage|p1a: s. kaiki|85/100
+|-unboost|p1a: s. kaiki|accuracy|1
+|move|p1a: s. kaiki|Psychic|p2a: Illumise
+|-damage|p2a: Illumise|45/100
+|-enditem|p2a: Illumise|Eject Button
+|
+|t:|1781283590
+|switch|p2a: Keldeo|Keldeo-Resolute|100/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781283593
+|-terastallize|p2a: Keldeo|Steel
+|move|p2a: Keldeo|Calm Mind|p2a: Keldeo
+|-boost|p2a: Keldeo|spa|1
+|-boost|p2a: Keldeo|spd|1
+|move|p1a: s. kaiki|Psychic|p2a: Keldeo|[miss]
+|-miss|p1a: s. kaiki|p2a: Keldeo
+|
+|upkeep
+|turn|20
+|
+|t:|1781283603
+|move|p2a: Keldeo|Substitute|p2a: Keldeo
+|-start|p2a: Keldeo|Substitute
+|-damage|p2a: Keldeo|76/100
+|move|p1a: s. kaiki|Metal Burst||[still]
+|-fail|p1a: s. kaiki
+|
+|-heal|p2a: Keldeo|82/100|[from] item: Leftovers
+|-sideend|p2: somsleep|move: Tailwind
+|upkeep
+|turn|21
+|
+|t:|1781283606
+|move|p2a: Keldeo|Calm Mind|p2a: Keldeo
+|-boost|p2a: Keldeo|spa|1
+|-boost|p2a: Keldeo|spd|1
+|move|p1a: s. kaiki|Volt Switch|p2a: Keldeo
+|-activate|p2a: Keldeo|move: Substitute|[damage]
+|
+|t:|1781283624
+|-end|p1a: s. kaiki|Quark Drive|[silent]
+|switch|p1a: gov. gen.|Ting-Lu|78/100|[from] Volt Switch
+|-damage|p1a: gov. gen.|72/100|[from] Stealth Rock
+|-ability|p1a: gov. gen.|Vessel of Ruin
+|
+|-heal|p2a: Keldeo|88/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781283634
+|move|p2a: Keldeo|Surf|p1a: gov. gen.
+|-supereffective|p1a: gov. gen.
+|-damage|p1a: gov. gen.|0 fnt
+|faint|p1a: gov. gen.
+|
+|-heal|p2a: Keldeo|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781283657
+|switch|p1a: dr. hyd-raa|Hydrapple, F|100/100
+|-damage|p1a: dr. hyd-raa|88/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1781283661
+|move|p2a: Keldeo|Secret Sword|p1a: dr. hyd-raa
+|-damage|p1a: dr. hyd-raa|16/100
+|move|p1a: dr. hyd-raa|Earth Power|p2a: Keldeo
+|-supereffective|p2a: Keldeo
+|-end|p2a: Keldeo|Substitute
+|
+|-heal|p2a: Keldeo|100/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781283670
+|move|p2a: Keldeo|Secret Sword|p1a: dr. hyd-raa
+|-damage|p1a: dr. hyd-raa|0 fnt
+|faint|p1a: dr. hyd-raa
+|
+|upkeep
+|inactive|myree has 120 seconds left.
+|
+|t:|1781283702
+|switch|p1a: chef boul-dar-D|Iron Boulder|100/100
+|turn|25
+|
+|t:|1781283713
+|switch|p2a: Rotom|Rotom|100/100
+|move|p1a: chef boul-dar-D|Close Combat|p2a: Rotom
+|-immune|p2a: Rotom
+|
+|upkeep
+|turn|26
+|inactive|myree has 120 seconds left.
+|inactive|myree has 90 seconds left.
+|
+|t:|1781283769
+|-end|p1a: chef boul-dar-D|Quark Drive|[silent]
+|switch|p1a: mrz. puff|Pecharunt, tera:Bug|100/100
+|-damage|p1a: mrz. puff|76/100|[from] Stealth Rock
+|move|p2a: Rotom|Thunder Wave|p1a: mrz. puff
+|-status|p1a: mrz. puff|par
+|
+|upkeep
+|turn|27
+|inactive|myree has 90 seconds left.
+|
+|t:|1781283777
+|move|p2a: Rotom|Shadow Ball|p1a: mrz. puff
+|-damage|p1a: mrz. puff|47/100 par
+|cant|p1a: mrz. puff|par
+|
+|upkeep
+|turn|28
+|
+|t:|1781283781
+|move|p2a: Rotom|Shadow Ball|p1a: mrz. puff
+|-damage|p1a: mrz. puff|17/100 par
+|move|p1a: mrz. puff|Recover|p1a: mrz. puff
+|-heal|p1a: mrz. puff|67/100 par
+|
+|upkeep
+|turn|29
+|
+|t:|1781283785
+|move|p2a: Rotom|Shadow Ball|p1a: mrz. puff
+|-damage|p1a: mrz. puff|36/100 par
+|-unboost|p1a: mrz. puff|spd|1
+|move|p1a: mrz. puff|Recover|p1a: mrz. puff
+|-heal|p1a: mrz. puff|86/100 par
+|
+|upkeep
+|turn|30
+|
+|t:|1781283803
+|move|p2a: Rotom|Shadow Ball|p1a: mrz. puff
+|-damage|p1a: mrz. puff|39/100 par
+|move|p1a: mrz. puff|Destiny Bond|p1a: mrz. puff
+|-singlemove|p1a: mrz. puff|Destiny Bond
+|
+|upkeep
+|turn|31
+|
+|t:|1781283817
+|switch|p2a: Illumise|Illumise, F|45/100
+|move|p1a: mrz. puff|Malignant Chain|p2a: Illumise
+|-damage|p2a: Illumise|1/100
+|-status|p2a: Illumise|tox
+|-start|p2a: Illumise|confusion|[from] ability: Poison Puppeteer|[of] p1a: mrz. puff
+|
+|-damage|p2a: Illumise|0 fnt|[from] psn
+|faint|p2a: Illumise
+|upkeep
+|
+|t:|1781283820
+|switch|p2a: Keldeo|Keldeo-Resolute, tera:Steel|100/100
+|turn|32
+|
+|t:|1781283830
+|move|p2a: Keldeo|Surf|p1a: mrz. puff
+|-damage|p1a: mrz. puff|0 fnt
+|faint|p1a: mrz. puff
+|
+|upkeep
+|inactive|myree has 120 seconds left.
+|
+|t:|1781283867
+|switch|p1a: s. kaiki|Iron Crown|85/100
+|-damage|p1a: s. kaiki|79/100|[from] Stealth Rock
+|turn|33
+|inactive|somsleep has 120 seconds left.
+|
+|t:|1781283899
+|switch|p2a: Rotom|Rotom|100/100
+|move|p1a: s. kaiki|Volt Switch|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|83/100
+|
+|t:|1781283907
+|-end|p1a: s. kaiki|Quark Drive|[silent]
+|switch|p1a: chef boul-dar-D|Iron Boulder|100/100|[from] Volt Switch
+|
+|-heal|p2a: Rotom|89/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1781283926
+|-end|p1a: chef boul-dar-D|Quark Drive|[silent]
+|switch|p1a: s. kaiki|Iron Crown|79/100
+|-damage|p1a: s. kaiki|73/100|[from] Stealth Rock
+|move|p2a: Rotom|Thunder Wave|p1a: s. kaiki
+|-status|p1a: s. kaiki|par
+|
+|-heal|p2a: Rotom|95/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|inactive|somsleep has 120 seconds left.
+|
+|t:|1781283952
+|move|p2a: Rotom|Shadow Ball|p1a: s. kaiki
+|-supereffective|p1a: s. kaiki
+|-damage|p1a: s. kaiki|44/100 par
+|move|p1a: s. kaiki|Metal Burst|p2a: Rotom
+|-damage|p2a: Rotom|42/100
+|
+|-heal|p2a: Rotom|48/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1781283964
+|switch|p2a: Keldeo|Keldeo-Resolute, tera:Steel|100/100
+|move|p1a: s. kaiki|Psychic|p2a: Keldeo
+|-resisted|p2a: Keldeo
+|-damage|p2a: Keldeo|72/100
+|
+|-heal|p2a: Keldeo|78/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1781283969
+|move|p2a: Keldeo|Substitute|p2a: Keldeo
+|-start|p2a: Keldeo|Substitute
+|-damage|p2a: Keldeo|53/100
+|move|p1a: s. kaiki|Volt Switch|p2a: Keldeo
+|-end|p2a: Keldeo|Substitute
+|
+|t:|1781283972
+|-end|p1a: s. kaiki|Quark Drive|[silent]
+|switch|p1a: chef boul-dar-D|Iron Boulder|100/100|[from] Volt Switch
+|
+|-heal|p2a: Keldeo|60/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1781283978
+|move|p1a: chef boul-dar-D|Close Combat|p2a: Keldeo
+|-supereffective|p2a: Keldeo
+|-damage|p2a: Keldeo|0 fnt
+|-unboost|p1a: chef boul-dar-D|def|1
+|-unboost|p1a: chef boul-dar-D|spd|1
+|faint|p2a: Keldeo
+|
+|upkeep
+|
+|t:|1781283980
+|switch|p2a: Rotom|Rotom|48/100
+|turn|39
+|
+|t:|1781283983
+|move|p1a: chef boul-dar-D|Mighty Cleave|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|win|myree
+|raw|myree's rating: 1583 &rarr; <strong>1603</strong><br />(+20 for winning)
+|raw|somsleep's rating: 1579 &rarr; <strong>1559</strong><br />(-20 for losing)
+|l|☆somsleep
+|player|p2|

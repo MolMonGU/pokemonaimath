@@ -1,0 +1,324 @@
+|j|☆Jsparxs
+|j|‽rrbrru
+|t:|1781223918
+|gametype|singles
+|player|p1|Jsparxs|2|1680
+|player|p2|rrbrru|266|1509
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Great Tusk|
+|poke|p1|Zamazenta-*|
+|poke|p1|Iron Valiant|
+|poke|p1|Gallade, M|
+|poke|p1|Kommo-o, F|
+|poke|p1|Okidogi, M|
+|poke|p2|Tyranitar, F|
+|poke|p2|Excadrill, M|
+|poke|p2|Hydrapple, M|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Houndstone, M|
+|teampreview
+|c|☆Jsparxs|glhf
+|
+|t:|1781223928
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gallade|Gallade, M|100/100
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|1
+|
+|t:|1781223933
+|switch|p2a: Houndstone|Houndstone, M|100/100
+|move|p1a: Gallade|Sacred Sword|p2a: Houndstone
+|-immune|p2a: Houndstone
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Gallade|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1781223941
+|move|p2a: Houndstone|Poltergeist|p1a: Gallade|[miss]
+|-miss|p2a: Houndstone|p1a: Gallade
+|move|p1a: Gallade|Night Slash|p2a: Houndstone
+|-supereffective|p2a: Houndstone
+|-damage|p2a: Houndstone|10/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Gallade|88/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1781223960
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Houndstone|Poltergeist||[still]
+|-fail|p2a: Houndstone
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Valiant|94/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1781223983
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|68/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Valiant|88/100|[from] Sandstorm
+|-heal|p2a: Excadrill|74/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781224014
+|-terastallize|p2a: Excadrill|Ground
+|move|p2a: Excadrill|Earthquake|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|none
+|-heal|p2a: Excadrill|80/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781224029
+|switch|p1a: Kommo-o|Kommo-o, F|100/100
+|turn|6
+|
+|t:|1781224038
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|68/100
+|-enditem|p1a: Kommo-o|Throat Spray
+|-boost|p1a: Kommo-o|spa|1|[from] item: Throat Spray
+|move|p2a: Excadrill|Earthquake|p1a: Kommo-o
+|-damage|p1a: Kommo-o|19/100
+|
+|-heal|p2a: Excadrill|86/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781224047
+|switch|p2a: Houndstone|Houndstone, M|10/100
+|move|p1a: Kommo-o|Clanging Scales|p2a: Houndstone
+|-damage|p2a: Houndstone|0 fnt
+|faint|p2a: Houndstone
+|-unboost|p1a: Kommo-o|def|1
+|
+|upkeep
+|
+|t:|1781224050
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|8
+|
+|t:|1781224059
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Kommo-o|Clanging Scales|p2a: Alomomola
+|-damage|p2a: Alomomola|17/100
+|-unboost|p1a: Kommo-o|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Kommo-o|13/100|[from] Sandstorm
+|-damage|p2a: Alomomola|11/100|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1781224069
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|move|p1a: Kommo-o|Flamethrower|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|89/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Kommo-o|7/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|95/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781224075
+|move|p1a: Kommo-o|Clanging Scales|p2a: Tyranitar
+|-damage|p2a: Tyranitar|52/100
+|-unboost|p1a: Kommo-o|def|1
+|move|p2a: Tyranitar|Ice Beam|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|58/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781224113
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|11
+|
+|t:|1781224121
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zamazenta|94/100|[from] Sandstorm
+|-damage|p2a: Tornadus|94/100|[from] Sandstorm
+|-heal|p1a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781224146
+|-terastallize|p1a: Zamazenta|Steel
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|83/100
+|
+|-weather|none
+|-heal|p1a: Zamazenta|89/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781224157
+|move|p1a: Zamazenta|Body Press|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|23/100
+|move|p2a: Tornadus|Heat Wave|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|40/100
+|
+|-heal|p1a: Zamazenta|47/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781224168
+|switch|p2a: Alomomola|Alomomola, M|44/100
+|move|p1a: Zamazenta|Body Press|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|
+|-heal|p1a: Zamazenta|53/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781224170
+|switch|p2a: Hydrapple|Hydrapple, M|100/100
+|turn|15
+|
+|t:|1781224173
+|move|p1a: Zamazenta|Body Press|p2a: Hydrapple
+|-damage|p2a: Hydrapple|6/100
+|move|p2a: Hydrapple|Earth Power|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|upkeep
+|
+|t:|1781224178
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|16
+|
+|t:|1781224184
+|move|p1a: Great Tusk|Rapid Spin|p2a: Hydrapple
+|-damage|p2a: Hydrapple|0 fnt
+|-boost|p1a: Great Tusk|spe|1
+|faint|p2a: Hydrapple
+|
+|upkeep
+|
+|t:|1781224189
+|switch|p2a: Tyranitar|Tyranitar, F|58/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|17
+|
+|t:|1781224196
+|move|p1a: Great Tusk|Close Combat|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781224199
+|switch|p2a: Excadrill|Excadrill, M, tera:Ground|86/100
+|turn|18
+|
+|t:|1781224204
+|move|p2a: Excadrill|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|15/100
+|move|p1a: Great Tusk|Close Combat|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781224207
+|switch|p2a: Tornadus|Tornadus-Therian, M|56/100
+|turn|19
+|
+|t:|1781224210
+|move|p1a: Great Tusk|Close Combat|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|13/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|7/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781224213
+|switch|p1a: Gallade|Gallade, M|88/100
+|turn|20
+|
+|t:|1781224217
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Gallade|[miss]
+|-miss|p2a: Tornadus|p1a: Gallade
+|move|p1a: Gallade|Psycho Cut|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|win|Jsparxs
+|raw|Jsparxs's rating: 1680 &rarr; <strong>1692</strong><br />(+12 for winning)
+|raw|rrbrru's rating: 1531 &rarr; <strong>1519</strong><br />(-12 for losing)
+|c|☆Jsparxs|gg
+|l|‽rrbrru
+|player|p2|
+|l|☆Jsparxs
+|player|p1|

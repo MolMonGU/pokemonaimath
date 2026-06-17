@@ -1,0 +1,331 @@
+|j|☆CDPGuillaume
+|j|☆Dariokemontraining
+|t:|1780903125
+|gametype|singles
+|player|p1|CDPGuillaume|266|1677
+|player|p2|Dariokemontraining|169|1616
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Hands|
+|poke|p1|Primarina, F|
+|poke|p1|Kingambit, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Cinderace, M|
+|poke|p2|Darkrai|
+|poke|p2|Iron Treads|
+|poke|p2|Latias, F|
+|poke|p2|Kyurem|
+|poke|p2|Dragapult, F|
+|poke|p2|Kingambit, M|
+|teampreview
+|
+|t:|1780903165
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Primarina|Primarina, F|100/100
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by CDPGuillaume)
+|
+|t:|1780903174
+|move|p2a: Dragapult|Light Screen|p2a: Dragapult
+|-sidestart|p2: Dariokemontraining|move: Light Screen
+|move|p1a: Primarina|Surf|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|74/100
+|
+|upkeep
+|turn|2
+|
+|t:|1780903179
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Primarina
+|-status|p1a: Primarina|brn
+|move|p1a: Primarina|Surf|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|48/100
+|
+|-damage|p1a: Primarina|95/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1780903188
+|move|p2a: Dragapult|Hex|p1a: Primarina
+|-damage|p1a: Primarina|51/100 brn
+|move|p1a: Primarina|Surf|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|24/100
+|
+|-damage|p1a: Primarina|46/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1780903198
+|move|p2a: Dragapult|Reflect|p2a: Dragapult
+|-sidestart|p2: Dariokemontraining|Reflect
+|move|p1a: Primarina|Surf|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-damage|p1a: Primarina|40/100 brn|[from] brn
+|upkeep
+|
+|t:|1780903207
+|switch|p2a: Freeza|Kyurem|100/100
+|-ability|p2a: Freeza|Pressure
+|turn|5
+|
+|t:|1780903211
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Freeza|Dragon Dance|p2a: Freeza
+|-boost|p2a: Freeza|atk|1
+|-boost|p2a: Freeza|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1780903220
+|-terastallize|p2a: Freeza|Steel
+|move|p1a: Iron Valiant|Encore|p2a: Freeza
+|-start|p2a: Freeza|Encore
+|move|p2a: Freeza|Dragon Dance|p2a: Freeza
+|-boost|p2a: Freeza|atk|1
+|-boost|p2a: Freeza|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1780903228
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|move|p2a: Freeza|Dragon Dance|p2a: Freeza
+|-boost|p2a: Freeza|atk|1
+|-boost|p2a: Freeza|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1780903236
+|move|p2a: Freeza|Dragon Dance|p2a: Freeza
+|-boost|p2a: Freeza|atk|1
+|-boost|p2a: Freeza|spe|1
+|move|p1a: Cinderace|High Jump Kick|p2a: Freeza|[miss]
+|-start|p1a: Cinderace|typechange|Fighting|[from] ability: Libero
+|-miss|p1a: Cinderace|p2a: Freeza
+|-damage|p1a: Cinderace|50/100|[from] highjumpkick
+|
+|-end|p2a: Freeza|Encore
+|-sideend|p2: Dariokemontraining|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1780903249
+|move|p2a: Freeza|Icicle Spear|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|-hitcount|p1: Cinderace|1
+|
+|upkeep
+|
+|t:|1780903258
+|switch|p1a: Primarina|Primarina, F|40/100 brn
+|turn|10
+|
+|t:|1780903262
+|move|p2a: Freeza|Iron Head|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|faint|p1a: Primarina
+|
+|upkeep
+|
+|t:|1780903274
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|turn|11
+|
+|t:|1780903277
+|move|p2a: Freeza|Iron Head|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-sideend|p2: Dariokemontraining|Reflect
+|upkeep
+|
+|t:|1780903280
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|12
+|
+|t:|1780903288
+|move|p2a: Freeza|Icicle Spear|p1a: Kyurem
+|-damage|p1a: Kyurem|58/100
+|-damage|p1a: Kyurem|20/100
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|-hitcount|p1: Kyurem|3
+|
+|upkeep
+|
+|t:|1780903292
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|13
+|
+|t:|1780903298
+|move|p2a: Freeza|Icicle Spear|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|85/100
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|70/100
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|55/100
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|40/100
+|-hitcount|p1a: Kingambit|4
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Freeza
+|-damage|p2a: Freeza|36/100
+|
+|-heal|p1a: Kingambit|46/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1780903311
+|move|p1a: Kingambit|Sucker Punch|p2a: Freeza
+|-damage|p2a: Freeza|0 fnt
+|faint|p2a: Freeza
+|
+|-heal|p1a: Kingambit|52/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780903319
+|switch|p2a: Iron Treads|Iron Treads, shiny|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|15
+|
+|t:|1780903326
+|-terastallize|p1a: Kingambit|Bug
+|move|p2a: Iron Treads|Earthquake|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|35/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|41/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1780903336
+|move|p1a: Kingambit|Sucker Punch|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p1a: Kingambit|47/100|[from] item: Leftovers
+|upkeep
+|inactive|Dariokemontraining has 120 seconds left.
+|
+|t:|1780903375
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|17
+|inactive|CDPGuillaume has 120 seconds left.
+|inactive|CDPGuillaume has 90 seconds left.
+|
+|t:|1780903452
+|-end|p1a: Kingambit|fallen4|[silent]
+|switch|p1a: Iron Hands|Iron Hands|100/100
+|move|p2a: Darkrai|Ice Beam|p1a: Iron Hands
+|-damage|p1a: Iron Hands|84/100
+|
+|upkeep
+|turn|18
+|
+|t:|1780903462
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Kingambit|Kingambit, F, tera:Bug|47/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|move|p2a: Darkrai|Psychic|p1a: Kingambit
+|-damage|p1a: Kingambit|11/100
+|
+|-heal|p1a: Kingambit|17/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1780903471
+|move|p1a: Kingambit|Sucker Punch|p2a: Darkrai
+|-resisted|p2a: Darkrai
+|-damage|p2a: Darkrai|63/100
+|move|p2a: Darkrai|Dark Pulse|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|
+|upkeep
+|
+|t:|1780903473
+|switch|p1a: Iron Hands|Iron Hands|84/100
+|turn|20
+|
+|t:|1780903487
+|move|p2a: Darkrai|Psychic|p1a: Iron Hands
+|-supereffective|p1a: Iron Hands
+|-damage|p1a: Iron Hands|49/100
+|move|p1a: Iron Hands|Drain Punch|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|-heal|p1a: Iron Hands|68/100|[from] drain|[of] p2a: Darkrai
+|faint|p2a: Darkrai
+|
+|upkeep
+|
+|t:|1780903497
+|switch|p2a: Clutch|Latias, F, shiny|100/100
+|turn|21
+|
+|t:|1780903501
+|move|p2a: Clutch|Agility|p2a: Clutch
+|-boost|p2a: Clutch|spe|2
+|move|p1a: Iron Hands|Ice Punch|p2a: Clutch
+|-supereffective|p2a: Clutch
+|-damage|p2a: Clutch|57/100
+|-enditem|p2a: Clutch|Weakness Policy
+|-boost|p2a: Clutch|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Clutch|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|22
+|
+|t:|1780903510
+|move|p2a: Clutch|Stored Power|p1a: Iron Hands
+|-supereffective|p1a: Iron Hands
+|-damage|p1a: Iron Hands|0 fnt
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|
+|win|Dariokemontraining
+|raw|CDPGuillaume's rating: 1677 &rarr; <strong>1654</strong><br />(-23 for losing)
+|raw|Dariokemontraining's rating: 1616 &rarr; <strong>1639</strong><br />(+23 for winning)
+|l|☆CDPGuillaume
+|player|p1|
+|c|☆Dariokemontraining|Gg
+|l|☆Dariokemontraining
+|player|p2|

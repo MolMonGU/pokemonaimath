@@ -1,0 +1,333 @@
+|j|☆zong200
+|j|☆cachowcapow
+|t:|1781371700
+|gametype|singles
+|player|p1|zong200|#agwliiikyogres|1574
+|player|p2|cachowcapow|170|1699
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Walking Wake|
+|poke|p1|Gholdengo|
+|poke|p1|Ting-Lu|
+|poke|p1|Great Tusk|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Dragonite, F|
+|poke|p2|Alomomola, M|
+|poke|p2|Gardevoir, F|
+|poke|p2|Scizor, F|
+|poke|p2|Slither Wing|
+|poke|p2|Mew|
+|poke|p2|Meowscarada, F|
+|teampreview
+|
+|t:|1781371735
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|-enditem|p1a: Walking Wake|Booster Energy
+|-activate|p1a: Walking Wake|ability: Protosynthesis|[fromitem]
+|-start|p1a: Walking Wake|protosynthesisspa
+|turn|1
+|
+|t:|1781371746
+|switch|p2a: Scizor|Scizor, F|100/100
+|move|p1a: Walking Wake|Substitute|p1a: Walking Wake
+|-start|p1a: Walking Wake|Substitute
+|-damage|p1a: Walking Wake|75/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781371764
+|move|p1a: Walking Wake|Hydro Pump|p2a: Scizor
+|-crit|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1781371772
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|turn|3
+|
+|t:|1781371781
+|move|p1a: Walking Wake|Hydro Pump|p2a: Slither Wing
+|-damage|p2a: Slither Wing|27/100
+|move|p2a: Slither Wing|U-turn|p1a: Walking Wake
+|-end|p1a: Walking Wake|Substitute
+|
+|t:|1781371790
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Meowscarada|Meowscarada, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1781371794
+|move|p2a: Meowscarada|Grass Knot|p1a: Walking Wake
+|-start|p2a: Meowscarada|typechange|Grass|[from] ability: Protean
+|-damage|p1a: Walking Wake|7/100
+|move|p1a: Walking Wake|Agility|p1a: Walking Wake
+|-boost|p1a: Walking Wake|spe|2
+|
+|upkeep
+|turn|5
+|
+|t:|1781371805
+|switch|p2a: Gardevoir|Gardevoir, F, shiny|100/100
+|move|p1a: Walking Wake|Dragon Pulse|p2a: Gardevoir
+|-immune|p2a: Gardevoir
+|
+|upkeep
+|turn|6
+|
+|t:|1781371809
+|move|p2a: Gardevoir|Vacuum Wave|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781371813
+|switch|p1a: Gholdengo|Gholdengo, shiny|100/100
+|-ability|p2a: Gardevoir|Good as Gold|Trace|[from] ability: Trace|[of] p1a: Gholdengo
+|turn|7
+|
+|t:|1781371819
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|
+|upkeep
+|turn|8
+|
+|t:|1781371828
+|move|p1a: Gholdengo|Shadow Ball|p2a: Alomomola
+|-damage|p2a: Alomomola|6/100
+|move|p2a: Alomomola|Flip Turn|p1a: Gholdengo
+|-damage|p1a: Gholdengo|67/100
+|
+|t:|1781371830
+|switch|p2a: Meowscarada|Meowscarada, F|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|9
+|
+|t:|1781371845
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisspe
+|move|p2a: Meowscarada|Dark Pulse|p1a: Great Tusk
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|69/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781371856
+|switch|p2a: Mew|Mew, shiny|100/100
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|
+|upkeep
+|turn|11
+|
+|t:|1781371861
+|move|p1a: Great Tusk|Headlong Rush|p2a: Mew
+|-damage|p2a: Mew|49/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Mew|Agility|p2a: Mew
+|-boost|p2a: Mew|spe|2
+|
+|upkeep
+|turn|12
+|
+|t:|1781371868
+|move|p2a: Mew|Draining Kiss|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|21/100
+|-heal|p2a: Mew|88/100|[from] drain|[of] p1a: Great Tusk
+|move|p1a: Great Tusk|Headlong Rush|p2a: Mew
+|-damage|p2a: Mew|41/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781371871
+|move|p2a: Mew|Draining Kiss|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-heal|p2a: Mew|58/100|[from] drain|[of] p1a: Great Tusk
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781371874
+|switch|p1a: Ting-Lu|Ting-Lu, shiny|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|14
+|
+|t:|1781371877
+|move|p2a: Mew|Calm Mind|p2a: Mew
+|-boost|p2a: Mew|spa|1
+|-boost|p2a: Mew|spd|1
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Mew
+|-sidestart|p2: cachowcapow|move: Stealth Rock
+|
+|upkeep
+|turn|15
+|
+|t:|1781371880
+|move|p2a: Mew|Draining Kiss|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|80/100
+|-heal|p2a: Mew|77/100|[from] drain|[of] p1a: Ting-Lu
+|-enditem|p1a: Ting-Lu|Weakness Policy
+|-boost|p1a: Ting-Lu|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Ting-Lu|spa|2|[from] item: Weakness Policy
+|move|p1a: Ting-Lu|Payback|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|
+|upkeep
+|
+|t:|1781371886
+|switch|p2a: Gardevoir|Gardevoir, F, shiny|100/100
+|-damage|p2a: Gardevoir|88/100|[from] Stealth Rock
+|-ability|p2a: Gardevoir|Vessel of Ruin|Trace|[from] ability: Trace|[of] p1a: Ting-Lu
+|-ability|p2a: Gardevoir|Vessel of Ruin
+|turn|16
+|
+|t:|1781371896
+|-terastallize|p2a: Gardevoir|Fairy
+|move|p2a: Gardevoir|Moonblast|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-crit|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781371903
+|switch|p1a: Gholdengo|Gholdengo, shiny|67/100
+|turn|17
+|
+|t:|1781371909
+|move|p2a: Gardevoir|Moonblast|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|14/100
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|
+|upkeep
+|turn|18
+|
+|t:|1781371912
+|move|p2a: Gardevoir|Moonblast|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781371917
+|switch|p1a: Dragonite|Dragonite, F, shiny|100/100
+|turn|19
+|
+|t:|1781371921
+|-terastallize|p1a: Dragonite|Poison
+|move|p2a: Gardevoir|Moonblast|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|70/100
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|20
+|
+|t:|1781371928
+|move|p1a: Dragonite|Earthquake|p2a: Gardevoir
+|-damage|p2a: Gardevoir|4/100
+|move|p2a: Gardevoir|Moonblast|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|12/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781371932
+|move|p1a: Dragonite|Earthquake|p2a: Gardevoir
+|-damage|p2a: Gardevoir|0 fnt
+|faint|p2a: Gardevoir
+|
+|upkeep
+|
+|t:|1781371942
+|switch|p2a: Alomomola|Alomomola, M|39/100
+|-damage|p2a: Alomomola|27/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781371946
+|move|p2a: Alomomola|Aqua Jet|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1781371949
+|switch|p1a: Deoxys|Deoxys-Speed, shiny|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|23
+|
+|t:|1781371954
+|move|p2a: Alomomola|Aqua Jet|p1a: Deoxys
+|-damage|p1a: Deoxys|65/100
+|move|p1a: Deoxys|Superpower|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|-unboost|p1a: Deoxys|atk|1
+|-unboost|p1a: Deoxys|def|1
+|faint|p2a: Alomomola
+|-damage|p1a: Deoxys|55/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781371956
+|switch|p2a: Slither Wing|Slither Wing|27/100
+|-damage|p2a: Slither Wing|14/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781371958
+|move|p2a: Slither Wing|First Impression|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|win|cachowcapow
+|raw|zong200's rating: 1574 &rarr; <strong>1562</strong><br />(-12 for losing)
+|raw|cachowcapow's rating: 1719 &rarr; <strong>1731</strong><br />(+12 for winning)
+|l|☆cachowcapow
+|player|p2|
+|l|☆zong200
+|player|p1|

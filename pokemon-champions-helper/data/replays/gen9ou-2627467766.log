@@ -1,0 +1,228 @@
+|j|☆Thederpa1
+|j|☆diav
+|t:|1780907472
+|gametype|singles
+|player|p1|Thederpa1|swimmer-gen4dp|1556
+|player|p2|diav|flannery|1630
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Goodra-Hisui, M|
+|poke|p1|Alomomola, F|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Gholdengo|
+|poke|p1|Cinderace, M|
+|poke|p1|Glimmora, M|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Kommo-o, M|
+|poke|p2|Iron Crown|
+|poke|p2|Great Tusk|
+|poke|p2|Latias, F|
+|poke|p2|Scizor, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by diav)
+|
+|t:|1780907481
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|switch|p2a: Soul|Kommo-o, M|100/100
+|turn|1
+|
+|t:|1780907484
+|move|p1a: Samurott|Flip Turn|p2a: Soul
+|-resisted|p2a: Soul
+|-damage|p2a: Soul|79/100
+|
+|t:|1780907488
+|switch|p1a: Alomomola|Alomomola, F|100/100|[from] Flip Turn
+|move|p2a: Soul|Clangorous Soul|p2a: Soul
+|-boost|p2a: Soul|atk|1
+|-boost|p2a: Soul|def|1
+|-boost|p2a: Soul|spa|1
+|-boost|p2a: Soul|spd|1
+|-boost|p2a: Soul|spe|1
+|-damage|p2a: Soul|46/100
+|-enditem|p2a: Soul|Throat Spray
+|-boost|p2a: Soul|spa|1|[from] item: Throat Spray
+|
+|upkeep
+|turn|2
+|
+|t:|1780907493
+|move|p2a: Soul|Boomburst|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|faint|p1a: Alomomola
+|
+|upkeep
+|
+|t:|1780907498
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|3
+|
+|t:|1780907502
+|-terastallize|p1a: Gholdengo|Fairy
+|move|p2a: Soul|Flamethrower|p1a: Gholdengo
+|-damage|p1a: Gholdengo|42/100
+|-status|p1a: Gholdengo|brn
+|move|p1a: Gholdengo|Make It Rain|p2a: Soul
+|-damage|p2a: Soul|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Soul
+|
+|-damage|p1a: Gholdengo|36/100 brn|[from] brn
+|upkeep
+|
+|t:|1780907519
+|switch|p2a: Courage|Deoxys-Speed|100/100
+|-ability|p2a: Courage|Pressure
+|turn|4
+|
+|t:|1780907525
+|move|p2a: Courage|Stealth Rock|p1a: Gholdengo
+|-sidestart|p1: Thederpa1|move: Stealth Rock
+|move|p1a: Gholdengo|Make It Rain|p2a: Courage
+|-damage|p2a: Courage|48/100
+|-unboost|p1a: Gholdengo|spa|1
+|
+|-damage|p1a: Gholdengo|30/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1780907539
+|switch|p2a: Strenght|Great Tusk|100/100
+|-enditem|p2a: Strenght|Booster Energy
+|-activate|p2a: Strenght|ability: Protosynthesis|[fromitem]
+|-start|p2a: Strenght|protosynthesisspe
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|-damage|p1a: Samurott|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1780907544
+|move|p2a: Strenght|Bulk Up|p2a: Strenght
+|-boost|p2a: Strenght|atk|1
+|-boost|p2a: Strenght|def|1
+|move|p1a: Samurott|Razor Shell|p2a: Strenght
+|-supereffective|p2a: Strenght
+|-damage|p2a: Strenght|33/100
+|
+|upkeep
+|turn|7
+|
+|t:|1780907551
+|move|p2a: Strenght|Headlong Rush|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|-unboost|p2a: Strenght|def|1
+|-unboost|p2a: Strenght|spd|1
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1780907558
+|switch|p1a: Gholdengo|Gholdengo, tera:Fairy|30/100 brn
+|-damage|p1a: Gholdengo|17/100 brn|[from] Stealth Rock
+|turn|8
+|
+|t:|1780907565
+|move|p2a: Strenght|Headlong Rush|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-unboost|p2a: Strenght|def|1
+|-unboost|p2a: Strenght|spd|1
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1780907577
+|switch|p1a: Goodra|Goodra-Hisui, M|100/100
+|-damage|p1a: Goodra|94/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1780907580
+|move|p2a: Strenght|Headlong Rush|p1a: Goodra
+|-supereffective|p1a: Goodra
+|-damage|p1a: Goodra|0 fnt
+|-unboost|p2a: Strenght|def|1
+|-unboost|p2a: Strenght|spd|1
+|-ability|p1a: Goodra|Gooey
+|-unboost|p2a: Strenght|spe|1
+|faint|p1a: Goodra
+|
+|upkeep
+|
+|t:|1780907584
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|turn|10
+|
+|t:|1780907589
+|-end|p2a: Strenght|Protosynthesis|[silent]
+|switch|p2a: Courage|Deoxys-Speed|48/100
+|-ability|p2a: Courage|Pressure
+|move|p1a: Cinderace|Pyro Ball|p2a: Courage|[miss]
+|-miss|p1a: Cinderace|p2a: Courage
+|
+|upkeep
+|turn|11
+|
+|t:|1780907600
+|move|p2a: Courage|Taunt|p1a: Cinderace
+|-start|p1a: Cinderace|move: Taunt
+|cant|p1a: Cinderace|move: Taunt|Court Change
+|
+|upkeep
+|turn|12
+|
+|t:|1780907605
+|move|p2a: Courage|Spikes|p1a: Cinderace
+|-sidestart|p1: Thederpa1|Spikes
+|move|p1a: Cinderace|Pyro Ball|p2a: Courage
+|-damage|p2a: Courage|0 fnt
+|faint|p2a: Courage
+|
+|upkeep
+|
+|t:|1780907611
+|switch|p2a: Justice|Iron Crown|100/100
+|-enditem|p2a: Justice|Booster Energy
+|-activate|p2a: Justice|ability: Quark Drive|[fromitem]
+|-start|p2a: Justice|quarkdrivespe
+|turn|13
+|
+|t:|1780907617
+|-terastallize|p2a: Justice|Fighting
+|move|p2a: Justice|Psyshock|p1a: Cinderace
+|-crit|p1a: Cinderace
+|-damage|p1a: Cinderace|31/100
+|move|p1a: Cinderace|Pyro Ball|p2a: Justice
+|-damage|p2a: Justice|50/100
+|
+|-end|p1a: Cinderace|move: Taunt
+|upkeep
+|turn|14
+|
+|t:|1780907629
+|move|p2a: Justice|Psyshock|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|upkeep
+|-message|Thederpa1 forfeited.
+|
+|win|diav
+|raw|Thederpa1's rating: 1556 &rarr; <strong>1540</strong><br />(-16 for losing)
+|raw|diav's rating: 1630 &rarr; <strong>1646</strong><br />(+16 for winning)
+|l|☆Thederpa1
+|player|p1|
+|l|☆diav
+|player|p2|

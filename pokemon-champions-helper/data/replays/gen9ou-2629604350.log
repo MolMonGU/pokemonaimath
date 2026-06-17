@@ -1,0 +1,516 @@
+|j|☆dooming
+|j|☆FP.//06
+|t:|1781151932
+|gametype|singles
+|player|p1|dooming|marshal|1546
+|player|p2|FP.//06|lucas|1498
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Heatran, F|
+|poke|p1|Dragonite, F|
+|poke|p1|Great Tusk|
+|poke|p1|Kyurem|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Iron Valiant|
+|poke|p2|Regieleki|
+|poke|p2|Grafaiai, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Alomomola, M|
+|poke|p2|Gliscor, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FP.//06)
+|
+|t:|1781151939
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|1
+|
+|t:|1781151943
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Great Tusk|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: FP.//06|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781151946
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Heatran|Heatran, F, shiny|100/100
+|move|p2a: Corviknight|Defog|p1a: Heatran
+|-unboost|p1a: Heatran|evasion|1
+|-sideend|p2: FP.//06|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|3
+|
+|t:|1781151949
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|move|p1a: Heatran|Magma Storm|p2a: Gliscor|[miss]
+|-miss|p1a: Heatran|p2a: Gliscor
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|4
+|
+|t:|1781151961
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100
+|move|p2a: Gliscor|Knock Off|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|91/100
+|-enditem|p1a: Great Tusk|Covert Cloak|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|upkeep
+|turn|5
+|
+|t:|1781151973
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Great Tusk|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: FP.//06|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1781151975
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Heatran|Heatran, F, shiny|100/100
+|move|p2a: Corviknight|Defog|p1a: Heatran
+|-unboost|p1a: Heatran|evasion|1
+|-sideend|p2: FP.//06|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|7
+|
+|t:|1781151978
+|switch|p2a: Gliscor|Gliscor, M|100/100 tox
+|move|p1a: Heatran|Magma Storm|p2a: Gliscor
+|-damage|p2a: Gliscor|41/100 tox
+|-activate|p2a: Gliscor|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p2a: Gliscor|54/100 tox|[from] ability: Poison Heal
+|-damage|p2a: Gliscor|41/100 tox|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|8
+|
+|t:|1781152003
+|switch|p1a: Great Tusk|Great Tusk, shiny|91/100
+|move|p2a: Gliscor|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|65/100
+|
+|-heal|p2a: Gliscor|54/100 tox|[from] ability: Poison Heal
+|-end|p2a: Gliscor|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|9
+|
+|t:|1781152007
+|switch|p2a: Grafaiai|Grafaiai, F|100/100
+|move|p1a: Great Tusk|Stealth Rock|p2a: Grafaiai
+|-sidestart|p2: FP.//06|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|t:|1781152013
+|move|p2a: Grafaiai|Switcheroo|p1a: Great Tusk
+|-activate|p2a: Grafaiai|move: Trick|[of] p1a: Great Tusk
+|-item|p1a: Great Tusk|Ring Target|[from] move: Switcheroo
+|-enditem|p2a: Grafaiai|Ring Target|[silent]|[from] move: Switcheroo
+|move|p1a: Great Tusk|Rapid Spin|p2a: Grafaiai
+|-crit|p2a: Grafaiai
+|-damage|p2a: Grafaiai|59/100
+|-boost|p1a: Great Tusk|spe|1
+|
+|upkeep
+|turn|11
+|
+|t:|1781152025
+|move|p2a: Grafaiai|Encore|p1a: Great Tusk
+|-start|p1a: Great Tusk|Encore
+|move|p1a: Great Tusk|Rapid Spin|p2a: Grafaiai
+|-damage|p2a: Grafaiai|32/100
+|-boost|p1a: Great Tusk|spe|1
+|
+|upkeep
+|turn|12
+|
+|t:|1781152027
+|move|p2a: Grafaiai|Toxic|p1a: Great Tusk
+|-status|p1a: Great Tusk|tox
+|move|p1a: Great Tusk|Rapid Spin|p2a: Grafaiai
+|-damage|p2a: Grafaiai|5/100
+|-boost|p1a: Great Tusk|spe|1
+|
+|-damage|p1a: Great Tusk|59/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1781152029
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Great Tusk|Rapid Spin|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|82/100
+|-boost|p1a: Great Tusk|spe|1
+|-damage|p1a: Great Tusk|43/100 tox|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|-damage|p1a: Great Tusk|30/100 tox|[from] psn
+|-end|p1a: Great Tusk|Encore
+|upkeep
+|turn|14
+|
+|t:|1781152034
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Weezing|Weezing-Galar, F, shiny|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Corviknight|Defog|p1a: Weezing
+|-unboost|p1a: Weezing|evasion|1
+|-sideend|p2: FP.//06|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|15
+|
+|t:|1781152040
+|switch|p2a: Grafaiai|Grafaiai, F|5/100
+|move|p1a: Weezing|Flamethrower|p2a: Grafaiai
+|-damage|p2a: Grafaiai|0 fnt
+|faint|p2a: Grafaiai
+|
+|upkeep
+|
+|t:|1781152041
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|16
+|
+|t:|1781152044
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Heatran|Heatran, F, shiny|100/100
+|-terastallize|p2a: Regieleki|Electric
+|move|p2a: Regieleki|Thunderbolt|p1a: Heatran
+|-damage|p1a: Heatran|39/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781152053
+|-terastallize|p1a: Heatran|Grass
+|move|p2a: Regieleki|Thunderbolt|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|9/100
+|move|p1a: Heatran|Earth Power|p2a: Regieleki
+|-supereffective|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|
+|upkeep
+|
+|t:|1781152057
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|18
+|
+|t:|1781152062
+|switch|p1a: Weezing|Weezing-Galar, F, shiny|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Zamazenta|Close Combat|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|81/100
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|-damage|p2a: Zamazenta|84/100|[from] item: Rocky Helmet|[of] p1a: Weezing
+|
+|upkeep
+|turn|19
+|
+|t:|1781152071
+|switch|p2a: Corviknight|Corviknight, M|82/100
+|move|p1a: Weezing|Flamethrower|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|36/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781152075
+|switch|p2a: Zamazenta|Zamazenta|84/100
+|move|p1a: Weezing|Flamethrower|p2a: Zamazenta
+|-damage|p2a: Zamazenta|62/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781152077
+|move|p2a: Zamazenta|Heavy Slam|p1a: Weezing
+|-supereffective|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|-damage|p2a: Zamazenta|46/100|[from] item: Rocky Helmet|[of] p1a: Weezing
+|faint|p1a: Weezing
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|
+|upkeep
+|
+|t:|1781152091
+|switch|p1a: Kyurem|Kyurem, shiny|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|22
+|
+|t:|1781152096
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Kyurem|Draco Meteor|p2a: Alomomola
+|-damage|p2a: Alomomola|65/100
+|-unboost|p1a: Kyurem|spa|2
+|
+|upkeep
+|turn|23
+|
+|t:|1781152106
+|switch|p1a: Heatran|Heatran, F, shiny, tera:Grass|9/100
+|move|p2a: Alomomola|Flip Turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-crit|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|t:|1781152110
+|switch|p2a: Corviknight|Corviknight, M|36/100|[from] Flip Turn
+|-ability|p2a: Corviknight|Pressure
+|
+|upkeep
+|
+|t:|1781152118
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|24
+|
+|t:|1781152123
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|86/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|25
+|
+|t:|1781152126
+|move|p1a: Dragonite|Fire Punch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|24/100
+|-damage|p1a: Dragonite|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|move|p2a: Corviknight|U-turn|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|76/100
+|
+|t:|1781152129
+|switch|p2a: Zamazenta|Zamazenta|46/100|[from] U-turn
+|
+|upkeep
+|turn|26
+|
+|t:|1781152137
+|move|p1a: Dragonite|Extreme Speed|p2a: Zamazenta
+|-damage|p2a: Zamazenta|1/100
+|move|p2a: Zamazenta|Stone Edge|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1781152145
+|switch|p1a: Kyurem|Kyurem, shiny|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|27
+|
+|t:|1781152156
+|move|p1a: Kyurem|Freeze-Dry|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781152159
+|switch|p2a: Alomomola|Alomomola, M|98/100
+|turn|28
+|
+|t:|1781152162
+|move|p1a: Kyurem|Freeze-Dry|p2a: Alomomola
+|-supereffective|p2a: Alomomola
+|-damage|p2a: Alomomola|60/100
+|move|p2a: Alomomola|Scald|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|94/100
+|
+|upkeep
+|turn|29
+|
+|t:|1781152165
+|move|p1a: Kyurem|Freeze-Dry|p2a: Alomomola
+|-supereffective|p2a: Alomomola
+|-damage|p2a: Alomomola|19/100
+|move|p2a: Alomomola|Mirror Coat|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781152176
+|switch|p1a: Iron Valiant|Iron Valiant, shiny|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|30
+|
+|t:|1781152179
+|switch|p2a: Corviknight|Corviknight, M|24/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Iron Valiant|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|3/100
+|-damage|p1a: Iron Valiant|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-enditem|p2a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p1a: Iron Valiant
+|
+|upkeep
+|turn|31
+|
+|t:|1781152188
+|switch|p2a: Alomomola|Alomomola, M|52/100
+|move|p1a: Iron Valiant|Knock Off|p2a: Alomomola
+|-damage|p2a: Alomomola|25/100
+|-enditem|p2a: Alomomola|Assault Vest|[from] move: Knock Off|[of] p1a: Iron Valiant
+|
+|upkeep
+|turn|32
+|
+|t:|1781152192
+|switch|p2a: Corviknight|Corviknight, M|3/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Iron Valiant|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781152196
+|switch|p2a: Gliscor|Gliscor, M|54/100 tox
+|turn|33
+|
+|t:|1781152198
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Iron Valiant|Knock Off|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|66/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|34
+|
+|t:|1781152200
+|move|p1a: Iron Valiant|Knock Off|p2a: Gliscor
+|-damage|p2a: Gliscor|34/100 tox
+|-enditem|p2a: Gliscor|Toxic Orb|[from] move: Knock Off|[of] p1a: Iron Valiant
+|move|p2a: Gliscor|Earthquake|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|15/100
+|
+|-heal|p2a: Gliscor|47/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|35
+|
+|t:|1781152204
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Iron Valiant|Destiny Bond|p1a: Iron Valiant
+|-singlemove|p1a: Iron Valiant|Destiny Bond
+|
+|-heal|p2a: Gliscor|59/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|36
+|
+|t:|1781152210
+|move|p1a: Iron Valiant|Encore|p2a: Gliscor
+|-start|p2a: Gliscor|Encore
+|move|p2a: Gliscor|Protect||[still]
+|-fail|p2a: Gliscor
+|
+|-heal|p2a: Gliscor|72/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|37
+|
+|t:|1781152213
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Iron Valiant|Close Combat|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|84/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|38
+|
+|t:|1781152217
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Iron Valiant|Close Combat|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|97/100 tox|[from] ability: Poison Heal
+|-end|p2a: Gliscor|Encore
+|upkeep
+|turn|39
+|
+|t:|1781152222
+|switch|p2a: Alomomola|Alomomola, M|58/100
+|move|p1a: Iron Valiant|Encore||[still]
+|-fail|p1a: Iron Valiant
+|
+|upkeep
+|turn|40
+|
+|t:|1781152230
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Great Tusk|Great Tusk, shiny|30/100 tox
+|move|p2a: Alomomola|Scald|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781152233
+|switch|p1a: Iron Valiant|Iron Valiant, shiny|15/100
+|turn|41
+|
+|t:|1781152236
+|move|p1a: Iron Valiant|Close Combat|p2a: Alomomola
+|-damage|p2a: Alomomola|12/100
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|move|p2a: Alomomola|Body Slam|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|win|FP.//06
+|raw|dooming's rating: 1546 &rarr; <strong>1523</strong><br />(-23 for losing)
+|raw|FP.&#x2f;&#x2f;06's rating: 1498 &rarr; <strong>1521</strong><br />(+23 for winning)
+|l|☆FP.//06
+|player|p2|
+|l|☆dooming
+|player|p1|

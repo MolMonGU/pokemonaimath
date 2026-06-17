@@ -1,0 +1,261 @@
+|j|☆thegreatestnone
+|j|☆praveenkumart236
+|t:|1781025903
+|gametype|singles
+|player|p1|thegreatestnone|170|1601
+|player|p2|praveenkumart236|169|1565
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Politoed, M|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Pelipper, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Azumarill, M|
+|poke|p1|Regieleki|
+|poke|p2|Pincurchin, F|
+|poke|p2|Pawmot, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Raging Bolt|
+|poke|p2|Iron Treads|
+|poke|p2|Iron Moth|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by praveenkumart236)
+|
+|t:|1781025915
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100
+|switch|p2a: Pincurchin|Pincurchin, F|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|turn|1
+|inactive|praveenkumart236 has 120 seconds left.
+|
+|t:|1781025952
+|move|p1a: Crawdaunt|Knock Off|p2a: Pincurchin
+|-damage|p2a: Pincurchin|0 fnt
+|-enditem|p2a: Pincurchin|Terrain Extender|[from] move: Knock Off|[of] p1a: Crawdaunt
+|faint|p2a: Pincurchin
+|
+|upkeep
+|
+|t:|1781025972
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Electric Seed
+|-boost|p2a: Raging Bolt|def|1|[from] item: Electric Seed
+|turn|2
+|inactive|thegreatestnone has 120 seconds left.
+|
+|t:|1781026029
+|move|p2a: Raging Bolt|Rising Voltage|p1a: Crawdaunt
+|-hint|Rising Voltage's BP doubled on grounded target.
+|-supereffective|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|
+|upkeep
+|inactive|thegreatestnone has 90 seconds left.
+|
+|t:|1781026042
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdriveatk
+|turn|3
+|inactive|thegreatestnone has 90 seconds left.
+|inactive|praveenkumart236 has 120 seconds left.
+|
+|t:|1781026055
+|-terastallize|p2a: Raging Bolt|Ghost
+|move|p1a: Iron Valiant|Close Combat|p2a: Raging Bolt
+|-immune|p2a: Raging Bolt
+|move|p2a: Raging Bolt|Rising Voltage|p1a: Iron Valiant
+|-hint|Rising Voltage's BP doubled on grounded target.
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|inactive|thegreatestnone has 90 seconds left.
+|
+|t:|1781026062
+|switch|p1a: Regieleki|Regieleki|100/100
+|turn|4
+|
+|t:|1781026073
+|move|p1a: Regieleki|Thunderbolt|p2a: Raging Bolt
+|-crit|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|inactive|praveenkumart236 has 120 seconds left.
+|inactive|praveenkumart236 has 90 seconds left.
+|
+|t:|1781026138
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-activate|p2a: Iron Treads|ability: Quark Drive
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|5
+|
+|t:|1781026149
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Iron Treads|Knock Off|p1a: Pelipper
+|-damage|p1a: Pelipper|71/100
+|-enditem|p1a: Pelipper|Choice Specs|[from] move: Knock Off|[of] p2a: Iron Treads
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781026158
+|move|p2a: Iron Treads|Stealth Rock|p1a: Pelipper
+|-sidestart|p1: thegreatestnone|move: Stealth Rock
+|move|p1a: Pelipper|Hydro Pump|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781026169
+|switch|p2a: Pawmot|Pawmot, M|100/100
+|turn|7
+|
+|t:|1781026173
+|move|p2a: Pawmot|Revival Blessing|p2a: Pawmot
+|-enditem|p2a: Pawmot|Leppa Berry|[eat]
+|-activate|p2a: Pawmot|item: Leppa Berry|Revival Blessing|[consumed]
+|
+|t:|1781026177
+|-heal|p2: Pincurchin|50/100|[from] move: Revival Blessing
+|move|p1a: Pelipper|Hydro Pump|p2a: Pawmot
+|-damage|p2a: Pawmot|0 fnt
+|faint|p2a: Pawmot
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781026185
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-activate|p2a: Iron Valiant|ability: Quark Drive
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|8
+|inactive|praveenkumart236 has 90 seconds left.
+|
+|t:|1781026196
+|move|p2a: Iron Valiant|Thunder Punch|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|-damage|p2a: Iron Valiant|90/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Electric Terrain
+|-end|p2a: Iron Valiant|Quark Drive
+|upkeep
+|
+|t:|1781026201
+|switch|p1a: Azumarill|Azumarill, M|100/100
+|-damage|p1a: Azumarill|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1781026218
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Pincurchin|Pincurchin, F|50/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|move|p1a: Azumarill|Play Rough|p2a: Pincurchin
+|-damage|p2a: Pincurchin|0 fnt
+|faint|p2a: Pincurchin
+|
+|-weather|none
+|upkeep
+|
+|t:|1781026230
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-item|p2a: Iron Moth|Air Balloon
+|-activate|p2a: Iron Moth|ability: Quark Drive
+|-start|p2a: Iron Moth|quarkdrivespa
+|turn|10
+|
+|t:|1781026236
+|switch|p1a: Politoed|Politoed, M|100/100
+|-damage|p1a: Politoed|88/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p2a: Iron Moth|Sludge Wave|p1a: Politoed
+|-damage|p1a: Politoed|47/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781026245
+|move|p2a: Iron Moth|Sludge Wave|p1a: Politoed
+|-damage|p1a: Politoed|2/100
+|move|p1a: Politoed|Surf|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|17/100
+|-enditem|p2a: Iron Moth|Air Balloon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781026254
+|move|p2a: Iron Moth|Fiery Dance|p1a: Politoed
+|-resisted|p1a: Politoed
+|-damage|p1a: Politoed|0 fnt
+|faint|p1a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781026256
+|switch|p1a: Regieleki|Regieleki|100/100
+|-damage|p1a: Regieleki|88/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1781026261
+|-terastallize|p1a: Regieleki|Electric
+|move|p1a: Regieleki|Thunder|p2a: Iron Moth
+|-crit|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Electric Terrain
+|upkeep
+|inactive|praveenkumart236 has 120 seconds left.
+|inactive|praveenkumart236 has 90 seconds left.
+|
+|t:|1781026311
+|switch|p2a: Iron Valiant|Iron Valiant|90/100
+|turn|14
+|inactive|praveenkumart236 has 90 seconds left.
+|inactive|thegreatestnone has 120 seconds left.
+|
+|t:|1781026348
+|move|p1a: Regieleki|Thunder|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|win|thegreatestnone
+|raw|thegreatestnone's rating: 1601 &rarr; <strong>1619</strong><br />(+18 for winning)
+|raw|praveenkumart236's rating: 1565 &rarr; <strong>1547</strong><br />(-18 for losing)
+|l|☆praveenkumart236
+|player|p2|

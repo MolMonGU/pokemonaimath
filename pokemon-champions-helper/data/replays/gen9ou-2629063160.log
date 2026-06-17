@@ -1,0 +1,534 @@
+|j|☆kooopooolooo
+|j|☆ykykp
+|t:|1781094816
+|gametype|singles
+|player|p1|kooopooolooo|266|1638
+|player|p2|ykykp|101|1746
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Treads|
+|poke|p1|Alomomola, F|
+|poke|p1|Ursaluna, M|
+|poke|p1|Scizor, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Slowking-Galar, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Pecharunt|
+|poke|p2|Alomomola, M|
+|poke|p2|Cinderace, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Ogerpon-Cornerstone, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ykykp)
+|j| sympoy
+|
+|t:|1781094848
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Fraud|Scizor, F|100/100
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|turn|1
+|
+|t:|1781094855
+|move|p2a: Ogerpon|Knock Off|p1a: Fraud
+|-damage|p1a: Fraud|49/100
+|-enditem|p1a: Fraud|Choice Band|[from] move: Knock Off|[of] p2a: Ogerpon
+|move|p1a: Fraud|U-turn|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-ability|p2a: Ogerpon|Sturdy
+|-damage|p2a: Ogerpon|1/100
+|
+|t:|1781094858
+|switch|p1a: BOAT|Iron Valiant|100/100|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1781094870
+|move|p1a: BOAT|Thunderbolt|p2a: Ogerpon
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781094879
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|turn|3
+|
+|t:|1781094896
+|-end|p1a: BOAT|Quark Drive|[silent]
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Pecharunt|Parting Shot|p1a: Iron Treads
+|-unboost|p1a: Iron Treads|atk|1
+|-unboost|p1a: Iron Treads|spa|1
+|
+|t:|1781094903
+|switch|p2a: Cinderace|Cinderace, F|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|4
+|
+|t:|1781094908
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: COAT|Alomomola, F|100/100
+|move|p2a: Cinderace|Pyro Ball|p1a: COAT|[miss]
+|-miss|p2a: Cinderace|p1a: COAT
+|
+|upkeep
+|turn|5
+|
+|t:|1781094910
+|move|p2a: Cinderace|U-turn|p1a: COAT
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-crit|p1a: COAT
+|-damage|p1a: COAT|72/100
+|
+|t:|1781094913
+|switch|p2a: Alomomola|Alomomola, M|100/100|[from] U-turn
+|move|p1a: COAT|Flip Turn|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|95/100
+|
+|t:|1781094916
+|switch|p1a: SOAT|Ursaluna, M|100/100|[from] Flip Turn
+|
+|-status|p1a: SOAT|brn|[from] item: Flame Orb
+|upkeep
+|turn|6
+|j| loking87
+|
+|t:|1781094926
+|move|p2a: Alomomola|Flip Turn|p1a: SOAT
+|-supereffective|p1a: SOAT
+|-damage|p1a: SOAT|76/100 brn
+|
+|t:|1781094929
+|switch|p2a: Pecharunt|Pecharunt|100/100|[from] Flip Turn
+|move|p1a: SOAT|Headlong Rush|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|2/100
+|-unboost|p1a: SOAT|def|1
+|-unboost|p1a: SOAT|spd|1
+|
+|-damage|p1a: SOAT|70/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1781094934
+|move|p2a: Pecharunt|Parting Shot|p1a: SOAT
+|-unboost|p1a: SOAT|atk|1
+|-unboost|p1a: SOAT|spa|1
+|
+|t:|1781094938
+|switch|p2a: Alomomola|Alomomola, M|100/100|[from] Parting Shot
+|move|p1a: SOAT|Headlong Rush|p2a: Alomomola
+|-damage|p2a: Alomomola|54/100
+|-unboost|p1a: SOAT|def|1
+|-unboost|p1a: SOAT|spd|1
+|
+|-damage|p1a: SOAT|64/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1781094947
+|move|p2a: Alomomola|Flip Turn|p1a: SOAT
+|-supereffective|p1a: SOAT
+|-damage|p1a: SOAT|21/100 brn
+|
+|t:|1781094949
+|switch|p2a: Pecharunt|Pecharunt|2/100|[from] Flip Turn
+|move|p1a: SOAT|Facade|p2a: Pecharunt
+|-immune|p2a: Pecharunt
+|
+|-damage|p1a: SOAT|15/100 brn|[from] brn
+|upkeep
+|turn|9
+|j| choispecs ironmoth
+|
+|t:|1781094955
+|switch|p2a: Alomomola|Alomomola, M|88/100
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781094961
+|move|p1a: Iron Treads|Knock Off|p2a: Alomomola
+|-damage|p2a: Alomomola|71/100
+|-enditem|p2a: Alomomola|Assault Vest|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: Alomomola|Flip Turn|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|72/100
+|j| kanaete onegai
+|
+|t:|1781094976
+|switch|p2a: Zamazenta|Zamazenta|100/100|[from] Flip Turn
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|
+|upkeep
+|turn|11
+|
+|t:|1781094979
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Zamazenta|Crunch|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|16/100
+|-unboost|p1a: Slowking|def|1
+|
+|upkeep
+|turn|12
+|
+|t:|1781094987
+|switch|p1a: BOAT|Iron Valiant|100/100
+|move|p2a: Zamazenta|Crunch|p1a: BOAT
+|-resisted|p1a: BOAT
+|-damage|p1a: BOAT|87/100
+|-unboost|p1a: BOAT|def|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781094992
+|switch|p2a: Pecharunt|Pecharunt|2/100
+|move|p1a: BOAT|Moonblast|p2a: Pecharunt
+|-resisted|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|faint|p2a: Pecharunt
+|
+|upkeep
+|
+|t:|1781095002
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|turn|14
+|
+|t:|1781095007
+|-end|p1a: BOAT|Quark Drive|[silent]
+|switch|p1a: COAT|Alomomola, F|100/100
+|move|p2a: Iron Valiant|Moonblast|p1a: COAT
+|-damage|p1a: COAT|29/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781095012
+|switch|p1a: SOAT|Ursaluna, M|15/100 brn
+|move|p2a: Iron Valiant|Moonblast|p1a: SOAT
+|-damage|p1a: SOAT|0 fnt
+|faint|p1a: SOAT
+|
+|upkeep
+|
+|t:|1781095015
+|switch|p1a: Fraud|Scizor, F|49/100
+|turn|16
+|inactive|ykykp has 120 seconds left.
+|inactive|ykykp has 90 seconds left.
+|
+|t:|1781095076
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Fraud|U-turn|p2a: Alomomola
+|-damage|p2a: Alomomola|72/100
+|
+|t:|1781095081
+|switch|p1a: Slowking|Slowking-Galar, F|49/100|[from] U-turn
+|
+|upkeep
+|turn|17
+|
+|t:|1781095084
+|move|p2a: Alomomola|Flip Turn|p1a: Slowking
+|-damage|p1a: Slowking|32/100
+|
+|t:|1781095087
+|switch|p2a: Cinderace|Cinderace, F|100/100|[from] Flip Turn
+|move|p1a: Slowking|Toxic|p2a: Cinderace
+|-status|p2a: Cinderace|tox
+|
+|-damage|p2a: Cinderace|95/100 tox|[from] psn
+|upkeep
+|turn|18
+|l| choispecs ironmoth
+|
+|t:|1781095108
+|switch|p1a: COAT|Alomomola, F|62/100
+|move|p2a: Cinderace|U-turn|p1a: COAT
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p1a: COAT|42/100
+|inactive|ykykp has 120 seconds left.
+|
+|t:|1781095114
+|switch|p2a: Iron Valiant|Iron Valiant|100/100|[from] U-turn
+|
+|upkeep
+|turn|19
+|
+|t:|1781095117
+|switch|p1a: Slowking|Slowking-Galar, F|65/100
+|-terastallize|p2a: Iron Valiant|Fairy
+|move|p2a: Iron Valiant|Moonblast|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|37/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781095121
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Cinderace|Cinderace, F|95/100 tox
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781095124
+|switch|p1a: COAT|Alomomola, F|75/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Cinderace|89/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1781095132
+|move|p2a: Cinderace|U-turn|p1a: COAT
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p1a: COAT|56/100
+|
+|t:|1781095138
+|switch|p2a: Zamazenta|Zamazenta|100/100|[from] U-turn
+|move|p1a: COAT|Flip Turn|p2a: Zamazenta
+|-crit|p2a: Zamazenta
+|-damage|p2a: Zamazenta|76/100
+|
+|t:|1781095141
+|switch|p1a: BOAT|Iron Valiant|87/100|[from] Flip Turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1781095145
+|switch|p2a: Cinderace|Cinderace, F|89/100 tox
+|move|p1a: BOAT|Moonblast|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-damage|p2a: Cinderace|60/100 tox
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Cinderace|54/100 tox|[from] psn
+|upkeep
+|turn|23
+|l|☆kooopooolooo
+|inactive|kooopooolooo disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆kooopooolooo
+|inactive|kooopooolooo reconnected and has 130 seconds left.
+|player|p1|kooopooolooo|266|
+|inactive|kooopooolooo has 120 seconds left.
+|
+|t:|1781095177
+|-end|p1a: BOAT|Quark Drive|[silent]
+|switch|p1a: COAT|Alomomola, F|89/100
+|move|p2a: Cinderace|U-turn|p1a: COAT
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p1a: COAT|72/100
+|
+|t:|1781095182
+|switch|p2a: Iron Valiant|Iron Valiant, tera:Fairy|100/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|24
+|inactive|kooopooolooo has 120 seconds left.
+|l| sympoy
+|
+|t:|1781095201
+|move|p2a: Iron Valiant|Moonblast|p1a: COAT
+|-damage|p1a: COAT|0 fnt
+|faint|p1a: COAT
+|
+|-weather|none
+|upkeep
+|
+|t:|1781095204
+|switch|p1a: Fraud|Scizor, F|49/100
+|turn|25
+|l|☆kooopooolooo
+|inactive|kooopooolooo disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|kooopooolooo has 30 seconds to reconnect!
+|inactive|kooopooolooo has 20 seconds to reconnect!
+|inactive|kooopooolooo has 15 seconds to reconnect!
+|inactive|kooopooolooo has 10 seconds to reconnect!
+|inactive|kooopooolooo has 5 seconds to reconnect!
+|j|☆kooopooolooo
+|inactive|kooopooolooo reconnected and has 75 seconds left.
+|player|p1|kooopooolooo|266|
+|
+|t:|1781095272
+|move|p2a: Iron Valiant|Moonblast|p1a: Fraud
+|-resisted|p1a: Fraud
+|-damage|p1a: Fraud|0 fnt
+|faint|p1a: Fraud
+|
+|upkeep
+|
+|t:|1781095275
+|switch|p1a: Slowking|Slowking-Galar, F|71/100
+|turn|26
+|
+|t:|1781095281
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Slowking|Future Sight|p2a: Alomomola
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|27
+|
+|t:|1781095285
+|move|p2a: Alomomola|Flip Turn|p1a: Slowking
+|-damage|p1a: Slowking|52/100
+|
+|t:|1781095287
+|switch|p2a: Cinderace|Cinderace, F|54/100 tox|[from] Flip Turn
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781095292
+|switch|p1a: BOAT|Iron Valiant|87/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Cinderace|48/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1781095297
+|move|p1a: BOAT|Close Combat|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|-unboost|p1a: BOAT|def|1
+|-unboost|p1a: BOAT|spd|1
+|faint|p2a: Cinderace
+|
+|-weather|Snowscape|[upkeep]
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|
+|t:|1781095301
+|switch|p2a: Iron Valiant|Iron Valiant, tera:Fairy|100/100
+|turn|29
+|
+|t:|1781095306
+|-end|p1a: BOAT|Quark Drive|[silent]
+|switch|p1a: Slowking|Slowking-Galar, F|86/100
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|37/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|30
+|
+|t:|1781095310
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781095312
+|switch|p1a: BOAT|Iron Valiant|87/100
+|turn|31
+|
+|t:|1781095315
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|-terastallize|p1a: BOAT|Fairy
+|move|p1a: BOAT|Moonblast|p2a: Alomomola
+|-damage|p2a: Alomomola|59/100
+|-unboost|p2a: Alomomola|spa|1
+|
+|-weather|none
+|upkeep
+|turn|32
+|
+|t:|1781095319
+|-end|p1a: BOAT|Quark Drive|[silent]
+|switch|p1a: Iron Treads|Iron Treads|72/100
+|move|p2a: Alomomola|Mirror Coat||[still]
+|-fail|p2a: Alomomola
+|
+|upkeep
+|turn|33
+|
+|t:|1781095325
+|move|p1a: Iron Treads|Earth Power|p2a: Alomomola
+|-damage|p2a: Alomomola|33/100
+|-unboost|p2a: Alomomola|spd|1
+|move|p2a: Alomomola|Flip Turn|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|42/100
+|
+|t:|1781095329
+|switch|p2a: Zamazenta|Zamazenta|76/100|[from] Flip Turn
+|
+|upkeep
+|turn|34
+|
+|t:|1781095332
+|move|p2a: Zamazenta|Close Combat|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781095334
+|switch|p1a: BOAT|Iron Valiant, tera:Fairy|87/100
+|turn|35
+|
+|t:|1781095336
+|move|p1a: BOAT|Moonblast|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781095340
+|switch|p2a: Alomomola|Alomomola, M|67/100
+|turn|36
+|
+|t:|1781095344
+|move|p1a: BOAT|Moonblast|p2a: Alomomola
+|-damage|p2a: Alomomola|23/100
+|move|p2a: Alomomola|Mirror Coat|p1a: BOAT
+|-damage|p1a: BOAT|0 fnt
+|faint|p1a: BOAT
+|-end|p1a: BOAT|Quark Drive|[silent]
+|
+|win|ykykp
+|raw|kooopooolooo's rating: 1638 &rarr; <strong>1624</strong><br />(-14 for losing)
+|raw|ykykp's rating: 1746 &rarr; <strong>1760</strong><br />(+14 for winning)
+|l|☆kooopooolooo
+|player|p1|
+|l|☆ykykp
+|player|p2|

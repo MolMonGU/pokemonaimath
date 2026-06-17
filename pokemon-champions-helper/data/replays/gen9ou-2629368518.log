@@ -1,0 +1,282 @@
+|j|☆randomtester4
+|j|☆KurisuChestnutOU
+|t:|1781123463
+|gametype|singles
+|player|p1|randomtester4|170|1541
+|player|p2|KurisuChestnutOU|may-contest|1525
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Great Tusk|
+|poke|p1|Gholdengo|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Dragonite, F|
+|poke|p1|Iron Valiant|
+|poke|p2|Hawlucha, F|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Gholdengo|
+|poke|p2|Kyurem|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by randomtester4)
+|
+|t:|1781123468
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|inactive|KurisuChestnutOU also wants the timer to be on.
+|
+|t:|1781123479
+|move|p2a: Kyurem|Freeze-Dry|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-enditem|p1a: Samurott|Focus Sash
+|-damage|p1a: Samurott|1/100
+|move|p1a: Samurott|Ceaseless Edge|p2a: Kyurem
+|-damage|p2a: Kyurem|58/100
+|-sidestart|p2: KurisuChestnutOU|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1781123498
+|move|p2a: Kyurem|Ice Beam|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|inactive|randomtester4 has 120 seconds left.
+|
+|t:|1781123519
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|3
+|inactive|randomtester4 has 120 seconds left.
+|
+|t:|1781123530
+|-terastallize|p2a: Kyurem|Poison
+|move|p1a: Iron Valiant|Knock Off|p2a: Kyurem
+|-damage|p2a: Kyurem|30/100
+|-enditem|p2a: Kyurem|Assault Vest|[from] move: Knock Off|[of] p1a: Iron Valiant
+|move|p2a: Kyurem|Ice Beam|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|9/100
+|
+|upkeep
+|turn|4
+|inactive|randomtester4 has 120 seconds left.
+|
+|t:|1781123547
+|move|p1a: Iron Valiant|Close Combat|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|7/100
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|move|p2a: Kyurem|Freeze-Dry|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781123556
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|5
+|inactive|randomtester4 has 120 seconds left.
+|
+|t:|1781123569
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Kyurem|[anim] Ivy Cudgel Water
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781123577
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-damage|p2a: Rillaboom|88/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|6
+|inactive|randomtester4 has 120 seconds left.
+|
+|t:|1781123602
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Rillaboom|Grassy Glide|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|76/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|-heal|p1a: Gholdengo|82/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|94/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781123613
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|move|p2a: Rillaboom|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|31/100
+|
+|-heal|p1a: Gholdengo|37/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|100/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1781123618
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|-damage|p2a: Samurott|88/100|[from] Spikes
+|move|p1a: Gholdengo|Shadow Ball|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|59/100
+|
+|-heal|p1a: Gholdengo|43/100|[from] Grassy Terrain
+|-heal|p2a: Samurott|65/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781123632
+|move|p1a: Gholdengo|Focus Blast|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-heal|p1a: Gholdengo|49/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781123637
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|88/100|[from] Spikes
+|turn|10
+|
+|t:|1781123641
+|move|p2a: Gholdengo|Shadow Ball|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-heal|p2a: Gholdengo|94/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|inactive|randomtester4 has 120 seconds left.
+|
+|t:|1781123663
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|11
+|
+|t:|1781123671
+|move|p2a: Gholdengo|Shadow Ball|p1a: Great Tusk
+|-damage|p1a: Great Tusk|33/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|74/100
+|
+|upkeep
+|turn|12
+|inactive|randomtester4 has 120 seconds left.
+|
+|t:|1781123678
+|move|p2a: Gholdengo|Shadow Ball|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|inactive|randomtester4 has 120 seconds left.
+|
+|t:|1781123687
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|13
+|inactive|randomtester4 has 120 seconds left.
+|
+|t:|1781123700
+|move|p2a: Gholdengo|Shadow Ball|p1a: Dragonite
+|-damage|p1a: Dragonite|77/100
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|14
+|
+|t:|1781123705
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Dragonite|atk|1
+|move|p1a: Dragonite|Fire Punch|p2a: Landorus
+|-damage|p2a: Landorus|75/100
+|-damage|p1a: Dragonite|61/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|
+|upkeep
+|turn|15
+|
+|t:|1781123713
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Landorus|U-turn|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|47/100
+|
+|t:|1781123719
+|switch|p2a: Rillaboom|Rillaboom, F|100/100|[from] U-turn
+|-damage|p2a: Rillaboom|88/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|
+|-heal|p1a: Ogerpon|53/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|94/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1781123730
+|move|p1a: Ogerpon|Play Rough|p2a: Rillaboom
+|-damage|p2a: Rillaboom|58/100
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|
+|-heal|p1a: Ogerpon|59/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|64/100|[from] Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1781123737
+|move|p2a: Rillaboom|Grassy Glide|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|-heal|p2a: Rillaboom|70/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781123741
+|switch|p1a: Dragonite|Dragonite, F|61/100
+|turn|18
+|
+|t:|1781123744
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Rillaboom|Knock Off|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|-enditem|p1a: Dragonite|Lum Berry|[from] move: Knock Off|[of] p2a: Rillaboom
+|faint|p1a: Dragonite
+|
+|win|KurisuChestnutOU
+|raw|randomtester4's rating: 1541 &rarr; <strong>1522</strong><br />(-19 for losing)
+|raw|KurisuChestnutOU's rating: 1566 &rarr; <strong>1585</strong><br />(+19 for winning)

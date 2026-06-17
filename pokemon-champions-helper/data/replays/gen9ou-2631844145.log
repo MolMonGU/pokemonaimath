@@ -1,0 +1,325 @@
+|j|☆SincereSarje
+|j|☆Mysterious Soop
+|t:|1781447257
+|gametype|singles
+|player|p1|SincereSarje|morty|1605
+|player|p2|Mysterious Soop|266|1639
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Cinderace, M|
+|poke|p1|Kyurem|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Kingambit, M|
+|poke|p1|Ogerpon, F|
+|poke|p2|Excadrill, F|
+|poke|p2|Tyranitar, F|
+|poke|p2|Hydrapple, M|
+|poke|p2|Gholdengo|
+|poke|p2|Alomomola, F|
+|poke|p2|Hatterene, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SincereSarje)
+|j| chaky20
+|
+|t:|1781447268
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tyranitar|atk|1
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|1
+|
+|t:|1781447274
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Landorus|U-turn|p2a: Hatterene
+|-damage|p2a: Hatterene|74/100
+|
+|t:|1781447282
+|switch|p1a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hatterene|68/100|[from] Sandstorm
+|-damage|p1a: Slowking|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1781447292
+|move|p2a: Hatterene|Nuzzle|p1a: Slowking
+|-damage|p1a: Slowking|90/100
+|-status|p1a: Slowking|par
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781447294
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781447301
+|move|p1a: Kyurem|Blizzard|p2a: Hatterene
+|-damage|p2a: Hatterene|26/100
+|move|p2a: Hatterene|Draining Kiss|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|55/100
+|-heal|p2a: Hatterene|68/100|[from] drain|[of] p1a: Kyurem
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781447312
+|switch|p1a: Slowking|Slowking-Galar, M|100/100 par
+|move|p2a: Hatterene|Draining Kiss|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|94/100 par
+|-heal|p2a: Hatterene|74/100|[from] drain|[of] p1a: Slowking
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781447317
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|move|p1a: Slowking|Sludge Bomb|p2a: Excadrill
+|-immune|p2a: Excadrill
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781447329
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Excadrill|atk|1
+|move|p2a: Excadrill|Iron Head|p1a: Landorus
+|-damage|p1a: Landorus|62/100
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1781447341
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Landorus|U-turn|p2a: Alomomola
+|-damage|p2a: Alomomola|87/100
+|-damage|p1a: Landorus|45/100|[from] item: Rocky Helmet|[of] p2a: Alomomola
+|
+|t:|1781447352
+|switch|p1a: Kyurem|Kyurem|55/100|[from] U-turn
+|-ability|p1a: Kyurem|Pressure
+|
+|upkeep
+|turn|8
+|
+|t:|1781447358
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Kyurem|Freeze-Dry|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Protect
+|
+|upkeep
+|turn|9
+|
+|t:|1781447366
+|switch|p1a: Landorus|Landorus-Therian, M|45/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Alomomola|atk|1
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781447376
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Landorus|Earthquake|p2a: Alomomola
+|-damage|p2a: Alomomola|71/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781447381
+|switch|p1a: Slowking|Slowking-Galar, M|100/100 par
+|move|p2a: Alomomola|Flip Turn|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|74/100 par
+|
+|t:|1781447387
+|switch|p2a: Tyranitar|Tyranitar, F|100/100|[from] Flip Turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowking|68/100 par|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1781447396
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|move|p2a: Tyranitar|Knock Off|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|-enditem|p1a: Ogerpon|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tyranitar
+|faint|p1a: Ogerpon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781447405
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|turn|13
+|
+|t:|1781447409
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Cinderace|U-turn|p2a: Alomomola
+|-damage|p2a: Alomomola|90/100
+|-damage|p1a: Cinderace|84/100|[from] item: Rocky Helmet|[of] p2a: Alomomola
+|
+|t:|1781447415
+|switch|p1a: Slowking|Slowking-Galar, M|100/100 par|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Alomomola|84/100|[from] Sandstorm
+|-damage|p1a: Slowking|94/100 par|[from] Sandstorm
+|upkeep
+|turn|14
+|
+|t:|1781447421
+|move|p2a: Alomomola|Flip Turn|p1a: Slowking
+|-damage|p1a: Slowking|77/100 par
+|
+|t:|1781447424
+|switch|p2a: Excadrill|Excadrill, F|100/100|[from] Flip Turn
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781447429
+|switch|p1a: Kyurem|Kyurem|55/100|[from] Chilly Reception
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781447444
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Kyurem|Blizzard|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|54/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781447458
+|switch|p1a: Slowking|Slowking-Galar, M|100/100 par
+|move|p2a: Gholdengo|Make It Rain|p1a: Slowking
+|-damage|p1a: Slowking|62/100 par
+|-unboost|p2a: Gholdengo|spa|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781447480
+|switch|p2a: Hatterene|Hatterene, F|74/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|cant|p1a: Slowking|par
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781447489
+|move|p2a: Hatterene|Psyshock|p1a: Slowking
+|-damage|p1a: Slowking|26/100 par
+|move|p1a: Slowking|Sludge Bomb|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|38/100
+|
+|-weather|none
+|upkeep
+|turn|19
+|
+|t:|1781447497
+|move|p2a: Hatterene|Psyshock|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1781447509
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|turn|20
+|
+|t:|1781447526
+|switch|p2a: Hydrapple|Hydrapple, M|100/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|upkeep
+|turn|21
+|
+|t:|1781447537
+|move|p1a: Kingambit|Iron Head|p2a: Hydrapple
+|-damage|p2a: Hydrapple|24/100
+|move|p2a: Hydrapple|Earth Power|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen2|[silent]
+|
+|upkeep
+|
+|t:|1781447545
+|switch|p1a: Landorus|Landorus-Therian, M|45/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Hydrapple|atk|1
+|turn|22
+|
+|t:|1781447548
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Landorus|Grass Knot|p2a: Alomomola
+|-supereffective|p2a: Alomomola
+|-damage|p2a: Alomomola|67/100
+|-damage|p1a: Landorus|28/100|[from] item: Rocky Helmet|[of] p2a: Alomomola
+|
+|upkeep
+|turn|23
+|
+|t:|1781447553
+|move|p1a: Landorus|Grass Knot|p2a: Alomomola
+|-supereffective|p2a: Alomomola
+|-damage|p2a: Alomomola|31/100
+|-damage|p1a: Landorus|12/100|[from] item: Rocky Helmet|[of] p2a: Alomomola
+|move|p2a: Alomomola|Flip Turn|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-message|SincereSarje forfeited.
+|
+|win|Mysterious Soop
+|raw|SincereSarje's rating: 1605 &rarr; <strong>1587</strong><br />(-18 for losing)
+|raw|Mysterious Soop's rating: 1639 &rarr; <strong>1657</strong><br />(+18 for winning)
+|c|☆Mysterious Soop|ggs
+|l|☆Mysterious Soop
+|player|p2|
+|l| chaky20

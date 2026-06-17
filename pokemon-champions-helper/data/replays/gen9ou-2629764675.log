@@ -1,0 +1,323 @@
+|j|☆LoseToRU?
+|j|☆snurke
+|t:|1781177152
+|gametype|singles
+|player|p1|LoseToRU?|giovanni-gen1|1520
+|player|p2|snurke|sisandbro|1526
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Jugulis|
+|poke|p1|Moltres-Galar|
+|poke|p1|Darkrai|
+|poke|p1|Lokix, F|
+|poke|p1|Weavile, F|
+|poke|p1|Zarude-Dada|
+|poke|p2|Cinderace, M|
+|poke|p2|Torkoal, M|
+|poke|p2|Walking Wake|
+|poke|p2|Enamorus, F|
+|poke|p2|Kingambit, F|
+|poke|p2|Great Tusk|
+|teampreview
+|
+|t:|1781177170
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|switch|p2a: Cinderace|Cinderace, M, shiny|100/100
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|1
+|
+|t:|1781177177
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|move|p1a: Iron Jugulis|Earth Power|p2a: Walking Wake
+|-damage|p2a: Walking Wake|68/100
+|-unboost|p2a: Walking Wake|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1781177181
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Torkoal|Torkoal, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Iron Jugulis|Hurricane|p2a: Torkoal|[miss]
+|-miss|p1a: Iron Jugulis|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781177192
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|move|p1a: Iron Jugulis|Taunt|p2a: Enamorus
+|-start|p2a: Enamorus|move: Taunt
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781177196
+|move|p1a: Iron Jugulis|Hurricane|p2a: Enamorus|[miss]
+|-miss|p1a: Iron Jugulis|p2a: Enamorus
+|move|p2a: Enamorus|Moonblast|p1a: Iron Jugulis
+|-supereffective|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781177202
+|switch|p1a: Darkrai|Darkrai|100/100
+|turn|5
+|
+|t:|1781177236
+|move|p1a: Darkrai|Sludge Bomb|p2a: Enamorus
+|-supereffective|p2a: Enamorus
+|-damage|p2a: Enamorus|8/100
+|move|p2a: Enamorus|Moonblast|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|-weather|SunnyDay|[upkeep]
+|-end|p2a: Enamorus|move: Taunt
+|upkeep
+|
+|t:|1781177245
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|6
+|
+|t:|1781177283
+|switch|p2a: Cinderace|Cinderace, M, shiny|100/100
+|move|p1a: Weavile|Ice Shard|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-damage|p2a: Cinderace|87/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781177305
+|move|p1a: Weavile|Knock Off|p2a: Cinderace
+|-damage|p2a: Cinderace|14/100
+|-enditem|p2a: Cinderace|Choice Band|[from] move: Knock Off|[of] p1a: Weavile
+|move|p2a: Cinderace|Pyro Ball|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-enditem|p1a: Weavile|Focus Sash
+|-damage|p1a: Weavile|1/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781177308
+|move|p1a: Weavile|Ice Shard|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-crit|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781177336
+|switch|p2a: Walking Wake|Walking Wake|68/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|turn|9
+|
+|t:|1781177339
+|move|p1a: Weavile|Ice Shard|p2a: Walking Wake
+|-crit|p2a: Walking Wake
+|-damage|p2a: Walking Wake|38/100
+|move|p2a: Walking Wake|Flip Turn|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|t:|1781177345
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Enamorus|Enamorus, F|8/100|[from] Flip Turn
+|
+|-weather|none
+|upkeep
+|
+|t:|1781177353
+|switch|p1a: Lokix|Lokix, F|100/100
+|turn|10
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LoseToRU?)
+|inactive|snurke has 120 seconds left.
+|
+|t:|1781177416
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Lokix|First Impression|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|54/100
+|-damage|p1a: Lokix|84/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|11
+|
+|t:|1781177430
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|move|p2a: Great Tusk|Knock Off|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|82/100
+|-enditem|p1a: Moltres|Sitrus Berry|[from] move: Knock Off|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|12
+|
+|t:|1781177439
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Torkoal|Torkoal, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Moltres|Agility|p1a: Moltres
+|-boost|p1a: Moltres|spe|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781177443
+|move|p1a: Moltres|Fiery Wrath|p2a: Torkoal
+|-damage|p2a: Torkoal|52/100
+|move|p2a: Torkoal|Stealth Rock|p1a: Moltres
+|-sidestart|p1: LoseToRU?|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781177449
+|move|p1a: Moltres|Nasty Plot|p1a: Moltres
+|-boost|p1a: Moltres|spa|2
+|move|p2a: Torkoal|Body Press|p1a: Moltres
+|-damage|p1a: Moltres|46/100
+|-ability|p1a: Moltres|Berserk|boost
+|-boost|p1a: Moltres|spa|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781177459
+|move|p1a: Moltres|Fiery Wrath|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|snurke has 120 seconds left.
+|
+|t:|1781177501
+|switch|p2a: Enamorus|Enamorus, F|8/100
+|turn|16
+|
+|t:|1781177505
+|move|p1a: Moltres|Fiery Wrath|p2a: Enamorus
+|-resisted|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781177507
+|switch|p2a: Kingambit|Kingambit, F, shiny|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|turn|17
+|
+|t:|1781177513
+|-terastallize|p2a: Kingambit|Dark
+|move|p2a: Kingambit|Sucker Punch|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781177538
+|switch|p1a: Lokix|Lokix, F|84/100
+|-damage|p1a: Lokix|59/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781177543
+|-end|p2a: Kingambit|fallen3|[silent]
+|switch|p2a: Great Tusk|Great Tusk|54/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Lokix|First Impression|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|6/100
+|-damage|p1a: Lokix|43/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781177552
+|move|p1a: Lokix|First Impression||[still]
+|-hint|First Impression only works on your first turn out.
+|-fail|p1a: Lokix
+|move|p2a: Great Tusk|Earthquake|p1a: Lokix
+|-resisted|p1a: Lokix
+|-damage|p1a: Lokix|0 fnt
+|faint|p1a: Lokix
+|
+|-weather|none
+|-end|p2a: Great Tusk|Protosynthesis
+|upkeep
+|
+|t:|1781177555
+|switch|p1a: Zarude|Zarude-Dada|100/100
+|-damage|p1a: Zarude|88/100|[from] Stealth Rock
+|turn|20
+|inactive|LoseToRU? has 120 seconds left.
+|inactive|LoseToRU? has 90 seconds left.
+|
+|t:|1781177636
+|move|p1a: Zarude|Knock Off|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|-damage|p1a: Zarude|72/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|-enditem|p2a: Great Tusk|Rocky Helmet|[from] move: Knock Off|[of] p1a: Zarude
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|inactive|snurke has 120 seconds left.
+|
+|t:|1781177681
+|switch|p2a: Walking Wake|Walking Wake|38/100
+|turn|21
+|
+|t:|1781177689
+|move|p2a: Walking Wake|Flamethrower|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|0 fnt
+|faint|p1a: Zarude
+|
+|win|snurke
+|raw|LoseToRU?'s rating: 1520 &rarr; <strong>1500</strong><br />(-20 for losing)
+|raw|snurke's rating: 1526 &rarr; <strong>1546</strong><br />(+20 for winning)
+|l|☆LoseToRU?
+|player|p1|

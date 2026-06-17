@@ -1,0 +1,242 @@
+|j|☆Garacade
+|j|☆RunicImpulse
+|t:|1780957813
+|gametype|singles
+|player|p1|Garacade|266|1553
+|player|p2|RunicImpulse|psychic-gen4|1536
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Zapdos|
+|poke|p1|Gholdengo|
+|poke|p1|Great Tusk|
+|poke|p1|Araquanid, M|
+|poke|p1|Ogerpon, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Kleavor, F|
+|poke|p2|Kingambit, F|
+|poke|p2|Staraptor, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Iron Moth|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Garacade)
+|
+|t:|1780957830
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|switch|p2a: Kleavor|Kleavor, F|100/100
+|turn|1
+|
+|t:|1780957847
+|move|p1a: Hoopa|Dark Pulse|p2a: Kleavor
+|-damage|p2a: Kleavor|17/100
+|move|p2a: Kleavor|Stone Axe|p1a: Hoopa
+|-damage|p1a: Hoopa|6/100
+|-sidestart|p1: Garacade|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1780957855
+|move|p1a: Hoopa|Dark Pulse|p2a: Kleavor
+|-damage|p2a: Kleavor|0 fnt
+|faint|p2a: Kleavor
+|
+|upkeep
+|
+|t:|1780957867
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|3
+|
+|t:|1780957871
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|move|p1a: Hoopa|Dark Pulse|p2a: Iron Valiant
+|-resisted|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|86/100
+|
+|upkeep
+|turn|4
+|
+|t:|1780957876
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1780957885
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1780957888
+|switch|p1a: Araquanid|Araquanid, M|100/100
+|-damage|p1a: Araquanid|75/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1780957891
+|move|p2a: Iron Valiant|Moonblast|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|faint|p1a: Araquanid
+|
+|upkeep
+|
+|t:|1780957902
+|switch|p1a: Zapdos|Zapdos|100/100
+|-damage|p1a: Zapdos|76/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1780957906
+|-terastallize|p1a: Zapdos|Steel
+|move|p2a: Iron Valiant|Moonblast|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|13/100
+|move|p1a: Zapdos|Hurricane|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780957912
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespa
+|turn|8
+|
+|t:|1780957929
+|-terastallize|p2a: Iron Moth|Grass
+|move|p2a: Iron Moth|Substitute|p2a: Iron Moth
+|-start|p2a: Iron Moth|Substitute
+|-damage|p2a: Iron Moth|76/100
+|move|p1a: Zapdos|Discharge|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-activate|p2a: Iron Moth|move: Substitute|[damage]
+|
+|upkeep
+|turn|9
+|
+|t:|1780957937
+|move|p2a: Iron Moth|Fiery Dance|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1780957950
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|98/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1780957953
+|move|p2a: Iron Moth|Fiery Dance|p1a: Great Tusk
+|-damage|p1a: Great Tusk|19/100
+|-boost|p2a: Iron Moth|spa|1
+|move|p1a: Great Tusk|Rapid Spin|p2a: Iron Moth
+|-end|p2a: Iron Moth|Substitute
+|-sideend|p1: Garacade|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|-boost|p1a: Great Tusk|spe|1
+|
+|-heal|p1a: Great Tusk|25/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1780957959
+|move|p2a: Iron Moth|Fiery Dance|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780957962
+|switch|p1a: Hoopa|Hoopa-Unbound|6/100
+|turn|12
+|
+|t:|1780957970
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|move|p1a: Hoopa|Psychic|p2a: Kingambit
+|-immune|p2a: Kingambit
+|
+|upkeep
+|turn|13
+|
+|t:|1780957977
+|move|p1a: Hoopa|Psychic|p2a: Kingambit
+|-immune|p2a: Kingambit
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|upkeep
+|
+|t:|1780957979
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|turn|14
+|
+|t:|1780957983
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Ogerpon
+|-damage|p1a: Ogerpon|14/100
+|
+|upkeep
+|turn|15
+|
+|t:|1780957989
+|move|p1a: Ogerpon|Low Kick|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen2|[silent]
+|
+|upkeep
+|
+|t:|1780957991
+|switch|p2a: Staraptor|Staraptor, M|100/100
+|turn|16
+|
+|t:|1780957993
+|move|p2a: Staraptor|Brave Bird|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|-damage|p2a: Staraptor|96/100|[from] Recoil
+|
+|win|RunicImpulse
+|raw|Garacade's rating: 1553 &rarr; <strong>1532</strong><br />(-21 for losing)
+|raw|RunicImpulse's rating: 1536 &rarr; <strong>1557</strong><br />(+21 for winning)
+|l|☆Garacade
+|player|p1|
+|l|☆RunicImpulse
+|player|p2|

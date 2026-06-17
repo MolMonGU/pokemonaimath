@@ -1,0 +1,360 @@
+|j|☆Animal Stylez
+|j|☆Humerus_Skelepun
+|t:|1781146794
+|gametype|singles
+|player|p1|Animal Stylez|darach-caitlin|1529
+|player|p2|Humerus_Skelepun|169|1516
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Rotom-Wash|
+|poke|p1|Heatran, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Great Tusk|
+|poke|p1|Enamorus, F|
+|poke|p2|Alomomola, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Kingambit, F|
+|poke|p2|Great Tusk|
+|poke|p2|Cinderace, F|
+|poke|p2|Thundurus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Humerus_Skelepun)
+|
+|t:|1781146809
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Crabhammer|Heatran, M|100/100
+|switch|p2a: Thundurus|Thundurus-Therian, M|100/100
+|turn|1
+|
+|t:|1781146830
+|move|p2a: Thundurus|Volt Switch|p1a: Crabhammer
+|-crit|p1a: Crabhammer
+|-damage|p1a: Crabhammer|31/100
+|
+|t:|1781146835
+|switch|p2a: Alomomola|Alomomola, F|100/100|[from] Volt Switch
+|move|p1a: Crabhammer|Stealth Rock|p2a: Alomomola
+|-sidestart|p2: Humerus_Skelepun|move: Stealth Rock
+|
+|-heal|p1a: Crabhammer|37/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781146843
+|move|p1a: Crabhammer|Protect|p1a: Crabhammer
+|-singleturn|p1a: Crabhammer|Protect
+|move|p2a: Alomomola|Flip Turn|p1a: Crabhammer
+|-activate|p1a: Crabhammer|move: Protect
+|
+|-heal|p1a: Crabhammer|44/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781146848
+|switch|p1a: PPAP|Rotom-Wash|100/100
+|move|p2a: Alomomola|Flip Turn|p1a: PPAP
+|-resisted|p1a: PPAP
+|-damage|p1a: PPAP|94/100
+|-damage|p2a: Alomomola|84/100|[from] item: Rocky Helmet|[of] p1a: PPAP
+|
+|t:|1781146857
+|switch|p2a: Cinderace|Cinderace, F|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|4
+|
+|t:|1781146877
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-start|p2a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|move|p1a: PPAP|Will-O-Wisp|p2a: Cinderace|[miss]
+|-miss|p1a: PPAP|p2a: Cinderace
+|
+|upkeep
+|turn|5
+|
+|t:|1781146894
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: PPAP|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|87/100
+|
+|t:|1781146901
+|switch|p1a: Patino|Tyranitar, M|100/100|[from] Volt Switch
+|-damage|p1a: Patino|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Patino
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowking|81/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1781146906
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Patino|Knock Off|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|70/100
+|-damage|p1a: Patino|72/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|-enditem|p2a: Great Tusk|Rocky Helmet|[from] move: Knock Off|[of] p1a: Patino
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781146918
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Thundurus|Thundurus-Therian, M|100/100
+|switch|p1a: PPAP|Rotom-Wash|94/100
+|-damage|p1a: PPAP|81/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Thundurus|94/100|[from] Sandstorm
+|-damage|p1a: PPAP|75/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1781146929
+|move|p2a: Thundurus|Grass Knot|p1a: PPAP
+|-supereffective|p1a: PPAP
+|-damage|p1a: PPAP|49/100
+|-damage|p2a: Thundurus|78/100|[from] item: Rocky Helmet|[of] p1a: PPAP
+|move|p1a: PPAP|Pain Split|p2a: Thundurus
+|-sethp|p2a: Thundurus|64/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: PPAP|63/100|[from] move: Pain Split
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Thundurus|58/100|[from] Sandstorm
+|-damage|p1a: PPAP|56/100|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1781146938
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: PPAP|Hydro Pump|p2a: Slowking
+|-damage|p2a: Slowking|78/100
+|
+|-weather|none
+|upkeep
+|turn|10
+|
+|t:|1781146947
+|move|p1a: PPAP|Will-O-Wisp|p2a: Slowking
+|-status|p2a: Slowking|brn
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781146951
+|switch|p2a: Thundurus|Thundurus-Therian, M|58/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781146959
+|switch|p1a: Gabin|Great Tusk|100/100
+|-damage|p1a: Gabin|98/100|[from] Stealth Rock
+|-enditem|p1a: Gabin|Booster Energy
+|-activate|p1a: Gabin|ability: Protosynthesis|[fromitem]
+|-start|p1a: Gabin|protosynthesisatk
+|move|p2a: Thundurus|Grass Knot|p1a: Gabin
+|-supereffective|p1a: Gabin
+|-damage|p1a: Gabin|0 fnt
+|faint|p1a: Gabin
+|-end|p1a: Gabin|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781146969
+|switch|p1a: Mage|Rillaboom, M|100/100
+|-damage|p1a: Mage|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Mage
+|turn|12
+|
+|t:|1781146983
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|move|p1a: Mage|U-turn|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-damage|p2a: Cinderace|86/100
+|
+|t:|1781146990
+|switch|p1a: PPAP|Rotom-Wash|56/100|[from] U-turn
+|-damage|p1a: PPAP|44/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Cinderace|92/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781146998
+|move|p2a: Cinderace|U-turn|p1a: PPAP
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p1a: PPAP|18/100
+|-damage|p2a: Cinderace|75/100|[from] item: Rocky Helmet|[of] p1a: PPAP
+|
+|t:|1781147002
+|switch|p2a: Thundurus|Thundurus-Therian, M|58/100|[from] U-turn
+|move|p1a: PPAP|Pain Split|p2a: Thundurus
+|-sethp|p2a: Thundurus|38/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: PPAP|37/100|[from] move: Pain Split
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781147014
+|switch|p1a: Mage|Rillaboom, M|88/100
+|-damage|p1a: Mage|76/100|[from] Stealth Rock
+|move|p2a: Thundurus|Volt Switch|p1a: Mage
+|-resisted|p1a: Mage
+|-damage|p1a: Mage|60/100
+|
+|t:|1781147018
+|switch|p2a: Cinderace|Cinderace, F|75/100|[from] Volt Switch
+|
+|-weather|none
+|-heal|p2a: Cinderace|81/100|[from] Grassy Terrain
+|-heal|p1a: Mage|66/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1781147027
+|switch|p1a: Crabhammer|Heatran, M|44/100
+|-damage|p1a: Crabhammer|31/100|[from] Stealth Rock
+|move|p2a: Cinderace|U-turn|p1a: Crabhammer
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Crabhammer
+|-damage|p1a: Crabhammer|25/100
+|
+|t:|1781147031
+|switch|p2a: Thundurus|Thundurus-Therian, M|38/100|[from] U-turn
+|
+|-heal|p1a: Crabhammer|31/100|[from] Grassy Terrain
+|-heal|p1a: Crabhammer|37/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781147034
+|move|p1a: Crabhammer|Protect|p1a: Crabhammer
+|-singleturn|p1a: Crabhammer|Protect
+|move|p2a: Thundurus|Volt Switch|p1a: Crabhammer
+|-activate|p1a: Crabhammer|move: Protect
+|
+|-heal|p1a: Crabhammer|43/100|[from] Grassy Terrain
+|-heal|p1a: Crabhammer|49/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1781147042
+|move|p2a: Thundurus|Volt Switch|p1a: Crabhammer
+|-damage|p1a: Crabhammer|4/100
+|
+|t:|1781147050
+|switch|p2a: Alomomola|Alomomola, F|100/100|[from] Volt Switch
+|move|p1a: Crabhammer|Magma Storm|p2a: Alomomola|[miss]
+|-miss|p1a: Crabhammer|p2a: Alomomola
+|
+|-heal|p1a: Crabhammer|10/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781147061
+|move|p1a: Crabhammer|Stealth Rock|p2a: Alomomola
+|-sidestart|p2: Humerus_Skelepun|move: Stealth Rock
+|move|p2a: Alomomola|Flip Turn|p1a: Crabhammer
+|-supereffective|p1a: Crabhammer
+|-damage|p1a: Crabhammer|0 fnt
+|faint|p1a: Crabhammer
+|
+|t:|1781147066
+|switch|p2a: Great Tusk|Great Tusk|70/100|[from] Flip Turn
+|-damage|p2a: Great Tusk|67/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1781147085
+|switch|p1a: GC|Enamorus, F|100/100
+|-damage|p1a: GC|76/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1781147092
+|switch|p1a: Patino|Tyranitar, M|72/100
+|-damage|p1a: Patino|59/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Patino
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|100/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowking|94/100 brn|[from] Sandstorm
+|-damage|p2a: Slowking|88/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1781147103
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|-damage|p2a: Alomomola|88/100|[from] Stealth Rock
+|move|p1a: Patino|Stone Edge|p2a: Alomomola
+|-damage|p2a: Alomomola|40/100
+|-enditem|p2a: Alomomola|Red Card|[of] p1a: Patino
+|drag|p1a: Mage|Rillaboom, M|66/100
+|-damage|p1a: Mage|54/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Mage
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Mage|48/100|[from] Sandstorm
+|-damage|p2a: Alomomola|33/100|[from] Sandstorm
+|-heal|p1a: Mage|54/100|[from] Grassy Terrain
+|-heal|p2a: Alomomola|40/100|[from] Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1781147116
+|switch|p2a: Cinderace|Cinderace, F|81/100
+|move|p1a: Mage|Wood Hammer|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-damage|p2a: Cinderace|32/100
+|-damage|p1a: Mage|42/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Cinderace|26/100|[from] Sandstorm
+|-damage|p1a: Mage|36/100|[from] Sandstorm
+|-heal|p2a: Cinderace|32/100|[from] Grassy Terrain
+|-heal|p1a: Mage|42/100|[from] Grassy Terrain
+|upkeep
+|turn|22
+|
+|t:|1781147133
+|move|p1a: Mage|Grassy Glide|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-damage|p2a: Cinderace|10/100
+|move|p2a: Cinderace|Pyro Ball|p1a: Mage
+|-supereffective|p1a: Mage
+|-damage|p1a: Mage|0 fnt
+|faint|p1a: Mage
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Cinderace|4/100|[from] Sandstorm
+|-heal|p2a: Cinderace|10/100|[from] Grassy Terrain
+|upkeep
+|-message|Animal Stylez forfeited.
+|
+|win|Humerus_Skelepun
+|raw|Animal Stylez's rating: 1529 &rarr; <strong>1508</strong><br />(-21 for losing)
+|raw|Humerus_Skelepun's rating: 1516 &rarr; <strong>1537</strong><br />(+21 for winning)
+|l|☆Animal Stylez
+|player|p1|

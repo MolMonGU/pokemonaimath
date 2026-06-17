@@ -1,0 +1,307 @@
+|j|☆KurisuChestnutOU
+|j|☆SkyHighMiles
+|t:|1781149092
+|gametype|singles
+|player|p1|KurisuChestnutOU|may-contest|1543
+|player|p2|SkyHighMiles|1|1536
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, M|
+|poke|p1|Kommo-o, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Crown|
+|poke|p2|Scizor, M|
+|poke|p2|Zapdos|
+|poke|p2|Primarina, F|
+|poke|p2|Garganacl, F|
+|poke|p2|Great Tusk|
+|poke|p2|Iron Moth|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SkyHighMiles)
+|inactive|KurisuChestnutOU also wants the timer to be on.
+|
+|t:|1781149100
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|switch|p2a: Scizor|Scizor, M|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|turn|1
+|
+|t:|1781149108
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|move|p2a: Scizor|U-turn|p1a: Iron Crown
+|-damage|p1a: Iron Crown|41/100
+|
+|t:|1781149115
+|switch|p2a: Iron Moth|Iron Moth|100/100|[from] U-turn
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|
+|upkeep
+|turn|2
+|
+|t:|1781149124
+|-terastallize|p1a: Iron Crown|Fighting
+|move|p2a: Iron Moth|Fiery Dance|p1a: Iron Crown
+|-damage|p1a: Iron Crown|13/100
+|move|p1a: Iron Crown|Psychic Noise|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781149129
+|switch|p2a: Scizor|Scizor, M|100/100
+|turn|3
+|
+|t:|1781149133
+|move|p2a: Scizor|Bullet Punch|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781149138
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|4
+|
+|t:|1781149147
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Iron Treads|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: SkyHighMiles|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1781149151
+|move|p1a: Iron Treads|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|72/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|94/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: SkyHighMiles|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|6
+|
+|t:|1781149159
+|move|p1a: Iron Treads|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|46/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|2/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781149169
+|move|p1a: Iron Treads|Endeavor|p2a: Great Tusk
+|-damage|p2a: Great Tusk|2/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-boost|p2a: Great Tusk|spe|1
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781149176
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|turn|8
+|
+|t:|1781149182
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|upkeep
+|turn|9
+|
+|t:|1781149186
+|move|p2a: Zapdos|Volt Switch|p1a: Kingambit
+|-damage|p1a: Kingambit|70/100
+|
+|t:|1781149193
+|switch|p2a: Scizor|Scizor, M|100/100|[from] Volt Switch
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|76/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781149200
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|move|p2a: Scizor|U-turn|p1a: Kingambit
+|-damage|p1a: Kingambit|27/100
+|
+|t:|1781149202
+|switch|p2a: Zapdos|Zapdos|100/100|[from] U-turn
+|
+|-heal|p1a: Kingambit|34/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781149207
+|switch|p2a: Scizor|Scizor, M|100/100
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-heal|p1a: Kingambit|40/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781149211
+|move|p2a: Scizor|Bullet Punch|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|17/100
+|move|p1a: Kingambit|Low Kick|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|-heal|p1a: Kingambit|23/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781149216
+|switch|p2a: Primarina|Primarina, F|100/100
+|turn|13
+|
+|t:|1781149223
+|move|p2a: Primarina|Moonblast|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen2|[silent]
+|
+|upkeep
+|
+|t:|1781149227
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|14
+|
+|t:|1781149231
+|move|p1a: Iron Valiant|Moonblast|p2a: Primarina
+|-crit|p2a: Primarina
+|-damage|p2a: Primarina|59/100
+|move|p2a: Primarina|Moonblast|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781149235
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|turn|15
+|
+|t:|1781149239
+|move|p1a: Kommo-o|Substitute|p1a: Kommo-o
+|-start|p1a: Kommo-o|Substitute
+|-damage|p1a: Kommo-o|75/100
+|move|p2a: Primarina|Flip Turn|p1a: Kommo-o
+|-resisted|p1a: Kommo-o
+|-activate|p1a: Kommo-o|move: Substitute|[damage]
+|
+|t:|1781149241
+|switch|p2a: Garganacl|Garganacl, F|100/100|[from] Flip Turn
+|
+|-heal|p1a: Kommo-o|82/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781149245
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|49/100
+|move|p2a: Garganacl|Salt Cure|p1a: Kommo-o
+|-resisted|p1a: Kommo-o
+|-activate|p1a: Kommo-o|move: Substitute|[damage]
+|
+|-heal|p1a: Kommo-o|55/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781149248
+|move|p1a: Kommo-o|Drain Punch|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|44/100
+|-heal|p1a: Kommo-o|88/100|[from] drain|[of] p2a: Garganacl
+|move|p2a: Garganacl|Salt Cure|p1a: Kommo-o
+|-resisted|p1a: Kommo-o
+|-activate|p1a: Kommo-o|move: Substitute|[damage]
+|
+|-heal|p1a: Kommo-o|94/100|[from] item: Leftovers
+|-heal|p2a: Garganacl|50/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781149253
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|61/100
+|
+|-heal|p1a: Kommo-o|67/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781149258
+|-terastallize|p2a: Zapdos|Steel
+|move|p1a: Kommo-o|Drain Punch|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|-heal|p1a: Kommo-o|100/100|[from] drain|[of] p2a: Zapdos
+|faint|p2a: Zapdos
+|
+|upkeep
+|-message|SkyHighMiles forfeited.
+|
+|win|KurisuChestnutOU
+|raw|KurisuChestnutOU's rating: 1580 &rarr; <strong>1597</strong><br />(+17 for winning)
+|raw|SkyHighMiles's rating: 1536 &rarr; <strong>1519</strong><br />(-17 for losing)
+|l|☆SkyHighMiles
+|player|p2|

@@ -1,0 +1,308 @@
+|j|☆dsekop
+|j|☆Exxxn
+|t:|1781579017
+|gametype|singles
+|player|p1|dsekop|unknown|1743
+|player|p2|Exxxn|2|1735
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Glimmora, F|
+|poke|p1|Iron Treads|
+|poke|p1|Polteageist-Antique|
+|poke|p1|Raging Bolt|
+|poke|p1|Dragonite, M|
+|poke|p1|Zamazenta-*|
+|poke|p2|Dragapult, M|
+|poke|p2|Glimmora, M|
+|poke|p2|Dondozo, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Gardevoir, M|
+|poke|p2|Great Tusk|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by dsekop)
+|
+|t:|1781579020
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781579022
+|move|p1a: Iron Treads|Stealth Rock|p2a: Ogerpon
+|-sidestart|p2: Exxxn|move: Stealth Rock
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781579026
+|move|p1a: Iron Treads|Knock Off|p2a: Ogerpon
+|-damage|p2a: Ogerpon|85/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Iron Treads|[anim] Ivy Cudgel Water
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781579031
+|switch|p1a: Polteageist|Polteageist-Antique|100/100
+|turn|3
+|
+|t:|1781579035
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|
+|upkeep
+|turn|4
+|
+|t:|1781579043
+|switch|p2a: Dondozo|Dondozo, F|100/100
+|-damage|p2a: Dondozo|88/100|[from] Stealth Rock
+|move|p1a: Polteageist|Stored Power|p2a: Dondozo
+|-damage|p2a: Dondozo|51/100
+|
+|-heal|p2a: Dondozo|58/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781579049
+|move|p1a: Polteageist|Stored Power|p2a: Dondozo
+|-damage|p2a: Dondozo|18/100
+|move|p2a: Dondozo|Liquidation|p1a: Polteageist
+|-damage|p1a: Polteageist|51/100
+|-ability|p1a: Polteageist|Weak Armor|boost
+|-unboost|p1a: Polteageist|def|1
+|-boost|p1a: Polteageist|spe|2
+|
+|-heal|p2a: Dondozo|25/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781579054
+|move|p2a: Dondozo|Protect|p2a: Dondozo
+|-singleturn|p2a: Dondozo|Protect
+|move|p1a: Polteageist|Stored Power|p2a: Dondozo
+|-activate|p2a: Dondozo|move: Protect
+|
+|-heal|p2a: Dondozo|31/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781579058
+|move|p1a: Polteageist|Stored Power|p2a: Dondozo
+|-damage|p2a: Dondozo|0 fnt
+|faint|p2a: Dondozo
+|
+|upkeep
+|
+|t:|1781579060
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1781579064
+|move|p2a: Dragapult|Sucker Punch||[still]
+|-fail|p2a: Dragapult
+|move|p1a: Polteageist|Pain Split|p2a: Dragapult
+|-sethp|p2a: Dragapult|65/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Polteageist|79/100|[from] move: Pain Split
+|
+|upkeep
+|turn|9
+|
+|t:|1781579072
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|move|p2a: Dragapult|Sucker Punch||[still]
+|-fail|p2a: Dragapult
+|
+|upkeep
+|turn|10
+|
+|t:|1781579078
+|-terastallize|p2a: Dragapult|Dragon
+|move|p1a: Glimmora|Power Gem|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1781579084
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-damage|p2a: Great Tusk|98/100|[from] Stealth Rock
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|11
+|
+|t:|1781579086
+|switch|p1a: Polteageist|Polteageist-Antique|79/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Polteageist
+|-damage|p1a: Polteageist|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Polteageist
+|
+|upkeep
+|
+|t:|1781579094
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|turn|12
+|
+|t:|1781579100
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|-damage|p2a: Glimmora|88/100|[from] Stealth Rock
+|move|p1a: Glimmora|Energy Ball|p2a: Glimmora
+|-damage|p2a: Glimmora|51/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781579108
+|switch|p1a: 快龙一定要快|Dragonite, M|100/100
+|move|p2a: Glimmora|Meteor Beam||[still]
+|-prepare|p2a: Glimmora|Meteor Beam
+|-boost|p2a: Glimmora|spa|1
+|-enditem|p2a: Glimmora|Power Herb
+|-anim|p2a: Glimmora|Meteor Beam|p1a: 快龙一定要快
+|-supereffective|p1a: 快龙一定要快
+|-damage|p1a: 快龙一定要快|25/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781579116
+|move|p2a: Glimmora|Sludge Wave|p1a: 快龙一定要快
+|-damage|p1a: 快龙一定要快|0 fnt
+|faint|p1a: 快龙一定要快
+|
+|upkeep
+|
+|t:|1781579118
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|turn|15
+|
+|t:|1781579120
+|move|p1a: Glimmora|Earth Power|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|
+|upkeep
+|
+|t:|1781579126
+|switch|p2a: Great Tusk|Great Tusk|98/100
+|-damage|p2a: Great Tusk|95/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781579132
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Great Tusk|Rapid Spin|p1a: Zamazenta
+|-damage|p1a: Zamazenta|93/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: Exxxn|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|-heal|p1a: Zamazenta|99/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781579136
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Gardevoir|Gardevoir, M, shiny|100/100
+|-ability|p2a: Gardevoir|Dauntless Shield|Trace|[from] ability: Trace|[of] p1a: Zamazenta
+|-ability|p2a: Gardevoir|Dauntless Shield|boost
+|-boost|p2a: Gardevoir|def|1
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781579143
+|move|p1a: Glimmora|Sludge Wave|p2a: Gardevoir
+|-supereffective|p2a: Gardevoir
+|-damage|p2a: Gardevoir|39/100
+|move|p2a: Gardevoir|Psyshock|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|12/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781579159
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|85/100
+|move|p1a: Glimmora|Sludge Wave|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781579160
+|switch|p2a: Great Tusk|Great Tusk|95/100
+|turn|20
+|
+|t:|1781579163
+|switch|p1a: Zamazenta|Zamazenta|99/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Zamazenta
+|-damage|p1a: Zamazenta|86/100
+|-boost|p2a: Great Tusk|spe|1
+|
+|-heal|p1a: Zamazenta|92/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781579168
+|move|p2a: Great Tusk|Ice Spinner|p1a: Zamazenta
+|-damage|p1a: Zamazenta|73/100
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|-heal|p1a: Zamazenta|79/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781579172
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Gardevoir|Gardevoir, M, shiny|39/100
+|-ability|p2a: Gardevoir|Dauntless Shield|Trace|[from] ability: Trace|[of] p1a: Zamazenta
+|move|p1a: Zamazenta|Crunch|p2a: Gardevoir
+|-damage|p2a: Gardevoir|15/100
+|
+|-heal|p1a: Zamazenta|85/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|-message|Exxxn forfeited.
+|
+|win|dsekop
+|raw|dsekop's rating: 1743 &rarr; <strong>1763</strong><br />(+20 for winning)
+|raw|Exxxn's rating: 1735 &rarr; <strong>1715</strong><br />(-20 for losing)
+|l|☆Exxxn
+|player|p2|
+|l|☆dsekop
+|player|p1|

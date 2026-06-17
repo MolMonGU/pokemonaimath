@@ -1,0 +1,489 @@
+|j|☆goonarmy
+|j|☆katholikon
+|t:|1781544244
+|gametype|singles
+|player|p1|goonarmy|hiker-gen4|1589
+|player|p2|katholikon|102|1572
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Gholdengo|
+|poke|p1|Ting-Lu|
+|poke|p1|Zamazenta-*|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Dragonite, M|
+|poke|p1|Clefable, F|
+|poke|p2|Iron Boulder|
+|poke|p2|Dragapult, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Great Tusk|
+|poke|p2|Ting-Lu|
+|poke|p2|Corviknight, F|
+|teampreview
+|
+|t:|1781544272
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Clefable|Clefable, F|100/100
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|1
+|
+|t:|1781544279
+|move|p2a: Dragapult|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|93/100
+|-damage|p2a: Dragapult|84/100|[from] item: Rocky Helmet|[of] p1a: Clefable
+|
+|t:|1781544280
+|switch|p2a: Corviknight|Corviknight, F|100/100|[from] U-turn
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Clefable|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|90/100
+|-enditem|p2a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p1a: Clefable
+|
+|upkeep
+|turn|2
+|
+|t:|1781544287
+|move|p2a: Corviknight|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|87/100
+|-damage|p2a: Corviknight|74/100|[from] item: Rocky Helmet|[of] p1a: Clefable
+|
+|t:|1781544289
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] U-turn
+|move|p1a: Clefable|Stealth Rock|p2a: Raging Bolt
+|-sidestart|p2: katholikon|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781544294
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Ting-Lu
+|-immune|p1a: Ting-Lu
+|
+|upkeep
+|turn|4
+|
+|t:|1781544301
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-damage|p2a: Great Tusk|98/100|[from] Stealth Rock
+|move|p1a: Ting-Lu|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|71/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781544310
+|move|p2a: Great Tusk|Knock Off|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|86/100
+|-damage|p2a: Great Tusk|54/100|[from] item: Rocky Helmet|[of] p1a: Ting-Lu
+|-enditem|p1a: Ting-Lu|Rocky Helmet|[from] move: Knock Off|[of] p2a: Great Tusk
+|move|p1a: Ting-Lu|Whirlwind|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|drag|p2a: Corviknight|Corviknight, F|74/100
+|-damage|p2a: Corviknight|61/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|
+|upkeep
+|turn|6
+|
+|t:|1781544319
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Corviknight|U-turn|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|97/100
+|
+|t:|1781544323
+|switch|p2a: Ting-Lu|Ting-Lu|100/100|[from] U-turn
+|-damage|p2a: Ting-Lu|94/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|-heal|p2a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781544333
+|switch|p1a: Clefable|Clefable, F|87/100
+|move|p2a: Ting-Lu|Spikes|p1a: Clefable
+|-sidestart|p1: goonarmy|Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1781544340
+|move|p1a: Clefable|Moonblast|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|77/100
+|-unboost|p2a: Ting-Lu|spa|1
+|move|p2a: Ting-Lu|Spikes|p1a: Clefable
+|-sidestart|p1: goonarmy|Spikes
+|
+|-heal|p2a: Ting-Lu|83/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781544345
+|switch|p2a: Corviknight|Corviknight, F|61/100
+|-damage|p2a: Corviknight|49/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Clefable|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|41/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781544352
+|switch|p1a: Gholdengo|Gholdengo|97/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|91/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|11
+|
+|t:|1781544361
+|move|p1a: Gholdengo|Thunder Wave|p2a: Corviknight
+|-status|p2a: Corviknight|par
+|move|p2a: Corviknight|U-turn|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|94/100
+|
+|t:|1781544363
+|switch|p2a: Ting-Lu|Ting-Lu|83/100|[from] U-turn
+|-damage|p2a: Ting-Lu|77/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|-heal|p2a: Ting-Lu|83/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781544368
+|switch|p1a: Clefable|Clefable, F|87/100
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Clefable
+|-sidestart|p1: goonarmy|move: Stealth Rock
+|
+|-heal|p2a: Ting-Lu|89/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781544372
+|move|p1a: Clefable|Knock Off|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|85/100
+|-enditem|p2a: Ting-Lu|Leftovers|[from] move: Knock Off|[of] p1a: Clefable
+|move|p2a: Ting-Lu|Spikes|p1a: Clefable
+|-sidestart|p1: goonarmy|Spikes
+|
+|upkeep
+|turn|14
+|
+|t:|1781544381
+|switch|p2a: Corviknight|Corviknight, F|91/100 par
+|-damage|p2a: Corviknight|79/100 par|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Clefable|Moonblast|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|67/100 par
+|
+|upkeep
+|turn|15
+|
+|t:|1781544386
+|switch|p1a: Gholdengo|Gholdengo|94/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100 par
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|16
+|
+|t:|1781544393
+|move|p1a: Gholdengo|Hex|p2a: Corviknight
+|-damage|p2a: Corviknight|41/100 par
+|move|p2a: Corviknight|U-turn|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|90/100
+|
+|t:|1781544396
+|switch|p2a: Great Tusk|Great Tusk|54/100|[from] U-turn
+|-damage|p2a: Great Tusk|51/100|[from] Stealth Rock
+|
+|upkeep
+|turn|17
+|
+|t:|1781544404
+|move|p2a: Great Tusk|Headlong Rush|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781544410
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|18
+|
+|t:|1781544414
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Ting-Lu|Ting-Lu|85/100
+|-damage|p2a: Ting-Lu|79/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Deoxys|Ice Beam|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|56/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781544454
+|switch|p1a: Clefable|Clefable, F|87/100
+|move|p2a: Ting-Lu|Whirlwind|p1a: Clefable
+|drag|p1a: Dragonite|Dragonite, M|100/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781544464
+|switch|p1a: Clefable|Clefable, F|87/100
+|move|p2a: Ting-Lu|Whirlwind|p1a: Clefable
+|drag|p1a: Dragonite|Dragonite, M|100/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781544472
+|move|p2a: Ting-Lu|Ruination|p1a: Dragonite
+|-damage|p1a: Dragonite|51/100
+|move|p1a: Dragonite|Dragon Tail|p2a: Ting-Lu|[miss]
+|-miss|p1a: Dragonite|p2a: Ting-Lu
+|
+|upkeep
+|turn|22
+|
+|t:|1781544479
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|100/100
+|-singleturn|p1a: Dragonite|move: Roost
+|move|p2a: Ting-Lu|Whirlwind|p1a: Dragonite
+|drag|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|
+|upkeep
+|turn|23
+|
+|t:|1781544489
+|move|p1a: Deoxys|Nasty Plot|p1a: Deoxys
+|-boost|p1a: Deoxys|spa|2
+|move|p2a: Ting-Lu|Ruination|p1a: Deoxys
+|-damage|p1a: Deoxys|51/100
+|
+|upkeep
+|turn|24
+|
+|t:|1781544491
+|move|p1a: Deoxys|Ice Beam|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|9/100
+|move|p2a: Ting-Lu|Whirlwind|p1a: Deoxys
+|drag|p1a: Ting-Lu|Ting-Lu|86/100
+|-damage|p1a: Ting-Lu|62/100|[from] Spikes
+|-damage|p1a: Ting-Lu|55/100|[from] Stealth Rock
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|
+|upkeep
+|turn|25
+|
+|t:|1781544498
+|move|p1a: Ting-Lu|Earthquake|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781544501
+|switch|p2a: Great Tusk|Great Tusk|51/100
+|-damage|p2a: Great Tusk|48/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1781544511
+|move|p2a: Great Tusk|Close Combat|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781544518
+|switch|p1a: Deoxys|Deoxys-Speed|51/100
+|-ability|p1a: Deoxys|Pressure
+|turn|27
+|
+|t:|1781544521
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Corviknight|Corviknight, F|41/100 par
+|-damage|p2a: Corviknight|28/100 par|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Deoxys|Ice Beam|p2a: Corviknight
+|-damage|p2a: Corviknight|7/100 par
+|
+|upkeep
+|turn|28
+|
+|t:|1781544524
+|move|p1a: Deoxys|Ice Beam|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781544527
+|switch|p2a: Iron Boulder|Iron Boulder|100/100
+|-damage|p2a: Iron Boulder|88/100|[from] Stealth Rock
+|-enditem|p2a: Iron Boulder|Booster Energy
+|-activate|p2a: Iron Boulder|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Boulder|quarkdrivespe
+|turn|29
+|
+|t:|1781544532
+|switch|p1a: Clefable|Clefable, F|87/100
+|move|p2a: Iron Boulder|Swords Dance|p2a: Iron Boulder
+|-boost|p2a: Iron Boulder|atk|2
+|
+|upkeep
+|turn|30
+|
+|t:|1781544537
+|move|p2a: Iron Boulder|Mighty Cleave|p1a: Clefable
+|-damage|p1a: Clefable|3/100
+|-damage|p2a: Iron Boulder|72/100|[from] item: Rocky Helmet|[of] p1a: Clefable
+|move|p1a: Clefable|Knock Off|p2a: Iron Boulder
+|-supereffective|p2a: Iron Boulder
+|-damage|p2a: Iron Boulder|46/100
+|
+|upkeep
+|turn|31
+|
+|t:|1781544545
+|move|p2a: Iron Boulder|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1781544549
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|32
+|
+|t:|1781544557
+|-terastallize|p2a: Iron Boulder|Fighting
+|-terastallize|p1a: Zamazenta|Dark
+|move|p2a: Iron Boulder|Close Combat|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|-unboost|p2a: Iron Boulder|def|1
+|-unboost|p2a: Iron Boulder|spd|1
+|faint|p1a: Zamazenta
+|
+|upkeep
+|c|☆goonarmy|Nice
+|
+|t:|1781544573
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|33
+|
+|t:|1781544575
+|move|p1a: Dragonite|Extreme Speed|p2a: Iron Boulder
+|-damage|p2a: Iron Boulder|0 fnt
+|faint|p2a: Iron Boulder
+|-end|p2a: Iron Boulder|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781544577
+|switch|p2a: Dragapult|Dragapult, M|84/100
+|-damage|p2a: Dragapult|72/100|[from] Stealth Rock
+|turn|34
+|
+|t:|1781544584
+|move|p2a: Dragapult|U-turn|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|97/100
+|
+|t:|1781544586
+|switch|p2a: Great Tusk|Great Tusk|48/100|[from] U-turn
+|-damage|p2a: Great Tusk|45/100|[from] Stealth Rock
+|move|p1a: Dragonite|Dragon Tail|p2a: Great Tusk
+|-damage|p2a: Great Tusk|21/100
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|drag|p2a: Dragapult|Dragapult, M|72/100
+|-damage|p2a: Dragapult|59/100|[from] Stealth Rock
+|
+|upkeep
+|turn|35
+|
+|t:|1781544595
+|move|p2a: Dragapult|Draco Meteor|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1781544598
+|switch|p1a: Deoxys|Deoxys-Speed|51/100
+|-ability|p1a: Deoxys|Pressure
+|turn|36
+|
+|t:|1781544600
+|move|p1a: Deoxys|Ice Beam|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1781544601
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|turn|37
+|c|☆goonarmy|Gg
+|c|☆goonarmy|Wp
+|
+|t:|1781544612
+|move|p1a: Deoxys|Ice Beam|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|34/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|win|katholikon
+|raw|goonarmy's rating: 1589 &rarr; <strong>1568</strong><br />(-21 for losing)
+|raw|katholikon's rating: 1572 &rarr; <strong>1593</strong><br />(+21 for winning)
+|l|☆goonarmy
+|player|p1|
+|l|☆katholikon
+|player|p2|

@@ -1,0 +1,588 @@
+|j|☆The median voter
+|j|☆KurisuChestnutOU
+|t:|1781152639
+|gametype|singles
+|player|p1|The median voter|scientist-gen4dp|1509
+|player|p2|KurisuChestnutOU|may-contest|1516
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Great Tusk|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Alomomola, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Rillaboom, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Zapdos|
+|poke|p2|Garganacl, F|
+|poke|p2|Clefable, F|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Gholdengo|
+|teampreview
+|
+|t:|1781152645
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Preacher|Zapdos|100/100
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutOU)
+|
+|t:|1781152653
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Preacher|Discharge|p2a: Zapdos
+|-damage|p2a: Zapdos|70/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781152659
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Preacher|U-turn|p2a: Zapdos
+|-damage|p2a: Zapdos|91/100
+|
+|t:|1781152663
+|switch|p1a: The End of All|Hoopa-Unbound|100/100|[from] U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1781152666
+|move|p2a: Zapdos|Volt Switch|p1a: The End of All
+|-damage|p1a: The End of All|85/100
+|
+|t:|1781152672
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100|[from] Volt Switch
+|move|p1a: The End of All|Drain Punch|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|28/100
+|-heal|p1a: The End of All|100/100|[from] drain|[of] p2a: Samurott
+|
+|upkeep
+|turn|4
+|
+|t:|1781152683
+|switch|p1a: Zealot|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Zealot
+|move|p2a: Samurott|Ceaseless Edge|p1a: Zealot
+|-damage|p1a: Zealot|58/100
+|-sidestart|p1: The median voter|Spikes
+|
+|-heal|p2a: Samurott|34/100|[from] Grassy Terrain
+|-heal|p1a: Zealot|65/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781152690
+|switch|p2a: Zapdos|Zapdos|91/100
+|move|p1a: Zealot|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|76/100
+|
+|t:|1781152695
+|switch|p1a: The End of All|Hoopa-Unbound|100/100|[from] U-turn
+|-damage|p1a: The End of All|88/100|[from] Spikes
+|
+|-heal|p1a: The End of All|94/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781152701
+|move|p2a: Zapdos|Volt Switch|p1a: The End of All
+|-damage|p1a: The End of All|80/100
+|
+|t:|1781152704
+|switch|p2a: Zamazenta|Zamazenta|100/100|[from] Volt Switch
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: The End of All|Psychic Noise|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|32/100
+|-start|p2a: Zamazenta|move: Heal Block
+|
+|-heal|p1a: The End of All|86/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781152709
+|switch|p1a: Preacher|Zapdos|100/100
+|move|p2a: Zamazenta|Body Press|p1a: Preacher
+|-resisted|p1a: Preacher
+|-damage|p1a: Preacher|83/100
+|
+|-end|p2a: Zamazenta|move: Heal Block
+|upkeep
+|turn|8
+|
+|t:|1781152715
+|switch|p2a: Garganacl|Garganacl, F|100/100
+|move|p1a: Preacher|U-turn|p2a: Garganacl
+|-damage|p2a: Garganacl|91/100
+|
+|t:|1781152718
+|switch|p1a: Zealot|Rillaboom, F|65/100|[from] U-turn
+|-damage|p1a: Zealot|52/100|[from] Spikes
+|
+|-heal|p1a: Zealot|58/100|[from] Grassy Terrain
+|-heal|p2a: Garganacl|97/100|[from] Grassy Terrain
+|-heal|p2a: Garganacl|100/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781152723
+|switch|p2a: Zapdos|Zapdos|76/100
+|move|p1a: Zealot|Wood Hammer|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|40/100
+|-status|p1a: Zealot|par|[from] ability: Static|[of] p2a: Zapdos
+|-damage|p1a: Zealot|46/100 par|[from] Recoil
+|
+|upkeep
+|turn|10
+|
+|t:|1781152728
+|switch|p1a: Preacher|Zapdos|83/100
+|move|p2a: Zapdos|Hurricane|p1a: Preacher
+|-resisted|p1a: Preacher
+|-damage|p1a: Preacher|60/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781152736
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|90/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Preacher|U-turn|p2a: Zapdos
+|-damage|p2a: Zapdos|80/100
+|
+|t:|1781152738
+|switch|p1a: The End of All|Hoopa-Unbound|86/100|[from] U-turn
+|-damage|p1a: The End of All|74/100|[from] Spikes
+|
+|upkeep
+|turn|12
+|
+|t:|1781152742
+|move|p2a: Zapdos|Volt Switch|p1a: The End of All
+|-crit|p1a: The End of All
+|-damage|p1a: The End of All|54/100
+|
+|t:|1781152745
+|switch|p2a: Zamazenta|Zamazenta|32/100|[from] Volt Switch
+|move|p1a: The End of All|Drain Punch|p2a: Zamazenta
+|-damage|p2a: Zamazenta|10/100
+|-heal|p1a: The End of All|66/100|[from] drain|[of] p2a: Zamazenta
+|
+|-heal|p2a: Zamazenta|16/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781152750
+|switch|p1a: Preacher|Zapdos|60/100
+|move|p2a: Zamazenta|Body Press|p1a: Preacher
+|-resisted|p1a: Preacher
+|-damage|p1a: Preacher|48/100
+|
+|-heal|p2a: Zamazenta|22/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781152756
+|switch|p2a: Zapdos|Zapdos|80/100
+|move|p1a: Preacher|Roost|p1a: Preacher
+|-heal|p1a: Preacher|98/100
+|-singleturn|p1a: Preacher|move: Roost
+|
+|upkeep
+|turn|15
+|
+|t:|1781152760
+|move|p2a: Zapdos|Volt Switch|p1a: Preacher
+|-damage|p1a: Preacher|70/100
+|
+|t:|1781152764
+|switch|p2a: Garganacl|Garganacl, F|100/100|[from] Volt Switch
+|move|p1a: Preacher|Discharge|p2a: Garganacl
+|-crit|p2a: Garganacl
+|-damage|p2a: Garganacl|70/100
+|
+|-heal|p2a: Garganacl|76/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781152768
+|move|p1a: Preacher|U-turn|p2a: Garganacl
+|-crit|p2a: Garganacl
+|-damage|p2a: Garganacl|63/100
+|
+|t:|1781152770
+|switch|p1a: Templar|Great Tusk|100/100|[from] U-turn
+|move|p2a: Garganacl|Salt Cure|p1a: Templar
+|-resisted|p1a: Templar
+|-damage|p1a: Templar|98/100
+|-start|p1a: Templar|Salt Cure
+|
+|-heal|p2a: Garganacl|69/100|[from] item: Leftovers
+|-damage|p1a: Templar|85/100|[from] Salt Cure
+|upkeep
+|turn|17
+|
+|t:|1781152773
+|-end|p1a: Templar|Protosynthesis|[silent]
+|switch|p1a: The End of All|Hoopa-Unbound|66/100
+|-damage|p1a: The End of All|53/100|[from] Spikes
+|switch|p2a: Zapdos|Zapdos|80/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781152778
+|move|p2a: Zapdos|Volt Switch|p1a: The End of All
+|-damage|p1a: The End of All|38/100
+|
+|t:|1781152784
+|switch|p2a: Gholdengo|Gholdengo|100/100|[from] Volt Switch
+|move|p1a: The End of All|Hyperspace Fury|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|-unboost|p1a: The End of All|def|1
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781152789
+|switch|p2a: Samurott|Samurott-Hisui, F|34/100
+|turn|19
+|
+|t:|1781152795
+|switch|p1a: Acolyte|Iron Valiant|100/100
+|-damage|p1a: Acolyte|88/100|[from] Spikes
+|-enditem|p1a: Acolyte|Booster Energy
+|-activate|p1a: Acolyte|ability: Quark Drive|[fromitem]
+|-start|p1a: Acolyte|quarkdrivespe
+|move|p2a: Samurott|Ceaseless Edge|p1a: Acolyte
+|-resisted|p1a: Acolyte
+|-damage|p1a: Acolyte|73/100
+|-sidestart|p1: The median voter|Spikes
+|
+|upkeep
+|turn|20
+|
+|t:|1781152802
+|switch|p2a: Zapdos|Zapdos|80/100
+|move|p1a: Acolyte|Moonblast|p2a: Zapdos
+|-damage|p2a: Zapdos|32/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781152808
+|-terastallize|p2a: Zapdos|Steel
+|move|p1a: Acolyte|Moonblast|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|10/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|60/100
+|
+|upkeep
+|turn|22
+|
+|t:|1781152815
+|move|p1a: Acolyte|Encore|p2a: Zapdos
+|-start|p2a: Zapdos|Encore
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781152819
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Acolyte|Calm Mind|p1a: Acolyte
+|-boost|p1a: Acolyte|spa|1
+|-boost|p1a: Acolyte|spd|1
+|
+|upkeep
+|turn|24
+|
+|t:|1781152822
+|move|p1a: Acolyte|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|58/100
+|move|p2a: Clefable|Moonblast|p1a: Acolyte
+|-supereffective|p1a: Acolyte
+|-damage|p1a: Acolyte|0 fnt
+|faint|p1a: Acolyte
+|-end|p1a: Acolyte|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781152828
+|switch|p1a: The End of All|Hoopa-Unbound|38/100
+|-damage|p1a: The End of All|21/100|[from] Spikes
+|turn|25
+|
+|t:|1781152832
+|switch|p2a: Samurott|Samurott-Hisui, F|34/100
+|move|p1a: The End of All|Hyperspace Fury|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|-unboost|p1a: The End of All|def|1
+|faint|p2a: Samurott
+|
+|upkeep
+|
+|t:|1781152839
+|switch|p2a: Zamazenta|Zamazenta|22/100
+|turn|26
+|
+|t:|1781152846
+|switch|p1a: Preacher|Zapdos|70/100
+|move|p2a: Zamazenta|Body Press|p1a: Preacher
+|-resisted|p1a: Preacher
+|-damage|p1a: Preacher|60/100
+|
+|-heal|p2a: Zamazenta|28/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781152850
+|switch|p2a: Garganacl|Garganacl, F|69/100
+|move|p1a: Preacher|Roost|p1a: Preacher
+|-heal|p1a: Preacher|100/100
+|-singleturn|p1a: Preacher|move: Roost
+|
+|-heal|p2a: Garganacl|75/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781152857
+|move|p1a: Preacher|Discharge|p2a: Garganacl
+|-damage|p2a: Garganacl|51/100
+|move|p2a: Garganacl|Salt Cure|p1a: Preacher
+|-supereffective|p1a: Preacher
+|-damage|p1a: Preacher|83/100
+|-start|p1a: Preacher|Salt Cure
+|
+|-heal|p2a: Garganacl|57/100|[from] item: Leftovers
+|-damage|p1a: Preacher|70/100|[from] Salt Cure
+|upkeep
+|turn|29
+|
+|t:|1781152864
+|switch|p2a: Clefable|Clefable, F|58/100
+|move|p1a: Preacher|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|52/100
+|
+|t:|1781152869
+|switch|p1a: Templar|Great Tusk|85/100|[from] U-turn
+|
+|upkeep
+|turn|30
+|
+|t:|1781152873
+|-terastallize|p1a: Templar|Steel
+|move|p1a: Templar|Rapid Spin|p2a: Clefable
+|-damage|p2a: Clefable|40/100
+|-boost|p1a: Templar|spe|1
+|-sideend|p1: The median voter|Spikes|[from] move: Rapid Spin|[of] p1a: Templar
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|90/100
+|
+|upkeep
+|turn|31
+|
+|t:|1781152879
+|-end|p1a: Templar|Protosynthesis|[silent]
+|switch|p1a: Holy Envoy|Alomomola, F|100/100
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|32
+|
+|t:|1781152882
+|move|p2a: Clefable|Moonblast|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|86/100
+|move|p1a: Holy Envoy|Flip Turn|p2a: Clefable
+|-damage|p2a: Clefable|88/100
+|
+|t:|1781152886
+|switch|p1a: The End of All|Hoopa-Unbound|21/100|[from] Flip Turn
+|
+|upkeep
+|turn|33
+|
+|t:|1781152888
+|switch|p2a: Zapdos|Zapdos, tera:Steel|100/100
+|move|p1a: The End of All|Psychic Noise|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|79/100
+|-start|p2a: Zapdos|move: Heal Block
+|
+|upkeep
+|turn|34
+|
+|t:|1781152894
+|move|p2a: Zapdos|Hurricane|p1a: The End of All
+|-damage|p1a: The End of All|0 fnt
+|faint|p1a: The End of All
+|
+|-end|p2a: Zapdos|move: Heal Block
+|upkeep
+|
+|t:|1781152897
+|switch|p1a: Templar|Great Tusk, tera:Steel|85/100
+|turn|35
+|
+|t:|1781152905
+|switch|p2a: Zamazenta|Zamazenta|28/100
+|move|p1a: Templar|Headlong Rush|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|-unboost|p1a: Templar|def|1
+|-unboost|p1a: Templar|spd|1
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781152910
+|switch|p2a: Clefable|Clefable, F|88/100
+|turn|36
+|
+|t:|1781152915
+|-end|p1a: Templar|Protosynthesis|[silent]
+|switch|p1a: Holy Envoy|Alomomola, F|100/100
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|37
+|
+|t:|1781152918
+|move|p2a: Clefable|Thunder Wave|p1a: Holy Envoy
+|-status|p1a: Holy Envoy|par
+|move|p1a: Holy Envoy|Mirror Coat||[still]
+|-fail|p1a: Holy Envoy
+|
+|upkeep
+|turn|38
+|
+|t:|1781152926
+|switch|p2a: Zapdos|Zapdos, tera:Steel|79/100
+|move|p1a: Holy Envoy|Flip Turn|p2a: Zapdos
+|-damage|p2a: Zapdos|66/100
+|
+|t:|1781152929
+|switch|p1a: Templar|Great Tusk, tera:Steel|85/100|[from] Flip Turn
+|
+|upkeep
+|turn|39
+|
+|t:|1781152933
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Templar|Headlong Rush|p2a: Clefable
+|-damage|p2a: Clefable|51/100
+|-unboost|p1a: Templar|def|1
+|-unboost|p1a: Templar|spd|1
+|
+|upkeep
+|turn|40
+|
+|t:|1781152937
+|move|p1a: Templar|Headlong Rush|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|-unboost|p1a: Templar|def|1
+|-unboost|p1a: Templar|spd|1
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1781152941
+|switch|p2a: Zapdos|Zapdos, tera:Steel|66/100
+|turn|41
+|
+|t:|1781152947
+|-end|p1a: Templar|Protosynthesis|[silent]
+|switch|p1a: Holy Envoy|Alomomola, F|100/100 par
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|
+|upkeep
+|turn|42
+|
+|t:|1781152950
+|move|p2a: Zapdos|Volt Switch|p1a: Holy Envoy
+|-supereffective|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|74/100 par
+|
+|t:|1781152956
+|switch|p2a: Garganacl|Garganacl, F|57/100|[from] Volt Switch
+|move|p1a: Holy Envoy|Flip Turn|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|35/100
+|
+|t:|1781152958
+|switch|p1a: Templar|Great Tusk, tera:Steel|85/100|[from] Flip Turn
+|
+|-heal|p2a: Garganacl|41/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1781152963
+|move|p1a: Templar|Headlong Rush|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|-unboost|p1a: Templar|def|1
+|-unboost|p1a: Templar|spd|1
+|faint|p2a: Garganacl
+|
+|upkeep
+|
+|t:|1781152970
+|switch|p2a: Zapdos|Zapdos, tera:Steel|100/100
+|turn|44
+|
+|t:|1781152975
+|-end|p1a: Templar|Protosynthesis|[silent]
+|switch|p1a: Holy Envoy|Alomomola, F|100/100 par
+|move|p2a: Zapdos|Hurricane|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|80/100 par
+|
+|upkeep
+|turn|45
+|
+|t:|1781152980
+|move|p2a: Zapdos|Hurricane|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|58/100 par
+|move|p1a: Holy Envoy|Mirror Coat|p2a: Zapdos
+|-damage|p2a: Zapdos|39/100
+|
+|upkeep
+|turn|46
+|
+|t:|1781152985
+|move|p2a: Zapdos|Discharge|p1a: Holy Envoy
+|-supereffective|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|24/100 par
+|move|p1a: Holy Envoy|Mirror Coat|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|win|The median voter
+|raw|The median voter's rating: 1509 &rarr; <strong>1532</strong><br />(+23 for winning)
+|raw|KurisuChestnutOU's rating: 1558 &rarr; <strong>1535</strong><br />(-23 for losing)

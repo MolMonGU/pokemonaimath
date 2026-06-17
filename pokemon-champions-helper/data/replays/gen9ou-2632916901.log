@@ -1,0 +1,240 @@
+|j|☆dsekop
+|j|‽rrbrru
+|t:|1781578401
+|gametype|singles
+|player|p1|dsekop|unknown|1727
+|player|p2|rrbrru|101|1657
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Glimmora, M|
+|poke|p1|Iron Treads|
+|poke|p1|Polteageist-Antique|
+|poke|p1|Raging Bolt|
+|poke|p1|Dragonite, F|
+|poke|p1|Zamazenta-*|
+|poke|p2|Tyranitar, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Hydrapple, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Alomomola, F|
+|poke|p2|Houndstone, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by dsekop)
+|
+|t:|1781578409
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781578422
+|move|p1a: Iron Treads|Stealth Rock|p2a: Tyranitar
+|-sidestart|p2: rrbrru|move: Stealth Rock
+|move|p2a: Tyranitar|Low Kick|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|46/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781578429
+|move|p1a: Iron Treads|Endeavor|p2a: Tyranitar
+|-damage|p2a: Tyranitar|44/100
+|move|p2a: Tyranitar|Low Kick|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|50/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781578441
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|turn|3
+|
+|t:|1781578461
+|move|p1a: Glimmora|Earth Power|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|21/100
+|move|p2a: Tyranitar|Knock Off|p1a: Glimmora
+|-damage|p1a: Glimmora|41/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: rrbrru|move: Toxic Spikes
+|-enditem|p1a: Glimmora|Choice Scarf|[from] move: Knock Off|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|27/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781578473
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|-damage|p2a: Excadrill|97/100|[from] Stealth Rock
+|move|p1a: Glimmora|Earth Power|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|15/100
+|-unboost|p2a: Excadrill|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Excadrill|22/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781578479
+|switch|p1a: Polteageist|Polteageist-Antique|100/100
+|move|p2a: Excadrill|Earthquake|p1a: Polteageist
+|-enditem|p1a: Polteageist|Focus Sash
+|-damage|p1a: Polteageist|1/100
+|-ability|p1a: Polteageist|Weak Armor|boost
+|-unboost|p1a: Polteageist|def|1
+|-boost|p1a: Polteageist|spe|2
+|
+|-weather|none
+|-heal|p2a: Excadrill|28/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781578486
+|switch|p2a: Tyranitar|Tyranitar, M|27/100
+|-damage|p2a: Tyranitar|14/100|[from] Stealth Rock
+|-status|p2a: Tyranitar|psn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Polteageist|Pain Split|p2a: Tyranitar
+|-sethp|p2a: Tyranitar|7/100 psn|[from] move: Pain Split|[silent]
+|-sethp|p1a: Polteageist|11/100|[from] move: Pain Split
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Polteageist|5/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|14/100 psn|[from] item: Leftovers
+|-damage|p2a: Tyranitar|1/100 psn|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1781578494
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Polteageist|Shadow Ball|p2a: Alomomola
+|-damage|p2a: Alomomola|61/100
+|-unboost|p2a: Alomomola|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Polteageist|0 fnt|[from] Sandstorm
+|-damage|p2a: Alomomola|55/100|[from] Sandstorm
+|faint|p1a: Polteageist
+|upkeep
+|
+|t:|1781578499
+|switch|p1a: Glimmora|Glimmora, M|41/100
+|turn|8
+|inactive|rrbrru has 120 seconds left.
+|
+|t:|1781578536
+|move|p1a: Glimmora|Energy Ball|p2a: Alomomola
+|-supereffective|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781578539
+|switch|p2a: Excadrill|Excadrill, M|28/100
+|-damage|p2a: Excadrill|25/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1781578543
+|move|p2a: Excadrill|Rapid Spin|p1a: Glimmora
+|-resisted|p1a: Glimmora
+|-crit|p1a: Glimmora
+|-damage|p1a: Glimmora|22/100
+|-boost|p2a: Excadrill|spe|1
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: rrbrru|move: Toxic Spikes
+|-sideend|p2: rrbrru|Toxic Spikes|[from] move: Rapid Spin|[of] p2a: Excadrill
+|-sideend|p2: rrbrru|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Excadrill
+|move|p1a: Glimmora|Energy Ball|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781578557
+|switch|p2a: Hydrapple|Hydrapple, F|100/100
+|turn|10
+|
+|t:|1781578562
+|switch|p1a: 快龙一定要快|Dragonite, F|100/100
+|move|p2a: Hydrapple|Giga Drain|p1a: 快龙一定要快
+|-resisted|p1a: 快龙一定要快
+|-damage|p1a: 快龙一定要快|96/100
+|
+|-weather|none
+|upkeep
+|turn|11
+|
+|t:|1781578576
+|move|p1a: 快龙一定要快|Outrage|p2a: Hydrapple
+|-supereffective|p2a: Hydrapple
+|-damage|p2a: Hydrapple|0 fnt
+|faint|p2a: Hydrapple
+|
+|upkeep
+|
+|t:|1781578581
+|switch|p2a: Tyranitar|Tyranitar, M|1/100 psn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|12
+|
+|t:|1781578587
+|move|p1a: 快龙一定要快|Outrage|p2a: Tyranitar|[from] lockedmove
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: 快龙一定要快|90/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781578590
+|switch|p2a: Houndstone|Houndstone, F|100/100
+|turn|13
+|
+|t:|1781578593
+|move|p2a: Houndstone|Poltergeist|p1a: 快龙一定要快
+|-activate|p1a: 快龙一定要快|move: Poltergeist|Choice Band
+|-damage|p1a: 快龙一定要快|23/100
+|move|p1a: 快龙一定要快|Outrage|p2a: Houndstone|[from] lockedmove
+|-damage|p2a: Houndstone|0 fnt
+|faint|p2a: Houndstone
+|-start|p1a: 快龙一定要快|confusion|[fatigue]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: 快龙一定要快|17/100|[from] Sandstorm
+|upkeep
+|-message|rrbrru forfeited.
+|
+|win|dsekop
+|raw|dsekop's rating: 1727 &rarr; <strong>1743</strong><br />(+16 for winning)
+|raw|rrbrru's rating: 1657 &rarr; <strong>1641</strong><br />(-16 for losing)
+|l|‽rrbrru
+|player|p2|
+|l|☆dsekop
+|player|p1|

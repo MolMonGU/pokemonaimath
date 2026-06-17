@@ -1,0 +1,425 @@
+|j|☆CyborgParrot127
+|j|☆DON family
+|t:|1781543501
+|gametype|singles
+|player|p1|CyborgParrot127|clerk|1696
+|player|p2|DON family|101|1702
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Great Tusk|
+|poke|p1|Walking Wake|
+|poke|p1|Hatterene, F|
+|poke|p1|Entei|
+|poke|p1|Venusaur, M|
+|poke|p1|Ninetales, M|
+|poke|p2|Kingambit, M|
+|poke|p2|Kommo-o, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Kyurem|
+|poke|p2|Iron Treads|
+|poke|p2|Iron Crown|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by CyborgParrot127)
+|c|☆DON family|hf
+|c|☆CyborgParrot127|u2
+|inactive|CyborgParrot127 has 120 seconds left.
+|
+|t:|1781543549
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781543556
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Ninetales|Ninetales, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781543570
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|move|p2a: Iron Treads|Earthquake|p1a: Walking Wake
+|-damage|p1a: Walking Wake|62/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781543589
+|move|p1a: Walking Wake|Flamethrower|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781543591
+|switch|p2a: Kommo-o|Kommo-o, F|100/100
+|turn|4
+|
+|t:|1781543598
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|68/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Kommo-o|74/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781543608
+|move|p2a: Kommo-o|Shadow Claw|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|56/100
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781543612
+|switch|p1a: Walking Wake|Walking Wake|62/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Kommo-o|80/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781543622
+|-terastallize|p2a: Kommo-o|Ghost
+|move|p1a: Walking Wake|Flip Turn|p2a: Kommo-o
+|-damage|p2a: Kommo-o|76/100
+|
+|t:|1781543627
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|56/100|[from] Flip Turn
+|move|p2a: Kommo-o|Drain Punch|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|47/100
+|-heal|p2a: Kommo-o|80/100|[from] drain|[of] p1a: Hatterene
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Kommo-o|87/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781543635
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|62/100
+|move|p1a: Hatterene|Dazzling Gleam|p2a: Kommo-o
+|-activate|p2a: Kommo-o|move: Substitute|[damage]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Kommo-o|68/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|CyborgParrot127 has 120 seconds left.
+|
+|t:|1781543669
+|move|p2a: Kommo-o|Shadow Claw|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-weather|none
+|-heal|p2a: Kommo-o|74/100|[from] item: Leftovers
+|upkeep
+|inactive|CyborgParrot127 has 120 seconds left.
+|
+|t:|1781543680
+|switch|p1a: Entei|Entei|100/100
+|turn|9
+|inactive|CyborgParrot127 has 120 seconds left.
+|
+|t:|1781543688
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|41/100
+|move|p1a: Entei|Sacred Fire|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|
+|-heal|p2a: Kommo-o|47/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781543701
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|22/100
+|move|p1a: Entei|Sacred Fire|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|
+|-heal|p2a: Kommo-o|29/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781543705
+|move|p2a: Kommo-o|Drain Punch|p1a: Entei
+|-damage|p1a: Entei|42/100
+|-heal|p2a: Kommo-o|59/100|[from] drain|[of] p1a: Entei
+|move|p1a: Entei|Sacred Fire|p2a: Kommo-o
+|-damage|p2a: Kommo-o|32/100
+|-status|p2a: Kommo-o|brn
+|
+|-heal|p2a: Kommo-o|38/100 brn|[from] item: Leftovers
+|-damage|p2a: Kommo-o|32/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1781543713
+|move|p2a: Kommo-o|Drain Punch|p1a: Entei
+|-damage|p1a: Entei|13/100
+|-heal|p2a: Kommo-o|47/100 brn|[from] drain|[of] p1a: Entei
+|move|p1a: Entei|Sacred Fire|p2a: Kommo-o
+|-damage|p2a: Kommo-o|18/100 brn
+|
+|-heal|p2a: Kommo-o|24/100 brn|[from] item: Leftovers
+|-damage|p2a: Kommo-o|18/100 brn|[from] brn
+|upkeep
+|turn|13
+|c|☆DON family|50/50
+|
+|t:|1781543724
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Kommo-o|Drain Punch|p1a: Great Tusk
+|-damage|p1a: Great Tusk|79/100
+|-heal|p2a: Kommo-o|30/100 brn|[from] drain|[of] p1a: Great Tusk
+|-damage|p2a: Kommo-o|13/100 brn|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|
+|-heal|p2a: Kommo-o|20/100 brn|[from] item: Leftovers
+|-damage|p2a: Kommo-o|13/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781543730
+|move|p2a: Kommo-o|Shadow Claw|p1a: Great Tusk
+|-damage|p1a: Great Tusk|60/100
+|-damage|p2a: Kommo-o|0 fnt|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|faint|p2a: Kommo-o
+|move|p1a: Great Tusk|Headlong Rush|p2: Kommo-o|[notarget]
+|-fail|p1a: Great Tusk
+|
+|upkeep
+|c|☆CyborgParrot127|yup
+|
+|t:|1781543737
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|15
+|
+|t:|1781543743
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ninetales|Ninetales, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|move|p2a: Iron Valiant|Moonblast|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|78/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781543746
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|move|p1a: Ninetales|Encore|p2a: Iron Valiant
+|-start|p2a: Iron Valiant|Encore
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781543750
+|switch|p1a: Entei|Entei|13/100
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781543762
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Entei|Sacred Fire|p2a: Kyurem
+|-damage|p2a: Kyurem|2/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781543770
+|move|p1a: Entei|Sacred Fire|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781543776
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-enditem|p2a: Iron Crown|Booster Energy
+|-activate|p2a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Crown|quarkdrivespe
+|turn|20
+|
+|t:|1781543788
+|switch|p1a: Ninetales|Ninetales, M, shiny|78/100
+|move|p2a: Iron Crown|Psychic Noise|p1a: Ninetales
+|-crit|p1a: Ninetales
+|-damage|p1a: Ninetales|29/100
+|-start|p1a: Ninetales|move: Heal Block
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781543800
+|switch|p1a: Walking Wake|Walking Wake|62/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1781543809
+|move|p1a: Walking Wake|Flamethrower|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|10/100
+|move|p2a: Iron Crown|Psychic Noise|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781543815
+|switch|p1a: Entei|Entei|13/100
+|turn|23
+|
+|t:|1781543819
+|move|p1a: Entei|Extreme Speed|p2a: Iron Crown
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781543822
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|turn|24
+|
+|t:|1781543828
+|move|p1a: Entei|Extreme Speed|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|50/100
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Entei
+|-damage|p1a: Entei|0 fnt
+|faint|p1a: Entei
+|
+|upkeep
+|
+|t:|1781543832
+|switch|p1a: Ninetales|Ninetales, M, shiny|29/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|25
+|
+|t:|1781543838
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Ninetales
+|-damage|p1a: Ninetales|3/100
+|move|p1a: Ninetales|Encore|p2a: Iron Valiant
+|-start|p2a: Iron Valiant|Encore
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1781543850
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Ninetales
+|-crit|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781543852
+|switch|p1a: Venusaur|Venusaur, M, shiny|100/100
+|turn|27
+|
+|t:|1781543855
+|move|p1a: Venusaur|Giga Drain|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|-damage|p1a: Venusaur|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781543857
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|turn|28
+|
+|t:|1781543863
+|move|p2a: Kingambit|Sucker Punch|p1a: Venusaur
+|-damage|p1a: Venusaur|13/100
+|move|p1a: Venusaur|Weather Ball|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen5|[silent]
+|-damage|p1a: Venusaur|3/100|[from] item: Life Orb
+|
+|win|CyborgParrot127
+|raw|CyborgParrot127's rating: 1696 &rarr; <strong>1716</strong><br />(+20 for winning)
+|raw|DON family's rating: 1702 &rarr; <strong>1682</strong><br />(-20 for losing)
+|l|☆DON family
+|player|p2|
+|l|☆CyborgParrot127
+|player|p1|

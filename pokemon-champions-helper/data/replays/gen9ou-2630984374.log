@@ -1,0 +1,472 @@
+|j|☆rekjllj
+|j|☆arturohdez
+|t:|1781320543
+|gametype|singles
+|player|p1|rekjllj|169|1643
+|player|p2|arturohdez|lucas|1654
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, F|
+|poke|p1|Kommo-o, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Crown|
+|poke|p2|Gliscor, M|
+|poke|p2|Okidogi, M|
+|poke|p2|Iron Treads|
+|poke|p2|Dragapult, M|
+|poke|p2|Primarina, F|
+|poke|p2|Latios, M|
+|teampreview
+|c|☆rekjllj|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by rekjllj)
+|
+|t:|1781320560
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|switch|p2a: Primarina|Primarina, F, shiny|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|turn|1
+|
+|t:|1781320565
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|move|p2a: Primarina|Flip Turn|p1a: Iron Crown
+|-damage|p1a: Iron Crown|86/100
+|
+|t:|1781320567
+|switch|p2a: Dragapult|Dragapult, M, shiny|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|2
+|
+|t:|1781320573
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Dragapult
+|-damage|p2a: Dragapult|49/100
+|-damage|p2a: Dragapult|3/100
+|-hitcount|p2a: Dragapult|2
+|move|p2a: Dragapult|Thunder Wave|p1a: Iron Crown
+|-status|p1a: Iron Crown|par
+|
+|-heal|p2a: Dragapult|9/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781320581
+|move|p2a: Dragapult|Hex|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|18/100 par
+|cant|p1a: Iron Crown|par
+|
+|-heal|p2a: Dragapult|15/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781320588
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|move|p2a: Dragapult|Hex|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|83/100
+|
+|-heal|p2a: Dragapult|21/100|[from] item: Leftovers
+|-heal|p1a: Kingambit|89/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781320599
+|switch|p2a: Gliscor|Gliscor, M, shiny|100/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|95/100|[from] item: Leftovers
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|6
+|
+|t:|1781320605
+|move|p2a: Gliscor|Earthquake|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|43/100
+|move|p1a: Kingambit|Iron Head|p2a: Gliscor
+|-damage|p2a: Gliscor|39/100 tox
+|
+|-heal|p1a: Kingambit|49/100|[from] item: Leftovers
+|-heal|p2a: Gliscor|52/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|7
+|
+|t:|1781320613
+|-terastallize|p1a: Kingambit|Ghost
+|move|p2a: Gliscor|Earthquake|p1a: Kingambit
+|-damage|p1a: Kingambit|18/100
+|move|p1a: Kingambit|Iron Head|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|-heal|p1a: Kingambit|24/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781320636
+|switch|p2a: Iron Treads|Iron Treads, shiny|100/100
+|turn|8
+|
+|t:|1781320642
+|move|p1a: Kingambit|Sucker Punch|p2a: Iron Treads
+|-damage|p2a: Iron Treads|40/100
+|move|p2a: Iron Treads|Earthquake|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|
+|-heal|p2a: Iron Treads|46/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781320649
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|9
+|
+|t:|1781320662
+|move|p1a: Iron Treads|Stealth Rock|p2a: Iron Treads
+|-sidestart|p2: arturohdez|move: Stealth Rock
+|move|p2a: Iron Treads|Rapid Spin|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|96/100
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: arturohdez|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|
+|-heal|p2a: Iron Treads|52/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781320668
+|move|p1a: Iron Treads|Earthquake|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781320674
+|switch|p2a: Primarina|Primarina, F, shiny|100/100
+|turn|11
+|
+|t:|1781320680
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Kommo-o|Kommo-o, F|100/100
+|move|p2a: Primarina|Psychic Noise|p1a: Kommo-o
+|-immune|p1a: Kommo-o|[from] ability: Soundproof
+|
+|upkeep
+|turn|12
+|
+|t:|1781320686
+|move|p1a: Kommo-o|Substitute|p1a: Kommo-o
+|-start|p1a: Kommo-o|Substitute
+|-damage|p1a: Kommo-o|75/100
+|move|p2a: Primarina|Moonblast|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-end|p1a: Kommo-o|Substitute
+|
+|-heal|p1a: Kommo-o|82/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781320690
+|switch|p1a: Iron Treads|Iron Treads|96/100
+|move|p2a: Primarina|Moonblast|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|63/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781320694
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Kommo-o|Kommo-o, F|82/100
+|move|p2a: Primarina|Psychic Noise|p1a: Kommo-o
+|-immune|p1a: Kommo-o|[from] ability: Soundproof
+|
+|-heal|p1a: Kommo-o|88/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781320698
+|switch|p1a: Iron Treads|Iron Treads|63/100
+|move|p2a: Primarina|Moonblast|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|34/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781320704
+|switch|p2a: Dragapult|Dragapult, M, shiny|21/100
+|move|p1a: Iron Treads|Endeavor|p2a: Dragapult
+|-immune|p2a: Dragapult
+|
+|-heal|p2a: Dragapult|27/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781320714
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Iron Crown|Iron Crown|18/100 par
+|move|p2a: Dragapult|Hex|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|-heal|p2a: Dragapult|33/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781320721
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|18
+|
+|t:|1781320747
+|switch|p2a: Primarina|Primarina, F, shiny|100/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Primarina
+|-damage|p2a: Primarina|74/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781320752
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Iron Treads|Iron Treads|34/100
+|move|p2a: Primarina|Moonblast|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|5/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781320762
+|switch|p2a: Okidogi|Okidogi, M|100/100
+|move|p1a: Iron Treads|Stealth Rock|p2a: Okidogi
+|-sidestart|p2: arturohdez|move: Stealth Rock
+|
+|upkeep
+|turn|21
+|
+|t:|1781320769
+|move|p1a: Iron Treads|Endeavor|p2a: Okidogi
+|-damage|p2a: Okidogi|6/100
+|move|p2a: Okidogi|Knock Off|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781320777
+|switch|p1a: Kommo-o|Kommo-o, F|88/100
+|turn|22
+|
+|t:|1781320783
+|switch|p2a: Primarina|Primarina, F, shiny|74/100
+|-damage|p2a: Primarina|62/100|[from] Stealth Rock
+|move|p1a: Kommo-o|Shadow Claw|p2a: Primarina
+|-damage|p2a: Primarina|40/100
+|
+|-heal|p1a: Kommo-o|94/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781320789
+|move|p1a: Kommo-o|Substitute|p1a: Kommo-o
+|-start|p1a: Kommo-o|Substitute
+|-damage|p1a: Kommo-o|69/100
+|move|p2a: Primarina|Moonblast|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-end|p1a: Kommo-o|Substitute
+|
+|-heal|p1a: Kommo-o|75/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781320793
+|move|p1a: Kommo-o|Substitute|p1a: Kommo-o
+|-start|p1a: Kommo-o|Substitute
+|-damage|p1a: Kommo-o|50/100
+|move|p2a: Primarina|Moonblast|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-end|p1a: Kommo-o|Substitute
+|
+|-heal|p1a: Kommo-o|57/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781320797
+|move|p1a: Kommo-o|Substitute|p1a: Kommo-o
+|-start|p1a: Kommo-o|Substitute
+|-damage|p1a: Kommo-o|32/100
+|move|p2a: Primarina|Moonblast|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-end|p1a: Kommo-o|Substitute
+|
+|-heal|p1a: Kommo-o|38/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781320800
+|move|p1a: Kommo-o|Shadow Claw|p2a: Primarina
+|-damage|p2a: Primarina|18/100
+|move|p2a: Primarina|Moonblast|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|upkeep
+|
+|t:|1781320804
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|27
+|
+|t:|1781320808
+|move|p1a: Kyurem|Icicle Spear|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|11/100
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|3/100
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|-hitcount|p2: Primarina|3
+|
+|upkeep
+|
+|t:|1781320814
+|switch|p2a: Dragapult|Dragapult, M, shiny|33/100
+|-damage|p2a: Dragapult|20/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1781320820
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Iron Valiant
+|-status|p1a: Iron Valiant|brn
+|
+|-heal|p2a: Dragapult|26/100|[from] item: Leftovers
+|-damage|p1a: Iron Valiant|94/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1781320824
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Dragapult|Hex|p1a: Kyurem
+|-damage|p1a: Kyurem|72/100
+|
+|-heal|p2a: Dragapult|32/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781320828
+|switch|p1a: Iron Valiant|Iron Valiant|94/100 brn
+|move|p2a: Dragapult|Draco Meteor|p1a: Iron Valiant
+|-immune|p1a: Iron Valiant
+|
+|-heal|p2a: Dragapult|38/100|[from] item: Leftovers
+|-damage|p1a: Iron Valiant|88/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1781320832
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Kyurem|Kyurem|72/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Dragapult|Hex|p1a: Kyurem
+|-damage|p1a: Kyurem|43/100
+|
+|-heal|p2a: Dragapult|44/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1781320836
+|move|p2a: Dragapult|Draco Meteor|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Kyurem
+|
+|-heal|p2a: Dragapult|50/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781320839
+|switch|p1a: Iron Valiant|Iron Valiant|88/100 brn
+|turn|33
+|
+|t:|1781320845
+|switch|p2a: Okidogi|Okidogi, M|6/100
+|-damage|p2a: Okidogi|0 fnt|[from] Stealth Rock
+|faint|p2a: Okidogi
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|
+|-damage|p1a: Iron Valiant|82/100 brn|[from] brn
+|upkeep
+|
+|t:|1781320850
+|switch|p2a: Dragapult|Dragapult, M, shiny|50/100
+|-damage|p2a: Dragapult|38/100|[from] Stealth Rock
+|turn|34
+|
+|t:|1781320853
+|move|p2a: Dragapult|Hex|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|14/100 brn
+|move|p1a: Iron Valiant|Moonblast|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-damage|p1a: Iron Valiant|8/100 brn|[from] brn
+|upkeep
+|
+|t:|1781320858
+|switch|p2a: Latios|Latios, M, shiny|100/100
+|-damage|p2a: Latios|88/100|[from] Stealth Rock
+|turn|35
+|
+|t:|1781320863
+|-terastallize|p2a: Latios|Steel
+|move|p1a: Iron Valiant|Moonblast|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|49/100
+|move|p2a: Latios|Psychic Noise|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|win|arturohdez
+|raw|rekjllj's rating: 1643 &rarr; <strong>1624</strong><br />(-19 for losing)
+|raw|arturohdez's rating: 1654 &rarr; <strong>1673</strong><br />(+19 for winning)
+|c|☆rekjllj|gg

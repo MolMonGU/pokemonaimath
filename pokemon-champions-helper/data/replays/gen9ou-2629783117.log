@@ -1,0 +1,275 @@
+|j|☆Juchzer
+|j|☆snurke
+|t:|1781179564
+|gametype|singles
+|player|p1|Juchzer|2|1566
+|player|p2|snurke|sisandbro|1546
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Tentacruel, M|
+|poke|p1|Ceruledge, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Scizor, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Cinderace, F|
+|poke|p2|Torkoal, F|
+|poke|p2|Walking Wake|
+|poke|p2|Enamorus, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Great Tusk|
+|teampreview
+|j| qklingying
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by snurke)
+|
+|t:|1781179591
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|switch|p2a: Torkoal|Torkoal, F, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|1
+|
+|t:|1781179610
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Hoopa|Psychic|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781179618
+|switch|p2a: Cinderace|Cinderace, F, shiny|100/100
+|turn|2
+|
+|t:|1781179632
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Cinderace|atk|1
+|move|p2a: Cinderace|Pyro Ball|p1a: Landorus
+|-damage|p1a: Landorus|7/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781179638
+|switch|p1a: Tentacruel|Tentacruel, M|100/100
+|move|p2a: Cinderace|Pyro Ball|p1a: Tentacruel
+|-resisted|p1a: Tentacruel
+|-damage|p1a: Tentacruel|43/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781179643
+|switch|p1a: Landorus|Landorus-Therian, M|7/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Cinderace|atk|1
+|move|p2a: Cinderace|Pyro Ball|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781179649
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|turn|5
+|
+|t:|1781179664
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781179676
+|move|p2a: Walking Wake|Hydro Steam|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-enditem|p1a: Ceruledge|Focus Sash
+|-damage|p1a: Ceruledge|1/100
+|move|p1a: Ceruledge|Poltergeist|p2a: Walking Wake
+|-activate|p2a: Walking Wake|move: Poltergeist|Choice Specs
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781179695
+|switch|p2a: Cinderace|Cinderace, F, shiny|100/100
+|turn|7
+|
+|t:|1781179704
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Cinderace
+|-damage|p2a: Cinderace|37/100
+|move|p2a: Cinderace|U-turn|p1a: Ceruledge
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|t:|1781179716
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] U-turn
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781179739
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|turn|8
+|inactive|snurke has 120 seconds left.
+|
+|t:|1781179779
+|move|p1a: Hoopa|Psychic|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|67/100
+|move|p2a: Raging Bolt|Weather Ball|p1a: Hoopa
+|-damage|p1a: Hoopa|28/100
+|
+|-weather|none
+|-end|p2a: Raging Bolt|Protosynthesis
+|upkeep
+|turn|9
+|inactive|snurke has 120 seconds left.
+|
+|t:|1781179793
+|move|p1a: Hoopa|Psychic|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|29/100
+|move|p2a: Raging Bolt|Volt Switch|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|t:|1781179797
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Torkoal|Torkoal, F, shiny|100/100|[from] Volt Switch
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781179801
+|switch|p1a: Tentacruel|Tentacruel, M|43/100
+|turn|10
+|
+|t:|1781179810
+|switch|p2a: Raging Bolt|Raging Bolt|29/100
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Tentacruel|Sludge Bomb|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|14/100
+|-status|p2a: Raging Bolt|psn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Raging Bolt|2/100 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1781179820
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Raging Bolt|0 fnt|[from] psn
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|upkeep
+|
+|t:|1781179826
+|switch|p2a: Torkoal|Torkoal, F, shiny|100/100
+|turn|12
+|
+|t:|1781179845
+|switch|p1a: Tentacruel|Tentacruel, M|43/100
+|move|p2a: Torkoal|Lava Plume|p1a: Tentacruel
+|-resisted|p1a: Tentacruel
+|-damage|p1a: Tentacruel|31/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781179872
+|switch|p2a: Cinderace|Cinderace, F, shiny|37/100
+|move|p1a: Tentacruel|Sludge Bomb|p2a: Cinderace
+|-damage|p2a: Cinderace|3/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781179882
+|move|p2a: Cinderace|Pyro Ball|p1a: Tentacruel
+|-resisted|p1a: Tentacruel
+|-damage|p1a: Tentacruel|0 fnt
+|faint|p1a: Tentacruel
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781179903
+|switch|p1a: Scizor|Scizor, F|100/100
+|turn|15
+|j| peeekapeee
+|
+|t:|1781179917
+|-terastallize|p1a: Scizor|Flying
+|move|p2a: Cinderace|Pyro Ball|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|c| peeekapeee|Wassup snurke
+|
+|t:|1781179924
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|16
+|
+|t:|1781179928
+|move|p1a: Rillaboom|Grassy Glide|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|-weather|none
+|upkeep
+|
+|t:|1781179931
+|switch|p2a: Torkoal|Torkoal, F, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|17
+|-message|Juchzer forfeited.
+|
+|win|snurke
+|raw|Juchzer's rating: 1566 &rarr; <strong>1545</strong><br />(-21 for losing)
+|raw|snurke's rating: 1546 &rarr; <strong>1567</strong><br />(+21 for winning)
+|l|☆Juchzer
+|player|p1|
+|l| peeekapeee

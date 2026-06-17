@@ -1,0 +1,248 @@
+|j|☆tokiwakano
+|j|‽LT_Alt1
+|t:|1781154464
+|gametype|singles
+|player|p1|tokiwakano|acetrainerf|1729
+|player|p2|LT_Alt1|266|1618
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Clefable, M|
+|poke|p1|Meowscarada, M|
+|poke|p1|Ting-Lu|
+|poke|p1|Dragonite, F|
+|poke|p1|Gholdengo|
+|poke|p1|Zamazenta-*|
+|poke|p2|Kyurem|
+|poke|p2|Raging Bolt|
+|poke|p2|Hatterene, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Corviknight, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tokiwakano)
+|
+|t:|1781154475
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|1
+|
+|t:|1781154483
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Gholdengo|Make It Rain|p2a: Slowking
+|-damage|p2a: Slowking|55/100
+|-unboost|p1a: Gholdengo|spa|1
+|
+|upkeep
+|turn|2
+|
+|t:|1781154490
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781154494
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781154496
+|-terastallize|p1a: Ting-Lu|Water
+|move|p2a: Kyurem|Blizzard|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|83/100
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Kyurem
+|-sidestart|p2: LT_Alt1|move: Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|89/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781154504
+|move|p2a: Kyurem|Blizzard|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|70/100
+|move|p1a: Ting-Lu|Ruination|p2a: Kyurem
+|-damage|p2a: Kyurem|51/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|77/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781154509
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-damage|p2a: Hatterene|88/100|[from] Stealth Rock
+|move|p1a: Ting-Lu|Whirlwind|p2a: Hatterene
+|move|p2a: Hatterene|Whirlwind|p1a: Ting-Lu|[from] ability: Magic Bounce
+|drag|p1a: Dragonite|Dragonite, F|100/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Hatterene|94/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781154521
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Hatterene|Nuzzle|p1a: Gholdengo
+|-damage|p1a: Gholdengo|97/100
+|-status|p1a: Gholdengo|par
+|
+|-weather|none
+|-heal|p2a: Hatterene|99/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781154526
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-damage|p2a: Ting-Lu|94/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Gholdengo|Trick|p2a: Ting-Lu
+|-activate|p1a: Gholdengo|move: Trick|[of] p2a: Ting-Lu
+|-item|p2a: Ting-Lu|Choice Scarf|[from] move: Trick
+|-item|p1a: Gholdengo|Leftovers|[from] move: Trick
+|
+|-heal|p1a: Gholdengo|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781154533
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Meowscarada
+|-sidestart|p1: tokiwakano|move: Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1781154544
+|move|p1a: Meowscarada|Spikes|p2a: Ting-Lu
+|-start|p1a: Meowscarada|typechange|Ground|[from] ability: Protean
+|-sidestart|p2: LT_Alt1|Spikes
+|move|p2a: Ting-Lu|Stealth Rock||[still]
+|-fail|p2a: Ting-Lu
+|
+|upkeep
+|turn|10
+|
+|t:|1781154552
+|switch|p2a: Hatterene|Hatterene, F|99/100
+|-damage|p2a: Hatterene|88/100|[from] Stealth Rock
+|-damage|p2a: Hatterene|76/100|[from] Spikes
+|move|p1a: Meowscarada|U-turn|p2a: Hatterene
+|-crit|p2a: Hatterene
+|-damage|p2a: Hatterene|43/100
+|
+|t:|1781154560
+|switch|p1a: Gholdengo|Gholdengo|100/100 par|[from] U-turn
+|-damage|p1a: Gholdengo|94/100 par|[from] Stealth Rock
+|
+|-heal|p1a: Gholdengo|100/100 par|[from] item: Leftovers
+|-heal|p2a: Hatterene|49/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781154578
+|switch|p2a: Ting-Lu|Ting-Lu|94/100
+|-damage|p2a: Ting-Lu|88/100|[from] Stealth Rock
+|-damage|p2a: Ting-Lu|76/100|[from] Spikes
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Gholdengo|Shadow Ball|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|65/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781154584
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Ting-Lu|Ruination|p1a: Clefable
+|-damage|p1a: Clefable|50/100
+|
+|-heal|p1a: Clefable|57/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781154592
+|switch|p2a: Slowking|Slowking-Galar, F|88/100
+|-damage|p2a: Slowking|76/100|[from] Stealth Rock
+|-damage|p2a: Slowking|63/100|[from] Spikes
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781154600
+|switch|p1a: Ting-Lu|Ting-Lu, tera:Water|77/100
+|-damage|p1a: Ting-Lu|64/100|[from] Stealth Rock
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Slowking|Flamethrower|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-crit|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|57/100
+|
+|-heal|p1a: Ting-Lu|64/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781154609
+|move|p1a: Ting-Lu|Earthquake|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-enditem|p2a: Slowking|Shuca Berry|[eat]
+|-enditem|p2a: Slowking|Shuca Berry|[weaken]
+|-damage|p2a: Slowking|33/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|49/100
+|
+|-heal|p1a: Ting-Lu|55/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781154614
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ting-Lu|Whirlwind|p2a: Corviknight
+|drag|p2a: Hatterene|Hatterene, F|49/100
+|-damage|p2a: Hatterene|37/100|[from] Stealth Rock
+|-damage|p2a: Hatterene|25/100|[from] Spikes
+|
+|-heal|p1a: Ting-Lu|61/100|[from] item: Leftovers
+|-heal|p2a: Hatterene|31/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781154619
+|move|p1a: Ting-Lu|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|-heal|p1a: Ting-Lu|68/100|[from] item: Leftovers
+|upkeep
+|-message|LT_Alt1 forfeited.
+|
+|win|tokiwakano
+|raw|tokiwakano's rating: 1729 &rarr; <strong>1743</strong><br />(+14 for winning)
+|raw|LT_Alt1's rating: 1618 &rarr; <strong>1604</strong><br />(-14 for losing)
+|l|‽LT_Alt1
+|player|p2|
+|l|☆tokiwakano
+|player|p1|

@@ -1,0 +1,347 @@
+|j|☆ChessAddict_
+|j|☆Albret
+|t:|1780931077
+|gametype|singles
+|player|p1|ChessAddict_|266|1630
+|player|p2|Albret|preschoolerf|1694
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Blaziken, F|
+|poke|p1|Ninetales, F|
+|poke|p1|Venusaur, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Walking Wake|
+|poke|p2|Dragapult, F|
+|poke|p2|Gliscor, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Iron Crown|
+|poke|p2|Ting-Lu|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ChessAddict_)
+|j| michealjackkson
+|j|@Sacred
+|
+|t:|1780931093
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1780931101
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Ogerpon|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|66/100
+|-enditem|p1a: Hatterene|Eject Button|[from] move: Knock Off|[of] p2a: Ogerpon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|j| Hakone Outbound
+|
+|t:|1780931109
+|move|p2a: Ogerpon|U-turn|p1a: Hatterene
+|-damage|p1a: Hatterene|41/100
+|
+|t:|1780931111
+|switch|p2a: Gliscor|Gliscor, F|100/100|[from] U-turn
+|move|p1a: Hatterene|Nuzzle|p2a: Gliscor
+|-immune|p2a: Gliscor
+|
+|-weather|SunnyDay|[upkeep]
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|3
+|
+|t:|1780931115
+|move|p2a: Gliscor|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|13/100
+|move|p1a: Hatterene|Pain Split|p2a: Gliscor
+|-sethp|p2a: Gliscor|56/100 tox|[from] move: Pain Split|[silent]
+|-sethp|p1a: Hatterene|62/100|[from] move: Pain Split
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Gliscor|68/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|4
+|
+|t:|1780931130
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Gliscor|Protect||[still]
+|-fail|p2a: Gliscor
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Gliscor|81/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|5
+|
+|t:|1780931137
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Great Tusk|Stealth Rock|p2a: Gliscor
+|-sidestart|p2: Albret|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Gliscor|93/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|6
+|
+|t:|1780931157
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|88/100|[from] Stealth Rock
+|move|p1a: Great Tusk|Ice Spinner|p2a: Ogerpon
+|-damage|p2a: Ogerpon|39/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1780931174
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|62/100
+|move|p2a: Ogerpon|U-turn|p1a: Hatterene
+|-damage|p1a: Hatterene|37/100
+|
+|t:|1780931186
+|switch|p2a: Ting-Lu|Ting-Lu|100/100|[from] U-turn
+|-damage|p2a: Ting-Lu|94/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1780931190
+|move|p2a: Ting-Lu|Heavy Slam|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-weather|none
+|upkeep
+|
+|t:|1780931194
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|9
+|
+|t:|1780931197
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|switch|p2a: Gliscor|Gliscor, F|93/100 tox
+|-damage|p2a: Gliscor|81/100 tox|[from] Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Gliscor|93/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|10
+|
+|t:|1780931205
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Walking Wake|Hydro Steam|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|11
+|
+|t:|1780931212
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Blaziken|Blaziken, F|100/100
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|39/100
+|-damage|p2a: Ogerpon|26/100|[from] Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1780931220
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Blaziken|[anim] Ivy Cudgel Water
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|9/100
+|move|p1a: Blaziken|Focus Energy|p1a: Blaziken
+|-start|p1a: Blaziken|move: Focus Energy
+|
+|-weather|SunnyDay|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|13
+|
+|t:|1780931239
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-item|p2a: Kingambit|Air Balloon
+|move|p1a: Blaziken|Overheat|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-crit|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1a: Blaziken|spa|2
+|-enditem|p2a: Kingambit|Air Balloon
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1780931244
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|14
+|
+|t:|1780931259
+|-terastallize|p1a: Blaziken|Fire
+|move|p1a: Blaziken|Overheat|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|-unboost|p1a: Blaziken|spa|2
+|faint|p2a: Dragapult
+|
+|-weather|SunnyDay|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1780931265
+|switch|p2a: Ting-Lu|Ting-Lu|94/100
+|-damage|p2a: Ting-Lu|88/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|15
+|
+|t:|1780931273
+|move|p1a: Blaziken|Overheat|p2a: Ting-Lu
+|-crit|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|-unboost|p1a: Blaziken|spa|2
+|faint|p2a: Ting-Lu
+|
+|-weather|SunnyDay|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1780931278
+|switch|p2a: Gliscor|Gliscor, F|100/100 tox
+|-damage|p2a: Gliscor|88/100 tox|[from] Stealth Rock
+|turn|16
+|
+|t:|1780931284
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Gliscor|Protect||[still]
+|-fail|p2a: Gliscor
+|
+|-weather|none
+|-end|p1a: Great Tusk|Protosynthesis
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|17
+|
+|t:|1780931292
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|-terastallize|p2a: Gliscor|Fairy
+|move|p2a: Gliscor|Toxic|p1a: Ninetales
+|-status|p1a: Ninetales|tox
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Ninetales|94/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1780931298
+|switch|p1a: Blaziken|Blaziken, F, tera:Fire|9/100
+|move|p2a: Gliscor|Toxic Spikes|p1a: Blaziken
+|-sidestart|p1: ChessAddict_|move: Toxic Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1780931314
+|move|p1a: Blaziken|Overheat|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|-unboost|p1a: Blaziken|spa|2
+|faint|p2a: Gliscor
+|
+|-weather|SunnyDay|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1780931319
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-damage|p2a: Iron Crown|94/100|[from] Stealth Rock
+|-enditem|p2a: Iron Crown|Booster Energy
+|-activate|p2a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Crown|quarkdrivespe
+|turn|20
+|
+|t:|1780931325
+|move|p2a: Iron Crown|Psychic|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1780931331
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-status|p1a: Walking Wake|psn
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|21
+|
+|t:|1780931338
+|move|p1a: Walking Wake|Flamethrower|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Walking Wake|88/100 psn|[from] psn
+|upkeep
+|
+|t:|1780931340
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|26/100
+|-damage|p2a: Ogerpon|14/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1780931342
+|move|p1a: Walking Wake|Flamethrower|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|win|ChessAddict_
+|raw|ChessAddict_'s rating: 1630 &rarr; <strong>1654</strong><br />(+24 for winning)
+|raw|Albret's rating: 1694 &rarr; <strong>1670</strong><br />(-24 for losing)
+|l|☆Albret
+|player|p2|
+|l|☆ChessAddict_
+|player|p1|
+|l|@Sacred
+|l| michealjackkson

@@ -1,0 +1,431 @@
+|j|☆SofteLocke
+|j|☆SmolTuna
+|t:|1781541853
+|gametype|singles
+|player|p1|SofteLocke|170|1642
+|player|p2|SmolTuna|rocketexecutivef-gen2|1571
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torkoal, M|
+|poke|p1|Walking Wake|
+|poke|p1|Great Tusk|
+|poke|p1|Hatterene, F|
+|poke|p1|Ceruledge, M|
+|poke|p1|Raging Bolt|
+|poke|p2|Great Tusk|
+|poke|p2|Gholdengo|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Lokix, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Alomomola, L99, F|
+|teampreview
+|
+|t:|1781541865
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|switch|p2a: Great Tusk|Great Tusk, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|1
+|
+|t:|1781541869
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Hatterene
+|-damage|p1a: Hatterene|34/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781541873
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781541885
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, L99, F, shiny|100/100
+|move|p1a: Walking Wake|Hydro Steam|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|83/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SmolTuna)
+|
+|t:|1781541903
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Alomomola|Flip Turn|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|89/100
+|
+|t:|1781541912
+|switch|p2a: Iron Valiant|Iron Valiant, shiny|100/100|[from] Flip Turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781541919
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781541927
+|switch|p2a: Lokix|Lokix, M, shiny|100/100
+|turn|5
+|
+|t:|1781541934
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|34/100
+|move|p2a: Lokix|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781541937
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|6
+|
+|t:|1781541944
+|switch|p2a: Gholdengo|Gholdengo, shiny|100/100
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781541946
+|switch|p2a: Great Tusk|Great Tusk, shiny|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|7
+|
+|t:|1781541954
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Great Tusk|Great Tusk|89/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Great Tusk|Headlong Rush|p1a: Great Tusk
+|-damage|p1a: Great Tusk|34/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781541966
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, L99, F, shiny|100/100
+|move|p1a: Great Tusk|Close Combat|p2a: Alomomola
+|-damage|p2a: Alomomola|41/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-weather|none
+|-end|p1a: Great Tusk|Protosynthesis
+|upkeep
+|turn|9
+|
+|t:|1781541972
+|switch|p2a: Mandibuzz|Mandibuzz, F, shiny|100/100
+|move|p1a: Great Tusk|Close Combat|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|64/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1781541975
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Mandibuzz|Roost|p2a: Mandibuzz
+|-heal|p2a: Mandibuzz|100/100
+|-singleturn|p2a: Mandibuzz|move: Roost
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781541979
+|move|p2a: Mandibuzz|U-turn|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|97/100
+|
+|t:|1781541981
+|switch|p2a: Alomomola|Alomomola, L99, F, shiny|74/100|[from] U-turn
+|move|p1a: Torkoal|Will-O-Wisp|p2a: Alomomola|[miss]
+|-miss|p1a: Torkoal|p2a: Alomomola
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781541986
+|move|p2a: Alomomola|Scald|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|82/100
+|move|p1a: Torkoal|Will-O-Wisp|p2a: Alomomola
+|-status|p2a: Alomomola|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Alomomola|68/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1781541988
+|move|p2a: Alomomola|Scald|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|63/100
+|move|p1a: Torkoal|Stealth Rock|p2a: Alomomola
+|-sidestart|p2: SmolTuna|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Alomomola|62/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781541991
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Alomomola|Scald|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|97/100
+|-status|p1a: Raging Bolt|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Raging Bolt|91/100 brn|[from] brn
+|-damage|p2a: Alomomola|56/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781541996
+|-terastallize|p2a: Alomomola|Fairy
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Alomomola
+|-immune|p2a: Alomomola
+|move|p2a: Alomomola|Flip Turn|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|90/100 brn
+|
+|t:|1781542000
+|switch|p2a: Great Tusk|Great Tusk, shiny|100/100|[from] Flip Turn
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Raging Bolt|83/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1781542004
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Great Tusk|Great Tusk|34/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Great Tusk|Headlong Rush|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781542008
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|turn|17
+|
+|t:|1781542020
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Mandibuzz|Mandibuzz, F, shiny|100/100
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|-weather|none
+|upkeep
+|turn|18
+|
+|t:|1781542031
+|move|p1a: Ceruledge|Bitter Blade|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|48/100
+|move|p2a: Mandibuzz|Foul Play|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-enditem|p1a: Ceruledge|Focus Sash
+|-damage|p1a: Ceruledge|1/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|
+|upkeep
+|turn|19
+|
+|t:|1781542035
+|move|p1a: Ceruledge|Bitter Blade|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|0 fnt
+|-heal|p1a: Ceruledge|36/100|[from] drain|[of] p2a: Mandibuzz
+|faint|p2a: Mandibuzz
+|
+|upkeep
+|
+|t:|1781542037
+|switch|p2a: Lokix|Lokix, M, shiny|100/100
+|-damage|p2a: Lokix|76/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1781542040
+|switch|p1a: Torkoal|Torkoal, M|63/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Lokix|First Impression|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|25/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781542053
+|switch|p2a: Alomomola|Alomomola, L99, F, shiny, tera:Fairy|89/100 brn
+|-damage|p2a: Alomomola|77/100 brn|[from] Stealth Rock
+|switch|p1a: Ceruledge|Ceruledge, M|36/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Alomomola|71/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1781542057
+|move|p1a: Ceruledge|Bitter Blade|p2a: Alomomola
+|-damage|p2a: Alomomola|20/100 brn
+|-heal|p1a: Ceruledge|77/100|[from] drain|[of] p2a: Alomomola
+|move|p2a: Alomomola|Flip Turn|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|66/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|
+|t:|1781542060
+|switch|p2a: Lokix|Lokix, M, shiny|76/100|[from] Flip Turn
+|-damage|p2a: Lokix|51/100|[from] Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1781542065
+|switch|p1a: Torkoal|Torkoal, M|25/100
+|move|p2a: Lokix|First Impression|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781542067
+|switch|p1a: Ceruledge|Ceruledge, M|66/100
+|turn|24
+|
+|t:|1781542071
+|switch|p2a: Alomomola|Alomomola, L99, F, shiny, tera:Fairy|53/100 brn
+|-damage|p2a: Alomomola|41/100 brn|[from] Stealth Rock
+|move|p1a: Ceruledge|Bitter Blade|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|-heal|p1a: Ceruledge|98/100|[from] drain|[of] p2a: Alomomola
+|faint|p2a: Alomomola
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781542073
+|switch|p2a: Great Tusk|Great Tusk, shiny|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|25
+|c|☆SmolTuna|gg
+|c|☆SofteLocke|gg
+|
+|t:|1781542087
+|switch|p1a: Raging Bolt|Raging Bolt|83/100 brn
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Great Tusk|Headlong Rush|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781542088
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|26
+|
+|t:|1781542092
+|move|p1a: Walking Wake|Hydro Steam|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781542094
+|switch|p2a: Lokix|Lokix, M, shiny|51/100
+|-damage|p2a: Lokix|26/100|[from] Stealth Rock
+|turn|27
+|
+|t:|1781542096
+|move|p1a: Walking Wake|Hydro Steam|p2a: Lokix
+|-damage|p2a: Lokix|0 fnt
+|faint|p2a: Lokix
+|
+|win|SofteLocke
+|raw|SofteLocke's rating: 1642 &rarr; <strong>1658</strong><br />(+16 for winning)
+|raw|SmolTuna's rating: 1571 &rarr; <strong>1555</strong><br />(-16 for losing)
+|l|☆SmolTuna
+|player|p2|
+|l|☆SofteLocke
+|player|p1|

@@ -1,0 +1,329 @@
+|j|☆bigballs01
+|j|☆GODKUD
+|t:|1781485573
+|gametype|singles
+|player|p1|bigballs01|swimmer-gen4dp|1591
+|player|p2|GODKUD|ghetsis-gen5bw|1601
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Kyurem|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Kingambit, M|
+|poke|p2|Hydreigon, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Sandy Shocks|
+|poke|p2|Quaquaval, F|
+|poke|p2|Ceruledge, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by bigballs01)
+|
+|t:|1781485592
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Sandy Shocks|Sandy Shocks|100/100
+|-enditem|p2a: Sandy Shocks|Booster Energy
+|-activate|p2a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p2a: Sandy Shocks|protosynthesisspe
+|turn|1
+|
+|t:|1781485602
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Sandy Shocks|Volt Switch|p1a: Hatterene
+|-damage|p1a: Hatterene|67/100
+|
+|t:|1781485605
+|-end|p2a: Sandy Shocks|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|2
+|
+|t:|1781485610
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|switch|p2a: Sandy Shocks|Sandy Shocks|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781485616
+|move|p2a: Sandy Shocks|Earth Power|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|33/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781485623
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781485627
+|move|p2a: Sandy Shocks|Stealth Rock|p1a: Kyurem
+|-sidestart|p1: bigballs01|move: Stealth Rock
+|move|p1a: Kyurem|Blizzard|p2a: Sandy Shocks
+|-supereffective|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|0 fnt
+|faint|p2a: Sandy Shocks
+|-end|p2a: Sandy Shocks|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781485631
+|switch|p2a: Quaquaval|Quaquaval, F|100/100
+|turn|5
+|
+|t:|1781485644
+|move|p1a: Kyurem|Blizzard|p2a: Quaquaval
+|-resisted|p2a: Quaquaval
+|-damage|p2a: Quaquaval|65/100
+|move|p2a: Quaquaval|Aqua Step|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|88/100
+|-boost|p2a: Quaquaval|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781485649
+|switch|p1a: Hatterene|Hatterene, F|67/100
+|-damage|p1a: Hatterene|55/100|[from] Stealth Rock
+|move|p2a: Quaquaval|Aqua Step|p1a: Hatterene
+|-damage|p1a: Hatterene|23/100
+|-boost|p2a: Quaquaval|spe|1
+|-damage|p2a: Quaquaval|49/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781485656
+|move|p2a: Quaquaval|Aqua Step|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-boost|p2a: Quaquaval|spe|1
+|-damage|p2a: Quaquaval|32/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|faint|p1a: Hatterene
+|-ability|p2a: Quaquaval|Moxie|boost
+|-boost|p2a: Quaquaval|atk|1
+|
+|-weather|none
+|upkeep
+|
+|t:|1781485670
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|98/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1781485682
+|-terastallize|p1a: Great Tusk|Steel
+|move|p2a: Quaquaval|Aqua Step|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|37/100
+|-boost|p2a: Quaquaval|spe|1
+|-damage|p2a: Quaquaval|16/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|move|p1a: Great Tusk|Headlong Rush|p2a: Quaquaval
+|-damage|p2a: Quaquaval|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Quaquaval
+|
+|upkeep
+|
+|t:|1781485692
+|switch|p2a: God of Destruction|Hydreigon, M|100/100
+|turn|9
+|
+|t:|1781485701
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|-damage|p1a: Tornadus|76/100|[from] Stealth Rock
+|move|p2a: God of Destruction|Dark Pulse|p1a: Tornadus
+|-damage|p1a: Tornadus|39/100
+|-damage|p2a: God of Destruction|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|10
+|
+|t:|1781485706
+|move|p1a: Tornadus|U-turn|p2a: God of Destruction
+|-supereffective|p2a: God of Destruction
+|-damage|p2a: God of Destruction|59/100
+|
+|t:|1781485711
+|switch|p1a: Great Tusk|Great Tusk, tera:Steel|37/100|[from] U-turn
+|-damage|p1a: Great Tusk|31/100|[from] Stealth Rock
+|move|p2a: God of Destruction|Dark Pulse|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|-damage|p2a: God of Destruction|49/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781485717
+|switch|p1a: Tornadus|Tornadus-Therian, M|72/100
+|-damage|p1a: Tornadus|47/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1781485721
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Tornadus|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|98/100
+|-damage|p1a: Tornadus|31/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|t:|1781485724
+|switch|p1a: Kyurem|Kyurem|88/100|[from] U-turn
+|-damage|p1a: Kyurem|63/100|[from] Stealth Rock
+|-ability|p1a: Kyurem|Pressure
+|
+|upkeep
+|turn|12
+|
+|t:|1781485731
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Kyurem|Ice Beam|p2a: Slowking
+|-damage|p2a: Slowking|57/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781485736
+|move|p1a: Kyurem|Ice Beam|p2a: Slowking
+|-damage|p2a: Slowking|12/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Kyurem
+|-damage|p1a: Kyurem|32/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781485739
+|move|p1a: Kyurem|Ice Beam|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781485741
+|switch|p2a: God of Destruction|Hydreigon, M|49/100
+|turn|15
+|
+|t:|1781485743
+|move|p2a: God of Destruction|Flash Cannon|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|-damage|p2a: God of Destruction|39/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781485745
+|switch|p1a: Tornadus|Tornadus-Therian, M|64/100
+|-damage|p1a: Tornadus|39/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781485748
+|move|p1a: Tornadus|U-turn|p2a: God of Destruction
+|-supereffective|p2a: God of Destruction
+|-damage|p2a: God of Destruction|4/100
+|
+|t:|1781485750
+|switch|p1a: Slowking|Slowking-Galar, M|67/100|[from] U-turn
+|-damage|p1a: Slowking|54/100|[from] Stealth Rock
+|move|p2a: God of Destruction|Draco Meteor|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|-unboost|p2a: God of Destruction|spa|2
+|faint|p1a: Slowking
+|-damage|p2a: God of Destruction|0 fnt|[from] item: Life Orb
+|faint|p2a: God of Destruction
+|
+|upkeep
+|
+|t:|1781485755
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|17
+|
+|t:|1781485758
+|move|p2a: Ceruledge|Bitter Blade|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|19/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-enditem|p2a: Ceruledge|Focus Sash
+|-damage|p2a: Ceruledge|1/100
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|
+|-heal|p1a: Kingambit|25/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781485763
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|17/100
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-heal|p1a: Kingambit|24/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781485768
+|move|p2a: Ceruledge|Bitter Blade|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|-heal|p2a: Ceruledge|17/100|[from] drain|[of] p1a: Kingambit
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|
+|upkeep
+|
+|t:|1781485770
+|switch|p1a: Tornadus|Tornadus-Therian, M|73/100
+|-damage|p1a: Tornadus|48/100|[from] Stealth Rock
+|turn|20
+|c|☆bigballs01|gg
+|
+|t:|1781485775
+|move|p2a: Ceruledge|Bitter Blade|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|-heal|p2a: Ceruledge|45/100|[from] drain|[of] p1a: Tornadus
+|faint|p1a: Tornadus
+|
+|win|GODKUD
+|raw|bigballs01's rating: 1591 &rarr; <strong>1572</strong><br />(-19 for losing)
+|raw|GODKUD's rating: 1601 &rarr; <strong>1620</strong><br />(+19 for winning)
+|l|☆bigballs01
+|player|p1|
+|c|☆GODKUD|Gg
+|l|☆GODKUD
+|player|p2|

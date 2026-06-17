@@ -1,0 +1,330 @@
+|j|☆VALDDDD
+|j|☆norca152
+|t:|1781345403
+|gametype|singles
+|player|p1|VALDDDD|170|1498
+|player|p2|norca152|steven|1556
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Rillaboom, F|
+|poke|p1|Great Tusk|
+|poke|p1|Hawlucha, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Iron Moth|
+|poke|p1|Iron Crown|
+|poke|p2|Ditto|
+|poke|p2|Snorlax, M|
+|poke|p2|Dragonite, F|
+|poke|p2|Scizor, F|
+|poke|p2|Swampert, F|
+|poke|p2|Metagross|
+|teampreview
+|
+|t:|1781345416
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|switch|p2a: Scizor|Scizor, F, shiny|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by norca152)
+|
+|t:|1781345436
+|move|p1a: Samurott|Ceaseless Edge|p2a: Scizor
+|-damage|p2a: Scizor|58/100
+|-sidestart|p2: norca152|Spikes
+|move|p2a: Scizor|U-turn|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|5/100
+|
+|t:|1781345451
+|switch|p2a: Dragonite|Dragonite, F, shiny|100/100|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1781345460
+|move|p2a: Dragonite|Extreme Speed|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781345477
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|3
+|
+|t:|1781345501
+|switch|p2a: Swampert|Swampert, F, shiny|100/100
+|-damage|p2a: Swampert|88/100|[from] Spikes
+|move|p1a: Great Tusk|Stealth Rock|p2a: Swampert
+|-sidestart|p2: norca152|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1781345508
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Swampert|Flip Turn|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|85/100
+|
+|t:|1781345515
+|switch|p2a: Scizor|Scizor, F, shiny|58/100|[from] Flip Turn
+|-damage|p2a: Scizor|46/100|[from] Spikes
+|-damage|p2a: Scizor|33/100|[from] Stealth Rock
+|
+|-heal|p1a: Rillaboom|91/100|[from] Grassy Terrain
+|-heal|p2a: Scizor|39/100|[from] Grassy Terrain
+|-heal|p2a: Scizor|46/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781345527
+|move|p1a: Rillaboom|Knock Off|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|-enditem|p2a: Scizor|Leftovers|[from] move: Knock Off|[of] p1a: Rillaboom
+|faint|p2a: Scizor
+|
+|-heal|p1a: Rillaboom|97/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781345553
+|switch|p2a: Snorlax|Snorlax, M, shiny|100/100
+|-damage|p2a: Snorlax|88/100|[from] Spikes
+|-damage|p2a: Snorlax|76/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1781345561
+|move|p1a: Rillaboom|Knock Off|p2a: Snorlax
+|-damage|p2a: Snorlax|23/100
+|-enditem|p2a: Snorlax|Chesto Berry|[from] move: Knock Off|[of] p1a: Rillaboom
+|move|p2a: Snorlax|Curse|p2a: Snorlax
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|-heal|p1a: Rillaboom|100/100|[from] Grassy Terrain
+|-heal|p2a: Snorlax|29/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781345580
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Snorlax|Rest|p2a: Snorlax
+|-status|p2a: Snorlax|slp|[from] move: Rest
+|-heal|p2a: Snorlax|100/100 slp|[silent]
+|
+|upkeep
+|turn|8
+|
+|t:|1781345603
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|cant|p2a: Snorlax|slp
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|9
+|inactive|VALDDDD has 120 seconds left.
+|
+|t:|1781345628
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|cant|p2a: Snorlax|slp
+|
+|upkeep
+|turn|10
+|
+|t:|1781345638
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|-curestatus|p2a: Snorlax|slp|[msg]
+|move|p2a: Snorlax|Curse|p2a: Snorlax
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|upkeep
+|turn|11
+|inactive|VALDDDD has 120 seconds left.
+|
+|t:|1781345647
+|move|p1a: Hawlucha|Close Combat|p2a: Snorlax
+|-supereffective|p2a: Snorlax
+|-damage|p2a: Snorlax|5/100
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|move|p2a: Snorlax|Fire Punch|p1a: Hawlucha
+|-damage|p1a: Hawlucha|27/100
+|
+|upkeep
+|turn|12
+|inactive|VALDDDD has 120 seconds left.
+|
+|t:|1781345676
+|move|p1a: Hawlucha|Close Combat|p2a: Snorlax
+|-supereffective|p2a: Snorlax
+|-damage|p2a: Snorlax|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|faint|p2a: Snorlax
+|
+|upkeep
+|
+|t:|1781345687
+|switch|p2a: Metagross|Metagross, shiny|100/100
+|-damage|p2a: Metagross|88/100|[from] Spikes
+|-damage|p2a: Metagross|82/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1781345693
+|move|p1a: Hawlucha|Close Combat|p2a: Metagross
+|-damage|p2a: Metagross|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|faint|p2a: Metagross
+|
+|upkeep
+|
+|t:|1781345698
+|switch|p2a: Dragonite|Dragonite, F, shiny|100/100
+|turn|14
+|inactive|VALDDDD has 120 seconds left.
+|
+|t:|1781345713
+|move|p2a: Dragonite|Extreme Speed|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|upkeep
+|inactive|VALDDDD has 120 seconds left.
+|
+|t:|1781345731
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespa
+|turn|15
+|
+|t:|1781345749
+|-terastallize|p1a: Iron Moth|Fairy
+|move|p1a: Iron Moth|Dazzling Gleam|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|36/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781345760
+|-terastallize|p2a: Dragonite|Normal
+|move|p2a: Dragonite|Extreme Speed|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|inactive|VALDDDD has 90 seconds left.
+|
+|t:|1781345785
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|turn|17
+|inactive|VALDDDD has 90 seconds left.
+|
+|t:|1781345800
+|move|p2a: Dragonite|Extreme Speed|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|65/100
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|-hitcount|p2: Dragonite|1
+|
+|upkeep
+|
+|t:|1781345812
+|switch|p2a: Swampert|Swampert, F, shiny|88/100
+|-damage|p2a: Swampert|76/100|[from] Spikes
+|-damage|p2a: Swampert|70/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781345819
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Swampert|Ice Punch|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|47/100
+|
+|-heal|p1a: Rillaboom|53/100|[from] Grassy Terrain
+|-heal|p2a: Swampert|76/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1781345832
+|move|p1a: Rillaboom|Wood Hammer|p2a: Swampert
+|-supereffective|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|-damage|p1a: Rillaboom|24/100|[from] Recoil
+|
+|-heal|p1a: Rillaboom|30/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781345834
+|switch|p2a: Ditto|Ditto, shiny|100/100
+|-damage|p2a: Ditto|88/100|[from] Spikes
+|-damage|p2a: Ditto|76/100|[from] Stealth Rock
+|-transform|p2a: Ditto|p1a: Rillaboom|[from] ability: Imposter
+|turn|20
+|
+|t:|1781345846
+|move|p2a: Ditto|Wood Hammer|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|-damage|p2a: Ditto|65/100|[from] Recoil
+|
+|-heal|p2a: Ditto|71/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781345863
+|switch|p1a: Iron Crown|Iron Crown|65/100
+|turn|21
+|
+|t:|1781345869
+|move|p2a: Ditto|Wood Hammer|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|19/100
+|-damage|p2a: Ditto|54/100|[from] Recoil
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Ditto
+|-damage|p2a: Ditto|18/100
+|-damage|p2a: Ditto|0 fnt
+|faint|p2a: Ditto
+|-hitcount|p2: Ditto|2
+|
+|win|VALDDDD
+|raw|VALDDDD's rating: 1498 &rarr; <strong>1521</strong><br />(+23 for winning)
+|raw|norca152's rating: 1556 &rarr; <strong>1533</strong><br />(-23 for losing)
+|l|☆VALDDDD
+|player|p1|
+|l|☆norca152
+|player|p2|

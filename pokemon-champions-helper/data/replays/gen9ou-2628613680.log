@@ -1,0 +1,271 @@
+|j|☆vivienne black
+|j|☆hillbilly z
+|t:|1781035489
+|gametype|singles
+|player|p1|vivienne black|guitarist|1561
+|player|p2|hillbilly z|102|1528
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Moth|
+|poke|p1|Gliscor, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Zamazenta-*|
+|poke|p2|Torkoal, F|
+|poke|p2|Scovillain, F|
+|poke|p2|Walking Wake|
+|poke|p2|Hatterene, F|
+|poke|p2|Great Tusk|
+|poke|p2|Ceruledge, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hillbilly z)
+|
+|t:|1781035496
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|switch|p2a: Torkoal|Torkoal, F|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|1
+|j| Fat_Yogi
+|
+|t:|1781035499
+|move|p1a: Zamazenta|Light Screen|p1a: Zamazenta
+|-sidestart|p1: vivienne black|move: Light Screen
+|move|p2a: Torkoal|Flamethrower|p1a: Zamazenta
+|-damage|p1a: Zamazenta|76/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781035503
+|move|p1a: Zamazenta|Reflect|p1a: Zamazenta
+|-sidestart|p1: vivienne black|Reflect
+|move|p2a: Torkoal|Stealth Rock|p1a: Zamazenta
+|-sidestart|p1: vivienne black|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781035507
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-damage|p1a: Iron Moth|76/100|[from] Stealth Rock
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781035509
+|move|p1a: Iron Moth|Fiery Dance|p2a: Hatterene
+|-damage|p2a: Hatterene|48/100
+|-boost|p1a: Iron Moth|spa|1
+|-enditem|p2a: Hatterene|Eject Button
+|
+|t:|1781035513
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspa
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781035530
+|move|p1a: Iron Moth|Sludge Wave|p2a: Walking Wake
+|-damage|p2a: Walking Wake|11/100
+|move|p2a: Walking Wake|Draco Meteor|p1a: Iron Moth
+|-damage|p1a: Iron Moth|6/100
+|-unboost|p2a: Walking Wake|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781035535
+|move|p1a: Iron Moth|Fiery Dance|p2a: Walking Wake
+|-resisted|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781035538
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|turn|7
+|
+|t:|1781035543
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781035556
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-damage|p1a: Raging Bolt|88/100|[from] Stealth Rock
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|8
+|
+|t:|1781035559
+|switch|p2a: Hatterene|Hatterene, F|48/100
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Hatterene
+|-immune|p2a: Hatterene
+|
+|-weather|none
+|-end|p1a: Raging Bolt|Protosynthesis
+|-sideend|p1: vivienne black|move: Light Screen
+|upkeep
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|9
+|
+|t:|1781035566
+|switch|p2a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Torkoal
+|-damage|p2a: Torkoal|22/100
+|
+|-weather|SunnyDay|[upkeep]
+|-sideend|p1: vivienne black|Reflect
+|upkeep
+|turn|10
+|
+|t:|1781035569
+|switch|p2a: Hatterene|Hatterene, F|48/100
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Hatterene
+|-immune|p2a: Hatterene
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781035576
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781035578
+|switch|p2a: Don|Great Tusk|100/100
+|-activate|p2a: Don|ability: Protosynthesis
+|-start|p2a: Don|protosynthesisatk
+|turn|12
+|
+|t:|1781035583
+|-terastallize|p1a: Raging Bolt|Ghost
+|move|p2a: Don|Ice Spinner|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|52/100
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Don
+|-damage|p2a: Don|0 fnt
+|faint|p2a: Don
+|-end|p2a: Don|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781035587
+|switch|p2a: Scovillain|Scovillain, F|100/100
+|turn|13
+|
+|t:|1781035600
+|move|p1a: Raging Bolt|Thunderclap|p2a: Scovillain
+|-resisted|p2a: Scovillain
+|-damage|p2a: Scovillain|52/100
+|move|p2a: Scovillain|Flamethrower|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|-damage|p2a: Scovillain|42/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781035619
+|switch|p1a: Zamazenta|Zamazenta|76/100
+|-damage|p1a: Zamazenta|70/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1781035624
+|-terastallize|p2a: Scovillain|Fire
+|move|p2a: Scovillain|Flamethrower|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|-damage|p2a: Scovillain|32/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781035641
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|-damage|p1a: Hatterene|88/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1781035661
+|move|p2a: Scovillain|Flamethrower|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|-damage|p2a: Scovillain|22/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781035665
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781035667
+|move|p2a: Scovillain|Flamethrower|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|-damage|p2a: Scovillain|12/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1781035670
+|switch|p1a: Gliscor|Gliscor, F|100/100
+|-damage|p1a: Gliscor|88/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1781035677
+|move|p2a: Scovillain|Overheat|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|-unboost|p2a: Scovillain|spa|2
+|faint|p1a: Gliscor
+|-damage|p2a: Scovillain|2/100|[from] item: Life Orb
+|
+|win|hillbilly z
+|raw|vivienne black's rating: 1561 &rarr; <strong>1539</strong><br />(-22 for losing)
+|raw|hillbilly z's rating: 1528 &rarr; <strong>1550</strong><br />(+22 for winning)
+|l|☆vivienne black
+|player|p1|
+|l| Fat_Yogi

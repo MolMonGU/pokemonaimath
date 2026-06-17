@@ -1,0 +1,307 @@
+|j|☆waha8
+|j|☆Dr Gaster PHD
+|t:|1781023753
+|gametype|singles
+|player|p1|waha8|102|1589
+|player|p2|Dr Gaster PHD|ghetsis|1571
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Indeedee, M|
+|poke|p1|Cinderace, F|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Cetitan, M|
+|poke|p1|Kyurem|
+|poke|p2|Ribombee, F|
+|poke|p2|Great Tusk|
+|poke|p2|Raging Bolt|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Moth|
+|poke|p2|Rillaboom, F|
+|teampreview
+|
+|t:|1781023759
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: DeeDee|Indeedee, M|100/100
+|switch|p2a: Ribombee|Ribombee, F, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: DeeDee
+|turn|1
+|
+|t:|1781023765
+|move|p2a: Ribombee|Sticky Web|p1a: DeeDee
+|-sidestart|p1: waha8|move: Sticky Web
+|move|p1a: DeeDee|Expanding Force|p2a: Ribombee
+|-enditem|p2a: Ribombee|Focus Sash
+|-damage|p2a: Ribombee|1/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781023773
+|switch|p1a: SageOfSixPaths|Slowking-Galar, F|100/100
+|-activate|p1a: SageOfSixPaths|move: Sticky Web
+|-unboost|p1a: SageOfSixPaths|spe|1
+|move|p2a: Ribombee|Stun Spore|p1a: SageOfSixPaths
+|-status|p1a: SageOfSixPaths|par
+|
+|upkeep
+|turn|3
+|
+|t:|1781023782
+|switch|p2a: Gholdengo|Gholdengo, shiny|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|cant|p1a: SageOfSixPaths|par
+|
+|upkeep
+|turn|4
+|
+|t:|1781023787
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|move|p1a: SageOfSixPaths|Trick Room|p1a: SageOfSixPaths
+|-fieldstart|move: Trick Room|[of] p1a: SageOfSixPaths
+|
+|upkeep
+|turn|5
+|j| deadbyflinch
+|
+|t:|1781023792
+|move|p1a: SageOfSixPaths|Fire Blast|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|-enditem|p2a: Gholdengo|Air Balloon
+|faint|p2a: Gholdengo
+|-damage|p1a: SageOfSixPaths|91/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781023808
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|6
+|l| deadbyflinch
+|
+|t:|1781023815
+|move|p1a: SageOfSixPaths|Expanding Force|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|2/100
+|-damage|p1a: SageOfSixPaths|81/100 par|[from] item: Life Orb
+|move|p2a: Raging Bolt|Thunderbolt|p1a: SageOfSixPaths
+|-damage|p1a: SageOfSixPaths|28/100 par
+|
+|upkeep
+|turn|7
+|
+|t:|1781023822
+|move|p1a: SageOfSixPaths|Expanding Force|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|-damage|p1a: SageOfSixPaths|18/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781023827
+|switch|p2a: Ribombee|Ribombee, F, shiny|1/100
+|turn|8
+|
+|t:|1781023832
+|switch|p1a: ReverseUNO|Cinderace, F|100/100
+|move|p2a: Ribombee|Moonblast|p1a: ReverseUNO
+|-resisted|p1a: ReverseUNO
+|-damage|p1a: ReverseUNO|70/100
+|
+|-fieldend|move: Trick Room
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|9
+|
+|t:|1781023839
+|switch|p1a: SageOfSixPaths|Slowking-Galar, F|51/100 par
+|-activate|p1a: SageOfSixPaths|move: Sticky Web
+|-unboost|p1a: SageOfSixPaths|spe|1
+|move|p2a: Ribombee|Stun Spore|p1a: SageOfSixPaths
+|-fail|p1a: SageOfSixPaths|par
+|
+|upkeep
+|turn|10
+|
+|t:|1781023849
+|switch|p1a: ReverseUNO|Cinderace, F|70/100
+|move|p2a: Ribombee|Moonblast|p1a: ReverseUNO
+|-resisted|p1a: ReverseUNO
+|-damage|p1a: ReverseUNO|43/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781023855
+|switch|p1a: SageOfSixPaths|Slowking-Galar, F|85/100 par
+|-activate|p1a: SageOfSixPaths|move: Sticky Web
+|-unboost|p1a: SageOfSixPaths|spe|1
+|move|p2a: Ribombee|Moonblast|p1a: SageOfSixPaths
+|-resisted|p1a: SageOfSixPaths
+|-damage|p1a: SageOfSixPaths|68/100 par
+|
+|upkeep
+|turn|12
+|
+|t:|1781023862
+|move|p2a: Ribombee|Skill Swap|p1a: SageOfSixPaths
+|-activate|p2a: Ribombee|Skill Swap|Regenerator|Shield Dust|[of] p1a: SageOfSixPaths
+|move|p1a: SageOfSixPaths|Trick Room|p1a: SageOfSixPaths
+|-fieldstart|move: Trick Room|[of] p1a: SageOfSixPaths
+|
+|upkeep
+|turn|13
+|
+|t:|1781023869
+|move|p1a: SageOfSixPaths|Expanding Force|p2a: Ribombee
+|-crit|p2a: Ribombee
+|-damage|p2a: Ribombee|0 fnt
+|faint|p2a: Ribombee
+|-damage|p1a: SageOfSixPaths|59/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781023893
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|14
+|
+|t:|1781023903
+|switch|p2a: Iron Moth|Iron Moth, shiny|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespa
+|cant|p1a: SageOfSixPaths|par
+|
+|-heal|p1a: SageOfSixPaths|65/100 par|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1781023911
+|switch|p1a: DeeDee|Indeedee, M|100/100
+|-activate|p1a: DeeDee|move: Sticky Web
+|-unboost|p1a: DeeDee|spe|1
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: DeeDee
+|move|p2a: Iron Moth|Fiery Dance|p1a: DeeDee
+|-damage|p1a: DeeDee|16/100
+|-boost|p2a: Iron Moth|spa|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781023949
+|-terastallize|p2a: Iron Moth|Fairy
+|move|p1a: DeeDee|Expanding Force|p2a: Iron Moth
+|-crit|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-fieldend|move: Trick Room
+|upkeep
+|c|☆Dr Gaster PHD|aw man
+|
+|t:|1781023960
+|switch|p2a: Great Tusk|Great Tusk, shiny|100/100
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|17
+|
+|t:|1781023968
+|move|p2a: Great Tusk|Rapid Spin|p1a: DeeDee
+|-damage|p1a: DeeDee|0 fnt
+|-boost|p2a: Great Tusk|spe|1
+|faint|p1a: DeeDee
+|
+|upkeep
+|
+|t:|1781023973
+|switch|p1a: SageOfSixPaths|Slowking-Galar, F|65/100 par
+|-activate|p1a: SageOfSixPaths|move: Sticky Web
+|-unboost|p1a: SageOfSixPaths|spe|1
+|turn|18
+|
+|t:|1781023977
+|switch|p1a: ReverseUNO|Cinderace, F|43/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: ReverseUNO
+|-supereffective|p1a: ReverseUNO
+|-damage|p1a: ReverseUNO|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: ReverseUNO
+|
+|upkeep
+|
+|t:|1781023984
+|switch|p1a: SageOfSixPaths|Slowking-Galar, F|98/100 par
+|-activate|p1a: SageOfSixPaths|move: Sticky Web
+|-unboost|p1a: SageOfSixPaths|spe|1
+|turn|19
+|
+|t:|1781023988
+|-terastallize|p1a: SageOfSixPaths|Psychic
+|move|p2a: Great Tusk|Headlong Rush|p1a: SageOfSixPaths
+|-damage|p1a: SageOfSixPaths|19/100 par
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: SageOfSixPaths|Trick Room|p1a: SageOfSixPaths
+|-fieldstart|move: Trick Room|[of] p1a: SageOfSixPaths
+|
+|upkeep
+|turn|20
+|
+|t:|1781024000
+|move|p1a: SageOfSixPaths|Expanding Force|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|-damage|p1a: SageOfSixPaths|9/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781024002
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|21
+|
+|t:|1781024011
+|cant|p1a: SageOfSixPaths|par
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|
+|-heal|p1a: SageOfSixPaths|16/100 par|[from] Grassy Terrain
+|upkeep
+|turn|22
+|c|☆waha8|gg wp
+|
+|t:|1781024017
+|move|p1a: SageOfSixPaths|Sludge Wave|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-crit|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|-damage|p1a: SageOfSixPaths|6/100 par|[from] item: Life Orb
+|
+|win|waha8
+|raw|waha8's rating: 1589 &rarr; <strong>1608</strong><br />(+19 for winning)
+|raw|Dr Gaster PHD's rating: 1571 &rarr; <strong>1552</strong><br />(-19 for losing)
+|l|☆Dr Gaster PHD
+|player|p2|

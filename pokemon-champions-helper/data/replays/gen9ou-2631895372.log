@@ -1,0 +1,368 @@
+|j|☆ja hoi
+|j|☆LowEL0God
+|t:|1781453052
+|gametype|singles
+|player|p1|ja hoi|102|1596
+|player|p2|LowEL0God|265|1616
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Quaquaval, F|
+|poke|p1|Zamazenta-*|
+|poke|p1|Dragapult, F|
+|poke|p1|Garganacl, M|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Iron Moth|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, F|
+|poke|p2|Barraskewda, M|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781453057
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1781453075
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: ja hoi|Reflect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|j| failurelife
+|
+|t:|1781453097
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781453104
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Zamazenta|Body Press|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|62/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|inactive|ja hoi has 120 seconds left.
+|
+|t:|1781453127
+|move|p1a: Zamazenta|Body Press|p2a: Raging Bolt
+|-crit|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|1/100
+|move|p2a: Raging Bolt|Thunder|p1a: Zamazenta
+|-crit|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|ja hoi has 120 seconds left.
+|
+|t:|1781453138
+|switch|p1a: Quaquaval|Quaquaval, F|100/100
+|turn|5
+|
+|t:|1781453141
+|move|p1a: Quaquaval|Aqua Jet|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|-ability|p1a: Quaquaval|Moxie|boost
+|-boost|p1a: Quaquaval|atk|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781453143
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|turn|6
+|
+|t:|1781453150
+|-terastallize|p1a: Quaquaval|Water
+|move|p1a: Quaquaval|Aqua Step|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|44/100
+|-boost|p1a: Quaquaval|spe|1
+|move|p2a: Pelipper|Hurricane|p1a: Quaquaval
+|-crit|p1a: Quaquaval
+|-damage|p1a: Quaquaval|27/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|c|☆ja hoi|ffs
+|
+|t:|1781453161
+|move|p1a: Quaquaval|Aqua Step|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|-boost|p1a: Quaquaval|spe|1
+|faint|p2a: Pelipper
+|-ability|p1a: Quaquaval|Moxie|boost
+|-boost|p1a: Quaquaval|atk|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781453162
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|8
+|
+|t:|1781453171
+|move|p1a: Quaquaval|Aqua Jet|p2a: Barraskewda
+|-resisted|p2a: Barraskewda
+|-damage|p2a: Barraskewda|13/100
+|move|p2a: Barraskewda|Liquidation|p1a: Quaquaval
+|-resisted|p1a: Quaquaval
+|-damage|p1a: Quaquaval|0 fnt
+|faint|p1a: Quaquaval
+|
+|-weather|none
+|-sideend|p1: ja hoi|Reflect
+|upkeep
+|
+|t:|1781453182
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|turn|9
+|
+|t:|1781453185
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: ja hoi|Reflect
+|move|p2a: Barraskewda|Liquidation|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|55/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781453191
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: ja hoi|move: Light Screen
+|move|p2a: Barraskewda|Liquidation|p1a: Grimmsnarl
+|-crit|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|faint|p1a: Grimmsnarl
+|
+|upkeep
+|
+|t:|1781453197
+|switch|p1a: Garganacl|Garganacl, M|100/100
+|turn|11
+|
+|t:|1781453200
+|move|p2a: Barraskewda|Liquidation|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|51/100
+|move|p1a: Garganacl|Iron Defense|p1a: Garganacl
+|-boost|p1a: Garganacl|def|2
+|
+|-heal|p1a: Garganacl|57/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781453207
+|move|p2a: Barraskewda|Liquidation|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|34/100
+|move|p1a: Garganacl|Recover|p1a: Garganacl
+|-heal|p1a: Garganacl|84/100
+|
+|-heal|p1a: Garganacl|90/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781453215
+|move|p2a: Barraskewda|Liquidation|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|64/100
+|move|p1a: Garganacl|Iron Defense|p1a: Garganacl
+|-boost|p1a: Garganacl|def|2
+|
+|-heal|p1a: Garganacl|70/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781453222
+|move|p2a: Barraskewda|Liquidation|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|54/100
+|move|p1a: Garganacl|Recover|p1a: Garganacl
+|-heal|p1a: Garganacl|100/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781453228
+|move|p2a: Barraskewda|Liquidation|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|83/100
+|move|p1a: Garganacl|Salt Cure|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-heal|p1a: Garganacl|90/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781453230
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|16
+|
+|t:|1781453241
+|-terastallize|p2a: Iron Treads|Ghost
+|move|p2a: Iron Treads|Rapid Spin|p1a: Garganacl
+|-resisted|p1a: Garganacl
+|-damage|p1a: Garganacl|89/100
+|-boost|p2a: Iron Treads|spe|1
+|move|p1a: Garganacl|Salt Cure|p2a: Iron Treads
+|-damage|p2a: Iron Treads|87/100
+|-start|p2a: Iron Treads|Salt Cure
+|
+|-heal|p1a: Garganacl|95/100|[from] item: Leftovers
+|-damage|p2a: Iron Treads|75/100|[from] Salt Cure
+|-sideend|p1: ja hoi|Reflect
+|upkeep
+|turn|17
+|
+|t:|1781453252
+|move|p2a: Iron Treads|Stealth Rock|p1a: Garganacl
+|-sidestart|p1: ja hoi|move: Stealth Rock
+|move|p1a: Garganacl|Salt Cure|p2a: Iron Treads
+|-damage|p2a: Iron Treads|62/100
+|
+|-heal|p1a: Garganacl|100/100|[from] item: Leftovers
+|-damage|p2a: Iron Treads|49/100|[from] Salt Cure
+|-sideend|p1: ja hoi|move: Light Screen
+|upkeep
+|turn|18
+|
+|t:|1781453260
+|move|p2a: Iron Treads|Earth Power|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|56/100
+|move|p1a: Garganacl|Salt Cure|p2a: Iron Treads
+|-damage|p2a: Iron Treads|36/100
+|
+|-heal|p1a: Garganacl|62/100|[from] item: Leftovers
+|-damage|p2a: Iron Treads|23/100|[from] Salt Cure
+|upkeep
+|turn|19
+|
+|t:|1781453268
+|move|p2a: Iron Treads|Steel Beam|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|-damage|p2a: Iron Treads|0 fnt|[from] steelbeam
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|faint|p1a: Garganacl
+|
+|upkeep
+|
+|t:|1781453279
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|20
+|
+|t:|1781453286
+|move|p1a: Dragapult|Dragon Darts|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|91/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|81/100
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p1a: Dragapult|94/100|[from] item: Leftovers
+|-heal|p2a: Kingambit|87/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781453295
+|move|p1a: Dragapult|Dragon Darts|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|78/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|68/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-heal|p2a: Kingambit|74/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781453307
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-damage|p1a: Iron Moth|76/100|[from] Stealth Rock
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespa
+|turn|22
+|
+|t:|1781453313
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Iron Moth|Agility|p1a: Iron Moth
+|-boost|p1a: Iron Moth|spe|2
+|
+|-heal|p2a: Kingambit|81/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781453320
+|move|p1a: Iron Moth|Agility|p1a: Iron Moth
+|-boost|p1a: Iron Moth|spe|2
+|move|p2a: Kingambit|Iron Head|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|win|LowEL0God
+|raw|ja hoi's rating: 1596 &rarr; <strong>1577</strong><br />(-19 for losing)
+|raw|LowEL0God's rating: 1616 &rarr; <strong>1635</strong><br />(+19 for winning)
+|l|☆ja hoi
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|
+|l| failurelife

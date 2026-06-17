@@ -1,0 +1,281 @@
+|j|☆xp180
+|j|☆imperimento
+|t:|1781000154
+|gametype|singles
+|player|p1|xp180|265|1664
+|player|p2|imperimento|265|1746
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Araquanid, F|
+|poke|p1|Gholdengo|
+|poke|p1|Raging Bolt|
+|poke|p1|Iron Valiant|
+|poke|p1|Ceruledge, M|
+|poke|p1|Deoxys-Speed|
+|poke|p2|Moltres|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Gholdengo|
+|poke|p2|Pecharunt|
+|poke|p2|Walking Wake|
+|poke|p2|Ting-Lu|
+|teampreview
+|
+|t:|1781000207
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Araquanid|Araquanid, F|100/100
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|turn|1
+|
+|t:|1781000257
+|move|p2a: Samurott|Ceaseless Edge|p1a: Araquanid
+|-damage|p1a: Araquanid|61/100
+|-sidestart|p1: xp180|Spikes
+|move|p1a: Araquanid|Sticky Web|p2a: Samurott
+|-sidestart|p2: imperimento|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1781000271
+|move|p2a: Samurott|Ceaseless Edge|p1a: Araquanid
+|-damage|p1a: Araquanid|17/100
+|-sidestart|p1: xp180|Spikes
+|move|p1a: Araquanid|Lunge|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|57/100
+|-unboost|p2a: Samurott|atk|1
+|
+|upkeep
+|turn|3
+|-enditem|p1a: Araquanid|Custap Berry|[eat]
+|-activate|p1a: Araquanid|item: Custap Berry|[consumed]
+|
+|t:|1781000295
+|move|p2a: Samurott|Sucker Punch|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|faint|p1a: Araquanid
+|
+|upkeep
+|
+|t:|1781000312
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-damage|p1a: Raging Bolt|84/100|[from] Spikes
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|4
+|
+|t:|1781000323
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-activate|p2a: Ting-Lu|move: Sticky Web
+|-unboost|p2a: Ting-Lu|spe|1
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Ting-Lu
+|-immune|p2a: Ting-Lu
+|
+|upkeep
+|turn|5
+|
+|t:|1781000336
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Gholdengo
+|-sidestart|p1: xp180|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1781000357
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|move|p2a: Ting-Lu|Ruination|p1a: Gholdengo
+|-damage|p1a: Gholdengo|51/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|upkeep
+|turn|7
+|
+|t:|1781000378
+|move|p1a: Gholdengo|Focus Blast|p2a: Ting-Lu|[miss]
+|-miss|p1a: Gholdengo|p2a: Ting-Lu
+|move|p2a: Ting-Lu|Earthquake|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781000384
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|84/100|[from] Spikes
+|-damage|p1a: Iron Valiant|78/100|[from] Stealth Rock
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespa
+|turn|8
+|
+|t:|1781000403
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Ting-Lu|Whirlwind|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|drag|p1a: Deoxys|Deoxys-Speed|100/100
+|-damage|p1a: Deoxys|84/100|[from] Spikes
+|-damage|p1a: Deoxys|72/100|[from] Stealth Rock
+|-ability|p1a: Deoxys|Pressure
+|
+|upkeep
+|turn|9
+|
+|t:|1781000415
+|move|p1a: Deoxys|Nasty Plot|p1a: Deoxys
+|-boost|p1a: Deoxys|spa|2
+|move|p2a: Ting-Lu|Earthquake|p1a: Deoxys
+|-damage|p1a: Deoxys|22/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781000424
+|move|p1a: Deoxys|Ice Beam|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|37/100
+|-damage|p1a: Deoxys|13/100|[from] item: Life Orb
+|move|p2a: Ting-Lu|Earthquake|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|-heal|p2a: Ting-Lu|43/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781000430
+|switch|p1a: Iron Valiant|Iron Valiant|78/100
+|-damage|p1a: Iron Valiant|61/100|[from] Spikes
+|-damage|p1a: Iron Valiant|55/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1781000467
+|move|p1a: Iron Valiant|Moonblast|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by xp180)
+|
+|t:|1781000519
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|turn|12
+|
+|t:|1781000538
+|-terastallize|p1a: Iron Valiant|Ghost
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Pecharunt|Malignant Chain|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|38/100
+|-status|p1a: Iron Valiant|tox
+|-start|p1a: Iron Valiant|confusion|[from] ability: Poison Puppeteer|[of] p2a: Pecharunt
+|
+|-damage|p1a: Iron Valiant|31/100 tox|[from] psn
+|upkeep
+|turn|13
+|j| PCCWVictorMa
+|inactive|imperimento has 120 seconds left.
+|
+|t:|1781000565
+|switch|p2a: Samurott|Samurott-Hisui, F|57/100
+|-activate|p2a: Samurott|move: Sticky Web
+|-unboost|p2a: Samurott|spe|1
+|-activate|p1a: Iron Valiant|confusion
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|34/100
+|
+|-damage|p1a: Iron Valiant|19/100 tox|[from] psn
+|upkeep
+|turn|14
+|inactive|imperimento has 120 seconds left.
+|
+|t:|1781000589
+|-activate|p1a: Iron Valiant|confusion
+|move|p1a: Iron Valiant|Vacuum Wave|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-damage|p1a: Iron Valiant|0 fnt|[from] psn
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|upkeep
+|
+|t:|1781000608
+|switch|p1a: Raging Bolt|Raging Bolt|84/100
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-damage|p1a: Raging Bolt|67/100|[from] Spikes
+|-damage|p1a: Raging Bolt|55/100|[from] Stealth Rock
+|turn|15
+|inactive|imperimento has 90 seconds left.
+|inactive|imperimento has 60 seconds left.
+|
+|t:|1781000683
+|move|p2a: Walking Wake|Draco Meteor|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|-unboost|p2a: Walking Wake|spa|2
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|j| gigi andalucia
+|j| lalantop
+|
+|t:|1781000687
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|-damage|p1a: Ceruledge|84/100|[from] Spikes
+|-damage|p1a: Ceruledge|59/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781000692
+|move|p2a: Walking Wake|Surf|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|3/100
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|upkeep
+|turn|17
+|l| gigi andalucia
+|inactive|imperimento has 60 seconds left.
+|
+|t:|1781000699
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Walking Wake
+|-damage|p2a: Walking Wake|55/100
+|move|p2a: Walking Wake|Surf|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|win|imperimento
+|raw|xp180's rating: 1664 &rarr; <strong>1649</strong><br />(-15 for losing)
+|raw|imperimento's rating: 1746 &rarr; <strong>1761</strong><br />(+15 for winning)
+|l|☆xp180
+|player|p1|
+|c|☆imperimento|gg
+|l| lalantop
+|l| PCCWVictorMa

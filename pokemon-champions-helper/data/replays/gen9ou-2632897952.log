@@ -1,0 +1,411 @@
+|j|☆rrbrru
+|j|☆DarkG99
+|t:|1781575998
+|gametype|singles
+|player|p1|rrbrru|101|1669
+|player|p2|DarkG99|karen|1602
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Excadrill, F|
+|poke|p1|Hydrapple, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Alomomola, M|
+|poke|p1|Houndstone, F|
+|poke|p2|Kommo-o, M|
+|poke|p2|Sinistcha-Masterpiece|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Heatran, M|
+|poke|p2|Maushold-Four|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|
+|t:|1781576001
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Crocodile|Tyranitar, M|100/100
+|switch|p2a: Maushold|Maushold-Four|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Crocodile
+|turn|1
+|
+|t:|1781576006
+|switch|p1a: Ryuma|Houndstone, F|100/100
+|move|p2a: Maushold|Switcheroo|p1a: Ryuma
+|-activate|p2a: Maushold|move: Trick|[of] p1a: Ryuma
+|-item|p1a: Ryuma|Choice Scarf|[from] move: Switcheroo
+|-item|p2a: Maushold|Choice Band|[from] move: Switcheroo
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Maushold|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1781576014
+|move|p1a: Ryuma|Trick|p2a: Maushold
+|-activate|p1a: Ryuma|move: Trick|[of] p2a: Maushold
+|-item|p2a: Maushold|Choice Scarf|[from] move: Trick
+|-item|p1a: Ryuma|Choice Band|[from] move: Trick
+|move|p2a: Maushold|Bite|p1a: Ryuma
+|-supereffective|p1a: Ryuma
+|-damage|p1a: Ryuma|49/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Maushold|88/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1781576022
+|move|p2a: Maushold|Bite|p1a: Ryuma
+|-supereffective|p1a: Ryuma
+|-damage|p1a: Ryuma|0 fnt
+|faint|p1a: Ryuma
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Maushold|82/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781576026
+|switch|p1a: Crocodile|Tyranitar, M|100/100
+|turn|4
+|
+|t:|1781576032
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Crocodile|Stealth Rock|p2a: Heatran
+|-sidestart|p2: DarkG99|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781576038
+|move|p2a: Heatran|Will-O-Wisp|p1a: Crocodile
+|-status|p1a: Crocodile|brn
+|move|p1a: Crocodile|Low Kick|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|65/100
+|
+|-weather|none
+|-heal|p2a: Heatran|71/100|[from] item: Leftovers
+|-damage|p1a: Crocodile|94/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1781576047
+|move|p2a: Heatran|Magma Storm|p1a: Crocodile|[miss]
+|-miss|p2a: Heatran|p1a: Crocodile
+|move|p1a: Crocodile|Knock Off|p2a: Heatran
+|-damage|p2a: Heatran|50/100
+|-enditem|p2a: Heatran|Leftovers|[from] move: Knock Off|[of] p1a: Crocodile
+|
+|-heal|p1a: Crocodile|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Crocodile|94/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1781576050
+|switch|p1a: Big Mom|Alomomola, M|100/100
+|move|p2a: Heatran|Magma Storm|p1a: Big Mom
+|-resisted|p1a: Big Mom
+|-damage|p1a: Big Mom|82/100
+|-activate|p1a: Big Mom|move: Magma Storm|[of] p2a: Heatran
+|
+|-damage|p1a: Big Mom|69/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|8
+|j| Mega Delibird X
+|
+|t:|1781576081
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|88/100|[from] Stealth Rock
+|move|p1a: Big Mom|Flip Turn|p2a: Ogerpon
+|-heal|p2a: Ogerpon|100/100|[from] ability: Water Absorb|[of] p1a: Big Mom
+|
+|-end|p1a: Big Mom|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|9
+|l| Mega Delibird X
+|
+|t:|1781576087
+|switch|p2a: Maushold|Maushold-Four|82/100
+|-damage|p2a: Maushold|69/100|[from] Stealth Rock
+|switch|p1a: Marco|Tornadus-Therian, M|100/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781576098
+|switch|p1a: Crocodile|Tyranitar, M|94/100 brn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Crocodile
+|move|p2a: Maushold|Population Bomb|p1a: Crocodile
+|-resisted|p1a: Crocodile
+|-damage|p1a: Crocodile|90/100 brn
+|-resisted|p1a: Crocodile
+|-damage|p1a: Crocodile|86/100 brn
+|-resisted|p1a: Crocodile
+|-damage|p1a: Crocodile|82/100 brn
+|-resisted|p1a: Crocodile
+|-damage|p1a: Crocodile|78/100 brn
+|-resisted|p1a: Crocodile
+|-damage|p1a: Crocodile|74/100 brn
+|-hitcount|p1a: Crocodile|5
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Maushold|63/100|[from] Sandstorm
+|-heal|p1a: Crocodile|80/100 brn|[from] item: Leftovers
+|-damage|p1a: Crocodile|74/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781576108
+|switch|p2a: Heatran|Heatran, M|50/100
+|-damage|p2a: Heatran|37/100|[from] Stealth Rock
+|switch|p1a: Mr. 1|Excadrill, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781576115
+|move|p1a: Mr. 1|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781576117
+|switch|p2a: Sinistcha|Sinistcha-Masterpiece|100/100
+|-damage|p2a: Sinistcha|88/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1781576140
+|move|p1a: Mr. 1|Substitute|p1a: Mr. 1
+|-start|p1a: Mr. 1|Substitute
+|-damage|p1a: Mr. 1|76/100
+|move|p2a: Sinistcha|Matcha Gotcha|p1a: Mr. 1
+|-end|p1a: Mr. 1|Substitute
+|-heal|p2a: Sinistcha|100/100|[from] drain|[of] p1a: Mr. 1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Sinistcha|94/100|[from] Sandstorm
+|-heal|p1a: Mr. 1|82/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781576149
+|switch|p1a: Queen|Hydrapple, M|100/100
+|move|p2a: Sinistcha|Matcha Gotcha|p1a: Queen
+|-resisted|p1a: Queen
+|-damage|p1a: Queen|93/100
+|-heal|p2a: Sinistcha|99/100|[from] drain|[of] p1a: Queen
+|
+|-weather|none
+|upkeep
+|turn|15
+|
+|t:|1781576158
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-damage|p2a: Ninetales|76/100|[from] Stealth Rock
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Queen|Nasty Plot|p1a: Queen
+|-boost|p1a: Queen|spa|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781576163
+|-terastallize|p1a: Queen|Steel
+|move|p2a: Ninetales|Blizzard|p1a: Queen
+|-resisted|p1a: Queen
+|-damage|p1a: Queen|73/100
+|move|p1a: Queen|Giga Drain|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|-heal|p1a: Queen|99/100|[from] drain|[of] p2a: Ninetales
+|faint|p2a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781576168
+|switch|p2a: Maushold|Maushold-Four|63/100
+|-damage|p2a: Maushold|51/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1781576188
+|switch|p1a: Crocodile|Tyranitar, M|74/100 brn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Crocodile
+|move|p2a: Maushold|Tidy Up|p2a: Maushold
+|-sideend|p2: DarkG99|Stealth Rock
+|-activate|p2a: Maushold|move: Tidy Up
+|-boost|p2a: Maushold|atk|1
+|-boost|p2a: Maushold|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Maushold|44/100|[from] Sandstorm
+|-heal|p1a: Crocodile|80/100 brn|[from] item: Leftovers
+|-damage|p1a: Crocodile|74/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1781576196
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Crocodile|Knock Off|p2a: Ogerpon
+|-damage|p2a: Ogerpon|80/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ogerpon|74/100|[from] Sandstorm
+|-heal|p1a: Crocodile|80/100 brn|[from] item: Leftovers
+|-damage|p1a: Crocodile|74/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1781576201
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Crocodile|[anim] Ivy Cudgel Water
+|-supereffective|p1a: Crocodile
+|-damage|p1a: Crocodile|0 fnt
+|faint|p1a: Crocodile
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ogerpon|68/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781576205
+|switch|p1a: Queen|Hydrapple, M, tera:Steel|100/100
+|turn|20
+|
+|t:|1781576218
+|switch|p2a: Sinistcha|Sinistcha-Masterpiece|99/100
+|move|p1a: Queen|Draco Meteor|p2a: Sinistcha
+|-damage|p2a: Sinistcha|17/100
+|-unboost|p1a: Queen|spa|2
+|-enditem|p1a: Queen|Eject Pack
+|
+|t:|1781576232
+|switch|p1a: Mr. 1|Excadrill, F|82/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Sinistcha|11/100|[from] Sandstorm
+|-heal|p1a: Mr. 1|88/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781576236
+|move|p1a: Mr. 1|Earthquake|p2a: Sinistcha
+|-resisted|p2a: Sinistcha
+|-damage|p2a: Sinistcha|0 fnt
+|faint|p2a: Sinistcha
+|
+|-weather|none
+|-heal|p1a: Mr. 1|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781576241
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|68/100
+|turn|22
+|
+|t:|1781576246
+|switch|p1a: Marco|Tornadus-Therian, M|100/100
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|23
+|
+|t:|1781576252
+|-terastallize|p2a: Ogerpon|Water
+|detailschange|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|move|p1a: Marco|Bleakwind Storm|p2a: Ogerpon
+|-damage|p2a: Ogerpon|35/100
+|-unboost|p2a: Ogerpon|spe|1
+|move|p2a: Ogerpon|Trailblaze|p1a: Marco
+|-resisted|p1a: Marco
+|-damage|p1a: Marco|68/100
+|-boost|p2a: Ogerpon|spe|1
+|
+|upkeep
+|turn|24
+|
+|t:|1781576267
+|move|p1a: Marco|Bleakwind Storm|p2a: Ogerpon|[miss]
+|-miss|p1a: Marco|p2a: Ogerpon
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Marco|[anim] Ivy Cudgel Water
+|-crit|p1a: Marco
+|-damage|p1a: Marco|0 fnt
+|faint|p1a: Marco
+|
+|upkeep
+|
+|t:|1781576288
+|switch|p1a: Big Mom|Alomomola, M|100/100
+|turn|25
+|
+|t:|1781576296
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Big Mom|Wish|p1a: Big Mom
+|
+|upkeep
+|turn|26
+|
+|t:|1781576301
+|move|p2a: Ogerpon|Encore|p1a: Big Mom
+|-start|p1a: Big Mom|Encore
+|move|p1a: Big Mom|Wish||[still]
+|-fail|p1a: Big Mom
+|
+|upkeep
+|turn|27
+|
+|t:|1781576305
+|switch|p1a: Mr. 1|Excadrill, F|94/100
+|move|p2a: Ogerpon|Trailblaze|p1a: Mr. 1
+|-damage|p1a: Mr. 1|0 fnt
+|-boost|p2a: Ogerpon|spe|1
+|faint|p1a: Mr. 1
+|
+|upkeep
+|
+|t:|1781576308
+|switch|p1a: Queen|Hydrapple, M, tera:Steel|100/100
+|turn|28
+|
+|t:|1781576318
+|switch|p1a: Big Mom|Alomomola, M|100/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Big Mom|[anim] Ivy Cudgel Water
+|-resisted|p1a: Big Mom
+|-damage|p1a: Big Mom|35/100
+|
+|upkeep
+|turn|29
+|
+|t:|1781576321
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Big Mom|[anim] Ivy Cudgel Water
+|-resisted|p1a: Big Mom
+|-damage|p1a: Big Mom|0 fnt
+|faint|p1a: Big Mom
+|
+|upkeep
+|-message|rrbrru forfeited.
+|
+|win|DarkG99
+|raw|rrbrru's rating: 1669 &rarr; <strong>1645</strong><br />(-24 for losing)
+|raw|DarkG99's rating: 1602 &rarr; <strong>1626</strong><br />(+24 for winning)
+|l|☆rrbrru
+|player|p1|
+|l|☆DarkG99
+|player|p2|

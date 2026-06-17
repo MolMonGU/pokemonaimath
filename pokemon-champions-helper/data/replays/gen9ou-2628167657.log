@@ -1,0 +1,401 @@
+|j|☆Nat889
+|j|☆SWAGGER_W2F
+|t:|1780985715
+|gametype|singles
+|player|p1|Nat889|miku-ghost|1552
+|player|p2|SWAGGER_W2F|flint|1585
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, F|
+|poke|p1|Zapdos|
+|poke|p1|Primarina, F|
+|poke|p1|Clodsire, F|
+|poke|p1|Cinderace, M|
+|poke|p1|Deoxys-Speed|
+|poke|p2|Ceruledge, F|
+|poke|p2|Scizor, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Great Tusk|
+|poke|p2|Slowbro, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SWAGGER_W2F)
+|
+|t:|1780985735
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: BonnieBoost|Deoxys-Speed|100/100
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|-ability|p1a: BonnieBoost|Pressure
+|turn|1
+|
+|t:|1780985746
+|move|p1a: BonnieBoost|Psycho Boost|p2a: Ceruledge
+|-damage|p2a: Ceruledge|35/100
+|-unboost|p1a: BonnieBoost|spa|2
+|move|p2a: Ceruledge|Bitter Blade|p1a: BonnieBoost
+|-damage|p1a: BonnieBoost|20/100
+|-heal|p2a: Ceruledge|63/100|[from] drain|[of] p1a: BonnieBoost
+|
+|upkeep
+|turn|2
+|
+|t:|1780985756
+|switch|p1a: SwitchinStature|Clodsire, F|100/100
+|move|p2a: Ceruledge|Shadow Sneak|p1a: SwitchinStature
+|-damage|p1a: SwitchinStature|85/100
+|
+|upkeep
+|turn|3
+|
+|t:|1780985765
+|switch|p2a: Scizor|Scizor, F|100/100
+|move|p1a: SwitchinStature|Earthquake|p2a: Scizor
+|-damage|p2a: Scizor|70/100
+|
+|upkeep
+|turn|4
+|
+|t:|1780985772
+|move|p2a: Scizor|U-turn|p1a: SwitchinStature
+|-resisted|p1a: SwitchinStature
+|-damage|p1a: SwitchinStature|64/100
+|
+|t:|1780985777
+|switch|p2a: Mandibuzz|Mandibuzz, F|100/100|[from] U-turn
+|move|p1a: SwitchinStature|Counter|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|54/100
+|
+|upkeep
+|turn|5
+|
+|t:|1780985785
+|move|p2a: Mandibuzz|Roost|p2a: Mandibuzz
+|-heal|p2a: Mandibuzz|100/100
+|-singleturn|p2a: Mandibuzz|move: Roost
+|move|p1a: SwitchinStature|Toxic|p2a: Mandibuzz
+|-status|p2a: Mandibuzz|tox
+|
+|-damage|p2a: Mandibuzz|94/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1780985796
+|switch|p2a: Scizor|Scizor, F|70/100
+|move|p1a: SwitchinStature|Recover|p1a: SwitchinStature
+|-heal|p1a: SwitchinStature|100/100
+|
+|upkeep
+|turn|7
+|
+|t:|1780985809
+|move|p2a: Scizor|U-turn|p1a: SwitchinStature
+|-resisted|p1a: SwitchinStature
+|-damage|p1a: SwitchinStature|79/100
+|
+|t:|1780985812
+|switch|p2a: Ceruledge|Ceruledge, F|63/100|[from] U-turn
+|move|p1a: SwitchinStature|Earthquake|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|upkeep
+|
+|t:|1780985820
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|8
+|
+|t:|1780985823
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|move|p1a: SwitchinStature|Counter||[still]
+|-fail|p1a: SwitchinStature
+|
+|upkeep
+|turn|9
+|
+|t:|1780985831
+|move|p2a: Raging Bolt|Draco Meteor|p1a: SwitchinStature
+|-damage|p1a: SwitchinStature|1/100
+|-unboost|p2a: Raging Bolt|spa|2
+|move|p1a: SwitchinStature|Earthquake|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|50/100
+|
+|upkeep
+|turn|10
+|
+|t:|1780985844
+|switch|p1a: LaurynChill|Primarina, F|100/100
+|move|p2a: Raging Bolt|Draco Meteor|p1a: LaurynChill
+|-immune|p1a: LaurynChill
+|
+|upkeep
+|turn|11
+|
+|t:|1780985851
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Scizor|Scizor, F|70/100
+|move|p1a: LaurynChill|Surf|p2a: Scizor
+|-damage|p2a: Scizor|6/100
+|
+|upkeep
+|turn|12
+|
+|t:|1780985873
+|switch|p1a: SwitchinStature|Clodsire, F|1/100
+|move|p2a: Scizor|U-turn|p1a: SwitchinStature
+|-resisted|p1a: SwitchinStature
+|-damage|p1a: SwitchinStature|0 fnt
+|faint|p1a: SwitchinStature
+|
+|t:|1780985883
+|switch|p2a: Raging Bolt|Raging Bolt|50/100|[from] U-turn
+|
+|upkeep
+|inactive|Nat889 has 120 seconds left.
+|inactive|Nat889 has 90 seconds left.
+|
+|t:|1780985952
+|switch|p1a: BonnieBoost|Deoxys-Speed|20/100
+|-ability|p1a: BonnieBoost|Pressure
+|turn|13
+|
+|t:|1780985959
+|move|p1a: BonnieBoost|Psycho Boost|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-unboost|p1a: BonnieBoost|spa|2
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780985968
+|switch|p2a: Scizor|Scizor, F|6/100
+|turn|14
+|
+|t:|1780985971
+|move|p2a: Scizor|Bullet Punch|p1a: BonnieBoost
+|-damage|p1a: BonnieBoost|0 fnt
+|faint|p1a: BonnieBoost
+|
+|upkeep
+|
+|t:|1780985976
+|switch|p1a: DonnieCourtman|Cinderace, M|100/100
+|turn|15
+|
+|t:|1780985980
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: DonnieCourtman|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|78/100
+|
+|t:|1780985986
+|switch|p1a: DosSta.D.I.X|Zapdos|100/100|[from] U-turn
+|
+|upkeep
+|turn|16
+|
+|t:|1780985991
+|move|p1a: DosSta.D.I.X|Hurricane|p2a: Slowbro|[miss]
+|-miss|p1a: DosSta.D.I.X|p2a: Slowbro
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|100/100
+|
+|upkeep
+|turn|17
+|
+|t:|1780985999
+|move|p1a: DosSta.D.I.X|Hurricane|p2a: Slowbro|[miss]
+|-miss|p1a: DosSta.D.I.X|p2a: Slowbro
+|move|p2a: Slowbro|Future Sight|p1a: DosSta.D.I.X
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|18
+|
+|t:|1780986007
+|move|p1a: DosSta.D.I.X|Hurricane|p2a: Slowbro
+|-damage|p2a: Slowbro|55/100
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|100/100
+|
+|upkeep
+|turn|19
+|
+|t:|1780986017
+|move|p1a: DosSta.D.I.X|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|85/100
+|
+|t:|1780986022
+|switch|p1a: LaurynChill|Primarina, F|100/100|[from] U-turn
+|move|p2a: Slowbro|Scald|p1a: LaurynChill
+|-resisted|p1a: LaurynChill
+|-damage|p1a: LaurynChill|93/100
+|-status|p1a: LaurynChill|brn
+|
+|-end|p1a: LaurynChill|move: Future Sight
+|-damage|p1a: LaurynChill|67/100 brn
+|-damage|p1a: LaurynChill|61/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1780986040
+|switch|p2a: Mandibuzz|Mandibuzz, F|94/100 tox
+|move|p1a: LaurynChill|Moonblast|p2a: Mandibuzz
+|-supereffective|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|11/100 tox
+|-unboost|p2a: Mandibuzz|spa|1
+|
+|-damage|p2a: Mandibuzz|5/100 tox|[from] psn
+|-damage|p1a: LaurynChill|55/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1780986051
+|move|p2a: Mandibuzz|Foul Play|p1a: LaurynChill
+|-resisted|p1a: LaurynChill
+|-damage|p1a: LaurynChill|41/100 brn
+|move|p1a: LaurynChill|Flip Turn|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|0 fnt
+|faint|p2a: Mandibuzz
+|
+|t:|1780986063
+|switch|p1a: DosSta.D.I.X|Zapdos|100/100|[from] Flip Turn
+|
+|upkeep
+|
+|t:|1780986070
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|22
+|
+|t:|1780986077
+|switch|p1a: LaurynChill|Primarina, F|41/100 brn
+|-terastallize|p2a: Great Tusk|Ice
+|move|p2a: Great Tusk|Ice Spinner|p1a: LaurynChill
+|-resisted|p1a: LaurynChill
+|-damage|p1a: LaurynChill|18/100 brn
+|
+|-damage|p1a: LaurynChill|12/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1780986099
+|move|p2a: Great Tusk|Ice Spinner|p1a: LaurynChill
+|-resisted|p1a: LaurynChill
+|-damage|p1a: LaurynChill|0 fnt
+|faint|p1a: LaurynChill
+|
+|upkeep
+|
+|t:|1780986109
+|switch|p1a: DonnieCourtman|Cinderace, M|100/100
+|turn|24
+|inactive|Nat889 has 120 seconds left.
+|
+|t:|1780986133
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: DonnieCourtman|Pyro Ball|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|86/100
+|
+|upkeep
+|turn|25
+|
+|t:|1780986139
+|move|p1a: DonnieCourtman|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|62/100
+|
+|t:|1780986146
+|switch|p1a: DosSta.D.I.X|Zapdos|100/100|[from] U-turn
+|move|p2a: Slowbro|Future Sight|p1a: DosSta.D.I.X
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|26
+|
+|t:|1780986152
+|move|p1a: DosSta.D.I.X|Discharge|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|upkeep
+|
+|t:|1780986157
+|switch|p2a: Great Tusk|Great Tusk, tera:Ice|100/100
+|turn|27
+|
+|t:|1780986166
+|switch|p1a: OneWingedAngel|Kingambit, F|100/100
+|-activate|p1a: OneWingedAngel|ability: Supreme Overlord
+|-start|p1a: OneWingedAngel|fallen3|[silent]
+|move|p2a: Great Tusk|Close Combat|p1a: OneWingedAngel
+|-supereffective|p1a: OneWingedAngel
+|-damage|p1a: OneWingedAngel|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: OneWingedAngel
+|-end|p1a: OneWingedAngel|fallen3|[silent]
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|
+|t:|1780986179
+|switch|p1a: DonnieCourtman|Cinderace, M|100/100
+|turn|28
+|
+|t:|1780986183
+|move|p2a: Great Tusk|Close Combat|p1a: DonnieCourtman
+|-damage|p1a: DonnieCourtman|22/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: DonnieCourtman|Pyro Ball|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780986191
+|switch|p2a: Scizor|Scizor, F|6/100
+|turn|29
+|
+|t:|1780986194
+|move|p2a: Scizor|Bullet Punch|p1a: DonnieCourtman
+|-resisted|p1a: DonnieCourtman
+|-damage|p1a: DonnieCourtman|0 fnt
+|faint|p1a: DonnieCourtman
+|
+|upkeep
+|
+|t:|1780986198
+|switch|p1a: DosSta.D.I.X|Zapdos|100/100
+|turn|30
+|-message|SWAGGER_W2F forfeited.
+|
+|win|Nat889
+|raw|Nat889's rating: 1552 &rarr; <strong>1574</strong><br />(+22 for winning)
+|raw|SWAGGER_W2F's rating: 1585 &rarr; <strong>1563</strong><br />(-22 for losing)
+|l|☆SWAGGER_W2F
+|player|p2|
+|c|☆Nat889|gg
+|l|☆Nat889
+|player|p1|

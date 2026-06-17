@@ -1,0 +1,246 @@
+|j|☆hdy nb
+|j|☆Dr Gaster PHD
+|t:|1781003531
+|gametype|singles
+|player|p1|hdy nb|colress|1576
+|player|p2|Dr Gaster PHD|ghetsis|1534
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Zapdos|
+|poke|p1|Barraskewda, M|
+|poke|p1|Overqwil, F|
+|poke|p1|Iron Treads|
+|poke|p1|Primarina, F|
+|poke|p2|Ribombee, F|
+|poke|p2|Great Tusk|
+|poke|p2|Raging Bolt|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Moth|
+|poke|p2|Rillaboom, F|
+|teampreview
+|
+|t:|1781003541
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Ribombee|Ribombee, F, shiny|100/100
+|turn|1
+|
+|t:|1781003548
+|move|p2a: Ribombee|Stun Spore|p1a: Iron Treads
+|-status|p1a: Iron Treads|par
+|cant|p1a: Iron Treads|par
+|
+|upkeep
+|turn|2
+|
+|t:|1781003560
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Iron Treads|Rapid Spin|p2a: Rillaboom
+|-damage|p2a: Rillaboom|83/100
+|-boost|p1a: Iron Treads|spe|1
+|
+|-heal|p2a: Rillaboom|90/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781003571
+|move|p2a: Rillaboom|Wood Hammer|p1a: Iron Treads
+|-crit|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|-damage|p2a: Rillaboom|58/100|[from] Recoil
+|-damage|p2a: Rillaboom|48/100|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|54/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781003581
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|4
+|
+|t:|1781003587
+|move|p2a: Rillaboom|Wood Hammer|p1a: Pelipper
+|-damage|p1a: Pelipper|20/100
+|-damage|p2a: Rillaboom|29/100|[from] Recoil
+|-damage|p2a: Rillaboom|19/100|[from] item: Life Orb
+|move|p1a: Pelipper|U-turn|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|5/100
+|
+|t:|1781003599
+|switch|p1a: Barraskewda|Barraskewda, M|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Rillaboom|12/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781003606
+|move|p1a: Barraskewda|Aqua Jet|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781003618
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|6
+|
+|t:|1781003623
+|move|p1a: Barraskewda|Aqua Jet|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|78/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Barraskewda
+|-supereffective|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Raging Bolt|84/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781003635
+|switch|p1a: Primarina|Primarina, F|100/100
+|turn|7
+|
+|t:|1781003644
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Iron Moth|Iron Moth, shiny|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespa
+|-terastallize|p1a: Primarina|Ground
+|move|p1a: Primarina|Moonblast|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-damage|p2a: Iron Moth|87/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781003656
+|move|p2a: Iron Moth|Energy Ball|p1a: Primarina
+|-supereffective|p1a: Primarina
+|-damage|p1a: Primarina|25/100
+|move|p1a: Primarina|Hyper Voice|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Primarina|31/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781003664
+|switch|p2a: Gholdengo|Gholdengo, shiny|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|9
+|
+|t:|1781003687
+|switch|p1a: Overqwil|Overqwil, F|100/100
+|move|p2a: Gholdengo|Shadow Ball|p1a: Overqwil
+|-resisted|p1a: Overqwil
+|-damage|p1a: Overqwil|70/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781003706
+|-terastallize|p2a: Gholdengo|Fairy
+|move|p1a: Overqwil|Throat Chop|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|67/100
+|-start|p2a: Gholdengo|Throat Chop|[silent]
+|-enditem|p2a: Gholdengo|Air Balloon
+|-damage|p1a: Overqwil|60/100|[from] item: Life Orb
+|move|p2a: Gholdengo|Dazzling Gleam|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|faint|p1a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781003719
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|11
+|
+|t:|1781003727
+|switch|p2a: Raging Bolt|Raging Bolt|84/100
+|move|p1a: Zapdos|Hurricane|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|52/100
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1781003738
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|move|p1a: Zapdos|Hurricane|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|32/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781003745
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Zapdos
+|-damage|p1a: Zapdos|19/100
+|move|p1a: Zapdos|Hurricane|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|13/100
+|
+|-heal|p1a: Zapdos|25/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781003754
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1781003761
+|switch|p1a: Primarina|Primarina, F, tera:Ground|31/100
+|turn|15
+|
+|t:|1781003765
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|faint|p1a: Primarina
+|
+|upkeep
+|-message|hdy nb forfeited.
+|
+|win|Dr Gaster PHD
+|raw|hdy nb's rating: 1576 &rarr; <strong>1554</strong><br />(-22 for losing)
+|raw|Dr Gaster PHD's rating: 1534 &rarr; <strong>1556</strong><br />(+22 for winning)
+|l|☆hdy nb
+|player|p1|

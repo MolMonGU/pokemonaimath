@@ -1,0 +1,719 @@
+|j|☆bigballs01
+|j|☆thegreatestnone
+|t:|1781490862
+|gametype|singles
+|player|p1|bigballs01|swimmer-gen4dp|1637
+|player|p2|thegreatestnone|102|1656
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Kyurem|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Kingambit, M|
+|poke|p2|Pawmot, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Skeledirge, F|
+|poke|p2|Greninja-*, F|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Slowking, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by bigballs01)
+|
+|t:|1781490883
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Pawmot|Pawmot, F|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|j| BiscoitoXDBr
+|
+|t:|1781490904
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Pawmot|Close Combat|p1a: Great Tusk
+|-damage|p1a: Great Tusk|54/100
+|-unboost|p2a: Pawmot|def|1
+|-unboost|p2a: Pawmot|spd|1
+|-damage|p2a: Pawmot|84/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|2
+|
+|t:|1781490910
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|move|p1a: Great Tusk|Stealth Rock|p2a: Weezing
+|-sidestart|p2: thegreatestnone|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781490916
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Weezing|Defog|p1a: Slowking
+|-unboost|p1a: Slowking|evasion|1
+|-sideend|p2: thegreatestnone|Stealth Rock|[from] move: Defog|[of] p2a: Weezing
+|
+|upkeep
+|turn|4
+|
+|t:|1781490919
+|move|p2a: Weezing|Will-O-Wisp|p1a: Slowking
+|-status|p1a: Slowking|brn
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781490947
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781490961
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Weezing
+|-damage|p2a: Weezing|52/100
+|move|p2a: Weezing|Will-O-Wisp|p1a: Tornadus
+|-status|p1a: Tornadus|brn
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Weezing|58/100|[from] item: Leftovers
+|-damage|p1a: Tornadus|94/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1781490967
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Weezing
+|-damage|p2a: Weezing|4/100
+|-unboost|p2a: Weezing|spe|1
+|move|p2a: Weezing|Pain Split|p1a: Tornadus
+|-sethp|p1a: Tornadus|49/100 brn|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|50/100|[from] move: Pain Split
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Weezing|56/100|[from] item: Leftovers
+|-damage|p1a: Tornadus|43/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1781490983
+|switch|p2a: Slowking|Slowking, M|100/100
+|move|p1a: Tornadus|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|68/100
+|-enditem|p2a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Tornadus|37/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1781491010
+|move|p1a: Tornadus|U-turn|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|54/100
+|
+|t:|1781491013
+|switch|p1a: Slowking|Slowking-Galar, F|100/100 brn|[from] U-turn
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1781491016
+|switch|p2a: Greninja|Greninja, F|100/100|[from] Chilly Reception
+|
+|-weather|none
+|-damage|p1a: Slowking|94/100 brn|[from] brn
+|upkeep
+|turn|9
+|l|☆bigballs01
+|inactive|bigballs01 disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|bigballs01 has 30 seconds to reconnect!
+|inactive|bigballs01 has 20 seconds to reconnect!
+|j|☆bigballs01
+|inactive|bigballs01 reconnected and has 90 seconds left.
+|player|p1|bigballs01|swimmer-gen4dp|
+|
+|t:|1781491083
+|move|p2a: Greninja|U-turn|p1a: Slowking
+|-start|p2a: Greninja|typechange|Bug|[from] ability: Protean
+|-damage|p1a: Slowking|80/100 brn
+|
+|t:|1781491096
+|switch|p2a: Slowking|Slowking, M|87/100|[from] U-turn
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|inactive|bigballs01 has 90 seconds left.
+|
+|t:|1781491107
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781491124
+|move|p1a: Kyurem|Freeze-Dry|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|24/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1781491128
+|switch|p2a: Pawmot|Pawmot, F|84/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781491136
+|switch|p2a: Greninja|Greninja, F|100/100
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781491144
+|move|p2a: Greninja|U-turn|p1a: Hatterene
+|-start|p2a: Greninja|typechange|Bug|[from] ability: Protean
+|-damage|p1a: Hatterene|83/100
+|-damage|p2a: Greninja|84/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|
+|t:|1781491164
+|switch|p2a: Slowking|Slowking, M|57/100|[from] U-turn
+|move|p1a: Hatterene|Psychic Noise|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|48/100
+|-start|p2a: Slowking|move: Heal Block
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|13
+|inactive|bigballs01 has 120 seconds left.
+|
+|t:|1781491171
+|move|p1a: Hatterene|Nuzzle|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|39/100
+|-status|p2a: Slowking|par
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1781491200
+|switch|p2a: Greninja|Greninja, F|84/100|[from] Chilly Reception
+|
+|-weather|none
+|upkeep
+|turn|14
+|l| BiscoitoXDBr
+|
+|t:|1781491208
+|switch|p1a: Slowking|Slowking-Galar, F|100/100 brn
+|move|p2a: Greninja|U-turn|p1a: Slowking
+|-start|p2a: Greninja|typechange|Bug|[from] ability: Protean
+|-damage|p1a: Slowking|84/100 brn
+|
+|t:|1781491215
+|switch|p2a: Skeledirge|Skeledirge, F|100/100|[from] U-turn
+|
+|-heal|p1a: Slowking|91/100 brn|[from] item: Black Sludge
+|-damage|p1a: Slowking|84/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781491238
+|move|p2a: Skeledirge|Hex|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|8/100 brn
+|move|p1a: Slowking|Trick|p2a: Skeledirge
+|-activate|p1a: Slowking|move: Trick|[of] p2a: Skeledirge
+|-item|p2a: Skeledirge|Black Sludge|[from] move: Trick
+|-item|p1a: Slowking|Heavy-Duty Boots|[from] move: Trick
+|
+|-damage|p2a: Skeledirge|88/100|[from] item: Black Sludge
+|-damage|p1a: Slowking|2/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1781491249
+|switch|p1a: Tornadus|Tornadus-Therian, M|70/100 brn
+|move|p2a: Skeledirge|Will-O-Wisp|p1a: Tornadus
+|-fail|p1a: Tornadus|brn
+|
+|-damage|p2a: Skeledirge|76/100|[from] item: Black Sludge
+|-damage|p1a: Tornadus|64/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781491257
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Skeledirge
+|-damage|p2a: Skeledirge|39/100
+|move|p2a: Skeledirge|Hex|p1a: Tornadus
+|-damage|p1a: Tornadus|34/100 brn
+|
+|-damage|p2a: Skeledirge|26/100|[from] item: Black Sludge
+|-damage|p1a: Tornadus|28/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1781491262
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Skeledirge
+|-damage|p2a: Skeledirge|0 fnt
+|faint|p2a: Skeledirge
+|
+|-damage|p1a: Tornadus|22/100 brn|[from] brn
+|upkeep
+|
+|t:|1781491267
+|switch|p2a: Greninja|Greninja, F|84/100
+|turn|19
+|
+|t:|1781491276
+|switch|p1a: Hatterene|Hatterene, F|83/100
+|move|p2a: Greninja|Surf|p1a: Hatterene
+|-start|p2a: Greninja|typechange|Water|[from] ability: Protean
+|-damage|p1a: Hatterene|24/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781491281
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Greninja|Surf|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|70/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781491286
+|switch|p2a: Slowking|Slowking, M|72/100 par
+|move|p1a: Kyurem|Freeze-Dry|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|11/100 par
+|
+|upkeep
+|turn|22
+|
+|t:|1781491291
+|move|p1a: Kyurem|Freeze-Dry|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781491295
+|switch|p2a: Pawmot|Pawmot, F|84/100
+|turn|23
+|
+|t:|1781491300
+|switch|p1a: Hatterene|Hatterene, F|24/100
+|move|p2a: Pawmot|Supercell Slam|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-damage|p2a: Pawmot|67/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781491303
+|switch|p1a: Great Tusk|Great Tusk|54/100
+|turn|24
+|
+|t:|1781491309
+|switch|p2a: Weezing|Weezing-Galar, M|56/100
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Tornadus|Tornadus-Therian, M|55/100 brn
+|
+|-heal|p2a: Weezing|62/100|[from] item: Leftovers
+|-damage|p1a: Tornadus|49/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1781491330
+|move|p1a: Tornadus|Knock Off|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|59/100
+|-enditem|p2a: Weezing|Leftovers|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Weezing|Sludge Bomb|p1a: Tornadus
+|-damage|p1a: Tornadus|28/100 brn
+|
+|-damage|p1a: Tornadus|22/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1781491334
+|move|p1a: Tornadus|U-turn|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|58/100
+|
+|t:|1781491336
+|switch|p1a: Slowking|Slowking-Galar, F|35/100 brn|[from] U-turn
+|move|p2a: Weezing|Will-O-Wisp|p1a: Slowking|[miss]
+|-miss|p2a: Weezing|p1a: Slowking
+|
+|-damage|p1a: Slowking|29/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1781491340
+|move|p2a: Weezing|Sludge Bomb|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|16/100 brn
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781491351
+|switch|p1a: Kyurem|Kyurem|70/100|[from] Chilly Reception
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|28
+|
+|t:|1781491366
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Kyurem|Freeze-Dry|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|58/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Ting-Lu|64/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|inactive|thegreatestnone has 120 seconds left.
+|
+|t:|1781491405
+|switch|p1a: Great Tusk|Great Tusk|54/100
+|-terastallize|p2a: Ting-Lu|Steel
+|move|p2a: Ting-Lu|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|29/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Ting-Lu|71/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781491421
+|switch|p2a: Weezing|Weezing-Galar, M|58/100
+|move|p1a: Great Tusk|Stealth Rock|p2a: Weezing
+|-sidestart|p2: thegreatestnone|move: Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|31
+|inactive|thegreatestnone has 120 seconds left.
+|
+|t:|1781491443
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Kyurem|Kyurem|70/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Weezing|Defog|p1a: Kyurem
+|-unboost|p1a: Kyurem|evasion|1
+|-sideend|p2: thegreatestnone|Stealth Rock|[from] move: Defog|[of] p2a: Weezing
+|
+|-weather|none
+|upkeep
+|turn|32
+|
+|t:|1781491446
+|move|p1a: Kyurem|Ice Beam|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|
+|upkeep
+|
+|t:|1781491449
+|switch|p2a: Pawmot|Pawmot, F|67/100
+|turn|33
+|
+|t:|1781491456
+|move|p2a: Pawmot|Close Combat|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|-unboost|p2a: Pawmot|def|1
+|-unboost|p2a: Pawmot|spd|1
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781491462
+|switch|p1a: Tornadus|Tornadus-Therian, M|55/100 brn
+|turn|34
+|
+|t:|1781491469
+|switch|p2a: Ting-Lu|Ting-Lu, tera:Steel|71/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|63/100
+|-unboost|p2a: Ting-Lu|spe|1
+|
+|-heal|p2a: Ting-Lu|69/100|[from] item: Leftovers
+|-damage|p1a: Tornadus|49/100 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1781491475
+|move|p1a: Tornadus|U-turn|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|67/100
+|
+|t:|1781491477
+|switch|p1a: Great Tusk|Great Tusk|29/100|[from] U-turn
+|move|p2a: Ting-Lu|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|3/100
+|
+|-heal|p2a: Ting-Lu|73/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1781491481
+|move|p1a: Great Tusk|Headlong Rush|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|9/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Ting-Lu|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-heal|p2a: Ting-Lu|15/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781491492
+|switch|p1a: Tornadus|Tornadus-Therian, M|82/100 brn
+|turn|37
+|
+|t:|1781491521
+|move|p1a: Tornadus|Heat Wave|p2a: Ting-Lu|[miss]
+|-miss|p1a: Tornadus|p2a: Ting-Lu
+|move|p2a: Ting-Lu|Ruination|p1a: Tornadus
+|-damage|p1a: Tornadus|41/100 brn
+|
+|-heal|p2a: Ting-Lu|21/100|[from] item: Leftovers
+|-damage|p1a: Tornadus|35/100 brn|[from] brn
+|upkeep
+|turn|38
+|
+|t:|1781491527
+|move|p1a: Tornadus|Heat Wave|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|-damage|p1a: Tornadus|29/100 brn|[from] brn
+|upkeep
+|
+|t:|1781491531
+|switch|p2a: Pawmot|Pawmot, F|67/100
+|turn|39
+|inactive|bigballs01 has 120 seconds left.
+|
+|t:|1781491566
+|switch|p1a: Slowking|Slowking-Galar, F|50/100 brn
+|move|p2a: Pawmot|Revival Blessing|p2a: Pawmot
+|
+|t:|1781491568
+|-heal|p2: Ting-Lu|50/100|[from] move: Revival Blessing
+|
+|-damage|p1a: Slowking|44/100 brn|[from] brn
+|upkeep
+|turn|40
+|
+|t:|1781491575
+|switch|p2a: Ting-Lu|Ting-Lu|50/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Slowking|Sludge Bomb|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|44/100
+|
+|-heal|p2a: Ting-Lu|50/100|[from] item: Leftovers
+|-damage|p1a: Slowking|37/100 brn|[from] brn
+|upkeep
+|turn|41
+|
+|t:|1781491579
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Slowking
+|-sidestart|p1: bigballs01|move: Stealth Rock
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781491582
+|switch|p1a: Tornadus|Tornadus-Therian, M|62/100 brn|[from] Chilly Reception
+|-damage|p1a: Tornadus|38/100 brn|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Ting-Lu|56/100|[from] item: Leftovers
+|-damage|p1a: Tornadus|31/100 brn|[from] brn
+|upkeep
+|turn|42
+|
+|t:|1781491585
+|move|p1a: Tornadus|Knock Off|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|54/100
+|-enditem|p2a: Ting-Lu|Leftovers|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Ting-Lu|Spikes|p1a: Tornadus
+|-sidestart|p1: bigballs01|Spikes
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Tornadus|25/100 brn|[from] brn
+|upkeep
+|turn|43
+|
+|t:|1781491589
+|move|p1a: Tornadus|U-turn|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|45/100
+|
+|t:|1781491591
+|switch|p1a: Slowking|Slowking-Galar, F|71/100 brn|[from] U-turn
+|move|p2a: Ting-Lu|Spikes|p1a: Slowking
+|-sidestart|p1: bigballs01|Spikes
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Slowking|65/100 brn|[from] brn
+|upkeep
+|turn|44
+|
+|t:|1781491596
+|move|p2a: Ting-Lu|Earthquake|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|13/100 brn
+|move|p1a: Slowking|Sludge Bomb|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|38/100
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Slowking|7/100 brn|[from] brn
+|upkeep
+|turn|45
+|
+|t:|1781491599
+|move|p2a: Ting-Lu|Earthquake|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-weather|none
+|upkeep
+|
+|t:|1781491601
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-damage|p1a: Kingambit|78/100|[from] Spikes
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|46
+|
+|t:|1781491614
+|move|p1a: Kingambit|Iron Head|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|3/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|22/100
+|
+|-heal|p1a: Kingambit|29/100|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1781491618
+|move|p1a: Kingambit|Iron Head|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|-heal|p1a: Kingambit|35/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781491620
+|switch|p2a: Pawmot|Pawmot, F|67/100
+|turn|48
+|
+|t:|1781491623
+|-end|p1a: Kingambit|fallen4|[silent]
+|switch|p1a: Tornadus|Tornadus-Therian, M|59/100 brn
+|-damage|p1a: Tornadus|34/100 brn|[from] Stealth Rock
+|move|p2a: Pawmot|Mach Punch|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|21/100 brn
+|
+|-damage|p1a: Tornadus|15/100 brn|[from] brn
+|upkeep
+|turn|49
+|
+|t:|1781491629
+|switch|p2a: Greninja|Greninja, F|84/100
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Greninja
+|-damage|p2a: Greninja|30/100
+|-unboost|p2a: Greninja|spe|1
+|
+|-damage|p1a: Tornadus|9/100 brn|[from] brn
+|upkeep
+|turn|50
+|
+|t:|1781491635
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|faint|p2a: Greninja
+|
+|-damage|p1a: Tornadus|3/100 brn|[from] brn
+|upkeep
+|
+|t:|1781491637
+|switch|p2a: Pawmot|Pawmot, F|67/100
+|turn|51
+|
+|t:|1781491646
+|move|p2a: Pawmot|Supercell Slam|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1781491649
+|switch|p1a: Kingambit|Kingambit, M|35/100
+|-damage|p1a: Kingambit|29/100|[from] Stealth Rock
+|-damage|p1a: Kingambit|12/100|[from] Spikes
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|turn|52
+|
+|t:|1781491658
+|-terastallize|p1a: Kingambit|Ghost
+|move|p2a: Pawmot|Supercell Slam|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen5|[silent]
+|
+|win|thegreatestnone
+|raw|bigballs01's rating: 1637 &rarr; <strong>1618</strong><br />(-19 for losing)
+|raw|thegreatestnone's rating: 1656 &rarr; <strong>1675</strong><br />(+19 for winning)
+|l|☆bigballs01
+|player|p1|
+|l|☆thegreatestnone
+|player|p2|

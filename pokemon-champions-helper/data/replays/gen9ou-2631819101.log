@@ -1,0 +1,501 @@
+|j|☆Krupekon
+|j|☆NebulaTrainer
+|t:|1781444145
+|gametype|singles
+|player|p1|Krupekon|170|1526
+|player|p2|NebulaTrainer|cynthia-gen4|1499
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dondozo, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Heatran, M|
+|poke|p1|Cinderace, F|
+|poke|p1|Meowscarada, M|
+|poke|p1|Iron Valiant|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Heatran, M|
+|poke|p2|Hippowdon, M|
+|poke|p2|Keldeo-Resolute|
+|poke|p2|Excadrill, M|
+|poke|p2|Hydrapple, F|
+|teampreview
+|
+|t:|1781444166
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|switch|p2a: Heatran|Heatran, M, shiny|100/100
+|turn|1
+|
+|t:|1781444172
+|move|p1a: Cinderace|High Jump Kick|p2a: Heatran
+|-start|p1a: Cinderace|typechange|Fighting|[from] ability: Libero
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1781444182
+|switch|p2a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|turn|2
+|
+|t:|1781444192
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: Tornadus|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|83/100
+|-enditem|p1a: Heatran|Leftovers|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|upkeep
+|turn|3
+|
+|t:|1781444206
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tornadus|atk|1
+|move|p2a: Tornadus|Hurricane|p1a: Landorus
+|-damage|p1a: Landorus|70/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781444217
+|move|p2a: Tornadus|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|56/100
+|-enditem|p1a: Landorus|Assault Vest|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Landorus|Stone Edge|p2a: Tornadus|[miss]
+|-miss|p1a: Landorus|p2a: Tornadus
+|
+|upkeep
+|turn|5
+|
+|t:|1781444225
+|switch|p1a: Heatran|Heatran, M|83/100
+|move|p2a: Tornadus|Hurricane|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|70/100
+|-start|p1a: Heatran|confusion
+|
+|upkeep
+|turn|6
+|
+|t:|1781444233
+|move|p2a: Tornadus|Hurricane|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|57/100
+|-activate|p1a: Heatran|confusion
+|-damage|p1a: Heatran|52/100|[from] confusion
+|
+|upkeep
+|turn|7
+|
+|t:|1781444242
+|move|p2a: Tornadus|Hurricane|p1a: Heatran|[miss]
+|-miss|p2a: Tornadus|p1a: Heatran
+|-activate|p1a: Heatran|confusion
+|move|p1a: Heatran|Magma Storm|p2a: Tornadus|[miss]
+|-miss|p1a: Heatran|p2a: Tornadus
+|
+|upkeep
+|turn|8
+|
+|t:|1781444253
+|move|p2a: Tornadus|Hurricane|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|39/100
+|-activate|p1a: Heatran|confusion
+|-damage|p1a: Heatran|34/100|[from] confusion
+|
+|upkeep
+|turn|9
+|
+|t:|1781444263
+|move|p2a: Tornadus|Hurricane|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|21/100
+|-end|p1a: Heatran|confusion
+|move|p1a: Heatran|Magma Storm|p2a: Tornadus
+|-damage|p2a: Tornadus|71/100
+|-activate|p2a: Tornadus|move: Magma Storm|[of] p1a: Heatran
+|
+|-damage|p2a: Tornadus|58/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1781444274
+|move|p1a: Heatran|Protect|p1a: Heatran
+|-singleturn|p1a: Heatran|Protect
+|move|p2a: Tornadus|U-turn|p1a: Heatran
+|-activate|p1a: Heatran|move: Protect
+|
+|-damage|p2a: Tornadus|46/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1781444282
+|move|p2a: Tornadus|U-turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|19/100
+|
+|t:|1781444286
+|switch|p2a: Keldeo|Keldeo-Resolute, shiny|100/100|[from] U-turn
+|move|p1a: Heatran|Magma Storm|p2a: Keldeo|[miss]
+|-miss|p1a: Heatran|p2a: Keldeo
+|
+|upkeep
+|turn|12
+|
+|t:|1781444310
+|move|p2a: Keldeo|Secret Sword|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1781444316
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|turn|13
+|
+|t:|1781444320
+|switch|p2a: Hydrapple|Hydrapple, F, shiny|100/100
+|move|p1a: Meowscarada|Flower Trick|p2a: Hydrapple
+|-start|p1a: Meowscarada|typechange|Grass|[from] ability: Protean
+|-resisted|p2a: Hydrapple
+|-crit|p2a: Hydrapple
+|-damage|p2a: Hydrapple|87/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781444330
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|switch|p2a: Hippowdon|Hippowdon, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Cinderace|95/100|[from] Sandstorm
+|upkeep
+|turn|15
+|
+|t:|1781444340
+|move|p1a: Cinderace|U-turn|p2a: Hippowdon
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p2a: Hippowdon|83/100
+|
+|t:|1781444345
+|switch|p1a: Meowscarada|Meowscarada, M|100/100|[from] U-turn
+|move|p2a: Hippowdon|Stealth Rock|p1a: Meowscarada
+|-sidestart|p1: Krupekon|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Meowscarada|94/100|[from] Sandstorm
+|upkeep
+|turn|16
+|
+|t:|1781444354
+|switch|p2a: Keldeo|Keldeo-Resolute, shiny|100/100
+|move|p1a: Meowscarada|U-turn|p2a: Keldeo
+|-start|p1a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-resisted|p2a: Keldeo
+|-damage|p2a: Keldeo|72/100
+|
+|t:|1781444380
+|switch|p1a: Dondozo|Dondozo, F, shiny|100/100|[from] U-turn
+|-damage|p1a: Dondozo|88/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Keldeo|66/100|[from] Sandstorm
+|-damage|p1a: Dondozo|82/100|[from] Sandstorm
+|-heal|p1a: Dondozo|88/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781444398
+|move|p2a: Keldeo|Flip Turn|p1a: Dondozo
+|-resisted|p1a: Dondozo
+|-damage|p1a: Dondozo|84/100
+|
+|t:|1781444402
+|switch|p2a: Hydrapple|Hydrapple, F, shiny|100/100|[from] Flip Turn
+|move|p1a: Dondozo|Liquidation|p2a: Hydrapple
+|-resisted|p2a: Hydrapple
+|-damage|p2a: Hydrapple|94/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hydrapple|88/100|[from] Sandstorm
+|-damage|p1a: Dondozo|77/100|[from] Sandstorm
+|-heal|p1a: Dondozo|84/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781444413
+|switch|p1a: Cinderace|Cinderace, F|95/100
+|move|p2a: Hydrapple|Fickle Beam|p1a: Cinderace
+|-damage|p1a: Cinderace|38/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Cinderace|32/100|[from] Sandstorm
+|-damage|p2a: Hydrapple|82/100|[from] Sandstorm
+|upkeep
+|turn|19
+|
+|t:|1781444426
+|switch|p2a: Tornadus|Tornadus-Therian, M, shiny|79/100
+|move|p1a: Cinderace|U-turn|p2a: Tornadus
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|61/100
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by NebulaTrainer)
+|
+|t:|1781444454
+|switch|p1a: Landorus|Landorus-Therian, M|56/100|[from] U-turn
+|-damage|p1a: Landorus|44/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tornadus|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|55/100|[from] Sandstorm
+|upkeep
+|turn|20
+|
+|t:|1781444463
+|move|p2a: Tornadus|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|39/100
+|
+|t:|1781444468
+|switch|p2a: Hippowdon|Hippowdon, M, shiny|83/100|[from] U-turn
+|move|p1a: Landorus|Stone Edge|p2a: Hippowdon
+|-resisted|p2a: Hippowdon
+|-damage|p2a: Hippowdon|72/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781444477
+|move|p1a: Landorus|Earthquake|p2a: Hippowdon
+|-damage|p2a: Hippowdon|37/100
+|move|p2a: Hippowdon|Whirlwind|p1a: Landorus
+|drag|p1a: Dondozo|Dondozo, F, shiny|84/100
+|-damage|p1a: Dondozo|71/100|[from] Stealth Rock
+|
+|-weather|none
+|-heal|p1a: Dondozo|77/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781444490
+|switch|p1a: Cinderace|Cinderace, F|32/100
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|87/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781444499
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-start|p1a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|move|p2a: Hippowdon|Whirlwind|p1a: Cinderace
+|drag|p1a: Landorus|Landorus-Therian, M|39/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Hippowdon|atk|1
+|
+|upkeep
+|turn|24
+|
+|t:|1781444508
+|move|p1a: Landorus|U-turn|p2a: Hippowdon
+|-damage|p2a: Hippowdon|72/100
+|
+|t:|1781444511
+|switch|p1a: Meowscarada|Meowscarada, M|94/100|[from] U-turn
+|move|p2a: Hippowdon|Stealth Rock|p1a: Meowscarada
+|-sidestart|p1: Krupekon|move: Stealth Rock
+|
+|upkeep
+|turn|25
+|
+|t:|1781444519
+|switch|p2a: Tornadus|Tornadus-Therian, M, shiny|88/100
+|-damage|p2a: Tornadus|63/100|[from] Stealth Rock
+|move|p1a: Meowscarada|Play Rough|p2a: Tornadus
+|-start|p1a: Meowscarada|typechange|Fairy|[from] ability: Protean
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|upkeep
+|
+|t:|1781444532
+|switch|p2a: Hippowdon|Hippowdon, M, shiny|72/100
+|-damage|p2a: Hippowdon|66/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|26
+|
+|t:|1781444538
+|move|p1a: Meowscarada|Play Rough|p2a: Hippowdon
+|-damage|p2a: Hippowdon|34/100
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|84/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Meowscarada|88/100|[from] Sandstorm
+|upkeep
+|turn|27
+|
+|t:|1781444547
+|switch|p1a: Cinderace|Cinderace, F|32/100
+|move|p2a: Hippowdon|Earthquake|p1a: Cinderace
+|-supereffective|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781444555
+|switch|p1a: Meowscarada|Meowscarada, M|88/100
+|-damage|p1a: Meowscarada|76/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1781444560
+|move|p1a: Meowscarada|Knock Off|p2a: Hippowdon
+|-start|p1a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-crit|p2a: Hippowdon
+|-damage|p2a: Hippowdon|29/100
+|-enditem|p2a: Hippowdon|Smooth Rock|[from] move: Knock Off|[of] p1a: Meowscarada
+|move|p2a: Hippowdon|Earthquake|p1a: Meowscarada
+|-damage|p1a: Meowscarada|16/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Meowscarada|10/100|[from] Sandstorm
+|upkeep
+|turn|29
+|
+|t:|1781444572
+|move|p1a: Meowscarada|Knock Off|p2a: Hippowdon
+|-damage|p2a: Hippowdon|6/100
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|56/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Meowscarada|4/100|[from] Sandstorm
+|upkeep
+|turn|30
+|
+|t:|1781444580
+|move|p1a: Meowscarada|Knock Off|p2a: Hippowdon
+|-damage|p2a: Hippowdon|32/100
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|82/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Meowscarada|0 fnt|[from] Sandstorm
+|faint|p1a: Meowscarada
+|upkeep
+|
+|t:|1781444586
+|switch|p1a: Landorus|Landorus-Therian, M|39/100
+|-damage|p1a: Landorus|27/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Hippowdon|atk|1
+|turn|31
+|
+|t:|1781444594
+|move|p1a: Landorus|Earthquake|p2a: Hippowdon
+|-damage|p2a: Hippowdon|46/100
+|move|p2a: Hippowdon|Whirlwind|p1a: Landorus
+|drag|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Valiant|88/100|[from] Sandstorm
+|upkeep
+|turn|32
+|
+|t:|1781444608
+|switch|p2a: Keldeo|Keldeo-Resolute, shiny|66/100
+|-damage|p2a: Keldeo|59/100|[from] Stealth Rock
+|move|p1a: Iron Valiant|Moonblast|p2a: Keldeo
+|-supereffective|p2a: Keldeo
+|-damage|p2a: Keldeo|0 fnt
+|faint|p2a: Keldeo
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Valiant|82/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781444620
+|switch|p2a: Excadrill|Excadrill, M, shiny|100/100
+|-damage|p2a: Excadrill|97/100|[from] Stealth Rock
+|turn|33
+|
+|t:|1781444625
+|move|p2a: Excadrill|Iron Head|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|none
+|-heal|p2a: Excadrill|100/100|[from] item: Leftovers
+|upkeep
+|c|☆NebulaTrainer|🤷🏻
+|
+|t:|1781444652
+|switch|p1a: Dondozo|Dondozo, F, shiny|77/100
+|-damage|p1a: Dondozo|65/100|[from] Stealth Rock
+|turn|34
+|
+|t:|1781444659
+|switch|p2a: Hydrapple|Hydrapple, F, shiny|100/100
+|switch|p1a: Landorus|Landorus-Therian, M|27/100
+|-damage|p1a: Landorus|15/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Hydrapple|atk|1
+|
+|upkeep
+|turn|35
+|
+|t:|1781444667
+|move|p1a: Landorus|U-turn|p2a: Hydrapple
+|-supereffective|p2a: Hydrapple
+|-damage|p2a: Hydrapple|60/100
+|
+|t:|1781444669
+|switch|p1a: Dondozo|Dondozo, F, shiny|65/100|[from] U-turn
+|-damage|p1a: Dondozo|52/100|[from] Stealth Rock
+|move|p2a: Hydrapple|Giga Drain|p1a: Dondozo
+|-supereffective|p1a: Dondozo
+|-damage|p1a: Dondozo|0 fnt
+|-heal|p2a: Hydrapple|91/100|[from] drain|[of] p1a: Dondozo
+|faint|p1a: Dondozo
+|
+|upkeep
+|-message|Krupekon forfeited.
+|
+|win|NebulaTrainer
+|raw|Krupekon's rating: 1526 &rarr; <strong>1504</strong><br />(-22 for losing)
+|raw|NebulaTrainer's rating: 1499 &rarr; <strong>1521</strong><br />(+22 for winning)
+|l|☆Krupekon
+|player|p1|
+|c|☆NebulaTrainer|Bye
+|l|☆NebulaTrainer
+|player|p2|

@@ -1,0 +1,325 @@
+|j|☆Oatsz
+|j|☆zippitytippity
+|t:|1781158077
+|gametype|singles
+|player|p1|Oatsz|cynthia-gen4|1487
+|player|p2|zippitytippity|cynthia-masters4|1584
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Kyurem|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Kingambit, F|
+|poke|p2|Ursaluna, M|
+|poke|p2|Cresselia, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Hatterene, F|
+|poke|p2|Keldeo-Resolute|
+|poke|p2|Ogerpon, F|
+|teampreview
+|
+|t:|1781158094
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Cresselia|Cresselia, F, shiny|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781158102
+|move|p1a: Kyurem|Ice Beam|p2a: Cresselia
+|-crit|p2a: Cresselia
+|-damage|p2a: Cresselia|43/100
+|move|p2a: Cresselia|Trick Room|p2a: Cresselia
+|-fieldstart|move: Trick Room|[of] p2a: Cresselia
+|
+|upkeep
+|turn|2
+|
+|t:|1781158109
+|move|p2a: Cresselia|Lunar Dance|p2a: Cresselia
+|faint|p2a: Cresselia
+|move|p1a: Kyurem|Ice Beam|p2: Cresselia|[notarget]
+|-fail|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781158112
+|switch|p2a: Keldeo|Keldeo-Resolute|100/100
+|turn|3
+|
+|t:|1781158117
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Keldeo|Flip Turn|p1a: Slowking
+|-damage|p1a: Slowking|90/100
+|
+|t:|1781158120
+|switch|p2a: Ursaluna|Ursaluna, M, shiny|100/100|[from] Flip Turn
+|
+|-heal|p1a: Slowking|96/100|[from] item: Black Sludge
+|-status|p2a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by zippitytippity)
+|
+|t:|1781158138
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-terastallize|p2a: Ursaluna|Normal
+|move|p2a: Ursaluna|Facade|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-damage|p2a: Ursaluna|84/100 brn|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-damage|p2a: Ursaluna|78/100 brn|[from] brn
+|upkeep
+|
+|t:|1781158159
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|turn|5
+|
+|t:|1781158166
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Ursaluna|Headlong Rush|p1a: Tornadus
+|-immune|p1a: Tornadus
+|
+|-damage|p2a: Ursaluna|72/100 brn|[from] brn
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1781158178
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Ursaluna
+|-damage|p2a: Ursaluna|40/100 brn
+|move|p2a: Ursaluna|Facade|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-damage|p2a: Ursaluna|34/100 brn|[from] brn
+|upkeep
+|
+|t:|1781158189
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|7
+|
+|t:|1781158199
+|switch|p2a: Keldeo|Keldeo-Resolute|100/100
+|-heal|p2a: Keldeo|100/100|[from] move: Lunar Dance
+|move|p1a: Kyurem|Freeze-Dry|p2a: Keldeo
+|-supereffective|p2a: Keldeo
+|-damage|p2a: Keldeo|0 fnt
+|faint|p2a: Keldeo
+|
+|upkeep
+|
+|t:|1781158207
+|switch|p2a: Hatterene|Hatterene, F, shiny|100/100
+|turn|8
+|
+|t:|1781158233
+|move|p1a: Kyurem|Freeze-Dry|p2a: Hatterene
+|-damage|p2a: Hatterene|40/100
+|move|p2a: Hatterene|Trick Room|p2a: Hatterene
+|-fieldstart|move: Trick Room|[of] p2a: Hatterene
+|
+|upkeep
+|turn|9
+|
+|t:|1781158242
+|move|p2a: Hatterene|Dazzling Gleam|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-crit|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781158248
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|10
+|
+|t:|1781158258
+|move|p2a: Hatterene|Healing Wish|p2a: Hatterene
+|faint|p2a: Hatterene
+|move|p1a: Kingambit|Iron Head|p2: Hatterene|[notarget]
+|-fail|p1a: Kingambit
+|
+|upkeep
+|
+|t:|1781158264
+|switch|p2a: Ursaluna|Ursaluna, M, shiny, tera:Normal|34/100 brn
+|-heal|p2a: Ursaluna|100/100|[from] move: Healing Wish
+|turn|11
+|
+|t:|1781158277
+|move|p2a: Ursaluna|Headlong Rush|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|3/100
+|-unboost|p2a: Ursaluna|def|1
+|-unboost|p2a: Ursaluna|spd|1
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Ursaluna
+|-damage|p2a: Ursaluna|37/100
+|
+|-heal|p1a: Kingambit|9/100|[from] item: Leftovers
+|-status|p2a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|12
+|
+|t:|1781158285
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-heal|p1a: Kingambit|15/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|13
+|
+|t:|1781158292
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Ogerpon|Ogerpon, F|100/100
+|-end|p1a: Kingambit|fallen3|[silent]
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|
+|upkeep
+|turn|14
+|l|☆zippitytippity
+|inactive|zippitytippity disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆zippitytippity
+|inactive|zippitytippity reconnected and has 140 seconds left.
+|player|p2|zippitytippity|cynthia-masters4|
+|
+|t:|1781158306
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Ogerpon|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|61/100
+|-damage|p2a: Ogerpon|84/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|-enditem|p1a: Hatterene|Rocky Helmet|[from] move: Knock Off|[of] p2a: Ogerpon
+|
+|upkeep
+|turn|15
+|
+|t:|1781158314
+|move|p2a: Ogerpon|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|36/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Ogerpon
+|-damage|p2a: Ogerpon|57/100
+|-heal|p1a: Hatterene|55/100|[from] drain|[of] p2a: Ogerpon
+|
+|upkeep
+|turn|16
+|
+|t:|1781158333
+|switch|p2a: Ursaluna|Ursaluna, M, shiny, tera:Normal|37/100 brn
+|move|p1a: Hatterene|Nuzzle|p2a: Ursaluna
+|-damage|p2a: Ursaluna|34/100 brn
+|
+|-damage|p2a: Ursaluna|28/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781158339
+|move|p1a: Hatterene|Psychic Noise|p2a: Ursaluna
+|-damage|p2a: Ursaluna|0 fnt
+|faint|p2a: Ursaluna
+|
+|upkeep
+|
+|t:|1781158343
+|switch|p2a: Ogerpon|Ogerpon, F|57/100
+|turn|18
+|
+|t:|1781158360
+|-terastallize|p1a: Hatterene|Flying
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|26/100
+|move|p1a: Hatterene|Nuzzle|p2a: Ogerpon
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|55/100
+|-status|p2a: Ogerpon|par
+|
+|upkeep
+|turn|19
+|
+|t:|1781158375
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781158380
+|switch|p1a: Kingambit|Kingambit, F|15/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|20
+|
+|t:|1781158386
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|
+|upkeep
+|
+|t:|1781158387
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|turn|21
+|
+|t:|1781158390
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|move|p1a: Slowking|Sludge Bomb|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781158392
+|switch|p2a: Ogerpon|Ogerpon, F|55/100 par
+|turn|22
+|
+|t:|1781158393
+|move|p2a: Ogerpon|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|33/100
+|-enditem|p1a: Slowking|Black Sludge|[from] move: Knock Off|[of] p2a: Ogerpon
+|move|p1a: Slowking|Sludge Bomb|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|win|Oatsz
+|raw|Oatsz's rating: 1487 &rarr; <strong>1512</strong><br />(+25 for winning)
+|raw|zippitytippity's rating: 1584 &rarr; <strong>1559</strong><br />(-25 for losing)
+|l|☆zippitytippity
+|player|p2|
+|l|☆Oatsz
+|player|p1|

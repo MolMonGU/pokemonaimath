@@ -1,0 +1,347 @@
+|j|☆cachowcapow
+|j|☆ykykp
+|t:|1781527590
+|gametype|singles
+|player|p1|cachowcapow|101|1528
+|player|p2|ykykp|102|1504
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pikachu, F|
+|poke|p1|Alomomola, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Slither Wing|
+|poke|p1|Iron Treads|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Blastoise, M|
+|poke|p2|Iron Crown|
+|poke|p2|Great Tusk|
+|poke|p2|Ceruledge, M|
+|poke|p2|Hydreigon, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ykykp)
+|
+|t:|1781527604
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|1
+|inactive|cachowcapow has 120 seconds left.
+|
+|t:|1781527642
+|move|p2a: Deoxys|Taunt|p1a: Iron Treads
+|-start|p1a: Iron Treads|move: Taunt
+|move|p1a: Iron Treads|Rapid Spin|p2a: Deoxys
+|-damage|p2a: Deoxys|87/100
+|-boost|p1a: Iron Treads|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1781527647
+|move|p1a: Iron Treads|Knock Off|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|32/100
+|-enditem|p2a: Deoxys|Light Clay|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: ykykp|Reflect
+|
+|upkeep
+|turn|3
+|
+|t:|1781527653
+|move|p1a: Iron Treads|Earth Power|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|-end|p1a: Iron Treads|move: Taunt
+|upkeep
+|
+|t:|1781527658
+|switch|p2a: Megaman|Ceruledge, M|100/100
+|turn|4
+|
+|t:|1781527667
+|-terastallize|p1a: Iron Treads|Ground
+|move|p1a: Iron Treads|Earth Power|p2a: Megaman
+|-supereffective|p2a: Megaman
+|-damage|p2a: Megaman|0 fnt
+|faint|p2a: Megaman
+|
+|upkeep
+|
+|t:|1781527672
+|switch|p2a: Gamera|Blastoise, M|100/100
+|turn|5
+|
+|t:|1781527693
+|move|p1a: Iron Treads|Volt Switch|p2a: Gamera
+|-supereffective|p2a: Gamera
+|-damage|p2a: Gamera|65/100
+|
+|t:|1781527697
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] Volt Switch
+|move|p2a: Gamera|Shell Smash|p2a: Gamera
+|-unboost|p2a: Gamera|def|1
+|-unboost|p2a: Gamera|spd|1
+|-boost|p2a: Gamera|atk|2
+|-boost|p2a: Gamera|spa|2
+|-boost|p2a: Gamera|spe|2
+|-enditem|p2a: Gamera|White Herb
+|-clearnegativeboost|p2a: Gamera|[silent]
+|
+|upkeep
+|turn|6
+|
+|t:|1781527701
+|move|p2a: Gamera|Ice Beam|p1a: Ogerpon
+|-damage|p1a: Ogerpon|45/100
+|move|p1a: Ogerpon|Horn Leech|p2a: Gamera
+|-supereffective|p2a: Gamera
+|-damage|p2a: Gamera|10/100
+|-heal|p1a: Ogerpon|72/100|[from] drain|[of] p2a: Gamera
+|
+|-sideend|p2: ykykp|Reflect
+|upkeep
+|turn|7
+|
+|t:|1781527706
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Gamera|Ice Beam|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|90/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781527709
+|move|p2a: Gamera|Surf|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|62/100
+|move|p1a: Alomomola|Flip Turn|p2a: Gamera
+|-resisted|p2a: Gamera
+|-damage|p2a: Gamera|1/100
+|
+|t:|1781527712
+|switch|p1a: Slither Wing|Slither Wing|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|9
+|
+|t:|1781527716
+|move|p1a: Slither Wing|First Impression|p2a: Gamera
+|-damage|p2a: Gamera|0 fnt
+|faint|p2a: Gamera
+|
+|upkeep
+|
+|t:|1781527720
+|switch|p2a: Mecha Chiron|Iron Crown|100/100
+|-enditem|p2a: Mecha Chiron|Booster Energy
+|-activate|p2a: Mecha Chiron|ability: Quark Drive|[fromitem]
+|-start|p2a: Mecha Chiron|quarkdrivespe
+|turn|10
+|
+|t:|1781527725
+|move|p2a: Mecha Chiron|Iron Defense|p2a: Mecha Chiron
+|-boost|p2a: Mecha Chiron|def|2
+|move|p1a: Slither Wing|U-turn|p2a: Mecha Chiron
+|-damage|p2a: Mecha Chiron|85/100
+|
+|t:|1781527728
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Iron Valiant|Iron Valiant|100/100|[from] U-turn
+|
+|upkeep
+|turn|11
+|
+|t:|1781527735
+|move|p2a: Mecha Chiron|Calm Mind|p2a: Mecha Chiron
+|-boost|p2a: Mecha Chiron|spa|1
+|-boost|p2a: Mecha Chiron|spd|1
+|move|p1a: Iron Valiant|Fire Punch|p2a: Mecha Chiron
+|-supereffective|p2a: Mecha Chiron
+|-damage|p2a: Mecha Chiron|47/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781527741
+|move|p2a: Mecha Chiron|Stored Power|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781527745
+|switch|p1a: Alomomola|Alomomola, F|95/100
+|turn|13
+|
+|t:|1781527748
+|move|p2a: Mecha Chiron|Calm Mind|p2a: Mecha Chiron
+|-boost|p2a: Mecha Chiron|spa|1
+|-boost|p2a: Mecha Chiron|spd|1
+|move|p1a: Alomomola|Mirror Coat||[still]
+|-fail|p1a: Alomomola
+|
+|upkeep
+|turn|14
+|
+|t:|1781527753
+|move|p2a: Mecha Chiron|Iron Defense|p2a: Mecha Chiron
+|-boost|p2a: Mecha Chiron|def|2
+|move|p1a: Alomomola|Flip Turn|p2a: Mecha Chiron
+|-damage|p2a: Mecha Chiron|42/100
+|
+|t:|1781527759
+|switch|p1a: Slither Wing|Slither Wing|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|15
+|
+|t:|1781527769
+|move|p1a: Slither Wing|First Impression|p2a: Mecha Chiron
+|-damage|p2a: Mecha Chiron|29/100
+|move|p2a: Mecha Chiron|Stored Power|p1a: Slither Wing
+|-supereffective|p1a: Slither Wing
+|-damage|p1a: Slither Wing|0 fnt
+|faint|p1a: Slither Wing
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781527772
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|turn|16
+|
+|t:|1781527776
+|move|p2a: Mecha Chiron|Calm Mind|p2a: Mecha Chiron
+|-boost|p2a: Mecha Chiron|spa|1
+|-boost|p2a: Mecha Chiron|spd|1
+|move|p1a: Alomomola|Body Slam|p2a: Mecha Chiron
+|-resisted|p2a: Mecha Chiron
+|-damage|p2a: Mecha Chiron|27/100
+|-status|p2a: Mecha Chiron|par
+|
+|upkeep
+|turn|17
+|
+|t:|1781527782
+|move|p2a: Mecha Chiron|Stored Power|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|faint|p1a: Alomomola
+|
+|upkeep
+|
+|t:|1781527788
+|switch|p1a: Iron Treads|Iron Treads, tera:Ground|100/100
+|turn|18
+|
+|t:|1781527793
+|move|p1a: Iron Treads|Earth Power|p2a: Mecha Chiron
+|-supereffective|p2a: Mecha Chiron
+|-damage|p2a: Mecha Chiron|0 fnt
+|faint|p2a: Mecha Chiron
+|-end|p2a: Mecha Chiron|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781527798
+|switch|p2a: Hydreigon|Hydreigon, M|100/100
+|turn|19
+|
+|t:|1781527805
+|move|p1a: Iron Treads|Volt Switch|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|90/100
+|
+|t:|1781527806
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|72/100|[from] Volt Switch
+|move|p2a: Hydreigon|Dark Pulse|p1a: Ogerpon
+|-damage|p1a: Ogerpon|2/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781527814
+|move|p1a: Ogerpon|U-turn|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|30/100
+|
+|t:|1781527816
+|switch|p1a: Iron Treads|Iron Treads, tera:Ground|100/100|[from] U-turn
+|move|p2a: Hydreigon|Dark Pulse|p1a: Iron Treads
+|-damage|p1a: Iron Treads|15/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781527827
+|move|p1a: Iron Treads|Knock Off|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|17/100
+|-enditem|p2a: Hydreigon|Choice Specs|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: Hydreigon|Dark Pulse|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781527829
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|2/100
+|turn|22
+|
+|t:|1781527834
+|move|p1a: Ogerpon|U-turn|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|t:|1781527846
+|switch|p1a: Pikachu|Pikachu, F|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781527848
+|switch|p2a: Manny|Great Tusk|100/100
+|-enditem|p2a: Manny|Booster Energy
+|-activate|p2a: Manny|ability: Protosynthesis|[fromitem]
+|-start|p2a: Manny|protosynthesisspe
+|turn|23
+|
+|t:|1781527852
+|move|p2a: Manny|Headlong Rush|p1a: Pikachu
+|-supereffective|p1a: Pikachu
+|-damage|p1a: Pikachu|0 fnt
+|-unboost|p2a: Manny|def|1
+|-unboost|p2a: Manny|spd|1
+|faint|p1a: Pikachu
+|
+|upkeep
+|-message|cachowcapow forfeited.
+|
+|win|ykykp
+|raw|cachowcapow's rating: 1528 &rarr; <strong>1507</strong><br />(-21 for losing)
+|raw|ykykp's rating: 1504 &rarr; <strong>1525</strong><br />(+21 for winning)
+|l|☆cachowcapow
+|player|p1|
+|l|☆ykykp
+|player|p2|

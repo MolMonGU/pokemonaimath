@@ -1,0 +1,452 @@
+|j|☆EleaRosea
+|j|☆thebambi1234
+|t:|1781099152
+|gametype|singles
+|player|p1|EleaRosea|harmony|1631
+|player|p2|thebambi1234|blackbelt-gen4dp|1635
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon, F|
+|poke|p1|Great Tusk|
+|poke|p1|Alomomola, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Primarina, F|
+|poke|p1|Heatran, F|
+|poke|p2|Gliscor, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Dondozo, M|
+|poke|p2|Blissey, F|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Garganacl, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by thebambi1234)
+|inactive|EleaRosea also wants the timer to be on.
+|
+|t:|1781099165
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Primarina|Primarina, F|100/100
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|turn|1
+|
+|t:|1781099171
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Primarina|Psychic Noise|p2a: Blissey
+|-damage|p2a: Blissey|90/100
+|-start|p2a: Blissey|move: Heal Block
+|
+|upkeep
+|turn|2
+|
+|t:|1781099177
+|move|p1a: Primarina|Whirlpool|p2a: Blissey
+|-damage|p2a: Blissey|84/100
+|-activate|p2a: Blissey|move: Whirlpool|[of] p1a: Primarina
+|move|p2a: Blissey|Seismic Toss|p1a: Primarina
+|-damage|p1a: Primarina|73/100
+|
+|-damage|p2a: Blissey|72/100|[from] move: Whirlpool|[partiallytrapped]
+|-end|p2a: Blissey|move: Heal Block
+|upkeep
+|turn|3
+|
+|t:|1781099180
+|move|p1a: Primarina|Psychic Noise|p2a: Blissey
+|-damage|p2a: Blissey|61/100
+|-start|p2a: Blissey|move: Heal Block
+|move|p2a: Blissey|Seismic Toss|p1a: Primarina
+|-damage|p1a: Primarina|45/100
+|
+|-damage|p2a: Blissey|49/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|4
+|
+|t:|1781099181
+|move|p1a: Primarina|Moonblast|p2a: Blissey
+|-damage|p2a: Blissey|35/100
+|move|p2a: Blissey|Seismic Toss|p1a: Primarina
+|-damage|p1a: Primarina|18/100
+|
+|-damage|p2a: Blissey|22/100|[from] move: Whirlpool|[partiallytrapped]
+|-end|p2a: Blissey|move: Heal Block
+|upkeep
+|turn|5
+|
+|t:|1781099189
+|move|p1a: Primarina|Psychic Noise|p2a: Blissey
+|-damage|p2a: Blissey|10/100
+|-start|p2a: Blissey|move: Heal Block
+|move|p2a: Blissey|Seismic Toss|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|faint|p1a: Primarina
+|
+|-end|p2a: Blissey|Whirlpool|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1781099195
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|6
+|
+|t:|1781099198
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Rillaboom|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|78/100
+|-damage|p1a: Rillaboom|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-enditem|p2a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p1a: Rillaboom
+|
+|-heal|p1a: Rillaboom|90/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781099201
+|move|p1a: Rillaboom|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|74/100
+|
+|t:|1781099204
+|switch|p1a: Heatran|Heatran, F|100/100|[from] U-turn
+|move|p2a: Corviknight|U-turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|97/100
+|
+|t:|1781099213
+|switch|p2a: Blissey|Blissey, F|10/100|[from] U-turn
+|
+|-heal|p1a: Heatran|100/100|[from] Grassy Terrain
+|-heal|p2a: Blissey|16/100|[from] Grassy Terrain
+|-heal|p2a: Blissey|22/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781099219
+|switch|p2a: Garganacl|Garganacl, M, shiny|100/100
+|move|p1a: Heatran|Magma Storm|p2a: Garganacl|[miss]
+|-miss|p1a: Heatran|p2a: Garganacl
+|
+|upkeep
+|turn|9
+|
+|t:|1781099225
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|move|p2a: Garganacl|Protect||[still]
+|-fail|p2a: Garganacl
+|
+|upkeep
+|turn|10
+|
+|t:|1781099230
+|switch|p2a: Corviknight|Corviknight, M|74/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ogerpon|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|69/100
+|
+|t:|1781099245
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|
+|upkeep
+|turn|11
+|
+|t:|1781099258
+|move|p1a: Great Tusk|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|33/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|83/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|89/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781099264
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Corviknight|Body Press|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|56/100
+|
+|-heal|p1a: Heatran|62/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|68/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781099269
+|switch|p2a: Garganacl|Garganacl, M, shiny|100/100
+|move|p1a: Heatran|Stealth Rock|p2a: Garganacl
+|-sidestart|p2: thebambi1234|move: Stealth Rock
+|
+|-heal|p1a: Heatran|75/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|81/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1781099275
+|switch|p1a: Rillaboom|Rillaboom, F|90/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Garganacl|Salt Cure|p1a: Rillaboom
+|-damage|p1a: Rillaboom|77/100
+|-start|p1a: Rillaboom|Salt Cure
+|
+|-heal|p1a: Rillaboom|83/100|[from] Grassy Terrain
+|-damage|p1a: Rillaboom|70/100|[from] Salt Cure
+|upkeep
+|turn|15
+|
+|t:|1781099279
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|move|p1a: Rillaboom|U-turn|p2a: Garganacl
+|-activate|p2a: Garganacl|move: Protect
+|
+|-heal|p1a: Rillaboom|77/100|[from] Grassy Terrain
+|-damage|p1a: Rillaboom|64/100|[from] Salt Cure
+|upkeep
+|turn|16
+|
+|t:|1781099283
+|move|p1a: Rillaboom|Grassy Glide|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|48/100
+|move|p2a: Garganacl|Stealth Rock|p1a: Rillaboom
+|-sidestart|p1: EleaRosea|move: Stealth Rock
+|
+|-heal|p1a: Rillaboom|70/100|[from] Grassy Terrain
+|-heal|p2a: Garganacl|54/100|[from] Grassy Terrain
+|-heal|p2a: Garganacl|60/100|[from] item: Leftovers
+|-damage|p1a: Rillaboom|58/100|[from] Salt Cure
+|upkeep
+|turn|17
+|
+|t:|1781099288
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|move|p2a: Garganacl|Protect||[still]
+|-fail|p2a: Garganacl
+|
+|-heal|p1a: Ogerpon|94/100|[from] Grassy Terrain
+|-heal|p2a: Garganacl|67/100|[from] Grassy Terrain
+|-heal|p2a: Garganacl|73/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781099296
+|switch|p2a: Corviknight|Corviknight, M|89/100
+|-damage|p2a: Corviknight|77/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|55/100
+|
+|-heal|p1a: Ogerpon|99/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1781099303
+|switch|p1a: Heatran|Heatran, F|81/100
+|-damage|p1a: Heatran|68/100|[from] Stealth Rock
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p1a: Heatran|75/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|81/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781099310
+|switch|p2a: Garganacl|Garganacl, M, shiny|73/100
+|-damage|p2a: Garganacl|60/100|[from] Stealth Rock
+|move|p1a: Heatran|Earth Power|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|25/100
+|
+|-heal|p1a: Heatran|87/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|93/100|[from] item: Leftovers
+|-heal|p2a: Garganacl|31/100|[from] Grassy Terrain
+|-heal|p2a: Garganacl|37/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781099315
+|-terastallize|p2a: Garganacl|Water
+|move|p1a: Heatran|Earth Power|p2a: Garganacl
+|-crit|p2a: Garganacl
+|-damage|p2a: Garganacl|11/100
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|61/100
+|
+|-heal|p1a: Heatran|99/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|100/100|[from] item: Leftovers
+|-heal|p2a: Garganacl|67/100|[from] Grassy Terrain
+|-heal|p2a: Garganacl|73/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|22
+|
+|t:|1781099320
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Garganacl|Salt Cure|p1a: Alomomola
+|-damage|p1a: Alomomola|94/100
+|-start|p1a: Alomomola|Salt Cure
+|
+|-heal|p2a: Garganacl|79/100|[from] item: Leftovers
+|-damage|p1a: Alomomola|69/100|[from] Salt Cure
+|upkeep
+|turn|23
+|
+|t:|1781099324
+|switch|p2a: Gliscor|Gliscor, M, shiny|100/100
+|-damage|p2a: Gliscor|88/100|[from] Stealth Rock
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-damage|p1a: Alomomola|44/100|[from] Salt Cure
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|24
+|
+|t:|1781099330
+|switch|p1a: Rillaboom|Rillaboom, F|58/100
+|-damage|p1a: Rillaboom|45/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Gliscor|Toxic|p1a: Rillaboom
+|-status|p1a: Rillaboom|tox
+|
+|-heal|p1a: Rillaboom|100/100 tox|[from] move: Wish|[wisher] Alomomola
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Rillaboom|94/100 tox|[from] psn
+|upkeep
+|turn|25
+|j| Puyu paz
+|j| isaac_gam3r
+|l| Puyu paz
+|
+|t:|1781099344
+|switch|p1a: Ogerpon|Ogerpon, F|99/100
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|move|p2a: Gliscor|Protect||[still]
+|-fail|p2a: Gliscor
+|
+|-heal|p1a: Ogerpon|94/100|[from] Grassy Terrain
+|upkeep
+|turn|26
+|j| Puyu paz
+|l| Puyu paz
+|
+|t:|1781099354
+|move|p1a: Ogerpon|U-turn|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|91/100 tox
+|
+|t:|1781099360
+|switch|p1a: Heatran|Heatran, F|100/100|[from] U-turn
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|move|p2a: Gliscor|Toxic|p1a: Heatran
+|-immune|p1a: Heatran
+|
+|-heal|p1a: Heatran|94/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|100/100|[from] item: Leftovers
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|27
+|
+|t:|1781099364
+|switch|p1a: Ogerpon|Ogerpon, F|94/100
+|-damage|p1a: Ogerpon|82/100|[from] Stealth Rock
+|move|p2a: Gliscor|Knock Off|p1a: Ogerpon
+|-damage|p1a: Ogerpon|49/100
+|-enditem|p1a: Ogerpon|Choice Band|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|-heal|p1a: Ogerpon|55/100|[from] Grassy Terrain
+|upkeep
+|turn|28
+|
+|t:|1781099369
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Gliscor
+|-damage|p2a: Gliscor|64/100 tox
+|move|p2a: Gliscor|Toxic|p1a: Ogerpon
+|-status|p1a: Ogerpon|tox
+|
+|-heal|p1a: Ogerpon|61/100 tox|[from] Grassy Terrain
+|-damage|p1a: Ogerpon|55/100 tox|[from] psn
+|-heal|p2a: Gliscor|76/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|29
+|j| newhere1310
+|
+|t:|1781099373
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p1a: Ogerpon|61/100 tox|[from] Grassy Terrain
+|-damage|p1a: Ogerpon|49/100 tox|[from] psn
+|-heal|p2a: Gliscor|89/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|30
+|
+|t:|1781099378
+|move|p1a: Ogerpon|U-turn|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|82/100 tox
+|
+|t:|1781099380
+|switch|p1a: Heatran|Heatran, F|100/100|[from] U-turn
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|move|p2a: Gliscor|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|69/100
+|-enditem|p1a: Heatran|Leftovers|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|-heal|p1a: Heatran|75/100|[from] Grassy Terrain
+|-heal|p2a: Gliscor|94/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|31
+|
+|t:|1781099386
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Heatran|Magma Storm|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p1a: Heatran|81/100|[from] Grassy Terrain
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|32
+|
+|t:|1781099389
+|move|p2a: Gliscor|Earthquake|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|-message|EleaRosea forfeited.
+|
+|win|thebambi1234
+|raw|EleaRosea's rating: 1631 &rarr; <strong>1611</strong><br />(-20 for losing)
+|raw|thebambi1234's rating: 1635 &rarr; <strong>1655</strong><br />(+20 for winning)
+|l|☆EleaRosea
+|player|p1|
+|l|☆thebambi1234
+|player|p2|
+|l| isaac_gam3r

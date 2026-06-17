@@ -1,0 +1,341 @@
+|j|☆maxcondones
+|j|☆electricdingdong
+|t:|1781047746
+|gametype|singles
+|player|p1|maxcondones|266|1545
+|player|p2|electricdingdong|pokekid|1572
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Excadrill, F|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Tyranitar, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Hippowdon, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Iron Hands|
+|poke|p2|Iron Valiant|
+|poke|p2|Pincurchin, F|
+|poke|p2|Iron Moth|
+|poke|p2|Cresselia, F|
+|poke|p2|Hawlucha, M|
+|teampreview
+|
+|t:|1781047760
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: hedijeans|Landorus-Therian, M, shiny|100/100
+|switch|p2a: Pincurchin|Pincurchin, F|100/100
+|-ability|p1a: hedijeans|Intimidate|boost
+|-unboost|p2a: Pincurchin|atk|1
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|turn|1
+|
+|t:|1781047769
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p2a: Hawlucha|Electric Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Electric Seed
+|move|p1a: hedijeans|Taunt|p2a: Hawlucha
+|-start|p2a: Hawlucha|move: Taunt
+|
+|upkeep
+|turn|2
+|
+|t:|1781047789
+|switch|p1a: yhippojj|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: yhippojj
+|move|p2a: Hawlucha|Acrobatics|p1a: yhippojj
+|-damage|p1a: yhippojj|74/100
+|-enditem|p1a: yhippojj|Eject Button
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by electricdingdong)
+|
+|t:|1781047792
+|switch|p1a: jeremyscottwings|Tornadus-Therian, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hawlucha|94/100|[from] Sandstorm
+|-damage|p1a: jeremyscottwings|94/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1781047816
+|move|p2a: Hawlucha|Acrobatics|p1a: jeremyscottwings
+|-damage|p1a: jeremyscottwings|29/100
+|move|p1a: jeremyscottwings|Bleakwind Storm|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|-damage|p1a: jeremyscottwings|19/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: jeremyscottwings|13/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781047823
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-activate|p2a: Iron Moth|ability: Quark Drive
+|-start|p2a: Iron Moth|quarkdrivespe
+|turn|4
+|inactive|maxcondones has 120 seconds left.
+|
+|t:|1781047859
+|move|p2a: Iron Moth|Meteor Beam||[still]
+|-prepare|p2a: Iron Moth|Meteor Beam
+|-boost|p2a: Iron Moth|spa|1
+|-enditem|p2a: Iron Moth|Power Herb
+|-anim|p2a: Iron Moth|Meteor Beam|p1a: jeremyscottwings|[miss]
+|-miss|p2a: Iron Moth|p1a: jeremyscottwings
+|move|p1a: jeremyscottwings|Bleakwind Storm|p2a: Iron Moth|[miss]
+|-miss|p1a: jeremyscottwings|p2a: Iron Moth
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Moth|95/100|[from] Sandstorm
+|-damage|p1a: jeremyscottwings|7/100|[from] Sandstorm
+|upkeep
+|turn|5
+|inactive|maxcondones has 120 seconds left.
+|
+|t:|1781047866
+|move|p2a: Iron Moth|Fiery Dance|p1a: jeremyscottwings
+|-damage|p1a: jeremyscottwings|0 fnt
+|-boost|p2a: Iron Moth|spa|1
+|faint|p1a: jeremyscottwings
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Moth|89/100|[from] Sandstorm
+|upkeep
+|inactive|maxcondones has 120 seconds left.
+|
+|t:|1781047872
+|switch|p1a: exco2k|Excadrill, F|100/100
+|turn|6
+|
+|t:|1781047876
+|-terastallize|p2a: Iron Moth|Grass
+|move|p1a: exco2k|Iron Head|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781047896
+|switch|p2a: Iron Hands|Iron Hands|100/100
+|-activate|p2a: Iron Hands|ability: Quark Drive
+|-start|p2a: Iron Hands|quarkdriveatk
+|turn|7
+|
+|t:|1781047905
+|switch|p1a: hedijeans|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: hedijeans|Intimidate|boost
+|-unboost|p2a: Iron Hands|atk|1
+|move|p2a: Iron Hands|Swords Dance|p2a: Iron Hands
+|-boost|p2a: Iron Hands|atk|2
+|
+|upkeep
+|turn|8
+|
+|t:|1781047907
+|move|p1a: hedijeans|Sandsear Storm|p2a: Iron Hands|[miss]
+|-miss|p1a: hedijeans|p2a: Iron Hands
+|move|p2a: Iron Hands|Ice Punch|p1a: hedijeans
+|-supereffective|p1a: hedijeans
+|-damage|p1a: hedijeans|0 fnt
+|-damage|p2a: Iron Hands|84/100|[from] item: Rocky Helmet|[of] p1a: hedijeans
+|faint|p1a: hedijeans
+|
+|-fieldend|move: Electric Terrain
+|-end|p2a: Iron Hands|Quark Drive
+|upkeep
+|
+|t:|1781047910
+|switch|p1a: bleood|Deoxys-Speed|100/100
+|-ability|p1a: bleood|Pressure
+|turn|9
+|
+|t:|1781047915
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|switch|p2a: Pincurchin|Pincurchin, F|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|move|p1a: bleood|Psycho Boost|p2a: Pincurchin
+|-damage|p2a: Pincurchin|25/100
+|-unboost|p1a: bleood|spa|2
+|-enditem|p1a: bleood|Eject Pack
+|
+|t:|1781047924
+|switch|p1a: exco2k|Excadrill, F|100/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781047929
+|move|p1a: exco2k|Iron Head|p2a: Pincurchin
+|-resisted|p2a: Pincurchin
+|-damage|p2a: Pincurchin|0 fnt
+|faint|p2a: Pincurchin
+|
+|upkeep
+|
+|t:|1781047939
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|turn|11
+|
+|t:|1781047946
+|switch|p2a: Iron Hands|Iron Hands|84/100
+|-activate|p2a: Iron Hands|ability: Quark Drive
+|-start|p2a: Iron Hands|quarkdriveatk
+|move|p1a: exco2k|Iron Head|p2a: Iron Hands
+|-resisted|p2a: Iron Hands
+|-damage|p2a: Iron Hands|63/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781047955
+|switch|p1a: yhippojj|Hippowdon, F|74/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: yhippojj
+|move|p2a: Iron Hands|Thunder Punch|p1a: yhippojj
+|-immune|p1a: yhippojj
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Hands|57/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1781047965
+|move|p2a: Iron Hands|Drain Punch|p1a: yhippojj
+|-damage|p1a: yhippojj|44/100
+|-heal|p2a: Iron Hands|70/100|[from] drain|[of] p1a: yhippojj
+|move|p1a: yhippojj|Earthquake|p2a: Iron Hands
+|-supereffective|p2a: Iron Hands
+|-crit|p2a: Iron Hands
+|-damage|p2a: Iron Hands|0 fnt
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781047982
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-activate|p2a: Iron Valiant|ability: Quark Drive
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|14
+|
+|t:|1781047989
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|move|p1a: yhippojj|Roar|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|drag|p2a: Cresselia|Cresselia, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Cresselia|94/100|[from] Sandstorm
+|upkeep
+|turn|15
+|
+|t:|1781047997
+|move|p2a: Cresselia|Calm Mind|p2a: Cresselia
+|-boost|p2a: Cresselia|spa|1
+|-boost|p2a: Cresselia|spd|1
+|move|p1a: yhippojj|Slack Off|p1a: yhippojj
+|-heal|p1a: yhippojj|94/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Cresselia|88/100|[from] Sandstorm
+|upkeep
+|turn|16
+|
+|t:|1781048003
+|move|p2a: Cresselia|Calm Mind|p2a: Cresselia
+|-boost|p2a: Cresselia|spa|1
+|-boost|p2a: Cresselia|spd|1
+|move|p1a: yhippojj|Stealth Rock|p2a: Cresselia
+|-sidestart|p2: electricdingdong|move: Stealth Rock
+|
+|-weather|none
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|17
+|
+|t:|1781048008
+|move|p2a: Cresselia|Stored Power|p1a: yhippojj
+|-damage|p1a: yhippojj|15/100
+|move|p1a: yhippojj|Roar|p2a: Cresselia
+|drag|p2a: Iron Valiant|Iron Valiant|100/100
+|-damage|p2a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|
+|upkeep
+|turn|18
+|
+|t:|1781048016
+|switch|p1a: greenkray|Tyranitar, F, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: greenkray
+|move|p2a: Iron Valiant|Moonblast|p1a: greenkray
+|-supereffective|p1a: greenkray
+|-damage|p1a: greenkray|55/100
+|-enditem|p1a: greenkray|Eject Button
+|
+|t:|1781048018
+|switch|p1a: exco2k|Excadrill, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Valiant|88/100|[from] Sandstorm
+|upkeep
+|turn|19
+|
+|t:|1781048021
+|move|p2a: Iron Valiant|Vacuum Wave|p1a: exco2k
+|-supereffective|p1a: exco2k
+|-damage|p1a: exco2k|45/100
+|move|p1a: exco2k|Iron Head|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781048025
+|switch|p2a: Cresselia|Cresselia, F|88/100
+|-damage|p2a: Cresselia|76/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1781048027
+|move|p1a: exco2k|Iron Head|p2a: Cresselia
+|-damage|p2a: Cresselia|29/100
+|move|p2a: Cresselia|Calm Mind|p2a: Cresselia
+|-boost|p2a: Cresselia|spa|1
+|-boost|p2a: Cresselia|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Cresselia|23/100|[from] Sandstorm
+|upkeep
+|turn|21
+|
+|t:|1781048031
+|move|p1a: exco2k|Iron Head|p2a: Cresselia
+|-damage|p2a: Cresselia|0 fnt
+|faint|p2a: Cresselia
+|
+|win|maxcondones
+|raw|maxcondones's rating: 1545 &rarr; <strong>1567</strong><br />(+22 for winning)
+|raw|electricdingdong's rating: 1572 &rarr; <strong>1550</strong><br />(-22 for losing)
+|l|☆electricdingdong
+|player|p2|

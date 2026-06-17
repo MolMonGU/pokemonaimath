@@ -1,0 +1,479 @@
+|j|☆looniertunes
+|j|☆databricks
+|t:|1781150521
+|gametype|singles
+|player|p1|looniertunes|cynthia|1550
+|player|p2|databricks|hilbert|1638
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Sinistcha|
+|poke|p1|Corviknight, M|
+|poke|p1|Excadrill, M|
+|poke|p1|Conkeldurr, F|
+|poke|p1|Primarina, M|
+|poke|p2|Kingambit, M|
+|poke|p2|Chansey, F|
+|poke|p2|Zapdos|
+|poke|p2|Toxapex, F|
+|poke|p2|Great Tusk|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by databricks)
+|inactive|looniertunes has 120 seconds left.
+|
+|t:|1781150560
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Primarina|Primarina, M|100/100
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|1
+|
+|t:|1781150565
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781150568
+|move|p1a: Corviknight|Brave Bird|p2a: Toxapex
+|-damage|p2a: Toxapex|77/100
+|-damage|p1a: Corviknight|84/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|-damage|p1a: Corviknight|78/100|[from] Recoil
+|move|p2a: Toxapex|Toxic Spikes|p1a: Corviknight
+|-sidestart|p1: looniertunes|move: Toxic Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1781150575
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Corviknight|Defog|p2a: Zapdos
+|-unboost|p2a: Zapdos|evasion|1
+|-sideend|p1: looniertunes|Toxic Spikes|[from] move: Defog|[of] p1a: Corviknight
+|
+|upkeep
+|turn|4
+|
+|t:|1781150594
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Zapdos|Volt Switch|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|77/100
+|
+|t:|1781150605
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] Volt Switch
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781150633
+|move|p2a: Great Tusk|Stealth Rock|p1a: Tyranitar
+|-sidestart|p1: looniertunes|move: Stealth Rock
+|move|p1a: Tyranitar|Ice Beam|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|46/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781150639
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Zapdos|Zapdos|100/100
+|switch|p1a: Sinistcha|Sinistcha|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|94/100|[from] Sandstorm
+|-damage|p1a: Sinistcha|94/100|[from] Sandstorm
+|upkeep
+|turn|7
+|inactive|looniertunes has 120 seconds left.
+|
+|t:|1781150665
+|switch|p1a: Tyranitar|Tyranitar, F|77/100
+|-damage|p1a: Tyranitar|65/100|[from] Stealth Rock
+|move|p2a: Zapdos|Hurricane|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|54/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|88/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1781150674
+|move|p2a: Zapdos|Volt Switch|p1a: Tyranitar
+|-damage|p1a: Tyranitar|39/100
+|
+|t:|1781150679
+|switch|p2a: Kingambit|Kingambit, M|100/100|[from] Volt Switch
+|move|p1a: Tyranitar|Knock Off|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|83/100
+|-enditem|p2a: Kingambit|Leftovers|[from] move: Knock Off|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781150693
+|switch|p1a: Corviknight|Corviknight, M|78/100
+|-damage|p1a: Corviknight|65/100|[from] Stealth Rock
+|move|p2a: Kingambit|Iron Head|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-crit|p1a: Corviknight
+|-damage|p1a: Corviknight|46/100
+|-damage|p2a: Kingambit|67/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781150703
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|96/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|94/100|[from] Sandstorm
+|upkeep
+|turn|11
+|
+|t:|1781150707
+|move|p2a: Tornadus|Taunt|p1a: Corviknight
+|-start|p1a: Corviknight|move: Taunt
+|cant|p1a: Corviknight|move: Taunt|Defog
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1781150714
+|move|p2a: Tornadus|Knock Off|p1a: Corviknight
+|-damage|p1a: Corviknight|85/100
+|-damage|p2a: Tornadus|78/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|-enditem|p1a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Corviknight|U-turn|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|70/100
+|
+|t:|1781150723
+|switch|p1a: Primarina|Primarina, M|100/100|[from] U-turn
+|-damage|p1a: Primarina|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|13
+|
+|t:|1781150726
+|move|p2a: Tornadus|U-turn|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|79/100
+|
+|t:|1781150729
+|switch|p2a: Toxapex|Toxapex, F|100/100|[from] U-turn
+|move|p1a: Primarina|Moonblast|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|77/100
+|-unboost|p2a: Toxapex|spa|1
+|
+|upkeep
+|turn|14
+|
+|t:|1781150733
+|move|p1a: Primarina|Psychic Noise|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|34/100
+|-start|p2a: Toxapex|move: Heal Block
+|move|p2a: Toxapex|Toxic Spikes|p1a: Primarina
+|-sidestart|p1: looniertunes|move: Toxic Spikes
+|
+|upkeep
+|turn|15
+|
+|t:|1781150737
+|switch|p2a: Chansey|Chansey, F|100/100
+|move|p1a: Primarina|Psychic Noise|p2a: Chansey
+|-damage|p2a: Chansey|92/100
+|-start|p2a: Chansey|move: Heal Block
+|
+|upkeep
+|turn|16
+|
+|t:|1781150741
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Primarina|Flip Turn|p2a: Tornadus
+|-damage|p2a: Tornadus|85/100
+|inactive|looniertunes has 120 seconds left.
+|
+|t:|1781150791
+|switch|p1a: Tyranitar|Tyranitar, F|39/100|[from] Flip Turn
+|-damage|p1a: Tyranitar|26/100|[from] Stealth Rock
+|-status|p1a: Tyranitar|psn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|79/100|[from] Sandstorm
+|-damage|p1a: Tyranitar|14/100 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1781150797
+|move|p2a: Tornadus|U-turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|t:|1781150802
+|switch|p2a: Zapdos|Zapdos|88/100|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|82/100|[from] Sandstorm
+|upkeep
+|inactive|looniertunes has 120 seconds left.
+|
+|t:|1781150817
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|-damage|p1a: Excadrill|97/100|[from] Stealth Rock
+|turn|18
+|inactive|looniertunes has 120 seconds left.
+|inactive|databricks has 120 seconds left.
+|
+|t:|1781150869
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|move|p2a: Zapdos|Hurricane|p1a: Excadrill|[miss]
+|-miss|p2a: Zapdos|p1a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|76/100|[from] Sandstorm
+|upkeep
+|turn|19
+|inactive|looniertunes has 120 seconds left.
+|
+|t:|1781150883
+|move|p1a: Excadrill|Rock Slide|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|-damage|p1a: Excadrill|88/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|inactive|databricks has 90 seconds left.
+|
+|t:|1781150903
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|20
+|
+|t:|1781150907
+|switch|p2a: Great Tusk|Great Tusk|46/100
+|move|p1a: Excadrill|Rock Slide|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|35/100
+|-damage|p1a: Excadrill|78/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781150913
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Excadrill|Rapid Spin|p2a: Tornadus
+|-damage|p2a: Tornadus|46/100
+|-boost|p1a: Excadrill|spe|1
+|-sideend|p1: looniertunes|Toxic Spikes|[from] move: Rapid Spin|[of] p1a: Excadrill
+|-sideend|p1: looniertunes|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Excadrill
+|-damage|p1a: Excadrill|68/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|40/100|[from] Sandstorm
+|upkeep
+|turn|22
+|
+|t:|1781150918
+|switch|p2a: Great Tusk|Great Tusk|35/100
+|move|p1a: Excadrill|Rock Slide|p2a: Great Tusk|[miss]
+|-miss|p1a: Excadrill|p2a: Great Tusk
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1781150922
+|move|p1a: Excadrill|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|-damage|p1a: Excadrill|58/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1781150924
+|switch|p2a: Kingambit|Kingambit, M|67/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|turn|24
+|
+|t:|1781150926
+|move|p2a: Kingambit|Sucker Punch|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|t:|1781150953
+|switch|p1a: Conkeldurr|Conkeldurr, F|100/100
+|turn|25
+|
+|t:|1781150957
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Toxapex|Toxapex, F|67/100
+|move|p1a: Conkeldurr|Drain Punch|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|52/100
+|-damage|p1a: Conkeldurr|84/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|26
+|inactive|looniertunes has 120 seconds left.
+|
+|t:|1781151000
+|move|p1a: Conkeldurr|Facade|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|-damage|p1a: Conkeldurr|67/100 brn|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|faint|p2a: Toxapex
+|
+|-damage|p1a: Conkeldurr|61/100 brn|[from] brn
+|upkeep
+|
+|t:|1781151006
+|switch|p2a: Tornadus|Tornadus-Therian, M|73/100
+|turn|27
+|inactive|looniertunes has 120 seconds left.
+|inactive|looniertunes has 90 seconds left.
+|
+|t:|1781151043
+|-terastallize|p1a: Conkeldurr|Normal
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Conkeldurr|[miss]
+|-miss|p2a: Tornadus|p1a: Conkeldurr
+|move|p1a: Conkeldurr|Facade|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|-damage|p1a: Conkeldurr|55/100 brn|[from] brn
+|upkeep
+|
+|t:|1781151054
+|switch|p2a: Chansey|Chansey, F|92/100
+|turn|28
+|
+|t:|1781151064
+|move|p1a: Conkeldurr|Drain Punch|p2a: Chansey
+|-supereffective|p2a: Chansey
+|-damage|p2a: Chansey|0 fnt
+|-heal|p1a: Conkeldurr|100/100 brn|[from] drain|[of] p2a: Chansey
+|faint|p2a: Chansey
+|
+|-damage|p1a: Conkeldurr|94/100 brn|[from] brn
+|upkeep
+|
+|t:|1781151065
+|switch|p2a: Kingambit|Kingambit, M|67/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|turn|29
+|inactive|looniertunes has 90 seconds left.
+|
+|t:|1781151105
+|-terastallize|p2a: Kingambit|Ghost
+|move|p1a: Conkeldurr|Mach Punch|p2a: Kingambit
+|-immune|p2a: Kingambit
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-damage|p1a: Conkeldurr|88/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1781151110
+|move|p2a: Kingambit|Sucker Punch|p1a: Conkeldurr
+|-crit|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|
+|upkeep
+|
+|t:|1781151114
+|switch|p1a: Corviknight|Corviknight, M|85/100
+|turn|31
+|
+|t:|1781151127
+|move|p1a: Corviknight|Brave Bird|p2a: Kingambit
+|-damage|p2a: Kingambit|38/100
+|-damage|p1a: Corviknight|76/100|[from] Recoil
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|upkeep
+|turn|32
+|
+|t:|1781151131
+|move|p2a: Kingambit|Sucker Punch|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|upkeep
+|
+|t:|1781151148
+|switch|p1a: Sinistcha|Sinistcha|94/100
+|turn|33
+|
+|t:|1781151155
+|move|p1a: Sinistcha|Strength Sap|p2a: Kingambit
+|-unboost|p2a: Kingambit|atk|1
+|-heal|p1a: Sinistcha|100/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Sinistcha
+|-supereffective|p1a: Sinistcha
+|-damage|p1a: Sinistcha|0 fnt
+|faint|p1a: Sinistcha
+|
+|upkeep
+|
+|t:|1781151159
+|switch|p1a: Primarina|Primarina, M|79/100
+|turn|34
+|
+|t:|1781151161
+|move|p2a: Kingambit|Sucker Punch|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|faint|p1a: Primarina
+|
+|win|databricks
+|raw|looniertunes's rating: 1550 &rarr; <strong>1535</strong><br />(-15 for losing)
+|raw|databricks's rating: 1638 &rarr; <strong>1653</strong><br />(+15 for winning)
+|l|☆databricks
+|player|p2|
+|l|☆looniertunes
+|player|p1|

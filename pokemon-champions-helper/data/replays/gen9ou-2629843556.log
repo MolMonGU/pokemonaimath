@@ -1,0 +1,370 @@
+|j|‽praveenkumart236
+|j|☆edollas
+|t:|1781186021
+|gametype|singles
+|player|p1|praveenkumart236|2|1478
+|player|p2|edollas|volkner|1533
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pincurchin, M|
+|poke|p1|Pawmot, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Raging Bolt|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Moth|
+|poke|p2|Kleavor, M|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Araquanid, M|
+|poke|p2|Gholdengo|
+|poke|p2|Enamorus, F|
+|poke|p2|Great Tusk|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by praveenkumart236)
+|
+|t:|1781186034
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pincurchin|Pincurchin, M|100/100
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|turn|1
+|
+|t:|1781186050
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: edollas|Reflect
+|move|p1a: Pincurchin|Supercell Slam|p2a: Deoxys
+|-damage|p2a: Deoxys|65/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781186062
+|move|p2a: Deoxys|Spikes|p1a: Pincurchin
+|-sidestart|p1: praveenkumart236|Spikes
+|move|p1a: Pincurchin|Supercell Slam|p2a: Deoxys|[miss]
+|-miss|p1a: Pincurchin|p2a: Deoxys
+|-damage|p1a: Pincurchin|50/100|[from] supercellslam
+|
+|upkeep
+|turn|3
+|
+|t:|1781186069
+|move|p1a: Pincurchin|Sucker Punch||[still]
+|-fail|p1a: Pincurchin
+|move|p2a: Deoxys|Spikes|p1a: Pincurchin
+|-sidestart|p1: praveenkumart236|Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1781186072
+|move|p1a: Pincurchin|Sucker Punch||[still]
+|-fail|p1a: Pincurchin
+|move|p2a: Deoxys|Spikes|p1a: Pincurchin
+|-sidestart|p1: praveenkumart236|Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1781186075
+|move|p1a: Pincurchin|Sucker Punch||[still]
+|-fail|p1a: Pincurchin
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: edollas|move: Light Screen
+|
+|upkeep
+|turn|6
+|
+|t:|1781186082
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Pincurchin|Sucker Punch||[still]
+|-fail|p1a: Pincurchin
+|
+|upkeep
+|turn|7
+|
+|t:|1781186092
+|move|p2a: Great Tusk|Ice Spinner|p1a: Pincurchin
+|-damage|p1a: Pincurchin|3/100
+|-fieldend|move: Electric Terrain
+|move|p1a: Pincurchin|Memento|p2a: Great Tusk
+|-unboost|p2a: Great Tusk|atk|2
+|-unboost|p2a: Great Tusk|spa|2
+|faint|p1a: Pincurchin
+|
+|upkeep
+|
+|t:|1781186104
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-damage|p1a: Iron Treads|75/100|[from] Spikes
+|turn|8
+|
+|t:|1781186114
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Iron Treads|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|72/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|
+|-sideend|p2: edollas|Reflect
+|upkeep
+|turn|9
+|
+|t:|1781186130
+|move|p1a: Iron Treads|Earthquake|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781186135
+|switch|p2a: Deoxys|Deoxys-Speed|65/100
+|-ability|p2a: Deoxys|Pressure
+|turn|10
+|
+|t:|1781186148
+|-terastallize|p2a: Deoxys|Ghost
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: edollas|Reflect
+|move|p1a: Iron Treads|Rapid Spin|p2a: Deoxys
+|-immune|p2a: Deoxys
+|
+|upkeep
+|turn|11
+|
+|t:|1781186175
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-damage|p1a: Raging Bolt|76/100|[from] Spikes
+|move|p2a: Deoxys|Taunt|p1a: Raging Bolt
+|-start|p1a: Raging Bolt|move: Taunt
+|
+|upkeep
+|turn|12
+|
+|t:|1781186193
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Pawmot|Pawmot, F|100/100
+|-damage|p1a: Pawmot|75/100|[from] Spikes
+|
+|-sideend|p2: edollas|move: Light Screen
+|upkeep
+|turn|13
+|
+|t:|1781186200
+|move|p1a: Pawmot|Revival Blessing|p1a: Pawmot
+|-enditem|p1a: Pawmot|Leppa Berry|[eat]
+|-activate|p1a: Pawmot|item: Leppa Berry|Revival Blessing|[consumed]
+|
+|t:|1781186204
+|-heal|p1: Pincurchin|50/100|[from] move: Revival Blessing
+|move|p2a: Great Tusk|Headlong Rush|p1a: Pawmot
+|-supereffective|p1a: Pawmot
+|-damage|p1a: Pawmot|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Pawmot
+|
+|upkeep
+|
+|t:|1781186216
+|switch|p1a: Iron Treads|Iron Treads|75/100
+|-damage|p1a: Iron Treads|50/100|[from] Spikes
+|turn|14
+|
+|t:|1781186225
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Pincurchin|Pincurchin, M|50/100
+|-damage|p1a: Pincurchin|25/100|[from] Spikes
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|move|p2a: Great Tusk|Headlong Rush|p1a: Pincurchin
+|-supereffective|p1a: Pincurchin
+|-damage|p1a: Pincurchin|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Pincurchin
+|
+|upkeep
+|inactive|praveenkumart236 has 120 seconds left.
+|
+|t:|1781186248
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-item|p1a: Iron Moth|Air Balloon
+|-activate|p1a: Iron Moth|ability: Quark Drive
+|-start|p1a: Iron Moth|quarkdrivespa
+|turn|15
+|
+|t:|1781186260
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Araquanid|Araquanid, M|100/100
+|move|p1a: Iron Moth|Fiery Dance|p2a: Araquanid
+|-damage|p2a: Araquanid|85/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781186270
+|move|p1a: Iron Moth|Sludge Wave|p2a: Araquanid
+|-damage|p2a: Araquanid|40/100
+|move|p2a: Araquanid|Liquidation|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|-enditem|p1a: Iron Moth|Air Balloon
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781186277
+|switch|p1a: Iron Treads|Iron Treads|50/100
+|-damage|p1a: Iron Treads|25/100|[from] Spikes
+|-activate|p1a: Iron Treads|ability: Quark Drive
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|17
+|
+|t:|1781186281
+|switch|p2a: Deoxys|Deoxys-Speed, tera:Ghost|65/100
+|-ability|p2a: Deoxys|Pressure
+|move|p1a: Iron Treads|Knock Off|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|34/100
+|-enditem|p2a: Deoxys|Light Clay|[from] move: Knock Off|[of] p1a: Iron Treads
+|
+|-sideend|p2: edollas|Reflect
+|upkeep
+|turn|18
+|
+|t:|1781186299
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: edollas|Reflect
+|move|p1a: Iron Treads|Knock Off|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|14/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781186305
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: edollas|move: Light Screen
+|move|p1a: Iron Treads|Knock Off|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-crit|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1781186314
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|turn|20
+|
+|t:|1781186320
+|move|p2a: Enamorus|Mystical Fire|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781186344
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|76/100|[from] Spikes
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|21
+|
+|t:|1781186352
+|switch|p2a: Araquanid|Araquanid, M|40/100
+|move|p1a: Iron Valiant|Swords Dance|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|atk|2
+|
+|-fieldend|move: Electric Terrain
+|-end|p1a: Iron Valiant|Quark Drive
+|upkeep
+|turn|22
+|
+|t:|1781186357
+|move|p1a: Iron Valiant|Thunder Punch|p2a: Araquanid
+|-supereffective|p2a: Araquanid
+|-damage|p2a: Araquanid|0 fnt
+|faint|p2a: Araquanid
+|-damage|p1a: Iron Valiant|66/100|[from] item: Life Orb
+|
+|-sideend|p2: edollas|Reflect
+|upkeep
+|
+|t:|1781186366
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|turn|23
+|
+|t:|1781186392
+|move|p2a: Enamorus|Springtide Storm|p1a: Iron Valiant|[miss]
+|-miss|p2a: Enamorus|p1a: Iron Valiant
+|move|p1a: Iron Valiant|Thunder Punch|p2a: Enamorus
+|-supereffective|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|-damage|p1a: Iron Valiant|56/100|[from] item: Life Orb
+|
+|-sideend|p2: edollas|move: Light Screen
+|upkeep
+|
+|t:|1781186404
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|24
+|
+|t:|1781186412
+|move|p1a: Iron Valiant|Close Combat|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|-damage|p1a: Iron Valiant|46/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781186415
+|switch|p2a: Kleavor|Kleavor, M|100/100
+|turn|25
+|
+|t:|1781186422
+|move|p1a: Iron Valiant|Close Combat|p2a: Kleavor
+|-damage|p2a: Kleavor|0 fnt
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|faint|p2a: Kleavor
+|-damage|p1a: Iron Valiant|36/100|[from] item: Life Orb
+|
+|win|praveenkumart236
+|raw|praveenkumart236's rating: 1478 &rarr; <strong>1501</strong><br />(+23 for winning)
+|raw|edollas's rating: 1533 &rarr; <strong>1510</strong><br />(-23 for losing)
+|l|☆edollas
+|player|p2|
+|l|‽praveenkumart236
+|player|p1|
+|j|☆edollas
+|player|p2|edollas|volkner|
+|l|☆edollas
+|player|p2|

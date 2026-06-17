@@ -1,0 +1,255 @@
+|j|☆fj9endk
+|j|☆biryanilover
+|t:|1781242349
+|gametype|singles
+|player|p1|fj9endk|2|1576
+|player|p2|biryanilover|2|1534
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Salamence, M|
+|poke|p1|Glimmora, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Scizor, F|
+|poke|p1|Raging Bolt|
+|poke|p2|Rillaboom, M|
+|poke|p2|Heatran, M|
+|poke|p2|Walking Wake|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Weezing-Galar, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by biryanilover)
+|
+|t:|1781242360
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Scizor|Scizor, F|100/100
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|turn|1
+|
+|t:|1781242370
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|move|p2a: Walking Wake|Knock Off|p1a: Glimmora
+|-damage|p1a: Glimmora|78/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: biryanilover|move: Toxic Spikes
+|-enditem|p1a: Glimmora|Power Herb|[from] move: Knock Off|[of] p2a: Walking Wake
+|
+|upkeep
+|turn|2
+|
+|t:|1781242375
+|move|p2a: Walking Wake|Dragon Pulse|p1a: Glimmora
+|-damage|p1a: Glimmora|25/100
+|move|p1a: Glimmora|Stealth Rock|p2a: Walking Wake
+|-sidestart|p2: biryanilover|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781242386
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Walking Wake|Substitute|p2a: Walking Wake
+|-start|p2a: Walking Wake|Substitute
+|-damage|p2a: Walking Wake|76/100
+|
+|-heal|p2a: Walking Wake|82/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781242394
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Walking Wake|Scald|p1a: Ogerpon
+|-immune|p1a: Ogerpon|[from] ability: Water Absorb
+|
+|-heal|p2a: Walking Wake|88/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781242400
+|move|p1a: Ogerpon|Encore|p2a: Walking Wake
+|-start|p2a: Walking Wake|Encore
+|move|p2a: Walking Wake|Scald|p1a: Ogerpon
+|-immune|p1a: Ogerpon|[from] ability: Water Absorb
+|
+|-heal|p2a: Walking Wake|94/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781242405
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|-sideend|p2: biryanilover|move: Toxic Spikes|[of] p2a: Weezing
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1781242418
+|switch|p1a: Glimmora|Glimmora, F|25/100
+|move|p2a: Weezing|Will-O-Wisp|p1a: Glimmora
+|-status|p1a: Glimmora|brn
+|
+|-damage|p1a: Glimmora|19/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1781242424
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Glimmora|atk|1
+|move|p1a: Glimmora|Mortal Spin|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|87/100
+|-status|p2a: Landorus|psn
+|-damage|p1a: Glimmora|2/100 brn|[from] item: Rocky Helmet|[of] p2a: Landorus
+|
+|-damage|p2a: Landorus|75/100 psn|[from] psn
+|-damage|p1a: Glimmora|0 fnt|[from] brn
+|faint|p1a: Glimmora
+|upkeep
+|
+|t:|1781242432
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|9
+|
+|t:|1781242437
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Landorus|[anim] Ivy Cudgel Water
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1781242442
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|turn|10
+|
+|t:|1781242446
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|move|p2a: Weezing|Will-O-Wisp|p1a: Raging Bolt
+|-status|p1a: Raging Bolt|brn
+|
+|-damage|p1a: Raging Bolt|94/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781242450
+|move|p1a: Raging Bolt|Volt Switch|p2a: Weezing
+|-damage|p2a: Weezing|48/100
+|
+|t:|1781242456
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Scizor|Scizor, F|100/100|[from] Volt Switch
+|move|p2a: Weezing|Defog|p1a: Scizor
+|-unboost|p1a: Scizor|evasion|1
+|-sideend|p2: biryanilover|Stealth Rock|[from] move: Defog|[of] p2a: Weezing
+|
+|upkeep
+|turn|12
+|
+|t:|1781242460
+|switch|p1a: Raging Bolt|Raging Bolt|94/100 brn
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Heatran|Heatran, M|100/100
+|
+|-damage|p1a: Raging Bolt|88/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1781242464
+|move|p2a: Heatran|Magma Storm|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|77/100 brn
+|-activate|p1a: Raging Bolt|move: Magma Storm|[of] p2a: Heatran
+|move|p1a: Raging Bolt|Volt Switch|p2a: Heatran
+|-damage|p2a: Heatran|73/100
+|
+|t:|1781242467
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Salamence|Salamence, M|100/100|[from] Volt Switch
+|
+|-heal|p2a: Heatran|79/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781242472
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Salamence|Substitute|p1a: Salamence
+|-start|p1a: Salamence|Substitute
+|-damage|p1a: Salamence|76/100
+|
+|-heal|p1a: Salamence|82/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781242480
+|move|p1a: Salamence|Dragon Dance|p1a: Salamence
+|-boost|p1a: Salamence|atk|1
+|-boost|p1a: Salamence|spe|1
+|move|p2a: Rillaboom|Knock Off|p1a: Salamence
+|-end|p1a: Salamence|Substitute
+|
+|-heal|p1a: Salamence|88/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781242484
+|switch|p2a: Weezing|Weezing-Galar, M|48/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Salamence|Dual Wingbeat|p2a: Weezing
+|-damage|p2a: Weezing|24/100
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|-ability|p1a: Salamence|Moxie|boost
+|-boost|p1a: Salamence|atk|1
+|-hitcount|p2: Weezing|2
+|
+|-heal|p1a: Salamence|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781242489
+|switch|p2a: Walking Wake|Walking Wake|94/100
+|turn|17
+|
+|t:|1781242498
+|-terastallize|p1a: Salamence|Flying
+|move|p1a: Salamence|Dual Wingbeat|p2a: Walking Wake
+|-damage|p2a: Walking Wake|27/100
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|-ability|p1a: Salamence|Moxie|boost
+|-boost|p1a: Salamence|atk|1
+|-hitcount|p2: Walking Wake|2
+|
+|-heal|p1a: Salamence|100/100|[from] item: Leftovers
+|upkeep
+|-message|biryanilover forfeited.
+|
+|win|fj9endk
+|raw|fj9endk's rating: 1576 &rarr; <strong>1594</strong><br />(+18 for winning)
+|raw|biryanilover's rating: 1534 &rarr; <strong>1516</strong><br />(-18 for losing)
+|l|☆biryanilover
+|player|p2|
+|l|☆fj9endk
+|player|p1|

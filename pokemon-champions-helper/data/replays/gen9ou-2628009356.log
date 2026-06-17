@@ -1,0 +1,371 @@
+|j|☆yuan123456
+|j|☆StrengthOfHeart
+|t:|1780964603
+|gametype|singles
+|player|p1|yuan123456|nate|1489
+|player|p2|StrengthOfHeart|byron|1561
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Excadrill, F|
+|poke|p1|Keldeo-Resolute|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Heatran, F|
+|poke|p1|Hydrapple, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Darkrai|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Hatterene, F|
+|poke|p2|Iron Thorns|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yuan123456)
+|
+|t:|1780964617
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|1
+|
+|t:|1780964628
+|switch|p1a: Hydrapple|Hydrapple, F|100/100
+|move|p2a: Ogerpon|U-turn|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-crit|p1a: Hydrapple
+|-damage|p1a: Hydrapple|57/100
+|-damage|p2a: Ogerpon|84/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|
+|t:|1780964637
+|switch|p2a: Hatterene|Hatterene, F|100/100|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hydrapple|50/100|[from] Sandstorm
+|-damage|p2a: Hatterene|95/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1780964646
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Hatterene|Future Sight|p1a: Heatran
+|-start|p2a: Hatterene|move: Future Sight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hatterene|89/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1780964654
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|move|p1a: Heatran|Magma Storm|p2a: Deoxys|[miss]
+|-miss|p1a: Heatran|p2a: Deoxys
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Deoxys|94/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1780964666
+|move|p2a: Deoxys|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|80/100
+|-enditem|p1a: Heatran|Leftovers|[from] move: Knock Off|[of] p2a: Deoxys
+|move|p1a: Heatran|Magma Storm|p2a: Deoxys
+|-damage|p2a: Deoxys|16/100
+|-activate|p2a: Deoxys|move: Magma Storm|[of] p1a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Deoxys|10/100|[from] Sandstorm
+|-end|p1a: Heatran|move: Future Sight
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|58/100
+|-damage|p2a: Deoxys|0 fnt|[from] move: Magma Storm|[partiallytrapped]
+|faint|p2a: Deoxys
+|upkeep
+|
+|t:|1780964678
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|84/100
+|turn|5
+|
+|t:|1780964684
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Tornadus|[anim] Ivy Cudgel Water
+|-crit|p1a: Tornadus
+|-damage|p1a: Tornadus|7/100
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1780964694
+|switch|p2a: Hatterene|Hatterene, F|89/100
+|move|p1a: Tornadus|U-turn|p2a: Hatterene
+|-damage|p2a: Hatterene|72/100
+|
+|t:|1780964707
+|switch|p1a: Excadrill|Excadrill, F|100/100|[from] U-turn
+|-item|p1a: Excadrill|Air Balloon
+|
+|upkeep
+|turn|7
+|
+|t:|1780964716
+|switch|p1a: Keldeo|Keldeo-Resolute|100/100
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|84/100
+|
+|upkeep
+|turn|8
+|
+|t:|1780964723
+|switch|p1a: Hydrapple|Hydrapple, F|84/100
+|move|p2a: Ogerpon|U-turn|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|55/100
+|-damage|p2a: Ogerpon|67/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|
+|t:|1780964732
+|switch|p2a: Hatterene|Hatterene, F|72/100|[from] U-turn
+|
+|upkeep
+|turn|9
+|
+|t:|1780964738
+|switch|p1a: Heatran|Heatran, F|58/100
+|move|p2a: Hatterene|Draining Kiss|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|54/100
+|-heal|p2a: Hatterene|76/100|[from] drain|[of] p1a: Heatran
+|
+|upkeep
+|turn|10
+|
+|t:|1780964747
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|67/100
+|move|p1a: Heatran|Magma Storm|p2a: Ogerpon|[miss]
+|-miss|p1a: Heatran|p2a: Ogerpon
+|
+|upkeep
+|turn|11
+|
+|t:|1780964762
+|switch|p1a: Hydrapple|Hydrapple, F|88/100
+|move|p2a: Ogerpon|Synthesis|p2a: Ogerpon
+|-heal|p2a: Ogerpon|100/100
+|
+|upkeep
+|turn|12
+|
+|t:|1780964770
+|move|p2a: Ogerpon|U-turn|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|58/100
+|-damage|p2a: Ogerpon|84/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|
+|t:|1780964782
+|switch|p2a: Hatterene|Hatterene, F|76/100|[from] U-turn
+|move|p1a: Hydrapple|Nasty Plot|p1a: Hydrapple
+|-boost|p1a: Hydrapple|spa|2
+|
+|upkeep
+|turn|13
+|
+|t:|1780964792
+|switch|p1a: Heatran|Heatran, F|54/100
+|move|p2a: Hatterene|Draining Kiss|p1a: Heatran
+|-resisted|p1a: Heatran
+|-crit|p1a: Heatran
+|-damage|p1a: Heatran|48/100
+|-heal|p2a: Hatterene|81/100|[from] drain|[of] p1a: Heatran
+|
+|upkeep
+|turn|14
+|
+|t:|1780964808
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|84/100
+|move|p1a: Heatran|Magma Storm|p2a: Ogerpon
+|-damage|p2a: Ogerpon|37/100
+|-activate|p2a: Ogerpon|move: Magma Storm|[of] p1a: Heatran
+|
+|-damage|p2a: Ogerpon|24/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|15
+|
+|t:|1780964825
+|switch|p1a: Hydrapple|Hydrapple, F|91/100
+|move|p2a: Ogerpon|U-turn|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|62/100
+|-damage|p2a: Ogerpon|8/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|
+|t:|1780964834
+|switch|p2a: Darkrai|Darkrai|100/100|[from] U-turn
+|
+|upkeep
+|turn|16
+|
+|t:|1780964842
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Darkrai|Trick|p1a: Tyranitar
+|-activate|p2a: Darkrai|move: Trick|[of] p1a: Tyranitar
+|-item|p1a: Tyranitar|Choice Scarf|[from] move: Trick
+|-item|p2a: Darkrai|Choice Band|[from] move: Trick
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Darkrai|94/100|[from] Sandstorm
+|upkeep
+|turn|17
+|
+|t:|1780964861
+|move|p2a: Darkrai|Trick|p1a: Tyranitar
+|-activate|p2a: Darkrai|move: Trick|[of] p1a: Tyranitar
+|-item|p1a: Tyranitar|Choice Band|[from] move: Trick
+|-item|p2a: Darkrai|Choice Scarf|[from] move: Trick
+|move|p1a: Tyranitar|Knock Off|p2a: Darkrai
+|-resisted|p2a: Darkrai
+|-damage|p2a: Darkrai|40/100
+|-enditem|p2a: Darkrai|Choice Scarf|[from] move: Knock Off|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Darkrai|34/100|[from] Sandstorm
+|upkeep
+|turn|18
+|
+|t:|1780964885
+|move|p2a: Darkrai|Dark Pulse|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|87/100
+|move|p1a: Tyranitar|Knock Off|p2a: Darkrai
+|-resisted|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|inactive|StrengthOfHeart has 120 seconds left.
+|
+|t:|1780964903
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|turn|19
+|
+|t:|1780964910
+|switch|p1a: Heatran|Heatran, F|48/100
+|move|p2a: Corviknight|U-turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|45/100
+|
+|t:|1780964918
+|switch|p2a: Iron Thorns|Iron Thorns|100/100|[from] U-turn
+|-item|p2a: Iron Thorns|Air Balloon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1780964928
+|switch|p1a: Hydrapple|Hydrapple, F|95/100
+|move|p2a: Iron Thorns|Dragon Dance|p2a: Iron Thorns
+|-boost|p2a: Iron Thorns|atk|1
+|-boost|p2a: Iron Thorns|spe|1
+|
+|-weather|none
+|upkeep
+|turn|21
+|
+|t:|1780964939
+|-terastallize|p2a: Iron Thorns|Fairy
+|-terastallize|p1a: Hydrapple|Fairy
+|move|p2a: Iron Thorns|Dragon Dance|p2a: Iron Thorns
+|-boost|p2a: Iron Thorns|atk|1
+|-boost|p2a: Iron Thorns|spe|1
+|move|p1a: Hydrapple|Giga Drain|p2a: Iron Thorns
+|-damage|p2a: Iron Thorns|68/100
+|-heal|p1a: Hydrapple|100/100|[from] drain|[of] p2a: Iron Thorns
+|-enditem|p2a: Iron Thorns|Air Balloon
+|
+|upkeep
+|turn|22
+|
+|t:|1780964962
+|move|p2a: Iron Thorns|Dragon Dance|p2a: Iron Thorns
+|-boost|p2a: Iron Thorns|atk|1
+|-boost|p2a: Iron Thorns|spe|1
+|move|p1a: Hydrapple|Giga Drain|p2a: Iron Thorns
+|-damage|p2a: Iron Thorns|35/100
+|
+|upkeep
+|turn|23
+|
+|t:|1780964974
+|switch|p1a: Heatran|Heatran, F|45/100
+|move|p2a: Iron Thorns|Supercell Slam|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|-status|p2a: Iron Thorns|brn|[from] ability: Flame Body|[of] p1a: Heatran
+|faint|p1a: Heatran
+|
+|-damage|p2a: Iron Thorns|29/100 brn|[from] brn
+|upkeep
+|inactive|yuan123456 has 120 seconds left.
+|
+|t:|1780964996
+|switch|p1a: Tyranitar|Tyranitar, F|87/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|24
+|inactive|yuan123456 has 120 seconds left.
+|
+|t:|1780965012
+|switch|p1a: Tornadus|Tornadus-Therian, M|40/100
+|move|p2a: Iron Thorns|Earthquake|p1a: Tornadus
+|-immune|p1a: Tornadus
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Thorns|22/100 brn|[from] Sandstorm
+|-damage|p1a: Tornadus|34/100|[from] Sandstorm
+|-damage|p2a: Iron Thorns|16/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1780965028
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|-item|p1a: Excadrill|Air Balloon
+|move|p2a: Iron Thorns|Supercell Slam|p1a: Excadrill
+|-immune|p1a: Excadrill
+|-damage|p2a: Iron Thorns|0 fnt|[from] supercellslam
+|faint|p2a: Iron Thorns
+|-end|p2a: Iron Thorns|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1780965042
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|8/100
+|turn|26
+|
+|t:|1780965046
+|move|p1a: Excadrill|Rapid Spin|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|-boost|p1a: Excadrill|spe|1
+|faint|p2a: Ogerpon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|-message|StrengthOfHeart forfeited.
+|
+|win|yuan123456
+|raw|yuan123456's rating: 1489 &rarr; <strong>1513</strong><br />(+24 for winning)
+|raw|StrengthOfHeart's rating: 1561 &rarr; <strong>1537</strong><br />(-24 for losing)
+|l|☆StrengthOfHeart
+|player|p2|

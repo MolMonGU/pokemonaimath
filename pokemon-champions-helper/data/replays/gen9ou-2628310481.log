@@ -1,0 +1,380 @@
+|j|☆pepinoloko
+|j|☆Aeybees
+|t:|1781006671
+|gametype|singles
+|player|p1|pepinoloko|byron|1555
+|player|p2|Aeybees|scientist|1594
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zoroark-Hisui, F|
+|poke|p1|Cinderace, M|
+|poke|p1|Araquanid, M|
+|poke|p1|Breloom, M|
+|poke|p1|Hydrapple, M|
+|poke|p1|Grimmsnarl, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Iron Hands|
+|poke|p2|Ceruledge, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Glimmora, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Aeybees)
+|
+|t:|1781006695
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Love has a name|Grimmsnarl, M|100/100
+|switch|p2a: Iron Hands|Iron Hands|100/100
+|-enditem|p2a: Iron Hands|Booster Energy
+|-activate|p2a: Iron Hands|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Hands|quarkdriveatk
+|turn|1
+|inactive|pepinoloko has 120 seconds left.
+|
+|t:|1781006738
+|move|p1a: Love has a name|Trick|p2a: Iron Hands
+|-activate|p1a: Love has a name|move: Trick|[of] p2a: Iron Hands
+|-item|p2a: Iron Hands|Choice Scarf|[from] move: Trick
+|-enditem|p1a: Love has a name|Choice Scarf|[silent]|[from] move: Trick
+|move|p2a: Iron Hands|Heavy Slam|p1a: Love has a name
+|-supereffective|p1a: Love has a name
+|-damage|p1a: Love has a name|0 fnt
+|faint|p1a: Love has a name
+|
+|upkeep
+|
+|t:|1781006750
+|switch|p1a: Araquanid|Araquanid, M|100/100
+|turn|2
+|
+|t:|1781006760
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|move|p1a: Araquanid|Liquidation|p2a: Deoxys
+|-damage|p2a: Deoxys|44/100
+|
+|upkeep
+|turn|3
+|inactive|pepinoloko has 120 seconds left.
+|
+|t:|1781006768
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: Aeybees|Reflect
+|move|p1a: Araquanid|Leech Life|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|18/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781006774
+|move|p2a: Deoxys|Taunt|p1a: Araquanid
+|-start|p1a: Araquanid|move: Taunt
+|cant|p1a: Araquanid|move: Taunt|Sticky Web
+|
+|upkeep
+|turn|5
+|
+|t:|1781006779
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: Aeybees|move: Light Screen
+|move|p1a: Araquanid|Leech Life|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1781006790
+|switch|p2a: Iron Hands|Iron Hands|100/100
+|turn|6
+|
+|t:|1781006794
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|move|p2a: Iron Hands|Supercell Slam|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|93/100
+|-damage|p2a: Iron Hands|84/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|
+|upkeep
+|turn|7
+|
+|t:|1781006818
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|move|p1a: Hydrapple|Earth Power|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|43/100
+|-enditem|p2a: Glimmora|Red Card|[of] p1a: Hydrapple
+|drag|p1a: Breloom|Breloom, M|100/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781006833
+|switch|p1a: Araquanid|Araquanid, M|100/100
+|move|p2a: Glimmora|Stealth Rock|p1a: Araquanid
+|-sidestart|p1: pepinoloko|move: Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1781006838
+|move|p2a: Glimmora|Mortal Spin|p1a: Araquanid
+|-damage|p1a: Araquanid|94/100
+|-status|p1a: Araquanid|psn
+|move|p1a: Araquanid|Liquidation|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|11/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: pepinoloko|move: Toxic Spikes
+|
+|-heal|p1a: Araquanid|99/100 psn|[from] item: Leftovers
+|-damage|p1a: Araquanid|88/100 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1781006854
+|move|p2a: Glimmora|Spikes|p1a: Araquanid
+|-sidestart|p1: pepinoloko|Spikes
+|move|p1a: Araquanid|Liquidation|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: pepinoloko|move: Toxic Spikes
+|faint|p2a: Glimmora
+|
+|-heal|p1a: Araquanid|94/100 psn|[from] item: Leftovers
+|-damage|p1a: Araquanid|82/100 psn|[from] psn
+|-sideend|p2: Aeybees|Reflect
+|upkeep
+|
+|t:|1781006866
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|11
+|
+|t:|1781006878
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|-damage|p1a: Hydrapple|88/100|[from] Stealth Rock
+|-status|p1a: Hydrapple|tox
+|-damage|p1a: Hydrapple|76/100 tox|[from] Spikes
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-damage|p1a: Hydrapple|70/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1781006906
+|move|p1a: Hydrapple|Trick|p2a: Zamazenta
+|-activate|p1a: Hydrapple|move: Trick|[of] p2a: Zamazenta
+|-item|p2a: Zamazenta|Choice Specs|[from] move: Trick
+|-item|p1a: Hydrapple|Leftovers|[from] move: Trick
+|move|p2a: Zamazenta|Roar|p1a: Hydrapple
+|drag|p1a: Hydrapple|Hydrapple, M|100/100
+|-damage|p1a: Hydrapple|88/100|[from] Stealth Rock
+|-status|p1a: Hydrapple|tox
+|-damage|p1a: Hydrapple|76/100 tox|[from] Spikes
+|
+|-damage|p1a: Hydrapple|70/100 tox|[from] psn
+|-sideend|p2: Aeybees|move: Light Screen
+|upkeep
+|turn|13
+|inactive|Aeybees has 120 seconds left.
+|
+|t:|1781006923
+|move|p1a: Hydrapple|Fickle Beam|p2a: Zamazenta|[anim] Fickle Beam All Out
+|-activate|p1a: Hydrapple|move: Fickle Beam
+|-crit|p2a: Zamazenta
+|-damage|p2a: Zamazenta|14/100
+|move|p2a: Zamazenta|Roar|p1a: Hydrapple
+|drag|p1a: Breloom|Breloom, M|100/100
+|-damage|p1a: Breloom|94/100|[from] Stealth Rock
+|-status|p1a: Breloom|tox
+|-damage|p1a: Breloom|82/100 tox|[from] Spikes
+|
+|-damage|p1a: Breloom|76/100 tox|[from] psn
+|upkeep
+|turn|14
+|inactive|Aeybees has 120 seconds left.
+|
+|t:|1781006937
+|switch|p1a: Hydrapple|Hydrapple, M|100/100 tox
+|-damage|p1a: Hydrapple|88/100 tox|[from] Stealth Rock
+|-damage|p1a: Hydrapple|76/100 tox|[from] Spikes
+|move|p2a: Zamazenta|Roar|p1a: Hydrapple
+|drag|p1a: Breloom|Breloom, M|76/100 tox
+|-damage|p1a: Breloom|70/100 tox|[from] Stealth Rock
+|-damage|p1a: Breloom|58/100 tox|[from] Spikes
+|
+|-damage|p1a: Breloom|52/100 tox|[from] psn
+|upkeep
+|turn|15
+|inactive|Aeybees has 120 seconds left.
+|
+|t:|1781006949
+|switch|p2a: Iron Hands|Iron Hands|84/100
+|switch|p1a: Araquanid|Araquanid, M|82/100 psn
+|-damage|p1a: Araquanid|57/100 psn|[from] Stealth Rock
+|-damage|p1a: Araquanid|44/100 psn|[from] Spikes
+|
+|-heal|p1a: Araquanid|50/100 psn|[from] item: Leftovers
+|-damage|p1a: Araquanid|38/100 psn|[from] psn
+|upkeep
+|turn|16
+|inactive|Aeybees has 120 seconds left.
+|
+|t:|1781006964
+|move|p2a: Iron Hands|Close Combat|p1a: Araquanid
+|-resisted|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|-unboost|p2a: Iron Hands|def|1
+|-unboost|p2a: Iron Hands|spd|1
+|faint|p1a: Araquanid
+|
+|upkeep
+|
+|t:|1781006969
+|switch|p1a: U-Turn from sin|Cinderace, M|100/100
+|turn|17
+|
+|t:|1781006978
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|move|p1a: U-Turn from sin|Court Change|p1a: U-Turn from sin
+|-start|p1a: U-Turn from sin|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: U-Turn from sin|move: Court Change
+|
+|upkeep
+|turn|18
+|
+|t:|1781006985
+|switch|p1a: Hydrapple|Hydrapple, M|100/100 tox
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|-damage|p1a: Hydrapple|94/100 tox|[from] psn
+|upkeep
+|turn|19
+|inactive|Aeybees has 120 seconds left.
+|
+|t:|1781007035
+|-terastallize|p2a: Ceruledge|Ghost
+|move|p2a: Ceruledge|Poltergeist|p1a: Hydrapple
+|-activate|p1a: Hydrapple|move: Poltergeist|Rocky Helmet
+|-damage|p1a: Hydrapple|0 fnt
+|faint|p1a: Hydrapple
+|-damage|p2a: Ceruledge|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781007043
+|switch|p1a: U-Turn from sin|Cinderace, M|70/100 tox
+|turn|20
+|
+|t:|1781007067
+|move|p2a: Ceruledge|Shadow Sneak|p1a: U-Turn from sin
+|-immune|p1a: U-Turn from sin
+|move|p1a: U-Turn from sin|Shadow Ball|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|-heal|p1a: U-Turn from sin|76/100 tox|[from] item: Leftovers
+|-damage|p1a: U-Turn from sin|70/100 tox|[from] psn
+|upkeep
+|inactive|Aeybees has 90 seconds left.
+|
+|t:|1781007092
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-damage|p2a: Iron Valiant|94/100|[from] Stealth Rock
+|-status|p2a: Iron Valiant|tox
+|-damage|p2a: Iron Valiant|82/100 tox|[from] Spikes
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|21
+|j| Easontom
+|
+|t:|1781007105
+|switch|p1a: Breloom|Breloom, M|52/100 tox
+|move|p2a: Iron Valiant|Moonblast|p1a: Breloom
+|-supereffective|p1a: Breloom
+|-damage|p1a: Breloom|0 fnt
+|faint|p1a: Breloom
+|
+|-damage|p2a: Iron Valiant|76/100 tox|[from] psn
+|upkeep
+|
+|t:|1781007107
+|switch|p1a: U-Turn from sin|Cinderace, M|100/100
+|turn|22
+|inactive|Aeybees has 90 seconds left.
+|
+|t:|1781007117
+|move|p2a: Iron Valiant|Focus Blast|p1a: U-Turn from sin
+|-damage|p1a: U-Turn from sin|15/100
+|move|p1a: U-Turn from sin|Pyro Ball|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781007128
+|switch|p2a: Iron Hands|Iron Hands|84/100
+|-damage|p2a: Iron Hands|78/100|[from] Stealth Rock
+|-status|p2a: Iron Hands|tox
+|-damage|p2a: Iron Hands|65/100 tox|[from] Spikes
+|turn|23
+|
+|t:|1781007143
+|move|p1a: U-Turn from sin|Pyro Ball|p2a: Iron Hands
+|-damage|p2a: Iron Hands|25/100 tox
+|move|p2a: Iron Hands|Heavy Slam|p1a: U-Turn from sin
+|-resisted|p1a: U-Turn from sin
+|-damage|p1a: U-Turn from sin|0 fnt
+|faint|p1a: U-Turn from sin
+|
+|-damage|p2a: Iron Hands|19/100 tox|[from] psn
+|upkeep
+|
+|t:|1781007150
+|switch|p1a: The end is nigh|Zoroark-Hisui, F|70/100 tox
+|turn|24
+|
+|t:|1781007166
+|move|p1a: The end is nigh|Hyper Voice|p2a: Iron Hands
+|-damage|p2a: Iron Hands|0 fnt
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|
+|-heal|p1a: The end is nigh|76/100 tox|[from] item: Leftovers
+|-damage|p1a: The end is nigh|70/100 tox|[from] psn
+|upkeep
+|-message|Aeybees forfeited.
+|
+|win|pepinoloko
+|raw|pepinoloko's rating: 1555 &rarr; <strong>1577</strong><br />(+22 for winning)
+|raw|Aeybees's rating: 1594 &rarr; <strong>1572</strong><br />(-22 for losing)
+|l|☆Aeybees
+|player|p2|
+|l| Easontom
+|l|☆pepinoloko
+|player|p1|

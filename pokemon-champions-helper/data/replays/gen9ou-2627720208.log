@@ -1,0 +1,231 @@
+|j|☆ovalboi
+|j|☆FettyWap97
+|t:|1780936119
+|gametype|singles
+|player|p1|ovalboi|acetrainer-gen4dp|1641
+|player|p2|FettyWap97|blaine|1639
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Corviknight, M|
+|poke|p1|Clefable, F|
+|poke|p1|Alomomola, F|
+|poke|p1|Clodsire, M|
+|poke|p1|Toxapex, M|
+|poke|p1|Quagsire, M|
+|poke|p2|Pelipper, L99, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Golduck, F|
+|poke|p2|Pawmot, F|
+|poke|p2|Tentacruel, F|
+|teampreview
+|
+|t:|1780936153
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Quagsire|Quagsire, M|100/100
+|switch|p2a: Ghoti carrier|Pelipper, L99, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Ghoti carrier
+|turn|1
+|
+|t:|1780936160
+|move|p2a: Ghoti carrier|Hurricane|p1a: Quagsire
+|-damage|p1a: Quagsire|57/100
+|-start|p1a: Quagsire|confusion
+|-activate|p1a: Quagsire|confusion
+|move|p1a: Quagsire|Stealth Rock|p2a: Ghoti carrier
+|-sidestart|p2: FettyWap97|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1780936170
+|move|p2a: Ghoti carrier|U-turn|p1a: Quagsire
+|-damage|p1a: Quagsire|50/100
+|
+|t:|1780936175
+|switch|p2a: Seaking Duck|Golduck, F|100/100|[from] U-turn
+|-damage|p2a: Seaking Duck|88/100|[from] Stealth Rock
+|-end|p1a: Quagsire|confusion
+|move|p1a: Quagsire|Toxic|p2a: Seaking Duck
+|-status|p2a: Seaking Duck|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Seaking Duck|82/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1780936187
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Seaking Duck|Nasty Plot|p2a: Seaking Duck
+|-boost|p2a: Seaking Duck|spa|2
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Seaking Duck|70/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1780936201
+|move|p2a: Seaking Duck|Nasty Plot|p2a: Seaking Duck
+|-boost|p2a: Seaking Duck|spa|2
+|move|p1a: Alomomola|Mirror Coat||[still]
+|-fail|p1a: Alomomola
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Seaking Duck|52/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1780936207
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Seaking Duck|Hydro Pump|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Seaking Duck|28/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1780936223
+|switch|p1a: Quagsire|Quagsire, M|50/100
+|move|p2a: Seaking Duck|Ice Beam|p1a: Quagsire
+|-damage|p1a: Quagsire|3/100
+|-damage|p2a: Seaking Duck|18/100 tox|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Seaking Duck|0 fnt|[from] psn
+|faint|p2a: Seaking Duck
+|upkeep
+|
+|t:|1780936235
+|switch|p2a: Spaghetti Too|Tentacruel, F|100/100
+|-damage|p2a: Spaghetti Too|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1780936246
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|move|p2a: Spaghetti Too|Rapid Spin|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|92/100
+|-boost|p2a: Spaghetti Too|spe|1
+|-sideend|p2: FettyWap97|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Spaghetti Too
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Spaghetti Too|94/100|[from] ability: Rain Dish
+|upkeep
+|turn|8
+|
+|t:|1780936255
+|move|p2a: Spaghetti Too|Flip Turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|82/100
+|
+|t:|1780936261
+|switch|p2a: Great Neck|Raging Bolt|100/100|[from] Flip Turn
+|move|p1a: Toxapex|Poison Jab|p2a: Great Neck
+|-crit|p2a: Great Neck
+|-damage|p2a: Great Neck|74/100
+|
+|-weather|none
+|-heal|p2a: Great Neck|81/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ovalboi)
+|
+|t:|1780936269
+|-end|p2a: Great Neck|Protosynthesis|[silent]
+|switch|p2a: Ghoti carrier|Pelipper, L99, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Ghoti carrier
+|switch|p1a: Clodsire|Clodsire, M|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1780936280
+|switch|p2a: Spaghetti Too|Tentacruel, F|94/100
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Spaghetti Too|99/100|[from] ability: Rain Dish
+|upkeep
+|turn|11
+|
+|t:|1780936288
+|move|p2a: Spaghetti Too|Flip Turn|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|93/100
+|
+|t:|1780936290
+|switch|p2a: Really want eject|Pawmot, F|100/100|[from] Flip Turn
+|move|p1a: Alomomola|Flip Turn|p2a: Really want eject
+|-damage|p2a: Really want eject|69/100
+|
+|t:|1780936297
+|switch|p1a: Clefable|Clefable, F|100/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1780936301
+|move|p2a: Really want eject|Nuzzle|p1a: Clefable
+|-damage|p1a: Clefable|91/100
+|-status|p1a: Clefable|par
+|move|p1a: Clefable|Moonblast|p2a: Really want eject
+|-supereffective|p2a: Really want eject
+|-damage|p2a: Really want eject|0 fnt
+|faint|p2a: Really want eject
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Clefable|97/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1780936305
+|switch|p2a: ExSkewda Me|Barraskewda, F|100/100
+|turn|13
+|
+|t:|1780936312
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|move|p2a: ExSkewda Me|Liquidation|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|77/100
+|-unboost|p1a: Toxapex|def|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1780936319
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|-terastallize|p2a: ExSkewda Me|Poison
+|move|p2a: ExSkewda Me|Liquidation|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|71/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|-message|FettyWap97 forfeited.
+|
+|win|ovalboi
+|raw|ovalboi's rating: 1641 &rarr; <strong>1661</strong><br />(+20 for winning)
+|raw|FettyWap97's rating: 1639 &rarr; <strong>1619</strong><br />(-20 for losing)
+|l|☆FettyWap97
+|player|p2|
+|l|☆ovalboi
+|player|p1|

@@ -1,0 +1,353 @@
+|j|☆5th Floor Atrium
+|j|☆judgie
+|t:|1780952486
+|gametype|singles
+|player|p1|5th Floor Atrium|170|1623
+|player|p2|judgie|boarder-gen2|1669
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Rillaboom, F|
+|poke|p1|Conkeldurr, F|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, F|
+|poke|p1|Alomomola, M|
+|poke|p1|Dragapult, F|
+|poke|p2|Glimmora, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Latias, F|
+|poke|p2|Gholdengo|
+|poke|p2|Dragonite, F|
+|poke|p2|Weavile, M|
+|teampreview
+|c|☆5th Floor Atrium|hf
+|c|☆judgie|u2
+|
+|t:|1780952504
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Weavile|Weavile, M|100/100
+|turn|1
+|
+|t:|1780952521
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Weavile|Low Kick|p1a: Alomomola
+|-damage|p1a: Alomomola|86/100
+|-damage|p2a: Weavile|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1780952532
+|move|p2a: Weavile|Swords Dance|p2a: Weavile
+|-boost|p2a: Weavile|atk|2
+|move|p1a: Alomomola|Flip Turn|p2a: Weavile
+|-damage|p2a: Weavile|62/100
+|
+|t:|1780952537
+|switch|p1a: Conkeldurr|Conkeldurr, F|100/100|[from] Flip Turn
+|
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|3
+|
+|t:|1780952558
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|move|p1a: Conkeldurr|Mach Punch|p2a: Glimmora
+|-damage|p2a: Glimmora|67/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: 5th Floor Atrium|move: Toxic Spikes
+|-enditem|p2a: Glimmora|Red Card|[of] p1a: Conkeldurr
+|drag|p1a: Dragapult|Dragapult, F|100/100
+|-status|p1a: Dragapult|psn
+|
+|-damage|p1a: Dragapult|88/100 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1780952607
+|move|p1a: Dragapult|Draco Meteor|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-unboost|p1a: Dragapult|spa|2
+|faint|p2a: Glimmora
+|
+|-damage|p1a: Dragapult|76/100 psn|[from] psn
+|upkeep
+|
+|t:|1780952627
+|switch|p2a: Verstappen|Zamazenta|100/100
+|-ability|p2a: Verstappen|Dauntless Shield|boost
+|-boost|p2a: Verstappen|def|1
+|turn|5
+|
+|t:|1780952636
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Verstappen|Iron Defense|p2a: Verstappen
+|-boost|p2a: Verstappen|def|2
+|
+|upkeep
+|turn|6
+|
+|t:|1780952641
+|move|p2a: Verstappen|Substitute|p2a: Verstappen
+|-start|p2a: Verstappen|Substitute
+|-damage|p2a: Verstappen|76/100
+|move|p1a: Alomomola|Flip Turn|p2a: Verstappen
+|-activate|p2a: Verstappen|move: Substitute|[damage]
+|
+|t:|1780952647
+|switch|p1a: Dragapult|Dragapult, F|76/100 psn|[from] Flip Turn
+|
+|-heal|p2a: Verstappen|82/100|[from] item: Leftovers
+|-damage|p1a: Dragapult|64/100 psn|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1780952653
+|-terastallize|p1a: Dragapult|Dragon
+|move|p1a: Dragapult|Draco Meteor|p2a: Verstappen|[miss]
+|-miss|p1a: Dragapult|p2a: Verstappen
+|move|p2a: Verstappen|Crunch|p1a: Dragapult
+|-damage|p1a: Dragapult|32/100 psn
+|
+|-heal|p2a: Verstappen|88/100|[from] item: Leftovers
+|-damage|p1a: Dragapult|20/100 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1780952661
+|move|p1a: Dragapult|Draco Meteor|p2a: Verstappen
+|-damage|p2a: Verstappen|0 fnt
+|-unboost|p1a: Dragapult|spa|2
+|faint|p2a: Verstappen
+|
+|-damage|p1a: Dragapult|8/100 psn|[from] psn
+|upkeep
+|
+|t:|1780952694
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|9
+|
+|t:|1780952699
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Dragonite|Extreme Speed|p1a: Alomomola
+|-damage|p1a: Alomomola|80/100
+|
+|upkeep
+|turn|10
+|
+|t:|1780952708
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Alomomola|Tickle|p2a: Dragonite
+|-unboost|p2a: Dragonite|atk|1
+|-unboost|p2a: Dragonite|def|1
+|
+|upkeep
+|turn|11
+|
+|t:|1780952727
+|switch|p2a: X wing|Latias, F|100/100
+|move|p1a: Alomomola|Tickle|p2a: X wing
+|-unboost|p2a: X wing|atk|1
+|-unboost|p2a: X wing|def|1
+|
+|upkeep
+|turn|12
+|
+|t:|1780952759
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: X wing|Calm Mind|p2a: X wing
+|-boost|p2a: X wing|spa|1
+|-boost|p2a: X wing|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1780952778
+|-terastallize|p2a: X wing|Fairy
+|move|p1a: Iron Treads|Volt Switch|p2a: X wing
+|-damage|p2a: X wing|95/100
+|
+|t:|1780952804
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Conkeldurr|Conkeldurr, F|100/100 brn|[from] Volt Switch
+|move|p2a: X wing|Calm Mind|p2a: X wing
+|-boost|p2a: X wing|spa|1
+|-boost|p2a: X wing|spd|1
+|
+|-heal|p2a: X wing|100/100|[from] item: Leftovers
+|-damage|p1a: Conkeldurr|95/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1780952821
+|move|p2a: X wing|Draining Kiss|p1a: Conkeldurr
+|-supereffective|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|
+|upkeep
+|
+|t:|1780952890
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-status|p1a: Rillaboom|psn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|15
+|
+|t:|1780952918
+|move|p1a: Rillaboom|Grassy Glide|p2a: X wing
+|-damage|p2a: X wing|12/100
+|move|p2a: X wing|Stored Power|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: X wing|18/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780952927
+|switch|p1a: Dragapult|Dragapult, F, tera:Dragon|8/100 psn
+|turn|16
+|
+|t:|1780952943
+|move|p1a: Dragapult|Shadow Ball|p2a: X wing
+|-damage|p2a: X wing|0 fnt
+|faint|p2a: X wing
+|
+|-heal|p1a: Dragapult|14/100 psn|[from] Grassy Terrain
+|-damage|p1a: Dragapult|1/100 psn|[from] psn
+|upkeep
+|
+|t:|1780952952
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|17
+|
+|t:|1780952957
+|move|p2a: Dragonite|Extreme Speed|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1780952962
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|turn|18
+|
+|t:|1780952969
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Alomomola|Flip Turn|p2a: Gholdengo
+|-damage|p2a: Gholdengo|84/100
+|
+|t:|1780952977
+|switch|p1a: Iron Treads|Iron Treads|100/100|[from] Flip Turn
+|
+|-heal|p2a: Gholdengo|90/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1780953007
+|switch|p2a: Weavile|Weavile, M|62/100
+|move|p1a: Iron Treads|Earthquake|p2a: Weavile
+|-damage|p2a: Weavile|31/100
+|
+|-heal|p2a: Weavile|38/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1780953015
+|move|p2a: Weavile|Low Kick|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|26/100
+|-damage|p2a: Weavile|28/100|[from] item: Life Orb
+|move|p1a: Iron Treads|Earthquake|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|-heal|p1a: Iron Treads|32/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780953028
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|21
+|
+|t:|1780953032
+|move|p1a: Iron Treads|Volt Switch|p2a: Dragonite
+|-damage|p2a: Dragonite|95/100
+|
+|t:|1780953034
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Alomomola|Alomomola, M|100/100|[from] Volt Switch
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|22
+|
+|t:|1780953042
+|move|p2a: Dragonite|Earthquake|p1a: Alomomola
+|-damage|p1a: Alomomola|66/100
+|move|p1a: Alomomola|Tickle|p2a: Dragonite
+|-unboost|p2a: Dragonite|atk|1
+|-unboost|p2a: Dragonite|def|1
+|
+|upkeep
+|turn|23
+|
+|t:|1780953054
+|switch|p2a: Gholdengo|Gholdengo|90/100
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|upkeep
+|turn|24
+|j| Puyu paz
+|l| Puyu paz
+|
+|t:|1780953087
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|move|p1a: Alomomola|Flip Turn|p2a: Gholdengo
+|-damage|p2a: Gholdengo|73/100
+|
+|t:|1780953092
+|switch|p1a: Iron Treads|Iron Treads|32/100|[from] Flip Turn
+|
+|-heal|p1a: Iron Treads|93/100|[from] move: Wish|[wisher] Alomomola
+|-heal|p1a: Iron Treads|99/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 5th Floor Atrium)
+|inactive|judgie has 120 seconds left.
+|j| Puyu paz
+|l|☆judgie
+|inactive|judgie disconnected and has a minute to reconnect!
+|player|p2|
+|l| Puyu paz
+|inactive|judgie has 30 seconds to reconnect!
+|inactive|judgie has 20 seconds to reconnect!
+|inactive|judgie has 15 seconds to reconnect!
+|inactive|judgie has 10 seconds to reconnect!
+|inactive|judgie has 5 seconds to reconnect!
+|j| Dubilose
+|-message|judgie lost due to inactivity.
+|
+|win|5th Floor Atrium
+|raw|5th Floor Atrium's rating: 1623 &rarr; <strong>1646</strong><br />(+23 for winning)
+|raw|judgie's rating: 1669 &rarr; <strong>1646</strong><br />(-23 for losing)
+|l|☆5th Floor Atrium
+|player|p1|
+|l| Dubilose

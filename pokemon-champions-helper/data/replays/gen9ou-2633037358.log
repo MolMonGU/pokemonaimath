@@ -1,0 +1,286 @@
+|j|☆psylxr
+|j|☆LowEL0God
+|t:|1781597783
+|gametype|singles
+|player|p1|psylxr|101|1687
+|player|p2|LowEL0God|265|1681
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781597802
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Flip Flop|Barraskewda, M|100/100
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|turn|1
+|
+|t:|1781597809
+|switch|p1a: Gulp Gulp|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Gulp Gulp
+|-terastallize|p2a: Kingambit|Dark
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Gulp Gulp
+|-damage|p1a: Gulp Gulp|50/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781597823
+|switch|p1a: Queengambit|Kingambit, M|100/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Queengambit
+|-resisted|p1a: Queengambit
+|-crit|p1a: Queengambit
+|-damage|p1a: Queengambit|62/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Queengambit|68/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781597832
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Queengambit|Iron Head|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|78/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Queengambit|75/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781597840
+|-end|p1a: Queengambit|fallenundefined|[silent]
+|switch|p1a: Iron Belly|Iron Treads|100/100
+|-enditem|p1a: Iron Belly|Booster Energy
+|-activate|p1a: Iron Belly|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Belly|quarkdrivespe
+|move|p2a: Raging Bolt|Weather Ball|p1a: Iron Belly
+|-supereffective|p1a: Iron Belly
+|-damage|p1a: Iron Belly|0 fnt
+|faint|p1a: Iron Belly
+|-end|p1a: Iron Belly|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781597863
+|switch|p1a: Raging Neck|Raging Bolt|100/100
+|-enditem|p1a: Raging Neck|Booster Energy
+|-activate|p1a: Raging Neck|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Neck|protosynthesisspa
+|turn|5
+|
+|t:|1781597872
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Raging Neck|Thunder|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781597875
+|move|p2a: Iron Treads|Earth Power|p1a: Raging Neck
+|-supereffective|p1a: Raging Neck
+|-damage|p1a: Raging Neck|40/100
+|move|p1a: Raging Neck|Weather Ball|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781597877
+|switch|p2a: Kingambit|Kingambit, M, tera:Dark|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|turn|7
+|
+|t:|1781597884
+|move|p1a: Raging Neck|Thunderclap|p2a: Kingambit
+|-damage|p2a: Kingambit|46/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Raging Neck
+|-damage|p1a: Raging Neck|0 fnt
+|faint|p1a: Raging Neck
+|-end|p1a: Raging Neck|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kingambit|52/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781597892
+|switch|p1a: Spike|Overqwil, M|100/100
+|turn|8
+|
+|t:|1781597896
+|move|p1a: Spike|Gunk Shot|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen1|[silent]
+|-damage|p1a: Spike|91/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1781597898
+|switch|p2a: Raging Bolt|Raging Bolt|78/100
+|turn|9
+|
+|t:|1781597910
+|switch|p1a: Gulp Gulp|Pelipper, M|50/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Gulp Gulp
+|move|p2a: Raging Bolt|Thunder|p1a: Gulp Gulp
+|-supereffective|p1a: Gulp Gulp
+|-damage|p1a: Gulp Gulp|0 fnt
+|faint|p1a: Gulp Gulp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|j| g4rewfewfdwed
+|
+|t:|1781597914
+|switch|p1a: Spike|Overqwil, M|91/100
+|turn|10
+|
+|t:|1781597924
+|move|p1a: Spike|Gunk Shot|p2a: Raging Bolt|[miss]
+|-miss|p1a: Spike|p2a: Raging Bolt
+|move|p2a: Raging Bolt|Thunder|p1a: Spike
+|-damage|p1a: Spike|0 fnt
+|faint|p1a: Spike
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781597928
+|switch|p1a: Queengambit|Kingambit, M|75/100
+|-activate|p1a: Queengambit|ability: Supreme Overlord
+|-start|p1a: Queengambit|fallen4|[silent]
+|turn|11
+|
+|t:|1781597939
+|-terastallize|p1a: Queengambit|Dark
+|move|p2a: Raging Bolt|Thunder|p1a: Queengambit
+|-damage|p1a: Queengambit|12/100
+|move|p1a: Queengambit|Kowtow Cleave|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Queengambit|19/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781597943
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|12
+|
+|t:|1781597948
+|-end|p1a: Queengambit|fallen4|[silent]
+|switch|p1a: Flip Flop|Barraskewda, M|100/100
+|move|p2a: Barraskewda|Aqua Jet|p1a: Flip Flop
+|-resisted|p1a: Flip Flop
+|-damage|p1a: Flip Flop|56/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781597955
+|move|p2a: Barraskewda|Aqua Jet|p1a: Flip Flop
+|-resisted|p1a: Flip Flop
+|-damage|p1a: Flip Flop|8/100
+|move|p1a: Flip Flop|Liquidation|p2a: Barraskewda
+|-resisted|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781597958
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|turn|14
+|
+|t:|1781597963
+|move|p1a: Flip Flop|Liquidation|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|63/100
+|-unboost|p2a: Pelipper|def|1
+|move|p2a: Pelipper|Hurricane|p1a: Flip Flop
+|-damage|p1a: Flip Flop|0 fnt
+|faint|p1a: Flip Flop
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781597966
+|switch|p1a: Queengambit|Kingambit, M, tera:Dark|19/100
+|-activate|p1a: Queengambit|ability: Supreme Overlord
+|-start|p1a: Queengambit|fallen5|[silent]
+|turn|15
+|
+|t:|1781597973
+|move|p1a: Queengambit|Kowtow Cleave|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Queengambit|25/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781597975
+|switch|p2a: Overqwil|Overqwil, F|100/100
+|turn|16
+|
+|t:|1781597980
+|move|p2a: Overqwil|Liquidation|p1a: Queengambit
+|-damage|p1a: Queengambit|0 fnt
+|faint|p1a: Queengambit
+|-end|p1a: Queengambit|fallen5|[silent]
+|-damage|p2a: Overqwil|91/100|[from] item: Life Orb
+|
+|win|LowEL0God
+|raw|psylxr's rating: 1687 &rarr; <strong>1667</strong><br />(-20 for losing)
+|raw|LowEL0God's rating: 1681 &rarr; <strong>1701</strong><br />(+20 for winning)
+|l|☆psylxr
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|

@@ -1,0 +1,330 @@
+|j|☆Nikocado Allahcado
+|j|☆blackgokuking
+|t:|1781119118
+|gametype|singles
+|player|p1|Nikocado Allahcado|hiker-gen4|1656
+|player|p2|blackgokuking|101|1641
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ceruledge, F|
+|poke|p1|Cloyster, M|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Great Tusk|
+|poke|p1|Iron Boulder|
+|poke|p1|Gliscor, M|
+|poke|p2|Kingambit, M|
+|poke|p2|Kommo-o, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Kyurem|
+|poke|p2|Iron Treads|
+|poke|p2|Iron Crown|
+|teampreview
+|
+|t:|1781119131
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-ability|p1a: Deoxys|Pressure
+|-enditem|p2a: Iron Crown|Booster Energy
+|-activate|p2a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Crown|quarkdrivespe
+|turn|1
+|
+|t:|1781119139
+|move|p1a: Deoxys|Light Screen|p1a: Deoxys
+|-sidestart|p1: Nikocado Allahcado|move: Light Screen
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1781119144
+|move|p1a: Deoxys|Taunt|p2a: Iron Crown
+|-start|p2a: Iron Crown|move: Taunt
+|cant|p2a: Iron Crown|move: Taunt|Calm Mind
+|
+|upkeep
+|turn|3
+|
+|t:|1781119150
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|90/100
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|80/100
+|-hitcount|p1a: Ceruledge|2
+|
+|upkeep
+|turn|4
+|
+|t:|1781119163
+|move|p2a: Iron Crown|Psychic Noise|p1a: Ceruledge
+|-damage|p1a: Ceruledge|50/100
+|-start|p1a: Ceruledge|move: Heal Block
+|cant|p1a: Ceruledge|move: Heal Block|Bitter Blade
+|
+|-end|p2a: Iron Crown|move: Taunt
+|upkeep
+|turn|5
+|
+|t:|1781119169
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|39/100
+|-damage|p1a: Ceruledge|40/100|[from] item: Life Orb
+|move|p2a: Iron Crown|Psychic Noise|p1a: Ceruledge
+|-damage|p1a: Ceruledge|8/100
+|
+|-end|p1a: Ceruledge|move: Heal Block
+|upkeep
+|turn|6
+|
+|t:|1781119179
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Iron Treads
+|-damage|p2a: Iron Treads|78/100
+|-damage|p1a: Ceruledge|0 fnt|[from] item: Life Orb
+|faint|p1a: Ceruledge
+|
+|upkeep
+|
+|t:|1781119181
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|7
+|
+|t:|1781119190
+|move|p2a: Iron Treads|Stealth Rock|p1a: Great Tusk
+|-sidestart|p1: Nikocado Allahcado|move: Stealth Rock
+|move|p1a: Great Tusk|Rapid Spin|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|71/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: Nikocado Allahcado|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|8
+|
+|t:|1781119196
+|move|p2a: Iron Treads|Rapid Spin|p1a: Great Tusk
+|-damage|p1a: Great Tusk|92/100
+|-boost|p2a: Iron Treads|spe|1
+|move|p1a: Great Tusk|Rapid Spin|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|64/100
+|-boost|p1a: Great Tusk|spe|1
+|
+|-sideend|p1: Nikocado Allahcado|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1781119200
+|move|p2a: Iron Treads|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|65/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|58/100
+|-boost|p1a: Great Tusk|spe|1
+|
+|upkeep
+|turn|10
+|
+|t:|1781119205
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781119210
+|switch|p2a: Kommo-o|Kommo-o, M|100/100
+|turn|11
+|
+|t:|1781119215
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|switch|p2a: Iron Crown|Iron Crown|39/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781119218
+|move|p1a: Deoxys|Light Screen|p1a: Deoxys
+|-sidestart|p1: Nikocado Allahcado|move: Light Screen
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Deoxys
+|-damage|p1a: Deoxys|87/100
+|-damage|p1a: Deoxys|73/100
+|-hitcount|p1a: Deoxys|2
+|
+|upkeep
+|turn|13
+|
+|t:|1781119225
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|14
+|
+|t:|1781119231
+|move|p2a: Iron Crown|Psychic Noise|p1a: Gliscor
+|-damage|p1a: Gliscor|67/100 tox
+|-start|p1a: Gliscor|move: Heal Block
+|move|p1a: Gliscor|Agility|p1a: Gliscor
+|-boost|p1a: Gliscor|spe|2
+|
+|upkeep
+|turn|15
+|
+|t:|1781119234
+|move|p1a: Gliscor|Earthquake|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|-end|p1a: Gliscor|move: Heal Block
+|upkeep
+|
+|t:|1781119238
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|16
+|
+|t:|1781119241
+|-terastallize|p1a: Gliscor|Normal
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|move|p2a: Kyurem|Icicle Spear|p1a: Gliscor
+|-damage|p1a: Gliscor|56/100 tox
+|-damage|p1a: Gliscor|43/100 tox
+|-damage|p1a: Gliscor|32/100 tox
+|-damage|p1a: Gliscor|20/100 tox
+|-damage|p1a: Gliscor|9/100 tox
+|-hitcount|p1a: Gliscor|5
+|
+|-heal|p1a: Gliscor|22/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|17
+|
+|t:|1781119253
+|move|p1a: Gliscor|Facade|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|-heal|p1a: Gliscor|34/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781119258
+|switch|p2a: Kommo-o|Kommo-o, M|100/100
+|turn|18
+|
+|t:|1781119264
+|move|p1a: Gliscor|Earthquake|p2a: Kommo-o
+|-damage|p2a: Kommo-o|37/100
+|move|p2a: Kommo-o|Drain Punch|p1a: Gliscor
+|-supereffective|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|-heal|p2a: Kommo-o|52/100|[from] drain|[of] p1a: Gliscor
+|faint|p1a: Gliscor
+|
+|-heal|p2a: Kommo-o|58/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781119267
+|switch|p1a: Deoxys|Deoxys-Speed|73/100
+|-ability|p1a: Deoxys|Pressure
+|turn|19
+|
+|t:|1781119270
+|move|p1a: Deoxys|Psycho Boost|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|-unboost|p1a: Deoxys|spa|2
+|faint|p2a: Kommo-o
+|
+|-sideend|p1: Nikocado Allahcado|move: Light Screen
+|upkeep
+|
+|t:|1781119274
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|20
+|
+|t:|1781119280
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|move|p1a: Deoxys|Reflect|p1a: Deoxys
+|-sidestart|p1: Nikocado Allahcado|Reflect
+|
+|upkeep
+|turn|21
+|
+|t:|1781119284
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|upkeep
+|
+|t:|1781119287
+|switch|p1a: Iron Boulder|Iron Boulder|100/100
+|-enditem|p1a: Iron Boulder|Booster Energy
+|-activate|p1a: Iron Boulder|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Boulder|quarkdrivespe
+|turn|22
+|
+|t:|1781119298
+|-terastallize|p2a: Iron Valiant|Ghost
+|move|p1a: Iron Boulder|Zen Headbutt|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|54/100
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Iron Boulder
+|-supereffective|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|0 fnt
+|faint|p1a: Iron Boulder
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781119303
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|turn|23
+|-message|Nikocado Allahcado forfeited.
+|
+|win|blackgokuking
+|raw|Nikocado Allahcado's rating: 1656 &rarr; <strong>1635</strong><br />(-21 for losing)
+|raw|blackgokuking's rating: 1641 &rarr; <strong>1662</strong><br />(+21 for winning)
+|l|☆Nikocado Allahcado
+|player|p1|
+|l|☆blackgokuking
+|player|p2|

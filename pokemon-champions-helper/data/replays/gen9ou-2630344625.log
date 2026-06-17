@@ -1,0 +1,328 @@
+|j|‽SWAGGER_W2F
+|j|☆crck like alakazam
+|t:|1781241527
+|gametype|singles
+|player|p1|SWAGGER_W2F|1|1533
+|player|p2|crck like alakazam|psychicf-gen4|1575
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ceruledge, M|
+|poke|p1|Scizor, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Great Tusk|
+|poke|p1|Slowbro, M|
+|poke|p2|Iron Treads|
+|poke|p2|Pelipper, F|
+|poke|p2|Dondozo, M|
+|poke|p2|Overqwil, F|
+|poke|p2|Enamorus, F|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by crck like alakazam)
+|
+|t:|1781241543
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|switch|p2a: C.T.E.Spins|Iron Treads|100/100
+|-enditem|p2a: C.T.E.Spins|Booster Energy
+|-activate|p2a: C.T.E.Spins|ability: Quark Drive|[fromitem]
+|-start|p2a: C.T.E.Spins|quarkdrivespe
+|turn|1
+|
+|t:|1781241555
+|move|p2a: C.T.E.Spins|Stealth Rock|p1a: Raging Bolt
+|-sidestart|p1: SWAGGER_W2F|move: Stealth Rock
+|move|p1a: Raging Bolt|Draco Meteor|p2a: C.T.E.Spins
+|-resisted|p2a: C.T.E.Spins
+|-damage|p2a: C.T.E.Spins|35/100
+|-unboost|p1a: Raging Bolt|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781241569
+|-end|p2a: C.T.E.Spins|Quark Drive|[silent]
+|switch|p2a: PurpleRain|Overqwil, F, shiny|100/100
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781241577
+|move|p2a: PurpleRain|Swords Dance|p2a: PurpleRain
+|-boost|p2a: PurpleRain|atk|2
+|move|p1a: Mandibuzz|Defog|p2a: PurpleRain
+|-unboost|p2a: PurpleRain|evasion|1
+|-sideend|p1: SWAGGER_W2F|Stealth Rock|[from] move: Defog|[of] p1a: Mandibuzz
+|
+|upkeep
+|turn|4
+|
+|t:|1781241585
+|move|p2a: PurpleRain|Gunk Shot|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|11/100
+|-damage|p2a: PurpleRain|91/100|[from] item: Life Orb
+|move|p1a: Mandibuzz|Foul Play|p2a: PurpleRain
+|-resisted|p2a: PurpleRain
+|-damage|p2a: PurpleRain|30/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781241598
+|move|p2a: PurpleRain|Waterfall|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|-damage|p2a: PurpleRain|20/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781241606
+|switch|p1a: Scizor|Scizor, F|100/100
+|turn|6
+|
+|t:|1781241610
+|switch|p2a: 4Pc Peliac Combo|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: 4Pc Peliac Combo
+|move|p1a: Scizor|Bullet Punch|p2a: 4Pc Peliac Combo
+|-resisted|p2a: 4Pc Peliac Combo
+|-damage|p2a: 4Pc Peliac Combo|82/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781241621
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|move|p2a: 4Pc Peliac Combo|U-turn|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|92/100
+|
+|t:|1781241624
+|switch|p2a: C.T.E.Spins|Iron Treads|35/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781241631
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Slowbro|Slowbro, M|100/100
+|move|p2a: C.T.E.Spins|Earthquake|p1a: Slowbro
+|-damage|p1a: Slowbro|79/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781241639
+|move|p2a: C.T.E.Spins|Volt Switch|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|58/100
+|
+|t:|1781241644
+|-end|p2a: C.T.E.Spins|Quark Drive|[silent]
+|switch|p2a: Ol'DirtyBolt|Raging Bolt|100/100|[from] Volt Switch
+|-enditem|p2a: Ol'DirtyBolt|Booster Energy
+|-activate|p2a: Ol'DirtyBolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Ol'DirtyBolt|protosynthesisspa
+|move|p1a: Slowbro|Scald|p2a: Ol'DirtyBolt
+|-resisted|p2a: Ol'DirtyBolt
+|-damage|p2a: Ol'DirtyBolt|82/100
+|-status|p2a: Ol'DirtyBolt|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Ol'DirtyBolt|75/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1781241658
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Ol'DirtyBolt|Dragon Pulse|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|60/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Ol'DirtyBolt|69/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781241667
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Ol'DirtyBolt|Thunderclap||[still]
+|-fail|p2a: Ol'DirtyBolt
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Ol'DirtyBolt|63/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1781241676
+|-end|p2a: Ol'DirtyBolt|Protosynthesis|[silent]
+|switch|p2a: WishABozoWould|Dondozo, M|100/100
+|-terastallize|p1a: Great Tusk|Ice
+|move|p1a: Great Tusk|Ice Spinner|p2a: WishABozoWould
+|-resisted|p2a: WishABozoWould
+|-crit|p2a: WishABozoWould
+|-damage|p2a: WishABozoWould|80/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781241689
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|92/100
+|move|p2a: WishABozoWould|Wave Crash|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|31/100
+|-damage|p2a: WishABozoWould|63/100|[from] Recoil
+|
+|-weather|none
+|upkeep
+|turn|14
+|
+|t:|1781241699
+|switch|p2a: GangStarrFromAbove|Enamorus, F|100/100
+|move|p1a: Raging Bolt|Draco Meteor|p2a: GangStarrFromAbove
+|-immune|p2a: GangStarrFromAbove
+|
+|upkeep
+|turn|15
+|
+|t:|1781241707
+|switch|p2a: 4Pc Peliac Combo|Pelipper, F|82/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: 4Pc Peliac Combo
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781241719
+|move|p1a: Ceruledge|Poltergeist|p2a: 4Pc Peliac Combo
+|-activate|p2a: 4Pc Peliac Combo|move: Poltergeist|Damp Rock
+|-damage|p2a: 4Pc Peliac Combo|32/100
+|move|p2a: 4Pc Peliac Combo|Weather Ball|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|37/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781241738
+|switch|p2a: C.T.E.Spins|Iron Treads|35/100
+|move|p1a: Ceruledge|Poltergeist||[still]
+|-fail|p1a: Ceruledge
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781241756
+|switch|p1a: Great Tusk|Great Tusk, tera:Ice|100/100
+|move|p2a: C.T.E.Spins|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|72/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781241764
+|move|p1a: Great Tusk|Ice Spinner|p2a: C.T.E.Spins
+|-damage|p2a: C.T.E.Spins|6/100
+|move|p2a: C.T.E.Spins|Stealth Rock|p1a: Great Tusk
+|-sidestart|p1: SWAGGER_W2F|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781241771
+|-end|p2a: C.T.E.Spins|Quark Drive|[silent]
+|switch|p2a: WishABozoWould|Dondozo, M|63/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: WishABozoWould
+|-resisted|p2a: WishABozoWould
+|-damage|p2a: WishABozoWould|51/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781241782
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Slowbro|Slowbro, M|91/100
+|-damage|p1a: Slowbro|79/100|[from] Stealth Rock
+|move|p2a: WishABozoWould|Wave Crash|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|42/100
+|-damage|p2a: WishABozoWould|41/100|[from] Recoil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1781241792
+|move|p2a: WishABozoWould|Wave Crash|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|8/100
+|-damage|p2a: WishABozoWould|31/100|[from] Recoil
+|move|p1a: Slowbro|Future Sight|p2a: WishABozoWould
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-weather|none
+|upkeep
+|turn|23
+|
+|t:|1781241805
+|switch|p1a: Scizor|Scizor, F|60/100
+|-damage|p1a: Scizor|48/100|[from] Stealth Rock
+|move|p2a: WishABozoWould|Wave Crash|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|-damage|p2a: WishABozoWould|21/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1781241818
+|switch|p1a: Great Tusk|Great Tusk, tera:Ice|72/100
+|-damage|p1a: Great Tusk|47/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781241824
+|move|p1a: Great Tusk|Ice Spinner|p2a: WishABozoWould
+|-resisted|p2a: WishABozoWould
+|-damage|p2a: WishABozoWould|6/100
+|move|p2a: WishABozoWould|Wave Crash|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|-damage|p2a: WishABozoWould|0 fnt|[from] Recoil
+|faint|p2a: WishABozoWould
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|-message|SWAGGER_W2F forfeited.
+|
+|win|crck like alakazam
+|raw|SWAGGER_W2F's rating: 1533 &rarr; <strong>1515</strong><br />(-18 for losing)
+|raw|crck like alakazam's rating: 1575 &rarr; <strong>1593</strong><br />(+18 for winning)
+|l|‽SWAGGER_W2F
+|player|p1|
+|l|☆crck like alakazam
+|player|p2|

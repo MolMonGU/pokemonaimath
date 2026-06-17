@@ -1,0 +1,183 @@
+|j|☆DarkG99
+|j|☆bigguy916
+|t:|1781571530
+|gametype|singles
+|player|p1|DarkG99|karen|1666
+|player|p2|bigguy916|unknownf|1682
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kommo-o, M|
+|poke|p1|Sinistcha-Masterpiece|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Heatran, M|
+|poke|p1|Maushold-Four|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Iron Treads|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Iron Valiant|
+|poke|p2|Raging Bolt|
+|poke|p2|Dragonite, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by bigguy916)
+|
+|t:|1781571543
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Maushold|Maushold-Four|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781571561
+|move|p1a: Maushold|Switcheroo|p2a: Iron Treads
+|-activate|p1a: Maushold|move: Trick|[of] p2a: Iron Treads
+|-item|p2a: Iron Treads|Choice Scarf|[from] move: Switcheroo
+|-enditem|p1a: Maushold|Choice Scarf|[silent]|[from] move: Switcheroo
+|move|p2a: Iron Treads|Earthquake|p1a: Maushold
+|-damage|p1a: Maushold|23/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781571575
+|switch|p1a: Sinistcha|Sinistcha-Masterpiece|100/100
+|move|p2a: Iron Treads|Earthquake|p1a: Sinistcha
+|-resisted|p1a: Sinistcha
+|-damage|p1a: Sinistcha|85/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781571585
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781571592
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Ninetales|Blizzard|p2a: Iron Treads
+|-damage|p2a: Iron Treads|44/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781571597
+|switch|p1a: Maushold|Maushold-Four|23/100
+|move|p2a: Iron Treads|Earthquake|p1a: Maushold
+|-damage|p1a: Maushold|0 fnt
+|faint|p1a: Maushold
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781571602
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|6
+|
+|t:|1781571607
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Dragonite|[anim] Ivy Cudgel Water
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|85/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781571611
+|switch|p1a: Sinistcha|Sinistcha-Masterpiece|85/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-weather|none
+|upkeep
+|turn|8
+|
+|t:|1781571617
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Sinistcha|Stun Spore|p2a: Dragonite|[miss]
+|-miss|p1a: Sinistcha|p2a: Dragonite
+|
+|upkeep
+|turn|9
+|
+|t:|1781571625
+|move|p2a: Dragonite|Scale Shot|p1a: Sinistcha
+|-damage|p1a: Sinistcha|64/100
+|-damage|p1a: Sinistcha|43/100
+|-damage|p1a: Sinistcha|23/100
+|-crit|p1a: Sinistcha
+|-damage|p1a: Sinistcha|0 fnt
+|faint|p1a: Sinistcha
+|-hitcount|p1: Sinistcha|4
+|-unboost|p2a: Dragonite|def|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|
+|t:|1781571629
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|10
+|
+|t:|1781571634
+|-terastallize|p2a: Dragonite|Fire
+|move|p2a: Dragonite|Fire Punch|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781571641
+|switch|p1a: Heatran|Heatran, M|100/100
+|turn|11
+|
+|t:|1781571644
+|-terastallize|p1a: Heatran|Bug
+|move|p2a: Dragonite|Scale Shot|p1a: Heatran
+|-damage|p1a: Heatran|77/100
+|-damage|p1a: Heatran|54/100
+|-damage|p1a: Heatran|26/100
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|-hitcount|p1: Heatran|4
+|-unboost|p2a: Dragonite|def|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|-message|DarkG99 forfeited.
+|
+|win|bigguy916
+|raw|DarkG99's rating: 1666 &rarr; <strong>1645</strong><br />(-21 for losing)
+|raw|bigguy916's rating: 1655 &rarr; <strong>1676</strong><br />(+21 for winning)
+|l|☆DarkG99
+|player|p1|
+|l|☆bigguy916
+|player|p2|

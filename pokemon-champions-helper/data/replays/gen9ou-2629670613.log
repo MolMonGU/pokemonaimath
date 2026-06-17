@@ -1,0 +1,193 @@
+|j|☆KurisuChestnutLab
+|j|☆Piecubed
+|t:|1781162774
+|gametype|singles
+|player|p1|KurisuChestnutLab|may-contest|1548
+|player|p2|Piecubed|265|1596
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Zapdos|
+|poke|p1|Garganacl, M|
+|poke|p1|Clefable, M|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Gholdengo|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Dragonite, F|
+|poke|p2|Manaphy|
+|poke|p2|Kommo-o, F|
+|poke|p2|Glimmora, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Piecubed)
+|
+|t:|1781162780
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|1
+|inactive|KurisuChestnutLab also wants the timer to be on.
+|
+|t:|1781162787
+|-terastallize|p1a: Samurott|Dark
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: Piecubed|Reflect
+|move|p1a: Samurott|Ceaseless Edge|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|32/100
+|-sidestart|p2: Piecubed|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1781162794
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: Piecubed|move: Light Screen
+|move|p1a: Samurott|Ceaseless Edge|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|-sidestart|p2: Piecubed|Spikes
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1781162809
+|switch|p2a: Kommo-o|Kommo-o, F|100/100
+|-damage|p2a: Kommo-o|84/100|[from] Spikes
+|turn|3
+|
+|t:|1781162816
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|59/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781162826
+|move|p1a: Zamazenta|Body Press|p2a: Kommo-o
+|-activate|p2a: Kommo-o|move: Substitute|[damage]
+|move|p2a: Kommo-o|Belly Drum|p2a: Kommo-o
+|-damage|p2a: Kommo-o|9/100
+|-setboost|p2a: Kommo-o|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Kommo-o|Salac Berry|[eat]
+|-boost|p2a: Kommo-o|spe|1|[from] item: Salac Berry
+|
+|upkeep
+|turn|5
+|
+|t:|1781162837
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Kommo-o|Drain Punch|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|88/100
+|-heal|p2a: Kommo-o|17/100|[from] drain|[of] p1a: Clefable
+|
+|upkeep
+|turn|6
+|
+|t:|1781162842
+|move|p2a: Kommo-o|Shadow Claw|p1a: Clefable
+|-damage|p1a: Clefable|72/100
+|move|p1a: Clefable|Moonblast|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|
+|upkeep
+|turn|7
+|
+|t:|1781162852
+|move|p2a: Kommo-o|Shadow Claw|p1a: Clefable
+|-damage|p1a: Clefable|55/100
+|move|p1a: Clefable|Moonblast|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|
+|upkeep
+|
+|t:|1781162860
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|-damage|p2a: Glimmora|84/100|[from] Spikes
+|turn|8
+|
+|t:|1781162866
+|move|p2a: Glimmora|Meteor Beam||[still]
+|-prepare|p2a: Glimmora|Meteor Beam
+|-boost|p2a: Glimmora|spa|1
+|-enditem|p2a: Glimmora|Power Herb
+|-anim|p2a: Glimmora|Meteor Beam|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|-sideend|p2: Piecubed|Reflect
+|upkeep
+|
+|t:|1781162870
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|9
+|
+|t:|1781162876
+|move|p1a: Gholdengo|Make It Rain|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Glimmora
+|
+|-sideend|p2: Piecubed|move: Light Screen
+|upkeep
+|
+|t:|1781162889
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-damage|p2a: Iron Valiant|84/100|[from] Spikes
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|10
+|
+|t:|1781162895
+|switch|p1a: Garganacl|Garganacl, M|100/100
+|-terastallize|p2a: Iron Valiant|Electric
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|11
+|
+|t:|1781162901
+|move|p2a: Iron Valiant|Moonblast|p1a: Garganacl
+|-crit|p1a: Garganacl
+|-damage|p1a: Garganacl|31/100
+|move|p1a: Garganacl|Earthquake|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-crit|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-heal|p1a: Garganacl|38/100|[from] item: Leftovers
+|upkeep
+|-message|Piecubed forfeited.
+|
+|win|KurisuChestnutLab
+|raw|KurisuChestnutLab's rating: 1531 &rarr; <strong>1555</strong><br />(+24 for winning)
+|raw|Piecubed's rating: 1596 &rarr; <strong>1572</strong><br />(-24 for losing)
+|l|☆Piecubed
+|player|p2|

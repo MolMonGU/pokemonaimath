@@ -1,0 +1,765 @@
+|j|☆adil
+|j|☆Johnny tots
+|t:|1781190566
+|gametype|singles
+|player|p1|adil|2|1721
+|player|p2|Johnny tots|170|1776
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Corviknight, F|
+|poke|p1|Ting-Lu|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Pecharunt|
+|poke|p1|Cinderace, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Klefki, F|
+|poke|p2|Manaphy|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Clefable, F|
+|teampreview
+|l|☆Johnny tots
+|player|p2|
+|j|☆Johnny tots
+|player|p2|Johnny tots|170|
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Johnny tots)
+|
+|t:|1781190581
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1781190585
+|move|p1a: Pecharunt|Parting Shot|p2a: Rillaboom
+|-unboost|p2a: Rillaboom|atk|1
+|-unboost|p2a: Rillaboom|spa|1
+|
+|t:|1781190587
+|switch|p1a: Corviknight|Corviknight, F|100/100|[from] Parting Shot
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Rillaboom|Knock Off|p1a: Corviknight
+|-damage|p1a: Corviknight|87/100
+|-enditem|p1a: Corviknight|Leftovers|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|upkeep
+|turn|2
+|
+|t:|1781190590
+|switch|p2a: Klefki|Klefki, F|100/100
+|move|p1a: Corviknight|U-turn|p2a: Klefki
+|-resisted|p2a: Klefki
+|-damage|p2a: Klefki|98/100
+|
+|t:|1781190596
+|switch|p1a: Cinderace|Cinderace, F|100/100|[from] U-turn
+|
+|-heal|p2a: Klefki|100/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781190600
+|move|p2a: Klefki|Reflect|p2a: Klefki
+|-sidestart|p2: Johnny tots|Reflect
+|move|p1a: Cinderace|Pyro Ball|p2a: Klefki|[miss]
+|-miss|p1a: Cinderace|p2a: Klefki
+|
+|upkeep
+|turn|4
+|
+|t:|1781190603
+|move|p2a: Klefki|Thunder Wave|p1a: Cinderace
+|-status|p1a: Cinderace|par
+|cant|p1a: Cinderace|par
+|
+|upkeep
+|turn|5
+|
+|t:|1781190607
+|switch|p2a: Manaphy|Manaphy|100/100
+|cant|p1a: Cinderace|par
+|
+|upkeep
+|turn|6
+|
+|t:|1781190612
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Manaphy|Scald|p1a: Slowking
+|-damage|p1a: Slowking|76/100
+|
+|-heal|p1a: Slowking|82/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781190615
+|switch|p2a: Klefki|Klefki, F|100/100
+|move|p1a: Slowking|Thunder Wave|p2a: Klefki
+|-status|p2a: Klefki|par
+|
+|-heal|p1a: Slowking|88/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1781190619
+|switch|p1a: Cinderace|Cinderace, F|100/100 par
+|move|p2a: Klefki|Light Screen|p2a: Klefki
+|-sidestart|p2: Johnny tots|move: Light Screen
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|9
+|j| ILoveGardevoirRah
+|
+|t:|1781190629
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|cant|p1a: Cinderace|par
+|
+|upkeep
+|turn|10
+|
+|t:|1781190632
+|switch|p1a: Corviknight|Corviknight, F|87/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Rillaboom|High Horsepower|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|-sideend|p2: Johnny tots|Reflect
+|upkeep
+|turn|11
+|
+|t:|1781190637
+|move|p2a: Rillaboom|Bulk Up|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|1
+|-boost|p2a: Rillaboom|def|1
+|move|p1a: Corviknight|U-turn|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-crit|p2a: Rillaboom
+|-damage|p2a: Rillaboom|60/100
+|
+|t:|1781190647
+|switch|p1a: Kyurem|Kyurem|100/100|[from] U-turn
+|-ability|p1a: Kyurem|Pressure
+|
+|-heal|p2a: Rillaboom|66/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781190650
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Kyurem|Substitute|p1a: Kyurem
+|-start|p1a: Kyurem|Substitute
+|-damage|p1a: Kyurem|75/100
+|
+|-heal|p1a: Kyurem|82/100|[from] Grassy Terrain
+|-heal|p1a: Kyurem|88/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781190656
+|move|p1a: Kyurem|Freeze-Dry|p2a: Clefable
+|-damage|p2a: Clefable|84/100
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p1a: Kyurem|94/100|[from] Grassy Terrain
+|-heal|p1a: Kyurem|99/100|[from] item: Leftovers
+|-heal|p2a: Clefable|90/100|[from] Grassy Terrain
+|-heal|p2a: Clefable|96/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781190660
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Clefable|Moonblast|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|83/100
+|-unboost|p1a: Slowking|spa|1
+|
+|-heal|p2a: Clefable|100/100|[from] Grassy Terrain
+|-heal|p1a: Slowking|90/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1781190665
+|switch|p2a: Klefki|Klefki, F|100/100 par
+|move|p1a: Slowking|Thunder Wave|p2a: Klefki
+|-fail|p2a: Klefki|par
+|
+|-heal|p1a: Slowking|96/100|[from] Grassy Terrain
+|-sideend|p2: Johnny tots|move: Light Screen
+|upkeep
+|turn|16
+|
+|t:|1781190669
+|switch|p1a: Cinderace|Cinderace, F|100/100 par
+|move|p2a: Klefki|Light Screen|p2a: Klefki
+|-sidestart|p2: Johnny tots|move: Light Screen
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1781190676
+|cant|p2a: Klefki|par
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|
+|upkeep
+|turn|18
+|
+|t:|1781190682
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|cant|p2a: Klefki|par
+|
+|upkeep
+|turn|19
+|
+|t:|1781190688
+|move|p2a: Klefki|Reflect|p2a: Klefki
+|-sidestart|p2: Johnny tots|Reflect
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Klefki
+|-sidestart|p2: Johnny tots|move: Stealth Rock
+|
+|upkeep
+|turn|20
+|
+|t:|1781190693
+|switch|p2a: Rillaboom|Rillaboom, M|66/100
+|-damage|p2a: Rillaboom|54/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Ting-Lu|Earthquake|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|50/100
+|
+|-heal|p2a: Rillaboom|56/100|[from] Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1781190704
+|switch|p2a: Clefable|Clefable, F|100/100
+|switch|p1a: Corviknight|Corviknight, F|87/100
+|-ability|p1a: Corviknight|Pressure
+|
+|upkeep
+|turn|22
+|
+|t:|1781190710
+|move|p1a: Corviknight|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|97/100
+|
+|t:|1781190711
+|switch|p1a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p2a: Clefable|100/100|[from] Grassy Terrain
+|upkeep
+|turn|23
+|
+|t:|1781190715
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|move|p1a: Slowking|Thunder Wave|p2a: Clefable
+|-status|p2a: Clefable|par
+|
+|-sideend|p1: adil|move: Light Screen
+|upkeep
+|turn|24
+|
+|t:|1781190718
+|cant|p2a: Clefable|par
+|move|p1a: Slowking|Sludge Bomb|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|65/100 par
+|
+|-heal|p2a: Clefable|71/100 par|[from] Grassy Terrain
+|-heal|p2a: Clefable|77/100 par|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781190721
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|move|p1a: Slowking|Psychic Noise|p2a: Clefable
+|-damage|p2a: Clefable|67/100 par
+|-start|p2a: Clefable|move: Heal Block
+|
+|upkeep
+|turn|26
+|
+|t:|1781190724
+|cant|p2a: Clefable|par
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|l|☆Johnny tots
+|inactive|Johnny tots disconnected and has a minute to reconnect!
+|player|p2|
+|
+|t:|1781190740
+|switch|p1a: Pecharunt|Pecharunt|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Clefable|move: Heal Block
+|-sideend|p2: Johnny tots|Reflect
+|upkeep
+|turn|27
+|j|☆Johnny tots
+|inactive|Johnny tots reconnected and has 150 seconds left.
+|player|p2|Johnny tots|170|
+|
+|t:|1781190744
+|move|p1a: Pecharunt|Parting Shot|p2a: Clefable
+|-unboost|p2a: Clefable|atk|1
+|-unboost|p2a: Clefable|spa|1
+|
+|t:|1781190746
+|switch|p1a: Slowking|Slowking-Galar, M|100/100|[from] Parting Shot
+|move|p2a: Clefable|Moonblast|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|75/100
+|-unboost|p1a: Slowking|spa|1
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Clefable|73/100 par|[from] Grassy Terrain
+|-heal|p2a: Clefable|79/100 par|[from] item: Leftovers
+|-heal|p1a: Slowking|81/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|28
+|
+|t:|1781190752
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|
+|t:|1781190755
+|switch|p1a: Pecharunt|Pecharunt|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Clefable|85/100 par|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1781190757
+|move|p1a: Pecharunt|Parting Shot|p2a: Clefable
+|-unboost|p2a: Clefable|atk|1
+|-unboost|p2a: Clefable|spa|1
+|
+|t:|1781190758
+|switch|p1a: Slowking|Slowking-Galar, M|100/100|[from] Parting Shot
+|move|p2a: Clefable|Moonblast|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|76/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Clefable|91/100 par|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781190763
+|move|p2a: Clefable|Psyshock|p1a: Slowking
+|-damage|p1a: Slowking|33/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|
+|t:|1781190765
+|switch|p1a: Pecharunt|Pecharunt|100/100|[from] Chilly Reception
+|
+|-weather|none
+|-heal|p2a: Clefable|97/100 par|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1781190767
+|move|p1a: Pecharunt|Parting Shot|p2a: Clefable
+|-unboost|p2a: Clefable|atk|1
+|-unboost|p2a: Clefable|spa|1
+|
+|t:|1781190770
+|switch|p1a: Slowking|Slowking-Galar, M|66/100|[from] Parting Shot
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p2a: Clefable|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1781190773
+|move|p2a: Clefable|Psyshock|p1a: Slowking
+|-damage|p1a: Slowking|19/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781190776
+|switch|p1a: Pecharunt|Pecharunt|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|33
+|
+|t:|1781190777
+|move|p1a: Pecharunt|Parting Shot|p2a: Clefable
+|-unboost|p2a: Clefable|atk|1
+|-unboost|p2a: Clefable|spa|1
+|
+|t:|1781190778
+|switch|p1a: Slowking|Slowking-Galar, M|52/100|[from] Parting Shot
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|34
+|
+|t:|1781190783
+|move|p2a: Clefable|Psyshock|p1a: Slowking
+|-damage|p1a: Slowking|7/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|
+|t:|1781190785
+|switch|p1a: Pecharunt|Pecharunt|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|35
+|
+|t:|1781190790
+|move|p1a: Pecharunt|Parting Shot|p2a: Clefable
+|-unboost|p2a: Clefable|atk|1
+|-unboost|p2a: Clefable|spa|1
+|
+|t:|1781190793
+|switch|p1a: Slowking|Slowking-Galar, M|40/100|[from] Parting Shot
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|0
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|36
+|
+|t:|1781190797
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|0
+|
+|-weather|none
+|upkeep
+|turn|37
+|
+|t:|1781190803
+|move|p2a: Clefable|Moonblast|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|20/100
+|move|p1a: Ting-Lu|Whirlwind|p2a: Clefable
+|drag|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|88/100|[from] Stealth Rock
+|
+|-heal|p1a: Ting-Lu|26/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1781190808
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|39
+|
+|t:|1781190812
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Pecharunt|[anim] Ivy Cudgel Water
+|-damage|p1a: Pecharunt|28/100
+|move|p1a: Pecharunt|Malignant Chain|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|14/100
+|-status|p2a: Ogerpon|tox
+|-start|p2a: Ogerpon|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|
+|-damage|p2a: Ogerpon|8/100 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1781190822
+|switch|p1a: Corviknight|Corviknight, F|87/100
+|-ability|p1a: Corviknight|Pressure
+|-activate|p2a: Ogerpon|confusion
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Corviknight|[anim] Ivy Cudgel Water
+|-damage|p1a: Corviknight|23/100
+|
+|-damage|p2a: Ogerpon|0 fnt|[from] psn
+|faint|p2a: Ogerpon
+|upkeep
+|
+|t:|1781190827
+|switch|p2a: Manaphy|Manaphy|100/100
+|-damage|p2a: Manaphy|88/100|[from] Stealth Rock
+|turn|41
+|
+|t:|1781190831
+|switch|p1a: Slowking|Slowking-Galar, M|73/100
+|move|p2a: Manaphy|Scald|p1a: Slowking
+|-damage|p1a: Slowking|49/100
+|
+|-heal|p2a: Manaphy|94/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1781190834
+|move|p2a: Manaphy|Take Heart|p2a: Manaphy
+|-boost|p2a: Manaphy|spa|1
+|-boost|p2a: Manaphy|spd|1
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781190840
+|switch|p1a: Ting-Lu|Ting-Lu|26/100|[from] Chilly Reception
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Manaphy|99/100|[from] item: Leftovers
+|-heal|p1a: Ting-Lu|32/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1781190843
+|-terastallize|p1a: Ting-Lu|Water
+|move|p2a: Manaphy|Scald|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|22/100
+|move|p1a: Ting-Lu|Whirlwind|p2a: Manaphy
+|drag|p2a: Clefable|Clefable, F|100/100 par
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|28/100|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1781190848
+|move|p1a: Ting-Lu|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|66/100 par
+|move|p2a: Clefable|Moonblast|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|11/100
+|-unboost|p1a: Ting-Lu|spa|1
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|18/100|[from] item: Leftovers
+|-heal|p2a: Clefable|73/100 par|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|t:|1781190853
+|switch|p2a: Rillaboom|Rillaboom, M|56/100
+|-damage|p2a: Rillaboom|43/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Ting-Lu|Rest|p1a: Ting-Lu
+|-status|p1a: Ting-Lu|slp|[from] move: Rest
+|-heal|p1a: Ting-Lu|100/100 slp|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Rillaboom|50/100|[from] Grassy Terrain
+|upkeep
+|turn|46
+|
+|t:|1781190860
+|switch|p1a: Kyurem|Kyurem|99/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Rillaboom|Knock Off|p1a: Kyurem
+|-damage|p1a: Kyurem|78/100
+|-enditem|p1a: Kyurem|Leftovers|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-weather|none
+|-heal|p1a: Kyurem|84/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|56/100|[from] Grassy Terrain
+|upkeep
+|turn|47
+|
+|t:|1781190867
+|switch|p2a: Klefki|Klefki, F|100/100 par
+|-damage|p2a: Klefki|95/100 par|[from] Stealth Rock
+|move|p1a: Kyurem|Substitute|p1a: Kyurem
+|-start|p1a: Kyurem|Substitute
+|-damage|p1a: Kyurem|59/100
+|
+|-heal|p1a: Kyurem|66/100|[from] Grassy Terrain
+|-heal|p2a: Klefki|100/100 par|[from] Grassy Terrain
+|upkeep
+|turn|48
+|
+|t:|1781190873
+|switch|p2a: Manaphy|Manaphy|99/100
+|-damage|p2a: Manaphy|88/100|[from] Stealth Rock
+|move|p1a: Kyurem|Earth Power|p2a: Manaphy
+|-damage|p2a: Manaphy|59/100
+|
+|-heal|p1a: Kyurem|72/100|[from] Grassy Terrain
+|-heal|p2a: Manaphy|65/100|[from] Grassy Terrain
+|-heal|p2a: Manaphy|71/100|[from] item: Leftovers
+|upkeep
+|turn|49
+|
+|t:|1781190877
+|switch|p2a: Klefki|Klefki, F|100/100 par
+|-damage|p2a: Klefki|95/100 par|[from] Stealth Rock
+|move|p1a: Kyurem|Freeze-Dry|p2a: Klefki
+|-resisted|p2a: Klefki
+|-damage|p2a: Klefki|72/100 par
+|
+|-heal|p1a: Kyurem|78/100|[from] Grassy Terrain
+|-heal|p2a: Klefki|78/100 par|[from] Grassy Terrain
+|upkeep
+|turn|50
+|
+|t:|1781190879
+|cant|p2a: Klefki|par
+|move|p1a: Kyurem|Earth Power|p2a: Klefki
+|-supereffective|p2a: Klefki
+|-damage|p2a: Klefki|9/100 par
+|
+|-heal|p1a: Kyurem|84/100|[from] Grassy Terrain
+|-heal|p2a: Klefki|15/100 par|[from] Grassy Terrain
+|upkeep
+|turn|51
+|
+|t:|1781190881
+|move|p2a: Klefki|Light Screen|p2a: Klefki
+|-sidestart|p2: Johnny tots|move: Light Screen
+|move|p1a: Kyurem|Earth Power|p2a: Klefki
+|-supereffective|p2a: Klefki
+|-damage|p2a: Klefki|0 fnt
+|faint|p2a: Klefki
+|
+|-heal|p1a: Kyurem|90/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781190898
+|switch|p2a: Cutmylifein2|Dragapult, F|100/100
+|-damage|p2a: Cutmylifein2|88/100|[from] Stealth Rock
+|turn|52
+|
+|t:|1781190905
+|switch|p1a: Slowking|Slowking-Galar, M|82/100
+|move|p2a: Cutmylifein2|Dragon Dance|p2a: Cutmylifein2
+|-boost|p2a: Cutmylifein2|atk|1
+|-boost|p2a: Cutmylifein2|spe|1
+|
+|-heal|p2a: Cutmylifein2|94/100|[from] Grassy Terrain
+|-heal|p2a: Cutmylifein2|100/100|[from] item: Leftovers
+|-heal|p1a: Slowking|88/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|53
+|
+|t:|1781190912
+|move|p2a: Cutmylifein2|Substitute|p2a: Cutmylifein2
+|-start|p2a: Cutmylifein2|Substitute
+|-damage|p2a: Cutmylifein2|76/100
+|move|p1a: Slowking|Thunder Wave||[still]
+|-fail|p1a: Slowking
+|
+|-heal|p2a: Cutmylifein2|82/100|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1781190916
+|move|p2a: Cutmylifein2|Dragon Dance|p2a: Cutmylifein2
+|-boost|p2a: Cutmylifein2|atk|1
+|-boost|p2a: Cutmylifein2|spe|1
+|move|p1a: Slowking|Psychic Noise|p2a: Cutmylifein2
+|-damage|p2a: Cutmylifein2|63/100
+|-start|p2a: Cutmylifein2|move: Heal Block
+|
+|upkeep
+|turn|55
+|
+|t:|1781190923
+|move|p2a: Cutmylifein2|Dragon Darts|p1a: Slowking
+|-damage|p1a: Slowking|32/100
+|-anim|p2a: Cutmylifein2|Dragon Darts|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-end|p2a: Cutmylifein2|move: Heal Block
+|upkeep
+|
+|t:|1781190926
+|switch|p1a: Ting-Lu|Ting-Lu, tera:Water|100/100 slp
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|56
+|
+|t:|1781190934
+|move|p2a: Cutmylifein2|Dragon Darts|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|72/100 slp
+|-anim|p2a: Cutmylifein2|Dragon Darts|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|45/100 slp
+|cant|p1a: Ting-Lu|slp
+|
+|-heal|p2a: Cutmylifein2|69/100|[from] item: Leftovers
+|-heal|p1a: Ting-Lu|51/100 slp|[from] item: Leftovers
+|upkeep
+|turn|57
+|
+|t:|1781190939
+|move|p2a: Cutmylifein2|Dragon Darts|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|23/100 slp
+|-anim|p2a: Cutmylifein2|Dragon Darts|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|-heal|p2a: Cutmylifein2|75/100|[from] item: Leftovers
+|upkeep
+|l|☆adil
+|inactive|adil disconnected and has a minute to reconnect!
+|player|p1|
+|j| goobix
+|l|☆Johnny tots
+|inactive|Johnny tots disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|adil has 30 seconds to reconnect!
+|j| bingbong441
+|l| goobix
+|inactive|adil has 20 seconds to reconnect!
+|inactive|adil has 15 seconds to reconnect!
+|inactive|adil has 10 seconds to reconnect!
+|inactive|adil has 5 seconds to reconnect!
+|-message|adil lost due to inactivity.
+|
+|win|Johnny tots
+|raw|adil's rating: 1721 &rarr; <strong>1704</strong><br />(-17 for losing)
+|raw|Johnny tots's rating: 1776 &rarr; <strong>1793</strong><br />(+17 for winning)
+|j|☆Johnny tots
+|player|p2|Johnny tots|170|
+|l|☆Johnny tots
+|player|p2|

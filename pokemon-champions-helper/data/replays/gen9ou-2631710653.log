@@ -1,0 +1,370 @@
+|j|☆testingyup
+|j|☆sirlsalot
+|t:|1781426396
+|gametype|singles
+|player|p1|testingyup|marlon|1623
+|player|p2|sirlsalot|102|1545
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Skeledirge, M|
+|poke|p1|Kyurem|
+|poke|p1|Cinderace, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Pecharunt|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Lokix, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Alomomola, L99, F|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Great Tusk|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by testingyup)
+|
+|t:|1781426415
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: MACHINE TORNADER|Gholdengo|100/100
+|turn|1
+|
+|t:|1781426423
+|move|p2a: MACHINE TORNADER|Trick|p1a: Tornadus
+|-activate|p2a: MACHINE TORNADER|move: Trick|[of] p1a: Tornadus
+|-item|p1a: Tornadus|Choice Scarf|[from] move: Trick
+|-item|p2a: MACHINE TORNADER|Assault Vest|[from] move: Trick
+|move|p1a: Tornadus|Knock Off|p2a: MACHINE TORNADER
+|-supereffective|p2a: MACHINE TORNADER
+|-damage|p2a: MACHINE TORNADER|56/100
+|-enditem|p2a: MACHINE TORNADER|Assault Vest|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|upkeep
+|turn|2
+|
+|t:|1781426434
+|switch|p2a: Overlord|Mandibuzz, F|100/100
+|move|p1a: Tornadus|Knock Off|p2a: Overlord
+|-resisted|p2a: Overlord
+|-damage|p2a: Overlord|95/100
+|-enditem|p2a: Overlord|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|upkeep
+|turn|3
+|
+|t:|1781426443
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Overlord|U-turn|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-damage|p1a: Pecharunt|99/100
+|
+|t:|1781426460
+|switch|p2a: MACHINE TORNADER|Gholdengo|56/100|[from] U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1781426478
+|move|p1a: Pecharunt|Shadow Ball|p2a: MACHINE TORNADER
+|-supereffective|p2a: MACHINE TORNADER
+|-damage|p2a: MACHINE TORNADER|0 fnt
+|faint|p2a: MACHINE TORNADER
+|
+|upkeep
+|
+|t:|1781426481
+|switch|p2a: Shining Agito|Lokix, F, shiny|100/100
+|turn|5
+|
+|t:|1781426488
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Shining Agito|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|55/100
+|
+|t:|1781426493
+|switch|p2a: Overlord|Mandibuzz, F|95/100|[from] U-turn
+|
+|upkeep
+|turn|6
+|
+|t:|1781426506
+|move|p1a: Tornadus|U-turn|p2a: Overlord
+|-damage|p2a: Overlord|87/100
+|
+|t:|1781426511
+|switch|p1a: Pecharunt|Pecharunt|99/100|[from] U-turn
+|move|p2a: Overlord|U-turn|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-damage|p1a: Pecharunt|97/100
+|
+|t:|1781426513
+|switch|p2a: Gills Exceed|Great Tusk|100/100|[from] U-turn
+|
+|upkeep
+|turn|7
+|
+|t:|1781426518
+|move|p1a: Pecharunt|Parting Shot|p2a: Gills Exceed
+|-unboost|p2a: Gills Exceed|atk|1
+|-unboost|p2a: Gills Exceed|spa|1
+|
+|t:|1781426522
+|switch|p1a: Tornadus|Tornadus-Therian, M|88/100|[from] Parting Shot
+|move|p2a: Gills Exceed|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: testingyup|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1781426526
+|-end|p2a: Gills Exceed|Protosynthesis|[silent]
+|switch|p2a: Overlord|Mandibuzz, F|87/100
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Overlord
+|-damage|p2a: Overlord|54/100
+|-unboost|p2a: Overlord|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1781426536
+|switch|p1a: Pecharunt|Pecharunt|97/100
+|-damage|p1a: Pecharunt|84/100|[from] Stealth Rock
+|switch|p2a: Tetsuya Sawaki|Alomomola, L99, F|100/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781426542
+|move|p1a: Pecharunt|Malignant Chain|p2a: Tetsuya Sawaki
+|-damage|p2a: Tetsuya Sawaki|65/100
+|-status|p2a: Tetsuya Sawaki|tox
+|-start|p2a: Tetsuya Sawaki|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|-activate|p2a: Tetsuya Sawaki|confusion
+|-damage|p2a: Tetsuya Sawaki|60/100 tox|[from] confusion
+|
+|-damage|p2a: Tetsuya Sawaki|54/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1781426546
+|move|p1a: Pecharunt|Malignant Chain|p2a: Tetsuya Sawaki
+|-damage|p2a: Tetsuya Sawaki|21/100 tox
+|-activate|p2a: Tetsuya Sawaki|confusion
+|move|p2a: Tetsuya Sawaki|Flip Turn|p1a: Pecharunt
+|-damage|p1a: Pecharunt|73/100
+|
+|t:|1781426553
+|switch|p2a: Gills Exceed|Great Tusk|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|12
+|
+|t:|1781426557
+|move|p1a: Pecharunt|Malignant Chain|p2a: Gills Exceed
+|-resisted|p2a: Gills Exceed
+|-damage|p2a: Gills Exceed|56/100
+|-status|p2a: Gills Exceed|tox
+|-start|p2a: Gills Exceed|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|-activate|p2a: Gills Exceed|confusion
+|move|p2a: Gills Exceed|Ice Spinner|p1a: Pecharunt
+|-damage|p1a: Pecharunt|54/100
+|
+|-damage|p2a: Gills Exceed|50/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1781426566
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|-damage|p1a: Tornadus|76/100|[from] Stealth Rock
+|-end|p2a: Gills Exceed|confusion
+|move|p2a: Gills Exceed|Ice Spinner|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|26/100
+|
+|-damage|p2a: Gills Exceed|37/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1781426576
+|-end|p2a: Gills Exceed|Protosynthesis|[silent]
+|switch|p2a: Tetsuya Sawaki|Alomomola, L99, F|54/100 tox
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Tetsuya Sawaki
+|-damage|p2a: Tetsuya Sawaki|34/100 tox
+|
+|-damage|p2a: Tetsuya Sawaki|28/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1781426579
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Tetsuya Sawaki
+|-damage|p2a: Tetsuya Sawaki|6/100 tox
+|move|p2a: Tetsuya Sawaki|Flip Turn|p1a: Tornadus
+|-damage|p1a: Tornadus|12/100
+|
+|t:|1781426584
+|switch|p2a: Shining Agito|Lokix, F, shiny|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|16
+|
+|t:|1781426586
+|move|p2a: Shining Agito|First Impression|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1781426609
+|switch|p1a: Skeledirge|Skeledirge, M|100/100
+|-damage|p1a: Skeledirge|76/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1781426619
+|switch|p2a: Overlord|Mandibuzz, F|54/100
+|move|p1a: Skeledirge|Torch Song|p2a: Overlord
+|-damage|p2a: Overlord|26/100
+|-boost|p1a: Skeledirge|spa|1
+|
+|-heal|p1a: Skeledirge|82/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781426622
+|move|p2a: Overlord|Roost|p2a: Overlord
+|-heal|p2a: Overlord|76/100
+|-singleturn|p2a: Overlord|move: Roost
+|move|p1a: Skeledirge|Torch Song|p2a: Overlord
+|-damage|p2a: Overlord|32/100
+|-boost|p1a: Skeledirge|spa|1
+|
+|-heal|p1a: Skeledirge|88/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781426627
+|move|p2a: Overlord|Foul Play|p1a: Skeledirge
+|-supereffective|p1a: Skeledirge
+|-damage|p1a: Skeledirge|52/100
+|move|p1a: Skeledirge|Torch Song|p2a: Overlord
+|-damage|p2a: Overlord|0 fnt
+|-boost|p1a: Skeledirge|spa|1
+|faint|p2a: Overlord
+|
+|-heal|p1a: Skeledirge|58/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781426637
+|switch|p2a: Gills Exceed|Great Tusk|37/100 tox
+|turn|20
+|
+|t:|1781426641
+|-terastallize|p1a: Skeledirge|Water
+|move|p2a: Gills Exceed|Headlong Rush|p1a: Skeledirge
+|-damage|p1a: Skeledirge|7/100
+|-unboost|p2a: Gills Exceed|def|1
+|-unboost|p2a: Gills Exceed|spd|1
+|move|p1a: Skeledirge|Slack Off|p1a: Skeledirge
+|-heal|p1a: Skeledirge|57/100
+|
+|-heal|p1a: Skeledirge|63/100|[from] item: Leftovers
+|-damage|p2a: Gills Exceed|31/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1781426649
+|-end|p2a: Gills Exceed|Protosynthesis|[silent]
+|switch|p2a: Tetsuya Sawaki|Alomomola, L99, F|39/100 tox
+|move|p1a: Skeledirge|Slack Off|p1a: Skeledirge
+|-heal|p1a: Skeledirge|100/100
+|
+|-damage|p2a: Tetsuya Sawaki|33/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1781426653
+|move|p1a: Skeledirge|Torch Song|p2a: Tetsuya Sawaki
+|-resisted|p2a: Tetsuya Sawaki
+|-damage|p2a: Tetsuya Sawaki|10/100 tox
+|-boost|p1a: Skeledirge|spa|1
+|move|p2a: Tetsuya Sawaki|Mirror Coat|p1a: Skeledirge
+|-damage|p1a: Skeledirge|48/100
+|
+|-heal|p1a: Skeledirge|55/100|[from] item: Leftovers
+|-damage|p2a: Tetsuya Sawaki|0 fnt|[from] psn
+|faint|p2a: Tetsuya Sawaki
+|upkeep
+|
+|t:|1781426656
+|switch|p2a: Shining Agito|Lokix, F, shiny|100/100
+|turn|23
+|
+|t:|1781426672
+|move|p2a: Shining Agito|First Impression|p1a: Skeledirge
+|-damage|p1a: Skeledirge|2/100
+|move|p1a: Skeledirge|Torch Song|p2a: Shining Agito
+|-supereffective|p2a: Shining Agito
+|-damage|p2a: Shining Agito|0 fnt
+|-boost|p1a: Skeledirge|spa|1
+|faint|p2a: Shining Agito
+|
+|-heal|p1a: Skeledirge|8/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781426679
+|switch|p2a: Gills Exceed|Great Tusk|31/100 tox
+|turn|24
+|
+|t:|1781426684
+|move|p2a: Gills Exceed|Rapid Spin|p1a: Skeledirge
+|-damage|p1a: Skeledirge|0 fnt
+|-boost|p2a: Gills Exceed|spe|1
+|faint|p1a: Skeledirge
+|
+|-damage|p2a: Gills Exceed|25/100 tox|[from] psn
+|upkeep
+|
+|t:|1781426699
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1781426702
+|-end|p2a: Gills Exceed|Protosynthesis|[silent]
+|switch|p2a: G3-X|Iron Valiant, shiny|100/100
+|move|p1a: Ogerpon|Trailblaze|p2a: G3-X
+|-damage|p2a: G3-X|63/100
+|-boost|p1a: Ogerpon|spe|1
+|
+|upkeep
+|turn|26
+|
+|t:|1781426707
+|-terastallize|p2a: G3-X|Fairy
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: G3-X|[anim] Ivy Cudgel Water
+|-crit|p2a: G3-X
+|-damage|p2a: G3-X|0 fnt
+|faint|p2a: G3-X
+|-end|p2a: G3-X|Quark Drive|[silent]
+|
+|upkeep
+|-message|sirlsalot forfeited.
+|
+|win|testingyup
+|raw|testingyup's rating: 1623 &rarr; <strong>1639</strong><br />(+16 for winning)
+|raw|sirlsalot's rating: 1545 &rarr; <strong>1529</strong><br />(-16 for losing)
+|l|☆sirlsalot
+|player|p2|
+|l|☆testingyup
+|player|p1|

@@ -1,0 +1,515 @@
+|j|☆zylsnbb
+|j|☆firewall1234
+|t:|1781082268
+|gametype|singles
+|player|p1|zylsnbb|102|1605
+|player|p2|firewall1234|hugh|1613
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Clodsire, M|
+|poke|p1|Pecharunt|
+|poke|p1|Chesnaught, F|
+|poke|p1|Weavile, F|
+|poke|p1|Ceruledge, F|
+|poke|p1|Corviknight, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Great Tusk|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Kyurem|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by zylsnbb)
+|
+|t:|1781082294
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Weavile|Weavile, F|100/100
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|1
+|
+|t:|1781082306
+|switch|p2a: Kingambit|Kingambit, M, shiny|100/100
+|move|p1a: Weavile|Knock Off|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|83/100
+|-enditem|p2a: Kingambit|Leftovers|[from] move: Knock Off|[of] p1a: Weavile
+|
+|upkeep
+|turn|2
+|
+|t:|1781082320
+|move|p1a: Weavile|Low Kick|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|
+|upkeep
+|
+|t:|1781082326
+|switch|p2a: Hatterene|Hatterene, F, shiny|100/100
+|turn|3
+|
+|t:|1781082340
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|move|p2a: Hatterene|Nuzzle|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|93/100
+|-status|p1a: Corviknight|par
+|
+|upkeep
+|turn|4
+|
+|t:|1781082350
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Corviknight|U-turn|p2a: Slowking
+|-damage|p2a: Slowking|90/100
+|
+|t:|1781082356
+|switch|p1a: Weavile|Weavile, F|100/100|[from] U-turn
+|-ability|p1a: Weavile|Pressure
+|
+|-heal|p2a: Slowking|96/100|[from] item: Black Sludge
+|upkeep
+|turn|5
+|
+|t:|1781082369
+|move|p1a: Weavile|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|31/100
+|-enditem|p2a: Slowking|Black Sludge|[from] move: Knock Off|[of] p1a: Weavile
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781082373
+|switch|p2a: Hatterene|Hatterene, F, shiny|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781082385
+|move|p1a: Weavile|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|58/100
+|-damage|p1a: Weavile|84/100|[from] item: Rocky Helmet|[of] p2a: Hatterene
+|-enditem|p2a: Hatterene|Rocky Helmet|[from] move: Knock Off|[of] p1a: Weavile
+|move|p2a: Hatterene|Draining Kiss|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|20/100
+|-heal|p2a: Hatterene|100/100|[from] drain|[of] p1a: Weavile
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781082398
+|switch|p1a: Corviknight|Corviknight, M|93/100 par
+|move|p2a: Hatterene|Draining Kiss|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|86/100 par
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781082402
+|move|p2a: Hatterene|Psychic Noise|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|75/100 par
+|-start|p1a: Corviknight|move: Heal Block
+|cant|p1a: Corviknight|par
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781082409
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|cant|p1a: Corviknight|par
+|
+|-weather|none
+|-end|p1a: Corviknight|move: Heal Block
+|upkeep
+|turn|10
+|
+|t:|1781082420
+|move|p2a: Kyurem|Blizzard|p1a: Corviknight|[miss]
+|-miss|p2a: Kyurem|p1a: Corviknight
+|cant|p1a: Corviknight|par
+|
+|upkeep
+|turn|11
+|
+|t:|1781082431
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|move|p2a: Kyurem|Blizzard|p1a: Ceruledge|[miss]
+|-miss|p2a: Kyurem|p1a: Ceruledge
+|
+|upkeep
+|turn|12
+|
+|t:|1781082454
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|switch|p1a: Weavile|Weavile, F|20/100
+|-ability|p1a: Weavile|Pressure
+|
+|upkeep
+|turn|13
+|
+|t:|1781082463
+|-terastallize|p2a: Great Tusk|Steel
+|move|p1a: Weavile|Icicle Crash|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|86/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|-boost|p2a: Great Tusk|spe|1
+|faint|p1a: Weavile
+|
+|upkeep
+|
+|t:|1781082473
+|switch|p1a: Chesnaught|Chesnaught, F|100/100
+|turn|14
+|
+|t:|1781082481
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Hatterene|Hatterene, F, shiny|100/100
+|move|p1a: Chesnaught|Body Press|p2a: Hatterene
+|-resisted|p2a: Hatterene
+|-damage|p2a: Hatterene|91/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781082488
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Hatterene|Nuzzle|p1a: Pecharunt
+|-damage|p1a: Pecharunt|99/100
+|-status|p1a: Pecharunt|par
+|
+|upkeep
+|turn|16
+|
+|t:|1781082493
+|move|p1a: Pecharunt|Malignant Chain|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|27/100
+|move|p2a: Hatterene|Psychic Noise|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|35/100 par
+|-start|p1a: Pecharunt|move: Heal Block
+|
+|upkeep
+|turn|17
+|
+|t:|1781082503
+|switch|p2a: Slowking|Slowking-Galar, M|64/100
+|move|p1a: Pecharunt|Malignant Chain|p2a: Slowking
+|-resisted|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|47/100
+|
+|-end|p1a: Pecharunt|move: Heal Block
+|upkeep
+|turn|18
+|
+|t:|1781082512
+|cant|p1a: Pecharunt|par
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781082515
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781082519
+|move|p2a: Kyurem|Blizzard|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|faint|p1a: Pecharunt
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781082524
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|turn|20
+|
+|t:|1781082527
+|move|p2a: Kyurem|Blizzard|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|56/100
+|move|p1a: Ceruledge|Bitter Blade|p2a: Kyurem
+|-damage|p2a: Kyurem|73/100
+|-heal|p1a: Ceruledge|72/100|[from] drain|[of] p2a: Kyurem
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781082535
+|switch|p2a: Hatterene|Hatterene, F, shiny|27/100
+|move|p1a: Ceruledge|Bitter Blade|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|-heal|p1a: Ceruledge|84/100|[from] drain|[of] p2a: Hatterene
+|faint|p2a: Hatterene
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781082536
+|switch|p2a: Great Tusk|Great Tusk, tera:Steel|86/100
+|turn|22
+|inactive|zylsnbb has 120 seconds left.
+|
+|t:|1781082590
+|switch|p1a: Chesnaught|Chesnaught, F|100/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Chesnaught
+|-resisted|p1a: Chesnaught
+|-crit|p1a: Chesnaught
+|-damage|p1a: Chesnaught|74/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-damage|p2a: Great Tusk|70/100|[from] item: Rocky Helmet|[of] p1a: Chesnaught
+|
+|-weather|none
+|upkeep
+|turn|23
+|
+|t:|1781082603
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p1a: Ceruledge|Ceruledge, F|84/100
+|
+|upkeep
+|turn|24
+|
+|t:|1781082616
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Ceruledge
+|-damage|p1a: Ceruledge|47/100
+|move|p1a: Ceruledge|Bulk Up|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|1
+|-boost|p1a: Ceruledge|def|1
+|
+|upkeep
+|turn|25
+|
+|t:|1781082629
+|switch|p2a: Great Tusk|Great Tusk, tera:Steel|70/100
+|move|p1a: Ceruledge|Bitter Blade|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|-heal|p1a: Ceruledge|84/100|[from] drain|[of] p2a: Great Tusk
+|-damage|p1a: Ceruledge|68/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781082631
+|switch|p2a: Kyurem|Kyurem|73/100
+|-ability|p2a: Kyurem|Pressure
+|turn|26
+|
+|t:|1781082639
+|-terastallize|p1a: Ceruledge|Grass
+|move|p2a: Kyurem|Earth Power|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|43/100
+|move|p1a: Ceruledge|Bitter Blade|p2a: Kyurem
+|-damage|p2a: Kyurem|8/100
+|-heal|p1a: Ceruledge|79/100|[from] drain|[of] p2a: Kyurem
+|
+|upkeep
+|turn|27
+|inactive|zylsnbb has 120 seconds left.
+|
+|t:|1781082648
+|move|p2a: Kyurem|Earth Power|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|57/100
+|move|p1a: Ceruledge|Bulk Up|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|1
+|-boost|p1a: Ceruledge|def|1
+|
+|upkeep
+|turn|28
+|
+|t:|1781082653
+|move|p2a: Kyurem|Earth Power|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|34/100
+|move|p1a: Ceruledge|Bulk Up|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|1
+|-boost|p1a: Ceruledge|def|1
+|
+|upkeep
+|turn|29
+|
+|t:|1781082656
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781082658
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|30
+|
+|t:|1781082664
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Tornadus
+|-damage|p2a: Tornadus|42/100
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|upkeep
+|
+|t:|1781082670
+|switch|p1a: Clodsire|Clodsire, M|100/100
+|turn|31
+|
+|t:|1781082678
+|move|p2a: Tornadus|U-turn|p1a: Clodsire
+|-resisted|p1a: Clodsire
+|-damage|p1a: Clodsire|93/100
+|
+|t:|1781082680
+|switch|p2a: Slowking|Slowking-Galar, M|80/100|[from] U-turn
+|move|p1a: Clodsire|Earthquake|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|43/100
+|
+|-heal|p1a: Clodsire|99/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1781082691
+|move|p1a: Clodsire|Stealth Rock|p2a: Slowking
+|-sidestart|p2: firewall1234|move: Stealth Rock
+|move|p2a: Slowking|Future Sight|p1a: Clodsire
+|-start|p2a: Slowking|move: Future Sight
+|
+|-heal|p1a: Clodsire|100/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1781082705
+|move|p1a: Clodsire|Toxic|p2a: Slowking
+|-immune|p2a: Slowking
+|move|p2a: Slowking|Trick|p1a: Clodsire
+|-activate|p2a: Slowking|move: Trick|[of] p1a: Clodsire
+|-enditem|p1a: Clodsire|Leftovers|[silent]|[from] move: Trick
+|-item|p2a: Slowking|Leftovers|[from] move: Trick
+|
+|-heal|p2a: Slowking|49/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1781082716
+|switch|p1a: Corviknight|Corviknight, M|75/100 par
+|switch|p2a: Tornadus|Tornadus-Therian, M|75/100
+|-damage|p2a: Tornadus|50/100|[from] Stealth Rock
+|
+|-end|p1a: Corviknight|move: Future Sight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|60/100 par
+|upkeep
+|turn|35
+|
+|t:|1781082722
+|move|p2a: Tornadus|Heat Wave|p1a: Corviknight|[miss]
+|-miss|p2a: Tornadus|p1a: Corviknight
+|cant|p1a: Corviknight|par
+|
+|upkeep
+|turn|36
+|
+|t:|1781082728
+|switch|p1a: Clodsire|Clodsire, M|100/100
+|move|p2a: Tornadus|Knock Off|p1a: Clodsire
+|-damage|p1a: Clodsire|86/100
+|
+|upkeep
+|turn|37
+|
+|t:|1781082732
+|move|p2a: Tornadus|U-turn|p1a: Clodsire
+|-resisted|p1a: Clodsire
+|-damage|p1a: Clodsire|79/100
+|
+|t:|1781082735
+|switch|p2a: Slowking|Slowking-Galar, M|82/100|[from] U-turn
+|-damage|p2a: Slowking|70/100|[from] Stealth Rock
+|move|p1a: Clodsire|Toxic|p2a: Slowking
+|-immune|p2a: Slowking
+|
+|-heal|p2a: Slowking|76/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1781082739
+|move|p1a: Clodsire|Earthquake|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|36/100
+|move|p2a: Slowking|Future Sight|p1a: Clodsire
+|-start|p2a: Slowking|move: Future Sight
+|
+|-heal|p2a: Slowking|42/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1781082746
+|switch|p2a: Tornadus|Tornadus-Therian, M|83/100
+|-damage|p2a: Tornadus|59/100|[from] Stealth Rock
+|move|p1a: Clodsire|Toxic|p2a: Tornadus
+|-status|p2a: Tornadus|tox
+|
+|-damage|p2a: Tornadus|52/100 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1781082753
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Clodsire
+|-damage|p1a: Clodsire|58/100
+|move|p1a: Clodsire|Recover|p1a: Clodsire
+|-heal|p1a: Clodsire|100/100
+|
+|-end|p1a: Clodsire|move: Future Sight
+|-supereffective|p1a: Clodsire
+|-damage|p1a: Clodsire|52/100
+|-damage|p2a: Tornadus|40/100 tox|[from] psn
+|upkeep
+|turn|41
+|c|☆firewall1234|gg
+|-message|firewall1234 forfeited.
+|
+|win|zylsnbb
+|raw|zylsnbb's rating: 1605 &rarr; <strong>1625</strong><br />(+20 for winning)
+|raw|firewall1234's rating: 1613 &rarr; <strong>1593</strong><br />(-20 for losing)
+|l|☆firewall1234
+|player|p2|
+|l|☆zylsnbb
+|player|p1|

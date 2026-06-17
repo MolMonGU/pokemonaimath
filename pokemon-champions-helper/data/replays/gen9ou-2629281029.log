@@ -1,0 +1,190 @@
+|j|☆KurisuChestnutLab
+|j|☆King.cah
+|t:|1781115177
+|gametype|singles
+|player|p1|KurisuChestnutLab|may-contest|1542
+|player|p2|King.cah|dancer|1599
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Primarina, M|
+|poke|p1|Hippowdon, M|
+|poke|p1|Skarmory, F|
+|poke|p1|Zapdos|
+|poke|p1|Dragonite, F|
+|poke|p1|Slowking, M|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Diancie|
+|poke|p2|Hatterene, F|
+|poke|p2|Iron Hands|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Dragonite, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutLab)
+|
+|t:|1781115197
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|1
+|
+|t:|1781115201
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hippowdon|atk|1
+|move|p1a: Hippowdon|Whirlwind|p2a: Landorus
+|drag|p2a: Harichroma|Iron Hands, shiny|100/100
+|-enditem|p2a: Harichroma|Booster Energy
+|-activate|p2a: Harichroma|ability: Quark Drive|[fromitem]
+|-start|p2a: Harichroma|quarkdriveatk
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Harichroma|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1781115209
+|move|p1a: Hippowdon|Earthquake|p2a: Harichroma
+|-supereffective|p2a: Harichroma
+|-crit|p2a: Harichroma
+|-damage|p2a: Harichroma|20/100
+|move|p2a: Harichroma|Ice Punch|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|60/100
+|-status|p1a: Hippowdon|frz
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Harichroma|14/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|67/100 frz|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781115213
+|cant|p1a: Hippowdon|frz
+|move|p2a: Harichroma|Swords Dance|p2a: Harichroma
+|-boost|p2a: Harichroma|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Harichroma|8/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|73/100 frz|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781115219
+|-curestatus|p1a: Hippowdon|frz|[msg]
+|move|p1a: Hippowdon|Earthquake|p2a: Harichroma
+|-supereffective|p2a: Harichroma
+|-damage|p2a: Harichroma|0 fnt
+|faint|p2a: Harichroma
+|-end|p2a: Harichroma|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|79/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781115228
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hippowdon|atk|1
+|turn|5
+|
+|t:|1781115232
+|switch|p1a: Primarina|Primarina, M|100/100
+|move|p2a: Landorus|Taunt|p1a: Primarina
+|-start|p1a: Primarina|move: Taunt
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1781115235
+|move|p2a: Landorus|Stealth Rock|p1a: Primarina
+|-sidestart|p1: KurisuChestnutLab|move: Stealth Rock
+|move|p1a: Primarina|Moonblast|p2a: Landorus
+|-damage|p2a: Landorus|40/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781115243
+|move|p2a: Landorus|Earth Power|p1a: Primarina
+|-damage|p1a: Primarina|82/100
+|move|p1a: Primarina|Moonblast|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-end|p1a: Primarina|move: Taunt
+|upkeep
+|
+|t:|1781115246
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|8
+|
+|t:|1781115249
+|move|p1a: Primarina|Moonblast|p2a: Hatterene
+|-damage|p2a: Hatterene|43/100
+|-unboost|p2a: Hatterene|spa|1
+|move|p2a: Hatterene|Trick Room|p2a: Hatterene
+|-fieldstart|move: Trick Room|[of] p2a: Hatterene
+|
+|upkeep
+|turn|9
+|
+|t:|1781115256
+|move|p2a: Hatterene|Mystical Fire|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|75/100
+|-unboost|p1a: Primarina|spa|1
+|-damage|p2a: Hatterene|33/100|[from] item: Life Orb
+|move|p1a: Primarina|Moonblast|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781115259
+|switch|p2a: Princess|Diancie, shiny|100/100
+|turn|10
+|
+|t:|1781115267
+|move|p2a: Princess|Earth Power|p1a: Primarina
+|-damage|p1a: Primarina|59/100
+|move|p1a: Primarina|Surf|p2a: Princess
+|-supereffective|p2a: Princess
+|-damage|p2a: Princess|47/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781115271
+|move|p2a: Princess|Meteor Beam||[still]
+|-prepare|p2a: Princess|Meteor Beam
+|-boost|p2a: Princess|spa|1
+|-enditem|p2a: Princess|Power Herb
+|-anim|p2a: Princess|Meteor Beam|p1a: Primarina|[miss]
+|-miss|p2a: Princess|p1a: Primarina
+|move|p1a: Primarina|Surf|p2a: Princess
+|-supereffective|p2a: Princess
+|-damage|p2a: Princess|0 fnt
+|faint|p2a: Princess
+|
+|upkeep
+|-message|King.cah forfeited.
+|
+|win|KurisuChestnutLab
+|raw|KurisuChestnutLab's rating: 1542 &rarr; <strong>1565</strong><br />(+23 for winning)
+|raw|King.cah's rating: 1599 &rarr; <strong>1576</strong><br />(-23 for losing)
+|l|☆King.cah
+|player|p2|

@@ -1,0 +1,217 @@
+|j|☆5th Floor Atrium
+|j|☆winslowyoudog
+|t:|1781047654
+|gametype|singles
+|player|p1|5th Floor Atrium|169|1617
+|player|p2|winslowyoudog|265|1595
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Rillaboom, F|
+|poke|p1|Conkeldurr, F|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, F|
+|poke|p1|Alomomola, M|
+|poke|p1|Dragapult, F|
+|poke|p2|Slowbro-Galar, F|
+|poke|p2|Indeedee, M|
+|poke|p2|Armarouge, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Iron Treads|
+|poke|p2|Hawlucha, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by winslowyoudog)
+|
+|t:|1781047675
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|switch|p2a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|1
+|
+|t:|1781047687
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|
+|upkeep
+|turn|2
+|j| TheSacredJackal⨕
+|
+|t:|1781047698
+|move|p1a: Iron Treads|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|67/100
+|-enditem|p2a: Hatterene|Eject Button
+|
+|t:|1781047706
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p2a: Hawlucha|Psychic Seed
+|-boost|p2a: Hawlucha|spd|1|[from] item: Psychic Seed
+|
+|upkeep
+|turn|3
+|
+|t:|1781047717
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1781047734
+|move|p2a: Hawlucha|Acrobatics|p1a: Alomomola
+|-crit|p1a: Alomomola
+|-damage|p1a: Alomomola|12/100
+|move|p1a: Alomomola|Tickle|p2a: Hawlucha
+|-unboost|p2a: Hawlucha|atk|1
+|-unboost|p2a: Hawlucha|def|1
+|
+|upkeep
+|turn|5
+|
+|t:|1781047745
+|move|p2a: Hawlucha|Acrobatics|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|faint|p1a: Alomomola
+|
+|upkeep
+|
+|t:|1781047747
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|6
+|
+|t:|1781047751
+|move|p2a: Hawlucha|Acrobatics|p1a: Dragapult
+|-damage|p1a: Dragapult|4/100
+|move|p1a: Dragapult|Draco Meteor|p2a: Hawlucha
+|-damage|p2a: Hawlucha|25/100
+|-unboost|p1a: Dragapult|spa|2
+|
+|upkeep
+|turn|7
+|
+|t:|1781047760
+|move|p2a: Hawlucha|Acrobatics|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1781047770
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|turn|8
+|
+|t:|1781047774
+|move|p2a: Hawlucha|Close Combat|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1781047787
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|9
+|
+|t:|1781047794
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-item|p2a: Iron Treads|Air Balloon
+|move|p1a: Rillaboom|Grassy Glide|p2a: Iron Treads
+|-damage|p2a: Iron Treads|49/100
+|-enditem|p2a: Iron Treads|Air Balloon
+|
+|-heal|p2a: Iron Treads|55/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1781047802
+|-terastallize|p1a: Rillaboom|Grass
+|move|p1a: Rillaboom|Grassy Glide|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781047806
+|switch|p2a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|11
+|
+|t:|1781047813
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|switch|p2a: Hatterene|Hatterene, F|67/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781047822
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Hatterene
+|-damage|p2a: Hatterene|21/100
+|move|p2a: Hatterene|Healing Wish|p2a: Hatterene
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781047826
+|switch|p2a: Hawlucha|Hawlucha, F|25/100
+|-heal|p2a: Hawlucha|100/100|[from] move: Healing Wish
+|turn|13
+|
+|t:|1781047832
+|move|p2a: Hawlucha|Close Combat|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|c| TheSacredJackal⨕|damn
+|
+|t:|1781047835
+|switch|p1a: Conkeldurr|Conkeldurr, F|100/100
+|turn|14
+|
+|t:|1781047844
+|move|p2a: Hawlucha|Acrobatics|p1a: Conkeldurr
+|-supereffective|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|1/100
+|move|p1a: Conkeldurr|Facade|p2a: Hawlucha
+|-damage|p2a: Hawlucha|44/100
+|
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|15
+|c|☆5th Floor Atrium|gg
+|-message|5th Floor Atrium forfeited.
+|
+|win|winslowyoudog
+|raw|5th Floor Atrium's rating: 1617 &rarr; <strong>1596</strong><br />(-21 for losing)
+|raw|winslowyoudog's rating: 1595 &rarr; <strong>1616</strong><br />(+21 for winning)
+|l|☆5th Floor Atrium
+|player|p1|
+|l|☆winslowyoudog
+|player|p2|
+|l| TheSacredJackal⨕

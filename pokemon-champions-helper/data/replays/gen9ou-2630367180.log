@@ -1,0 +1,478 @@
+|j|☆Klopple
+|j|‽Bring it on mon
+|t:|1781245398
+|gametype|singles
+|player|p1|Klopple|sailor|1507
+|player|p2|Bring it on mon|galacticgruntf|1676
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Arboliva, F|
+|poke|p1|Gliscor, M|
+|poke|p1|Iron Crown|
+|poke|p1|Zamazenta-*|
+|poke|p1|Hatterene, F|
+|poke|p1|Dragonite, M|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Klefki, M|
+|poke|p2|Maushold-Four|
+|poke|p2|Okidogi, M|
+|poke|p2|Blaziken, M|
+|poke|p2|Latias, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Bring it on mon)
+|
+|t:|1781245417
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|switch|p2a: Klefki|Klefki, M|100/100
+|turn|1
+|
+|t:|1781245423
+|move|p2a: Klefki|Light Screen|p2a: Klefki
+|-sidestart|p2: Bring it on mon|move: Light Screen
+|move|p1a: Iron Crown|Future Sight|p2a: Klefki
+|-start|p1a: Iron Crown|move: Future Sight
+|
+|upkeep
+|turn|2
+|
+|t:|1781245430
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|move|p2a: Klefki|Reflect|p2a: Klefki
+|-sidestart|p2: Bring it on mon|Reflect
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|3
+|
+|t:|1781245436
+|switch|p2a: Latias|Latias, F|100/100
+|move|p1a: Gliscor|Stealth Rock|p2a: Latias
+|-sidestart|p2: Bring it on mon|move: Stealth Rock
+|
+|-end|p2a: Latias|move: Future Sight
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|88/100
+|upkeep
+|turn|4
+|
+|t:|1781245449
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|-terastallize|p2a: Latias|Steel
+|move|p2a: Latias|Agility|p2a: Latias
+|-boost|p2a: Latias|spe|2
+|
+|upkeep
+|turn|5
+|
+|t:|1781245456
+|move|p2a: Latias|Stored Power|p1a: Dragonite
+|-damage|p1a: Dragonite|88/100
+|move|p1a: Dragonite|Dragon Tail|p2a: Latias
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|79/100
+|drag|p2a: Ninetales|Ninetales-Alola, M|100/100
+|-damage|p2a: Ninetales|76/100|[from] Stealth Rock
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781245463
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: Bring it on mon|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781245473
+|switch|p2a: Maushold|Maushold-Four|100/100
+|-damage|p2a: Maushold|88/100|[from] Stealth Rock
+|move|p1a: Iron Crown|Future Sight|p2a: Maushold
+|-start|p1a: Iron Crown|move: Future Sight
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781245485
+|move|p1a: Iron Crown|Volt Switch|p2a: Maushold
+|-damage|p2a: Maushold|72/100
+|
+|t:|1781245488
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Hatterene|Hatterene, F|100/100|[from] Volt Switch
+|move|p2a: Maushold|Tidy Up|p2a: Maushold
+|-sideend|p2: Bring it on mon|Stealth Rock
+|-activate|p2a: Maushold|move: Tidy Up
+|-boost|p2a: Maushold|atk|1
+|-boost|p2a: Maushold|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|-sideend|p2: Bring it on mon|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1781245499
+|move|p2a: Maushold|Population Bomb|p1a: Hatterene
+|-damage|p1a: Hatterene|86/100
+|-damage|p2a: Maushold|56/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|-damage|p1a: Hatterene|72/100
+|-damage|p2a: Maushold|39/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|-damage|p1a: Hatterene|58/100
+|-damage|p2a: Maushold|23/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|-damage|p1a: Hatterene|43/100
+|-damage|p2a: Maushold|7/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|-damage|p1a: Hatterene|28/100
+|-damage|p2a: Maushold|0 fnt|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|faint|p2a: Maushold
+|-hitcount|p1a: Hatterene|5
+|move|p1a: Hatterene|Nuzzle|p2: Maushold|[notarget]
+|-fail|p1a: Hatterene
+|
+|-weather|none
+|-hint|Future Sight did not hit because the target is fainted.
+|-sideend|p2: Bring it on mon|Reflect
+|upkeep
+|
+|t:|1781245507
+|switch|p2a: Okidogi|Okidogi, M|100/100
+|turn|10
+|
+|t:|1781245523
+|move|p2a: Okidogi|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-damage|p2a: Okidogi|84/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|-enditem|p1a: Hatterene|Rocky Helmet|[from] move: Knock Off|[of] p2a: Okidogi
+|faint|p1a: Hatterene
+|
+|-heal|p2a: Okidogi|90/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781245528
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|turn|11
+|
+|t:|1781245532
+|move|p1a: Iron Crown|Volt Switch|p2a: Okidogi
+|-damage|p2a: Okidogi|78/100
+|
+|t:|1781245535
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Gliscor|Gliscor, M|100/100 tox|[from] Volt Switch
+|move|p2a: Okidogi|Knock Off|p1a: Gliscor
+|-damage|p1a: Gliscor|71/100 tox
+|-enditem|p1a: Gliscor|Toxic Orb|[from] move: Knock Off|[of] p2a: Okidogi
+|
+|-heal|p2a: Okidogi|84/100|[from] item: Leftovers
+|-heal|p1a: Gliscor|83/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|12
+|
+|t:|1781245542
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|move|p2a: Okidogi|Bulk Up|p2a: Okidogi
+|-boost|p2a: Okidogi|atk|1
+|-boost|p2a: Okidogi|def|1
+|
+|-heal|p2a: Okidogi|90/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781245546
+|move|p1a: Iron Crown|Psychic Noise|p2a: Okidogi
+|-supereffective|p2a: Okidogi
+|-damage|p2a: Okidogi|7/100
+|-start|p2a: Okidogi|move: Heal Block
+|move|p2a: Okidogi|Knock Off|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|-enditem|p1a: Iron Crown|Assault Vest|[from] move: Knock Off|[of] p2a: Okidogi
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|-sideend|p2: Bring it on mon|move: Aurora Veil
+|upkeep
+|
+|t:|1781245566
+|switch|p1a: Dragonite|Dragonite, M|88/100
+|turn|14
+|
+|t:|1781245570
+|move|p1a: Dragonite|Extreme Speed|p2a: Okidogi
+|-damage|p2a: Okidogi|0 fnt
+|faint|p2a: Okidogi
+|
+|upkeep
+|
+|t:|1781245573
+|switch|p2a: Ninetales|Ninetales-Alola, M|76/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|15
+|
+|t:|1781245585
+|switch|p1a: Arboliva|Arboliva, F|100/100
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: Bring it on mon|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781245591
+|move|p2a: Ninetales|Freeze-Dry|p1a: Arboliva
+|-supereffective|p1a: Arboliva
+|-damage|p1a: Arboliva|67/100
+|move|p1a: Arboliva|Energy Ball|p2a: Ninetales
+|-crit|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781245597
+|switch|p2a: Blaziken|Blaziken, M|100/100
+|turn|17
+|
+|t:|1781245603
+|move|p2a: Blaziken|Focus Energy|p2a: Blaziken
+|-start|p2a: Blaziken|move: Focus Energy
+|move|p1a: Arboliva|Alluring Voice|p2a: Blaziken
+|-damage|p2a: Blaziken|77/100
+|
+|-weather|Snowscape|[upkeep]
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|18
+|
+|t:|1781245610
+|move|p1a: Arboliva|Endure|p1a: Arboliva
+|-singleturn|p1a: Arboliva|move: Endure
+|move|p2a: Blaziken|Overheat|p1a: Arboliva
+|-supereffective|p1a: Arboliva
+|-crit|p1a: Arboliva
+|-activate|p1a: Arboliva|move: Endure
+|-damage|p1a: Arboliva|1/100
+|-unboost|p2a: Blaziken|spa|2
+|
+|-weather|Snowscape|[upkeep]
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|19
+|-enditem|p1a: Arboliva|Custap Berry|[eat]
+|-activate|p1a: Arboliva|item: Custap Berry|[consumed]
+|
+|t:|1781245617
+|move|p1a: Arboliva|Earth Power|p2a: Blaziken
+|-supereffective|p2a: Blaziken
+|-damage|p2a: Blaziken|29/100
+|move|p2a: Blaziken|Overheat|p1a: Arboliva
+|-supereffective|p1a: Arboliva
+|-crit|p1a: Arboliva
+|-damage|p1a: Arboliva|0 fnt
+|-unboost|p2a: Blaziken|spa|2
+|faint|p1a: Arboliva
+|
+|-weather|none
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1781245630
+|switch|p1a: Dragonite|Dragonite, M|88/100
+|turn|20
+|
+|t:|1781245633
+|-terastallize|p1a: Dragonite|Normal
+|move|p1a: Dragonite|Extreme Speed|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|upkeep
+|
+|t:|1781245639
+|switch|p2a: Latias|Latias, F, tera:Steel|79/100
+|turn|21
+|
+|t:|1781245643
+|switch|p2a: Klefki|Klefki, M|100/100
+|move|p1a: Dragonite|Dragon Tail|p2a: Klefki
+|-immune|p2a: Klefki
+|
+|upkeep
+|turn|22
+|
+|t:|1781245650
+|move|p2a: Klefki|Reflect|p2a: Klefki
+|-sidestart|p2: Bring it on mon|Reflect
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|100/100
+|
+|-sideend|p2: Bring it on mon|move: Aurora Veil
+|upkeep
+|turn|23
+|
+|t:|1781245653
+|switch|p1a: Gliscor|Gliscor, M|83/100 tox
+|move|p2a: Klefki|Spikes|p1a: Gliscor
+|-sidestart|p1: Klopple|Spikes
+|
+|-heal|p1a: Gliscor|96/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|24
+|
+|t:|1781245660
+|move|p2a: Klefki|Spikes|p1a: Gliscor
+|-sidestart|p1: Klopple|Spikes
+|move|p1a: Gliscor|Knock Off|p2a: Klefki
+|-resisted|p2a: Klefki
+|-damage|p2a: Klefki|95/100
+|-enditem|p2a: Klefki|Light Clay|[from] move: Knock Off|[of] p1a: Gliscor
+|
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|25
+|
+|t:|1781245666
+|move|p2a: Klefki|Spikes|p1a: Gliscor
+|-sidestart|p1: Klopple|Spikes
+|move|p1a: Gliscor|Stealth Rock|p2a: Klefki
+|-sidestart|p2: Bring it on mon|move: Stealth Rock
+|
+|upkeep
+|turn|26
+|
+|t:|1781245672
+|switch|p1a: Dragonite|Dragonite, M, tera:Normal|100/100
+|move|p2a: Klefki|Light Screen|p2a: Klefki
+|-sidestart|p2: Bring it on mon|move: Light Screen
+|
+|upkeep
+|turn|27
+|
+|t:|1781245685
+|move|p2a: Klefki|Thunder Wave|p1a: Dragonite
+|-status|p1a: Dragonite|par
+|move|p1a: Dragonite|Earthquake|p2a: Klefki
+|-supereffective|p2a: Klefki
+|-damage|p2a: Klefki|52/100
+|
+|upkeep
+|turn|28
+|
+|t:|1781245701
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-damage|p1a: Zamazenta|76/100|[from] Spikes
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Klefki|Thunder Wave|p1a: Zamazenta|[miss]
+|-miss|p2a: Klefki|p1a: Zamazenta
+|
+|upkeep
+|turn|29
+|
+|t:|1781245712
+|switch|p1a: Gliscor|Gliscor, M|100/100 tox
+|move|p2a: Klefki|Thunder Wave|p1a: Gliscor
+|-immune|p1a: Gliscor
+|
+|-sideend|p2: Bring it on mon|Reflect
+|upkeep
+|turn|30
+|
+|t:|1781245718
+|move|p2a: Klefki|Reflect|p2a: Klefki
+|-sidestart|p2: Bring it on mon|Reflect
+|move|p1a: Gliscor|Earthquake|p2a: Klefki
+|-supereffective|p2a: Klefki
+|-damage|p2a: Klefki|20/100
+|
+|-sideend|p2: Bring it on mon|move: Light Screen
+|upkeep
+|turn|31
+|
+|t:|1781245728
+|move|p2a: Klefki|Light Screen|p2a: Klefki
+|-sidestart|p2: Bring it on mon|move: Light Screen
+|move|p1a: Gliscor|Earthquake|p2a: Klefki
+|-supereffective|p2a: Klefki
+|-damage|p2a: Klefki|0 fnt
+|faint|p2a: Klefki
+|
+|upkeep
+|
+|t:|1781245729
+|switch|p2a: Latias|Latias, F, tera:Steel|79/100
+|-damage|p2a: Latias|73/100|[from] Stealth Rock
+|turn|32
+|
+|t:|1781245732
+|switch|p1a: Zamazenta|Zamazenta|76/100
+|-damage|p1a: Zamazenta|51/100|[from] Spikes
+|move|p2a: Latias|Agility|p2a: Latias
+|-boost|p2a: Latias|spe|2
+|
+|upkeep
+|turn|33
+|
+|t:|1781245741
+|move|p2a: Latias|Aura Sphere|p1a: Zamazenta
+|-crit|p1a: Zamazenta
+|-damage|p1a: Zamazenta|17/100
+|move|p1a: Zamazenta|Close Combat|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|10/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|-enditem|p2a: Latias|Weakness Policy
+|-boost|p2a: Latias|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Latias|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|34
+|
+|t:|1781245749
+|move|p2a: Latias|Stored Power|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|-sideend|p2: Bring it on mon|Reflect
+|upkeep
+|
+|t:|1781245752
+|switch|p1a: Dragonite|Dragonite, M, tera:Normal|100/100 par
+|turn|35
+|
+|t:|1781245754
+|move|p1a: Dragonite|Extreme Speed|p2a: Latias
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|0 fnt
+|faint|p2a: Latias
+|
+|win|Klopple
+|raw|Klopple's rating: 1507 &rarr; <strong>1536</strong><br />(+29 for winning)
+|raw|Bring it on mon's rating: 1665 &rarr; <strong>1636</strong><br />(-29 for losing)
+|l|☆Klopple
+|player|p1|
+|l|‽Bring it on mon
+|player|p2|

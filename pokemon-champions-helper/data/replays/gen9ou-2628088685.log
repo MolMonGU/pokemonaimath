@@ -1,0 +1,309 @@
+|j|☆lemontheheavens
+|j|☆DarkG99
+|t:|1780974037
+|gametype|singles
+|player|p1|lemontheheavens|266|1637
+|player|p2|DarkG99|karen|1644
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ting-Lu|
+|poke|p1|Dragapult, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Alomomola, M|
+|poke|p1|Torterra, M|
+|poke|p2|Kommo-o, M|
+|poke|p2|Sinistcha-Masterpiece|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Heatran, M|
+|poke|p2|Maushold-Four|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|
+|t:|1780974063
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|switch|p2a: Maushold|Maushold-Four|100/100
+|turn|1
+|
+|t:|1780974069
+|move|p2a: Maushold|Bite|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|38/100
+|move|p1a: Dragapult|Draco Meteor|p2a: Maushold
+|-damage|p2a: Maushold|0 fnt
+|-unboost|p1a: Dragapult|spa|2
+|faint|p2a: Maushold
+|
+|upkeep
+|
+|t:|1780974078
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|2
+|
+|t:|1780974087
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1780974094
+|move|p1a: Hoopa|Gunk Shot|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-crit|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1780974097
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|4
+|
+|t:|1780974101
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Heatran|Will-O-Wisp|p1a: Alomomola
+|-status|p1a: Alomomola|brn
+|
+|-damage|p1a: Alomomola|94/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1780974104
+|move|p2a: Heatran|Stealth Rock|p1a: Alomomola
+|-sidestart|p1: lemontheheavens|move: Stealth Rock
+|move|p1a: Alomomola|Scald|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|83/100
+|
+|-heal|p2a: Heatran|90/100|[from] item: Leftovers
+|-damage|p1a: Alomomola|88/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1780974108
+|move|p2a: Heatran|Magma Storm|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|63/100 brn
+|-activate|p1a: Alomomola|move: Magma Storm|[of] p2a: Heatran
+|move|p1a: Alomomola|Flip Turn|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|77/100
+|
+|t:|1780974111
+|switch|p1a: Ting-Lu|Ting-Lu|100/100|[from] Flip Turn
+|-damage|p1a: Ting-Lu|94/100|[from] Stealth Rock
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|
+|-heal|p2a: Heatran|83/100|[from] item: Leftovers
+|-heal|p1a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|j| MushTown
+|
+|t:|1780974116
+|move|p2a: Heatran|Will-O-Wisp|p1a: Ting-Lu
+|-status|p1a: Ting-Lu|brn
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Heatran
+|-sidestart|p2: DarkG99|move: Stealth Rock
+|
+|-heal|p2a: Heatran|89/100|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|94/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1780974118
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-damage|p2a: Ninetales|76/100|[from] Stealth Rock
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Ting-Lu|Spikes|p2a: Ninetales
+|-sidestart|p2: DarkG99|Spikes
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|94/100 brn|[from] brn
+|upkeep
+|turn|9
+|j| nemesiiis
+|
+|t:|1780974122
+|move|p2a: Ninetales|Blizzard|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|62/100 brn
+|move|p1a: Ting-Lu|Spikes|p2a: Ninetales
+|-sidestart|p2: DarkG99|Spikes
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|69/100 brn|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|62/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1780974125
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: DarkG99|move: Aurora Veil
+|move|p1a: Ting-Lu|Spikes|p2a: Ninetales
+|-sidestart|p2: DarkG99|Spikes
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|69/100 brn|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|62/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1780974130
+|move|p2a: Ninetales|Blizzard|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|26/100 brn
+|move|p1a: Ting-Lu|Whirlwind|p2a: Ninetales
+|drag|p2a: Kommo-o|Kommo-o, M|100/100
+|-damage|p2a: Kommo-o|94/100|[from] Stealth Rock
+|-damage|p2a: Kommo-o|70/100|[from] Spikes
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|32/100 brn|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|26/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1780974135
+|switch|p1a: Alomomola|Alomomola, M|97/100 brn
+|move|p2a: Kommo-o|Drain Punch|p1a: Alomomola
+|-damage|p1a: Alomomola|83/100 brn
+|-heal|p2a: Kommo-o|83/100|[from] drain|[of] p1a: Alomomola
+|
+|-weather|none
+|-damage|p1a: Alomomola|76/100 brn|[from] brn
+|upkeep
+|turn|13
+|j| kirbyphoenix25
+|
+|t:|1780974139
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|50/100
+|-enditem|p2a: Kommo-o|Sitrus Berry|[eat]
+|-heal|p2a: Kommo-o|74/100|[from] item: Sitrus Berry
+|move|p1a: Alomomola|Scald|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-damage|p2a: Kommo-o|72/100
+|
+|-damage|p1a: Alomomola|70/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1780974145
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|39/100
+|move|p1a: Alomomola|Flip Turn|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-damage|p2a: Kommo-o|38/100
+|
+|t:|1780974152
+|switch|p1a: Ting-Lu|Ting-Lu|26/100 brn|[from] Flip Turn
+|-damage|p1a: Ting-Lu|20/100 brn|[from] Stealth Rock
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|
+|-heal|p1a: Ting-Lu|26/100 brn|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|20/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1780974192
+|switch|p1a: Dragapult|Dragapult, F|38/100
+|-damage|p1a: Dragapult|26/100|[from] Stealth Rock
+|move|p2a: Kommo-o|Flamethrower|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lemontheheavens)
+|
+|t:|1780974218
+|switch|p1a: Ting-Lu|Ting-Lu|20/100 brn
+|-damage|p1a: Ting-Lu|14/100 brn|[from] Stealth Rock
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|16
+|
+|t:|1780974225
+|move|p2a: Kommo-o|Flamethrower|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1780974231
+|switch|p1a: Alomomola|Alomomola, M|100/100 brn
+|turn|17
+|
+|t:|1780974248
+|-terastallize|p2a: Kommo-o|Normal
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Kommo-o|Boomburst|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-damage|p1a: Alomomola|94/100 brn|[from] brn
+|-sideend|p2: DarkG99|move: Aurora Veil
+|upkeep
+|turn|18
+|
+|t:|1780974256
+|move|p2a: Kommo-o|Boomburst|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|faint|p1a: Alomomola
+|
+|upkeep
+|
+|t:|1780974261
+|switch|p1a: Torterra|Torterra, M|100/100
+|-damage|p1a: Torterra|94/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1780974268
+|-terastallize|p1a: Torterra|Rock
+|move|p2a: Kommo-o|Boomburst|p1a: Torterra
+|-resisted|p1a: Torterra
+|-damage|p1a: Torterra|23/100
+|move|p1a: Torterra|Headlong Rush|p2a: Kommo-o
+|-damage|p2a: Kommo-o|6/100
+|-unboost|p1a: Torterra|def|1
+|-unboost|p1a: Torterra|spd|1
+|
+|upkeep
+|turn|20
+|-message|lemontheheavens forfeited.
+|
+|win|DarkG99
+|raw|lemontheheavens's rating: 1637 &rarr; <strong>1617</strong><br />(-20 for losing)
+|raw|DarkG99's rating: 1644 &rarr; <strong>1664</strong><br />(+20 for winning)
+|l|☆lemontheheavens
+|player|p1|
+|l| MushTown
+|l|☆DarkG99
+|player|p2|
+|l| nemesiiis

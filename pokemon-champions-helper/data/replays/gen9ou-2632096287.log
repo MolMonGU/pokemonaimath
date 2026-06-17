@@ -1,0 +1,363 @@
+|j|☆phreshoatmeal
+|j|☆jd2sleepy
+|t:|1781475593
+|gametype|singles
+|player|p1|phreshoatmeal|265|1631
+|player|p2|jd2sleepy|brock|1660
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Excadrill, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Hippowdon, F|
+|poke|p1|Toxapex, F|
+|poke|p1|Iron Valiant|
+|poke|p2|Excadrill, F|
+|poke|p2|Gholdengo|
+|poke|p2|Kingambit, F|
+|poke|p2|Zoroark-Hisui, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|
+|t:|1781475609
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|switch|p2a: OnThatExca|Excadrill, F|100/100
+|-ability|p2a: OnThatExca|Mold Breaker
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|1
+|
+|t:|1781475636
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: OnThatExca|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|44/100
+|-enditem|p1a: Toxapex|Eject Button
+|
+|t:|1781475646
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781475652
+|move|p1a: Excadrill|Iron Head|p2a: OnThatExca
+|-resisted|p2a: OnThatExca
+|-damage|p2a: OnThatExca|46/100
+|move|p2a: OnThatExca|Earthquake|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781475655
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|turn|3
+|
+|t:|1781475663
+|move|p1a: Iron Valiant|Knock Off|p2a: OnThatExca
+|-damage|p2a: OnThatExca|0 fnt
+|-enditem|p2a: OnThatExca|Focus Sash|[from] move: Knock Off|[of] p1a: Iron Valiant
+|faint|p2a: OnThatExca
+|-damage|p1a: Iron Valiant|91/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Valiant|85/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781475676
+|switch|p2a: Dengos Domain|Gholdengo|100/100
+|turn|4
+|
+|t:|1781475699
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Toxapex|Toxapex, F|78/100
+|move|p2a: Dengos Domain|Make It Rain|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|52/100
+|-unboost|p2a: Dengos Domain|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|46/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1781475716
+|move|p2a: Dengos Domain|Make It Rain|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|29/100
+|-unboost|p2a: Dengos Domain|spa|1
+|move|p1a: Toxapex|Liquidation|p2a: Dengos Domain
+|-damage|p2a: Dengos Domain|77/100
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1781475726
+|switch|p2a: Cudge Judy|Ogerpon-Wellspring, F|100/100
+|switch|p1a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Cudge Judy|95/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1781475739
+|move|p2a: Cudge Judy|Power Whip|p1a: Hippowdon|[miss]
+|-miss|p2a: Cudge Judy|p1a: Hippowdon
+|move|p1a: Hippowdon|Stealth Rock|p2a: Cudge Judy
+|-sidestart|p2: jd2sleepy|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Cudge Judy|89/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1781475744
+|move|p2a: Cudge Judy|Power Whip|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|15/100
+|-enditem|p1a: Hippowdon|Eject Button
+|
+|t:|1781475747
+|switch|p1a: Iron Valiant|Iron Valiant|85/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Valiant|78/100|[from] Sandstorm
+|-damage|p2a: Cudge Judy|83/100|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1781475758
+|-terastallize|p1a: Iron Valiant|Stellar
+|move|p1a: Iron Valiant|Moonblast|p2a: Cudge Judy
+|-damage|p2a: Cudge Judy|0 fnt
+|faint|p2a: Cudge Judy
+|-damage|p1a: Iron Valiant|69/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Valiant|62/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781475774
+|switch|p2a: Dengos Domain|Gholdengo|77/100
+|-damage|p2a: Dengos Domain|71/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1781475803
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Toxapex|Toxapex, F|62/100
+|move|p2a: Dengos Domain|Make It Rain|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|22/100
+|-unboost|p2a: Dengos Domain|spa|1
+|
+|-weather|none
+|upkeep
+|turn|11
+|
+|t:|1781475813
+|switch|p1a: Hippowdon|Hippowdon, F|15/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Dengos Domain|Make It Rain|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|-unboost|p2a: Dengos Domain|spa|1
+|faint|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781475842
+|switch|p1a: Toxapex|Toxapex, F|55/100
+|turn|12
+|
+|t:|1781475853
+|move|p2a: Dengos Domain|Make It Rain|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|42/100
+|-unboost|p2a: Dengos Domain|spa|1
+|move|p1a: Toxapex|Liquidation|p2a: Dengos Domain
+|-damage|p2a: Dengos Domain|50/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|36/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1781475859
+|move|p2a: Dengos Domain|Make It Rain|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|26/100
+|-unboost|p2a: Dengos Domain|spa|1
+|move|p1a: Toxapex|Liquidation|p2a: Dengos Domain
+|-damage|p2a: Dengos Domain|26/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|20/100|[from] Sandstorm
+|upkeep
+|turn|14
+|
+|t:|1781475904
+|move|p2a: Dengos Domain|Make It Rain|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|11/100
+|-unboost|p2a: Dengos Domain|spa|1
+|move|p1a: Toxapex|Liquidation|p2a: Dengos Domain
+|-damage|p2a: Dengos Domain|5/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|5/100|[from] Sandstorm
+|upkeep
+|turn|15
+|
+|t:|1781475916
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|move|p2a: Dengos Domain|Make It Rain|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|18/100
+|-unboost|p2a: Dengos Domain|spa|1
+|-enditem|p1a: Tyranitar|Eject Button
+|
+|t:|1781475926
+|switch|p1a: Toxapex|Toxapex, F|38/100
+|
+|-weather|none
+|upkeep
+|turn|16
+|
+|t:|1781475935
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|-activate|p2a: Dengos Domain|move: Struggle
+|move|p2a: Dengos Domain|Struggle|p1a: Hatterene
+|-damage|p1a: Hatterene|96/100
+|-damage|p2a: Dengos Domain|0 fnt|[from] recoil
+|faint|p2a: Dengos Domain
+|
+|-heal|p1a: Hatterene|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781475937
+|switch|p2a: 平和|Kingambit, F|100/100
+|-damage|p2a: 平和|94/100|[from] Stealth Rock
+|-activate|p2a: 平和|ability: Supreme Overlord
+|-start|p2a: 平和|fallen3|[silent]
+|-item|p2a: 平和|Air Balloon
+|turn|17
+|
+|t:|1781475963
+|switch|p1a: Toxapex|Toxapex, F|71/100
+|move|p2a: 平和|Iron Head|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|56/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781475982
+|move|p2a: 平和|Swords Dance|p2a: 平和
+|-boost|p2a: 平和|atk|2
+|move|p1a: Toxapex|Pain Split|p2a: 平和
+|-sethp|p2a: 平和|72/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Toxapex|81/100|[from] move: Pain Split
+|
+|upkeep
+|turn|19
+|
+|t:|1781475984
+|move|p2a: 平和|Kowtow Cleave|p1a: Toxapex
+|-damage|p1a: Toxapex|11/100
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|20
+|
+|t:|1781475991
+|switch|p1a: Tyranitar|Tyranitar, F|18/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: 平和|Iron Head|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781475998
+|switch|p1a: Iron Valiant|Iron Valiant, tera:Stellar|62/100
+|turn|21
+|
+|t:|1781476041
+|move|p1a: Iron Valiant|Moonblast|p2a: 平和
+|-damage|p2a: 平和|7/100
+|-enditem|p2a: 平和|Air Balloon
+|-damage|p1a: Iron Valiant|53/100|[from] item: Life Orb
+|move|p2a: 平和|Iron Head|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781476045
+|switch|p1a: Toxapex|Toxapex, F|44/100
+|turn|22
+|
+|t:|1781476055
+|move|p2a: 平和|Kowtow Cleave|p1a: Toxapex
+|-damage|p1a: Toxapex|6/100
+|move|p1a: Toxapex|Liquidation|p2a: 平和
+|-damage|p2a: 平和|0 fnt
+|faint|p2a: 平和
+|-end|p2a: 平和|fallen3|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|0 fnt|[from] Sandstorm
+|faint|p1a: Toxapex
+|upkeep
+|
+|t:|1781476058
+|switch|p2a: Valiant Effort|Iron Valiant|100/100
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|-damage|p2a: Valiant Effort|88/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1781476060
+|-terastallize|p2a: Valiant Effort|Ghost
+|move|p2a: Valiant Effort|Poltergeist|p1a: Hatterene
+|-activate|p1a: Hatterene|move: Poltergeist|Leftovers
+|-supereffective|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|-damage|p2a: Valiant Effort|78/100|[from] item: Life Orb
+|
+|win|jd2sleepy
+|raw|phreshoatmeal's rating: 1631 &rarr; <strong>1613</strong><br />(-18 for losing)
+|raw|jd2sleepy's rating: 1660 &rarr; <strong>1678</strong><br />(+18 for winning)
+|l|☆phreshoatmeal
+|player|p1|
+|l|☆jd2sleepy
+|player|p2|

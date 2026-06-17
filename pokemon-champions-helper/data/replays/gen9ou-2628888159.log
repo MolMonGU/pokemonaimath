@@ -1,0 +1,340 @@
+|j|☆la5495
+|j|☆CodenameZQ
+|t:|1781068625
+|gametype|singles
+|player|p1|la5495|bugcatcher-gen4dp|1519
+|player|p2|CodenameZQ|roxanne|1538
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Pecharunt|
+|poke|p1|Great Tusk|
+|poke|p1|Iron Crown|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Samurott-Hisui, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Iron Hands|
+|poke|p2|Ceruledge, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Glimmora, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by la5495)
+|
+|t:|1781068650
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Deoxys|atk|1
+|turn|1
+|
+|t:|1781068657
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: CodenameZQ|Reflect
+|
+|upkeep
+|turn|2
+|
+|t:|1781068666
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: CodenameZQ|move: Light Screen
+|move|p1a: Samurott|Ceaseless Edge|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|37/100
+|-sidestart|p2: CodenameZQ|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1781068673
+|move|p1a: Samurott|Ceaseless Edge|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|-sidestart|p2: CodenameZQ|Spikes
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1781068694
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|-damage|p2a: Glimmora|84/100|[from] Spikes
+|turn|4
+|
+|t:|1781068702
+|move|p1a: Samurott|Aqua Cutter|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|49/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: la5495|move: Toxic Spikes
+|-enditem|p2a: Glimmora|Red Card|[of] p1a: Samurott
+|drag|p1a: Great Tusk|Great Tusk|100/100
+|-status|p1a: Great Tusk|psn
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisspe
+|move|p2a: Glimmora|Mortal Spin|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|98/100 psn
+|-sideend|p2: CodenameZQ|Spikes|[from] move: Mortal Spin|[of] p2a: Glimmora
+|
+|-damage|p1a: Great Tusk|86/100 psn|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1781068725
+|move|p1a: Great Tusk|Knock Off|p2a: Glimmora
+|-damage|p2a: Glimmora|42/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: la5495|move: Toxic Spikes
+|move|p2a: Glimmora|Stealth Rock|p1a: Great Tusk
+|-sidestart|p1: la5495|move: Stealth Rock
+|
+|-damage|p1a: Great Tusk|74/100 psn|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1781068733
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|move|p1a: Great Tusk|Knock Off|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-crit|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|-enditem|p2a: Ceruledge|Life Orb|[from] move: Knock Off|[of] p1a: Great Tusk
+|faint|p2a: Ceruledge
+|
+|-damage|p1a: Great Tusk|61/100 psn|[from] psn
+|upkeep
+|
+|t:|1781068741
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|7
+|
+|t:|1781068769
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-damage|p1a: Iron Crown|94/100|[from] Stealth Rock
+|move|p2a: Iron Valiant|Moonblast|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|71/100
+|
+|upkeep
+|turn|8
+|inactive|la5495 has 120 seconds left.
+|inactive|CodenameZQ has 120 seconds left.
+|
+|t:|1781068791
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|-status|p1a: Samurott|tox
+|-damage|p1a: Samurott|88/100 tox|[from] Stealth Rock
+|-terastallize|p2a: Iron Valiant|Steel
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|
+|-damage|p1a: Samurott|82/100 tox|[from] psn
+|-sideend|p2: CodenameZQ|Reflect
+|upkeep
+|turn|9
+|inactive|la5495 has 120 seconds left.
+|inactive|CodenameZQ has 120 seconds left.
+|
+|t:|1781068804
+|move|p1a: Samurott|Sucker Punch|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|57/100
+|move|p2a: Iron Valiant|Thunderbolt|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|8/100 tox
+|
+|-damage|p1a: Samurott|0 fnt|[from] psn
+|faint|p1a: Samurott
+|-sideend|p2: CodenameZQ|move: Light Screen
+|upkeep
+|
+|t:|1781068818
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Iron Valiant|atk|1
+|turn|10
+|
+|t:|1781068826
+|move|p2a: Iron Valiant|Moonblast|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1781068831
+|switch|p1a: Iron Crown|Iron Crown|71/100
+|-damage|p1a: Iron Crown|65/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1781068837
+|-terastallize|p1a: Iron Crown|Fairy
+|move|p2a: Iron Valiant|Focus Blast|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|19/100
+|move|p1a: Iron Crown|Focus Blast|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|inactive|CodenameZQ has 120 seconds left.
+|
+|t:|1781068866
+|switch|p2a: Iron Hands|Iron Hands|100/100
+|-enditem|p2a: Iron Hands|Booster Energy
+|-activate|p2a: Iron Hands|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Hands|quarkdriveatk
+|turn|12
+|inactive|CodenameZQ has 120 seconds left.
+|inactive|la5495 has 120 seconds left.
+|l|☆la5495
+|inactive|la5495 disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆la5495
+|inactive|la5495 reconnected and has 85 seconds left.
+|player|p1|la5495|bugcatcher-gen4dp|
+|
+|t:|1781068930
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|-sideend|p1: la5495|move: Toxic Spikes|[of] p1a: Pecharunt
+|-damage|p1a: Pecharunt|88/100|[from] Stealth Rock
+|move|p2a: Iron Hands|Ice Punch|p1a: Pecharunt
+|-damage|p1a: Pecharunt|69/100
+|-damage|p2a: Iron Hands|84/100|[from] item: Rocky Helmet|[of] p1a: Pecharunt
+|
+|upkeep
+|turn|13
+|inactive|la5495 has 90 seconds left.
+|inactive|CodenameZQ has 120 seconds left.
+|
+|t:|1781068942
+|move|p1a: Pecharunt|Parting Shot|p2a: Iron Hands
+|-unboost|p2a: Iron Hands|atk|1
+|-unboost|p2a: Iron Hands|spa|1
+|inactive|la5495 has 90 seconds left.
+|
+|t:|1781068948
+|switch|p1a: Great Tusk|Great Tusk|61/100 psn|[from] Parting Shot
+|-damage|p1a: Great Tusk|58/100 psn|[from] Stealth Rock
+|move|p2a: Iron Hands|Supercell Slam|p1a: Great Tusk
+|-immune|p1a: Great Tusk
+|-damage|p2a: Iron Hands|34/100|[from] supercellslam
+|
+|-damage|p1a: Great Tusk|46/100 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1781068954
+|move|p1a: Great Tusk|Rapid Spin|p2a: Iron Hands
+|-damage|p2a: Iron Hands|23/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: la5495|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|move|p2a: Iron Hands|Ice Punch|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|12/100 psn
+|
+|-damage|p1a: Great Tusk|0 fnt|[from] psn
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|upkeep
+|
+|t:|1781068961
+|switch|p1a: Iron Crown|Iron Crown, tera:Fairy|19/100
+|turn|15
+|
+|t:|1781068966
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Iron Hands
+|-resisted|p2a: Iron Hands
+|-damage|p2a: Iron Hands|5/100
+|-resisted|p2a: Iron Hands
+|-damage|p2a: Iron Hands|0 fnt
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|-hitcount|p2: Iron Hands|2
+|
+|upkeep
+|
+|t:|1781068983
+|switch|p2a: Glimmora|Glimmora, F|42/100
+|turn|16
+|
+|t:|1781068987
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|-hitcount|p2: Glimmora|1
+|
+|upkeep
+|
+|t:|1781068988
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|17
+|
+|t:|1781068996
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Zamazenta
+|-damage|p2a: Zamazenta|66/100
+|-damage|p2a: Zamazenta|33/100
+|-hitcount|p2a: Zamazenta|2
+|
+|-heal|p2a: Zamazenta|39/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781069000
+|move|p2a: Zamazenta|Heavy Slam|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|-heal|p2a: Zamazenta|45/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781069004
+|switch|p1a: Pecharunt|Pecharunt|69/100
+|turn|19
+|
+|t:|1781069008
+|move|p2a: Zamazenta|Heavy Slam|p1a: Pecharunt
+|-damage|p1a: Pecharunt|54/100
+|-damage|p2a: Zamazenta|29/100|[from] item: Rocky Helmet|[of] p1a: Pecharunt
+|move|p1a: Pecharunt|Malignant Chain|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|win|la5495
+|raw|la5495's rating: 1519 &rarr; <strong>1540</strong><br />(+21 for winning)
+|raw|CodenameZQ's rating: 1538 &rarr; <strong>1517</strong><br />(-21 for losing)
+|l|☆CodenameZQ
+|player|p2|
+|l|☆la5495
+|player|p1|

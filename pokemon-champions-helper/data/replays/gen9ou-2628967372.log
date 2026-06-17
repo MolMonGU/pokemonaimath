@@ -1,0 +1,500 @@
+|j|☆jhfsjdhfksjdhf
+|j|☆minhoto
+|t:|1781081517
+|gametype|singles
+|player|p1|jhfsjdhfksjdhf|265|1560
+|player|p2|minhoto|1|1613
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ribombee, M|
+|poke|p1|Gholdengo|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Pecharunt|
+|poke|p1|Dragonite, F|
+|poke|p2|Blissey, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Cinderace, M|
+|poke|p2|Dondozo, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Toxapex, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by minhoto)
+|
+|t:|1781081537
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|turn|1
+|
+|t:|1781081545
+|move|p1a: Samurott|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|57/100
+|-damage|p1a: Samurott|84/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|-enditem|p2a: Toxapex|Rocky Helmet|[from] move: Knock Off|[of] p1a: Samurott
+|move|p2a: Toxapex|Toxic|p1a: Samurott
+|-status|p1a: Samurott|tox
+|
+|-damage|p1a: Samurott|78/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1781081550
+|switch|p1a: Ribombee|Ribombee, M|100/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781081553
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Ribombee|Stun Spore|p2a: Slowking|[miss]
+|-miss|p1a: Ribombee|p2a: Slowking
+|
+|upkeep
+|turn|4
+|
+|t:|1781081557
+|move|p1a: Ribombee|Stun Spore|p2a: Slowking
+|-status|p2a: Slowking|par
+|move|p2a: Slowking|Toxic|p1a: Ribombee
+|-status|p1a: Ribombee|tox
+|
+|-damage|p1a: Ribombee|94/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1781081562
+|move|p1a: Ribombee|Sticky Web|p2a: Slowking
+|-sidestart|p2: minhoto|move: Sticky Web
+|move|p2a: Slowking|Trick|p1a: Ribombee
+|-activate|p2a: Slowking|move: Trick|[of] p1a: Ribombee
+|-item|p1a: Ribombee|Black Sludge|[from] move: Trick
+|-item|p2a: Slowking|Focus Sash|[from] move: Trick
+|
+|-damage|p1a: Ribombee|82/100 tox|[from] item: Black Sludge
+|-damage|p1a: Ribombee|70/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1781081568
+|switch|p1a: Samurott|Samurott-Hisui, M|78/100 tox
+|move|p2a: Slowking|Future Sight|p1a: Samurott
+|-start|p2a: Slowking|move: Future Sight
+|
+|-damage|p1a: Samurott|72/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1781081574
+|move|p1a: Samurott|Ceaseless Edge|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-enditem|p2a: Slowking|Focus Sash
+|-damage|p2a: Slowking|1/100 par
+|-sidestart|p2: minhoto|Spikes
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781081583
+|switch|p2a: Toxapex|Toxapex, F|100/100|[from] Chilly Reception
+|-activate|p2a: Toxapex|move: Sticky Web
+|-unboost|p2a: Toxapex|spe|1
+|-damage|p2a: Toxapex|88/100|[from] Spikes
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Samurott|59/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781081589
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Gholdengo|move: Future Sight
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|75/100
+|upkeep
+|turn|9
+|
+|t:|1781081596
+|switch|p2a: Blissey|Blissey, F|100/100
+|-activate|p2a: Blissey|move: Sticky Web
+|-unboost|p2a: Blissey|spe|1
+|-damage|p2a: Blissey|88/100|[from] Spikes
+|move|p1a: Gholdengo|Trick|p2a: Blissey
+|-activate|p1a: Gholdengo|move: Trick|[of] p2a: Blissey
+|-item|p2a: Blissey|Choice Scarf|[from] move: Trick
+|-item|p1a: Gholdengo|Choice Specs|[from] move: Trick
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781081607
+|move|p1a: Gholdengo|Psyshock|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|faint|p2a: Blissey
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781081610
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|turn|11
+|
+|t:|1781081617
+|switch|p1a: Ribombee|Ribombee, M|70/100 tox
+|move|p2a: Cinderace|Pyro Ball|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|faint|p1a: Ribombee
+|
+|-weather|none
+|upkeep
+|
+|t:|1781081623
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Cinderace|atk|1
+|turn|12
+|
+|t:|1781081625
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-start|p2a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|move|p1a: Landorus|Earthquake|p2a: Cinderace
+|-damage|p2a: Cinderace|15/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781081629
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Landorus|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: minhoto|move: Stealth Rock
+|
+|upkeep
+|turn|14
+|
+|t:|1781081634
+|move|p1a: Landorus|Taunt|p2a: Corviknight
+|-start|p2a: Corviknight|move: Taunt
+|move|p2a: Corviknight|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|92/100
+|
+|t:|1781081637
+|switch|p2a: Slowking|Slowking-Galar, F|34/100 par|[from] U-turn
+|-damage|p2a: Slowking|22/100 par|[from] Stealth Rock
+|
+|upkeep
+|turn|15
+|
+|t:|1781081643
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Landorus|Stone Edge|p2a: Corviknight
+|-damage|p2a: Corviknight|59/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781081646
+|move|p1a: Landorus|Taunt|p2a: Corviknight
+|-start|p2a: Corviknight|move: Taunt
+|move|p2a: Corviknight|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|84/100
+|
+|t:|1781081649
+|switch|p2a: Dondozo|Dondozo, F|100/100|[from] U-turn
+|-damage|p2a: Dondozo|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Dondozo|94/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781081661
+|switch|p1a: Gholdengo|Gholdengo|75/100
+|-activate|p1a: Gholdengo|move: Sticky Web
+|-unboost|p1a: Gholdengo|spe|1
+|-damage|p1a: Gholdengo|62/100|[from] Spikes
+|move|p2a: Dondozo|Liquidation|p1a: Gholdengo
+|-damage|p1a: Gholdengo|30/100
+|
+|-heal|p2a: Dondozo|100/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781081674
+|switch|p2a: Corviknight|Corviknight, F|59/100
+|-damage|p2a: Corviknight|47/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Gholdengo|Trick|p2a: Corviknight
+|-activate|p1a: Gholdengo|move: Trick|[of] p2a: Corviknight
+|-item|p2a: Corviknight|Choice Specs|[from] move: Trick
+|-item|p1a: Gholdengo|Rocky Helmet|[from] move: Trick
+|
+|upkeep
+|turn|19
+|
+|t:|1781081682
+|move|p1a: Gholdengo|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|17/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|67/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|20
+|
+|t:|1781081688
+|move|p1a: Gholdengo|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|33/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|83/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|21
+|
+|t:|1781081695
+|move|p1a: Gholdengo|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|49/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|99/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|22
+|
+|t:|1781081711
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|-item|p1a: Pecharunt|Air Balloon
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|23
+|j| yuureisuisei
+|
+|t:|1781081720
+|switch|p2a: Corviknight|Corviknight, F|99/100
+|-damage|p2a: Corviknight|86/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Pecharunt|Nasty Plot|p1a: Pecharunt
+|-boost|p1a: Pecharunt|spa|2
+|
+|upkeep
+|turn|24
+|j| lord shiddenfards
+|
+|t:|1781081724
+|move|p1a: Pecharunt|Nasty Plot|p1a: Pecharunt
+|-boost|p1a: Pecharunt|spa|2
+|move|p2a: Corviknight|U-turn|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-damage|p1a: Pecharunt|98/100
+|-enditem|p1a: Pecharunt|Air Balloon
+|
+|t:|1781081728
+|switch|p2a: Toxapex|Toxapex, F|100/100|[from] U-turn
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|25
+|
+|t:|1781081732
+|move|p1a: Pecharunt|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|9/100
+|-unboost|p2a: Toxapex|spd|1
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|26
+|
+|t:|1781081738
+|switch|p2a: Corviknight|Corviknight, F|86/100
+|-damage|p2a: Corviknight|74/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Pecharunt|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|50/100
+|
+|upkeep
+|turn|27
+|
+|t:|1781081744
+|move|p1a: Pecharunt|Nasty Plot|p1a: Pecharunt
+|-boost|p1a: Pecharunt|spa|2
+|move|p2a: Corviknight|Defog|p1a: Pecharunt
+|-unboost|p1a: Pecharunt|evasion|1
+|-sideend|p1: jhfsjdhfksjdhf|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|-sideend|p1: jhfsjdhfksjdhf|Sticky Web|[from] move: Defog|[of] p2a: Corviknight
+|-sideend|p2: minhoto|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|28
+|
+|t:|1781081753
+|switch|p2a: Dondozo|Dondozo, F|100/100
+|move|p1a: Pecharunt|Nasty Plot|p1a: Pecharunt
+|-boost|p1a: Pecharunt|spa|2
+|
+|upkeep
+|turn|29
+|
+|t:|1781081756
+|move|p1a: Pecharunt|Malignant Chain|p2a: Dondozo
+|-damage|p2a: Dondozo|68/100
+|-status|p2a: Dondozo|tox
+|-start|p2a: Dondozo|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|-activate|p2a: Dondozo|confusion
+|-damage|p2a: Dondozo|63/100 tox|[from] confusion
+|
+|-heal|p2a: Dondozo|69/100 tox|[from] item: Leftovers
+|-damage|p2a: Dondozo|63/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1781081766
+|move|p1a: Pecharunt|Shadow Ball|p2a: Dondozo
+|-damage|p2a: Dondozo|39/100 tox
+|-activate|p2a: Dondozo|confusion
+|move|p2a: Dondozo|Rest|p2a: Dondozo
+|-status|p2a: Dondozo|slp|[from] move: Rest
+|-heal|p2a: Dondozo|100/100 slp|[silent]
+|
+|upkeep
+|turn|31
+|
+|t:|1781081772
+|move|p1a: Pecharunt|Shadow Ball|p2a: Dondozo
+|-damage|p2a: Dondozo|76/100 slp
+|cant|p2a: Dondozo|slp
+|-activate|p2a: Dondozo|confusion
+|-damage|p2a: Dondozo|71/100 slp|[from] confusion
+|
+|-heal|p2a: Dondozo|78/100 slp|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1781081777
+|move|p1a: Pecharunt|Shadow Ball|p2a: Dondozo
+|-damage|p2a: Dondozo|55/100 slp
+|cant|p2a: Dondozo|slp
+|-end|p2a: Dondozo|confusion
+|move|p2a: Dondozo|Sleep Talk|p2a: Dondozo
+|move|p2a: Dondozo|Liquidation|p1a: Pecharunt|[from] move: Sleep Talk
+|-damage|p1a: Pecharunt|78/100
+|
+|-heal|p2a: Dondozo|61/100 slp|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1781081782
+|move|p1a: Pecharunt|Nasty Plot|p1a: Pecharunt
+|-boost|p1a: Pecharunt|spa|2
+|-curestatus|p2a: Dondozo|slp|[msg]
+|move|p2a: Dondozo|Rest|p2a: Dondozo
+|-status|p2a: Dondozo|slp|[from] move: Rest
+|-heal|p2a: Dondozo|100/100 slp|[silent]
+|
+|upkeep
+|turn|34
+|j| Mightylord
+|
+|t:|1781081787
+|move|p1a: Pecharunt|Shadow Ball|p2a: Dondozo
+|-damage|p2a: Dondozo|75/100 slp
+|-unboost|p2a: Dondozo|spd|1
+|cant|p2a: Dondozo|slp
+|move|p2a: Dondozo|Sleep Talk|p2a: Dondozo
+|move|p2a: Dondozo|Curse|p2a: Dondozo|[from] move: Sleep Talk
+|-unboost|p2a: Dondozo|spe|1
+|-boost|p2a: Dondozo|atk|1
+|-boost|p2a: Dondozo|def|1
+|
+|-heal|p2a: Dondozo|81/100 slp|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1781081796
+|switch|p2a: Corviknight|Corviknight, F|50/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Pecharunt|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781081799
+|switch|p2a: Cinderace|Cinderace, M|15/100
+|turn|36
+|
+|t:|1781081807
+|move|p2a: Cinderace|Double-Edge|p1a: Pecharunt
+|-start|p2a: Cinderace|typechange|Normal|[from] ability: Libero
+|-immune|p1a: Pecharunt
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|100/100
+|
+|upkeep
+|turn|37
+|
+|t:|1781081814
+|switch|p2a: Slowking|Slowking-Galar, F|55/100 par
+|move|p1a: Pecharunt|Malignant Chain|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781081817
+|switch|p2a: Toxapex|Toxapex, F|42/100
+|turn|38
+|
+|t:|1781081819
+|switch|p2a: Dondozo|Dondozo, F|81/100 slp
+|move|p1a: Pecharunt|Shadow Ball|p2a: Dondozo
+|-damage|p2a: Dondozo|55/100 slp
+|-unboost|p2a: Dondozo|spd|1
+|
+|-heal|p2a: Dondozo|62/100 slp|[from] item: Leftovers
+|upkeep
+|turn|39
+|-message|minhoto forfeited.
+|
+|win|jhfsjdhfksjdhf
+|raw|jhfsjdhfksjdhf's rating: 1560 &rarr; <strong>1583</strong><br />(+23 for winning)
+|raw|minhoto's rating: 1613 &rarr; <strong>1590</strong><br />(-23 for losing)
+|l|☆minhoto
+|player|p2|
+|c|☆jhfsjdhfksjdhf|gg
+|l| yuureisuisei
+|c|☆jhfsjdhfksjdhf|wp
+|c|☆jhfsjdhfksjdhf|thanks for the game
+|l|☆jhfsjdhfksjdhf
+|player|p1|
+|l| Mightylord
+|l| lord shiddenfards

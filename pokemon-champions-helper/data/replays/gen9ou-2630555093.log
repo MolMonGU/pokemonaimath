@@ -1,0 +1,187 @@
+|j|☆EtnaArmpits
+|j|☆isaac_gam3r
+|t:|1781272163
+|gametype|singles
+|player|p1|EtnaArmpits|265|1716
+|player|p2|isaac_gam3r|acetrainer-gen4dp|1783
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Iron Valiant|
+|poke|p1|Dragonite, F|
+|poke|p1|Darkrai|
+|poke|p1|Iron Treads|
+|poke|p2|Primarina, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Heatran, M|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Weavile, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by EtnaArmpits)
+|
+|t:|1781272169
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781272175
+|move|p1a: Iron Treads|Steel Beam|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-enditem|p2a: Weavile|Focus Sash
+|-damage|p2a: Weavile|1/100
+|-damage|p1a: Iron Treads|50/100|[from] steelbeam
+|move|p2a: Weavile|Triple Axel|p1a: Iron Treads
+|-damage|p1a: Iron Treads|42/100
+|-damage|p1a: Iron Treads|22/100
+|-hitcount|p1a: Iron Treads|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781272179
+|move|p2a: Weavile|Ice Shard|p1a: Iron Treads
+|-damage|p1a: Iron Treads|5/100
+|move|p1a: Iron Treads|Rapid Spin|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|-boost|p1a: Iron Treads|spe|1
+|faint|p2a: Weavile
+|
+|upkeep
+|
+|t:|1781272183
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|3
+|
+|t:|1781272187
+|move|p1a: Iron Treads|Stealth Rock|p2a: Garchomp
+|-sidestart|p2: isaac_gam3r|move: Stealth Rock
+|move|p2a: Garchomp|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781272192
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|4
+|
+|t:|1781272195
+|switch|p2a: Primarina|Primarina, F, shiny|100/100
+|-damage|p2a: Primarina|88/100|[from] Stealth Rock
+|-terastallize|p1a: Kyurem|Ice
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|
+|-heal|p2a: Primarina|94/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781272198
+|move|p1a: Kyurem|Freeze-Dry|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|7/100
+|move|p2a: Primarina|Sparkling Aria|p1a: Kyurem
+|-damage|p1a: Kyurem|30/100
+|
+|-heal|p2a: Primarina|13/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781272201
+|move|p1a: Kyurem|Icicle Spear|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|-hitcount|p2: Primarina|1
+|
+|upkeep
+|
+|t:|1781272206
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1781272208
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|
+|-heal|p2a: Raging Bolt|94/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781272212
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|
+|-heal|p2a: Raging Bolt|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781272214
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1781272217
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|
+|upkeep
+|turn|11
+|
+|t:|1781272220
+|move|p1a: Kyurem|Icicle Spear|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|-hitcount|p2: Raging Bolt|1
+|
+|upkeep
+|-message|isaac_gam3r forfeited.
+|
+|win|EtnaArmpits
+|raw|EtnaArmpits's rating: 1716 &rarr; <strong>1740</strong><br />(+24 for winning)
+|raw|isaac_gam3r's rating: 1783 &rarr; <strong>1759</strong><br />(-24 for losing)
+|l|☆isaac_gam3r
+|player|p2|
+|l|☆EtnaArmpits
+|player|p1|

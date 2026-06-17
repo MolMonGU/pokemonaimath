@@ -1,0 +1,184 @@
+|j|☆just2us
+|j|☆hawkins0
+|t:|1781515402
+|gametype|singles
+|player|p1|just2us|veteranf|1571
+|player|p2|hawkins0|102|1589
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Garganacl, M|
+|poke|p1|Pecharunt|
+|poke|p1|Moltres|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Kingambit, M|
+|poke|p1|Great Tusk|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Pecharunt|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|
+|t:|1781515418
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Moltres|Moltres|100/100
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Moltres|atk|1
+|turn|1
+|
+|t:|1781515425
+|move|p2a: Enten|Stone Edge|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|upkeep
+|
+|t:|1781515428
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|2
+|
+|t:|1781515441
+|switch|p2a: Overseer|Pecharunt|100/100
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Overseer|[anim] Ivy Cudgel Water
+|-damage|p2a: Overseer|73/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781515469
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Overseer|Malignant Chain|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|26/100
+|-status|p1a: Ogerpon|tox
+|-start|p1a: Ogerpon|confusion|[from] ability: Poison Puppeteer|[of] p2a: Overseer
+|
+|-damage|p1a: Ogerpon|20/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1781515478
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|move|p2a: Overseer|Recover|p2a: Overseer
+|-heal|p2a: Overseer|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781515485
+|move|p2a: Overseer|Parting Shot|p1a: Kingambit
+|-unboost|p1a: Kingambit|atk|1
+|-unboost|p1a: Kingambit|spa|1
+|
+|t:|1781515487
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100|[from] Parting Shot
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Kingambit|atk|1
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|upkeep
+|turn|6
+|
+|t:|1781515505
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Enten|U-turn|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|93/100
+|
+|t:|1781515508
+|switch|p2a: Calamity|Iron Valiant, shiny|100/100|[from] U-turn
+|
+|upkeep
+|turn|7
+|
+|t:|1781515513
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Calamity|Shadow Ball|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|22/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781515521
+|-end|p2a: Calamity|Quark Drive|[silent]
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Pecharunt|atk|1
+|switch|p1a: Garganacl|Garganacl, M, shiny|100/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781515526
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Enten|Earthquake|p1a: Garganacl
+|-activate|p1a: Garganacl|move: Protect
+|
+|upkeep
+|turn|10
+|
+|t:|1781515537
+|move|p2a: Enten|Earthquake|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|21/100
+|move|p1a: Garganacl|Salt Cure|p2a: Enten
+|-damage|p2a: Enten|83/100
+|-start|p2a: Enten|Salt Cure
+|
+|-heal|p1a: Garganacl|27/100|[from] item: Leftovers
+|-damage|p2a: Enten|71/100|[from] Salt Cure
+|upkeep
+|turn|11
+|
+|t:|1781515543
+|switch|p2a: Calamity|Iron Valiant, shiny|100/100
+|-terastallize|p1a: Garganacl|Flying
+|move|p1a: Garganacl|Recover|p1a: Garganacl
+|-heal|p1a: Garganacl|77/100
+|
+|-heal|p1a: Garganacl|84/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781515550
+|-terastallize|p2a: Calamity|Fairy
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Calamity|Moonblast|p1a: Garganacl
+|-activate|p1a: Garganacl|move: Protect
+|
+|-heal|p1a: Garganacl|90/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|-message|just2us forfeited.
+|
+|win|hawkins0
+|raw|just2us's rating: 1571 &rarr; <strong>1552</strong><br />(-19 for losing)
+|raw|hawkins0's rating: 1589 &rarr; <strong>1608</strong><br />(+19 for winning)
+|l|☆just2us
+|player|p1|
+|l|☆hawkins0
+|player|p2|

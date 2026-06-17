@@ -1,0 +1,280 @@
+|j|☆EtnaArmpits
+|j|☆burrolio
+|t:|1781110970
+|gametype|singles
+|player|p1|EtnaArmpits|170|1674
+|player|p2|burrolio|swimmer-gen4dp|1634
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Iron Valiant|
+|poke|p1|Dragonite, F|
+|poke|p1|Darkrai|
+|poke|p1|Iron Treads|
+|poke|p2|Lokix, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Great Tusk|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by EtnaArmpits)
+|
+|t:|1781110980
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781110987
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Iron Treads|Earth Power|p2a: Great Tusk
+|-damage|p2a: Great Tusk|53/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781110995
+|move|p1a: Iron Treads|Steel Beam|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|-damage|p1a: Iron Treads|50/100|[from] steelbeam
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781110999
+|switch|p2a: Lokix|Lokix, M|100/100
+|turn|3
+|
+|t:|1781111003
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|move|p2a: Lokix|First Impression|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|70/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781111008
+|move|p2a: Lokix|U-turn|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|27/100
+|
+|t:|1781111012
+|switch|p2a: Hatterene|Hatterene, F|100/100|[from] U-turn
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|5
+|
+|t:|1781111021
+|move|p1a: Dragonite|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|50/100
+|move|p2a: Hatterene|Psychic Noise|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1781111028
+|switch|p1a: Iron Treads|Iron Treads|50/100
+|turn|6
+|
+|t:|1781111040
+|move|p1a: Iron Treads|Steel Beam|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|-damage|p1a: Iron Treads|0 fnt|[from] steelbeam
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781111049
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|7
+|
+|t:|1781111057
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Iron Valiant
+|-immune|p1a: Iron Valiant
+|
+|upkeep
+|turn|8
+|
+|t:|1781111076
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Darkrai|Darkrai|100/100
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781111086
+|switch|p2a: Lokix|Lokix, M|100/100
+|-terastallize|p1a: Darkrai|Poison
+|move|p1a: Darkrai|Sludge Bomb|p2a: Lokix
+|-damage|p2a: Lokix|5/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781111091
+|move|p2a: Lokix|First Impression|p1a: Darkrai
+|-resisted|p1a: Darkrai
+|-damage|p1a: Darkrai|26/100
+|move|p1a: Darkrai|Sludge Bomb|p2a: Lokix
+|-damage|p2a: Lokix|0 fnt
+|faint|p2a: Lokix
+|
+|upkeep
+|
+|t:|1781111096
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|11
+|
+|t:|1781111105
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|move|p2a: Dragapult|Dragon Darts|p1a: Iron Valiant
+|-immune|p1a: Iron Valiant
+|
+|upkeep
+|turn|12
+|
+|t:|1781111113
+|switch|p2a: Raging Bolt|Raging Bolt, tera:Fairy|100/100
+|move|p1a: Iron Valiant|Knock Off|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|85/100
+|-enditem|p2a: Raging Bolt|Choice Specs|[from] move: Knock Off|[of] p1a: Iron Valiant
+|
+|upkeep
+|turn|13
+|
+|t:|1781111118
+|move|p1a: Iron Valiant|Ice Punch|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|63/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781111123
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|14
+|
+|t:|1781111128
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Kyurem|Icicle Spear|p2a: Ogerpon
+|-damage|p2a: Ogerpon|83/100
+|-damage|p2a: Ogerpon|63/100
+|-damage|p2a: Ogerpon|44/100
+|-damage|p2a: Ogerpon|24/100
+|-damage|p2a: Ogerpon|4/100
+|-hitcount|p2a: Ogerpon|5
+|
+|upkeep
+|turn|15
+|
+|t:|1781111135
+|move|p2a: Ogerpon|Encore|p1a: Kyurem
+|-start|p1a: Kyurem|Encore
+|move|p1a: Kyurem|Icicle Spear|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|-hitcount|p2: Ogerpon|1
+|
+|upkeep
+|
+|t:|1781111137
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|16
+|
+|t:|1781111142
+|switch|p1a: Darkrai|Darkrai, tera:Poison|26/100
+|move|p2a: Dragapult|Dragon Darts|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|upkeep
+|
+|t:|1781111144
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|17
+|
+|t:|1781111149
+|switch|p2a: Raging Bolt|Raging Bolt, tera:Fairy|63/100
+|move|p1a: Deoxys|Ice Beam|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|29/100
+|-damage|p1a: Deoxys|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|18
+|
+|t:|1781111156
+|move|p1a: Deoxys|Ice Beam|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|-damage|p1a: Deoxys|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781111158
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|19
+|
+|t:|1781111161
+|move|p1a: Deoxys|Ice Beam|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|4/100
+|-status|p2a: Dragapult|frz
+|-damage|p1a: Deoxys|71/100|[from] item: Life Orb
+|cant|p2a: Dragapult|frz
+|
+|upkeep
+|turn|20
+|c|☆burrolio|Gg
+|-message|burrolio forfeited.
+|
+|win|EtnaArmpits
+|raw|EtnaArmpits's rating: 1674 &rarr; <strong>1692</strong><br />(+18 for winning)
+|raw|burrolio's rating: 1634 &rarr; <strong>1616</strong><br />(-18 for losing)
+|l|☆burrolio
+|player|p2|
+|l|☆EtnaArmpits
+|player|p1|

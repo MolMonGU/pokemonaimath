@@ -1,0 +1,306 @@
+|j|☆CMHERSOM
+|j|☆LowEL0God
+|t:|1781242041
+|gametype|singles
+|player|p1|CMHERSOM|hiker-gen4|1578
+|player|p2|LowEL0God|265|1616
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Regidrago|
+|poke|p1|Kyurem|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Dragonite, F|
+|poke|p1|Great Tusk|
+|poke|p1|Pecharunt|
+|poke|p2|Pelipper, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781242059
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Regidrago|Regidrago|100/100
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|turn|1
+|
+|t:|1781242063
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisspe
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781242067
+|-terastallize|p2a: Kingambit|Dark
+|move|p1a: Great Tusk|Headlong Rush|p2a: Kingambit
+|-crit|p2a: Kingambit
+|-damage|p2a: Kingambit|44/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Kingambit|Iron Head|p1a: Great Tusk
+|-damage|p1a: Great Tusk|7/100
+|
+|-heal|p2a: Kingambit|50/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781242073
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Great Tusk|Stealth Rock|p2a: Kingambit
+|-sidestart|p2: LowEL0God|move: Stealth Rock
+|
+|-heal|p2a: Kingambit|56/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781242075
+|move|p2a: Kingambit|Sucker Punch|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-heal|p2a: Kingambit|62/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781242078
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|turn|5
+|
+|t:|1781242081
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|21/100
+|-unboost|p2a: Kingambit|spa|1
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Grimmsnarl
+|-resisted|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|60/100
+|
+|-heal|p2a: Kingambit|28/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781242087
+|move|p2a: Kingambit|Sucker Punch|p1a: Grimmsnarl
+|-resisted|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|29/100
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|
+|upkeep
+|
+|t:|1781242088
+|switch|p2a: Overqwil|Overqwil, M|100/100
+|-damage|p2a: Overqwil|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1781242091
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: CMHERSOM|Reflect
+|move|p2a: Overqwil|Gunk Shot|p1a: Grimmsnarl
+|-supereffective|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|faint|p1a: Grimmsnarl
+|-damage|p2a: Overqwil|78/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781242101
+|switch|p1a: Regidrago|Regidrago|100/100
+|turn|8
+|
+|t:|1781242102
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-damage|p2a: Iron Treads|97/100|[from] Stealth Rock
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Regidrago|Dragon Dance|p1a: Regidrago
+|-boost|p1a: Regidrago|atk|1
+|-boost|p1a: Regidrago|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1781242104
+|move|p2a: Iron Treads|Earth Power|p1a: Regidrago
+|-damage|p1a: Regidrago|66/100
+|move|p1a: Regidrago|Dragon Dance|p1a: Regidrago
+|-boost|p1a: Regidrago|atk|1
+|-boost|p1a: Regidrago|spe|1
+|
+|upkeep
+|turn|10
+|
+|t:|1781242108
+|move|p1a: Regidrago|Outrage|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|-damage|p1a: Regidrago|56/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781242109
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-damage|p2a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|11
+|
+|t:|1781242112
+|move|p1a: Regidrago|Outrage|p2a: Pelipper|[from] lockedmove
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|-damage|p1a: Regidrago|46/100|[from] item: Life Orb
+|-start|p1a: Regidrago|confusion|[fatigue]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781242113
+|switch|p2a: Overqwil|Overqwil, M|78/100
+|-damage|p2a: Overqwil|66/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781242115
+|move|p2a: Overqwil|Crunch|p1a: Regidrago
+|-damage|p1a: Regidrago|17/100
+|-damage|p2a: Overqwil|56/100|[from] item: Life Orb
+|-activate|p1a: Regidrago|confusion
+|-damage|p1a: Regidrago|0 fnt|[from] confusion
+|faint|p1a: Regidrago
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781242118
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|13
+|
+|t:|1781242122
+|move|p2a: Overqwil|Gunk Shot|p1a: Kyurem
+|-damage|p1a: Kyurem|61/100
+|-status|p1a: Kyurem|psn
+|-damage|p2a: Overqwil|47/100|[from] item: Life Orb
+|move|p1a: Kyurem|Icicle Spear|p2a: Overqwil
+|-damage|p2a: Overqwil|31/100
+|-damage|p2a: Overqwil|14/100
+|-damage|p2a: Overqwil|0 fnt
+|faint|p2a: Overqwil
+|-hitcount|p2: Overqwil|3
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Kyurem|49/100 psn|[from] psn
+|upkeep
+|
+|t:|1781242123
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|-damage|p2a: Barraskewda|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1781242127
+|move|p2a: Barraskewda|Close Combat|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|faint|p1a: Kyurem
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p1: CMHERSOM|Reflect
+|upkeep
+|
+|t:|1781242132
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|turn|15
+|j| euphoricpoptarts
+|
+|t:|1781242134
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Pecharunt|Malignant Chain|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|61/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781242136
+|move|p1a: Pecharunt|Malignant Chain|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|31/100
+|-status|p2a: Raging Bolt|tox
+|-start|p2a: Raging Bolt|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|-activate|p2a: Raging Bolt|confusion
+|-damage|p2a: Raging Bolt|26/100 tox|[from] confusion
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Raging Bolt|19/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1781242141
+|move|p1a: Pecharunt|Malignant Chain|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781242142
+|switch|p2a: Barraskewda|Barraskewda, M|88/100
+|-damage|p2a: Barraskewda|75/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781242143
+|move|p2a: Barraskewda|Liquidation|p1a: Pecharunt
+|-damage|p1a: Pecharunt|32/100
+|move|p1a: Pecharunt|Malignant Chain|p2a: Barraskewda
+|-damage|p2a: Barraskewda|4/100
+|-status|p2a: Barraskewda|tox
+|-start|p2a: Barraskewda|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|
+|-weather|none
+|-heal|p1a: Pecharunt|38/100|[from] item: Leftovers
+|-damage|p2a: Barraskewda|0 fnt|[from] psn
+|faint|p2a: Barraskewda
+|
+|win|CMHERSOM
+|raw|CMHERSOM's rating: 1578 &rarr; <strong>1600</strong><br />(+22 for winning)
+|raw|LowEL0God's rating: 1616 &rarr; <strong>1594</strong><br />(-22 for losing)
+|l|☆CMHERSOM
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|
+|l| euphoricpoptarts

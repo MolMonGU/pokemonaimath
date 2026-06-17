@@ -1,0 +1,192 @@
+|j|☆lolshh
+|j|☆blueisnoob
+|t:|1781000078
+|gametype|singles
+|player|p1|lolshh|1|1701
+|player|p2|blueisnoob|101|1722
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Valiant|
+|poke|p1|Kingambit, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kyurem|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Ceruledge, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Great Tusk|
+|poke|p2|Kingambit, M|
+|poke|p2|Zapdos|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lolshh)
+|
+|t:|1781000093
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781000096
+|move|p1a: Iron Treads|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: blueisnoob|move: Stealth Rock
+|move|p2a: Zapdos|Hurricane|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|73/100
+|-start|p1a: Iron Treads|confusion
+|
+|upkeep
+|turn|2
+|
+|t:|1781000102
+|switch|p2a: Great Tusk|Great Tusk, shiny|100/100
+|-activate|p1a: Iron Treads|confusion
+|move|p1a: Iron Treads|Rapid Spin|p2a: Great Tusk
+|-damage|p2a: Great Tusk|92/100
+|-boost|p1a: Iron Treads|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781000108
+|-activate|p1a: Iron Treads|confusion
+|-damage|p1a: Iron Treads|65/100|[from] confusion
+|move|p2a: Great Tusk|Stealth Rock|p1a: Iron Treads
+|-sidestart|p1: lolshh|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1781000112
+|-activate|p1a: Iron Treads|confusion
+|move|p1a: Iron Treads|Rapid Spin|p2a: Great Tusk
+|-damage|p2a: Great Tusk|81/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: lolshh|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Great Tusk|Rapid Spin|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|58/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: blueisnoob|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|5
+|
+|t:|1781000118
+|-activate|p1a: Iron Treads|confusion
+|move|p1a: Iron Treads|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: blueisnoob|move: Stealth Rock
+|move|p2a: Great Tusk|Headlong Rush|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781000130
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|-item|p1a: Ceruledge|Air Balloon
+|turn|6
+|
+|t:|1781000133
+|move|p2a: Great Tusk|Ice Spinner|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|80/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|-enditem|p1a: Ceruledge|Air Balloon
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1781000139
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Ceruledge|Bitter Blade|p2a: Zapdos
+|-damage|p2a: Zapdos|34/100
+|-heal|p1a: Ceruledge|100/100|[from] drain|[of] p2a: Zapdos
+|-status|p1a: Ceruledge|par|[from] ability: Static|[of] p2a: Zapdos
+|
+|upkeep
+|turn|8
+|
+|t:|1781000147
+|cant|p1a: Ceruledge|par
+|move|p2a: Zapdos|Volt Switch|p1a: Ceruledge
+|-damage|p1a: Ceruledge|69/100 par
+|
+|t:|1781000150
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] Volt Switch
+|-damage|p2a: Ogerpon|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1781000153
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Ogerpon
+|-damage|p2a: Ogerpon|36/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Ceruledge|[anim] Ivy Cudgel Water
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|upkeep
+|
+|t:|1781000159
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|10
+|
+|t:|1781000161
+|move|p2a: Ogerpon|Knock Off|p1a: Kyurem
+|-crit|p1a: Kyurem
+|-damage|p1a: Kyurem|43/100
+|-enditem|p1a: Kyurem|Loaded Dice|[from] move: Knock Off|[of] p2a: Ogerpon
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|
+|upkeep
+|turn|11
+|inactive|blueisnoob has 120 seconds left.
+|inactive|blueisnoob has 90 seconds left.
+|l|☆lolshh
+|inactive|lolshh disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆lolshh
+|inactive|lolshh reconnected.
+|player|p1|lolshh|1|
+|inactive|blueisnoob has 60 seconds left.
+|inactive|blueisnoob has 30 seconds left.
+|inactive|blueisnoob has 20 seconds left.
+|inactive|blueisnoob has 15 seconds left.
+|inactive|blueisnoob has 10 seconds left.
+|inactive|blueisnoob has 5 seconds left.
+|-message|blueisnoob lost due to inactivity.
+|
+|win|lolshh
+|raw|lolshh's rating: 1701 &rarr; <strong>1722</strong><br />(+21 for winning)
+|raw|blueisnoob's rating: 1722 &rarr; <strong>1701</strong><br />(-21 for losing)
+|l|☆lolshh
+|player|p1|

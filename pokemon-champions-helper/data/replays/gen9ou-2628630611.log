@@ -1,0 +1,379 @@
+|j|☆dnites
+|j|☆Ignaa
+|t:|1781037130
+|gametype|singles
+|player|p1|dnites|169|1612
+|player|p2|Ignaa|pokefan-gen4|1666
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pincurchin, M|
+|poke|p1|Hawlucha, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Latias, F|
+|poke|p1|Raichu-Alola, M|
+|poke|p1|Iron Moth|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Clodsire, F|
+|poke|p2|Primarina, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Kingambit, F|
+|teampreview
+|
+|t:|1781037158
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pincurchin|Pincurchin, M|100/100
+|switch|p2a: El Furro|Landorus-Therian, M|100/100
+|-ability|p2a: El Furro|Intimidate|boost
+|-unboost|p1a: Pincurchin|atk|1
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|turn|1
+|l|☆dnites
+|player|p1|
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ignaa)
+|j|☆dnites
+|inactive|dnites reconnected and has 135 seconds left.
+|player|p1|dnites|169|
+|
+|t:|1781037237
+|move|p2a: El Furro|U-turn|p1a: Pincurchin
+|-damage|p1a: Pincurchin|79/100
+|inactive|Ignaa has 120 seconds left.
+|
+|t:|1781037280
+|switch|p2a: Danel|Clodsire, F|100/100|[from] U-turn
+|move|p1a: Pincurchin|Spikes|p2a: Danel
+|-sidestart|p2: Ignaa|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1781037295
+|switch|p1a: Raichu|Raichu-Alola, M|100/100
+|move|p2a: Danel|Stealth Rock|p1a: Raichu
+|-sidestart|p1: dnites|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|inactive|Ignaa has 120 seconds left.
+|
+|t:|1781037335
+|switch|p2a: Bruno|Kingambit, F|100/100
+|-damage|p2a: Bruno|88/100|[from] Spikes
+|move|p1a: Raichu|Psyshock|p2a: Bruno
+|-immune|p2a: Bruno
+|
+|upkeep
+|turn|4
+|
+|t:|1781037345
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdriveatk
+|move|p2a: Bruno|Kowtow Cleave|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|74/100
+|
+|upkeep
+|turn|5
+|inactive|Ignaa has 120 seconds left.
+|
+|t:|1781037356
+|-end|p2a: Bruno|fallenundefined|[silent]
+|switch|p2a: Danel|Clodsire, F|100/100
+|-damage|p2a: Danel|88/100|[from] Spikes
+|move|p1a: Iron Valiant|Knock Off|p2a: Danel
+|-damage|p2a: Danel|11/100
+|-enditem|p2a: Danel|Leftovers|[from] move: Knock Off|[of] p1a: Iron Valiant
+|
+|upkeep
+|turn|6
+|inactive|Ignaa has 120 seconds left.
+|
+|t:|1781037363
+|move|p1a: Iron Valiant|Knock Off|p2a: Danel
+|-crit|p2a: Danel
+|-damage|p2a: Danel|0 fnt
+|faint|p2a: Danel
+|
+|upkeep
+|inactive|Ignaa has 120 seconds left.
+|
+|t:|1781037371
+|switch|p2a: Luka|Raging Bolt|100/100
+|-damage|p2a: Luka|88/100|[from] Spikes
+|turn|7
+|
+|t:|1781037385
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-activate|p1a: Iron Moth|ability: Quark Drive
+|-start|p1a: Iron Moth|quarkdrivespa
+|move|p2a: Luka|Thunderbolt|p1a: Iron Moth
+|-damage|p1a: Iron Moth|32/100
+|
+|-heal|p2a: Luka|94/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781037403
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|-damage|p1a: Hawlucha|88/100|[from] Stealth Rock
+|-enditem|p1a: Hawlucha|Electric Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Electric Seed
+|move|p2a: Luka|Dragon Pulse|p1a: Hawlucha
+|-damage|p1a: Hawlucha|19/100
+|
+|-heal|p2a: Luka|100/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|9
+|
+|t:|1781037418
+|-end|p2a: Luka|Protosynthesis|[silent]
+|switch|p2a: Curty|Corviknight, M|100/100
+|-ability|p2a: Curty|Pressure
+|-terastallize|p1a: Hawlucha|Ground
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|
+|upkeep
+|turn|10
+|
+|t:|1781037422
+|move|p1a: Hawlucha|Drain Punch|p2a: Curty
+|-damage|p2a: Curty|58/100
+|-heal|p1a: Hawlucha|43/100|[from] drain|[of] p2a: Curty
+|-damage|p1a: Hawlucha|26/100|[from] item: Rocky Helmet|[of] p2a: Curty
+|move|p2a: Curty|Body Press|p1a: Hawlucha
+|-damage|p1a: Hawlucha|7/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781037428
+|move|p1a: Hawlucha|Drain Punch|p2a: Curty
+|-damage|p2a: Curty|17/100
+|-heal|p1a: Hawlucha|30/100|[from] drain|[of] p2a: Curty
+|-damage|p1a: Hawlucha|14/100|[from] item: Rocky Helmet|[of] p2a: Curty
+|move|p2a: Curty|Body Press|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|upkeep
+|
+|t:|1781037434
+|switch|p1a: Pincurchin|Pincurchin, M|79/100
+|-damage|p1a: Pincurchin|67/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|turn|12
+|
+|t:|1781037449
+|switch|p2a: Luka|Raging Bolt|100/100
+|-damage|p2a: Luka|88/100|[from] Spikes
+|move|p1a: Pincurchin|Spikes|p2a: Luka
+|-sidestart|p2: Ignaa|Spikes
+|
+|-heal|p2a: Luka|94/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781037457
+|switch|p1a: Iron Moth|Iron Moth|32/100
+|-activate|p1a: Iron Moth|ability: Quark Drive
+|-start|p1a: Iron Moth|quarkdrivespa
+|move|p2a: Luka|Calm Mind|p2a: Luka
+|-boost|p2a: Luka|spa|1
+|-boost|p2a: Luka|spd|1
+|
+|-heal|p2a: Luka|100/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781037461
+|move|p1a: Iron Moth|Sludge Wave|p2a: Luka
+|-damage|p2a: Luka|65/100
+|move|p2a: Luka|Thunderbolt|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p2a: Luka|71/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781037467
+|switch|p1a: Raichu|Raichu-Alola, M|100/100
+|-damage|p1a: Raichu|88/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1781037475
+|-terastallize|p2a: Luka|Fairy
+|move|p1a: Raichu|Psyshock|p2a: Luka
+|-damage|p2a: Luka|29/100
+|move|p2a: Luka|Thunderbolt|p1a: Raichu
+|-resisted|p1a: Raichu
+|-damage|p1a: Raichu|7/100
+|
+|-heal|p2a: Luka|35/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781037482
+|switch|p1a: Iron Valiant|Iron Valiant|74/100
+|-damage|p1a: Iron Valiant|68/100|[from] Stealth Rock
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdriveatk
+|move|p2a: Luka|Thunderclap||[still]
+|-fail|p2a: Luka
+|
+|-heal|p2a: Luka|41/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781037486
+|move|p1a: Iron Valiant|Spirit Break|p2a: Luka
+|-damage|p2a: Luka|0 fnt
+|faint|p2a: Luka
+|-end|p2a: Luka|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781037494
+|switch|p2a: El Furro|Landorus-Therian, M|100/100
+|-ability|p2a: El Furro|Intimidate|boost
+|-unboost|p1a: Iron Valiant|atk|1
+|turn|18
+|
+|t:|1781037519
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Latias|Latias, F|100/100
+|-damage|p1a: Latias|88/100|[from] Stealth Rock
+|-enditem|p1a: Latias|Electric Seed
+|-boost|p1a: Latias|def|1|[from] item: Electric Seed
+|move|p2a: El Furro|U-turn|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|62/100
+|
+|t:|1781037525
+|switch|p2a: Bruno|Kingambit, F|88/100|[from] U-turn
+|-damage|p2a: Bruno|72/100|[from] Spikes
+|-activate|p2a: Bruno|ability: Supreme Overlord
+|-start|p2a: Bruno|fallen2|[silent]
+|
+|upkeep
+|turn|19
+|
+|t:|1781037530
+|move|p1a: Latias|Aura Sphere|p2a: Bruno
+|-supereffective|p2a: Bruno
+|-damage|p2a: Bruno|0 fnt
+|faint|p2a: Bruno
+|-end|p2a: Bruno|fallen2|[silent]
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1781037535
+|switch|p2a: Ness|Primarina, F|100/100
+|-damage|p2a: Ness|84/100|[from] Spikes
+|turn|20
+|
+|t:|1781037546
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Ness|Moonblast|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|11/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781037555
+|move|p1a: Latias|Stored Power|p2a: Ness
+|-damage|p2a: Ness|58/100
+|move|p2a: Ness|Psychic Noise|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|4/100
+|-start|p1a: Latias|move: Heal Block
+|
+|upkeep
+|turn|22
+|
+|t:|1781037560
+|move|p1a: Latias|Stored Power|p2a: Ness
+|-damage|p2a: Ness|33/100
+|move|p2a: Ness|Moonblast|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|0 fnt
+|faint|p1a: Latias
+|
+|upkeep
+|
+|t:|1781037565
+|switch|p1a: Pincurchin|Pincurchin, M|67/100
+|-damage|p1a: Pincurchin|55/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|turn|23
+|
+|t:|1781037578
+|switch|p1a: Raichu|Raichu-Alola, M|7/100
+|-damage|p1a: Raichu|0 fnt|[from] Stealth Rock
+|faint|p1a: Raichu
+|move|p2a: Ness|Hydro Pump|p1: Raichu|[notarget]
+|-fail|p2a: Ness
+|
+|upkeep
+|
+|t:|1781037580
+|switch|p1a: Iron Valiant|Iron Valiant|68/100
+|-damage|p1a: Iron Valiant|62/100|[from] Stealth Rock
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdriveatk
+|turn|24
+|
+|t:|1781037592
+|switch|p2a: Curty|Corviknight, M|17/100
+|-ability|p2a: Curty|Pressure
+|move|p1a: Iron Valiant|Thunder Punch|p2a: Curty
+|-supereffective|p2a: Curty
+|-damage|p2a: Curty|0 fnt
+|-damage|p1a: Iron Valiant|46/100|[from] item: Rocky Helmet|[of] p2a: Curty
+|faint|p2a: Curty
+|
+|upkeep
+|
+|t:|1781037595
+|switch|p2a: El Furro|Landorus-Therian, M|100/100
+|-ability|p2a: El Furro|Intimidate|boost
+|-unboost|p1a: Iron Valiant|atk|1
+|turn|25
+|
+|t:|1781037604
+|move|p2a: El Furro|Earthquake|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|-message|dnites forfeited.
+|
+|win|Ignaa
+|raw|dnites's rating: 1612 &rarr; <strong>1595</strong><br />(-17 for losing)
+|raw|Ignaa's rating: 1666 &rarr; <strong>1683</strong><br />(+17 for winning)
+|l|☆dnites
+|player|p1|

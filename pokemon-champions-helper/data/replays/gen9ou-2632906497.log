@@ -1,0 +1,314 @@
+|j|☆sawquarete
+|j|☆dsekop
+|t:|1781577082
+|gametype|singles
+|player|p1|sawquarete|li|1635
+|player|p2|dsekop|unknown|1685
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Great Tusk|
+|poke|p1|Kingambit, F|
+|poke|p1|Gholdengo|
+|poke|p1|Ting-Lu|
+|poke|p1|Alomomola, M|
+|poke|p1|Zamazenta-*|
+|poke|p2|Glimmora, M|
+|poke|p2|Iron Treads|
+|poke|p2|Polteageist-Antique|
+|poke|p2|Raging Bolt|
+|poke|p2|Dragonite, F|
+|poke|p2|Zamazenta-*|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by dsekop)
+|
+|t:|1781577095
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781577102
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: Alomomola
+|-sidestart|p1: sawquarete|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781577106
+|move|p2a: Iron Treads|Knock Off|p1a: Alomomola
+|-damage|p1a: Alomomola|82/100
+|-enditem|p1a: Alomomola|Assault Vest|[from] move: Knock Off|[of] p2a: Iron Treads
+|move|p1a: Alomomola|Flip Turn|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|75/100
+|
+|t:|1781577109
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|3
+|
+|t:|1781577116
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Polteageist|Polteageist-Antique|100/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Polteageist
+|-immune|p2a: Polteageist
+|
+|upkeep
+|turn|4
+|
+|t:|1781577123
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-damage|p1a: Ting-Lu|94/100|[from] Stealth Rock
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|
+|-heal|p1a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781577131
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|move|p1a: Ting-Lu|Whirlwind|p2a: Polteageist
+|drag|p2a: Glimmora|Glimmora, M|100/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781577134
+|switch|p2a: Iron Treads|Iron Treads|75/100
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Iron Treads
+|-sidestart|p2: dsekop|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1781577139
+|move|p2a: Iron Treads|Rapid Spin|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|93/100
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: dsekop|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: Ting-Lu|Earthquake|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|21/100
+|
+|-heal|p1a: Ting-Lu|99/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781577142
+|move|p2a: Iron Treads|Endeavor|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|16/100
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Iron Treads
+|-sidestart|p2: dsekop|move: Stealth Rock
+|
+|-heal|p1a: Ting-Lu|22/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781577146
+|move|p2a: Iron Treads|Rapid Spin|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|15/100
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: dsekop|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: Ting-Lu|Earthquake|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p1a: Ting-Lu|21/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781577149
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|turn|10
+|
+|t:|1781577152
+|move|p2a: Glimmora|Energy Ball|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781577162
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|11
+|
+|t:|1781577172
+|-terastallize|p2a: Glimmora|Grass
+|-terastallize|p1a: Great Tusk|Steel
+|move|p2a: Glimmora|Energy Ball|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|66/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|28/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: sawquarete|move: Toxic Spikes
+|
+|upkeep
+|turn|12
+|
+|t:|1781577176
+|switch|p2a: Polteageist|Polteageist-Antique|100/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Polteageist
+|-damage|p2a: Polteageist|45/100
+|-ability|p2a: Polteageist|Weak Armor|boost
+|-unboost|p2a: Polteageist|def|1
+|-boost|p2a: Polteageist|spe|2
+|
+|upkeep
+|turn|13
+|
+|t:|1781577181
+|move|p2a: Polteageist|Shadow Ball|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781577184
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|-damage|p1a: Alomomola|88/100|[from] Stealth Rock
+|-status|p1a: Alomomola|psn
+|turn|14
+|
+|t:|1781577191
+|move|p2a: Polteageist|Pain Split|p1a: Alomomola
+|-sethp|p1a: Alomomola|55/100 psn|[from] move: Pain Split|[silent]
+|-sethp|p2a: Polteageist|100/100|[from] move: Pain Split
+|move|p1a: Alomomola|Flip Turn|p2a: Polteageist
+|-damage|p2a: Polteageist|59/100
+|-ability|p2a: Polteageist|Weak Armor|boost
+|-unboost|p2a: Polteageist|def|1
+|-boost|p2a: Polteageist|spe|2
+|
+|t:|1781577197
+|switch|p1a: Kingambit|Kingambit, F|100/100|[from] Flip Turn
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|
+|upkeep
+|turn|15
+|
+|t:|1781577199
+|move|p2a: Polteageist|Pain Split|p1a: Kingambit
+|-sethp|p1a: Kingambit|70/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Polteageist|91/100|[from] move: Pain Split
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|upkeep
+|turn|16
+|
+|t:|1781577207
+|move|p2a: Polteageist|Shadow Ball|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|41/100
+|move|p1a: Kingambit|Iron Head|p2a: Polteageist
+|-damage|p2a: Polteageist|0 fnt
+|faint|p2a: Polteageist
+|
+|upkeep
+|
+|t:|1781577214
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|17
+|
+|t:|1781577218
+|move|p2a: Raging Bolt|Thunderclap|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen2|[silent]
+|
+|upkeep
+|
+|t:|1781577222
+|switch|p1a: Alomomola|Alomomola, M|89/100 psn
+|-damage|p1a: Alomomola|76/100 psn|[from] Stealth Rock
+|turn|18
+|
+|t:|1781577226
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|move|p1a: Alomomola|Mirror Coat||[still]
+|-fail|p1a: Alomomola
+|
+|-damage|p1a: Alomomola|64/100 psn|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1781577231
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|faint|p1a: Alomomola
+|
+|upkeep
+|
+|t:|1781577233
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-damage|p1a: Zamazenta|94/100|[from] Stealth Rock
+|-status|p1a: Zamazenta|psn
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|20
+|
+|t:|1781577236
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Zamazenta
+|-damage|p1a: Zamazenta|11/100 psn
+|move|p1a: Zamazenta|Roar|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|drag|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|
+|-heal|p1a: Zamazenta|17/100 psn|[from] item: Leftovers
+|-damage|p1a: Zamazenta|4/100 psn|[from] psn
+|upkeep
+|turn|21
+|-message|sawquarete forfeited.
+|
+|win|dsekop
+|raw|sawquarete's rating: 1635 &rarr; <strong>1618</strong><br />(-17 for losing)
+|raw|dsekop's rating: 1685 &rarr; <strong>1702</strong><br />(+17 for winning)
+|l|☆sawquarete
+|player|p1|
+|l|☆dsekop
+|player|p2|

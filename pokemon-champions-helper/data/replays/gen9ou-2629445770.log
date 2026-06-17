@@ -1,0 +1,421 @@
+|j|‽daytime_lunar
+|j|☆uniandes5
+|t:|1781131808
+|gametype|singles
+|player|p1|daytime_lunar|wattson|1559
+|player|p2|uniandes5|2|1549
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tinkaton, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Ogerpon, F|
+|poke|p1|Moltres|
+|poke|p1|Great Tusk|
+|poke|p1|Pecharunt|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Latias, F|
+|poke|p2|Tinkaton, F|
+|poke|p2|Volcanion|
+|poke|p2|Mew|
+|poke|p2|Dragapult, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by daytime_lunar)
+|
+|t:|1781131813
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tinkaton|Tinkaton, F|100/100
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|-item|p1a: Tinkaton|Air Balloon
+|turn|1
+|
+|t:|1781131830
+|move|p2a: Dragapult|Thunder Wave|p1a: Tinkaton
+|-status|p1a: Tinkaton|par
+|move|p1a: Tinkaton|Thunder Wave|p2a: Dragapult
+|-status|p2a: Dragapult|par
+|
+|upkeep
+|turn|2
+|
+|t:|1781131835
+|cant|p2a: Dragapult|par
+|move|p1a: Tinkaton|Stealth Rock|p2a: Dragapult
+|-sidestart|p2: uniandes5|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781131845
+|move|p2a: Dragapult|Hex|p1a: Tinkaton
+|-damage|p1a: Tinkaton|45/100 par
+|-enditem|p1a: Tinkaton|Air Balloon
+|cant|p1a: Tinkaton|par
+|
+|upkeep
+|turn|4
+|
+|t:|1781131850
+|move|p2a: Dragapult|Hex|p1a: Tinkaton
+|-damage|p1a: Tinkaton|0 fnt
+|faint|p1a: Tinkaton
+|
+|upkeep
+|
+|t:|1781131855
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|turn|5
+|
+|t:|1781131859
+|move|p1a: Pecharunt|Shadow Ball|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|30/100 par
+|move|p2a: Dragapult|Thunder Wave|p1a: Pecharunt|[miss]
+|-miss|p2a: Dragapult|p1a: Pecharunt
+|
+|upkeep
+|turn|6
+|
+|t:|1781131875
+|move|p1a: Pecharunt|Shadow Ball|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1781131879
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|-damage|p2a: Grimmsnarl|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1781131881
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: uniandes5|move: Light Screen
+|move|p1a: Pecharunt|Malignant Chain|p2a: Grimmsnarl
+|-supereffective|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|62/100
+|-status|p2a: Grimmsnarl|tox
+|-start|p2a: Grimmsnarl|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|
+|-damage|p2a: Grimmsnarl|56/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781131889
+|-activate|p2a: Grimmsnarl|confusion
+|move|p2a: Grimmsnarl|Thunder Wave|p1a: Pecharunt
+|-status|p1a: Pecharunt|par
+|move|p1a: Pecharunt|Parting Shot|p2a: Grimmsnarl
+|-unboost|p2a: Grimmsnarl|atk|1
+|-unboost|p2a: Grimmsnarl|spa|1
+|inactive|daytime_lunar has 120 seconds left.
+|
+|t:|1781131927
+|switch|p1a: Ogerpon|Ogerpon, F|100/100|[from] Parting Shot
+|
+|-damage|p2a: Grimmsnarl|44/100 tox|[from] psn
+|upkeep
+|turn|9
+|inactive|daytime_lunar has 120 seconds left.
+|
+|t:|1781131942
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-end|p2a: Grimmsnarl|confusion
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: uniandes5|Reflect
+|
+|-damage|p2a: Grimmsnarl|26/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1781131947
+|switch|p2a: Mew|Mew|100/100
+|-damage|p2a: Mew|88/100|[from] Stealth Rock
+|move|p1a: Great Tusk|Ice Spinner|p2a: Mew
+|-damage|p2a: Mew|80/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781131952
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Mew|Dragon Dance|p2a: Mew
+|-boost|p2a: Mew|atk|1
+|-boost|p2a: Mew|spe|1
+|
+|upkeep
+|turn|12
+|
+|t:|1781131956
+|move|p2a: Mew|Stored Power|p1a: Moltres
+|-crit|p1a: Moltres
+|-damage|p1a: Moltres|67/100
+|move|p1a: Moltres|Flamethrower|p2a: Mew
+|-damage|p2a: Mew|62/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781131961
+|move|p2a: Mew|Dragon Dance|p2a: Mew
+|-boost|p2a: Mew|atk|1
+|-boost|p2a: Mew|spe|1
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|100/100
+|-singleturn|p1a: Moltres|move: Roost
+|
+|upkeep
+|turn|14
+|
+|t:|1781131967
+|move|p2a: Mew|Stored Power|p1a: Moltres
+|-damage|p1a: Moltres|65/100
+|move|p1a: Moltres|Flamethrower|p2a: Mew
+|-damage|p2a: Mew|45/100
+|
+|-sideend|p2: uniandes5|move: Light Screen
+|upkeep
+|turn|15
+|
+|t:|1781131971
+|move|p2a: Mew|Stored Power|p1a: Moltres
+|-damage|p1a: Moltres|33/100
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|83/100
+|-singleturn|p1a: Moltres|move: Roost
+|
+|upkeep
+|turn|16
+|
+|t:|1781131975
+|move|p2a: Mew|Dragon Dance|p2a: Mew
+|-boost|p2a: Mew|atk|1
+|-boost|p2a: Mew|spe|1
+|move|p1a: Moltres|Flamethrower|p2a: Mew
+|-damage|p2a: Mew|10/100
+|
+|-sideend|p2: uniandes5|Reflect
+|upkeep
+|turn|17
+|
+|t:|1781131979
+|move|p2a: Mew|Stored Power|p1a: Moltres
+|-damage|p1a: Moltres|31/100
+|move|p1a: Moltres|U-turn|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|
+|t:|1781131988
+|switch|p1a: Ogerpon|Ogerpon, F|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781131991
+|switch|p2a: Volcanion|Volcanion|100/100
+|turn|18
+|
+|t:|1781131994
+|move|p1a: Ogerpon|U-turn|p2a: Volcanion
+|-resisted|p2a: Volcanion
+|-damage|p2a: Volcanion|93/100
+|
+|t:|1781131996
+|switch|p1a: Raging Bolt|Raging Bolt|100/100|[from] U-turn
+|move|p2a: Volcanion|Flamethrower|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|85/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781132002
+|switch|p2a: Tinkaton|Tinkaton, F|100/100
+|-damage|p2a: Tinkaton|94/100|[from] Stealth Rock
+|-ability|p2a: Tinkaton|Mold Breaker
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Tinkaton
+|-damage|p2a: Tinkaton|52/100
+|-enditem|p2a: Tinkaton|Red Card|[of] p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|drag|p1a: Pecharunt|Pecharunt|100/100 par
+|
+|upkeep
+|turn|20
+|
+|t:|1781132009
+|move|p2a: Tinkaton|Knock Off|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|75/100 par
+|-enditem|p1a: Pecharunt|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tinkaton
+|move|p1a: Pecharunt|Shadow Ball|p2a: Tinkaton
+|-damage|p2a: Tinkaton|30/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781132017
+|switch|p2a: Volcanion|Volcanion|93/100
+|cant|p1a: Pecharunt|par
+|
+|upkeep
+|turn|22
+|
+|t:|1781132021
+|move|p2a: Volcanion|Earth Power|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|26/100 par
+|cant|p1a: Pecharunt|par
+|
+|upkeep
+|turn|23
+|
+|t:|1781132025
+|move|p2a: Volcanion|Flamethrower|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|faint|p1a: Pecharunt
+|
+|upkeep
+|
+|t:|1781132028
+|switch|p1a: Raging Bolt|Raging Bolt|85/100
+|turn|24
+|
+|t:|1781132031
+|switch|p2a: Tinkaton|Tinkaton, F|30/100
+|-damage|p2a: Tinkaton|23/100|[from] Stealth Rock
+|-ability|p2a: Tinkaton|Mold Breaker
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Tinkaton
+|-damage|p2a: Tinkaton|0 fnt
+|faint|p2a: Tinkaton
+|
+|upkeep
+|
+|t:|1781132040
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|26/100 tox
+|-damage|p2a: Grimmsnarl|13/100 tox|[from] Stealth Rock
+|turn|25
+|
+|t:|1781132045
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: uniandes5|Reflect
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|faint|p2a: Grimmsnarl
+|
+|upkeep
+|
+|t:|1781132049
+|switch|p2a: Latias|Latias, F|100/100
+|-damage|p2a: Latias|88/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1781132052
+|-terastallize|p2a: Latias|Poison
+|move|p1a: Raging Bolt|Volt Switch|p2a: Latias
+|-crit|p2a: Latias
+|-damage|p2a: Latias|48/100
+|
+|t:|1781132058
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Ogerpon|Ogerpon, F|100/100|[from] Volt Switch
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|
+|upkeep
+|turn|27
+|
+|t:|1781132061
+|move|p1a: Ogerpon|Knock Off|p2a: Latias
+|-damage|p2a: Latias|35/100
+|-enditem|p2a: Latias|Lum Berry|[from] move: Knock Off|[of] p1a: Ogerpon
+|move|p2a: Latias|Recover|p2a: Latias
+|-heal|p2a: Latias|85/100
+|
+|upkeep
+|turn|28
+|
+|t:|1781132065
+|move|p1a: Ogerpon|U-turn|p2a: Latias
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|81/100
+|
+|t:|1781132068
+|switch|p1a: Raging Bolt|Raging Bolt|85/100|[from] U-turn
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|
+|upkeep
+|turn|29
+|
+|t:|1781132071
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Latias
+|-damage|p2a: Latias|64/100
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|
+|upkeep
+|turn|30
+|
+|t:|1781132077
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Latias
+|-damage|p2a: Latias|49/100
+|move|p2a: Latias|Stored Power|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781132083
+|switch|p1a: Moltres|Moltres|31/100
+|turn|31
+|
+|t:|1781132087
+|move|p2a: Latias|Stored Power|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|upkeep
+|
+|t:|1781132096
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|turn|32
+|
+|t:|1781132103
+|move|p1a: Ogerpon|U-turn|p2a: Latias
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|44/100
+|
+|t:|1781132106
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|move|p2a: Latias|Recover|p2a: Latias
+|-heal|p2a: Latias|94/100
+|
+|-sideend|p2: uniandes5|Reflect
+|upkeep
+|turn|33
+|-message|daytime_lunar forfeited.
+|
+|win|uniandes5
+|raw|daytime_lunar's rating: 1559 &rarr; <strong>1538</strong><br />(-21 for losing)
+|raw|uniandes5's rating: 1549 &rarr; <strong>1570</strong><br />(+21 for winning)
+|l|‽daytime_lunar
+|player|p1|
+|l|☆uniandes5
+|player|p2|

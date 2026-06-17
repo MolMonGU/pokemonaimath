@@ -1,0 +1,173 @@
+|j|☆tiftif
+|j|☆gdhaorskt
+|t:|1781168276
+|gametype|singles
+|player|p1|tiftif|266|1557
+|player|p2|gdhaorskt|169|1537
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Iron Treads|
+|poke|p1|Barraskewda, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Talonflame, M|
+|poke|p1|Keldeo-Resolute|
+|poke|p2|Darkrai|
+|poke|p2|Dondozo, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Primarina, F|
+|poke|p2|Iron Treads|
+|poke|p2|Dragapult, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tiftif)
+|
+|t:|1781168292
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|inactive|tiftif has 120 seconds left.
+|
+|t:|1781168346
+|move|p1a: Iron Treads|Stealth Rock|p2a: Dragapult
+|-sidestart|p2: gdhaorskt|move: Stealth Rock
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Iron Treads
+|-status|p1a: Iron Treads|brn
+|
+|-damage|p1a: Iron Treads|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1781168358
+|move|p1a: Iron Treads|Ice Spinner|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|62/100
+|move|p2a: Dragapult|Hex|p1a: Iron Treads
+|-damage|p1a: Iron Treads|8/100 brn
+|
+|-damage|p1a: Iron Treads|2/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1781168374
+|switch|p2a: Dondozo|Dondozo, F|100/100
+|-damage|p2a: Dondozo|88/100|[from] Stealth Rock
+|move|p1a: Iron Treads|Ice Spinner|p2a: Dondozo
+|-resisted|p2a: Dondozo
+|-damage|p2a: Dondozo|85/100
+|
+|-heal|p2a: Dondozo|92/100|[from] item: Leftovers
+|-damage|p1a: Iron Treads|0 fnt|[from] brn
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|upkeep
+|
+|t:|1781168381
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|4
+|
+|t:|1781168404
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|move|p1a: Pelipper|U-turn|p2a: Kingambit
+|-damage|p2a: Kingambit|87/100
+|inactive|tiftif has 120 seconds left.
+|
+|t:|1781168412
+|switch|p1a: Keldeo|Keldeo-Resolute|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781168421
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Primarina|Primarina, F|100/100
+|-damage|p2a: Primarina|88/100|[from] Stealth Rock
+|move|p1a: Keldeo|Substitute|p1a: Keldeo
+|-start|p1a: Keldeo|Substitute
+|-damage|p1a: Keldeo|76/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Keldeo|82/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781168432
+|move|p1a: Keldeo|Surf|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|71/100
+|move|p2a: Primarina|Psychic Noise|p1a: Keldeo
+|-supereffective|p1a: Keldeo
+|-damage|p1a: Keldeo|15/100
+|-start|p1a: Keldeo|move: Heal Block
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781168441
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Primarina|Draining Kiss|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|48/100
+|-heal|p2a: Primarina|100/100|[from] drain|[of] p1a: Raging Bolt
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781168447
+|move|p1a: Raging Bolt|Weather Ball|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|80/100
+|move|p2a: Primarina|Draining Kiss|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|-heal|p2a: Primarina|100/100|[from] drain|[of] p1a: Raging Bolt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781168453
+|switch|p1a: Talonflame|Talonflame, M|100/100
+|turn|9
+|
+|t:|1781168456
+|move|p1a: Talonflame|Hurricane|p2a: Primarina
+|-damage|p2a: Primarina|62/100
+|move|p2a: Primarina|Sparkling Aria|p1a: Talonflame
+|-supereffective|p1a: Talonflame
+|-damage|p1a: Talonflame|0 fnt
+|faint|p1a: Talonflame
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|tiftif forfeited.
+|
+|win|gdhaorskt
+|raw|tiftif's rating: 1557 &rarr; <strong>1536</strong><br />(-21 for losing)
+|raw|gdhaorskt's rating: 1537 &rarr; <strong>1558</strong><br />(+21 for winning)
+|l|☆gdhaorskt
+|player|p2|

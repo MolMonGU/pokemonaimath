@@ -1,0 +1,268 @@
+|j|☆Dr Gaster PHD
+|j|☆FP.//06
+|t:|1781509694
+|gametype|singles
+|player|p1|Dr Gaster PHD|ghetsis|1715
+|player|p2|FP.//06|hilda-masters3|1691
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Pecharunt|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Cinderace, M|
+|poke|p1|Alomomola, M|
+|poke|p1|Iron Valiant|
+|poke|p2|Darkrai|
+|poke|p2|Iron Treads|
+|poke|p2|Dragonite, M|
+|poke|p2|Kyurem|
+|poke|p2|Hatterene, F|
+|poke|p2|Zamazenta-*|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FP.//06)
+|
+|t:|1781509708
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Werewolf BF|Landorus-Therian, M, shiny|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-ability|p1a: Werewolf BF|Intimidate|boost
+|-unboost|p2a: Iron Treads|atk|1
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781509715
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Werewolf BF|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|54/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781509718
+|move|p1a: Werewolf BF|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|10/100
+|move|p2a: Hatterene|Dazzling Gleam|p1a: Werewolf BF
+|-damage|p1a: Werewolf BF|47/100
+|
+|upkeep
+|turn|3
+|-enditem|p2a: Hatterene|Custap Berry|[eat]
+|-activate|p2a: Hatterene|item: Custap Berry|[consumed]
+|
+|t:|1781509720
+|move|p2a: Hatterene|Dazzling Gleam|p1a: Werewolf BF
+|-damage|p1a: Werewolf BF|0 fnt
+|faint|p1a: Werewolf BF
+|
+|upkeep
+|
+|t:|1781509725
+|switch|p1a: Messi Himself|Cinderace, M, shiny|100/100
+|turn|4
+|
+|t:|1781509733
+|move|p1a: Messi Himself|U-turn|p2a: Hatterene
+|-start|p1a: Messi Himself|typechange|Bug|[from] ability: Libero
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|t:|1781509743
+|switch|p1a: Akinator|Hoopa-Unbound|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781509748
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|5
+|
+|t:|1781509753
+|move|p2a: Zamazenta|Crunch|p1a: Akinator
+|-damage|p1a: Akinator|40/100
+|-damage|p2a: Zamazenta|91/100|[from] item: Life Orb
+|move|p1a: Akinator|Zen Headbutt|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781509756
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|turn|6
+|
+|t:|1781509759
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Akinator|Zen Headbutt|p2a: Dragonite
+|-damage|p2a: Dragonite|59/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781509765
+|move|p2a: Dragonite|Scale Shot|p1a: Akinator
+|-damage|p1a: Akinator|4/100
+|-damage|p1a: Akinator|0 fnt
+|faint|p1a: Akinator
+|-hitcount|p1: Akinator|2
+|-unboost|p2a: Dragonite|def|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|
+|t:|1781509767
+|switch|p1a: Britney Spears|Pecharunt|100/100
+|turn|8
+|
+|t:|1781509776
+|-terastallize|p1a: Britney Spears|Ghost
+|move|p2a: Dragonite|Scale Shot|p1a: Britney Spears
+|-damage|p1a: Britney Spears|91/100
+|-damage|p1a: Britney Spears|81/100
+|-damage|p1a: Britney Spears|71/100
+|-damage|p1a: Britney Spears|60/100
+|-damage|p1a: Britney Spears|49/100
+|-hitcount|p1a: Britney Spears|5
+|-unboost|p2a: Dragonite|def|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Britney Spears|Malignant Chain|p2a: Dragonite
+|-damage|p2a: Dragonite|23/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781509785
+|move|p2a: Dragonite|Scale Shot|p1a: Britney Spears
+|-damage|p1a: Britney Spears|38/100
+|-damage|p1a: Britney Spears|27/100
+|-damage|p1a: Britney Spears|17/100
+|-damage|p1a: Britney Spears|8/100
+|-damage|p1a: Britney Spears|0 fnt
+|faint|p1a: Britney Spears
+|-hitcount|p1: Britney Spears|5
+|-unboost|p2a: Dragonite|def|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|
+|t:|1781509791
+|switch|p1a: Messi Himself|Cinderace, M, shiny|100/100
+|turn|10
+|
+|t:|1781509795
+|-terastallize|p2a: Dragonite|Fire
+|move|p1a: Messi Himself|Sucker Punch||[still]
+|-fail|p1a: Messi Himself
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|11
+|
+|t:|1781509800
+|switch|p1a: Fih|Alomomola, M, shiny|100/100
+|move|p2a: Dragonite|Encore||[still]
+|-fail|p2a: Dragonite
+|
+|upkeep
+|turn|12
+|
+|t:|1781509801
+|move|p1a: Fih|Aqua Jet|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1781509805
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|13
+|
+|t:|1781509808
+|move|p2a: Kyurem|Freeze-Dry|p1a: Fih
+|-supereffective|p1a: Fih
+|-damage|p1a: Fih|62/100
+|move|p1a: Fih|Body Slam|p2a: Kyurem
+|-damage|p2a: Kyurem|90/100
+|
+|upkeep
+|turn|14
+|j| pigglesworth
+|
+|t:|1781509814
+|move|p2a: Kyurem|Freeze-Dry|p1a: Fih
+|-supereffective|p1a: Fih
+|-damage|p1a: Fih|20/100
+|move|p1a: Fih|Mirror Coat|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781509817
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|15
+|
+|t:|1781509827
+|move|p1a: Fih|Aqua Jet|p2a: Darkrai
+|-damage|p2a: Darkrai|86/100
+|move|p2a: Darkrai|Dark Pulse|p1a: Fih
+|-damage|p1a: Fih|0 fnt
+|faint|p1a: Fih
+|
+|upkeep
+|
+|t:|1781509830
+|switch|p1a: Messi Himself|Cinderace, M, shiny|100/100
+|turn|16
+|
+|t:|1781509836
+|move|p2a: Darkrai|Sludge Bomb|p1a: Messi Himself
+|-damage|p1a: Messi Himself|55/100
+|-status|p1a: Messi Himself|psn
+|move|p1a: Messi Himself|Pyro Ball|p2a: Darkrai
+|-damage|p2a: Darkrai|6/100
+|-status|p2a: Darkrai|brn
+|
+|-damage|p1a: Messi Himself|42/100 psn|[from] psn
+|-damage|p2a: Darkrai|0 fnt|[from] brn
+|faint|p2a: Darkrai
+|upkeep
+|
+|t:|1781509838
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|turn|17
+|
+|t:|1781509841
+|move|p1a: Messi Himself|Pyro Ball|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|win|Dr Gaster PHD
+|raw|Dr Gaster PHD's rating: 1715 &rarr; <strong>1734</strong><br />(+19 for winning)
+|raw|FP.&#x2f;&#x2f;06's rating: 1691 &rarr; <strong>1672</strong><br />(-19 for losing)
+|l|☆FP.//06
+|player|p2|

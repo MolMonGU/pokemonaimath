@@ -1,0 +1,230 @@
+|j|‽aaagislash
+|j|☆Liker of Mudkips
+|t:|1781244431
+|gametype|singles
+|player|p1|aaagislash|265|1604
+|player|p2|Liker of Mudkips|acetrainerf|1673
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Regieleki|
+|poke|p1|Araquanid, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Great Tusk|
+|poke|p1|Zoroark-Hisui, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Great Tusk|
+|poke|p2|Zapdos|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Liker of Mudkips)
+|
+|t:|1781244466
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Araquanid|Araquanid, F|100/100
+|switch|p2a: Kos|Dragapult, F|100/100
+|turn|1
+|
+|t:|1781244472
+|move|p2a: Kos|U-turn|p1a: Araquanid
+|-damage|p1a: Araquanid|84/100
+|-enditem|p1a: Araquanid|Red Card|[of] p2a: Kos
+|drag|p2a: Baku|Great Tusk|100/100
+|move|p1a: Araquanid|Sticky Web|p2a: Baku
+|-sidestart|p2: Liker of Mudkips|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1781244485
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Baku|Stealth Rock|p1a: Dragapult
+|-sidestart|p1: aaagislash|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781244493
+|-end|p2a: Baku|Protosynthesis|[silent]
+|switch|p2a: Pants|Slowking-Galar, M|100/100
+|-activate|p2a: Pants|move: Sticky Web
+|-unboost|p2a: Pants|spe|1
+|move|p1a: Dragapult|Will-O-Wisp|p2a: Pants
+|-status|p2a: Pants|brn
+|
+|-damage|p2a: Pants|94/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1781244504
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|98/100|[from] Stealth Rock
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Pants|Ice Beam|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|25/100
+|
+|-damage|p2a: Pants|88/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1781244522
+|switch|p2a: Kos|Dragapult, F|100/100
+|-activate|p2a: Kos|move: Sticky Web
+|-fail|p2a: Kos|unboost|[from] ability: Clear Body|[of] p2a: Kos
+|move|p1a: Great Tusk|Headlong Rush|p2a: Kos
+|-damage|p2a: Kos|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Kos
+|
+|upkeep
+|
+|t:|1781244535
+|switch|p2a: Larxene|Zapdos|100/100
+|turn|6
+|
+|t:|1781244539
+|move|p2a: Larxene|Heat Wave|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781244547
+|switch|p1a: Regieleki|Regieleki|100/100
+|-damage|p1a: Regieleki|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1781244554
+|move|p1a: Regieleki|Rapid Spin|p2a: Larxene
+|-damage|p2a: Larxene|88/100
+|-boost|p1a: Regieleki|spe|1
+|-sideend|p1: aaagislash|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Regieleki
+|move|p2a: Larxene|Heat Wave|p1a: Regieleki
+|-damage|p1a: Regieleki|24/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781244562
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Larxene|Heat Wave|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|81/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781244572
+|move|p1a: Dragapult|Draco Meteor|p2a: Larxene
+|-damage|p2a: Larxene|30/100
+|-unboost|p1a: Dragapult|spa|2
+|move|p2a: Larxene|Hurricane|p1a: Dragapult
+|-damage|p1a: Dragapult|2/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781244581
+|move|p1a: Dragapult|Draco Meteor|p2a: Larxene|[miss]
+|-miss|p1a: Dragapult|p2a: Larxene
+|move|p2a: Larxene|Roost|p2a: Larxene
+|-heal|p2a: Larxene|80/100
+|-singleturn|p2a: Larxene|move: Roost
+|
+|upkeep
+|turn|11
+|
+|t:|1781244590
+|move|p1a: Dragapult|Draco Meteor|p2a: Larxene
+|-damage|p2a: Larxene|49/100
+|-unboost|p1a: Dragapult|spa|2
+|move|p2a: Larxene|Heat Wave|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1781244593
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|turn|12
+|
+|t:|1781244601
+|move|p1a: Samurott|Hyper Voice|p2a: Larxene
+|-damage|p2a: Larxene|0 fnt
+|faint|p2a: Larxene
+|
+|upkeep
+|
+|t:|1781244611
+|switch|p2a: Nobunaga|Kingambit, M|100/100
+|-activate|p2a: Nobunaga|ability: Supreme Overlord
+|-start|p2a: Nobunaga|fallen2|[silent]
+|-item|p2a: Nobunaga|Air Balloon
+|turn|13
+|
+|t:|1781244626
+|-end|p2a: Nobunaga|fallen2|[silent]
+|switch|p2a: Pants|Slowking-Galar, M|100/100 brn
+|-activate|p2a: Pants|move: Sticky Web
+|-unboost|p2a: Pants|spe|1
+|-terastallize|p1a: Samurott|Fighting
+|move|p1a: Samurott|Focus Blast|p2a: Pants
+|-resisted|p2a: Pants
+|-damage|p2a: Pants|94/100 brn
+|
+|-damage|p2a: Pants|88/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781244638
+|move|p1a: Samurott|Shadow Ball|p2a: Pants
+|-supereffective|p2a: Pants
+|-damage|p2a: Pants|53/100 brn
+|move|p2a: Pants|Sludge Bomb|p1a: Samurott
+|-damage|p1a: Samurott|32/100
+|replace|p1a: Zoroark|Zoroark-Hisui, F
+|-end|p1a: Zoroark|Illusion
+|
+|-damage|p2a: Pants|47/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781244650
+|move|p1a: Zoroark|Shadow Ball|p2a: Pants
+|-supereffective|p2a: Pants
+|-damage|p2a: Pants|9/100 brn
+|move|p2a: Pants|Sludge Bomb|p1a: Zoroark
+|-damage|p1a: Zoroark|0 fnt
+|faint|p1a: Zoroark
+|
+|-damage|p2a: Pants|3/100 brn|[from] brn
+|upkeep
+|-message|aaagislash forfeited.
+|
+|win|Liker of Mudkips
+|raw|aaagislash's rating: 1604 &rarr; <strong>1588</strong><br />(-16 for losing)
+|raw|Liker of Mudkips's rating: 1673 &rarr; <strong>1689</strong><br />(+16 for winning)
+|l|‽aaagislash
+|player|p1|
+|l|☆Liker of Mudkips
+|player|p2|

@@ -1,0 +1,175 @@
+|j|☆Exxxn
+|j|☆lockheed shartin
+|t:|1781577767
+|gametype|singles
+|player|p1|Exxxn|2|1600
+|player|p2|lockheed shartin|psychic-gen4|1645
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Glimmora, F|
+|poke|p1|Dondozo, M|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Gardevoir, M|
+|poke|p1|Great Tusk|
+|poke|p2|Sinistcha|
+|poke|p2|Toxapex, F|
+|poke|p2|Latios, M|
+|poke|p2|Gliscor, F|
+|poke|p2|Clefable, F|
+|poke|p2|Zamazenta-*|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lockheed shartin)
+|
+|t:|1781577787
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gardevoir|Gardevoir, M, shiny|100/100
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|-ability|p1a: Gardevoir|Poison Heal|Trace|[from] ability: Trace|[of] p2a: Gliscor
+|turn|1
+|
+|t:|1781577792
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Gardevoir|Moonblast|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781577795
+|move|p2a: Gliscor|Knock Off|p1a: Gardevoir
+|-damage|p1a: Gardevoir|76/100
+|-enditem|p1a: Gardevoir|Assault Vest|[from] move: Knock Off|[of] p2a: Gliscor
+|move|p1a: Gardevoir|Moonblast|p2a: Gliscor
+|-damage|p2a: Gliscor|60/100 tox
+|
+|-heal|p2a: Gliscor|73/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|3
+|
+|t:|1781577801
+|move|p2a: Gliscor|Spikes|p1a: Gardevoir
+|-sidestart|p1: Exxxn|Spikes
+|move|p1a: Gardevoir|Psyshock|p2a: Gliscor
+|-damage|p2a: Gliscor|42/100 tox
+|
+|-heal|p2a: Gliscor|54/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|4
+|
+|t:|1781577807
+|move|p2a: Gliscor|Earthquake|p1a: Gardevoir
+|-damage|p1a: Gardevoir|40/100
+|move|p1a: Gardevoir|Moonblast|p2a: Gliscor
+|-damage|p2a: Gliscor|16/100 tox
+|
+|-heal|p2a: Gliscor|28/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|5
+|
+|t:|1781577813
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Spikes
+|move|p2a: Gliscor|Protect||[still]
+|-fail|p2a: Gliscor
+|
+|-heal|p2a: Gliscor|41/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|6
+|
+|t:|1781577815
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|-heal|p2a: Gliscor|53/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|7
+|
+|t:|1781577820
+|switch|p2a: Sinistcha|Sinistcha|100/100
+|move|p1a: Ogerpon|Horn Leech|p2a: Sinistcha
+|-resisted|p2a: Sinistcha
+|-damage|p2a: Sinistcha|74/100
+|-heal|p1a: Ogerpon|100/100|[from] drain|[of] p2a: Sinistcha
+|
+|upkeep
+|turn|8
+|
+|t:|1781577823
+|move|p1a: Ogerpon|Knock Off|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|0 fnt
+|-enditem|p2a: Sinistcha|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Ogerpon
+|faint|p2a: Sinistcha
+|
+|upkeep
+|
+|t:|1781577825
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|turn|9
+|
+|t:|1781577840
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|10
+|
+|t:|1781577842
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Toxapex|Toxic|p1a: Ogerpon
+|-status|p1a: Ogerpon|tox
+|
+|-damage|p1a: Ogerpon|94/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1781577844
+|move|p1a: Ogerpon|Horn Leech|p2a: Toxapex
+|-damage|p2a: Toxapex|32/100
+|-heal|p1a: Ogerpon|100/100 tox|[from] drain|[of] p2a: Toxapex
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-damage|p1a: Ogerpon|88/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1781577850
+|switch|p2a: Latios|Latios, M|100/100
+|move|p1a: Ogerpon|Knock Off|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|-enditem|p2a: Latios|Soul Dew|[from] move: Knock Off|[of] p1a: Ogerpon
+|faint|p2a: Latios
+|
+|-damage|p1a: Ogerpon|70/100 tox|[from] psn
+|upkeep
+|-message|lockheed shartin forfeited.
+|
+|win|Exxxn
+|raw|Exxxn's rating: 1600 &rarr; <strong>1623</strong><br />(+23 for winning)
+|raw|lockheed shartin's rating: 1645 &rarr; <strong>1622</strong><br />(-23 for losing)
+|l|☆lockheed shartin
+|player|p2|
+|l|☆Exxxn
+|player|p1|

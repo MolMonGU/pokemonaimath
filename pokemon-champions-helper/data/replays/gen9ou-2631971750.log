@@ -1,0 +1,372 @@
+|j|☆sanos
+|j|☆flamesjefferyx
+|t:|1781461391
+|gametype|singles
+|player|p1|sanos|nate|1499
+|player|p2|flamesjefferyx|zinnia|1573
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Raging Bolt|
+|poke|p1|Darkrai|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Great Tusk|
+|poke|p1|Gholdengo|
+|poke|p1|Corviknight, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by flamesjefferyx)
+|
+|t:|1781461408
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Darkrai|Darkrai|100/100
+|switch|p2a: man|Iron Treads|100/100
+|-enditem|p2a: man|Booster Energy
+|-activate|p2a: man|ability: Quark Drive|[fromitem]
+|-start|p2a: man|quarkdrivespe
+|turn|1
+|
+|t:|1781461413
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: man|Stealth Rock|p1a: Great Tusk
+|-sidestart|p1: sanos|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781461417
+|move|p2a: man|Steel Beam|p1a: Great Tusk
+|-damage|p1a: Great Tusk|30/100
+|-damage|p2a: man|50/100|[from] steelbeam
+|move|p1a: Great Tusk|Stealth Rock|p2a: man
+|-sidestart|p2: flamesjefferyx|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781461424
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|move|p2a: man|Rapid Spin|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|
+|upkeep
+|turn|4
+|
+|t:|1781461428
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: man|Earth Power|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|upkeep
+|turn|5
+|
+|t:|1781461432
+|move|p2a: man|Rapid Spin|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|84/100
+|-boost|p2a: man|spe|1
+|-damage|p2a: man|34/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|-sideend|p2: flamesjefferyx|Stealth Rock|[from] move: Rapid Spin|[of] p2a: man
+|move|p1a: Corviknight|Body Press|p2a: man
+|-supereffective|p2a: man
+|-damage|p2a: man|0 fnt
+|faint|p2a: man
+|-end|p2a: man|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781461435
+|switch|p2a: cat|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: cat
+|turn|6
+|
+|t:|1781461444
+|move|p1a: Corviknight|U-turn|p2a: cat
+|-resisted|p2a: cat
+|-damage|p2a: cat|95/100
+|
+|t:|1781461447
+|switch|p1a: Raging Bolt|Raging Bolt|100/100|[from] U-turn
+|-damage|p1a: Raging Bolt|88/100|[from] Stealth Rock
+|move|p2a: cat|U-turn|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|79/100
+|
+|t:|1781461468
+|switch|p2a: rabbit|Raging Bolt|100/100|[from] U-turn
+|-enditem|p2a: rabbit|Booster Energy
+|-activate|p2a: rabbit|ability: Protosynthesis|[fromitem]
+|-start|p2a: rabbit|protosynthesisspa
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781461479
+|-terastallize|p2a: rabbit|Fairy
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: rabbit
+|-immune|p2a: rabbit
+|move|p2a: rabbit|Draco Meteor|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|-unboost|p2a: rabbit|spa|2
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781461484
+|switch|p1a: Great Tusk|Great Tusk|30/100
+|-damage|p1a: Great Tusk|27/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1781461492
+|move|p1a: Great Tusk|Rapid Spin|p2a: rabbit
+|-damage|p2a: rabbit|88/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: sanos|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|move|p2a: rabbit|Weather Ball|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781461496
+|switch|p1a: Darkrai|Darkrai|100/100
+|turn|9
+|
+|t:|1781461503
+|switch|p1a: Corviknight|Corviknight, F|84/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: rabbit|Thunderclap||[still]
+|-fail|p2a: rabbit
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781461508
+|switch|p1a: Darkrai|Darkrai|100/100
+|move|p2a: rabbit|Thunder|p1a: Darkrai
+|-damage|p1a: Darkrai|46/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781461511
+|move|p2a: rabbit|Thunderclap|p1a: Darkrai
+|-damage|p1a: Darkrai|10/100
+|move|p1a: Darkrai|Sludge Bomb|p2a: rabbit
+|-supereffective|p2a: rabbit
+|-damage|p2a: rabbit|34/100
+|-status|p2a: rabbit|psn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: rabbit|22/100 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1781461516
+|move|p1a: Darkrai|Sludge Bomb|p2a: rabbit
+|-supereffective|p2a: rabbit
+|-damage|p2a: rabbit|0 fnt
+|faint|p2a: rabbit
+|-end|p2a: rabbit|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781461520
+|switch|p2a: e e|Barraskewda, M|100/100
+|turn|13
+|
+|t:|1781461529
+|move|p2a: e e|Close Combat|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|-unboost|p2a: e e|def|1
+|-unboost|p2a: e e|spd|1
+|faint|p1a: Darkrai
+|
+|-weather|none
+|upkeep
+|
+|t:|1781461534
+|switch|p1a: Gholdengo|Gholdengo|94/100
+|turn|14
+|
+|t:|1781461540
+|switch|p2a: cat|Pelipper, M|95/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: cat
+|move|p1a: Gholdengo|Trick|p2a: cat
+|-activate|p1a: Gholdengo|move: Trick|[of] p2a: cat
+|-item|p2a: cat|Choice Scarf|[from] move: Trick
+|-item|p1a: Gholdengo|Damp Rock|[from] move: Trick
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781461546
+|move|p1a: Gholdengo|Shadow Ball|p2a: cat
+|-damage|p2a: cat|32/100
+|-unboost|p2a: cat|spd|1
+|move|p2a: cat|Hurricane|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|72/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781461552
+|move|p1a: Gholdengo|Focus Blast|p2a: cat
+|-resisted|p2a: cat
+|-damage|p2a: cat|0 fnt
+|faint|p2a: cat
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781461555
+|switch|p2a: woman|Kingambit, M, shiny|100/100
+|-activate|p2a: woman|ability: Supreme Overlord
+|-start|p2a: woman|fallen3|[silent]
+|turn|17
+|
+|t:|1781461559
+|move|p2a: woman|Sucker Punch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781461563
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|18
+|
+|t:|1781461568
+|switch|p1a: Corviknight|Corviknight, F|84/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: woman|Kowtow Cleave|p1a: Corviknight
+|-damage|p1a: Corviknight|46/100
+|-damage|p2a: woman|84/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: woman|90/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781461572
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|96/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: woman|Swords Dance|p2a: woman
+|-boost|p2a: woman|atk|2
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: woman|97/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781461574
+|move|p1a: Corviknight|Body Press|p2a: woman
+|-supereffective|p2a: woman
+|-damage|p2a: woman|17/100
+|move|p2a: woman|Swords Dance|p2a: woman
+|-boost|p2a: woman|atk|2
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: woman|23/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781461578
+|move|p2a: woman|Sucker Punch|p1a: Corviknight
+|-damage|p1a: Corviknight|9/100
+|-damage|p2a: woman|6/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|move|p1a: Corviknight|Body Press|p2a: woman
+|-supereffective|p2a: woman
+|-damage|p2a: woman|0 fnt
+|faint|p2a: woman
+|-end|p2a: woman|fallen3|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781461586
+|switch|p2a: e e|Barraskewda, M|100/100
+|turn|22
+|
+|t:|1781461592
+|move|p2a: e e|Close Combat|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|-unboost|p2a: e e|def|1
+|-unboost|p2a: e e|spd|1
+|-damage|p2a: e e|84/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|faint|p1a: Corviknight
+|
+|upkeep
+|
+|t:|1781461594
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|23
+|
+|t:|1781461612
+|-terastallize|p1a: Ogerpon|Water
+|detailschange|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p2a: e e|Close Combat|p1a: Ogerpon
+|-damage|p1a: Ogerpon|20/100
+|-unboost|p2a: e e|def|1
+|-unboost|p2a: e e|spd|1
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: e e|[anim] Ivy Cudgel Water
+|-resisted|p2a: e e
+|-damage|p2a: e e|0 fnt
+|faint|p2a: e e
+|
+|upkeep
+|
+|t:|1781461619
+|switch|p2a: dog|Overqwil, M|100/100
+|turn|24
+|
+|t:|1781461621
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: dog|[anim] Ivy Cudgel Water
+|-crit|p2a: dog
+|-damage|p2a: dog|0 fnt
+|faint|p2a: dog
+|
+|win|sanos
+|raw|sanos's rating: 1499 &rarr; <strong>1523</strong><br />(+24 for winning)
+|raw|flamesjefferyx's rating: 1573 &rarr; <strong>1549</strong><br />(-24 for losing)
+|l|☆sanos
+|player|p1|
+|c|☆flamesjefferyx|Crit saves the shit player once again

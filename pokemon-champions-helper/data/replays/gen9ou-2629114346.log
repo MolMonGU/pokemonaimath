@@ -1,0 +1,278 @@
+|j|☆Izlymoney
+|j|☆AbraviousTinkaton
+|t:|1781100093
+|gametype|singles
+|player|p1|Izlymoney|169|1635
+|player|p2|AbraviousTinkaton|dana|1793
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cramorant, F|
+|poke|p1|Gallade, M|
+|poke|p1|Kingambit, F|
+|poke|p1|Iron Moth|
+|poke|p1|Enamorus, F|
+|poke|p1|Ogerpon-Cornerstone, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Glimmora, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Iron Valiant|
+|teampreview
+|
+|t:|1781100108
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cramorant|Cramorant, F, shiny|100/100
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|1
+|
+|t:|1781100114
+|move|p2a: Dragapult|U-turn|p1a: Cramorant
+|-resisted|p1a: Cramorant
+|-damage|p1a: Cramorant|83/100
+|
+|t:|1781100117
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|move|p1a: Cramorant|Tailwind|p1a: Cramorant
+|-sidestart|p1: Izlymoney|move: Tailwind
+|
+|upkeep
+|turn|2
+|
+|t:|1781100124
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|move|p1a: Cramorant|Hurricane|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|67/100
+|
+|upkeep
+|turn|3
+|j| Fat_Yogi
+|
+|t:|1781100133
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Cramorant|Surf|p2a: Ogerpon
+|-immune|p2a: Ogerpon|[from] ability: Water Absorb
+|
+|upkeep
+|turn|4
+|
+|t:|1781100142
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Cramorant|Hurricane|p2a: Dragapult|[miss]
+|-miss|p1a: Cramorant|p2a: Dragapult
+|
+|-sideend|p1: Izlymoney|move: Tailwind
+|upkeep
+|turn|5
+|
+|t:|1781100146
+|move|p2a: Dragapult|Draco Meteor|p1a: Cramorant|[miss]
+|-miss|p2a: Dragapult|p1a: Cramorant
+|move|p1a: Cramorant|Tailwind|p1a: Cramorant
+|-sidestart|p1: Izlymoney|move: Tailwind
+|
+|upkeep
+|turn|6
+|
+|t:|1781100152
+|move|p1a: Cramorant|Surf|p2a: Dragapult
+|-formechange|p1a: Cramorant|Cramorant-Gulping|
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|76/100
+|move|p2a: Dragapult|Draco Meteor|p1a: Cramorant
+|-damage|p1a: Cramorant|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|-damage|p2a: Dragapult|51/100|[from] ability: Gulp Missile|[of] p1a: Cramorant
+|-fail|p2a: Dragapult|unboost|[from] ability: Clear Body|[of] p2a: Dragapult
+|-formechange|p1a: Cramorant|Cramorant|
+|faint|p1a: Cramorant
+|
+|upkeep
+|
+|t:|1781100163
+|switch|p1a: Gallade|Gallade, M|100/100
+|turn|7
+|
+|t:|1781100171
+|switch|p2a: Glimmora|Glimmora, M|67/100
+|move|p1a: Gallade|Swords Dance|p1a: Gallade
+|-boost|p1a: Gallade|atk|2
+|
+|upkeep
+|turn|8
+|
+|t:|1781100177
+|move|p1a: Gallade|Psycho Cut|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-crit|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: Izlymoney|move: Toxic Spikes
+|faint|p2a: Glimmora
+|
+|-sideend|p1: Izlymoney|move: Tailwind
+|upkeep
+|
+|t:|1781100186
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|9
+|
+|t:|1781100191
+|move|p2a: Ogerpon|Play Rough|p1a: Gallade
+|-supereffective|p1a: Gallade
+|-enditem|p1a: Gallade|Focus Sash
+|-damage|p1a: Gallade|1/100
+|move|p1a: Gallade|Psycho Cut|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781100194
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Gallade|atk|1
+|turn|10
+|
+|t:|1781100198
+|move|p2a: Landorus|U-turn|p1a: Gallade
+|-damage|p1a: Gallade|0 fnt
+|faint|p1a: Gallade
+|
+|t:|1781100201
+|switch|p2a: Dragapult|Dragapult, F|51/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781100209
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-sideend|p1: Izlymoney|move: Toxic Spikes|[of] p1a: Iron Moth
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|turn|11
+|j| Puyu paz
+|
+|t:|1781100220
+|move|p1a: Iron Moth|Dazzling Gleam|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1781100224
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Iron Moth|atk|1
+|turn|12
+|
+|t:|1781100230
+|-terastallize|p1a: Iron Moth|Grass
+|move|p1a: Iron Moth|Fiery Dance|p2a: Landorus
+|-damage|p2a: Landorus|60/100
+|-boost|p1a: Iron Moth|spa|1
+|move|p2a: Landorus|Stealth Rock|p1a: Iron Moth
+|-sidestart|p1: Izlymoney|move: Stealth Rock
+|
+|upkeep
+|turn|13
+|
+|t:|1781100236
+|move|p1a: Iron Moth|Energy Ball|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1781100245
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|14
+|
+|t:|1781100251
+|-terastallize|p2a: Iron Valiant|Steel
+|move|p2a: Iron Valiant|Encore|p1a: Iron Moth
+|-start|p1a: Iron Moth|Encore
+|move|p1a: Iron Moth|Energy Ball|p2a: Iron Valiant
+|-resisted|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|41/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781100255
+|move|p2a: Iron Valiant|Spirit Break|p1a: Iron Moth
+|-damage|p1a: Iron Moth|37/100
+|-unboost|p1a: Iron Moth|spa|1
+|move|p1a: Iron Moth|Energy Ball|p2a: Iron Valiant
+|-resisted|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781100260
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|turn|16
+|
+|t:|1781100265
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|-damage|p1a: Enamorus|76/100|[from] Stealth Rock
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|upkeep
+|turn|17
+|
+|t:|1781100269
+|move|p2a: Kingambit|Sucker Punch|p1a: Enamorus
+|-resisted|p1a: Enamorus
+|-damage|p1a: Enamorus|0 fnt
+|faint|p1a: Enamorus
+|
+|upkeep
+|
+|t:|1781100272
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|18
+|
+|t:|1781100276
+|move|p1a: Kingambit|Low Kick|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen5|[silent]
+|-damage|p1a: Kingambit|84/100|[from] item: Life Orb
+|
+|win|Izlymoney
+|raw|Izlymoney's rating: 1635 &rarr; <strong>1664</strong><br />(+29 for winning)
+|raw|AbraviousTinkaton's rating: 1793 &rarr; <strong>1764</strong><br />(-29 for losing)
+|l|☆AbraviousTinkaton
+|player|p2|
+|l|☆Izlymoney
+|player|p1|
+|l| Fat_Yogi
+|l| Puyu paz

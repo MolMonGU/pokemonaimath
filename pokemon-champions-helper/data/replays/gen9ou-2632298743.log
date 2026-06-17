@@ -1,0 +1,471 @@
+|j|☆DiceyRice
+|j|☆hawkins0
+|t:|1781503983
+|gametype|singles
+|player|p1|DiceyRice|miku-ghost|1626
+|player|p2|hawkins0|2|1762
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Deoxys-Defense|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Weezing-Galar, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Corviknight, F|
+|poke|p1|Ting-Lu|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Pecharunt|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|
+|t:|1781503994
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ryuga|Dragapult, M|100/100
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Ryuga|atk|1
+|turn|1
+|
+|t:|1781504024
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|move|p1a: Ryuga|Draco Meteor|p2a: Pisces
+|-damage|p2a: Pisces|59/100
+|-unboost|p1a: Ryuga|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781504030
+|switch|p1a: Nezuko|Ogerpon-Wellspring, F|100/100
+|move|p2a: Pisces|Flip Turn|p1a: Nezuko
+|-immune|p1a: Nezuko|[from] ability: Water Absorb
+|
+|upkeep
+|turn|3
+|
+|t:|1781504048
+|switch|p1a: Nokotan|Ting-Lu|100/100
+|-ability|p1a: Nokotan|Vessel of Ruin
+|switch|p2a: Overseer|Pecharunt|100/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781504051
+|move|p2a: Overseer|Malignant Chain|p1a: Nokotan
+|-resisted|p1a: Nokotan
+|-damage|p1a: Nokotan|94/100
+|move|p1a: Nokotan|Stealth Rock|p2a: Overseer
+|-sidestart|p2: hawkins0|move: Stealth Rock
+|
+|-heal|p1a: Nokotan|99/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781504053
+|move|p2a: Overseer|Malignant Chain|p1a: Nokotan
+|-resisted|p1a: Nokotan
+|-damage|p1a: Nokotan|93/100
+|-status|p1a: Nokotan|tox
+|-start|p1a: Nokotan|confusion|[from] ability: Poison Puppeteer|[of] p2a: Overseer
+|-activate|p1a: Nokotan|confusion
+|-damage|p1a: Nokotan|88/100 tox|[from] confusion
+|
+|-heal|p1a: Nokotan|94/100 tox|[from] item: Leftovers
+|-damage|p1a: Nokotan|88/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1781504055
+|move|p2a: Overseer|Parting Shot|p1a: Nokotan
+|-unboost|p1a: Nokotan|atk|1
+|-unboost|p1a: Nokotan|spa|1
+|
+|t:|1781504059
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100|[from] Parting Shot
+|-damage|p2a: Enten|88/100|[from] Stealth Rock
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Nokotan|atk|1
+|-end|p1a: Nokotan|confusion
+|move|p1a: Nokotan|Earthquake|p2a: Enten
+|-immune|p2a: Enten
+|
+|-heal|p1a: Nokotan|94/100 tox|[from] item: Leftovers
+|-damage|p1a: Nokotan|81/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1781504062
+|switch|p1a: Nezuko|Ogerpon-Wellspring, F|100/100
+|move|p2a: Enten|U-turn|p1a: Nezuko
+|-supereffective|p1a: Nezuko
+|-damage|p1a: Nezuko|43/100
+|
+|t:|1781504067
+|switch|p2a: Liberacy|Cinderace, M, shiny|100/100|[from] U-turn
+|
+|upkeep
+|turn|8
+|
+|t:|1781504071
+|switch|p1a: Smoker|Weezing-Galar, M|100/100
+|-ability|p1a: Smoker|Neutralizing Gas
+|move|p2a: Liberacy|U-turn|p1a: Smoker
+|-resisted|p1a: Smoker
+|-damage|p1a: Smoker|96/100
+|
+|t:|1781504087
+|switch|p2a: Enten|Landorus-Therian, M, shiny|88/100|[from] U-turn
+|-damage|p2a: Enten|76/100|[from] Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1781504092
+|-end|p1a: Smoker|ability: Neutralizing Gas
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Smoker|atk|1
+|switch|p1a: Itachi|Corviknight, F|100/100
+|-ability|p1a: Itachi|Pressure
+|move|p2a: Enten|U-turn|p1a: Itachi
+|-resisted|p1a: Itachi
+|-damage|p1a: Itachi|96/100
+|
+|t:|1781504109
+|switch|p2a: Calamity|Iron Valiant, shiny|100/100|[from] U-turn
+|-damage|p2a: Calamity|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|t:|1781504114
+|switch|p1a: Smoker|Weezing-Galar, M|96/100
+|-ability|p1a: Smoker|Neutralizing Gas
+|move|p2a: Calamity|Thunderbolt|p1a: Smoker
+|-damage|p1a: Smoker|34/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781504117
+|-end|p1a: Smoker|ability: Neutralizing Gas
+|switch|p1a: Nokotan|Ting-Lu|81/100 tox
+|-ability|p1a: Nokotan|Vessel of Ruin
+|move|p2a: Calamity|Thunderbolt|p1a: Nokotan
+|-immune|p1a: Nokotan
+|
+|-heal|p1a: Nokotan|88/100 tox|[from] item: Leftovers
+|-damage|p1a: Nokotan|81/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1781504121
+|-end|p2a: Calamity|Quark Drive|[silent]
+|switch|p2a: Enten|Landorus-Therian, M, shiny|76/100
+|-damage|p2a: Enten|64/100|[from] Stealth Rock
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Nokotan|atk|1
+|move|p1a: Nokotan|Earthquake|p2a: Enten
+|-immune|p2a: Enten
+|
+|-heal|p1a: Nokotan|88/100 tox|[from] item: Leftovers
+|-damage|p1a: Nokotan|75/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1781504136
+|switch|p1a: Itachi|Corviknight, F|96/100
+|-ability|p1a: Itachi|Pressure
+|move|p2a: Enten|U-turn|p1a: Itachi
+|-resisted|p1a: Itachi
+|-damage|p1a: Itachi|91/100
+|
+|t:|1781504138
+|switch|p2a: Calamity|Iron Valiant, shiny|94/100|[from] U-turn
+|-damage|p2a: Calamity|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|14
+|
+|t:|1781504144
+|switch|p1a: Smoker|Weezing-Galar, M|34/100
+|-ability|p1a: Smoker|Neutralizing Gas
+|move|p2a: Calamity|Thunderbolt|p1a: Smoker
+|-crit|p1a: Smoker
+|-damage|p1a: Smoker|0 fnt
+|faint|p1a: Smoker
+|-end|p1a: Smoker|ability: Neutralizing Gas
+|
+|upkeep
+|
+|t:|1781504146
+|switch|p1a: Nokotan|Ting-Lu|75/100 tox
+|-ability|p1a: Nokotan|Vessel of Ruin
+|turn|15
+|
+|t:|1781504151
+|-end|p2a: Calamity|Quark Drive|[silent]
+|switch|p2a: Pisces|Alomomola, M, shiny|92/100
+|-damage|p2a: Pisces|80/100|[from] Stealth Rock
+|move|p1a: Nokotan|Rest|p1a: Nokotan
+|-status|p1a: Nokotan|slp|[from] move: Rest
+|-heal|p1a: Nokotan|100/100 slp|[silent]
+|
+|upkeep
+|turn|16
+|
+|t:|1781504154
+|switch|p2a: Calamity|Iron Valiant, shiny|88/100
+|-damage|p2a: Calamity|82/100|[from] Stealth Rock
+|cant|p1a: Nokotan|slp
+|
+|upkeep
+|turn|17
+|
+|t:|1781504158
+|switch|p1a: Itachi|Corviknight, F|91/100
+|-ability|p1a: Itachi|Pressure
+|-terastallize|p2a: Calamity|Fairy
+|move|p2a: Calamity|Moonblast|p1a: Itachi
+|-resisted|p1a: Itachi
+|-damage|p1a: Itachi|48/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781504172
+|-end|p2a: Calamity|Quark Drive|[silent]
+|switch|p2a: Liberacy|Cinderace, M, shiny|100/100
+|move|p1a: Itachi|Roost|p1a: Itachi
+|-heal|p1a: Itachi|98/100
+|-singleturn|p1a: Itachi|move: Roost
+|
+|upkeep
+|turn|19
+|
+|t:|1781504179
+|switch|p1a: Nokotan|Ting-Lu|100/100 slp
+|-ability|p1a: Nokotan|Vessel of Ruin
+|move|p2a: Liberacy|Pyro Ball|p1a: Nokotan
+|-damage|p1a: Nokotan|69/100 slp
+|
+|-heal|p1a: Nokotan|76/100 slp|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781504182
+|move|p2a: Liberacy|U-turn|p1a: Nokotan
+|-start|p2a: Liberacy|typechange|Bug|[from] ability: Libero
+|-supereffective|p1a: Nokotan
+|-damage|p1a: Nokotan|38/100 slp
+|
+|t:|1781504186
+|switch|p2a: Calamity|Iron Valiant, shiny, tera:Fairy|82/100|[from] U-turn
+|-damage|p2a: Calamity|69/100|[from] Stealth Rock
+|cant|p1a: Nokotan|slp
+|
+|-heal|p1a: Nokotan|44/100 slp|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781504189
+|move|p2a: Calamity|Moonblast|p1a: Nokotan
+|-supereffective|p1a: Nokotan
+|-damage|p1a: Nokotan|0 fnt
+|faint|p1a: Nokotan
+|
+|upkeep
+|
+|t:|1781504192
+|switch|p1a: Ryuga|Dragapult, M|100/100
+|turn|22
+|
+|t:|1781504198
+|-end|p2a: Calamity|Quark Drive|[silent]
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|-damage|p2a: Pisces|88/100|[from] Stealth Rock
+|-terastallize|p1a: Ryuga|Ghost
+|move|p1a: Ryuga|Shadow Ball|p2a: Pisces
+|-damage|p2a: Pisces|48/100
+|-unboost|p2a: Pisces|spd|1
+|
+|upkeep
+|turn|23
+|
+|t:|1781504210
+|move|p2a: Pisces|Aqua Jet|p1a: Ryuga
+|-damage|p1a: Ryuga|84/100
+|move|p1a: Ryuga|Shadow Ball|p2a: Pisces
+|-damage|p2a: Pisces|0 fnt
+|faint|p2a: Pisces
+|
+|upkeep
+|
+|t:|1781504213
+|switch|p2a: Enten|Landorus-Therian, M, shiny|64/100
+|-damage|p2a: Enten|52/100|[from] Stealth Rock
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Ryuga|atk|1
+|turn|24
+|
+|t:|1781504216
+|switch|p1a: Itachi|Corviknight, F|98/100
+|-ability|p1a: Itachi|Pressure
+|move|p2a: Enten|Earthquake|p1a: Itachi
+|-immune|p1a: Itachi
+|
+|upkeep
+|turn|25
+|
+|t:|1781504231
+|switch|p2a: Liberacy|Cinderace, M, shiny|100/100
+|move|p1a: Itachi|Body Press|p2a: Liberacy
+|-damage|p2a: Liberacy|64/100
+|
+|upkeep
+|turn|26
+|
+|t:|1781504236
+|switch|p1a: Nezuko|Ogerpon-Wellspring, F|43/100
+|move|p2a: Liberacy|Pyro Ball|p1a: Nezuko
+|-damage|p1a: Nezuko|0 fnt
+|faint|p1a: Nezuko
+|
+|upkeep
+|
+|t:|1781504237
+|switch|p1a: Ryuga|Dragapult, M, tera:Ghost|84/100
+|turn|27
+|
+|t:|1781504247
+|switch|p2a: Khaos|Hoopa-Unbound|100/100
+|-damage|p2a: Khaos|88/100|[from] Stealth Rock
+|move|p1a: Ryuga|Shadow Ball|p2a: Khaos
+|-damage|p2a: Khaos|26/100
+|-unboost|p2a: Khaos|spd|1
+|
+|upkeep
+|turn|28
+|
+|t:|1781504249
+|move|p1a: Ryuga|Shadow Ball|p2a: Khaos
+|-damage|p2a: Khaos|0 fnt
+|faint|p2a: Khaos
+|
+|upkeep
+|
+|t:|1781504252
+|switch|p2a: Enten|Landorus-Therian, M, shiny|52/100
+|-damage|p2a: Enten|39/100|[from] Stealth Rock
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Ryuga|atk|1
+|turn|29
+|
+|t:|1781504253
+|move|p2a: Enten|U-turn|p1a: Ryuga
+|-resisted|p1a: Ryuga
+|-damage|p1a: Ryuga|67/100
+|
+|t:|1781504258
+|switch|p2a: Overseer|Pecharunt|100/100|[from] U-turn
+|move|p1a: Ryuga|Shadow Ball|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|0 fnt
+|faint|p2a: Overseer
+|
+|upkeep
+|
+|t:|1781504259
+|switch|p2a: Liberacy|Cinderace, M, shiny|64/100
+|turn|30
+|
+|t:|1781504261
+|move|p2a: Liberacy|Sucker Punch|p1a: Ryuga
+|-start|p2a: Liberacy|typechange|Dark|[from] ability: Libero
+|-supereffective|p1a: Ryuga
+|-damage|p1a: Ryuga|0 fnt
+|faint|p1a: Ryuga
+|
+|upkeep
+|
+|t:|1781504266
+|switch|p1a: DIO|Deoxys-Defense, shiny|100/100
+|-ability|p1a: DIO|Pressure
+|turn|31
+|
+|t:|1781504280
+|move|p2a: Liberacy|U-turn|p1a: DIO
+|-supereffective|p1a: DIO
+|-damage|p1a: DIO|68/100
+|
+|t:|1781504282
+|switch|p2a: Calamity|Iron Valiant, shiny, tera:Fairy|69/100|[from] U-turn
+|-damage|p2a: Calamity|57/100|[from] Stealth Rock
+|move|p1a: DIO|Nasty Plot|p1a: DIO
+|-boost|p1a: DIO|spa|2
+|
+|-heal|p1a: DIO|75/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1781504285
+|move|p2a: Calamity|Moonblast|p1a: DIO
+|-damage|p1a: DIO|0 fnt
+|faint|p1a: DIO
+|
+|upkeep
+|
+|t:|1781504287
+|switch|p1a: Itachi|Corviknight, F|98/100
+|-ability|p1a: Itachi|Pressure
+|turn|33
+|
+|t:|1781504295
+|move|p2a: Calamity|Moonblast|p1a: Itachi
+|-resisted|p1a: Itachi
+|-damage|p1a: Itachi|53/100
+|move|p1a: Itachi|Iron Defense|p1a: Itachi
+|-boost|p1a: Itachi|def|2
+|
+|upkeep
+|turn|34
+|
+|t:|1781504297
+|move|p2a: Calamity|Moonblast|p1a: Itachi
+|-resisted|p1a: Itachi
+|-damage|p1a: Itachi|10/100
+|move|p1a: Itachi|Roost|p1a: Itachi
+|-heal|p1a: Itachi|60/100
+|-singleturn|p1a: Itachi|move: Roost
+|
+|upkeep
+|turn|35
+|
+|t:|1781504300
+|move|p2a: Calamity|Moonblast|p1a: Itachi
+|-resisted|p1a: Itachi
+|-crit|p1a: Itachi
+|-damage|p1a: Itachi|0 fnt
+|faint|p1a: Itachi
+|
+|win|hawkins0
+|raw|DiceyRice's rating: 1626 &rarr; <strong>1613</strong><br />(-13 for losing)
+|raw|hawkins0's rating: 1762 &rarr; <strong>1775</strong><br />(+13 for winning)
+|l|☆DiceyRice
+|player|p1|
+|l|☆hawkins0
+|player|p2|

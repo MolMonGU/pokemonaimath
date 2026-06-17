@@ -1,0 +1,908 @@
+|j|☆oldgensbetter
+|j|☆KurisuChestnutLab
+|t:|1781144947
+|gametype|singles
+|player|p1|oldgensbetter|unknownf|1543
+|player|p2|KurisuChestnutLab|may-contest|1567
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Zapdos|
+|poke|p1|Iron Treads|
+|poke|p1|Ceruledge, M|
+|poke|p1|Gholdengo|
+|poke|p1|Kingambit, M|
+|poke|p2|Primarina, F|
+|poke|p2|Hippowdon, M|
+|poke|p2|Skarmory, F|
+|poke|p2|Zapdos|
+|poke|p2|Dragonite, M|
+|poke|p2|Slowking, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutLab)
+|
+|t:|1781144954
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|switch|p2a: Primarina|Primarina, F|100/100
+|turn|1
+|
+|t:|1781144961
+|move|p1a: Samurott|Ceaseless Edge|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|77/100
+|-sidestart|p2: KurisuChestnutLab|Spikes
+|move|p2a: Primarina|Moonblast|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-crit|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781144968
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|2
+|
+|t:|1781144972
+|move|p1a: Zapdos|Hurricane|p2a: Primarina|[miss]
+|-miss|p1a: Zapdos|p2a: Primarina
+|move|p2a: Primarina|Surf|p1a: Zapdos
+|-damage|p1a: Zapdos|51/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781144977
+|move|p1a: Zapdos|Volt Switch|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|46/100
+|
+|t:|1781144982
+|switch|p1a: Kingambit|Kingambit, M|100/100|[from] Volt Switch
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|move|p2a: Primarina|Surf|p1a: Kingambit
+|-damage|p1a: Kingambit|42/100
+|
+|-heal|p1a: Kingambit|49/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781144987
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Kingambit|Iron Head|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|84/100
+|
+|-heal|p1a: Kingambit|55/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781144992
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Zapdos|Volt Switch|p1a: Iron Treads
+|-immune|p1a: Iron Treads
+|
+|upkeep
+|turn|6
+|
+|t:|1781144996
+|move|p1a: Iron Treads|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: KurisuChestnutLab|move: Stealth Rock
+|move|p2a: Zapdos|Heat Wave|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|26/100
+|
+|-heal|p1a: Iron Treads|32/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781144999
+|move|p1a: Iron Treads|Knock Off|p2a: Zapdos
+|-damage|p2a: Zapdos|61/100
+|-status|p1a: Iron Treads|par|[from] ability: Static|[of] p2a: Zapdos
+|-enditem|p2a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: Zapdos|Hurricane|p1a: Iron Treads|[miss]
+|-miss|p2a: Zapdos|p1a: Iron Treads
+|
+|-heal|p1a: Iron Treads|38/100 par|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781145015
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Zapdos|Zapdos|51/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|9
+|
+|t:|1781145018
+|move|p2a: Zapdos|Heat Wave|p1a: Zapdos
+|-damage|p1a: Zapdos|26/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|76/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|10
+|
+|t:|1781145022
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|54/100
+|move|p1a: Zapdos|Volt Switch|p2a: Zapdos
+|-damage|p2a: Zapdos|73/100
+|
+|t:|1781145028
+|switch|p1a: Ceruledge|Ceruledge, M|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|11
+|
+|t:|1781145032
+|move|p2a: Zapdos|Volt Switch|p1a: Ceruledge
+|-damage|p1a: Ceruledge|74/100
+|
+|t:|1781145036
+|switch|p2a: Slowking|Slowking, M|100/100|[from] Volt Switch
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|upkeep
+|turn|12
+|
+|t:|1781145041
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Ceruledge|Poltergeist|p2a: Dragonite
+|-activate|p2a: Dragonite|move: Poltergeist|Heavy-Duty Boots
+|-damage|p2a: Dragonite|31/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781145048
+|-terastallize|p1a: Ceruledge|Fairy
+|move|p2a: Dragonite|Earthquake|p1a: Ceruledge
+|-damage|p1a: Ceruledge|24/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|move|p1a: Ceruledge|Bitter Blade|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|-heal|p1a: Ceruledge|38/100|[from] drain|[of] p2a: Dragonite
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1781145052
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-damage|p2a: Hippowdon|88/100|[from] Spikes
+|-damage|p2a: Hippowdon|82/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|14
+|
+|t:|1781145056
+|move|p1a: Ceruledge|Bitter Blade|p2a: Hippowdon
+|-damage|p2a: Hippowdon|25/100
+|-heal|p1a: Ceruledge|72/100|[from] drain|[of] p2a: Hippowdon
+|move|p2a: Hippowdon|Earthquake|p1a: Ceruledge
+|-damage|p1a: Ceruledge|6/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ceruledge|0 fnt|[from] Sandstorm
+|faint|p1a: Ceruledge
+|-heal|p2a: Hippowdon|31/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781145067
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|15
+|
+|t:|1781145074
+|move|p1a: Gholdengo|Hex|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781145081
+|switch|p2a: Zapdos|Zapdos|73/100
+|-damage|p2a: Zapdos|48/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781145086
+|switch|p1a: Zapdos|Zapdos|54/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|98/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|92/100|[from] Sandstorm
+|-damage|p1a: Zapdos|48/100|[from] Sandstorm
+|upkeep
+|turn|17
+|
+|t:|1781145089
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos|[miss]
+|-miss|p2a: Zapdos|p1a: Zapdos
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|98/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|86/100|[from] Sandstorm
+|-damage|p1a: Zapdos|92/100|[from] Sandstorm
+|upkeep
+|turn|18
+|
+|t:|1781145096
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|69/100
+|move|p1a: Zapdos|Volt Switch|p2a: Zapdos
+|-damage|p2a: Zapdos|59/100
+|
+|t:|1781145102
+|switch|p1a: Gholdengo|Gholdengo|100/100|[from] Volt Switch
+|-item|p1a: Gholdengo|Air Balloon
+|
+|-weather|none
+|upkeep
+|turn|19
+|
+|t:|1781145108
+|switch|p1a: Zapdos|Zapdos|69/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|20
+|
+|t:|1781145113
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos|[miss]
+|-miss|p2a: Zapdos|p1a: Zapdos
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|21
+|
+|t:|1781145120
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|78/100
+|move|p1a: Zapdos|Volt Switch|p2a: Zapdos
+|-damage|p2a: Zapdos|73/100
+|
+|t:|1781145127
+|switch|p1a: Kingambit|Kingambit, M|55/100|[from] Volt Switch
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|
+|-heal|p1a: Kingambit|61/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781145132
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Zapdos|Zapdos|78/100
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|55/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781145139
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|33/100
+|-start|p1a: Zapdos|confusion
+|-activate|p1a: Zapdos|confusion
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|83/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|24
+|
+|t:|1781145142
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|-activate|p1a: Zapdos|confusion
+|move|p1a: Zapdos|Hurricane|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|80/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781145149
+|move|p2a: Zapdos|Heat Wave|p1a: Zapdos
+|-damage|p1a: Zapdos|59/100
+|-activate|p1a: Zapdos|confusion
+|-damage|p1a: Zapdos|55/100|[from] confusion
+|
+|upkeep
+|turn|26
+|
+|t:|1781145153
+|move|p2a: Zapdos|Heat Wave|p1a: Zapdos
+|-damage|p1a: Zapdos|29/100
+|-activate|p1a: Zapdos|confusion
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|80/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|27
+|
+|t:|1781145158
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|-end|p1a: Zapdos|confusion
+|move|p1a: Zapdos|Volt Switch|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|87/100
+|
+|t:|1781145165
+|switch|p1a: Kingambit|Kingambit, M|61/100|[from] Volt Switch
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|
+|-heal|p1a: Kingambit|67/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781145169
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Zapdos|Zapdos|80/100
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos|[miss]
+|-miss|p2a: Zapdos|p1a: Zapdos
+|
+|upkeep
+|turn|29
+|
+|t:|1781145175
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos|[miss]
+|-miss|p2a: Zapdos|p1a: Zapdos
+|move|p1a: Zapdos|Hurricane|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|64/100
+|-start|p2a: Zapdos|confusion
+|
+|upkeep
+|turn|30
+|
+|t:|1781145180
+|-activate|p2a: Zapdos|confusion
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Zapdos|Hurricane|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|78/100
+|
+|upkeep
+|turn|31
+|
+|t:|1781145186
+|-activate|p2a: Zapdos|confusion
+|-damage|p2a: Zapdos|73/100|[from] confusion
+|move|p1a: Zapdos|Volt Switch|p2a: Zapdos
+|-damage|p2a: Zapdos|43/100
+|
+|t:|1781145191
+|switch|p1a: Kingambit|Kingambit, M|67/100|[from] Volt Switch
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|
+|-heal|p1a: Kingambit|73/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1781145194
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Zapdos|Zapdos|80/100
+|-activate|p2a: Zapdos|confusion
+|-damage|p2a: Zapdos|38/100|[from] confusion
+|
+|upkeep
+|turn|33
+|
+|t:|1781145199
+|-end|p2a: Zapdos|confusion
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|88/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Zapdos|Volt Switch|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|73/100
+|
+|t:|1781145204
+|switch|p1a: Kingambit|Kingambit, M|73/100|[from] Volt Switch
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|
+|-heal|p1a: Kingambit|79/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1781145211
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Zapdos|Zapdos|80/100
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos|[miss]
+|-miss|p2a: Zapdos|p1a: Zapdos
+|
+|upkeep
+|turn|35
+|inactive|oldgensbetter has 120 seconds left.
+|
+|t:|1781145254
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|59/100
+|move|p1a: Zapdos|Hurricane|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|51/100
+|
+|upkeep
+|turn|36
+|
+|t:|1781145271
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|37
+|
+|t:|1781145276
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|78/100
+|move|p1a: Zapdos|Hurricane|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|77/100
+|
+|upkeep
+|turn|38
+|inactive|oldgensbetter has 120 seconds left.
+|
+|t:|1781145299
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|55/100
+|-start|p1a: Zapdos|confusion
+|-activate|p1a: Zapdos|confusion
+|move|p1a: Zapdos|Hurricane|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|53/100
+|-start|p2a: Zapdos|confusion
+|
+|upkeep
+|turn|39
+|
+|t:|1781145305
+|-activate|p2a: Zapdos|confusion
+|-damage|p2a: Zapdos|48/100|[from] confusion
+|-end|p1a: Zapdos|confusion
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|40
+|
+|t:|1781145310
+|-activate|p2a: Zapdos|confusion
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|77/100
+|move|p1a: Zapdos|Hurricane|p2a: Zapdos|[miss]
+|-miss|p1a: Zapdos|p2a: Zapdos
+|
+|upkeep
+|turn|41
+|inactive|oldgensbetter has 120 seconds left.
+|
+|t:|1781145322
+|switch|p2a: Slowking|Slowking, M|100/100
+|move|p1a: Zapdos|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|73/100
+|
+|upkeep
+|turn|42
+|
+|t:|1781145329
+|move|p1a: Zapdos|Thunder Wave|p2a: Slowking
+|-status|p2a: Slowking|par
+|move|p2a: Slowking|Slack Off|p2a: Slowking
+|-heal|p2a: Slowking|100/100 par
+|
+|upkeep
+|turn|43
+|
+|t:|1781145340
+|move|p1a: Zapdos|Volt Switch|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|68/100 par
+|
+|t:|1781145346
+|switch|p1a: Gholdengo|Gholdengo|100/100|[from] Volt Switch
+|-item|p1a: Gholdengo|Air Balloon
+|cant|p2a: Slowking|par
+|
+|upkeep
+|turn|44
+|
+|t:|1781145351
+|switch|p2a: Primarina|Primarina, F|46/100
+|-damage|p2a: Primarina|33/100|[from] Spikes
+|-damage|p2a: Primarina|21/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Hex|p2a: Primarina
+|-damage|p2a: Primarina|5/100
+|
+|upkeep
+|turn|45
+|
+|t:|1781145358
+|move|p1a: Gholdengo|Hex|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|upkeep
+|
+|t:|1781145362
+|switch|p2a: Zapdos|Zapdos|48/100
+|-damage|p2a: Zapdos|23/100|[from] Stealth Rock
+|turn|46
+|
+|t:|1781145367
+|switch|p1a: Zapdos|Zapdos|77/100
+|move|p2a: Zapdos|Heat Wave|p1a: Zapdos
+|-damage|p1a: Zapdos|51/100
+|
+|upkeep
+|turn|47
+|
+|t:|1781145370
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|28/100
+|-start|p1a: Zapdos|confusion
+|-activate|p1a: Zapdos|confusion
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|78/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|48
+|
+|t:|1781145380
+|move|p2a: Zapdos|Heat Wave|p1a: Zapdos|[miss]
+|-miss|p2a: Zapdos|p1a: Zapdos
+|-activate|p1a: Zapdos|confusion
+|-damage|p1a: Zapdos|74/100|[from] confusion
+|
+|upkeep
+|turn|49
+|
+|t:|1781145384
+|move|p2a: Zapdos|Heat Wave|p1a: Zapdos
+|-damage|p1a: Zapdos|46/100
+|-end|p1a: Zapdos|confusion
+|move|p1a: Zapdos|Volt Switch|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|t:|1781145394
+|switch|p1a: Gholdengo|Gholdengo|100/100|[from] Volt Switch
+|-item|p1a: Gholdengo|Air Balloon
+|
+|upkeep
+|
+|t:|1781145398
+|switch|p2a: Slowking|Slowking, M|100/100 par
+|turn|50
+|
+|t:|1781145404
+|-terastallize|p2a: Slowking|Fairy
+|move|p1a: Gholdengo|Hex|p2a: Slowking
+|-damage|p2a: Slowking|64/100 par
+|move|p2a: Slowking|Scald|p1a: Gholdengo
+|-damage|p1a: Gholdengo|73/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|upkeep
+|turn|51
+|
+|t:|1781145417
+|move|p1a: Gholdengo|Hex|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|9/100 par
+|move|p2a: Slowking|Slack Off|p2a: Slowking
+|-heal|p2a: Slowking|59/100 par
+|
+|upkeep
+|turn|52
+|
+|t:|1781145420
+|move|p1a: Gholdengo|Hex|p2a: Slowking
+|-damage|p2a: Slowking|23/100 par
+|move|p2a: Slowking|Slack Off|p2a: Slowking
+|-heal|p2a: Slowking|73/100 par
+|
+|upkeep
+|turn|53
+|
+|t:|1781145424
+|switch|p1a: Kingambit|Kingambit, M|79/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|move|p2a: Slowking|Slack Off|p2a: Slowking
+|-heal|p2a: Slowking|100/100 par
+|
+|-heal|p1a: Kingambit|86/100|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1781145428
+|switch|p2a: Skarmory|Skarmory, F|100/100
+|-damage|p2a: Skarmory|88/100|[from] Stealth Rock
+|move|p1a: Kingambit|Iron Head|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|73/100
+|
+|-heal|p1a: Kingambit|92/100|[from] item: Leftovers
+|-heal|p2a: Skarmory|79/100|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|t:|1781145432
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Zapdos|Zapdos|46/100
+|move|p2a: Skarmory|Spikes|p1a: Zapdos
+|-sidestart|p1: oldgensbetter|Spikes
+|
+|-heal|p2a: Skarmory|85/100|[from] item: Leftovers
+|upkeep
+|turn|56
+|
+|t:|1781145439
+|switch|p2a: Slowking|Slowking, M, tera:Fairy|100/100 par
+|move|p1a: Zapdos|Volt Switch|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|76/100 par
+|
+|t:|1781145445
+|switch|p1a: Kingambit|Kingambit, M|92/100|[from] Volt Switch
+|-damage|p1a: Kingambit|79/100|[from] Spikes
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|
+|-heal|p1a: Kingambit|86/100|[from] item: Leftovers
+|upkeep
+|turn|57
+|
+|t:|1781145449
+|switch|p2a: Skarmory|Skarmory, F|85/100
+|-damage|p2a: Skarmory|73/100|[from] Stealth Rock
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|92/100|[from] item: Leftovers
+|-heal|p2a: Skarmory|79/100|[from] item: Leftovers
+|upkeep
+|turn|58
+|
+|t:|1781145455
+|move|p1a: Kingambit|Low Kick|p2a: Skarmory
+|-damage|p2a: Skarmory|42/100
+|move|p2a: Skarmory|Spikes|p1a: Kingambit
+|-sidestart|p1: oldgensbetter|Spikes
+|
+|-heal|p1a: Kingambit|98/100|[from] item: Leftovers
+|-heal|p2a: Skarmory|48/100|[from] item: Leftovers
+|upkeep
+|turn|59
+|
+|t:|1781145460
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|move|p2a: Skarmory|Body Press|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen2|[silent]
+|
+|-heal|p2a: Skarmory|54/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781145464
+|switch|p1a: Gholdengo|Gholdengo|73/100
+|-damage|p1a: Gholdengo|57/100|[from] Spikes
+|turn|60
+|
+|t:|1781145467
+|switch|p2a: Slowking|Slowking, M, tera:Fairy|100/100 par
+|move|p1a: Gholdengo|Hex|p2a: Slowking
+|-damage|p2a: Slowking|66/100 par
+|
+|upkeep
+|turn|61
+|
+|t:|1781145472
+|move|p1a: Gholdengo|Hex|p2a: Slowking
+|-damage|p2a: Slowking|30/100 par
+|move|p2a: Slowking|Slack Off|p2a: Slowking
+|-heal|p2a: Slowking|80/100 par
+|
+|upkeep
+|turn|62
+|
+|t:|1781145477
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|100/100
+|move|p2a: Slowking|Slack Off|p2a: Slowking
+|-heal|p2a: Slowking|100/100 par
+|
+|upkeep
+|turn|63
+|
+|t:|1781145489
+|switch|p1a: Zapdos|Zapdos|46/100
+|move|p2a: Slowking|Slack Off||[still]
+|-fail|p2a: Slowking|heal
+|
+|upkeep
+|turn|64
+|
+|t:|1781145494
+|move|p1a: Zapdos|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|75/100 par
+|-start|p2a: Slowking|confusion
+|-activate|p2a: Slowking|confusion
+|move|p2a: Slowking|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|21/100
+|
+|upkeep
+|turn|65
+|
+|t:|1781145502
+|move|p1a: Zapdos|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|49/100 par
+|-activate|p2a: Slowking|confusion
+|cant|p2a: Slowking|par
+|
+|upkeep
+|turn|66
+|
+|t:|1781145513
+|switch|p2a: Skarmory|Skarmory, F|54/100
+|-damage|p2a: Skarmory|42/100|[from] Stealth Rock
+|move|p1a: Zapdos|Hurricane|p2a: Skarmory|[miss]
+|-miss|p1a: Zapdos|p2a: Skarmory
+|
+|-heal|p2a: Skarmory|48/100|[from] item: Leftovers
+|upkeep
+|turn|67
+|
+|t:|1781145523
+|switch|p2a: Slowking|Slowking, M, tera:Fairy|82/100 par
+|move|p1a: Zapdos|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|65/100 par
+|
+|t:|1781145534
+|switch|p1a: Gholdengo|Gholdengo|100/100|[from] Volt Switch
+|-damage|p1a: Gholdengo|84/100|[from] Spikes
+|
+|upkeep
+|turn|68
+|
+|t:|1781145538
+|move|p1a: Gholdengo|Hex|p2a: Slowking
+|-damage|p2a: Slowking|32/100 par
+|move|p2a: Slowking|Slack Off|p2a: Slowking
+|-heal|p2a: Slowking|82/100 par
+|
+|upkeep
+|turn|69
+|
+|t:|1781145544
+|move|p1a: Gholdengo|Hex|p2a: Slowking
+|-damage|p2a: Slowking|46/100 par
+|move|p2a: Slowking|Scald|p1a: Gholdengo
+|-damage|p1a: Gholdengo|57/100
+|
+|upkeep
+|turn|70
+|
+|t:|1781145549
+|move|p1a: Gholdengo|Hex|p2a: Slowking
+|-damage|p2a: Slowking|12/100 par
+|cant|p2a: Slowking|par
+|
+|upkeep
+|turn|71
+|
+|t:|1781145556
+|switch|p2a: Skarmory|Skarmory, F|48/100
+|-damage|p2a: Skarmory|35/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|100/100
+|
+|-heal|p2a: Skarmory|41/100|[from] item: Leftovers
+|upkeep
+|turn|72
+|
+|t:|1781145572
+|switch|p2a: Slowking|Slowking, M, tera:Fairy|45/100 par
+|move|p1a: Gholdengo|Hex|p2a: Slowking
+|-damage|p2a: Slowking|10/100 par
+|
+|upkeep
+|turn|73
+|
+|t:|1781145576
+|switch|p2a: Skarmory|Skarmory, F|41/100
+|-damage|p2a: Skarmory|29/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Hex|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|
+|upkeep
+|
+|t:|1781145582
+|switch|p2a: Slowking|Slowking, M, tera:Fairy|43/100 par
+|turn|74
+|
+|t:|1781145587
+|move|p1a: Gholdengo|Hex|p2a: Slowking
+|-damage|p2a: Slowking|12/100 par
+|move|p2a: Slowking|Scald|p1a: Gholdengo
+|-damage|p1a: Gholdengo|73/100
+|-status|p1a: Gholdengo|brn
+|
+|-damage|p1a: Gholdengo|67/100 brn|[from] brn
+|upkeep
+|turn|75
+|
+|t:|1781145607
+|move|p1a: Gholdengo|Hex|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|win|oldgensbetter
+|raw|oldgensbetter's rating: 1543 &rarr; <strong>1564</strong><br />(+21 for winning)
+|raw|KurisuChestnutLab's rating: 1567 &rarr; <strong>1546</strong><br />(-21 for losing)

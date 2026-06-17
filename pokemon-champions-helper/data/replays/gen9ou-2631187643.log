@@ -1,0 +1,275 @@
+|j|‽testlab12
+|j|☆omari p
+|t:|1781355582
+|gametype|singles
+|player|p1|testlab12|ghetsis|1592
+|player|p2|omari p|pokemonrangerf|1560
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Moth|
+|poke|p1|Gliscor, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Zamazenta-*|
+|poke|p2|Cinderace, F|
+|poke|p2|Skeledirge, M|
+|poke|p2|Latios, M|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Gallade, M|
+|poke|p2|Gastrodon, M|
+|teampreview
+|
+|t:|1781355654
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|switch|p2a: Gastrodon|Gastrodon, M|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by omari p)
+|
+|t:|1781355665
+|move|p2a: Gastrodon|Earth Power|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781355676
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|turn|2
+|
+|t:|1781355679
+|switch|p2a: Skeledirge|Skeledirge, M|100/100
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781355706
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Skeledirge|Torch Song|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|83/100
+|-boost|p2a: Skeledirge|spa|1
+|
+|upkeep
+|turn|4
+|
+|t:|1781355721
+|switch|p2a: Gastrodon|Gastrodon, M|100/100
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Gastrodon
+|-damage|p2a: Gastrodon|37/100
+|
+|-heal|p2a: Gastrodon|43/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781355733
+|-terastallize|p2a: Gastrodon|Fairy
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Gastrodon
+|-immune|p2a: Gastrodon
+|move|p2a: Gastrodon|Earth Power|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|8/100
+|
+|-heal|p2a: Gastrodon|49/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781355739
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Gastrodon
+|-damage|p2a: Gastrodon|0 fnt
+|faint|p2a: Gastrodon
+|
+|upkeep
+|
+|t:|1781355742
+|switch|p2a: Latios|Latios, M|100/100
+|turn|7
+|
+|t:|1781355752
+|move|p2a: Latios|Luster Purge|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781355755
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|turn|8
+|inactive|omari p has 120 seconds left.
+|
+|t:|1781355793
+|switch|p2a: Skeledirge|Skeledirge, M|100/100
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781355801
+|switch|p2a: Omari P Bird|Mandibuzz, F, shiny|100/100
+|move|p1a: Ogerpon|Trailblaze|p2a: Omari P Bird
+|-resisted|p2a: Omari P Bird
+|-damage|p2a: Omari P Bird|90/100
+|-boost|p1a: Ogerpon|spe|1
+|-damage|p1a: Ogerpon|84/100|[from] item: Rocky Helmet|[of] p2a: Omari P Bird
+|
+|upkeep
+|turn|10
+|
+|t:|1781355807
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Omari P Bird|Foul Play|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1781355814
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|11
+|
+|t:|1781355822
+|move|p1a: Zamazenta|Light Screen|p1a: Zamazenta
+|-sidestart|p1: testlab12|move: Light Screen
+|move|p2a: Omari P Bird|Toxic|p1a: Zamazenta
+|-status|p1a: Zamazenta|tox
+|
+|-damage|p1a: Zamazenta|94/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1781355827
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|move|p2a: Omari P Bird|Defog|p1a: Gliscor
+|-unboost|p1a: Gliscor|evasion|1
+|-sideend|p1: testlab12|move: Light Screen
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|13
+|inactive|omari p has 120 seconds left.
+|
+|t:|1781355869
+|move|p1a: Gliscor|Agility|p1a: Gliscor
+|-boost|p1a: Gliscor|spe|2
+|move|p2a: Omari P Bird|Foul Play|p1a: Gliscor
+|-damage|p1a: Gliscor|63/100 tox
+|
+|-heal|p1a: Gliscor|76/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|14
+|
+|t:|1781355880
+|move|p1a: Gliscor|Facade|p2a: Omari P Bird
+|-damage|p2a: Omari P Bird|64/100
+|-damage|p1a: Gliscor|59/100 tox|[from] item: Rocky Helmet|[of] p2a: Omari P Bird
+|move|p2a: Omari P Bird|Foul Play|p1a: Gliscor
+|-damage|p1a: Gliscor|26/100 tox
+|
+|-heal|p1a: Gliscor|38/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|15
+|inactive|omari p has 120 seconds left.
+|
+|t:|1781355898
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Omari P Bird|Foul Play|p1a: Hatterene
+|-damage|p1a: Hatterene|82/100
+|
+|-heal|p1a: Hatterene|88/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781355901
+|switch|p2a: Skeledirge|Skeledirge, M|100/100
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-heal|p1a: Hatterene|94/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781355903
+|move|p2a: Skeledirge|Torch Song|p1a: Hatterene
+|-damage|p1a: Hatterene|54/100
+|-boost|p2a: Skeledirge|spa|1
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-heal|p1a: Hatterene|60/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781355907
+|move|p2a: Skeledirge|Torch Song|p1a: Hatterene
+|-damage|p1a: Hatterene|6/100
+|-boost|p2a: Skeledirge|spa|1
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-heal|p1a: Hatterene|12/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781355909
+|move|p2a: Skeledirge|Torch Song|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-boost|p2a: Skeledirge|spa|1
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781355913
+|switch|p1a: Gliscor|Gliscor, M|38/100 tox
+|turn|20
+|
+|t:|1781355916
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|move|p2a: Skeledirge|Torch Song|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|-boost|p2a: Skeledirge|spa|1
+|faint|p1a: Gliscor
+|
+|upkeep
+|
+|t:|1781355917
+|switch|p1a: Zamazenta|Zamazenta|94/100 tox
+|turn|21
+|-message|testlab12 forfeited.
+|
+|win|omari p
+|raw|testlab12's rating: 1592 &rarr; <strong>1570</strong><br />(-22 for losing)
+|raw|omari p's rating: 1560 &rarr; <strong>1582</strong><br />(+22 for winning)
+|l|‽testlab12
+|player|p1|

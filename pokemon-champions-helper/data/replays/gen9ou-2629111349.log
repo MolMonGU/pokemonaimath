@@ -1,0 +1,387 @@
+|j|☆A real wizard
+|j|☆tiftif
+|t:|1781099814
+|gametype|singles
+|player|p1|A real wizard|265|1573
+|player|p2|tiftif|101|1599
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hydrapple, M|
+|poke|p1|Gholdengo|
+|poke|p1|Lokix, M|
+|poke|p1|Great Tusk|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Hatterene, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Iron Treads|
+|poke|p2|Barraskewda, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Talonflame, F|
+|poke|p2|Keldeo-Resolute|
+|teampreview
+|j| Fat_Yogi
+|
+|t:|1781099832
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1781099839
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Tornadus|Knock Off|p2a: Iron Treads
+|-damage|p2a: Iron Treads|88/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tiftif)
+|
+|t:|1781099850
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: Hatterene
+|move|p1a: Hatterene|Stealth Rock|p2a: Iron Treads|[from] ability: Magic Bounce
+|-sidestart|p2: tiftif|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781099857
+|move|p2a: Iron Treads|Rapid Spin|p1a: Hatterene
+|-damage|p1a: Hatterene|88/100
+|-boost|p2a: Iron Treads|spe|1
+|-damage|p2a: Iron Treads|72/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|-sideend|p2: tiftif|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: Hatterene|Psychic Noise|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|48/100
+|-start|p2a: Iron Treads|move: Heal Block
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|inactive|tiftif has 120 seconds left.
+|
+|t:|1781099893
+|move|p2a: Iron Treads|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|53/100
+|move|p1a: Hatterene|Nuzzle|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|
+|-weather|RainDance|[upkeep]
+|-end|p2a: Iron Treads|move: Heal Block
+|upkeep
+|turn|5
+|
+|t:|1781099899
+|move|p2a: Iron Treads|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|13/100
+|move|p1a: Hatterene|Pain Split|p2a: Iron Treads
+|-sethp|p2a: Iron Treads|30/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Hatterene|31/100|[from] move: Pain Split
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781099903
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Iron Treads|Earthquake|p1a: Tornadus
+|-immune|p1a: Tornadus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781099910
+|move|p2a: Iron Treads|Ice Spinner|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|44/100
+|move|p1a: Tornadus|Hurricane|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|l| Fat_Yogi
+|inactive|tiftif has 120 seconds left.
+|
+|t:|1781099956
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|8
+|
+|t:|1781099958
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|move|p2a: Barraskewda|Flip Turn|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|91/100
+|-damage|p2a: Barraskewda|84/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|
+|t:|1781099967
+|switch|p2a: Talonflame|Talonflame, F|100/100|[from] Flip Turn
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781099972
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Talonflame|U-turn|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|97/100
+|
+|t:|1781099976
+|switch|p2a: Pelipper|Pelipper, M|100/100|[from] U-turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Great Tusk|100/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781099979
+|move|p1a: Great Tusk|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: tiftif|move: Stealth Rock
+|move|p2a: Pelipper|Hurricane|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|4/100
+|-start|p1a: Great Tusk|confusion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Great Tusk|10/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781099987
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Tornadus|Tornadus-Therian, M|77/100
+|move|p2a: Pelipper|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|72/100
+|
+|t:|1781099992
+|switch|p2a: Barraskewda|Barraskewda, F|84/100|[from] U-turn
+|-damage|p2a: Barraskewda|72/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781099996
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|move|p2a: Barraskewda|Liquidation|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|86/100
+|-damage|p2a: Barraskewda|56/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781100002
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Hydrapple|Giga Drain|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|74/100
+|-heal|p1a: Hydrapple|93/100|[from] drain|[of] p2a: Raging Bolt
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|inactive|tiftif has 120 seconds left.
+|
+|t:|1781100047
+|switch|p1a: Great Tusk|Great Tusk|10/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781100053
+|switch|p1a: Lokix|Lokix, M|100/100
+|turn|15
+|inactive|tiftif has 120 seconds left.
+|
+|t:|1781100060
+|-terastallize|p1a: Lokix|Bug
+|move|p1a: Lokix|First Impression|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|tiftif has 120 seconds left.
+|
+|t:|1781100069
+|switch|p2a: Talonflame|Talonflame, F|100/100
+|-damage|p2a: Talonflame|51/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781100077
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|move|p2a: Talonflame|Hurricane|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|0 fnt
+|faint|p1a: Hydrapple
+|
+|-weather|none
+|upkeep
+|
+|t:|1781100084
+|switch|p1a: Lokix|Lokix, M, tera:Bug|100/100
+|turn|17
+|
+|t:|1781100091
+|move|p1a: Lokix|First Impression|p2a: Talonflame
+|-resisted|p2a: Talonflame
+|-damage|p2a: Talonflame|0 fnt
+|faint|p2a: Talonflame
+|
+|upkeep
+|
+|t:|1781100101
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-damage|p2a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|18
+|
+|t:|1781100107
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Pelipper|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-crit|p1a: Tornadus
+|-damage|p1a: Tornadus|92/100
+|
+|t:|1781100115
+|switch|p2a: Barraskewda|Barraskewda, F|56/100|[from] U-turn
+|-damage|p2a: Barraskewda|43/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781100124
+|switch|p1a: Hatterene|Hatterene, F|31/100
+|move|p2a: Barraskewda|Liquidation|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-damage|p2a: Barraskewda|27/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|faint|p1a: Hatterene
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781100129
+|switch|p1a: Lokix|Lokix, M, tera:Bug|100/100
+|turn|20
+|inactive|tiftif has 120 seconds left.
+|
+|t:|1781100162
+|move|p1a: Lokix|First Impression|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781100165
+|switch|p2a: Keldeo|Keldeo-Resolute|100/100
+|-damage|p2a: Keldeo|94/100|[from] Stealth Rock
+|turn|21
+|inactive|tiftif has 120 seconds left.
+|
+|t:|1781100188
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Keldeo|Substitute|p2a: Keldeo
+|-start|p2a: Keldeo|Substitute
+|-damage|p2a: Keldeo|70/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Keldeo|76/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781100194
+|move|p2a: Keldeo|Calm Mind|p2a: Keldeo
+|-boost|p2a: Keldeo|spa|1
+|-boost|p2a: Keldeo|spd|1
+|move|p1a: Gholdengo|Shadow Ball|p2a: Keldeo
+|-end|p2a: Keldeo|Substitute
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Keldeo|82/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781100200
+|move|p2a: Keldeo|Surf|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Keldeo|88/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781100203
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|turn|24
+|
+|t:|1781100220
+|-terastallize|p2a: Keldeo|Steel
+|move|p1a: Tornadus|Hurricane|p2a: Keldeo
+|-resisted|p2a: Keldeo
+|-damage|p2a: Keldeo|72/100
+|-start|p2a: Keldeo|confusion
+|-activate|p2a: Keldeo|confusion
+|move|p2a: Keldeo|Surf|p1a: Tornadus
+|-crit|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Keldeo|78/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781100228
+|switch|p1a: Lokix|Lokix, M, tera:Bug|100/100
+|turn|25
+|
+|t:|1781100261
+|-end|p2a: Keldeo|confusion
+|move|p2a: Keldeo|Surf|p1a: Lokix
+|-damage|p1a: Lokix|0 fnt
+|faint|p1a: Lokix
+|
+|win|tiftif
+|raw|A real wizard's rating: 1573 &rarr; <strong>1554</strong><br />(-19 for losing)
+|raw|tiftif's rating: 1599 &rarr; <strong>1618</strong><br />(+19 for winning)
+|l|☆A real wizard
+|player|p1|
+|l|☆tiftif
+|player|p2|

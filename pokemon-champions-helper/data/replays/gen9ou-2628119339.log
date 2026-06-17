@@ -1,0 +1,359 @@
+|j|☆kai cyan
+|j|☆Ggezbb
+|t:|1780978172
+|gametype|singles
+|player|p1|kai cyan|102|1503
+|player|p2|Ggezbb|102|1568
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Alomomola, F|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Cinderace, M|
+|poke|p1|Gliscor, M|
+|poke|p1|Meowscarada, F|
+|poke|p1|Iron Valiant|
+|poke|p2|Pincurchin, M|
+|poke|p2|Pawmot, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Raging Bolt|
+|poke|p2|Iron Treads|
+|poke|p2|Iron Moth|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by kai cyan)
+|
+|t:|1780978196
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Meowscarada|Meowscarada, F|100/100
+|switch|p2a: Pincurchin|Pincurchin, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|turn|1
+|
+|t:|1780978204
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-activate|p2a: Iron Treads|ability: Quark Drive
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Meowscarada|U-turn|p2a: Iron Treads
+|-start|p1a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|83/100
+|-enditem|p2a: Iron Treads|Eject Button
+|inactive|Ggezbb has 120 seconds left.
+|inactive|Ggezbb has 90 seconds left.
+|
+|t:|1780978266
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-activate|p2a: Iron Valiant|ability: Quark Drive
+|-start|p2a: Iron Valiant|quarkdrivespe
+|
+|upkeep
+|turn|2
+|
+|t:|1780978278
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|move|p1a: Meowscarada|U-turn|p2a: Iron Valiant
+|-resisted|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|86/100
+|
+|t:|1780978286
+|switch|p1a: Iron Valiant|Iron Valiant|100/100|[from] U-turn
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdrivespe
+|
+|upkeep
+|turn|3
+|
+|t:|1780978292
+|move|p1a: Iron Valiant|Moonblast|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780978300
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-item|p2a: Iron Moth|Air Balloon
+|-activate|p2a: Iron Moth|ability: Quark Drive
+|-start|p2a: Iron Moth|quarkdrivespa
+|turn|4
+|inactive|Ggezbb has 120 seconds left.
+|
+|t:|1780978305
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Slowking
+|-damage|p1a: Slowking|68/100
+|-boost|p2a: Iron Moth|spa|1
+|
+|upkeep
+|turn|5
+|
+|t:|1780978313
+|move|p2a: Iron Moth|Fiery Dance|p1a: Slowking
+|-damage|p1a: Slowking|18/100
+|move|p1a: Slowking|Future Sight|p2a: Iron Moth
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|6
+|
+|t:|1780978321
+|move|p2a: Iron Moth|Sludge Wave|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1780978325
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|turn|7
+|
+|t:|1780978340
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Iron Treads|Iron Treads|83/100
+|-activate|p2a: Iron Treads|ability: Quark Drive
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Gliscor|Knock Off|p2a: Iron Treads
+|-damage|p2a: Iron Treads|72/100
+|
+|-end|p2a: Iron Treads|move: Future Sight
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|43/100
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|8
+|
+|t:|1780978350
+|move|p2a: Iron Treads|Stealth Rock|p1a: Gliscor
+|-sidestart|p1: kai cyan|move: Stealth Rock
+|move|p1a: Gliscor|Earthquake|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1780978355
+|switch|p2a: Pincurchin|Pincurchin, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|turn|9
+|
+|t:|1780978370
+|move|p1a: Gliscor|Earthquake|p2a: Pincurchin
+|-supereffective|p2a: Pincurchin
+|-damage|p2a: Pincurchin|22/100
+|move|p2a: Pincurchin|Memento|p1a: Gliscor
+|-unboost|p1a: Gliscor|atk|2
+|-unboost|p1a: Gliscor|spa|2
+|faint|p2a: Pincurchin
+|
+|upkeep
+|
+|t:|1780978388
+|switch|p2a: Pawmot|Pawmot, F|100/100
+|turn|10
+|
+|t:|1780978396
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Pawmot|Revival Blessing|p2a: Pawmot
+|-enditem|p2a: Pawmot|Leppa Berry|[eat]
+|-activate|p2a: Pawmot|item: Leppa Berry|Revival Blessing|[consumed]
+|
+|t:|1780978409
+|-heal|p2: Pincurchin|50/100|[from] move: Revival Blessing
+|
+|upkeep
+|turn|11
+|
+|t:|1780978422
+|move|p1a: Iron Valiant|Future Sight|p2a: Pawmot
+|-start|p1a: Iron Valiant|move: Future Sight
+|move|p2a: Pawmot|Revival Blessing|p2a: Pawmot
+|
+|t:|1780978433
+|-heal|p2: Iron Valiant|50/100|[from] move: Revival Blessing
+|
+|upkeep
+|turn|12
+|
+|t:|1780978437
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Gliscor|Gliscor, M|100/100 tox
+|-damage|p1a: Gliscor|88/100 tox|[from] Stealth Rock
+|move|p2a: Pawmot|Nuzzle|p1a: Gliscor
+|-immune|p1a: Gliscor
+|
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|13
+|
+|t:|1780978446
+|move|p2a: Pawmot|Encore||[still]
+|-fail|p2a: Pawmot
+|move|p1a: Gliscor|Earthquake|p2a: Pawmot
+|-supereffective|p2a: Pawmot
+|-damage|p2a: Pawmot|8/100
+|
+|-end|p2a: Pawmot|move: Future Sight
+|-supereffective|p2a: Pawmot
+|-damage|p2a: Pawmot|0 fnt
+|faint|p2a: Pawmot
+|upkeep
+|
+|t:|1780978471
+|switch|p2a: Iron Valiant|Iron Valiant|50/100
+|-activate|p2a: Iron Valiant|ability: Quark Drive
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|14
+|
+|t:|1780978485
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|move|p1a: Gliscor|Earthquake|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|5/100
+|
+|upkeep
+|turn|15
+|
+|t:|1780978495
+|move|p2a: Iron Valiant|Ice Punch|p1a: Gliscor
+|-supereffective|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|-damage|p2a: Iron Valiant|0 fnt|[from] item: Life Orb
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780978505
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|-enditem|p2a: Raging Bolt|Electric Seed
+|-boost|p2a: Raging Bolt|def|1|[from] item: Electric Seed
+|turn|16
+|
+|t:|1780978513
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-start|p1a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|move|p2a: Raging Bolt|Rising Voltage|p1a: Cinderace
+|-hint|Rising Voltage's BP doubled on grounded target.
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|j| wuxinshushu1
+|
+|t:|1780978527
+|switch|p1a: Meowscarada|Meowscarada, F|100/100
+|turn|17
+|
+|t:|1780978538
+|move|p1a: Meowscarada|Triple Axel|p2a: Raging Bolt
+|-start|p1a: Meowscarada|typechange|Ice|[from] ability: Protean
+|-supereffective|p2a: Raging Bolt
+|-crit|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|68/100
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|37/100
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|-hitcount|p2: Raging Bolt|3
+|
+|upkeep
+|
+|t:|1780978543
+|switch|p2a: Pincurchin|Pincurchin, M|50/100
+|-damage|p2a: Pincurchin|38/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|turn|18
+|
+|t:|1780978550
+|move|p2a: Pincurchin|Sucker Punch|p1a: Meowscarada
+|-damage|p1a: Meowscarada|63/100
+|move|p1a: Meowscarada|Triple Axel|p2a: Pincurchin
+|-damage|p2a: Pincurchin|21/100
+|-damage|p2a: Pincurchin|0 fnt
+|faint|p2a: Pincurchin
+|-hitcount|p2: Pincurchin|2
+|
+|upkeep
+|
+|t:|1780978556
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-damage|p2a: Iron Moth|76/100|[from] Stealth Rock
+|-item|p2a: Iron Moth|Air Balloon
+|-activate|p2a: Iron Moth|ability: Quark Drive
+|-start|p2a: Iron Moth|quarkdrivespa
+|turn|19
+|
+|t:|1780978569
+|-terastallize|p2a: Iron Moth|Fire
+|move|p1a: Meowscarada|Triple Axel|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-damage|p2a: Iron Moth|64/100
+|-enditem|p2a: Iron Moth|Air Balloon
+|-resisted|p2a: Iron Moth
+|-damage|p2a: Iron Moth|40/100
+|-resisted|p2a: Iron Moth
+|-damage|p2a: Iron Moth|5/100
+|-hitcount|p2a: Iron Moth|3
+|move|p2a: Iron Moth|Fiery Dance|p1a: Meowscarada
+|-supereffective|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|faint|p1a: Meowscarada
+|
+|upkeep
+|
+|t:|1780978581
+|switch|p1a: Iron Valiant|Iron Valiant|94/100
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|20
+|
+|t:|1780978594
+|move|p1a: Iron Valiant|Destiny Bond|p1a: Iron Valiant
+|-singlemove|p1a: Iron Valiant|Destiny Bond
+|move|p2a: Iron Moth|Fiery Dance|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|-boost|p2a: Iron Moth|spa|1
+|faint|p1a: Iron Valiant
+|-activate|p1a: Iron Valiant|move: Destiny Bond
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|win|kai cyan
+|raw|kai cyan's rating: 1503 &rarr; <strong>1527</strong><br />(+24 for winning)
+|raw|Ggezbb's rating: 1568 &rarr; <strong>1544</strong><br />(-24 for losing)
+|l|☆kai cyan
+|player|p1|
+|l|☆Ggezbb
+|player|p2|
+|l| wuxinshushu1

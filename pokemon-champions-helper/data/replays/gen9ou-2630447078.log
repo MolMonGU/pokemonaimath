@@ -1,0 +1,466 @@
+|j|☆quolius
+|j|☆hypervortex7
+|t:|1781258405
+|gametype|singles
+|player|p1|quolius|266|1645
+|player|p2|hypervortex7|102|1660
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Darkrai|
+|poke|p1|Great Tusk|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Iron Moth|
+|poke|p1|Gholdengo|
+|poke|p1|Ogerpon, F|
+|poke|p2|Dragonite, M|
+|poke|p2|Scizor, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Iron Moth|
+|poke|p2|Great Tusk|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by quolius)
+|
+|t:|1781258423
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|turn|1
+|
+|t:|1781258431
+|move|p1a: Iron Moth|Toxic Spikes|p2a: Dragonite
+|-sidestart|p2: hypervortex7|move: Toxic Spikes
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1781258439
+|move|p1a: Iron Moth|Dazzling Gleam|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|71/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781258449
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-terastallize|p2a: Dragonite|Normal
+|move|p2a: Dragonite|Extreme Speed|p1a: Great Tusk
+|-damage|p1a: Great Tusk|39/100
+|-damage|p2a: Dragonite|54/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|4
+|j| Puyu paz
+|
+|t:|1781258462
+|move|p2a: Dragonite|Extreme Speed|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-damage|p2a: Dragonite|38/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781258465
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|5
+|
+|t:|1781258467
+|move|p2a: Dragonite|Outrage|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|50/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|move|p1a: Gholdengo|Make It Rain|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1781258470
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-sideend|p2: hypervortex7|move: Toxic Spikes|[of] p2a: Iron Moth
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespa
+|turn|6
+|
+|t:|1781258475
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|56/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781258479
+|move|p1a: Samurott|Razor Shell|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781258488
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|8
+|
+|t:|1781258492
+|switch|p1a: Gholdengo|Gholdengo|50/100
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|upkeep
+|turn|9
+|
+|t:|1781258495
+|move|p2a: Zamazenta|Substitute|p2a: Zamazenta
+|-start|p2a: Zamazenta|Substitute
+|-damage|p2a: Zamazenta|75/100
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|100/100
+|
+|-heal|p2a: Zamazenta|82/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|j| Ctannn
+|
+|t:|1781258497
+|move|p2a: Zamazenta|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|72/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Zamazenta
+|-end|p2a: Zamazenta|Substitute
+|
+|-heal|p2a: Zamazenta|88/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781258502
+|move|p2a: Zamazenta|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|43/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Zamazenta
+|-damage|p2a: Zamazenta|61/100
+|-unboost|p2a: Zamazenta|spd|1
+|
+|-heal|p2a: Zamazenta|68/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781258505
+|move|p2a: Zamazenta|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|16/100
+|-unboost|p1a: Gholdengo|def|1
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|66/100
+|
+|-heal|p2a: Zamazenta|74/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781258508
+|switch|p1a: Samurott|Samurott-Hisui, M|56/100
+|move|p2a: Zamazenta|Crunch|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|43/100
+|
+|-heal|p2a: Zamazenta|80/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781258512
+|move|p1a: Samurott|Knock Off|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|74/100
+|-enditem|p2a: Zamazenta|Leftovers|[from] move: Knock Off|[of] p1a: Samurott
+|move|p2a: Zamazenta|Substitute|p2a: Zamazenta
+|-start|p2a: Zamazenta|Substitute
+|-damage|p2a: Zamazenta|49/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781258515
+|switch|p1a: Gholdengo|Gholdengo|66/100
+|move|p2a: Zamazenta|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|38/100
+|-unboost|p1a: Gholdengo|def|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781258518
+|switch|p1a: Samurott|Samurott-Hisui, M|43/100
+|move|p2a: Zamazenta|Crunch|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|30/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781258526
+|move|p1a: Samurott|Ceaseless Edge|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-activate|p2a: Zamazenta|move: Substitute|[damage]
+|-sidestart|p2: hypervortex7|Spikes
+|move|p2a: Zamazenta|Crunch|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|17/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781258531
+|move|p1a: Samurott|Ceaseless Edge|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-activate|p2a: Zamazenta|move: Substitute|[damage]
+|-sidestart|p2: hypervortex7|Spikes
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|upkeep
+|turn|19
+|
+|t:|1781258534
+|move|p1a: Samurott|Ceaseless Edge|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-activate|p2a: Zamazenta|move: Substitute|[damage]
+|-sidestart|p2: hypervortex7|Spikes
+|move|p2a: Zamazenta|Substitute|p2a: Zamazenta
+|-fail|p2a: Zamazenta|move: Substitute
+|
+|upkeep
+|turn|20
+|
+|t:|1781258541
+|move|p1a: Samurott|Ceaseless Edge|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-activate|p2a: Zamazenta|move: Substitute|[damage]
+|move|p2a: Zamazenta|Crunch|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|5/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781258547
+|move|p1a: Samurott|Ceaseless Edge|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-activate|p2a: Zamazenta|move: Substitute|[damage]
+|move|p2a: Zamazenta|Substitute|p2a: Zamazenta
+|-fail|p2a: Zamazenta|move: Substitute
+|
+|upkeep
+|turn|22
+|
+|t:|1781258554
+|move|p1a: Samurott|Ceaseless Edge|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-end|p2a: Zamazenta|Substitute
+|move|p2a: Zamazenta|Substitute|p2a: Zamazenta
+|-start|p2a: Zamazenta|Substitute
+|-damage|p2a: Zamazenta|24/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781258560
+|move|p1a: Samurott|Ceaseless Edge|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-activate|p2a: Zamazenta|move: Substitute|[damage]
+|move|p2a: Zamazenta|Crunch|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781258570
+|switch|p1a: Gholdengo|Gholdengo|38/100
+|turn|24
+|
+|t:|1781258571
+|move|p2a: Zamazenta|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|11/100
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|61/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781258575
+|move|p2a: Zamazenta|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|33/100
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|83/100
+|
+|upkeep
+|turn|26
+|
+|t:|1781258577
+|move|p2a: Zamazenta|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|56/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Zamazenta
+|-end|p2a: Zamazenta|Substitute
+|
+|upkeep
+|turn|27
+|
+|t:|1781258581
+|move|p2a: Zamazenta|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|26/100
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|76/100
+|
+|upkeep
+|turn|28
+|
+|t:|1781258583
+|move|p2a: Zamazenta|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|45/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Zamazenta
+|-crit|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781258587
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-damage|p2a: Great Tusk|76/100|[from] Spikes
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|29
+|
+|t:|1781258594
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Ogerpon
+|-crit|p1a: Ogerpon
+|-damage|p1a: Ogerpon|53/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: hypervortex7|Spikes|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|30
+|
+|t:|1781258599
+|-terastallize|p1a: Ogerpon|Grass
+|detailschange|p1a: Ogerpon|Ogerpon-Teal-Tera, F, tera:Grass
+|-ability|p1a: Ogerpon|Embody Aspect (Teal)|boost
+|-boost|p1a: Ogerpon|spe|1
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781258602
+|switch|p2a: Scizor|Scizor, F|100/100
+|turn|31
+|
+|t:|1781258609
+|move|p1a: Ogerpon|Knock Off|p2a: Scizor
+|-damage|p2a: Scizor|68/100
+|-enditem|p2a: Scizor|Life Orb|[from] move: Knock Off|[of] p1a: Ogerpon
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|upkeep
+|turn|32
+|
+|t:|1781258616
+|move|p1a: Ogerpon|Encore|p2a: Scizor
+|-start|p2a: Scizor|Encore
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|upkeep
+|turn|33
+|
+|t:|1781258620
+|move|p1a: Ogerpon|U-turn|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|56/100
+|
+|t:|1781258621
+|switch|p1a: Iron Moth|Iron Moth|100/100|[from] U-turn
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|upkeep
+|turn|34
+|
+|t:|1781258622
+|move|p1a: Iron Moth|Fiery Dance|p2a: Scizor
+|-supereffective|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|-boost|p1a: Iron Moth|spa|1
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1781258624
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|turn|35
+|
+|t:|1781258625
+|move|p1a: Iron Moth|Fiery Dance|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|2/100
+|-boost|p1a: Iron Moth|spa|1
+|move|p2a: Corviknight|Agility|p2a: Corviknight
+|-boost|p2a: Corviknight|spe|2
+|
+|-heal|p2a: Corviknight|9/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|-message|hypervortex7 forfeited.
+|
+|win|quolius
+|raw|quolius's rating: 1645 &rarr; <strong>1666</strong><br />(+21 for winning)
+|raw|hypervortex7's rating: 1660 &rarr; <strong>1639</strong><br />(-21 for losing)
+|l|☆hypervortex7
+|player|p2|
+|l|☆quolius
+|player|p1|
+|l| Puyu paz
+|l| Ctannn

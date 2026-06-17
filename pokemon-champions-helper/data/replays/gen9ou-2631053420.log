@@ -1,0 +1,472 @@
+|j|☆testingyup
+|j|☆john jirachi
+|t:|1781332007
+|gametype|singles
+|player|p1|testingyup|marlon|1555
+|player|p2|john jirachi|swimmer|1525
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Skeledirge, F|
+|poke|p1|Kyurem|
+|poke|p1|Cinderace, M|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Pecharunt|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Gholdengo|
+|poke|p2|Dragonite, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Ting-Lu|
+|poke|p2|Alomomola, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by testingyup)
+|inactive|john jirachi has 120 seconds left.
+|
+|t:|1781332047
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|turn|1
+|
+|t:|1781332066
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Tornadus|Knock Off|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Protect
+|
+|upkeep
+|turn|2
+|
+|t:|1781332080
+|move|p1a: Tornadus|Knock Off|p2a: Alomomola
+|-damage|p2a: Alomomola|89/100
+|-enditem|p2a: Alomomola|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Alomomola|Scald|p1a: Tornadus
+|-damage|p1a: Tornadus|92/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781332093
+|move|p1a: Tornadus|U-turn|p2a: Alomomola
+|-damage|p2a: Alomomola|82/100
+|
+|t:|1781332094
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|move|p2a: Alomomola|Scald|p1a: Ogerpon
+|-immune|p1a: Ogerpon|[from] ability: Water Absorb
+|
+|upkeep
+|turn|4
+|
+|t:|1781332100
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Ogerpon|Knock Off|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Protect
+|
+|upkeep
+|turn|5
+|
+|t:|1781332111
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|upkeep
+|turn|6
+|
+|t:|1781332120
+|move|p2a: Ogerpon|U-turn|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|30/100
+|
+|t:|1781332123
+|switch|p2a: Zamazenta|Zamazenta|100/100|[from] U-turn
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Ogerpon|Trailblaze|p2a: Zamazenta
+|-damage|p2a: Zamazenta|62/100
+|-boost|p1a: Ogerpon|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781332132
+|-terastallize|p1a: Ogerpon|Water
+|detailschange|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Zamazenta|[anim] Ivy Cudgel Water
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781332140
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|8
+|
+|t:|1781332152
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Dragonite|Extreme Speed|p1a: Tornadus
+|-damage|p1a: Tornadus|73/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781332171
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Tornadus|U-turn|p2a: Alomomola
+|-damage|p2a: Alomomola|93/100
+|
+|t:|1781332183
+|switch|p1a: Pecharunt|Pecharunt|100/100|[from] U-turn
+|
+|upkeep
+|turn|10
+|
+|t:|1781332191
+|-terastallize|p2a: Alomomola|Steel
+|move|p1a: Pecharunt|Shadow Ball|p2a: Alomomola
+|-damage|p2a: Alomomola|37/100
+|move|p2a: Alomomola|Scald|p1a: Pecharunt
+|-damage|p1a: Pecharunt|84/100
+|-status|p1a: Pecharunt|brn
+|
+|-damage|p1a: Pecharunt|78/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781332196
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Pecharunt|Shadow Ball|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|91/100
+|
+|-heal|p2a: Ting-Lu|97/100|[from] item: Leftovers
+|-damage|p1a: Pecharunt|72/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1781332211
+|switch|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water|30/100
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p2a: Ting-Lu|Ruination|p1a: Ogerpon
+|-damage|p1a: Ogerpon|15/100
+|
+|-heal|p2a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781332217
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Ogerpon|[anim] Ivy Cudgel Water
+|-immune|p2a: Ogerpon|[from] ability: Water Absorb
+|
+|upkeep
+|turn|14
+|
+|t:|1781332228
+|move|p1a: Ogerpon|Trailblaze|p2a: Ogerpon
+|-damage|p2a: Ogerpon|58/100
+|-boost|p1a: Ogerpon|spe|1
+|move|p2a: Ogerpon|Knock Off|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|detailschange|p1: Ogerpon|Ogerpon-Wellspring, F|[silent]
+|
+|upkeep
+|
+|t:|1781332241
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|turn|15
+|
+|t:|1781332247
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Cinderace|Pyro Ball|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|56/100
+|
+|-heal|p2a: Ting-Lu|62/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781332258
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Tornadus
+|-immune|p1a: Tornadus
+|
+|-heal|p2a: Ting-Lu|68/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781332266
+|switch|p2a: Alomomola|Alomomola, M, tera:Steel|70/100
+|move|p1a: Tornadus|Knock Off|p2a: Alomomola
+|-damage|p2a: Alomomola|63/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781332270
+|move|p1a: Tornadus|Heat Wave|p2a: Alomomola
+|-supereffective|p2a: Alomomola
+|-damage|p2a: Alomomola|7/100
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|
+|upkeep
+|turn|19
+|
+|t:|1781332285
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781332296
+|move|p1a: Cinderace|Gunk Shot|p2a: Dragonite
+|-start|p1a: Cinderace|typechange|Poison|[from] ability: Libero
+|-damage|p2a: Dragonite|53/100
+|-status|p2a: Dragonite|psn
+|move|p2a: Dragonite|Earthquake|p1a: Cinderace
+|-supereffective|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|-damage|p2a: Dragonite|41/100 psn|[from] psn
+|upkeep
+|
+|t:|1781332318
+|switch|p1a: Pecharunt|Pecharunt|72/100 brn
+|turn|21
+|
+|t:|1781332326
+|move|p1a: Pecharunt|Malignant Chain|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|-damage|p1a: Pecharunt|66/100 brn|[from] brn
+|upkeep
+|
+|t:|1781332330
+|switch|p2a: Ting-Lu|Ting-Lu|68/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|22
+|
+|t:|1781332336
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: testingyup|move: Stealth Rock
+|
+|-heal|p2a: Ting-Lu|74/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781332343
+|move|p1a: Tornadus|Knock Off|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|69/100
+|-enditem|p2a: Ting-Lu|Leftovers|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Ting-Lu|Spikes|p1a: Tornadus
+|-sidestart|p1: testingyup|Spikes
+|
+|upkeep
+|turn|24
+|
+|t:|1781332347
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Ting-Lu|[miss]
+|-miss|p1a: Tornadus|p2a: Ting-Lu
+|move|p2a: Ting-Lu|Spikes|p1a: Tornadus
+|-sidestart|p1: testingyup|Spikes
+|
+|upkeep
+|turn|25
+|
+|t:|1781332349
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|54/100
+|move|p2a: Ting-Lu|Spikes|p1a: Tornadus
+|-sidestart|p1: testingyup|Spikes
+|
+|upkeep
+|turn|26
+|
+|t:|1781332352
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|39/100
+|-unboost|p2a: Ting-Lu|spe|1
+|move|p2a: Ting-Lu|Ruination|p1a: Tornadus
+|-damage|p1a: Tornadus|50/100
+|
+|upkeep
+|turn|27
+|
+|t:|1781332361
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|25/100
+|-unboost|p2a: Ting-Lu|spe|1
+|move|p2a: Ting-Lu|Ruination|p1a: Tornadus|[miss]
+|-miss|p2a: Ting-Lu|p1a: Tornadus
+|
+|upkeep
+|turn|28
+|
+|t:|1781332368
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|9/100
+|move|p2a: Ting-Lu|Ruination|p1a: Tornadus
+|-damage|p1a: Tornadus|26/100
+|
+|upkeep
+|turn|29
+|
+|t:|1781332377
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781332380
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|30
+|
+|t:|1781332398
+|move|p2a: Gholdengo|Shadow Ball|p1a: Tornadus
+|-damage|p1a: Tornadus|1/100
+|-unboost|p1a: Tornadus|spd|1
+|move|p1a: Tornadus|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-crit|p2a: Gholdengo
+|-damage|p2a: Gholdengo|29/100
+|-enditem|p2a: Gholdengo|Choice Scarf|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|upkeep
+|turn|31
+|
+|t:|1781332409
+|move|p2a: Gholdengo|Shadow Ball|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|inactive|testingyup has 120 seconds left.
+|
+|t:|1781332435
+|switch|p1a: Pecharunt|Pecharunt|66/100 brn
+|-damage|p1a: Pecharunt|53/100 brn|[from] Stealth Rock
+|-damage|p1a: Pecharunt|28/100 brn|[from] Spikes
+|turn|32
+|
+|t:|1781332441
+|move|p1a: Pecharunt|Shadow Ball|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|-damage|p1a: Pecharunt|23/100 brn|[from] brn
+|upkeep
+|
+|t:|1781332445
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|58/100
+|turn|33
+|
+|t:|1781332456
+|move|p2a: Ogerpon|Knock Off|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|-enditem|p1a: Pecharunt|Choice Specs|[from] move: Knock Off|[of] p2a: Ogerpon
+|faint|p1a: Pecharunt
+|
+|upkeep
+|
+|t:|1781332462
+|switch|p1a: Kyurem|Kyurem|100/100
+|-damage|p1a: Kyurem|76/100|[from] Stealth Rock
+|-damage|p1a: Kyurem|51/100|[from] Spikes
+|-ability|p1a: Kyurem|Pressure
+|turn|34
+|
+|t:|1781332480
+|move|p2a: Ogerpon|U-turn|p1a: Kyurem
+|-damage|p1a: Kyurem|23/100
+|
+|t:|1781332483
+|switch|p2a: Alomomola|Alomomola, M, tera:Steel|40/100|[from] U-turn
+|move|p1a: Kyurem|Icicle Spear|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|36/100
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|33/100
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|29/100
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|25/100
+|-hitcount|p2a: Alomomola|4
+|
+|upkeep
+|turn|35
+|
+|t:|1781332494
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Alomomola|Scald|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|16/100
+|
+|upkeep
+|turn|36
+|
+|t:|1781332514
+|move|p1a: Kyurem|Icicle Spear|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|19/100
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|13/100
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|8/100
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|1/100
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|-hitcount|p2: Alomomola|5
+|
+|upkeep
+|
+|t:|1781332518
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|58/100
+|turn|37
+|
+|t:|1781332523
+|move|p1a: Kyurem|Icicle Spear|p2a: Ogerpon
+|-damage|p2a: Ogerpon|32/100
+|-damage|p2a: Ogerpon|4/100
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|-hitcount|p2: Ogerpon|3
+|
+|win|testingyup
+|raw|testingyup's rating: 1555 &rarr; <strong>1573</strong><br />(+18 for winning)
+|raw|john jirachi's rating: 1525 &rarr; <strong>1507</strong><br />(-18 for losing)
+|l|☆testingyup
+|player|p1|
+|l|☆john jirachi
+|player|p2|

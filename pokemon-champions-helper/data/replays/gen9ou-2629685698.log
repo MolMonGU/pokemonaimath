@@ -1,0 +1,280 @@
+|j|☆Mca Player 11
+|j|‽LT_Alt1
+|t:|1781165250
+|gametype|singles
+|player|p1|Mca Player 11|skierf|1647
+|player|p2|LT_Alt1|266|1750
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Deoxys-Speed|
+|poke|p1|Iron Moth|
+|poke|p1|Zamazenta-*|
+|poke|p1|Gholdengo|
+|poke|p1|Rillaboom, M|
+|poke|p1|Iron Jugulis|
+|poke|p2|Kyurem|
+|poke|p2|Raging Bolt|
+|poke|p2|Hatterene, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Corviknight, M|
+|teampreview
+|
+|t:|1781165269
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Jugulis|Iron Jugulis, shiny|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|1
+|
+|t:|1781165274
+|move|p1a: Iron Jugulis|Hurricane|p2a: Hatterene|[miss]
+|-miss|p1a: Iron Jugulis|p2a: Hatterene
+|move|p2a: Hatterene|Dazzling Gleam|p1a: Iron Jugulis
+|-supereffective|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781165278
+|switch|p1a: Gholdengo|Gholdengo, shiny|100/100
+|turn|2
+|
+|t:|1781165283
+|switch|p1a: Rillaboom|Rillaboom, M, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781165287
+|switch|p1a: Gholdengo|Gholdengo, shiny|100/100
+|-enditem|p1a: Gholdengo|Grassy Seed
+|-boost|p1a: Gholdengo|def|1|[from] item: Grassy Seed
+|move|p2a: Slowking|Sludge Bomb|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|
+|upkeep
+|turn|4
+|j| Easontom
+|
+|t:|1781165290
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|move|p2a: Slowking|Flamethrower|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|71/100
+|
+|-heal|p1a: Gholdengo|77/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781165297
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781165301
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Gholdengo|84/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781165304
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Gholdengo
+|-damage|p1a: Gholdengo|51/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|39/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Raging Bolt|45/100|[from] Grassy Terrain
+|-heal|p1a: Gholdengo|57/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781165308
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Gholdengo
+|-damage|p1a: Gholdengo|19/100
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|69/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781165311
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Gholdengo
+|-damage|p1a: Gholdengo|30/100
+|-status|p1a: Gholdengo|par
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|80/100 par
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781165314
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Gholdengo
+|-damage|p1a: Gholdengo|43/100 par
+|cant|p1a: Gholdengo|par
+|
+|-weather|none
+|upkeep
+|turn|10
+|
+|t:|1781165318
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Gholdengo
+|-damage|p1a: Gholdengo|4/100 par
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|55/100 par
+|
+|upkeep
+|turn|11
+|
+|t:|1781165321
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Gholdengo
+|-crit|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781165324
+|switch|p1a: Rillaboom|Rillaboom, M, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|12
+|
+|t:|1781165329
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Rillaboom
+|-damage|p1a: Rillaboom|4/100
+|-unboost|p2a: Raging Bolt|spa|2
+|
+|-heal|p1a: Rillaboom|10/100|[from] Grassy Terrain
+|-heal|p2a: Raging Bolt|51/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781165337
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|
+|-heal|p1a: Rillaboom|17/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1781165346
+|move|p1a: Rillaboom|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-damage|p1a: Rillaboom|0 fnt|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p2a: Corviknight
+|faint|p1a: Rillaboom
+|
+|upkeep
+|
+|t:|1781165356
+|switch|p1a: Zamazenta|Zamazenta, shiny|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|51/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|15
+|
+|t:|1781165361
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Zamazenta|Crunch|p2a: Hatterene
+|-damage|p2a: Hatterene|61/100
+|
+|-heal|p2a: Hatterene|67/100|[from] Grassy Terrain
+|-heal|p2a: Hatterene|73/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781165367
+|switch|p1a: Iron Moth|Iron Moth, shiny|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|move|p2a: Hatterene|Nuzzle|p1a: Iron Moth
+|-damage|p1a: Iron Moth|96/100
+|-status|p1a: Iron Moth|par
+|
+|-heal|p1a: Iron Moth|100/100 par|[from] Grassy Terrain
+|-heal|p2a: Hatterene|78/100|[from] Grassy Terrain
+|-heal|p2a: Hatterene|84/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1781165371
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Iron Moth|Toxic Spikes|p2a: Ting-Lu
+|-sidestart|p2: LT_Alt1|move: Toxic Spikes
+|
+|upkeep
+|turn|18
+|
+|t:|1781165377
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Ting-Lu|Spikes|p1a: Deoxys
+|-sidestart|p1: Mca Player 11|Spikes
+|
+|upkeep
+|turn|19
+|
+|t:|1781165380
+|switch|p1a: Zamazenta|Zamazenta, shiny|100/100
+|-damage|p1a: Zamazenta|88/100|[from] Spikes
+|move|p2a: Ting-Lu|Ruination|p1a: Zamazenta
+|-damage|p1a: Zamazenta|44/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781165386
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|-sideend|p2: LT_Alt1|move: Toxic Spikes|[of] p2a: Slowking
+|move|p1a: Zamazenta|Close Combat|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|82/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|
+|upkeep
+|turn|21
+|-message|Mca Player 11 forfeited.
+|
+|win|LT_Alt1
+|raw|Mca Player 11's rating: 1647 &rarr; <strong>1633</strong><br />(-14 for losing)
+|raw|LT_Alt1's rating: 1750 &rarr; <strong>1764</strong><br />(+14 for winning)
+|l|☆Mca Player 11
+|player|p1|

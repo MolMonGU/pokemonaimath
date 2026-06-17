@@ -1,0 +1,363 @@
+|j|☆FireSide_01
+|j|☆der grosse z
+|t:|1781522491
+|gametype|singles
+|player|p1|FireSide_01|janine|1567
+|player|p2|der grosse z|169|1591
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ninetales, F|
+|poke|p1|Walking Wake|
+|poke|p1|Typhlosion-Hisui, F|
+|poke|p1|Great Tusk|
+|poke|p1|Rillaboom, F|
+|poke|p1|Raging Bolt|
+|poke|p2|Dragonite, F|
+|poke|p2|Great Tusk|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Gholdengo|
+|poke|p2|Zamazenta-*|
+|poke|p2|Iron Valiant|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FireSide_01)
+|
+|t:|1781522498
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1781522506
+|move|p2a: Deoxys|Stealth Rock|p1a: Ninetales
+|-sidestart|p1: FireSide_01|move: Stealth Rock
+|move|p1a: Ninetales|Encore|p2a: Deoxys
+|-start|p2a: Deoxys|Encore
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781522513
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781522523
+|-terastallize|p1a: Great Tusk|Steel
+|move|p2a: Iron Valiant|Moonblast|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|68/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|83/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: FireSide_01|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781522529
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|10/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Iron Valiant|Destiny Bond|p2a: Iron Valiant
+|-singlemove|p2a: Iron Valiant|Destiny Bond
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781522539
+|move|p1a: Great Tusk|Stealth Rock|p2a: Iron Valiant
+|-sidestart|p2: der grosse z|move: Stealth Rock
+|move|p2a: Iron Valiant|Knock Off|p1a: Great Tusk
+|-damage|p1a: Great Tusk|44/100
+|-enditem|p1a: Great Tusk|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Iron Valiant
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781522545
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-damage|p2a: Great Tusk|97/100|[from] Stealth Rock
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisspe
+|move|p1a: Great Tusk|Ice Spinner|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|66/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781522554
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Typhlosion|Typhlosion-Hisui, F|100/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Typhlosion
+|-supereffective|p1a: Typhlosion
+|-damage|p1a: Typhlosion|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Typhlosion
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781522562
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|8
+|
+|t:|1781522568
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Iron Valiant|Iron Valiant|10/100
+|-damage|p2a: Iron Valiant|4/100|[from] Stealth Rock
+|move|p1a: Rillaboom|Grassy Glide|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781522575
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-damage|p2a: Zamazenta|94/100|[from] Stealth Rock
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|9
+|
+|t:|1781522579
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|move|p2a: Zamazenta|Close Combat|p1a: Ninetales
+|-damage|p1a: Ninetales|6/100
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|-damage|p2a: Zamazenta|84/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Zamazenta|91/100|[from] Grassy Terrain
+|-heal|p1a: Ninetales|12/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1781522586
+|switch|p1a: Great Tusk|Great Tusk, tera:Steel|44/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|move|p2a: Zamazenta|Close Combat|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|-damage|p2a: Zamazenta|81/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Zamazenta|87/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781522593
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|turn|11
+|
+|t:|1781522599
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|94/100|[from] Stealth Rock
+|move|p1a: Rillaboom|Wood Hammer|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-crit|p2a: Gholdengo
+|-damage|p2a: Gholdengo|19/100
+|-damage|p1a: Rillaboom|73/100|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Rillaboom|79/100|[from] Grassy Terrain
+|-heal|p2a: Gholdengo|25/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|-enditem|p2a: Gholdengo|Custap Berry|[eat]
+|-activate|p2a: Gholdengo|item: Custap Berry|[consumed]
+|
+|t:|1781522607
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Gholdengo|Make It Rain|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|79/100
+|-unboost|p2a: Gholdengo|spa|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Raging Bolt|85/100|[from] Grassy Terrain
+|-heal|p2a: Gholdengo|32/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781522615
+|move|p1a: Raging Bolt|Weather Ball|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781522621
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-damage|p2a: Deoxys|88/100|[from] Stealth Rock
+|-ability|p2a: Deoxys|Pressure
+|turn|14
+|
+|t:|1781522625
+|move|p2a: Deoxys|Taunt|p1a: Raging Bolt
+|-start|p1a: Raging Bolt|move: Taunt
+|move|p1a: Raging Bolt|Weather Ball|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781522631
+|switch|p2a: Great Tusk|Great Tusk|66/100
+|-damage|p2a: Great Tusk|63/100|[from] Stealth Rock
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisspe
+|turn|15
+|
+|t:|1781522638
+|move|p2a: Great Tusk|Headlong Rush|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781522641
+|switch|p1a: Rillaboom|Rillaboom, F|79/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|16
+|
+|t:|1781522645
+|move|p1a: Rillaboom|Grassy Glide|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|none
+|-heal|p1a: Rillaboom|86/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781522650
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|-damage|p2a: Dragonite|76/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1781522652
+|switch|p1a: Ninetales|Ninetales, F|12/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Ninetales|18/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1781522663
+|-terastallize|p2a: Dragonite|Fire
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Ninetales|Will-O-Wisp|p2a: Dragonite
+|-immune|p2a: Dragonite
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Dragonite|82/100|[from] Grassy Terrain
+|-heal|p1a: Ninetales|24/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1781522671
+|move|p2a: Dragonite|Extreme Speed|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|-damage|p2a: Dragonite|72/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Dragonite|78/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781522675
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|turn|20
+|
+|t:|1781522678
+|move|p2a: Dragonite|Outrage|p1a: Walking Wake
+|-supereffective|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|-damage|p2a: Dragonite|68/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Dragonite|74/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781522681
+|switch|p1a: Rillaboom|Rillaboom, F|86/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|21
+|
+|t:|1781522683
+|move|p2a: Dragonite|Outrage|p1a: Rillaboom|[from] lockedmove
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|-damage|p2a: Dragonite|65/100|[from] item: Life Orb
+|-start|p2a: Dragonite|confusion|[fatigue]
+|
+|win|der grosse z
+|raw|FireSide_01's rating: 1567 &rarr; <strong>1548</strong><br />(-19 for losing)
+|raw|der grosse z's rating: 1591 &rarr; <strong>1610</strong><br />(+19 for winning)
+|c|☆FireSide_01|gg
+|l|☆FireSide_01
+|player|p1|
+|l|☆der grosse z
+|player|p2|

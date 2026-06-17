@@ -1,0 +1,369 @@
+|j|☆Superhjkdetective
+|j|‽zozotown
+|t:|1781006562
+|gametype|singles
+|player|p1|Superhjkdetective|2|1578
+|player|p2|zozotown|265|1677
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ninetales, M|
+|poke|p1|Ceruledge, M|
+|poke|p1|Great Tusk|
+|poke|p1|Hatterene, F|
+|poke|p1|Walking Wake|
+|poke|p1|Raging Bolt|
+|poke|p2|Clodsire, M|
+|poke|p2|Alomomola, F|
+|poke|p2|Hydrapple, F|
+|poke|p2|Meowscarada, F|
+|poke|p2|Primarina, F|
+|poke|p2|Weezing-Galar, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Superhjkdetective)
+|
+|t:|1781006575
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ninetales|Ninetales, M|100/100
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1781006580
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Meowscarada|U-turn|p1a: Hatterene
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p1a: Hatterene|46/100
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781006599
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781006603
+|move|p2a: Meowscarada|U-turn|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|85/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|
+|t:|1781006607
+|switch|p2a: Clodsire|Clodsire, M|100/100|[from] U-turn
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781006614
+|move|p1a: Ceruledge|Bitter Blade|p2a: Clodsire
+|-damage|p2a: Clodsire|38/100
+|-heal|p1a: Ceruledge|100/100|[from] drain|[of] p2a: Clodsire
+|move|p2a: Clodsire|Curse|p2a: Clodsire
+|-unboost|p2a: Clodsire|spe|1
+|-boost|p2a: Clodsire|atk|1
+|-boost|p2a: Clodsire|def|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Clodsire|44/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781006620
+|move|p1a: Ceruledge|Bitter Blade|p2a: Clodsire
+|-damage|p2a: Clodsire|4/100
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|54/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Clodsire|60/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781006648
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781006653
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Great Tusk|Stealth Rock|p2a: Alomomola
+|-sidestart|p2: zozotown|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781006659
+|move|p1a: Great Tusk|Headlong Rush|p2a: Alomomola
+|-damage|p2a: Alomomola|48/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Alomomola|Flip Turn|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|73/100
+|
+|t:|1781006662
+|switch|p2a: Primarina|Primarina, F|100/100|[from] Flip Turn
+|-damage|p2a: Primarina|88/100|[from] Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Primarina|94/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781006665
+|move|p1a: Great Tusk|Headlong Rush|p2a: Primarina
+|-damage|p2a: Primarina|16/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Primarina|Moonblast|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|none
+|-heal|p2a: Primarina|22/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781006676
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|turn|9
+|
+|t:|1781006684
+|switch|p2a: Clodsire|Clodsire, M|100/100
+|-damage|p2a: Clodsire|94/100|[from] Stealth Rock
+|move|p1a: Ceruledge|Poltergeist|p2a: Clodsire
+|-activate|p2a: Clodsire|move: Poltergeist|Leftovers
+|-damage|p2a: Clodsire|41/100
+|
+|-heal|p2a: Clodsire|47/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781006692
+|move|p1a: Ceruledge|Poltergeist|p2a: Clodsire
+|-activate|p2a: Clodsire|move: Poltergeist|Leftovers
+|-damage|p2a: Clodsire|0 fnt
+|faint|p2a: Clodsire
+|
+|upkeep
+|
+|t:|1781006703
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|-damage|p2a: Meowscarada|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1781006707
+|switch|p1a: Ninetales|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|move|p2a: Meowscarada|Knock Off|p1a: Ninetales
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p1a: Ninetales|6/100
+|-enditem|p1a: Ninetales|Heat Rock|[from] move: Knock Off|[of] p2a: Meowscarada
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781006712
+|switch|p1a: Hatterene|Hatterene, F|46/100
+|move|p2a: Meowscarada|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781006727
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|13
+|inactive|zozotown has 120 seconds left.
+|
+|t:|1781006775
+|switch|p2a: Alomomola|Alomomola, F|81/100
+|-damage|p2a: Alomomola|69/100|[from] Stealth Rock
+|move|p1a: Walking Wake|Hydro Steam|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|32/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781006785
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Walking Wake|Hydro Steam|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781006789
+|switch|p2a: Hydrapple|Hydrapple, F|100/100
+|-damage|p2a: Hydrapple|88/100|[from] Stealth Rock
+|move|p1a: Walking Wake|Hydro Steam|p2a: Hydrapple
+|-resisted|p2a: Hydrapple
+|-damage|p2a: Hydrapple|71/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|inactive|zozotown has 120 seconds left.
+|
+|t:|1781006803
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|switch|p2a: Primarina|Primarina, F|22/100
+|-damage|p2a: Primarina|10/100|[from] Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Primarina|16/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781006811
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|-damage|p1a: Raging Bolt|90/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781006815
+|switch|p2a: Meowscarada|Meowscarada, F|88/100
+|-damage|p2a: Meowscarada|76/100|[from] Stealth Rock
+|turn|18
+|inactive|Superhjkdetective has 120 seconds left.
+|
+|t:|1781006848
+|move|p2a: Meowscarada|Triple Axel|p1a: Raging Bolt
+|-start|p2a: Meowscarada|typechange|Ice|[from] ability: Protean
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|65/100
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|18/100
+|-hitcount|p1a: Raging Bolt|2
+|move|p1a: Raging Bolt|Weather Ball|p2a: Meowscarada
+|-supereffective|p2a: Meowscarada
+|-damage|p2a: Meowscarada|0 fnt
+|faint|p2a: Meowscarada
+|-damage|p1a: Raging Bolt|8/100|[from] item: Life Orb
+|
+|-weather|none
+|-end|p1a: Raging Bolt|Protosynthesis
+|upkeep
+|
+|t:|1781006861
+|switch|p2a: Alomomola|Alomomola, F|65/100
+|-damage|p2a: Alomomola|52/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1781006873
+|switch|p2a: Hydrapple|Hydrapple, F|100/100
+|-damage|p2a: Hydrapple|88/100|[from] Stealth Rock
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Hydrapple
+|-resisted|p2a: Hydrapple
+|-damage|p2a: Hydrapple|73/100
+|-damage|p1a: Raging Bolt|0 fnt|[from] item: Life Orb
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781006875
+|switch|p1a: Ninetales|Ninetales, M|6/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|20
+|
+|t:|1781006888
+|move|p1a: Ninetales|Overheat|p2a: Hydrapple
+|-damage|p2a: Hydrapple|17/100
+|-unboost|p1a: Ninetales|spa|2
+|move|p2a: Hydrapple|Fickle Beam|p1a: Ninetales|[anim] Fickle Beam All Out
+|-activate|p2a: Hydrapple|move: Fickle Beam
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781006895
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|turn|21
+|
+|t:|1781006902
+|switch|p2a: Alomomola|Alomomola, F|86/100
+|-damage|p2a: Alomomola|73/100|[from] Stealth Rock
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|22
+|j| yuureisuisei
+|
+|t:|1781006911
+|-terastallize|p1a: Ceruledge|Ghost
+|move|p1a: Ceruledge|Poltergeist|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Poltergeist|Covert Cloak
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781006917
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|-damage|p2a: Weezing|88/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1781006924
+|move|p1a: Ceruledge|Bitter Blade|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|-message|zozotown forfeited.
+|
+|win|Superhjkdetective
+|raw|Superhjkdetective's rating: 1578 &rarr; <strong>1604</strong><br />(+26 for winning)
+|raw|zozotown's rating: 1677 &rarr; <strong>1651</strong><br />(-26 for losing)
+|l|‽zozotown
+|player|p2|
+|l| yuureisuisei

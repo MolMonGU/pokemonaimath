@@ -1,0 +1,538 @@
+|j|☆eggseven
+|j|☆m4debyjoak0
+|t:|1781065920
+|gametype|singles
+|player|p1|eggseven|102|1487
+|player|p2|m4debyjoak0|cheren-gen5bw2|1534
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Kyurem|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Kingambit, M|
+|poke|p2|Pincurchin, F|
+|poke|p2|Iron Crown|
+|poke|p2|Hawlucha, M|
+|poke|p2|Iron Treads|
+|poke|p2|Iron Valiant|
+|poke|p2|Rotom-Wash|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by m4debyjoak0)
+|
+|t:|1781065934
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|1
+|
+|t:|1781065937
+|move|p2a: Rotom|Volt Switch|p1a: Slowking
+|-damage|p1a: Slowking|81/100
+|
+|t:|1781065939
+|switch|p2a: Iron Treads|Iron Treads|100/100|[from] Volt Switch
+|-item|p2a: Iron Treads|Air Balloon
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781065949
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781065953
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Pincurchin|Pincurchin, F|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|move|p1a: Tornadus|U-turn|p2a: Pincurchin
+|-damage|p2a: Pincurchin|88/100
+|-enditem|p2a: Pincurchin|Eject Button
+|
+|t:|1781065960
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-activate|p2a: Iron Valiant|ability: Quark Drive
+|-start|p2a: Iron Valiant|quarkdrivespe
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781065963
+|move|p2a: Iron Valiant|Thunderbolt|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|46/100
+|-damage|p2a: Iron Valiant|91/100|[from] item: Life Orb
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781065967
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p2a: Hawlucha|Electric Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Electric Seed
+|turn|4
+|
+|t:|1781065972
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|-terastallize|p2a: Hawlucha|Steel
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781065978
+|move|p2a: Hawlucha|Acrobatics|p1a: Slowking
+|-damage|p1a: Slowking|25/100
+|move|p1a: Slowking|Trick|p2a: Hawlucha
+|-activate|p1a: Slowking|move: Trick|[of] p2a: Hawlucha
+|-item|p2a: Hawlucha|Black Sludge|[from] move: Trick
+|-enditem|p1a: Slowking|Black Sludge|[silent]|[from] move: Trick
+|
+|-weather|none
+|-damage|p2a: Hawlucha|88/100|[from] item: Black Sludge
+|upkeep
+|turn|6
+|
+|t:|1781065984
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Hawlucha|Acrobatics|p1a: Hatterene
+|-damage|p1a: Hatterene|55/100
+|-damage|p2a: Hawlucha|72/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|
+|-damage|p2a: Hawlucha|59/100|[from] item: Black Sludge
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|7
+|
+|t:|1781065990
+|move|p2a: Hawlucha|Acrobatics|p1a: Hatterene
+|-damage|p1a: Hatterene|11/100
+|-damage|p2a: Hawlucha|43/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|move|p1a: Hatterene|Nuzzle|p2a: Hawlucha
+|-damage|p2a: Hawlucha|39/100
+|-status|p2a: Hawlucha|par
+|
+|-damage|p2a: Hawlucha|27/100 par|[from] item: Black Sludge
+|upkeep
+|turn|8
+|
+|t:|1781065995
+|move|p2a: Hawlucha|Acrobatics|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-damage|p2a: Hawlucha|10/100 par|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|faint|p1a: Hatterene
+|
+|-damage|p2a: Hawlucha|0 fnt|[from] item: Black Sludge
+|faint|p2a: Hawlucha
+|upkeep
+|
+|t:|1781065999
+|switch|p2a: Pincurchin|Pincurchin, F|88/100
+|switch|p1a: Slowking|Slowking-Galar, F|59/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|turn|9
+|
+|t:|1781066008
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-item|p2a: Iron Treads|Air Balloon
+|-activate|p2a: Iron Treads|ability: Quark Drive
+|-start|p2a: Iron Treads|quarkdrivespe
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781066012
+|switch|p1a: Tornadus|Tornadus-Therian, M|79/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781066015
+|move|p2a: Iron Treads|Knock Off|p1a: Tornadus
+|-damage|p1a: Tornadus|46/100
+|-enditem|p1a: Tornadus|Assault Vest|[from] move: Knock Off|[of] p2a: Iron Treads
+|move|p1a: Tornadus|Heat Wave|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|37/100
+|-enditem|p2a: Iron Treads|Air Balloon
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781066022
+|move|p2a: Iron Treads|Volt Switch|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|18/100
+|
+|t:|1781066025
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Rotom|Rotom-Wash|100/100|[from] Volt Switch
+|move|p1a: Tornadus|U-turn|p2a: Rotom
+|-damage|p2a: Rotom|90/100
+|
+|t:|1781066030
+|switch|p1a: Kyurem|Kyurem|100/100|[from] U-turn
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Rotom|96/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781066033
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-activate|p2a: Iron Crown|ability: Quark Drive
+|-start|p2a: Iron Crown|quarkdrivespe
+|move|p1a: Kyurem|Freeze-Dry|p2a: Iron Crown
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|85/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781066045
+|switch|p1a: Slowking|Slowking-Galar, F|92/100
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Slowking
+|-damage|p1a: Slowking|74/100
+|-damage|p1a: Slowking|55/100
+|-hitcount|p1a: Slowking|2
+|
+|-weather|none
+|-fieldend|move: Electric Terrain
+|-end|p2a: Iron Crown|Quark Drive
+|upkeep
+|turn|14
+|
+|t:|1781066048
+|move|p2a: Iron Crown|Psyshock|p1a: Slowking
+|-damage|p1a: Slowking|30/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781066051
+|switch|p1a: Tornadus|Tornadus-Therian, M|52/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781066053
+|move|p1a: Tornadus|Knock Off|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|45/100
+|-enditem|p2a: Iron Crown|Assault Vest|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Iron Crown|Volt Switch|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|5/100
+|
+|t:|1781066057
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Pincurchin|Pincurchin, F|88/100|[from] Volt Switch
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781066060
+|move|p1a: Tornadus|U-turn|p2a: Pincurchin
+|-damage|p2a: Pincurchin|76/100
+|
+|t:|1781066062
+|switch|p1a: Slowking|Slowking-Galar, F|63/100|[from] U-turn
+|move|p2a: Pincurchin|Discharge|p1a: Slowking
+|-damage|p1a: Slowking|38/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781066073
+|switch|p2a: Iron Treads|Iron Treads|37/100
+|-activate|p2a: Iron Treads|ability: Quark Drive
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Slowking|Future Sight|p2a: Iron Treads
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781066077
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Iron Treads|Knock Off|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|90/100
+|-damage|p2a: Iron Treads|20/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|-enditem|p1a: Great Tusk|Rocky Helmet|[from] move: Knock Off|[of] p2a: Iron Treads
+|
+|-weather|none
+|upkeep
+|turn|19
+|
+|t:|1781066082
+|move|p2a: Iron Treads|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|56/100
+|move|p1a: Great Tusk|Stealth Rock|p2a: Iron Treads
+|-sidestart|p2: m4debyjoak0|move: Stealth Rock
+|
+|-end|p2a: Iron Treads|move: Future Sight
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1781066084
+|switch|p2a: Rotom|Rotom-Wash|96/100
+|-damage|p2a: Rotom|83/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1781066088
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Slowking|Slowking-Galar, F|71/100
+|move|p2a: Rotom|Hydro Pump|p1a: Slowking
+|-damage|p1a: Slowking|40/100
+|
+|-heal|p2a: Rotom|90/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781066090
+|move|p2a: Rotom|Hydro Pump|p1a: Slowking
+|-damage|p1a: Slowking|7/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781066093
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Rotom|96/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781066097
+|switch|p2a: Pincurchin|Pincurchin, F|76/100
+|-damage|p2a: Pincurchin|64/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|move|p1a: Kyurem|Freeze-Dry|p2a: Pincurchin
+|-damage|p2a: Pincurchin|0 fnt
+|faint|p2a: Pincurchin
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781066099
+|switch|p2a: Iron Crown|Iron Crown|45/100
+|-damage|p2a: Iron Crown|39/100|[from] Stealth Rock
+|-activate|p2a: Iron Crown|ability: Quark Drive
+|-start|p2a: Iron Crown|quarkdrivespe
+|turn|23
+|
+|t:|1781066106
+|switch|p1a: Great Tusk|Great Tusk|56/100
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Great Tusk
+|-damage|p1a: Great Tusk|20/100
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|-hitcount|p1: Great Tusk|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781066107
+|switch|p1a: Slowking|Slowking-Galar, F|40/100
+|turn|24
+|
+|t:|1781066110
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|88/100
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|78/100
+|-hitcount|p1a: Kingambit|2
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kingambit|84/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781066114
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Rotom|Rotom-Wash|96/100
+|-damage|p2a: Rotom|83/100|[from] Stealth Rock
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Slowking|Slowking-Galar, F|74/100
+|
+|-weather|none
+|-heal|p2a: Rotom|90/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781066116
+|move|p2a: Rotom|Volt Switch|p1a: Slowking
+|-damage|p1a: Slowking|55/100
+|
+|t:|1781066117
+|switch|p2a: Iron Crown|Iron Crown|39/100|[from] Volt Switch
+|-damage|p2a: Iron Crown|33/100|[from] Stealth Rock
+|-activate|p2a: Iron Crown|ability: Quark Drive
+|-start|p2a: Iron Crown|quarkdrivespe
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781066125
+|switch|p1a: Tornadus|Tornadus-Therian, M|38/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-fieldend|move: Electric Terrain
+|-end|p2a: Iron Crown|Quark Drive
+|upkeep
+|turn|27
+|
+|t:|1781066127
+|switch|p1a: Slowking|Slowking-Galar, F|89/100
+|move|p2a: Iron Crown|Volt Switch|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|62/100
+|
+|t:|1781066128
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Rotom|Rotom-Wash|90/100|[from] Volt Switch
+|-damage|p2a: Rotom|77/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Rotom|83/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781066130
+|move|p2a: Rotom|Volt Switch|p1a: Slowking
+|-damage|p1a: Slowking|42/100
+|
+|t:|1781066131
+|switch|p2a: Iron Crown|Iron Crown|33/100|[from] Volt Switch
+|-damage|p2a: Iron Crown|27/100|[from] Stealth Rock
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|
+|t:|1781066135
+|switch|p1a: Tornadus|Tornadus-Therian, M|71/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|29
+|
+|t:|1781066137
+|move|p1a: Tornadus|Heat Wave|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781066139
+|switch|p2a: Rotom|Rotom-Wash|83/100
+|-damage|p2a: Rotom|71/100|[from] Stealth Rock
+|turn|30
+|
+|t:|1781066145
+|move|p1a: Tornadus|Knock Off|p2a: Rotom
+|-damage|p2a: Rotom|54/100
+|-enditem|p2a: Rotom|Leftovers|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Rotom|Pain Split|p1a: Tornadus
+|-sethp|p1a: Tornadus|60/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|67/100|[from] move: Pain Split
+|
+|-weather|none
+|upkeep
+|turn|31
+|
+|t:|1781066148
+|move|p1a: Tornadus|U-turn|p2a: Rotom
+|-damage|p2a: Rotom|56/100
+|
+|t:|1781066150
+|switch|p1a: Slowking|Slowking-Galar, F|76/100|[from] U-turn
+|move|p2a: Rotom|Will-O-Wisp|p1a: Slowking
+|-status|p1a: Slowking|brn
+|
+|-damage|p1a: Slowking|69/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1781066155
+|move|p2a: Rotom|Pain Split|p1a: Slowking
+|-sethp|p1a: Slowking|56/100 brn|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|73/100|[from] move: Pain Split
+|move|p1a: Slowking|Future Sight|p2a: Rotom
+|-start|p1a: Slowking|move: Future Sight
+|
+|-damage|p1a: Slowking|50/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1781066157
+|move|p2a: Rotom|Hydro Pump|p1a: Slowking
+|-damage|p1a: Slowking|21/100 brn
+|move|p1a: Slowking|Sludge Bomb|p2a: Rotom
+|-damage|p2a: Rotom|34/100
+|
+|-damage|p1a: Slowking|15/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1781066161
+|switch|p1a: Tornadus|Tornadus-Therian, M|93/100
+|move|p2a: Rotom|Hydro Pump|p1a: Tornadus
+|-damage|p1a: Tornadus|51/100
+|
+|-end|p2a: Rotom|move: Future Sight
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|win|eggseven
+|raw|eggseven's rating: 1487 &rarr; <strong>1510</strong><br />(+23 for winning)
+|raw|m4debyjoak0's rating: 1534 &rarr; <strong>1511</strong><br />(-23 for losing)
+|l|☆eggseven
+|player|p1|

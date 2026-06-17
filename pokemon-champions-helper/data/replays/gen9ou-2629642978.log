@@ -1,0 +1,651 @@
+|j|☆Klopple
+|j|☆jonuz
+|t:|1781158217
+|gametype|singles
+|player|p1|Klopple|sailor|1568
+|player|p2|jonuz|170|1617
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Arboliva, M|
+|poke|p1|Gliscor, M|
+|poke|p1|Iron Crown|
+|poke|p1|Zamazenta-*|
+|poke|p1|Hatterene, F|
+|poke|p1|Dragonite, F|
+|poke|p2|Sinistcha|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Clefable, M|
+|poke|p2|Moltres|
+|poke|p2|Ting-Lu|
+|poke|p2|Kommo-o, M|
+|teampreview
+|
+|t:|1781158253
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Arboliva|Arboliva, M|100/100
+|switch|p2a: Moltres|Moltres|100/100
+|turn|1
+|
+|t:|1781158259
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|move|p2a: Moltres|Hurricane|p1a: Gliscor
+|-damage|p1a: Gliscor|52/100
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781158266
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Moltres|Overheat|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p1a: Gliscor|64/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|3
+|
+|t:|1781158272
+|move|p1a: Gliscor|Knock Off|p2a: Moltres
+|-damage|p2a: Moltres|79/100
+|-enditem|p2a: Moltres|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Gliscor
+|move|p2a: Moltres|Hurricane|p1a: Gliscor|[miss]
+|-miss|p2a: Moltres|p1a: Gliscor
+|
+|-heal|p1a: Gliscor|77/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|4
+|
+|t:|1781158278
+|move|p1a: Gliscor|Stealth Rock|p2a: Moltres
+|-sidestart|p2: jonuz|move: Stealth Rock
+|move|p2a: Moltres|Hurricane|p1a: Gliscor
+|-damage|p1a: Gliscor|24/100 tox
+|
+|-heal|p1a: Gliscor|37/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|5
+|
+|t:|1781158283
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Moltres|Hurricane|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p1a: Gliscor|49/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|6
+|
+|t:|1781158288
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|move|p2a: Moltres|Hurricane|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|79/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781158294
+|move|p1a: Iron Crown|Volt Switch|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|28/100
+|
+|t:|1781158298
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Dragonite|Dragonite, F|100/100|[from] Volt Switch
+|move|p2a: Moltres|Overheat|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|84/100
+|-unboost|p2a: Moltres|spa|2
+|
+|upkeep
+|turn|8
+|
+|t:|1781158305
+|switch|p1a: Iron Crown|Iron Crown|79/100
+|move|p2a: Moltres|Roost|p2a: Moltres
+|-heal|p2a: Moltres|78/100
+|-singleturn|p2a: Moltres|move: Roost
+|
+|upkeep
+|turn|9
+|
+|t:|1781158311
+|move|p1a: Iron Crown|Psychic Noise|p2a: Moltres
+|-damage|p2a: Moltres|40/100
+|-start|p2a: Moltres|move: Heal Block
+|cant|p2a: Moltres|move: Heal Block|Roost
+|
+|upkeep
+|turn|10
+|
+|t:|1781158318
+|move|p1a: Iron Crown|Future Sight|p2a: Moltres
+|-start|p1a: Iron Crown|move: Future Sight
+|move|p2a: Moltres|Overheat|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|34/100
+|-unboost|p2a: Moltres|spa|2
+|
+|-end|p2a: Moltres|move: Heal Block
+|upkeep
+|turn|11
+|
+|t:|1781158324
+|move|p1a: Iron Crown|Volt Switch|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|
+|t:|1781158329
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Zamazenta|Zamazenta|100/100|[from] Volt Switch
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|
+|upkeep
+|j| Easontom
+|
+|t:|1781158354
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|12
+|j| pokemonlover-834
+|l| pokemonlover-834
+|
+|t:|1781158361
+|switch|p1a: Iron Crown|Iron Crown|34/100
+|move|p2a: Clefable|Moonblast|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|24/100
+|-unboost|p1a: Iron Crown|spa|1
+|
+|-end|p2a: Clefable|move: Future Sight
+|-damage|p2a: Clefable|61/100
+|-heal|p2a: Clefable|67/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781158373
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|-damage|p2a: Samurott|88/100|[from] Stealth Rock
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|75/100
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|62/100
+|-hitcount|p2a: Samurott|2
+|
+|upkeep
+|turn|14
+|
+|t:|1781158382
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Samurott|Ceaseless Edge|p1a: Hatterene
+|-damage|p1a: Hatterene|60/100
+|-damage|p2a: Samurott|46/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|-sidestart|p1: Klopple|Spikes
+|
+|upkeep
+|turn|15
+|
+|t:|1781158389
+|move|p2a: Samurott|Ceaseless Edge|p1a: Hatterene
+|-damage|p1a: Hatterene|20/100
+|-damage|p2a: Samurott|29/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|-sidestart|p1: Klopple|Spikes
+|move|p1a: Hatterene|Draining Kiss|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|-heal|p1a: Hatterene|42/100|[from] drain|[of] p2a: Samurott
+|faint|p2a: Samurott
+|
+|upkeep
+|
+|t:|1781158393
+|switch|p2a: Sinistcha|Sinistcha|100/100
+|turn|16
+|
+|t:|1781158408
+|switch|p1a: Arboliva|Arboliva, M|100/100
+|-damage|p1a: Arboliva|84/100|[from] Spikes
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|
+|upkeep
+|turn|17
+|
+|t:|1781158413
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|move|p1a: Arboliva|Alluring Voice|p2a: Sinistcha
+|-damage|p2a: Sinistcha|83/100
+|-start|p2a: Sinistcha|confusion
+|
+|upkeep
+|turn|18
+|
+|t:|1781158423
+|switch|p1a: Iron Crown|Iron Crown|24/100
+|-damage|p1a: Iron Crown|7/100|[from] Spikes
+|-activate|p2a: Sinistcha|confusion
+|-damage|p2a: Sinistcha|79/100|[from] confusion
+|
+|upkeep
+|turn|19
+|
+|t:|1781158429
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-damage|p2a: Ting-Lu|94/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Iron Crown|Psychic Noise|p2a: Ting-Lu
+|-immune|p2a: Ting-Lu
+|
+|-heal|p2a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781158433
+|move|p1a: Iron Crown|Future Sight|p2a: Ting-Lu
+|-start|p1a: Iron Crown|move: Future Sight
+|move|p2a: Ting-Lu|Earthquake|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781158437
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-damage|p1a: Zamazenta|84/100|[from] Spikes
+|turn|21
+|
+|t:|1781158447
+|move|p1a: Zamazenta|Close Combat|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|28/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|move|p2a: Ting-Lu|Ruination|p1a: Zamazenta
+|-damage|p1a: Zamazenta|42/100
+|
+|-heal|p2a: Ting-Lu|34/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781158454
+|move|p1a: Zamazenta|Close Combat|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-crit|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|faint|p2a: Ting-Lu
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|
+|t:|1781158459
+|switch|p2a: Clefable|Clefable, M|67/100
+|turn|23
+|
+|t:|1781158463
+|switch|p1a: Gliscor|Gliscor, M|49/100 tox
+|move|p2a: Clefable|Moonblast|p1a: Gliscor
+|-damage|p1a: Gliscor|21/100 tox
+|
+|-heal|p2a: Clefable|73/100|[from] item: Leftovers
+|-heal|p1a: Gliscor|33/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|24
+|
+|t:|1781158471
+|move|p1a: Gliscor|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|65/100
+|-enditem|p2a: Clefable|Leftovers|[from] move: Knock Off|[of] p1a: Gliscor
+|move|p2a: Clefable|Stealth Rock|p1a: Gliscor
+|-sidestart|p1: Klopple|move: Stealth Rock
+|
+|-heal|p1a: Gliscor|46/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|25
+|
+|t:|1781158478
+|move|p1a: Gliscor|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|42/100
+|move|p2a: Clefable|Moonblast|p1a: Gliscor
+|-damage|p1a: Gliscor|20/100 tox
+|
+|-heal|p1a: Gliscor|33/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|26
+|
+|t:|1781158485
+|move|p1a: Gliscor|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|15/100
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|65/100
+|
+|-heal|p1a: Gliscor|45/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|27
+|
+|t:|1781158489
+|move|p1a: Gliscor|Earthquake|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|27/100
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|77/100
+|
+|-heal|p1a: Gliscor|58/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|28
+|
+|t:|1781158501
+|switch|p2a: Kommo-o|Kommo-o, M|100/100
+|-damage|p2a: Kommo-o|94/100|[from] Stealth Rock
+|move|p1a: Gliscor|Protect||[still]
+|-fail|p1a: Gliscor
+|
+|-heal|p2a: Kommo-o|100/100|[from] item: Leftovers
+|-heal|p1a: Gliscor|70/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|29
+|
+|t:|1781158509
+|move|p2a: Kommo-o|Bulk Up|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|move|p1a: Gliscor|Earthquake|p2a: Kommo-o
+|-damage|p2a: Kommo-o|86/100
+|
+|-heal|p2a: Kommo-o|92/100|[from] item: Leftovers
+|-heal|p1a: Gliscor|83/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|30
+|
+|t:|1781158515
+|move|p2a: Kommo-o|Bulk Up|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|move|p1a: Gliscor|Knock Off|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-damage|p2a: Kommo-o|88/100
+|-enditem|p2a: Kommo-o|Leftovers|[from] move: Knock Off|[of] p1a: Gliscor
+|
+|-heal|p1a: Gliscor|95/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|31
+|
+|t:|1781158524
+|switch|p1a: Hatterene|Hatterene, F|42/100
+|-damage|p1a: Hatterene|25/100|[from] Spikes
+|-damage|p1a: Hatterene|13/100|[from] Stealth Rock
+|move|p2a: Kommo-o|Bulk Up|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|
+|upkeep
+|turn|32
+|
+|t:|1781158532
+|move|p2a: Kommo-o|Shadow Claw|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-damage|p2a: Kommo-o|71/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781158549
+|switch|p1a: Arboliva|Arboliva, M|84/100
+|-damage|p1a: Arboliva|67/100|[from] Spikes
+|-damage|p1a: Arboliva|55/100|[from] Stealth Rock
+|turn|33
+|
+|t:|1781158554
+|move|p1a: Arboliva|Endure|p1a: Arboliva
+|-singleturn|p1a: Arboliva|move: Endure
+|move|p2a: Kommo-o|Body Press|p1a: Arboliva
+|-supereffective|p1a: Arboliva
+|-activate|p1a: Arboliva|move: Endure
+|-damage|p1a: Arboliva|1/100
+|
+|upkeep
+|turn|34
+|l| Easontom
+|-enditem|p1a: Arboliva|Custap Berry|[eat]
+|-activate|p1a: Arboliva|item: Custap Berry|[consumed]
+|
+|t:|1781158569
+|switch|p2a: Sinistcha|Sinistcha|79/100
+|move|p1a: Arboliva|Alluring Voice|p2a: Sinistcha
+|-damage|p2a: Sinistcha|46/100
+|
+|-item|p1a: Arboliva|Custap Berry|[from] ability: Harvest
+|upkeep
+|turn|35
+|-enditem|p1a: Arboliva|Custap Berry|[eat]
+|-activate|p1a: Arboliva|item: Custap Berry|[consumed]
+|
+|t:|1781158588
+|-terastallize|p1a: Arboliva|Fairy
+|move|p1a: Arboliva|Alluring Voice|p2a: Sinistcha
+|-damage|p2a: Sinistcha|0 fnt
+|faint|p2a: Sinistcha
+|
+|upkeep
+|
+|t:|1781158594
+|switch|p2a: Clefable|Clefable, M|77/100
+|turn|36
+|
+|t:|1781158601
+|move|p1a: Arboliva|Endure|p1a: Arboliva
+|-singleturn|p1a: Arboliva|move: Endure
+|move|p2a: Clefable|Moonblast|p1a: Arboliva
+|-activate|p1a: Arboliva|move: Endure
+|-damage|p1a: Arboliva|1/100
+|
+|upkeep
+|turn|37
+|
+|t:|1781158608
+|move|p1a: Arboliva|Endure||[still]
+|-fail|p1a: Arboliva
+|move|p2a: Clefable|Moonblast|p1a: Arboliva
+|-damage|p1a: Arboliva|0 fnt
+|faint|p1a: Arboliva
+|
+|upkeep
+|
+|t:|1781158616
+|switch|p1a: Gliscor|Gliscor, M|95/100 tox
+|-damage|p1a: Gliscor|83/100 tox|[from] Stealth Rock
+|turn|38
+|
+|t:|1781158619
+|switch|p2a: Kommo-o|Kommo-o, M|71/100
+|-damage|p2a: Kommo-o|65/100|[from] Stealth Rock
+|move|p1a: Gliscor|Earthquake|p2a: Kommo-o
+|-damage|p2a: Kommo-o|42/100
+|
+|-heal|p1a: Gliscor|95/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|39
+|
+|t:|1781158624
+|switch|p1a: Zamazenta|Zamazenta|42/100
+|-damage|p1a: Zamazenta|26/100|[from] Spikes
+|-damage|p1a: Zamazenta|20/100|[from] Stealth Rock
+|move|p2a: Kommo-o|Bulk Up|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|
+|upkeep
+|turn|40
+|
+|t:|1781158631
+|switch|p2a: Clefable|Clefable, M|77/100
+|move|p1a: Zamazenta|Close Combat|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|50/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|
+|upkeep
+|turn|41
+|
+|t:|1781158641
+|move|p1a: Zamazenta|Ice Fang|p2a: Clefable
+|-damage|p2a: Clefable|34/100
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|84/100
+|
+|upkeep
+|turn|42
+|
+|t:|1781158664
+|move|p1a: Zamazenta|Ice Fang|p2a: Clefable
+|-damage|p2a: Clefable|67/100
+|cant|p2a: Clefable|flinch
+|
+|upkeep
+|turn|43
+|
+|t:|1781158673
+|move|p1a: Zamazenta|Close Combat|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|45/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|95/100
+|
+|upkeep
+|turn|44
+|
+|t:|1781158686
+|move|p1a: Zamazenta|Ice Fang|p2a: Clefable
+|-damage|p2a: Clefable|76/100
+|-status|p2a: Clefable|frz
+|cant|p2a: Clefable|frz
+|
+|upkeep
+|turn|45
+|j| pokemonlover-834
+|l| pokemonlover-834
+|
+|t:|1781158698
+|switch|p1a: Dragonite|Dragonite, F|84/100
+|-curestatus|p2a: Clefable|frz|[msg]
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|46
+|
+|t:|1781158705
+|switch|p1a: Gliscor|Gliscor, M|95/100 tox
+|-damage|p1a: Gliscor|83/100 tox|[from] Stealth Rock
+|move|p2a: Clefable|Moonblast|p1a: Gliscor
+|-damage|p1a: Gliscor|54/100 tox
+|
+|-heal|p1a: Gliscor|66/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|47
+|
+|t:|1781158712
+|move|p1a: Gliscor|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|75/100
+|move|p2a: Clefable|Moonblast|p1a: Gliscor
+|-damage|p1a: Gliscor|41/100 tox
+|
+|-heal|p1a: Gliscor|54/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|48
+|
+|t:|1781158719
+|switch|p2a: Kommo-o|Kommo-o, M|42/100
+|-damage|p2a: Kommo-o|36/100|[from] Stealth Rock
+|move|p1a: Gliscor|Knock Off|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-damage|p2a: Kommo-o|31/100
+|
+|-heal|p1a: Gliscor|66/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|49
+|
+|t:|1781158726
+|move|p2a: Kommo-o|Taunt|p1a: Gliscor
+|-start|p1a: Gliscor|move: Taunt
+|move|p1a: Gliscor|Earthquake|p2a: Kommo-o
+|-damage|p2a: Kommo-o|8/100
+|
+|-heal|p1a: Gliscor|79/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|50
+|
+|t:|1781158733
+|move|p2a: Kommo-o|Body Press|p1a: Gliscor
+|-resisted|p1a: Gliscor
+|-damage|p1a: Gliscor|63/100 tox
+|move|p1a: Gliscor|Earthquake|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|
+|-heal|p1a: Gliscor|76/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781158734
+|switch|p2a: Clefable|Clefable, M|75/100
+|turn|51
+|
+|t:|1781158737
+|move|p1a: Gliscor|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|70/100
+|move|p2a: Clefable|Moonblast|p1a: Gliscor
+|-damage|p1a: Gliscor|47/100 tox
+|-unboost|p1a: Gliscor|spa|1
+|
+|-heal|p1a: Gliscor|59/100 tox|[from] ability: Poison Heal
+|-end|p1a: Gliscor|move: Taunt
+|upkeep
+|turn|52
+|
+|t:|1781158745
+|move|p1a: Gliscor|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|47/100
+|move|p2a: Clefable|Moonblast|p1a: Gliscor
+|-damage|p1a: Gliscor|30/100 tox
+|-unboost|p1a: Gliscor|spa|1
+|
+|-heal|p1a: Gliscor|43/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|53
+|-message|jonuz forfeited.
+|
+|win|Klopple
+|raw|Klopple's rating: 1568 &rarr; <strong>1591</strong><br />(+23 for winning)
+|raw|jonuz's rating: 1617 &rarr; <strong>1594</strong><br />(-23 for losing)
+|l|☆jonuz
+|player|p2|
+|l|☆Klopple
+|player|p1|

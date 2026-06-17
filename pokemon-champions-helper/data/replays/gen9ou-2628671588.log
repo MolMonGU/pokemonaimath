@@ -1,0 +1,284 @@
+|j|☆fivetomatoes
+|j|☆kadu99
+|t:|1781041360
+|gametype|singles
+|player|p1|fivetomatoes|101|1643
+|player|p2|kadu99|policeman-gen4|1594
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Rotom-Wash|
+|poke|p1|Rillaboom, M|
+|poke|p1|Glimmora, F|
+|poke|p1|Garganacl, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Gholdengo|
+|poke|p2|Zamazenta-*|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Moltres|
+|poke|p2|Iron Treads|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by fivetomatoes)
+|
+|t:|1781041381
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1781041389
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Rillaboom
+|-damage|p1a: Rillaboom|48/100
+|move|p1a: Rillaboom|Knock Off|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|55/100
+|-enditem|p2a: Raging Bolt|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Rillaboom
+|-damage|p1a: Rillaboom|38/100|[from] item: Life Orb
+|
+|-heal|p2a: Raging Bolt|61/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|44/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781041394
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|73/100
+|
+|-heal|p1a: Gholdengo|79/100|[from] Grassy Terrain
+|-heal|p2a: Raging Bolt|68/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781041402
+|move|p1a: Gholdengo|Shadow Ball|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|26/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Gholdengo
+|-damage|p1a: Gholdengo|21/100
+|
+|-heal|p1a: Gholdengo|27/100|[from] Grassy Terrain
+|-heal|p2a: Raging Bolt|32/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781041411
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781041422
+|switch|p1a: Garganacl|Garganacl, M|100/100
+|move|p2a: Hoopa|Knock Off|p1a: Garganacl
+|-damage|p1a: Garganacl|74/100
+|-enditem|p1a: Garganacl|Leftovers|[from] move: Knock Off|[of] p2a: Hoopa
+|
+|-heal|p1a: Garganacl|80/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781041432
+|move|p2a: Hoopa|Psychic Noise|p1a: Garganacl
+|-damage|p1a: Garganacl|35/100
+|-start|p1a: Garganacl|move: Heal Block
+|move|p1a: Garganacl|Salt Cure|p2a: Hoopa
+|-damage|p2a: Hoopa|85/100
+|-start|p2a: Hoopa|Salt Cure
+|
+|-damage|p2a: Hoopa|72/100|[from] Salt Cure
+|upkeep
+|turn|7
+|
+|t:|1781041437
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Garganacl|Protect||[still]
+|-fail|p1a: Garganacl
+|
+|-end|p1a: Garganacl|move: Heal Block
+|upkeep
+|turn|8
+|
+|t:|1781041444
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Garganacl|[anim] Ivy Cudgel Water
+|-activate|p1a: Garganacl|move: Protect
+|
+|upkeep
+|turn|9
+|
+|t:|1781041455
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Garganacl|Salt Cure|p2a: Ogerpon
+|-damage|p2a: Ogerpon|83/100
+|-start|p2a: Ogerpon|Salt Cure
+|
+|-damage|p2a: Ogerpon|58/100|[from] Salt Cure
+|upkeep
+|turn|10
+|
+|t:|1781041461
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Garganacl|[anim] Ivy Cudgel Water
+|-supereffective|p1a: Garganacl
+|-crit|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|faint|p1a: Garganacl
+|
+|-damage|p2a: Ogerpon|33/100|[from] Salt Cure
+|upkeep
+|
+|t:|1781041466
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|11
+|
+|t:|1781041479
+|move|p1a: Dragapult|Dragon Darts|p2a: Ogerpon
+|-damage|p2a: Ogerpon|8/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781041482
+|switch|p2a: Hoopa|Hoopa-Unbound|72/100
+|turn|12
+|
+|t:|1781041493
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|move|p2a: Hoopa|Psychic Noise|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|4/100
+|-start|p1a: Glimmora|move: Heal Block
+|
+|upkeep
+|turn|13
+|
+|t:|1781041499
+|move|p1a: Glimmora|Spiky Shield|p1a: Glimmora
+|-singleturn|p1a: Glimmora|move: Protect
+|move|p2a: Hoopa|Psychic Noise|p1a: Glimmora
+|-activate|p1a: Glimmora|move: Protect
+|
+|-end|p1a: Glimmora|move: Heal Block
+|upkeep
+|turn|14
+|
+|t:|1781041503
+|move|p1a: Glimmora|Mortal Spin|p2a: Hoopa
+|-damage|p2a: Hoopa|66/100
+|-status|p2a: Hoopa|psn
+|move|p2a: Hoopa|Psychic Noise|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|
+|-damage|p2a: Hoopa|54/100 psn|[from] psn
+|upkeep
+|
+|t:|1781041508
+|switch|p1a: Rillaboom|Rillaboom, M|44/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|15
+|
+|t:|1781041511
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Rillaboom|Knock Off|p2a: Moltres
+|-damage|p2a: Moltres|70/100
+|-enditem|p2a: Moltres|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Rillaboom
+|-damage|p1a: Rillaboom|34/100|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|40/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1781041516
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: Moltres|U-turn|p1a: Rotom
+|-damage|p1a: Rotom|81/100
+|
+|t:|1781041519
+|switch|p2a: Raging Bolt|Raging Bolt|32/100|[from] U-turn
+|
+|-heal|p2a: Raging Bolt|38/100|[from] Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1781041524
+|move|p1a: Rotom|Hydro Pump|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|12/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Rotom
+|-damage|p1a: Rotom|3/100
+|
+|-heal|p2a: Raging Bolt|18/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1781041532
+|move|p1a: Rotom|Hydro Pump|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781041547
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|19
+|
+|t:|1781041551
+|move|p1a: Rotom|Hydro Pump|p2a: Zamazenta|[miss]
+|-miss|p1a: Rotom|p2a: Zamazenta
+|move|p2a: Zamazenta|Crunch|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781041555
+|switch|p1a: Gholdengo|Gholdengo|27/100
+|turn|20
+|
+|t:|1781041558
+|move|p1a: Gholdengo|Trick|p2a: Zamazenta
+|-activate|p1a: Gholdengo|move: Trick|[of] p2a: Zamazenta
+|-item|p2a: Zamazenta|Choice Scarf|[from] move: Trick
+|-item|p1a: Gholdengo|Leftovers|[from] move: Trick
+|move|p2a: Zamazenta|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|-message|fivetomatoes forfeited.
+|
+|win|kadu99
+|raw|fivetomatoes's rating: 1643 &rarr; <strong>1620</strong><br />(-23 for losing)
+|raw|kadu99's rating: 1594 &rarr; <strong>1617</strong><br />(+23 for winning)
+|l|☆fivetomatoes
+|player|p1|
+|l|☆kadu99
+|player|p2|

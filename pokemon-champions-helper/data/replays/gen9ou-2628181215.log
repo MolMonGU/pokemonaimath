@@ -1,0 +1,411 @@
+|j|☆BoostingTyranntrum
+|j|☆CDPGuillaume
+|t:|1780987884
+|gametype|singles
+|player|p1|BoostingTyranntrum|1|1500
+|player|p2|CDPGuillaume|101|1628
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Kingambit, M|
+|poke|p1|Great Tusk|
+|poke|p1|Cinderace, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Enamorus-Therian, F|
+|poke|p2|Iron Hands|
+|poke|p2|Primarina, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Zapdos|
+|poke|p2|Kyurem|
+|poke|p2|Cinderace, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by CDPGuillaume)
+|
+|t:|1780987927
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem, shiny|100/100
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|
+|t:|1780987944
+|move|p2a: Cinderace|High Jump Kick|p1a: Kyurem
+|-start|p2a: Cinderace|typechange|Fighting|[from] ability: Libero
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|29/100
+|move|p1a: Kyurem|Earth Power|p2a: Cinderace
+|-damage|p2a: Cinderace|60/100
+|
+|upkeep
+|turn|2
+|
+|t:|1780987953
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100
+|move|p2a: Cinderace|Pyro Ball|p1a: Slowking
+|-damage|p1a: Slowking|59/100
+|
+|upkeep
+|turn|3
+|
+|t:|1780987955
+|move|p2a: Cinderace|U-turn|p1a: Slowking
+|-damage|p1a: Slowking|37/100
+|
+|t:|1780987962
+|switch|p2a: Kyurem|Kyurem|100/100|[from] U-turn
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Slowking|Sludge Bomb|p2a: Kyurem
+|-damage|p2a: Kyurem|59/100
+|
+|upkeep
+|turn|4
+|
+|t:|1780987966
+|switch|p1a: Kyurem|Kyurem, shiny|29/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Kyurem|Ice Beam|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1780987973
+|switch|p1a: Kingambit|Kingambit, M, shiny|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|-item|p1a: Kingambit|Air Balloon
+|turn|5
+|
+|t:|1780987977
+|switch|p2a: Iron Hands|Iron Hands|100/100
+|move|p1a: Kingambit|Low Kick|p2a: Iron Hands
+|-damage|p2a: Iron Hands|69/100
+|
+|upkeep
+|turn|6
+|
+|t:|1780987984
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100
+|move|p2a: Iron Hands|Drain Punch|p1a: Great Tusk
+|-damage|p1a: Great Tusk|65/100
+|-heal|p2a: Iron Hands|83/100|[from] drain|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|7
+|
+|t:|1780987989
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|70/100
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|switch|p2a: Zapdos|Zapdos|100/100
+|-ability|p2a: Zapdos|Pressure
+|
+|upkeep
+|turn|8
+|
+|t:|1780987992
+|move|p2a: Zapdos|Volt Switch|p1a: Slowking
+|-damage|p1a: Slowking|54/100
+|
+|t:|1780988000
+|switch|p2a: Iron Hands|Iron Hands|83/100|[from] Volt Switch
+|move|p1a: Slowking|Sludge Bomb|p2a: Iron Hands
+|-damage|p2a: Iron Hands|57/100
+|-status|p2a: Iron Hands|psn
+|
+|-damage|p2a: Iron Hands|45/100 psn|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1780988006
+|switch|p1a: Great Tusk|Great Tusk, shiny|65/100
+|move|p2a: Iron Hands|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|33/100
+|
+|-damage|p2a: Iron Hands|32/100 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1780988009
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|switch|p2a: Zapdos|Zapdos|100/100
+|-ability|p2a: Zapdos|Pressure
+|move|p1a: Great Tusk|Ice Spinner|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|56/100
+|
+|upkeep
+|turn|11
+|
+|t:|1780988014
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|87/100
+|move|p2a: Zapdos|Hurricane|p1a: Slowking
+|-damage|p1a: Slowking|63/100
+|
+|upkeep
+|turn|12
+|
+|t:|1780988019
+|move|p2a: Zapdos|Volt Switch|p1a: Slowking
+|-damage|p1a: Slowking|48/100
+|
+|t:|1780988020
+|switch|p2a: Iron Hands|Iron Hands|32/100 psn|[from] Volt Switch
+|move|p1a: Slowking|Ice Beam|p2a: Iron Hands
+|-damage|p2a: Iron Hands|15/100 psn
+|
+|-damage|p2a: Iron Hands|3/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1780988023
+|switch|p1a: Great Tusk|Great Tusk, shiny|33/100
+|move|p2a: Iron Hands|Ice Punch|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-damage|p2a: Iron Hands|0 fnt|[from] psn
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|upkeep
+|
+|t:|1780988038
+|switch|p1a: Cinderace|Cinderace, M, shiny|100/100
+|switch|p2a: Primarina|Primarina, F|100/100
+|turn|14
+|
+|t:|1780988041
+|move|p1a: Cinderace|U-turn|p2a: Primarina
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|81/100
+|
+|t:|1780988045
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|81/100|[from] U-turn
+|move|p2a: Primarina|Surf|p1a: Slowking
+|-damage|p1a: Slowking|41/100
+|
+|upkeep
+|turn|15
+|
+|t:|1780988049
+|move|p2a: Primarina|Surf|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1780988053
+|switch|p1a: Kingambit|Kingambit, M, shiny|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|-item|p1a: Kingambit|Air Balloon
+|turn|16
+|
+|t:|1780988060
+|move|p1a: Kingambit|Iron Head|p2a: Primarina
+|-damage|p2a: Primarina|8/100
+|move|p2a: Primarina|Surf|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|-enditem|p1a: Kingambit|Air Balloon
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1780988065
+|switch|p1a: Cinderace|Cinderace, M, shiny|100/100
+|turn|17
+|
+|t:|1780988068
+|move|p1a: Cinderace|U-turn|p2a: Primarina
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|t:|1780988069
+|switch|p1a: Enamorus|Enamorus-Therian, F|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1780988077
+|switch|p2a: Kyurem|Kyurem|59/100
+|-ability|p2a: Kyurem|Pressure
+|turn|18
+|
+|t:|1780988081
+|switch|p1a: Cinderace|Cinderace, M, shiny|100/100
+|move|p2a: Kyurem|Ice Beam|p1a: Cinderace
+|-resisted|p1a: Cinderace
+|-damage|p1a: Cinderace|40/100
+|-status|p1a: Cinderace|frz
+|
+|upkeep
+|turn|19
+|
+|t:|1780988084
+|-curestatus|p1a: Cinderace|frz|[from] move: Pyro Ball
+|move|p1a: Cinderace|Pyro Ball|p2a: Kyurem
+|-crit|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|l|☆CDPGuillaume
+|inactive|CDPGuillaume disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆CDPGuillaume
+|inactive|CDPGuillaume reconnected and has 115 seconds left.
+|player|p2|CDPGuillaume|101|
+|
+|t:|1780988128
+|switch|p2a: Zapdos|Zapdos|56/100
+|-ability|p2a: Zapdos|Pressure
+|turn|20
+|
+|t:|1780988134
+|move|p1a: Cinderace|Pyro Ball|p2a: Zapdos
+|-damage|p2a: Zapdos|12/100
+|move|p2a: Zapdos|Volt Switch|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|t:|1780988137
+|switch|p2a: Cinderace|Cinderace, M|60/100|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1780988139
+|switch|p1a: Enamorus|Enamorus-Therian, F|100/100
+|turn|21
+|
+|t:|1780988149
+|move|p2a: Cinderace|Pyro Ball|p1a: Enamorus
+|-damage|p1a: Enamorus|65/100
+|move|p1a: Enamorus|Iron Defense|p1a: Enamorus
+|-boost|p1a: Enamorus|def|2
+|
+|-heal|p1a: Enamorus|71/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1780988161
+|move|p2a: Cinderace|U-turn|p1a: Enamorus
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Enamorus
+|-damage|p1a: Enamorus|69/100
+|
+|t:|1780988165
+|switch|p2a: Zapdos|Zapdos|12/100|[from] U-turn
+|-ability|p2a: Zapdos|Pressure
+|move|p1a: Enamorus|Calm Mind|p1a: Enamorus
+|-boost|p1a: Enamorus|spa|1
+|-boost|p1a: Enamorus|spd|1
+|
+|-heal|p1a: Enamorus|75/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1780988170
+|-terastallize|p1a: Enamorus|Poison
+|move|p2a: Zapdos|Volt Switch|p1a: Enamorus
+|-damage|p1a: Enamorus|56/100
+|
+|t:|1780988174
+|switch|p2a: Cinderace|Cinderace, M|60/100|[from] Volt Switch
+|move|p1a: Enamorus|Calm Mind|p1a: Enamorus
+|-boost|p1a: Enamorus|spa|1
+|-boost|p1a: Enamorus|spd|1
+|
+|-heal|p1a: Enamorus|62/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1780988176
+|move|p2a: Cinderace|Pyro Ball|p1a: Enamorus
+|-damage|p1a: Enamorus|44/100
+|move|p1a: Enamorus|Draining Kiss|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-damage|p2a: Cinderace|27/100
+|-heal|p1a: Enamorus|65/100|[from] drain|[of] p2a: Cinderace
+|
+|-heal|p1a: Enamorus|71/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1780988179
+|move|p2a: Cinderace|Pyro Ball|p1a: Enamorus
+|-damage|p1a: Enamorus|54/100
+|move|p1a: Enamorus|Draining Kiss|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|-heal|p1a: Enamorus|71/100|[from] drain|[of] p2a: Cinderace
+|faint|p2a: Cinderace
+|
+|-heal|p1a: Enamorus|77/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780988182
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|26
+|
+|t:|1780988188
+|-end|p2a: Kingambit|fallen4|[silent]
+|switch|p2a: Zapdos|Zapdos|12/100
+|-ability|p2a: Zapdos|Pressure
+|move|p1a: Enamorus|Draining Kiss|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|-heal|p1a: Enamorus|86/100|[from] drain|[of] p2a: Zapdos
+|faint|p2a: Zapdos
+|
+|-heal|p1a: Enamorus|92/100|[from] item: Leftovers
+|upkeep
+|l|☆CDPGuillaume
+|inactive|CDPGuillaume disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆CDPGuillaume
+|inactive|CDPGuillaume reconnected and has 120 seconds left.
+|player|p2|CDPGuillaume|101|
+|
+|t:|1780988225
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|turn|27
+|
+|t:|1780988233
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|move|p1a: Enamorus|Earth Power|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen5|[silent]
+|
+|win|BoostingTyranntrum
+|raw|BoostingTyranntrum's rating: 1500 &rarr; <strong>1527</strong><br />(+27 for winning)
+|raw|CDPGuillaume's rating: 1628 &rarr; <strong>1601</strong><br />(-27 for losing)
+|l|☆CDPGuillaume
+|player|p2|
+|l|☆BoostingTyranntrum
+|player|p1|

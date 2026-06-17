@@ -1,0 +1,256 @@
+|j|☆smithwick1
+|j|☆power of sound
+|t:|1781072444
+|gametype|singles
+|player|p1|smithwick1|266|1704
+|player|p2|power of sound|2|1732
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Dragapult, F|
+|poke|p1|Pecharunt|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Gliscor, F|
+|poke|p2|Blissey, F|
+|poke|p2|Clodsire, F|
+|poke|p2|Clefable, F|
+|poke|p2|Pecharunt|
+|poke|p2|Skarmory, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by smithwick1)
+|
+|t:|1781072459
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|switch|p2a: Skarmory|Skarmory, F|100/100
+|turn|1
+|
+|t:|1781072463
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Skarmory|[anim] Ivy Cudgel Water
+|-crit|p2a: Skarmory
+|-damage|p2a: Skarmory|48/100
+|move|p2a: Skarmory|Brave Bird|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|20/100
+|-damage|p2a: Skarmory|24/100|[from] Recoil
+|
+|upkeep
+|turn|2
+|
+|t:|1781072481
+|-terastallize|p2a: Skarmory|Dragon
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Skarmory|[anim] Ivy Cudgel Water
+|-resisted|p2a: Skarmory
+|-crit|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|
+|upkeep
+|
+|t:|1781072500
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|turn|3
+|
+|t:|1781072503
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|move|p2a: Pecharunt|Shadow Ball|p1a: Iron Treads
+|-damage|p1a: Iron Treads|67/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781072508
+|move|p1a: Iron Treads|Knock Off|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|73/100
+|-enditem|p2a: Pecharunt|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: Pecharunt|Shadow Ball|p1a: Iron Treads
+|-damage|p1a: Iron Treads|32/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781072511
+|move|p1a: Iron Treads|Stealth Rock|p2a: Pecharunt
+|-sidestart|p2: power of sound|move: Stealth Rock
+|move|p2a: Pecharunt|Shadow Ball|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781072534
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|turn|6
+|
+|t:|1781072539
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|76/100
+|-damage|p1a: Kingambit|84/100|[from] item: Rocky Helmet|[of] p2a: Clefable
+|
+|-heal|p1a: Kingambit|90/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781072542
+|move|p2a: Clefable|Encore|p1a: Kingambit
+|-start|p1a: Kingambit|Encore
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|50/100
+|-damage|p1a: Kingambit|74/100|[from] item: Rocky Helmet|[of] p2a: Clefable
+|
+|-heal|p1a: Kingambit|80/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781072554
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|99/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781072558
+|switch|p1a: Kingambit|Kingambit, M|80/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|-damage|p2a: Gliscor|88/100|[from] Stealth Rock
+|
+|-heal|p1a: Kingambit|86/100|[from] item: Leftovers
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|10
+|
+|t:|1781072563
+|move|p2a: Gliscor|Knock Off|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|77/100
+|-enditem|p1a: Kingambit|Leftovers|[from] move: Knock Off|[of] p2a: Gliscor
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Gliscor
+|-damage|p2a: Gliscor|45/100 tox
+|
+|-heal|p2a: Gliscor|58/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|11
+|
+|t:|1781072568
+|switch|p2a: Clefable|Clefable, F|99/100
+|move|p1a: Kingambit|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|11/100
+|-damage|p1a: Kingambit|60/100|[from] item: Rocky Helmet|[of] p2a: Clefable
+|
+|upkeep
+|turn|12
+|
+|t:|1781072573
+|move|p2a: Clefable|Moonblast|p1a: Kingambit
+|-damage|p1a: Kingambit|25/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|-damage|p1a: Kingambit|8/100|[from] item: Rocky Helmet|[of] p2a: Clefable
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1781072578
+|switch|p2a: Gliscor|Gliscor, F|58/100 tox
+|-damage|p2a: Gliscor|45/100 tox|[from] Stealth Rock
+|turn|13
+|
+|t:|1781072580
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Kingambit|Iron Head|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|58/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|14
+|
+|t:|1781072584
+|move|p1a: Kingambit|Sucker Punch|p2a: Gliscor
+|-damage|p2a: Gliscor|20/100 tox
+|move|p2a: Gliscor|Facade|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen1|[silent]
+|
+|-heal|p2a: Gliscor|33/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781072587
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|20/100
+|turn|15
+|
+|t:|1781072592
+|switch|p2a: Pecharunt|Pecharunt|73/100
+|-damage|p2a: Pecharunt|60/100|[from] Stealth Rock
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|upkeep
+|turn|16
+|
+|t:|1781072595
+|-terastallize|p1a: Ogerpon|Water
+|detailschange|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Pecharunt|[anim] Ivy Cudgel Water
+|-crit|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|faint|p2a: Pecharunt
+|
+|upkeep
+|
+|t:|1781072599
+|switch|p2a: Clodsire|Clodsire, F|100/100
+|turn|17
+|
+|t:|1781072602
+|move|p1a: Ogerpon|Horn Leech|p2a: Clodsire
+|-damage|p2a: Clodsire|49/100
+|-heal|p1a: Ogerpon|60/100|[from] drain|[of] p2a: Clodsire
+|move|p2a: Clodsire|Earthquake|p1a: Ogerpon
+|-damage|p1a: Ogerpon|24/100
+|
+|upkeep
+|turn|18
+|-message|power of sound forfeited.
+|
+|win|smithwick1
+|raw|smithwick1's rating: 1704 &rarr; <strong>1726</strong><br />(+22 for winning)
+|raw|power of sound's rating: 1732 &rarr; <strong>1710</strong><br />(-22 for losing)
+|l|☆power of sound
+|player|p2|
+|l|☆smithwick1
+|player|p1|

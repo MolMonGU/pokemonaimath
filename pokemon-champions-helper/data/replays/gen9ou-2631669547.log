@@ -1,0 +1,281 @@
+|j|☆KnightKnaveSpy
+|j|☆Aarons fish
+|t:|1781418449
+|gametype|singles
+|player|p1|KnightKnaveSpy|1|1529
+|player|p2|Aarons fish|170|1549
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Blaziken, F|
+|poke|p1|Kingambit, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Greninja-*, F|
+|poke|p2|Torkoal, F|
+|poke|p2|Iron Moth|
+|poke|p2|Hatterene, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Slither Wing|
+|poke|p2|Walking Wake|
+|teampreview
+|
+|t:|1781418452
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Aarons fish)
+|
+|t:|1781418458
+|move|p2a: Slither Wing|First Impression|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-enditem|p1a: Samurott|Focus Sash
+|-damage|p1a: Samurott|1/100
+|move|p1a: Samurott|Ceaseless Edge|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-crit|p2a: Slither Wing
+|-damage|p2a: Slither Wing|61/100
+|-sidestart|p2: Aarons fish|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1781418462
+|move|p1a: Samurott|Aqua Cutter|p2a: Slither Wing
+|-damage|p2a: Slither Wing|9/100
+|move|p2a: Slither Wing|U-turn|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|t:|1781418465
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Torkoal|Torkoal, F|100/100|[from] U-turn
+|-damage|p2a: Torkoal|88/100|[from] Spikes
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781418470
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-item|p1a: Raging Bolt|Air Balloon
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|3
+|
+|t:|1781418475
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|-unboost|p1a: Raging Bolt|spa|2
+|faint|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781418479
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-damage|p2a: Iron Moth|88/100|[from] Spikes
+|turn|4
+|
+|t:|1781418485
+|-terastallize|p2a: Iron Moth|Fire
+|move|p2a: Iron Moth|Fiery Dance|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|43/100
+|-boost|p2a: Iron Moth|spa|1
+|-enditem|p1a: Raging Bolt|Air Balloon
+|move|p1a: Raging Bolt|Volt Switch|p2a: Iron Moth
+|-damage|p2a: Iron Moth|60/100
+|
+|t:|1781418498
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Blaziken|Blaziken, F|100/100|[from] Volt Switch
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781418502
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blaziken|atk|1
+|move|p1a: Blaziken|Detect||[still]
+|-fail|p1a: Blaziken
+|
+|-weather|SunnyDay|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|6
+|
+|t:|1781418509
+|move|p1a: Blaziken|Detect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Landorus|U-turn|p1a: Blaziken
+|-activate|p1a: Blaziken|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|7
+|
+|t:|1781418513
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|move|p2a: Landorus|Earthquake|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781418515
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|8
+|
+|t:|1781418520
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Landorus|U-turn|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|47/100
+|
+|t:|1781418527
+|switch|p2a: Walking Wake|Walking Wake|100/100|[from] U-turn
+|-damage|p2a: Walking Wake|88/100|[from] Spikes
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781418533
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|move|p2a: Walking Wake|Draco Meteor|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|50/100
+|-unboost|p2a: Walking Wake|spa|2
+|
+|-weather|none
+|-end|p2a: Walking Wake|Protosynthesis
+|upkeep
+|turn|10
+|
+|t:|1781418536
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Kingambit|atk|1
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Landorus
+|-damage|p2a: Landorus|56/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781418550
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Greninja|Greninja, F|100/100
+|move|p2a: Landorus|Earthquake|p1a: Greninja
+|-damage|p1a: Greninja|22/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781418564
+|move|p1a: Greninja|Hydro Pump|p2a: Landorus
+|-start|p1a: Greninja|typechange|Water|[from] ability: Protean
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|9/100
+|move|p2a: Landorus|U-turn|p1a: Greninja
+|-damage|p1a: Greninja|0 fnt
+|faint|p1a: Greninja
+|
+|t:|1781418568
+|switch|p2a: Hatterene|Hatterene, F|100/100|[from] U-turn
+|-damage|p2a: Hatterene|88/100|[from] Spikes
+|
+|-heal|p2a: Hatterene|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781418571
+|switch|p1a: Kingambit|Kingambit, F|50/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|13
+|
+|t:|1781418574
+|switch|p2a: Landorus|Landorus-Therian, M|9/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Kingambit|atk|1
+|move|p1a: Kingambit|Iron Head|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1781418578
+|switch|p2a: Iron Moth|Iron Moth, tera:Fire|60/100
+|-damage|p2a: Iron Moth|48/100|[from] Spikes
+|turn|14
+|
+|t:|1781418581
+|move|p2a: Iron Moth|Fiery Dance|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|-boost|p2a: Iron Moth|spa|1
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1781418583
+|switch|p1a: Raging Bolt|Raging Bolt|43/100
+|turn|15
+|
+|t:|1781418587
+|move|p1a: Raging Bolt|Thunderclap|p2a: Iron Moth
+|-damage|p2a: Iron Moth|1/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781418589
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|47/100
+|turn|16
+|
+|t:|1781418591
+|move|p2a: Iron Moth|Fiery Dance|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|win|Aarons fish
+|raw|KnightKnaveSpy's rating: 1529 &rarr; <strong>1510</strong><br />(-19 for losing)
+|raw|Aarons fish's rating: 1549 &rarr; <strong>1568</strong><br />(+19 for winning)
+|l|☆KnightKnaveSpy
+|player|p1|
+|l|☆Aarons fish
+|player|p2|

@@ -1,0 +1,368 @@
+|j|☆AyushXD
+|j|☆lord shiddenfards
+|t:|1781157446
+|gametype|singles
+|player|p1|AyushXD|unknown|1571
+|player|p2|lord shiddenfards|blaine|1619
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Kyurem|
+|poke|p1|Iron Valiant|
+|poke|p1|Cinderace, F|
+|poke|p1|Kingambit, F|
+|poke|p2|Ninetales, M|
+|poke|p2|Great Tusk|
+|poke|p2|Slither Wing|
+|poke|p2|Alomomola, M|
+|poke|p2|Iron Moth|
+|poke|p2|Raging Bolt|
+|teampreview
+|j| SolemnLe
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by AyushXD)
+|
+|t:|1781157462
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|switch|p2a: Ninetales|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|1
+|
+|t:|1781157472
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|-end|p2a: Raging Bolt|Protosynthesis
+|
+|t:|1781157480
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781157485
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p1a: Kyurem|Draco Meteor|p2a: Raging Bolt
+|-immune|p2a: Raging Bolt
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Kyurem
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781157490
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|turn|3
+|
+|t:|1781157493
+|move|p2a: Raging Bolt|Volt Switch|p1a: Slowking
+|-damage|p1a: Slowking|88/100
+|
+|t:|1781157501
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, M|100/100|[from] Volt Switch
+|move|p1a: Slowking|Sludge Bomb|p2a: Alomomola
+|-damage|p2a: Alomomola|71/100
+|-status|p2a: Alomomola|psn
+|-enditem|p2a: Alomomola|Eject Button
+|
+|t:|1781157505
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781157509
+|move|p2a: Slither Wing|Earthquake|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781157512
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|5
+|
+|t:|1781157519
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, M|100/100 psn
+|move|p1a: Iron Valiant|Knock Off|p2a: Alomomola
+|-damage|p2a: Alomomola|88/100 psn
+|
+|-weather|none
+|-damage|p2a: Alomomola|76/100 psn|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1781157524
+|move|p1a: Iron Valiant|Moonblast|p2a: Alomomola
+|-damage|p2a: Alomomola|37/100 psn
+|-unboost|p2a: Alomomola|spa|1
+|move|p2a: Alomomola|Flip Turn|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|80/100
+|
+|t:|1781157527
+|switch|p2a: Ninetales|Ninetales, M|100/100|[from] Flip Turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781157531
+|move|p1a: Iron Valiant|Knock Off|p2a: Ninetales
+|-damage|p2a: Ninetales|55/100
+|-enditem|p2a: Ninetales|Choice Specs|[from] move: Knock Off|[of] p1a: Iron Valiant
+|move|p2a: Ninetales|Weather Ball|p1a: Iron Valiant
+|-crit|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781157539
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Ninetales|atk|1
+|turn|8
+|
+|t:|1781157545
+|switch|p2a: Alomomola|Alomomola, M|70/100 psn
+|move|p1a: Landorus|Stealth Rock|p2a: Alomomola
+|-sidestart|p2: lord shiddenfards|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Alomomola|58/100 psn|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1781157549
+|move|p1a: Landorus|Earthquake|p2a: Alomomola
+|-damage|p2a: Alomomola|25/100 psn
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Alomomola|12/100 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1781157571
+|move|p1a: Landorus|Earthquake|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|
+|-weather|none
+|upkeep
+|inactive|lord shiddenfards has 120 seconds left.
+|
+|t:|1781157591
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|11
+|
+|t:|1781157595
+|-terastallize|p1a: Landorus|Ghost
+|move|p1a: Landorus|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|68/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|upkeep
+|turn|12
+|
+|t:|1781157602
+|move|p1a: Landorus|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|36/100
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781157615
+|move|p1a: Landorus|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|15/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Landorus
+|-damage|p1a: Landorus|20/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-damage|p2a: Great Tusk|0 fnt|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781157627
+|switch|p2a: Ninetales|Ninetales, M|55/100
+|-damage|p2a: Ninetales|30/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|14
+|l| SolemnLe
+|
+|t:|1781157634
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|move|p2a: Ninetales|Weather Ball|p1a: Cinderace
+|-resisted|p1a: Cinderace
+|-damage|p1a: Cinderace|58/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781157637
+|move|p1a: Cinderace|Pyro Ball|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781157640
+|switch|p2a: Raging Bolt|Raging Bolt, tera:Fairy|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|16
+|
+|t:|1781157645
+|switch|p1a: Landorus|Landorus-Therian, M, tera:Ghost|20/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Raging Bolt|atk|1
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781157649
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Landorus|Taunt|p2a: Raging Bolt
+|-start|p2a: Raging Bolt|move: Taunt
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781157654
+|move|p2a: Raging Bolt|Thunderclap|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|none
+|-end|p2a: Raging Bolt|Protosynthesis
+|upkeep
+|
+|t:|1781157657
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|19
+|
+|t:|1781157664
+|move|p2a: Raging Bolt|Volt Switch|p1a: Kingambit
+|-damage|p1a: Kingambit|59/100
+|
+|t:|1781157673
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Iron Moth|Iron Moth|100/100|[from] Volt Switch
+|-damage|p2a: Iron Moth|76/100|[from] Stealth Rock
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|move|p1a: Kingambit|Iron Head|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-damage|p2a: Iron Moth|21/100
+|
+|-heal|p1a: Kingambit|65/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781157679
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|move|p2a: Iron Moth|Substitute|p2a: Iron Moth
+|-fail|p2a: Iron Moth|move: Substitute|[weak]
+|
+|-heal|p1a: Kingambit|72/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781157683
+|move|p1a: Kingambit|Sucker Punch|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p1a: Kingambit|78/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781157686
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|-damage|p2a: Slither Wing|88/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781157688
+|-end|p1a: Kingambit|fallen4|[silent]
+|switch|p1a: Cinderace|Cinderace, F|58/100
+|move|p2a: Slither Wing|Close Combat|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|-unboost|p2a: Slither Wing|def|1
+|-unboost|p2a: Slither Wing|spd|1
+|faint|p1a: Cinderace
+|
+|upkeep
+|
+|t:|1781157692
+|switch|p1a: Kingambit|Kingambit, F|78/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|turn|23
+|
+|t:|1781157698
+|move|p2a: Slither Wing|Close Combat|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|-unboost|p2a: Slither Wing|def|1
+|-unboost|p2a: Slither Wing|spd|1
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen5|[silent]
+|
+|win|lord shiddenfards
+|raw|AyushXD's rating: 1571 &rarr; <strong>1554</strong><br />(-17 for losing)
+|raw|lord shiddenfards's rating: 1619 &rarr; <strong>1636</strong><br />(+17 for winning)
+|l|☆AyushXD
+|player|p1|
+|l|☆lord shiddenfards
+|player|p2|

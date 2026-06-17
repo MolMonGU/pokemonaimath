@@ -1,0 +1,450 @@
+|j|☆interceptor_xwing
+|j|☆employment devil
+|t:|1781405124
+|gametype|singles
+|player|p1|interceptor_xwing|1|1633
+|player|p2|employment devil|lusamine-nihilego|1554
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Great Tusk|
+|poke|p1|Dondozo, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Heatran, F|
+|poke|p2|Gliscor, M|
+|poke|p2|Clefable, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Heatran, F|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Empoleon, M|
+|teampreview
+|c|☆employment devil|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by interceptor_xwing)
+|
+|t:|1781405150
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|1
+|
+|t:|1781405170
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Heatran
+|-start|p1a: Heatran|ability: Flash Fire
+|
+|upkeep
+|turn|2
+|
+|t:|1781405178
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Heatran|Overheat|p2a: Heatran
+|-start|p2a: Heatran|ability: Flash Fire
+|
+|upkeep
+|turn|3
+|
+|t:|1781405184
+|-end|p2a: Heatran|ability: Flash Fire|[silent]
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|move|p1a: Heatran|Earth Power|p2a: Gliscor
+|-immune|p2a: Gliscor
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|4
+|
+|t:|1781405197
+|-terastallize|p1a: Heatran|Grass
+|move|p2a: Gliscor|Earthquake|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|87/100
+|move|p1a: Heatran|Overheat|p2a: Gliscor|[miss]
+|-miss|p1a: Heatran|p2a: Gliscor
+|
+|-heal|p1a: Heatran|93/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781405204
+|move|p2a: Gliscor|Substitute|p2a: Gliscor
+|-start|p2a: Gliscor|Substitute
+|-damage|p2a: Gliscor|75/100 tox
+|move|p1a: Heatran|Earth Power|p2a: Gliscor
+|-immune|p2a: Gliscor
+|
+|-heal|p1a: Heatran|99/100|[from] item: Leftovers
+|-heal|p2a: Gliscor|88/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|6
+|
+|t:|1781405209
+|move|p2a: Gliscor|Toxic|p1a: Heatran
+|-status|p1a: Heatran|tox
+|move|p1a: Heatran|Flash Cannon|p2a: Gliscor
+|-end|p2a: Gliscor|Substitute
+|
+|-heal|p1a: Heatran|100/100 tox|[from] item: Leftovers
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Heatran|94/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1781405214
+|-end|p1a: Heatran|ability: Flash Fire|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Gliscor|Substitute|p2a: Gliscor
+|-start|p2a: Gliscor|Substitute
+|-damage|p2a: Gliscor|75/100 tox
+|
+|-heal|p2a: Gliscor|88/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|8
+|
+|t:|1781405217
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Gliscor|Toxic|p1a: Hatterene
+|move|p1a: Hatterene|Toxic||[from] ability: Magic Bounce|[still]
+|-fail|p1a: Hatterene
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|9
+|
+|t:|1781405222
+|move|p2a: Gliscor|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|63/100
+|move|p1a: Hatterene|Psychic Noise|p2a: Gliscor
+|-damage|p2a: Gliscor|46/100 tox
+|-start|p2a: Gliscor|move: Heal Block
+|
+|upkeep
+|turn|10
+|
+|t:|1781405230
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Hatterene|Future Sight|p2a: Heatran
+|-start|p1a: Hatterene|move: Future Sight
+|
+|upkeep
+|turn|11
+|
+|t:|1781405237
+|switch|p1a: Heatran|Heatran, F, tera:Grass|94/100 tox
+|move|p2a: Heatran|Stealth Rock|p1a: Heatran
+|-sidestart|p1: interceptor_xwing|move: Stealth Rock
+|
+|-heal|p1a: Heatran|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Heatran|94/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1781405258
+|switch|p2a: Empoleon|Empoleon, M|100/100
+|move|p1a: Heatran|Earth Power|p2a: Empoleon
+|-supereffective|p2a: Empoleon
+|-damage|p2a: Empoleon|35/100
+|
+|-end|p2a: Empoleon|move: Future Sight
+|-resisted|p2a: Empoleon
+|-crit|p2a: Empoleon
+|-damage|p2a: Empoleon|0 fnt
+|faint|p2a: Empoleon
+|-heal|p1a: Heatran|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Heatran|88/100 tox|[from] psn
+|upkeep
+|
+|t:|1781405265
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|13
+|
+|t:|1781405269
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|98/100|[from] Stealth Rock
+|move|p2a: Dragapult|Hex|p1a: Great Tusk
+|-damage|p1a: Great Tusk|58/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781405275
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|63/100
+|-damage|p1a: Hatterene|51/100|[from] Stealth Rock
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Hatterene
+|move|p1a: Hatterene|Will-O-Wisp|p2a: Dragapult|[from] ability: Magic Bounce|[miss]
+|-miss|p1a: Hatterene|p2a: Dragapult
+|
+|upkeep
+|turn|15
+|
+|t:|1781405281
+|move|p2a: Dragapult|U-turn|p1a: Hatterene
+|-damage|p1a: Hatterene|30/100
+|
+|t:|1781405283
+|switch|p2a: Gliscor|Gliscor, M|46/100 tox|[from] U-turn
+|move|p1a: Hatterene|Draining Kiss|p2a: Gliscor
+|-damage|p2a: Gliscor|10/100 tox
+|-heal|p1a: Hatterene|60/100|[from] drain|[of] p2a: Gliscor
+|
+|-heal|p2a: Gliscor|22/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|16
+|
+|t:|1781405286
+|move|p2a: Gliscor|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|23/100
+|move|p1a: Hatterene|Psychic Noise|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|upkeep
+|
+|t:|1781405291
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|17
+|
+|t:|1781405300
+|move|p2a: Dragapult|Hex|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781405305
+|switch|p1a: Heatran|Heatran, F, tera:Grass|88/100 tox
+|-damage|p1a: Heatran|76/100 tox|[from] Stealth Rock
+|turn|18
+|
+|t:|1781405309
+|move|p2a: Dragapult|Hex|p1a: Heatran
+|-damage|p1a: Heatran|30/100 tox
+|move|p1a: Heatran|Magma Storm|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|59/100
+|-activate|p2a: Dragapult|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p1a: Heatran|36/100 tox|[from] item: Leftovers
+|-damage|p1a: Heatran|30/100 tox|[from] psn
+|-damage|p2a: Dragapult|47/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|19
+|
+|t:|1781405319
+|move|p2a: Dragapult|Hex|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-end|p2a: Dragapult|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1781405328
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|-damage|p1a: Tornadus|76/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1781405332
+|move|p2a: Dragapult|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|63/100
+|
+|t:|1781405336
+|switch|p2a: Heatran|Heatran, F|100/100|[from] U-turn
+|move|p1a: Tornadus|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|97/100
+|
+|t:|1781405343
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781405346
+|switch|p2a: Mandibuzz|Mandibuzz, F|100/100
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Mandibuzz|[anim] Ivy Cudgel Water
+|-crit|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|51/100
+|
+|upkeep
+|turn|22
+|
+|t:|1781405356
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Mandibuzz|Roost|p2a: Mandibuzz
+|-heal|p2a: Mandibuzz|100/100
+|-singleturn|p2a: Mandibuzz|move: Roost
+|
+|upkeep
+|turn|23
+|
+|t:|1781405360
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Mandibuzz|[anim] Ivy Cudgel Water
+|-damage|p2a: Mandibuzz|33/100
+|move|p2a: Mandibuzz|Foul Play|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1781405364
+|switch|p1a: Tornadus|Tornadus-Therian, M|96/100
+|-damage|p1a: Tornadus|71/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781405369
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Clefable
+|-damage|p2a: Clefable|53/100
+|
+|-heal|p2a: Clefable|59/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781405374
+|switch|p1a: Dondozo|Dondozo, M|100/100
+|-damage|p1a: Dondozo|88/100|[from] Stealth Rock
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|-heal|p1a: Dondozo|94/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781405378
+|move|p2a: Clefable|Moonblast|p1a: Dondozo
+|-damage|p1a: Dondozo|73/100
+|-unboost|p1a: Dondozo|spa|1
+|move|p1a: Dondozo|Curse|p1a: Dondozo
+|-unboost|p1a: Dondozo|spe|1
+|-boost|p1a: Dondozo|atk|1
+|-boost|p1a: Dondozo|def|1
+|
+|-heal|p1a: Dondozo|79/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781405390
+|move|p2a: Clefable|Thunder Wave|p1a: Dondozo|[miss]
+|-miss|p2a: Clefable|p1a: Dondozo
+|move|p1a: Dondozo|Curse|p1a: Dondozo
+|-unboost|p1a: Dondozo|spe|1
+|-boost|p1a: Dondozo|atk|1
+|-boost|p1a: Dondozo|def|1
+|
+|-heal|p1a: Dondozo|85/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781405394
+|move|p2a: Clefable|Thunder Wave|p1a: Dondozo
+|-status|p1a: Dondozo|par
+|move|p1a: Dondozo|Wave Crash|p2a: Clefable
+|-damage|p2a: Clefable|14/100
+|-damage|p1a: Dondozo|63/100 par|[from] Recoil
+|
+|-heal|p2a: Clefable|21/100|[from] item: Leftovers
+|-heal|p1a: Dondozo|69/100 par|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1781405402
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|71/100
+|move|p1a: Dondozo|Wave Crash|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|-damage|p1a: Dondozo|51/100 par|[from] Recoil
+|
+|-heal|p1a: Dondozo|57/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1781405406
+|switch|p2a: Dragapult|Dragapult, F|47/100
+|turn|30
+|inactive|employment devil has 120 seconds left.
+|
+|t:|1781405438
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Dondozo|Wave Crash|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|-damage|p1a: Dondozo|32/100 par|[from] Recoil
+|
+|-heal|p1a: Dondozo|38/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1781405441
+|switch|p2a: Dragapult|Dragapult, F|47/100
+|turn|31
+|
+|t:|1781405468
+|-terastallize|p2a: Dragapult|Ghost
+|move|p2a: Dragapult|Hex|p1a: Dondozo
+|-damage|p1a: Dondozo|0 fnt
+|faint|p1a: Dondozo
+|
+|upkeep
+|
+|t:|1781405470
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|-damage|p1a: Tornadus|76/100|[from] Stealth Rock
+|turn|32
+|
+|t:|1781405480
+|move|p2a: Dragapult|Dragon Darts|p1a: Tornadus
+|-damage|p1a: Tornadus|47/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Tornadus
+|-damage|p1a: Tornadus|17/100
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Dragapult|[miss]
+|-miss|p1a: Tornadus|p2a: Dragapult
+|
+|upkeep
+|turn|33
+|
+|t:|1781405487
+|move|p2a: Dragapult|Dragon Darts|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1781405488
+|switch|p1a: Great Tusk|Great Tusk|58/100
+|-damage|p1a: Great Tusk|55/100|[from] Stealth Rock
+|turn|34
+|
+|t:|1781405492
+|move|p2a: Dragapult|Hex|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|win|employment devil
+|raw|interceptor_xwing's rating: 1633 &rarr; <strong>1609</strong><br />(-24 for losing)
+|raw|employment devil's rating: 1554 &rarr; <strong>1578</strong><br />(+24 for winning)
+|l|☆interceptor_xwing
+|player|p1|
+|c|☆employment devil|gg
+|l|☆employment devil
+|player|p2|

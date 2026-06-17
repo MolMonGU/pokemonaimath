@@ -1,0 +1,385 @@
+|j|☆merlin sword
+|j|☆8t88
+|t:|1781370109
+|gametype|singles
+|player|p1|merlin sword|hiker-gen4|1544
+|player|p2|8t88|2|1561
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragonite, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Weavile, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Kingambit, F|
+|poke|p1|Great Tusk|
+|poke|p2|Pelipper, L99, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Golduck, F|
+|poke|p2|Pawmot, F|
+|poke|p2|Tentacruel, F|
+|teampreview
+|
+|t:|1781370124
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|switch|p2a: Ghoti carrier|Pelipper, L99, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Ghoti carrier
+|turn|1
+|
+|t:|1781370132
+|move|p2a: Ghoti carrier|Surf|p1a: Hatterene
+|-damage|p1a: Hatterene|58/100
+|move|p1a: Hatterene|Psychic Noise|p2a: Ghoti carrier
+|-damage|p2a: Ghoti carrier|52/100
+|-start|p2a: Ghoti carrier|move: Heal Block
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781370136
+|move|p2a: Ghoti carrier|Surf|p1a: Hatterene
+|-damage|p1a: Hatterene|14/100
+|move|p1a: Hatterene|Nuzzle|p2a: Ghoti carrier
+|-supereffective|p2a: Ghoti carrier
+|-damage|p2a: Ghoti carrier|38/100
+|-status|p2a: Ghoti carrier|par
+|
+|-weather|RainDance|[upkeep]
+|-end|p2a: Ghoti carrier|move: Heal Block
+|upkeep
+|turn|3
+|
+|t:|1781370140
+|move|p1a: Hatterene|Psychic Noise|p2a: Ghoti carrier
+|-damage|p2a: Ghoti carrier|0 fnt
+|faint|p2a: Ghoti carrier
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781370143
+|switch|p2a: Spaghetti Too|Tentacruel, F|100/100
+|turn|4
+|
+|t:|1781370157
+|move|p2a: Spaghetti Too|Flip Turn|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-damage|p2a: Spaghetti Too|84/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|faint|p1a: Hatterene
+|
+|t:|1781370160
+|switch|p2a: Really want eject|Pawmot, F|100/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781370168
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|5
+|
+|t:|1781370171
+|move|p2a: Really want eject|Nuzzle|p1a: Dragonite
+|-damage|p1a: Dragonite|96/100
+|-status|p1a: Dragonite|par
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Dragonite|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781370174
+|move|p2a: Really want eject|Encore|p1a: Dragonite
+|-start|p1a: Dragonite|Encore
+|cant|p1a: Dragonite|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781370178
+|move|p2a: Really want eject|Revival Blessing|p2a: Really want eject
+|-enditem|p2a: Really want eject|Leppa Berry|[eat]
+|-activate|p2a: Really want eject|item: Leppa Berry|Revival Blessing|[consumed]
+|
+|t:|1781370180
+|-heal|p2: Ghoti carrier|50/100|[from] move: Revival Blessing
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781370184
+|switch|p2a: Great Neck|Raging Bolt|100/100
+|cant|p1a: Dragonite|par
+|
+|-weather|none
+|-end|p1a: Dragonite|Encore
+|upkeep
+|turn|9
+|
+|t:|1781370189
+|-terastallize|p2a: Great Neck|Fairy
+|move|p1a: Dragonite|Earthquake|p2a: Great Neck
+|-damage|p2a: Great Neck|32/100
+|move|p2a: Great Neck|Draco Meteor|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|22/100 par
+|-unboost|p2a: Great Neck|spa|2
+|
+|-heal|p1a: Dragonite|28/100 par|[from] item: Leftovers
+|-heal|p2a: Great Neck|38/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781370195
+|move|p2a: Great Neck|Thunderclap||[still]
+|-fail|p2a: Great Neck
+|cant|p1a: Dragonite|par
+|
+|-heal|p1a: Dragonite|35/100 par|[from] item: Leftovers
+|-heal|p2a: Great Neck|44/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781370203
+|cant|p1a: Dragonite|par
+|move|p2a: Great Neck|Draco Meteor|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|-unboost|p2a: Great Neck|spa|2
+|faint|p1a: Dragonite
+|
+|-heal|p2a: Great Neck|51/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781370214
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|turn|12
+|
+|t:|1781370220
+|-end|p2a: Great Neck|Protosynthesis|[silent]
+|switch|p2a: Really want eject|Pawmot, F|100/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|upkeep
+|turn|13
+|
+|t:|1781370226
+|-terastallize|p1a: Kingambit|Fairy
+|move|p2a: Really want eject|Close Combat|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|82/100
+|-unboost|p2a: Really want eject|def|1
+|-unboost|p2a: Really want eject|spd|1
+|move|p1a: Kingambit|Iron Head|p2a: Really want eject
+|-resisted|p2a: Really want eject
+|-damage|p2a: Really want eject|0 fnt
+|faint|p2a: Really want eject
+|
+|upkeep
+|
+|t:|1781370228
+|switch|p2a: Ghoti carrier|Pelipper, L99, F|50/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Ghoti carrier
+|turn|14
+|
+|t:|1781370235
+|switch|p2a: Spaghetti Too|Tentacruel, F|84/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Spaghetti Too
+|-damage|p2a: Spaghetti Too|0 fnt
+|faint|p2a: Spaghetti Too
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781370240
+|switch|p2a: ExSkewda Me|Barraskewda, F|100/100
+|turn|15
+|
+|t:|1781370243
+|switch|p2a: Great Neck|Raging Bolt, tera:Fairy|51/100
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Great Neck|57/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781370246
+|move|p2a: Great Neck|Thunder|p1a: Kingambit
+|-damage|p1a: Kingambit|13/100
+|move|p1a: Kingambit|Iron Head|p2a: Great Neck
+|-supereffective|p2a: Great Neck
+|-crit|p2a: Great Neck
+|-damage|p2a: Great Neck|0 fnt
+|faint|p2a: Great Neck
+|-end|p2a: Great Neck|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781370249
+|switch|p2a: Seaking Duck|Golduck, F|100/100
+|turn|17
+|
+|t:|1781370255
+|move|p2a: Seaking Duck|Vacuum Wave|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|3/100
+|-damage|p2a: Seaking Duck|91/100|[from] item: Life Orb
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781370265
+|move|p2a: Seaking Duck|Vacuum Wave|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-crit|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen2|[silent]
+|-damage|p2a: Seaking Duck|81/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781370270
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|19
+|
+|t:|1781370275
+|move|p2a: Seaking Duck|Ice Beam|p1a: Ogerpon
+|-damage|p1a: Ogerpon|57/100
+|-damage|p2a: Seaking Duck|71/100|[from] item: Life Orb
+|move|p1a: Ogerpon|Power Whip|p2a: Seaking Duck
+|-supereffective|p2a: Seaking Duck
+|-damage|p2a: Seaking Duck|0 fnt
+|faint|p2a: Seaking Duck
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781370278
+|switch|p2a: ExSkewda Me|Barraskewda, F|100/100
+|turn|20
+|
+|t:|1781370284
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: ExSkewda Me|Poison Jab|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|84/100
+|-status|p1a: Great Tusk|psn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Great Tusk|72/100 psn|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1781370296
+|move|p2a: ExSkewda Me|Liquidation|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781370308
+|switch|p1a: Weavile|Weavile, F|100/100
+|turn|22
+|
+|t:|1781370313
+|switch|p2a: Ghoti carrier|Pelipper, L99, F|50/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Ghoti carrier
+|move|p1a: Weavile|Low Kick|p2a: Ghoti carrier
+|-resisted|p2a: Ghoti carrier
+|-damage|p2a: Ghoti carrier|43/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1781370318
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|57/100
+|move|p2a: Ghoti carrier|U-turn|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|34/100
+|
+|t:|1781370320
+|switch|p2a: ExSkewda Me|Barraskewda, F|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1781370324
+|move|p2a: ExSkewda Me|Poison Jab|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781370326
+|switch|p1a: Weavile|Weavile, F|100/100
+|turn|25
+|
+|t:|1781370329
+|move|p2a: ExSkewda Me|Close Combat|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-enditem|p1a: Weavile|Focus Sash
+|-damage|p1a: Weavile|1/100
+|-unboost|p2a: ExSkewda Me|def|1
+|-unboost|p2a: ExSkewda Me|spd|1
+|-enditem|p2a: ExSkewda Me|Mystic Water|[silent]|[from] ability: Pickpocket|[of] p2a: ExSkewda Me
+|-item|p1a: Weavile|Mystic Water|[from] ability: Pickpocket|[of] p2a: ExSkewda Me
+|move|p1a: Weavile|Low Kick|p2a: ExSkewda Me
+|-damage|p2a: ExSkewda Me|38/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1781370332
+|move|p2a: ExSkewda Me|Flip Turn|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|win|8t88
+|raw|merlin sword's rating: 1544 &rarr; <strong>1525</strong><br />(-19 for losing)
+|raw|8t88's rating: 1561 &rarr; <strong>1580</strong><br />(+19 for winning)
+|l|☆merlin sword
+|player|p1|
+|l|☆8t88
+|player|p2|

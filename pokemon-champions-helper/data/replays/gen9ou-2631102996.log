@@ -1,0 +1,260 @@
+|j|☆chill element
+|j|☆Dat boii fam
+|t:|1781341519
+|gametype|singles
+|player|p1|chill element|youngster|1542
+|player|p2|Dat boii fam|li|1754
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Reuniclus, M|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Cinderace, F|
+|poke|p1|Breloom, M|
+|poke|p1|Enamorus, F|
+|poke|p1|Ditto|
+|poke|p2|Alomomola, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Zapdos|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Scizor, F|
+|poke|p2|Amoonguss, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Dat boii fam)
+|
+|t:|1781341530
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-boost|p1a: Enamorus|atk|1
+|turn|1
+|
+|t:|1781341538
+|move|p1a: Enamorus|Mystical Fire|p2a: Landorus
+|-damage|p2a: Landorus|63/100
+|-unboost|p2a: Landorus|spa|1
+|move|p2a: Landorus|U-turn|p1a: Enamorus
+|-resisted|p1a: Enamorus
+|-damage|p1a: Enamorus|88/100
+|
+|t:|1781341547
+|switch|p2a: Alomomola|Alomomola, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1781341553
+|switch|p1a: Breloom|Breloom, M|100/100
+|move|p2a: Alomomola|Flip Turn|p1a: Breloom
+|-resisted|p1a: Breloom
+|-damage|p1a: Breloom|92/100
+|
+|t:|1781341558
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100|[from] Flip Turn
+|
+|-status|p1a: Breloom|tox|[from] item: Toxic Orb
+|upkeep
+|turn|3
+|
+|t:|1781341581
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Samurott
+|-damage|p1a: Samurott|69/100
+|-unboost|p1a: Samurott|spe|1
+|
+|upkeep
+|turn|4
+|inactive|chill element has 120 seconds left.
+|inactive|Dat boii fam has 120 seconds left.
+|
+|t:|1781341616
+|switch|p2a: Amoonguss|Amoonguss, F|100/100
+|move|p1a: Samurott|Knock Off|p2a: Amoonguss
+|-damage|p2a: Amoonguss|66/100
+|-damage|p1a: Samurott|53/100|[from] item: Rocky Helmet|[of] p2a: Amoonguss
+|-enditem|p2a: Amoonguss|Rocky Helmet|[from] move: Knock Off|[of] p1a: Samurott
+|
+|upkeep
+|turn|5
+|inactive|Dat boii fam has 120 seconds left.
+|
+|t:|1781341630
+|move|p1a: Samurott|Ceaseless Edge|p2a: Amoonguss
+|-damage|p2a: Amoonguss|33/100
+|-sidestart|p2: Dat boii fam|Spikes
+|move|p2a: Amoonguss|Giga Drain|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|16/100
+|-heal|p2a: Amoonguss|49/100|[from] drain|[of] p1a: Samurott
+|
+|upkeep
+|turn|6
+|
+|t:|1781341637
+|move|p1a: Samurott|Ceaseless Edge|p2a: Amoonguss
+|-damage|p2a: Amoonguss|20/100
+|-sidestart|p2: Dat boii fam|Spikes
+|move|p2a: Amoonguss|Giga Drain|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|-heal|p2a: Amoonguss|27/100|[from] drain|[of] p1a: Samurott
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781341648
+|switch|p1a: Reuniclus|Reuniclus, M|100/100
+|turn|7
+|inactive|chill element has 120 seconds left.
+|
+|t:|1781341665
+|switch|p2a: Scizor|Scizor, F|100/100
+|move|p1a: Reuniclus|Psychic Noise|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|76/100
+|-start|p2a: Scizor|move: Heal Block
+|
+|upkeep
+|turn|8
+|
+|t:|1781341674
+|switch|p1a: Breloom|Breloom, M|92/100 tox
+|move|p2a: Scizor|Knock Off|p1a: Breloom
+|-resisted|p1a: Breloom
+|-damage|p1a: Breloom|77/100 tox
+|-enditem|p1a: Breloom|Toxic Orb|[from] move: Knock Off|[of] p2a: Scizor
+|
+|-heal|p1a: Breloom|89/100 tox|[from] ability: Poison Heal
+|-end|p2a: Scizor|move: Heal Block
+|upkeep
+|turn|9
+|
+|t:|1781341684
+|move|p1a: Breloom|Substitute|p1a: Breloom
+|-start|p1a: Breloom|Substitute
+|-damage|p1a: Breloom|65/100 tox
+|move|p2a: Scizor|U-turn|p1a: Breloom
+|-end|p1a: Breloom|Substitute
+|
+|t:|1781341690
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100|[from] U-turn
+|
+|-heal|p1a: Breloom|77/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|10
+|
+|t:|1781341700
+|switch|p1a: Ditto|Ditto|100/100
+|-transform|p1a: Ditto|p2a: Tornadus|[from] ability: Imposter
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Ditto
+|-damage|p1a: Ditto|44/100
+|
+|upkeep
+|turn|11
+|j| Mega Delibird X
+|
+|t:|1781341707
+|move|p1a: Ditto|Bleakwind Storm|p2a: Tornadus
+|-damage|p2a: Tornadus|43/100
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Ditto
+|-damage|p1a: Ditto|0 fnt
+|faint|p1a: Ditto
+|
+|upkeep
+|
+|t:|1781341717
+|switch|p1a: Enamorus|Enamorus, F|88/100
+|turn|12
+|
+|t:|1781341743
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Enamorus|Moonblast|p2a: Zapdos
+|-damage|p2a: Zapdos|47/100
+|
+|upkeep
+|turn|13
+|inactive|chill element has 120 seconds left.
+|
+|t:|1781341775
+|switch|p2a: Scizor|Scizor, F|76/100
+|move|p1a: Enamorus|Moonblast|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|52/100
+|-unboost|p2a: Scizor|spa|1
+|
+|upkeep
+|turn|14
+|
+|t:|1781341784
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|move|p2a: Scizor|Defog|p1a: Cinderace
+|-unboost|p1a: Cinderace|evasion|1
+|-sideend|p2: Dat boii fam|Spikes|[from] move: Defog|[of] p2a: Scizor
+|
+|upkeep
+|turn|15
+|
+|t:|1781341790
+|move|p1a: Cinderace|U-turn|p2a: Scizor
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|29/100
+|-damage|p1a: Cinderace|91/100|[from] item: Life Orb
+|
+|t:|1781341797
+|switch|p1a: Breloom|Breloom, M|77/100 tox|[from] U-turn
+|move|p2a: Scizor|U-turn|p1a: Breloom
+|-damage|p1a: Breloom|48/100 tox
+|
+|t:|1781341803
+|switch|p2a: Tornadus|Tornadus-Therian, M|77/100|[from] U-turn
+|
+|-heal|p1a: Breloom|61/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|16
+|j| sacron10
+|
+|t:|1781341814
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Breloom
+|-supereffective|p1a: Breloom
+|-damage|p1a: Breloom|0 fnt
+|faint|p1a: Breloom
+|
+|upkeep
+|
+|t:|1781341816
+|switch|p1a: Cinderace|Cinderace, F|91/100
+|turn|17
+|
+|t:|1781341820
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Cinderace|Pyro Ball|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|77/100
+|-damage|p1a: Cinderace|81/100|[from] item: Life Orb
+|
+|upkeep
+|turn|18
+|-message|chill element forfeited.
+|
+|win|Dat boii fam
+|raw|chill element's rating: 1542 &rarr; <strong>1533</strong><br />(-9 for losing)
+|raw|Dat boii fam's rating: 1754 &rarr; <strong>1763</strong><br />(+9 for winning)
+|l|☆chill element
+|player|p1|
+|l| Mega Delibird X
+|l|☆Dat boii fam
+|player|p2|
+|l| sacron10

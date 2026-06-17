@@ -1,0 +1,392 @@
+|j|☆Slashutu
+|j|☆anamchara
+|t:|1781367846
+|gametype|singles
+|player|p1|Slashutu|170|1544
+|player|p2|anamchara|266|1553
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ting-Lu|
+|poke|p1|Gliscor, M|
+|poke|p1|Sinistcha-Masterpiece|
+|poke|p1|Keldeo|
+|poke|p1|Tinkaton, F|
+|poke|p1|Dragonite, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Meowscarada, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Glimmora, M|
+|poke|p2|Dragapult, F|
+|teampreview
+|
+|t:|1781367851
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tinkki Minaj|Tinkaton, F|100/100
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|-ability|p1a: Tinkki Minaj|Mold Breaker
+|-item|p1a: Tinkki Minaj|Air Balloon
+|turn|1
+|
+|t:|1781367865
+|move|p2a: Meowscarada|U-turn|p1a: Tinkki Minaj
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-resisted|p1a: Tinkki Minaj
+|-damage|p1a: Tinkki Minaj|92/100
+|-enditem|p1a: Tinkki Minaj|Air Balloon
+|
+|t:|1781367867
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|move|p1a: Tinkki Minaj|Thunder Wave|p2a: Ogerpon
+|-status|p2a: Ogerpon|par
+|
+|upkeep
+|turn|2
+|
+|t:|1781367881
+|switch|p1a: Secret Service|Dragonite, F|100/100
+|cant|p2a: Ogerpon|par
+|
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by anamchara)
+|
+|t:|1781367903
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Secret Service|Dragon Tail|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1781367909
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|4
+|
+|t:|1781367917
+|switch|p1a: Tinkki Minaj|Tinkaton, F|92/100
+|-ability|p1a: Tinkki Minaj|Mold Breaker
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1781367923
+|move|p2a: Iron Valiant|Close Combat|p1a: Tinkki Minaj
+|-damage|p1a: Tinkki Minaj|0 fnt
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|faint|p1a: Tinkki Minaj
+|
+|upkeep
+|
+|t:|1781367937
+|switch|p1a: Secret Service|Dragonite, F|100/100
+|turn|6
+|
+|t:|1781367948
+|-terastallize|p1a: Secret Service|Normal
+|move|p1a: Secret Service|Extreme Speed|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|17/100
+|move|p2a: Iron Valiant|Spirit Break|p1a: Secret Service
+|-damage|p1a: Secret Service|64/100
+|-unboost|p1a: Secret Service|spa|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781367956
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|move|p1a: Secret Service|Extreme Speed|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|74/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: Slashutu|move: Toxic Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1781367963
+|switch|p1a: My Little Pwny|Keldeo|100/100
+|move|p2a: Glimmora|Stealth Rock|p1a: My Little Pwny
+|-sidestart|p1: Slashutu|move: Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1781367970
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: My Little Pwny|Surf|p2a: Slowking
+|-damage|p2a: Slowking|75/100
+|
+|upkeep
+|turn|10
+|j| Zamukerz
+|
+|t:|1781367987
+|switch|p1a: Dance Armstrong|Gliscor, M|100/100
+|-damage|p1a: Dance Armstrong|88/100|[from] Stealth Rock
+|move|p2a: Slowking|Ice Beam|p1a: Dance Armstrong
+|-supereffective|p1a: Dance Armstrong
+|-damage|p1a: Dance Armstrong|0 fnt
+|faint|p1a: Dance Armstrong
+|
+|upkeep
+|
+|t:|1781367997
+|switch|p1a: Jarhead|Ting-Lu|100/100
+|-status|p1a: Jarhead|psn
+|-damage|p1a: Jarhead|94/100 psn|[from] Stealth Rock
+|-ability|p1a: Jarhead|Vessel of Ruin
+|turn|11
+|
+|t:|1781368021
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100 par
+|move|p1a: Jarhead|Spikes|p2a: Ogerpon
+|-sidestart|p2: anamchara|Spikes
+|
+|-heal|p1a: Jarhead|100/100 psn|[from] item: Leftovers
+|-damage|p1a: Jarhead|88/100 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1781368030
+|switch|p1a: Secret Service|Dragonite, F, tera:Normal|64/100
+|move|p2a: Ogerpon|Horn Leech|p1a: Secret Service
+|-damage|p1a: Secret Service|22/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781368036
+|switch|p2a: Glimmora|Glimmora, M|74/100
+|-damage|p2a: Glimmora|62/100|[from] Spikes
+|move|p1a: Secret Service|Roost|p1a: Secret Service
+|-heal|p1a: Secret Service|72/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781368045
+|-terastallize|p2a: Glimmora|Grass
+|move|p2a: Glimmora|Power Gem|p1a: Secret Service
+|-damage|p1a: Secret Service|21/100
+|-damage|p2a: Glimmora|52/100|[from] item: Life Orb
+|move|p1a: Secret Service|Earthquake|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|30/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: Slashutu|move: Toxic Spikes
+|
+|upkeep
+|turn|15
+|
+|t:|1781368050
+|move|p1a: Secret Service|Extreme Speed|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|
+|upkeep
+|
+|t:|1781368059
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100 par
+|-damage|p2a: Ogerpon|88/100 par|[from] Spikes
+|turn|16
+|
+|t:|1781368064
+|move|p1a: Secret Service|Extreme Speed|p2a: Ogerpon
+|-damage|p2a: Ogerpon|28/100 par
+|cant|p2a: Ogerpon|par
+|
+|upkeep
+|turn|17
+|
+|t:|1781368071
+|move|p1a: Secret Service|Extreme Speed|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781368074
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|-damage|p2a: Meowscarada|88/100|[from] Spikes
+|turn|18
+|
+|t:|1781368084
+|switch|p1a: My Little Pwny|Keldeo|100/100
+|move|p2a: Meowscarada|Knock Off|p1a: My Little Pwny
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-resisted|p1a: My Little Pwny
+|-damage|p1a: My Little Pwny|76/100
+|-ability|p1a: My Little Pwny|Justified|boost
+|-boost|p1a: My Little Pwny|atk|1
+|-enditem|p1a: My Little Pwny|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Meowscarada
+|
+|upkeep
+|turn|19
+|
+|t:|1781368088
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|-damage|p2a: Slowking|88/100|[from] Spikes
+|move|p1a: My Little Pwny|Vacuum Wave|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|85/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781368091
+|switch|p1a: Jarhead|Ting-Lu|88/100 psn
+|-damage|p1a: Jarhead|82/100 psn|[from] Stealth Rock
+|-ability|p1a: Jarhead|Vessel of Ruin
+|move|p2a: Slowking|Psychic Noise|p1a: Jarhead
+|-immune|p1a: Jarhead
+|
+|-heal|p1a: Jarhead|88/100 psn|[from] item: Leftovers
+|-damage|p1a: Jarhead|76/100 psn|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1781368109
+|switch|p2a: Meowscarada|Meowscarada, M|88/100
+|-damage|p2a: Meowscarada|76/100|[from] Spikes
+|move|p1a: Jarhead|Spikes|p2a: Meowscarada
+|-sidestart|p2: anamchara|Spikes
+|
+|-heal|p1a: Jarhead|82/100 psn|[from] item: Leftovers
+|-damage|p1a: Jarhead|69/100 psn|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1781368115
+|move|p2a: Meowscarada|Triple Axel|p1a: Jarhead
+|-start|p2a: Meowscarada|typechange|Ice|[from] ability: Protean
+|-supereffective|p1a: Jarhead
+|-damage|p1a: Jarhead|60/100 psn
+|-supereffective|p1a: Jarhead
+|-crit|p1a: Jarhead
+|-damage|p1a: Jarhead|28/100 psn
+|-supereffective|p1a: Jarhead
+|-damage|p1a: Jarhead|0 fnt
+|faint|p1a: Jarhead
+|-hitcount|p1: Jarhead|3
+|
+|upkeep
+|
+|t:|1781368124
+|switch|p1a: Secret Service|Dragonite, F, tera:Normal|21/100
+|turn|23
+|
+|t:|1781368132
+|move|p1a: Secret Service|Extreme Speed|p2a: Meowscarada
+|-damage|p2a: Meowscarada|3/100
+|move|p2a: Meowscarada|Triple Axel|p1a: Secret Service
+|-damage|p1a: Secret Service|11/100
+|-damage|p1a: Secret Service|0 fnt
+|faint|p1a: Secret Service
+|-hitcount|p1: Secret Service|2
+|
+|upkeep
+|
+|t:|1781368136
+|switch|p1a: My Little Pwny|Keldeo|76/100
+|-status|p1a: My Little Pwny|tox
+|-damage|p1a: My Little Pwny|70/100 tox|[from] Stealth Rock
+|turn|24
+|
+|t:|1781368140
+|move|p1a: My Little Pwny|Vacuum Wave|p2a: Meowscarada
+|-supereffective|p2a: Meowscarada
+|-damage|p2a: Meowscarada|0 fnt
+|faint|p2a: Meowscarada
+|
+|-damage|p1a: My Little Pwny|64/100 tox|[from] psn
+|upkeep
+|
+|t:|1781368142
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|-damage|p2a: Slowking|84/100|[from] Spikes
+|turn|25
+|
+|t:|1781368148
+|move|p1a: My Little Pwny|Surf|p2a: Slowking
+|-damage|p2a: Slowking|59/100
+|move|p2a: Slowking|Psychic Noise|p1a: My Little Pwny
+|-supereffective|p1a: My Little Pwny
+|-damage|p1a: My Little Pwny|0 fnt
+|faint|p1a: My Little Pwny
+|
+|upkeep
+|
+|t:|1781368152
+|switch|p1a: Tchavis Scott|Sinistcha-Masterpiece|100/100
+|turn|26
+|
+|t:|1781368155
+|move|p1a: Tchavis Scott|Calm Mind|p1a: Tchavis Scott
+|-boost|p1a: Tchavis Scott|spa|1
+|-boost|p1a: Tchavis Scott|spd|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Tchavis Scott
+|-damage|p1a: Tchavis Scott|67/100
+|
+|upkeep
+|turn|27
+|
+|t:|1781368162
+|switch|p2a: Iron Valiant|Iron Valiant|17/100
+|-damage|p2a: Iron Valiant|0 fnt|[from] Spikes
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|move|p1a: Tchavis Scott|Shadow Ball|p2: Iron Valiant|[notarget]
+|-fail|p1a: Tchavis Scott
+|
+|upkeep
+|
+|t:|1781368165
+|switch|p2a: Slowking|Slowking-Galar, M|92/100
+|-damage|p2a: Slowking|76/100|[from] Spikes
+|turn|28
+|
+|t:|1781368168
+|move|p1a: Tchavis Scott|Shadow Ball|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|24/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Tchavis Scott
+|-damage|p1a: Tchavis Scott|30/100
+|
+|upkeep
+|turn|29
+|
+|t:|1781368173
+|move|p1a: Tchavis Scott|Shadow Ball|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|win|Slashutu
+|raw|Slashutu's rating: 1544 &rarr; <strong>1566</strong><br />(+22 for winning)
+|raw|anamchara's rating: 1573 &rarr; <strong>1551</strong><br />(-22 for losing)
+|l|☆Slashutu
+|player|p1|
+|l|☆anamchara
+|player|p2|
+|l| Zamukerz

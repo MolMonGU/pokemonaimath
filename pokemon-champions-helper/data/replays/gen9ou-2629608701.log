@@ -1,0 +1,359 @@
+|j|☆Gupygak
+|j|☆StormIsNotOmega
+|t:|1781152596
+|gametype|singles
+|player|p1|Gupygak|chuck|1560
+|player|p2|StormIsNotOmega|psychic-gen4|1530
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Weezing-Galar, M|
+|poke|p1|Gliscor, F|
+|poke|p1|Alomomola, F|
+|poke|p1|Quagsire, M|
+|poke|p1|Clefable, M|
+|poke|p1|Skarmory, F|
+|poke|p2|Moltres|
+|poke|p2|Clodsire, M|
+|poke|p2|Gliscor, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Dondozo, F|
+|poke|p2|Weezing-Galar, F|
+|teampreview
+|
+|t:|1781152602
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gliscor|Gliscor, F|100/100
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by StormIsNotOmega)
+|
+|t:|1781152608
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Gliscor|Knock Off|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781152615
+|move|p1a: Gliscor|Spikes|p2a: Gliscor
+|-sidestart|p2: StormIsNotOmega|Spikes
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1781152626
+|switch|p1a: Skarmory|Skarmory, F|100/100
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1781152652
+|move|p2a: Gliscor|Knock Off|p1a: Skarmory
+|-damage|p1a: Skarmory|62/100
+|-damage|p2a: Gliscor|84/100 tox|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|-enditem|p1a: Skarmory|Rocky Helmet|[from] move: Knock Off|[of] p2a: Gliscor
+|move|p1a: Skarmory|Stealth Rock|p2a: Gliscor
+|-sidestart|p2: StormIsNotOmega|move: Stealth Rock
+|
+|-heal|p2a: Gliscor|97/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|5
+|
+|t:|1781152660
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|100/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|6
+|
+|t:|1781152671
+|move|p2a: Gliscor|Knock Off|p1a: Skarmory
+|-damage|p1a: Skarmory|68/100
+|move|p1a: Skarmory|Whirlwind|p2a: Gliscor
+|drag|p2a: Ting-Lu|Ting-Lu|100/100
+|-damage|p2a: Ting-Lu|88/100|[from] Spikes
+|-damage|p2a: Ting-Lu|82/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|-heal|p2a: Ting-Lu|88/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781152687
+|switch|p1a: Gliscor|Gliscor, F|100/100 tox
+|move|p2a: Ting-Lu|Ruination|p1a: Gliscor|[miss]
+|-miss|p2a: Ting-Lu|p1a: Gliscor
+|
+|-heal|p2a: Ting-Lu|94/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781152695
+|move|p1a: Gliscor|Spikes|p2a: Ting-Lu
+|-sidestart|p2: StormIsNotOmega|Spikes
+|move|p2a: Ting-Lu|Ruination|p1a: Gliscor|[miss]
+|-miss|p2a: Ting-Lu|p1a: Gliscor
+|
+|-heal|p2a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781152702
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Gliscor|Knock Off|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|94/100
+|-enditem|p2a: Weezing|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Gliscor
+|
+|-damage|p1a: Gliscor|82/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1781152711
+|move|p1a: Gliscor|Earthquake|p2a: Weezing
+|-supereffective|p2a: Weezing
+|-damage|p2a: Weezing|47/100
+|move|p2a: Weezing|Defog|p1a: Gliscor
+|-unboost|p1a: Gliscor|evasion|1
+|-sideend|p2: StormIsNotOmega|Spikes|[from] move: Defog|[of] p2a: Weezing
+|-sideend|p2: StormIsNotOmega|Stealth Rock|[from] move: Defog|[of] p2a: Weezing
+|
+|-damage|p1a: Gliscor|57/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1781152720
+|move|p1a: Gliscor|Spikes|p2a: Weezing
+|-sidestart|p2: StormIsNotOmega|Spikes
+|move|p2a: Weezing|Strange Steam|p1a: Gliscor
+|-damage|p1a: Gliscor|35/100 tox
+|
+|-damage|p1a: Gliscor|4/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1781152728
+|move|p1a: Gliscor|Earthquake|p2a: Weezing
+|-supereffective|p2a: Weezing
+|-damage|p2a: Weezing|2/100
+|move|p2a: Weezing|Defog|p1a: Gliscor
+|-unboost|p1a: Gliscor|evasion|1
+|-sideend|p2: StormIsNotOmega|Spikes|[from] move: Defog|[of] p2a: Weezing
+|
+|-damage|p1a: Gliscor|0 fnt|[from] psn
+|faint|p1a: Gliscor
+|upkeep
+|
+|t:|1781152740
+|switch|p1a: Skarmory|Skarmory, F|68/100
+|turn|13
+|
+|t:|1781152743
+|move|p1a: Skarmory|Iron Head|p2a: Weezing
+|-supereffective|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|
+|upkeep
+|
+|t:|1781152755
+|switch|p2a: Moltres|Moltres|100/100
+|turn|14
+|
+|t:|1781152761
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Moltres|Scorching Sands|p1a: Alomomola
+|-damage|p1a: Alomomola|82/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781152771
+|move|p2a: Moltres|Will-O-Wisp|p1a: Alomomola
+|-status|p1a: Alomomola|brn
+|move|p1a: Alomomola|Flip Turn|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|90/100
+|
+|t:|1781152783
+|switch|p1a: Quagsire|Quagsire, M|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|16
+|
+|t:|1781152787
+|switch|p2a: Gliscor|Gliscor, M|100/100 tox
+|move|p1a: Quagsire|Toxic|p2a: Gliscor
+|-fail|p2a: Gliscor|tox
+|
+|upkeep
+|turn|17
+|
+|t:|1781152793
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|move|p1a: Quagsire|Ice Beam|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|48/100 tox
+|
+|-heal|p2a: Gliscor|61/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|18
+|
+|t:|1781152803
+|switch|p1a: Alomomola|Alomomola, F|100/100 brn
+|-terastallize|p2a: Gliscor|Normal
+|move|p2a: Gliscor|Knock Off|p1a: Alomomola
+|-damage|p1a: Alomomola|74/100 brn
+|-damage|p2a: Gliscor|44/100 tox|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|-enditem|p1a: Alomomola|Rocky Helmet|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|-heal|p2a: Gliscor|57/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Alomomola|68/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1781152816
+|switch|p1a: Skarmory|Skarmory, F|68/100
+|move|p2a: Gliscor|Facade|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|39/100
+|
+|-heal|p2a: Gliscor|69/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|20
+|
+|t:|1781152824
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|89/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|-heal|p2a: Gliscor|82/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|21
+|
+|t:|1781152832
+|move|p2a: Gliscor|Facade|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|48/100
+|move|p1a: Skarmory|Whirlwind|p2a: Gliscor
+|drag|p2a: Clodsire|Clodsire, M|100/100
+|
+|upkeep
+|turn|22
+|
+|t:|1781152840
+|switch|p2a: Gliscor|Gliscor, M, tera:Normal|82/100 tox
+|move|p1a: Skarmory|Stealth Rock|p2a: Gliscor
+|-sidestart|p2: StormIsNotOmega|move: Stealth Rock
+|
+|-heal|p2a: Gliscor|94/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|23
+|
+|t:|1781152847
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|98/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|24
+|
+|t:|1781152857
+|move|p2a: Gliscor|Facade|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|70/100
+|move|p1a: Skarmory|Iron Head|p2a: Gliscor
+|-damage|p2a: Gliscor|82/100 tox
+|
+|-heal|p2a: Gliscor|94/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|25
+|
+|t:|1781152869
+|move|p2a: Gliscor|Facade|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|44/100
+|move|p1a: Skarmory|Whirlwind|p2a: Gliscor
+|drag|p2a: Dondozo|Dondozo, F|100/100
+|-damage|p2a: Dondozo|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Dondozo|94/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781152878
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|94/100
+|-singleturn|p1a: Skarmory|move: Roost
+|move|p2a: Dondozo|Body Press|p1a: Skarmory
+|-supereffective|p1a: Skarmory
+|-damage|p1a: Skarmory|61/100
+|
+|-heal|p2a: Dondozo|99/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781152891
+|switch|p1a: Alomomola|Alomomola, F|100/100 brn
+|switch|p2a: Gliscor|Gliscor, M, tera:Normal|94/100 tox
+|-damage|p2a: Gliscor|82/100 tox|[from] Stealth Rock
+|
+|-heal|p2a: Gliscor|94/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Alomomola|94/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1781152900
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|move|p1a: Alomomola|Flip Turn|p2a: Gliscor
+|-damage|p2a: Gliscor|88/100 tox
+|
+|t:|1781152903
+|switch|p1a: Weezing|Weezing-Galar, M|100/100|[from] Flip Turn
+|-ability|p1a: Weezing|Neutralizing Gas
+|
+|-damage|p2a: Gliscor|75/100 tox|[from] psn
+|upkeep
+|turn|29
+|-message|StormIsNotOmega forfeited.
+|
+|win|Gupygak
+|raw|Gupygak's rating: 1560 &rarr; <strong>1578</strong><br />(+18 for winning)
+|raw|StormIsNotOmega's rating: 1530 &rarr; <strong>1512</strong><br />(-18 for losing)
+|l|☆StormIsNotOmega
+|player|p2|
+|l|☆Gupygak
+|player|p1|

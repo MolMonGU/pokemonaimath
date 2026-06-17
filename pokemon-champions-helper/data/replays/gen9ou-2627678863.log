@@ -1,0 +1,333 @@
+|j|‽alakazam darnold
+|j|☆praveenkumart236
+|t:|1780932448
+|gametype|singles
+|player|p1|alakazam darnold|li|1538
+|player|p2|praveenkumart236|101|1548
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Meowscarada, M|
+|poke|p1|Froslass, F|
+|poke|p1|Great Tusk|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Dragonite, F|
+|poke|p1|Empoleon, M|
+|poke|p2|Pincurchin, F|
+|poke|p2|Pawmot, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Raging Bolt|
+|poke|p2|Iron Treads|
+|poke|p2|Iron Moth|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by praveenkumart236)
+|
+|t:|1780932458
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|switch|p2a: Pincurchin|Pincurchin, F|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|turn|1
+|
+|t:|1780932463
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-item|p2a: Iron Moth|Air Balloon
+|-activate|p2a: Iron Moth|ability: Quark Drive
+|-start|p2a: Iron Moth|quarkdrivespa
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Moth
+|-immune|p2a: Iron Moth
+|
+|upkeep
+|turn|2
+|
+|t:|1780932482
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Empoleon|Empoleon, M|100/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Empoleon
+|-damage|p1a: Empoleon|63/100
+|
+|upkeep
+|turn|3
+|
+|t:|1780932492
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Electric Seed
+|-boost|p2a: Raging Bolt|def|1|[from] item: Electric Seed
+|move|p1a: Empoleon|Surf|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|86/100
+|
+|upkeep
+|turn|4
+|
+|t:|1780932505
+|switch|p1a: Froslass|Froslass, F|100/100
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1780932517
+|move|p2a: Raging Bolt|Thunderclap|p1a: Froslass
+|-enditem|p1a: Froslass|Focus Sash
+|-damage|p1a: Froslass|1/100
+|move|p1a: Froslass|Avalanche|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|34/100
+|
+|upkeep
+|turn|6
+|
+|t:|1780932526
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Froslass|Destiny Bond|p1a: Froslass
+|-singlemove|p1a: Froslass|Destiny Bond
+|
+|upkeep
+|turn|7
+|
+|t:|1780932533
+|move|p1a: Froslass|Poltergeist||[still]
+|-fail|p1a: Froslass
+|move|p2a: Raging Bolt|Rising Voltage|p1a: Froslass
+|-hint|Rising Voltage's BP doubled on grounded target.
+|-damage|p1a: Froslass|0 fnt
+|faint|p1a: Froslass
+|
+|upkeep
+|
+|t:|1780932544
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|turn|8
+|
+|t:|1780932561
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Raging Bolt|Rising Voltage|p1a: Great Tusk
+|-immune|p1a: Great Tusk
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|9
+|
+|t:|1780932572
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Pincurchin|Pincurchin, F|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|move|p1a: Great Tusk|Close Combat|p2a: Pincurchin
+|-damage|p2a: Pincurchin|28/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1780932594
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-item|p2a: Iron Moth|Air Balloon
+|-activate|p2a: Iron Moth|ability: Quark Drive
+|-start|p2a: Iron Moth|quarkdrivespa
+|move|p1a: Great Tusk|Close Combat|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-damage|p2a: Iron Moth|50/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-enditem|p2a: Iron Moth|Air Balloon
+|
+|upkeep
+|turn|11
+|
+|t:|1780932606
+|move|p1a: Great Tusk|Close Combat|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|inactive|praveenkumart236 has 120 seconds left.
+|
+|t:|1780932630
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-activate|p2a: Iron Valiant|ability: Quark Drive
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|12
+|
+|t:|1780932635
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|
+|upkeep
+|turn|13
+|
+|t:|1780932648
+|-terastallize|p2a: Iron Valiant|Electric
+|move|p2a: Iron Valiant|Thunder Punch|p1a: Weezing
+|-damage|p1a: Weezing|21/100
+|-damage|p2a: Iron Valiant|84/100|[from] item: Rocky Helmet|[of] p1a: Weezing
+|-damage|p2a: Iron Valiant|74/100|[from] item: Life Orb
+|move|p1a: Weezing|Strange Steam|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|30/100
+|
+|upkeep
+|turn|14
+|
+|t:|1780932666
+|move|p2a: Iron Valiant|Ice Punch|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|-damage|p2a: Iron Valiant|14/100|[from] item: Rocky Helmet|[of] p1a: Weezing
+|faint|p1a: Weezing
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|-damage|p2a: Iron Valiant|4/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1780932675
+|switch|p1a: Empoleon|Empoleon, M|63/100
+|turn|15
+|
+|t:|1780932684
+|move|p2a: Iron Valiant|Close Combat|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-damage|p1a: Empoleon|0 fnt
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|faint|p1a: Empoleon
+|-damage|p2a: Iron Valiant|0 fnt|[from] item: Life Orb
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|inactive|praveenkumart236 has 120 seconds left.
+|
+|t:|1780932705
+|switch|p2a: Raging Bolt|Raging Bolt|34/100
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|16
+|inactive|praveenkumart236 has 120 seconds left.
+|
+|t:|1780932719
+|-terastallize|p1a: Great Tusk|Ground
+|move|p1a: Great Tusk|Headlong Rush|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|inactive|praveenkumart236 has 120 seconds left.
+|
+|t:|1780932724
+|switch|p2a: Pincurchin|Pincurchin, F|28/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|turn|17
+|inactive|praveenkumart236 has 120 seconds left.
+|
+|t:|1780932734
+|move|p2a: Pincurchin|Sucker Punch|p1a: Great Tusk
+|-damage|p1a: Great Tusk|76/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Pincurchin
+|-supereffective|p2a: Pincurchin
+|-damage|p2a: Pincurchin|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Pincurchin
+|
+|upkeep
+|inactive|praveenkumart236 has 120 seconds left.
+|
+|t:|1780932753
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-activate|p2a: Iron Treads|ability: Quark Drive
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|18
+|
+|t:|1780932762
+|move|p2a: Iron Treads|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|16/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780932770
+|switch|p2a: Pawmot|Pawmot, M|100/100
+|turn|19
+|
+|t:|1780932774
+|move|p2a: Pawmot|Mach Punch|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780932784
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|20
+|
+|t:|1780932793
+|move|p2a: Pawmot|Revival Blessing|p2a: Pawmot
+|-enditem|p2a: Pawmot|Leppa Berry|[eat]
+|-activate|p2a: Pawmot|item: Leppa Berry|Revival Blessing|[consumed]
+|
+|t:|1780932809
+|-heal|p2: Iron Valiant|50/100|[from] move: Revival Blessing
+|move|p1a: Dragonite|Earthquake|p2a: Pawmot
+|-supereffective|p2a: Pawmot
+|-damage|p2a: Pawmot|0 fnt
+|faint|p2a: Pawmot
+|
+|upkeep
+|
+|t:|1780932816
+|switch|p2a: Iron Valiant|Iron Valiant|50/100
+|-activate|p2a: Iron Valiant|ability: Quark Drive
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|21
+|
+|t:|1780932830
+|move|p2a: Iron Valiant|Ice Punch|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|31/100
+|-damage|p2a: Iron Valiant|40/100|[from] item: Life Orb
+|move|p1a: Dragonite|Earthquake|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|win|alakazam darnold
+|raw|alakazam darnold's rating: 1538 &rarr; <strong>1559</strong><br />(+21 for winning)
+|raw|praveenkumart236's rating: 1548 &rarr; <strong>1527</strong><br />(-21 for losing)
+|l|‽alakazam darnold
+|player|p1|
+|l|☆praveenkumart236
+|player|p2|

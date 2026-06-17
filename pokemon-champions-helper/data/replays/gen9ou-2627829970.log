@@ -1,0 +1,233 @@
+|j|☆1200s chud
+|j|☆kadu99
+|t:|1780945860
+|gametype|singles
+|player|p1|1200s chud|preschooler|1642
+|player|p2|kadu99|policeman-gen4|1676
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Thorns|
+|poke|p1|Ribombee, M|
+|poke|p1|Gholdengo|
+|poke|p1|Quaquaval, M|
+|poke|p1|Ceruledge, M|
+|poke|p1|Ursaluna, M|
+|poke|p2|Volcanion|
+|poke|p2|Corviknight, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Rillaboom, F|
+|poke|p2|Gliscor, F|
+|poke|p2|Slowking-Galar, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 1200s chud)
+|
+|t:|1780945876
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ribombee|Ribombee, M|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1780945878
+|move|p1a: Ribombee|Sticky Web|p2a: Rillaboom
+|-sidestart|p2: kadu99|move: Sticky Web
+|move|p2a: Rillaboom|Wood Hammer|p1a: Ribombee
+|-resisted|p1a: Ribombee
+|-enditem|p1a: Ribombee|Focus Sash
+|-damage|p1a: Ribombee|1/100
+|-damage|p2a: Rillaboom|75/100|[from] Recoil
+|-damage|p2a: Rillaboom|65/100|[from] item: Life Orb
+|
+|-heal|p1a: Ribombee|7/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|71/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1780945883
+|move|p2a: Rillaboom|Grassy Glide|p1a: Ribombee
+|-resisted|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|faint|p1a: Ribombee
+|-damage|p2a: Rillaboom|61/100|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|68/100|[from] Grassy Terrain
+|upkeep
+|j| testingrainteam1
+|
+|t:|1780945892
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|-item|p1a: Ceruledge|Air Balloon
+|turn|3
+|
+|t:|1780945900
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|move|p1a: Ceruledge|Bitter Blade|p2a: Gliscor
+|-damage|p2a: Gliscor|64/100
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|4
+|
+|t:|1780945909
+|switch|p1a: Oger2|Quaquaval, M|100/100
+|move|p2a: Gliscor|Toxic|p1a: Oger2
+|-status|p1a: Oger2|tox
+|
+|-damage|p1a: Oger2|94/100 tox|[from] psn
+|-heal|p2a: Gliscor|77/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|5
+|
+|t:|1780945914
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Oger2|Swords Dance|p1a: Oger2
+|-boost|p1a: Oger2|atk|2
+|
+|-heal|p1a: Oger2|100/100 tox|[from] Grassy Terrain
+|-damage|p1a: Oger2|88/100 tox|[from] psn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1780945918
+|move|p1a: Oger2|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-unboost|p1a: Oger2|def|1
+|-unboost|p1a: Oger2|spd|1
+|-damage|p1a: Oger2|72/100 tox|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p2a: Corviknight
+|-ability|p1a: Oger2|Moxie|boost
+|-boost|p1a: Oger2|atk|1
+|-damage|p1a: Oger2|62/100 tox|[from] item: Life Orb
+|
+|-damage|p1a: Oger2|44/100 tox|[from] psn
+|upkeep
+|
+|t:|1780945925
+|switch|p2a: Rillaboom|Rillaboom, F|68/100
+|-activate|p2a: Rillaboom|move: Sticky Web
+|-unboost|p2a: Rillaboom|spe|1
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|7
+|
+|t:|1780945927
+|move|p2a: Rillaboom|Grassy Glide|p1a: Oger2
+|-supereffective|p1a: Oger2
+|-damage|p1a: Oger2|0 fnt
+|faint|p1a: Oger2
+|-damage|p2a: Rillaboom|58/100|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|64/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1780945933
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|-item|p1a: Ceruledge|Air Balloon
+|turn|8
+|
+|t:|1780945937
+|switch|p2a: Gliscor|Gliscor, F|77/100 tox
+|move|p1a: Ceruledge|Bitter Blade|p2a: Gliscor
+|-damage|p2a: Gliscor|38/100 tox
+|
+|-heal|p2a: Gliscor|51/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|9
+|
+|t:|1780945941
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Gliscor|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|54/100
+|-enditem|p1a: Gholdengo|Custap Berry|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|-heal|p1a: Gholdengo|60/100|[from] Grassy Terrain
+|-heal|p2a: Gliscor|63/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|10
+|
+|t:|1780945945
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|move|p2a: Gliscor|Stealth Rock|p1a: Gholdengo
+|-sidestart|p1: 1200s chud|move: Stealth Rock
+|
+|-heal|p1a: Gholdengo|66/100|[from] Grassy Terrain
+|-heal|p2a: Gliscor|76/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|11
+|
+|t:|1780945955
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|move|p2a: Gliscor|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|33/100
+|
+|-heal|p1a: Gholdengo|39/100|[from] Grassy Terrain
+|-heal|p2a: Gliscor|88/100 tox|[from] ability: Poison Heal
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1780945959
+|move|p1a: Gholdengo|Shadow Ball|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|upkeep
+|inactive|kadu99 has 120 seconds left.
+|
+|t:|1780945990
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|-activate|p2a: Slowking|move: Sticky Web
+|-unboost|p2a: Slowking|spe|1
+|turn|13
+|
+|t:|1780945992
+|move|p1a: Gholdengo|Make It Rain|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1780945996
+|switch|p2a: Rillaboom|Rillaboom, F|64/100
+|-activate|p2a: Rillaboom|move: Sticky Web
+|-unboost|p2a: Rillaboom|spe|1
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|14
+|
+|t:|1780946000
+|-terastallize|p2a: Rillaboom|Grass
+|move|p2a: Rillaboom|Grassy Glide|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|2/100
+|-damage|p2a: Rillaboom|54/100|[from] item: Life Orb
+|move|p1a: Gholdengo|Shadow Ball|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-heal|p1a: Gholdengo|8/100|[from] Grassy Terrain
+|upkeep
+|-message|kadu99 forfeited.
+|
+|win|1200s chud
+|raw|1200s chud's rating: 1642 &rarr; <strong>1664</strong><br />(+22 for winning)
+|raw|kadu99's rating: 1676 &rarr; <strong>1654</strong><br />(-22 for losing)
+|l|☆kadu99
+|player|p2|

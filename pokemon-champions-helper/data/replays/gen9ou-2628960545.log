@@ -1,0 +1,416 @@
+|j|☆Dragesh
+|j|‽LT_Alt1
+|t:|1781080449
+|gametype|singles
+|player|p1|Dragesh|265|1680
+|player|p2|LT_Alt1|265|1753
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Treads|
+|poke|p1|Enamorus, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Dragonite, F|
+|poke|p1|Gholdengo|
+|poke|p1|Dragapult, F|
+|poke|p2|Kyurem|
+|poke|p2|Raging Bolt|
+|poke|p2|Hatterene, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Corviknight, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Dragesh)
+|
+|t:|1781080473
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781080478
+|move|p1a: Iron Treads|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|64/100
+|move|p2a: Hatterene|Pain Split|p1a: Iron Treads
+|-sethp|p1a: Iron Treads|77/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Hatterene|92/100|[from] move: Pain Split
+|
+|-heal|p2a: Hatterene|98/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781080485
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Iron Treads|Earthquake|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|82/100
+|
+|-heal|p2a: Ting-Lu|88/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781080492
+|move|p1a: Iron Treads|Stealth Rock|p2a: Ting-Lu
+|-sidestart|p2: LT_Alt1|move: Stealth Rock
+|move|p2a: Ting-Lu|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|16/100
+|
+|-heal|p2a: Ting-Lu|95/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|j| inmee
+|
+|t:|1781080499
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Iron Treads|Ice Spinner|p2a: Corviknight
+|-damage|p2a: Corviknight|74/100
+|-damage|p1a: Iron Treads|0 fnt|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781080510
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|turn|5
+|
+|t:|1781080516
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|-damage|p2a: Slowking|88/100|[from] Stealth Rock
+|move|p1a: Enamorus|Substitute|p1a: Enamorus
+|-start|p1a: Enamorus|Substitute
+|-damage|p1a: Enamorus|76/100
+|
+|-heal|p1a: Enamorus|82/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781080522
+|move|p1a: Enamorus|Calm Mind|p1a: Enamorus
+|-boost|p1a: Enamorus|spa|1
+|-boost|p1a: Enamorus|spd|1
+|move|p2a: Slowking|Future Sight|p1a: Enamorus
+|-start|p2a: Slowking|move: Future Sight
+|
+|-heal|p1a: Enamorus|88/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781080525
+|move|p1a: Enamorus|Calm Mind|p1a: Enamorus
+|-boost|p1a: Enamorus|spa|1
+|-boost|p1a: Enamorus|spd|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-end|p1a: Enamorus|Substitute
+|
+|-heal|p1a: Enamorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781080529
+|-terastallize|p1a: Enamorus|Steel
+|move|p1a: Enamorus|Substitute|p1a: Enamorus
+|-start|p1a: Enamorus|Substitute
+|-damage|p1a: Enamorus|69/100
+|move|p2a: Slowking|Flamethrower|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-end|p1a: Enamorus|Substitute
+|
+|-end|p1a: Enamorus|move: Future Sight
+|-resisted|p1a: Enamorus
+|-damage|p1a: Enamorus|52/100
+|-heal|p1a: Enamorus|58/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781080534
+|move|p1a: Enamorus|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-enditem|p2a: Slowking|Shuca Berry|[eat]
+|-enditem|p2a: Slowking|Shuca Berry|[weaken]
+|-damage|p2a: Slowking|46/100
+|move|p2a: Slowking|Flamethrower|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-damage|p1a: Enamorus|26/100
+|
+|-heal|p1a: Enamorus|33/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781080554
+|move|p1a: Enamorus|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|-heal|p1a: Enamorus|39/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781080560
+|switch|p2a: Corviknight|Corviknight, M|74/100
+|-damage|p2a: Corviknight|62/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|turn|11
+|
+|t:|1781080564
+|move|p1a: Enamorus|Moonblast|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|18/100
+|-unboost|p2a: Corviknight|spa|1
+|move|p2a: Corviknight|Body Press|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-damage|p1a: Enamorus|0 fnt
+|faint|p1a: Enamorus
+|
+|upkeep
+|
+|t:|1781080567
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|12
+|j| kanaete onegai
+|
+|t:|1781080575
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Shadow Ball|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|66/100
+|
+|upkeep
+|turn|13
+|l| inmee
+|
+|t:|1781080597
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|move|p2a: Raging Bolt|Volt Switch|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|72/100
+|
+|t:|1781080604
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Hatterene|Hatterene, F|98/100|[from] Volt Switch
+|-damage|p2a: Hatterene|86/100|[from] Stealth Rock
+|
+|-heal|p2a: Hatterene|92/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781080607
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Hatterene|Nuzzle|p1a: Dragapult|[miss]
+|-miss|p2a: Hatterene|p1a: Dragapult
+|
+|-heal|p2a: Hatterene|98/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781080610
+|switch|p2a: Ting-Lu|Ting-Lu|95/100
+|-damage|p2a: Ting-Lu|88/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Dragapult|Phantom Force|p2a: Ting-Lu|[from] lockedmove
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|77/100
+|
+|-heal|p2a: Ting-Lu|83/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|j| yuureisuisei
+|
+|t:|1781080616
+|move|p1a: Dragapult|Dragon Darts|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|72/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|59/100
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Dragapult
+|-sidestart|p1: Dragesh|move: Stealth Rock
+|
+|-heal|p2a: Ting-Lu|66/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781080621
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Ting-Lu|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|21/100
+|
+|-heal|p2a: Ting-Lu|72/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781080634
+|move|p1a: Dragapult|Dragon Darts|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|52/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|34/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-heal|p2a: Ting-Lu|40/100|[from] item: Leftovers
+|upkeep
+|l| yuureisuisei
+|
+|t:|1781080638
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|19
+|
+|t:|1781080647
+|move|p1a: Iron Valiant|Moonblast|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781080649
+|switch|p2a: Hatterene|Hatterene, F|98/100
+|-damage|p2a: Hatterene|86/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1781080656
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Hatterene|Dazzling Gleam|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|73/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|-heal|p2a: Hatterene|92/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781080666
+|switch|p2a: Raging Bolt|Raging Bolt|66/100
+|-damage|p2a: Raging Bolt|54/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|
+|upkeep
+|turn|22
+|
+|t:|1781080672
+|move|p1a: Gholdengo|Shadow Ball|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|10/100
+|move|p2a: Raging Bolt|Volt Switch|p1a: Gholdengo
+|-damage|p1a: Gholdengo|28/100
+|
+|t:|1781080675
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Volt Switch
+|-damage|p2a: Kyurem|76/100|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|
+|upkeep
+|turn|23
+|
+|t:|1781080679
+|move|p2a: Kyurem|Freeze-Dry|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781080681
+|switch|p1a: Iron Valiant|Iron Valiant|94/100
+|-damage|p1a: Iron Valiant|88/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781080687
+|switch|p2a: Raging Bolt|Raging Bolt|10/100
+|-damage|p2a: Raging Bolt|0 fnt|[from] Stealth Rock
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|move|p1a: Iron Valiant|Moonblast|p2: Raging Bolt|[notarget]
+|-fail|p1a: Iron Valiant
+|
+|upkeep
+|
+|t:|1781080689
+|switch|p2a: Hatterene|Hatterene, F|92/100
+|-damage|p2a: Hatterene|79/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1781080698
+|move|p1a: Iron Valiant|Moonblast|p2a: Hatterene
+|-damage|p2a: Hatterene|34/100
+|-unboost|p2a: Hatterene|spa|1
+|move|p2a: Hatterene|Nuzzle|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|84/100
+|-status|p1a: Iron Valiant|par
+|
+|-heal|p2a: Hatterene|40/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781080701
+|switch|p2a: Corviknight|Corviknight, M|18/100
+|-damage|p2a: Corviknight|5/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Iron Valiant|Moonblast|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781080703
+|switch|p2a: Kyurem|Kyurem|76/100
+|-damage|p2a: Kyurem|51/100|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|turn|27
+|
+|t:|1781080706
+|-terastallize|p2a: Kyurem|Ice
+|move|p2a: Kyurem|Freeze-Dry|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781080708
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|28
+|
+|t:|1781080711
+|move|p1a: Dragonite|Extreme Speed|p2a: Kyurem
+|-damage|p2a: Kyurem|25/100
+|move|p2a: Kyurem|Freeze-Dry|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|win|LT_Alt1
+|raw|Dragesh's rating: 1680 &rarr; <strong>1664</strong><br />(-16 for losing)
+|raw|LT_Alt1's rating: 1753 &rarr; <strong>1769</strong><br />(+16 for winning)
+|l|☆Dragesh
+|player|p1|

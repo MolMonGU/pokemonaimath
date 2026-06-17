@@ -1,0 +1,571 @@
+|j|☆sawquarete
+|j|☆KurisuChestnutLab
+|t:|1781148938
+|gametype|singles
+|player|p1|sawquarete|li|1530
+|player|p2|KurisuChestnutLab|may-contest|1539
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Great Tusk|
+|poke|p1|Kingambit, F|
+|poke|p1|Gholdengo|
+|poke|p1|Ting-Lu|
+|poke|p1|Alomomola, F|
+|poke|p1|Zamazenta-*|
+|poke|p2|Primarina, F|
+|poke|p2|Hippowdon, M|
+|poke|p2|Skarmory, F|
+|poke|p2|Zapdos|
+|poke|p2|Dragonite, F|
+|poke|p2|Slowking, F|
+|teampreview
+|
+|t:|1781148944
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|switch|p2a: Primarina|Primarina, F|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutLab)
+|
+|t:|1781148948
+|move|p2a: Primarina|Moonblast|p1a: Alomomola
+|-crit|p1a: Alomomola
+|-damage|p1a: Alomomola|60/100
+|move|p1a: Alomomola|Mirror Coat|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|upkeep
+|
+|t:|1781148954
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|2
+|
+|t:|1781148958
+|move|p2a: Hippowdon|Stealth Rock|p1a: Alomomola
+|-sidestart|p1: sawquarete|move: Stealth Rock
+|move|p1a: Alomomola|Scald|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|69/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Alomomola|54/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|75/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781148965
+|move|p1a: Alomomola|Flip Turn|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|56/100
+|
+|t:|1781148967
+|switch|p1a: Gholdengo|Gholdengo|100/100|[from] Flip Turn
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Hippowdon|Whirlwind|p1a: Gholdengo
+|-immune|p1a: Gholdengo|[from] ability: Good as Gold
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|62/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781148971
+|move|p1a: Gholdengo|Thunder Wave|p2a: Hippowdon
+|-immune|p2a: Hippowdon
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781148976
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Gholdengo|Thunder Wave|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|94/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1781148984
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-damage|p1a: Ting-Lu|94/100|[from] Stealth Rock
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu
+|-crit|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|65/100
+|-start|p1a: Ting-Lu|confusion
+|
+|-weather|none
+|-heal|p1a: Ting-Lu|71/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781148992
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu|[miss]
+|-miss|p2a: Zapdos|p1a: Ting-Lu
+|-activate|p1a: Ting-Lu|confusion
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: KurisuChestnutLab|move: Stealth Rock
+|
+|-heal|p1a: Ting-Lu|77/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781148999
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|59/100
+|-activate|p1a: Ting-Lu|confusion
+|move|p1a: Ting-Lu|Ruination|p2a: Zapdos
+|-damage|p2a: Zapdos|47/100
+|
+|-heal|p1a: Ting-Lu|65/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781149004
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|98/100
+|-singleturn|p2a: Zapdos|move: Roost
+|-activate|p1a: Ting-Lu|confusion
+|move|p1a: Ting-Lu|Earthquake|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|42/100
+|
+|-heal|p1a: Ting-Lu|72/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781149011
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|92/100
+|-singleturn|p2a: Zapdos|move: Roost
+|-activate|p1a: Ting-Lu|confusion
+|-damage|p1a: Ting-Lu|66/100|[from] confusion
+|
+|-heal|p1a: Ting-Lu|72/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781149015
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu|[miss]
+|-miss|p2a: Zapdos|p1a: Ting-Lu
+|-end|p1a: Ting-Lu|confusion
+|move|p1a: Ting-Lu|Ruination|p2a: Zapdos
+|-damage|p2a: Zapdos|46/100
+|
+|-heal|p1a: Ting-Lu|79/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781149020
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|59/100
+|-start|p1a: Ting-Lu|confusion
+|-activate|p1a: Ting-Lu|confusion
+|move|p1a: Ting-Lu|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|-heal|p1a: Ting-Lu|65/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781149024
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|97/100
+|-singleturn|p2a: Zapdos|move: Roost
+|-activate|p1a: Ting-Lu|confusion
+|-damage|p1a: Ting-Lu|60/100|[from] confusion
+|
+|-heal|p1a: Ting-Lu|66/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781149027
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|48/100
+|-end|p1a: Ting-Lu|confusion
+|move|p1a: Ting-Lu|Ruination|p2a: Zapdos
+|-damage|p2a: Zapdos|49/100
+|
+|-heal|p1a: Ting-Lu|54/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781149033
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|36/100
+|move|p1a: Ting-Lu|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|-heal|p1a: Ting-Lu|42/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781149038
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|22/100
+|move|p1a: Ting-Lu|Ruination|p2a: Zapdos
+|-damage|p2a: Zapdos|25/100
+|
+|-heal|p1a: Ting-Lu|28/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781149046
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu|[miss]
+|-miss|p2a: Zapdos|p1a: Ting-Lu
+|move|p1a: Ting-Lu|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|-heal|p1a: Ting-Lu|34/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781149049
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|14/100
+|move|p1a: Ting-Lu|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|-heal|p1a: Ting-Lu|21/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781149052
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu|[miss]
+|-miss|p2a: Zapdos|p1a: Ting-Lu
+|move|p1a: Ting-Lu|Ruination|p2a: Zapdos|[miss]
+|-miss|p1a: Ting-Lu|p2a: Zapdos
+|
+|-heal|p1a: Ting-Lu|27/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781149055
+|move|p2a: Zapdos|Hurricane|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|8/100
+|-start|p1a: Ting-Lu|confusion
+|-activate|p1a: Ting-Lu|confusion
+|move|p1a: Ting-Lu|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|-heal|p1a: Ting-Lu|14/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781149058
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|75/100
+|-singleturn|p2a: Zapdos|move: Roost
+|-activate|p1a: Ting-Lu|confusion
+|move|p1a: Ting-Lu|Earthquake|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-crit|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-heal|p1a: Ting-Lu|20/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781149061
+|switch|p2a: Slowking|Slowking, F|100/100
+|turn|22
+|
+|t:|1781149067
+|-activate|p1a: Ting-Lu|confusion
+|-damage|p1a: Ting-Lu|15/100|[from] confusion
+|move|p2a: Slowking|Scald|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781149072
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|turn|23
+|
+|t:|1781149078
+|-terastallize|p2a: Slowking|Fairy
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|move|p2a: Slowking|Scald|p1a: Kingambit
+|-damage|p1a: Kingambit|62/100
+|-status|p1a: Kingambit|brn
+|
+|-damage|p1a: Kingambit|56/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1781149084
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|move|p2a: Slowking|Scald|p1a: Kingambit
+|-damage|p1a: Kingambit|23/100 brn
+|
+|-damage|p1a: Kingambit|17/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1781149089
+|switch|p2a: Skarmory|Skarmory, F|100/100
+|-damage|p2a: Skarmory|88/100|[from] Stealth Rock
+|move|p1a: Kingambit|Iron Head|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|65/100
+|
+|-heal|p2a: Skarmory|71/100|[from] item: Leftovers
+|-damage|p1a: Kingambit|10/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1781149093
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Hippowdon
+|-damage|p2a: Hippowdon|45/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|52/100|[from] item: Leftovers
+|-damage|p1a: Kingambit|4/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1781149100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Kingambit|0 fnt|[from] brn
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen1|[silent]
+|upkeep
+|
+|t:|1781149105
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|switch|p2a: Slowking|Slowking, F, tera:Fairy|100/100
+|turn|28
+|
+|t:|1781149110
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Alomomola|Alomomola, F|88/100
+|-damage|p1a: Alomomola|75/100|[from] Stealth Rock
+|move|p2a: Slowking|Scald|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|68/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Alomomola|62/100|[from] Sandstorm
+|-damage|p2a: Slowking|94/100|[from] Sandstorm
+|upkeep
+|turn|29
+|
+|t:|1781149116
+|move|p1a: Alomomola|Scald|p2a: Slowking
+|-damage|p2a: Slowking|87/100
+|move|p2a: Slowking|Scald|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|55/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Alomomola|49/100|[from] Sandstorm
+|-damage|p2a: Slowking|81/100|[from] Sandstorm
+|upkeep
+|turn|30
+|
+|t:|1781149121
+|move|p1a: Alomomola|Scald|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|69/100
+|move|p2a: Slowking|Scald|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|42/100
+|
+|-weather|none
+|upkeep
+|turn|31
+|
+|t:|1781149128
+|move|p1a: Alomomola|Scald|p2a: Slowking
+|-damage|p2a: Slowking|60/100
+|-status|p2a: Slowking|brn
+|move|p2a: Slowking|Scald|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|34/100
+|
+|-damage|p2a: Slowking|54/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1781149137
+|move|p2a: Slowking|Slack Off|p2a: Slowking
+|-heal|p2a: Slowking|100/100 brn
+|move|p1a: Alomomola|Mirror Coat||[still]
+|-fail|p1a: Alomomola
+|
+|-damage|p2a: Slowking|94/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1781149140
+|move|p1a: Alomomola|Flip Turn|p2a: Slowking
+|-damage|p2a: Slowking|78/100 brn
+|
+|t:|1781149143
+|switch|p1a: Gholdengo|Gholdengo|94/100|[from] Flip Turn
+|-damage|p1a: Gholdengo|88/100|[from] Stealth Rock
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Slowking|Scald|p1a: Gholdengo
+|-damage|p1a: Gholdengo|61/100
+|-status|p1a: Gholdengo|brn
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|-damage|p1a: Gholdengo|55/100 brn|[from] brn
+|-damage|p2a: Slowking|72/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1781149146
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|100/100 brn
+|move|p2a: Slowking|Future Sight|p1a: Gholdengo
+|-start|p2a: Slowking|move: Future Sight
+|
+|-damage|p1a: Gholdengo|94/100 brn|[from] brn
+|-damage|p2a: Slowking|65/100 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1781149150
+|move|p1a: Gholdengo|Make It Rain|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Slowking
+|
+|-damage|p1a: Gholdengo|88/100 brn|[from] brn
+|upkeep
+|
+|t:|1781149153
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|36
+|
+|t:|1781149157
+|-terastallize|p1a: Gholdengo|Fairy
+|move|p2a: Dragonite|Earthquake|p1a: Gholdengo
+|-damage|p1a: Gholdengo|61/100 brn
+|move|p1a: Gholdengo|Thunder Wave|p2a: Dragonite
+|-status|p2a: Dragonite|par
+|
+|-end|p1a: Gholdengo|move: Future Sight
+|-damage|p1a: Gholdengo|19/100 brn
+|-damage|p1a: Gholdengo|13/100 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1781149163
+|switch|p2a: Skarmory|Skarmory, F|71/100
+|-damage|p2a: Skarmory|59/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|63/100 brn
+|
+|-heal|p2a: Skarmory|65/100|[from] item: Leftovers
+|-damage|p1a: Gholdengo|57/100 brn|[from] brn
+|upkeep
+|turn|38
+|
+|t:|1781149167
+|move|p1a: Gholdengo|Thunder Wave|p2a: Skarmory
+|-status|p2a: Skarmory|par
+|cant|p2a: Skarmory|par
+|
+|-heal|p2a: Skarmory|71/100 par|[from] item: Leftovers
+|-damage|p1a: Gholdengo|50/100 brn|[from] brn
+|upkeep
+|turn|39
+|
+|t:|1781149169
+|switch|p2a: Dragonite|Dragonite, F|100/100 par
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|100/100 brn
+|
+|-damage|p1a: Gholdengo|94/100 brn|[from] brn
+|upkeep
+|turn|40
+|
+|t:|1781149175
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|41
+|
+|t:|1781149180
+|move|p1a: Great Tusk|Ice Spinner|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|40/100 par
+|move|p2a: Dragonite|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|61/100
+|
+|upkeep
+|turn|42
+|
+|t:|1781149186
+|switch|p2a: Skarmory|Skarmory, F|71/100 par
+|-damage|p2a: Skarmory|58/100 par|[from] Stealth Rock
+|move|p1a: Great Tusk|Ice Spinner|p2a: Skarmory
+|-damage|p2a: Skarmory|43/100 par
+|
+|-heal|p2a: Skarmory|49/100 par|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1781149190
+|move|p1a: Great Tusk|Head Smash|p2a: Skarmory
+|-crit|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|-damage|p1a: Great Tusk|39/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1781149195
+|switch|p2a: Dragonite|Dragonite, F|40/100 par
+|turn|44
+|
+|t:|1781149202
+|move|p2a: Dragonite|Extreme Speed|p1a: Great Tusk
+|-damage|p1a: Great Tusk|16/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|win|sawquarete
+|raw|sawquarete's rating: 1530 &rarr; <strong>1552</strong><br />(+22 for winning)
+|raw|KurisuChestnutLab's rating: 1562 &rarr; <strong>1540</strong><br />(-22 for losing)

@@ -1,0 +1,574 @@
+|j|☆llachiee
+|j|☆abGodc
+|t:|1781061542
+|gametype|singles
+|player|p1|llachiee|265|1636
+|player|p2|abGodc|iris-gen5bw2|1694
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Gliscor, F|
+|poke|p1|Blissey, F|
+|poke|p1|Clefable, F|
+|poke|p1|Toxapex, F|
+|poke|p1|Dondozo, F|
+|poke|p1|Corviknight, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by abGodc)
+|
+|t:|1781061546
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Adder|Gliscor, F|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|1
+|
+|t:|1781061554
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Adder|Protect||[still]
+|-fail|p1a: Adder
+|
+|-status|p1a: Adder|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781061560
+|switch|p1a: Sturm|Corviknight, F, shiny|100/100
+|-ability|p1a: Sturm|Pressure
+|move|p2a: Slowking|Ice Beam|p1a: Sturm
+|-damage|p1a: Sturm|81/100
+|
+|-heal|p1a: Sturm|87/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781061562
+|move|p1a: Sturm|Substitute|p1a: Sturm
+|-start|p1a: Sturm|Substitute
+|-damage|p1a: Sturm|62/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781061564
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Sturm|68/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781061568
+|switch|p1a: Lash|Toxapex, F, shiny|100/100
+|move|p2a: Ogerpon|Encore||[still]
+|-fail|p2a: Ogerpon
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781061570
+|move|p2a: Ogerpon|Knock Off|p1a: Lash
+|-damage|p1a: Lash|72/100
+|-enditem|p1a: Lash|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ogerpon
+|move|p1a: Lash|Toxic|p2a: Ogerpon
+|-status|p2a: Ogerpon|tox
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Ogerpon|95/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1781061575
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Lash|Infestation|p2a: Slowking
+|-damage|p2a: Slowking|98/100
+|-activate|p2a: Slowking|move: Infestation|[of] p1a: Lash
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Slowking|85/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|7
+|
+|t:|1781061578
+|switch|p1a: Adder|Gliscor, F|100/100 tox
+|move|p2a: Slowking|Psychic Noise|p1a: Adder
+|-damage|p1a: Adder|66/100 tox
+|-start|p1a: Adder|move: Heal Block
+|
+|-weather|none
+|-end|p2a: Slowking|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|turn|8
+|
+|t:|1781061586
+|switch|p1a: Sturm|Corviknight, F, shiny|68/100
+|-ability|p1a: Sturm|Pressure
+|move|p2a: Slowking|Psychic Noise|p1a: Sturm
+|-resisted|p1a: Sturm
+|-damage|p1a: Sturm|57/100
+|-start|p1a: Sturm|move: Heal Block
+|
+|upkeep
+|turn|9
+|
+|t:|1781061592
+|move|p1a: Sturm|Spite|p2a: Slowking
+|-activate|p2a: Slowking|move: Spite|Psychic Noise|4
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781061596
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Sturm|move: Heal Block
+|upkeep
+|turn|10
+|
+|t:|1781061602
+|switch|p1a: Flesh Tutu|Blissey, F|100/100
+|move|p2a: Raging Bolt|Volt Switch|p1a: Flesh Tutu
+|-damage|p1a: Flesh Tutu|83/100
+|
+|t:|1781061606
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Cinderace|Cinderace, M|100/100|[from] Volt Switch
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781061609
+|switch|p1a: Lash|Toxapex, F, shiny|100/100
+|move|p2a: Cinderace|U-turn|p1a: Lash
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Lash
+|-damage|p1a: Lash|88/100
+|
+|t:|1781061613
+|switch|p2a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781061623
+|switch|p1a: Nell|Clefable, F|100/100
+|move|p2a: Slowking|Psychic Noise|p1a: Nell
+|-damage|p1a: Nell|72/100
+|-start|p1a: Nell|move: Heal Block
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781061628
+|switch|p1a: Sturm|Corviknight, F, shiny|57/100
+|-ability|p1a: Sturm|Pressure
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1781061631
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] Chilly Reception
+|
+|-weather|none
+|-heal|p1a: Sturm|63/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781061635
+|move|p1a: Sturm|Protect|p1a: Sturm
+|-singleturn|p1a: Sturm|Protect
+|move|p2a: Raging Bolt|Volt Switch|p1a: Sturm
+|-activate|p1a: Sturm|move: Protect
+|
+|-heal|p1a: Sturm|69/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781061639
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|switch|p1a: Flesh Tutu|Blissey, F|83/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781061644
+|move|p1a: Flesh Tutu|Seismic Toss|p2a: Slowking
+|-damage|p2a: Slowking|75/100
+|move|p2a: Slowking|Psychic Noise|p1a: Flesh Tutu
+|-damage|p1a: Flesh Tutu|74/100
+|-start|p1a: Flesh Tutu|move: Heal Block
+|
+|upkeep
+|turn|17
+|
+|t:|1781061647
+|move|p1a: Flesh Tutu|Seismic Toss|p2a: Slowking
+|-damage|p2a: Slowking|50/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781061649
+|switch|p2a: Cinderace|Cinderace, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Flesh Tutu|move: Heal Block
+|upkeep
+|turn|18
+|
+|t:|1781061651
+|switch|p1a: Lash|Toxapex, F, shiny|100/100
+|move|p2a: Cinderace|U-turn|p1a: Lash
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Lash
+|-damage|p1a: Lash|88/100
+|
+|t:|1781061654
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781061664
+|switch|p1a: Flesh Tutu|Blissey, F|74/100
+|move|p2a: Raging Bolt|Volt Switch|p1a: Flesh Tutu
+|-damage|p1a: Flesh Tutu|56/100
+|
+|t:|1781061666
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Cinderace|Cinderace, M|100/100|[from] Volt Switch
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781061669
+|switch|p1a: Lash|Toxapex, F, shiny|100/100
+|move|p2a: Cinderace|Pyro Ball|p1a: Lash
+|-resisted|p1a: Lash
+|-damage|p1a: Lash|78/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781061673
+|switch|p2a: Slowking|Slowking-Galar, M|83/100
+|move|p1a: Lash|Infestation|p2a: Slowking
+|-damage|p2a: Slowking|80/100
+|-activate|p2a: Slowking|move: Infestation|[of] p1a: Lash
+|
+|-weather|none
+|-damage|p2a: Slowking|68/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|22
+|
+|t:|1781061678
+|move|p1a: Lash|Infestation|p2a: Slowking
+|-damage|p2a: Slowking|65/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781061680
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1781061684
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Lash
+|-damage|p1a: Lash|11/100
+|-unboost|p2a: Raging Bolt|spa|2
+|move|p1a: Lash|Toxic|p2a: Raging Bolt
+|-status|p2a: Raging Bolt|tox
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Raging Bolt|94/100 tox|[from] psn
+|upkeep
+|turn|24
+|j| nepturee
+|
+|t:|1781061691
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|switch|p1a: Flesh Tutu|Blissey, F|56/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1781061696
+|switch|p1a: Adder|Gliscor, F|66/100 tox
+|move|p2a: Cinderace|U-turn|p1a: Adder
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Adder
+|-damage|p1a: Adder|55/100 tox
+|
+|t:|1781061698
+|switch|p2a: Slowking|Slowking-Galar, M|99/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Adder|68/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|26
+|
+|t:|1781061702
+|move|p1a: Adder|Protect|p1a: Adder
+|-singleturn|p1a: Adder|Protect
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1781061705
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|95/100 tox|[from] Chilly Reception
+|
+|-weather|none
+|-damage|p2a: Ogerpon|89/100 tox|[from] psn
+|-heal|p1a: Adder|80/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|27
+|
+|t:|1781061710
+|switch|p1a: Lash|Toxapex, F, shiny|44/100
+|-terastallize|p2a: Ogerpon|Water
+|detailschange|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Lash|[anim] Ivy Cudgel Water
+|-resisted|p1a: Lash
+|-damage|p1a: Lash|15/100
+|
+|-damage|p2a: Ogerpon|77/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1781061717
+|switch|p1a: Jugger|Dondozo, F, shiny|100/100
+|move|p2a: Ogerpon|Knock Off|p1a: Jugger
+|-damage|p1a: Jugger|83/100
+|-enditem|p1a: Jugger|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ogerpon
+|
+|-damage|p2a: Ogerpon|59/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1781061723
+|move|p2a: Ogerpon|U-turn|p1a: Jugger
+|-damage|p1a: Jugger|71/100
+|
+|t:|1781061725
+|switch|p2a: Raging Bolt|Raging Bolt|94/100 tox|[from] U-turn
+|move|p1a: Jugger|Body Press|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|68/100 tox
+|
+|-damage|p2a: Raging Bolt|62/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1781061732
+|switch|p1a: Flesh Tutu|Blissey, F|56/100
+|move|p2a: Raging Bolt|Volt Switch|p1a: Flesh Tutu
+|-damage|p1a: Flesh Tutu|38/100
+|
+|t:|1781061734
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Cinderace|Cinderace, M|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|31
+|
+|t:|1781061737
+|switch|p1a: Lash|Toxapex, F, shiny|48/100
+|move|p2a: Cinderace|U-turn|p1a: Lash
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Lash
+|-damage|p1a: Lash|36/100
+|
+|t:|1781061740
+|switch|p2a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|32
+|
+|t:|1781061749
+|switch|p1a: Nell|Clefable, F|72/100
+|move|p2a: Slowking|Psychic Noise|p1a: Nell
+|-damage|p1a: Nell|46/100
+|-start|p1a: Nell|move: Heal Block
+|
+|upkeep
+|turn|33
+|
+|t:|1781061751
+|move|p1a: Nell|Stealth Rock|p2a: Slowking
+|-sidestart|p2: abGodc|move: Stealth Rock
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781061754
+|switch|p2a: Cinderace|Cinderace, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Nell|move: Heal Block
+|upkeep
+|turn|34
+|
+|t:|1781061760
+|switch|p1a: Adder|Gliscor, F|80/100 tox
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-start|p2a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Adder|93/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|35
+|
+|t:|1781061767
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Adder|Spikes|p2a: Slowking
+|-sidestart|p2: abGodc|Spikes
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Adder|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|36
+|
+|t:|1781061781
+|switch|p1a: Sturm|Corviknight, F, shiny|69/100
+|-damage|p1a: Sturm|57/100|[from] Stealth Rock
+|-ability|p1a: Sturm|Pressure
+|move|p2a: Slowking|Psychic Noise|p1a: Sturm
+|-resisted|p1a: Sturm
+|-damage|p1a: Sturm|46/100
+|-start|p1a: Sturm|move: Heal Block
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|37
+|
+|t:|1781061790
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|move|p1a: Sturm|Spite||[still]
+|-fail|p1a: Sturm
+|
+|-weather|none
+|-end|p1a: Sturm|move: Heal Block
+|upkeep
+|turn|38
+|
+|t:|1781061795
+|switch|p1a: Adder|Gliscor, F|100/100 tox
+|-damage|p1a: Adder|88/100 tox|[from] Stealth Rock
+|move|p2a: Cinderace|U-turn|p1a: Adder
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Adder
+|-damage|p1a: Adder|78/100 tox
+|
+|t:|1781061797
+|switch|p2a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|
+|-heal|p1a: Adder|90/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|39
+|
+|t:|1781061805
+|-terastallize|p1a: Adder|Ghost
+|move|p1a: Adder|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|70/100
+|-enditem|p2a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Adder
+|move|p2a: Slowking|Psychic Noise|p1a: Adder
+|-damage|p1a: Adder|57/100 tox
+|-start|p1a: Adder|move: Heal Block
+|
+|upkeep
+|turn|40
+|
+|t:|1781061812
+|move|p1a: Adder|Spikes|p2a: Slowking
+|-sidestart|p2: abGodc|Spikes
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781061814
+|switch|p2a: Corviknight|Corviknight, M|100/100|[from] Chilly Reception
+|-ability|p2a: Corviknight|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Adder|move: Heal Block
+|upkeep
+|turn|41
+|
+|t:|1781061817
+|move|p1a: Adder|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|87/100
+|-damage|p1a: Adder|40/100 tox|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-enditem|p2a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p1a: Adder
+|move|p2a: Corviknight|Defog|p1a: Adder
+|-unboost|p1a: Adder|evasion|1
+|-sideend|p1: llachiee|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|-sideend|p2: abGodc|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Adder|53/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|42
+|
+|t:|1781061825
+|switch|p1a: Nell|Clefable, F|46/100
+|move|p2a: Corviknight|U-turn|p1a: Nell
+|-resisted|p1a: Nell
+|-damage|p1a: Nell|41/100
+|
+|t:|1781061831
+|switch|p2a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|43
+|
+|t:|1781061836
+|move|p1a: Nell|Moonlight|p1a: Nell
+|-heal|p1a: Nell|66/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Nell
+|-supereffective|p1a: Nell
+|-damage|p1a: Nell|0 fnt
+|faint|p1a: Nell
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|-message|llachiee forfeited.
+|
+|win|abGodc
+|raw|llachiee's rating: 1636 &rarr; <strong>1619</strong><br />(-17 for losing)
+|raw|abGodc's rating: 1694 &rarr; <strong>1711</strong><br />(+17 for winning)
+|l|☆llachiee
+|player|p1|

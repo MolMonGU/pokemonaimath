@@ -1,0 +1,279 @@
+|j|☆Negative1stClass
+|j|☆sylvr7070
+|t:|1781328368
+|gametype|singles
+|player|p1|Negative1stClass|hilbert|1564
+|player|p2|sylvr7070|fairytalegirl|1530
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Iron Treads|
+|poke|p1|Azelf|
+|poke|p2|Torkoal, F|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Walking Wake|
+|poke|p2|Raging Bolt|
+|poke|p2|Kingambit, M|
+|poke|p2|Great Tusk|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by sylvr7070)
+|
+|t:|1781328380
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|switch|p2a: sweeppig|Walking Wake|100/100
+|turn|1
+|
+|t:|1781328385
+|move|p1a: Barraskewda|Close Combat|p2a: sweeppig
+|-damage|p2a: sweeppig|35/100
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|move|p2a: sweeppig|Draco Meteor|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|-unboost|p2a: sweeppig|spa|2
+|faint|p1a: Barraskewda
+|
+|upkeep
+|
+|t:|1781328398
+|switch|p1a: Azelf|Azelf|100/100
+|turn|2
+|
+|t:|1781328408
+|-end|p2a: sweeppig|Protosynthesis|[silent]
+|switch|p2a: spinpig 3|Weezing-Galar, F|100/100
+|move|p1a: Azelf|Thunder|p2a: spinpig 3|[miss]
+|-miss|p1a: Azelf|p2a: spinpig 3
+|
+|upkeep
+|turn|3
+|
+|t:|1781328414
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: spinpig 3|Will-O-Wisp|p1a: Pelipper
+|-status|p1a: Pelipper|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Pelipper|94/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1781328424
+|switch|p1a: Overqwil|Overqwil, M|100/100
+|move|p2a: spinpig 3|Strange Steam|p1a: Overqwil
+|-damage|p1a: Overqwil|61/100
+|-start|p1a: Overqwil|confusion
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781328428
+|-activate|p1a: Overqwil|confusion
+|move|p1a: Overqwil|Gunk Shot|p2a: spinpig 3
+|-damage|p2a: spinpig 3|49/100
+|-enditem|p2a: spinpig 3|Eject Button
+|-damage|p1a: Overqwil|51/100|[from] item: Life Orb
+|
+|t:|1781328435
+|switch|p2a: sunpig|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: sunpig
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781328439
+|switch|p1a: Pelipper|Pelipper, M|94/100 brn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: sunpig|Stealth Rock|p1a: Pelipper
+|-sidestart|p1: Negative1stClass|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Pelipper|88/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1781328445
+|switch|p2a: killpig|Raging Bolt|100/100
+|move|p1a: Pelipper|Hurricane|p2a: killpig
+|-resisted|p2a: killpig
+|-damage|p2a: killpig|84/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Pelipper|82/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1781328450
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-damage|p1a: Iron Treads|97/100|[from] Stealth Rock
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|move|p2a: killpig|Dragon Pulse|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|49/100
+|-damage|p2a: killpig|74/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781328455
+|-end|p2a: killpig|Protosynthesis|[silent]
+|switch|p2a: spinpig 3|Weezing-Galar, F|49/100
+|move|p1a: Iron Treads|Rapid Spin|p2a: spinpig 3
+|-damage|p2a: spinpig 3|41/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: Negative1stClass|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781328465
+|move|p1a: Iron Treads|Stealth Rock|p2a: spinpig 3
+|-sidestart|p2: sylvr7070|move: Stealth Rock
+|move|p2a: spinpig 3|Will-O-Wisp|p1a: Iron Treads|[miss]
+|-miss|p2a: spinpig 3|p1a: Iron Treads
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781328469
+|move|p1a: Iron Treads|Steel Beam|p2a: spinpig 3|[miss]
+|-miss|p1a: Iron Treads|p2a: spinpig 3
+|-damage|p1a: Iron Treads|0 fnt|[from] steelbeam
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|move|p2a: spinpig 3|Will-O-Wisp|p1: Iron Treads|[notarget]
+|-fail|p2a: spinpig 3
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781328473
+|switch|p1a: Overqwil|Overqwil, M|51/100
+|turn|12
+|
+|t:|1781328477
+|move|p1a: Overqwil|Liquidation|p2a: spinpig 3
+|-damage|p2a: spinpig 3|5/100
+|-unboost|p2a: spinpig 3|def|1
+|-damage|p1a: Overqwil|41/100|[from] item: Life Orb
+|move|p2a: spinpig 3|Will-O-Wisp|p1a: Overqwil
+|-status|p1a: Overqwil|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Overqwil|35/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1781328481
+|move|p1a: Overqwil|Liquidation|p2a: spinpig 3
+|-damage|p2a: spinpig 3|0 fnt
+|faint|p2a: spinpig 3
+|-damage|p1a: Overqwil|26/100 brn|[from] item: Life Orb
+|
+|-weather|none
+|-damage|p1a: Overqwil|20/100 brn|[from] brn
+|upkeep
+|
+|t:|1781328488
+|switch|p2a: spinpig 2|Great Tusk|100/100
+|-damage|p2a: spinpig 2|98/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1781328492
+|switch|p1a: Pelipper|Pelipper, M|82/100 brn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: spinpig 2|Rapid Spin|p1a: Pelipper
+|-damage|p1a: Pelipper|68/100 brn
+|-boost|p2a: spinpig 2|spe|1
+|-sideend|p2: sylvr7070|Stealth Rock|[from] move: Rapid Spin|[of] p2a: spinpig 2
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Pelipper|62/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781328501
+|-end|p2a: spinpig 2|Protosynthesis|[silent]
+|switch|p2a: sunpig|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: sunpig
+|move|p1a: Pelipper|U-turn|p2a: sunpig
+|-resisted|p2a: sunpig
+|-damage|p2a: sunpig|99/100
+|
+|t:|1781328507
+|switch|p1a: Azelf|Azelf|100/100|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781328511
+|switch|p1a: Pelipper|Pelipper, M|62/100 brn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: sunpig|Burning Jealousy|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|55/100 brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Pelipper|48/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781328514
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|switch|p2a: killpig|Raging Bolt|74/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781328525
+|move|p2a: killpig|Dragon Pulse|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|-damage|p2a: killpig|64/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|Negative1stClass forfeited.
+|
+|win|sylvr7070
+|raw|Negative1stClass's rating: 1564 &rarr; <strong>1542</strong><br />(-22 for losing)
+|raw|sylvr7070's rating: 1530 &rarr; <strong>1552</strong><br />(+22 for winning)
+|l|☆Negative1stClass
+|player|p1|
+|l|☆sylvr7070
+|player|p2|
+|j|☆sylvr7070
+|player|p2|sylvr7070|fairytalegirl|
+|l|☆sylvr7070
+|player|p2|

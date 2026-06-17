@@ -1,0 +1,275 @@
+|j|☆Paperm47
+|j|☆Test g17
+|t:|1781067526
+|gametype|singles
+|player|p1|Paperm47|ash-sinnoh|1500
+|player|p2|Test g17|hilbert|1543
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Regieleki|
+|poke|p1|Conkeldurr, M|
+|poke|p1|Corviknight, M|
+|poke|p1|Volcanion|
+|poke|p1|Meowscarada, F|
+|poke|p1|Iron Treads|
+|poke|p2|Feraligatr, M|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Iron Treads|
+|poke|p2|Iron Moth|
+|poke|p2|Keldeo-Resolute|
+|poke|p2|Kyurem|
+|teampreview
+|
+|t:|1781067535
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Regieleki|Regieleki|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|turn|1
+|
+|t:|1781067544
+|switch|p1a: Conkeldurr|Conkeldurr, M|100/100
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|2
+|
+|t:|1781067555
+|move|p2a: Iron Moth|Fiery Dance|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|56/100 brn
+|move|p1a: Conkeldurr|Facade|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-damage|p1a: Conkeldurr|50/100 brn|[from] brn
+|upkeep
+|
+|t:|1781067567
+|switch|p2a: Keldeo|Keldeo-Resolute|100/100
+|turn|3
+|
+|t:|1781067573
+|switch|p1a: Volcanion|Volcanion|100/100
+|move|p2a: Keldeo|Secret Sword|p1a: Volcanion
+|-damage|p1a: Volcanion|45/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781067580
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|move|p2a: Keldeo|Secret Sword|p1a: Corviknight
+|-damage|p1a: Corviknight|44/100
+|
+|-heal|p1a: Corviknight|50/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781067587
+|move|p2a: Keldeo|Secret Sword|p1a: Corviknight
+|-crit|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|upkeep
+|
+|t:|1781067591
+|switch|p1a: Meowscarada|Meowscarada, F|100/100
+|turn|6
+|
+|t:|1781067606
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Meowscarada|Flower Trick|p2a: Kyurem
+|-start|p1a: Meowscarada|typechange|Grass|[from] ability: Protean
+|-resisted|p2a: Kyurem
+|-crit|p2a: Kyurem
+|-damage|p2a: Kyurem|60/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781067622
+|switch|p1a: Volcanion|Volcanion|45/100
+|move|p2a: Kyurem|Dragon Dance|p2a: Kyurem
+|-boost|p2a: Kyurem|atk|1
+|-boost|p2a: Kyurem|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781067627
+|move|p2a: Kyurem|Freeze-Dry|p1a: Volcanion
+|-damage|p1a: Volcanion|6/100
+|move|p1a: Volcanion|Flamethrower|p2a: Kyurem
+|-crit|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781067636
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|turn|9
+|
+|t:|1781067643
+|move|p2a: Iron Treads|Rapid Spin|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|-boost|p2a: Iron Treads|spe|1
+|faint|p1a: Volcanion
+|
+|upkeep
+|
+|t:|1781067645
+|switch|p1a: Conkeldurr|Conkeldurr, M|50/100 brn
+|turn|10
+|
+|t:|1781067665
+|move|p2a: Iron Treads|Earth Power|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|16/100 brn
+|move|p1a: Conkeldurr|Close Combat|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-unboost|p1a: Conkeldurr|def|1
+|-unboost|p1a: Conkeldurr|spd|1
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-damage|p1a: Conkeldurr|10/100 brn|[from] brn
+|upkeep
+|
+|t:|1781067671
+|switch|p2a: Keldeo|Keldeo-Resolute|100/100
+|turn|11
+|
+|t:|1781067676
+|move|p1a: Conkeldurr|Mach Punch|p2a: Keldeo
+|-damage|p2a: Keldeo|55/100
+|move|p2a: Keldeo|Secret Sword|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|
+|upkeep
+|
+|t:|1781067679
+|switch|p1a: Regieleki|Regieleki|100/100
+|turn|12
+|
+|t:|1781067691
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|-terastallize|p1a: Regieleki|Electric
+|move|p1a: Regieleki|Thunderbolt|p2a: Deoxys
+|-enditem|p2a: Deoxys|Focus Sash
+|-damage|p2a: Deoxys|1/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781067699
+|move|p1a: Regieleki|Thunderbolt|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1781067702
+|switch|p2a: Feraligatr|Feraligatr, M|100/100
+|turn|14
+|
+|t:|1781067706
+|-terastallize|p2a: Feraligatr|Dragon
+|move|p1a: Regieleki|Volt Switch|p2a: Feraligatr
+|-resisted|p2a: Feraligatr
+|-damage|p2a: Feraligatr|61/100
+|
+|t:|1781067710
+|switch|p1a: Meowscarada|Meowscarada, F|100/100|[from] Volt Switch
+|move|p2a: Feraligatr|Scale Shot|p1a: Meowscarada|[miss]
+|-miss|p2a: Feraligatr|p1a: Meowscarada
+|
+|upkeep
+|turn|15
+|
+|t:|1781067727
+|switch|p2a: Keldeo|Keldeo-Resolute|55/100
+|move|p1a: Meowscarada|Triple Axel|p2a: Keldeo|[miss]
+|-start|p1a: Meowscarada|typechange|Ice|[from] ability: Protean
+|-miss|p1a: Meowscarada|p2a: Keldeo
+|
+|upkeep
+|turn|16
+|
+|t:|1781067735
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Keldeo|Secret Sword|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781067737
+|switch|p1a: Regieleki|Regieleki, tera:Electric|100/100
+|turn|17
+|
+|t:|1781067739
+|move|p1a: Regieleki|Volt Switch|p2a: Keldeo
+|-supereffective|p2a: Keldeo
+|-damage|p2a: Keldeo|0 fnt
+|faint|p2a: Keldeo
+|
+|t:|1781067741
+|switch|p1a: Meowscarada|Meowscarada, F|100/100|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1781067743
+|switch|p2a: Feraligatr|Feraligatr, M, tera:Dragon|61/100
+|turn|18
+|
+|t:|1781067748
+|move|p1a: Meowscarada|Triple Axel|p2a: Feraligatr
+|-start|p1a: Meowscarada|typechange|Ice|[from] ability: Protean
+|-supereffective|p2a: Feraligatr
+|-damage|p2a: Feraligatr|27/100
+|-hitcount|p2a: Feraligatr|1
+|move|p2a: Feraligatr|Scale Shot|p1a: Meowscarada|[miss]
+|-miss|p2a: Feraligatr|p1a: Meowscarada
+|
+|upkeep
+|turn|19
+|
+|t:|1781067774
+|move|p1a: Meowscarada|Triple Axel|p2a: Feraligatr
+|-supereffective|p2a: Feraligatr
+|-damage|p2a: Feraligatr|0 fnt
+|faint|p2a: Feraligatr
+|-hitcount|p2: Feraligatr|1
+|
+|win|Paperm47
+|raw|Paperm47's rating: 1500 &rarr; <strong>1522</strong><br />(+22 for winning)
+|raw|Test g17's rating: 1543 &rarr; <strong>1521</strong><br />(-22 for losing)
+|c|☆Test g17|Whatever
+|l|☆Test g17
+|player|p2|
+|l|☆Paperm47
+|player|p1|

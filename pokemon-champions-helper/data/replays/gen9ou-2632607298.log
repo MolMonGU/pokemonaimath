@@ -1,0 +1,293 @@
+|j|☆StarDio
+|j|☆ddukkes
+|t:|1781543597
+|gametype|singles
+|player|p1|StarDio|170|1632
+|player|p2|ddukkes|smasher|1584
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Pecharunt|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Cinderace, M|
+|poke|p1|Alomomola, M|
+|poke|p1|Iron Valiant|
+|poke|p2|Tyranitar, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Hydrapple, F|
+|poke|p2|Zapdos|
+|poke|p2|Cinderace, F|
+|poke|p2|Alomomola, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by StarDio)
+|
+|t:|1781543605
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Khaos|Hoopa-Unbound|100/100
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|1
+|
+|t:|1781543611
+|switch|p1a: Overseer|Pecharunt|100/100
+|move|p2a: Cinderace|U-turn|p1a: Overseer
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Overseer
+|-damage|p1a: Overseer|97/100
+|
+|t:|1781543623
+|switch|p2a: Zapdos|Zapdos, shiny|100/100|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1781543628
+|move|p2a: Zapdos|Hurricane|p1a: Overseer
+|-damage|p1a: Overseer|35/100
+|move|p1a: Overseer|Parting Shot|p2a: Zapdos
+|-unboost|p2a: Zapdos|atk|1
+|-unboost|p2a: Zapdos|spa|1
+|
+|t:|1781543630
+|switch|p1a: Pisces|Alomomola, M, shiny|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|3
+|
+|t:|1781543638
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Pisces|Mirror Coat||[still]
+|-fail|p1a: Pisces
+|
+|upkeep
+|turn|4
+|
+|t:|1781543644
+|move|p2a: Alomomola|Flip Turn|p1a: Pisces
+|-resisted|p1a: Pisces
+|-damage|p1a: Pisces|96/100
+|
+|t:|1781543648
+|switch|p2a: Hydrapple|Hydrapple, F|100/100|[from] Flip Turn
+|move|p1a: Pisces|Body Slam|p2a: Hydrapple
+|-damage|p2a: Hydrapple|92/100
+|-damage|p1a: Pisces|79/100|[from] item: Rocky Helmet|[of] p2a: Hydrapple
+|
+|upkeep
+|turn|5
+|
+|t:|1781543660
+|move|p2a: Hydrapple|Nasty Plot|p2a: Hydrapple
+|-boost|p2a: Hydrapple|spa|2
+|move|p1a: Pisces|Mirror Coat||[still]
+|-fail|p1a: Pisces
+|
+|upkeep
+|turn|6
+|
+|t:|1781543665
+|switch|p1a: Liberacy|Cinderace, M, shiny|100/100
+|move|p2a: Hydrapple|Nasty Plot|p2a: Hydrapple
+|-boost|p2a: Hydrapple|spa|2
+|
+|upkeep
+|turn|7
+|
+|t:|1781543671
+|move|p1a: Liberacy|U-turn|p2a: Hydrapple
+|-start|p1a: Liberacy|typechange|Bug|[from] ability: Libero
+|-supereffective|p2a: Hydrapple
+|-damage|p2a: Hydrapple|55/100
+|-damage|p1a: Liberacy|84/100|[from] item: Rocky Helmet|[of] p2a: Hydrapple
+|
+|t:|1781543672
+|switch|p1a: Pisces|Alomomola, M, shiny|100/100|[from] U-turn
+|move|p2a: Hydrapple|Giga Drain|p1a: Pisces
+|-supereffective|p1a: Pisces
+|-damage|p1a: Pisces|0 fnt
+|-heal|p2a: Hydrapple|100/100|[from] drain|[of] p1a: Pisces
+|faint|p1a: Pisces
+|
+|upkeep
+|
+|t:|1781543675
+|switch|p1a: Calamity|Iron Valiant, shiny|100/100
+|turn|8
+|
+|t:|1781543684
+|-terastallize|p2a: Hydrapple|Fairy
+|move|p1a: Calamity|Moonblast|p2a: Hydrapple
+|-damage|p2a: Hydrapple|27/100
+|-unboost|p2a: Hydrapple|spa|1
+|move|p2a: Hydrapple|Giga Drain|p1a: Calamity
+|-damage|p1a: Calamity|0 fnt
+|-heal|p2a: Hydrapple|61/100|[from] drain|[of] p1a: Calamity
+|faint|p1a: Calamity
+|-end|p1a: Calamity|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781543693
+|switch|p1a: Overseer|Pecharunt|35/100
+|turn|9
+|
+|t:|1781543697
+|switch|p2a: Tyranitar|Tyranitar, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Overseer|Malignant Chain|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-crit|p2a: Tyranitar
+|-damage|p2a: Tyranitar|91/100
+|-status|p2a: Tyranitar|tox
+|-start|p2a: Tyranitar|confusion|[from] ability: Poison Puppeteer|[of] p1a: Overseer
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Overseer|29/100|[from] Sandstorm
+|-damage|p2a: Tyranitar|84/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1781543710
+|-activate|p2a: Tyranitar|confusion
+|move|p2a: Tyranitar|Knock Off|p1a: Overseer
+|-supereffective|p1a: Overseer
+|-damage|p1a: Overseer|0 fnt
+|-enditem|p1a: Overseer|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tyranitar
+|faint|p1a: Overseer
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tyranitar|72/100 tox|[from] psn
+|upkeep
+|
+|t:|1781543714
+|switch|p1a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Enten|Intimidate|boost
+|-unboost|p2a: Tyranitar|atk|1
+|turn|11
+|
+|t:|1781543724
+|switch|p2a: Zapdos|Zapdos, shiny|100/100
+|move|p1a: Enten|Stone Edge|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|19/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|13/100|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1781543731
+|move|p1a: Enten|Stone Edge|p2a: Zapdos|[miss]
+|-miss|p1a: Enten|p2a: Zapdos
+|move|p2a: Zapdos|Heat Wave|p1a: Enten
+|-damage|p1a: Enten|52/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|7/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1781543738
+|move|p1a: Enten|Stone Edge|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-weather|none
+|upkeep
+|
+|t:|1781543744
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|turn|14
+|
+|t:|1781543749
+|switch|p1a: Khaos|Hoopa-Unbound|100/100
+|move|p2a: Alomomola|Flip Turn|p1a: Khaos
+|-damage|p1a: Khaos|75/100
+|
+|t:|1781543754
+|switch|p2a: Cinderace|Cinderace, F|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|15
+|
+|t:|1781543758
+|switch|p1a: Liberacy|Cinderace, M, shiny|84/100
+|move|p2a: Cinderace|U-turn|p1a: Liberacy
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Liberacy
+|-damage|p1a: Liberacy|61/100
+|
+|t:|1781543768
+|switch|p2a: Alomomola|Alomomola, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|16
+|
+|t:|1781543772
+|move|p1a: Liberacy|U-turn|p2a: Alomomola
+|-start|p1a: Liberacy|typechange|Bug|[from] ability: Libero
+|-damage|p2a: Alomomola|81/100
+|
+|t:|1781543774
+|switch|p1a: Enten|Landorus-Therian, M, shiny|52/100|[from] U-turn
+|-ability|p1a: Enten|Intimidate|boost
+|-unboost|p2a: Alomomola|atk|1
+|move|p2a: Alomomola|Flip Turn|p1a: Enten
+|-supereffective|p1a: Enten
+|-damage|p1a: Enten|29/100
+|
+|t:|1781543782
+|switch|p2a: Hydrapple|Hydrapple, F, tera:Fairy|95/100|[from] Flip Turn
+|
+|upkeep
+|turn|17
+|
+|t:|1781543786
+|move|p1a: Enten|Earthquake|p2a: Hydrapple
+|-damage|p2a: Hydrapple|61/100
+|move|p2a: Hydrapple|Fickle Beam|p1a: Enten
+|-damage|p1a: Enten|0 fnt
+|faint|p1a: Enten
+|
+|upkeep
+|
+|t:|1781543789
+|switch|p1a: Khaos|Hoopa-Unbound|75/100
+|turn|18
+|
+|t:|1781543800
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Khaos|Zen Headbutt|p2a: Alomomola
+|-crit|p2a: Alomomola
+|-damage|p2a: Alomomola|31/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781543806
+|switch|p1a: Liberacy|Cinderace, M, shiny|61/100
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|
+|upkeep
+|turn|20
+|-message|StarDio forfeited.
+|
+|win|ddukkes
+|raw|StarDio's rating: 1632 &rarr; <strong>1609</strong><br />(-23 for losing)
+|raw|ddukkes's rating: 1584 &rarr; <strong>1607</strong><br />(+23 for winning)
+|l|☆StarDio
+|player|p1|
+|l|☆ddukkes
+|player|p2|

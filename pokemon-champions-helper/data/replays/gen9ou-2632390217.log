@@ -1,0 +1,310 @@
+|j|☆EtnaArmpits
+|j|☆ja hoi
+|t:|1781519674
+|gametype|singles
+|player|p1|EtnaArmpits|2|1633
+|player|p2|ja hoi|2|1691
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Iron Valiant|
+|poke|p1|Dragonite, F|
+|poke|p1|Darkrai|
+|poke|p1|Iron Treads|
+|poke|p2|Quaquaval, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Dragapult, F|
+|poke|p2|Garganacl, F|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Iron Moth|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by EtnaArmpits)
+|
+|t:|1781519692
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781519705
+|move|p2a: Grimmsnarl|Taunt|p1a: Iron Treads
+|-start|p1a: Iron Treads|move: Taunt
+|cant|p1a: Iron Treads|move: Taunt|Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781519712
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: ja hoi|Reflect
+|
+|upkeep
+|turn|3
+|
+|t:|1781519718
+|move|p2a: Grimmsnarl|Taunt|p1a: Deoxys
+|-start|p1a: Deoxys|move: Taunt
+|cant|p1a: Deoxys|move: Taunt|Nasty Plot
+|
+|upkeep
+|turn|4
+|
+|t:|1781519724
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: ja hoi|move: Light Screen
+|
+|upkeep
+|turn|5
+|
+|t:|1781519729
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Grimmsnarl|Parting Shot|p1a: Deoxys
+|-unboost|p1a: Deoxys|atk|1
+|-unboost|p1a: Deoxys|spa|1
+|
+|t:|1781519736
+|switch|p2a: Dragapult|Dragapult, F|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|6
+|
+|t:|1781519740
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781519746
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Iron Treads|Steel Beam|p2a: Dragapult
+|-damage|p2a: Dragapult|64/100
+|-damage|p1a: Iron Treads|50/100|[from] steelbeam
+|
+|-heal|p2a: Dragapult|70/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781519766
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Iron Treads|Stealth Rock|p2a: Dragapult
+|-sidestart|p2: ja hoi|move: Stealth Rock
+|
+|-heal|p2a: Dragapult|76/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781519771
+|move|p2a: Dragapult|Phantom Force|p1a: Iron Treads|[from] lockedmove
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p2a: Dragapult|82/100|[from] item: Leftovers
+|-sideend|p2: ja hoi|Reflect
+|upkeep
+|
+|t:|1781519774
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|10
+|
+|t:|1781519782
+|-terastallize|p1a: Dragonite|Normal
+|move|p2a: Dragapult|Dragon Darts|p1a: Dragonite
+|-damage|p1a: Dragonite|73/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Dragonite
+|-damage|p1a: Dragonite|16/100
+|move|p1a: Dragonite|Ice Punch|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1781519794
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|-damage|p2a: Grimmsnarl|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1781519798
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: ja hoi|Reflect
+|move|p1a: Dragonite|Earthquake|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|63/100
+|
+|-sideend|p2: ja hoi|move: Light Screen
+|upkeep
+|turn|12
+|
+|t:|1781519803
+|move|p2a: Grimmsnarl|Taunt|p1a: Dragonite
+|-start|p1a: Dragonite|move: Taunt
+|move|p1a: Dragonite|Earthquake|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|39/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781519809
+|move|p1a: Dragonite|Extreme Speed|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|10/100
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: ja hoi|move: Light Screen
+|
+|upkeep
+|turn|14
+|
+|t:|1781519815
+|move|p1a: Dragonite|Extreme Speed|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|faint|p2a: Grimmsnarl
+|
+|-end|p1a: Dragonite|move: Taunt
+|upkeep
+|
+|t:|1781519821
+|switch|p2a: Quaquaval|Quaquaval, M|100/100
+|-damage|p2a: Quaquaval|94/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1781519832
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Quaquaval|Aqua Step|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|77/100
+|-boost|p2a: Quaquaval|spe|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781519840
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Quaquaval|Close Combat|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|60/100
+|-unboost|p2a: Quaquaval|def|1
+|-unboost|p2a: Quaquaval|spd|1
+|
+|upkeep
+|turn|17
+|j| kkfontinele
+|
+|t:|1781519856
+|-terastallize|p2a: Quaquaval|Water
+|move|p1a: Iron Valiant|Close Combat|p2a: Quaquaval
+|-damage|p2a: Quaquaval|30/100
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|move|p2a: Quaquaval|Aqua Step|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|-boost|p2a: Quaquaval|spe|1
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|-ability|p2a: Quaquaval|Moxie|boost
+|-boost|p2a: Quaquaval|atk|1
+|
+|upkeep
+|
+|t:|1781519860
+|switch|p1a: Dragonite|Dragonite, F, tera:Normal|16/100
+|turn|18
+|
+|t:|1781519871
+|move|p1a: Dragonite|Extreme Speed|p2a: Quaquaval
+|-damage|p2a: Quaquaval|0 fnt
+|faint|p2a: Quaquaval
+|
+|-sideend|p2: ja hoi|Reflect
+|upkeep
+|
+|t:|1781519876
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-damage|p2a: Zamazenta|94/100|[from] Stealth Rock
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|19
+|
+|t:|1781519885
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Zamazenta|Body Press|p1a: Deoxys
+|-resisted|p1a: Deoxys
+|-damage|p1a: Deoxys|67/100
+|
+|-heal|p2a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781519894
+|move|p1a: Deoxys|Psycho Boost|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|36/100
+|-unboost|p1a: Deoxys|spa|2
+|-damage|p1a: Deoxys|57/100|[from] item: Life Orb
+|move|p2a: Zamazenta|Crunch|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|-heal|p2a: Zamazenta|42/100|[from] item: Leftovers
+|-sideend|p2: ja hoi|move: Light Screen
+|upkeep
+|
+|t:|1781519903
+|switch|p1a: Darkrai|Darkrai|100/100
+|turn|21
+|
+|t:|1781519914
+|move|p2a: Zamazenta|Body Press|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|-heal|p2a: Zamazenta|48/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781519932
+|switch|p1a: Kyurem|Kyurem|77/100
+|-ability|p1a: Kyurem|Pressure
+|turn|22
+|-message|EtnaArmpits forfeited.
+|
+|win|ja hoi
+|raw|EtnaArmpits's rating: 1633 &rarr; <strong>1616</strong><br />(-17 for losing)
+|raw|ja hoi's rating: 1691 &rarr; <strong>1708</strong><br />(+17 for winning)
+|l|☆EtnaArmpits
+|player|p1|
+|l|☆ja hoi
+|player|p2|
+|l| kkfontinele

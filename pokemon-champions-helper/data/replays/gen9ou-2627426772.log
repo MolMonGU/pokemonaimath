@@ -1,0 +1,197 @@
+|j|☆swiscool
+|j|☆pingoraxx
+|t:|1780900825
+|gametype|singles
+|player|p1|swiscool|266|1587
+|player|p2|pingoraxx|ethan|1617
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Rillaboom, F|
+|poke|p1|Zarude|
+|poke|p1|Kingambit, M|
+|poke|p1|Ting-Lu|
+|poke|p1|Hatterene, F|
+|poke|p1|Zamazenta-*|
+|poke|p2|Ceruledge, M|
+|poke|p2|Meowscarada, M|
+|poke|p2|Greninja-*, M|
+|poke|p2|Great Tusk|
+|poke|p2|Galvantula, M|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|
+|t:|1780900834
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Rillaboom|atk|1
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by swiscool)
+|
+|t:|1780900843
+|move|p2a: Landorus|U-turn|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|46/100
+|
+|t:|1780900846
+|switch|p2a: Miascarade|Meowscarada, M|100/100|[from] U-turn
+|move|p1a: Rillaboom|U-turn|p2a: Miascarade
+|-supereffective|p2a: Miascarade
+|-damage|p2a: Miascarade|0 fnt
+|faint|p2a: Miascarade
+|
+|t:|1780900860
+|switch|p1a: Zarude|Zarude|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1780900864
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zarude|atk|1
+|turn|2
+|
+|t:|1780900870
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Landorus|U-turn|p1a: Hatterene
+|-damage|p1a: Hatterene|79/100
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1780900885
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|
+|upkeep
+|turn|3
+|
+|t:|1780900892
+|switch|p2a: Galvantula|Galvantula, M|100/100
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|upkeep
+|turn|4
+|
+|t:|1780900899
+|move|p1a: Zamazenta|Body Press|p2a: Galvantula
+|-resisted|p2a: Galvantula
+|-damage|p2a: Galvantula|30/100
+|move|p2a: Galvantula|Discharge|p1a: Zamazenta
+|-damage|p1a: Zamazenta|74/100
+|
+|-heal|p1a: Zamazenta|80/100|[from] Grassy Terrain
+|-heal|p1a: Zamazenta|86/100|[from] item: Leftovers
+|-heal|p2a: Galvantula|36/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1780900910
+|move|p1a: Zamazenta|Body Press|p2a: Galvantula
+|-resisted|p2a: Galvantula
+|-damage|p2a: Galvantula|0 fnt
+|faint|p2a: Galvantula
+|
+|-heal|p1a: Zamazenta|93/100|[from] Grassy Terrain
+|-heal|p1a: Zamazenta|99/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1780900922
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|turn|6
+|
+|t:|1780900932
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Ceruledge|Bitter Blade|p1a: Zamazenta
+|-damage|p1a: Zamazenta|89/100
+|
+|-heal|p1a: Zamazenta|95/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1780900940
+|move|p1a: Zamazenta|Crunch|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|44/100
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|-enditem|p2a: Ceruledge|Weakness Policy
+|-boost|p2a: Ceruledge|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Ceruledge|spa|2|[from] item: Weakness Policy
+|move|p2a: Ceruledge|Poltergeist|p1a: Zamazenta
+|-activate|p1a: Zamazenta|move: Poltergeist|Leftovers
+|-damage|p1a: Zamazenta|68/100
+|
+|-heal|p1a: Zamazenta|74/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1780900954
+|-terastallize|p2a: Ceruledge|Fire
+|move|p2a: Ceruledge|Bitter Blade|p1a: Zamazenta
+|-damage|p1a: Zamazenta|45/100
+|-heal|p2a: Ceruledge|63/100|[from] drain|[of] p1a: Zamazenta
+|move|p1a: Zamazenta|Crunch|p2a: Ceruledge
+|-damage|p2a: Ceruledge|16/100
+|-unboost|p2a: Ceruledge|def|1
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|
+|-heal|p1a: Zamazenta|51/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1780900969
+|move|p2a: Ceruledge|Bitter Blade|p1a: Zamazenta
+|-damage|p1a: Zamazenta|25/100
+|-heal|p2a: Ceruledge|33/100|[from] drain|[of] p1a: Zamazenta
+|move|p1a: Zamazenta|Body Press|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|-heal|p1a: Zamazenta|31/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780900980
+|switch|p2a: Greninja|Greninja, M|100/100
+|turn|10
+|
+|t:|1780900983
+|move|p2a: Greninja|Water Shuriken|p1a: Zamazenta
+|-damage|p1a: Zamazenta|24/100
+|-damage|p1a: Zamazenta|18/100
+|-hitcount|p1a: Zamazenta|2
+|move|p1a: Zamazenta|Body Press|p2a: Greninja
+|-supereffective|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|faint|p2a: Greninja
+|
+|-heal|p1a: Zamazenta|24/100|[from] item: Leftovers
+|upkeep
+|-message|pingoraxx forfeited.
+|
+|win|swiscool
+|raw|swiscool's rating: 1587 &rarr; <strong>1609</strong><br />(+22 for winning)
+|raw|pingoraxx's rating: 1617 &rarr; <strong>1595</strong><br />(-22 for losing)
+|l|☆pingoraxx
+|player|p2|
+|l|☆swiscool
+|player|p1|

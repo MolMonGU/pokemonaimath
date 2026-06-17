@@ -1,0 +1,441 @@
+|badge|p2|bronze|gen9ou|100-9
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆drop a baby
+|j|☆AnonymousJon
+|t:|1781064389
+|gametype|singles
+|player|p1|drop a baby|chase|1802
+|player|p2|AnonymousJon|workerice|1829
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Enamorus, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Gholdengo|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Great Tusk|
+|poke|p2|Ogerpon-Cornerstone, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Tyranitar, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Dragapult, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by AnonymousJon)
+|j| testingrainteam1
+|
+|t:|1781064405
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781064409
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Enamorus
+|-damage|p1a: Enamorus|74/100
+|-boost|p2a: Great Tusk|spe|1
+|
+|-heal|p1a: Enamorus|80/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781064413
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Enamorus|Moonblast|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|74/100
+|
+|-heal|p1a: Enamorus|86/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781064415
+|move|p1a: Enamorus|Moonblast|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|49/100
+|move|p2a: Corviknight|U-turn|p1a: Enamorus
+|-resisted|p1a: Enamorus
+|-damage|p1a: Enamorus|80/100
+|-start|p2a: Corviknight|Attract|[from] ability: Cute Charm|[of] p1a: Enamorus
+|
+|t:|1781064421
+|switch|p2a: Tyranitar|Tyranitar, F|100/100|[from] U-turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Enamorus|74/100|[from] Sandstorm
+|-heal|p1a: Enamorus|80/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781064424
+|move|p1a: Enamorus|Moonblast|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|58/100
+|move|p2a: Tyranitar|Stealth Rock|p1a: Enamorus
+|-sidestart|p1: drop a baby|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Enamorus|74/100|[from] Sandstorm
+|-heal|p1a: Enamorus|80/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|64/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781064429
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|move|p1a: Enamorus|Moonblast|p2a: Ogerpon
+|-damage|p2a: Ogerpon|61/100
+|-unboost|p2a: Ogerpon|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Enamorus|74/100|[from] Sandstorm
+|-heal|p1a: Enamorus|80/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781064432
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-damage|p1a: Iron Treads|97/100|[from] Stealth Rock
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Iron Treads|[anim] Ivy Cudgel Rock
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|86/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781064435
+|move|p2a: Ogerpon|Low Kick|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|18/100
+|move|p1a: Iron Treads|Knock Off|p2a: Ogerpon
+|-damage|p2a: Ogerpon|39/100
+|
+|-weather|none
+|upkeep
+|turn|8
+|
+|t:|1781064439
+|move|p2a: Ogerpon|Horn Leech|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-heal|p2a: Ogerpon|50/100|[from] drain|[of] p1a: Iron Treads
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781064441
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1781064449
+|switch|p2a: Tyranitar|Tyranitar, F|64/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Dragapult|Substitute|p1a: Dragapult
+|-start|p1a: Dragapult|Substitute
+|-damage|p1a: Dragapult|63/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|57/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|71/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781064454
+|move|p1a: Dragapult|Dragon Darts|p2a: Tyranitar
+|-damage|p2a: Tyranitar|50/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Tyranitar
+|-damage|p2a: Tyranitar|28/100
+|-damage|p1a: Dragapult|48/100|[from] item: Life Orb
+|move|p2a: Tyranitar|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-end|p1a: Dragapult|Substitute
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|42/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|34/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781064463
+|switch|p2a: Corviknight|Corviknight, M|49/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Dragapult|Dragon Darts|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|41/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|32/100
+|-damage|p1a: Dragapult|32/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|26/100|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1781064467
+|move|p1a: Dragapult|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|-damage|p1a: Dragapult|16/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|10/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781064470
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|13
+|
+|t:|1781064475
+|move|p2a: Rillaboom|Grassy Glide|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-weather|none
+|upkeep
+|
+|t:|1781064476
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|turn|14
+|
+|t:|1781064479
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Enamorus|Enamorus, F|80/100
+|-damage|p1a: Enamorus|55/100|[from] Stealth Rock
+|
+|-heal|p1a: Enamorus|61/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781064484
+|-terastallize|p2a: Great Tusk|Fire
+|move|p1a: Enamorus|Moonblast|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|84/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Enamorus
+|-damage|p1a: Enamorus|33/100
+|-boost|p2a: Great Tusk|spe|1
+|
+|-heal|p2a: Great Tusk|90/100|[from] Grassy Terrain
+|-heal|p1a: Enamorus|40/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781064491
+|-terastallize|p1a: Enamorus|Steel
+|move|p2a: Great Tusk|Rapid Spin|p1a: Enamorus
+|-resisted|p1a: Enamorus
+|-damage|p1a: Enamorus|26/100
+|-boost|p2a: Great Tusk|spe|1
+|move|p1a: Enamorus|Earth Power|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|47/100
+|
+|-heal|p2a: Great Tusk|54/100|[from] Grassy Terrain
+|-heal|p1a: Enamorus|33/100|[from] Grassy Terrain
+|-heal|p1a: Enamorus|39/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781064501
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Great Tusk|Temper Flare|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|16/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|-heal|p2a: Great Tusk|60/100|[from] Grassy Terrain
+|-heal|p1a: Gholdengo|22/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1781064505
+|move|p2a: Great Tusk|Temper Flare|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781064508
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|19
+|
+|t:|1781064526
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Tyranitar|Tyranitar, F|34/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Iron Valiant|Close Combat|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Valiant|88/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781064529
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|20
+|
+|t:|1781064532
+|move|p2a: Rillaboom|Grassy Glide|p1a: Iron Valiant
+|-crit|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rillaboom|94/100|[from] Sandstorm
+|-heal|p2a: Rillaboom|100/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781064534
+|switch|p1a: Kingambit|Kingambit, M|94/100
+|-damage|p1a: Kingambit|88/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|21
+|
+|t:|1781064536
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|94/100|[from] Sandstorm
+|-heal|p2a: Dragapult|100/100|[from] Grassy Terrain
+|-heal|p1a: Kingambit|94/100|[from] Grassy Terrain
+|upkeep
+|turn|22
+|
+|t:|1781064538
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Kingambit
+|-status|p1a: Kingambit|brn
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|94/100|[from] Sandstorm
+|-heal|p2a: Dragapult|100/100|[from] Grassy Terrain
+|-heal|p1a: Kingambit|100/100 brn|[from] Grassy Terrain
+|-damage|p1a: Kingambit|94/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1781064542
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|76/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|none
+|-heal|p2a: Dragapult|82/100|[from] Grassy Terrain
+|-heal|p2a: Dragapult|88/100|[from] item: Leftovers
+|-heal|p1a: Kingambit|100/100 brn|[from] Grassy Terrain
+|-damage|p1a: Kingambit|94/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1781064546
+|move|p2a: Dragapult|Hex|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|60/100 brn
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-end|p2a: Dragapult|Substitute
+|
+|-heal|p2a: Dragapult|94/100|[from] Grassy Terrain
+|-heal|p2a: Dragapult|100/100|[from] item: Leftovers
+|-heal|p1a: Kingambit|66/100 brn|[from] Grassy Terrain
+|-damage|p1a: Kingambit|60/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|25
+|
+|t:|1781064549
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|76/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-end|p2a: Dragapult|Substitute
+|
+|-heal|p2a: Dragapult|82/100|[from] item: Leftovers
+|-damage|p1a: Kingambit|54/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1781064551
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|57/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-end|p2a: Dragapult|Substitute
+|
+|-heal|p2a: Dragapult|63/100|[from] item: Leftovers
+|-damage|p1a: Kingambit|48/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1781064555
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|38/100
+|
+|-heal|p2a: Dragapult|44/100|[from] item: Leftovers
+|-damage|p1a: Kingambit|42/100 brn|[from] brn
+|upkeep
+|turn|28
+|-message|drop a baby forfeited.
+|
+|win|AnonymousJon
+|raw|drop a baby's rating: 1802 &rarr; <strong>1784</strong><br />(-18 for losing)
+|raw|AnonymousJon's rating: 1829 &rarr; <strong>1847</strong><br />(+18 for winning)
+|l|☆drop a baby
+|player|p1|
+|l| testingrainteam1
+|l|☆AnonymousJon
+|player|p2|

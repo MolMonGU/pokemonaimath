@@ -1,0 +1,299 @@
+|j|☆erjuanzas
+|j|☆iamverykarpy
+|t:|1781532486
+|gametype|singles
+|player|p1|erjuanzas|linebacker|1698
+|player|p2|iamverykarpy|colress|1692
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Overqwil, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Cetitan, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Kyurem|
+|poke|p2|Rillaboom, F|
+|poke|p2|Alomomola, F|
+|poke|p2|Great Tusk|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by iamverykarpy)
+|
+|t:|1781532505
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Bolita|Iron Treads, shiny|100/100
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|-enditem|p1a: Bolita|Booster Energy
+|-activate|p1a: Bolita|ability: Quark Drive|[fromitem]
+|-start|p1a: Bolita|quarkdrivespe
+|turn|1
+|
+|t:|1781532510
+|move|p1a: Bolita|Stealth Rock|p2a: Alomomola
+|-sidestart|p2: iamverykarpy|move: Stealth Rock
+|move|p2a: Alomomola|Scald|p1a: Bolita
+|-supereffective|p1a: Bolita
+|-crit|p1a: Bolita
+|-damage|p1a: Bolita|42/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781532516
+|-end|p1a: Bolita|Quark Drive|[silent]
+|switch|p1a: Pelipas|Pelipper, M, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipas
+|move|p2a: Alomomola|Flip Turn|p1a: Pelipas
+|-resisted|p1a: Pelipas
+|-damage|p1a: Pelipas|92/100
+|
+|t:|1781532519
+|switch|p2a: Slowking|Slowking-Galar, M, shiny|100/100|[from] Flip Turn
+|-damage|p2a: Slowking|88/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781532522
+|move|p1a: Pelipas|U-turn|p2a: Slowking
+|-damage|p2a: Slowking|79/100
+|
+|t:|1781532526
+|switch|p1a: La Cabra|Barraskewda, M|100/100|[from] U-turn
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781532529
+|switch|p2a: Alomomola|Alomomola, F|100/100|[from] Chilly Reception
+|-damage|p2a: Alomomola|88/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781532532
+|move|p1a: La Cabra|Flip Turn|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|75/100
+|-damage|p1a: La Cabra|84/100|[from] item: Rocky Helmet|[of] p2a: Alomomola
+|
+|t:|1781532536
+|switch|p1a: Pelipas|Pelipper, M, shiny|92/100|[from] Flip Turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipas
+|move|p2a: Alomomola|Flip Turn|p1a: Pelipas
+|-resisted|p1a: Pelipas
+|-damage|p1a: Pelipas|83/100
+|
+|t:|1781532539
+|switch|p2a: Slowking|Slowking-Galar, M, shiny|100/100|[from] Flip Turn
+|-damage|p2a: Slowking|88/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781532541
+|move|p1a: Pelipas|U-turn|p2a: Slowking
+|-damage|p2a: Slowking|78/100
+|
+|t:|1781532544
+|switch|p1a: Electrons|Raging Bolt|100/100|[from] U-turn
+|-enditem|p1a: Electrons|Booster Energy
+|-activate|p1a: Electrons|ability: Protosynthesis|[fromitem]
+|-start|p1a: Electrons|protosynthesisspa
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781532547
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] Chilly Reception
+|-damage|p2a: Great Tusk|97/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Great Tusk|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781532550
+|-terastallize|p1a: Electrons|Fairy
+|move|p2a: Great Tusk|Rapid Spin|p1a: Electrons
+|-damage|p1a: Electrons|86/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: iamverykarpy|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|move|p1a: Electrons|Weather Ball|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781532562
+|switch|p2a: Slowking|Slowking-Galar, M, shiny|100/100
+|turn|7
+|
+|t:|1781532566
+|-end|p1a: Electrons|Protosynthesis|[silent]
+|switch|p1a: Bolita|Iron Treads, shiny|42/100
+|move|p2a: Slowking|Flamethrower|p1a: Bolita
+|-supereffective|p1a: Bolita
+|-damage|p1a: Bolita|0 fnt
+|faint|p1a: Bolita
+|-end|p1a: Bolita|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781532573
+|switch|p1a: Rockero|Overqwil, M, shiny|100/100
+|turn|8
+|
+|t:|1781532576
+|move|p1a: Rockero|Crunch|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-enditem|p2a: Slowking|Colbur Berry|[eat]
+|-enditem|p2a: Slowking|Colbur Berry|[weaken]
+|-damage|p2a: Slowking|45/100
+|-damage|p1a: Rockero|91/100|[from] item: Life Orb
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1781532581
+|switch|p2a: Cetitan|Cetitan, F, shiny|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781532585
+|switch|p1a: Pelipas|Pelipper, M, shiny|83/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipas
+|move|p2a: Cetitan|Earthquake|p1a: Pelipas
+|-immune|p1a: Pelipas
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781532588
+|switch|p2a: Slowking|Slowking-Galar, M, shiny|78/100
+|move|p1a: Pelipas|U-turn|p2a: Slowking
+|-damage|p2a: Slowking|69/100
+|
+|t:|1781532591
+|switch|p1a: La Cabra|Barraskewda, M|84/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781532593
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: La Cabra|Flip Turn|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|80/100
+|-damage|p1a: La Cabra|67/100|[from] item: Rocky Helmet|[of] p2a: Alomomola
+|
+|t:|1781532596
+|switch|p1a: Electrons|Raging Bolt, tera:Fairy|86/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781532601
+|switch|p2a: Slowking|Slowking-Galar, M, shiny|100/100
+|move|p1a: Electrons|Thunder|p2a: Slowking
+|-damage|p2a: Slowking|61/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781532608
+|move|p1a: Electrons|Thunder|p2a: Slowking
+|-damage|p2a: Slowking|25/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781532619
+|switch|p2a: Cetitan|Cetitan, F, shiny|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781532623
+|-end|p1a: Electrons|Protosynthesis|[silent]
+|switch|p1a: Pelipas|Pelipper, M, shiny|83/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipas
+|move|p2a: Cetitan|Belly Drum|p2a: Cetitan
+|-damage|p2a: Cetitan|50/100
+|-setboost|p2a: Cetitan|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Cetitan|Sitrus Berry|[eat]
+|-heal|p2a: Cetitan|75/100|[from] item: Sitrus Berry
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|j| Professor Rai
+|
+|t:|1781532650
+|switch|p1a: La Cabra|Barraskewda, M|67/100
+|move|p2a: Cetitan|Ice Spinner|p1a: La Cabra
+|-resisted|p1a: La Cabra
+|-damage|p1a: La Cabra|0 fnt
+|faint|p1a: La Cabra
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|j| choispecs ironmoth
+|inactive|erjuanzas has 120 seconds left.
+|
+|t:|1781532670
+|switch|p1a: Rockero|Overqwil, M, shiny|91/100
+|turn|16
+|c| Professor Rai|rain vs hail?
+|
+|t:|1781532679
+|move|p1a: Rockero|Gunk Shot|p2a: Cetitan|[miss]
+|-miss|p1a: Rockero|p2a: Cetitan
+|move|p2a: Cetitan|Earthquake|p1a: Rockero
+|-supereffective|p1a: Rockero
+|-damage|p1a: Rockero|0 fnt
+|faint|p1a: Rockero
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆erjuanzas|aaaa
+|c|☆erjuanzas|wp
+|-message|erjuanzas forfeited.
+|
+|win|iamverykarpy
+|raw|erjuanzas's rating: 1698 &rarr; <strong>1678</strong><br />(-20 for losing)
+|raw|iamverykarpy's rating: 1692 &rarr; <strong>1712</strong><br />(+20 for winning)
+|l|☆erjuanzas
+|player|p1|
+|c| Professor Rai|iron head that
+|c| Professor Rai|kingambit
+|l|☆iamverykarpy
+|player|p2|
+|l| Professor Rai

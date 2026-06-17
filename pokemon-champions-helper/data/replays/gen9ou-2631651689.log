@@ -1,0 +1,224 @@
+|j|☆Always bet on red
+|j|☆phreshoatmeal
+|t:|1781415182
+|gametype|singles
+|player|p1|Always bet on red|101|1546
+|player|p2|phreshoatmeal|169|1584
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Alomomola, M|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Dragonite, M|
+|poke|p1|Kingambit, F|
+|poke|p1|Great Tusk|
+|poke|p1|Iron Moth|
+|poke|p2|Tyranitar, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Excadrill, M|
+|poke|p2|Amoonguss, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Alomomola, F|
+|teampreview
+|
+|t:|1781415203
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|1
+|
+|t:|1781415239
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Hoopa|Knock Off|p2a: Alomomola
+|-damage|p2a: Alomomola|45/100
+|-enditem|p2a: Alomomola|Eject Button|[from] move: Knock Off|[of] p1a: Hoopa
+|
+|upkeep
+|turn|2
+|
+|t:|1781415256
+|move|p1a: Hoopa|Knock Off|p2a: Alomomola
+|-damage|p2a: Alomomola|7/100
+|move|p2a: Alomomola|Flip Turn|p1a: Hoopa
+|-damage|p1a: Hoopa|71/100
+|
+|t:|1781415295
+|switch|p2a: Iron Valiant|Iron Valiant|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|3
+|
+|t:|1781415301
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|move|p2a: Iron Valiant|Moonblast|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|86/100
+|-unboost|p1a: Iron Moth|spa|1
+|-damage|p2a: Iron Valiant|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|
+|t:|1781415312
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Alomomola|94/100|[from] Sandstorm
+|-heal|p1a: Alomomola|100/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781415320
+|move|p2a: Tyranitar|Knock Off|p1a: Alomomola
+|-damage|p1a: Alomomola|77/100
+|-enditem|p1a: Alomomola|Leftovers|[from] move: Knock Off|[of] p2a: Tyranitar
+|move|p1a: Alomomola|Scald|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|89/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Alomomola|71/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1781415324
+|move|p2a: Tyranitar|Stealth Rock|p1a: Alomomola
+|-sidestart|p1: Always bet on red|move: Stealth Rock
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Alomomola|65/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1781415339
+|switch|p2a: Alomomola|Alomomola, F|40/100
+|move|p1a: Alomomola|Flip Turn|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|35/100
+|
+|t:|1781415344
+|switch|p1a: Hoopa|Hoopa-Unbound|71/100|[from] Flip Turn
+|-damage|p1a: Hoopa|58/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hoopa|52/100|[from] Sandstorm
+|-damage|p2a: Alomomola|29/100|[from] Sandstorm
+|-heal|p1a: Hoopa|100/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|8
+|
+|t:|1781415353
+|switch|p2a: Amoonguss|Amoonguss, M|100/100
+|move|p1a: Hoopa|Knock Off|p2a: Amoonguss
+|-damage|p2a: Amoonguss|32/100
+|-enditem|p2a: Amoonguss|Eject Button|[from] move: Knock Off|[of] p1a: Hoopa
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hoopa|95/100|[from] Sandstorm
+|-damage|p2a: Amoonguss|25/100|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1781415358
+|switch|p2a: Alomomola|Alomomola, F|62/100
+|move|p1a: Hoopa|Knock Off|p2a: Alomomola
+|-damage|p2a: Alomomola|21/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hoopa|89/100|[from] Sandstorm
+|-damage|p2a: Alomomola|15/100|[from] Sandstorm
+|upkeep
+|turn|10
+|
+|t:|1781415366
+|switch|p2a: Iron Valiant|Iron Valiant|91/100
+|move|p1a: Hoopa|Knock Off|p2a: Iron Valiant
+|-resisted|p2a: Iron Valiant
+|-crit|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|41/100
+|-enditem|p2a: Iron Valiant|Life Orb|[from] move: Knock Off|[of] p1a: Hoopa
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Valiant|34/100|[from] Sandstorm
+|-damage|p1a: Hoopa|83/100|[from] Sandstorm
+|upkeep
+|turn|11
+|
+|t:|1781415390
+|switch|p1a: Iron Moth|Iron Moth|86/100
+|-damage|p1a: Iron Moth|61/100|[from] Stealth Rock
+|move|p2a: Iron Valiant|Drain Punch|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|31/100
+|-heal|p2a: Iron Valiant|50/100|[from] drain|[of] p1a: Iron Moth
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1781415414
+|move|p1a: Iron Moth|Fiery Dance|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|-boost|p1a: Iron Moth|spa|1
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781415419
+|switch|p2a: Alomomola|Alomomola, F|48/100
+|turn|13
+|
+|t:|1781415432
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Hoopa|Hoopa-Unbound|83/100
+|-damage|p1a: Hoopa|70/100|[from] Stealth Rock
+|move|p2a: Alomomola|Flip Turn|p1a: Hoopa
+|-damage|p1a: Hoopa|44/100
+|
+|t:|1781415436
+|switch|p2a: Excadrill|Excadrill, M|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|14
+|
+|t:|1781415449
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|move|p2a: Excadrill|Earthquake|p1a: Dragonite
+|-immune|p1a: Dragonite
+|
+|upkeep
+|turn|15
+|
+|t:|1781415459
+|move|p2a: Excadrill|Earthquake|p1a: Dragonite
+|-immune|p1a: Dragonite
+|move|p1a: Dragonite|Earthquake|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|upkeep
+|-message|phreshoatmeal forfeited.
+|
+|win|Always bet on red
+|raw|Always bet on red's rating: 1546 &rarr; <strong>1568</strong><br />(+22 for winning)
+|raw|phreshoatmeal's rating: 1584 &rarr; <strong>1562</strong><br />(-22 for losing)
+|l|☆phreshoatmeal
+|player|p2|

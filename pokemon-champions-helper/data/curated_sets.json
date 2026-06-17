@@ -1,0 +1,17 @@
+{
+  "_설명": "아이템별 실제 기술 패턴을 직접 입력. 이 파일이 있으면 Smogon 근사치보다 우선 사용됨.",
+  "_포맷": "포켓몬이름(영문): [{label: 아이템명, moves: [기술1, 기술2, 기술3, 기술4]}]",
+
+  "Garchomp": [
+    {"label": "Choice Scarf",  "moves": ["Earthquake", "Dragon Claw", "Stone Edge", "Outrage"]},
+    {"label": "Rocky Helmet",  "moves": ["Earthquake", "Dragon Claw", "Stealth Rock", "Toxic"]},
+    {"label": "Life Orb",      "moves": ["Earthquake", "Dragon Claw", "Fire Blast", "Swords Dance"]},
+    {"label": "Leftovers",     "moves": ["Earthquake", "Dragon Claw", "Stealth Rock", "Substitute"]}
+  ],
+
+  "Mewtwo": [
+    {"label": "Life Orb",      "moves": ["Psystrike", "Ice Beam", "Fire Blast", "Aura Sphere"]},
+    {"label": "Choice Specs",  "moves": ["Psystrike", "Ice Beam", "Fire Blast", "Thunderbolt"]},
+    {"label": "Choice Scarf",  "moves": ["Psystrike", "Ice Beam", "Thunderbolt", "Aura Sphere"]}
+  ]
+}

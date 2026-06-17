@@ -1,0 +1,260 @@
+|j|☆texett
+|j|☆bot_91023
+|t:|1781527634
+|gametype|singles
+|player|p1|texett|jasmine|1628
+|player|p2|bot_91023|psychic-gen4|1631
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Glimmora, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Zapdos|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Iron Treads|
+|poke|p1|Infernape, M|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Gliscor, M|
+|poke|p2|Cinderace, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Dondozo, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by texett)
+|
+|t:|1781527642
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Samurott|Samurott-Hisui, M, shiny|100/100
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|turn|1
+|j| r00tretr0
+|
+|t:|1781527646
+|move|p1a: Samurott|Knock Off|p2a: Gliscor
+|-damage|p2a: Gliscor|66/100
+|-enditem|p2a: Gliscor|Toxic Orb|[from] move: Knock Off|[of] p1a: Samurott
+|move|p2a: Gliscor|Toxic|p1a: Samurott
+|-status|p1a: Samurott|tox
+|
+|-damage|p1a: Samurott|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1781527651
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|move|p1a: Samurott|Ceaseless Edge|p2a: Cinderace|[miss]
+|-miss|p1a: Samurott|p2a: Cinderace
+|
+|-damage|p1a: Samurott|82/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1781527661
+|switch|p1a: Zapdos|Zapdos, shiny|100/100
+|move|p2a: Cinderace|High Jump Kick|p1a: Zapdos
+|-start|p2a: Cinderace|typechange|Fighting|[from] ability: Libero
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|75/100
+|-status|p2a: Cinderace|par|[from] ability: Static|[of] p1a: Zapdos
+|
+|upkeep
+|turn|4
+|
+|t:|1781527668
+|switch|p2a: Gliscor|Gliscor, M|66/100
+|move|p1a: Zapdos|Hurricane|p2a: Gliscor|[miss]
+|-miss|p1a: Zapdos|p2a: Gliscor
+|
+|upkeep
+|turn|5
+|
+|t:|1781527673
+|switch|p1a: Samurott|Samurott-Hisui, M, shiny|82/100 tox
+|move|p2a: Gliscor|Knock Off|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|69/100 tox
+|-enditem|p1a: Samurott|Assault Vest|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|-damage|p1a: Samurott|63/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1781527679
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Samurott|Ceaseless Edge|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-damage|p1a: Samurott|51/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1781527684
+|switch|p2a: Samurott|Samurott-Hisui, F, shiny|100/100
+|move|p1a: Samurott|Ceaseless Edge|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|76/100
+|-sidestart|p2: bot_91023|Spikes
+|
+|-damage|p1a: Samurott|32/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781527686
+|move|p2a: Samurott|Ceaseless Edge|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|-sidestart|p1: texett|Spikes
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781527694
+|switch|p1a: Infernape|Infernape, M, shiny|100/100
+|-damage|p1a: Infernape|88/100|[from] Spikes
+|turn|9
+|
+|t:|1781527699
+|switch|p2a: Dondozo|Dondozo, M|100/100
+|-damage|p2a: Dondozo|88/100|[from] Spikes
+|move|p1a: Infernape|U-turn|p2a: Dondozo
+|-damage|p2a: Dondozo|75/100
+|
+|t:|1781527704
+|switch|p1a: Zapdos|Zapdos, shiny|75/100|[from] U-turn
+|
+|-heal|p2a: Dondozo|81/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781527706
+|switch|p2a: Gliscor|Gliscor, M|66/100
+|move|p1a: Zapdos|Hurricane|p2a: Gliscor|[miss]
+|-miss|p1a: Zapdos|p2a: Gliscor
+|
+|upkeep
+|turn|11
+|
+|t:|1781527724
+|move|p1a: Zapdos|Hurricane|p2a: Gliscor
+|-damage|p2a: Gliscor|28/100
+|-start|p2a: Gliscor|confusion
+|-activate|p2a: Gliscor|confusion
+|move|p2a: Gliscor|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|57/100
+|-enditem|p1a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|upkeep
+|turn|12
+|
+|t:|1781527733
+|move|p1a: Zapdos|Hurricane|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|upkeep
+|
+|t:|1781527739
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-damage|p2a: Kingambit|88/100|[from] Spikes
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|turn|13
+|
+|t:|1781527751
+|move|p1a: Zapdos|Volt Switch|p2a: Kingambit
+|-damage|p2a: Kingambit|52/100
+|
+|t:|1781527773
+|switch|p1a: Glimmora|Glimmora, M, shiny|100/100|[from] Volt Switch
+|-damage|p1a: Glimmora|88/100|[from] Spikes
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Glimmora
+|-damage|p1a: Glimmora|15/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: bot_91023|move: Toxic Spikes
+|-enditem|p1a: Glimmora|Red Card|[of] p2a: Kingambit
+|-end|p2a: Kingambit|fallen1|[silent]
+|drag|p2a: Dondozo|Dondozo, M|81/100
+|-damage|p2a: Dondozo|68/100|[from] Spikes
+|-status|p2a: Dondozo|psn
+|
+|-heal|p2a: Dondozo|74/100 psn|[from] item: Leftovers
+|-damage|p2a: Dondozo|62/100 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1781527779
+|move|p1a: Glimmora|Stealth Rock|p2a: Dondozo
+|-sidestart|p2: bot_91023|move: Stealth Rock
+|move|p2a: Dondozo|Curse|p2a: Dondozo
+|-unboost|p2a: Dondozo|spe|1
+|-boost|p2a: Dondozo|atk|1
+|-boost|p2a: Dondozo|def|1
+|
+|-heal|p2a: Dondozo|68/100 psn|[from] item: Leftovers
+|-damage|p2a: Dondozo|55/100 psn|[from] psn
+|upkeep
+|turn|15
+|inactive|texett has 120 seconds left.
+|
+|t:|1781527822
+|move|p1a: Glimmora|Mortal Spin|p2a: Dondozo
+|-damage|p2a: Dondozo|53/100 psn
+|-sideend|p1: texett|Spikes|[from] move: Mortal Spin|[of] p1a: Glimmora
+|move|p2a: Dondozo|Rest|p2a: Dondozo
+|-status|p2a: Dondozo|slp|[from] move: Rest
+|-heal|p2a: Dondozo|100/100 slp|[silent]
+|
+|upkeep
+|turn|16
+|
+|t:|1781527828
+|switch|p1a: Dragapult|Dragapult, F, shiny|100/100
+|switch|p2a: Cinderace|Cinderace, F|100/100 par
+|
+|upkeep
+|turn|17
+|
+|t:|1781527840
+|-terastallize|p1a: Dragapult|Ghost
+|move|p1a: Dragapult|Hex|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|upkeep
+|
+|t:|1781527844
+|switch|p2a: Slowking|Slowking-Galar, M, shiny|100/100
+|-damage|p2a: Slowking|88/100|[from] Spikes
+|-sideend|p2: bot_91023|move: Toxic Spikes|[of] p2a: Slowking
+|-damage|p2a: Slowking|76/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781527849
+|switch|p1a: Iron Treads|Iron Treads, shiny|100/100
+|move|p2a: Slowking|Thunder Wave|p1a: Iron Treads
+|-immune|p1a: Iron Treads
+|
+|-heal|p2a: Slowking|82/100|[from] item: Black Sludge
+|upkeep
+|turn|19
+|-message|bot_91023 forfeited.
+|
+|win|texett
+|raw|texett's rating: 1628 &rarr; <strong>1648</strong><br />(+20 for winning)
+|raw|bot_91023's rating: 1631 &rarr; <strong>1611</strong><br />(-20 for losing)
+|l|☆bot_91023
+|player|p2|
+|l|☆texett
+|player|p1|

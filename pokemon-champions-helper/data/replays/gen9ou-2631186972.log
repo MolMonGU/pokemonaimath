@@ -1,0 +1,410 @@
+|j|☆Kirnil
+|j|☆CassiusAuBellossom
+|t:|1781355489
+|gametype|singles
+|player|p1|Kirnil|maid|1608
+|player|p2|CassiusAuBellossom|101|1564
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Glimmora, M|
+|poke|p1|Great Tusk|
+|poke|p1|Alomomola, F|
+|poke|p1|Amoonguss, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Hoopa-Unbound|
+|poke|p2|Pelipper, F|
+|poke|p2|Beartic, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Zapdos|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Hatterene, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by CassiusAuBellossom)
+|
+|t:|1781355499
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|switch|p2a: Armin|Pelipper, F|100/100
+|-item|p1a: Glimmora|Air Balloon
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Armin
+|turn|1
+|
+|t:|1781355508
+|switch|p2a: Annie|Hatterene, F|100/100
+|move|p1a: Glimmora|Power Gem|p2a: Annie
+|-damage|p2a: Annie|60/100
+|-enditem|p2a: Annie|Eject Button
+|
+|t:|1781355513
+|switch|p2a: Zeke|Zapdos|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781355521
+|move|p2a: Zeke|Weather Ball|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-enditem|p1a: Glimmora|Air Balloon
+|faint|p1a: Glimmora
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781355525
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|turn|3
+|
+|t:|1781355531
+|switch|p2a: Mikasa|Ogerpon-Wellspring, F|100/100
+|move|p1a: Alomomola|Flip Turn|p2a: Mikasa
+|-immune|p2a: Mikasa|[from] ability: Water Absorb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781355540
+|switch|p2a: Eren|Beartic, M|100/100
+|switch|p1a: Amoonguss|Amoonguss, M|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781355550
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Eren|Swords Dance|p2a: Eren
+|-boost|p2a: Eren|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781355558
+|-terastallize|p2a: Eren|Grass
+|move|p2a: Eren|Trailblaze|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|3/100
+|-boost|p2a: Eren|spe|1
+|move|p1a: Alomomola|Flip Turn|p2a: Eren
+|-resisted|p2a: Eren
+|-damage|p2a: Eren|87/100
+|
+|t:|1781355573
+|switch|p1a: Iron Valiant|Iron Valiant|100/100|[from] Flip Turn
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781355582
+|move|p2a: Eren|Icicle Spear|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|62/100
+|-damage|p1a: Iron Valiant|23/100
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|-hitcount|p1: Iron Valiant|3
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781355591
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|8
+|
+|t:|1781355596
+|-terastallize|p1a: Great Tusk|Steel
+|move|p2a: Eren|Icicle Spear|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|91/100
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|79/100
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|69/100
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|59/100
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|49/100
+|-hitcount|p1a: Great Tusk|5
+|move|p1a: Great Tusk|Ice Spinner|p2a: Eren
+|-supereffective|p2a: Eren
+|-damage|p2a: Eren|1/100
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781355612
+|move|p1a: Great Tusk|Ice Spinner|p2a: Eren
+|-supereffective|p2a: Eren
+|-damage|p2a: Eren|0 fnt
+|faint|p2a: Eren
+|
+|upkeep
+|
+|t:|1781355617
+|switch|p2a: Armin|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Armin
+|turn|10
+|
+|t:|1781355622
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Alomomola|Alomomola, F|36/100
+|move|p2a: Armin|U-turn|p1a: Alomomola
+|-damage|p1a: Alomomola|29/100
+|
+|t:|1781355628
+|switch|p2a: Zeke|Zapdos|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781355639
+|switch|p1a: Great Tusk|Great Tusk, tera:Steel|49/100
+|move|p2a: Zeke|Hurricane|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|6/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781355649
+|move|p2a: Zeke|Thunder|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781355652
+|switch|p1a: Alomomola|Alomomola, F|62/100
+|turn|13
+|
+|t:|1781355659
+|move|p2a: Zeke|Volt Switch|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|26/100
+|
+|t:|1781355662
+|switch|p2a: Annie|Hatterene, F|60/100|[from] Volt Switch
+|move|p1a: Alomomola|Mirror Coat|p2a: Annie
+|-damage|p2a: Annie|0 fnt
+|faint|p2a: Annie
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781355672
+|switch|p2a: Zeke|Zapdos|100/100
+|turn|14
+|
+|t:|1781355677
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|move|p2a: Zeke|Thunder|p1a: Hoopa
+|-damage|p1a: Hoopa|53/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Hoopa|59/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781355685
+|move|p2a: Zeke|Volt Switch|p1a: Hoopa
+|-damage|p1a: Hoopa|27/100
+|
+|t:|1781355693
+|switch|p2a: Levi|Barraskewda, M|100/100|[from] Volt Switch
+|move|p1a: Hoopa|Dark Pulse|p2a: Levi
+|-crit|p2a: Levi
+|-damage|p2a: Levi|0 fnt
+|faint|p2a: Levi
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Hoopa|33/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781355706
+|switch|p2a: Zeke|Zapdos|100/100
+|turn|16
+|
+|t:|1781355710
+|move|p2a: Zeke|Hurricane|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781355713
+|switch|p1a: Alomomola|Alomomola, F|59/100
+|turn|17
+|
+|t:|1781355722
+|move|p2a: Zeke|Volt Switch|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|26/100
+|
+|t:|1781355725
+|switch|p2a: Mikasa|Ogerpon-Wellspring, F|100/100|[from] Volt Switch
+|move|p1a: Alomomola|Mirror Coat|p2a: Mikasa
+|-damage|p2a: Mikasa|0 fnt
+|faint|p2a: Mikasa
+|
+|-weather|none
+|upkeep
+|
+|t:|1781355734
+|switch|p2a: Zeke|Zapdos|100/100
+|turn|18
+|
+|t:|1781355738
+|switch|p1a: Amoonguss|Amoonguss, M|100/100
+|move|p2a: Zeke|Volt Switch|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|85/100
+|
+|t:|1781355743
+|switch|p2a: Armin|Pelipper, F|100/100|[from] Volt Switch
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Armin
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781355750
+|switch|p1a: Alomomola|Alomomola, F|59/100
+|move|p2a: Armin|Hurricane|p1a: Alomomola
+|-damage|p1a: Alomomola|42/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781355757
+|move|p1a: Alomomola|Flip Turn|p2a: Armin
+|-resisted|p2a: Armin
+|-crit|p2a: Armin
+|-damage|p2a: Armin|86/100
+|
+|t:|1781355759
+|switch|p1a: Amoonguss|Amoonguss, M|100/100|[from] Flip Turn
+|move|p2a: Armin|Hurricane|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|31/100
+|-start|p1a: Amoonguss|confusion
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781355770
+|switch|p1a: Alomomola|Alomomola, F|75/100
+|move|p2a: Armin|U-turn|p1a: Alomomola
+|-damage|p1a: Alomomola|68/100
+|
+|t:|1781355774
+|switch|p2a: Zeke|Zapdos|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1781355781
+|move|p2a: Zeke|Volt Switch|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|31/100
+|
+|t:|1781355784
+|switch|p2a: Armin|Pelipper, F|86/100|[from] Volt Switch
+|move|p1a: Alomomola|Mirror Coat|p2a: Armin
+|-damage|p2a: Armin|0 fnt
+|faint|p2a: Armin
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781355793
+|switch|p2a: Zeke|Zapdos|100/100
+|turn|23
+|inactive|CassiusAuBellossom has 120 seconds left.
+|
+|t:|1781355827
+|switch|p1a: Amoonguss|Amoonguss, M|64/100
+|move|p2a: Zeke|Thunder|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|38/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1781355837
+|move|p2a: Zeke|Hurricane|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|0 fnt
+|faint|p1a: Amoonguss
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781355839
+|switch|p1a: Alomomola|Alomomola, F|64/100
+|turn|25
+|
+|t:|1781355853
+|move|p2a: Zeke|Weather Ball|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|51/100
+|move|p1a: Alomomola|Mirror Coat|p2a: Zeke
+|-damage|p2a: Zeke|57/100
+|
+|-weather|none
+|upkeep
+|turn|26
+|
+|t:|1781355864
+|move|p2a: Zeke|Weather Ball|p1a: Alomomola
+|-damage|p1a: Alomomola|43/100
+|move|p1a: Alomomola|Mirror Coat|p2a: Zeke
+|-damage|p2a: Zeke|28/100
+|
+|upkeep
+|turn|27
+|
+|t:|1781355873
+|move|p2a: Zeke|Thunder|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|faint|p1a: Alomomola
+|
+|win|CassiusAuBellossom
+|raw|Kirnil's rating: 1608 &rarr; <strong>1585</strong><br />(-23 for losing)
+|raw|CassiusAuBellossom's rating: 1564 &rarr; <strong>1587</strong><br />(+23 for winning)
+|l|☆Kirnil
+|player|p1|
+|l|☆CassiusAuBellossom
+|player|p2|

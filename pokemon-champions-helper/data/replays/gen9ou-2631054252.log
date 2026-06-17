@@ -1,0 +1,233 @@
+|j|☆huilaoshi1111
+|j|☆KnuckleTesting
+|t:|1781332161
+|gametype|singles
+|player|p1|huilaoshi1111|170|1536
+|player|p2|KnuckleTesting|2|1574
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Mienshao, F|
+|poke|p1|Blissey, F|
+|poke|p1|Slowbro, F|
+|poke|p1|Krookodile, F|
+|poke|p1|Talonflame, F|
+|poke|p1|Zoroark-Hisui, F|
+|poke|p2|Regieleki|
+|poke|p2|Zamazenta-*|
+|poke|p2|Corviknight, M|
+|poke|p2|Grafaiai, F|
+|poke|p2|Alomomola, M|
+|poke|p2|Gliscor, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KnuckleTesting)
+|
+|t:|1781332176
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Mienshao|Mienshao, F|100/100
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|turn|1
+|
+|t:|1781332180
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Mienshao|Triple Axel|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781332185
+|switch|p1a: Blissey|Blissey, F|100/100
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|
+|upkeep
+|turn|3
+|
+|t:|1781332190
+|move|p1a: Blissey|Bitter Malice|p2a: Corviknight
+|-damage|p2a: Corviknight|38/100
+|-unboost|p2a: Corviknight|atk|1
+|move|p2a: Corviknight|U-turn|p1a: Blissey
+|-resisted|p1a: Blissey
+|-damage|p1a: Blissey|91/100
+|replace|p1a: Zoroark|Zoroark-Hisui, F
+|-end|p1a: Zoroark|Illusion
+|
+|t:|1781332194
+|switch|p2a: Grafaiai|Grafaiai, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1781332202
+|switch|p1a: Krookodile|Krookodile, F|100/100
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Grafaiai|atk|1
+|move|p2a: Grafaiai|Toxic|p1a: Krookodile
+|-status|p1a: Krookodile|tox
+|
+|-damage|p1a: Krookodile|94/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1781332209
+|move|p2a: Grafaiai|Parting Shot|p1a: Krookodile
+|-unboost|p1a: Krookodile|atk|1
+|-unboost|p1a: Krookodile|spa|1
+|
+|t:|1781332211
+|switch|p2a: Corviknight|Corviknight, M|38/100|[from] Parting Shot
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Krookodile|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|6/100
+|-damage|p1a: Krookodile|78/100 tox|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-enditem|p2a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p1a: Krookodile
+|
+|-damage|p1a: Krookodile|66/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1781332216
+|move|p1a: Krookodile|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-damage|p1a: Krookodile|47/100 tox|[from] psn
+|upkeep
+|
+|t:|1781332219
+|switch|p2a: Gliscor|Gliscor, M|100/100 tox
+|turn|7
+|
+|t:|1781332226
+|switch|p1a: Mienshao|Mienshao, F|100/100
+|move|p2a: Gliscor|Knock Off|p1a: Mienshao
+|-resisted|p1a: Mienshao
+|-damage|p1a: Mienshao|79/100
+|-enditem|p1a: Mienshao|Choice Scarf|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|upkeep
+|turn|8
+|
+|t:|1781332233
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Mienshao|Triple Axel|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|upkeep
+|turn|9
+|
+|t:|1781332237
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Mienshao|U-turn|p2a: Alomomola
+|-damage|p2a: Alomomola|82/100
+|
+|t:|1781332246
+|switch|p1a: Slowbro|Slowbro, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|10
+|
+|t:|1781332254
+|move|p2a: Alomomola|Flip Turn|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-crit|p1a: Slowbro
+|-damage|p1a: Slowbro|94/100
+|
+|t:|1781332257
+|switch|p2a: Grafaiai|Grafaiai, F|100/100|[from] Flip Turn
+|move|p1a: Slowbro|Future Sight|p2a: Grafaiai
+|-start|p1a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|11
+|
+|t:|1781332271
+|move|p2a: Grafaiai|Encore|p1a: Slowbro
+|-start|p1a: Slowbro|Encore
+|move|p1a: Slowbro|Future Sight||[still]
+|-fail|p1a: Slowbro
+|
+|upkeep
+|turn|12
+|
+|t:|1781332275
+|switch|p1a: Mienshao|Mienshao, F|100/100
+|move|p2a: Grafaiai|Parting Shot|p1a: Mienshao
+|-unboost|p1a: Mienshao|atk|1
+|-unboost|p1a: Mienshao|spa|1
+|
+|t:|1781332281
+|switch|p2a: Alomomola|Alomomola, M|100/100|[from] Parting Shot
+|
+|-end|p2a: Alomomola|move: Future Sight
+|-damage|p2a: Alomomola|80/100
+|upkeep
+|turn|13
+|
+|t:|1781332285
+|move|p1a: Mienshao|Knock Off|p2a: Alomomola
+|-damage|p2a: Alomomola|63/100
+|-enditem|p2a: Alomomola|Assault Vest|[from] move: Knock Off|[of] p1a: Mienshao
+|move|p2a: Alomomola|Flip Turn|p1a: Mienshao
+|-damage|p1a: Mienshao|69/100
+|
+|t:|1781332289
+|switch|p2a: Regieleki|Regieleki|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|14
+|
+|t:|1781332297
+|switch|p2a: Gliscor|Gliscor, M|100/100 tox
+|switch|p1a: Blissey|Blissey, F|100/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781332302
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|move|p1a: Blissey|Stealth Rock|p2a: Gliscor
+|-sidestart|p2: KnuckleTesting|move: Stealth Rock
+|
+|upkeep
+|turn|16
+|
+|t:|1781332309
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|
+|upkeep
+|turn|17
+|l|☆huilaoshi1111
+|inactive|huilaoshi1111 disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|huilaoshi1111 has 30 seconds to reconnect!
+|inactive|huilaoshi1111 has 20 seconds to reconnect!
+|inactive|huilaoshi1111 has 15 seconds to reconnect!
+|inactive|huilaoshi1111 has 10 seconds to reconnect!
+|inactive|huilaoshi1111 has 5 seconds to reconnect!
+|-message|huilaoshi1111 lost due to inactivity.
+|
+|win|KnuckleTesting
+|raw|huilaoshi1111's rating: 1536 &rarr; <strong>1518</strong><br />(-18 for losing)
+|raw|KnuckleTesting's rating: 1574 &rarr; <strong>1592</strong><br />(+18 for winning)
+|l|☆KnuckleTesting
+|player|p2|

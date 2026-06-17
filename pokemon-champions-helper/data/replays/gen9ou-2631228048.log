@@ -1,0 +1,353 @@
+|j|☆oblizzy
+|j|☆ddukkes
+|t:|1781360742
+|gametype|singles
+|player|p1|oblizzy|skierf|1562
+|player|p2|ddukkes|smasher|1586
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Valiant|
+|poke|p1|Pincurchin, M|
+|poke|p1|Pawmot, F|
+|poke|p1|Iron Moth|
+|poke|p1|Iron Leaves|
+|poke|p1|Raging Bolt|
+|poke|p2|Tyranitar, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Hydrapple, M|
+|poke|p2|Zapdos|
+|poke|p2|Cinderace, M|
+|poke|p2|Alomomola, F|
+|teampreview
+|
+|t:|1781360780
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|switch|p2a: Hydrapple|Hydrapple, M|100/100
+|turn|1
+|
+|t:|1781360808
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Alomomola
+|-damage|p2a: Alomomola|44/100
+|-damage|p1a: Iron Valiant|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1781360820
+|switch|p2a: Tyranitar|Tyranitar, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Iron Valiant|Moonblast|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-crit|p2a: Tyranitar
+|-damage|p2a: Tyranitar|34/100
+|-damage|p1a: Iron Valiant|81/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Valiant|75/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1781360830
+|switch|p2a: Excadrill|Excadrill, M, shiny|100/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|65/100
+|-unboost|p2a: Excadrill|spa|1
+|-damage|p1a: Iron Valiant|65/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Valiant|59/100|[from] Sandstorm
+|-heal|p2a: Excadrill|71/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781360846
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Iron Leaves|Iron Leaves|100/100
+|move|p2a: Excadrill|Earthquake|p1a: Iron Leaves
+|-resisted|p1a: Iron Leaves
+|-damage|p1a: Iron Leaves|65/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Leaves|59/100|[from] Sandstorm
+|-heal|p2a: Excadrill|78/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781360858
+|switch|p2a: Hydrapple|Hydrapple, M|100/100
+|-end|p1a: Iron Leaves|Quark Drive|[silent]
+|switch|p1a: Pincurchin|Pincurchin, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hydrapple|94/100|[from] Sandstorm
+|-damage|p1a: Pincurchin|94/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1781360872
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-activate|p1a: Iron Moth|ability: Quark Drive
+|-start|p1a: Iron Moth|quarkdrivespa
+|move|p2a: Hydrapple|Earth Power|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781360880
+|switch|p1a: Iron Valiant|Iron Valiant|59/100
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|7
+|
+|t:|1781360885
+|-terastallize|p2a: Hydrapple|Fairy
+|move|p1a: Iron Valiant|Moonblast|p2a: Hydrapple
+|-damage|p2a: Hydrapple|48/100
+|-damage|p1a: Iron Valiant|49/100|[from] item: Life Orb
+|move|p2a: Hydrapple|Giga Drain|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|-heal|p2a: Hydrapple|65/100|[from] drain|[of] p1a: Iron Valiant
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781360896
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|turn|8
+|
+|t:|1781360912
+|switch|p2a: Tyranitar|Tyranitar, M, shiny|34/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Raging Bolt|Rising Voltage|p2a: Tyranitar
+|-hint|Rising Voltage's BP doubled on grounded target.
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Raging Bolt|94/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781360921
+|switch|p2a: Excadrill|Excadrill, M, shiny|78/100
+|turn|9
+|
+|t:|1781360926
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Iron Leaves|Iron Leaves|59/100
+|-activate|p1a: Iron Leaves|ability: Quark Drive
+|-start|p1a: Iron Leaves|quarkdriveatk
+|move|p2a: Excadrill|Substitute|p2a: Excadrill
+|-start|p2a: Excadrill|Substitute
+|-damage|p2a: Excadrill|53/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Leaves|53/100|[from] Sandstorm
+|-heal|p2a: Excadrill|59/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781360940
+|move|p2a: Excadrill|Rapid Spin|p1a: Iron Leaves
+|-damage|p1a: Iron Leaves|31/100
+|-boost|p2a: Excadrill|spe|1
+|move|p1a: Iron Leaves|Psyblade|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-end|p2a: Excadrill|Substitute
+|-damage|p1a: Iron Leaves|21/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Leaves|15/100|[from] Sandstorm
+|-heal|p2a: Excadrill|65/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781360952
+|move|p2a: Excadrill|Rapid Spin|p1a: Iron Leaves
+|-damage|p1a: Iron Leaves|0 fnt
+|-boost|p2a: Excadrill|spe|1
+|faint|p1a: Iron Leaves
+|-end|p1a: Iron Leaves|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Excadrill|71/100|[from] item: Leftovers
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ddukkes)
+|
+|t:|1781360992
+|switch|p1a: Pawmot|Pawmot, F|100/100
+|turn|12
+|inactive|ddukkes has 120 seconds left.
+|
+|t:|1781361028
+|-terastallize|p1a: Pawmot|Fairy
+|move|p2a: Excadrill|Earthquake|p1a: Pawmot
+|-damage|p1a: Pawmot|22/100
+|move|p1a: Pawmot|Revival Blessing|p1a: Pawmot
+|-enditem|p1a: Pawmot|Leppa Berry|[eat]
+|-activate|p1a: Pawmot|item: Leppa Berry|Revival Blessing|[consumed]
+|
+|t:|1781361040
+|-heal|p1: Iron Valiant|50/100|[from] move: Revival Blessing
+|
+|-weather|none
+|-heal|p2a: Excadrill|77/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|13
+|
+|t:|1781361051
+|move|p1a: Pawmot|Mach Punch|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|32/100
+|move|p2a: Excadrill|Earthquake|p1a: Pawmot
+|-damage|p1a: Pawmot|0 fnt
+|faint|p1a: Pawmot
+|
+|-heal|p2a: Excadrill|38/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781361058
+|switch|p1a: Pincurchin|Pincurchin, M|94/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|turn|14
+|
+|t:|1781361065
+|move|p1a: Pincurchin|Sucker Punch||[still]
+|-fail|p1a: Pincurchin
+|move|p2a: Excadrill|Substitute|p2a: Excadrill
+|-start|p2a: Excadrill|Substitute
+|-damage|p2a: Excadrill|13/100
+|
+|-heal|p2a: Excadrill|19/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781361072
+|move|p1a: Pincurchin|Sucker Punch|p2a: Excadrill
+|-end|p2a: Excadrill|Substitute
+|move|p2a: Excadrill|Earthquake|p1a: Pincurchin
+|-supereffective|p1a: Pincurchin
+|-damage|p1a: Pincurchin|0 fnt
+|faint|p1a: Pincurchin
+|
+|-heal|p2a: Excadrill|25/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781361084
+|switch|p1a: Iron Valiant|Iron Valiant|50/100
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|16
+|
+|t:|1781361099
+|switch|p2a: Alomomola|Alomomola, F|77/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Alomomola
+|-damage|p2a: Alomomola|13/100
+|-damage|p1a: Iron Valiant|41/100|[from] item: Life Orb
+|
+|upkeep
+|turn|17
+|
+|t:|1781361107
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Iron Valiant|Moonblast|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Protect
+|
+|upkeep
+|turn|18
+|
+|t:|1781361112
+|move|p1a: Iron Valiant|Moonblast|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|-damage|p1a: Iron Valiant|31/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781361119
+|switch|p2a: Zapdos|Zapdos, shiny|100/100
+|turn|19
+|
+|t:|1781361134
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|94/100
+|move|p2a: Zapdos|Volt Switch|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|85/100
+|
+|t:|1781361142
+|switch|p2a: Excadrill|Excadrill, M, shiny|25/100|[from] Volt Switch
+|
+|-heal|p2a: Excadrill|32/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781361151
+|move|p2a: Excadrill|Earthquake|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-heal|p2a: Excadrill|38/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781361153
+|switch|p1a: Iron Valiant|Iron Valiant|31/100
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|21
+|
+|t:|1781361163
+|move|p1a: Iron Valiant|Ice Punch|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|-damage|p1a: Iron Valiant|21/100|[from] item: Life Orb
+|
+|-fieldend|move: Electric Terrain
+|-end|p1a: Iron Valiant|Quark Drive
+|upkeep
+|
+|t:|1781361170
+|switch|p2a: Zapdos|Zapdos, shiny|100/100
+|turn|22
+|
+|t:|1781361177
+|move|p1a: Iron Valiant|Ice Punch|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|37/100
+|-damage|p1a: Iron Valiant|12/100|[from] item: Life Orb
+|move|p2a: Zapdos|Volt Switch|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|win|ddukkes
+|raw|oblizzy's rating: 1562 &rarr; <strong>1543</strong><br />(-19 for losing)
+|raw|ddukkes's rating: 1586 &rarr; <strong>1605</strong><br />(+19 for winning)
+|l|☆oblizzy
+|player|p1|
+|l|☆ddukkes
+|player|p2|

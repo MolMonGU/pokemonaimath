@@ -1,0 +1,268 @@
+|j|☆enderprise
+|j|☆Juchzer
+|t:|1781009392
+|gametype|singles
+|player|p1|enderprise|170|1636
+|player|p2|Juchzer|1|1667
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Corviknight, M|
+|poke|p1|Walking Wake|
+|poke|p1|Great Tusk|
+|poke|p1|Raging Bolt|
+|poke|p1|Lilligant-Hisui, F|
+|poke|p1|Torkoal, F|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Ceruledge, F|
+|poke|p2|Great Tusk|
+|poke|p2|Scizor, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|
+|t:|1781009413
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Juchzer)
+|
+|t:|1781009435
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781009461
+|-terastallize|p2a: Ceruledge|Fire
+|move|p1a: Raging Bolt|Thunderclap|p2a: Ceruledge
+|-damage|p2a: Ceruledge|39/100
+|move|p2a: Ceruledge|Bitter Blade|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|-heal|p2a: Ceruledge|100/100|[from] drain|[of] p1a: Raging Bolt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|enderprise has 120 seconds left.
+|inactive|enderprise has 90 seconds left.
+|
+|t:|1781009525
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|3
+|
+|t:|1781009534
+|move|p1a: Walking Wake|Hydro Steam|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-enditem|p2a: Ceruledge|Focus Sash
+|-damage|p2a: Ceruledge|1/100
+|-damage|p1a: Walking Wake|91/100|[from] item: Life Orb
+|move|p2a: Ceruledge|Poltergeist|p1a: Walking Wake
+|-activate|p1a: Walking Wake|move: Poltergeist|Life Orb
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|j| kanitanku
+|
+|t:|1781009552
+|switch|p1a: Lilligant|Lilligant-Hisui, F|100/100
+|turn|4
+|
+|t:|1781009558
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Lilligant
+|-damage|p1a: Lilligant|29/100
+|move|p1a: Lilligant|Solar Blade||[still]
+|-prepare|p1a: Lilligant|Solar Blade
+|-anim|p1a: Lilligant|Solar Blade|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|-damage|p1a: Lilligant|19/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781009565
+|switch|p2a: Scizor|Scizor, F|100/100
+|turn|5
+|
+|t:|1781009582
+|move|p1a: Lilligant|Close Combat|p2a: Scizor
+|-damage|p2a: Scizor|31/100
+|-unboost|p1a: Lilligant|def|1
+|-unboost|p1a: Lilligant|spd|1
+|-damage|p1a: Lilligant|9/100|[from] item: Life Orb
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Scizor|37/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781009592
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Scizor|Bullet Punch|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|71/100
+|-damage|p2a: Scizor|21/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Scizor|27/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|enderprise has 120 seconds left.
+|
+|t:|1781009601
+|move|p1a: Corviknight|Brave Bird|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|-damage|p1a: Corviknight|63/100|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781009616
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100
+|turn|8
+|inactive|enderprise has 120 seconds left.
+|
+|t:|1781009640
+|move|p2a: Hoopa|Knock Off|p1a: Corviknight
+|-crit|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|-damage|p2a: Hoopa|84/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|-enditem|p1a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p2a: Hoopa
+|faint|p1a: Corviknight
+|
+|-weather|none
+|upkeep
+|inactive|enderprise has 90 seconds left.
+|
+|t:|1781009698
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|9
+|l| kanitanku
+|j| kanitanku
+|
+|t:|1781009717
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Torkoal|Overheat|p2a: Hatterene
+|-crit|p2a: Hatterene
+|-damage|p2a: Hatterene|36/100
+|-unboost|p1a: Torkoal|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781009725
+|move|p1a: Torkoal|Overheat|p2a: Hatterene
+|-damage|p2a: Hatterene|14/100
+|-unboost|p1a: Torkoal|spa|2
+|move|p2a: Hatterene|Draining Kiss|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|80/100
+|-heal|p2a: Hatterene|30/100|[from] drain|[of] p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781009740
+|switch|p1a: Lilligant|Lilligant-Hisui, F|9/100
+|move|p2a: Hatterene|Draining Kiss|p1a: Lilligant
+|-supereffective|p1a: Lilligant
+|-damage|p1a: Lilligant|0 fnt
+|-heal|p2a: Hatterene|36/100|[from] drain|[of] p1a: Lilligant
+|faint|p1a: Lilligant
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781009742
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|12
+|
+|t:|1781009747
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Great Tusk|atk|1
+|move|p1a: Great Tusk|Ice Spinner|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|-damage|p1a: Great Tusk|84/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|faint|p2a: Landorus
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781009752
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|13
+|inactive|enderprise has 90 seconds left.
+|
+|t:|1781009762
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, F|80/100
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|j| Agathina
+|inactive|enderprise has 90 seconds left.
+|l|☆enderprise
+|inactive|enderprise disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|enderprise has 30 seconds to reconnect!
+|inactive|enderprise has 20 seconds to reconnect!
+|inactive|enderprise has 15 seconds to reconnect!
+|inactive|enderprise has 10 seconds to reconnect!
+|inactive|enderprise has 5 seconds to reconnect!
+|-message|enderprise lost due to inactivity.
+|
+|win|Juchzer
+|raw|enderprise's rating: 1636 &rarr; <strong>1618</strong><br />(-18 for losing)
+|raw|Juchzer's rating: 1667 &rarr; <strong>1685</strong><br />(+18 for winning)
+|l|☆Juchzer
+|player|p2|
+|l| kanitanku
+|j|☆enderprise
+|player|p1|enderprise|170|
+|l|☆enderprise
+|player|p1|

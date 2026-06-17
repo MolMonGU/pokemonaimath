@@ -1,0 +1,367 @@
+|j|☆Floundso
+|j|☆spudcutter
+|t:|1781013642
+|gametype|singles
+|player|p1|Floundso|giovanni|1760
+|player|p2|spudcutter|ghetsis-gen5bw|1712
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Glimmora, F|
+|poke|p1|Cresselia, F|
+|poke|p1|Gholdengo|
+|poke|p1|Gliscor, F|
+|poke|p1|Raging Bolt|
+|poke|p2|Tyranitar, F|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Great Tusk|
+|poke|p2|Raging Bolt|
+|poke|p2|Dondozo, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by spudcutter)
+|
+|t:|1781013648
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|1
+|j| OParzival
+|
+|t:|1781013651
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|move|p1a: Ogerpon|Knock Off|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|67/100
+|-enditem|p2a: Raging Bolt|Leftovers|[from] move: Knock Off|[of] p1a: Ogerpon
+|
+|upkeep
+|turn|2
+|
+|t:|1781013655
+|move|p1a: Ogerpon|Spikes|p2a: Raging Bolt
+|-sidestart|p2: spudcutter|Spikes
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Ogerpon
+|-damage|p1a: Ogerpon|43/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781013671
+|move|p1a: Ogerpon|Spikes|p2a: Raging Bolt
+|-sidestart|p2: spudcutter|Spikes
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1781013684
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|4
+|l| OParzival
+|
+|t:|1781013693
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-damage|p2a: Tyranitar|84/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Tyranitar
+|-damage|p2a: Tyranitar|49/100
+|-unboost|p1a: Raging Bolt|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Raging Bolt|94/100|[from] Sandstorm
+|upkeep
+|turn|5
+|inactive|Floundso has 120 seconds left.
+|
+|t:|1781013723
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|move|p2a: Tyranitar|Knock Off|p1a: Glimmora
+|-damage|p1a: Glimmora|33/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: spudcutter|move: Toxic Spikes
+|-enditem|p1a: Glimmora|Focus Sash|[from] move: Knock Off|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781013733
+|move|p1a: Glimmora|Stealth Rock|p2a: Tyranitar
+|-sidestart|p2: spudcutter|move: Stealth Rock
+|move|p2a: Tyranitar|Knock Off|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: spudcutter|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781013740
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|7
+|
+|t:|1781013742
+|move|p1a: Gholdengo|Make It Rain|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781013745
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|-damage|p2a: Slowking|84/100|[from] Spikes
+|-sideend|p2: spudcutter|move: Toxic Spikes|[of] p2a: Slowking
+|-damage|p2a: Slowking|72/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1781013752
+|switch|p1a: Gliscor|Gliscor, F|100/100
+|move|p2a: Slowking|Ice Beam|p1a: Gliscor
+|-supereffective|p1a: Gliscor
+|-damage|p1a: Gliscor|4/100
+|
+|-weather|none
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|9
+|
+|t:|1781013755
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-damage|p2a: Great Tusk|84/100|[from] Spikes
+|-damage|p2a: Great Tusk|81/100|[from] Stealth Rock
+|move|p1a: Gliscor|Knock Off|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|76/100
+|-enditem|p2a: Great Tusk|Leftovers|[from] move: Knock Off|[of] p1a: Gliscor
+|
+|-heal|p1a: Gliscor|17/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|10
+|
+|t:|1781013758
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Great Tusk|Stealth Rock|p1a: Gliscor
+|-sidestart|p1: Floundso|move: Stealth Rock
+|
+|-heal|p1a: Gliscor|29/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|11
+|
+|t:|1781013762
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|move|p2a: Great Tusk|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|33/100
+|-enditem|p1a: Gholdengo|Choice Scarf|[from] move: Knock Off|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|12
+|
+|t:|1781013766
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Raging Bolt|Raging Bolt|67/100
+|-damage|p2a: Raging Bolt|50/100|[from] Spikes
+|-damage|p2a: Raging Bolt|38/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Make It Rain|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|13/100
+|-unboost|p1a: Gholdengo|spa|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781013773
+|switch|p1a: Gliscor|Gliscor, F|29/100 tox
+|-damage|p1a: Gliscor|17/100 tox|[from] Stealth Rock
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|
+|upkeep
+|
+|t:|1781013784
+|switch|p1a: Raging Bolt|Raging Bolt|94/100
+|-damage|p1a: Raging Bolt|82/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1781013786
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-unboost|p1a: Raging Bolt|spa|2
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781013788
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|-damage|p2a: Slowking|84/100|[from] Spikes
+|-damage|p2a: Slowking|72/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1781013793
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Gholdengo|Gholdengo|33/100
+|-damage|p1a: Gholdengo|27/100|[from] Stealth Rock
+|move|p2a: Slowking|Flamethrower|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781013795
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|-damage|p1a: Cresselia|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781013798
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Cresselia
+|-damage|p1a: Cresselia|69/100
+|
+|-heal|p1a: Cresselia|75/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781013803
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Cresselia
+|-damage|p1a: Cresselia|60/100
+|
+|-heal|p1a: Cresselia|66/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781013806
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Cresselia
+|-damage|p1a: Cresselia|54/100
+|-status|p1a: Cresselia|psn
+|
+|-heal|p1a: Cresselia|60/100 psn|[from] item: Leftovers
+|-damage|p1a: Cresselia|48/100 psn|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1781013810
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-damage|p2a: Deoxys|84/100|[from] Spikes
+|-damage|p2a: Deoxys|71/100|[from] Stealth Rock
+|-ability|p2a: Deoxys|Pressure
+|move|p1a: Cresselia|Lunar Blessing|p1a: Cresselia
+|-heal|p1a: Cresselia|73/100 psn
+|-curestatus|p1a: Cresselia|psn|[msg]
+|
+|-heal|p1a: Cresselia|79/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781013819
+|-terastallize|p2a: Deoxys|Dark
+|move|p2a: Deoxys|Knock Off|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|24/100
+|-enditem|p1a: Cresselia|Leftovers|[from] move: Knock Off|[of] p2a: Deoxys
+|-damage|p2a: Deoxys|61/100|[from] item: Life Orb
+|move|p1a: Cresselia|Stored Power|p2a: Deoxys
+|-immune|p2a: Deoxys
+|
+|upkeep
+|turn|21
+|
+|t:|1781013824
+|-terastallize|p1a: Cresselia|Fairy
+|move|p2a: Deoxys|Knock Off|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|14/100
+|-damage|p2a: Deoxys|52/100|[from] item: Life Orb
+|move|p1a: Cresselia|Lunar Blessing|p1a: Cresselia
+|-heal|p1a: Cresselia|39/100
+|
+|upkeep
+|turn|22
+|
+|t:|1781013828
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|-damage|p2a: Slowking|84/100|[from] Spikes
+|-damage|p2a: Slowking|72/100|[from] Stealth Rock
+|move|p1a: Cresselia|Lunar Blessing|p1a: Cresselia
+|-heal|p1a: Cresselia|64/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781013832
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|44/100
+|
+|upkeep
+|turn|24
+|
+|t:|1781013835
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|27/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781013837
+|move|p1a: Cresselia|Lunar Blessing|p1a: Cresselia
+|-heal|p1a: Cresselia|52/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-crit|p1a: Cresselia
+|-damage|p1a: Cresselia|0 fnt
+|faint|p1a: Cresselia
+|
+|upkeep
+|-message|Floundso forfeited.
+|
+|win|spudcutter
+|raw|Floundso's rating: 1760 &rarr; <strong>1737</strong><br />(-23 for losing)
+|raw|spudcutter's rating: 1712 &rarr; <strong>1735</strong><br />(+23 for winning)
+|l|☆Floundso
+|player|p1|
+|l|☆spudcutter
+|player|p2|

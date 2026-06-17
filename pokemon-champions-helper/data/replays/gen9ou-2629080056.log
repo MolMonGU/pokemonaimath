@@ -1,0 +1,174 @@
+|j|☆anamchara
+|j|☆misplayin
+|t:|1781096683
+|gametype|singles
+|player|p1|anamchara|101|1579
+|player|p2|misplayin|acetrainerf-gen2|1564
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Meowscarada, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Glimmora, F|
+|poke|p1|Dragapult, M|
+|poke|p2|Zoroark-Hisui, F|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Moltres|
+|poke|p2|Iron Treads|
+|poke|p2|Slowking-Galar, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by misplayin)
+|
+|t:|1781096698
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|turn|1
+|
+|t:|1781096708
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Meowscarada|U-turn|p2a: Moltres
+|-start|p1a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|95/100
+|
+|t:|1781096709
+|switch|p1a: Glimmora|Glimmora, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1781096712
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Glimmora|Power Gem|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|89/100
+|-damage|p1a: Glimmora|91/100|[from] item: Life Orb
+|
+|-heal|p2a: Iron Treads|95/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781096732
+|-terastallize|p1a: Glimmora|Grass
+|move|p1a: Glimmora|Earth Power|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|20/100
+|-damage|p1a: Glimmora|81/100|[from] item: Life Orb
+|move|p2a: Iron Treads|Stealth Rock|p1a: Glimmora
+|-sidestart|p1: anamchara|move: Stealth Rock
+|
+|-heal|p2a: Iron Treads|26/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781096755
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Glimmora|Energy Ball|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|replace|p2a: Zoroark|Zoroark-Hisui, F, shiny
+|-end|p2a: Zoroark|Illusion
+|faint|p2a: Zoroark
+|-damage|p1a: Glimmora|71/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781096761
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|5
+|
+|t:|1781096769
+|move|p2a: Zamazenta|Heavy Slam|p1a: Glimmora
+|-damage|p1a: Glimmora|6/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: misplayin|move: Toxic Spikes
+|move|p1a: Glimmora|Stealth Rock|p2a: Zamazenta
+|-sidestart|p2: misplayin|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1781096773
+|move|p2a: Zamazenta|Heavy Slam|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: misplayin|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1781096780
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1781096785
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|-status|p2a: Samurott|tox
+|-damage|p2a: Samurott|88/100 tox|[from] Stealth Rock
+|move|p1a: Dragapult|Will-O-Wisp||[still]
+|-fail|p1a: Dragapult
+|
+|-damage|p2a: Samurott|82/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781096790
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Samurott|Ceaseless Edge|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|80/100
+|-sidestart|p1: anamchara|Spikes
+|
+|-damage|p2a: Samurott|70/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1781096793
+|-terastallize|p2a: Samurott|Poison
+|move|p1a: Iron Valiant|Swords Dance|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|atk|2
+|move|p2a: Samurott|Razor Shell|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|20/100
+|
+|-damage|p2a: Samurott|52/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1781096822
+|move|p1a: Iron Valiant|Knock Off|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|-enditem|p2a: Samurott|Assault Vest|[from] move: Knock Off|[of] p1a: Iron Valiant
+|faint|p2a: Samurott
+|
+|upkeep
+|-message|misplayin forfeited.
+|
+|win|anamchara
+|raw|anamchara's rating: 1579 &rarr; <strong>1598</strong><br />(+19 for winning)
+|raw|misplayin's rating: 1564 &rarr; <strong>1545</strong><br />(-19 for losing)
+|l|☆misplayin
+|player|p2|
+|l|☆anamchara
+|player|p1|

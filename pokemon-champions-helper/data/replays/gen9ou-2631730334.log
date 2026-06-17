@@ -1,0 +1,334 @@
+|j|‽elsadm27
+|j|☆overheat xyz
+|t:|1781430055
+|gametype|singles
+|player|p1|elsadm27|tucker-gen3|1728
+|player|p2|overheat xyz|2|1689
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Darkrai|
+|poke|p1|Pecharunt|
+|poke|p1|Kingambit, F|
+|poke|p1|Ting-Lu|
+|poke|p1|Iron Valiant|
+|poke|p1|Dragonite, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Corviknight, F|
+|teampreview
+|
+|t:|1781430077
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Darkrai|Darkrai|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by elsadm27)
+|
+|t:|1781430122
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|-terastallize|p1a: Darkrai|Dark
+|move|p1a: Darkrai|Dark Pulse|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|8/100
+|
+|-heal|p2a: Slowking|14/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781430131
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|move|p1a: Darkrai|Dark Pulse|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|31/100
+|
+|-heal|p2a: Samurott|37/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781430146
+|move|p2a: Samurott|Sacred Sword|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|-heal|p2a: Samurott|43/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781430154
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|4
+|
+|t:|1781430172
+|move|p2a: Samurott|Sacred Sword|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|63/100
+|-enditem|p1a: Ting-Lu|Red Card|[of] p2a: Samurott
+|drag|p2a: Slowking|Slowking-Galar, F|47/100
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Slowking
+|-sidestart|p2: overheat xyz|move: Stealth Rock
+|
+|-heal|p2a: Slowking|54/100|[from] Grassy Terrain
+|-heal|p1a: Ting-Lu|69/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781430183
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ting-Lu|Whirlwind|p2a: Corviknight
+|drag|p2a: Dragapult|Dragapult, F|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Dragapult|94/100|[from] Grassy Terrain
+|-heal|p1a: Ting-Lu|75/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781430186
+|move|p2a: Dragapult|U-turn|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|60/100
+|
+|t:|1781430191
+|switch|p2a: Corviknight|Corviknight, F|88/100|[from] U-turn
+|-damage|p2a: Corviknight|75/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ting-Lu|Whirlwind|p2a: Corviknight
+|drag|p2a: Samurott|Samurott-Hisui, M|43/100
+|-damage|p2a: Samurott|31/100|[from] Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1781430203
+|move|p2a: Samurott|Sacred Sword|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|22/100
+|move|p1a: Ting-Lu|Spikes|p2a: Samurott
+|-sidestart|p2: overheat xyz|Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1781430211
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|-item|p1a: Pecharunt|Air Balloon
+|move|p2a: Samurott|Sacred Sword|p1a: Pecharunt
+|-immune|p1a: Pecharunt
+|
+|upkeep
+|turn|9
+|
+|t:|1781430228
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-damage|p2a: Kingambit|82/100|[from] Spikes
+|move|p1a: Pecharunt|Nasty Plot|p1a: Pecharunt
+|-boost|p1a: Pecharunt|spa|2
+|
+|-heal|p2a: Kingambit|88/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781430237
+|switch|p1a: Ting-Lu|Ting-Lu|22/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781430246
+|move|p2a: Kingambit|Iron Head|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|-heal|p2a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781430249
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|12
+|
+|t:|1781430254
+|-terastallize|p2a: Kingambit|Fairy
+|move|p1a: Iron Valiant|Swords Dance|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|atk|2
+|move|p2a: Kingambit|Iron Head|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781430260
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|13
+|
+|t:|1781430271
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|move|p2a: Kingambit|Iron Head|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|63/100
+|
+|-heal|p1a: Kingambit|69/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781430283
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Samurott|Samurott-Hisui, M|31/100
+|-damage|p2a: Samurott|18/100|[from] Stealth Rock
+|-damage|p2a: Samurott|6/100|[from] Spikes
+|move|p1a: Kingambit|Iron Head|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-heal|p1a: Kingambit|75/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781430291
+|switch|p2a: Corviknight|Corviknight, F|75/100
+|-damage|p2a: Corviknight|63/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|turn|15
+|
+|t:|1781430300
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|move|p1a: Kingambit|Low Kick|p2a: Corviknight
+|-damage|p2a: Corviknight|40/100
+|-damage|p1a: Kingambit|59/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|-heal|p1a: Kingambit|65/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781430308
+|-end|p1a: Kingambit|fallen3|[silent]
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|-item|p1a: Pecharunt|Air Balloon
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|90/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|17
+|
+|t:|1781430318
+|move|p1a: Pecharunt|Nasty Plot|p1a: Pecharunt
+|-boost|p1a: Pecharunt|spa|2
+|move|p2a: Corviknight|Defog|p1a: Pecharunt
+|-unboost|p1a: Pecharunt|evasion|1
+|-sideend|p2: overheat xyz|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|-sideend|p2: overheat xyz|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|18
+|
+|t:|1781430325
+|switch|p2a: Kingambit|Kingambit, M, tera:Fairy|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Pecharunt|Shadow Ball|p2a: Kingambit
+|-damage|p2a: Kingambit|44/100
+|
+|-heal|p2a: Kingambit|50/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781430340
+|move|p2a: Kingambit|Sucker Punch|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|36/100
+|-enditem|p1a: Pecharunt|Air Balloon
+|move|p1a: Pecharunt|Shadow Ball|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen1|[silent]
+|
+|upkeep
+|
+|t:|1781430356
+|switch|p2a: Dragapult|Dragapult, F|94/100
+|turn|20
+|
+|t:|1781430365
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|move|p2a: Dragapult|Shadow Ball|p1a: Dragonite
+|-damage|p1a: Dragonite|73/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781430375
+|switch|p1a: Pecharunt|Pecharunt|36/100
+|move|p2a: Dragapult|Shadow Ball|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|faint|p1a: Pecharunt
+|
+|upkeep
+|
+|t:|1781430380
+|switch|p1a: Kingambit|Kingambit, F|65/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|22
+|
+|t:|1781430392
+|switch|p2a: Corviknight|Corviknight, F|90/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|71/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781430402
+|move|p2a: Corviknight|Body Press|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|
+|upkeep
+|-message|elsadm27 forfeited.
+|
+|win|overheat xyz
+|raw|elsadm27's rating: 1728 &rarr; <strong>1706</strong><br />(-22 for losing)
+|raw|overheat xyz's rating: 1689 &rarr; <strong>1711</strong><br />(+22 for winning)
+|l|‽elsadm27
+|player|p1|
+|l|☆overheat xyz
+|player|p2|

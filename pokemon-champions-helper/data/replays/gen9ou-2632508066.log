@@ -1,0 +1,345 @@
+|j|☆punaise2lit
+|j|☆erhai
+|t:|1781533948
+|gametype|singles
+|player|p1|punaise2lit|gentleman-gen4|1531
+|player|p2|erhai|101|1649
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zarude|
+|poke|p1|Ting-Lu|
+|poke|p1|Weezing-Galar, M|
+|poke|p1|Zapdos|
+|poke|p1|Zamazenta-*|
+|poke|p1|Kyurem|
+|poke|p2|Iron Jugulis|
+|poke|p2|Ogerpon, F|
+|poke|p2|Scizor, F|
+|poke|p2|Latios, M|
+|poke|p2|Manaphy|
+|poke|p2|Sandy Shocks|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by punaise2lit)
+|
+|t:|1781533974
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|switch|p2a: Iron Jugulis|Iron Jugulis|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|-enditem|p2a: Iron Jugulis|Booster Energy
+|-activate|p2a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Jugulis|quarkdrivespe
+|turn|1
+|
+|t:|1781533989
+|move|p2a: Iron Jugulis|Taunt|p1a: Ting-Lu
+|-start|p1a: Ting-Lu|move: Taunt
+|cant|p1a: Ting-Lu|move: Taunt|Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781533992
+|move|p2a: Iron Jugulis|Hurricane|p1a: Ting-Lu|[miss]
+|-miss|p2a: Iron Jugulis|p1a: Ting-Lu
+|move|p1a: Ting-Lu|Ruination|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|51/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781534000
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Iron Jugulis|Hurricane|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|72/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781534005
+|move|p2a: Iron Jugulis|Dark Pulse|p1a: Zapdos
+|-damage|p1a: Zapdos|34/100
+|move|p1a: Zapdos|Volt Switch|p2a: Iron Jugulis
+|-supereffective|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|0 fnt
+|faint|p2a: Iron Jugulis
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|
+|t:|1781534025
+|switch|p1a: Weezing|Weezing-Galar, M|100/100|[from] Volt Switch
+|-ability|p1a: Weezing|Neutralizing Gas
+|
+|upkeep
+|
+|t:|1781534044
+|switch|p2a: Sandy Shocks|Sandy Shocks|100/100
+|turn|5
+|
+|t:|1781534054
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-enditem|p2a: Sandy Shocks|Booster Energy
+|-activate|p2a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p2a: Sandy Shocks|protosynthesisspe
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Sandy Shocks|Stealth Rock|p1a: Ting-Lu
+|-sidestart|p1: punaise2lit|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1781534065
+|move|p2a: Sandy Shocks|Spikes|p1a: Ting-Lu
+|-sidestart|p1: punaise2lit|Spikes
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Sandy Shocks
+|-sidestart|p2: erhai|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1781534069
+|move|p2a: Sandy Shocks|Spikes|p1a: Ting-Lu
+|-sidestart|p1: punaise2lit|Spikes
+|move|p1a: Ting-Lu|Spikes|p2a: Sandy Shocks
+|-sidestart|p2: erhai|Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1781534072
+|move|p2a: Sandy Shocks|Spikes|p1a: Ting-Lu
+|-sidestart|p1: punaise2lit|Spikes
+|move|p1a: Ting-Lu|Spikes|p2a: Sandy Shocks
+|-sidestart|p2: erhai|Spikes
+|
+|upkeep
+|turn|9
+|
+|t:|1781534077
+|move|p2a: Sandy Shocks|Earth Power|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|81/100
+|move|p1a: Ting-Lu|Spikes|p2a: Sandy Shocks
+|-sidestart|p2: erhai|Spikes
+|
+|-heal|p1a: Ting-Lu|87/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781534079
+|move|p2a: Sandy Shocks|Earth Power|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|69/100
+|move|p1a: Ting-Lu|Earthquake|p2a: Sandy Shocks
+|-supereffective|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|13/100
+|
+|-heal|p1a: Ting-Lu|75/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781534086
+|move|p2a: Sandy Shocks|Earth Power|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|57/100
+|move|p1a: Ting-Lu|Earthquake|p2a: Sandy Shocks
+|-supereffective|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|0 fnt
+|faint|p2a: Sandy Shocks
+|-end|p2a: Sandy Shocks|Protosynthesis|[silent]
+|
+|-heal|p1a: Ting-Lu|63/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781534104
+|switch|p2a: Scizor|Scizor, F, shiny|100/100
+|-damage|p2a: Scizor|88/100|[from] Stealth Rock
+|-damage|p2a: Scizor|63/100|[from] Spikes
+|turn|12
+|
+|t:|1781534109
+|switch|p1a: Zapdos|Zapdos|34/100
+|move|p2a: Scizor|Close Combat|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|18/100
+|-unboost|p2a: Scizor|def|1
+|-unboost|p2a: Scizor|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781534120
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|68/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|upkeep
+|turn|14
+|
+|t:|1781534126
+|move|p2a: Scizor|Bullet Punch|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|37/100
+|-status|p2a: Scizor|par|[from] ability: Static|[of] p1a: Zapdos
+|move|p1a: Zapdos|Heat Wave|p2a: Scizor
+|-supereffective|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1781534133
+|switch|p2a: Manaphy|Manaphy, shiny|100/100
+|-damage|p2a: Manaphy|88/100|[from] Stealth Rock
+|-damage|p2a: Manaphy|63/100|[from] Spikes
+|turn|15
+|
+|t:|1781534138
+|move|p2a: Manaphy|Tail Glow|p2a: Manaphy
+|-boost|p2a: Manaphy|spa|3
+|move|p1a: Zapdos|Volt Switch|p2a: Manaphy
+|-supereffective|p2a: Manaphy
+|-damage|p2a: Manaphy|2/100
+|
+|t:|1781534148
+|switch|p1a: Zamazenta|Zamazenta|100/100|[from] Volt Switch
+|-damage|p1a: Zamazenta|94/100|[from] Stealth Rock
+|-damage|p1a: Zamazenta|69/100|[from] Spikes
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|
+|-heal|p1a: Zamazenta|75/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781534151
+|move|p1a: Zamazenta|Body Press|p2a: Manaphy
+|-damage|p2a: Manaphy|0 fnt
+|faint|p2a: Manaphy
+|
+|-heal|p1a: Zamazenta|82/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781534153
+|switch|p2a: Latios|Latios, M, shiny|100/100
+|-damage|p2a: Latios|88/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1781534161
+|move|p1a: Zamazenta|Crunch|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|47/100
+|-unboost|p2a: Latios|def|1
+|-enditem|p2a: Latios|Weakness Policy
+|-boost|p2a: Latios|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Latios|spa|2|[from] item: Weakness Policy
+|move|p2a: Latios|Agility|p2a: Latios
+|-boost|p2a: Latios|spe|2
+|
+|-heal|p1a: Zamazenta|88/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781534175
+|move|p2a: Latios|Stored Power|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|upkeep
+|
+|t:|1781534179
+|switch|p1a: Ting-Lu|Ting-Lu|63/100
+|-damage|p1a: Ting-Lu|57/100|[from] Stealth Rock
+|-damage|p1a: Ting-Lu|32/100|[from] Spikes
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|19
+|
+|t:|1781534184
+|-terastallize|p2a: Latios|Fighting
+|move|p2a: Latios|Aura Sphere|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781534188
+|switch|p1a: Zarude|Zarude|100/100
+|-damage|p1a: Zarude|88/100|[from] Stealth Rock
+|-damage|p1a: Zarude|63/100|[from] Spikes
+|turn|20
+|
+|t:|1781534192
+|-terastallize|p1a: Zarude|Poison
+|move|p2a: Latios|Aura Sphere|p1a: Zarude
+|-resisted|p1a: Zarude
+|-crit|p1a: Zarude
+|-damage|p1a: Zarude|6/100
+|move|p1a: Zarude|Drain Punch|p2a: Latios
+|-damage|p2a: Latios|15/100
+|-heal|p1a: Zarude|23/100|[from] drain|[of] p2a: Latios
+|
+|-heal|p1a: Zarude|29/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|j| newhere1310
+|
+|t:|1781534200
+|move|p2a: Latios|Stored Power|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|0 fnt
+|faint|p1a: Zarude
+|
+|upkeep
+|
+|t:|1781534202
+|switch|p1a: Kyurem|Kyurem|100/100
+|-damage|p1a: Kyurem|76/100|[from] Stealth Rock
+|-damage|p1a: Kyurem|51/100|[from] Spikes
+|-ability|p1a: Kyurem|Pressure
+|turn|22
+|
+|t:|1781534206
+|move|p2a: Latios|Stored Power|p1a: Kyurem
+|-crit|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781534209
+|switch|p1a: Weezing|Weezing-Galar, M|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|turn|23
+|
+|t:|1781534212
+|move|p2a: Latios|Stored Power|p1a: Weezing
+|-supereffective|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|
+|upkeep
+|-message|punaise2lit forfeited.
+|
+|win|erhai
+|raw|punaise2lit's rating: 1531 &rarr; <strong>1518</strong><br />(-13 for losing)
+|raw|erhai's rating: 1649 &rarr; <strong>1662</strong><br />(+13 for winning)
+|l| newhere1310
+|l|☆punaise2lit
+|player|p1|
+|l|☆erhai
+|player|p2|

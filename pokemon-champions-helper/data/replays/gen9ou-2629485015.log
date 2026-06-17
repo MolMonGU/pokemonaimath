@@ -1,0 +1,327 @@
+|j|☆fivetomatoes
+|j|☆KurisuChestnutOU
+|t:|1781136660
+|gametype|singles
+|player|p1|fivetomatoes|102|1582
+|player|p2|KurisuChestnutOU|may-contest|1518
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Rotom-Wash|
+|poke|p1|Rillaboom, F|
+|poke|p1|Glimmora, M|
+|poke|p1|Garganacl, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Gholdengo|
+|poke|p2|Gliscor, F|
+|poke|p2|Dondozo, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Gholdengo|
+|poke|p2|Great Tusk|
+|poke|p2|Kingambit, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by fivetomatoes)
+|
+|t:|1781136665
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|inactive|KurisuChestnutOU also wants the timer to be on.
+|
+|t:|1781136669
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|move|p1a: Rillaboom|Knock Off|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|81/100
+|-enditem|p2a: Kingambit|Leftovers|[from] move: Knock Off|[of] p1a: Rillaboom
+|-damage|p1a: Rillaboom|91/100|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|97/100|[from] Grassy Terrain
+|-heal|p2a: Kingambit|87/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781136674
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|move|p1a: Rillaboom|U-turn|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|91/100
+|-damage|p1a: Rillaboom|87/100|[from] item: Life Orb
+|
+|t:|1781136684
+|switch|p1a: Dragapult|Dragapult, M|100/100|[from] U-turn
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|3
+|
+|t:|1781136688
+|move|p1a: Dragapult|Substitute|p1a: Dragapult
+|-start|p1a: Dragapult|Substitute
+|-damage|p1a: Dragapult|76/100
+|move|p2a: Gliscor|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-end|p1a: Dragapult|Substitute
+|
+|-heal|p1a: Dragapult|82/100|[from] Grassy Terrain
+|-heal|p1a: Dragapult|88/100|[from] item: Leftovers
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|4
+|
+|t:|1781136696
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|move|p2a: Gliscor|Spikes|p1a: Garganacl
+|-sidestart|p1: fivetomatoes|Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1781136702
+|move|p2a: Gliscor|Spikes|p1a: Garganacl
+|-sidestart|p1: fivetomatoes|Spikes
+|move|p1a: Garganacl|Curse|p1a: Garganacl
+|-unboost|p1a: Garganacl|spe|1
+|-boost|p1a: Garganacl|atk|1
+|-boost|p1a: Garganacl|def|1
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781136708
+|move|p2a: Gliscor|Spikes|p1a: Garganacl
+|-sidestart|p1: fivetomatoes|Spikes
+|move|p1a: Garganacl|Salt Cure|p2a: Gliscor
+|-damage|p2a: Gliscor|88/100 tox
+|-start|p2a: Gliscor|Salt Cure
+|
+|-heal|p2a: Gliscor|99/100 tox|[from] ability: Poison Heal
+|-damage|p2a: Gliscor|88/100 tox|[from] Salt Cure
+|upkeep
+|turn|7
+|
+|t:|1781136715
+|move|p2a: Gliscor|Knock Off|p1a: Garganacl
+|-damage|p1a: Garganacl|93/100
+|-enditem|p1a: Garganacl|Leftovers|[from] move: Knock Off|[of] p2a: Gliscor
+|move|p1a: Garganacl|Salt Cure|p2a: Gliscor
+|-damage|p2a: Gliscor|76/100 tox
+|
+|-heal|p2a: Gliscor|88/100 tox|[from] ability: Poison Heal
+|-damage|p2a: Gliscor|76/100 tox|[from] Salt Cure
+|upkeep
+|turn|8
+|
+|t:|1781136720
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Garganacl|Salt Cure|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-crit|p2a: Gholdengo
+|-damage|p2a: Gholdengo|82/100
+|-start|p2a: Gholdengo|Salt Cure
+|-enditem|p2a: Gholdengo|Air Balloon
+|
+|-damage|p2a: Gholdengo|57/100|[from] Salt Cure
+|upkeep
+|turn|9
+|
+|t:|1781136724
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Gholdengo|Recover|p2a: Gholdengo
+|-heal|p2a: Gholdengo|100/100
+|
+|-damage|p2a: Gholdengo|76/100|[from] Salt Cure
+|upkeep
+|turn|10
+|
+|t:|1781136733
+|-terastallize|p1a: Garganacl|Dark
+|move|p2a: Gholdengo|Make It Rain|p1a: Garganacl
+|-damage|p1a: Garganacl|38/100
+|-unboost|p2a: Gholdengo|spa|1
+|move|p1a: Garganacl|Curse|p1a: Garganacl
+|-unboost|p1a: Garganacl|spe|1
+|-boost|p1a: Garganacl|atk|1
+|-boost|p1a: Garganacl|def|1
+|
+|-damage|p2a: Gholdengo|51/100|[from] Salt Cure
+|upkeep
+|turn|11
+|
+|t:|1781136739
+|move|p2a: Gholdengo|Recover|p2a: Gholdengo
+|-heal|p2a: Gholdengo|100/100
+|move|p1a: Garganacl|Recover|p1a: Garganacl
+|-heal|p1a: Garganacl|88/100
+|
+|-damage|p2a: Gholdengo|76/100|[from] Salt Cure
+|upkeep
+|turn|12
+|
+|t:|1781136746
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|move|p1a: Garganacl|Curse|p1a: Garganacl
+|-unboost|p1a: Garganacl|spe|1
+|-boost|p1a: Garganacl|atk|1
+|-boost|p1a: Garganacl|def|1
+|
+|-damage|p2a: Gholdengo|51/100|[from] Salt Cure
+|upkeep
+|turn|13
+|
+|t:|1781136750
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: Gholdengo|Recover|p2a: Gholdengo
+|-heal|p2a: Gholdengo|100/100
+|
+|-damage|p2a: Gholdengo|76/100|[from] Salt Cure
+|upkeep
+|turn|14
+|
+|t:|1781136760
+|switch|p2a: Gliscor|Gliscor, F|76/100 tox
+|move|p1a: Rotom|Hydro Pump|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|upkeep
+|
+|t:|1781136764
+|switch|p2a: Gholdengo|Gholdengo|76/100
+|turn|15
+|
+|t:|1781136771
+|move|p1a: Rotom|Hydro Pump|p2a: Gholdengo
+|-damage|p2a: Gholdengo|22/100
+|move|p2a: Gholdengo|Shadow Ball|p1a: Rotom
+|-damage|p1a: Rotom|46/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781136775
+|move|p1a: Rotom|Hydro Pump|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781136781
+|switch|p2a: Kingambit|Kingambit, F|87/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|turn|17
+|
+|t:|1781136787
+|move|p1a: Rotom|Hydro Pump|p2a: Kingambit|[miss]
+|-miss|p1a: Rotom|p2a: Kingambit
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|upkeep
+|turn|18
+|
+|t:|1781136791
+|move|p2a: Kingambit|Sucker Punch|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|
+|t:|1781136810
+|switch|p1a: Garganacl|Garganacl, F, tera:Dark|88/100
+|-damage|p1a: Garganacl|63/100|[from] Spikes
+|turn|19
+|
+|t:|1781136815
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Kingambit|Low Kick|p1a: Garganacl
+|-activate|p1a: Garganacl|move: Protect
+|
+|upkeep
+|turn|20
+|
+|t:|1781136828
+|move|p2a: Kingambit|Low Kick|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|faint|p1a: Garganacl
+|
+|upkeep
+|
+|t:|1781136830
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|76/100|[from] Spikes
+|turn|21
+|
+|t:|1781136835
+|move|p1a: Gholdengo|Trick|p2a: Kingambit
+|-activate|p1a: Gholdengo|move: Trick|[of] p2a: Kingambit
+|-item|p2a: Kingambit|Choice Scarf|[from] move: Trick
+|-enditem|p1a: Gholdengo|Choice Scarf|[silent]|[from] move: Trick
+|move|p2a: Kingambit|Iron Head|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|10/100
+|
+|upkeep
+|turn|22
+|
+|t:|1781136839
+|move|p2a: Kingambit|Iron Head|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781136842
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|turn|23
+|
+|t:|1781136849
+|move|p1a: Glimmora|Spiky Shield|p1a: Glimmora
+|-singleturn|p1a: Glimmora|move: Protect
+|move|p2a: Kingambit|Iron Head|p1a: Glimmora
+|-activate|p1a: Glimmora|move: Protect
+|-damage|p2a: Kingambit|75/100|[from] Spiky Shield|[of] p1a: Glimmora
+|
+|upkeep
+|turn|24
+|
+|t:|1781136854
+|move|p2a: Kingambit|Iron Head|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: KurisuChestnutOU|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|upkeep
+|-message|fivetomatoes forfeited.
+|
+|win|KurisuChestnutOU
+|raw|fivetomatoes's rating: 1582 &rarr; <strong>1557</strong><br />(-25 for losing)
+|raw|KurisuChestnutOU's rating: 1494 &rarr; <strong>1519</strong><br />(+25 for winning)
+|l|☆fivetomatoes
+|player|p1|

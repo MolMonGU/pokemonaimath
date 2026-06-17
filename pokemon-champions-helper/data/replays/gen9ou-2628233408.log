@@ -1,0 +1,588 @@
+|j|☆FP.//06
+|j|☆ja hoi
+|t:|1780996004
+|gametype|singles
+|player|p1|FP.//06|hilda-masters3|1528
+|player|p2|ja hoi|170|1613
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon, F|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Blissey, F|
+|poke|p1|Gliscor, M|
+|poke|p1|Skarmory, F|
+|poke|p1|Pecharunt|
+|poke|p2|Quaquaval, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Dragapult, M|
+|poke|p2|Garganacl, F|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Iron Moth|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FP.//06)
+|
+|t:|1780996028
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Skarmory|Skarmory, F|100/100
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|turn|1
+|
+|t:|1780996041
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|move|p2a: Grimmsnarl|Taunt|p1a: Gliscor
+|-start|p1a: Gliscor|move: Taunt
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1780996069
+|move|p2a: Grimmsnarl|Parting Shot|p1a: Gliscor
+|-unboost|p1a: Gliscor|atk|1
+|-unboost|p1a: Gliscor|spa|1
+|
+|t:|1780996072
+|switch|p2a: Garganacl|Garganacl, F|100/100|[from] Parting Shot
+|move|p1a: Gliscor|U-turn|p2a: Garganacl
+|-damage|p2a: Garganacl|93/100
+|
+|t:|1780996079
+|switch|p1a: Skarmory|Skarmory, F|100/100|[from] U-turn
+|
+|-heal|p2a: Garganacl|99/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1780996084
+|move|p1a: Skarmory|Stealth Rock|p2a: Garganacl
+|-sidestart|p2: ja hoi|move: Stealth Rock
+|move|p2a: Garganacl|Salt Cure|p1a: Skarmory
+|-damage|p1a: Skarmory|92/100
+|-start|p1a: Skarmory|Salt Cure
+|
+|-heal|p2a: Garganacl|100/100|[from] item: Leftovers
+|-damage|p1a: Skarmory|68/100|[from] Salt Cure
+|upkeep
+|turn|4
+|
+|t:|1780996092
+|switch|p1a: Gliscor|Gliscor, M|100/100 tox
+|move|p2a: Garganacl|Iron Defense|p2a: Garganacl
+|-boost|p2a: Garganacl|def|2
+|
+|upkeep
+|turn|5
+|
+|t:|1780996097
+|move|p1a: Gliscor|Earthquake|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|78/100
+|move|p2a: Garganacl|Salt Cure|p1a: Gliscor
+|-damage|p1a: Gliscor|91/100 tox
+|-start|p1a: Gliscor|Salt Cure
+|
+|-heal|p2a: Garganacl|84/100|[from] item: Leftovers
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Gliscor|88/100 tox|[from] Salt Cure
+|upkeep
+|turn|6
+|
+|t:|1780996108
+|move|p1a: Gliscor|U-turn|p2a: Garganacl
+|-damage|p2a: Garganacl|79/100
+|
+|t:|1780996110
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100|[from] U-turn
+|move|p2a: Garganacl|Body Press|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|-heal|p2a: Garganacl|85/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780996112
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|turn|7
+|
+|t:|1780996120
+|move|p1a: Ogerpon|Knock Off|p2a: Garganacl
+|-damage|p2a: Garganacl|75/100
+|-enditem|p2a: Garganacl|Leftovers|[from] move: Knock Off|[of] p1a: Ogerpon
+|move|p2a: Garganacl|Body Press|p1a: Ogerpon
+|-damage|p1a: Ogerpon|38/100
+|
+|upkeep
+|turn|8
+|
+|t:|1780996128
+|move|p1a: Ogerpon|U-turn|p2a: Garganacl
+|-damage|p2a: Garganacl|67/100
+|
+|t:|1780996130
+|switch|p1a: Pecharunt|Pecharunt|100/100|[from] U-turn
+|move|p2a: Garganacl|Salt Cure|p1a: Pecharunt
+|-damage|p1a: Pecharunt|94/100
+|-start|p1a: Pecharunt|Salt Cure
+|
+|-damage|p1a: Pecharunt|82/100|[from] Salt Cure
+|upkeep
+|turn|9
+|
+|t:|1780996138
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-damage|p2a: Iron Moth|76/100|[from] Stealth Rock
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespa
+|move|p1a: Pecharunt|Parting Shot|p2a: Iron Moth
+|-unboost|p2a: Iron Moth|atk|1
+|-unboost|p2a: Iron Moth|spa|1
+|
+|t:|1780996142
+|switch|p1a: Gliscor|Gliscor, M|88/100 tox|[from] Parting Shot
+|
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|10
+|
+|t:|1780996158
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|-damage|p2a: Grimmsnarl|88/100|[from] Stealth Rock
+|move|p1a: Gliscor|Earthquake|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|50/100
+|
+|upkeep
+|turn|11
+|
+|t:|1780996175
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: ja hoi|Reflect
+|move|p1a: Gliscor|Toxic|p2a: Grimmsnarl
+|-status|p2a: Grimmsnarl|tox
+|
+|-damage|p2a: Grimmsnarl|44/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1780996181
+|move|p2a: Grimmsnarl|Taunt|p1a: Gliscor
+|-start|p1a: Gliscor|move: Taunt
+|move|p1a: Gliscor|U-turn|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|35/100 tox
+|
+|t:|1780996186
+|switch|p1a: Pecharunt|Pecharunt|82/100|[from] U-turn
+|
+|-damage|p2a: Grimmsnarl|23/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1780996191
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: ja hoi|move: Light Screen
+|move|p1a: Pecharunt|Parting Shot|p2a: Grimmsnarl
+|-unboost|p2a: Grimmsnarl|atk|1
+|-unboost|p2a: Grimmsnarl|spa|1
+|
+|t:|1780996200
+|switch|p1a: Gliscor|Gliscor, M|100/100 tox|[from] Parting Shot
+|
+|-damage|p2a: Grimmsnarl|4/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1780996205
+|switch|p1a: Ogerpon|Ogerpon, F|38/100
+|move|p2a: Grimmsnarl|Taunt|p1a: Ogerpon
+|-start|p1a: Ogerpon|move: Taunt
+|
+|-damage|p2a: Grimmsnarl|0 fnt|[from] psn
+|faint|p2a: Grimmsnarl
+|upkeep
+|
+|t:|1780996234
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-damage|p2a: Zamazenta|94/100|[from] Stealth Rock
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|15
+|
+|t:|1780996239
+|switch|p1a: Pecharunt|Pecharunt|82/100
+|move|p2a: Zamazenta|Body Press|p1a: Pecharunt
+|-immune|p1a: Pecharunt
+|
+|-heal|p2a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1780996246
+|move|p2a: Zamazenta|Crunch|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|63/100
+|move|p1a: Pecharunt|Parting Shot|p2a: Zamazenta
+|-unboost|p2a: Zamazenta|atk|1
+|-unboost|p2a: Zamazenta|spa|1
+|
+|t:|1780996248
+|switch|p1a: Skarmory|Skarmory, F|68/100|[from] Parting Shot
+|
+|upkeep
+|turn|17
+|
+|t:|1780996254
+|switch|p1a: Pecharunt|Pecharunt|63/100
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|upkeep
+|turn|18
+|
+|t:|1780996260
+|move|p2a: Zamazenta|Crunch|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|49/100
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|99/100
+|
+|-sideend|p2: ja hoi|Reflect
+|upkeep
+|turn|19
+|
+|t:|1780996266
+|move|p2a: Zamazenta|Crunch|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|86/100
+|move|p1a: Pecharunt|Toxic|p2a: Zamazenta
+|-status|p2a: Zamazenta|tox
+|-start|p2a: Zamazenta|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|
+|-damage|p2a: Zamazenta|94/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1780996276
+|-activate|p2a: Zamazenta|confusion
+|move|p2a: Zamazenta|Crunch|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|73/100
+|move|p1a: Pecharunt|Parting Shot|p2a: Zamazenta
+|-unboost|p2a: Zamazenta|atk|1
+|-unboost|p2a: Zamazenta|spa|1
+|
+|t:|1780996279
+|switch|p1a: Ogerpon|Ogerpon, F|38/100|[from] Parting Shot
+|
+|-heal|p2a: Zamazenta|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Zamazenta|88/100 tox|[from] psn
+|-sideend|p2: ja hoi|move: Light Screen
+|upkeep
+|turn|21
+|
+|t:|1780996287
+|switch|p1a: Pecharunt|Pecharunt|73/100
+|-activate|p2a: Zamazenta|confusion
+|-damage|p2a: Zamazenta|86/100 tox|[from] confusion
+|
+|-heal|p2a: Zamazenta|92/100 tox|[from] item: Leftovers
+|-damage|p2a: Zamazenta|74/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1780996295
+|switch|p2a: Garganacl|Garganacl, F|67/100
+|-damage|p2a: Garganacl|55/100|[from] Stealth Rock
+|move|p1a: Pecharunt|Shadow Ball|p2a: Garganacl
+|-damage|p2a: Garganacl|46/100
+|
+|upkeep
+|turn|23
+|j| lord shiddenfards
+|
+|t:|1780996302
+|move|p1a: Pecharunt|Parting Shot|p2a: Garganacl
+|-unboost|p2a: Garganacl|atk|1
+|-unboost|p2a: Garganacl|spa|1
+|
+|t:|1780996303
+|switch|p1a: Ogerpon|Ogerpon, F|38/100|[from] Parting Shot
+|move|p2a: Garganacl|Salt Cure|p1a: Ogerpon
+|-damage|p1a: Ogerpon|26/100
+|-start|p1a: Ogerpon|Salt Cure
+|
+|-damage|p1a: Ogerpon|13/100|[from] Salt Cure
+|upkeep
+|turn|24
+|
+|t:|1780996313
+|move|p1a: Ogerpon|U-turn|p2a: Garganacl
+|-damage|p2a: Garganacl|30/100
+|
+|t:|1780996317
+|switch|p1a: Gliscor|Gliscor, M|100/100 tox|[from] U-turn
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|80/100
+|
+|upkeep
+|turn|25
+|
+|t:|1780996323
+|move|p1a: Gliscor|Earthquake|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|33/100
+|move|p2a: Garganacl|Salt Cure|p1a: Gliscor
+|-damage|p1a: Gliscor|93/100 tox
+|-start|p1a: Gliscor|Salt Cure
+|
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Gliscor|88/100 tox|[from] Salt Cure
+|upkeep
+|turn|26
+|inactive|ja hoi has 120 seconds left.
+|
+|t:|1780996354
+|switch|p2a: Zamazenta|Zamazenta|74/100 tox
+|-damage|p2a: Zamazenta|67/100 tox|[from] Stealth Rock
+|move|p1a: Gliscor|Earthquake|p2a: Zamazenta
+|-damage|p2a: Zamazenta|42/100 tox
+|
+|-heal|p2a: Zamazenta|48/100 tox|[from] item: Leftovers
+|-damage|p2a: Zamazenta|42/100 tox|[from] psn
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Gliscor|88/100 tox|[from] Salt Cure
+|upkeep
+|turn|27
+|inactive|ja hoi has 120 seconds left.
+|
+|t:|1780996365
+|move|p2a: Zamazenta|Crunch|p1a: Gliscor
+|-damage|p1a: Gliscor|71/100 tox
+|move|p1a: Gliscor|Earthquake|p2a: Zamazenta
+|-damage|p2a: Zamazenta|16/100 tox
+|
+|-heal|p2a: Zamazenta|22/100 tox|[from] item: Leftovers
+|-damage|p2a: Zamazenta|10/100 tox|[from] psn
+|-heal|p1a: Gliscor|83/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Gliscor|71/100 tox|[from] Salt Cure
+|upkeep
+|turn|28
+|inactive|ja hoi has 120 seconds left.
+|j| InVincii
+|
+|t:|1780996375
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Zamazenta|Crunch|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p2a: Zamazenta|16/100 tox|[from] item: Leftovers
+|-damage|p2a: Zamazenta|0 fnt|[from] psn
+|faint|p2a: Zamazenta
+|-heal|p1a: Gliscor|83/100 tox|[from] ability: Poison Heal
+|-damage|p1a: Gliscor|71/100 tox|[from] Salt Cure
+|upkeep
+|inactive|ja hoi has 120 seconds left.
+|
+|t:|1780996387
+|switch|p2a: Quaquaval|Quaquaval, F|100/100
+|-damage|p2a: Quaquaval|94/100|[from] Stealth Rock
+|turn|29
+|
+|t:|1780996401
+|switch|p1a: Pecharunt|Pecharunt|73/100
+|-terastallize|p2a: Quaquaval|Water
+|move|p2a: Quaquaval|Aqua Step|p1a: Pecharunt
+|-damage|p1a: Pecharunt|42/100
+|-boost|p2a: Quaquaval|spe|1
+|
+|upkeep
+|turn|30
+|
+|t:|1780996410
+|switch|p2a: Iron Moth|Iron Moth|76/100
+|-damage|p2a: Iron Moth|51/100|[from] Stealth Rock
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|92/100
+|
+|upkeep
+|turn|31
+|
+|t:|1780996420
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|switch|p1a: Blissey|Blissey, F|100/100
+|
+|-heal|p2a: Dragapult|94/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1780996430
+|switch|p1a: Gliscor|Gliscor, M|71/100 tox
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|-heal|p2a: Dragapult|99/100|[from] item: Leftovers
+|-heal|p1a: Gliscor|83/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|33
+|
+|t:|1780996438
+|-terastallize|p1a: Gliscor|Fairy
+|move|p2a: Dragapult|Dragon Darts|p1a: Gliscor
+|-immune|p1a: Gliscor
+|move|p1a: Gliscor|Toxic|p2a: Dragapult
+|-status|p2a: Dragapult|tox
+|
+|-heal|p2a: Dragapult|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Dragapult|95/100 tox|[from] psn
+|-heal|p1a: Gliscor|96/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|34
+|
+|t:|1780996448
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Gliscor|Earthquake|p2a: Dragapult
+|-damage|p2a: Dragapult|46/100 tox
+|
+|-heal|p2a: Dragapult|52/100 tox|[from] item: Leftovers
+|-damage|p2a: Dragapult|40/100 tox|[from] psn
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|35
+|l| lord shiddenfards
+|
+|t:|1780996464
+|switch|p2a: Garganacl|Garganacl, F|33/100
+|-damage|p2a: Garganacl|21/100|[from] Stealth Rock
+|move|p1a: Gliscor|Earthquake|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|faint|p2a: Garganacl
+|
+|upkeep
+|
+|t:|1780996471
+|switch|p2a: Iron Moth|Iron Moth|51/100
+|-damage|p2a: Iron Moth|26/100|[from] Stealth Rock
+|turn|36
+|
+|t:|1780996477
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Blissey
+|-damage|p1a: Blissey|85/100
+|-boost|p2a: Iron Moth|spa|1
+|
+|upkeep
+|turn|37
+|
+|t:|1780996484
+|move|p2a: Iron Moth|Sludge Wave|p1a: Blissey
+|-damage|p1a: Blissey|60/100
+|move|p1a: Blissey|Seismic Toss|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780996492
+|switch|p2a: Quaquaval|Quaquaval, F, tera:Water|94/100
+|-damage|p2a: Quaquaval|82/100|[from] Stealth Rock
+|turn|38
+|
+|t:|1780996497
+|switch|p1a: Pecharunt|Pecharunt|92/100
+|move|p2a: Quaquaval|Aqua Step|p1a: Pecharunt
+|-damage|p1a: Pecharunt|64/100
+|-boost|p2a: Quaquaval|spe|1
+|
+|upkeep
+|turn|39
+|
+|t:|1780996503
+|move|p2a: Quaquaval|Aqua Step|p1a: Pecharunt
+|-damage|p1a: Pecharunt|36/100
+|-boost|p2a: Quaquaval|spe|1
+|move|p1a: Pecharunt|Toxic|p2a: Quaquaval
+|-status|p2a: Quaquaval|tox
+|-start|p2a: Quaquaval|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|
+|-damage|p2a: Quaquaval|76/100 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1780996513
+|-activate|p2a: Quaquaval|confusion
+|move|p2a: Quaquaval|Aqua Step|p1a: Pecharunt
+|-damage|p1a: Pecharunt|7/100
+|-boost|p2a: Quaquaval|spe|1
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|57/100
+|
+|-damage|p2a: Quaquaval|64/100 tox|[from] psn
+|upkeep
+|turn|41
+|j| Ctannn
+|
+|t:|1780996532
+|-end|p2a: Quaquaval|confusion
+|move|p2a: Quaquaval|Aqua Step|p1a: Pecharunt
+|-damage|p1a: Pecharunt|25/100
+|-boost|p2a: Quaquaval|spe|1
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|75/100
+|
+|-damage|p2a: Quaquaval|46/100 tox|[from] psn
+|upkeep
+|turn|42
+|
+|t:|1780996540
+|move|p2a: Quaquaval|Aqua Step|p1a: Pecharunt
+|-damage|p1a: Pecharunt|47/100
+|-boost|p2a: Quaquaval|spe|1
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|97/100
+|
+|-damage|p2a: Quaquaval|21/100 tox|[from] psn
+|upkeep
+|turn|43
+|
+|t:|1780996548
+|move|p2a: Quaquaval|Aqua Step|p1a: Pecharunt
+|-damage|p1a: Pecharunt|68/100
+|-boost|p2a: Quaquaval|spe|1
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|100/100
+|
+|-damage|p2a: Quaquaval|0 fnt|[from] psn
+|faint|p2a: Quaquaval
+|upkeep
+|-message|ja hoi forfeited.
+|
+|win|FP.//06
+|raw|FP.&#x2f;&#x2f;06's rating: 1528 &rarr; <strong>1553</strong><br />(+25 for winning)
+|raw|ja hoi's rating: 1613 &rarr; <strong>1588</strong><br />(-25 for losing)
+|l|☆ja hoi
+|player|p2|
+|l|☆FP.//06
+|player|p1|
+|l| InVincii
+|l| Ctannn

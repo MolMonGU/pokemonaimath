@@ -1,0 +1,202 @@
+|j|☆Joegirl
+|j|☆waha8
+|t:|1781118461
+|gametype|singles
+|player|p1|Joegirl|1|1539
+|player|p2|waha8|102|1577
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Oricorio-Pom-Pom, M|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Cinderace, M|
+|poke|p1|Gliscor, M|
+|poke|p1|Dragonite, M|
+|poke|p2|Scizor, F|
+|poke|p2|Indeedee, M|
+|poke|p2|Kyurem|
+|poke|p2|Cetitan, F|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Iron Crown|
+|teampreview
+|
+|t:|1781118472
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|switch|p2a: DeeDee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: DeeDee
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Joegirl)
+|
+|t:|1781118484
+|switch|p2a: Mavis|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Mavis
+|move|p1a: Cinderace|Pyro Ball|p2a: Mavis
+|-supereffective|p2a: Mavis
+|-damage|p2a: Mavis|9/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781118490
+|move|p1a: Cinderace|Pyro Ball|p2a: Mavis
+|-supereffective|p2a: Mavis
+|-damage|p2a: Mavis|0 fnt
+|faint|p2a: Mavis
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781118495
+|switch|p2a: Thing|Cetitan, F|100/100
+|turn|3
+|
+|t:|1781118498
+|-terastallize|p2a: Thing|Ground
+|move|p2a: Thing|Earthquake|p1a: Cinderace
+|-supereffective|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781118511
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|turn|4
+|
+|t:|1781118519
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: Joegirl|Reflect
+|move|p2a: Thing|Belly Drum|p2a: Thing
+|-damage|p2a: Thing|50/100
+|-setboost|p2a: Thing|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Thing|Sitrus Berry|[eat]
+|-heal|p2a: Thing|75/100|[from] item: Sitrus Berry
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781118527
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: Joegirl|move: Light Screen
+|move|p2a: Thing|Earthquake|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|16/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781118537
+|move|p1a: Grimmsnarl|Taunt|p2a: Thing
+|-activate|p2a: Thing|move: Psychic Terrain
+|move|p2a: Thing|Icicle Spear|p1a: Grimmsnarl
+|-crit|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|faint|p1a: Grimmsnarl
+|-hitcount|p1: Grimmsnarl|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|inactive|Joegirl has 120 seconds left.
+|
+|t:|1781118564
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|turn|7
+|
+|t:|1781118568
+|-terastallize|p1a: Gliscor|Normal
+|move|p2a: Thing|Icicle Spear|p1a: Gliscor
+|-damage|p1a: Gliscor|81/100
+|-crit|p1a: Gliscor
+|-damage|p1a: Gliscor|16/100
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|-hitcount|p1: Gliscor|3
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781118575
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|turn|8
+|
+|t:|1781118578
+|move|p2a: Thing|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|24/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Thing
+|-damage|p2a: Thing|48/100
+|-heal|p1a: Hatterene|55/100|[from] drain|[of] p2a: Thing
+|
+|-weather|none
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|9
+|
+|t:|1781118587
+|move|p2a: Thing|Icicle Spear|p1a: Hatterene
+|-damage|p1a: Hatterene|32/100
+|-damage|p1a: Hatterene|12/100
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|-hitcount|p1: Hatterene|3
+|
+|upkeep
+|
+|t:|1781118590
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|10
+|
+|t:|1781118595
+|move|p1a: Dragonite|Scale Shot|p2a: Thing|[miss]
+|-miss|p1a: Dragonite|p2a: Thing
+|move|p2a: Thing|Icicle Spear|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|38/100
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|-hitcount|p1: Dragonite|2
+|
+|upkeep
+|
+|t:|1781118597
+|switch|p1a: Oricorio|Oricorio-Pom-Pom, M|100/100
+|turn|11
+|
+|t:|1781118604
+|move|p2a: Thing|Ice Shard|p1a: Oricorio
+|-supereffective|p1a: Oricorio
+|-damage|p1a: Oricorio|29/100
+|move|p1a: Oricorio|Air Slash|p2a: Thing
+|-damage|p2a: Thing|18/100
+|
+|-sideend|p1: Joegirl|Reflect
+|upkeep
+|turn|12
+|
+|t:|1781118610
+|move|p2a: Thing|Ice Shard|p1a: Oricorio
+|-supereffective|p1a: Oricorio
+|-damage|p1a: Oricorio|0 fnt
+|faint|p1a: Oricorio
+|
+|win|waha8
+|raw|Joegirl's rating: 1539 &rarr; <strong>1521</strong><br />(-18 for losing)
+|raw|waha8's rating: 1577 &rarr; <strong>1595</strong><br />(+18 for winning)
+|l|☆waha8
+|player|p2|

@@ -1,0 +1,193 @@
+|j|☆erjuanzas
+|j|☆SWAGGER_W2F
+|t:|1781086100
+|gametype|singles
+|player|p1|erjuanzas|linebacker|1537
+|player|p2|SWAGGER_W2F|flint|1597
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Overqwil, F|
+|poke|p1|Barraskewda, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Ceruledge, M|
+|poke|p2|Scizor, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Great Tusk|
+|poke|p2|Slowbro, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by erjuanzas)
+|
+|t:|1781086119
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pelipas|Pelipper, F, shiny|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipas
+|turn|1
+|
+|t:|1781086125
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|12/100
+|-unboost|p2a: Raging Bolt|spa|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781086135
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Mandibuzz|Mandibuzz, F|100/100
+|move|p1a: Iron Treads|Stealth Rock|p2a: Mandibuzz
+|-sidestart|p2: SWAGGER_W2F|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781086145
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Mandibuzz|U-turn|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|90/100
+|
+|t:|1781086153
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|-damage|p2a: Great Tusk|98/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781086159
+|-terastallize|p1a: Raging Bolt|Fairy
+|move|p2a: Great Tusk|Headlong Rush|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|31/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Raging Bolt|Weather Ball|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781086172
+|switch|p2a: Scizor|Scizor, M|100/100
+|-damage|p2a: Scizor|88/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1781086178
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Iron Treads|Iron Treads|12/100
+|-terastallize|p2a: Scizor|Steel
+|move|p2a: Scizor|Bullet Punch|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781086189
+|switch|p1a: Pelipas|Pelipper, F, shiny|100/100
+|turn|6
+|
+|t:|1781086193
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|move|p1a: Pelipas|Weather Ball|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|63/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781086202
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Kingambit
+|-damage|p1a: Kingambit|16/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kingambit|22/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781086215
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Kingambit
+|-crit|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen1|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781086223
+|switch|p1a: Pelipas|Pelipper, F, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipas
+|turn|9
+|
+|t:|1781086227
+|switch|p1a: Overqwil|Overqwil, F|100/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|faint|p1a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781086231
+|switch|p1a: La Cabra|Barraskewda, F|100/100
+|turn|10
+|
+|t:|1781086236
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|-damage|p2a: Slowbro|88/100|[from] Stealth Rock
+|move|p1a: La Cabra|Close Combat|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|70/100
+|-unboost|p1a: La Cabra|def|1
+|-unboost|p1a: La Cabra|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|-message|erjuanzas forfeited.
+|
+|win|SWAGGER_W2F
+|raw|erjuanzas's rating: 1537 &rarr; <strong>1520</strong><br />(-17 for losing)
+|raw|SWAGGER_W2F's rating: 1597 &rarr; <strong>1614</strong><br />(+17 for winning)
+|l|☆erjuanzas
+|player|p1|
+|l|☆SWAGGER_W2F
+|player|p2|

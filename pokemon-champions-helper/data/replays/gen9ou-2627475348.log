@@ -1,0 +1,246 @@
+|j|☆stevstacks
+|j|‽LT_Alt1
+|t:|1780908654
+|gametype|singles
+|player|p1|stevstacks|170|1683
+|player|p2|LT_Alt1|265|1692
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torkoal, F|
+|poke|p1|Corviknight, F|
+|poke|p1|Walking Wake|
+|poke|p1|Dragonite, F|
+|poke|p1|Great Tusk|
+|poke|p1|Raging Bolt|
+|poke|p2|Garganacl, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Kyurem|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Moltres|
+|poke|p2|Iron Treads|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by stevstacks)
+|
+|t:|1780908664
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|turn|1
+|
+|t:|1780908669
+|move|p1a: Walking Wake|Hydro Steam|p2a: Weezing
+|-damage|p2a: Weezing|30/100
+|move|p2a: Weezing|Pain Split|p1a: Walking Wake
+|-sethp|p1a: Walking Wake|63/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|73/100|[from] move: Pain Split
+|
+|-heal|p2a: Weezing|79/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1780908681
+|move|p1a: Walking Wake|Flip Turn|p2a: Weezing
+|-damage|p2a: Weezing|64/100
+|
+|t:|1780908683
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, F, shiny|100/100|[from] Flip Turn
+|move|p2a: Weezing|Strange Steam|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|89/100
+|-start|p1a: Torkoal|confusion
+|
+|-heal|p2a: Weezing|70/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1780908693
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|-activate|p1a: Torkoal|confusion
+|move|p1a: Torkoal|Will-O-Wisp|p2a: Slowking
+|-status|p2a: Slowking|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Slowking|94/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1780908697
+|-activate|p1a: Torkoal|confusion
+|move|p1a: Torkoal|Stealth Rock|p2a: Slowking
+|-sidestart|p2: LT_Alt1|move: Stealth Rock
+|move|p2a: Slowking|Future Sight|p1a: Torkoal
+|-start|p2a: Slowking|move: Future Sight
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Slowking|88/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1780908701
+|-activate|p1a: Torkoal|confusion
+|-damage|p1a: Torkoal|83/100|[from] confusion
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1780908706
+|switch|p2a: Weezing|Weezing-Galar, F|70/100|[from] Chilly Reception
+|-ability|p2a: Weezing|Neutralizing Gas
+|-damage|p2a: Weezing|57/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Weezing|63/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1780908712
+|switch|p1a: Walking Wake|Walking Wake|63/100
+|move|p2a: Weezing|Will-O-Wisp|p1a: Walking Wake
+|-status|p1a: Walking Wake|brn
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Walking Wake|move: Future Sight
+|-damage|p1a: Walking Wake|12/100 brn
+|-heal|p2a: Weezing|70/100|[from] item: Leftovers
+|-damage|p1a: Walking Wake|6/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1780908719
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Slowking|Slowking-Galar, F|100/100 brn
+|-damage|p2a: Slowking|88/100 brn|[from] Stealth Rock
+|move|p1a: Walking Wake|Hydro Steam|p2a: Slowking
+|-damage|p2a: Slowking|62/100 brn
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Walking Wake|0 fnt|[from] brn
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|-damage|p2a: Slowking|56/100 brn|[from] brn
+|upkeep
+|
+|t:|1780908727
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100
+|turn|8
+|
+|t:|1780908731
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Great Tusk|Knock Off|p2a: Moltres
+|-damage|p2a: Moltres|69/100
+|-enditem|p2a: Moltres|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Great Tusk
+|-damage|p1a: Great Tusk|91/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1780908734
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|move|p2a: Moltres|U-turn|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|87/100
+|
+|t:|1780908738
+|switch|p2a: Iron Treads|Iron Treads|100/100|[from] U-turn
+|-damage|p2a: Iron Treads|98/100|[from] Stealth Rock
+|
+|-weather|none
+|-heal|p2a: Iron Treads|100/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1780908743
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, F, shiny|83/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Iron Treads|Rapid Spin|p1a: Torkoal
+|-damage|p1a: Torkoal|74/100
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: LT_Alt1|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1780908749
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|89/100 brn
+|move|p1a: Torkoal|Stealth Rock|p2a: Slowking
+|-sidestart|p2: LT_Alt1|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Slowking|83/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1780908751
+|move|p1a: Torkoal|Overheat|p2a: Slowking
+|-damage|p2a: Slowking|50/100 brn
+|-unboost|p1a: Torkoal|spa|2
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1780908755
+|switch|p2a: Weezing|Weezing-Galar, F|70/100|[from] Chilly Reception
+|-ability|p2a: Weezing|Neutralizing Gas
+|-damage|p2a: Weezing|57/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Weezing|63/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1780908767
+|switch|p1a: Raging Bolt|Raging Bolt|87/100
+|move|p2a: Weezing|Defog|p1a: Raging Bolt
+|-unboost|p1a: Raging Bolt|evasion|1
+|-sideend|p2: LT_Alt1|Stealth Rock|[from] move: Defog|[of] p2a: Weezing
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Weezing|69/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1780908779
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|60/100
+|-unboost|p1a: Raging Bolt|spa|2
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Iron Treads|66/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|l|☆stevstacks
+|inactive|stevstacks disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|stevstacks has 30 seconds to reconnect!
+|inactive|stevstacks has 20 seconds to reconnect!
+|inactive|stevstacks has 15 seconds to reconnect!
+|inactive|stevstacks has 10 seconds to reconnect!
+|inactive|stevstacks has 5 seconds to reconnect!
+|-message|stevstacks lost due to inactivity.
+|
+|win|LT_Alt1
+|raw|stevstacks's rating: 1683 &rarr; <strong>1664</strong><br />(-19 for losing)
+|raw|LT_Alt1's rating: 1692 &rarr; <strong>1711</strong><br />(+19 for winning)

@@ -1,0 +1,337 @@
+|j|☆power of sound
+|j|‽LT_Alt1
+|t:|1781070517
+|gametype|singles
+|player|p1|power of sound|2|1764
+|player|p2|LT_Alt1|265|1667
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Gliscor, F|
+|poke|p1|Blissey, F|
+|poke|p1|Clodsire, M|
+|poke|p1|Clefable, F|
+|poke|p1|Pecharunt|
+|poke|p1|Skarmory, F|
+|poke|p2|Darkrai|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Treads|
+|poke|p2|Raging Bolt|
+|poke|p2|Gliscor, M|
+|teampreview
+|
+|t:|1781070534
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gliscor|Gliscor, F|100/100
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|turn|1
+|
+|t:|1781070537
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Gliscor|Knock Off|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781070542
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|move|p2a: Gliscor|Spikes|p1a: Gliscor
+|-sidestart|p1: power of sound|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1781070548
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|move|p2a: Gliscor|Spikes|p1a: Gliscor
+|-sidestart|p1: power of sound|Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1781070555
+|move|p1a: Gliscor|Knock Off|p2a: Gliscor
+|-damage|p2a: Gliscor|56/100 tox
+|-enditem|p2a: Gliscor|Toxic Orb|[from] move: Knock Off|[of] p1a: Gliscor
+|move|p2a: Gliscor|Spikes|p1a: Gliscor
+|-sidestart|p1: power of sound|Spikes
+|
+|-heal|p2a: Gliscor|69/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|5
+|
+|t:|1781070561
+|move|p1a: Gliscor|Facade|p2a: Gliscor
+|-damage|p2a: Gliscor|5/100 tox
+|move|p2a: Gliscor|Knock Off|p1a: Gliscor
+|-damage|p1a: Gliscor|84/100 tox
+|-enditem|p1a: Gliscor|Toxic Orb|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|-heal|p1a: Gliscor|96/100 tox|[from] ability: Poison Heal
+|-heal|p2a: Gliscor|18/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|6
+|
+|t:|1781070565
+|move|p1a: Gliscor|Knock Off|p2a: Gliscor
+|-crit|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781070570
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|7
+|
+|t:|1781070576
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-terastallize|p1a: Gliscor|Normal
+|move|p1a: Gliscor|Facade|p2a: Gholdengo
+|-immune|p2a: Gholdengo
+|
+|upkeep
+|turn|8
+|
+|t:|1781070584
+|move|p2a: Gholdengo|Trick|p1a: Gliscor
+|-activate|p2a: Gholdengo|move: Trick|[of] p1a: Gliscor
+|-item|p1a: Gliscor|Choice Scarf|[from] move: Trick
+|-enditem|p2a: Gholdengo|Choice Scarf|[silent]|[from] move: Trick
+|move|p1a: Gliscor|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|7/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781070589
+|move|p1a: Gliscor|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781070591
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|10
+|
+|t:|1781070593
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|2
+|move|p1a: Gliscor|Knock Off|p2a: Darkrai
+|-resisted|p2a: Darkrai
+|-damage|p2a: Darkrai|58/100
+|-enditem|p2a: Darkrai|Leftovers|[from] move: Knock Off|[of] p1a: Gliscor
+|
+|upkeep
+|turn|11
+|
+|t:|1781070603
+|switch|p1a: Clodsire|Clodsire, M|100/100
+|move|p2a: Darkrai|Focus Blast|p1a: Clodsire
+|-resisted|p1a: Clodsire
+|-damage|p1a: Clodsire|90/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781070607
+|move|p2a: Darkrai|Ice Beam|p1a: Clodsire
+|-supereffective|p1a: Clodsire
+|-damage|p1a: Clodsire|54/100
+|move|p1a: Clodsire|Earthquake|p2a: Darkrai
+|-damage|p2a: Darkrai|23/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781070610
+|move|p2a: Darkrai|Ice Beam|p1a: Clodsire
+|-supereffective|p1a: Clodsire
+|-damage|p1a: Clodsire|21/100
+|move|p1a: Clodsire|Recover|p1a: Clodsire
+|-heal|p1a: Clodsire|71/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781070613
+|move|p2a: Darkrai|Ice Beam|p1a: Clodsire
+|-supereffective|p1a: Clodsire
+|-damage|p1a: Clodsire|36/100
+|move|p1a: Clodsire|Recover|p1a: Clodsire
+|-heal|p1a: Clodsire|86/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781070617
+|move|p2a: Darkrai|Ice Beam|p1a: Clodsire
+|-supereffective|p1a: Clodsire
+|-damage|p1a: Clodsire|51/100
+|move|p1a: Clodsire|Recover|p1a: Clodsire
+|-heal|p1a: Clodsire|100/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781070623
+|move|p2a: Darkrai|Ice Beam|p1a: Clodsire
+|-supereffective|p1a: Clodsire
+|-damage|p1a: Clodsire|66/100
+|-status|p1a: Clodsire|frz
+|cant|p1a: Clodsire|frz
+|
+|upkeep
+|turn|17
+|
+|t:|1781070627
+|move|p2a: Darkrai|Ice Beam|p1a: Clodsire
+|-supereffective|p1a: Clodsire
+|-damage|p1a: Clodsire|32/100 frz
+|cant|p1a: Clodsire|frz
+|
+|upkeep
+|turn|18
+|
+|t:|1781070635
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|2
+|
+|upkeep
+|turn|19
+|
+|t:|1781070643
+|-terastallize|p2a: Darkrai|Ghost
+|move|p2a: Darkrai|Focus Blast|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|22/100
+|move|p1a: Blissey|Seismic Toss|p2a: Darkrai
+|-immune|p2a: Darkrai
+|
+|upkeep
+|turn|20
+|
+|t:|1781070653
+|move|p2a: Darkrai|Ice Beam|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|upkeep
+|j| ArtistsRendition
+|
+|t:|1781070656
+|switch|p1a: Skarmory|Skarmory, F|100/100
+|turn|21
+|
+|t:|1781070662
+|move|p2a: Darkrai|Dark Pulse|p1a: Skarmory
+|-ability|p1a: Skarmory|Sturdy
+|-damage|p1a: Skarmory|1/100
+|move|p1a: Skarmory|Whirlwind|p2a: Darkrai
+|drag|p2a: Slowking|Slowking-Galar, F|100/100
+|
+|upkeep
+|turn|22
+|j| oatmealrazen
+|
+|t:|1781070669
+|switch|p2a: Darkrai|Darkrai, tera:Ghost|23/100
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|51/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|upkeep
+|turn|23
+|
+|t:|1781070675
+|switch|p1a: Gliscor|Gliscor, F, tera:Normal|100/100 tox
+|-damage|p1a: Gliscor|75/100 tox|[from] Spikes
+|move|p2a: Darkrai|Dark Pulse|p1a: Gliscor
+|-damage|p1a: Gliscor|39/100 tox
+|
+|-heal|p1a: Gliscor|51/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|24
+|
+|t:|1781070690
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Gliscor|Knock Off|p2a: Iron Treads
+|-damage|p2a: Iron Treads|85/100
+|-enditem|p2a: Iron Treads|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Gliscor
+|
+|-heal|p1a: Gliscor|64/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|25
+|
+|t:|1781070696
+|switch|p1a: Skarmory|Skarmory, F|51/100
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Darkrai|Darkrai, tera:Ghost|23/100
+|
+|upkeep
+|turn|26
+|
+|t:|1781070702
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: Darkrai|Ice Beam|p1a: Clefable
+|-damage|p1a: Clefable|72/100
+|-status|p1a: Clefable|frz
+|
+|upkeep
+|turn|27
+|
+|t:|1781070707
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|2
+|cant|p1a: Clefable|frz
+|
+|upkeep
+|turn|28
+|c|☆power of sound|wp
+|
+|t:|1781070711
+|move|p2a: Darkrai|Ice Beam|p1a: Clefable
+|-damage|p1a: Clefable|14/100 frz
+|cant|p1a: Clefable|frz
+|
+|upkeep
+|turn|29
+|
+|t:|1781070714
+|move|p2a: Darkrai|Ice Beam|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|-message|power of sound forfeited.
+|
+|win|LT_Alt1
+|raw|power of sound's rating: 1764 &rarr; <strong>1739</strong><br />(-25 for losing)
+|raw|LT_Alt1's rating: 1667 &rarr; <strong>1692</strong><br />(+25 for winning)
+|l|☆power of sound
+|player|p1|
+|l| oatmealrazen
+|l| ArtistsRendition

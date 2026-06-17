@@ -1,0 +1,281 @@
+|j|☆electricdingdong
+|j|☆LowEL0God
+|t:|1781442160
+|gametype|singles
+|player|p1|electricdingdong|pokekid|1669
+|player|p2|LowEL0God|265|1721
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Boulder|
+|poke|p1|Iron Valiant|
+|poke|p1|Pincurchin, F|
+|poke|p1|Iron Moth|
+|poke|p1|Cresselia, F|
+|poke|p1|Hawlucha, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781442168
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|turn|1
+|
+|t:|1781442172
+|-terastallize|p2a: Kingambit|Dark
+|move|p1a: Iron Moth|Fiery Dance|p2a: Kingambit
+|-damage|p2a: Kingambit|59/100
+|-boost|p1a: Iron Moth|spa|1
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p2a: Kingambit|65/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781442190
+|switch|p1a: Pincurchin|Pincurchin, F|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|turn|2
+|
+|t:|1781442193
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p1a: Hawlucha|Electric Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Electric Seed
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|68/100
+|
+|-heal|p2a: Kingambit|71/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781442200
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781442203
+|move|p1a: Hawlucha|Acrobatics|p2a: Pelipper
+|-damage|p2a: Pelipper|22/100
+|move|p2a: Pelipper|Weather Ball|p1a: Hawlucha
+|-damage|p1a: Hawlucha|1/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781442211
+|move|p1a: Hawlucha|Close Combat|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781442212
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|6
+|
+|t:|1781442216
+|move|p2a: Barraskewda|Liquidation|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781442238
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|turn|7
+|
+|t:|1781442240
+|move|p2a: Barraskewda|Liquidation|p1a: Cresselia
+|-damage|p1a: Cresselia|32/100
+|move|p1a: Cresselia|Moonblast|p2a: Barraskewda
+|-damage|p2a: Barraskewda|42/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781442251
+|move|p2a: Barraskewda|Liquidation|p1a: Cresselia
+|-damage|p1a: Cresselia|0 fnt
+|faint|p1a: Cresselia
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781442256
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|9
+|
+|t:|1781442258
+|move|p1a: Iron Valiant|Vacuum Wave|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Electric Terrain
+|-end|p1a: Iron Valiant|Quark Drive
+|upkeep
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|
+|t:|1781442259
+|switch|p2a: Overqwil|Overqwil, F|100/100
+|turn|10
+|
+|t:|1781442266
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Pincurchin|Pincurchin, F|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|move|p2a: Overqwil|Gunk Shot|p1a: Pincurchin
+|-damage|p1a: Pincurchin|11/100
+|-damage|p2a: Overqwil|91/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|turn|11
+|
+|t:|1781442269
+|switch|p2a: Kingambit|Kingambit, M, tera:Dark|71/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|move|p1a: Pincurchin|Sucker Punch||[still]
+|-fail|p1a: Pincurchin
+|
+|-heal|p2a: Kingambit|77/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781442271
+|move|p2a: Kingambit|Iron Head|p1a: Pincurchin
+|-resisted|p1a: Pincurchin
+|-damage|p1a: Pincurchin|0 fnt
+|faint|p1a: Pincurchin
+|
+|-heal|p2a: Kingambit|84/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781442274
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|13
+|
+|t:|1781442276
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-activate|p2a: Iron Treads|ability: Quark Drive
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Iron Valiant|Moonblast|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|69/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781442282
+|move|p1a: Iron Valiant|Vacuum Wave|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|7/100
+|move|p2a: Iron Treads|Steel Beam|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|-damage|p2a: Iron Treads|0 fnt|[from] steelbeam
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781442287
+|switch|p1a: Iron Boulder|Iron Boulder|100/100
+|switch|p2a: Kingambit|Kingambit, M, tera:Dark|84/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|-activate|p1a: Iron Boulder|ability: Quark Drive
+|-start|p1a: Iron Boulder|quarkdrivespe
+|turn|15
+|
+|t:|1781442295
+|move|p1a: Iron Boulder|Close Combat|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1a: Iron Boulder|def|1
+|-unboost|p1a: Iron Boulder|spd|1
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1781442296
+|switch|p2a: Overqwil|Overqwil, F|91/100
+|turn|16
+|
+|t:|1781442298
+|-terastallize|p1a: Iron Boulder|Fighting
+|move|p1a: Iron Boulder|Close Combat|p2a: Overqwil
+|-damage|p2a: Overqwil|0 fnt
+|-unboost|p1a: Iron Boulder|def|1
+|-unboost|p1a: Iron Boulder|spd|1
+|faint|p2a: Overqwil
+|
+|upkeep
+|
+|t:|1781442299
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|17
+|
+|t:|1781442303
+|move|p2a: Raging Bolt|Thunderclap|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|0 fnt
+|faint|p1a: Iron Boulder
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|
+|win|LowEL0God
+|raw|electricdingdong's rating: 1669 &rarr; <strong>1652</strong><br />(-17 for losing)
+|raw|LowEL0God's rating: 1721 &rarr; <strong>1738</strong><br />(+17 for winning)
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|
+|l|☆electricdingdong
+|player|p1|

@@ -1,0 +1,238 @@
+|j|☆hawkins0
+|j|‽LT_Alt1
+|t:|1781071119
+|gametype|singles
+|player|p1|hawkins0|2|1781
+|player|p2|LT_Alt1|265|1716
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Pecharunt|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Cinderace, M|
+|poke|p1|Alomomola, M|
+|poke|p1|Iron Valiant|
+|poke|p2|Darkrai|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Treads|
+|poke|p2|Raging Bolt|
+|poke|p2|Gliscor, F|
+|teampreview
+|
+|t:|1781071133
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pisces|Alomomola, M, shiny|100/100
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|turn|1
+|
+|t:|1781071138
+|move|p2a: Gliscor|Toxic|p1a: Pisces
+|-status|p1a: Pisces|tox
+|move|p1a: Pisces|Flip Turn|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|75/100
+|
+|t:|1781071146
+|switch|p1a: Calamity|Iron Valiant, shiny|100/100|[from] Flip Turn
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781071154
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Calamity|Moonblast|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|87/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|3
+|j| AbrarS
+|
+|t:|1781071163
+|-terastallize|p1a: Calamity|Fairy
+|move|p1a: Calamity|Moonblast|p2a: Gliscor
+|-damage|p2a: Gliscor|10/100 tox
+|move|p2a: Gliscor|Toxic|p1a: Calamity
+|-status|p1a: Calamity|tox
+|
+|-damage|p1a: Calamity|94/100 tox|[from] psn
+|-heal|p2a: Gliscor|23/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|4
+|
+|t:|1781071168
+|-end|p1a: Calamity|Quark Drive|[silent]
+|switch|p1a: Khaos|Hoopa-Unbound|100/100
+|move|p2a: Gliscor|Protect||[still]
+|-fail|p2a: Gliscor
+|
+|-heal|p2a: Gliscor|35/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|5
+|
+|t:|1781071173
+|move|p1a: Khaos|Hyperspace Fury|p2a: Gliscor
+|-crit|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|-unboost|p1a: Khaos|def|1
+|faint|p2a: Gliscor
+|
+|upkeep
+|
+|t:|1781071178
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|turn|6
+|
+|t:|1781071187
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Darkrai|Darkrai|100/100
+|switch|p1a: Overseer|Pecharunt|100/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781071192
+|switch|p1a: Pisces|Alomomola, M, shiny|100/100 tox
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|2
+|
+|-damage|p1a: Pisces|94/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781071196
+|move|p2a: Darkrai|Dark Pulse|p1a: Pisces
+|-crit|p1a: Pisces
+|-damage|p1a: Pisces|28/100 tox
+|move|p1a: Pisces|Flip Turn|p2a: Darkrai
+|-damage|p2a: Darkrai|79/100
+|
+|t:|1781071207
+|switch|p1a: Enten|Landorus-Therian, M, shiny|100/100|[from] Flip Turn
+|-ability|p1a: Enten|Intimidate|boost
+|-unboost|p2a: Darkrai|atk|1
+|
+|-heal|p2a: Darkrai|85/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781071214
+|-terastallize|p2a: Darkrai|Ghost
+|move|p1a: Enten|U-turn|p2a: Darkrai
+|-resisted|p2a: Darkrai
+|-damage|p2a: Darkrai|69/100
+|
+|t:|1781071230
+|switch|p1a: Liberacy|Cinderace, M, shiny|100/100|[from] U-turn
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|2
+|
+|-heal|p2a: Darkrai|75/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781071242
+|move|p1a: Liberacy|Sucker Punch||[still]
+|-fail|p1a: Liberacy
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|2
+|
+|-heal|p2a: Darkrai|81/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781071248
+|move|p1a: Liberacy|Sucker Punch||[still]
+|-fail|p1a: Liberacy
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|0
+|
+|-heal|p2a: Darkrai|87/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781071259
+|move|p1a: Liberacy|Sucker Punch||[still]
+|-fail|p1a: Liberacy
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|0
+|
+|-heal|p2a: Darkrai|93/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781071272
+|move|p1a: Liberacy|Sucker Punch||[still]
+|-fail|p1a: Liberacy
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|0
+|
+|-heal|p2a: Darkrai|99/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781071280
+|move|p1a: Liberacy|Sucker Punch||[still]
+|-fail|p1a: Liberacy
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|0
+|
+|-heal|p2a: Darkrai|100/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781071286
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|0
+|move|p1a: Liberacy|Pyro Ball|p2a: Darkrai
+|-damage|p2a: Darkrai|32/100
+|
+|-heal|p2a: Darkrai|38/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781071298
+|move|p2a: Darkrai|Dark Pulse|p1a: Liberacy
+|-damage|p1a: Liberacy|0 fnt
+|faint|p1a: Liberacy
+|
+|-heal|p2a: Darkrai|44/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781071301
+|switch|p1a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Enten|Intimidate|boost
+|-unboost|p2a: Darkrai|atk|1
+|turn|17
+|
+|t:|1781071307
+|move|p1a: Enten|Earthquake|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|upkeep
+|-message|LT_Alt1 forfeited.
+|
+|win|hawkins0
+|raw|hawkins0's rating: 1781 &rarr; <strong>1797</strong><br />(+16 for winning)
+|raw|LT_Alt1's rating: 1716 &rarr; <strong>1700</strong><br />(-16 for losing)
+|l|‽LT_Alt1
+|player|p2|
+|l|☆hawkins0
+|player|p1|
+|l| AbrarS

@@ -1,0 +1,294 @@
+|j|☆tauros3
+|j|☆Miurez
+|t:|1781380543
+|gametype|singles
+|player|p1|tauros3|swimmer-gen4dp|1659
+|player|p2|Miurez|pokemonranger-gen4|1719
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Kyurem|
+|poke|p1|Moltres-Galar|
+|poke|p1|Ursaluna, M|
+|poke|p1|Diancie|
+|poke|p1|Hatterene, F|
+|poke|p2|Iron Moth|
+|poke|p2|Gliscor, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Zamazenta-*|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tauros3)
+|
+|t:|1781380568
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pink Triangle|Hatterene, F|100/100
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|1
+|
+|t:|1781380576
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|move|p1a: Pink Triangle|Trick Room|p1a: Pink Triangle
+|-fieldstart|move: Trick Room|[of] p1a: Pink Triangle
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781380589
+|move|p1a: Pink Triangle|Psychic Noise|p2a: Gliscor
+|-damage|p2a: Gliscor|40/100 tox
+|-start|p2a: Gliscor|move: Heal Block
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1781380615
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|move|p1a: Pink Triangle|Psychic Noise|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|21/100
+|-start|p2a: Iron Moth|move: Heal Block
+|
+|upkeep
+|turn|4
+|
+|t:|1781380627
+|move|p1a: Pink Triangle|Psychic Noise|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781380629
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|5
+|
+|t:|1781380643
+|switch|p1a: El Scorcho|Ursaluna, M|100/100
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|-fieldend|move: Trick Room
+|-status|p1a: El Scorcho|brn|[from] item: Flame Orb
+|upkeep
+|turn|6
+|
+|t:|1781380653
+|move|p1a: El Scorcho|Facade|p2a: Hatterene
+|-damage|p2a: Hatterene|3/100
+|move|p2a: Hatterene|Draining Kiss|p1a: El Scorcho
+|-damage|p1a: El Scorcho|70/100 brn
+|-heal|p2a: Hatterene|37/100|[from] drain|[of] p1a: El Scorcho
+|
+|-heal|p2a: Hatterene|43/100|[from] item: Leftovers
+|-damage|p1a: El Scorcho|64/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1781380667
+|move|p1a: El Scorcho|Facade|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|-damage|p1a: El Scorcho|58/100 brn|[from] brn
+|upkeep
+|
+|t:|1781380675
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|8
+|
+|t:|1781380681
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: El Scorcho
+|-damage|p1a: El Scorcho|0 fnt
+|faint|p1a: El Scorcho
+|
+|upkeep
+|
+|t:|1781380686
+|switch|p1a: The Good Life|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: The Good Life
+|turn|9
+|
+|t:|1781380693
+|move|p1a: The Good Life|Encore|p2a: Raging Bolt
+|-start|p2a: Raging Bolt|Encore
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: The Good Life
+|-immune|p1a: The Good Life
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781380700
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|move|p1a: The Good Life|Aurora Veil|p1a: The Good Life
+|-sidestart|p1: tauros3|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781380706
+|switch|p1a: Pink Triangle|Hatterene, F|100/100
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: Miurez|move: Light Screen
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781380711
+|switch|p2a: Gliscor|Gliscor, M|40/100 tox
+|move|p1a: Pink Triangle|Trick Room|p1a: Pink Triangle
+|-fieldstart|move: Trick Room|[of] p1a: Pink Triangle
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Gliscor|53/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|13
+|
+|t:|1781380721
+|move|p1a: Pink Triangle|Psychic Noise|p2a: Gliscor
+|-damage|p2a: Gliscor|23/100 tox
+|-start|p2a: Gliscor|move: Heal Block
+|move|p2a: Gliscor|Earthquake|p1a: Pink Triangle
+|-damage|p1a: Pink Triangle|75/100
+|
+|-weather|none
+|upkeep
+|turn|14
+|
+|t:|1781380735
+|move|p1a: Pink Triangle|Psychic Noise|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|upkeep
+|
+|t:|1781380738
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|15
+|j| mak7xr
+|
+|t:|1781380749
+|-terastallize|p2a: Raging Bolt|Ghost
+|move|p1a: Pink Triangle|Dazzling Gleam|p2a: Raging Bolt
+|-crit|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|38/100
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781380760
+|move|p1a: Pink Triangle|Dazzling Gleam|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|23/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Pink Triangle
+|-damage|p1a: Pink Triangle|34/100
+|-status|p1a: Pink Triangle|par
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|17
+|
+|t:|1781380770
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Pink Triangle
+|-damage|p1a: Pink Triangle|0 fnt
+|faint|p1a: Pink Triangle
+|
+|-sideend|p1: tauros3|move: Aurora Veil
+|upkeep
+|
+|t:|1781380777
+|switch|p1a: No Other One|Diancie|100/100
+|turn|18
+|
+|t:|1781380780
+|-terastallize|p1a: No Other One|Ground
+|move|p2a: Raging Bolt|Thunderbolt|p1a: No Other One
+|-immune|p1a: No Other One
+|move|p1a: No Other One|Trick Room|p1a: No Other One
+|-fieldstart|move: Trick Room|[of] p1a: No Other One
+|
+|-sideend|p2: Miurez|move: Light Screen
+|upkeep
+|turn|19
+|
+|t:|1781380783
+|move|p1a: No Other One|Meteor Beam||[still]
+|-prepare|p1a: No Other One|Meteor Beam
+|-boost|p1a: No Other One|spa|1
+|-enditem|p1a: No Other One|Power Herb
+|-anim|p1a: No Other One|Meteor Beam|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781380788
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|20
+|
+|t:|1781380793
+|move|p1a: No Other One|Moonblast|p2a: Ogerpon
+|-damage|p2a: Ogerpon|21/100
+|move|p2a: Ogerpon|Encore|p1a: No Other One
+|-start|p1a: No Other One|Encore
+|
+|upkeep
+|turn|21
+|
+|t:|1781380796
+|move|p1a: No Other One|Moonblast|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781380798
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|turn|22
+|
+|t:|1781380799
+|move|p1a: No Other One|Moonblast|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|win|tauros3
+|raw|tauros3's rating: 1659 &rarr; <strong>1682</strong><br />(+23 for winning)
+|raw|Miurez's rating: 1719 &rarr; <strong>1696</strong><br />(-23 for losing)
+|l|☆Miurez
+|player|p2|
+|l| mak7xr

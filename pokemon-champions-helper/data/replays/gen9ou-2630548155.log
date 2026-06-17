@@ -1,0 +1,160 @@
+|j|☆kooopooolooo
+|j|☆tiftif
+|t:|1781271463
+|gametype|singles
+|player|p1|kooopooolooo|169|1499
+|player|p2|tiftif|266|1597
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Excadrill, F|
+|poke|p1|Rotom-Wash|
+|poke|p1|Latios, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Mamoswine, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Iron Treads|
+|poke|p2|Barraskewda, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Talonflame, M|
+|poke|p2|Keldeo-Resolute|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by kooopooolooo)
+|
+|t:|1781271521
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1781271540
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Rotom|Hydro Pump|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|71/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781271546
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Tyranitar
+|-damage|p1a: Tyranitar|67/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Raging Bolt|65/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1781271570
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781271578
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Rotom|Volt Switch|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781271585
+|move|p2a: Iron Treads|Stealth Rock|p1a: Rotom
+|-sidestart|p1: kooopooolooo|move: Stealth Rock
+|move|p1a: Rotom|Hydro Pump|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781271591
+|switch|p2a: Raging Bolt|Raging Bolt|65/100
+|turn|6
+|
+|t:|1781271600
+|move|p2a: Raging Bolt|Thunder|p1a: Rotom
+|-damage|p1a: Rotom|33/100
+|move|p1a: Rotom|Volt Switch|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|59/100
+|
+|t:|1781271604
+|switch|p1a: Excadrill|Excadrill, F|100/100|[from] Volt Switch
+|-damage|p1a: Excadrill|97/100|[from] Stealth Rock
+|-item|p1a: Excadrill|Air Balloon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781271614
+|move|p1a: Excadrill|Earthquake|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781271617
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|8
+|
+|t:|1781271621
+|switch|p1a: Rotom|Rotom-Wash|33/100
+|-damage|p1a: Rotom|21/100|[from] Stealth Rock
+|move|p2a: Barraskewda|Flip Turn|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|t:|1781271625
+|switch|p2a: Keldeo|Keldeo-Resolute|100/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781271638
+|switch|p1a: Latios|Latios, M|100/100
+|-damage|p1a: Latios|88/100|[from] Stealth Rock
+|turn|9
+|inactive|tiftif has 120 seconds left.
+|-message|tiftif forfeited.
+|
+|win|kooopooolooo
+|raw|kooopooolooo's rating: 1499 &rarr; <strong>1524</strong><br />(+25 for winning)
+|raw|tiftif's rating: 1597 &rarr; <strong>1572</strong><br />(-25 for losing)
+|l|☆kooopooolooo
+|player|p1|

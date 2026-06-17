@@ -1,0 +1,589 @@
+|j|☆KurisuChestnutOU
+|j|☆A4555
+|t:|1781178035
+|gametype|singles
+|player|p1|KurisuChestnutOU|may-contest|1526
+|player|p2|A4555|sisandbro|1481
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hawlucha, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Gholdengo|
+|poke|p1|Kyurem|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Cinderace, F|
+|poke|p2|Zapdos|
+|poke|p2|Kingambit, M|
+|poke|p2|Kyurem|
+|poke|p2|Great Tusk|
+|poke|p2|Slowking-Galar, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by A4555)
+|inactive|KurisuChestnutOU also wants the timer to be on.
+|
+|t:|1781178056
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Zapdos|Zapdos, shiny|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|turn|1
+|
+|t:|1781178064
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Landorus|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: A4555|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781178081
+|move|p1a: Landorus|Earth Power|p2a: Great Tusk
+|-damage|p2a: Great Tusk|57/100
+|move|p2a: Great Tusk|Ice Spinner|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-damage|p2a: Great Tusk|40/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p1a: Landorus
+|
+|-heal|p2a: Great Tusk|46/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781178088
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|3
+|
+|t:|1781178099
+|move|p1a: Kyurem|Earth Power|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781178105
+|switch|p2a: Zapdos|Zapdos, shiny|100/100
+|turn|4
+|
+|t:|1781178113
+|move|p1a: Kyurem|Ice Beam|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|11/100
+|move|p2a: Zapdos|Thunder Wave|p1a: Kyurem
+|-status|p1a: Kyurem|par
+|
+|upkeep
+|turn|5
+|
+|t:|1781178121
+|move|p2a: Zapdos|Volt Switch|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-crit|p1a: Kyurem
+|-damage|p1a: Kyurem|87/100 par
+|
+|t:|1781178123
+|switch|p2a: Slowking|Slowking-Galar, F|100/100|[from] Volt Switch
+|-damage|p2a: Slowking|88/100|[from] Stealth Rock
+|cant|p1a: Kyurem|par
+|
+|upkeep
+|turn|6
+|
+|t:|1781178129
+|cant|p1a: Kyurem|par
+|move|p2a: Slowking|Future Sight|p1a: Kyurem
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|7
+|
+|t:|1781178136
+|cant|p1a: Kyurem|par
+|move|p2a: Slowking|Sludge Bomb|p1a: Kyurem
+|-damage|p1a: Kyurem|67/100 par
+|
+|upkeep
+|turn|8
+|
+|t:|1781178141
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Samurott
+|-damage|p1a: Samurott|80/100
+|-status|p1a: Samurott|psn
+|
+|-end|p1a: Samurott|move: Future Sight
+|-immune|p1a: Samurott
+|-damage|p1a: Samurott|68/100 psn|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1781178153
+|move|p1a: Samurott|Flip Turn|p2a: Slowking
+|-damage|p2a: Slowking|63/100
+|
+|t:|1781178158
+|switch|p1a: Kyurem|Kyurem|67/100 par|[from] Flip Turn
+|-ability|p1a: Kyurem|Pressure
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781178164
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-damage|p2a: Kyurem|76/100|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781178168
+|move|p2a: Kyurem|Blizzard|p1a: Kyurem
+|-damage|p1a: Kyurem|7/100 par
+|move|p1a: Kyurem|Ice Beam|p2a: Kyurem
+|-damage|p2a: Kyurem|33/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781178177
+|move|p2a: Kyurem|Blizzard|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781178180
+|switch|p1a: Samurott|Samurott-Hisui, F|68/100 psn
+|turn|12
+|
+|t:|1781178187
+|switch|p2a: Zapdos|Zapdos, shiny|11/100
+|move|p1a: Samurott|Ceaseless Edge|p2a: Zapdos|[miss]
+|-miss|p1a: Samurott|p2a: Zapdos
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Samurott|55/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1781178191
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|61/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Samurott|Ceaseless Edge|p2a: Zapdos
+|-damage|p2a: Zapdos|35/100
+|-sidestart|p2: A4555|Spikes
+|
+|-weather|none
+|-damage|p1a: Samurott|43/100 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1781178194
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|85/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Samurott|Flip Turn|p2a: Zapdos
+|-damage|p2a: Zapdos|67/100
+|
+|t:|1781178197
+|switch|p1a: Rillaboom|Rillaboom, F|100/100|[from] Flip Turn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|
+|-heal|p2a: Zapdos|73/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1781178201
+|-terastallize|p1a: Rillaboom|Fire
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|move|p2a: Zapdos|Hurricane|p1a: Rillaboom
+|-damage|p1a: Rillaboom|43/100
+|-start|p1a: Rillaboom|confusion
+|-enditem|p1a: Rillaboom|Lum Berry|[eat]
+|-end|p1a: Rillaboom|confusion
+|
+|-heal|p1a: Rillaboom|49/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|l|☆A4555
+|inactive|A4555 disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆A4555
+|inactive|A4555 reconnected and has 130 seconds left.
+|player|p2|A4555|sisandbro|
+|inactive|A4555 has 120 seconds left.
+|inactive|A4555 has 90 seconds left.
+|
+|t:|1781178268
+|move|p1a: Rillaboom|Knock Off|p2a: Zapdos
+|-damage|p2a: Zapdos|22/100
+|-enditem|p2a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Rillaboom
+|move|p2a: Zapdos|Thunder Wave|p1a: Rillaboom
+|-status|p1a: Rillaboom|par
+|
+|-heal|p1a: Rillaboom|55/100 par|[from] Grassy Terrain
+|upkeep
+|turn|17
+|inactive|A4555 has 90 seconds left.
+|
+|t:|1781178277
+|move|p1a: Rillaboom|Grassy Glide|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-heal|p1a: Rillaboom|61/100 par|[from] Grassy Terrain
+|upkeep
+|inactive|A4555 has 90 seconds left.
+|
+|t:|1781178287
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|18
+|inactive|A4555 has 90 seconds left.
+|
+|t:|1781178293
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p1a: Hawlucha|Grassy Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Grassy Seed
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1781178297
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Cinderace|Will-O-Wisp|p1a: Hawlucha
+|-status|p1a: Hawlucha|brn
+|
+|-damage|p1a: Hawlucha|94/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1781178310
+|move|p1a: Hawlucha|Acrobatics|p2a: Cinderace
+|-damage|p2a: Cinderace|43/100
+|move|p2a: Cinderace|Pyro Ball|p1a: Hawlucha
+|-damage|p1a: Hawlucha|52/100 brn
+|
+|-damage|p1a: Hawlucha|46/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1781178319
+|move|p1a: Hawlucha|Roost|p1a: Hawlucha
+|-heal|p1a: Hawlucha|96/100 brn
+|-singleturn|p1a: Hawlucha|move: Roost
+|move|p2a: Cinderace|Pyro Ball|p1a: Hawlucha
+|-damage|p1a: Hawlucha|60/100 brn
+|
+|-damage|p1a: Hawlucha|54/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1781178326
+|move|p1a: Hawlucha|Acrobatics|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|-damage|p1a: Hawlucha|47/100 brn|[from] brn
+|upkeep
+|
+|t:|1781178330
+|switch|p2a: Slowking|Slowking-Galar, F|97/100
+|turn|23
+|inactive|A4555 has 120 seconds left.
+|
+|t:|1781178343
+|move|p1a: Hawlucha|Roost|p1a: Hawlucha
+|-heal|p1a: Hawlucha|98/100 brn
+|-singleturn|p1a: Hawlucha|move: Roost
+|move|p2a: Slowking|Sludge Bomb|p1a: Hawlucha
+|-damage|p1a: Hawlucha|49/100 brn
+|
+|-damage|p1a: Hawlucha|43/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1781178361
+|move|p1a: Hawlucha|Roost|p1a: Hawlucha
+|-heal|p1a: Hawlucha|93/100 brn
+|-singleturn|p1a: Hawlucha|move: Roost
+|move|p2a: Slowking|Future Sight|p1a: Hawlucha
+|-start|p2a: Slowking|move: Future Sight
+|
+|-damage|p1a: Hawlucha|87/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1781178365
+|move|p1a: Hawlucha|Acrobatics|p2a: Slowking
+|-damage|p2a: Slowking|53/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Hawlucha
+|-damage|p1a: Hawlucha|40/100 brn
+|
+|-damage|p1a: Hawlucha|34/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1781178370
+|move|p1a: Hawlucha|Acrobatics|p2a: Slowking
+|-damage|p2a: Slowking|5/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|l|☆A4555
+|inactive|A4555 disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆A4555
+|inactive|A4555 reconnected and has 120 seconds left.
+|player|p2|A4555|sisandbro|
+|
+|t:|1781178411
+|switch|p2a: Kingambit|Kingambit, M|100/100|[from] Chilly Reception
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Hawlucha|move: Future Sight
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|upkeep
+|
+|t:|1781178415
+|switch|p1a: Samurott|Samurott-Hisui, F|43/100 psn
+|-damage|p1a: Samurott|30/100 psn|[from] Stealth Rock
+|-damage|p1a: Samurott|18/100 psn|[from] Spikes
+|turn|27
+|inactive|A4555 has 120 seconds left.
+|
+|t:|1781178427
+|move|p2a: Kingambit|Sucker Punch|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781178431
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|-damage|p1a: Gholdengo|82/100|[from] Spikes
+|turn|28
+|
+|t:|1781178444
+|-end|p2a: Kingambit|fallen3|[silent]
+|switch|p2a: Kyurem|Kyurem|33/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Gholdengo|Shadow Ball|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781178448
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|29
+|
+|t:|1781178453
+|switch|p1a: Rillaboom|Rillaboom, F, tera:Fire|61/100 par
+|-damage|p1a: Rillaboom|37/100 par|[from] Stealth Rock
+|-damage|p1a: Rillaboom|24/100 par|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Rillaboom|30/100 par|[from] Grassy Terrain
+|upkeep
+|turn|30
+|
+|t:|1781178463
+|move|p1a: Rillaboom|Grassy Glide|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|85/100
+|move|p2a: Kingambit|Iron Head|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-weather|none
+|-heal|p2a: Kingambit|91/100|[from] Grassy Terrain
+|-heal|p2a: Kingambit|97/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781178472
+|switch|p1a: Gholdengo|Gholdengo|82/100
+|-damage|p1a: Gholdengo|76/100|[from] Stealth Rock
+|-damage|p1a: Gholdengo|64/100|[from] Spikes
+|turn|31
+|
+|t:|1781178483
+|-end|p2a: Kingambit|fallen4|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|38/100
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|100/100
+|
+|-heal|p2a: Slowking|44/100|[from] Grassy Terrain
+|upkeep
+|turn|32
+|
+|t:|1781178500
+|move|p1a: Gholdengo|Recover||[still]
+|-fail|p1a: Gholdengo|heal
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781178502
+|switch|p2a: Kingambit|Kingambit, M|97/100|[from] Chilly Reception
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Kingambit|100/100|[from] Grassy Terrain
+|upkeep
+|turn|33
+|
+|t:|1781178510
+|-end|p2a: Kingambit|fallen4|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|77/100
+|move|p1a: Gholdengo|Recover||[still]
+|-fail|p1a: Gholdengo|heal
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Slowking|83/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|34
+|
+|t:|1781178514
+|move|p1a: Gholdengo|Recover||[still]
+|-fail|p1a: Gholdengo|heal
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1781178517
+|switch|p2a: Kingambit|Kingambit, M|100/100|[from] Chilly Reception
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|35
+|
+|t:|1781178523
+|-end|p2a: Kingambit|fallen4|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Gholdengo|Recover||[still]
+|-fail|p1a: Gholdengo|heal
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|36
+|
+|t:|1781178529
+|move|p1a: Gholdengo|Recover||[still]
+|-fail|p1a: Gholdengo|heal
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1781178531
+|switch|p2a: Kingambit|Kingambit, M|100/100|[from] Chilly Reception
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|
+|-weather|none
+|upkeep
+|turn|37
+|
+|t:|1781178539
+|-end|p2a: Kingambit|fallen4|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Gholdengo|Recover||[still]
+|-fail|p1a: Gholdengo|heal
+|
+|upkeep
+|turn|38
+|
+|t:|1781178542
+|move|p1a: Gholdengo|Recover||[still]
+|-fail|p1a: Gholdengo|heal
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781178545
+|switch|p2a: Kingambit|Kingambit, M|100/100|[from] Chilly Reception
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|39
+|
+|t:|1781178550
+|-end|p2a: Kingambit|fallen4|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|-activate|p1a: Gholdengo|move: Struggle
+|move|p1a: Gholdengo|Struggle|p2a: Slowking
+|-damage|p2a: Slowking|95/100
+|-damage|p1a: Gholdengo|75/100|[from] recoil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|40
+|
+|t:|1781178557
+|-activate|p1a: Gholdengo|move: Struggle
+|move|p1a: Gholdengo|Struggle|p2a: Slowking
+|-damage|p2a: Slowking|90/100
+|-damage|p1a: Gholdengo|50/100|[from] recoil
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1781178559
+|switch|p2a: Kingambit|Kingambit, M|100/100|[from] Chilly Reception
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|41
+|
+|t:|1781178563
+|move|p2a: Kingambit|Sucker Punch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|win|A4555
+|raw|KurisuChestnutOU's rating: 1525 &rarr; <strong>1502</strong><br />(-23 for losing)
+|raw|A4555's rating: 1481 &rarr; <strong>1504</strong><br />(+23 for winning)

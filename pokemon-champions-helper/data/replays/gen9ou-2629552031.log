@@ -1,0 +1,148 @@
+|j|☆KurisuChestnutLab
+|j|☆Jewgi_moto
+|t:|1781144887
+|gametype|singles
+|player|p1|KurisuChestnutLab|may-contest|1567
+|player|p2|Jewgi_moto|1|1523
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Zapdos|
+|poke|p1|Garganacl, F|
+|poke|p1|Clefable, F|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Gholdengo|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Moltres|
+|poke|p2|Zamazenta-*|
+|poke|p2|Cinderace, M|
+|poke|p2|Volcanion|
+|poke|p2|Dragonite, M|
+|teampreview
+|
+|t:|1781144892
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|switch|p2a: Moltres|Moltres|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutLab)
+|
+|t:|1781144899
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|move|p1a: Garganacl|Salt Cure|p2a: Cinderace
+|-supereffective|p2a: Cinderace
+|-damage|p2a: Cinderace|62/100
+|-start|p2a: Cinderace|Salt Cure
+|
+|-damage|p2a: Cinderace|50/100|[from] Salt Cure
+|upkeep
+|turn|2
+|
+|t:|1781144904
+|move|p2a: Cinderace|High Jump Kick|p1a: Garganacl
+|-start|p2a: Cinderace|typechange|Fighting|[from] ability: Libero
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|11/100
+|move|p1a: Garganacl|Salt Cure|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-damage|p2a: Cinderace|39/100
+|
+|-heal|p1a: Garganacl|17/100|[from] item: Leftovers
+|-damage|p2a: Cinderace|27/100|[from] Salt Cure
+|upkeep
+|turn|3
+|
+|t:|1781144913
+|move|p2a: Cinderace|Pyro Ball|p1a: Garganacl
+|-resisted|p1a: Garganacl
+|-damage|p1a: Garganacl|4/100
+|move|p1a: Garganacl|Recover|p1a: Garganacl
+|-heal|p1a: Garganacl|54/100
+|
+|-heal|p1a: Garganacl|60/100|[from] item: Leftovers
+|-damage|p2a: Cinderace|15/100|[from] Salt Cure
+|upkeep
+|turn|4
+|
+|t:|1781144917
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Cinderace|High Jump Kick|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|79/100
+|
+|-damage|p2a: Cinderace|2/100|[from] Salt Cure
+|upkeep
+|turn|5
+|
+|t:|1781144921
+|move|p2a: Cinderace|Pyro Ball|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|40/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|91/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-damage|p2a: Cinderace|0 fnt|[from] Salt Cure
+|faint|p2a: Cinderace
+|upkeep
+|
+|t:|1781144927
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100
+|turn|6
+|
+|t:|1781144933
+|move|p2a: Hoopa|Trick|p1a: Zapdos
+|-activate|p2a: Hoopa|move: Trick|[of] p1a: Zapdos
+|-item|p1a: Zapdos|Choice Scarf|[from] move: Trick
+|-item|p2a: Hoopa|Heavy-Duty Boots|[from] move: Trick
+|move|p1a: Zapdos|Volt Switch|p2a: Hoopa
+|-damage|p2a: Hoopa|75/100
+|
+|t:|1781144940
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|7
+|
+|t:|1781144945
+|move|p1a: Samurott|Ceaseless Edge|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|-sidestart|p2: Jewgi_moto|Spikes
+|faint|p2a: Hoopa
+|
+|upkeep
+|
+|t:|1781144948
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-damage|p2a: Zamazenta|88/100|[from] Spikes
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|8
+|
+|t:|1781144954
+|switch|p1a: Zapdos|Zapdos|91/100
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-heal|p2a: Zamazenta|94/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|-message|Jewgi_moto forfeited.
+|
+|win|KurisuChestnutLab
+|raw|KurisuChestnutLab's rating: 1567 &rarr; <strong>1584</strong><br />(+17 for winning)
+|raw|Jewgi_moto's rating: 1523 &rarr; <strong>1506</strong><br />(-17 for losing)
+|l|☆Jewgi_moto
+|player|p2|

@@ -1,0 +1,319 @@
+|j|☆esta man oe
+|j|☆sveinung12321
+|t:|1781450905
+|gametype|singles
+|player|p1|esta man oe|preschooler|1523
+|player|p2|sveinung12321|170|1485
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Heatran, M|
+|poke|p1|Goodra-Hisui, F|
+|poke|p1|Thundurus-Therian, M|
+|poke|p1|Orthworm, M|
+|poke|p1|Grimmsnarl, M|
+|poke|p2|Great Tusk|
+|poke|p2|Dragapult, M|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Azumarill, M|
+|poke|p2|Hawlucha, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by esta man oe)
+|inactive|sveinung12321 has 120 seconds left.
+|
+|t:|1781450956
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Thundurus|Thundurus-Therian, M|100/100
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|turn|1
+|
+|t:|1781450963
+|move|p2a: Samurott|Ceaseless Edge|p1a: Thundurus
+|-damage|p1a: Thundurus|43/100
+|-sidestart|p1: esta man oe|Spikes
+|move|p1a: Thundurus|Volt Switch|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|t:|1781450973
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100|[from] Volt Switch
+|-damage|p1a: Grimmsnarl|88/100|[from] Spikes
+|
+|upkeep
+|
+|t:|1781450995
+|switch|p2a: Azumarill|Azumarill, M|100/100
+|turn|2
+|
+|t:|1781451001
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: esta man oe|Reflect
+|move|p2a: Azumarill|Belly Drum|p2a: Azumarill
+|-damage|p2a: Azumarill|50/100
+|-setboost|p2a: Azumarill|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Azumarill|Sitrus Berry|[eat]
+|-heal|p2a: Azumarill|75/100|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|3
+|
+|t:|1781451016
+|move|p1a: Grimmsnarl|Parting Shot|p2a: Azumarill
+|-unboost|p2a: Azumarill|atk|1
+|-unboost|p2a: Azumarill|spa|1
+|
+|t:|1781451018
+|switch|p1a: Orthworm|Orthworm, M|100/100|[from] Parting Shot
+|-damage|p1a: Orthworm|88/100|[from] Spikes
+|move|p2a: Azumarill|Play Rough|p1a: Orthworm|[miss]
+|-miss|p2a: Azumarill|p1a: Orthworm
+|
+|-heal|p1a: Orthworm|94/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781451024
+|move|p2a: Azumarill|Liquidation|p1a: Orthworm
+|-crit|p1a: Orthworm
+|-damage|p1a: Orthworm|0 fnt
+|faint|p1a: Orthworm
+|
+|upkeep
+|
+|t:|1781451042
+|switch|p1a: Goodra|Goodra-Hisui, F|100/100
+|-damage|p1a: Goodra|88/100|[from] Spikes
+|turn|5
+|
+|t:|1781451044
+|move|p2a: Azumarill|Play Rough|p1a: Goodra
+|-damage|p1a: Goodra|1/100
+|move|p1a: Goodra|Flash Cannon|p2a: Azumarill
+|-damage|p2a: Azumarill|25/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781451050
+|move|p2a: Azumarill|Play Rough|p1a: Goodra
+|-damage|p1a: Goodra|0 fnt
+|faint|p1a: Goodra
+|
+|upkeep
+|
+|t:|1781451052
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Spikes
+|turn|7
+|
+|t:|1781451059
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|-ability|p2a: Hawlucha|Mold Breaker
+|move|p1a: Ogerpon|Horn Leech|p2a: Hawlucha
+|-resisted|p2a: Hawlucha
+|-damage|p2a: Hawlucha|70/100
+|-heal|p1a: Ogerpon|100/100|[from] drain|[of] p2a: Hawlucha
+|
+|upkeep
+|turn|8
+|
+|t:|1781451083
+|-terastallize|p1a: Ogerpon|Water
+|detailschange|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p2a: Hawlucha|Encore|p1a: Ogerpon
+|-start|p1a: Ogerpon|Encore
+|move|p1a: Ogerpon|Horn Leech|p2a: Hawlucha
+|-resisted|p2a: Hawlucha
+|-damage|p2a: Hawlucha|39/100
+|
+|upkeep
+|turn|9
+|inactive|sveinung12321 has 120 seconds left.
+|
+|t:|1781451122
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|88/100
+|-damage|p1a: Grimmsnarl|76/100|[from] Spikes
+|move|p2a: Hawlucha|Roost|p2a: Hawlucha
+|-heal|p2a: Hawlucha|89/100
+|-singleturn|p2a: Hawlucha|move: Roost
+|
+|-sideend|p1: esta man oe|Reflect
+|upkeep
+|turn|10
+|
+|t:|1781451126
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: esta man oe|Reflect
+|move|p2a: Hawlucha|Brave Bird|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|56/100
+|-damage|p2a: Hawlucha|80/100|[from] Recoil
+|
+|upkeep
+|turn|11
+|
+|t:|1781451130
+|move|p1a: Grimmsnarl|Thunder Wave|p2a: Hawlucha
+|-status|p2a: Hawlucha|par
+|move|p2a: Hawlucha|Encore|p1a: Grimmsnarl
+|-start|p1a: Grimmsnarl|Encore
+|
+|upkeep
+|turn|12
+|
+|t:|1781451143
+|switch|p1a: Thundurus|Thundurus-Therian, M|43/100
+|move|p2a: Hawlucha|U-turn|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-damage|p1a: Thundurus|37/100
+|
+|t:|1781451147
+|switch|p2a: Dragapult|Dragapult, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|13
+|
+|t:|1781451152
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|56/100
+|-damage|p1a: Grimmsnarl|43/100|[from] Spikes
+|move|p2a: Dragapult|Shadow Ball|p1a: Grimmsnarl
+|-resisted|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|15/100
+|-unboost|p1a: Grimmsnarl|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1781451160
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: esta man oe|move: Light Screen
+|move|p2a: Dragapult|Shadow Ball|p1a: Grimmsnarl
+|-resisted|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|faint|p1a: Grimmsnarl
+|
+|upkeep
+|
+|t:|1781451165
+|switch|p1a: Heatran|Heatran, M|100/100
+|-damage|p1a: Heatran|88/100|[from] Spikes
+|turn|15
+|
+|t:|1781451170
+|switch|p2a: Hawlucha|Hawlucha, M|80/100 par
+|-ability|p2a: Hawlucha|Mold Breaker
+|move|p1a: Heatran|Magma Storm|p2a: Hawlucha|[miss]
+|-miss|p1a: Heatran|p2a: Hawlucha
+|
+|-heal|p1a: Heatran|94/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781451174
+|switch|p1a: Thundurus|Thundurus-Therian, M|37/100
+|cant|p2a: Hawlucha|par
+|
+|upkeep
+|turn|17
+|
+|t:|1781451178
+|move|p1a: Thundurus|Nasty Plot|p1a: Thundurus
+|-boost|p1a: Thundurus|spa|2
+|move|p2a: Hawlucha|U-turn|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-damage|p1a: Thundurus|31/100
+|
+|t:|1781451181
+|switch|p2a: Dragapult|Dragapult, M|100/100|[from] U-turn
+|
+|-sideend|p1: esta man oe|Reflect
+|upkeep
+|turn|18
+|
+|t:|1781451184
+|move|p2a: Dragapult|Shadow Ball|p1a: Thundurus
+|-damage|p1a: Thundurus|2/100
+|move|p1a: Thundurus|Dark Pulse|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1781451188
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisspe
+|turn|19
+|
+|t:|1781451190
+|move|p2a: Great Tusk|Rapid Spin|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|-boost|p2a: Great Tusk|spe|1
+|faint|p1a: Thundurus
+|
+|upkeep
+|
+|t:|1781451192
+|switch|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Spikes
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|turn|20
+|
+|t:|1781451195
+|move|p2a: Great Tusk|Earthquake|p1a: Ogerpon
+|-damage|p1a: Ogerpon|33/100
+|move|p1a: Ogerpon|Horn Leech|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|49/100
+|-heal|p1a: Ogerpon|70/100|[from] drain|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|21
+|
+|t:|1781451202
+|-terastallize|p2a: Great Tusk|Fire
+|move|p2a: Great Tusk|Earthquake|p1a: Ogerpon
+|-damage|p1a: Ogerpon|16/100
+|move|p1a: Ogerpon|Horn Leech|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|35/100
+|-heal|p1a: Ogerpon|27/100|[from] drain|[of] p2a: Great Tusk
+|
+|-sideend|p1: esta man oe|move: Light Screen
+|upkeep
+|turn|22
+|
+|t:|1781451209
+|move|p2a: Great Tusk|Earthquake|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|detailschange|p1: Ogerpon|Ogerpon-Wellspring, F|[silent]
+|
+|upkeep
+|-message|esta man oe forfeited.
+|
+|win|sveinung12321
+|raw|esta man oe's rating: 1523 &rarr; <strong>1501</strong><br />(-22 for losing)
+|raw|sveinung12321's rating: 1485 &rarr; <strong>1507</strong><br />(+22 for winning)
+|l|☆esta man oe
+|player|p1|
+|l|☆sveinung12321
+|player|p2|

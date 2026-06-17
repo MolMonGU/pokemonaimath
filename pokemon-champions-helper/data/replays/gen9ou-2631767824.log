@@ -1,0 +1,321 @@
+|j|☆siakam
+|j|☆The Name Change
+|t:|1781436548
+|gametype|singles
+|player|p1|siakam|acetrainerf-gen4|1549
+|player|p2|The Name Change|170|1590
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Raging Bolt|
+|poke|p1|Ribombee, M|
+|poke|p1|Gholdengo|
+|poke|p1|Great Tusk|
+|poke|p1|Ogerpon-Cornerstone, F|
+|poke|p1|Ceruledge, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Torkoal, F|
+|poke|p2|Walking Wake|
+|poke|p2|Great Tusk|
+|poke|p2|Slither Wing|
+|poke|p2|Iron Moth|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by siakam)
+|
+|t:|1781436561
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ribombee|Ribombee, M|100/100
+|switch|p2a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|1
+|
+|t:|1781436571
+|move|p1a: Ribombee|Sticky Web|p2a: Torkoal
+|-sidestart|p2: The Name Change|move: Sticky Web
+|move|p2a: Torkoal|Rapid Spin|p1a: Ribombee
+|-damage|p1a: Ribombee|81/100
+|-boost|p2a: Torkoal|spe|1
+|-sideend|p2: The Name Change|Sticky Web|[from] move: Rapid Spin|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781436578
+|switch|p1a: Ceruledge|Ceruledge, F, shiny|100/100
+|move|p2a: Torkoal|Lava Plume|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|81/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781436585
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisspe
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781436599
+|-terastallize|p1a: Ceruledge|Fighting
+|move|p2a: Great Tusk|Headlong Rush|p1a: Ceruledge
+|-damage|p1a: Ceruledge|1/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|move|p1a: Ceruledge|Close Combat|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|-unboost|p1a: Ceruledge|def|1
+|-unboost|p1a: Ceruledge|spd|1
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781436621
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|turn|5
+|
+|t:|1781436634
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Slither Wing|First Impression|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|66/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781436658
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ribombee|Ribombee, M|81/100
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Torkoal|Torkoal, F|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781436666
+|switch|p1a: Ceruledge|Ceruledge, F, shiny, tera:Fighting|1/100
+|move|p2a: Torkoal|Lava Plume|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781436676
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|turn|8
+|
+|t:|1781436682
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Torkoal|[anim] Ivy Cudgel Rock
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|25/100
+|move|p2a: Torkoal|Lava Plume|p1a: Ogerpon
+|-damage|p1a: Ogerpon|61/100
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781436694
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Ogerpon|Power Whip|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|9/100
+|-damage|p1a: Ogerpon|44/100|[from] item: Rocky Helmet|[of] p2a: Ting-Lu
+|
+|upkeep
+|turn|10
+|
+|t:|1781436703
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Ting-Lu|[anim] Ivy Cudgel Rock
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781436714
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|turn|11
+|
+|t:|1781436719
+|move|p2a: Slither Wing|First Impression|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1781436727
+|switch|p1a: Ribombee|Ribombee, M|81/100
+|turn|12
+|
+|t:|1781436734
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Torkoal|Torkoal, F|25/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Ribombee|Sticky Web|p2a: Torkoal
+|-sidestart|p2: The Name Change|move: Sticky Web
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781436744
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Torkoal|Lava Plume|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|84/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781436757
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781436760
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-activate|p2a: Walking Wake|move: Sticky Web
+|-unboost|p2a: Walking Wake|spe|1
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspa
+|turn|15
+|
+|t:|1781436767
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Walking Wake
+|-supereffective|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781436771
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|-activate|p2a: Slither Wing|move: Sticky Web
+|-unboost|p2a: Slither Wing|spe|1
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|turn|16
+|
+|t:|1781436778
+|-terastallize|p2a: Slither Wing|Bug
+|move|p2a: Slither Wing|First Impression|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781436807
+|switch|p1a: Ribombee|Ribombee, M|81/100
+|turn|17
+|
+|t:|1781436812
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-activate|p2a: Iron Moth|move: Sticky Web
+|-unboost|p2a: Iron Moth|spe|1
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespa
+|move|p1a: Ribombee|Stun Spore|p2a: Iron Moth
+|-status|p2a: Iron Moth|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781436824
+|switch|p1a: Great Tusk|Great Tusk|66/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Iron Moth|Substitute|p2a: Iron Moth
+|-start|p2a: Iron Moth|Substitute
+|-damage|p2a: Iron Moth|76/100 par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781436833
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-end|p2a: Iron Moth|Substitute
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Iron Moth|Solar Beam||[still]
+|-prepare|p2a: Iron Moth|Solar Beam
+|-anim|p2a: Iron Moth|Solar Beam|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781436846
+|switch|p1a: Gholdengo|Gholdengo, shiny|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|20
+|
+|t:|1781436851
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|move|p2a: Iron Moth|Fiery Dance|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-crit|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-enditem|p1a: Gholdengo|Air Balloon
+|faint|p1a: Gholdengo
+|
+|upkeep
+|-message|siakam forfeited.
+|
+|win|The Name Change
+|raw|siakam's rating: 1549 &rarr; <strong>1531</strong><br />(-18 for losing)
+|raw|The Name Change's rating: 1590 &rarr; <strong>1608</strong><br />(+18 for winning)
+|l|☆siakam
+|player|p1|
+|l|☆The Name Change
+|player|p2|

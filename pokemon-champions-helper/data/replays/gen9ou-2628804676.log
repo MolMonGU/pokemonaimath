@@ -1,0 +1,278 @@
+|j|☆blackgokuking
+|j|☆team10thPlanet
+|t:|1781057215
+|gametype|singles
+|player|p1|blackgokuking|169|1547
+|player|p2|team10thPlanet|veteran|1649
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, M|
+|poke|p1|Kommo-o, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Crown|
+|poke|p2|Zamazenta-*|
+|poke|p2|Dragonite, M|
+|poke|p2|Araquanid, M|
+|poke|p2|Iron Treads|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Gholdengo|
+|teampreview
+|
+|t:|1781057242
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|1
+|
+|t:|1781057261
+|-terastallize|p2a: Gholdengo|Fairy
+|move|p2a: Gholdengo|Dazzling Gleam|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|upkeep
+|
+|t:|1781057266
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|turn|2
+|
+|t:|1781057279
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781057288
+|move|p2a: Iron Treads|Earthquake|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|3/100
+|move|p1a: Iron Crown|Focus Blast|p2a: Iron Treads|[miss]
+|-miss|p1a: Iron Crown|p2a: Iron Treads
+|
+|upkeep
+|turn|4
+|
+|t:|1781057297
+|move|p2a: Iron Treads|Rapid Spin|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|-boost|p2a: Iron Treads|spe|1
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781057309
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|5
+|
+|t:|1781057315
+|move|p2a: Iron Treads|Earthquake|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|43/100
+|move|p1a: Iron Valiant|Focus Blast|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-crit|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781057358
+|switch|p2a: Johnny Tsunami 🌊|Araquanid, M|100/100
+|turn|6
+|
+|t:|1781057368
+|move|p1a: Iron Valiant|Moonblast|p2a: Johnny Tsunami 🌊
+|-crit|p2a: Johnny Tsunami 🌊
+|-damage|p2a: Johnny Tsunami 🌊|40/100
+|move|p2a: Johnny Tsunami 🌊|Sticky Web|p1a: Iron Valiant
+|-sidestart|p1: blackgokuking|move: Sticky Web
+|
+|upkeep
+|turn|7
+|
+|t:|1781057375
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Johnny Tsunami 🌊|Surf|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781057381
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-activate|p1a: Iron Treads|move: Sticky Web
+|-unboost|p1a: Iron Treads|spe|1
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivedef
+|turn|8
+|
+|t:|1781057415
+|move|p1a: Iron Treads|Stealth Rock|p2a: Johnny Tsunami 🌊
+|-sidestart|p2: team10thPlanet|move: Stealth Rock
+|move|p2a: Johnny Tsunami 🌊|Surf|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781057419
+|switch|p1a: Kyurem|Kyurem|100/100
+|-activate|p1a: Kyurem|move: Sticky Web
+|-unboost|p1a: Kyurem|spe|1
+|-ability|p1a: Kyurem|Pressure
+|turn|9
+|
+|t:|1781057430
+|move|p2a: Johnny Tsunami 🌊|Endure|p2a: Johnny Tsunami 🌊
+|-singleturn|p2a: Johnny Tsunami 🌊|move: Endure
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|
+|upkeep
+|turn|10
+|
+|t:|1781057448
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Johnny Tsunami 🌊|Endeavor|p1a: Kyurem
+|-damage|p1a: Kyurem|35/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781057457
+|move|p1a: Kyurem|Icicle Spear|p2a: Johnny Tsunami 🌊
+|-resisted|p2a: Johnny Tsunami 🌊
+|-damage|p2a: Johnny Tsunami 🌊|25/100
+|-resisted|p2a: Johnny Tsunami 🌊
+|-damage|p2a: Johnny Tsunami 🌊|13/100
+|-resisted|p2a: Johnny Tsunami 🌊
+|-damage|p2a: Johnny Tsunami 🌊|0 fnt
+|faint|p2a: Johnny Tsunami 🌊
+|-hitcount|p2: Johnny Tsunami 🌊|3
+|
+|upkeep
+|
+|t:|1781057480
+|switch|p2a: Gholdengo|Gholdengo, tera:Fairy|100/100
+|-damage|p2a: Gholdengo|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781057487
+|move|p1a: Kyurem|Icicle Spear|p2a: Gholdengo
+|-damage|p2a: Gholdengo|60/100
+|-damage|p2a: Gholdengo|28/100
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|-hitcount|p2: Gholdengo|3
+|
+|upkeep
+|
+|t:|1781057504
+|switch|p2a: Fat Boy|Dragonite, M, shiny|100/100
+|-damage|p2a: Fat Boy|76/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1781057509
+|move|p2a: Fat Boy|Extreme Speed|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781057513
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|move: Sticky Web
+|-unboost|p1a: Kingambit|spe|1
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|turn|14
+|
+|t:|1781057523
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100
+|-damage|p2a: Hoopa|88/100|[from] Stealth Rock
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|upkeep
+|turn|15
+|
+|t:|1781057531
+|move|p1a: Kingambit|Sucker Punch|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|faint|p2a: Hoopa
+|
+|upkeep
+|
+|t:|1781057536
+|switch|p2a: Fat Boy|Dragonite, M, shiny|76/100
+|-damage|p2a: Fat Boy|51/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781057542
+|move|p1a: Kingambit|Sucker Punch|p2a: Fat Boy
+|-damage|p2a: Fat Boy|0 fnt
+|faint|p2a: Fat Boy
+|
+|upkeep
+|
+|t:|1781057553
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-damage|p2a: Zamazenta|94/100|[from] Stealth Rock
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|17
+|
+|t:|1781057562
+|-terastallize|p1a: Kingambit|Ghost
+|move|p2a: Zamazenta|Close Combat|p1a: Kingambit
+|-immune|p1a: Kingambit
+|move|p1a: Kingambit|Iron Head|p2a: Zamazenta
+|-damage|p2a: Zamazenta|3/100
+|
+|upkeep
+|turn|18
+|-message|team10thPlanet forfeited.
+|
+|win|blackgokuking
+|raw|blackgokuking's rating: 1547 &rarr; <strong>1573</strong><br />(+26 for winning)
+|raw|team10thPlanet's rating: 1649 &rarr; <strong>1623</strong><br />(-26 for losing)
+|l|☆team10thPlanet
+|player|p2|

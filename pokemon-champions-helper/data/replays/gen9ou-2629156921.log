@@ -1,0 +1,250 @@
+|j|☆LlamaRat
+|j|☆SincereSarje
+|t:|1781104052
+|gametype|singles
+|player|p1|LlamaRat|1|1572
+|player|p2|SincereSarje|morty|1607
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kommo-o, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Iron Treads|
+|poke|p1|Gholdengo|
+|poke|p1|Dragonite, F|
+|poke|p1|Iron Moth|
+|poke|p2|Weavile, F|
+|poke|p2|Pecharunt|
+|poke|p2|Ting-Lu|
+|poke|p2|Walking Wake|
+|poke|p2|Gholdengo|
+|poke|p2|Gliscor, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SincereSarje)
+|
+|t:|1781104076
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781104084
+|move|p1a: Iron Treads|Stealth Rock|p2a: Walking Wake
+|-sidestart|p2: SincereSarje|move: Stealth Rock
+|move|p2a: Walking Wake|Surf|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781104089
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|2
+|
+|t:|1781104096
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1781104102
+|move|p2a: Pecharunt|Malignant Chain|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|14/100
+|move|p1a: Rillaboom|Knock Off|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|-enditem|p2a: Pecharunt|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Rillaboom
+|faint|p2a: Pecharunt
+|-damage|p1a: Rillaboom|4/100|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|10/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781104114
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|4
+|
+|t:|1781104118
+|move|p2a: Weavile|Ice Shard|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|upkeep
+|
+|t:|1781104121
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|turn|5
+|
+|t:|1781104124
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-damage|p2a: Ting-Lu|94/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Iron Moth|Fiery Dance|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|76/100
+|
+|-heal|p2a: Ting-Lu|82/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781104129
+|move|p1a: Iron Moth|Dazzling Gleam|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|59/100
+|move|p2a: Ting-Lu|Whirlwind|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|drag|p1a: Kommo-o|Kommo-o, F|100/100
+|
+|-heal|p2a: Ting-Lu|65/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781104140
+|move|p1a: Kommo-o|Drain Punch|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|36/100
+|-damage|p1a: Kommo-o|84/100|[from] item: Rocky Helmet|[of] p2a: Ting-Lu
+|move|p2a: Ting-Lu|Whirlwind|p1a: Kommo-o
+|drag|p1a: Dragonite|Dragonite, F|100/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781104150
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Dragonite
+|-sidestart|p1: LlamaRat|move: Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1781104152
+|move|p1a: Dragonite|Ice Spinner|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|-damage|p1a: Dragonite|84/100|[from] item: Rocky Helmet|[of] p2a: Ting-Lu
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781104155
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|10
+|
+|t:|1781104161
+|-terastallize|p1a: Dragonite|Normal
+|move|p1a: Dragonite|Extreme Speed|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|upkeep
+|j| Duerky12
+|
+|t:|1781104170
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|94/100|[from] Stealth Rock
+|turn|11
+|inactive|LlamaRat has 120 seconds left.
+|j| ty-tyui↻
+|
+|t:|1781104205
+|move|p2a: Gholdengo|Focus Blast|p1a: Dragonite|[miss]
+|-miss|p2a: Gholdengo|p1a: Dragonite
+|move|p1a: Dragonite|Earthquake|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|c|☆SincereSarje|Fucking brilliant
+|
+|t:|1781104220
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|turn|12
+|
+|t:|1781104225
+|move|p1a: Dragonite|Extreme Speed|p2a: Walking Wake
+|-damage|p2a: Walking Wake|17/100
+|move|p2a: Walking Wake|Draco Meteor|p1a: Dragonite|[miss]
+|-miss|p2a: Walking Wake|p1a: Dragonite
+|
+|upkeep
+|turn|13
+|c|☆LlamaRat|wow
+|c|☆SincereSarje|LOLOOOL
+|c|☆SincereSarje|GOD THESE MFS NEED HAX TO WIN
+|
+|t:|1781104250
+|move|p1a: Dragonite|Extreme Speed|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781104259
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|-damage|p2a: Gliscor|88/100|[from] Stealth Rock
+|turn|14
+|c| ty-tyui↻|thats why no guard is the best ability in the game
+|c|☆LlamaRat|draco didn't kill, and if you were stuck on focus blast dengo my kommo sets up
+|c|☆LlamaRat|I think I had a better win chance anyway
+|
+|t:|1781104283
+|-terastallize|p2a: Gliscor|Water
+|move|p1a: Dragonite|Ice Spinner|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|70/100
+|move|p2a: Gliscor|Toxic|p1a: Dragonite|[miss]
+|-miss|p2a: Gliscor|p1a: Dragonite
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|15
+|c|☆LlamaRat|wow
+|c|☆SincereSarje|Yeah you do
+|c|☆SincereSarje|cuz you hax
+|c|☆SincereSarje|and that’s all you’re capable of
+|c|☆SincereSarje|apparently
+|inactive|SincereSarje has 120 seconds left.
+|c| ty-tyui↻|hax is a skill tho
+|j| Disscratch
+|c|☆SincereSarje|Have fun getting your ass saved every game
+|-message|SincereSarje forfeited.
+|
+|win|LlamaRat
+|raw|LlamaRat's rating: 1572 &rarr; <strong>1594</strong><br />(+22 for winning)
+|raw|SincereSarje's rating: 1607 &rarr; <strong>1585</strong><br />(-22 for losing)
+|l| ty-tyui↻
+|l|☆LlamaRat
+|player|p1|
+|l| Disscratch

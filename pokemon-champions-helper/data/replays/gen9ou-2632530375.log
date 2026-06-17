@@ -1,0 +1,457 @@
+|j|☆LowEL0God
+|j|☆punaise2lit
+|t:|1781536117
+|gametype|singles
+|player|p1|LowEL0God|265|1563
+|player|p2|punaise2lit|gentleman-gen4|1573
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, F|
+|poke|p1|Barraskewda, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Zarude|
+|poke|p2|Ting-Lu|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Zapdos|
+|poke|p2|Zamazenta-*|
+|poke|p2|Kyurem|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by punaise2lit)
+|c|☆LowEL0God|hf
+|inactive|LowEL0God also wants the timer to be on.
+|c|☆punaise2lit|u2
+|
+|t:|1781536128
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781536132
+|move|p2a: Kyurem|Earth Power|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|4/100
+|move|p1a: Kingambit|Iron Head|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|16/100
+|
+|-heal|p1a: Kingambit|10/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781536138
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-heal|p1a: Kingambit|17/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781536141
+|move|p1a: Kingambit|Sucker Punch|p2a: Zapdos
+|-damage|p2a: Zapdos|72/100
+|move|p2a: Zapdos|Heat Wave|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-crit|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|
+|upkeep
+|
+|t:|1781536143
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|4
+|
+|t:|1781536147
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|57/100
+|-unboost|p1a: Raging Bolt|spa|2
+|
+|-heal|p2a: Ting-Lu|63/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781536150
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Pelipper
+|-sidestart|p1: LowEL0God|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ting-Lu|69/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781536155
+|switch|p2a: Zapdos|Zapdos|72/100
+|move|p1a: Pelipper|Weather Ball|p2a: Zapdos
+|-damage|p2a: Zapdos|25/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781536163
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-damage|p1a: Iron Treads|97/100|[from] Stealth Rock
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|75/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|j| Kyurem
+|
+|t:|1781536171
+|move|p1a: Iron Treads|Rapid Spin|p2a: Zapdos
+|-damage|p2a: Zapdos|67/100
+|-boost|p1a: Iron Treads|spe|1
+|-status|p1a: Iron Treads|par|[from] ability: Static|[of] p2a: Zapdos
+|-sideend|p1: LowEL0God|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Zapdos|Heat Wave|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|61/100 par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781536178
+|move|p1a: Iron Treads|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: punaise2lit|move: Stealth Rock
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781536180
+|move|p1a: Iron Treads|Rapid Spin|p2a: Zapdos
+|-damage|p2a: Zapdos|93/100
+|-boost|p1a: Iron Treads|spe|1
+|move|p2a: Zapdos|Heat Wave|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|21/100 par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781536186
+|move|p1a: Iron Treads|Earth Power|p2a: Zapdos
+|-immune|p2a: Zapdos
+|move|p2a: Zapdos|Heat Wave|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781536187
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|turn|12
+|
+|t:|1781536195
+|-terastallize|p1a: Barraskewda|Water
+|move|p1a: Barraskewda|Liquidation|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-weather|none
+|upkeep
+|
+|t:|1781536206
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|turn|13
+|
+|t:|1781536210
+|move|p1a: Barraskewda|Liquidation|p2a: Weezing
+|-damage|p2a: Weezing|36/100
+|move|p2a: Weezing|Will-O-Wisp|p1a: Barraskewda|[miss]
+|-miss|p2a: Weezing|p1a: Barraskewda
+|
+|upkeep
+|turn|14
+|
+|t:|1781536217
+|-terastallize|p2a: Weezing|Grass
+|move|p1a: Barraskewda|Liquidation|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|4/100
+|move|p2a: Weezing|Will-O-Wisp|p1a: Barraskewda
+|-status|p1a: Barraskewda|brn
+|
+|-damage|p1a: Barraskewda|94/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781536228
+|move|p1a: Barraskewda|Liquidation|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|
+|-damage|p1a: Barraskewda|88/100 brn|[from] brn
+|upkeep
+|
+|t:|1781536239
+|switch|p2a: Zarude|Zarude|100/100
+|-damage|p2a: Zarude|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781536244
+|switch|p1a: Overqwil|Overqwil, F|100/100
+|move|p2a: Zarude|Knock Off|p1a: Overqwil
+|-resisted|p1a: Overqwil
+|-damage|p1a: Overqwil|74/100
+|-enditem|p1a: Overqwil|Life Orb|[from] move: Knock Off|[of] p2a: Zarude
+|
+|-heal|p2a: Zarude|94/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781536253
+|switch|p2a: Ting-Lu|Ting-Lu|69/100
+|-damage|p2a: Ting-Lu|63/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Overqwil|Gunk Shot|p2a: Ting-Lu|[miss]
+|-miss|p1a: Overqwil|p2a: Ting-Lu
+|
+|-heal|p2a: Ting-Lu|69/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781536256
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Pelipper
+|-sidestart|p1: LowEL0God|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ting-Lu|75/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781536259
+|move|p2a: Ting-Lu|Spikes|p1a: Pelipper
+|-sidestart|p1: LowEL0God|Spikes
+|move|p1a: Pelipper|Weather Ball|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|31/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ting-Lu|37/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781536267
+|move|p2a: Ting-Lu|Ruination|p1a: Pelipper|[miss]
+|-miss|p2a: Ting-Lu|p1a: Pelipper
+|move|p1a: Pelipper|Weather Ball|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781536279
+|switch|p2a: Zarude|Zarude|94/100
+|-damage|p2a: Zarude|82/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1781536283
+|move|p2a: Zarude|Knock Off|p1a: Pelipper
+|-damage|p1a: Pelipper|65/100
+|-enditem|p1a: Pelipper|Damp Rock|[from] move: Knock Off|[of] p2a: Zarude
+|move|p1a: Pelipper|Hurricane|p2a: Zarude
+|-supereffective|p2a: Zarude
+|-damage|p2a: Zarude|11/100
+|-start|p2a: Zarude|confusion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zarude|17/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781536290
+|-activate|p2a: Zarude|confusion
+|move|p2a: Zarude|Knock Off|p1a: Pelipper
+|-damage|p1a: Pelipper|40/100
+|move|p1a: Pelipper|Roost|p1a: Pelipper
+|-heal|p1a: Pelipper|90/100
+|-singleturn|p1a: Pelipper|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zarude|23/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781536296
+|-activate|p2a: Zarude|confusion
+|move|p2a: Zarude|Knock Off|p1a: Pelipper
+|-damage|p1a: Pelipper|66/100
+|move|p1a: Pelipper|Hurricane|p2a: Zarude
+|-supereffective|p2a: Zarude
+|-damage|p2a: Zarude|0 fnt
+|faint|p2a: Zarude
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781536300
+|switch|p2a: Kyurem|Kyurem|16/100
+|-damage|p2a: Kyurem|0 fnt|[from] Stealth Rock
+|faint|p2a: Kyurem
+|
+|t:|1781536302
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-damage|p2a: Zamazenta|94/100|[from] Stealth Rock
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|24
+|
+|t:|1781536309
+|move|p1a: Pelipper|Hurricane|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|41/100
+|move|p2a: Zamazenta|Roar|p1a: Pelipper
+|drag|p1a: Overqwil|Overqwil, F|74/100
+|-damage|p1a: Overqwil|62/100|[from] Stealth Rock
+|-damage|p1a: Overqwil|50/100|[from] Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zamazenta|47/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781536317
+|move|p1a: Overqwil|Gunk Shot|p2a: Zamazenta|[miss]
+|-miss|p1a: Overqwil|p2a: Zamazenta
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-weather|none
+|-heal|p2a: Zamazenta|54/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781536319
+|move|p2a: Zamazenta|Body Press|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|faint|p1a: Overqwil
+|
+|-heal|p2a: Zamazenta|60/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781536319
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-damage|p1a: Raging Bolt|88/100|[from] Stealth Rock
+|-damage|p1a: Raging Bolt|76/100|[from] Spikes
+|turn|27
+|
+|t:|1781536323
+|move|p2a: Zamazenta|Body Press|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-heal|p2a: Zamazenta|66/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781536323
+|switch|p1a: Pelipper|Pelipper, M|66/100
+|-damage|p1a: Pelipper|41/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|28
+|
+|t:|1781536328
+|move|p2a: Zamazenta|Body Press|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|9/100
+|move|p1a: Pelipper|Roost|p1a: Pelipper
+|-heal|p1a: Pelipper|59/100
+|-singleturn|p1a: Pelipper|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zamazenta|72/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1781536333
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p1a: Pelipper|Roost|p1a: Pelipper
+|-heal|p1a: Pelipper|100/100
+|-singleturn|p1a: Pelipper|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zamazenta|78/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781536336
+|move|p2a: Zamazenta|Body Press|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|58/100
+|move|p1a: Pelipper|Hurricane|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|18/100
+|-start|p2a: Zamazenta|confusion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zamazenta|24/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1781536340
+|-activate|p2a: Zamazenta|confusion
+|move|p2a: Zamazenta|Body Press|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|14/100
+|move|p1a: Pelipper|Weather Ball|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|win|LowEL0God
+|raw|LowEL0God's rating: 1563 &rarr; <strong>1584</strong><br />(+21 for winning)
+|raw|punaise2lit's rating: 1573 &rarr; <strong>1552</strong><br />(-21 for losing)
+|l|☆punaise2lit
+|player|p2|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p1|

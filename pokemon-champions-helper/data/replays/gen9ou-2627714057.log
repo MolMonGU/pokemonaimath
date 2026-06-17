@@ -1,0 +1,360 @@
+|j|☆temporarylight
+|j|☆DuckyBro
+|t:|1780935572
+|gametype|singles
+|player|p1|temporarylight|jogger|1744
+|player|p2|DuckyBro|dragontamer|1695
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Weavile, M|
+|poke|p1|Great Tusk|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ogerpon, F|
+|poke|p1|Thundurus-Therian, M|
+|poke|p2|Cinderace, F|
+|poke|p2|Dondozo, F|
+|poke|p2|Zapdos|
+|poke|p2|Garchomp, M|
+|poke|p2|Kyurem|
+|poke|p2|Volcanion|
+|teampreview
+|j| InSane_Lcs
+|
+|t:|1780935598
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|1
+|
+|t:|1780935604
+|switch|p1a: Weavile|Weavile, M, shiny|100/100
+|-ability|p1a: Weavile|Pressure
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1780935612
+|-terastallize|p2a: Garchomp|Steel
+|move|p1a: Weavile|Triple Axel|p2a: Garchomp
+|-resisted|p2a: Garchomp
+|-damage|p2a: Garchomp|93/100
+|-damage|p1a: Weavile|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-resisted|p2a: Garchomp
+|-damage|p2a: Garchomp|77/100
+|-damage|p1a: Weavile|76/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-resisted|p2a: Garchomp
+|-damage|p2a: Garchomp|54/100
+|-damage|p1a: Weavile|63/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-hitcount|p2a: Garchomp|3
+|move|p2a: Garchomp|Scale Shot|p1a: Weavile
+|-damage|p1a: Weavile|17/100
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|-hitcount|p1: Weavile|2
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|
+|upkeep
+|
+|t:|1780935630
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|turn|3
+|
+|t:|1780935643
+|-terastallize|p1a: Ogerpon|Grass
+|detailschange|p1a: Ogerpon|Ogerpon-Teal-Tera, F, tera:Grass
+|-ability|p1a: Ogerpon|Embody Aspect (Teal)|boost
+|-boost|p1a: Ogerpon|spe|1
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Garchomp
+|-resisted|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1780935649
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|4
+|
+|t:|1780935656
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Cinderace|atk|1
+|move|p2a: Cinderace|Pyro Ball|p1a: Landorus
+|-damage|p1a: Landorus|64/100
+|
+|-heal|p1a: Landorus|70/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1780935666
+|move|p2a: Cinderace|U-turn|p1a: Landorus
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|59/100
+|j| SilverDE
+|
+|t:|1780935668
+|switch|p2a: Zapdos|Zapdos|100/100|[from] U-turn
+|move|p1a: Landorus|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|89/100
+|
+|t:|1780935677
+|switch|p1a: Thundurus|Thundurus-Therian, M, shiny|100/100|[from] U-turn
+|
+|upkeep
+|turn|6
+|
+|t:|1780935682
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|move|p2a: Zapdos|Heat Wave|p1a: Hoopa
+|-damage|p1a: Hoopa|54/100
+|
+|-heal|p1a: Hoopa|60/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|l| SilverDE
+|
+|t:|1780935689
+|move|p2a: Zapdos|Heat Wave|p1a: Hoopa
+|-damage|p1a: Hoopa|19/100
+|move|p1a: Hoopa|Psychic Noise|p2a: Zapdos
+|-damage|p2a: Zapdos|30/100
+|-start|p2a: Zapdos|move: Heal Block
+|
+|-heal|p1a: Hoopa|25/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1780935701
+|move|p2a: Zapdos|Heat Wave|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|-end|p2a: Zapdos|move: Heal Block
+|upkeep
+|
+|t:|1780935702
+|switch|p1a: Ogerpon|Ogerpon-Teal-Tera, F, tera:Grass|100/100
+|-ability|p1a: Ogerpon|Embody Aspect (Teal)|boost
+|-boost|p1a: Ogerpon|spe|1
+|turn|9
+|
+|t:|1780935704
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-crit|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1780935708
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|10
+|
+|t:|1780935714
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100
+|move|p2a: Cinderace|Pyro Ball|p1a: Great Tusk
+|-damage|p1a: Great Tusk|57/100
+|
+|upkeep
+|turn|11
+|
+|t:|1780935721
+|move|p2a: Cinderace|U-turn|p1a: Great Tusk
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|45/100
+|
+|t:|1780935723
+|switch|p2a: Dondozo|Dondozo, F|100/100|[from] U-turn
+|move|p1a: Great Tusk|Headlong Rush|p2a: Dondozo
+|-damage|p2a: Dondozo|72/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1780935728
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Teal-Tera, F, tera:Grass|100/100
+|-ability|p1a: Ogerpon|Embody Aspect (Teal)|boost
+|-boost|p1a: Ogerpon|spe|1
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|
+|upkeep
+|turn|13
+|
+|t:|1780935732
+|move|p1a: Ogerpon|Low Kick|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1780935734
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|14
+|
+|t:|1780935743
+|switch|p1a: Great Tusk|Great Tusk, shiny|45/100
+|move|p2a: Cinderace|Pyro Ball|p1a: Great Tusk
+|-damage|p1a: Great Tusk|1/100
+|
+|upkeep
+|turn|15
+|c|☆DuckyBro|FORGOT THE BAND
+|
+|t:|1780935749
+|move|p2a: Cinderace|U-turn|p1a: Great Tusk
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by temporarylight)
+|
+|t:|1780935750
+|switch|p2a: Volcanion|Volcanion|100/100|[from] U-turn
+|
+|upkeep
+|c|☆temporarylight|WHY ARE YOU TALKING IN CAPS
+|
+|t:|1780935762
+|switch|p1a: Thundurus|Thundurus-Therian, M, shiny|100/100
+|turn|16
+|j| goodnightnite
+|c|☆DuckyBro|forgot to deactivate it too
+|
+|t:|1780935778
+|move|p1a: Thundurus|Thunderbolt|p2a: Volcanion
+|-supereffective|p2a: Volcanion
+|-damage|p2a: Volcanion|29/100
+|move|p2a: Volcanion|Fire Blast|p1a: Thundurus
+|-damage|p1a: Thundurus|17/100
+|
+|-heal|p1a: Thundurus|23/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1780935783
+|move|p1a: Thundurus|Thunderbolt|p2a: Volcanion
+|-supereffective|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|faint|p2a: Volcanion
+|
+|-heal|p1a: Thundurus|29/100|[from] item: Leftovers
+|upkeep
+|l| goodnightnite
+|
+|t:|1780935788
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|18
+|
+|t:|1780935790
+|move|p2a: Cinderace|Pyro Ball|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|
+|upkeep
+|
+|t:|1780935796
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|59/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Cinderace|atk|1
+|turn|19
+|
+|t:|1780935808
+|switch|p2a: Dondozo|Dondozo, F|72/100
+|move|p1a: Landorus|Earth Power|p2a: Dondozo
+|-damage|p2a: Dondozo|42/100
+|
+|-heal|p1a: Landorus|65/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1780935815
+|move|p1a: Landorus|U-turn|p2a: Dondozo
+|-damage|p2a: Dondozo|34/100
+|
+|t:|1780935817
+|switch|p1a: Ogerpon|Ogerpon-Teal-Tera, F, tera:Grass|100/100|[from] U-turn
+|-ability|p1a: Ogerpon|Embody Aspect (Teal)|boost
+|-boost|p1a: Ogerpon|spe|1
+|move|p2a: Dondozo|Liquidation|p1a: Ogerpon
+|-resisted|p1a: Ogerpon
+|-damage|p1a: Ogerpon|83/100
+|
+|upkeep
+|turn|21
+|
+|t:|1780935819
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Dondozo
+|-supereffective|p2a: Dondozo
+|-crit|p2a: Dondozo
+|-damage|p2a: Dondozo|0 fnt
+|faint|p2a: Dondozo
+|
+|upkeep
+|
+|t:|1780935821
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|22
+|
+|t:|1780935825
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-crit|p2a: Cinderace
+|-damage|p2a: Cinderace|2/100
+|move|p2a: Cinderace|Pyro Ball|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|detailschange|p1: Ogerpon|Ogerpon, F|[silent]
+|
+|upkeep
+|
+|t:|1780935830
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|65/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Cinderace|atk|1
+|turn|23
+|c|☆DuckyBro|ooooooohhhh noooo
+|
+|t:|1780935837
+|move|p2a: Cinderace|Pyro Ball|p1a: Landorus
+|-damage|p1a: Landorus|26/100
+|move|p1a: Landorus|Earth Power|p2a: Cinderace
+|-supereffective|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|win|temporarylight
+|raw|temporarylight's rating: 1744 &rarr; <strong>1761</strong><br />(+17 for winning)
+|raw|DuckyBro's rating: 1695 &rarr; <strong>1678</strong><br />(-17 for losing)
+|c|☆DuckyBro|wp
+|l|☆DuckyBro
+|player|p2|
+|l|☆temporarylight
+|player|p1|
+|l| InSane_Lcs

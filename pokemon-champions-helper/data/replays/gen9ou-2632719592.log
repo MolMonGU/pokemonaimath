@@ -1,0 +1,339 @@
+|j|☆juicepar
+|j|☆Partynparadise
+|t:|1781554638
+|gametype|singles
+|player|p1|juicepar|lucian|1661
+|player|p2|Partynparadise|brawly|1570
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Gholdengo|
+|poke|p1|Raging Bolt|
+|poke|p1|Ting-Lu|
+|poke|p1|Iron Treads|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Kyurem|
+|poke|p2|Great Tusk|
+|poke|p2|Moltres|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Meowscarada, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Partynparadise)
+|
+|t:|1781554669
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ting-Lu|Ting-Lu, shiny|100/100
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|1
+|
+|t:|1781554695
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|move|p2a: Meowscarada|Trick|p1a: Iron Treads
+|-start|p2a: Meowscarada|typechange|Psychic|[from] ability: Protean
+|-activate|p2a: Meowscarada|move: Trick|[of] p1a: Iron Treads
+|-item|p1a: Iron Treads|Choice Scarf|[from] move: Trick
+|-enditem|p2a: Meowscarada|Choice Scarf|[silent]|[from] move: Trick
+|
+|upkeep
+|turn|2
+|inactive|juicepar has 120 seconds left.
+|
+|t:|1781554711
+|move|p1a: Iron Treads|Earthquake|p2a: Meowscarada
+|-damage|p2a: Meowscarada|22/100
+|move|p2a: Meowscarada|Trick|p1a: Iron Treads
+|-activate|p2a: Meowscarada|move: Trick|[of] p1a: Iron Treads
+|-enditem|p1a: Iron Treads|Choice Scarf|[silent]|[from] move: Trick
+|-item|p2a: Meowscarada|Choice Scarf|[from] move: Trick
+|
+|upkeep
+|turn|3
+|inactive|juicepar has 120 seconds left.
+|
+|t:|1781554727
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Iron Treads|Ice Spinner|p2a: Moltres
+|-damage|p2a: Moltres|82/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781554729
+|move|p1a: Iron Treads|Stone Edge|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|
+|upkeep
+|
+|t:|1781554733
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|5
+|inactive|juicepar has 120 seconds left.
+|
+|t:|1781554761
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Great Tusk|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: juicepar|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1781554765
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|-damage|p1a: Tornadus|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781554769
+|switch|p2a: Meowscarada|Meowscarada, F|22/100
+|turn|7
+|
+|t:|1781554777
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-damage|p1a: Iron Treads|97/100|[from] Stealth Rock
+|move|p2a: Meowscarada|U-turn|p1a: Iron Treads
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|82/100
+|
+|t:|1781554781
+|switch|p2a: Iron Valiant|Iron Valiant|100/100|[from] U-turn
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|
+|upkeep
+|turn|8
+|
+|t:|1781554791
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Iron Valiant|Close Combat|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|
+|upkeep
+|turn|9
+|
+|t:|1781554795
+|-terastallize|p2a: Iron Valiant|Fighting
+|move|p2a: Iron Valiant|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|29/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|move|p1a: Gholdengo|Make It Rain|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781554801
+|switch|p2a: Kyurem|Kyurem, shiny|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|10
+|
+|t:|1781554806
+|move|p2a: Kyurem|Substitute|p2a: Kyurem
+|-start|p2a: Kyurem|Substitute
+|-damage|p2a: Kyurem|76/100
+|move|p1a: Gholdengo|Make It Rain|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-crit|p2a: Kyurem
+|-end|p2a: Kyurem|Substitute
+|-unboost|p1a: Gholdengo|spa|1
+|
+|-heal|p2a: Kyurem|82/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781554811
+|move|p2a: Kyurem|Protect|p2a: Kyurem
+|-singleturn|p2a: Kyurem|Protect
+|move|p1a: Gholdengo|Make It Rain|p2a: Kyurem
+|-activate|p2a: Kyurem|move: Protect
+|
+|-heal|p2a: Kyurem|88/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781554820
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-damage|p1a: Zamazenta|94/100|[from] Stealth Rock
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Kyurem|Substitute|p2a: Kyurem
+|-start|p2a: Kyurem|Substitute
+|-damage|p2a: Kyurem|63/100
+|
+|-heal|p1a: Zamazenta|100/100|[from] item: Leftovers
+|-heal|p2a: Kyurem|69/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781554824
+|move|p2a: Kyurem|Earth Power|p1a: Zamazenta
+|-damage|p1a: Zamazenta|70/100
+|move|p1a: Zamazenta|Roar|p2a: Kyurem
+|drag|p2a: Meowscarada|Meowscarada, F|22/100
+|
+|-heal|p1a: Zamazenta|76/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781554832
+|move|p2a: Meowscarada|Trick|p1a: Zamazenta
+|-start|p2a: Meowscarada|typechange|Psychic|[from] ability: Protean
+|-activate|p2a: Meowscarada|move: Trick|[of] p1a: Zamazenta
+|-item|p1a: Zamazenta|Choice Scarf|[from] move: Trick
+|-item|p2a: Meowscarada|Leftovers|[from] move: Trick
+|move|p1a: Zamazenta|Body Press|p2a: Meowscarada
+|-resisted|p2a: Meowscarada
+|-damage|p2a: Meowscarada|0 fnt
+|faint|p2a: Meowscarada
+|
+|upkeep
+|
+|t:|1781554839
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|turn|15
+|
+|t:|1781554844
+|switch|p1a: Gholdengo|Gholdengo|29/100
+|-damage|p1a: Gholdengo|23/100|[from] Stealth Rock
+|move|p2a: Slowking|Future Sight|p1a: Gholdengo
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|16
+|
+|t:|1781554848
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|73/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781554850
+|switch|p2a: Kyurem|Kyurem, shiny|69/100|[from] Chilly Reception
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Kyurem|75/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781554854
+|move|p2a: Kyurem|Earth Power|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|4/100
+|-unboost|p1a: Gholdengo|spd|1
+|move|p1a: Gholdengo|Shadow Ball|p2a: Kyurem
+|-damage|p2a: Kyurem|39/100
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Gholdengo|move: Future Sight
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|-heal|p2a: Kyurem|45/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781554861
+|switch|p1a: Zamazenta|Zamazenta|76/100
+|-damage|p1a: Zamazenta|70/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781554863
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Zamazenta|Body Press|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|91/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781554866
+|switch|p1a: Ting-Lu|Ting-Lu, shiny|100/100
+|-damage|p1a: Ting-Lu|94/100|[from] Stealth Rock
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Slowking|Future Sight|p1a: Ting-Lu
+|-start|p2a: Slowking|move: Future Sight
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781554872
+|move|p1a: Ting-Lu|Spikes|p2a: Slowking
+|-sidestart|p2: Partynparadise|Spikes
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1781554874
+|switch|p2a: Kyurem|Kyurem, shiny|45/100|[from] Chilly Reception
+|-damage|p2a: Kyurem|32/100|[from] Spikes
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|none
+|-heal|p2a: Kyurem|39/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781554883
+|move|p2a: Kyurem|Freeze-Dry|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|60/100
+|move|p1a: Ting-Lu|Earthquake|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|-end|p1a: Ting-Lu|move: Future Sight
+|-immune|p1a: Ting-Lu
+|-heal|p1a: Ting-Lu|66/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781554886
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|turn|22
+|
+|t:|1781554889
+|move|p1a: Ting-Lu|Earthquake|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|win|juicepar
+|raw|juicepar's rating: 1661 &rarr; <strong>1676</strong><br />(+15 for winning)
+|raw|Partynparadise's rating: 1570 &rarr; <strong>1555</strong><br />(-15 for losing)
+|l|☆Partynparadise
+|player|p2|
+|l|☆juicepar
+|player|p1|

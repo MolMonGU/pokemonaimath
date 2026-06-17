@@ -1,0 +1,288 @@
+|j|☆waha8
+|j|☆Slashutu
+|t:|1781404704
+|gametype|singles
+|player|p1|waha8|1|1615
+|player|p2|Slashutu|266|1578
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Indeedee, M|
+|poke|p1|Cinderace, M|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Cetitan, M|
+|poke|p1|Kyurem|
+|poke|p2|Ting-Lu|
+|poke|p2|Gliscor, F|
+|poke|p2|Sinistcha-Masterpiece|
+|poke|p2|Keldeo|
+|poke|p2|Tinkaton, F|
+|poke|p2|Dragonite, M|
+|teampreview
+|
+|t:|1781404716
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: ReverseUNO|Cinderace, M|100/100
+|switch|p2a: Dance Armstrong|Gliscor, F|100/100
+|turn|1
+|
+|t:|1781404721
+|move|p2a: Dance Armstrong|Protect|p2a: Dance Armstrong
+|-singleturn|p2a: Dance Armstrong|Protect
+|move|p1a: ReverseUNO|Pyro Ball|p2a: Dance Armstrong
+|-activate|p2a: Dance Armstrong|move: Protect
+|
+|-status|p2a: Dance Armstrong|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|j| bomboa
+|
+|t:|1781404728
+|switch|p1a: Mavis|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Mavis
+|move|p2a: Dance Armstrong|Knock Off|p1a: Mavis
+|-resisted|p1a: Mavis
+|-damage|p1a: Mavis|90/100
+|-enditem|p1a: Mavis|Icy Rock|[from] move: Knock Off|[of] p2a: Dance Armstrong
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781404736
+|switch|p2a: Tinkki Minaj|Tinkaton, F|100/100
+|-ability|p2a: Tinkki Minaj|Mold Breaker
+|-item|p2a: Tinkki Minaj|Air Balloon
+|move|p1a: Mavis|Aurora Veil|p1a: Mavis
+|-sidestart|p1: waha8|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781404745
+|move|p1a: Mavis|Freeze-Dry|p2a: Tinkki Minaj
+|-resisted|p2a: Tinkki Minaj
+|-crit|p2a: Tinkki Minaj
+|-damage|p2a: Tinkki Minaj|82/100
+|-status|p2a: Tinkki Minaj|frz
+|-enditem|p2a: Tinkki Minaj|Air Balloon
+|-curestatus|p2a: Tinkki Minaj|frz|[msg]
+|move|p2a: Tinkki Minaj|Stealth Rock|p1a: Mavis
+|-sidestart|p1: waha8|move: Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781404754
+|move|p1a: Mavis|Encore|p2a: Tinkki Minaj
+|-start|p2a: Tinkki Minaj|Encore
+|move|p2a: Tinkki Minaj|Stealth Rock||[still]
+|-fail|p2a: Tinkki Minaj
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781404768
+|switch|p1a: Thing|Cetitan, M|100/100
+|-damage|p1a: Thing|75/100|[from] Stealth Rock
+|switch|p2a: My Little Pwny|Keldeo|100/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|j| choispecs ironmoth
+|
+|t:|1781404775
+|move|p1a: Thing|Belly Drum|p1a: Thing
+|-damage|p1a: Thing|25/100
+|-setboost|p1a: Thing|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Thing|Sitrus Berry|[eat]
+|-heal|p1a: Thing|50/100|[from] item: Sitrus Berry
+|move|p2a: My Little Pwny|Aura Sphere|p1a: Thing
+|-supereffective|p1a: Thing
+|-damage|p1a: Thing|6/100
+|
+|-weather|Snowscape|[upkeep]
+|-sideend|p1: waha8|move: Aurora Veil
+|upkeep
+|turn|8
+|
+|t:|1781404788
+|move|p2a: My Little Pwny|Vacuum Wave|p1a: Thing
+|-supereffective|p1a: Thing
+|-damage|p1a: Thing|0 fnt
+|faint|p1a: Thing
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781404794
+|switch|p1a: DeeDee|Indeedee, M|100/100
+|-damage|p1a: DeeDee|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: DeeDee
+|turn|9
+|
+|t:|1781404799
+|switch|p2a: Jarhead|Ting-Lu|100/100
+|-ability|p2a: Jarhead|Vessel of Ruin
+|move|p1a: DeeDee|Dazzling Gleam|p2a: Jarhead
+|-supereffective|p2a: Jarhead
+|-damage|p2a: Jarhead|79/100
+|
+|-weather|none
+|-heal|p2a: Jarhead|85/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781404807
+|move|p1a: DeeDee|Dazzling Gleam|p2a: Jarhead
+|-supereffective|p2a: Jarhead
+|-damage|p2a: Jarhead|64/100
+|move|p2a: Jarhead|Earthquake|p1a: DeeDee
+|-damage|p1a: DeeDee|11/100
+|
+|-heal|p2a: Jarhead|70/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781404818
+|move|p1a: DeeDee|Dazzling Gleam|p2a: Jarhead
+|-supereffective|p2a: Jarhead
+|-damage|p2a: Jarhead|50/100
+|move|p2a: Jarhead|Earthquake|p1a: DeeDee
+|-damage|p1a: DeeDee|0 fnt
+|faint|p1a: DeeDee
+|
+|-heal|p2a: Jarhead|56/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781404826
+|switch|p1a: ReverseUNO|Cinderace, M|100/100
+|turn|12
+|
+|t:|1781404832
+|move|p1a: ReverseUNO|Court Change|p1a: ReverseUNO
+|-start|p1a: ReverseUNO|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: ReverseUNO|move: Court Change
+|move|p2a: Jarhead|Earthquake|p1a: ReverseUNO
+|-damage|p1a: ReverseUNO|46/100
+|
+|-heal|p2a: Jarhead|62/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781404839
+|move|p1a: ReverseUNO|High Jump Kick|p2a: Jarhead
+|-supereffective|p2a: Jarhead
+|-damage|p2a: Jarhead|12/100
+|move|p2a: Jarhead|Spikes|p1a: ReverseUNO
+|-sidestart|p1: waha8|Spikes
+|
+|-heal|p2a: Jarhead|18/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|l| choispecs ironmoth
+|
+|t:|1781404855
+|switch|p1a: Mavis|Ninetales-Alola, F|90/100
+|-damage|p1a: Mavis|78/100|[from] Spikes
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Mavis
+|switch|p2a: Dance Armstrong|Gliscor, F|100/100 tox
+|-damage|p2a: Dance Armstrong|88/100 tox|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Dance Armstrong|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|15
+|
+|t:|1781404865
+|switch|p2a: Tinkki Minaj|Tinkaton, F|82/100
+|-damage|p2a: Tinkki Minaj|76/100|[from] Stealth Rock
+|-ability|p2a: Tinkki Minaj|Mold Breaker
+|move|p1a: Mavis|Aurora Veil|p1a: Mavis
+|-sidestart|p1: waha8|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781404872
+|move|p1a: Mavis|Freeze-Dry|p2a: Tinkki Minaj
+|-resisted|p2a: Tinkki Minaj
+|-damage|p2a: Tinkki Minaj|64/100
+|move|p2a: Tinkki Minaj|Thunder Wave|p1a: Mavis|[miss]
+|-miss|p2a: Tinkki Minaj|p1a: Mavis
+|
+|-weather|Snowscape|[upkeep]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|17
+|
+|t:|1781404884
+|switch|p1a: SageOfSixPaths|Slowking-Galar, F|100/100
+|-damage|p1a: SageOfSixPaths|88/100|[from] Spikes
+|move|p2a: Tinkki Minaj|Thunder Wave|p1a: SageOfSixPaths
+|-status|p1a: SageOfSixPaths|par
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781404890
+|move|p2a: Tinkki Minaj|Stealth Rock|p1a: SageOfSixPaths
+|-sidestart|p1: waha8|move: Stealth Rock
+|move|p1a: SageOfSixPaths|Trick Room|p1a: SageOfSixPaths
+|-fieldstart|move: Trick Room|[of] p1a: SageOfSixPaths
+|
+|-weather|none
+|upkeep
+|turn|19
+|
+|t:|1781404896
+|switch|p2a: Jarhead|Ting-Lu|18/100
+|-damage|p2a: Jarhead|12/100|[from] Stealth Rock
+|-ability|p2a: Jarhead|Vessel of Ruin
+|cant|p1a: SageOfSixPaths|par
+|
+|-heal|p2a: Jarhead|18/100|[from] item: Leftovers
+|-sideend|p1: waha8|move: Aurora Veil
+|upkeep
+|turn|20
+|
+|t:|1781404904
+|move|p1a: SageOfSixPaths|Fire Blast|p2a: Jarhead|[miss]
+|-miss|p1a: SageOfSixPaths|p2a: Jarhead
+|move|p2a: Jarhead|Earthquake|p1a: SageOfSixPaths
+|-supereffective|p1a: SageOfSixPaths
+|-damage|p1a: SageOfSixPaths|11/100 par
+|
+|-heal|p2a: Jarhead|25/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|-message|waha8 forfeited.
+|
+|win|Slashutu
+|raw|waha8's rating: 1615 &rarr; <strong>1593</strong><br />(-22 for losing)
+|raw|Slashutu's rating: 1578 &rarr; <strong>1600</strong><br />(+22 for winning)
+|l|☆waha8
+|player|p1|
+|l|☆Slashutu
+|player|p2|
+|l| bomboa
+|j| choispecs ironmoth

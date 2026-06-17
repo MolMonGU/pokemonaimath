@@ -1,0 +1,600 @@
+|j|☆blackgokuking
+|j|☆KurisuChestnutLab
+|t:|1781119324
+|gametype|singles
+|player|p1|blackgokuking|101|1662
+|player|p2|KurisuChestnutLab|may-contest|1549
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, F|
+|poke|p1|Kommo-o, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Crown|
+|poke|p2|Primarina, F|
+|poke|p2|Hippowdon, F|
+|poke|p2|Skarmory, F|
+|poke|p2|Zapdos|
+|poke|p2|Dragonite, M|
+|poke|p2|Slowking, M|
+|teampreview
+|j| Yamhard
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutLab)
+|
+|t:|1781119334
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|switch|p2a: Primarina|Primarina, F|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|turn|1
+|
+|t:|1781119338
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|move|p2a: Primarina|Surf|p1a: Iron Crown
+|-damage|p1a: Iron Crown|69/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781119344
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Primarina
+|-damage|p2a: Primarina|81/100
+|-damage|p2a: Primarina|61/100
+|-hitcount|p2a: Primarina|2
+|move|p2a: Primarina|Flip Turn|p1a: Iron Crown
+|-damage|p1a: Iron Crown|57/100
+|
+|t:|1781119348
+|switch|p2a: Dragonite|Dragonite, M|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|3
+|
+|t:|1781119352
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Dragonite
+|-damage|p2a: Dragonite|80/100
+|-damage|p2a: Dragonite|41/100
+|-hitcount|p2a: Dragonite|2
+|move|p2a: Dragonite|Earthquake|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781119361
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|4
+|
+|t:|1781119366
+|move|p1a: Kyurem|Icicle Spear|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|-hitcount|p2: Dragonite|1
+|
+|upkeep
+|
+|t:|1781119370
+|switch|p2a: Primarina|Primarina, F|61/100
+|turn|5
+|
+|t:|1781119381
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|move|p2a: Primarina|Moonblast|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|67/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781119394
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Iron Treads|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|upkeep
+|turn|7
+|
+|t:|1781119400
+|move|p1a: Iron Treads|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: KurisuChestnutLab|move: Stealth Rock
+|move|p2a: Zapdos|Heat Wave|p1a: Iron Treads|[miss]
+|-miss|p2a: Zapdos|p1a: Iron Treads
+|
+|upkeep
+|turn|8
+|
+|t:|1781119410
+|move|p1a: Iron Treads|Endeavor|p2a: Zapdos
+|-damage|p2a: Zapdos|67/100
+|move|p2a: Zapdos|Volt Switch|p1a: Iron Treads
+|-immune|p1a: Iron Treads
+|
+|upkeep
+|turn|9
+|
+|t:|1781119416
+|move|p1a: Iron Treads|Rapid Spin|p2a: Zapdos
+|-damage|p2a: Zapdos|57/100
+|-boost|p1a: Iron Treads|spe|1
+|-status|p1a: Iron Treads|par|[from] ability: Static|[of] p2a: Zapdos
+|move|p2a: Zapdos|Hurricane|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|40/100 par
+|-start|p1a: Iron Treads|confusion
+|
+|upkeep
+|turn|10
+|
+|t:|1781119422
+|-activate|p1a: Iron Treads|confusion
+|-damage|p1a: Iron Treads|33/100 par|[from] confusion
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|11
+|
+|t:|1781119426
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|-activate|p1a: Iron Treads|confusion
+|cant|p1a: Iron Treads|par
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|100/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781119431
+|-activate|p1a: Iron Treads|confusion
+|-damage|p1a: Iron Treads|25/100 par|[from] confusion
+|move|p2a: Hippowdon|Stealth Rock|p1a: Iron Treads
+|-sidestart|p1: blackgokuking|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781119437
+|switch|p2a: Skarmory|Skarmory, F|100/100
+|-damage|p2a: Skarmory|88/100|[from] Stealth Rock
+|-end|p1a: Iron Treads|confusion
+|move|p1a: Iron Treads|Rapid Spin|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|84/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: blackgokuking|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Skarmory|90/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781119441
+|move|p1a: Iron Treads|Endeavor|p2a: Skarmory
+|-damage|p2a: Skarmory|29/100
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|79/100
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Skarmory|85/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781119447
+|move|p1a: Iron Treads|Endeavor|p2a: Skarmory
+|-damage|p2a: Skarmory|29/100
+|move|p2a: Skarmory|Spikes|p1a: Iron Treads
+|-sidestart|p1: blackgokuking|Spikes
+|
+|-weather|none
+|-heal|p2a: Skarmory|35/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781119453
+|move|p1a: Iron Treads|Rapid Spin|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|31/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: blackgokuking|Spikes|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|81/100
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-heal|p2a: Skarmory|87/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781119459
+|move|p1a: Iron Treads|Endeavor|p2a: Skarmory
+|-damage|p2a: Skarmory|29/100
+|move|p2a: Skarmory|Spikes|p1a: Iron Treads
+|-sidestart|p1: blackgokuking|Spikes
+|
+|-heal|p2a: Skarmory|35/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781119466
+|move|p1a: Iron Treads|Rapid Spin|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|31/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: blackgokuking|Spikes|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|81/100
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-heal|p2a: Skarmory|87/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781119471
+|move|p1a: Iron Treads|Endeavor|p2a: Skarmory
+|-damage|p2a: Skarmory|29/100
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|79/100
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-heal|p2a: Skarmory|85/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781119476
+|move|p1a: Iron Treads|Endeavor|p2a: Skarmory
+|-damage|p2a: Skarmory|29/100
+|move|p2a: Skarmory|Spikes|p1a: Iron Treads
+|-sidestart|p1: blackgokuking|Spikes
+|
+|-heal|p2a: Skarmory|35/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781119480
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Iron Treads|Rapid Spin|p2a: Hippowdon
+|-damage|p2a: Hippowdon|87/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: blackgokuking|Spikes|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|93/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781119483
+|move|p1a: Iron Treads|Endeavor|p2a: Hippowdon
+|-damage|p2a: Hippowdon|23/100
+|move|p2a: Hippowdon|Stealth Rock|p1a: Iron Treads
+|-sidestart|p1: blackgokuking|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|29/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781119489
+|move|p1a: Iron Treads|Rapid Spin|p2a: Hippowdon
+|-damage|p2a: Hippowdon|22/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: blackgokuking|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|72/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|78/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781119493
+|move|p1a: Iron Treads|Endeavor|p2a: Hippowdon
+|-damage|p2a: Hippowdon|23/100
+|move|p2a: Hippowdon|Stealth Rock|p1a: Iron Treads
+|-sidestart|p1: blackgokuking|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|29/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781119497
+|move|p1a: Iron Treads|Earthquake|p2a: Hippowdon
+|-damage|p2a: Hippowdon|9/100
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|59/100
+|
+|-weather|none
+|-heal|p2a: Hippowdon|65/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781119501
+|move|p1a: Iron Treads|Rapid Spin|p2a: Hippowdon
+|-damage|p2a: Hippowdon|58/100
+|-sideend|p1: blackgokuking|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100
+|
+|upkeep
+|turn|27
+|
+|t:|1781119505
+|cant|p1a: Iron Treads|par
+|move|p2a: Hippowdon|Stealth Rock|p1a: Iron Treads
+|-sidestart|p1: blackgokuking|move: Stealth Rock
+|
+|upkeep
+|turn|28
+|
+|t:|1781119509
+|move|p1a: Iron Treads|Rapid Spin|p2a: Hippowdon
+|-damage|p2a: Hippowdon|94/100
+|-sideend|p1: blackgokuking|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Hippowdon|Stealth Rock|p1a: Iron Treads
+|-sidestart|p1: blackgokuking|move: Stealth Rock
+|
+|-heal|p2a: Hippowdon|99/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1781119511
+|cant|p1a: Iron Treads|par
+|move|p2a: Hippowdon|Stealth Rock||[still]
+|-fail|p2a: Hippowdon
+|
+|-heal|p2a: Hippowdon|100/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781119516
+|move|p1a: Iron Treads|Rapid Spin|p2a: Hippowdon
+|-damage|p2a: Hippowdon|94/100
+|-sideend|p1: blackgokuking|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Hippowdon|Stealth Rock|p1a: Iron Treads
+|-sidestart|p1: blackgokuking|move: Stealth Rock
+|
+|-heal|p2a: Hippowdon|99/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1781119523
+|cant|p1a: Iron Treads|par
+|move|p2a: Hippowdon|Stealth Rock||[still]
+|-fail|p2a: Hippowdon
+|
+|-heal|p2a: Hippowdon|100/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1781119525
+|move|p1a: Iron Treads|Rapid Spin|p2a: Hippowdon
+|-damage|p2a: Hippowdon|93/100
+|-sideend|p1: blackgokuking|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Hippowdon|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p2a: Hippowdon|99/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781119535
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|33
+|
+|t:|1781119541
+|-terastallize|p2a: Hippowdon|Steel
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Hippowdon|Earthquake|p1a: Kyurem
+|-damage|p1a: Kyurem|66/100
+|
+|-heal|p2a: Hippowdon|100/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1781119545
+|move|p1a: Kyurem|Earth Power|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|48/100
+|move|p2a: Hippowdon|Stealth Rock|p1a: Kyurem
+|-sidestart|p1: blackgokuking|move: Stealth Rock
+|
+|-heal|p2a: Hippowdon|54/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1781119551
+|switch|p2a: Skarmory|Skarmory, F|35/100
+|-damage|p2a: Skarmory|22/100|[from] Stealth Rock
+|-terastallize|p1a: Kyurem|Ground
+|move|p1a: Kyurem|Earth Power|p2a: Skarmory
+|-immune|p2a: Skarmory
+|
+|-heal|p2a: Skarmory|28/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1781119554
+|switch|p2a: Slowking|Slowking, M|100/100
+|move|p1a: Kyurem|Icicle Spear|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|91/100
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|80/100
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|70/100
+|-resisted|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|54/100
+|-hitcount|p2a: Slowking|4
+|
+|upkeep
+|turn|37
+|
+|t:|1781119558
+|move|p1a: Kyurem|Scale Shot|p2a: Slowking
+|-damage|p2a: Slowking|36/100
+|-damage|p2a: Slowking|14/100
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|-hitcount|p2: Slowking|3
+|-unboost|p1a: Kyurem|def|1
+|-boost|p1a: Kyurem|spe|1
+|
+|upkeep
+|
+|t:|1781119562
+|switch|p2a: Primarina|Primarina, F|61/100
+|-damage|p2a: Primarina|48/100|[from] Stealth Rock
+|turn|38
+|
+|t:|1781119566
+|move|p1a: Kyurem|Icicle Spear|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|38/100
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|27/100
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|15/100
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|4/100
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|-hitcount|p2: Primarina|5
+|
+|upkeep
+|
+|t:|1781119568
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|39
+|
+|t:|1781119575
+|move|p1a: Kyurem|Icicle Spear|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|75/100
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|48/100
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|21/100
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|-hitcount|p2: Zapdos|4
+|
+|upkeep
+|
+|t:|1781119578
+|switch|p2a: Hippowdon|Hippowdon, F, tera:Steel|54/100
+|-damage|p2a: Hippowdon|48/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|40
+|
+|t:|1781119586
+|switch|p2a: Skarmory|Skarmory, F|28/100
+|-damage|p2a: Skarmory|16/100|[from] Stealth Rock
+|move|p1a: Kyurem|Earth Power|p2a: Skarmory
+|-immune|p2a: Skarmory
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Skarmory|22/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1781119593
+|switch|p2a: Hippowdon|Hippowdon, F, tera:Steel|48/100
+|-damage|p2a: Hippowdon|42/100|[from] Stealth Rock
+|move|p1a: Kyurem|Icicle Spear|p2a: Hippowdon
+|-resisted|p2a: Hippowdon
+|-damage|p2a: Hippowdon|37/100
+|-resisted|p2a: Hippowdon
+|-damage|p2a: Hippowdon|32/100
+|-resisted|p2a: Hippowdon
+|-damage|p2a: Hippowdon|27/100
+|-resisted|p2a: Hippowdon
+|-damage|p2a: Hippowdon|22/100
+|-hitcount|p2a: Hippowdon|4
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|28/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1781119607
+|switch|p2a: Skarmory|Skarmory, F|22/100
+|-damage|p2a: Skarmory|10/100|[from] Stealth Rock
+|move|p1a: Kyurem|Earth Power|p2a: Skarmory
+|-immune|p2a: Skarmory
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Skarmory|16/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1781119611
+|switch|p2a: Hippowdon|Hippowdon, F, tera:Steel|28/100
+|-damage|p2a: Hippowdon|22/100|[from] Stealth Rock
+|move|p1a: Kyurem|Icicle Spear|p2a: Hippowdon
+|-resisted|p2a: Hippowdon
+|-damage|p2a: Hippowdon|17/100
+|-resisted|p2a: Hippowdon
+|-damage|p2a: Hippowdon|12/100
+|-resisted|p2a: Hippowdon
+|-crit|p2a: Hippowdon
+|-damage|p2a: Hippowdon|4/100
+|-resisted|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|-hitcount|p2: Hippowdon|4
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781119617
+|switch|p2a: Skarmory|Skarmory, F|16/100
+|-damage|p2a: Skarmory|3/100|[from] Stealth Rock
+|turn|44
+|
+|t:|1781119621
+|move|p1a: Kyurem|Icicle Spear|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|-hitcount|p2: Skarmory|1
+|
+|win|blackgokuking
+|raw|blackgokuking's rating: 1662 &rarr; <strong>1674</strong><br />(+12 for winning)
+|raw|KurisuChestnutLab's rating: 1523 &rarr; <strong>1511</strong><br />(-12 for losing)

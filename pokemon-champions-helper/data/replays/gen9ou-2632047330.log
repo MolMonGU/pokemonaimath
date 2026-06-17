@@ -1,0 +1,329 @@
+|j|☆Zinn o ola
+|j|☆Mkap
+|t:|1781469798
+|gametype|singles
+|player|p1|Zinn o ola|170|1572
+|player|p2|Mkap|265|1598
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Great Tusk|
+|poke|p1|Kyurem|
+|poke|p1|Kingambit, M|
+|poke|p1|Cinderace, F|
+|poke|p1|Zapdos|
+|poke|p2|Chesnaught, F|
+|poke|p2|Iron Treads|
+|poke|p2|Raging Bolt|
+|poke|p2|Enamorus, F|
+|poke|p2|Manaphy|
+|poke|p2|Zamazenta-*|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Zinn o ola)
+|
+|t:|1781469819
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-ability|p1a: Kyurem|Pressure
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781469825
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Iron Treads|Steel Beam|p1a: Great Tusk
+|-damage|p1a: Great Tusk|26/100
+|-damage|p2a: Iron Treads|50/100|[from] steelbeam
+|
+|-heal|p1a: Great Tusk|32/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781469849
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Zapdos|Zapdos, shiny|100/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: Zinn o ola|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781469856
+|move|p2a: Iron Treads|Steel Beam|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|76/100
+|-damage|p2a: Iron Treads|0 fnt|[from] steelbeam
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|move|p1a: Zapdos|Hurricane|p2: Iron Treads|[notarget]
+|-fail|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1781469863
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|turn|4
+|
+|t:|1781469867
+|move|p2a: Enamorus|Moonblast|p1a: Zapdos
+|-damage|p1a: Zapdos|22/100
+|move|p1a: Zapdos|Thunder Wave|p2a: Enamorus
+|-status|p2a: Enamorus|par
+|
+|upkeep
+|turn|5
+|
+|t:|1781469873
+|move|p1a: Zapdos|Volt Switch|p2a: Enamorus
+|-supereffective|p2a: Enamorus
+|-damage|p2a: Enamorus|17/100 par
+|
+|t:|1781469881
+|switch|p1a: Cinderace|Cinderace, F|100/100|[from] Volt Switch
+|cant|p2a: Enamorus|par
+|
+|upkeep
+|turn|6
+|
+|t:|1781469886
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|
+|upkeep
+|turn|7
+|
+|t:|1781469897
+|move|p2a: Zamazenta|Body Press|p1a: Cinderace
+|-damage|p1a: Cinderace|47/100
+|move|p1a: Cinderace|Will-O-Wisp|p2a: Zamazenta|[miss]
+|-miss|p1a: Cinderace|p2a: Zamazenta
+|
+|upkeep
+|turn|8
+|
+|t:|1781469903
+|switch|p1a: Zapdos|Zapdos, shiny|22/100
+|move|p2a: Zamazenta|Body Press|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|6/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781469907
+|move|p2a: Zamazenta|Body Press|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|-status|p2a: Zamazenta|par|[from] ability: Static|[of] p1a: Zapdos
+|faint|p1a: Zapdos
+|
+|upkeep
+|j| UmbrusHD
+|
+|t:|1781469911
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|turn|10
+|
+|t:|1781469915
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: Mkap|move: Light Screen
+|move|p1a: Slowking|Future Sight|p2a: Zamazenta
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|11
+|
+|t:|1781469924
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: Mkap|Reflect
+|move|p1a: Slowking|Sludge Bomb|p2a: Zamazenta
+|-damage|p2a: Zamazenta|88/100 par
+|
+|upkeep
+|turn|12
+|
+|t:|1781469934
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781469941
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Raging Bolt|move: Future Sight
+|-damage|p2a: Raging Bolt|67/100
+|-heal|p2a: Raging Bolt|74/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|l|☆Mkap
+|inactive|Mkap disconnected and has a minute to reconnect!
+|player|p2|
+|l| UmbrusHD
+|j|☆Mkap
+|inactive|Mkap reconnected and has 135 seconds left.
+|player|p2|Mkap|265|
+|inactive|Zinn o ola has 120 seconds left.
+|inactive|Zinn o ola has 90 seconds left.
+|
+|t:|1781470039
+|-terastallize|p1a: Kyurem|Ice
+|move|p1a: Kyurem|Blizzard|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781470045
+|switch|p2a: Manaphy|Manaphy|100/100
+|-damage|p2a: Manaphy|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1781470053
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Manaphy|Tail Glow|p2a: Manaphy
+|-boost|p2a: Manaphy|spa|3
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Manaphy|94/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781470058
+|move|p2a: Manaphy|Surf|p1a: Slowking
+|-damage|p1a: Slowking|42/100
+|move|p1a: Slowking|Thunder Wave|p2a: Manaphy
+|-status|p2a: Manaphy|par
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Manaphy|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|16
+|inactive|Zinn o ola has 90 seconds left.
+|
+|t:|1781470084
+|switch|p1a: Cinderace|Cinderace, F|47/100
+|cant|p2a: Manaphy|par
+|
+|-weather|none
+|upkeep
+|turn|17
+|j| testingrainteam1
+|
+|t:|1781470092
+|move|p1a: Cinderace|Pyro Ball|p2a: Manaphy|[miss]
+|-miss|p1a: Cinderace|p2a: Manaphy
+|move|p2a: Manaphy|Surf|p1a: Cinderace
+|-supereffective|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|-sideend|p2: Mkap|move: Light Screen
+|upkeep
+|
+|t:|1781470095
+|switch|p1a: Kyurem|Kyurem, tera:Ice|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|18
+|
+|t:|1781470098
+|move|p1a: Kyurem|Freeze-Dry|p2a: Manaphy
+|-supereffective|p2a: Manaphy
+|-damage|p2a: Manaphy|0 fnt
+|faint|p2a: Manaphy
+|
+|-sideend|p2: Mkap|Reflect
+|upkeep
+|
+|t:|1781470106
+|switch|p2a: Chesnaught|Chesnaught, F|100/100
+|-damage|p2a: Chesnaught|95/100|[from] Stealth Rock
+|turn|19
+|l| testingrainteam1
+|
+|t:|1781470111
+|switch|p1a: Slowking|Slowking-Galar, F|75/100
+|-terastallize|p2a: Chesnaught|Poison
+|move|p2a: Chesnaught|Drain Punch|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|65/100
+|-heal|p2a: Chesnaught|100/100|[from] drain|[of] p1a: Slowking
+|
+|upkeep
+|turn|20
+|
+|t:|1781470117
+|move|p2a: Chesnaught|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-enditem|p1a: Slowking|Colbur Berry|[eat]
+|-enditem|p1a: Slowking|Colbur Berry|[weaken]
+|-damage|p1a: Slowking|36/100
+|move|p1a: Slowking|Future Sight|p2a: Chesnaught
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|21
+|inactive|Zinn o ola has 120 seconds left.
+|
+|t:|1781470123
+|switch|p1a: Great Tusk|Great Tusk|32/100
+|move|p2a: Chesnaught|Wood Hammer|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|-damage|p2a: Chesnaught|88/100|[from] Recoil
+|
+|upkeep
+|inactive|Zinn o ola has 120 seconds left.
+|
+|t:|1781470136
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|22
+|inactive|Zinn o ola has 120 seconds left.
+|
+|t:|1781470142
+|move|p1a: Kingambit|Iron Head|p2a: Chesnaught
+|-damage|p2a: Chesnaught|29/100
+|cant|p2a: Chesnaught|flinch
+|
+|-end|p2a: Chesnaught|move: Future Sight
+|-supereffective|p2a: Chesnaught
+|-damage|p2a: Chesnaught|0 fnt
+|faint|p2a: Chesnaught
+|upkeep
+|-message|Mkap forfeited.
+|
+|win|Zinn o ola
+|raw|Zinn o ola's rating: 1572 &rarr; <strong>1593</strong><br />(+21 for winning)
+|raw|Mkap's rating: 1598 &rarr; <strong>1577</strong><br />(-21 for losing)
+|l|☆Mkap
+|player|p2|
+|l|☆Zinn o ola
+|player|p1|

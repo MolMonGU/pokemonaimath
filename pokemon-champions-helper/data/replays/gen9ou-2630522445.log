@@ -1,0 +1,235 @@
+|j|☆n5v
+|j|☆Verbalseduction
+|t:|1781268694
+|gametype|singles
+|player|p1|n5v|leon-masters|1653
+|player|p2|Verbalseduction|101|1620
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Kingambit, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Ninetales, M|
+|poke|p1|Walking Wake|
+|poke|p2|Dondozo, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Blissey, F|
+|poke|p2|Gliscor, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Weezing-Galar, M|
+|teampreview
+|c|☆n5v|glhf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by n5v)
+|
+|t:|1781268707
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Mozilla|Ninetales, M, shiny|100/100
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Mozilla
+|turn|1
+|
+|t:|1781268713
+|switch|p1a: Behemoth|Great Tusk, shiny|100/100
+|-activate|p1a: Behemoth|ability: Protosynthesis
+|-start|p1a: Behemoth|protosynthesisspe
+|move|p2a: Gliscor|Protect||[still]
+|-fail|p2a: Gliscor
+|
+|-weather|SunnyDay|[upkeep]
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781268722
+|switch|p2a: Dondozo|Dondozo, M|100/100
+|move|p1a: Behemoth|Stealth Rock|p2a: Dondozo
+|-sidestart|p2: Verbalseduction|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781268729
+|-end|p1a: Behemoth|Protosynthesis|[silent]
+|switch|p1a: Byakko|Raging Bolt|100/100
+|-activate|p1a: Byakko|ability: Protosynthesis
+|-start|p1a: Byakko|protosynthesisspa
+|move|p2a: Dondozo|Avalanche|p1a: Byakko
+|-supereffective|p1a: Byakko
+|-damage|p1a: Byakko|77/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781268741
+|switch|p2a: Blissey|Blissey, F|100/100
+|-damage|p2a: Blissey|88/100|[from] Stealth Rock
+|move|p1a: Byakko|Weather Ball|p2a: Blissey
+|-damage|p2a: Blissey|54/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Blissey|60/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781268752
+|-end|p1a: Byakko|Protosynthesis|[silent]
+|switch|p1a: Behemoth|Great Tusk, shiny|100/100
+|-activate|p1a: Behemoth|ability: Protosynthesis
+|-start|p1a: Behemoth|protosynthesisspe
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781268758
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Behemoth|Ice Spinner|p2a: Corviknight
+|-damage|p2a: Corviknight|74/100
+|-damage|p1a: Behemoth|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781268768
+|-end|p1a: Behemoth|Protosynthesis|[silent]
+|switch|p1a: Lucifer|Walking Wake|100/100
+|-activate|p1a: Lucifer|ability: Protosynthesis
+|-start|p1a: Lucifer|protosynthesisspe
+|move|p2a: Corviknight|Defog|p1a: Lucifer
+|-unboost|p1a: Lucifer|evasion|1
+|-sideend|p2: Verbalseduction|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781268781
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Lucifer|Draco Meteor|p2a: Blissey
+|-damage|p2a: Blissey|75/100
+|-unboost|p1a: Lucifer|spa|2
+|-damage|p1a: Lucifer|91/100|[from] item: Life Orb
+|
+|-weather|none
+|-end|p1a: Lucifer|Protosynthesis
+|-heal|p2a: Blissey|81/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781268791
+|-end|p1a: Lucifer|Protosynthesis|[silent]
+|switch|p1a: Mozilla|Ninetales, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Mozilla
+|move|p2a: Blissey|Shadow Ball|p1a: Mozilla
+|-damage|p1a: Mozilla|82/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Blissey|87/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781268805
+|switch|p1a: Overgod|Kingambit, M, shiny|100/100
+|move|p2a: Blissey|Shadow Ball|p1a: Overgod
+|-resisted|p1a: Overgod
+|-damage|p1a: Overgod|93/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Blissey|93/100|[from] item: Leftovers
+|-heal|p1a: Overgod|99/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781268816
+|switch|p2a: Dondozo|Dondozo, M|100/100
+|move|p1a: Overgod|Low Kick|p2a: Dondozo
+|-damage|p2a: Dondozo|81/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Overgod|100/100|[from] item: Leftovers
+|-heal|p2a: Dondozo|87/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781268828
+|-end|p1a: Overgod|fallenundefined|[silent]
+|switch|p1a: Byakko|Raging Bolt|77/100
+|-activate|p1a: Byakko|ability: Protosynthesis
+|-start|p1a: Byakko|protosynthesisspa
+|switch|p2a: Gliscor|Gliscor, M|100/100 tox
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781268832
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Byakko|Draco Meteor|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781268844
+|-end|p1a: Byakko|Protosynthesis|[silent]
+|switch|p1a: Lucifer|Walking Wake|91/100
+|-activate|p1a: Lucifer|ability: Protosynthesis
+|-start|p1a: Lucifer|protosynthesisspe
+|move|p2a: Gliscor|Toxic|p1a: Lucifer
+|-status|p1a: Lucifer|tox
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Lucifer|85/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1781268851
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Lucifer|Hydro Steam|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Lucifer|72/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1781268857
+|-end|p1a: Lucifer|Protosynthesis|[silent]
+|switch|p1a: Overgod|Kingambit, M, shiny|100/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|-weather|none
+|upkeep
+|turn|17
+|-message|n5v forfeited.
+|
+|win|Verbalseduction
+|raw|n5v's rating: 1653 &rarr; <strong>1631</strong><br />(-22 for losing)
+|raw|Verbalseduction's rating: 1620 &rarr; <strong>1642</strong><br />(+22 for winning)
+|l|☆n5v
+|player|p1|
+|l|☆Verbalseduction
+|player|p2|

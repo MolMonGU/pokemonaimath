@@ -1,0 +1,504 @@
+|badge|p1|bronze|gen9ubers|100-9
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆itztrip
+|j|☆jd2sleepy
+|t:|1781563782
+|gametype|singles
+|player|p1|itztrip|proton|1666
+|player|p2|jd2sleepy|blackbelt-gen4dp|1668
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Gliscor, F|
+|poke|p1|Gholdengo|
+|poke|p1|Dragonite, M|
+|poke|p1|Ting-Lu|
+|poke|p1|Darkrai|
+|poke|p1|Zamazenta-*|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Sinistcha|
+|poke|p2|Iron Treads|
+|poke|p2|Corviknight, M|
+|poke|p2|Samurott-Hisui, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by itztrip)
+|
+|t:|1781563797
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Darkrai|Darkrai|100/100
+|switch|p2a: The Gaps Not Close|Zapdos-Galar|100/100
+|turn|1
+|
+|t:|1781563800
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: The Gaps Not Close|Close Combat|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|
+|upkeep
+|turn|2
+|
+|t:|1781563803
+|switch|p2a: Samurott-Jack|Samurott-Hisui, M|100/100
+|move|p1a: Gholdengo|Trick|p2a: Samurott-Jack
+|-activate|p1a: Gholdengo|move: Trick|[of] p2a: Samurott-Jack
+|-item|p2a: Samurott-Jack|Choice Scarf|[from] move: Trick
+|-item|p1a: Gholdengo|Assault Vest|[from] move: Trick
+|
+|upkeep
+|turn|3
+|
+|t:|1781563808
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Samurott-Jack|Flip Turn|p1a: Zamazenta
+|-damage|p1a: Zamazenta|84/100
+|
+|t:|1781563811
+|switch|p2a: The Gaps Not Close|Zapdos-Galar|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|4
+|
+|t:|1781563814
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: The Gaps Not Close|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-enditem|p1a: Gholdengo|Assault Vest|[from] move: Knock Off|[of] p2a: The Gaps Not Close
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781563825
+|switch|p1a: Darkrai|Darkrai|100/100
+|turn|5
+|
+|t:|1781563832
+|switch|p2a: Corvette Corvette|Corviknight, M|100/100
+|-ability|p2a: Corvette Corvette|Pressure
+|move|p1a: Darkrai|Knock Off|p2a: Corvette Corvette
+|-damage|p2a: Corvette Corvette|85/100
+|-damage|p1a: Darkrai|84/100|[from] item: Rocky Helmet|[of] p2a: Corvette Corvette
+|-enditem|p2a: Corvette Corvette|Rocky Helmet|[from] move: Knock Off|[of] p1a: Darkrai
+|
+|upkeep
+|turn|6
+|
+|t:|1781563835
+|move|p1a: Darkrai|Will-O-Wisp|p2a: Corvette Corvette
+|-status|p2a: Corvette Corvette|brn
+|move|p2a: Corvette Corvette|U-turn|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-crit|p1a: Darkrai
+|-damage|p1a: Darkrai|54/100
+|
+|t:|1781563847
+|switch|p2a: Tready Way|Iron Treads|100/100|[from] U-turn
+|
+|upkeep
+|turn|7
+|
+|t:|1781563849
+|move|p1a: Darkrai|Will-O-Wisp|p2a: Tready Way
+|-status|p2a: Tready Way|brn
+|move|p2a: Tready Way|Knock Off|p1a: Darkrai
+|-resisted|p1a: Darkrai
+|-damage|p1a: Darkrai|46/100
+|-enditem|p1a: Darkrai|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tready Way
+|
+|-damage|p2a: Tready Way|94/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1781563854
+|move|p1a: Darkrai|Dark Pulse|p2a: Tready Way
+|-damage|p2a: Tready Way|47/100 brn
+|move|p2a: Tready Way|Stealth Rock|p1a: Darkrai
+|-sidestart|p1: itztrip|move: Stealth Rock
+|
+|-damage|p2a: Tready Way|40/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1781563857
+|move|p1a: Darkrai|Dark Pulse|p2a: Tready Way
+|-damage|p2a: Tready Way|0 fnt
+|faint|p2a: Tready Way
+|-end|p2a: Tready Way|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781563860
+|switch|p2a: Samurott-Jack|Samurott-Hisui, M|100/100
+|turn|10
+|
+|t:|1781563867
+|switch|p1a: Gliscor|Gliscor, F|100/100
+|-damage|p1a: Gliscor|88/100|[from] Stealth Rock
+|move|p2a: Samurott-Jack|Ceaseless Edge|p1a: Gliscor
+|-damage|p1a: Gliscor|60/100
+|-sidestart|p1: itztrip|Spikes
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|11
+|
+|t:|1781563872
+|switch|p2a: Corvette Corvette|Corviknight, M|85/100 brn
+|-ability|p2a: Corvette Corvette|Pressure
+|move|p1a: Gliscor|Spikes|p2a: Corvette Corvette
+|-sidestart|p2: jd2sleepy|Spikes
+|
+|-heal|p1a: Gliscor|72/100 tox|[from] ability: Poison Heal
+|-damage|p2a: Corvette Corvette|79/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1781563875
+|move|p1a: Gliscor|Spikes|p2a: Corvette Corvette
+|-sidestart|p2: jd2sleepy|Spikes
+|move|p2a: Corvette Corvette|U-turn|p1a: Gliscor
+|-resisted|p1a: Gliscor
+|-damage|p1a: Gliscor|70/100 tox
+|
+|t:|1781563876
+|switch|p2a: Samurott-Jack|Samurott-Hisui, M|100/100|[from] U-turn
+|-damage|p2a: Samurott-Jack|84/100|[from] Spikes
+|
+|-heal|p1a: Gliscor|83/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|13
+|j| Puyu paz
+|
+|t:|1781563879
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Samurott-Jack|Ceaseless Edge|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p1a: Gliscor|95/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|14
+|
+|t:|1781563883
+|move|p2a: Samurott-Jack|Ceaseless Edge|p1a: Gliscor
+|-damage|p1a: Gliscor|71/100 tox
+|-sidestart|p1: itztrip|Spikes
+|move|p1a: Gliscor|Toxic|p2a: Samurott-Jack
+|-status|p2a: Samurott-Jack|tox
+|
+|-damage|p2a: Samurott-Jack|78/100 tox|[from] psn
+|-heal|p1a: Gliscor|83/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|15
+|
+|t:|1781563886
+|switch|p2a: Say it ain't Slo|Slowking-Galar, M|100/100
+|-damage|p2a: Say it ain't Slo|84/100|[from] Spikes
+|move|p1a: Gliscor|Spikes|p2a: Say it ain't Slo
+|-sidestart|p2: jd2sleepy|Spikes
+|
+|-heal|p1a: Gliscor|96/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|16
+|
+|t:|1781563889
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Say it ain't Slo|Ice Beam|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|17
+|
+|t:|1781563892
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-damage|p1a: Ting-Lu|94/100|[from] Stealth Rock
+|-damage|p1a: Ting-Lu|78/100|[from] Spikes
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Say it ain't Slo|Ice Beam|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|59/100
+|-status|p1a: Ting-Lu|frz
+|
+|-heal|p1a: Ting-Lu|65/100 frz|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781563895
+|-prepare|p2a: Say it ain't Slo|Chilly Reception|[premajor]
+|move|p2a: Say it ain't Slo|Chilly Reception|p2a: Say it ain't Slo
+|-weather|Snowscape
+|
+|t:|1781563899
+|switch|p2a: Gotcha!|Sinistcha|100/100|[from] Chilly Reception
+|cant|p1a: Ting-Lu|frz
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|71/100 frz|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781563902
+|move|p2a: Gotcha!|Calm Mind|p2a: Gotcha!
+|-boost|p2a: Gotcha!|spa|1
+|-boost|p2a: Gotcha!|spd|1
+|cant|p1a: Ting-Lu|frz
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|77/100 frz|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781563904
+|move|p2a: Gotcha!|Calm Mind|p2a: Gotcha!
+|-boost|p2a: Gotcha!|spa|1
+|-boost|p2a: Gotcha!|spd|1
+|cant|p1a: Ting-Lu|frz
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|84/100 frz|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781563906
+|move|p2a: Gotcha!|Matcha Gotcha|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|33/100 frz
+|-curestatus|p1a: Ting-Lu|frz|[msg]
+|move|p1a: Ting-Lu|Whirlwind|p2a: Gotcha!
+|drag|p2a: The Gaps Not Close|Zapdos-Galar|100/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|40/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781563910
+|move|p2a: The Gaps Not Close|U-turn|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|t:|1781563912
+|switch|p2a: Corvette Corvette|Corviknight, M|79/100 brn|[from] U-turn
+|-ability|p2a: Corvette Corvette|Pressure
+|
+|-weather|none
+|-damage|p2a: Corvette Corvette|73/100 brn|[from] brn
+|upkeep
+|
+|t:|1781563921
+|switch|p1a: Darkrai|Darkrai|46/100
+|-damage|p1a: Darkrai|34/100|[from] Stealth Rock
+|-damage|p1a: Darkrai|17/100|[from] Spikes
+|turn|23
+|
+|t:|1781563924
+|move|p1a: Darkrai|Dark Pulse|p2a: Corvette Corvette
+|-damage|p2a: Corvette Corvette|31/100 brn
+|move|p2a: Corvette Corvette|Brave Bird|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|-damage|p2a: Corvette Corvette|27/100 brn|[from] Recoil
+|
+|-damage|p2a: Corvette Corvette|21/100 brn|[from] brn
+|upkeep
+|
+|t:|1781563926
+|switch|p1a: Zamazenta|Zamazenta|84/100
+|turn|24
+|
+|t:|1781563930
+|move|p1a: Zamazenta|Close Combat|p2a: Corvette Corvette
+|-damage|p2a: Corvette Corvette|0 fnt
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|faint|p2a: Corvette Corvette
+|
+|upkeep
+|
+|t:|1781563937
+|switch|p2a: Gotcha!|Sinistcha|100/100
+|turn|25
+|
+|t:|1781563942
+|-terastallize|p1a: Zamazenta|Ice
+|move|p1a: Zamazenta|Ice Fang|p2a: Gotcha!
+|-supereffective|p2a: Gotcha!
+|-damage|p2a: Gotcha!|54/100
+|move|p2a: Gotcha!|Calm Mind|p2a: Gotcha!
+|-boost|p2a: Gotcha!|spa|1
+|-boost|p2a: Gotcha!|spd|1
+|
+|upkeep
+|turn|26
+|
+|t:|1781563949
+|switch|p1a: Gliscor|Gliscor, F|100/100 tox
+|-damage|p1a: Gliscor|88/100 tox|[from] Stealth Rock
+|move|p2a: Gotcha!|Strength Sap|p1a: Gliscor
+|-unboost|p1a: Gliscor|atk|1
+|-heal|p2a: Gotcha!|100/100
+|
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|27
+|
+|t:|1781563954
+|switch|p2a: Say it ain't Slo|Slowking-Galar, M|100/100
+|-damage|p2a: Say it ain't Slo|76/100|[from] Spikes
+|move|p1a: Gliscor|Toxic|p2a: Say it ain't Slo
+|-immune|p2a: Say it ain't Slo
+|
+|upkeep
+|turn|28
+|
+|t:|1781563957
+|move|p1a: Gliscor|Earthquake|p2a: Say it ain't Slo
+|-supereffective|p2a: Say it ain't Slo
+|-enditem|p2a: Say it ain't Slo|Shuca Berry|[eat]
+|-enditem|p2a: Say it ain't Slo|Shuca Berry|[weaken]
+|-damage|p2a: Say it ain't Slo|60/100
+|move|p2a: Say it ain't Slo|Ice Beam|p1a: Gliscor
+|-supereffective|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|
+|upkeep
+|
+|t:|1781563960
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|29
+|
+|t:|1781563962
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Say it ain't Slo|Ice Beam|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|59/100
+|
+|upkeep
+|turn|30
+|
+|t:|1781563965
+|switch|p2a: Gotcha!|Sinistcha|100/100
+|move|p1a: Dragonite|Earthquake|p2a: Gotcha!
+|-resisted|p2a: Gotcha!
+|-damage|p2a: Gotcha!|79/100
+|
+|upkeep
+|turn|31
+|
+|t:|1781563967
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|100/100
+|-singleturn|p1a: Dragonite|move: Roost
+|move|p2a: Gotcha!|Strength Sap|p1a: Dragonite
+|-unboost|p1a: Dragonite|atk|1
+|-heal|p2a: Gotcha!|100/100
+|
+|upkeep
+|turn|32
+|
+|t:|1781563968
+|switch|p1a: Zamazenta|Zamazenta, tera:Ice|84/100
+|move|p2a: Gotcha!|Strength Sap|p1a: Zamazenta
+|-unboost|p1a: Zamazenta|atk|1
+|
+|upkeep
+|turn|33
+|
+|t:|1781563971
+|move|p1a: Zamazenta|Ice Fang|p2a: Gotcha!
+|-supereffective|p2a: Gotcha!
+|-damage|p2a: Gotcha!|68/100
+|cant|p2a: Gotcha!|flinch
+|
+|upkeep
+|turn|34
+|
+|t:|1781563974
+|move|p1a: Zamazenta|Ice Fang|p2a: Gotcha!
+|-supereffective|p2a: Gotcha!
+|-damage|p2a: Gotcha!|37/100
+|move|p2a: Gotcha!|Strength Sap|p1a: Zamazenta
+|-unboost|p1a: Zamazenta|atk|1
+|-heal|p2a: Gotcha!|100/100
+|
+|upkeep
+|turn|35
+|
+|t:|1781563976
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|move|p2a: Gotcha!|Matcha Gotcha|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-crit|p1a: Dragonite
+|-damage|p1a: Dragonite|95/100
+|
+|upkeep
+|turn|36
+|
+|t:|1781563980
+|switch|p1a: Zamazenta|Zamazenta, tera:Ice|84/100
+|move|p2a: Gotcha!|Matcha Gotcha|p1a: Zamazenta|[miss]
+|-miss|p2a: Gotcha!|p1a: Zamazenta
+|
+|upkeep
+|turn|37
+|
+|t:|1781563982
+|move|p1a: Zamazenta|Ice Fang|p2a: Gotcha!
+|-supereffective|p2a: Gotcha!
+|-damage|p2a: Gotcha!|57/100
+|move|p2a: Gotcha!|Strength Sap|p1a: Zamazenta
+|-unboost|p1a: Zamazenta|atk|1
+|-heal|p2a: Gotcha!|100/100
+|
+|upkeep
+|turn|38
+|
+|t:|1781563984
+|move|p1a: Zamazenta|Ice Fang|p2a: Gotcha!
+|-supereffective|p2a: Gotcha!
+|-damage|p2a: Gotcha!|69/100
+|move|p2a: Gotcha!|Matcha Gotcha|p1a: Zamazenta
+|-damage|p1a: Zamazenta|51/100
+|-heal|p2a: Gotcha!|84/100|[from] drain|[of] p1a: Zamazenta
+|
+|upkeep
+|turn|39
+|
+|t:|1781563986
+|move|p1a: Zamazenta|Ice Fang|p2a: Gotcha!
+|-supereffective|p2a: Gotcha!
+|-damage|p2a: Gotcha!|53/100
+|move|p2a: Gotcha!|Matcha Gotcha|p1a: Zamazenta
+|-damage|p1a: Zamazenta|22/100
+|-heal|p2a: Gotcha!|67/100|[from] drain|[of] p1a: Zamazenta
+|
+|upkeep
+|turn|40
+|-message|itztrip forfeited.
+|
+|win|jd2sleepy
+|raw|itztrip's rating: 1666 &rarr; <strong>1646</strong><br />(-20 for losing)
+|raw|jd2sleepy's rating: 1668 &rarr; <strong>1688</strong><br />(+20 for winning)
+|l|☆itztrip
+|player|p1|
+|l| Puyu paz

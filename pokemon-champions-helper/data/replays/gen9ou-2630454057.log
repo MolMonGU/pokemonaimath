@@ -1,0 +1,262 @@
+|j|☆waha8
+|j|☆fj9endk
+|t:|1781259482
+|gametype|singles
+|player|p1|waha8|102|1603
+|player|p2|fj9endk|1|1610
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Indeedee, M|
+|poke|p1|Cinderace, F|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Cetitan, F|
+|poke|p1|Kyurem|
+|poke|p2|Salamence, F|
+|poke|p2|Glimmora, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Scizor, F|
+|poke|p2|Raging Bolt|
+|teampreview
+|
+|t:|1781259486
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: DeeDee|Indeedee, M|100/100
+|switch|p2a: Scizor|Scizor, F|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: DeeDee
+|turn|1
+|
+|t:|1781259492
+|switch|p1a: Mavis|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Mavis
+|move|p2a: Scizor|U-turn|p1a: Mavis
+|-resisted|p1a: Mavis
+|-damage|p1a: Mavis|70/100
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by waha8)
+|
+|t:|1781259516
+|switch|p2a: Glimmora|Glimmora, M|100/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781259522
+|move|p1a: Mavis|Aurora Veil|p1a: Mavis
+|-sidestart|p1: waha8|move: Aurora Veil
+|move|p2a: Glimmora|Stealth Rock|p1a: Mavis
+|-sidestart|p1: waha8|move: Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781259526
+|move|p1a: Mavis|Encore|p2a: Glimmora
+|-start|p2a: Glimmora|Encore
+|move|p2a: Glimmora|Stealth Rock||[still]
+|-fail|p2a: Glimmora
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781259532
+|switch|p1a: Thing|Cetitan, F|100/100
+|-damage|p1a: Thing|75/100|[from] Stealth Rock
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781259540
+|move|p2a: Iron Valiant|Moonblast|p1a: Thing
+|-damage|p1a: Thing|49/100
+|-enditem|p1a: Thing|Sitrus Berry|[eat]
+|-heal|p1a: Thing|74/100|[from] item: Sitrus Berry
+|move|p1a: Thing|Icicle Spear|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|83/100
+|-damage|p2a: Iron Valiant|66/100
+|-damage|p2a: Iron Valiant|51/100
+|-hitcount|p2a: Iron Valiant|3
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781259555
+|move|p2a: Iron Valiant|Destiny Bond|p2a: Iron Valiant
+|-singlemove|p2a: Iron Valiant|Destiny Bond
+|move|p1a: Thing|Icicle Spear|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|33/100
+|-damage|p2a: Iron Valiant|17/100
+|-hitcount|p2a: Iron Valiant|2
+|
+|-weather|Snowscape|[upkeep]
+|-sideend|p1: waha8|move: Aurora Veil
+|upkeep
+|turn|7
+|
+|t:|1781259562
+|move|p2a: Iron Valiant|Moonblast|p1a: Thing
+|-damage|p1a: Thing|24/100
+|move|p1a: Thing|Icicle Spear|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|-hitcount|p2: Iron Valiant|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781259570
+|switch|p2a: Scizor|Scizor, F|100/100
+|turn|8
+|
+|t:|1781259572
+|move|p1a: Thing|Earthquake|p2a: Scizor
+|-damage|p2a: Scizor|65/100
+|move|p2a: Scizor|U-turn|p1a: Thing
+|-damage|p1a: Thing|0 fnt
+|faint|p1a: Thing
+|
+|t:|1781259578
+|switch|p2a: Glimmora|Glimmora, M|100/100|[from] U-turn
+|
+|-weather|none
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1781259583
+|switch|p1a: DeeDee|Indeedee, M|100/100
+|-damage|p1a: DeeDee|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: DeeDee
+|turn|9
+|
+|t:|1781259588
+|move|p1a: DeeDee|Expanding Force|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-crit|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|
+|upkeep
+|
+|t:|1781259592
+|switch|p2a: Scizor|Scizor, F|65/100
+|turn|10
+|
+|t:|1781259594
+|switch|p1a: Mavis|Ninetales-Alola, F|70/100
+|-damage|p1a: Mavis|45/100|[from] Stealth Rock
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Mavis
+|move|p2a: Scizor|U-turn|p1a: Mavis
+|-resisted|p1a: Mavis
+|-damage|p1a: Mavis|15/100
+|
+|t:|1781259599
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781259605
+|move|p2a: Ogerpon|Trailblaze|p1a: Mavis
+|-damage|p1a: Mavis|0 fnt
+|-boost|p2a: Ogerpon|spe|1
+|faint|p1a: Mavis
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781259612
+|switch|p1a: SubZero|Kyurem|100/100
+|-damage|p1a: SubZero|76/100|[from] Stealth Rock
+|-ability|p1a: SubZero|Pressure
+|turn|12
+|
+|t:|1781259624
+|switch|p2a: Scizor|Scizor, F|65/100
+|move|p1a: SubZero|Scale Shot|p2a: Scizor|[miss]
+|-miss|p1a: SubZero|p2a: Scizor
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781259631
+|move|p1a: SubZero|Dragon Dance|p1a: SubZero
+|-boost|p1a: SubZero|atk|1
+|-boost|p1a: SubZero|spe|1
+|move|p2a: Scizor|U-turn|p1a: SubZero
+|-damage|p1a: SubZero|36/100
+|
+|t:|1781259638
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781259645
+|-terastallize|p1a: SubZero|Ice
+|move|p1a: SubZero|Icicle Spear|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|50/100
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|-hitcount|p2: Raging Bolt|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781259652
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|15
+|
+|t:|1781259655
+|-terastallize|p2a: Ogerpon|Water
+|detailschange|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|move|p1a: SubZero|Scale Shot|p2a: Ogerpon
+|-crit|p2a: Ogerpon
+|-damage|p2a: Ogerpon|57/100
+|-damage|p2a: Ogerpon|31/100
+|-damage|p2a: Ogerpon|2/100
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|detailschange|p2: Ogerpon|Ogerpon-Wellspring, F|[silent]
+|-hitcount|p2: Ogerpon|4
+|-unboost|p1a: SubZero|def|1
+|-boost|p1a: SubZero|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|-message|fj9endk forfeited.
+|
+|win|waha8
+|raw|waha8's rating: 1603 &rarr; <strong>1623</strong><br />(+20 for winning)
+|raw|fj9endk's rating: 1610 &rarr; <strong>1590</strong><br />(-20 for losing)
+|l|☆fj9endk
+|player|p2|

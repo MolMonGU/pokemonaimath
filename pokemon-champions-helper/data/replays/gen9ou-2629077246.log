@@ -1,0 +1,338 @@
+|j|☆Jet Pilot Skyla
+|j|☆142577z
+|t:|1781096380
+|gametype|singles
+|player|p1|Jet Pilot Skyla|skyla|1549
+|player|p2|142577z|dawn|1549
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Porygon-Z|
+|poke|p1|Lokix, M|
+|poke|p1|Cinderace, M|
+|poke|p1|Great Tusk|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Alomomola, M|
+|poke|p2|Iron Moth|
+|poke|p2|Gliscor, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Zamazenta-*|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jet Pilot Skyla)
+|
+|t:|1781096398
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Shoop da Woop|Porygon-Z|100/100
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|-ability|p1a: Shoop da Woop|Download|boost
+|-boost|p1a: Shoop da Woop|spa|1
+|turn|1
+|
+|t:|1781096405
+|switch|p1a: Brain Damage|Slowking-Galar, M|100/100
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: 142577z|move: Light Screen
+|
+|upkeep
+|turn|2
+|
+|t:|1781096409
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: 142577z|Reflect
+|move|p1a: Brain Damage|Thunder Wave|p2a: Zamazenta
+|-status|p2a: Zamazenta|par
+|
+|upkeep
+|turn|3
+|
+|t:|1781096427
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|-prepare|p1a: Brain Damage|Chilly Reception|[premajor]
+|move|p1a: Brain Damage|Chilly Reception|p1a: Brain Damage
+|-weather|Snowscape
+|
+|t:|1781096431
+|switch|p1a: Cheese Hater|Great Tusk|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781096441
+|move|p2a: Iron Moth|Fiery Dance|p1a: Cheese Hater
+|-damage|p1a: Cheese Hater|43/100
+|-boost|p2a: Iron Moth|spa|1
+|move|p1a: Cheese Hater|Headlong Rush|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|-unboost|p1a: Cheese Hater|def|1
+|-unboost|p1a: Cheese Hater|spd|1
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781096447
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|5
+|
+|t:|1781096452
+|-end|p1a: Cheese Hater|Protosynthesis|[silent]
+|switch|p1a: Brain Damage|Slowking-Galar, M|100/100
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781096457
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Brain Damage|[anim] Ivy Cudgel Water
+|-damage|p1a: Brain Damage|8/100
+|move|p1a: Brain Damage|Thunder Wave|p2a: Ogerpon
+|-status|p2a: Ogerpon|par
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781096471
+|move|p2a: Ogerpon|Trailblaze|p1a: Brain Damage
+|-resisted|p1a: Brain Damage
+|-damage|p1a: Brain Damage|0 fnt
+|-boost|p2a: Ogerpon|spe|1
+|faint|p1a: Brain Damage
+|
+|-weather|none
+|upkeep
+|inactive|Jet Pilot Skyla has 120 seconds left.
+|
+|t:|1781096497
+|switch|p1a: Blep|Lokix, M|100/100
+|turn|8
+|
+|t:|1781096505
+|-terastallize|p1a: Blep|Bug
+|move|p1a: Blep|First Impression|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|-sideend|p2: 142577z|move: Light Screen
+|upkeep
+|
+|t:|1781096516
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|9
+|
+|t:|1781096520
+|switch|p1a: Cheese Hater|Great Tusk|43/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Cheese Hater
+|-damage|p1a: Cheese Hater|0 fnt
+|faint|p1a: Cheese Hater
+|-end|p1a: Cheese Hater|Protosynthesis|[silent]
+|
+|-sideend|p2: 142577z|Reflect
+|upkeep
+|
+|t:|1781096532
+|switch|p1a: Shoop da Woop|Porygon-Z|100/100
+|-ability|p1a: Shoop da Woop|Download|boost
+|-boost|p1a: Shoop da Woop|spa|1
+|turn|10
+|
+|t:|1781096539
+|move|p1a: Shoop da Woop|Tri Attack|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|8/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Shoop da Woop
+|-damage|p1a: Shoop da Woop|11/100
+|-status|p1a: Shoop da Woop|par
+|
+|upkeep
+|turn|11
+|
+|t:|1781096547
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Shoop da Woop
+|-damage|p1a: Shoop da Woop|0 fnt
+|faint|p1a: Shoop da Woop
+|
+|upkeep
+|
+|t:|1781096551
+|switch|p1a: Red Card Apologist|Cinderace, M|100/100
+|turn|12
+|
+|t:|1781096555
+|move|p1a: Red Card Apologist|Sucker Punch|p2a: Raging Bolt
+|-start|p1a: Red Card Apologist|typechange|Dark|[from] ability: Libero
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781096563
+|switch|p2a: Zamazenta|Zamazenta|100/100 par
+|turn|13
+|
+|t:|1781096567
+|move|p1a: Red Card Apologist|U-turn|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|92/100 par
+|
+|t:|1781096570
+|switch|p1a: da Fish|Alomomola, M|100/100|[from] U-turn
+|cant|p2a: Zamazenta|par
+|
+|upkeep
+|turn|14
+|
+|t:|1781096575
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: 142577z|Reflect
+|move|p1a: da Fish|Flip Turn|p2a: Zamazenta
+|-damage|p2a: Zamazenta|85/100 par
+|
+|t:|1781096579
+|switch|p1a: Blep|Lokix, M, tera:Bug|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|15
+|
+|t:|1781096590
+|move|p1a: Blep|Leech Life|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|55/100 par
+|move|p2a: Zamazenta|Close Combat|p1a: Blep
+|-resisted|p1a: Blep
+|-damage|p1a: Blep|66/100
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781096596
+|move|p1a: Blep|Leech Life|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|10/100 par
+|-heal|p1a: Blep|96/100|[from] drain|[of] p2a: Zamazenta
+|move|p2a: Zamazenta|Ice Fang|p1a: Blep
+|-damage|p1a: Blep|68/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781096604
+|switch|p1a: Red Card Apologist|Cinderace, M|100/100
+|move|p2a: Zamazenta|Ice Fang|p1a: Red Card Apologist
+|-resisted|p1a: Red Card Apologist
+|-damage|p1a: Red Card Apologist|89/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781096610
+|move|p1a: Red Card Apologist|Court Change|p1a: Red Card Apologist
+|-start|p1a: Red Card Apologist|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: Red Card Apologist|move: Court Change
+|move|p2a: Zamazenta|Close Combat|p1a: Red Card Apologist
+|-supereffective|p1a: Red Card Apologist
+|-damage|p1a: Red Card Apologist|14/100
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|
+|upkeep
+|turn|19
+|
+|t:|1781096616
+|move|p1a: Red Card Apologist|U-turn|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|t:|1781096618
+|switch|p1a: Blep|Lokix, M, tera:Bug|68/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781096623
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|turn|20
+|
+|t:|1781096629
+|move|p1a: Blep|Leech Life|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|36/100
+|-heal|p1a: Blep|100/100|[from] drain|[of] p2a: Gliscor
+|move|p2a: Gliscor|Agility|p2a: Gliscor
+|-boost|p2a: Gliscor|spe|2
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|21
+|
+|t:|1781096639
+|move|p2a: Gliscor|Facade|p1a: Blep
+|-damage|p1a: Blep|71/100
+|move|p1a: Blep|Leech Life|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|-heal|p1a: Blep|92/100|[from] drain|[of] p2a: Gliscor
+|faint|p2a: Gliscor
+|
+|-sideend|p1: Jet Pilot Skyla|Reflect
+|upkeep
+|
+|t:|1781096645
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|22
+|
+|t:|1781096650
+|-terastallize|p2a: Hatterene|Water
+|move|p1a: Blep|Leech Life|p2a: Hatterene
+|-damage|p2a: Hatterene|40/100
+|-heal|p1a: Blep|100/100|[from] drain|[of] p2a: Hatterene
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|-heal|p2a: Hatterene|46/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781096656
+|move|p1a: Blep|Leech Life|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|win|Jet Pilot Skyla
+|raw|Jet Pilot Skyla's rating: 1549 &rarr; <strong>1569</strong><br />(+20 for winning)
+|raw|142577z's rating: 1549 &rarr; <strong>1529</strong><br />(-20 for losing)
+|l|☆Jet Pilot Skyla
+|player|p1|
+|l|☆142577z
+|player|p2|

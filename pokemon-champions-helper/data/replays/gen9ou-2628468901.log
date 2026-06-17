@@ -1,0 +1,431 @@
+|j|☆sonnald
+|j|☆firetall
+|t:|1781022182
+|gametype|singles
+|player|p1|sonnald|steven|1559
+|player|p2|firetall|102|1556
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Garchomp, M|
+|poke|p1|Darkrai|
+|poke|p1|Gholdengo|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Iron Treads|
+|poke|p2|Ceruledge, M|
+|poke|p2|Kommo-o, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Glimmora, F|
+|teampreview
+|j| Fat_Yogi
+|
+|t:|1781022199
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by sonnald)
+|
+|t:|1781022210
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Garchomp|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|67/100
+|
+|-heal|p2a: Hatterene|73/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781022223
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|-heal|p2a: Hatterene|79/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781022251
+|move|p1a: Iron Treads|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|49/100
+|move|p2a: Hatterene|Mystical Fire|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|35/100
+|-unboost|p1a: Iron Treads|spa|1
+|
+|-heal|p1a: Iron Treads|41/100|[from] item: Leftovers
+|-heal|p2a: Hatterene|55/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781022263
+|move|p1a: Iron Treads|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|24/100
+|move|p2a: Hatterene|Mystical Fire|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p2a: Hatterene|30/100|[from] item: Leftovers
+|upkeep
+|inactive|sonnald has 120 seconds left.
+|
+|t:|1781022283
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|5
+|inactive|firetall has 120 seconds left.
+|
+|t:|1781022315
+|move|p1a: Gholdengo|Make It Rain|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Hatterene
+|
+|upkeep
+|inactive|firetall has 120 seconds left.
+|
+|t:|1781022336
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|6
+|
+|t:|1781022351
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: firetall|move: Light Screen
+|move|p1a: Gholdengo|Thunder Wave|p2a: Deoxys
+|-status|p2a: Deoxys|par
+|
+|upkeep
+|turn|7
+|inactive|sonnald has 120 seconds left.
+|
+|t:|1781022373
+|switch|p1a: Darkrai|Darkrai|100/100
+|move|p2a: Deoxys|Teleport|p2a: Deoxys
+|inactive|firetall has 90 seconds left.
+|
+|t:|1781022399
+|switch|p2a: Glimmora|Glimmora, F|100/100|[from] Teleport
+|
+|upkeep
+|turn|8
+|
+|t:|1781022409
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Glimmora|Meteor Beam||[still]
+|-prepare|p2a: Glimmora|Meteor Beam
+|-boost|p2a: Glimmora|spa|1
+|-enditem|p2a: Glimmora|Power Herb
+|-anim|p2a: Glimmora|Meteor Beam|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|54/100
+|
+|upkeep
+|turn|9
+|inactive|sonnald has 120 seconds left.
+|
+|t:|1781022430
+|move|p2a: Glimmora|Energy Ball|p1a: Garchomp
+|-damage|p1a: Garchomp|2/100
+|move|p1a: Garchomp|Earthquake|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: sonnald|move: Toxic Spikes
+|faint|p2a: Glimmora
+|
+|upkeep
+|inactive|firetall has 90 seconds left.
+|
+|t:|1781022445
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|10
+|
+|t:|1781022458
+|move|p2a: Ogerpon|Trailblaze|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-boost|p2a: Ogerpon|spe|1
+|-damage|p2a: Ogerpon|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Ogerpon|72/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|upkeep
+|inactive|sonnald has 120 seconds left.
+|inactive|sonnald has 90 seconds left.
+|
+|t:|1781022516
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|11
+|
+|t:|1781022531
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Gholdengo|Thunder Wave|p2a: Ogerpon
+|-status|p2a: Ogerpon|par
+|
+|upkeep
+|turn|12
+|inactive|sonnald has 90 seconds left.
+|l| Fat_Yogi
+|
+|t:|1781022545
+|move|p2a: Ogerpon|Trailblaze|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|78/100
+|-boost|p2a: Ogerpon|spe|1
+|-enditem|p1a: Gholdengo|Air Balloon
+|move|p1a: Gholdengo|Hex|p2a: Ogerpon
+|-damage|p2a: Ogerpon|41/100 par
+|
+|upkeep
+|turn|13
+|inactive|sonnald has 90 seconds left.
+|
+|t:|1781022557
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Gholdengo|[anim] Ivy Cudgel Water
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-sideend|p2: firetall|move: Light Screen
+|upkeep
+|inactive|sonnald has 60 seconds left.
+|
+|t:|1781022590
+|switch|p1a: Darkrai|Darkrai|100/100
+|turn|14
+|inactive|firetall has 120 seconds left.
+|inactive|firetall has 90 seconds left.
+|
+|t:|1781022629
+|-terastallize|p2a: Ogerpon|Water
+|detailschange|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|move|p1a: Darkrai|Dark Pulse|p2a: Ogerpon
+|-damage|p2a: Ogerpon|5/100 par
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Darkrai|[anim] Ivy Cudgel Water
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|upkeep
+|inactive|sonnald has 60 seconds left.
+|
+|t:|1781022664
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-status|p1a: Ogerpon|psn
+|turn|15
+|inactive|firetall has 90 seconds left.
+|
+|t:|1781022687
+|switch|p2a: Kommo-o|Kommo-o, M|100/100
+|move|p1a: Ogerpon|Trailblaze|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-damage|p2a: Kommo-o|88/100
+|-boost|p1a: Ogerpon|spe|1
+|
+|-heal|p2a: Kommo-o|94/100|[from] item: Leftovers
+|-damage|p1a: Ogerpon|88/100 psn|[from] psn
+|upkeep
+|turn|16
+|inactive|firetall has 90 seconds left.
+|
+|t:|1781022706
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-status|p1a: Iron Valiant|psn
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|switch|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water|5/100 par
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|
+|-damage|p1a: Iron Valiant|88/100 psn|[from] psn
+|upkeep
+|turn|17
+|inactive|sonnald has 30 seconds left.
+|
+|t:|1781022727
+|move|p1a: Iron Valiant|Moonblast|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|detailschange|p2: Ogerpon|Ogerpon-Wellspring, F|[silent]
+|
+|-damage|p1a: Iron Valiant|76/100 psn|[from] psn
+|upkeep
+|
+|t:|1781022746
+|switch|p2a: Deoxys|Deoxys-Speed|100/100 par
+|-ability|p2a: Deoxys|Pressure
+|turn|18
+|inactive|sonnald has 30 seconds left.
+|inactive|firetall has 60 seconds left.
+|inactive|sonnald has 20 seconds left.
+|inactive|sonnald has 15 seconds left.
+|inactive|sonnald has 10 seconds left.
+|
+|t:|1781022783
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|88/100 psn
+|cant|p2a: Deoxys|par
+|
+|-damage|p1a: Ogerpon|76/100 psn|[from] psn
+|upkeep
+|turn|19
+|inactive|sonnald has 20 seconds left this turn.
+|inactive|sonnald has 15 seconds left.
+|inactive|sonnald has 10 seconds left.
+|inactive|firetall has 60 seconds left.
+|inactive|sonnald has 5 seconds left.
+|
+|t:|1781022800
+|-terastallize|p1a: Ogerpon|Water
+|detailschange|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Deoxys|[anim] Ivy Cudgel Water
+|-crit|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|-damage|p1a: Ogerpon|64/100 psn|[from] psn
+|upkeep
+|
+|t:|1781022812
+|switch|p2a: Kommo-o|Kommo-o, M|94/100
+|turn|20
+|inactive|sonnald has 20 seconds left this turn.
+|inactive|sonnald has 15 seconds left.
+|
+|t:|1781022828
+|switch|p1a: Iron Valiant|Iron Valiant|76/100 psn
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|70/100
+|
+|-heal|p2a: Kommo-o|76/100|[from] item: Leftovers
+|-damage|p1a: Iron Valiant|63/100 psn|[from] psn
+|upkeep
+|turn|21
+|inactive|sonnald has 25 seconds left this turn.
+|inactive|sonnald has 20 seconds left.
+|inactive|firetall has 30 seconds left.
+|
+|t:|1781022854
+|move|p1a: Iron Valiant|Encore|p2a: Kommo-o
+|-start|p2a: Kommo-o|Encore
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-fail|p2a: Kommo-o|move: Substitute
+|
+|-heal|p2a: Kommo-o|82/100|[from] item: Leftovers
+|-damage|p1a: Iron Valiant|51/100 psn|[from] psn
+|upkeep
+|turn|22
+|inactive|sonnald has 30 seconds left this turn.
+|inactive|sonnald has 20 seconds left.
+|inactive|firetall has 30 seconds left.
+|
+|t:|1781022866
+|move|p1a: Iron Valiant|Moonblast|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|57/100
+|
+|-heal|p2a: Kommo-o|63/100|[from] item: Leftovers
+|-damage|p1a: Iron Valiant|38/100 psn|[from] psn
+|upkeep
+|turn|23
+|inactive|sonnald has 30 seconds left this turn.
+|
+|t:|1781022872
+|move|p1a: Iron Valiant|Moonblast|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|39/100
+|
+|-heal|p2a: Kommo-o|45/100|[from] item: Leftovers
+|-damage|p1a: Iron Valiant|26/100 psn|[from] psn
+|-end|p2a: Kommo-o|Encore
+|upkeep
+|turn|24
+|inactive|firetall has 30 seconds left.
+|
+|t:|1781022887
+|move|p1a: Iron Valiant|Moonblast|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|12/100
+|
+|-heal|p2a: Kommo-o|18/100|[from] item: Leftovers
+|-damage|p1a: Iron Valiant|13/100 psn|[from] psn
+|upkeep
+|turn|25
+|j| MichealJackkson
+|inactive|firetall has 30 seconds left.
+|
+|t:|1781022902
+|move|p2a: Kommo-o|Drain Punch|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|-heal|p2a: Kommo-o|25/100|[from] drain|[of] p1a: Iron Valiant
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-heal|p2a: Kommo-o|31/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781022904
+|switch|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water|64/100 psn
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|turn|26
+|
+|t:|1781022910
+|move|p2a: Kommo-o|Drain Punch|p1a: Ogerpon
+|-damage|p1a: Ogerpon|6/100 psn
+|-heal|p2a: Kommo-o|64/100|[from] drain|[of] p1a: Ogerpon
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Kommo-o|[anim] Ivy Cudgel Water
+|-resisted|p2a: Kommo-o
+|-crit|p2a: Kommo-o
+|-damage|p2a: Kommo-o|8/100
+|
+|-heal|p2a: Kommo-o|14/100|[from] item: Leftovers
+|-damage|p1a: Ogerpon|0 fnt|[from] psn
+|faint|p1a: Ogerpon
+|detailschange|p1: Ogerpon|Ogerpon-Wellspring, F|[silent]
+|
+|win|firetall
+|raw|sonnald's rating: 1559 &rarr; <strong>1539</strong><br />(-20 for losing)
+|raw|firetall's rating: 1556 &rarr; <strong>1576</strong><br />(+20 for winning)
+|l| MichealJackkson
+|l|☆sonnald
+|player|p1|
+|l|☆firetall
+|player|p2|

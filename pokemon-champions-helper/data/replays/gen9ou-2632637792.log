@@ -1,0 +1,226 @@
+|j|☆Wanawa8724
+|j|☆mythiixx
+|t:|1781546660
+|gametype|singles
+|player|p1|Wanawa8724|wattson|1709
+|player|p2|mythiixx|valerie|1648
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Lokix, F|
+|poke|p1|Gholdengo|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Great Tusk|
+|poke|p1|Hydreigon, M|
+|poke|p1|Pecharunt|
+|poke|p2|Indeedee, M|
+|poke|p2|Armarouge, F|
+|poke|p2|Polteageist|
+|poke|p2|Hawlucha, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Deoxys-Speed|
+|teampreview
+|
+|t:|1781546691
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|switch|p2a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|1
+|
+|t:|1781546706
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Gholdengo|Make It Rain|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781546711
+|switch|p2a: Armarouge|Armarouge, F|100/100
+|turn|2
+|
+|t:|1781546733
+|switch|p1a: Hydreigon|Hydreigon, M|100/100
+|move|p2a: Armarouge|Meteor Beam||[still]
+|-prepare|p2a: Armarouge|Meteor Beam
+|-boost|p2a: Armarouge|spa|1
+|-enditem|p2a: Armarouge|Power Herb
+|-anim|p2a: Armarouge|Meteor Beam|p1a: Hydreigon
+|-damage|p1a: Hydreigon|23/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781546747
+|move|p1a: Hydreigon|Dark Pulse|p2a: Armarouge
+|-supereffective|p2a: Armarouge
+|-damage|p2a: Armarouge|0 fnt
+|faint|p2a: Armarouge
+|
+|upkeep
+|
+|t:|1781546749
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p2a: Hawlucha|Psychic Seed
+|-boost|p2a: Hawlucha|spd|1|[from] item: Psychic Seed
+|turn|4
+|
+|t:|1781546754
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1781546757
+|move|p2a: Hawlucha|Acrobatics|p1a: Pecharunt
+|-damage|p1a: Pecharunt|57/100
+|-damage|p2a: Hawlucha|84/100|[from] item: Rocky Helmet|[of] p1a: Pecharunt
+|move|p1a: Pecharunt|Malignant Chain|p2a: Hawlucha
+|-damage|p2a: Hawlucha|47/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781546765
+|move|p2a: Hawlucha|Acrobatics|p1a: Pecharunt
+|-damage|p1a: Pecharunt|14/100
+|-damage|p2a: Hawlucha|30/100|[from] item: Rocky Helmet|[of] p1a: Pecharunt
+|move|p1a: Pecharunt|Malignant Chain|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|upkeep
+|
+|t:|1781546773
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|7
+|
+|t:|1781546781
+|move|p2a: Deoxys|Expanding Force|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|faint|p1a: Pecharunt
+|-damage|p2a: Deoxys|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781546827
+|switch|p1a: Hydreigon|Hydreigon, M|23/100
+|turn|8
+|
+|t:|1781546833
+|move|p2a: Deoxys|Focus Blast|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|-damage|p2a: Deoxys|81/100|[from] item: Life Orb
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1781546857
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|9
+|
+|t:|1781546868
+|move|p2a: Deoxys|Dark Pulse|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|35/100
+|-damage|p2a: Deoxys|71/100|[from] item: Life Orb
+|move|p1a: Gholdengo|Make It Rain|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1781546873
+|switch|p2a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|10
+|
+|t:|1781546888
+|move|p2a: Indeedee|Healing Wish|p2a: Indeedee
+|faint|p2a: Indeedee
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|
+|upkeep
+|
+|t:|1781546892
+|switch|p2a: Polteageist|Polteageist|100/100
+|turn|11
+|
+|t:|1781546898
+|move|p1a: Gholdengo|Make It Rain|p2a: Polteageist
+|-enditem|p2a: Polteageist|Focus Sash
+|-damage|p2a: Polteageist|1/100
+|-unboost|p1a: Gholdengo|spa|1
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|
+|upkeep
+|turn|12
+|
+|t:|1781546902
+|move|p2a: Polteageist|Shadow Ball|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781546917
+|switch|p1a: Lokix|Lokix, F|100/100
+|turn|13
+|
+|t:|1781546935
+|-terastallize|p2a: Polteageist|Ghost
+|move|p2a: Polteageist|Shadow Ball|p1a: Lokix
+|-resisted|p1a: Lokix
+|-damage|p1a: Lokix|0 fnt
+|faint|p1a: Lokix
+|
+|upkeep
+|c|☆Wanawa8724|0:
+|
+|t:|1781546944
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|14
+|
+|t:|1781546949
+|move|p2a: Polteageist|Shadow Ball|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|upkeep
+|-message|Wanawa8724 forfeited.
+|
+|win|mythiixx
+|raw|Wanawa8724's rating: 1709 &rarr; <strong>1686</strong><br />(-23 for losing)
+|raw|mythiixx's rating: 1648 &rarr; <strong>1671</strong><br />(+23 for winning)
+|l|☆Wanawa8724
+|player|p1|

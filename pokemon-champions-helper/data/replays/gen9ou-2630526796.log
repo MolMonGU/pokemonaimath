@@ -1,0 +1,337 @@
+|j|☆rekjllj
+|j|☆mastersannin
+|t:|1781269179
+|gametype|singles
+|player|p1|rekjllj|169|1655
+|player|p2|mastersannin|266|1586
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Walking Wake|
+|poke|p1|Great Tusk|
+|poke|p1|Ninetales, F|
+|poke|p1|Cresselia, F|
+|poke|p1|Zarude|
+|poke|p1|Ceruledge, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, F|
+|poke|p2|Barraskewda, M|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mastersannin)
+|c|☆rekjllj|hf
+|inactive|rekjllj also wants the timer to be on.
+|c|☆mastersannin|gl hf
+|
+|t:|1781269207
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1781269215
+|move|p1a: Walking Wake|Weather Ball|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|44/100
+|move|p2a: Pelipper|U-turn|p1a: Walking Wake
+|-damage|p1a: Walking Wake|90/100
+|
+|t:|1781269221
+|switch|p2a: Overqwil|Overqwil, F|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781269227
+|move|p2a: Overqwil|Gunk Shot|p1a: Walking Wake
+|-damage|p1a: Walking Wake|8/100
+|-damage|p2a: Overqwil|91/100|[from] item: Life Orb
+|move|p1a: Walking Wake|Weather Ball|p2a: Overqwil
+|-damage|p2a: Overqwil|0 fnt
+|faint|p2a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781269235
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|3
+|
+|t:|1781269241
+|move|p2a: Barraskewda|Liquidation|p1a: Walking Wake
+|-resisted|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781269248
+|switch|p1a: Zarude|Zarude|100/100
+|turn|4
+|
+|t:|1781269253
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Zarude|Knock Off|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|73/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781269260
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Great Tusk
+|-damage|p1a: Great Tusk|7/100
+|-unboost|p2a: Raging Bolt|spa|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781269266
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Pelipper|Pelipper, M|44/100
+|move|p1a: Great Tusk|Close Combat|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-crit|p2a: Pelipper
+|-damage|p2a: Pelipper|2/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781269277
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Great Tusk|Close Combat|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781269280
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|8
+|
+|t:|1781269285
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Zarude|Zarude|100/100
+|move|p2a: Barraskewda|Flip Turn|p1a: Zarude
+|-resisted|p1a: Zarude
+|-damage|p1a: Zarude|66/100
+|
+|t:|1781269296
+|switch|p2a: Kingambit|Kingambit, M|100/100|[from] Flip Turn
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|
+|-weather|none
+|-heal|p1a: Zarude|72/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781269302
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|move|p2a: Kingambit|Iron Head|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|66/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781269309
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Pelipper|Pelipper, M|2/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Ninetales|Overheat|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|-unboost|p1a: Ninetales|spa|2
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781269315
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|11
+|
+|t:|1781269321
+|switch|p1a: Great Tusk|Great Tusk|7/100
+|move|p2a: Barraskewda|Liquidation|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781269328
+|switch|p1a: Zarude|Zarude|72/100
+|turn|12
+|
+|t:|1781269334
+|-terastallize|p2a: Barraskewda|Water
+|move|p2a: Barraskewda|Liquidation|p1a: Zarude
+|-resisted|p1a: Zarude
+|-damage|p1a: Zarude|4/100
+|move|p1a: Zarude|Power Whip|p2a: Barraskewda
+|-supereffective|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zarude|10/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781269341
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|13
+|
+|t:|1781269347
+|move|p1a: Zarude|Knock Off|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|83/100
+|-enditem|p2a: Kingambit|Leftovers|[from] move: Knock Off|[of] p1a: Zarude
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Zarude
+|-resisted|p1a: Zarude
+|-damage|p1a: Zarude|0 fnt
+|faint|p1a: Zarude
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781269355
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|turn|14
+|
+|t:|1781269362
+|move|p1a: Ceruledge|Close Combat|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1a: Ceruledge|def|1
+|-unboost|p1a: Ceruledge|spd|1
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen4|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781269365
+|switch|p2a: Raging Bolt|Raging Bolt|73/100
+|turn|15
+|
+|t:|1781269370
+|-terastallize|p1a: Ceruledge|Fairy
+|move|p1a: Ceruledge|Close Combat|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|35/100
+|-unboost|p1a: Ceruledge|def|1
+|-unboost|p1a: Ceruledge|spd|1
+|move|p2a: Raging Bolt|Weather Ball|p1a: Ceruledge
+|-enditem|p1a: Ceruledge|Focus Sash
+|-damage|p1a: Ceruledge|1/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781269377
+|move|p2a: Raging Bolt|Thunderclap|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781269380
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|turn|17
+|
+|t:|1781269384
+|move|p2a: Raging Bolt|Thunder|p1a: Cresselia
+|-damage|p1a: Cresselia|61/100
+|-enditem|p1a: Cresselia|Eject Button
+|
+|t:|1781269388
+|switch|p1a: Ninetales|Ninetales, F|66/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781269391
+|move|p2a: Raging Bolt|Thunderclap|p1a: Ninetales
+|-damage|p1a: Ninetales|15/100
+|move|p1a: Ninetales|Overheat|p2a: Raging Bolt|[miss]
+|-miss|p1a: Ninetales|p2a: Raging Bolt
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781269396
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Ninetales|Will-O-Wisp|p2a: Raging Bolt
+|-status|p2a: Raging Bolt|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Raging Bolt|29/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1781269402
+|move|p1a: Ninetales|Encore|p2a: Raging Bolt
+|-start|p2a: Raging Bolt|Encore
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Raging Bolt|23/100 brn|[from] brn
+|upkeep
+|turn|21
+|-message|mastersannin forfeited.
+|
+|win|rekjllj
+|raw|rekjllj's rating: 1655 &rarr; <strong>1671</strong><br />(+16 for winning)
+|raw|mastersannin's rating: 1586 &rarr; <strong>1570</strong><br />(-16 for losing)
+|l|☆mastersannin
+|player|p2|
+|c|☆rekjllj|gg

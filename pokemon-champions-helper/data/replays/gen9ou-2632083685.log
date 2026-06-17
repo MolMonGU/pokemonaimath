@@ -1,0 +1,171 @@
+|j|☆jd2sleepy
+|j|☆phreshoatmeal
+|t:|1781474051
+|gametype|singles
+|player|p1|jd2sleepy|blackbelt-gen4dp|1610
+|player|p2|phreshoatmeal|265|1620
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Okidogi, M|
+|poke|p1|Cinderace, F|
+|poke|p1|Gholdengo|
+|poke|p1|Rillaboom, F|
+|poke|p1|Raging Bolt|
+|poke|p2|Tyranitar, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Hippowdon, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|
+|t:|1781474076
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Clover|Rillaboom, F|100/100
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Clover
+|turn|1
+|
+|t:|1781474095
+|switch|p1a: Cind2Sender|Cinderace, F|100/100
+|-terastallize|p2a: Iron Valiant|Stellar
+|move|p2a: Iron Valiant|Moonblast|p1a: Cind2Sender
+|-resisted|p1a: Cind2Sender
+|-damage|p1a: Cind2Sender|58/100
+|-damage|p2a: Iron Valiant|91/100|[from] item: Life Orb
+|
+|-heal|p1a: Cind2Sender|64/100|[from] Grassy Terrain
+|-heal|p2a: Iron Valiant|97/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781474107
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Cind2Sender|Will-O-Wisp|p2a: Hippowdon
+|-status|p2a: Hippowdon|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Cind2Sender|58/100|[from] Sandstorm
+|-heal|p1a: Cind2Sender|64/100|[from] Grassy Terrain
+|-damage|p2a: Hippowdon|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1781474111
+|move|p1a: Cind2Sender|U-turn|p2a: Hippowdon
+|-damage|p2a: Hippowdon|84/100 brn
+|-enditem|p2a: Hippowdon|Eject Button
+|
+|t:|1781474121
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Cind2Sender|58/100|[from] Sandstorm
+|-heal|p1a: Cind2Sender|64/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|j| dilf huntr
+|
+|t:|1781474138
+|move|p2a: Excadrill|Poison Jab|p1a: Cind2Sender
+|-damage|p1a: Cind2Sender|6/100
+|move|p1a: Cind2Sender|Pyro Ball|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Cind2Sender|0 fnt|[from] Sandstorm
+|faint|p1a: Cind2Sender
+|upkeep
+|l| dilf huntr
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by phreshoatmeal)
+|
+|t:|1781474174
+|switch|p1a: Ghold ChainZ|Gholdengo|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-enditem|p1a: Ghold ChainZ|Grassy Seed
+|-boost|p1a: Ghold ChainZ|def|1|[from] item: Grassy Seed
+|turn|5
+|
+|t:|1781474181
+|move|p1a: Ghold ChainZ|Nasty Plot|p1a: Ghold ChainZ
+|-boost|p1a: Ghold ChainZ|spa|2
+|move|p2a: Hatterene|Future Sight|p1a: Ghold ChainZ
+|-start|p2a: Hatterene|move: Future Sight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hatterene|95/100|[from] Sandstorm
+|-heal|p2a: Hatterene|100/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781474189
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Ghold ChainZ|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|39/100
+|-enditem|p2a: Toxapex|Eject Button
+|
+|t:|1781474201
+|switch|p2a: Iron Valiant|Iron Valiant, tera:Stellar|97/100
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1781474211
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Toxapex|Toxapex, M|72/100
+|move|p1a: Ghold ChainZ|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|9/100
+|
+|-end|p1a: Ghold ChainZ|move: Future Sight
+|-resisted|p1a: Ghold ChainZ
+|-damage|p1a: Ghold ChainZ|76/100
+|upkeep
+|turn|8
+|
+|t:|1781474216
+|move|p1a: Ghold ChainZ|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1781474219
+|switch|p2a: Iron Valiant|Iron Valiant, tera:Stellar|97/100
+|turn|9
+|
+|t:|1781474222
+|move|p2a: Iron Valiant|Thunderbolt|p1a: Ghold ChainZ
+|-damage|p1a: Ghold ChainZ|34/100
+|-damage|p2a: Iron Valiant|87/100|[from] item: Life Orb
+|move|p1a: Ghold ChainZ|Shadow Ball|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|-message|phreshoatmeal forfeited.
+|
+|win|jd2sleepy
+|raw|jd2sleepy's rating: 1610 &rarr; <strong>1631</strong><br />(+21 for winning)
+|raw|phreshoatmeal's rating: 1620 &rarr; <strong>1599</strong><br />(-21 for losing)
+|l|☆phreshoatmeal
+|player|p2|

@@ -1,0 +1,259 @@
+|j|☆alchrex
+|j|☆temporarylight
+|t:|1781470268
+|gametype|singles
+|player|p1|alchrex|nate|1517
+|player|p2|temporarylight|jogger|1804
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cresselia, F|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Gholdengo|
+|poke|p1|Iron Moth|
+|poke|p1|Zamazenta-*|
+|poke|p1|Weezing-Galar, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Dragonite, M|
+|poke|p2|Blaziken, M|
+|poke|p2|Kingambit, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by alchrex)
+|
+|t:|1781470294
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Samurott|atk|1
+|turn|1
+|
+|t:|1781470300
+|move|p2a: Landorus|Earthquake|p1a: Samurott
+|-crit|p1a: Samurott
+|-enditem|p1a: Samurott|Focus Sash
+|-damage|p1a: Samurott|1/100
+|move|p1a: Samurott|Ceaseless Edge|p2a: Landorus
+|-damage|p2a: Landorus|64/100
+|-damage|p1a: Samurott|0 fnt|[from] item: Rocky Helmet|[of] p2a: Landorus
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781470310
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|2
+|
+|t:|1781470319
+|move|p2a: Landorus|Smack Down|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|92/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|move|p1a: Gholdengo|Shadow Ball|p2a: Landorus
+|-damage|p2a: Landorus|7/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781470325
+|switch|p1a: Cresselia|Cresselia, F, shiny|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Cresselia
+|-sidestart|p1: alchrex|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1781470337
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1781470340
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Slowking|Thunder Wave|p1a: Cresselia
+|-status|p1a: Cresselia|par
+|
+|upkeep
+|turn|6
+|
+|t:|1781470344
+|cant|p1a: Cresselia|par
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781470347
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781470348
+|move|p2a: Ogerpon|Encore|p1a: Cresselia
+|-start|p1a: Cresselia|Encore
+|cant|p1a: Cresselia|par
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781470352
+|switch|p1a: Gholdengo|Gholdengo|92/100
+|-damage|p1a: Gholdengo|86/100|[from] Stealth Rock
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781470356
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Gholdengo|[anim] Ivy Cudgel Water
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781470358
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|-damage|p1a: Weezing|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1781470364
+|switch|p2a: Blaziken|Blaziken, M|100/100
+|move|p1a: Weezing|Will-O-Wisp|p2a: Blaziken
+|-immune|p2a: Blaziken
+|
+|-weather|none
+|-heal|p1a: Weezing|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781470369
+|move|p2a: Blaziken|Substitute|p2a: Blaziken
+|-start|p2a: Blaziken|Substitute
+|-damage|p2a: Blaziken|76/100
+|move|p1a: Weezing|Strange Steam|p2a: Blaziken
+|-end|p2a: Blaziken|Substitute
+|
+|-heal|p2a: Blaziken|82/100|[from] item: Leftovers
+|-heal|p1a: Weezing|99/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781470375
+|-terastallize|p2a: Blaziken|Steel
+|move|p2a: Blaziken|Substitute|p2a: Blaziken
+|-start|p2a: Blaziken|Substitute
+|-damage|p2a: Blaziken|57/100
+|move|p1a: Weezing|Strange Steam|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-activate|p2a: Blaziken|move: Substitute|[damage]
+|
+|-heal|p2a: Blaziken|63/100|[from] item: Leftovers
+|-heal|p1a: Weezing|100/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781470383
+|move|p2a: Blaziken|Swords Dance|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|2
+|move|p1a: Weezing|Strange Steam|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-end|p2a: Blaziken|Substitute
+|
+|-heal|p2a: Blaziken|69/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781470387
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-damage|p1a: Zamazenta|94/100|[from] Stealth Rock
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Blaziken|Substitute|p2a: Blaziken
+|-start|p2a: Blaziken|Substitute
+|-damage|p2a: Blaziken|44/100
+|
+|-heal|p1a: Zamazenta|100/100|[from] item: Leftovers
+|-heal|p2a: Blaziken|50/100|[from] item: Leftovers
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|15
+|
+|t:|1781470391
+|move|p2a: Blaziken|Close Combat|p1a: Zamazenta
+|-damage|p1a: Zamazenta|32/100
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|-heal|p2a: Blaziken|56/100|[from] item: Leftovers
+|-heal|p1a: Zamazenta|38/100|[from] item: Leftovers
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|16
+|
+|t:|1781470409
+|move|p2a: Blaziken|Swords Dance|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|2
+|move|p1a: Zamazenta|Body Press|p2a: Blaziken
+|-supereffective|p2a: Blaziken
+|-end|p2a: Blaziken|Substitute
+|
+|-heal|p2a: Blaziken|62/100|[from] item: Leftovers
+|-heal|p1a: Zamazenta|44/100|[from] item: Leftovers
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|17
+|
+|t:|1781470415
+|move|p2a: Blaziken|Close Combat|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|faint|p1a: Zamazenta
+|
+|-heal|p2a: Blaziken|68/100|[from] item: Leftovers
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|-message|alchrex forfeited.
+|
+|win|temporarylight
+|raw|alchrex's rating: 1517 &rarr; <strong>1511</strong><br />(-6 for losing)
+|raw|temporarylight's rating: 1804 &rarr; <strong>1810</strong><br />(+6 for winning)
+|l|☆alchrex
+|player|p1|
+|l|☆temporarylight
+|player|p2|
+|j|☆temporarylight
+|player|p2|temporarylight|jogger|

@@ -1,0 +1,335 @@
+|j|☆Joegirl
+|j|☆buhuifeihhh
+|t:|1781527794
+|gametype|singles
+|player|p1|Joegirl|2|1615
+|player|p2|buhuifeihhh|hilbert|1485
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cresselia, F|
+|poke|p1|Walking Wake|
+|poke|p1|Torkoal, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Rillaboom, F|
+|poke|p1|Ceruledge, M|
+|poke|p2|Heatran, M|
+|poke|p2|Rillaboom, M|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Tyranitar, F|
+|poke|p2|Volcanion|
+|poke|p2|Moltres-Galar|
+|teampreview
+|
+|t:|1781527818
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|switch|p2a: Heatran|Heatran, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Joegirl)
+|
+|t:|1781527847
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|move|p1a: Rillaboom|U-turn|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|93/100
+|
+|t:|1781527859
+|switch|p1a: Raging Bolt|Raging Bolt|100/100|[from] U-turn
+|
+|-heal|p2a: Weezing|99/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781527864
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Weezing
+|-damage|p2a: Weezing|14/100
+|move|p2a: Weezing|Toxic|p1a: Raging Bolt
+|-status|p1a: Raging Bolt|tox
+|
+|-heal|p2a: Weezing|20/100|[from] item: Leftovers
+|-damage|p1a: Raging Bolt|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1781527872
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Torkoal|94/100|[from] Sandstorm
+|-heal|p1a: Torkoal|100/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781527881
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|move|p2a: Tyranitar|Knock Off|p1a: Walking Wake
+|-damage|p1a: Walking Wake|39/100
+|-enditem|p1a: Walking Wake|Choice Specs|[from] move: Knock Off|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Walking Wake|33/100|[from] Sandstorm
+|-heal|p1a: Walking Wake|39/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781527893
+|move|p1a: Walking Wake|Hydro Steam|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|69/100
+|move|p2a: Tyranitar|Knock Off|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|75/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781527903
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|6
+|
+|t:|1781527912
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Rillaboom|Wood Hammer|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|77/100
+|-damage|p1a: Rillaboom|92/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rillaboom|86/100|[from] Sandstorm
+|-heal|p1a: Rillaboom|92/100|[from] Grassy Terrain
+|-heal|p2a: Heatran|83/100|[from] Grassy Terrain
+|-heal|p2a: Heatran|89/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781527920
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Heatran|Protect||[still]
+|-fail|p2a: Heatran
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Heatran|96/100|[from] Grassy Terrain
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781527930
+|move|p2a: Heatran|Earth Power|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|41/100
+|move|p1a: Torkoal|Stealth Rock|p2a: Heatran
+|-sidestart|p2: buhuifeihhh|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Torkoal|47/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781527944
+|switch|p1a: Raging Bolt|Raging Bolt|94/100 tox
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Heatran|Magma Storm|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|60/100 tox
+|-activate|p1a: Raging Bolt|move: Magma Storm|[of] p2a: Heatran
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Raging Bolt|66/100 tox|[from] Grassy Terrain
+|-damage|p1a: Raging Bolt|60/100 tox|[from] psn
+|-damage|p1a: Raging Bolt|47/100 tox|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1781527957
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Heatran
+|-activate|p2a: Heatran|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Raging Bolt|53/100 tox|[from] Grassy Terrain
+|-damage|p1a: Raging Bolt|41/100 tox|[from] psn
+|-damage|p1a: Raging Bolt|29/100 tox|[from] move: Magma Storm|[partiallytrapped]
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781527968
+|switch|p2a: Tyranitar|Tyranitar, F|75/100
+|-damage|p2a: Tyranitar|63/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|-end|p1a: Raging Bolt|Protosynthesis
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Tyranitar
+|-damage|p2a: Tyranitar|34/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Raging Bolt|23/100 tox|[from] Sandstorm
+|-damage|p1a: Raging Bolt|4/100 tox|[from] psn
+|-end|p1a: Raging Bolt|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|12
+|
+|t:|1781527981
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, M|47/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Tyranitar|Knock Off|p1a: Torkoal
+|-damage|p1a: Torkoal|5/100
+|-enditem|p1a: Torkoal|Heat Rock|[from] move: Knock Off|[of] p2a: Tyranitar
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781527987
+|move|p2a: Tyranitar|Knock Off|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781527989
+|switch|p1a: Raging Bolt|Raging Bolt|4/100 tox
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|14
+|
+|t:|1781527998
+|switch|p2a: Weezing|Weezing-Galar, F|20/100
+|-damage|p2a: Weezing|8/100|[from] Stealth Rock
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Raging Bolt|0 fnt|[from] psn
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|upkeep
+|inactive|buhuifeihhh has 120 seconds left.
+|
+|t:|1781528033
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|switch|p2a: Tyranitar|Tyranitar, F|34/100
+|-item|p1a: Ceruledge|Air Balloon
+|-damage|p2a: Tyranitar|21/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|15
+|
+|t:|1781528039
+|move|p1a: Ceruledge|Bitter Blade|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ceruledge|94/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781528044
+|switch|p2a: Heatran|Heatran, M|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781528047
+|move|p1a: Ceruledge|Poltergeist|p2a: Heatran
+|-activate|p2a: Heatran|move: Poltergeist|Leftovers
+|-damage|p2a: Heatran|37/100
+|move|p2a: Heatran|Flash Cannon|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|67/100
+|-enditem|p1a: Ceruledge|Air Balloon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ceruledge|61/100|[from] Sandstorm
+|-heal|p2a: Heatran|43/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781528053
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Ceruledge|Poltergeist|p2a: Heatran
+|-activate|p2a: Heatran|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ceruledge|54/100|[from] Sandstorm
+|-heal|p2a: Heatran|49/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|buhuifeihhh has 120 seconds left.
+|
+|t:|1781528092
+|move|p1a: Ceruledge|Poltergeist|p2a: Heatran
+|-activate|p2a: Heatran|move: Poltergeist|Leftovers
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ceruledge|48/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781528099
+|switch|p2a: Moltres|Moltres-Galar|100/100
+|-damage|p2a: Moltres|76/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1781528104
+|move|p1a: Ceruledge|Bitter Blade|p2a: Moltres
+|-damage|p2a: Moltres|29/100
+|-heal|p1a: Ceruledge|74/100|[from] drain|[of] p2a: Moltres
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|-enditem|p2a: Moltres|Sitrus Berry|[eat]
+|-heal|p2a: Moltres|53/100|[from] item: Sitrus Berry
+|move|p2a: Moltres|Agility|p2a: Moltres
+|-boost|p2a: Moltres|spe|2
+|
+|-weather|none
+|upkeep
+|turn|20
+|inactive|Joegirl has 120 seconds left.
+|inactive|Joegirl has 90 seconds left.
+|inactive|Joegirl has 60 seconds left.
+|inactive|Joegirl has 30 seconds left.
+|inactive|Joegirl has 20 seconds left.
+|inactive|Joegirl has 15 seconds left.
+|inactive|Joegirl has 10 seconds left.
+|inactive|Joegirl has 5 seconds left.
+|-message|Joegirl lost due to inactivity.
+|
+|win|buhuifeihhh
+|raw|Joegirl's rating: 1615 &rarr; <strong>1588</strong><br />(-27 for losing)
+|raw|buhuifeihhh's rating: 1485 &rarr; <strong>1512</strong><br />(+27 for winning)
+|l|☆Joegirl
+|player|p1|
+|l|☆buhuifeihhh
+|player|p2|
+|j|☆Joegirl
+|player|p1|Joegirl|2|
+|l|☆Joegirl
+|player|p1|

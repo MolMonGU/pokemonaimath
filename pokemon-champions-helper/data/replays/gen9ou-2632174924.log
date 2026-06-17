@@ -1,0 +1,330 @@
+|j|☆LowEL0God
+|j|☆101Darmanitans
+|t:|1781485728
+|gametype|singles
+|player|p1|LowEL0God|265|1637
+|player|p2|101Darmanitans|roxie|1561
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Cetitan, F|
+|poke|p2|Thundurus-Therian, M|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Tentacruel, F|
+|poke|p2|Iron Valiant|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|c|☆101Darmanitans|hf
+|
+|t:|1781485742
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|switch|p2a: Tentacruel|Tentacruel, F|100/100
+|turn|1
+|
+|t:|1781485745
+|move|p2a: Tentacruel|Knock Off|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|95/100
+|-enditem|p1a: Kingambit|Leftovers|[from] move: Knock Off|[of] p2a: Tentacruel
+|move|p1a: Kingambit|Iron Head|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|62/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781485750
+|move|p2a: Tentacruel|Flip Turn|p1a: Kingambit
+|-damage|p1a: Kingambit|86/100
+|
+|t:|1781485774
+|switch|p2a: Dragapult|Dragapult, M|100/100|[from] Flip Turn
+|move|p1a: Kingambit|Iron Head|p2a: Dragapult
+|-damage|p2a: Dragapult|33/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781485778
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781485781
+|move|p2a: Ninetales|Encore|p1a: Kingambit
+|-start|p1a: Kingambit|Encore
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781485783
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Ninetales|Freeze-Dry|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781485784
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|turn|6
+|
+|t:|1781485794
+|switch|p2a: Tentacruel|Tentacruel, F|62/100
+|move|p1a: Barraskewda|Liquidation|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|0 fnt
+|faint|p2a: Tentacruel
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781485797
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|7
+|
+|t:|1781485800
+|move|p1a: Barraskewda|Liquidation|p2a: Ninetales
+|-damage|p2a: Ninetales|46/100
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: 101Darmanitans|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781485811
+|switch|p2a: Cetitan|Cetitan, F, shiny|100/100
+|move|p1a: Barraskewda|Liquidation|p2a: Cetitan
+|-damage|p2a: Cetitan|79/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781485814
+|move|p2a: Cetitan|Belly Drum|p2a: Cetitan
+|-damage|p2a: Cetitan|29/100
+|-setboost|p2a: Cetitan|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Cetitan|Sitrus Berry|[eat]
+|-heal|p2a: Cetitan|54/100|[from] item: Sitrus Berry
+|move|p1a: Barraskewda|Liquidation|p2a: Cetitan
+|-damage|p2a: Cetitan|32/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781485817
+|-terastallize|p1a: Barraskewda|Water
+|move|p2a: Cetitan|Earthquake|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781485818
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|11
+|
+|t:|1781485828
+|move|p2a: Cetitan|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|-sideend|p2: 101Darmanitans|move: Aurora Veil
+|upkeep
+|
+|t:|1781485830
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|12
+|
+|t:|1781485833
+|move|p2a: Cetitan|Ice Shard|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781485835
+|switch|p1a: Kingambit|Kingambit, M|86/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|13
+|
+|t:|1781485837
+|move|p2a: Cetitan|Ice Shard|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|60/100
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781485840
+|move|p1a: Kingambit|Sucker Punch|p2a: Cetitan
+|-damage|p2a: Cetitan|0 fnt
+|faint|p2a: Cetitan
+|
+|-weather|none
+|upkeep
+|
+|t:|1781485844
+|switch|p2a: Ninetales|Ninetales-Alola, F|46/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|15
+|
+|t:|1781485849
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: 101Darmanitans|move: Aurora Veil
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781485851
+|move|p2a: Ninetales|Encore|p1a: Kingambit
+|-start|p1a: Kingambit|Encore
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781485853
+|move|p2a: Ninetales|Moonblast|p1a: Kingambit
+|-damage|p1a: Kingambit|34/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781485856
+|-end|p1a: Kingambit|fallen4|[silent]
+|switch|p1a: Overqwil|Overqwil, M|100/100
+|move|p2a: Ninetales|Moonblast|p1a: Overqwil
+|-damage|p1a: Overqwil|56/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781485862
+|switch|p1a: Kingambit|Kingambit, M|34/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|move|p2a: Ninetales|Moonblast|p1a: Kingambit
+|-damage|p1a: Kingambit|8/100
+|
+|-weather|Snowscape|[upkeep]
+|-sideend|p2: 101Darmanitans|move: Aurora Veil
+|upkeep
+|turn|20
+|
+|t:|1781485864
+|-end|p1a: Kingambit|fallen4|[silent]
+|switch|p1a: Overqwil|Overqwil, M|56/100
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: 101Darmanitans|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781485867
+|move|p2a: Ninetales|Moonblast|p1a: Overqwil
+|-damage|p1a: Overqwil|16/100
+|move|p1a: Overqwil|Liquidation|p2a: Ninetales
+|-damage|p2a: Ninetales|30/100
+|-unboost|p2a: Ninetales|def|1
+|-damage|p1a: Overqwil|6/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1781485871
+|move|p2a: Ninetales|Moonblast|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|faint|p1a: Overqwil
+|
+|-weather|none
+|upkeep
+|
+|t:|1781485871
+|switch|p1a: Kingambit|Kingambit, M|8/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|turn|23
+|
+|t:|1781485873
+|move|p1a: Kingambit|Sucker Punch|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|3/100
+|move|p2a: Ninetales|Moonblast|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen5|[silent]
+|
+|win|101Darmanitans
+|raw|LowEL0God's rating: 1637 &rarr; <strong>1613</strong><br />(-24 for losing)
+|raw|101Darmanitans's rating: 1561 &rarr; <strong>1585</strong><br />(+24 for winning)
+|c|☆101Darmanitans|gg
+|l|☆101Darmanitans
+|player|p2|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p1|

@@ -1,0 +1,489 @@
+|j|☆Kaltaris83
+|j|☆KurisuChestnutOU
+|t:|1781108093
+|gametype|singles
+|player|p1|Kaltaris83|psychic|1536
+|player|p2|KurisuChestnutOU|2|1566
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Garchomp, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Skarmory, F|
+|poke|p1|Moltres-Galar|
+|poke|p1|Talonflame, M|
+|poke|p1|Deoxys-Speed|
+|poke|p2|Hawlucha, F|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Gholdengo|
+|poke|p2|Kyurem|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kaltaris83)
+|
+|t:|1781108098
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|inactive|KurisuChestnutOU also wants the timer to be on.
+|
+|t:|1781108104
+|move|p1a: Garchomp|Scale Shot|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|75/100
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|51/100
+|-supereffective|p2a: Kyurem
+|-crit|p2a: Kyurem
+|-damage|p2a: Kyurem|11/100
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|-hitcount|p2: Kyurem|4
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|upkeep
+|
+|t:|1781108108
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|2
+|
+|t:|1781108113
+|switch|p1a: Talonflame|Talonflame, M|100/100
+|move|p2a: Rillaboom|Wood Hammer|p1a: Talonflame
+|-resisted|p1a: Talonflame
+|-damage|p1a: Talonflame|66/100
+|-damage|p2a: Rillaboom|92/100|[from] Recoil
+|
+|-heal|p2a: Rillaboom|98/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781108120
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|move|p1a: Talonflame|U-turn|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|60/100
+|
+|t:|1781108122
+|switch|p1a: Garchomp|Garchomp, M|100/100|[from] U-turn
+|
+|-heal|p2a: Samurott|66/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781108126
+|switch|p2a: Rillaboom|Rillaboom, F|98/100
+|move|p1a: Garchomp|Scale Shot|p2a: Rillaboom
+|-damage|p2a: Rillaboom|86/100
+|-damage|p2a: Rillaboom|72/100
+|-damage|p2a: Rillaboom|57/100
+|-damage|p2a: Rillaboom|43/100
+|-hitcount|p2a: Rillaboom|4
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|-heal|p2a: Rillaboom|49/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781108131
+|switch|p1a: Skarmory|Skarmory, F, shiny|100/100
+|move|p2a: Rillaboom|Grassy Glide|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-crit|p1a: Skarmory
+|-damage|p1a: Skarmory|92/100
+|
+|-heal|p2a: Rillaboom|55/100|[from] Grassy Terrain
+|-heal|p1a: Skarmory|98/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781108138
+|move|p2a: Rillaboom|Knock Off|p1a: Skarmory
+|-damage|p1a: Skarmory|77/100
+|-enditem|p1a: Skarmory|Leftovers|[from] move: Knock Off|[of] p2a: Rillaboom
+|move|p1a: Skarmory|Body Press|p2a: Rillaboom
+|-damage|p2a: Rillaboom|20/100
+|
+|-heal|p2a: Rillaboom|26/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781108142
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Skarmory|atk|1
+|switch|p1a: Talonflame|Talonflame, M|66/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781108146
+|switch|p2a: Samurott|Samurott-Hisui, F|66/100
+|move|p1a: Talonflame|U-turn|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|23/100
+|
+|t:|1781108148
+|switch|p1a: Garchomp|Garchomp, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|9
+|
+|t:|1781108152
+|move|p1a: Garchomp|Scale Shot|p2a: Samurott
+|-damage|p2a: Samurott|8/100
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|-hitcount|p2: Samurott|2
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|upkeep
+|
+|t:|1781108159
+|switch|p2a: Rillaboom|Rillaboom, F|26/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|10
+|
+|t:|1781108166
+|move|p2a: Rillaboom|Grassy Glide|p1a: Garchomp
+|-damage|p1a: Garchomp|41/100
+|-damage|p2a: Rillaboom|14/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|move|p1a: Garchomp|Scale Shot|p2a: Rillaboom|[miss]
+|-miss|p1a: Garchomp|p2a: Rillaboom
+|
+|-heal|p1a: Garchomp|47/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|20/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781108171
+|switch|p1a: Skarmory|Skarmory, F, shiny|77/100
+|move|p2a: Rillaboom|Wood Hammer|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|64/100
+|-damage|p2a: Rillaboom|16/100|[from] Recoil
+|
+|-heal|p2a: Rillaboom|22/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781108175
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p2a: Hawlucha|Grassy Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Grassy Seed
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|100/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|upkeep
+|turn|13
+|
+|t:|1781108179
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|move|p1a: Skarmory|Iron Defense|p1a: Skarmory
+|-boost|p1a: Skarmory|def|2
+|
+|upkeep
+|turn|14
+|
+|t:|1781108184
+|move|p2a: Hawlucha|Low Kick|p1a: Skarmory
+|-damage|p1a: Skarmory|79/100
+|move|p1a: Skarmory|Iron Defense|p1a: Skarmory
+|-boost|p1a: Skarmory|def|2
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1781108188
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Skarmory|Body Press|p2a: Gholdengo
+|-immune|p2a: Gholdengo
+|
+|upkeep
+|turn|16
+|
+|t:|1781108193
+|switch|p1a: Talonflame|Talonflame, M|66/100
+|move|p2a: Gholdengo|Shadow Ball|p1a: Talonflame
+|-damage|p1a: Talonflame|0 fnt
+|faint|p1a: Talonflame
+|
+|upkeep
+|
+|t:|1781108196
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|17
+|
+|t:|1781108199
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|move|p1a: Tyranitar|Dragon Dance|p1a: Tyranitar
+|-boost|p1a: Tyranitar|atk|1
+|-boost|p1a: Tyranitar|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hawlucha|94/100|[from] Sandstorm
+|upkeep
+|turn|18
+|
+|t:|1781108205
+|switch|p1a: Skarmory|Skarmory, F, shiny|79/100
+|move|p2a: Hawlucha|Low Kick|p1a: Skarmory
+|-damage|p1a: Skarmory|57/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hawlucha|88/100|[from] Sandstorm
+|upkeep
+|turn|19
+|
+|t:|1781108213
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|100/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hawlucha|82/100|[from] Sandstorm
+|upkeep
+|turn|20
+|
+|t:|1781108218
+|move|p2a: Hawlucha|Low Kick|p1a: Skarmory
+|-damage|p1a: Skarmory|62/100
+|move|p1a: Skarmory|Iron Defense|p1a: Skarmory
+|-boost|p1a: Skarmory|def|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hawlucha|76/100|[from] Sandstorm
+|upkeep
+|turn|21
+|
+|t:|1781108225
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Skarmory|atk|1
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|100/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|-weather|none
+|upkeep
+|turn|22
+|
+|t:|1781108228
+|move|p2a: Landorus|Stealth Rock|p1a: Skarmory
+|-sidestart|p1: Kaltaris83|move: Stealth Rock
+|move|p1a: Skarmory|Body Press|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|70/100
+|-damage|p1a: Skarmory|84/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|
+|upkeep
+|turn|23
+|
+|t:|1781108236
+|move|p2a: Landorus|Taunt|p1a: Skarmory
+|-start|p1a: Skarmory|move: Taunt
+|move|p1a: Skarmory|Drill Run|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|upkeep
+|turn|24
+|
+|t:|1781108239
+|move|p2a: Landorus|U-turn|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|83/100
+|
+|t:|1781108246
+|switch|p2a: Gholdengo|Gholdengo|100/100|[from] U-turn
+|move|p1a: Skarmory|Drill Run|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-crit|p2a: Gholdengo
+|-damage|p2a: Gholdengo|43/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781108252
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|100/100
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Gholdengo|Shadow Ball|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|74/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1781108259
+|switch|p2a: Landorus|Landorus-Therian, M|70/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tyranitar|atk|1
+|move|p1a: Tyranitar|Ice Punch|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|-damage|p1a: Tyranitar|57/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|faint|p2a: Landorus
+|-damage|p1a: Tyranitar|47/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781108264
+|switch|p2a: Rillaboom|Rillaboom, F|22/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|27
+|
+|t:|1781108270
+|switch|p1a: Skarmory|Skarmory, F, shiny|83/100
+|-damage|p1a: Skarmory|70/100|[from] Stealth Rock
+|move|p2a: Rillaboom|Wood Hammer|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|59/100
+|-damage|p2a: Rillaboom|18/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rillaboom|12/100|[from] Sandstorm
+|-heal|p2a: Rillaboom|18/100|[from] Grassy Terrain
+|upkeep
+|turn|28
+|
+|t:|1781108275
+|switch|p2a: Gholdengo|Gholdengo|43/100
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|100/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gholdengo|49/100|[from] Grassy Terrain
+|upkeep
+|turn|29
+|
+|t:|1781108279
+|move|p2a: Gholdengo|Shadow Ball|p1a: Skarmory
+|-damage|p1a: Skarmory|41/100
+|move|p1a: Skarmory|Drill Run|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|16/100
+|
+|-weather|none
+|-heal|p2a: Gholdengo|22/100|[from] Grassy Terrain
+|upkeep
+|turn|30
+|
+|t:|1781108286
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|47/100
+|-damage|p1a: Tyranitar|35/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Gholdengo|Shadow Ball|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|20/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gholdengo|28/100|[from] Grassy Terrain
+|-heal|p1a: Tyranitar|27/100|[from] Grassy Terrain
+|upkeep
+|turn|31
+|
+|t:|1781108292
+|move|p2a: Gholdengo|Shadow Ball|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|13/100
+|-unboost|p1a: Tyranitar|spd|1
+|move|p1a: Tyranitar|Ice Punch|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|5/100
+|-damage|p1a: Tyranitar|3/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gholdengo|11/100|[from] Grassy Terrain
+|-heal|p1a: Tyranitar|9/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|32
+|
+|t:|1781108298
+|move|p2a: Gholdengo|Shadow Ball|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781108305
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-damage|p1a: Deoxys|88/100|[from] Stealth Rock
+|-ability|p1a: Deoxys|Pressure
+|turn|33
+|
+|t:|1781108308
+|switch|p2a: Rillaboom|Rillaboom, F|18/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Deoxys|Meteor Beam||[still]
+|-prepare|p1a: Deoxys|Meteor Beam
+|-boost|p1a: Deoxys|spa|1
+|-enditem|p1a: Deoxys|Power Herb
+|-anim|p1a: Deoxys|Meteor Beam|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Deoxys|82/100|[from] Sandstorm
+|-heal|p1a: Deoxys|88/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781108312
+|switch|p2a: Hawlucha|Hawlucha, F|76/100
+|turn|34
+|
+|t:|1781108324
+|move|p1a: Deoxys|Ice Beam|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|-weather|none
+|-heal|p1a: Deoxys|94/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781108332
+|switch|p2a: Gholdengo|Gholdengo|11/100
+|turn|35
+|
+|t:|1781108338
+|-terastallize|p2a: Gholdengo|Steel
+|move|p1a: Deoxys|Ice Beam|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|win|Kaltaris83
+|raw|Kaltaris83's rating: 1515 &rarr; <strong>1538</strong><br />(+23 for winning)
+|raw|KurisuChestnutOU's rating: 1566 &rarr; <strong>1543</strong><br />(-23 for losing)

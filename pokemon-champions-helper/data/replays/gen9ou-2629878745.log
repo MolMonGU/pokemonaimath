@@ -1,0 +1,397 @@
+|j|‽alakazam darnold
+|j|☆ChessDennis
+|t:|1781189275
+|gametype|singles
+|player|p1|alakazam darnold|li|1550
+|player|p2|ChessDennis|265|1522
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Golurk|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Garganacl, F|
+|poke|p1|Iron Crown|
+|poke|p1|Enamorus, F|
+|poke|p2|Ursaluna, M|
+|poke|p2|Bronzong|
+|poke|p2|Garchomp, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Alomomola, F|
+|poke|p2|Torkoal, F|
+|teampreview
+|
+|t:|1781189288
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Golurk|Golurk|100/100
+|switch|p2a: Bronzong|Bronzong|100/100
+|turn|1
+|
+|t:|1781189294
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|move|p1a: Golurk|Poltergeist|p2a: Garchomp
+|-activate|p2a: Garchomp|move: Poltergeist|Rocky Helmet
+|-damage|p2a: Garchomp|28/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781189306
+|move|p2a: Garchomp|Earthquake|p1a: Golurk
+|-damage|p1a: Golurk|56/100
+|move|p1a: Golurk|Poltergeist|p2a: Garchomp
+|-activate|p2a: Garchomp|move: Poltergeist|Rocky Helmet
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1781189310
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|3
+|
+|t:|1781189314
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Enamorus
+|-immune|p1a: Enamorus
+|
+|upkeep
+|turn|4
+|
+|t:|1781189319
+|move|p2a: Raging Bolt|Thunderclap|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-damage|p1a: Enamorus|0 fnt
+|faint|p1a: Enamorus
+|
+|upkeep
+|
+|t:|1781189323
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|turn|5
+|
+|t:|1781189327
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Garganacl
+|-damage|p1a: Garganacl|69/100
+|move|p1a: Garganacl|Salt Cure|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|87/100
+|-start|p2a: Raging Bolt|Salt Cure
+|
+|-heal|p1a: Garganacl|75/100|[from] item: Leftovers
+|-damage|p2a: Raging Bolt|75/100|[from] Salt Cure
+|upkeep
+|turn|6
+|
+|t:|1781189331
+|move|p2a: Raging Bolt|Volt Switch|p1a: Garganacl
+|-damage|p1a: Garganacl|48/100
+|
+|t:|1781189334
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Ursaluna|Ursaluna, M|100/100|[from] Volt Switch
+|move|p1a: Garganacl|Stealth Rock|p2a: Ursaluna
+|-sidestart|p2: ChessDennis|move: Stealth Rock
+|
+|-heal|p1a: Garganacl|54/100|[from] item: Leftovers
+|-status|p2a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|7
+|
+|t:|1781189347
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: Ursaluna|Facade|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|43/100
+|
+|-damage|p2a: Ursaluna|94/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1781189351
+|move|p1a: Mandibuzz|Foul Play|p2a: Ursaluna
+|-damage|p2a: Ursaluna|61/100 brn
+|move|p2a: Ursaluna|Facade|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|
+|-damage|p2a: Ursaluna|54/100 brn|[from] brn
+|upkeep
+|
+|t:|1781189357
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|9
+|
+|t:|1781189365
+|switch|p2a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Torkoal|[anim] Ivy Cudgel Water
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|52/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781189379
+|-terastallize|p1a: Ogerpon|Water
+|detailschange|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Torkoal|[anim] Ivy Cudgel Water
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781189383
+|switch|p2a: Raging Bolt|Raging Bolt|75/100
+|-damage|p2a: Raging Bolt|62/100|[from] Stealth Rock
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|11
+|
+|t:|1781189411
+|move|p1a: Ogerpon|U-turn|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|36/100
+|
+|t:|1781189428
+|switch|p1a: Iron Crown|Iron Crown|100/100|[from] U-turn
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|move|p2a: Raging Bolt|Volt Switch|p1a: Iron Crown
+|-damage|p1a: Iron Crown|49/100
+|
+|t:|1781189434
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Bronzong|Bronzong|100/100|[from] Volt Switch
+|-damage|p2a: Bronzong|94/100|[from] Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Bronzong|100/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781189439
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|move|p2a: Bronzong|Trick Room|p2a: Bronzong
+|-fieldstart|move: Trick Room|[of] p2a: Bronzong
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781189446
+|move|p2a: Bronzong|Body Press|p1a: Iron Crown
+|-damage|p1a: Iron Crown|18/100
+|move|p1a: Iron Crown|Focus Blast|p2a: Bronzong
+|-damage|p2a: Bronzong|52/100
+|
+|-weather|none
+|-heal|p2a: Bronzong|58/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781189454
+|move|p2a: Bronzong|Body Press|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|-heal|p2a: Bronzong|64/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781189461
+|switch|p1a: Golurk|Golurk|56/100
+|turn|15
+|
+|t:|1781189475
+|move|p2a: Bronzong|Stealth Rock|p1a: Golurk
+|-sidestart|p1: alakazam darnold|move: Stealth Rock
+|move|p1a: Golurk|Dynamic Punch|p2a: Bronzong
+|-damage|p2a: Bronzong|21/100
+|-start|p2a: Bronzong|confusion
+|
+|-heal|p2a: Bronzong|27/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781189517
+|switch|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|-activate|p2a: Bronzong|confusion
+|move|p2a: Bronzong|Gyro Ball|p1a: Ogerpon
+|-resisted|p1a: Ogerpon
+|-damage|p1a: Ogerpon|55/100
+|
+|-heal|p2a: Bronzong|33/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|17
+|
+|t:|1781189534
+|move|p1a: Ogerpon|Knock Off|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|0 fnt
+|-enditem|p2a: Bronzong|Leftovers|[from] move: Knock Off|[of] p1a: Ogerpon
+|faint|p2a: Bronzong
+|
+|upkeep
+|
+|t:|1781189579
+|switch|p2a: Raging Bolt|Raging Bolt|36/100
+|-damage|p2a: Raging Bolt|24/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781189583
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Ogerpon|Encore|p2a: Raging Bolt
+|-start|p2a: Raging Bolt|Encore
+|
+|upkeep
+|turn|19
+|
+|t:|1781189587
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Ogerpon|Encore||[still]
+|-fail|p1a: Ogerpon
+|
+|upkeep
+|turn|20
+|
+|t:|1781189592
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Ogerpon|Encore||[still]
+|-fail|p1a: Ogerpon
+|
+|upkeep
+|turn|21
+|
+|t:|1781189600
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Ogerpon|Encore||[still]
+|-fail|p1a: Ogerpon
+|
+|-end|p2a: Raging Bolt|Encore
+|upkeep
+|turn|22
+|
+|t:|1781189607
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Ogerpon|Encore|p2a: Raging Bolt
+|-start|p2a: Raging Bolt|Encore
+|
+|upkeep
+|turn|23
+|
+|t:|1781189611
+|switch|p1a: Golurk|Golurk|56/100
+|-damage|p1a: Golurk|50/100|[from] Stealth Rock
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|-damage|p2a: Alomomola|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|24
+|
+|t:|1781189621
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|move|p1a: Golurk|Poltergeist|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Poltergeist|Choice Band
+|-damage|p2a: Alomomola|21/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781189628
+|switch|p2a: Ursaluna|Ursaluna, M|54/100 brn
+|-damage|p2a: Ursaluna|48/100 brn|[from] Stealth Rock
+|move|p1a: Golurk|Poltergeist|p2a: Ursaluna
+|-immune|p2a: Ursaluna
+|
+|-heal|p2a: Ursaluna|100/100 brn|[from] move: Wish|[wisher] Alomomola
+|-damage|p2a: Ursaluna|94/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1781189633
+|move|p1a: Golurk|Poltergeist|p2a: Ursaluna
+|-immune|p2a: Ursaluna
+|move|p2a: Ursaluna|Earthquake|p1a: Golurk
+|-damage|p1a: Golurk|0 fnt
+|faint|p1a: Golurk
+|
+|-damage|p2a: Ursaluna|88/100 brn|[from] brn
+|upkeep
+|
+|t:|1781189636
+|switch|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water|55/100
+|-damage|p1a: Ogerpon|43/100|[from] Stealth Rock
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|turn|27
+|
+|t:|1781189639
+|-terastallize|p2a: Ursaluna|Ghost
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Ursaluna|[anim] Ivy Cudgel Water
+|-damage|p2a: Ursaluna|29/100 brn
+|move|p2a: Ursaluna|Facade|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|detailschange|p1: Ogerpon|Ogerpon-Wellspring, F|[silent]
+|
+|-damage|p2a: Ursaluna|23/100 brn|[from] brn
+|upkeep
+|
+|t:|1781189646
+|switch|p1a: Garganacl|Garganacl, F|54/100
+|-damage|p1a: Garganacl|42/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1781189649
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Ursaluna|Earthquake|p1a: Garganacl
+|-activate|p1a: Garganacl|move: Protect
+|
+|-heal|p1a: Garganacl|48/100|[from] item: Leftovers
+|-damage|p2a: Ursaluna|17/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1781189652
+|move|p1a: Garganacl|Recover|p1a: Garganacl
+|-heal|p1a: Garganacl|98/100
+|move|p2a: Ursaluna|Earthquake|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|faint|p1a: Garganacl
+|
+|win|ChessDennis
+|raw|alakazam darnold's rating: 1550 &rarr; <strong>1528</strong><br />(-22 for losing)
+|raw|ChessDennis's rating: 1522 &rarr; <strong>1544</strong><br />(+22 for winning)
+|l|‽alakazam darnold
+|player|p1|
+|l|☆ChessDennis
+|player|p2|

@@ -1,0 +1,210 @@
+|j|☆phreshoatmeal
+|j|☆KurisuChestnutLab
+|t:|1781154951
+|gametype|singles
+|player|p1|phreshoatmeal|clerk|1682
+|player|p2|KurisuChestnutLab|may-contest|1588
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Excadrill, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Hippowdon, M|
+|poke|p1|Amoonguss, M|
+|poke|p1|Infernape, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Zapdos|
+|poke|p2|Garganacl, F|
+|poke|p2|Clefable, M|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutLab)
+|
+|t:|1781154969
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Infernape|Infernape, F|100/100
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|1
+|
+|t:|1781154976
+|move|p2a: Gholdengo|Shadow Ball|p1a: Infernape
+|-damage|p1a: Infernape|38/100
+|move|p1a: Infernape|Fire Punch|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|5/100
+|
+|-heal|p1a: Infernape|44/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781154991
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Gholdengo|Shadow Ball|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|92/100
+|-enditem|p1a: Tyranitar|Eject Button
+|
+|t:|1781155000
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781155005
+|move|p1a: Excadrill|Rock Slide|p2a: Gholdengo|[miss]
+|-miss|p1a: Excadrill|p2a: Gholdengo
+|move|p2a: Gholdengo|Shadow Ball|p1a: Excadrill
+|-crit|p1a: Excadrill
+|-damage|p1a: Excadrill|19/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781155012
+|move|p1a: Excadrill|Rock Slide|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781155017
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|turn|5
+|
+|t:|1781155026
+|switch|p1a: Infernape|Infernape, F|44/100
+|move|p2a: Samurott|Ceaseless Edge|p1a: Infernape
+|-resisted|p1a: Infernape
+|-damage|p1a: Infernape|11/100
+|-sidestart|p1: phreshoatmeal|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Samurott|94/100|[from] Sandstorm
+|-damage|p1a: Infernape|5/100|[from] Sandstorm
+|-heal|p1a: Infernape|11/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781155032
+|move|p2a: Samurott|Ceaseless Edge|p1a: Infernape
+|-resisted|p1a: Infernape
+|-damage|p1a: Infernape|0 fnt
+|-sidestart|p1: phreshoatmeal|Spikes
+|faint|p1a: Infernape
+|
+|-weather|none
+|upkeep
+|j| Little Cuack
+|
+|t:|1781155046
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|-damage|p1a: Hatterene|84/100|[from] Spikes
+|turn|7
+|
+|t:|1781155052
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Zapdos
+|-damage|p2a: Zapdos|78/100
+|-heal|p1a: Hatterene|100/100|[from] drain|[of] p2a: Zapdos
+|-status|p1a: Hatterene|par|[from] ability: Static|[of] p2a: Zapdos
+|
+|upkeep
+|turn|8
+|
+|t:|1781155059
+|move|p2a: Zapdos|Hurricane|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|27/100 par
+|-start|p1a: Hatterene|confusion
+|-activate|p1a: Hatterene|confusion
+|move|p1a: Hatterene|Future Sight|p2a: Zapdos
+|-start|p1a: Hatterene|move: Future Sight
+|
+|-heal|p1a: Hatterene|33/100 par|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781155066
+|move|p2a: Zapdos|Hurricane|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781155073
+|switch|p1a: Excadrill|Excadrill, M|19/100
+|-damage|p1a: Excadrill|2/100|[from] Spikes
+|turn|10
+|
+|t:|1781155078
+|move|p1a: Excadrill|Rock Slide|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|16/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|67/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-end|p2a: Zapdos|move: Future Sight
+|-damage|p2a: Zapdos|11/100
+|upkeep
+|turn|11
+|
+|t:|1781155084
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Excadrill|Rock Slide|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|89/100
+|
+|-heal|p2a: Zamazenta|95/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781155087
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p1a: Excadrill|Rock Slide|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|88/100
+|
+|-heal|p2a: Zamazenta|94/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781155091
+|switch|p1a: Amoonguss|Amoonguss, M|100/100
+|-damage|p1a: Amoonguss|84/100|[from] Spikes
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-heal|p2a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|-message|phreshoatmeal forfeited.
+|
+|win|KurisuChestnutLab
+|raw|phreshoatmeal's rating: 1682 &rarr; <strong>1657</strong><br />(-25 for losing)
+|raw|KurisuChestnutLab's rating: 1588 &rarr; <strong>1613</strong><br />(+25 for winning)
+|l|☆phreshoatmeal
+|player|p1|
+|l|☆KurisuChestnutLab
+|player|p2|

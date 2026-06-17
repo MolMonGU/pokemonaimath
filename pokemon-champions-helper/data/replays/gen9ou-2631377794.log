@@ -1,0 +1,578 @@
+|j|☆roddyj
+|j|☆fleep vs floop
+|t:|1781377526
+|gametype|singles
+|player|p1|roddyj|ethan|1598
+|player|p2|fleep vs floop|2|1641
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kommo-o, M|
+|poke|p1|Serperior, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Weezing-Galar, M|
+|poke|p1|Incineroar, M|
+|poke|p1|Iron Crown|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Chesnaught, F|
+|poke|p2|Kyurem|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Zapdos|
+|poke|p2|Iron Treads|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by roddyj)
+|
+|t:|1781377536
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Serperior|Serperior, F, shiny|100/100
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|turn|1
+|
+|t:|1781377539
+|move|p1a: Serperior|Glare|p2a: Samurott
+|-status|p2a: Samurott|par
+|move|p2a: Samurott|Ceaseless Edge|p1a: Serperior
+|-damage|p1a: Serperior|48/100
+|-sidestart|p1: roddyj|Spikes
+|
+|-heal|p1a: Serperior|54/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781377544
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Serperior|Leech Seed|p2a: Slowking
+|-start|p2a: Slowking|move: Leech Seed
+|
+|-heal|p1a: Serperior|60/100|[from] item: Leftovers
+|-damage|p2a: Slowking|88/100|[from] Leech Seed|[of] p1a: Serperior
+|-heal|p1a: Serperior|74/100|[silent]
+|upkeep
+|turn|3
+|
+|t:|1781377548
+|move|p1a: Serperior|Glare|p2a: Slowking
+|-status|p2a: Slowking|par
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781377552
+|switch|p2a: Zapdos|Zapdos|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Serperior|80/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781377555
+|switch|p1a: Incineroar|Incineroar, M, shiny|100/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|move|p2a: Zapdos|Hurricane|p1a: Incineroar
+|-damage|p1a: Incineroar|68/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781377561
+|move|p2a: Zapdos|Volt Switch|p1a: Incineroar
+|-damage|p1a: Incineroar|49/100
+|
+|t:|1781377564
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100 par|[from] Volt Switch
+|move|p1a: Incineroar|Knock Off|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|77/100 par
+|-enditem|p2a: Samurott|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Incineroar
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781377567
+|move|p2a: Samurott|Knock Off|p1a: Incineroar
+|-resisted|p1a: Incineroar
+|-damage|p1a: Incineroar|27/100
+|-enditem|p1a: Incineroar|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Samurott
+|move|p1a: Incineroar|Parting Shot|p2a: Samurott
+|-unboost|p2a: Samurott|atk|1
+|-unboost|p2a: Samurott|spa|1
+|
+|t:|1781377570
+|switch|p1a: Weezing|Weezing-Galar, M, shiny|100/100|[from] Parting Shot
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781377576
+|move|p1a: Weezing|Defog|p2a: Samurott
+|-unboost|p2a: Samurott|evasion|1
+|-sideend|p1: roddyj|Spikes|[from] move: Defog|[of] p1a: Weezing
+|move|p2a: Samurott|Ceaseless Edge|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|90/100
+|-sidestart|p1: roddyj|Spikes
+|
+|-weather|none
+|-heal|p1a: Weezing|96/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781377582
+|move|p1a: Weezing|Defog|p2a: Samurott
+|-unboost|p2a: Samurott|evasion|1
+|-sideend|p1: roddyj|Spikes|[from] move: Defog|[of] p1a: Weezing
+|move|p2a: Samurott|Encore|p1a: Weezing
+|-start|p1a: Weezing|Encore
+|
+|-heal|p1a: Weezing|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781377589
+|switch|p1a: Incineroar|Incineroar, M, shiny|27/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Samurott|atk|1
+|move|p2a: Samurott|Ceaseless Edge|p1a: Incineroar
+|-resisted|p1a: Incineroar
+|-damage|p1a: Incineroar|17/100
+|-sidestart|p1: roddyj|Spikes
+|
+|upkeep
+|turn|10
+|
+|t:|1781377596
+|move|p2a: Samurott|Knock Off|p1a: Incineroar
+|-resisted|p1a: Incineroar
+|-damage|p1a: Incineroar|8/100
+|move|p1a: Incineroar|Parting Shot|p2a: Samurott
+|-unboost|p2a: Samurott|atk|1
+|-unboost|p2a: Samurott|spa|1
+|
+|t:|1781377605
+|switch|p1a: Serperior|Serperior, F, shiny|80/100|[from] Parting Shot
+|-damage|p1a: Serperior|68/100|[from] Spikes
+|
+|-heal|p1a: Serperior|74/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781377607
+|switch|p2a: Slowking|Slowking-Galar, M|100/100 par
+|move|p1a: Serperior|Substitute|p1a: Serperior
+|-start|p1a: Serperior|Substitute
+|-damage|p1a: Serperior|49/100
+|
+|-heal|p1a: Serperior|55/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781377611
+|move|p1a: Serperior|Leaf Storm|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|90/100 par
+|-boost|p1a: Serperior|spa|2
+|move|p2a: Slowking|Sludge Bomb|p1a: Serperior
+|-supereffective|p1a: Serperior
+|-crit|p1a: Serperior
+|-end|p1a: Serperior|Substitute
+|
+|-heal|p1a: Serperior|62/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781377616
+|move|p1a: Serperior|Substitute|p1a: Serperior
+|-start|p1a: Serperior|Substitute
+|-damage|p1a: Serperior|37/100
+|move|p2a: Slowking|Ice Beam|p1a: Serperior
+|-supereffective|p1a: Serperior
+|-end|p1a: Serperior|Substitute
+|
+|-heal|p1a: Serperior|43/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781377621
+|move|p1a: Serperior|Leech Seed|p2a: Slowking|[miss]
+|-miss|p1a: Serperior|p2a: Slowking
+|move|p2a: Slowking|Future Sight|p1a: Serperior
+|-start|p2a: Slowking|move: Future Sight
+|
+|-heal|p1a: Serperior|49/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781377627
+|switch|p1a: Incineroar|Incineroar, M, shiny|8/100
+|-damage|p1a: Incineroar|0 fnt|[from] Spikes
+|faint|p1a: Incineroar
+|move|p2a: Slowking|Sludge Bomb|p1: Incineroar|[notarget]
+|-fail|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781377638
+|switch|p1a: Serperior|Serperior, F, shiny|49/100
+|-damage|p1a: Serperior|37/100|[from] Spikes
+|turn|16
+|
+|t:|1781377642
+|move|p1a: Serperior|Leech Seed|p2a: Slowking
+|-start|p2a: Slowking|move: Leech Seed
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|cant|p2a: Slowking|par
+|
+|-end|p1a: Serperior|move: Future Sight
+|-damage|p1a: Serperior|0 fnt
+|faint|p1a: Serperior
+|upkeep
+|
+|t:|1781377650
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Spikes
+|turn|17
+|
+|t:|1781377655
+|switch|p2a: Chesnaught|Chesnaught, F|100/100
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|upkeep
+|turn|18
+|
+|t:|1781377657
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Chesnaught|[anim] Ivy Cudgel Water
+|-resisted|p2a: Chesnaught
+|-damage|p2a: Chesnaught|68/100
+|move|p2a: Chesnaught|Body Press|p1a: Ogerpon
+|-damage|p1a: Ogerpon|32/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781377663
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Chesnaught|[anim] Ivy Cudgel Water
+|-resisted|p2a: Chesnaught
+|-crit|p2a: Chesnaught
+|-damage|p2a: Chesnaught|14/100
+|move|p2a: Chesnaught|Body Press|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1781377666
+|switch|p1a: Weezing|Weezing-Galar, M, shiny|100/100
+|turn|20
+|
+|t:|1781377668
+|move|p2a: Chesnaught|Leech Seed|p1a: Weezing
+|-start|p1a: Weezing|move: Leech Seed
+|move|p1a: Weezing|Defog|p2a: Chesnaught
+|-unboost|p2a: Chesnaught|evasion|1
+|-sideend|p1: roddyj|Spikes|[from] move: Defog|[of] p1a: Weezing
+|
+|-damage|p1a: Weezing|88/100|[from] Leech Seed|[of] p2a: Chesnaught
+|-heal|p2a: Chesnaught|25/100|[silent]
+|upkeep
+|turn|21
+|
+|t:|1781377674
+|move|p2a: Chesnaught|Synthesis|p2a: Chesnaught
+|-heal|p2a: Chesnaught|75/100
+|move|p1a: Weezing|Strange Steam|p2a: Chesnaught
+|-supereffective|p2a: Chesnaught
+|-damage|p2a: Chesnaught|9/100
+|
+|-heal|p1a: Weezing|94/100|[from] item: Leftovers
+|-damage|p1a: Weezing|82/100|[from] Leech Seed|[of] p2a: Chesnaught
+|-heal|p2a: Chesnaught|20/100|[silent]
+|upkeep
+|turn|22
+|
+|t:|1781377677
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781377683
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Weezing|Weezing-Galar, M, shiny|82/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: Weezing
+|-sidestart|p1: roddyj|move: Stealth Rock
+|
+|-heal|p1a: Weezing|88/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781377696
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Samurott|Samurott-Hisui, M|77/100 par
+|move|p1a: Weezing|Defog|p2a: Samurott
+|-unboost|p2a: Samurott|evasion|1
+|-sideend|p1: roddyj|Stealth Rock|[from] move: Defog|[of] p1a: Weezing
+|
+|-heal|p1a: Weezing|94/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781377698
+|move|p1a: Weezing|Strange Steam|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-heal|p1a: Weezing|99/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781377703
+|switch|p2a: Slowking|Slowking-Galar, M|100/100 par
+|turn|26
+|
+|t:|1781377707
+|move|p1a: Weezing|Acid Spray|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|96/100 par
+|-unboost|p2a: Slowking|spd|2
+|cant|p2a: Slowking|par
+|
+|-heal|p1a: Weezing|100/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781377712
+|move|p1a: Weezing|Acid Spray|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|90/100 par
+|-unboost|p2a: Slowking|spd|2
+|cant|p2a: Slowking|par
+|
+|upkeep
+|turn|28
+|
+|t:|1781377718
+|move|p1a: Weezing|Strange Steam|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|64/100 par
+|move|p2a: Slowking|Future Sight|p1a: Weezing
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|29
+|
+|t:|1781377724
+|move|p1a: Weezing|Strange Steam|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|41/100 par
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|cant|p2a: Slowking|par
+|
+|upkeep
+|turn|30
+|
+|t:|1781377729
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|
+|-end|p1a: Iron Crown|move: Future Sight
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|92/100
+|upkeep
+|turn|31
+|
+|t:|1781377732
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Weezing|Weezing-Galar, M, shiny|100/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: Weezing
+|-sidestart|p1: roddyj|move: Stealth Rock
+|
+|upkeep
+|turn|32
+|
+|t:|1781377736
+|move|p2a: Iron Treads|Knock Off|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|91/100
+|-enditem|p1a: Weezing|Leftovers|[from] move: Knock Off|[of] p2a: Iron Treads
+|move|p1a: Weezing|Defog|p2a: Iron Treads
+|-unboost|p2a: Iron Treads|evasion|1
+|-sideend|p1: roddyj|Stealth Rock|[from] move: Defog|[of] p1a: Weezing
+|
+|upkeep
+|turn|33
+|
+|t:|1781377739
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|74/100 par
+|switch|p1a: Kommo-o|Kommo-o, M, shiny|100/100
+|
+|upkeep
+|turn|34
+|
+|t:|1781377741
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|68/100
+|-enditem|p1a: Kommo-o|Throat Spray
+|-boost|p1a: Kommo-o|spa|1|[from] item: Throat Spray
+|cant|p2a: Slowking|par
+|
+|upkeep
+|turn|35
+|
+|t:|1781377747
+|move|p1a: Kommo-o|Boomburst|p2a: Slowking
+|-damage|p2a: Slowking|34/100 par
+|move|p2a: Slowking|Ice Beam|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|40/100
+|
+|upkeep
+|turn|36
+|
+|t:|1781377754
+|switch|p2a: Chesnaught|Chesnaught, F|20/100
+|move|p1a: Kommo-o|Boomburst|p2a: Chesnaught
+|-damage|p2a: Chesnaught|0 fnt
+|faint|p2a: Chesnaught
+|
+|upkeep
+|
+|t:|1781377756
+|switch|p2a: Slowking|Slowking-Galar, M|67/100 par
+|turn|37
+|
+|t:|1781377758
+|move|p1a: Kommo-o|Boomburst|p2a: Slowking
+|-damage|p2a: Slowking|27/100 par
+|move|p2a: Slowking|Future Sight|p1a: Kommo-o
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|38
+|c|☆fleep vs floop|Can you get anly luckier
+|
+|t:|1781377769
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Kommo-o|Boomburst|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|58/100
+|
+|-heal|p2a: Iron Treads|64/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|c|☆roddyj|you should have seen my last game
+|
+|t:|1781377784
+|-terastallize|p2a: Iron Treads|Ghost
+|move|p1a: Kommo-o|Aura Sphere|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|move|p2a: Iron Treads|Earthquake|p1a: Kommo-o
+|-damage|p1a: Kommo-o|15/100
+|
+|-end|p1a: Kommo-o|move: Future Sight
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|-heal|p2a: Iron Treads|70/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781377788
+|switch|p1a: Weezing|Weezing-Galar, M, shiny|91/100
+|turn|40
+|
+|t:|1781377792
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|61/100 par
+|move|p1a: Weezing|Acid Spray|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|57/100 par
+|-unboost|p2a: Slowking|spd|2
+|
+|upkeep
+|turn|41
+|
+|t:|1781377795
+|switch|p1a: Iron Crown|Iron Crown|92/100
+|move|p2a: Slowking|Future Sight|p1a: Iron Crown
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|42
+|
+|t:|1781377799
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Iron Crown|Agility|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spe|2
+|
+|upkeep
+|turn|43
+|
+|t:|1781377804
+|-terastallize|p1a: Iron Crown|Ground
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|move|p2a: Zapdos|Heat Wave|p1a: Iron Crown
+|-damage|p1a: Iron Crown|77/100
+|
+|-end|p1a: Iron Crown|move: Future Sight
+|-damage|p1a: Iron Crown|52/100
+|upkeep
+|turn|44
+|
+|t:|1781377810
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|move|p2a: Zapdos|Volt Switch|p1a: Iron Crown
+|-immune|p1a: Iron Crown
+|
+|upkeep
+|turn|45
+|
+|t:|1781377817
+|switch|p2a: Slowking|Slowking-Galar, M|90/100 par
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|
+|upkeep
+|turn|46
+|
+|t:|1781377821
+|move|p1a: Iron Crown|Stored Power|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|-message|fleep vs floop forfeited.
+|
+|win|roddyj
+|raw|roddyj's rating: 1598 &rarr; <strong>1620</strong><br />(+22 for winning)
+|raw|fleep vs floop's rating: 1641 &rarr; <strong>1619</strong><br />(-22 for losing)
+|l|☆fleep vs floop
+|player|p2|
+|l|☆roddyj
+|player|p1|

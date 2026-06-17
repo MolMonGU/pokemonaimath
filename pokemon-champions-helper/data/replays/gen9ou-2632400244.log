@@ -1,0 +1,489 @@
+|j|☆yappyy
+|j|☆cachowcapow
+|t:|1781521228
+|gametype|singles
+|player|p1|yappyy|266|1609
+|player|p2|cachowcapow|101|1675
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Araquanid, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Iron Moth|
+|poke|p1|Hatterene, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Gholdengo|
+|poke|p2|Meowscarada, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Alomomola, F|
+|poke|p2|Great Tusk|
+|poke|p2|Cetitan, F|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yappyy)
+|inactive|yappyy has 120 seconds left.
+|
+|t:|1781521293
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Araquanid|Araquanid, F|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|1
+|
+|t:|1781521320
+|move|p2a: Tornadus|Nasty Plot|p2a: Tornadus
+|-boost|p2a: Tornadus|spa|2
+|move|p1a: Araquanid|Liquidation|p2a: Tornadus
+|-damage|p2a: Tornadus|6/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781521327
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|
+|upkeep
+|turn|3
+|
+|t:|1781521336
+|move|p2a: Meowscarada|U-turn|p1a: Raging Bolt
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p1a: Raging Bolt|79/100
+|
+|t:|1781521338
+|switch|p2a: Slowking|Slowking-Galar, F|100/100|[from] U-turn
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Slowking
+|-damage|p2a: Slowking|59/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781521347
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Slowking
+|-damage|p2a: Slowking|16/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781521359
+|switch|p2a: Cetitan|Cetitan, F|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781521375
+|-terastallize|p2a: Cetitan|Ground
+|move|p2a: Cetitan|Belly Drum|p2a: Cetitan
+|-damage|p2a: Cetitan|50/100
+|-setboost|p2a: Cetitan|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Cetitan|Sitrus Berry|[eat]
+|-heal|p2a: Cetitan|75/100|[from] item: Sitrus Berry
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Cetitan
+|-immune|p2a: Cetitan
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781521395
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Cetitan|Earthquake|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|inactive|yappyy has 120 seconds left.
+|
+|t:|1781521416
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespa
+|turn|7
+|
+|t:|1781521422
+|-terastallize|p1a: Iron Moth|Grass
+|move|p2a: Cetitan|Icicle Crash|p1a: Iron Moth|[miss]
+|-miss|p2a: Cetitan|p1a: Iron Moth
+|move|p1a: Iron Moth|Energy Ball|p2a: Cetitan
+|-supereffective|p2a: Cetitan
+|-damage|p2a: Cetitan|0 fnt
+|faint|p2a: Cetitan
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781521438
+|switch|p2a: Tornadus|Tornadus-Therian, M|39/100
+|turn|8
+|
+|t:|1781521445
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|79/100
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|49/100
+|-unboost|p1a: Raging Bolt|spe|1
+|-damage|p2a: Tornadus|30/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781521454
+|switch|p2a: Slowking|Slowking-Galar, F|50/100
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Slowking
+|-damage|p2a: Slowking|21/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781521459
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Alomomola
+|-damage|p2a: Alomomola|63/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781521463
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Great Tusk
+|-damage|p2a: Great Tusk|17/100
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1781521470
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Araquanid|Araquanid, F|100/100
+|move|p2a: Great Tusk|Knock Off|p1a: Araquanid
+|-damage|p1a: Araquanid|66/100
+|-enditem|p1a: Araquanid|Custap Berry|[from] move: Knock Off|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|13
+|
+|t:|1781521477
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, F|96/100
+|move|p1a: Araquanid|Liquidation|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|74/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781521479
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|move|p1a: Araquanid|Sticky Web|p2a: Alomomola
+|-sidestart|p2: cachowcapow|move: Sticky Web
+|
+|upkeep
+|turn|15
+|
+|t:|1781521485
+|move|p2a: Alomomola|Flip Turn|p1a: Araquanid
+|-resisted|p1a: Araquanid
+|-damage|p1a: Araquanid|57/100
+|
+|t:|1781521487
+|switch|p2a: Slowking|Slowking-Galar, F|54/100|[from] Flip Turn
+|-activate|p2a: Slowking|move: Sticky Web
+|-unboost|p2a: Slowking|spe|1
+|move|p1a: Araquanid|Endeavor|p2a: Slowking
+|-damage|p2a: Slowking|49/100
+|
+|-heal|p2a: Slowking|100/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|16
+|
+|t:|1781521490
+|move|p1a: Araquanid|Liquidation|p2a: Slowking
+|-damage|p2a: Slowking|32/100
+|move|p2a: Slowking|Future Sight|p1a: Araquanid
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|17
+|
+|t:|1781521493
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Araquanid|Liquidation|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|76/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781521503
+|switch|p2a: Slowking|Slowking-Galar, F|65/100
+|-activate|p2a: Slowking|move: Sticky Web
+|-unboost|p2a: Slowking|spe|1
+|move|p1a: Araquanid|Endeavor|p2a: Slowking
+|-damage|p2a: Slowking|49/100
+|
+|-end|p1a: Araquanid|move: Future Sight
+|-damage|p1a: Araquanid|22/100
+|upkeep
+|turn|19
+|
+|t:|1781521509
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|-activate|p2a: Meowscarada|move: Sticky Web
+|-unboost|p2a: Meowscarada|spe|1
+|move|p1a: Araquanid|Endeavor|p2a: Meowscarada
+|-damage|p2a: Meowscarada|25/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781521512
+|move|p2a: Meowscarada|U-turn|p1a: Araquanid
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p1a: Araquanid|0 fnt
+|faint|p1a: Araquanid
+|
+|t:|1781521524
+|switch|p2a: Great Tusk|Great Tusk|17/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781521531
+|switch|p1a: Iron Moth|Iron Moth, tera:Grass|100/100
+|turn|21
+|
+|t:|1781521535
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|82/100
+|-activate|p2a: Slowking|move: Sticky Web
+|-unboost|p2a: Slowking|spe|1
+|move|p1a: Iron Moth|Fiery Dance|p2a: Slowking
+|-damage|p2a: Slowking|56/100
+|
+|upkeep
+|turn|22
+|
+|t:|1781521543
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781521550
+|switch|p2a: Tornadus|Tornadus-Therian, M|63/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1781521556
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Tornadus|Heat Wave|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|31/100
+|-damage|p2a: Tornadus|53/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1781521566
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Alomomola
+|-damage|p2a: Alomomola|64/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1781521574
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Alomomola|Flip Turn|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|9/100
+|
+|t:|1781521581
+|switch|p2a: Slowking|Slowking-Galar, F|89/100|[from] Flip Turn
+|-activate|p2a: Slowking|move: Sticky Web
+|-unboost|p2a: Slowking|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1781521587
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|39/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781521594
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|27
+|
+|t:|1781521605
+|switch|p2a: Alomomola|Alomomola, F|97/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Alomomola
+|-damage|p2a: Alomomola|63/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|28
+|
+|t:|1781521613
+|switch|p1a: Raging Bolt|Raging Bolt|49/100
+|move|p2a: Alomomola|Flip Turn|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|41/100
+|
+|t:|1781521619
+|switch|p2a: Great Tusk|Great Tusk|17/100|[from] Flip Turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|29
+|
+|t:|1781521625
+|move|p2a: Great Tusk|Rapid Spin|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|24/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: cachowcapow|Sticky Web|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781521629
+|switch|p2a: Slowking|Slowking-Galar, F|72/100
+|turn|30
+|
+|t:|1781521632
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Slowking|Sludge Bomb|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|
+|upkeep
+|turn|31
+|
+|t:|1781521637
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781521641
+|switch|p2a: Meowscarada|Meowscarada, F|25/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|32
+|
+|t:|1781521658
+|move|p2a: Meowscarada|Dark Pulse|p1a: Gholdengo
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|1/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|move|p1a: Gholdengo|Dazzling Gleam|p2a: Meowscarada
+|-supereffective|p2a: Meowscarada
+|-damage|p2a: Meowscarada|0 fnt
+|faint|p2a: Meowscarada
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781521667
+|switch|p2a: Tornadus|Tornadus-Therian, M|86/100
+|turn|33
+|
+|t:|1781521672
+|move|p2a: Tornadus|Weather Ball|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|-damage|p2a: Tornadus|76/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781521676
+|switch|p1a: Iron Moth|Iron Moth, tera:Grass|100/100
+|turn|34
+|
+|t:|1781521683
+|move|p2a: Tornadus|Weather Ball|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|9/100
+|-damage|p2a: Tornadus|67/100|[from] item: Life Orb
+|move|p1a: Iron Moth|Sludge Wave|p2a: Tornadus
+|-damage|p2a: Tornadus|3/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|35
+|
+|t:|1781521691
+|move|p2a: Tornadus|Weather Ball|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|-damage|p2a: Tornadus|0 fnt|[from] item: Life Orb
+|faint|p2a: Tornadus
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|-message|yappyy forfeited.
+|
+|win|cachowcapow
+|raw|yappyy's rating: 1609 &rarr; <strong>1593</strong><br />(-16 for losing)
+|raw|cachowcapow's rating: 1675 &rarr; <strong>1691</strong><br />(+16 for winning)
+|l|☆yappyy
+|player|p1|
+|j|☆yappyy
+|player|p1|yappyy|266|
+|l|☆yappyy
+|player|p1|
+|l|☆cachowcapow
+|player|p2|

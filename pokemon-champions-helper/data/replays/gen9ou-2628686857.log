@@ -1,0 +1,196 @@
+|j|☆hillbilly z
+|j|☆fivetomatoes
+|t:|1781043055
+|gametype|singles
+|player|p1|hillbilly z|102|1607
+|player|p2|fivetomatoes|101|1613
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torkoal, F|
+|poke|p1|Scovillain, M|
+|poke|p1|Walking Wake|
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Ceruledge, M|
+|poke|p2|Rotom-Wash|
+|poke|p2|Rillaboom, M|
+|poke|p2|Glimmora, M|
+|poke|p2|Garganacl, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by fivetomatoes)
+|inactive|fivetomatoes has 120 seconds left.
+|
+|t:|1781043087
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|
+|t:|1781043101
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|76/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Dragapult|82/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781043104
+|move|p2a: Dragapult|Hex|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|59/100
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781043108
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Dragapult|88/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781043110
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-end|p2a: Dragapult|Substitute
+|move|p2a: Dragapult|Thunder Wave|p1a: Ceruledge
+|-status|p1a: Ceruledge|par
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Dragapult|94/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781043113
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|cant|p1a: Ceruledge|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781043119
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|move|p2a: Glimmora|Mortal Spin|p1a: Walking Wake
+|-damage|p1a: Walking Wake|94/100
+|-status|p1a: Walking Wake|psn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Walking Wake|82/100 psn|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1781043124
+|move|p2a: Glimmora|Spiky Shield|p2a: Glimmora
+|-singleturn|p2a: Glimmora|move: Protect
+|move|p1a: Walking Wake|Hydro Steam|p2a: Glimmora
+|-activate|p2a: Glimmora|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Walking Wake|70/100 psn|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1781043131
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|move|p1a: Walking Wake|Hydro Steam|p2a: Rotom
+|-resisted|p2a: Rotom
+|-crit|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Walking Wake|57/100 psn|[from] psn
+|upkeep
+|
+|t:|1781043137
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|8
+|
+|t:|1781043140
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|59/100
+|move|p2a: Rillaboom|Grassy Glide|p1a: Hatterene
+|-damage|p1a: Hatterene|11/100
+|-damage|p2a: Rillaboom|91/100|[from] item: Life Orb
+|
+|-weather|none
+|-heal|p2a: Rillaboom|97/100|[from] Grassy Terrain
+|-heal|p1a: Hatterene|17/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781043146
+|move|p2a: Rillaboom|Grassy Glide|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|-damage|p2a: Rillaboom|87/100|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|93/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781043149
+|switch|p1a: Scovillain|Scovillain, M|100/100
+|turn|10
+|
+|t:|1781043158
+|switch|p2a: Dragapult|Dragapult, F|94/100
+|move|p1a: Scovillain|Giga Drain|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|60/100
+|-damage|p1a: Scovillain|91/100|[from] item: Life Orb
+|
+|-heal|p2a: Dragapult|66/100|[from] Grassy Terrain
+|-heal|p2a: Dragapult|73/100|[from] item: Leftovers
+|-heal|p1a: Scovillain|96/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781043167
+|switch|p1a: Ceruledge|Ceruledge, M|100/100 par
+|move|p2a: Dragapult|Thunder Wave|p1a: Ceruledge
+|-fail|p1a: Ceruledge|par
+|
+|-heal|p2a: Dragapult|79/100|[from] Grassy Terrain
+|-heal|p2a: Dragapult|85/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781043171
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Glimmora
+|-damage|p2a: Glimmora|83/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: hillbilly z|move: Toxic Spikes
+|
+|-heal|p2a: Glimmora|89/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|13
+|-message|hillbilly z forfeited.
+|
+|win|fivetomatoes
+|raw|hillbilly z's rating: 1607 &rarr; <strong>1587</strong><br />(-20 for losing)
+|raw|fivetomatoes's rating: 1613 &rarr; <strong>1633</strong><br />(+20 for winning)
+|l|☆fivetomatoes
+|player|p2|

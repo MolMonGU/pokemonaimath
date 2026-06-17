@@ -1,0 +1,346 @@
+|j|☆KurisuChestnutLab
+|j|☆drop a baby
+|t:|1781151863
+|gametype|singles
+|player|p1|KurisuChestnutLab|may-contest|1593
+|player|p2|drop a baby|chase|1728
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Zapdos|
+|poke|p1|Garganacl, M|
+|poke|p1|Clefable, F|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Gholdengo|
+|poke|p2|Darkrai|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Raging Bolt|
+|poke|p2|Kingambit, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Great Tusk|
+|teampreview
+|
+|t:|1781151868
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Garganacl|Garganacl, M|100/100
+|switch|p2a: Hito no mi Model⚡️|Raging Bolt|100/100
+|-enditem|p2a: Hito no mi Model⚡️|Booster Energy
+|-activate|p2a: Hito no mi Model⚡️|ability: Protosynthesis|[fromitem]
+|-start|p2a: Hito no mi Model⚡️|protosynthesisspa
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutLab)
+|inactive|drop a baby also wants the timer to be on.
+|
+|t:|1781151871
+|move|p2a: Hito no mi Model⚡️|Thunderbolt|p1a: Garganacl
+|-damage|p1a: Garganacl|51/100
+|move|p1a: Garganacl|Salt Cure|p2a: Hito no mi Model⚡️
+|-damage|p2a: Hito no mi Model⚡️|87/100
+|-start|p2a: Hito no mi Model⚡️|Salt Cure
+|
+|-heal|p1a: Garganacl|57/100|[from] item: Leftovers
+|-damage|p2a: Hito no mi Model⚡️|75/100|[from] Salt Cure
+|upkeep
+|turn|2
+|
+|t:|1781151878
+|move|p2a: Hito no mi Model⚡️|Calm Mind|p2a: Hito no mi Model⚡️
+|-boost|p2a: Hito no mi Model⚡️|spa|1
+|-boost|p2a: Hito no mi Model⚡️|spd|1
+|move|p1a: Garganacl|Recover|p1a: Garganacl
+|-heal|p1a: Garganacl|100/100
+|
+|-damage|p2a: Hito no mi Model⚡️|63/100|[from] Salt Cure
+|upkeep
+|turn|3
+|
+|t:|1781151881
+|move|p2a: Hito no mi Model⚡️|Calm Mind|p2a: Hito no mi Model⚡️
+|-boost|p2a: Hito no mi Model⚡️|spa|1
+|-boost|p2a: Hito no mi Model⚡️|spd|1
+|move|p1a: Garganacl|Recover||[still]
+|-fail|p1a: Garganacl|heal
+|
+|-damage|p2a: Hito no mi Model⚡️|50/100|[from] Salt Cure
+|upkeep
+|turn|4
+|j| rexa2
+|
+|t:|1781151884
+|move|p2a: Hito no mi Model⚡️|Thunderbolt|p1a: Garganacl
+|-damage|p1a: Garganacl|10/100
+|move|p1a: Garganacl|Earthquake|p2a: Hito no mi Model⚡️
+|-supereffective|p2a: Hito no mi Model⚡️
+|-damage|p2a: Hito no mi Model⚡️|10/100
+|
+|-heal|p1a: Garganacl|17/100|[from] item: Leftovers
+|-damage|p2a: Hito no mi Model⚡️|0 fnt|[from] Salt Cure
+|faint|p2a: Hito no mi Model⚡️
+|-end|p2a: Hito no mi Model⚡️|Protosynthesis|[silent]
+|upkeep
+|
+|t:|1781151888
+|switch|p2a: Speedy Gonzales|Deoxys-Speed, shiny|100/100
+|-ability|p2a: Speedy Gonzales|Pressure
+|turn|5
+|
+|t:|1781151896
+|move|p2a: Speedy Gonzales|Stealth Rock|p1a: Garganacl
+|-sidestart|p1: KurisuChestnutLab|move: Stealth Rock
+|move|p1a: Garganacl|Stealth Rock|p2a: Speedy Gonzales
+|-sidestart|p2: drop a baby|move: Stealth Rock
+|
+|-heal|p1a: Garganacl|23/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781151901
+|move|p2a: Speedy Gonzales|Superpower|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|-unboost|p2a: Speedy Gonzales|atk|1
+|-unboost|p2a: Speedy Gonzales|def|1
+|faint|p1a: Garganacl
+|-damage|p2a: Speedy Gonzales|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781151905
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|-damage|p1a: Samurott|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1781151911
+|move|p2a: Speedy Gonzales|Superpower|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|31/100
+|-unboost|p2a: Speedy Gonzales|atk|1
+|-unboost|p2a: Speedy Gonzales|def|1
+|-damage|p2a: Speedy Gonzales|81/100|[from] item: Life Orb
+|move|p1a: Samurott|Razor Shell|p2a: Speedy Gonzales|[miss]
+|-miss|p1a: Samurott|p2a: Speedy Gonzales
+|
+|upkeep
+|turn|8
+|
+|t:|1781151918
+|move|p2a: Speedy Gonzales|Superpower|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|-unboost|p2a: Speedy Gonzales|atk|1
+|-unboost|p2a: Speedy Gonzales|def|1
+|faint|p1a: Samurott
+|-damage|p2a: Speedy Gonzales|71/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781151921
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1781151925
+|move|p2a: Speedy Gonzales|Psycho Boost|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|52/100
+|-unboost|p2a: Speedy Gonzales|spa|2
+|-damage|p2a: Speedy Gonzales|61/100|[from] item: Life Orb
+|move|p1a: Gholdengo|Make It Rain|p2a: Speedy Gonzales
+|-damage|p2a: Speedy Gonzales|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Speedy Gonzales
+|
+|upkeep
+|
+|t:|1781151937
+|switch|p2a: BROTD|Great Tusk, shiny|100/100
+|-damage|p2a: BROTD|98/100|[from] Stealth Rock
+|-enditem|p2a: BROTD|Booster Energy
+|-activate|p2a: BROTD|ability: Protosynthesis|[fromitem]
+|-start|p2a: BROTD|protosynthesisspe
+|turn|10
+|
+|t:|1781151940
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: BROTD|Bulk Up|p2a: BROTD
+|-boost|p2a: BROTD|atk|1
+|-boost|p2a: BROTD|def|1
+|
+|upkeep
+|turn|11
+|
+|t:|1781151943
+|move|p2a: BROTD|Head Smash|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|1/100
+|-damage|p2a: BROTD|53/100|[from] Recoil
+|move|p1a: Zapdos|Hurricane|p2a: BROTD
+|-supereffective|p2a: BROTD
+|-damage|p2a: BROTD|0 fnt
+|faint|p2a: BROTD
+|-end|p2a: BROTD|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781151949
+|switch|p2a: IMU|Darkrai|100/100
+|-damage|p2a: IMU|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781151954
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-damage|p1a: Zamazenta|94/100|[from] Stealth Rock
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: IMU|Dark Pulse|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|78/100
+|
+|-heal|p1a: Zamazenta|84/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781151957
+|move|p1a: Zamazenta|Body Press|p2a: IMU
+|-supereffective|p2a: IMU
+|-damage|p2a: IMU|0 fnt
+|faint|p2a: IMU
+|
+|-heal|p1a: Zamazenta|90/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781151960
+|switch|p2a: 🎭|Iron Valiant, shiny|100/100
+|-damage|p2a: 🎭|94/100|[from] Stealth Rock
+|-enditem|p2a: 🎭|Booster Energy
+|-activate|p2a: 🎭|ability: Quark Drive|[fromitem]
+|-start|p2a: 🎭|quarkdrivespe
+|turn|14
+|
+|t:|1781151963
+|move|p2a: 🎭|Calm Mind|p2a: 🎭
+|-boost|p2a: 🎭|spa|1
+|-boost|p2a: 🎭|spd|1
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|-heal|p1a: Zamazenta|97/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781151969
+|move|p2a: 🎭|Moonblast|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|upkeep
+|
+|t:|1781151973
+|switch|p1a: Clefable|Clefable, F|100/100
+|turn|16
+|
+|t:|1781151980
+|-terastallize|p1a: Clefable|Steel
+|move|p2a: 🎭|Moonblast|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|79/100
+|-unboost|p1a: Clefable|spa|1
+|move|p1a: Clefable|Moonblast|p2a: 🎭
+|-supereffective|p2a: 🎭
+|-damage|p2a: 🎭|22/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781151987
+|move|p2a: 🎭|Shadow Ball|p1a: Clefable
+|-damage|p1a: Clefable|54/100
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781151992
+|move|p2a: 🎭|Vacuum Wave|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|60/100
+|move|p1a: Clefable|Moonblast|p2a: 🎭
+|-supereffective|p2a: 🎭
+|-damage|p2a: 🎭|0 fnt
+|faint|p2a: 🎭
+|-end|p2a: 🎭|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781151994
+|switch|p2a: Mihawk|Kingambit, M|100/100
+|-damage|p2a: Mihawk|94/100|[from] Stealth Rock
+|-activate|p2a: Mihawk|ability: Supreme Overlord
+|-start|p2a: Mihawk|fallen5|[silent]
+|turn|19
+|
+|t:|1781151999
+|move|p2a: Mihawk|Kowtow Cleave|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1781152002
+|switch|p1a: Zapdos|Zapdos|1/100
+|turn|20
+|
+|t:|1781152006
+|move|p1a: Zapdos|Hurricane|p2a: Mihawk
+|-resisted|p2a: Mihawk
+|-damage|p2a: Mihawk|68/100
+|move|p2a: Mihawk|Kowtow Cleave|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|-status|p2a: Mihawk|par|[from] ability: Static|[of] p1a: Zapdos
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1781152011
+|switch|p1a: Gholdengo|Gholdengo|52/100
+|-damage|p1a: Gholdengo|46/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1781152019
+|cant|p2a: Mihawk|par
+|move|p1a: Gholdengo|Make It Rain|p2a: Mihawk
+|-resisted|p2a: Mihawk
+|-damage|p2a: Mihawk|32/100 par
+|-unboost|p1a: Gholdengo|spa|1
+|
+|upkeep
+|turn|22
+|
+|t:|1781152025
+|move|p2a: Mihawk|Sucker Punch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|win|drop a baby
+|raw|KurisuChestnutLab's rating: 1593 &rarr; <strong>1580</strong><br />(-13 for losing)
+|raw|drop a baby's rating: 1728 &rarr; <strong>1741</strong><br />(+13 for winning)
+|l|☆KurisuChestnutLab
+|player|p1|
+|l|☆drop a baby
+|player|p2|
+|l| rexa2

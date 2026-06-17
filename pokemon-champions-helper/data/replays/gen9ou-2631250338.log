@@ -1,0 +1,368 @@
+|j|☆Kirnil
+|j|☆DarkG99
+|t:|1781363396
+|gametype|singles
+|player|p1|Kirnil|maid|1620
+|player|p2|DarkG99|karen|1603
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Glimmora, F|
+|poke|p1|Great Tusk|
+|poke|p1|Alomomola, M|
+|poke|p1|Amoonguss, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Hoopa-Unbound|
+|poke|p2|Kommo-o, M|
+|poke|p2|Sinistcha-Masterpiece|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Heatran, M|
+|poke|p2|Maushold-Four|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|
+|t:|1781363399
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|switch|p2a: Maushold|Maushold-Four|100/100
+|-item|p1a: Glimmora|Air Balloon
+|turn|1
+|
+|t:|1781363406
+|move|p2a: Maushold|Switcheroo|p1a: Glimmora
+|-activate|p2a: Maushold|move: Trick|[of] p1a: Glimmora
+|-item|p1a: Glimmora|Choice Scarf|[from] move: Switcheroo
+|-item|p2a: Maushold|Air Balloon
+|-item|p2a: Maushold|Air Balloon|[from] move: Switcheroo
+|move|p1a: Glimmora|Power Gem|p2a: Maushold
+|-damage|p2a: Maushold|43/100
+|-enditem|p2a: Maushold|Air Balloon
+|
+|upkeep
+|turn|2
+|
+|t:|1781363413
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Glimmora|Power Gem|p2a: Heatran
+|-damage|p2a: Heatran|77/100
+|
+|-heal|p2a: Heatran|83/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781363418
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Heatran|Stealth Rock|p1a: Alomomola
+|-sidestart|p1: Kirnil|move: Stealth Rock
+|
+|-heal|p2a: Heatran|89/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781363422
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Alomomola|Flip Turn|p2a: Ogerpon
+|-immune|p2a: Ogerpon|[from] ability: Water Absorb
+|
+|upkeep
+|turn|5
+|
+|t:|1781363424
+|switch|p1a: Amoonguss|Amoonguss, F|100/100
+|-damage|p1a: Amoonguss|88/100|[from] Stealth Rock
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|6
+|
+|t:|1781363430
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Amoonguss|[anim] Ivy Cudgel Water
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|47/100
+|move|p1a: Amoonguss|Foul Play|p2a: Ogerpon
+|-damage|p2a: Ogerpon|23/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781363436
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Amoonguss|Synthesis|p1a: Amoonguss
+|-heal|p1a: Amoonguss|72/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781363441
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|-damage|p1a: Alomomola|88/100|[from] Stealth Rock
+|move|p2a: Ninetales|Blizzard|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|78/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781363446
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: DarkG99|move: Aurora Veil
+|move|p1a: Alomomola|Flip Turn|p2a: Ninetales
+|-damage|p2a: Ninetales|92/100
+|
+|t:|1781363449
+|switch|p1a: Glimmora|Glimmora, F|100/100|[from] Flip Turn
+|-damage|p1a: Glimmora|88/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781363453
+|switch|p2a: Heatran|Heatran, M|89/100
+|move|p1a: Glimmora|Stealth Rock|p2a: Heatran
+|-sidestart|p2: DarkG99|move: Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Heatran|96/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781363457
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|-damage|p1a: Alomomola|88/100|[from] Stealth Rock
+|move|p2a: Heatran|Earth Power|p1a: Alomomola
+|-damage|p1a: Alomomola|75/100
+|
+|-weather|none
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781363461
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|23/100
+|-damage|p2a: Ogerpon|10/100|[from] Stealth Rock
+|move|p1a: Alomomola|Flip Turn|p2a: Ogerpon
+|-heal|p2a: Ogerpon|35/100|[from] ability: Water Absorb|[of] p1a: Alomomola
+|
+|upkeep
+|turn|13
+|
+|t:|1781363465
+|switch|p2a: Maushold|Maushold-Four|43/100
+|-damage|p2a: Maushold|31/100|[from] Stealth Rock
+|switch|p1a: Amoonguss|Amoonguss, F|100/100
+|-damage|p1a: Amoonguss|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|14
+|
+|t:|1781363478
+|move|p2a: Maushold|Tidy Up|p2a: Maushold
+|-sideend|p2: DarkG99|Stealth Rock
+|-sideend|p1: Kirnil|Stealth Rock
+|-activate|p2a: Maushold|move: Tidy Up
+|-boost|p2a: Maushold|atk|1
+|-boost|p2a: Maushold|spe|1
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Maushold
+|-damage|p2a: Maushold|10/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781363487
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Amoonguss|Foul Play|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|82/100
+|
+|-heal|p2a: Heatran|88/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781363499
+|switch|p2a: Sinistcha|Sinistcha-Masterpiece|100/100
+|switch|p1a: Glimmora|Glimmora, F|88/100
+|
+|-sideend|p2: DarkG99|move: Aurora Veil
+|upkeep
+|turn|17
+|
+|t:|1781363505
+|switch|p2a: Maushold|Maushold-Four|10/100
+|move|p1a: Glimmora|Power Gem|p2a: Maushold
+|-damage|p2a: Maushold|0 fnt
+|faint|p2a: Maushold
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kirnil)
+|
+|t:|1781363521
+|switch|p2a: Kommo-o|Kommo-o, M|100/100
+|turn|18
+|
+|t:|1781363524
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|68/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781363528
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|35/100
+|-enditem|p2a: Kommo-o|Sitrus Berry|[eat]
+|-heal|p2a: Kommo-o|59/100|[from] item: Sitrus Berry
+|move|p1a: Alomomola|Mirror Coat||[still]
+|-fail|p1a: Alomomola
+|
+|upkeep
+|turn|20
+|
+|t:|1781363541
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|26/100
+|move|p1a: Alomomola|Flip Turn|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-crit|p2a: Kommo-o
+|-damage|p2a: Kommo-o|15/100
+|
+|t:|1781363558
+|switch|p1a: Iron Valiant|Iron Valiant|100/100|[from] Flip Turn
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|
+|upkeep
+|turn|21
+|
+|t:|1781363562
+|move|p2a: Kommo-o|Boomburst|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781363566
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|turn|22
+|
+|t:|1781363569
+|move|p2a: Kommo-o|Drain Punch|p1a: Alomomola
+|-damage|p1a: Alomomola|47/100
+|-heal|p2a: Kommo-o|64/100|[from] drain|[of] p1a: Alomomola
+|move|p1a: Alomomola|Mirror Coat||[still]
+|-fail|p1a: Alomomola
+|
+|upkeep
+|turn|23
+|
+|t:|1781363578
+|switch|p1a: Amoonguss|Amoonguss, F|100/100
+|move|p2a: Kommo-o|Drain Punch|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|76/100
+|-heal|p2a: Kommo-o|83/100|[from] drain|[of] p1a: Amoonguss
+|-damage|p2a: Kommo-o|66/100|[from] item: Rocky Helmet|[of] p1a: Amoonguss
+|
+|upkeep
+|turn|24
+|
+|t:|1781363590
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Kommo-o|Flamethrower|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781363594
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|turn|25
+|
+|t:|1781363598
+|-terastallize|p2a: Kommo-o|Normal
+|-terastallize|p1a: Hoopa|Ghost
+|move|p2a: Kommo-o|Drain Punch|p1a: Hoopa
+|-immune|p1a: Hoopa
+|move|p1a: Hoopa|Psychic Noise|p2a: Kommo-o
+|-immune|p2a: Kommo-o|[from] ability: Soundproof
+|
+|upkeep
+|turn|26
+|
+|t:|1781363609
+|move|p2a: Kommo-o|Flamethrower|p1a: Hoopa
+|-damage|p1a: Hoopa|46/100
+|move|p1a: Hoopa|Drain Punch|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-damage|p2a: Kommo-o|44/100
+|-heal|p1a: Hoopa|56/100|[from] drain|[of] p2a: Kommo-o
+|
+|-heal|p1a: Hoopa|62/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781363615
+|move|p2a: Kommo-o|Flamethrower|p1a: Hoopa
+|-damage|p1a: Hoopa|3/100
+|move|p1a: Hoopa|Drain Punch|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-damage|p2a: Kommo-o|25/100
+|-heal|p1a: Hoopa|12/100|[from] drain|[of] p2a: Kommo-o
+|
+|-heal|p1a: Hoopa|19/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781363618
+|move|p2a: Kommo-o|Flamethrower|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|upkeep
+|-message|Kirnil forfeited.
+|
+|win|DarkG99
+|raw|Kirnil's rating: 1620 &rarr; <strong>1599</strong><br />(-21 for losing)
+|raw|DarkG99's rating: 1603 &rarr; <strong>1624</strong><br />(+21 for winning)
+|l|☆Kirnil
+|player|p1|
+|l|☆DarkG99
+|player|p2|

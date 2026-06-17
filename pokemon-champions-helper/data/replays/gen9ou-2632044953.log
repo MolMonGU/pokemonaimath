@@ -1,0 +1,158 @@
+|j|☆The median voter
+|j|☆myree
+|t:|1781469525
+|gametype|singles
+|player|p1|The median voter|scientist-gen4dp|1559
+|player|p2|myree|benga|1596
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Great Tusk|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Scizor, M|
+|poke|p1|Dragapult, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Hydrapple, M|
+|poke|p2|Iron Boulder|
+|poke|p2|Iron Crown|
+|poke|p2|Pecharunt|
+|poke|p2|Enamorus-Therian, F|
+|teampreview
+|
+|t:|1781469571
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Emissary|Dragapult, F|100/100
+|switch|p2a: gov. gen.|Ting-Lu|100/100
+|-ability|p2a: gov. gen.|Vessel of Ruin
+|turn|1
+|
+|t:|1781469576
+|move|p1a: Emissary|Will-O-Wisp|p2a: gov. gen.
+|-status|p2a: gov. gen.|brn
+|move|p2a: gov. gen.|Ruination|p1a: Emissary
+|-damage|p1a: Emissary|51/100
+|
+|-damage|p2a: gov. gen.|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1781469581
+|move|p1a: Emissary|U-turn|p2a: gov. gen.
+|-supereffective|p2a: gov. gen.
+|-damage|p2a: gov. gen.|75/100 brn
+|
+|t:|1781469583
+|switch|p1a: Experiment|Scizor, M|100/100|[from] U-turn
+|move|p2a: gov. gen.|Ruination|p1a: Experiment
+|-damage|p1a: Experiment|51/100
+|
+|-heal|p2a: gov. gen.|81/100 brn|[from] item: Leftovers
+|-damage|p2a: gov. gen.|75/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1781469588
+|switch|p2a: mrz. puff|Pecharunt|100/100
+|move|p1a: Experiment|U-turn|p2a: mrz. puff
+|-resisted|p2a: mrz. puff
+|-damage|p2a: mrz. puff|92/100
+|-damage|p1a: Experiment|34/100|[from] item: Rocky Helmet|[of] p2a: mrz. puff
+|
+|t:|1781469592
+|switch|p1a: The End of All|Hoopa-Unbound|100/100|[from] U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1781469616
+|switch|p2a: gov. gen.|Ting-Lu|75/100 brn
+|-ability|p2a: gov. gen.|Vessel of Ruin
+|move|p1a: The End of All|Drain Punch|p2a: gov. gen.
+|-supereffective|p2a: gov. gen.
+|-damage|p2a: gov. gen.|46/100 brn
+|
+|-heal|p2a: gov. gen.|52/100 brn|[from] item: Leftovers
+|-damage|p2a: gov. gen.|46/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1781469628
+|move|p1a: The End of All|Drain Punch|p2a: gov. gen.
+|-supereffective|p2a: gov. gen.
+|-damage|p2a: gov. gen.|16/100 brn
+|move|p2a: gov. gen.|Ruination|p1a: The End of All|[miss]
+|-miss|p2a: gov. gen.|p1a: The End of All
+|
+|-heal|p2a: gov. gen.|22/100 brn|[from] item: Leftovers
+|-damage|p2a: gov. gen.|16/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1781469637
+|move|p1a: The End of All|Drain Punch|p2a: gov. gen.
+|-supereffective|p2a: gov. gen.
+|-damage|p2a: gov. gen.|0 fnt
+|faint|p2a: gov. gen.
+|
+|upkeep
+|
+|t:|1781469646
+|switch|p2a: na'am tee|Enamorus-Therian, F|100/100
+|turn|7
+|
+|t:|1781469662
+|move|p1a: The End of All|Thunderbolt|p2a: na'am tee
+|-supereffective|p2a: na'am tee
+|-damage|p2a: na'am tee|28/100
+|move|p2a: na'am tee|Calm Mind|p2a: na'am tee
+|-boost|p2a: na'am tee|spa|1
+|-boost|p2a: na'am tee|spd|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781469670
+|-terastallize|p2a: na'am tee|Electric
+|move|p1a: The End of All|Psychic Noise|p2a: na'am tee
+|-damage|p2a: na'am tee|0 fnt
+|faint|p2a: na'am tee
+|
+|upkeep
+|
+|t:|1781469677
+|switch|p2a: chef boul-dar-D|Iron Boulder|100/100
+|turn|9
+|
+|t:|1781469715
+|move|p2a: chef boul-dar-D|Swords Dance|p2a: chef boul-dar-D
+|-boost|p2a: chef boul-dar-D|atk|2
+|move|p1a: The End of All|Hyperspace Fury|p2a: chef boul-dar-D
+|-supereffective|p2a: chef boul-dar-D
+|-damage|p2a: chef boul-dar-D|0 fnt
+|-unboost|p1a: The End of All|def|1
+|faint|p2a: chef boul-dar-D
+|-end|p2a: chef boul-dar-D|Quark Drive|[silent]
+|
+|upkeep
+|-message|myree forfeited.
+|
+|win|The median voter
+|raw|The median voter's rating: 1559 &rarr; <strong>1581</strong><br />(+22 for winning)
+|raw|myree's rating: 1596 &rarr; <strong>1574</strong><br />(-22 for losing)
+|l|☆myree
+|player|p2|
+|l|☆The median voter
+|player|p1|

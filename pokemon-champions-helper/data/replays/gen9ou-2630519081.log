@@ -1,0 +1,337 @@
+|j|☆psylxr
+|j|☆uniandes5
+|t:|1781268309
+|gametype|singles
+|player|p1|psylxr|101|1670
+|player|p2|uniandes5|2|1637
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, F|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Latias, F|
+|poke|p2|Tinkaton, F|
+|poke|p2|Volcanion|
+|poke|p2|Mew|
+|poke|p2|Dragapult, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by psylxr)
+|
+|t:|1781268329
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gulp Gulp|Pelipper, F|100/100
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Gulp Gulp
+|turn|1
+|
+|t:|1781268357
+|switch|p1a: Raging Neck|Raging Bolt|100/100
+|-enditem|p1a: Raging Neck|Booster Energy
+|-activate|p1a: Raging Neck|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Neck|protosynthesisspa
+|move|p2a: Dragapult|Thunder Wave|p1a: Raging Neck
+|-immune|p1a: Raging Neck
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781268371
+|move|p2a: Dragapult|Dragon Darts|p1a: Raging Neck
+|-supereffective|p1a: Raging Neck
+|-damage|p1a: Raging Neck|59/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Raging Neck
+|-supereffective|p1a: Raging Neck
+|-damage|p1a: Raging Neck|12/100
+|move|p1a: Raging Neck|Thunder|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|38/100
+|-status|p2a: Dragapult|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781268381
+|move|p1a: Raging Neck|Thunder|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781268389
+|switch|p2a: Mew|Mew|100/100
+|turn|4
+|
+|t:|1781268393
+|move|p1a: Raging Neck|Thunderclap|p2a: Mew
+|-damage|p2a: Mew|46/100
+|move|p2a: Mew|Ice Punch|p1a: Raging Neck
+|-supereffective|p1a: Raging Neck
+|-damage|p1a: Raging Neck|0 fnt
+|faint|p1a: Raging Neck
+|-end|p1a: Raging Neck|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781268400
+|switch|p1a: Spike|Overqwil, M|100/100
+|turn|5
+|
+|t:|1781268405
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|move|p1a: Spike|Swords Dance|p1a: Spike
+|-boost|p1a: Spike|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781268412
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: uniandes5|Reflect
+|move|p1a: Spike|Liquidation|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|45/100
+|-damage|p1a: Spike|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781268420
+|switch|p2a: Tinkaton|Tinkaton, F|100/100
+|-ability|p2a: Tinkaton|Mold Breaker
+|move|p1a: Spike|Liquidation|p2a: Tinkaton
+|-damage|p2a: Tinkaton|43/100
+|-enditem|p2a: Tinkaton|Red Card|[of] p1a: Spike
+|drag|p1a: Flip Flop|Barraskewda, M|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781268427
+|move|p1a: Flip Flop|Liquidation|p2a: Tinkaton
+|-damage|p2a: Tinkaton|0 fnt
+|faint|p2a: Tinkaton
+|
+|-weather|none
+|upkeep
+|
+|t:|1781268436
+|switch|p2a: Latias|Latias, F|100/100
+|turn|9
+|
+|t:|1781268439
+|switch|p1a: Gulp Gulp|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Gulp Gulp
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781268443
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Gulp Gulp|U-turn|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|94/100
+|
+|t:|1781268469
+|switch|p1a: Queengambit|Kingambit, F|100/100|[from] U-turn
+|-activate|p1a: Queengambit|ability: Supreme Overlord
+|-start|p1a: Queengambit|fallen1|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781268491
+|-terastallize|p1a: Queengambit|Dark
+|move|p2a: Latias|Aura Sphere|p1a: Queengambit
+|-supereffective|p1a: Queengambit
+|-crit|p1a: Queengambit
+|-damage|p1a: Queengambit|0 fnt
+|faint|p1a: Queengambit
+|-end|p1a: Queengambit|fallen1|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆psylxr|damn
+|
+|t:|1781268509
+|switch|p1a: Spike|Overqwil, M|91/100
+|turn|12
+|
+|t:|1781268521
+|-terastallize|p2a: Latias|Poison
+|move|p1a: Spike|Crunch|p2a: Latias
+|-crit|p2a: Latias
+|-damage|p2a: Latias|41/100
+|-damage|p1a: Spike|81/100|[from] item: Life Orb
+|move|p2a: Latias|Aura Sphere|p1a: Spike
+|-damage|p1a: Spike|18/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781268528
+|move|p1a: Spike|Liquidation|p2a: Latias
+|-damage|p2a: Latias|21/100
+|-damage|p1a: Spike|8/100|[from] item: Life Orb
+|move|p2a: Latias|Recover|p2a: Latias
+|-heal|p2a: Latias|71/100
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p2: uniandes5|Reflect
+|upkeep
+|turn|14
+|
+|t:|1781268536
+|move|p1a: Spike|Swords Dance|p1a: Spike
+|-boost|p1a: Spike|atk|2
+|move|p2a: Latias|Recover|p2a: Latias
+|-heal|p2a: Latias|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781268540
+|move|p1a: Spike|Liquidation|p2a: Latias
+|-damage|p2a: Latias|28/100
+|-unboost|p2a: Latias|def|1
+|-damage|p1a: Spike|0 fnt|[from] item: Life Orb
+|faint|p1a: Spike
+|move|p2a: Latias|Aura Sphere|p1: Spike|[notarget]
+|-fail|p2a: Latias
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781268543
+|switch|p1a: Flip Flop|Barraskewda, M|100/100
+|turn|16
+|
+|t:|1781268548
+|switch|p2a: Volcanion|Volcanion|100/100
+|move|p1a: Flip Flop|Flip Turn|p2a: Volcanion
+|-immune|p2a: Volcanion|[from] ability: Water Absorb
+|
+|-weather|none
+|upkeep
+|turn|17
+|
+|t:|1781268552
+|switch|p1a: Gulp Gulp|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Gulp Gulp
+|move|p2a: Volcanion|Steam Eruption|p1a: Gulp Gulp
+|-resisted|p1a: Gulp Gulp
+|-damage|p1a: Gulp Gulp|36/100
+|-status|p1a: Gulp Gulp|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Gulp Gulp|30/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1781268560
+|switch|p2a: Latias|Latias, F, tera:Poison|28/100
+|move|p1a: Gulp Gulp|U-turn|p2a: Latias
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|26/100
+|
+|t:|1781268566
+|switch|p1a: Iron Belly|Iron Treads|100/100|[from] U-turn
+|-enditem|p1a: Iron Belly|Booster Energy
+|-activate|p1a: Iron Belly|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Belly|quarkdrivespe
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781268571
+|move|p1a: Iron Belly|Steel Beam|p2a: Latias
+|-damage|p2a: Latias|0 fnt
+|-damage|p1a: Iron Belly|50/100|[from] steelbeam
+|faint|p2a: Latias
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781268577
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|45/100
+|turn|20
+|
+|t:|1781268585
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: uniandes5|move: Light Screen
+|move|p1a: Iron Belly|Steel Beam|p2a: Grimmsnarl
+|-supereffective|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|-damage|p1a: Iron Belly|0 fnt|[from] steelbeam
+|faint|p1a: Iron Belly
+|-end|p1a: Iron Belly|Quark Drive|[silent]
+|faint|p2a: Grimmsnarl
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781268593
+|switch|p1a: Flip Flop|Barraskewda, M|100/100
+|switch|p2a: Volcanion|Volcanion|100/100
+|turn|21
+|
+|t:|1781268597
+|move|p1a: Flip Flop|Close Combat|p2a: Volcanion
+|-damage|p2a: Volcanion|50/100
+|-unboost|p1a: Flip Flop|def|1
+|-unboost|p1a: Flip Flop|spd|1
+|move|p2a: Volcanion|Steam Eruption|p1a: Flip Flop
+|-resisted|p1a: Flip Flop
+|-damage|p1a: Flip Flop|0 fnt
+|faint|p1a: Flip Flop
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781268600
+|switch|p1a: Gulp Gulp|Pelipper, F|30/100 brn
+|turn|22
+|
+|t:|1781268606
+|move|p2a: Volcanion|Steam Eruption|p1a: Gulp Gulp
+|-resisted|p1a: Gulp Gulp
+|-damage|p1a: Gulp Gulp|0 fnt
+|faint|p1a: Gulp Gulp
+|
+|win|uniandes5
+|raw|psylxr's rating: 1670 &rarr; <strong>1648</strong><br />(-22 for losing)
+|raw|uniandes5's rating: 1637 &rarr; <strong>1659</strong><br />(+22 for winning)
+|l|☆psylxr
+|player|p1|

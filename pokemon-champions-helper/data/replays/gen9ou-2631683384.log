@@ -1,0 +1,158 @@
+|j|☆Ceruledge bot
+|j|‽oathusishere
+|t:|1781421074
+|gametype|singles
+|player|p1|Ceruledge bot|aromalady|1618
+|player|p2|oathusishere|artistf-gen6|1735
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dondozo, M|
+|poke|p1|Blissey, F|
+|poke|p1|Corviknight, F|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Gliscor, M|
+|poke|p1|Toxapex, M|
+|poke|p2|Gardevoir, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Iron Crown|
+|poke|p2|Great Tusk|
+|poke|p2|Glimmora, M|
+|poke|p2|Iron Jugulis|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by oathusishere)
+|inactive|Ceruledge bot also wants the timer to be on.
+|
+|t:|1781421085
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1781421097
+|switch|p2a: Gardevoir|Gardevoir, F|100/100
+|-ability|p2a: Gardevoir|Poison Heal|Trace|[from] ability: Trace|[of] p1a: Gliscor
+|-enditem|p2a: Gardevoir|Grassy Seed
+|-boost|p2a: Gardevoir|def|1|[from] item: Grassy Seed
+|move|p1a: Gliscor|Protect||[still]
+|-fail|p1a: Gliscor
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781421108
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Gardevoir|Calm Mind|p2a: Gardevoir
+|-boost|p2a: Gardevoir|spa|1
+|-boost|p2a: Gardevoir|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781421111
+|-terastallize|p1a: Blissey|Dark
+|move|p2a: Gardevoir|Taunt|p1a: Blissey
+|-start|p1a: Blissey|move: Taunt
+|cant|p1a: Blissey|move: Taunt|Calm Mind
+|
+|upkeep
+|turn|4
+|
+|t:|1781421115
+|move|p2a: Gardevoir|Calm Mind|p2a: Gardevoir
+|-boost|p2a: Gardevoir|spa|1
+|-boost|p2a: Gardevoir|spd|1
+|move|p1a: Blissey|Seismic Toss|p2a: Gardevoir
+|-damage|p2a: Gardevoir|71/100
+|
+|-heal|p2a: Gardevoir|77/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781421119
+|move|p2a: Gardevoir|Calm Mind|p2a: Gardevoir
+|-boost|p2a: Gardevoir|spa|1
+|-boost|p2a: Gardevoir|spd|1
+|move|p1a: Blissey|Seismic Toss|p2a: Gardevoir
+|-damage|p2a: Gardevoir|47/100
+|
+|-heal|p2a: Gardevoir|53/100|[from] Grassy Terrain
+|-end|p1a: Blissey|move: Taunt
+|upkeep
+|turn|6
+|
+|t:|1781421123
+|move|p2a: Gardevoir|Taunt|p1a: Blissey
+|-start|p1a: Blissey|move: Taunt
+|move|p1a: Blissey|Seismic Toss|p2a: Gardevoir
+|-damage|p2a: Gardevoir|24/100
+|
+|-heal|p2a: Gardevoir|30/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781421126
+|move|p2a: Gardevoir|Draining Kiss|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|67/100
+|-heal|p2a: Gardevoir|79/100|[from] drain|[of] p1a: Blissey
+|move|p1a: Blissey|Seismic Toss|p2a: Gardevoir
+|-damage|p2a: Gardevoir|49/100
+|
+|-heal|p2a: Gardevoir|55/100|[from] Grassy Terrain
+|-heal|p1a: Blissey|74/100|[from] Grassy Terrain
+|-heal|p1a: Blissey|80/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781421133
+|move|p2a: Gardevoir|Draining Kiss|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|44/100
+|-heal|p2a: Gardevoir|100/100|[from] drain|[of] p1a: Blissey
+|move|p1a: Blissey|Seismic Toss|p2a: Gardevoir
+|-damage|p2a: Gardevoir|71/100
+|
+|-heal|p2a: Gardevoir|77/100|[from] Grassy Terrain
+|-heal|p1a: Blissey|50/100|[from] Grassy Terrain
+|-heal|p1a: Blissey|57/100|[from] item: Leftovers
+|-end|p1a: Blissey|move: Taunt
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781421148
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|move|p2a: Gardevoir|Taunt|p1a: Toxapex
+|-start|p1a: Toxapex|move: Taunt
+|
+|upkeep
+|turn|10
+|
+|t:|1781421156
+|switch|p1a: Gliscor|Gliscor, M|100/100 tox
+|move|p2a: Gardevoir|Stored Power|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|
+|upkeep
+|-message|Ceruledge bot forfeited.
+|
+|win|oathusishere
+|raw|Ceruledge bot's rating: 1618 &rarr; <strong>1604</strong><br />(-14 for losing)
+|raw|oathusishere's rating: 1735 &rarr; <strong>1749</strong><br />(+14 for winning)
+|l|☆Ceruledge bot
+|player|p1|

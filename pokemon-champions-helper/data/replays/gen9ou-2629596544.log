@@ -1,0 +1,370 @@
+|j|☆altyWIN
+|j|☆KurisuChestnutOU
+|t:|1781150772
+|gametype|singles
+|player|p1|altyWIN|backpacker|1536
+|player|p2|KurisuChestnutOU|may-contest|1525
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Excadrill, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Hydrapple, F|
+|poke|p1|Alomomola, L99, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Zapdos|
+|poke|p2|Hawlucha, F|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Gholdengo|
+|poke|p2|Kyurem|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutOU)
+|
+|t:|1781150780
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: FreeCaneMerchant|Zapdos|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1781150787
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: FreeCaneMerchant|Hurricane|p2a: Kyurem
+|-damage|p2a: Kyurem|50/100
+|
+|-heal|p2a: Kyurem|57/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781150802
+|-terastallize|p1a: FreeCaneMerchant|Flying
+|move|p1a: FreeCaneMerchant|Hurricane|p2a: Kyurem|[miss]
+|-miss|p1a: FreeCaneMerchant|p2a: Kyurem
+|move|p2a: Kyurem|Ice Beam|p1a: FreeCaneMerchant
+|-supereffective|p1a: FreeCaneMerchant
+|-damage|p1a: FreeCaneMerchant|0 fnt
+|faint|p1a: FreeCaneMerchant
+|
+|-heal|p2a: Kyurem|63/100|[from] Grassy Terrain
+|upkeep
+|c|☆altyWIN|god
+|
+|t:|1781150821
+|switch|p1a: Goatyranny|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Goatyranny
+|turn|3
+|
+|t:|1781150825
+|move|p2a: Kyurem|Focus Blast|p1a: Goatyranny|[miss]
+|-miss|p2a: Kyurem|p1a: Goatyranny
+|move|p1a: Goatyranny|Knock Off|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|-enditem|p2a: Kyurem|Assault Vest|[from] move: Knock Off|[of] p1a: Goatyranny
+|faint|p2a: Kyurem
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781150832
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p2a: Hawlucha|Grassy Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Grassy Seed
+|turn|4
+|
+|t:|1781150849
+|switch|p1a: Kim K|Hatterene, F|100/100
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hawlucha|94/100|[from] Sandstorm
+|-damage|p1a: Kim K|95/100|[from] Sandstorm
+|-heal|p1a: Kim K|100/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781150854
+|-terastallize|p2a: Hawlucha|Steel
+|move|p2a: Hawlucha|Acrobatics|p1a: Kim K
+|-damage|p1a: Kim K|19/100
+|move|p1a: Kim K|Psychic Noise|p2a: Hawlucha
+|-resisted|p2a: Hawlucha
+|-damage|p2a: Hawlucha|72/100
+|-start|p2a: Hawlucha|move: Heal Block
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Kim K|13/100|[from] Sandstorm
+|-heal|p1a: Kim K|19/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|inactive|altyWIN has 120 seconds left.
+|
+|t:|1781150887
+|switch|p1a: Childinthemines|Excadrill, M|100/100
+|move|p2a: Hawlucha|Acrobatics|p1a: Childinthemines
+|-resisted|p1a: Childinthemines
+|-damage|p1a: Childinthemines|26/100
+|
+|-weather|Sandstorm|[upkeep]
+|-end|p2a: Hawlucha|move: Heal Block
+|upkeep
+|turn|7
+|
+|t:|1781150894
+|move|p1a: Childinthemines|Earthquake|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|-weather|none
+|upkeep
+|
+|t:|1781150902
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|turn|8
+|
+|t:|1781150915
+|switch|p1a: Goatyranny|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Goatyranny
+|move|p2a: Samurott|Ceaseless Edge|p1a: Goatyranny
+|-resisted|p1a: Goatyranny
+|-damage|p1a: Goatyranny|82/100
+|-sidestart|p1: altyWIN|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Samurott|94/100|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1781150927
+|move|p2a: Samurott|Ceaseless Edge|p1a: Goatyranny
+|-resisted|p1a: Goatyranny
+|-damage|p1a: Goatyranny|63/100
+|-sidestart|p1: altyWIN|Spikes
+|move|p1a: Goatyranny|Low Kick|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781150934
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Goatyranny|atk|1
+|turn|10
+|
+|t:|1781150950
+|switch|p1a: Hydrippy|Hydrapple, F|100/100
+|move|p2a: Landorus|U-turn|p1a: Hydrippy
+|-supereffective|p1a: Hydrippy
+|-damage|p1a: Hydrippy|77/100
+|
+|t:|1781150953
+|switch|p2a: Gholdengo|Gholdengo|100/100|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hydrippy|71/100|[from] Sandstorm
+|upkeep
+|turn|11
+|
+|t:|1781150973
+|move|p2a: Gholdengo|Shadow Ball|p1a: Hydrippy
+|-damage|p1a: Hydrippy|28/100
+|move|p1a: Hydrippy|Earth Power|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|39/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hydrippy|22/100|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1781150986
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hydrippy|atk|1
+|switch|p1a: Kim K|Hatterene, F|19/100
+|-damage|p1a: Kim K|3/100|[from] Spikes
+|
+|-weather|none
+|upkeep
+|turn|13
+|
+|t:|1781150991
+|move|p2a: Landorus|Earth Power|p1a: Kim K
+|-damage|p1a: Kim K|0 fnt
+|faint|p1a: Kim K
+|
+|upkeep
+|inactive|altyWIN has 120 seconds left.
+|
+|t:|1781151016
+|switch|p1a: Hydrippy|Hydrapple, F|55/100
+|turn|14
+|inactive|altyWIN has 120 seconds left.
+|
+|t:|1781151031
+|move|p2a: Landorus|U-turn|p1a: Hydrippy
+|-supereffective|p1a: Hydrippy
+|-damage|p1a: Hydrippy|31/100
+|
+|t:|1781151037
+|switch|p2a: Rillaboom|Rillaboom, F|100/100|[from] U-turn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Hydrippy|Earth Power|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|84/100
+|
+|-heal|p2a: Rillaboom|90/100|[from] Grassy Terrain
+|-heal|p1a: Hydrippy|37/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1781151044
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|move|p1a: Hydrippy|Fickle Beam|p2a: Rillaboom
+|-damage|p2a: Rillaboom|48/100
+|
+|-heal|p2a: Rillaboom|54/100|[from] Grassy Terrain
+|-heal|p1a: Hydrippy|43/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|inactive|altyWIN has 120 seconds left.
+|
+|t:|1781151062
+|switch|p1a: Cardi B|Alomomola, L99, F|100/100
+|move|p2a: Rillaboom|Knock Off|p1a: Cardi B
+|-crit|p1a: Cardi B
+|-damage|p1a: Cardi B|43/100
+|-enditem|p1a: Cardi B|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-heal|p2a: Rillaboom|61/100|[from] Grassy Terrain
+|-heal|p1a: Cardi B|50/100|[from] Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1781151071
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|move|p1a: Cardi B|Scald|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|53/100
+|
+|-heal|p2a: Rillaboom|59/100|[from] Grassy Terrain
+|-heal|p1a: Cardi B|56/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1781151078
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|move|p1a: Cardi B|Scald|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|51/100
+|
+|-heal|p2a: Rillaboom|57/100|[from] Grassy Terrain
+|-heal|p1a: Cardi B|62/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1781151088
+|move|p2a: Rillaboom|Knock Off|p1a: Cardi B
+|-damage|p1a: Cardi B|13/100
+|move|p1a: Cardi B|Scald|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|49/100
+|
+|upkeep
+|turn|20
+|c|☆altyWIN|i s that covert cloak
+|inactive|altyWIN has 120 seconds left.
+|
+|t:|1781151138
+|switch|p1a: Goatyranny|Tyranitar, M|63/100
+|-damage|p1a: Goatyranny|47/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Goatyranny
+|move|p2a: Rillaboom|Grassy Glide|p1a: Goatyranny
+|-supereffective|p1a: Goatyranny
+|-damage|p1a: Goatyranny|0 fnt
+|faint|p1a: Goatyranny
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rillaboom|43/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781151147
+|switch|p1a: Hydrippy|Hydrapple, F|76/100
+|turn|21
+|
+|t:|1781151154
+|move|p2a: Rillaboom|Knock Off|p1a: Hydrippy
+|-damage|p1a: Hydrippy|0 fnt
+|-enditem|p1a: Hydrippy|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Rillaboom
+|faint|p1a: Hydrippy
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rillaboom|37/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781151157
+|switch|p1a: Cardi B|Alomomola, L99, F|46/100
+|-damage|p1a: Cardi B|29/100|[from] Spikes
+|turn|22
+|
+|t:|1781151160
+|move|p2a: Rillaboom|Grassy Glide|p1a: Cardi B
+|-supereffective|p1a: Cardi B
+|-damage|p1a: Cardi B|0 fnt
+|faint|p1a: Cardi B
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rillaboom|31/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781151162
+|switch|p1a: Childinthemines|Excadrill, M|26/100
+|-damage|p1a: Childinthemines|9/100|[from] Spikes
+|turn|23
+|
+|t:|1781151165
+|move|p1a: Childinthemines|Earthquake|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781151172
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Childinthemines|atk|1
+|turn|24
+|-message|altyWIN forfeited.
+|
+|win|KurisuChestnutOU
+|raw|altyWIN's rating: 1536 &rarr; <strong>1517</strong><br />(-19 for losing)
+|raw|KurisuChestnutOU's rating: 1558 &rarr; <strong>1577</strong><br />(+19 for winning)
+|l|☆altyWIN
+|player|p1|
+|l|☆KurisuChestnutOU
+|player|p2|

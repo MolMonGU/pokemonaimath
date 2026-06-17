@@ -1,0 +1,168 @@
+|j|☆ykykp
+|j|☆EtnaArmpits
+|t:|1781266633
+|gametype|singles
+|player|p1|ykykp|101|1683
+|player|p2|EtnaArmpits|265|1684
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Lokix, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Alomomola, L99, F|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Great Tusk|
+|poke|p1|Gholdengo|
+|poke|p2|Kyurem|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Iron Valiant|
+|poke|p2|Dragonite, F|
+|poke|p2|Darkrai|
+|poke|p2|Iron Treads|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by EtnaArmpits)
+|
+|t:|1781266654
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Shining Agito|Lokix, M, shiny|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781266661
+|move|p2a: Iron Treads|Steel Beam|p1a: Shining Agito
+|-damage|p1a: Shining Agito|11/100
+|-damage|p2a: Iron Treads|50/100|[from] steelbeam
+|move|p1a: Shining Agito|U-turn|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|6/100
+|
+|t:|1781266670
+|switch|p1a: G3-X|Iron Valiant, shiny|100/100|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1781266675
+|-terastallize|p2a: Iron Treads|Ghost
+|move|p1a: G3-X|Vacuum Wave|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|move|p2a: Iron Treads|Stealth Rock|p1a: G3-X
+|-sidestart|p1: ykykp|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781266680
+|-end|p1a: G3-X|Quark Drive|[silent]
+|switch|p1a: Overlord|Mandibuzz, F|100/100
+|move|p2a: Iron Treads|Steel Beam|p1a: Overlord
+|-damage|p1a: Overlord|62/100
+|-damage|p2a: Iron Treads|0 fnt|[from] steelbeam
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781266688
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|4
+|
+|t:|1781266691
+|switch|p1a: Tetsuya Sawaki|Alomomola, L99, F|100/100
+|-damage|p1a: Tetsuya Sawaki|88/100|[from] Stealth Rock
+|move|p2a: Kyurem|Freeze-Dry|p1a: Tetsuya Sawaki
+|-supereffective|p1a: Tetsuya Sawaki
+|-damage|p1a: Tetsuya Sawaki|41/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781266695
+|move|p2a: Kyurem|Freeze-Dry|p1a: Tetsuya Sawaki
+|-supereffective|p1a: Tetsuya Sawaki
+|-damage|p1a: Tetsuya Sawaki|0 fnt
+|faint|p1a: Tetsuya Sawaki
+|
+|upkeep
+|
+|t:|1781266700
+|switch|p1a: MACHINE TORNADER|Gholdengo|100/100
+|-damage|p1a: MACHINE TORNADER|94/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1781266704
+|switch|p2a: Darkrai|Darkrai|100/100
+|move|p1a: MACHINE TORNADER|Make It Rain|p2a: Darkrai
+|-damage|p2a: Darkrai|19/100
+|-unboost|p1a: MACHINE TORNADER|spa|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781266707
+|move|p1a: MACHINE TORNADER|Make It Rain|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|-unboost|p1a: MACHINE TORNADER|spa|1
+|faint|p2a: Darkrai
+|
+|upkeep
+|
+|t:|1781266710
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|8
+|
+|t:|1781266717
+|switch|p1a: Gills Exceed|Great Tusk|100/100
+|move|p2a: Deoxys|Nasty Plot|p2a: Deoxys
+|-boost|p2a: Deoxys|spa|2
+|
+|upkeep
+|turn|9
+|
+|t:|1781266720
+|move|p2a: Deoxys|Ice Beam|p1a: Gills Exceed
+|-supereffective|p1a: Gills Exceed
+|-damage|p1a: Gills Exceed|0 fnt
+|faint|p1a: Gills Exceed
+|-end|p1a: Gills Exceed|Protosynthesis|[silent]
+|-damage|p2a: Deoxys|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781266726
+|switch|p1a: MACHINE TORNADER|Gholdengo|94/100
+|-damage|p1a: MACHINE TORNADER|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1781266728
+|move|p2a: Deoxys|Psycho Boost|p1a: MACHINE TORNADER
+|-resisted|p1a: MACHINE TORNADER
+|-damage|p1a: MACHINE TORNADER|0 fnt
+|-unboost|p2a: Deoxys|spa|2
+|faint|p1a: MACHINE TORNADER
+|-damage|p2a: Deoxys|81/100|[from] item: Life Orb
+|
+|upkeep
+|-message|ykykp forfeited.
+|
+|win|EtnaArmpits
+|raw|ykykp's rating: 1683 &rarr; <strong>1663</strong><br />(-20 for losing)
+|raw|EtnaArmpits's rating: 1684 &rarr; <strong>1704</strong><br />(+20 for winning)
+|l|☆ykykp
+|player|p1|

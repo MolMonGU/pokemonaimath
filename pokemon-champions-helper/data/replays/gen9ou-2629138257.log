@@ -1,0 +1,320 @@
+|j|☆HageverMelech
+|j|☆jimola
+|t:|1781102322
+|gametype|singles
+|player|p1|HageverMelech|ghetsis-gen5bw|1705
+|player|p2|jimola|2|1664
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Corviknight, F|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Dondozo, M|
+|poke|p1|Great Tusk|
+|poke|p1|Dragapult, F|
+|poke|p2|Iron Treads|
+|poke|p2|Slowking, M|
+|poke|p2|Iron Thorns|
+|poke|p2|Pincurchin, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Iron Jugulis|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by HageverMelech)
+|
+|t:|1781102351
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Nur|Dragapult, F|100/100
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|turn|1
+|
+|t:|1781102365
+|switch|p1a: Abu Namir|Slowking-Galar, M|100/100
+|move|p2a: Iron Valiant|Knock Off|p1a: Abu Namir
+|-supereffective|p1a: Abu Namir
+|-damage|p1a: Abu Namir|44/100
+|-enditem|p1a: Abu Namir|Assault Vest|[from] move: Knock Off|[of] p2a: Iron Valiant
+|
+|upkeep
+|turn|2
+|
+|t:|1781102383
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Pincurchin|Pincurchin, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|switch|p1a: Samir|Corviknight, F, shiny|100/100
+|-ability|p1a: Samir|Pressure
+|
+|upkeep
+|turn|3
+|
+|t:|1781102394
+|move|p1a: Samir|U-turn|p2a: Pincurchin
+|-damage|p2a: Pincurchin|82/100
+|
+|t:|1781102396
+|switch|p1a: Yousef|Great Tusk|100/100|[from] U-turn
+|move|p2a: Pincurchin|Discharge|p1a: Yousef
+|-immune|p1a: Yousef
+|
+|upkeep
+|turn|4
+|
+|t:|1781102404
+|switch|p2a: Slowking|Slowking, M|100/100
+|move|p1a: Yousef|Stealth Rock|p2a: Slowking
+|-sidestart|p2: jimola|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1781102411
+|move|p1a: Yousef|Headlong Rush|p2a: Slowking
+|-damage|p2a: Slowking|56/100
+|-unboost|p1a: Yousef|def|1
+|-unboost|p1a: Yousef|spd|1
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781102418
+|switch|p2a: Iron Jugulis|Iron Jugulis|100/100|[from] Chilly Reception
+|-damage|p2a: Iron Jugulis|76/100|[from] Stealth Rock
+|-activate|p2a: Iron Jugulis|ability: Quark Drive
+|-start|p2a: Iron Jugulis|quarkdrivespe
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781102426
+|-end|p1a: Yousef|Protosynthesis|[silent]
+|switch|p1a: Ahmed|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Ahmed
+|move|p2a: Iron Jugulis|Meteor Beam||[still]
+|-prepare|p2a: Iron Jugulis|Meteor Beam
+|-boost|p2a: Iron Jugulis|spa|1
+|-enditem|p2a: Iron Jugulis|Power Herb
+|-anim|p2a: Iron Jugulis|Meteor Beam|p1a: Ahmed|[miss]
+|-miss|p2a: Iron Jugulis|p1a: Ahmed
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Jugulis|70/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1781102430
+|move|p2a: Iron Jugulis|Earth Power|p1a: Ahmed
+|-supereffective|p1a: Ahmed
+|-damage|p1a: Ahmed|40/100
+|move|p1a: Ahmed|Ice Punch|p2a: Iron Jugulis
+|-supereffective|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|0 fnt
+|faint|p2a: Iron Jugulis
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781102447
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-damage|p2a: Iron Treads|97/100|[from] Stealth Rock
+|-activate|p2a: Iron Treads|ability: Quark Drive
+|-start|p2a: Iron Treads|quarkdriveatk
+|turn|8
+|
+|t:|1781102464
+|switch|p1a: Nur|Dragapult, F|100/100
+|move|p2a: Iron Treads|Supercell Slam|p1a: Nur
+|-resisted|p1a: Nur
+|-damage|p1a: Nur|59/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Nur|53/100|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1781102476
+|move|p1a: Nur|Shadow Ball|p2a: Iron Treads
+|-damage|p2a: Iron Treads|23/100
+|move|p2a: Iron Treads|Iron Head|p1a: Nur
+|-damage|p1a: Nur|0 fnt
+|faint|p1a: Nur
+|
+|-weather|Sandstorm|[upkeep]
+|-fieldend|move: Electric Terrain
+|-end|p2a: Iron Treads|Quark Drive
+|upkeep
+|
+|t:|1781102480
+|switch|p1a: Yousef|Great Tusk|100/100
+|turn|10
+|inactive|jimola has 120 seconds left.
+|
+|t:|1781102511
+|move|p2a: Iron Treads|Earthquake|p1a: Yousef
+|-crit|p1a: Yousef
+|-damage|p1a: Yousef|44/100
+|move|p1a: Yousef|Headlong Rush|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-unboost|p1a: Yousef|def|1
+|-unboost|p1a: Yousef|spd|1
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|none
+|upkeep
+|inactive|jimola has 120 seconds left.
+|
+|t:|1781102519
+|switch|p2a: Slowking|Slowking, M|89/100
+|turn|11
+|
+|t:|1781102528
+|-end|p1a: Yousef|Protosynthesis|[silent]
+|switch|p1a: Abu Namir|Slowking-Galar, M|77/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781102535
+|switch|p2a: Pincurchin|Pincurchin, M|82/100|[from] Chilly Reception
+|-damage|p2a: Pincurchin|69/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781102540
+|move|p1a: Abu Namir|Future Sight|p2a: Pincurchin
+|-start|p1a: Abu Namir|move: Future Sight
+|move|p2a: Pincurchin|Memento|p1a: Abu Namir
+|-unboost|p1a: Abu Namir|atk|2
+|-unboost|p1a: Abu Namir|spa|2
+|faint|p2a: Pincurchin
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781102546
+|switch|p2a: Iron Thorns|Iron Thorns|100/100
+|-damage|p2a: Iron Thorns|88/100|[from] Stealth Rock
+|-activate|p2a: Iron Thorns|ability: Quark Drive
+|-start|p2a: Iron Thorns|quarkdriveatk
+|turn|13
+|
+|t:|1781102551
+|switch|p1a: Yousef|Great Tusk|44/100
+|move|p2a: Iron Thorns|Dragon Dance|p2a: Iron Thorns
+|-boost|p2a: Iron Thorns|atk|1
+|-boost|p2a: Iron Thorns|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781102556
+|move|p2a: Iron Thorns|Ice Punch|p1a: Yousef
+|-supereffective|p1a: Yousef
+|-damage|p1a: Yousef|0 fnt
+|faint|p1a: Yousef
+|-end|p1a: Yousef|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Iron Thorns|move: Future Sight
+|-damage|p2a: Iron Thorns|27/100
+|upkeep
+|
+|t:|1781102559
+|switch|p1a: Kareem|Dondozo, M, shiny|100/100
+|turn|15
+|
+|t:|1781102566
+|-terastallize|p2a: Iron Thorns|Bug
+|-terastallize|p1a: Kareem|Fighting
+|move|p2a: Iron Thorns|Thunder Punch|p1a: Kareem
+|-damage|p1a: Kareem|71/100
+|move|p1a: Kareem|Body Press|p2a: Iron Thorns
+|-resisted|p2a: Iron Thorns
+|-damage|p2a: Iron Thorns|8/100
+|
+|-weather|none
+|-heal|p1a: Kareem|77/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781102572
+|move|p2a: Iron Thorns|Low Kick|p1a: Kareem
+|-damage|p1a: Kareem|52/100
+|move|p1a: Kareem|Waterfall|p2a: Iron Thorns
+|-damage|p2a: Iron Thorns|0 fnt
+|faint|p2a: Iron Thorns
+|-end|p2a: Iron Thorns|Quark Drive|[silent]
+|
+|-heal|p1a: Kareem|58/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781102576
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-damage|p2a: Iron Valiant|94/100|[from] Stealth Rock
+|-activate|p2a: Iron Valiant|ability: Quark Drive
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|17
+|
+|t:|1781102582
+|move|p2a: Iron Valiant|Moonblast|p1a: Kareem
+|-supereffective|p1a: Kareem
+|-damage|p1a: Kareem|0 fnt
+|faint|p1a: Kareem
+|
+|upkeep
+|
+|t:|1781102585
+|switch|p1a: Abu Namir|Slowking-Galar, M|100/100
+|turn|18
+|
+|t:|1781102590
+|move|p2a: Iron Valiant|Destiny Bond|p2a: Iron Valiant
+|-singlemove|p2a: Iron Valiant|Destiny Bond
+|move|p1a: Abu Namir|Sludge Bomb|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-activate|p2a: Iron Valiant|move: Destiny Bond
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|faint|p1a: Abu Namir
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1781102594
+|switch|p2a: Slowking|Slowking, M|100/100
+|switch|p1a: Ahmed|Tyranitar, M|40/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Ahmed
+|turn|19
+|
+|t:|1781102596
+|move|p1a: Ahmed|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-enditem|p2a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Ahmed
+|faint|p2a: Slowking
+|
+|win|HageverMelech
+|raw|HageverMelech's rating: 1705 &rarr; <strong>1723</strong><br />(+18 for winning)
+|raw|jimola's rating: 1664 &rarr; <strong>1646</strong><br />(-18 for losing)
+|l|☆jimola
+|player|p2|

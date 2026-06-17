@@ -1,0 +1,458 @@
+|j|☆pinkpriestess3
+|j|☆Spwert
+|t:|1780893805
+|gametype|singles
+|player|p1|pinkpriestess3|266|1518
+|player|p2|Spwert|yellow|1533
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cinderace, F|
+|poke|p1|Keldeo-Resolute|
+|poke|p1|Kingambit, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Garganacl, F|
+|poke|p1|Iron Valiant|
+|poke|p2|Iron Valiant|
+|poke|p2|Kingambit, M|
+|poke|p2|Great Tusk|
+|poke|p2|Dragapult, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|
+|t:|1780893826
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Birmingham|Keldeo-Resolute|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|1
+|
+|t:|1780893832
+|switch|p1a: Dodger Blue|Tornadus-Therian, M|100/100
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Dodger Blue
+|-damage|p1a: Dodger Blue|76/100
+|-unboost|p1a: Dodger Blue|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1780893835
+|move|p2a: Tornadus|Knock Off|p1a: Dodger Blue
+|-damage|p1a: Dodger Blue|51/100
+|-enditem|p1a: Dodger Blue|Assault Vest|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Dodger Blue|Knock Off|p2a: Tornadus
+|-damage|p2a: Tornadus|78/100
+|-enditem|p2a: Tornadus|Assault Vest|[from] move: Knock Off|[of] p1a: Dodger Blue
+|
+|upkeep
+|turn|3
+|
+|t:|1780893841
+|move|p2a: Tornadus|U-turn|p1a: Dodger Blue
+|-resisted|p1a: Dodger Blue
+|-damage|p1a: Dodger Blue|42/100
+|
+|t:|1780893843
+|switch|p2a: Dragapult|Dragapult, F|100/100|[from] U-turn
+|move|p1a: Dodger Blue|U-turn|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|91/100
+|
+|t:|1780893849
+|switch|p1a: Wall Maria|Garganacl, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1780893855
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Wall Maria|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: Spwert|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1780893861
+|switch|p1a: Dodger Blue|Tornadus-Therian, M|76/100
+|move|p2a: Great Tusk|Stealth Rock|p1a: Dodger Blue
+|-sidestart|p1: pinkpriestess3|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1780893866
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|-damage|p2a: Tornadus|76/100|[from] Stealth Rock
+|move|p1a: Dodger Blue|U-turn|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|67/100
+|
+|t:|1780893874
+|switch|p1a: Wall Maria|Garganacl, F|100/100|[from] U-turn
+|-damage|p1a: Wall Maria|88/100|[from] Stealth Rock
+|
+|-heal|p1a: Wall Maria|94/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1780893877
+|move|p2a: Tornadus|Knock Off|p1a: Wall Maria
+|-damage|p1a: Wall Maria|81/100
+|-enditem|p1a: Wall Maria|Leftovers|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Wall Maria|Salt Cure|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|35/100
+|-start|p2a: Tornadus|Salt Cure
+|
+|-damage|p2a: Tornadus|23/100|[from] Salt Cure
+|upkeep
+|turn|8
+|
+|t:|1780893880
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|88/100|[from] Stealth Rock
+|move|p1a: Wall Maria|Salt Cure|p2a: Ogerpon
+|-damage|p2a: Ogerpon|69/100
+|-start|p2a: Ogerpon|Salt Cure
+|
+|-damage|p2a: Ogerpon|44/100|[from] Salt Cure
+|upkeep
+|turn|9
+|
+|t:|1780893884
+|move|p1a: Wall Maria|Protect|p1a: Wall Maria
+|-singleturn|p1a: Wall Maria|Protect
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Wall Maria|[anim] Ivy Cudgel Water
+|-activate|p1a: Wall Maria|move: Protect
+|
+|-damage|p2a: Ogerpon|19/100|[from] Salt Cure
+|upkeep
+|turn|10
+|
+|t:|1780893890
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|switch|p1a: Dodger Blue|Tornadus-Therian, M|100/100
+|-damage|p1a: Dodger Blue|76/100|[from] Stealth Rock
+|
+|upkeep
+|turn|11
+|
+|t:|1780893896
+|-terastallize|p2a: Great Tusk|Steel
+|move|p1a: Dodger Blue|Bleakwind Storm|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|74/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Dodger Blue
+|-damage|p1a: Dodger Blue|54/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: Spwert|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|12
+|
+|t:|1780893901
+|move|p2a: Great Tusk|Ice Spinner|p1a: Dodger Blue
+|-supereffective|p1a: Dodger Blue
+|-damage|p1a: Dodger Blue|0 fnt
+|faint|p1a: Dodger Blue
+|
+|upkeep
+|
+|t:|1780893909
+|switch|p1a: Datphoria|Iron Valiant|100/100
+|-damage|p1a: Datphoria|94/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1780893911
+|move|p1a: Datphoria|Vacuum Wave|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|-damage|p1a: Datphoria|85/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1780893913
+|switch|p2a: Dragapult|Dragapult, F|91/100
+|turn|14
+|
+|t:|1780893922
+|-end|p1a: Datphoria|Quark Drive|[silent]
+|switch|p1a: Wall Maria|Garganacl, F|81/100
+|-damage|p1a: Wall Maria|69/100|[from] Stealth Rock
+|move|p2a: Dragapult|U-turn|p1a: Wall Maria
+|-damage|p1a: Wall Maria|56/100
+|
+|t:|1780893925
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|19/100|[from] U-turn
+|
+|upkeep
+|turn|15
+|
+|t:|1780893936
+|move|p1a: Wall Maria|Protect|p1a: Wall Maria
+|-singleturn|p1a: Wall Maria|Protect
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Wall Maria|[anim] Ivy Cudgel Water
+|-activate|p1a: Wall Maria|move: Protect
+|
+|upkeep
+|turn|16
+|
+|t:|1780893946
+|switch|p1a: Birmingham|Keldeo-Resolute|100/100
+|-damage|p1a: Birmingham|94/100|[from] Stealth Rock
+|move|p2a: Ogerpon|Power Whip|p1a: Birmingham|[miss]
+|-miss|p2a: Ogerpon|p1a: Birmingham
+|
+|-heal|p1a: Birmingham|100/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1780893948
+|move|p1a: Birmingham|Vacuum Wave|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1780893952
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|18
+|
+|t:|1780893956
+|move|p2a: Iron Valiant|Moonblast|p1a: Birmingham
+|-supereffective|p1a: Birmingham
+|-damage|p1a: Birmingham|16/100
+|move|p1a: Birmingham|Surf|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-heal|p1a: Birmingham|22/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780893960
+|switch|p2a: Tornadus|Tornadus-Therian, M|56/100
+|turn|19
+|
+|t:|1780893965
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Birmingham
+|-supereffective|p1a: Birmingham
+|-damage|p1a: Birmingham|0 fnt
+|faint|p1a: Birmingham
+|
+|upkeep
+|
+|t:|1780893967
+|switch|p1a: Wall Maria|Garganacl, F|56/100
+|-damage|p1a: Wall Maria|44/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1780893973
+|move|p2a: Tornadus|U-turn|p1a: Wall Maria
+|-damage|p1a: Wall Maria|35/100
+|
+|t:|1780893974
+|switch|p2a: Dragapult|Dragapult, F|91/100|[from] U-turn
+|move|p1a: Wall Maria|Salt Cure|p2a: Dragapult
+|-damage|p2a: Dragapult|74/100
+|-start|p2a: Dragapult|Salt Cure
+|
+|-damage|p2a: Dragapult|62/100|[from] Salt Cure
+|upkeep
+|turn|21
+|
+|t:|1780893978
+|move|p1a: Wall Maria|Protect|p1a: Wall Maria
+|-singleturn|p1a: Wall Maria|Protect
+|move|p2a: Dragapult|Draco Meteor|p1a: Wall Maria
+|-activate|p1a: Wall Maria|move: Protect
+|
+|-damage|p2a: Dragapult|49/100|[from] Salt Cure
+|upkeep
+|turn|22
+|j| SV G0AT
+|
+|t:|1780893983
+|switch|p2a: Tornadus|Tornadus-Therian, M|89/100
+|switch|p1a: Datphoria|Iron Valiant|85/100
+|-damage|p1a: Datphoria|78/100|[from] Stealth Rock
+|
+|upkeep
+|turn|23
+|
+|t:|1780893986
+|-end|p1a: Datphoria|Quark Drive|[silent]
+|switch|p1a: Wall Maria|Garganacl, F|35/100
+|-damage|p1a: Wall Maria|23/100|[from] Stealth Rock
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Wall Maria
+|-resisted|p1a: Wall Maria
+|-damage|p1a: Wall Maria|10/100
+|-unboost|p1a: Wall Maria|spe|1
+|
+|upkeep
+|turn|24
+|
+|t:|1780893990
+|move|p1a: Wall Maria|Protect|p1a: Wall Maria
+|-singleturn|p1a: Wall Maria|Protect
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Wall Maria
+|-activate|p1a: Wall Maria|move: Protect
+|
+|upkeep
+|turn|25
+|
+|t:|1780893992
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Wall Maria|[miss]
+|-miss|p2a: Tornadus|p1a: Wall Maria
+|move|p1a: Wall Maria|Recover|p1a: Wall Maria
+|-heal|p1a: Wall Maria|60/100
+|
+|upkeep
+|turn|26
+|
+|t:|1780893997
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Wall Maria
+|-resisted|p1a: Wall Maria
+|-damage|p1a: Wall Maria|48/100
+|move|p1a: Wall Maria|Recover|p1a: Wall Maria
+|-heal|p1a: Wall Maria|98/100
+|
+|upkeep
+|turn|27
+|
+|t:|1780893999
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Wall Maria
+|-resisted|p1a: Wall Maria
+|-damage|p1a: Wall Maria|85/100
+|-unboost|p1a: Wall Maria|spe|1
+|move|p1a: Wall Maria|Salt Cure|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|59/100
+|-start|p2a: Tornadus|Salt Cure
+|
+|-damage|p2a: Tornadus|46/100|[from] Salt Cure
+|upkeep
+|turn|28
+|
+|t:|1780894003
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|move|p1a: Wall Maria|Stealth Rock|p2a: Kingambit
+|-sidestart|p2: Spwert|move: Stealth Rock
+|
+|upkeep
+|turn|29
+|
+|t:|1780894005
+|move|p2a: Kingambit|Iron Head|p1a: Wall Maria
+|-supereffective|p1a: Wall Maria
+|-damage|p1a: Wall Maria|0 fnt
+|faint|p1a: Wall Maria
+|
+|upkeep
+|
+|t:|1780894010
+|switch|p1a: Scooby-doo Flash|Cinderace, F|100/100
+|-damage|p1a: Scooby-doo Flash|76/100|[from] Stealth Rock
+|turn|30
+|
+|t:|1780894014
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Scooby-doo Flash|Will-O-Wisp|p2a: Kingambit
+|-status|p2a: Kingambit|brn
+|
+|-damage|p2a: Kingambit|94/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1780894017
+|move|p1a: Scooby-doo Flash|Pyro Ball|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1780894019
+|switch|p2a: Dragapult|Dragapult, F|49/100
+|-damage|p2a: Dragapult|37/100|[from] Stealth Rock
+|turn|32
+|
+|t:|1780894027
+|move|p2a: Dragapult|Draco Meteor|p1a: Scooby-doo Flash
+|-damage|p1a: Scooby-doo Flash|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Scooby-doo Flash
+|
+|upkeep
+|
+|t:|1780894030
+|switch|p1a: Datphoria|Iron Valiant|78/100
+|-damage|p1a: Datphoria|72/100|[from] Stealth Rock
+|turn|33
+|
+|t:|1780894035
+|switch|p2a: Tornadus|Tornadus-Therian, M|80/100
+|-damage|p2a: Tornadus|55/100|[from] Stealth Rock
+|move|p1a: Datphoria|Moonblast|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|-damage|p1a: Datphoria|62/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1780894038
+|switch|p2a: Dragapult|Dragapult, F|37/100
+|-damage|p2a: Dragapult|25/100|[from] Stealth Rock
+|turn|34
+|
+|t:|1780894040
+|move|p2a: Dragapult|Flamethrower|p1a: Datphoria
+|-damage|p1a: Datphoria|0 fnt
+|faint|p1a: Datphoria
+|-end|p1a: Datphoria|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780894042
+|switch|p1a: Kowt your days|Kingambit, F|100/100
+|-damage|p1a: Kowt your days|94/100|[from] Stealth Rock
+|-activate|p1a: Kowt your days|ability: Supreme Overlord
+|-start|p1a: Kowt your days|fallen5|[silent]
+|turn|35
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pinkpriestess3)
+|
+|t:|1780894059
+|-terastallize|p1a: Kowt your days|Fire
+|move|p1a: Kowt your days|Sucker Punch|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|win|pinkpriestess3
+|raw|pinkpriestess3's rating: 1518 &rarr; <strong>1539</strong><br />(+21 for winning)
+|raw|Spwert's rating: 1533 &rarr; <strong>1512</strong><br />(-21 for losing)
+|l|☆Spwert
+|player|p2|
+|l|☆pinkpriestess3
+|player|p1|

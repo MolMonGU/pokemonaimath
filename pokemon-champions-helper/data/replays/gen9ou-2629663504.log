@@ -1,0 +1,406 @@
+|j|☆Jewgi_moto
+|j|☆Mysterious Soop
+|t:|1781161615
+|gametype|singles
+|player|p1|Jewgi_moto|170|1534
+|player|p2|Mysterious Soop|101|1669
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Moltres|
+|poke|p1|Zamazenta-*|
+|poke|p1|Cinderace, M|
+|poke|p1|Volcanion|
+|poke|p1|Dragonite, M|
+|poke|p2|Excadrill, F|
+|poke|p2|Tyranitar, F|
+|poke|p2|Hydrapple, M|
+|poke|p2|Gholdengo|
+|poke|p2|Alomomola, M|
+|poke|p2|Hatterene, F|
+|teampreview
+|
+|t:|1781161627
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|1
+|
+|t:|1781161634
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Hoopa|Trick|p2a: Alomomola
+|-activate|p1a: Hoopa|move: Trick|[of] p2a: Alomomola
+|-item|p2a: Alomomola|Choice Scarf|[from] move: Trick
+|-item|p1a: Hoopa|Rocky Helmet|[from] move: Trick
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hoopa|95/100|[from] Sandstorm
+|-damage|p2a: Alomomola|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1781161643
+|move|p1a: Hoopa|Thunderbolt|p2a: Alomomola
+|-supereffective|p2a: Alomomola
+|-crit|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hoopa|89/100|[from] Sandstorm
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jewgi_moto)
+|
+|t:|1781161670
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|3
+|
+|t:|1781161676
+|move|p1a: Hoopa|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|49/100
+|-enditem|p2a: Hatterene|Assault Vest|[from] move: Knock Off|[of] p1a: Hoopa
+|move|p2a: Hatterene|Draining Kiss|p1a: Hoopa
+|-supereffective|p1a: Hoopa
+|-damage|p1a: Hoopa|50/100
+|-heal|p2a: Hatterene|76/100|[from] drain|[of] p1a: Hoopa
+|-damage|p2a: Hatterene|59/100|[from] item: Rocky Helmet|[of] p1a: Hoopa
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hoopa|44/100|[from] Sandstorm
+|-damage|p2a: Hatterene|53/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1781161685
+|switch|p1a: Volcanion|Volcanion|100/100
+|move|p2a: Hatterene|Draining Kiss|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|93/100
+|-heal|p2a: Hatterene|60/100|[from] drain|[of] p1a: Volcanion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Volcanion|86/100|[from] Sandstorm
+|-damage|p2a: Hatterene|54/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1781161690
+|switch|p2a: Hydrapple|Hydrapple, M|100/100
+|move|p1a: Volcanion|Steam Eruption|p2a: Hydrapple
+|-resisted|p2a: Hydrapple
+|-crit|p2a: Hydrapple
+|-damage|p2a: Hydrapple|76/100
+|-status|p2a: Hydrapple|brn
+|
+|-weather|none
+|-damage|p2a: Hydrapple|69/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1781161706
+|switch|p1a: Hoopa|Hoopa-Unbound|44/100
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hoopa|38/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1781161712
+|move|p1a: Hoopa|Knock Off|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|81/100
+|-enditem|p2a: Tyranitar|Choice Band|[from] move: Knock Off|[of] p1a: Hoopa
+|move|p2a: Tyranitar|Knock Off|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|-damage|p2a: Tyranitar|65/100|[from] item: Rocky Helmet|[of] p1a: Hoopa
+|-enditem|p1a: Hoopa|Rocky Helmet|[from] move: Knock Off|[of] p2a: Tyranitar
+|faint|p1a: Hoopa
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781161718
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|turn|8
+|
+|t:|1781161724
+|move|p1a: Cinderace|U-turn|p2a: Tyranitar
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|9/100
+|
+|t:|1781161740
+|switch|p1a: Zamazenta|Zamazenta|100/100|[from] U-turn
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Tyranitar|Stone Edge|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|85/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zamazenta|79/100|[from] Sandstorm
+|-heal|p1a: Zamazenta|85/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781161757
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|60/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zamazenta|54/100|[from] Sandstorm
+|-heal|p1a: Zamazenta|60/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781161776
+|move|p2a: Gholdengo|Dazzling Gleam|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-end|p1a: Zamazenta|Substitute
+|move|p1a: Zamazenta|Crunch|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|54/100
+|
+|-weather|none
+|-heal|p1a: Zamazenta|66/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781161793
+|switch|p2a: Hatterene|Hatterene, F|54/100
+|switch|p1a: Volcanion|Volcanion|86/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781161799
+|move|p1a: Volcanion|Fire Blast|p2a: Hatterene
+|-damage|p2a: Hatterene|7/100
+|move|p2a: Hatterene|Nuzzle|p1a: Volcanion
+|-supereffective|p1a: Volcanion
+|-damage|p1a: Volcanion|80/100
+|-status|p1a: Volcanion|par
+|
+|upkeep
+|turn|13
+|
+|t:|1781161804
+|move|p2a: Hatterene|Psyshock|p1a: Volcanion
+|-damage|p1a: Volcanion|53/100 par
+|cant|p1a: Volcanion|par
+|
+|upkeep
+|turn|14
+|
+|t:|1781161808
+|move|p2a: Hatterene|Psyshock|p1a: Volcanion
+|-damage|p1a: Volcanion|27/100 par
+|cant|p1a: Volcanion|par
+|
+|upkeep
+|turn|15
+|
+|t:|1781161812
+|move|p2a: Hatterene|Psyshock|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|faint|p1a: Volcanion
+|
+|upkeep
+|
+|t:|1781161819
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|turn|16
+|inactive|Mysterious Soop has 120 seconds left.
+|
+|t:|1781161851
+|move|p1a: Cinderace|Pyro Ball|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|inactive|Mysterious Soop has 120 seconds left.
+|
+|t:|1781161860
+|switch|p2a: Hydrapple|Hydrapple, M|100/100 brn
+|turn|17
+|inactive|Mysterious Soop has 120 seconds left.
+|
+|t:|1781161871
+|move|p1a: Cinderace|Pyro Ball|p2a: Hydrapple
+|-damage|p2a: Hydrapple|60/100 brn
+|move|p2a: Hydrapple|Draco Meteor|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|-unboost|p2a: Hydrapple|spa|2
+|faint|p1a: Cinderace
+|
+|-damage|p2a: Hydrapple|54/100 brn|[from] brn
+|upkeep
+|
+|t:|1781161881
+|switch|p1a: Zamazenta|Zamazenta|66/100
+|turn|18
+|
+|t:|1781161894
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|41/100
+|move|p2a: Hydrapple|Draco Meteor|p1a: Zamazenta
+|-end|p1a: Zamazenta|Substitute
+|-unboost|p2a: Hydrapple|spa|2
+|
+|-heal|p1a: Zamazenta|48/100|[from] item: Leftovers
+|-damage|p2a: Hydrapple|48/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1781161903
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|23/100
+|move|p2a: Hydrapple|Draco Meteor|p1a: Zamazenta
+|-end|p1a: Zamazenta|Substitute
+|-unboost|p2a: Hydrapple|spa|2
+|
+|-heal|p1a: Zamazenta|29/100|[from] item: Leftovers
+|-damage|p2a: Hydrapple|41/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1781161916
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|4/100
+|move|p2a: Hydrapple|Draco Meteor|p1a: Zamazenta
+|-crit|p1a: Zamazenta
+|-end|p1a: Zamazenta|Substitute
+|
+|-heal|p1a: Zamazenta|10/100|[from] item: Leftovers
+|-damage|p2a: Hydrapple|35/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1781161922
+|move|p1a: Zamazenta|Body Press|p2a: Hydrapple
+|-damage|p2a: Hydrapple|9/100 brn
+|move|p2a: Hydrapple|Draco Meteor|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|-damage|p2a: Hydrapple|3/100 brn|[from] brn
+|upkeep
+|
+|t:|1781161927
+|switch|p1a: Moltres|Moltres|100/100
+|turn|22
+|
+|t:|1781161938
+|switch|p2a: Tyranitar|Tyranitar, F|9/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Moltres|Scorching Sands|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Moltres|94/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781161958
+|switch|p2a: Hydrapple|Hydrapple, M|36/100 brn
+|turn|23
+|
+|t:|1781161967
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|move|p1a: Moltres|Fire Blast|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Moltres|88/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781161973
+|switch|p2a: Hydrapple|Hydrapple, M|69/100 brn
+|turn|24
+|
+|t:|1781161979
+|move|p1a: Moltres|Fire Blast|p2a: Hydrapple
+|-damage|p2a: Hydrapple|20/100 brn
+|move|p2a: Hydrapple|Draco Meteor|p1a: Moltres
+|-damage|p1a: Moltres|17/100
+|-unboost|p2a: Hydrapple|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Moltres|11/100|[from] Sandstorm
+|-damage|p2a: Hydrapple|14/100 brn|[from] Sandstorm
+|-damage|p2a: Hydrapple|7/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1781161989
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|61/100
+|-singleturn|p1a: Moltres|move: Roost
+|move|p2a: Hydrapple|Draco Meteor|p1a: Moltres
+|-damage|p1a: Moltres|23/100
+|-unboost|p2a: Hydrapple|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Moltres|17/100|[from] Sandstorm
+|-damage|p2a: Hydrapple|1/100 brn|[from] Sandstorm
+|-damage|p2a: Hydrapple|0 fnt|[from] brn
+|faint|p2a: Hydrapple
+|upkeep
+|
+|t:|1781161992
+|switch|p2a: Gholdengo|Gholdengo|54/100
+|turn|26
+|
+|t:|1781161998
+|move|p2a: Gholdengo|Shadow Ball|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|-weather|none
+|upkeep
+|
+|t:|1781162000
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|27
+|
+|t:|1781162004
+|-terastallize|p2a: Gholdengo|Fairy
+|-terastallize|p1a: Dragonite|Normal
+|move|p2a: Gholdengo|Shadow Ball|p1a: Dragonite
+|-immune|p1a: Dragonite
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|28
+|-message|Mysterious Soop forfeited.
+|
+|win|Jewgi_moto
+|raw|Jewgi_moto's rating: 1534 &rarr; <strong>1561</strong><br />(+27 for winning)
+|raw|Mysterious Soop's rating: 1669 &rarr; <strong>1642</strong><br />(-27 for losing)
+|l|☆Mysterious Soop
+|player|p2|

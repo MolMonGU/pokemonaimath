@@ -1,0 +1,301 @@
+|j|☆KurisuChestnutOU
+|j|☆ChiefGreenLeaf3
+|t:|1781166380
+|gametype|singles
+|player|p1|KurisuChestnutOU|may-contest|1597
+|player|p2|ChiefGreenLeaf3|266|1653
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, M|
+|poke|p1|Kommo-o, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Crown|
+|poke|p2|Darkrai|
+|poke|p2|Iron Jugulis|
+|poke|p2|Hydreigon, M|
+|poke|p2|Moltres-Galar|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Meowscarada, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutOU)
+|inactive|ChiefGreenLeaf3 has 120 seconds left.
+|
+|t:|1781166435
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|switch|p2a: Darkrai|Darkrai|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|1
+|
+|t:|1781166438
+|move|p2a: Darkrai|Sludge Bomb|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781166443
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|turn|2
+|
+|t:|1781166454
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|
+|upkeep
+|turn|3
+|
+|t:|1781166461
+|move|p2a: Meowscarada|U-turn|p1a: Kyurem
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p1a: Kyurem|52/100
+|
+|t:|1781166464
+|switch|p2a: Darkrai|Darkrai|100/100|[from] U-turn
+|move|p1a: Kyurem|Icicle Spear|p2a: Darkrai
+|-damage|p2a: Darkrai|82/100
+|-damage|p2a: Darkrai|66/100
+|-damage|p2a: Darkrai|48/100
+|-damage|p2a: Darkrai|32/100
+|-damage|p2a: Darkrai|15/100
+|-hitcount|p2a: Darkrai|5
+|
+|upkeep
+|turn|4
+|
+|t:|1781166471
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|move|p2a: Darkrai|Trick|p1a: Kingambit
+|-activate|p2a: Darkrai|move: Trick|[of] p1a: Kingambit
+|-item|p1a: Kingambit|Choice Scarf|[from] move: Trick
+|-item|p2a: Darkrai|Leftovers|[from] move: Trick
+|
+|-heal|p2a: Darkrai|21/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781166476
+|move|p2a: Darkrai|Thunder Wave|p1a: Kingambit
+|-status|p1a: Kingambit|par
+|cant|p1a: Kingambit|par
+|
+|-heal|p2a: Darkrai|27/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781166497
+|move|p2a: Darkrai|Dark Pulse|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|78/100 par
+|move|p1a: Kingambit|Iron Head|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|upkeep
+|inactive|ChiefGreenLeaf3 has 120 seconds left.
+|
+|t:|1781166524
+|switch|p2a: Hydreigon|Hydreigon, M|100/100
+|turn|7
+|
+|t:|1781166531
+|move|p2a: Hydreigon|Scale Shot|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|75/100 par
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|71/100 par
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|68/100 par
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|64/100 par
+|-hitcount|p1a: Kingambit|4
+|-unboost|p2a: Hydreigon|def|1
+|-boost|p2a: Hydreigon|spe|1
+|-enditem|p2a: Hydreigon|White Herb
+|-clearnegativeboost|p2a: Hydreigon|[silent]
+|move|p1a: Kingambit|Iron Head|p2a: Hydreigon
+|-damage|p2a: Hydreigon|45/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781166539
+|move|p2a: Hydreigon|Dark Pulse|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|40/100 par
+|move|p1a: Kingambit|Iron Head|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|upkeep
+|inactive|ChiefGreenLeaf3 has 120 seconds left.
+|inactive|ChiefGreenLeaf3 has 90 seconds left.
+|
+|t:|1781166612
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|turn|9
+|
+|t:|1781166617
+|move|p2a: Grimmsnarl|Drain Punch|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen1|[silent]
+|
+|upkeep
+|
+|t:|1781166623
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|turn|10
+|
+|t:|1781166631
+|-terastallize|p1a: Kommo-o|Ghost
+|-terastallize|p2a: Grimmsnarl|Ghost
+|move|p2a: Grimmsnarl|Taunt|p1a: Kommo-o
+|-start|p1a: Kommo-o|move: Taunt
+|cant|p1a: Kommo-o|move: Taunt|Clangorous Soul
+|
+|upkeep
+|turn|11
+|
+|t:|1781166636
+|switch|p1a: Kyurem|Kyurem|52/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Grimmsnarl|Swagger|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|2
+|-start|p1a: Kyurem|confusion
+|-enditem|p2a: Grimmsnarl|Mirror Herb
+|-boost|p2a: Grimmsnarl|atk|2|[from] item: Mirror Herb
+|
+|upkeep
+|turn|12
+|
+|t:|1781166639
+|-activate|p1a: Kyurem|confusion
+|-damage|p1a: Kyurem|27/100|[from] confusion
+|move|p2a: Grimmsnarl|Drain Punch|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781166644
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|turn|13
+|
+|t:|1781166649
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|74/100
+|-damage|p2a: Grimmsnarl|47/100
+|-hitcount|p2a: Grimmsnarl|2
+|move|p2a: Grimmsnarl|Drain Punch|p1a: Iron Crown
+|-damage|p1a: Iron Crown|50/100
+|-heal|p2a: Grimmsnarl|69/100|[from] drain|[of] p1a: Iron Crown
+|
+|upkeep
+|turn|14
+|
+|t:|1781166656
+|move|p2a: Grimmsnarl|Sucker Punch|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781166663
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|15
+|
+|t:|1781166671
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Kommo-o|Kommo-o, M, tera:Ghost|100/100
+|move|p2a: Grimmsnarl|Drain Punch|p1a: Kommo-o
+|-immune|p1a: Kommo-o
+|
+|upkeep
+|turn|16
+|
+|t:|1781166675
+|move|p2a: Grimmsnarl|Taunt|p1a: Kommo-o
+|-start|p1a: Kommo-o|move: Taunt
+|move|p1a: Kommo-o|Shadow Claw|p2a: Grimmsnarl
+|-supereffective|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|3/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781166680
+|move|p2a: Grimmsnarl|Sucker Punch|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|upkeep
+|
+|t:|1781166689
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|turn|18
+|
+|t:|1781166693
+|move|p2a: Grimmsnarl|Sucker Punch|p1a: Iron Treads
+|-damage|p1a: Iron Treads|45/100
+|move|p1a: Iron Treads|Earthquake|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|faint|p2a: Grimmsnarl
+|
+|upkeep
+|
+|t:|1781166699
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|turn|19
+|
+|t:|1781166704
+|move|p2a: Meowscarada|Flower Trick|p1a: Iron Treads
+|-start|p2a: Meowscarada|typechange|Grass|[from] ability: Protean
+|-crit|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|win|ChiefGreenLeaf3
+|raw|KurisuChestnutOU's rating: 1594 &rarr; <strong>1577</strong><br />(-17 for losing)
+|raw|ChiefGreenLeaf3's rating: 1653 &rarr; <strong>1670</strong><br />(+17 for winning)
+|l|☆KurisuChestnutOU
+|player|p1|
+|c|☆ChiefGreenLeaf3|gg
+|l|☆ChiefGreenLeaf3
+|player|p2|

@@ -1,0 +1,274 @@
+|j|☆dnites
+|j|☆Croomz
+|t:|1781280934
+|gametype|singles
+|player|p1|dnites|1|1567
+|player|p2|Croomz|266|1569
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pincurchin, M|
+|poke|p1|Hawlucha, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Latias, F|
+|poke|p1|Raichu-Alola, M|
+|poke|p1|Iron Moth|
+|poke|p2|Araquanid, M|
+|poke|p2|Iron Treads|
+|poke|p2|Cinderace, F|
+|poke|p2|Kingambit, F|
+|poke|p2|Pecharunt|
+|poke|p2|Dragonite, M|
+|teampreview
+|
+|t:|1781280967
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pincurchin|Pincurchin, M|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|-activate|p2a: Iron Treads|ability: Quark Drive
+|-start|p2a: Iron Treads|quarkdriveatk
+|turn|1
+|
+|t:|1781280972
+|move|p2a: Iron Treads|Earthquake|p1a: Pincurchin
+|-supereffective|p1a: Pincurchin
+|-damage|p1a: Pincurchin|0 fnt
+|faint|p1a: Pincurchin
+|
+|upkeep
+|
+|t:|1781280979
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-activate|p1a: Iron Moth|ability: Quark Drive
+|-start|p1a: Iron Moth|quarkdrivespa
+|turn|2
+|
+|t:|1781280986
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Araquanid|Araquanid, M, shiny|100/100
+|move|p1a: Iron Moth|Fiery Dance|p2a: Araquanid
+|-damage|p2a: Araquanid|78/100
+|-boost|p1a: Iron Moth|spa|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781280989
+|move|p1a: Iron Moth|Discharge|p2a: Araquanid
+|-supereffective|p2a: Araquanid
+|-damage|p2a: Araquanid|0 fnt
+|faint|p2a: Araquanid
+|
+|upkeep
+|
+|t:|1781281002
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|turn|4
+|
+|t:|1781281006
+|move|p1a: Iron Moth|Discharge|p2a: Dragonite
+|-damage|p2a: Dragonite|59/100
+|move|p2a: Dragonite|Earthquake|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781281010
+|switch|p1a: Raichu|Raichu-Alola, M|100/100
+|turn|5
+|
+|t:|1781281015
+|-terastallize|p2a: Dragonite|Ground
+|move|p1a: Raichu|Volt Switch|p2a: Dragonite
+|-immune|p2a: Dragonite
+|move|p2a: Dragonite|Earthquake|p1a: Raichu
+|-supereffective|p1a: Raichu
+|-damage|p1a: Raichu|0 fnt
+|faint|p1a: Raichu
+|
+|upkeep
+|
+|t:|1781281023
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdriveatk
+|turn|6
+|
+|t:|1781281027
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|-item|p2a: Pecharunt|Air Balloon
+|move|p1a: Iron Valiant|Knock Off|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|12/100
+|-enditem|p2a: Pecharunt|Air Balloon
+|
+|upkeep
+|turn|7
+|
+|t:|1781281030
+|move|p1a: Iron Valiant|Knock Off|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|faint|p2a: Pecharunt
+|
+|upkeep
+|
+|t:|1781281037
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|8
+|
+|t:|1781281041
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Latias|Latias, F|100/100
+|-enditem|p1a: Latias|Electric Seed
+|-boost|p1a: Latias|def|1|[from] item: Electric Seed
+|move|p2a: Cinderace|Gunk Shot|p1a: Latias|[miss]
+|-miss|p2a: Cinderace|p1a: Latias
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|9
+|
+|t:|1781281050
+|move|p2a: Cinderace|Swords Dance|p2a: Cinderace
+|-boost|p2a: Cinderace|atk|2
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1781281056
+|-terastallize|p1a: Latias|Poison
+|move|p2a: Cinderace|Swords Dance|p2a: Cinderace
+|-boost|p2a: Cinderace|atk|2
+|move|p1a: Latias|Stored Power|p2a: Cinderace
+|-crit|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|upkeep
+|
+|t:|1781281071
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdriveatk
+|turn|11
+|
+|t:|1781281079
+|move|p2a: Iron Treads|Rapid Spin|p1a: Latias
+|-damage|p1a: Latias|89/100
+|-boost|p2a: Iron Treads|spe|1
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1781281084
+|move|p2a: Iron Treads|Iron Head|p1a: Latias
+|-damage|p1a: Latias|62/100
+|cant|p1a: Latias|flinch
+|
+|upkeep
+|turn|13
+|
+|t:|1781281087
+|move|p2a: Iron Treads|Iron Head|p1a: Latias
+|-damage|p1a: Latias|36/100
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|86/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781281089
+|move|p2a: Iron Treads|Iron Head|p1a: Latias
+|-damage|p1a: Latias|60/100
+|move|p1a: Latias|Stored Power|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|33/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781281091
+|move|p2a: Iron Treads|Iron Head|p1a: Latias
+|-damage|p1a: Latias|34/100
+|cant|p1a: Latias|flinch
+|
+|upkeep
+|turn|16
+|
+|t:|1781281094
+|move|p2a: Iron Treads|Iron Head|p1a: Latias
+|-damage|p1a: Latias|9/100
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|59/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781281096
+|move|p2a: Iron Treads|Iron Head|p1a: Latias
+|-damage|p1a: Latias|32/100
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|82/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781281098
+|move|p2a: Iron Treads|Iron Head|p1a: Latias
+|-crit|p1a: Latias
+|-damage|p1a: Latias|19/100
+|cant|p1a: Latias|flinch
+|
+|upkeep
+|turn|19
+|
+|t:|1781281101
+|move|p2a: Iron Treads|Iron Head|p1a: Latias
+|-damage|p1a: Latias|0 fnt
+|faint|p1a: Latias
+|
+|upkeep
+|
+|t:|1781281108
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|turn|20
+|
+|t:|1781281110
+|move|p2a: Iron Treads|Supercell Slam|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|upkeep
+|-message|dnites forfeited.
+|
+|win|Croomz
+|raw|dnites's rating: 1567 &rarr; <strong>1547</strong><br />(-20 for losing)
+|raw|Croomz's rating: 1569 &rarr; <strong>1589</strong><br />(+20 for winning)
+|l|☆dnites
+|player|p1|
+|l|☆Croomz
+|player|p2|

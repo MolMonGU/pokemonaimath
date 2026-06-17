@@ -1,0 +1,396 @@
+|badge|p1|bronze|gen9ubers|100-9
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆goodnightnite
+|j|☆electricdingdong
+|t:|1781010579
+|gametype|singles
+|player|p1|goodnightnite|miku-water|1571
+|player|p2|electricdingdong|pokekid|1536
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Kyurem|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Kingambit, M|
+|poke|p2|Iron Hands|
+|poke|p2|Iron Valiant|
+|poke|p2|Pincurchin, M|
+|poke|p2|Iron Moth|
+|poke|p2|Cresselia, F|
+|poke|p2|Hawlucha, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by goodnightnite)
+|
+|t:|1781010592
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|switch|p2a: Pincurchin|Pincurchin, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|turn|1
+|
+|t:|1781010600
+|move|p2a: Pincurchin|Supercell Slam|p1a: Slowking
+|-damage|p1a: Slowking|58/100
+|move|p1a: Slowking|Future Sight|p2a: Pincurchin
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p1a: Slowking|64/100|[from] item: Black Sludge
+|upkeep
+|turn|2
+|
+|t:|1781010611
+|move|p2a: Pincurchin|Supercell Slam|p1a: Slowking|[miss]
+|-miss|p2a: Pincurchin|p1a: Slowking
+|-damage|p2a: Pincurchin|50/100|[from] supercellslam
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781010619
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781010646
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|move|p1a: Kyurem|Blizzard|p2a: Cresselia
+|-damage|p2a: Cresselia|39/100
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Cresselia|move: Future Sight
+|-resisted|p2a: Cresselia
+|-damage|p2a: Cresselia|26/100
+|upkeep
+|turn|4
+|
+|t:|1781010655
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-activate|p2a: Iron Moth|ability: Quark Drive
+|-start|p2a: Iron Moth|quarkdrivespe
+|move|p1a: Kyurem|Blizzard|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-damage|p2a: Iron Moth|53/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781010664
+|switch|p1a: Slowking|Slowking-Galar, F|97/100
+|move|p2a: Iron Moth|Meteor Beam||[still]
+|-prepare|p2a: Iron Moth|Meteor Beam
+|-boost|p2a: Iron Moth|spa|1
+|-enditem|p2a: Iron Moth|Power Herb
+|-anim|p2a: Iron Moth|Meteor Beam|p1a: Slowking
+|-damage|p1a: Slowking|47/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Slowking|53/100|[from] item: Black Sludge
+|upkeep
+|turn|6
+|
+|t:|1781010671
+|move|p2a: Iron Moth|Fiery Dance|p1a: Slowking
+|-damage|p1a: Slowking|8/100
+|move|p1a: Slowking|Future Sight|p2a: Iron Moth
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|none
+|-heal|p1a: Slowking|14/100|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1781010677
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Tornadus
+|-damage|p1a: Tornadus|58/100
+|-boost|p2a: Iron Moth|spa|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781010683
+|-terastallize|p2a: Iron Moth|Grass
+|move|p2a: Iron Moth|Discharge|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-end|p2a: Iron Moth|move: Future Sight
+|-damage|p2a: Iron Moth|8/100
+|-fieldend|move: Electric Terrain
+|-end|p2a: Iron Moth|Quark Drive
+|upkeep
+|
+|t:|1781010688
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|turn|9
+|
+|t:|1781010694
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Pincurchin|Pincurchin, M|50/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Slowking|Slowking-Galar, F|47/100
+|
+|-heal|p1a: Slowking|53/100|[from] item: Black Sludge
+|upkeep
+|turn|10
+|
+|t:|1781010720
+|switch|p2a: Cresselia|Cresselia, F|26/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781010725
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781010730
+|move|p1a: Kyurem|Blizzard|p2a: Cresselia
+|-damage|p2a: Cresselia|0 fnt
+|faint|p2a: Cresselia
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|inactive|electricdingdong has 120 seconds left.
+|
+|t:|1781010758
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-activate|p2a: Iron Valiant|ability: Quark Drive
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|12
+|inactive|electricdingdong has 120 seconds left.
+|
+|t:|1781010765
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|move|p1a: Kyurem|Blizzard|p2a: Iron Valiant
+|-crit|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|inactive|electricdingdong has 120 seconds left.
+|c|☆electricdingdong|crit mattered
+|
+|t:|1781010781
+|switch|p2a: Iron Hands|Iron Hands|100/100
+|-activate|p2a: Iron Hands|ability: Quark Drive
+|-start|p2a: Iron Hands|quarkdriveatk
+|turn|13
+|c|☆goodnightnite|252 SpA Choice Specs Kyurem Blizzard (110 BP) vs. +1 0 HP / 4 SpD Iron Valiant: 271-319 (93.7 - 110.3%) -- 62.5% chance to OHKO
+|c|☆electricdingdong|not factering clam mind
+|c|☆goodnightnite|+1
+|c|☆electricdingdong|i live
+|
+|t:|1781010808
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Iron Hands|Drain Punch|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|89/100
+|-damage|p2a: Iron Hands|84/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|14
+|inactive|electricdingdong has 120 seconds left.
+|
+|t:|1781010818
+|move|p2a: Iron Hands|Thunder Punch|p1a: Hatterene
+|-damage|p1a: Hatterene|26/100
+|-damage|p2a: Iron Hands|67/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|move|p1a: Hatterene|Psychic Noise|p2a: Iron Hands
+|-supereffective|p2a: Iron Hands
+|-damage|p2a: Iron Hands|11/100
+|-start|p2a: Iron Hands|move: Heal Block
+|
+|-weather|none
+|upkeep
+|turn|15
+|
+|t:|1781010824
+|move|p2a: Iron Hands|Ice Punch|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-damage|p2a: Iron Hands|0 fnt|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|faint|p1a: Hatterene
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|
+|upkeep
+|c|☆goodnightnite|is it like hp invested
+|c|☆goodnightnite|val
+|
+|t:|1781010838
+|switch|p2a: Iron Moth|Iron Moth, tera:Grass|8/100
+|switch|p1a: Slowking|Slowking-Galar, F|87/100
+|-activate|p2a: Iron Moth|ability: Quark Drive
+|-start|p2a: Iron Moth|quarkdrivespe
+|turn|16
+|c|☆electricdingdong|doesnt need to be
+|
+|t:|1781010846
+|move|p2a: Iron Moth|Discharge|p1a: Slowking
+|-damage|p1a: Slowking|56/100
+|move|p1a: Slowking|Future Sight|p2a: Iron Moth
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p1a: Slowking|62/100|[from] item: Black Sludge
+|-fieldend|move: Electric Terrain
+|-end|p2a: Iron Moth|Quark Drive
+|upkeep
+|turn|17
+|
+|t:|1781010851
+|move|p2a: Iron Moth|Fiery Dance|p1a: Slowking
+|-damage|p1a: Slowking|28/100
+|-boost|p2a: Iron Moth|spa|1
+|move|p1a: Slowking|Sludge Bomb|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p1a: Slowking|34/100|[from] item: Black Sludge
+|upkeep
+|
+|t:|1781010857
+|switch|p2a: Pincurchin|Pincurchin, M|50/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|turn|18
+|
+|t:|1781010862
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Pincurchin|Memento|p1a: Kyurem
+|-unboost|p1a: Kyurem|atk|2
+|-unboost|p1a: Kyurem|spa|2
+|faint|p2a: Pincurchin
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|
+|t:|1781010864
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p2a: Hawlucha|Electric Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Electric Seed
+|turn|19
+|
+|t:|1781010870
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|move|p1a: Kyurem|Earth Power|p2a: Hawlucha
+|-immune|p2a: Hawlucha
+|
+|upkeep
+|turn|20
+|
+|t:|1781010877
+|switch|p1a: Slowking|Slowking-Galar, F|68/100
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|
+|-heal|p1a: Slowking|74/100|[from] item: Black Sludge
+|upkeep
+|turn|21
+|
+|t:|1781010885
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Hawlucha|Acrobatics|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-damage|p2a: Hawlucha|84/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781010891
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|22
+|
+|t:|1781010896
+|-end|p1a: Kingambit|fallen3|[silent]
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Hawlucha|Acrobatics|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781010903
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|23
+|
+|t:|1781010907
+|-end|p1a: Kingambit|fallen4|[silent]
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Hawlucha|Close Combat|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|72/100
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|
+|-heal|p1a: Slowking|78/100|[from] item: Black Sludge
+|upkeep
+|turn|24
+|
+|t:|1781010914
+|move|p2a: Hawlucha|Acrobatics|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1781010917
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|turn|25
+|
+|t:|1781010925
+|-terastallize|p1a: Kingambit|Ghost
+|move|p2a: Hawlucha|Acrobatics|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen5|[silent]
+|
+|win|electricdingdong
+|raw|goodnightnite's rating: 1571 &rarr; <strong>1549</strong><br />(-22 for losing)
+|raw|electricdingdong's rating: 1536 &rarr; <strong>1558</strong><br />(+22 for winning)
+|l|☆goodnightnite
+|player|p1|
+|l|☆electricdingdong
+|player|p2|

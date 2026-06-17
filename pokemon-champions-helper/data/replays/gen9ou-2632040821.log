@@ -1,0 +1,220 @@
+|j|☆smithwick1
+|j|☆myree
+|t:|1781469048
+|gametype|singles
+|player|p1|smithwick1|265|1629
+|player|p2|myree|benga|1596
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Dragapult, F|
+|poke|p1|Pecharunt|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Okidogi, M|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Hands|
+|poke|p2|Glimmora, F|
+|poke|p2|Wo-Chien|
+|poke|p2|Slither Wing|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by smithwick1)
+|
+|t:|1781469058
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: meethewoo|Wo-Chien|100/100
+|-ability|p2a: meethewoo|Tablets of Ruin
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781469061
+|move|p1a: Iron Treads|Knock Off|p2a: meethewoo
+|-resisted|p2a: meethewoo
+|-damage|p2a: meethewoo|90/100
+|-enditem|p2a: meethewoo|Leftovers|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: meethewoo|Ruination|p1a: Iron Treads
+|-damage|p1a: Iron Treads|51/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781469064
+|move|p1a: Iron Treads|Stealth Rock|p2a: meethewoo
+|-sidestart|p2: myree|move: Stealth Rock
+|move|p2a: meethewoo|Leech Seed|p1a: Iron Treads
+|-start|p1a: Iron Treads|move: Leech Seed
+|
+|-damage|p1a: Iron Treads|38/100|[from] Leech Seed|[of] p2a: meethewoo
+|-heal|p2a: meethewoo|99/100|[silent]
+|upkeep
+|turn|3
+|
+|t:|1781469072
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: meethewoo|Ruination|p1a: Pecharunt
+|-damage|p1a: Pecharunt|51/100
+|
+|-heal|p1a: Pecharunt|57/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781469084
+|switch|p1a: Iron Treads|Iron Treads|38/100
+|switch|p2a: MF ghoolm|Gholdengo|100/100
+|-damage|p2a: MF ghoolm|94/100|[from] Stealth Rock
+|-item|p2a: MF ghoolm|Air Balloon
+|
+|upkeep
+|turn|5
+|
+|t:|1781469089
+|move|p1a: Iron Treads|Knock Off|p2a: MF ghoolm
+|-supereffective|p2a: MF ghoolm
+|-crit|p2a: MF ghoolm
+|-damage|p2a: MF ghoolm|9/100
+|-enditem|p2a: MF ghoolm|Air Balloon
+|move|p2a: MF ghoolm|Shadow Ball|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781469093
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|6
+|
+|t:|1781469100
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: MF ghoolm|[anim] Ivy Cudgel Water
+|-damage|p2a: MF ghoolm|0 fnt
+|faint|p2a: MF ghoolm
+|
+|upkeep
+|
+|t:|1781469102
+|switch|p2a: st. jay g. saturn|Slither Wing|100/100
+|turn|7
+|
+|t:|1781469106
+|switch|p1a: Pecharunt|Pecharunt|57/100
+|move|p2a: st. jay g. saturn|First Impression|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-crit|p1a: Pecharunt
+|-damage|p1a: Pecharunt|46/100
+|
+|-heal|p1a: Pecharunt|52/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781469112
+|-end|p2a: st. jay g. saturn|Protosynthesis|[silent]
+|switch|p2a: chef pzn.|Okidogi, M|100/100
+|-damage|p2a: chef pzn.|94/100|[from] Stealth Rock
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|100/100
+|
+|-heal|p2a: chef pzn.|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781469122
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: chef pzn.|High Horsepower|p1a: Ogerpon
+|-resisted|p1a: Ogerpon
+|-damage|p1a: Ogerpon|83/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781469130
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: chef pzn.|Gunk Shot|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-damage|p1a: Pecharunt|93/100
+|
+|-heal|p1a: Pecharunt|99/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781469132
+|move|p1a: Pecharunt|Nasty Plot|p1a: Pecharunt
+|-boost|p1a: Pecharunt|spa|2
+|move|p2a: chef pzn.|High Horsepower|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|66/100
+|
+|-heal|p1a: Pecharunt|72/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781469137
+|move|p1a: Pecharunt|Shadow Ball|p2a: chef pzn.
+|-damage|p2a: chef pzn.|53/100
+|move|p2a: chef pzn.|High Horsepower|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|35/100
+|
+|-heal|p1a: Pecharunt|41/100|[from] item: Leftovers
+|-heal|p2a: chef pzn.|59/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781469142
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|-damage|p2a: Glimmora|88/100|[from] Stealth Rock
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|91/100
+|
+|-heal|p1a: Pecharunt|97/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781469147
+|move|p1a: Pecharunt|Shadow Ball|p2a: Glimmora
+|-damage|p2a: Glimmora|41/100
+|-unboost|p2a: Glimmora|spd|1
+|move|p2a: Glimmora|Earth Power|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|40/100
+|
+|-heal|p1a: Pecharunt|46/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781469154
+|switch|p2a: meethewoo|Wo-Chien|99/100
+|-damage|p2a: meethewoo|88/100|[from] Stealth Rock
+|-ability|p2a: meethewoo|Tablets of Ruin
+|move|p1a: Pecharunt|Shadow Ball|p2a: meethewoo
+|-resisted|p2a: meethewoo
+|-damage|p2a: meethewoo|74/100
+|
+|-heal|p1a: Pecharunt|52/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|-message|myree forfeited.
+|
+|win|smithwick1
+|raw|smithwick1's rating: 1629 &rarr; <strong>1647</strong><br />(+18 for winning)
+|raw|myree's rating: 1596 &rarr; <strong>1578</strong><br />(-18 for losing)
+|l|☆myree
+|player|p2|
+|l|☆smithwick1
+|player|p1|

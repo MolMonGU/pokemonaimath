@@ -1,0 +1,360 @@
+|j|☆adil
+|j|☆lolcano46
+|t:|1781579327
+|gametype|singles
+|player|p1|adil|2|1661
+|player|p2|lolcano46|fisherman-gen4|1675
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Heatran, M|
+|poke|p1|Iron Boulder|
+|poke|p1|Rillaboom, M|
+|poke|p1|Torkoal, M|
+|poke|p1|Walking Wake|
+|poke|p1|Dragonite, F|
+|poke|p2|Azelf|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Scizor, F|
+|poke|p2|Gengar, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Cinderace, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lolcano46)
+|
+|t:|1781579349
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|switch|p2a: Gengar|Gengar, M|100/100
+|turn|1
+|
+|t:|1781579364
+|move|p2a: Gengar|Trick|p1a: Dragonite
+|-activate|p2a: Gengar|move: Trick|[of] p1a: Dragonite
+|-item|p1a: Dragonite|Choice Scarf|[from] move: Trick
+|-item|p2a: Gengar|Loaded Dice|[from] move: Trick
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1781579375
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: Gengar|Trick|p1a: Heatran
+|-activate|p2a: Gengar|move: Trick|[of] p1a: Heatran
+|-item|p1a: Heatran|Loaded Dice|[from] move: Trick
+|-item|p2a: Gengar|Leftovers|[from] move: Trick
+|
+|upkeep
+|turn|3
+|
+|t:|1781579381
+|move|p2a: Gengar|Thunder Wave|p1a: Heatran
+|-status|p1a: Heatran|par
+|move|p1a: Heatran|Magma Storm|p2a: Gengar|[miss]
+|-miss|p1a: Heatran|p2a: Gengar
+|
+|upkeep
+|turn|4
+|
+|t:|1781579385
+|move|p2a: Gengar|Shadow Ball|p1a: Heatran
+|-damage|p1a: Heatran|74/100 par
+|cant|p1a: Heatran|par
+|
+|upkeep
+|turn|5
+|
+|t:|1781579390
+|move|p2a: Gengar|Shadow Ball|p1a: Heatran
+|-damage|p1a: Heatran|49/100 par
+|move|p1a: Heatran|Magma Storm|p2a: Gengar
+|-damage|p2a: Gengar|31/100
+|-activate|p2a: Gengar|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p2a: Gengar|38/100|[from] item: Leftovers
+|-damage|p2a: Gengar|25/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|6
+|
+|t:|1781579396
+|move|p1a: Heatran|Protect|p1a: Heatran
+|-singleturn|p1a: Heatran|Protect
+|move|p2a: Gengar|Shadow Ball|p1a: Heatran
+|-activate|p1a: Heatran|move: Protect
+|
+|-heal|p2a: Gengar|31/100|[from] item: Leftovers
+|-damage|p2a: Gengar|19/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|7
+|
+|t:|1781579406
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Heatran|Earth Power|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|49/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781579412
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|50/100
+|
+|-heal|p1a: Rillaboom|56/100|[from] Grassy Terrain
+|-heal|p2a: Raging Bolt|56/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781579416
+|move|p1a: Rillaboom|U-turn|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|21/100
+|
+|t:|1781579420
+|switch|p1a: Heatran|Heatran, M|49/100 par|[from] U-turn
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|30/100 par
+|
+|-heal|p2a: Raging Bolt|27/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|37/100 par|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1781579423
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-heal|p2a: Raging Bolt|33/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781579426
+|switch|p1a: Rillaboom|Rillaboom, M|56/100
+|turn|11
+|
+|t:|1781579434
+|move|p1a: Rillaboom|Knock Off|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-heal|p1a: Rillaboom|62/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781579438
+|switch|p2a: Scizor|Scizor, F|100/100
+|turn|12
+|
+|t:|1781579442
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781579447
+|move|p2a: Scizor|Knock Off|p1a: Torkoal
+|-damage|p1a: Torkoal|55/100
+|-enditem|p1a: Torkoal|Heat Rock|[from] move: Knock Off|[of] p2a: Scizor
+|move|p1a: Torkoal|Stealth Rock|p2a: Scizor
+|-sidestart|p2: lolcano46|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781579450
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|move|p1a: Torkoal|Lava Plume|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-damage|p2a: Cinderace|74/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|j| kanaete onegai
+|
+|t:|1781579453
+|move|p2a: Cinderace|Pyro Ball|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|30/100
+|move|p1a: Torkoal|Rapid Spin|p2a: Cinderace
+|-damage|p2a: Cinderace|62/100
+|-boost|p1a: Torkoal|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|j| brgg4r5t45r
+|
+|t:|1781579463
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-start|p2a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|move|p1a: Torkoal|Lava Plume|p2a: Cinderace
+|-damage|p2a: Cinderace|7/100
+|-status|p2a: Cinderace|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Cinderace|1/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781579472
+|move|p2a: Cinderace|Pyro Ball|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|22/100
+|move|p1a: Torkoal|Stealth Rock|p2a: Cinderace
+|-sidestart|p2: lolcano46|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Cinderace|0 fnt|[from] brn
+|faint|p2a: Cinderace
+|upkeep
+|
+|t:|1781579488
+|switch|p2a: Azelf|Azelf|100/100
+|-damage|p2a: Azelf|88/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781579501
+|move|p2a: Azelf|Thunderbolt|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781579513
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-damage|p1a: Walking Wake|88/100|[from] Stealth Rock
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|19
+|
+|t:|1781579529
+|switch|p2a: Gengar|Gengar, M|19/100
+|-damage|p2a: Gengar|7/100|[from] Stealth Rock
+|move|p1a: Walking Wake|Dragon Pulse|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|faint|p2a: Gengar
+|
+|-weather|none
+|-end|p1a: Walking Wake|Protosynthesis
+|upkeep
+|
+|t:|1781579534
+|switch|p2a: Azelf|Azelf|88/100
+|-damage|p2a: Azelf|76/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1781579537
+|-terastallize|p2a: Azelf|Fairy
+|move|p2a: Azelf|Dazzling Gleam|p1a: Walking Wake
+|-supereffective|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|upkeep
+|l| brgg4r5t45r
+|
+|t:|1781579545
+|switch|p1a: Rillaboom|Rillaboom, M|62/100
+|-damage|p1a: Rillaboom|50/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|21
+|
+|t:|1781579548
+|move|p1a: Rillaboom|Grassy Glide|p2a: Azelf
+|-damage|p2a: Azelf|0 fnt
+|faint|p2a: Azelf
+|
+|-heal|p1a: Rillaboom|56/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781579551
+|switch|p2a: Scizor|Scizor, F|100/100
+|-damage|p2a: Scizor|88/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781579554
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|-damage|p1a: Dragonite|76/100|[from] Stealth Rock
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|-heal|p2a: Scizor|94/100|[from] Grassy Terrain
+|upkeep
+|turn|23
+|
+|t:|1781579561
+|-terastallize|p1a: Dragonite|Fire
+|move|p2a: Scizor|Bullet Punch|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|36/100
+|move|p1a: Dragonite|Fire Punch|p2a: Scizor
+|-supereffective|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|-heal|p1a: Dragonite|42/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781579566
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|88/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781579568
+|move|p1a: Dragonite|Fire Punch|p2a: Ogerpon
+|-damage|p2a: Ogerpon|30/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Dragonite|[anim] Ivy Cudgel Water
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|-heal|p2a: Ogerpon|36/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781579571
+|switch|p1a: Iron Boulder|Iron Boulder|100/100
+|-damage|p1a: Iron Boulder|88/100|[from] Stealth Rock
+|-enditem|p1a: Iron Boulder|Booster Energy
+|-activate|p1a: Iron Boulder|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Boulder|quarkdrivespe
+|turn|25
+|-message|lolcano46 forfeited.
+|
+|win|adil
+|raw|adil's rating: 1661 &rarr; <strong>1682</strong><br />(+21 for winning)
+|raw|lolcano46's rating: 1675 &rarr; <strong>1654</strong><br />(-21 for losing)
+|l|☆lolcano46
+|player|p2|
+|l|☆adil
+|player|p1|

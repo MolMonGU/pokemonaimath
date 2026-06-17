@@ -1,0 +1,264 @@
+|j|☆8t88
+|j|☆KurisuChestnutOU
+|t:|1781174626
+|gametype|singles
+|player|p1|8t88|170|1475
+|player|p2|KurisuChestnutOU|may-contest|1564
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Araquanid, F|
+|poke|p1|Great Tusk|
+|poke|p1|Enamorus, F|
+|poke|p1|Glimmora, F|
+|poke|p1|Gholdengo|
+|poke|p1|Dragonite, M|
+|poke|p2|Hawlucha, F|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Gholdengo|
+|poke|p2|Kyurem|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|
+|t:|1781174631
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Araquanid|Araquanid, F, shiny|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutOU)
+|
+|t:|1781174639
+|move|p2a: Kyurem|Freeze-Dry|p1a: Araquanid
+|-supereffective|p1a: Araquanid
+|-damage|p1a: Araquanid|51/100
+|-enditem|p1a: Araquanid|Red Card|[of] p2a: Kyurem
+|drag|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Araquanid|Sticky Web|p2a: Rillaboom
+|-sidestart|p2: KurisuChestnutOU|move: Sticky Web
+|
+|-heal|p1a: Araquanid|57/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781174652
+|switch|p1a: Glimmora|Glimmora, F, shiny|100/100
+|move|p2a: Rillaboom|Wood Hammer|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: KurisuChestnutOU|move: Toxic Spikes
+|faint|p1a: Glimmora
+|-damage|p2a: Rillaboom|73/100|[from] Recoil
+|
+|-heal|p2a: Rillaboom|79/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781174677
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|turn|3
+|
+|t:|1781174684
+|move|p2a: Rillaboom|Grassy Glide|p1a: Enamorus
+|-resisted|p1a: Enamorus
+|-crit|p1a: Enamorus
+|-damage|p1a: Enamorus|56/100
+|move|p1a: Enamorus|Moonblast|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|upkeep
+|
+|t:|1781174688
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-activate|p2a: Gholdengo|move: Sticky Web
+|-unboost|p2a: Gholdengo|spe|1
+|turn|4
+|
+|t:|1781174703
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Gholdengo|Shadow Ball|p1a: Great Tusk
+|-damage|p1a: Great Tusk|38/100
+|
+|-heal|p1a: Great Tusk|44/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781174717
+|move|p1a: Great Tusk|Ice Spinner|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|79/100
+|-fieldend|move: Grassy Terrain
+|move|p2a: Gholdengo|Shadow Ball|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781174730
+|switch|p1a: Enamorus|Enamorus, F|56/100
+|turn|6
+|
+|t:|1781174734
+|move|p1a: Enamorus|Mystical Fire|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781174737
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|-activate|p2a: Samurott|move: Sticky Web
+|-unboost|p2a: Samurott|spe|1
+|-status|p2a: Samurott|psn
+|turn|7
+|
+|t:|1781174752
+|switch|p1a: Araquanid|Araquanid, F, shiny|57/100
+|move|p2a: Samurott|Ceaseless Edge|p1a: Araquanid
+|-damage|p1a: Araquanid|16/100
+|-sidestart|p1: 8t88|Spikes
+|
+|-damage|p2a: Samurott|88/100 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781174761
+|move|p2a: Samurott|Ceaseless Edge|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|-sidestart|p1: 8t88|Spikes
+|faint|p1a: Araquanid
+|
+|-damage|p2a: Samurott|76/100 psn|[from] psn
+|upkeep
+|
+|t:|1781174768
+|switch|p1a: Enamorus|Enamorus, F|56/100
+|turn|9
+|
+|t:|1781174774
+|-terastallize|p2a: Samurott|Poison
+|move|p1a: Enamorus|Moonblast|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|50/100 psn
+|-unboost|p2a: Samurott|spa|1
+|move|p2a: Samurott|Knock Off|p1a: Enamorus
+|-resisted|p1a: Enamorus
+|-damage|p1a: Enamorus|26/100
+|-enditem|p1a: Enamorus|Choice Specs|[from] move: Knock Off|[of] p2a: Samurott
+|
+|-damage|p2a: Samurott|37/100 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1781174786
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-boost|p1a: Enamorus|atk|1
+|move|p1a: Enamorus|Moonblast|p2a: Landorus
+|-damage|p2a: Landorus|50/100
+|-unboost|p2a: Landorus|spa|1
+|
+|upkeep
+|turn|11
+|
+|t:|1781174794
+|switch|p2a: Samurott|Samurott-Hisui, F, tera:Poison|37/100 psn
+|-activate|p2a: Samurott|move: Sticky Web
+|-unboost|p2a: Samurott|spe|1
+|-sideend|p2: KurisuChestnutOU|move: Toxic Spikes|[of] p2a: Samurott
+|move|p1a: Enamorus|Moonblast|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|22/100 psn
+|
+|-damage|p2a: Samurott|9/100 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1781174804
+|move|p2a: Samurott|Sucker Punch|p1a: Enamorus
+|-resisted|p1a: Enamorus
+|-damage|p1a: Enamorus|1/100
+|move|p1a: Enamorus|Moonblast|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|upkeep
+|
+|t:|1781174810
+|switch|p2a: Kyurem|Kyurem|100/100
+|-activate|p2a: Kyurem|move: Sticky Web
+|-unboost|p2a: Kyurem|spe|1
+|-ability|p2a: Kyurem|Pressure
+|turn|13
+|
+|t:|1781174815
+|switch|p2a: Landorus|Landorus-Therian, M|50/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-boost|p1a: Enamorus|atk|1
+|move|p1a: Enamorus|Moonblast|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1781174823
+|switch|p2a: Kyurem|Kyurem|100/100
+|-activate|p2a: Kyurem|move: Sticky Web
+|-unboost|p2a: Kyurem|spe|1
+|-ability|p2a: Kyurem|Pressure
+|turn|14
+|
+|t:|1781174826
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|move|p1a: Enamorus|Moonblast|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|upkeep
+|
+|t:|1781174832
+|switch|p2a: Kyurem|Kyurem|100/100
+|-activate|p2a: Kyurem|move: Sticky Web
+|-unboost|p2a: Kyurem|spe|1
+|-ability|p2a: Kyurem|Pressure
+|turn|15
+|
+|t:|1781174839
+|move|p1a: Enamorus|Moonblast|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|38/100
+|move|p2a: Kyurem|Focus Blast|p1a: Enamorus|[miss]
+|-miss|p2a: Kyurem|p1a: Enamorus
+|
+|upkeep
+|turn|16
+|
+|t:|1781174845
+|move|p1a: Enamorus|Moonblast|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|win|8t88
+|raw|8t88's rating: 1475 &rarr; <strong>1502</strong><br />(+27 for winning)
+|raw|KurisuChestnutOU's rating: 1596 &rarr; <strong>1569</strong><br />(-27 for losing)

@@ -1,0 +1,454 @@
+|j|‽LT_Alt1
+|j|☆Miurez
+|t:|1780894063
+|gametype|singles
+|player|p1|LT_Alt1|265|1664
+|player|p2|Miurez|pokemonranger-gen4|1758
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Garganacl, F|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Kyurem|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Moltres|
+|poke|p1|Iron Treads|
+|poke|p2|Iron Moth|
+|poke|p2|Gliscor, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Zamazenta-*|
+|teampreview
+|j| Easontom
+|
+|t:|1780894075
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|
+|t:|1780894085
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: Miurez|move: Light Screen
+|
+|upkeep
+|turn|2
+|
+|t:|1780894093
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|move|p1a: Weezing|Defog|p2a: Iron Moth
+|-unboost|p2a: Iron Moth|evasion|1
+|-sideend|p2: Miurez|move: Light Screen
+|
+|upkeep
+|turn|3
+|
+|t:|1780894104
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|move|p2a: Iron Moth|Whirlwind|p1a: Garganacl
+|drag|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|
+|upkeep
+|turn|4
+|
+|t:|1780894112
+|move|p2a: Iron Moth|Sludge Wave|p1a: Kyurem
+|-damage|p1a: Kyurem|57/100
+|-status|p1a: Kyurem|psn
+|move|p1a: Kyurem|Earth Power|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-damage|p1a: Kyurem|45/100 psn|[from] psn
+|upkeep
+|
+|t:|1780894129
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|turn|5
+|
+|t:|1780894134
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: Miurez|move: Light Screen
+|
+|upkeep
+|turn|6
+|
+|t:|1780894137
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Weezing|Defog|p2a: Hatterene
+|-unboost|p2a: Hatterene|evasion|1
+|-sideend|p2: Miurez|move: Light Screen
+|
+|upkeep
+|turn|7
+|
+|t:|1780894149
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|8
+|
+|t:|1780894166
+|move|p2a: Gliscor|Agility|p2a: Gliscor
+|-boost|p2a: Gliscor|spe|2
+|move|p1a: Slowking|Future Sight|p2a: Gliscor
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|9
+|
+|t:|1780894169
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1780894187
+|switch|p1a: Moltres|Moltres|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|j| Champion reko
+|
+|t:|1780894246
+|-terastallize|p2a: Gliscor|Normal
+|move|p2a: Gliscor|Facade|p1a: Moltres
+|-damage|p1a: Moltres|1/100
+|move|p1a: Moltres|Flamethrower|p2a: Gliscor
+|-damage|p2a: Gliscor|55/100 tox
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Gliscor|move: Future Sight
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|upkeep
+|
+|t:|1780894273
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|11
+|
+|t:|1780894280
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Moltres|Will-O-Wisp|p2a: Ogerpon
+|-status|p2a: Ogerpon|brn
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Ogerpon|95/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1780894285
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Moltres|U-turn|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|59/100 brn
+|
+|t:|1780894296
+|switch|p1a: Weezing|Weezing-Galar, F|100/100|[from] U-turn
+|-ability|p1a: Weezing|Neutralizing Gas
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Ogerpon|53/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1780894300
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Weezing|[anim] Ivy Cudgel Water
+|-damage|p1a: Weezing|32/100
+|move|p1a: Weezing|Strange Steam|p2a: Ogerpon
+|-damage|p2a: Ogerpon|19/100 brn
+|
+|-weather|none
+|-heal|p1a: Weezing|39/100|[from] item: Leftovers
+|-damage|p2a: Ogerpon|13/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1780894315
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Moltres|Moltres|1/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Moltres|[anim] Ivy Cudgel Water
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|-damage|p2a: Ogerpon|7/100 brn|[from] brn
+|upkeep
+|l| Easontom
+|
+|t:|1780894323
+|switch|p1a: Kyurem|Kyurem|45/100 psn
+|-ability|p1a: Kyurem|Pressure
+|turn|15
+|
+|t:|1780894338
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Kyurem|[anim] Ivy Cudgel Water
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|-damage|p2a: Ogerpon|1/100 brn|[from] brn
+|upkeep
+|
+|t:|1780894343
+|switch|p1a: Weezing|Weezing-Galar, F|39/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|turn|16
+|
+|t:|1780894346
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Weezing|[anim] Ivy Cudgel Water
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|
+|-damage|p2a: Ogerpon|0 fnt|[from] brn
+|faint|p2a: Ogerpon
+|upkeep
+|
+|t:|1780894357
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|turn|17
+|
+|t:|1780894361
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: Miurez|move: Light Screen
+|move|p1a: Slowking|Thunder Wave|p2a: Zamazenta
+|-status|p2a: Zamazenta|par
+|
+|upkeep
+|turn|18
+|
+|t:|1780894366
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: Miurez|Reflect
+|move|p1a: Slowking|Future Sight|p2a: Zamazenta
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|19
+|
+|t:|1780894370
+|move|p2a: Zamazenta|Ice Fang|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|74/100
+|move|p1a: Slowking|Sludge Bomb|p2a: Zamazenta
+|-damage|p2a: Zamazenta|86/100 par
+|
+|upkeep
+|turn|20
+|
+|t:|1780894395
+|move|p2a: Zamazenta|Ice Fang|p1a: Slowking
+|-damage|p1a: Slowking|55/100
+|move|p1a: Slowking|Sludge Bomb|p2a: Zamazenta
+|-damage|p2a: Zamazenta|74/100 par
+|
+|-end|p2a: Zamazenta|move: Future Sight
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|37/100 par
+|upkeep
+|turn|21
+|
+|t:|1780894401
+|move|p2a: Zamazenta|Ice Fang|p1a: Slowking
+|-damage|p1a: Slowking|36/100
+|-status|p1a: Slowking|frz
+|cant|p1a: Slowking|frz
+|
+|upkeep
+|turn|22
+|j| SV G0AT
+|
+|t:|1780894411
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|
+|upkeep
+|turn|23
+|
+|t:|1780894416
+|move|p1a: Garganacl|Salt Cure|p2a: Hatterene
+|-damage|p2a: Hatterene|95/100
+|-start|p2a: Hatterene|Salt Cure
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|-heal|p2a: Hatterene|100/100|[from] item: Leftovers
+|-damage|p2a: Hatterene|88/100|[from] Salt Cure
+|upkeep
+|turn|24
+|
+|t:|1780894420
+|switch|p1a: Slowking|Slowking-Galar, F|70/100 frz
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|-heal|p2a: Hatterene|94/100|[from] item: Leftovers
+|-damage|p2a: Hatterene|82/100|[from] Salt Cure
+|-sideend|p2: Miurez|move: Light Screen
+|upkeep
+|turn|25
+|
+|t:|1780894429
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|cant|p1a: Slowking|frz
+|
+|-heal|p2a: Hatterene|88/100|[from] item: Leftovers
+|-damage|p2a: Hatterene|76/100|[from] Salt Cure
+|-sideend|p2: Miurez|Reflect
+|upkeep
+|turn|26
+|
+|t:|1780894434
+|move|p2a: Hatterene|Stored Power|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-heal|p2a: Hatterene|82/100|[from] item: Leftovers
+|-damage|p2a: Hatterene|69/100|[from] Salt Cure
+|upkeep
+|
+|t:|1780894440
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|turn|27
+|
+|t:|1780894444
+|move|p1a: Garganacl|Salt Cure|p2a: Hatterene
+|-damage|p2a: Hatterene|57/100
+|move|p2a: Hatterene|Draining Kiss|p1a: Garganacl
+|-damage|p1a: Garganacl|57/100
+|-heal|p2a: Hatterene|99/100|[from] drain|[of] p1a: Garganacl
+|
+|-heal|p1a: Garganacl|63/100|[from] item: Leftovers
+|-heal|p2a: Hatterene|100/100|[from] item: Leftovers
+|-damage|p2a: Hatterene|88/100|[from] Salt Cure
+|upkeep
+|turn|28
+|
+|t:|1780894449
+|move|p1a: Garganacl|Salt Cure|p2a: Hatterene
+|-damage|p2a: Hatterene|77/100
+|move|p2a: Hatterene|Draining Kiss|p1a: Garganacl
+|-damage|p1a: Garganacl|20/100
+|-heal|p2a: Hatterene|100/100|[from] drain|[of] p1a: Garganacl
+|
+|-heal|p1a: Garganacl|26/100|[from] item: Leftovers
+|-damage|p2a: Hatterene|88/100|[from] Salt Cure
+|upkeep
+|turn|29
+|
+|t:|1780894452
+|move|p1a: Garganacl|Salt Cure|p2a: Hatterene
+|-damage|p2a: Hatterene|76/100
+|move|p2a: Hatterene|Mystical Fire|p1a: Garganacl
+|-resisted|p1a: Garganacl
+|-damage|p1a: Garganacl|6/100
+|-unboost|p1a: Garganacl|spa|1
+|
+|-heal|p1a: Garganacl|12/100|[from] item: Leftovers
+|-heal|p2a: Hatterene|82/100|[from] item: Leftovers
+|-damage|p2a: Hatterene|69/100|[from] Salt Cure
+|upkeep
+|turn|30
+|l| Champion reko
+|
+|t:|1780894457
+|move|p1a: Garganacl|Salt Cure|p2a: Hatterene
+|-damage|p2a: Hatterene|58/100
+|move|p2a: Hatterene|Draining Kiss|p1a: Garganacl
+|-crit|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|-heal|p2a: Hatterene|69/100|[from] drain|[of] p1a: Garganacl
+|faint|p1a: Garganacl
+|
+|-heal|p2a: Hatterene|75/100|[from] item: Leftovers
+|-damage|p2a: Hatterene|63/100|[from] Salt Cure
+|upkeep
+|
+|t:|1780894460
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|turn|31
+|
+|t:|1780894466
+|-terastallize|p1a: Iron Treads|Dark
+|move|p1a: Iron Treads|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|30/100
+|-enditem|p2a: Hatterene|Leftovers|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: Hatterene|Mystical Fire|p1a: Iron Treads
+|-damage|p1a: Iron Treads|29/100
+|-unboost|p1a: Iron Treads|spa|1
+|
+|-heal|p1a: Iron Treads|35/100|[from] item: Leftovers
+|-damage|p2a: Hatterene|18/100|[from] Salt Cure
+|upkeep
+|turn|32
+|
+|t:|1780894474
+|move|p1a: Iron Treads|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|-heal|p1a: Iron Treads|41/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780894476
+|switch|p2a: Zamazenta|Zamazenta|37/100 par
+|turn|33
+|
+|t:|1780894479
+|move|p1a: Iron Treads|Earthquake|p2a: Zamazenta
+|-damage|p2a: Zamazenta|9/100 par
+|move|p2a: Zamazenta|Close Combat|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|win|Miurez
+|raw|LT_Alt1's rating: 1664 &rarr; <strong>1649</strong><br />(-15 for losing)
+|raw|Miurez's rating: 1758 &rarr; <strong>1773</strong><br />(+15 for winning)
+|l|‽LT_Alt1
+|player|p1|
+|j| kanaete onegai
+|l|☆Miurez
+|player|p2|

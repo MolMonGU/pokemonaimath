@@ -1,0 +1,310 @@
+|j|☆LowEL0God
+|j|☆employment devil
+|t:|1781316462
+|gametype|singles
+|player|p1|LowEL0God|265|1654
+|player|p2|employment devil|lusamine-nihilego|1747
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, F|
+|poke|p1|Barraskewda, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Wo-Chien|
+|poke|p2|Zapdos|
+|poke|p2|Cinderace, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Iron Treads|
+|teampreview
+|c|☆LowEL0God|hf
+|c|☆employment devil|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781316472
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|1
+|
+|t:|1781316474
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Zapdos|U-turn|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|88/100
+|
+|t:|1781316482
+|switch|p2a: Iron Treads|Iron Treads|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781316487
+|move|p2a: Iron Treads|Earthquake|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|9/100
+|move|p1a: Raging Bolt|Weather Ball|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781316497
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|3
+|
+|t:|1781316504
+|move|p1a: Raging Bolt|Thunderclap|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|57/100
+|move|p2a: Dragapult|Dragon Darts|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Dragapult|63/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781316507
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|turn|4
+|
+|t:|1781316511
+|switch|p2a: Wo-Chien|Wo-Chien|100/100
+|-ability|p2a: Wo-Chien|Tablets of Ruin
+|move|p1a: Barraskewda|Liquidation|p2a: Wo-Chien
+|-resisted|p2a: Wo-Chien
+|-damage|p2a: Wo-Chien|73/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Wo-Chien|79/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781316517
+|move|p1a: Barraskewda|Liquidation|p2a: Wo-Chien
+|-resisted|p2a: Wo-Chien
+|-damage|p2a: Wo-Chien|53/100
+|-unboost|p2a: Wo-Chien|def|1
+|move|p2a: Wo-Chien|Leech Seed|p1a: Barraskewda|[miss]
+|-miss|p2a: Wo-Chien|p1a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Wo-Chien|59/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781316527
+|move|p1a: Barraskewda|Liquidation|p2a: Wo-Chien
+|-resisted|p2a: Wo-Chien
+|-damage|p2a: Wo-Chien|19/100
+|move|p2a: Wo-Chien|Leech Seed|p1a: Barraskewda
+|-start|p1a: Barraskewda|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Wo-Chien|25/100|[from] item: Leftovers
+|-damage|p1a: Barraskewda|88/100|[from] Leech Seed|[of] p2a: Wo-Chien
+|-heal|p2a: Wo-Chien|34/100|[silent]
+|upkeep
+|turn|7
+|
+|t:|1781316536
+|move|p1a: Barraskewda|Liquidation|p2a: Wo-Chien
+|-resisted|p2a: Wo-Chien
+|-damage|p2a: Wo-Chien|0 fnt
+|faint|p2a: Wo-Chien
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781316547
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|8
+|
+|t:|1781316551
+|move|p1a: Barraskewda|Liquidation|p2a: Zapdos
+|-damage|p2a: Zapdos|22/100
+|-damage|p1a: Barraskewda|71/100|[from] item: Rocky Helmet|[of] p2a: Zapdos
+|move|p2a: Zapdos|Hurricane|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-weather|none
+|upkeep
+|
+|t:|1781316553
+|switch|p1a: Overqwil|Overqwil, F|100/100
+|turn|9
+|
+|t:|1781316560
+|move|p1a: Overqwil|Gunk Shot|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|-damage|p1a: Overqwil|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781316568
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|10
+|
+|t:|1781316573
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Zamazenta|Body Press|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|82/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781316583
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|move|p1a: Pelipper|Hurricane|p2a: Cinderace
+|-damage|p2a: Cinderace|47/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781316591
+|move|p2a: Cinderace|Pyro Ball|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|70/100
+|move|p1a: Pelipper|Hurricane|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781316594
+|switch|p2a: Dragapult|Dragapult, F|63/100
+|turn|13
+|
+|t:|1781316597
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Pelipper
+|-status|p1a: Pelipper|brn
+|move|p1a: Pelipper|Hurricane|p2a: Dragapult
+|-damage|p2a: Dragapult|10/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Dragapult|16/100|[from] item: Leftovers
+|-damage|p1a: Pelipper|64/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781316600
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|move|p2a: Dragapult|Hex|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|87/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Dragapult|22/100|[from] item: Leftovers
+|-heal|p1a: Kingambit|94/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781316604
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kingambit|99/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781316608
+|-terastallize|p1a: Kingambit|Dark
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p1a: Kingambit|Iron Head|p2a: Zamazenta
+|-damage|p2a: Zamazenta|52/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zamazenta|58/100|[from] item: Leftovers
+|-heal|p1a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781316612
+|move|p1a: Kingambit|Sucker Punch|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|30/100
+|move|p2a: Zamazenta|Body Press|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen2|[silent]
+|
+|-weather|none
+|-heal|p2a: Zamazenta|36/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781316614
+|switch|p1a: Pelipper|Pelipper, F|64/100 brn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|18
+|
+|t:|1781316626
+|-terastallize|p2a: Zamazenta|Steel
+|move|p2a: Zamazenta|Body Press|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|37/100 brn
+|move|p1a: Pelipper|Weather Ball|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Pelipper|31/100 brn|[from] brn
+|upkeep
+|
+|t:|1781316631
+|switch|p2a: Dragapult|Dragapult, F|22/100
+|turn|19
+|
+|t:|1781316636
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Pelipper
+|-fail|p1a: Pelipper|brn
+|move|p1a: Pelipper|Hurricane|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|win|LowEL0God
+|raw|LowEL0God's rating: 1654 &rarr; <strong>1679</strong><br />(+25 for winning)
+|raw|employment devil's rating: 1747 &rarr; <strong>1722</strong><br />(-25 for losing)
+|l|☆employment devil
+|player|p2|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p1|

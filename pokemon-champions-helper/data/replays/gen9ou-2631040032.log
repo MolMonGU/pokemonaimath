@@ -1,0 +1,291 @@
+|j|☆drqco
+|j|☆jd2sleepy
+|t:|1781329542
+|gametype|singles
+|player|p1|drqco|volkner|1543
+|player|p2|jd2sleepy|brock|1468
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Raging Bolt|
+|poke|p1|Ribombee, M|
+|poke|p1|Gholdengo|
+|poke|p1|Great Tusk|
+|poke|p1|Ogerpon-Cornerstone, F|
+|poke|p1|Ceruledge, F|
+|poke|p2|Toxicroak, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Floatzel, M|
+|poke|p2|Iron Treads|
+|poke|p2|Hatterene, F|
+|poke|p2|Volcanion|
+|teampreview
+|
+|t:|1781329657
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ragnorok|Raging Bolt|100/100
+|switch|p2a: Drizzy|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Drizzy
+|-enditem|p1a: Ragnorok|Booster Energy
+|-activate|p1a: Ragnorok|ability: Protosynthesis|[fromitem]
+|-start|p1a: Ragnorok|protosynthesisspa
+|turn|1
+|
+|t:|1781329664
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Ragnorok|Calm Mind|p1a: Ragnorok
+|-boost|p1a: Ragnorok|spa|1
+|-boost|p1a: Ragnorok|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781329668
+|-terastallize|p1a: Ragnorok|Flying
+|move|p2a: Iron Treads|Stealth Rock|p1a: Ragnorok
+|-sidestart|p1: drqco|move: Stealth Rock
+|move|p1a: Ragnorok|Dragon Pulse|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|63/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Iron Treads|69/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781329678
+|move|p2a: Iron Treads|Knock Off|p1a: Ragnorok
+|-damage|p1a: Ragnorok|85/100
+|move|p1a: Ragnorok|Dragon Pulse|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|28/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Iron Treads|34/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781329687
+|move|p2a: Iron Treads|Knock Off|p1a: Ragnorok
+|-damage|p1a: Ragnorok|71/100
+|move|p1a: Ragnorok|Dragon Pulse|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781329688
+|switch|p2a: Crash Out|Floatzel, M|100/100
+|turn|5
+|
+|t:|1781329702
+|move|p2a: Crash Out|Aqua Jet|p1a: Ragnorok
+|-damage|p1a: Ragnorok|36/100
+|move|p1a: Ragnorok|Thunderclap||[still]
+|-fail|p1a: Ragnorok
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781329706
+|move|p2a: Crash Out|Flip Turn|p1a: Ragnorok
+|-damage|p1a: Ragnorok|0 fnt
+|faint|p1a: Ragnorok
+|-end|p1a: Ragnorok|Protosynthesis|[silent]
+|
+|t:|1781329710
+|switch|p2a: Drizzy|Pelipper, M|100/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781329716
+|switch|p1a: Thwomp|Ogerpon-Cornerstone, F|100/100
+|-damage|p1a: Thwomp|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1781329725
+|switch|p2a: Toxicroak|Toxicroak, F|100/100
+|move|p1a: Thwomp|Ivy Cudgel|p2a: Toxicroak|[anim] Ivy Cudgel Rock
+|-resisted|p2a: Toxicroak
+|-damage|p2a: Toxicroak|70/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxicroak|82/100|[from] ability: Dry Skin
+|upkeep
+|turn|8
+|
+|t:|1781329739
+|switch|p1a: Luinor|Great Tusk, shiny|100/100
+|-damage|p1a: Luinor|98/100|[from] Stealth Rock
+|-enditem|p1a: Luinor|Booster Energy
+|-activate|p1a: Luinor|ability: Protosynthesis|[fromitem]
+|-start|p1a: Luinor|protosynthesisatk
+|switch|p2a: Crash Out|Floatzel, M|100/100
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781329750
+|move|p2a: Crash Out|Flip Turn|p1a: Luinor
+|-supereffective|p1a: Luinor
+|-damage|p1a: Luinor|47/100
+|
+|t:|1781329753
+|switch|p2a: Hatterene|Hatterene, F|100/100|[from] Flip Turn
+|move|p1a: Luinor|Close Combat|p2a: Hatterene
+|-resisted|p2a: Hatterene
+|-damage|p2a: Hatterene|82/100
+|-unboost|p1a: Luinor|def|1
+|-unboost|p1a: Luinor|spd|1
+|-enditem|p2a: Hatterene|Eject Button
+|
+|t:|1781329755
+|switch|p2a: Crash Out|Floatzel, M|100/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781329761
+|move|p2a: Crash Out|Flip Turn|p1a: Luinor
+|-supereffective|p1a: Luinor
+|-damage|p1a: Luinor|0 fnt
+|faint|p1a: Luinor
+|-end|p1a: Luinor|Protosynthesis|[silent]
+|
+|t:|1781329778
+|switch|p2a: Drizzy|Pelipper, M|100/100|[from] Flip Turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Drizzy
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781329784
+|switch|p1a: Thwomp|Ogerpon-Cornerstone, F|88/100
+|-damage|p1a: Thwomp|76/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1781329797
+|switch|p1a: Excalibur|Ceruledge, F, shiny|100/100
+|switch|p2a: Toxicroak|Toxicroak, F|82/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxicroak|95/100|[from] ability: Dry Skin
+|upkeep
+|turn|12
+|
+|t:|1781329805
+|move|p2a: Toxicroak|Knock Off|p1a: Excalibur
+|-supereffective|p1a: Excalibur
+|-damage|p1a: Excalibur|47/100
+|-ability|p1a: Excalibur|Weak Armor|boost
+|-unboost|p1a: Excalibur|def|1
+|-boost|p1a: Excalibur|spe|2
+|-enditem|p1a: Excalibur|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Toxicroak
+|move|p1a: Excalibur|Poltergeist|p2a: Toxicroak
+|-activate|p2a: Toxicroak|move: Poltergeist|Rocky Helmet
+|-damage|p2a: Toxicroak|39/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxicroak|51/100|[from] ability: Dry Skin
+|upkeep
+|turn|13
+|
+|t:|1781329811
+|switch|p2a: Hatterene|Hatterene, F|82/100
+|move|p1a: Excalibur|Poltergeist||[still]
+|-fail|p1a: Excalibur
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781329822
+|move|p1a: Excalibur|Swords Dance|p1a: Excalibur
+|-boost|p1a: Excalibur|atk|2
+|move|p2a: Hatterene|Healing Wish|p2a: Hatterene
+|faint|p2a: Hatterene
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781329826
+|switch|p2a: Crash Out|Floatzel, M|100/100
+|turn|15
+|
+|t:|1781329832
+|move|p2a: Crash Out|Aqua Jet|p1a: Excalibur
+|-supereffective|p1a: Excalibur
+|-damage|p1a: Excalibur|0 fnt
+|faint|p1a: Excalibur
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781329836
+|switch|p1a: Madame Web|Ribombee, M, shiny|100/100
+|-damage|p1a: Madame Web|76/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781329840
+|move|p2a: Crash Out|Wave Crash|p1a: Madame Web
+|-damage|p1a: Madame Web|0 fnt
+|faint|p1a: Madame Web
+|-damage|p2a: Crash Out|80/100|[from] Recoil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781329848
+|switch|p1a: Thwomp|Ogerpon-Cornerstone, F|76/100
+|-damage|p1a: Thwomp|64/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1781329852
+|move|p2a: Crash Out|Flip Turn|p1a: Thwomp
+|-damage|p1a: Thwomp|0 fnt
+|faint|p1a: Thwomp
+|
+|t:|1781329854
+|switch|p2a: Volcanion|Volcanion|100/100|[from] Flip Turn
+|
+|-weather|none
+|upkeep
+|
+|t:|1781329857
+|switch|p1a: Cheese Stick|Gholdengo, shiny|100/100
+|-damage|p1a: Cheese Stick|94/100|[from] Stealth Rock
+|-item|p1a: Cheese Stick|Air Balloon
+|turn|18
+|
+|t:|1781329861
+|-terastallize|p2a: Volcanion|Water
+|move|p1a: Cheese Stick|Nasty Plot|p1a: Cheese Stick
+|-boost|p1a: Cheese Stick|spa|2
+|move|p2a: Volcanion|Scald|p1a: Cheese Stick
+|-damage|p1a: Cheese Stick|0 fnt
+|-enditem|p1a: Cheese Stick|Air Balloon
+|faint|p1a: Cheese Stick
+|
+|win|jd2sleepy
+|raw|drqco's rating: 1543 &rarr; <strong>1520</strong><br />(-23 for losing)
+|raw|jd2sleepy's rating: 1485 &rarr; <strong>1508</strong><br />(+23 for winning)
+|l|☆drqco
+|player|p1|

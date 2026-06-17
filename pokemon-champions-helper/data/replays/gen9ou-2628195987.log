@@ -1,0 +1,341 @@
+|j|☆OUZQ Crocodile
+|j|‽lt_alt1
+|t:|1780990158
+|gametype|singles
+|player|p1|OUZQ Crocodile|101|1692
+|player|p2|lt_alt1|170|1714
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cresselia, F|
+|poke|p1|Zamazenta-*|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Glimmora, M|
+|poke|p2|Darkrai|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Treads|
+|poke|p2|Raging Bolt|
+|poke|p2|Gliscor, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by OUZQ Crocodile)
+|
+|t:|1780990183
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|turn|1
+|
+|t:|1780990199
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: OUZQ Crocodile|move: Light Screen
+|move|p2a: Slowking|Thunder Wave|p1a: Grimmsnarl
+|-status|p1a: Grimmsnarl|par
+|
+|upkeep
+|turn|2
+|
+|t:|1780990206
+|move|p1a: Grimmsnarl|Parting Shot|p2a: Slowking
+|-unboost|p2a: Slowking|atk|1
+|-unboost|p2a: Slowking|spa|1
+|
+|t:|1780990209
+|switch|p1a: Glimmora|Glimmora, M|100/100|[from] Parting Shot
+|move|p2a: Slowking|Future Sight|p1a: Glimmora
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|3
+|
+|t:|1780990214
+|move|p1a: Glimmora|Stealth Rock|p2a: Slowking
+|-sidestart|p2: lt_alt1|move: Stealth Rock
+|move|p2a: Slowking|Thunder Wave|p1a: Glimmora
+|-status|p1a: Glimmora|par
+|
+|upkeep
+|turn|4
+|
+|t:|1780990221
+|move|p1a: Glimmora|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|60/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1780990224
+|switch|p2a: Gliscor|Gliscor, M|100/100|[from] Chilly Reception
+|-damage|p2a: Gliscor|88/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Glimmora|move: Future Sight
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|44/100 par
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|5
+|
+|t:|1780990234
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Gliscor|Spikes|p1a: Ogerpon
+|-sidestart|p1: OUZQ Crocodile|Spikes
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|6
+|
+|t:|1780990241
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Gliscor|Toxic|p1a: Ogerpon
+|-status|p1a: Ogerpon|tox
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Ogerpon|95/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1780990256
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Gliscor|[anim] Ivy Cudgel Water
+|-activate|p2a: Gliscor|move: Protect
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Ogerpon|83/100 tox|[from] psn
+|upkeep
+|turn|8
+|inactive|lt_alt1 has 120 seconds left.
+|
+|t:|1780990283
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|move|p1a: Ogerpon|Play Rough|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|none
+|-damage|p1a: Ogerpon|65/100 tox|[from] psn
+|-sideend|p1: OUZQ Crocodile|move: Light Screen
+|upkeep
+|inactive|lt_alt1 has 120 seconds left.
+|
+|t:|1780990292
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|turn|9
+|
+|t:|1780990301
+|-terastallize|p2a: Iron Treads|Grass
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Iron Treads|[anim] Ivy Cudgel Water
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|53/100
+|move|p2a: Iron Treads|Rapid Spin|p1a: Ogerpon
+|-damage|p1a: Ogerpon|48/100 tox
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: lt_alt1|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|
+|-damage|p1a: Ogerpon|24/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1780990309
+|move|p2a: Iron Treads|Ice Spinner|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1780990321
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|turn|11
+|
+|t:|1780990327
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Gliscor|Gliscor, M|100/100 tox
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1780990339
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-terastallize|p1a: Cresselia|Poison
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|13
+|j| hattybatty304
+|
+|t:|1780990354
+|switch|p1a: Glimmora|Glimmora, M|44/100 par
+|-damage|p1a: Glimmora|32/100 par|[from] Spikes
+|move|p2a: Gholdengo|Trick|p1a: Glimmora
+|-activate|p2a: Gholdengo|move: Trick|[of] p1a: Glimmora
+|-item|p1a: Glimmora|Choice Scarf|[from] move: Trick
+|-item|p2a: Gholdengo|Power Herb|[from] move: Trick
+|
+|upkeep
+|turn|14
+|
+|t:|1780990361
+|move|p2a: Gholdengo|Shadow Ball|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|
+|upkeep
+|j| lakob
+|
+|t:|1780990373
+|switch|p1a: Cresselia|Cresselia, F, tera:Poison|100/100
+|turn|15
+|
+|t:|1780990376
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1780990389
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100 par
+|-damage|p1a: Grimmsnarl|88/100 par|[from] Spikes
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|
+|upkeep
+|turn|17
+|
+|t:|1780990396
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: OUZQ Crocodile|move: Light Screen
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|
+|upkeep
+|turn|18
+|
+|t:|1780990402
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: OUZQ Crocodile|Reflect
+|move|p2a: Gholdengo|Trick|p1a: Grimmsnarl
+|-activate|p2a: Gholdengo|move: Trick|[of] p1a: Grimmsnarl
+|-item|p1a: Grimmsnarl|Power Herb|[from] move: Trick
+|-item|p2a: Gholdengo|Light Clay|[from] move: Trick
+|
+|upkeep
+|turn|19
+|
+|t:|1780990409
+|move|p1a: Grimmsnarl|Taunt|p2a: Gholdengo
+|-immune|p2a: Gholdengo|[from] ability: Good as Gold
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|0
+|
+|upkeep
+|turn|20
+|j| ILoveGardevoirRah
+|
+|t:|1780990414
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-damage|p1a: Raging Bolt|88/100|[from] Spikes
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Gholdengo|Shadow Ball|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|5/100
+|
+|upkeep
+|turn|21
+|l| ILoveGardevoirRah
+|inactive|lt_alt1 has 120 seconds left.
+|
+|t:|1780990459
+|switch|p2a: Gliscor|Gliscor, M|100/100 tox
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|
+|upkeep
+|turn|22
+|inactive|OUZQ Crocodile has 120 seconds left.
+|
+|t:|1780990492
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Gliscor|[miss]
+|-miss|p1a: Raging Bolt|p2a: Gliscor
+|move|p2a: Gliscor|Knock Off|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780990496
+|switch|p1a: Cresselia|Cresselia, F, tera:Poison|100/100
+|turn|23
+|
+|t:|1780990498
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|24
+|
+|t:|1780990505
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-damage|p1a: Zamazenta|88/100|[from] Spikes
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|
+|-heal|p1a: Zamazenta|94/100|[from] item: Leftovers
+|-sideend|p1: OUZQ Crocodile|move: Light Screen
+|upkeep
+|turn|25
+|
+|t:|1780990517
+|move|p1a: Zamazenta|Crunch|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|55/100
+|move|p2a: Gholdengo|Make It Rain|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|-unboost|p2a: Gholdengo|spa|1
+|faint|p1a: Zamazenta
+|
+|-sideend|p1: OUZQ Crocodile|Reflect
+|upkeep
+|-message|OUZQ Crocodile forfeited.
+|
+|win|lt_alt1
+|raw|OUZQ Crocodile's rating: 1692 &rarr; <strong>1673</strong><br />(-19 for losing)
+|raw|lt_alt1's rating: 1714 &rarr; <strong>1733</strong><br />(+19 for winning)
+|l|☆OUZQ Crocodile
+|player|p1|
+|l| hattybatty304
+|l| lakob

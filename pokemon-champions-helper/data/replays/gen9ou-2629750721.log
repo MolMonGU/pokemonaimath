@@ -1,0 +1,200 @@
+|j|☆LoseToRU?
+|j|☆zxrkawa
+|t:|1781175223
+|gametype|singles
+|player|p1|LoseToRU?|giovanni-gen1|1593
+|player|p2|zxrkawa|elesa|1539
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Jugulis|
+|poke|p1|Moltres-Galar|
+|poke|p1|Darkrai|
+|poke|p1|Hydreigon, M|
+|poke|p1|Weavile, F|
+|poke|p1|Zarude-Dada|
+|poke|p2|Meowscarada, M|
+|poke|p2|Pecharunt|
+|poke|p2|Enamorus, F|
+|poke|p2|Iron Treads|
+|poke|p2|Skarmory, F|
+|poke|p2|Slowking, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by zxrkawa)
+|
+|t:|1781175241
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|1
+|
+|t:|1781175249
+|switch|p2a: Slowking|Slowking, M|100/100
+|move|p1a: Iron Jugulis|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|76/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781175254
+|move|p1a: Iron Jugulis|Taunt|p2a: Slowking
+|-start|p2a: Slowking|move: Taunt
+|move|p2a: Slowking|Scald|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|61/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781175267
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|38/100
+|move|p2a: Slowking|Scald|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|26/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781175274
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Enamorus
+|-resisted|p2a: Enamorus
+|-damage|p2a: Enamorus|73/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781175278
+|move|p1a: Iron Jugulis|Hurricane|p2a: Enamorus
+|-crit|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|
+|upkeep
+|
+|t:|1781175283
+|switch|p2a: Slowking|Slowking, M|71/100
+|turn|6
+|
+|t:|1781175285
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|36/100
+|move|p2a: Slowking|Scald|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781175302
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|turn|7
+|
+|t:|1781175318
+|move|p1a: Moltres|Agility|p1a: Moltres
+|-boost|p1a: Moltres|spe|2
+|move|p2a: Slowking|Scald|p1a: Moltres
+|-damage|p1a: Moltres|75/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781175326
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Moltres|Nasty Plot|p1a: Moltres
+|-boost|p1a: Moltres|spa|2
+|
+|upkeep
+|turn|9
+|
+|t:|1781175333
+|move|p1a: Moltres|Fiery Wrath|p2a: Iron Treads
+|-damage|p2a: Iron Treads|39/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: Moltres
+|-sidestart|p1: LoseToRU?|move: Stealth Rock
+|
+|-heal|p2a: Iron Treads|45/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781175340
+|move|p1a: Moltres|Fiery Wrath|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781175343
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|turn|11
+|
+|t:|1781175346
+|-terastallize|p2a: Pecharunt|Dark
+|move|p1a: Moltres|Air Slash|p2a: Pecharunt
+|-damage|p2a: Pecharunt|39/100
+|cant|p2a: Pecharunt|flinch
+|
+|upkeep
+|turn|12
+|
+|t:|1781175363
+|switch|p2a: Slowking|Slowking, M|69/100
+|move|p1a: Moltres|Air Slash|p2a: Slowking
+|-damage|p2a: Slowking|39/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781175367
+|move|p1a: Moltres|Fiery Wrath|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781175373
+|switch|p2a: Skarmory|Skarmory, F|100/100
+|turn|14
+|
+|t:|1781175377
+|move|p1a: Moltres|Fiery Wrath|p2a: Skarmory
+|-crit|p2a: Skarmory
+|-ability|p2a: Skarmory|Sturdy
+|-damage|p2a: Skarmory|1/100
+|move|p2a: Skarmory|Body Press|p1a: Moltres
+|-damage|p1a: Moltres|40/100
+|-ability|p1a: Moltres|Berserk|boost
+|-boost|p1a: Moltres|spa|1
+|-enditem|p1a: Moltres|Sitrus Berry|[eat]
+|-heal|p1a: Moltres|64/100|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|15
+|c|☆zxrkawa|gg
+|c|☆LoseToRU?|gg
+|-message|zxrkawa forfeited.
+|
+|win|LoseToRU?
+|raw|LoseToRU?'s rating: 1618 &rarr; <strong>1634</strong><br />(+16 for winning)
+|raw|zxrkawa's rating: 1539 &rarr; <strong>1523</strong><br />(-16 for losing)
+|l|☆zxrkawa
+|player|p2|
+|l|☆LoseToRU?
+|player|p1|

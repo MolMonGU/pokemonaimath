@@ -1,0 +1,353 @@
+|j|☆cronem
+|j|‽LT_Alt1
+|t:|1781239053
+|gametype|singles
+|player|p1|cronem|102|1555
+|player|p2|LT_Alt1|102|1748
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Crown|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Iron Valiant|
+|poke|p1|Gardevoir, F|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Hoopa-Unbound|
+|poke|p2|Kyurem|
+|poke|p2|Raging Bolt|
+|poke|p2|Hatterene, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Corviknight, F|
+|teampreview
+|
+|t:|1781239072
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|1
+|
+|t:|1781239081
+|move|p1a: Samurott|Ceaseless Edge|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|61/100
+|-sidestart|p2: LT_Alt1|Spikes
+|move|p2a: Raging Bolt|Volt Switch|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-enditem|p1a: Samurott|Focus Sash
+|-damage|p1a: Samurott|1/100
+|
+|t:|1781239087
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Corviknight|Corviknight, F|100/100|[from] Volt Switch
+|-ability|p2a: Corviknight|Pressure
+|
+|upkeep
+|turn|2
+|
+|t:|1781239098
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Corviknight|Roost||[still]
+|-fail|p2a: Corviknight|heal
+|
+|upkeep
+|turn|3
+|
+|t:|1781239108
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-damage|p2a: Hatterene|88/100|[from] Spikes
+|move|p1a: Deoxys|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|70/100
+|-enditem|p2a: Hatterene|Leftovers|[from] move: Knock Off|[of] p1a: Deoxys
+|
+|upkeep
+|turn|4
+|
+|t:|1781239136
+|move|p1a: Deoxys|Psychic Terrain|p1a: Deoxys
+|-fieldstart|move: Psychic Terrain
+|move|p2a: Hatterene|Nuzzle|p1a: Deoxys
+|-damage|p1a: Deoxys|95/100
+|-status|p1a: Deoxys|par
+|
+|upkeep
+|turn|5
+|
+|t:|1781239140
+|switch|p1a: Samurott|Samurott-Hisui, M|1/100
+|move|p2a: Hatterene|Nuzzle|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781239143
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespa
+|turn|6
+|
+|t:|1781239153
+|-terastallize|p2a: Hatterene|Water
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Hatterene
+|-resisted|p2a: Hatterene
+|-crit|p2a: Hatterene
+|-damage|p2a: Hatterene|43/100
+|-resisted|p2a: Hatterene
+|-damage|p2a: Hatterene|26/100
+|-hitcount|p2a: Hatterene|2
+|move|p2a: Hatterene|Nuzzle|p1a: Iron Crown
+|-damage|p1a: Iron Crown|97/100
+|-status|p1a: Iron Crown|par
+|
+|upkeep
+|turn|7
+|
+|t:|1781239163
+|move|p1a: Iron Crown|Agility|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spe|2
+|move|p2a: Hatterene|Pain Split|p1a: Iron Crown
+|-sethp|p1a: Iron Crown|60/100 par|[from] move: Pain Split|[silent]
+|-sethp|p2a: Hatterene|67/100|[from] move: Pain Split
+|
+|upkeep
+|turn|8
+|
+|t:|1781239171
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-damage|p2a: Ting-Lu|88/100|[from] Spikes
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|cant|p1a: Iron Crown|par
+|
+|-heal|p2a: Ting-Lu|94/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781239182
+|move|p1a: Iron Crown|Focus Blast|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|40/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|-heal|p2a: Ting-Lu|46/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781239201
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|10
+|
+|t:|1781239207
+|move|p1a: Iron Valiant|Close Combat|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781239215
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|-damage|p2a: Slowking|88/100|[from] Spikes
+|turn|11
+|
+|t:|1781239220
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Hoopa
+|-damage|p1a: Hoopa|84/100
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|12
+|
+|t:|1781239228
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Hoopa|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|63/100
+|-damage|p1a: Hoopa|68/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-enditem|p2a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p1a: Hoopa
+|
+|upkeep
+|turn|13
+|
+|t:|1781239238
+|move|p2a: Corviknight|Defog|p1a: Hoopa
+|-unboost|p1a: Hoopa|evasion|1
+|-sideend|p2: LT_Alt1|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: Hoopa|Thunderbolt|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781239248
+|switch|p2a: Raging Bolt|Raging Bolt|61/100
+|turn|14
+|
+|t:|1781239262
+|switch|p1a: Deoxys|Deoxys-Speed|95/100 par
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Deoxys
+|-damage|p1a: Deoxys|16/100 par
+|
+|upkeep
+|turn|15
+|
+|t:|1781239268
+|move|p1a: Deoxys|Psychic Terrain|p1a: Deoxys
+|-fieldstart|move: Psychic Terrain
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|upkeep
+|
+|t:|1781239285
+|switch|p1a: Gardevoir|Gardevoir, F, shiny|100/100
+|turn|16
+|
+|t:|1781239291
+|move|p1a: Gardevoir|Expanding Force|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|14/100
+|move|p2a: Raging Bolt|Volt Switch|p1a: Gardevoir
+|-crit|p1a: Gardevoir
+|-damage|p1a: Gardevoir|37/100
+|
+|t:|1781239298
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|100/100|[from] Volt Switch
+|-ability|p1a: Gardevoir|Regenerator|Trace|[from] ability: Trace|[of] p2a: Slowking
+|
+|upkeep
+|turn|17
+|
+|t:|1781239306
+|move|p1a: Gardevoir|Expanding Force|p2a: Slowking
+|-damage|p2a: Slowking|49/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Gardevoir
+|-supereffective|p1a: Gardevoir
+|-damage|p1a: Gardevoir|0 fnt
+|faint|p1a: Gardevoir
+|
+|upkeep
+|
+|t:|1781239309
+|switch|p1a: Hoopa|Hoopa-Unbound|68/100
+|turn|18
+|
+|t:|1781239315
+|switch|p2a: Hatterene|Hatterene, F, tera:Water|67/100
+|move|p1a: Hoopa|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|36/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781239320
+|switch|p2a: Raging Bolt|Raging Bolt|14/100
+|move|p1a: Hoopa|Psychic Noise|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781239325
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|20
+|
+|t:|1781239330
+|move|p2a: Kyurem|Freeze-Dry|p1a: Hoopa
+|-damage|p1a: Hoopa|39/100
+|move|p1a: Hoopa|Drain Punch|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|53/100
+|-heal|p1a: Hoopa|64/100|[from] drain|[of] p2a: Kyurem
+|
+|upkeep
+|turn|21
+|
+|t:|1781239341
+|move|p2a: Kyurem|Freeze-Dry|p1a: Hoopa
+|-damage|p1a: Hoopa|34/100
+|-status|p1a: Hoopa|frz
+|cant|p1a: Hoopa|frz
+|
+|upkeep
+|turn|22
+|
+|t:|1781239345
+|move|p2a: Kyurem|Freeze-Dry|p1a: Hoopa
+|-damage|p1a: Hoopa|5/100 frz
+|-curestatus|p1a: Hoopa|frz|[msg]
+|move|p1a: Hoopa|Drain Punch|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|5/100
+|-heal|p1a: Hoopa|31/100|[from] drain|[of] p2a: Kyurem
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|23
+|
+|t:|1781239354
+|move|p2a: Kyurem|Freeze-Dry|p1a: Hoopa
+|-damage|p1a: Hoopa|4/100
+|move|p1a: Hoopa|Drain Punch|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|-heal|p1a: Hoopa|6/100|[from] drain|[of] p2a: Kyurem
+|faint|p2a: Kyurem
+|
+|upkeep
+|j| Mega Delibird X
+|
+|t:|1781239361
+|switch|p2a: Slowking|Slowking-Galar, F|82/100
+|turn|24
+|
+|t:|1781239366
+|move|p1a: Hoopa|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-enditem|p2a: Slowking|Shuca Berry|[from] move: Knock Off|[of] p1a: Hoopa
+|faint|p2a: Slowking
+|
+|upkeep
+|-message|LT_Alt1 forfeited.
+|
+|win|cronem
+|raw|cronem's rating: 1555 &rarr; <strong>1585</strong><br />(+30 for winning)
+|raw|LT_Alt1's rating: 1748 &rarr; <strong>1718</strong><br />(-30 for losing)
+|l|‽LT_Alt1
+|player|p2|
+|l|☆cronem
+|player|p1|
+|j|‽LT_Alt1
+|player|p2|LT_Alt1|102|
+|n|‽LT_Alt1|ltalt1
+|n|‽LT_Alt1|ltalt1
+|l| Mega Delibird X

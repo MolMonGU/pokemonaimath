@@ -1,0 +1,249 @@
+|j|☆wavyish
+|j|☆Mystic_Meloetta
+|t:|1781256185
+|gametype|singles
+|player|p1|wavyish|akari|1569
+|player|p2|Mystic_Meloetta|1|1529
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Kyurem|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Kingambit, F|
+|poke|p2|Jirachi|
+|poke|p2|Garganacl, M|
+|poke|p2|Quaquaval, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Meowscarada, F|
+|teampreview
+|
+|t:|1781256195
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|turn|1
+|
+|t:|1781256202
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Meowscarada|Triple Axel|p1a: Hatterene
+|-start|p2a: Meowscarada|typechange|Ice|[from] ability: Protean
+|-damage|p1a: Hatterene|93/100
+|-damage|p2a: Meowscarada|84/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|-damage|p1a: Hatterene|77/100
+|-damage|p2a: Meowscarada|68/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|-damage|p1a: Hatterene|53/100
+|-damage|p2a: Meowscarada|51/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|-hitcount|p1a: Hatterene|3
+|
+|upkeep
+|turn|2
+|
+|t:|1781256210
+|switch|p2a: Garganacl|Garganacl, M|100/100
+|move|p1a: Hatterene|Pain Split|p2a: Garganacl
+|-sethp|p2a: Garganacl|71/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Hatterene|90/100|[from] move: Pain Split
+|
+|-heal|p2a: Garganacl|77/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781256215
+|move|p1a: Hatterene|Psychic Noise|p2a: Garganacl
+|-damage|p2a: Garganacl|49/100
+|-start|p2a: Garganacl|move: Heal Block
+|move|p2a: Garganacl|Salt Cure|p1a: Hatterene
+|-damage|p1a: Hatterene|79/100
+|-start|p1a: Hatterene|Salt Cure
+|
+|-damage|p1a: Hatterene|67/100|[from] Salt Cure
+|upkeep
+|turn|4
+|
+|t:|1781256219
+|switch|p2a: Jirachi|Jirachi|100/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|90/100
+|-heal|p1a: Hatterene|77/100|[from] drain|[of] p2a: Jirachi
+|
+|-heal|p2a: Jirachi|96/100|[from] item: Leftovers
+|-damage|p1a: Hatterene|64/100|[from] Salt Cure
+|upkeep
+|turn|5
+|
+|t:|1781256224
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Jirachi|Iron Head|p1a: Tornadus
+|-damage|p1a: Tornadus|66/100
+|
+|-heal|p2a: Jirachi|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781256233
+|move|p1a: Tornadus|Knock Off|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-damage|p2a: Jirachi|66/100
+|-enditem|p2a: Jirachi|Leftovers|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Jirachi|Thunder Wave|p1a: Tornadus
+|-status|p1a: Tornadus|par
+|
+|upkeep
+|turn|7
+|
+|t:|1781256236
+|move|p2a: Jirachi|Iron Head|p1a: Tornadus
+|-damage|p1a: Tornadus|31/100 par
+|cant|p1a: Tornadus|flinch
+|
+|upkeep
+|turn|8
+|
+|t:|1781256240
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|move|p2a: Jirachi|Iron Head|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|90/100
+|
+|-heal|p1a: Kingambit|96/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|j| amefurikoneko
+|
+|t:|1781256246
+|move|p2a: Jirachi|Thunder Wave|p1a: Kingambit
+|-status|p1a: Kingambit|par
+|move|p1a: Kingambit|Iron Head|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|47/100
+|
+|-heal|p1a: Kingambit|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781256254
+|switch|p2a: Quaquaval|Quaquaval, F|100/100
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|upkeep
+|turn|11
+|
+|t:|1781256259
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Quaquaval|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|62/100
+|-enditem|p1a: Slowking|Black Sludge|[from] move: Knock Off|[of] p2a: Quaquaval
+|
+|upkeep
+|turn|12
+|
+|t:|1781256264
+|move|p2a: Quaquaval|U-turn|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|41/100
+|
+|t:|1781256268
+|switch|p2a: Jirachi|Jirachi|47/100|[from] U-turn
+|move|p1a: Slowking|Future Sight|p2a: Jirachi
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|13
+|
+|t:|1781256276
+|switch|p1a: Kingambit|Kingambit, F|100/100 par
+|move|p2a: Jirachi|Iron Head|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|91/100 par
+|
+|-heal|p1a: Kingambit|97/100 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781256281
+|move|p2a: Jirachi|Iron Head|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|87/100 par
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-damage|p2a: Jirachi|0 fnt
+|faint|p2a: Jirachi
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|-heal|p1a: Kingambit|94/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1781256284
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|turn|15
+|
+|t:|1781256288
+|move|p2a: Iron Valiant|Aura Sphere|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|
+|upkeep
+|
+|t:|1781256294
+|switch|p1a: Hatterene|Hatterene, F|64/100
+|turn|16
+|
+|t:|1781256301
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781256305
+|switch|p1a: Tornadus|Tornadus-Therian, M|64/100 par
+|turn|17
+|
+|t:|1781256307
+|move|p2a: Iron Valiant|Thunderbolt|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|13/100 par
+|cant|p1a: Tornadus|par
+|
+|upkeep
+|turn|18
+|
+|t:|1781256316
+|switch|p1a: Slowking|Slowking-Galar, F|75/100
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|22/100
+|-unboost|p1a: Slowking|spd|1
+|
+|upkeep
+|turn|19
+|-message|wavyish forfeited.
+|
+|win|Mystic_Meloetta
+|raw|wavyish's rating: 1569 &rarr; <strong>1547</strong><br />(-22 for losing)
+|raw|Mystic_Meloetta's rating: 1529 &rarr; <strong>1551</strong><br />(+22 for winning)
+|l|☆wavyish
+|player|p1|
+|l| amefurikoneko

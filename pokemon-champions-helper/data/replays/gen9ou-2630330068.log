@@ -1,0 +1,313 @@
+|j|☆mothcarona
+|j|☆Hallommora
+|t:|1781239093
+|gametype|singles
+|player|p1|mothcarona|265|1625
+|player|p2|Hallommora|clown|1716
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ursaluna, M|
+|poke|p1|Cinderace, M|
+|poke|p1|Zapdos|
+|poke|p1|Iron Crown|
+|poke|p1|Pecharunt|
+|poke|p1|Hydrapple, M|
+|poke|p2|Iron Treads|
+|poke|p2|Raging Bolt|
+|poke|p2|Iron Valiant|
+|poke|p2|Kingambit, F|
+|poke|p2|Great Tusk|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Hallommora)
+|inactive|mothcarona also wants the timer to be on.
+|
+|t:|1781239099
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ursaluna|Ursaluna, M|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|turn|1
+|
+|t:|1781239105
+|move|p2a: Iron Treads|Knock Off|p1a: Ursaluna
+|-damage|p1a: Ursaluna|75/100
+|-enditem|p1a: Ursaluna|Leftovers|[from] move: Knock Off|[of] p2a: Iron Treads
+|move|p1a: Ursaluna|Bulk Up|p1a: Ursaluna
+|-boost|p1a: Ursaluna|atk|1
+|-boost|p1a: Ursaluna|def|1
+|
+|upkeep
+|turn|2
+|
+|t:|1781239121
+|move|p2a: Iron Treads|Stealth Rock|p1a: Ursaluna
+|-sidestart|p1: mothcarona|move: Stealth Rock
+|move|p1a: Ursaluna|Earthquake|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-enditem|p2a: Iron Treads|Focus Sash
+|-damage|p2a: Iron Treads|1/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781239126
+|move|p2a: Iron Treads|Endeavor|p1a: Ursaluna
+|-damage|p1a: Ursaluna|1/100
+|move|p1a: Ursaluna|Earthquake|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781239131
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|4
+|
+|t:|1781239138
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Zapdos|[anim] Ivy Cudgel Water
+|-damage|p1a: Zapdos|60/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781239142
+|switch|p1a: Ursaluna|Ursaluna, M|1/100
+|-damage|p1a: Ursaluna|0 fnt|[from] Stealth Rock
+|faint|p1a: Ursaluna
+|-terastallize|p2a: Ogerpon|Water
+|detailschange|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|move|p2a: Ogerpon|Ivy Cudgel|p1: Ursaluna|[notarget]
+|-fail|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781239145
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|-damage|p1a: Hydrapple|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1781239148
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Hydrapple|Giga Drain|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|82/100
+|-heal|p1a: Hydrapple|96/100|[from] drain|[of] p2a: Kingambit
+|
+|upkeep
+|turn|7
+|
+|t:|1781239153
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Hydrapple
+|-damage|p1a: Hydrapple|66/100
+|move|p1a: Hydrapple|Body Press|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen1|[silent]
+|
+|upkeep
+|
+|t:|1781239157
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|8
+|
+|t:|1781239161
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1781239167
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|move|p1a: Pecharunt|Malignant Chain|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|49/100
+|-status|p2a: Iron Valiant|tox
+|-start|p2a: Iron Valiant|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|
+|-damage|p2a: Iron Valiant|42/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1781239171
+|switch|p1a: Hydrapple|Hydrapple, M|99/100
+|-damage|p1a: Hydrapple|87/100|[from] Stealth Rock
+|-activate|p2a: Iron Valiant|confusion
+|-damage|p2a: Iron Valiant|30/100 tox|[from] confusion
+|
+|-damage|p2a: Iron Valiant|17/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1781239176
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-damage|p1a: Iron Crown|94/100|[from] Stealth Rock
+|-activate|p2a: Iron Valiant|confusion
+|-damage|p2a: Iron Valiant|6/100 tox|[from] confusion
+|
+|-damage|p2a: Iron Valiant|0 fnt|[from] psn
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|upkeep
+|
+|t:|1781239182
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|12
+|
+|t:|1781239187
+|move|p1a: Iron Crown|Psyshock|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|42/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Iron Crown
+|-damage|p1a: Iron Crown|30/100
+|
+|upkeep
+|turn|13
+|j| fifodrummer
+|
+|t:|1781239195
+|move|p1a: Iron Crown|Psyshock|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781239201
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisspe
+|turn|14
+|
+|t:|1781239204
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|move|p1a: Iron Crown|Psyshock|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|50/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781239208
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Zapdos|Zapdos|60/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|upkeep
+|turn|16
+|
+|t:|1781239210
+|move|p2a: Great Tusk|Ice Spinner|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1781239214
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|turn|17
+|
+|t:|1781239218
+|move|p2a: Great Tusk|Headlong Rush|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|26/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Pecharunt|Malignant Chain|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|18/100
+|-status|p2a: Great Tusk|tox
+|-start|p2a: Great Tusk|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|
+|-damage|p2a: Great Tusk|12/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1781239224
+|-activate|p2a: Great Tusk|confusion
+|move|p2a: Great Tusk|Headlong Rush|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Pecharunt
+|
+|-damage|p2a: Great Tusk|0 fnt|[from] psn
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|upkeep
+|
+|t:|1781239226
+|switch|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water|100/100
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|-damage|p1a: Hydrapple|88/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1781239228
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Hydrapple|Giga Drain|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|51/100
+|-heal|p1a: Hydrapple|100/100|[from] drain|[of] p2a: Ogerpon
+|
+|upkeep
+|turn|20
+|
+|t:|1781239233
+|move|p2a: Ogerpon|Power Whip|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|82/100
+|move|p1a: Hydrapple|Giga Drain|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|6/100
+|-heal|p1a: Hydrapple|99/100|[from] drain|[of] p2a: Ogerpon
+|
+|upkeep
+|turn|21
+|-message|Hallommora forfeited.
+|
+|win|mothcarona
+|raw|mothcarona's rating: 1625 &rarr; <strong>1650</strong><br />(+25 for winning)
+|raw|Hallommora's rating: 1716 &rarr; <strong>1691</strong><br />(-25 for losing)
+|l|☆Hallommora
+|player|p2|
+|l|☆mothcarona
+|player|p1|

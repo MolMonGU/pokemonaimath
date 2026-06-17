@@ -1,0 +1,612 @@
+|j|☆cachowcapow
+|j|☆llachiee
+|t:|1781081390
+|gametype|singles
+|player|p1|cachowcapow|265|1658
+|player|p2|llachiee|169|1645
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Kyurem|
+|poke|p1|Cinderace, F|
+|poke|p1|Iron Treads|
+|poke|p1|Alomomola, M|
+|poke|p2|Gliscor, F|
+|poke|p2|Blissey, F|
+|poke|p2|Clefable, F|
+|poke|p2|Toxapex, F|
+|poke|p2|Dondozo, F|
+|poke|p2|Corviknight, F|
+|teampreview
+|
+|t:|1781081405
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Adder|Gliscor, F|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781081409
+|move|p2a: Adder|Protect|p2a: Adder
+|-singleturn|p2a: Adder|Protect
+|move|p1a: Kyurem|Freeze-Dry|p2a: Adder
+|-activate|p2a: Adder|move: Protect
+|
+|-status|p2a: Adder|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781081412
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Flesh Tutu|Blissey, F|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781081418
+|switch|p2a: Lash|Toxapex, F, shiny|100/100
+|move|p1a: Tornadus|Knock Off|p2a: Lash
+|-damage|p2a: Lash|84/100
+|-enditem|p2a: Lash|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|upkeep
+|turn|4
+|
+|t:|1781081423
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Lash|Toxic|p1a: Iron Treads
+|-immune|p1a: Iron Treads
+|
+|upkeep
+|turn|5
+|
+|t:|1781081428
+|switch|p2a: Adder|Gliscor, F|100/100 tox
+|move|p1a: Iron Treads|Flash Cannon|p2a: Adder
+|-damage|p2a: Adder|68/100 tox
+|
+|-heal|p2a: Adder|81/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|6
+|
+|t:|1781081434
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|-terastallize|p2a: Adder|Ghost
+|move|p2a: Adder|Spikes|p1a: Slowking
+|-sidestart|p1: cachowcapow|Spikes
+|
+|-heal|p2a: Adder|93/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|7
+|
+|t:|1781081441
+|move|p2a: Adder|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|64/100
+|-damage|p2a: Adder|77/100 tox|[from] item: Rocky Helmet|[of] p1a: Slowking
+|-enditem|p1a: Slowking|Rocky Helmet|[from] move: Knock Off|[of] p2a: Adder
+|move|p1a: Slowking|Future Sight|p2a: Adder
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p2a: Adder|89/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|8
+|
+|t:|1781081448
+|switch|p2a: Sturm|Corviknight, F, shiny|100/100
+|-ability|p2a: Sturm|Pressure
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781081460
+|switch|p1a: Cinderace|Cinderace, F|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781081464
+|move|p2a: Sturm|Protect|p2a: Sturm
+|-singleturn|p2a: Sturm|Protect
+|move|p1a: Cinderace|Pyro Ball|p2a: Sturm
+|-activate|p2a: Sturm|move: Protect
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Sturm|move: Future Sight
+|-resisted|p2a: Sturm
+|-damage|p2a: Sturm|81/100
+|-heal|p2a: Sturm|87/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781081474
+|switch|p2a: Lash|Toxapex, F, shiny|100/100
+|move|p1a: Cinderace|U-turn|p2a: Lash
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p2a: Lash
+|-damage|p2a: Lash|89/100
+|
+|t:|1781081484
+|switch|p1a: Iron Treads|Iron Treads|100/100|[from] U-turn
+|-damage|p1a: Iron Treads|88/100|[from] Spikes
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781081492
+|move|p1a: Iron Treads|Earth Power|p2a: Lash
+|-supereffective|p2a: Lash
+|-damage|p2a: Lash|41/100
+|move|p2a: Lash|Infestation|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|86/100
+|-activate|p1a: Iron Treads|move: Infestation|[of] p2a: Lash
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Iron Treads|74/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|12
+|
+|t:|1781081500
+|switch|p2a: Sturm|Corviknight, F, shiny|87/100
+|-ability|p2a: Sturm|Pressure
+|move|p1a: Iron Treads|Volt Switch|p2a: Sturm
+|-supereffective|p2a: Sturm
+|-damage|p2a: Sturm|61/100
+|
+|t:|1781081507
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Volt Switch
+|-damage|p1a: Kyurem|88/100|[from] Spikes
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|none
+|-heal|p2a: Sturm|67/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781081513
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|move|p2a: Sturm|Protect||[still]
+|-fail|p2a: Sturm
+|
+|-heal|p2a: Sturm|73/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781081516
+|move|p2a: Sturm|Protect|p2a: Sturm
+|-singleturn|p2a: Sturm|Protect
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-start|p1a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|
+|-heal|p2a: Sturm|79/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781081520
+|switch|p2a: Adder|Gliscor, F, tera:Ghost|89/100 tox
+|-damage|p2a: Adder|77/100 tox|[from] Spikes
+|move|p1a: Cinderace|U-turn|p2a: Adder
+|-resisted|p2a: Adder
+|-damage|p2a: Adder|69/100 tox
+|
+|t:|1781081527
+|switch|p1a: Kyurem|Kyurem|88/100|[from] U-turn
+|-ability|p1a: Kyurem|Pressure
+|
+|-heal|p2a: Adder|82/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|16
+|
+|t:|1781081530
+|move|p2a: Adder|Protect|p2a: Adder
+|-singleturn|p2a: Adder|Protect
+|move|p1a: Kyurem|Draco Meteor|p2a: Adder
+|-activate|p2a: Adder|move: Protect
+|
+|-heal|p2a: Adder|94/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|17
+|
+|t:|1781081535
+|switch|p2a: Nell|Clefable, F|100/100
+|move|p1a: Kyurem|Draco Meteor|p2a: Nell
+|-immune|p2a: Nell
+|
+|upkeep
+|turn|18
+|
+|t:|1781081539
+|switch|p1a: Iron Treads|Iron Treads|74/100
+|move|p2a: Nell|Stealth Rock|p1a: Iron Treads
+|-sidestart|p1: cachowcapow|move: Stealth Rock
+|
+|upkeep
+|turn|19
+|
+|t:|1781081543
+|switch|p2a: Sturm|Corviknight, F, shiny|79/100
+|-ability|p2a: Sturm|Pressure
+|move|p1a: Iron Treads|Earth Power|p2a: Sturm
+|-immune|p2a: Sturm
+|
+|-heal|p2a: Sturm|85/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781081578
+|move|p1a: Iron Treads|Volt Switch|p2a: Sturm
+|-supereffective|p2a: Sturm
+|-damage|p2a: Sturm|59/100
+|
+|t:|1781081582
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Cinderace|Cinderace, F|100/100|[from] Volt Switch
+|move|p2a: Sturm|Roost|p2a: Sturm
+|-heal|p2a: Sturm|100/100
+|-singleturn|p2a: Sturm|move: Roost
+|
+|upkeep
+|turn|21
+|
+|t:|1781081588
+|switch|p1a: Slowking|Slowking-Galar, M|98/100
+|-damage|p1a: Slowking|85/100|[from] Stealth Rock
+|switch|p2a: Adder|Gliscor, F, tera:Ghost|94/100 tox
+|-damage|p2a: Adder|82/100 tox|[from] Spikes
+|
+|-heal|p2a: Adder|94/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|22
+|
+|t:|1781081594
+|move|p2a: Adder|Spikes|p1a: Slowking
+|-sidestart|p1: cachowcapow|Spikes
+|move|p1a: Slowking|Future Sight|p2a: Adder
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p2a: Adder|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|23
+|
+|t:|1781081600
+|switch|p2a: Sturm|Corviknight, F, shiny|100/100
+|-ability|p2a: Sturm|Pressure
+|move|p1a: Slowking|Sludge Bomb|p2a: Sturm
+|-immune|p2a: Sturm
+|
+|upkeep
+|turn|24
+|
+|t:|1781081604
+|move|p2a: Sturm|Substitute|p2a: Sturm
+|-start|p2a: Sturm|Substitute
+|-damage|p2a: Sturm|76/100
+|move|p1a: Slowking|Thunder Wave||[still]
+|-fail|p1a: Slowking
+|
+|-end|p2a: Sturm|move: Future Sight
+|-resisted|p2a: Sturm
+|-activate|p2a: Sturm|move: Substitute|[damage]
+|-heal|p2a: Sturm|82/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781081607
+|move|p2a: Sturm|Spite|p1a: Slowking
+|-activate|p1a: Slowking|move: Spite|Thunder Wave|4
+|move|p1a: Slowking|Future Sight|p2a: Sturm
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p2a: Sturm|88/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781081616
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|move|p2a: Sturm|Spite||[still]
+|-fail|p2a: Sturm
+|
+|-heal|p2a: Sturm|94/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781081624
+|move|p1a: Cinderace|U-turn|p2a: Sturm
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p2a: Sturm
+|-activate|p2a: Sturm|move: Substitute|[damage]
+|
+|t:|1781081627
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100|[from] U-turn
+|-damage|p1a: Tornadus|76/100|[from] Stealth Rock
+|move|p2a: Sturm|Spite||[still]
+|-fail|p2a: Sturm
+|
+|-end|p2a: Sturm|move: Future Sight
+|-resisted|p2a: Sturm
+|-end|p2a: Sturm|Substitute
+|-heal|p2a: Sturm|99/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781081634
+|switch|p2a: Lash|Toxapex, F, shiny|74/100
+|-damage|p2a: Lash|62/100|[from] Spikes
+|move|p1a: Tornadus|Knock Off|p2a: Lash
+|-damage|p2a: Lash|53/100
+|
+|upkeep
+|turn|29
+|
+|t:|1781081639
+|move|p1a: Tornadus|U-turn|p2a: Lash
+|-resisted|p2a: Lash
+|-damage|p2a: Lash|47/100
+|
+|t:|1781081641
+|switch|p1a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|-damage|p1a: Slowking|88/100|[from] Stealth Rock
+|-damage|p1a: Slowking|76/100|[from] Spikes
+|move|p2a: Lash|Toxic|p1a: Slowking
+|-immune|p1a: Slowking
+|
+|upkeep
+|turn|30
+|
+|t:|1781081646
+|switch|p2a: Adder|Gliscor, F, tera:Ghost|100/100 tox
+|-damage|p2a: Adder|88/100 tox|[from] Spikes
+|move|p1a: Slowking|Future Sight|p2a: Adder
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p2a: Adder|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|31
+|
+|t:|1781081651
+|move|p2a: Adder|Spikes|p1a: Slowking
+|-sidestart|p1: cachowcapow|Spikes
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781081658
+|switch|p1a: Cinderace|Cinderace, F|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|32
+|
+|t:|1781081662
+|move|p1a: Cinderace|Pyro Ball|p2a: Adder
+|-damage|p2a: Adder|66/100 tox
+|move|p2a: Adder|Knock Off|p1a: Cinderace
+|-damage|p1a: Cinderace|72/100
+|-enditem|p1a: Cinderace|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Adder
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Adder|move: Future Sight
+|-damage|p2a: Adder|8/100 tox
+|-heal|p2a: Adder|20/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|33
+|
+|t:|1781081673
+|move|p2a: Adder|Protect|p2a: Adder
+|-singleturn|p2a: Adder|Protect
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-start|p1a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Adder|33/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|34
+|
+|t:|1781081689
+|switch|p2a: Lash|Toxapex, F, shiny|81/100
+|-damage|p2a: Lash|68/100|[from] Stealth Rock
+|-damage|p2a: Lash|52/100|[from] Spikes
+|-terastallize|p1a: Cinderace|Fire
+|move|p1a: Cinderace|Pyro Ball|p2a: Lash
+|-resisted|p2a: Lash
+|-damage|p2a: Lash|30/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|35
+|
+|t:|1781081696
+|switch|p2a: Jugger|Dondozo, F, shiny|100/100
+|move|p1a: Cinderace|U-turn|p2a: Jugger
+|-damage|p2a: Jugger|91/100
+|j| Mightylord
+|
+|t:|1781081706
+|switch|p1a: Kyurem|Kyurem|88/100|[from] U-turn
+|-damage|p1a: Kyurem|76/100|[from] Spikes
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|none
+|upkeep
+|turn|36
+|
+|t:|1781081713
+|switch|p1a: Cinderace|Cinderace, F, tera:Fire|72/100
+|-damage|p1a: Cinderace|60/100|[from] Spikes
+|switch|p2a: Flesh Tutu|Blissey, F|100/100
+|
+|upkeep
+|turn|37
+|
+|t:|1781081719
+|switch|p2a: Jugger|Dondozo, F, shiny|91/100
+|move|p1a: Cinderace|U-turn|p2a: Jugger
+|-damage|p2a: Jugger|82/100
+|
+|t:|1781081722
+|switch|p1a: Iron Treads|Iron Treads|74/100|[from] U-turn
+|-damage|p1a: Iron Treads|61/100|[from] Spikes
+|
+|upkeep
+|turn|38
+|
+|t:|1781081727
+|switch|p2a: Sturm|Corviknight, F, shiny|99/100
+|-damage|p2a: Sturm|87/100|[from] Stealth Rock
+|-ability|p2a: Sturm|Pressure
+|move|p1a: Iron Treads|Volt Switch|p2a: Sturm
+|-supereffective|p2a: Sturm
+|-damage|p2a: Sturm|58/100
+|
+|t:|1781081733
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100|[from] Volt Switch
+|
+|-heal|p2a: Sturm|64/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1781081737
+|move|p2a: Sturm|Protect|p2a: Sturm
+|-singleturn|p2a: Sturm|Protect
+|move|p1a: Tornadus|Heat Wave|p2a: Sturm
+|-activate|p2a: Sturm|move: Protect
+|
+|-heal|p2a: Sturm|70/100|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1781081740
+|switch|p2a: Lash|Toxapex, F, shiny|64/100
+|-damage|p2a: Lash|51/100|[from] Stealth Rock
+|-damage|p2a: Lash|35/100|[from] Spikes
+|move|p1a: Tornadus|U-turn|p2a: Lash
+|-resisted|p2a: Lash
+|-damage|p2a: Lash|29/100
+|
+|t:|1781081751
+|switch|p1a: Iron Treads|Iron Treads|61/100|[from] U-turn
+|-damage|p1a: Iron Treads|49/100|[from] Spikes
+|
+|upkeep
+|turn|41
+|
+|t:|1781081758
+|switch|p2a: Flesh Tutu|Blissey, F|100/100
+|move|p1a: Iron Treads|Volt Switch|p2a: Flesh Tutu
+|-damage|p2a: Flesh Tutu|96/100
+|
+|t:|1781081762
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Cinderace|Cinderace, F, tera:Fire|60/100|[from] Volt Switch
+|-damage|p1a: Cinderace|48/100|[from] Spikes
+|
+|upkeep
+|turn|42
+|
+|t:|1781081772
+|move|p1a: Cinderace|U-turn|p2a: Flesh Tutu
+|-damage|p2a: Flesh Tutu|69/100
+|
+|t:|1781081776
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100|[from] U-turn
+|move|p2a: Flesh Tutu|Seismic Toss|p1a: Tornadus
+|-damage|p1a: Tornadus|73/100
+|
+|upkeep
+|turn|43
+|
+|t:|1781081781
+|switch|p2a: Nell|Clefable, F|100/100
+|move|p1a: Tornadus|U-turn|p2a: Nell
+|-resisted|p2a: Nell
+|-damage|p2a: Nell|95/100
+|
+|t:|1781081792
+|switch|p1a: Cinderace|Cinderace, F, tera:Fire|48/100|[from] U-turn
+|-damage|p1a: Cinderace|35/100|[from] Spikes
+|
+|upkeep
+|turn|44
+|
+|t:|1781081798
+|move|p1a: Cinderace|Iron Head|p2a: Nell
+|-supereffective|p2a: Nell
+|-damage|p2a: Nell|57/100
+|move|p2a: Nell|Stealth Rock|p1a: Cinderace
+|-sidestart|p1: cachowcapow|move: Stealth Rock
+|
+|-damage|p1a: Cinderace|23/100|[from] item: Sticky Barb
+|upkeep
+|turn|45
+|
+|t:|1781081806
+|switch|p2a: Lash|Toxapex, F, shiny|63/100
+|-damage|p2a: Lash|50/100|[from] Stealth Rock
+|-damage|p2a: Lash|34/100|[from] Spikes
+|move|p1a: Cinderace|Pyro Ball|p2a: Lash
+|-resisted|p2a: Lash
+|-damage|p2a: Lash|3/100
+|
+|-damage|p1a: Cinderace|11/100|[from] item: Sticky Barb
+|upkeep
+|turn|46
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by llachiee)
+|
+|t:|1781081816
+|switch|p2a: Jugger|Dondozo, F, shiny|82/100
+|move|p1a: Cinderace|U-turn|p2a: Jugger
+|-damage|p2a: Jugger|73/100
+|
+|t:|1781081822
+|switch|p1a: Iron Treads|Iron Treads|49/100|[from] U-turn
+|-damage|p1a: Iron Treads|37/100|[from] Spikes
+|-damage|p1a: Iron Treads|33/100|[from] Stealth Rock
+|
+|upkeep
+|turn|47
+|
+|t:|1781081831
+|move|p1a: Iron Treads|Rapid Spin|p2a: Jugger
+|-damage|p2a: Jugger|67/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: cachowcapow|Spikes|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|-sideend|p1: cachowcapow|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Jugger|Rest|p2a: Jugger
+|-status|p2a: Jugger|slp|[from] move: Rest
+|-heal|p2a: Jugger|100/100 slp|[silent]
+|
+|upkeep
+|turn|48
+|-message|llachiee forfeited.
+|
+|win|cachowcapow
+|raw|cachowcapow's rating: 1658 &rarr; <strong>1677</strong><br />(+19 for winning)
+|raw|llachiee's rating: 1645 &rarr; <strong>1626</strong><br />(-19 for losing)
+|l|☆cachowcapow
+|player|p1|
+|l|☆llachiee
+|player|p2|
+|l| Mightylord

@@ -1,0 +1,360 @@
+|j|☆fresh0
+|j|☆Kizukato
+|t:|1781094295
+|gametype|singles
+|player|p1|fresh0|2|1541
+|player|p2|Kizukato|cynthia|1556
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, M|
+|poke|p1|Hattrem, F|
+|poke|p1|Iron Hands|
+|poke|p1|Hatterene, F|
+|poke|p1|Glastrier|
+|poke|p1|Hydrapple, M|
+|poke|p2|Gholdengo|
+|poke|p2|Rillaboom, M|
+|poke|p2|Iron Treads|
+|poke|p2|Raging Bolt|
+|poke|p2|Iron Valiant|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kizukato)
+|
+|t:|1781094320
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hattrem|Hattrem, F|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|turn|1
+|
+|t:|1781094324
+|move|p2a: Iron Treads|Knock Off|p1a: Hattrem
+|-supereffective|p1a: Hattrem
+|-damage|p1a: Hattrem|31/100
+|-enditem|p1a: Hattrem|Focus Sash|[from] move: Knock Off|[of] p2a: Iron Treads
+|move|p1a: Hattrem|Trick Room|p1a: Hattrem
+|-fieldstart|move: Trick Room|[of] p1a: Hattrem
+|
+|upkeep
+|turn|2
+|
+|t:|1781094330
+|move|p1a: Hattrem|Healing Wish|p1a: Hattrem
+|faint|p1a: Hattrem
+|move|p2a: Iron Treads|Knock Off|p1: Hattrem|[notarget]
+|-fail|p2a: Iron Treads
+|
+|upkeep
+|
+|t:|1781094338
+|switch|p1a: Iron Hands|Iron Hands|100/100
+|turn|3
+|
+|t:|1781094344
+|move|p1a: Iron Hands|Swords Dance|p1a: Iron Hands
+|-boost|p1a: Iron Hands|atk|2
+|move|p2a: Iron Treads|High Horsepower|p1a: Iron Hands
+|-supereffective|p1a: Iron Hands
+|-damage|p1a: Iron Hands|54/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781094349
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Iron Hands|Drain Punch|p2a: Gholdengo
+|-immune|p2a: Gholdengo
+|
+|upkeep
+|turn|5
+|
+|t:|1781094358
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Iron Hands|Wild Charge|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1781094368
+|move|p2a: Iron Treads|High Horsepower|p1a: Iron Hands
+|-supereffective|p1a: Iron Hands
+|-damage|p1a: Iron Hands|12/100
+|move|p1a: Iron Hands|Drain Punch|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-heal|p1a: Iron Hands|50/100|[from] drain|[of] p2a: Iron Treads
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|-damage|p1a: Iron Hands|40/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781094376
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|7
+|inactive|fresh0 has 120 seconds left.
+|
+|t:|1781094408
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|move|p2a: Iron Valiant|Moonblast|p1a: Kingambit
+|-damage|p1a: Kingambit|76/100
+|-unboost|p1a: Kingambit|spa|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781094416
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Iron Valiant|Close Combat|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|84/100
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1781094423
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldstart|move: Trick Room|[of] p1a: Hatterene
+|
+|upkeep
+|turn|10
+|
+|t:|1781094431
+|switch|p1a: Glastrier|Glastrier|100/100
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781094441
+|move|p1a: Glastrier|Swords Dance|p1a: Glastrier
+|-boost|p1a: Glastrier|atk|2
+|move|p2a: Ogerpon|Encore|p1a: Glastrier
+|-start|p1a: Glastrier|Encore
+|
+|upkeep
+|turn|12
+|
+|t:|1781094453
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|move|p2a: Ogerpon|U-turn|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|56/100
+|
+|t:|1781094461
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] U-turn
+|
+|upkeep
+|turn|13
+|
+|t:|1781094464
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|move|p1a: Hydrapple|Draco Meteor|p2a: Iron Valiant
+|-immune|p2a: Iron Valiant
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|14
+|
+|t:|1781094471
+|move|p2a: Iron Valiant|Moonblast|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|0 fnt
+|faint|p1a: Hydrapple
+|
+|upkeep
+|
+|t:|1781094477
+|switch|p1a: Glastrier|Glastrier|100/100
+|turn|15
+|
+|t:|1781094480
+|move|p2a: Iron Valiant|Close Combat|p1a: Glastrier
+|-supereffective|p1a: Glastrier
+|-damage|p1a: Glastrier|12/100
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|move|p1a: Glastrier|Icicle Crash|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|-ability|p1a: Glastrier|Chilling Neigh|boost
+|-boost|p1a: Glastrier|atk|1
+|-damage|p1a: Glastrier|2/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781094495
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|16
+|
+|t:|1781094500
+|move|p2a: Rillaboom|U-turn|p1a: Glastrier
+|-damage|p1a: Glastrier|0 fnt
+|faint|p1a: Glastrier
+|
+|t:|1781094502
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781094510
+|switch|p1a: Iron Hands|Iron Hands|40/100
+|-heal|p1a: Iron Hands|100/100|[from] move: Healing Wish
+|turn|17
+|
+|t:|1781094516
+|move|p2a: Ogerpon|Power Whip|p1a: Iron Hands|[miss]
+|-miss|p2a: Ogerpon|p1a: Iron Hands
+|move|p1a: Iron Hands|Wild Charge|p2a: Ogerpon
+|-crit|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|-damage|p1a: Iron Hands|86/100|[from] Recoil
+|-damage|p1a: Iron Hands|76/100|[from] item: Life Orb
+|
+|-heal|p1a: Iron Hands|82/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781094537
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|18
+|
+|t:|1781094540
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|move|p1a: Iron Hands|Ice Punch|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|43/100
+|-damage|p1a: Iron Hands|72/100|[from] item: Life Orb
+|
+|-heal|p2a: Raging Bolt|49/100|[from] Grassy Terrain
+|-heal|p2a: Raging Bolt|55/100|[from] item: Leftovers
+|-heal|p1a: Iron Hands|78/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1781094556
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Iron Hands
+|-damage|p1a: Iron Hands|9/100
+|move|p1a: Iron Hands|Ice Punch|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|24/100
+|-damage|p1a: Iron Hands|0 fnt|[from] item: Life Orb
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|
+|-heal|p2a: Raging Bolt|30/100|[from] Grassy Terrain
+|-heal|p2a: Raging Bolt|37/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781094565
+|switch|p1a: Hatterene|Hatterene, F|84/100
+|turn|20
+|
+|t:|1781094569
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-heal|p2a: Raging Bolt|43/100|[from] Grassy Terrain
+|-heal|p2a: Raging Bolt|49/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781094572
+|switch|p1a: Kingambit|Kingambit, M|76/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|turn|21
+|
+|t:|1781094578
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Kingambit
+|-damage|p1a: Kingambit|21/100
+|move|p1a: Kingambit|Iron Head|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-heal|p1a: Kingambit|27/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781094588
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|22
+|
+|t:|1781094591
+|move|p2a: Gholdengo|Trick|p1a: Kingambit
+|-activate|p2a: Gholdengo|move: Trick|[of] p1a: Kingambit
+|-item|p1a: Kingambit|Choice Scarf|[from] move: Trick
+|-item|p2a: Gholdengo|Assault Vest|[from] move: Trick
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|-heal|p1a: Kingambit|34/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781094598
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|turn|23
+|
+|t:|1781094604
+|-terastallize|p1a: Kingambit|Flying
+|move|p2a: Rillaboom|Wood Hammer|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|5/100
+|-damage|p2a: Rillaboom|89/100|[from] Recoil
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Rillaboom
+|-damage|p2a: Rillaboom|26/100
+|
+|-heal|p2a: Rillaboom|32/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|24
+|
+|t:|1781094616
+|move|p2a: Rillaboom|Wood Hammer|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen5|[silent]
+|-damage|p2a: Rillaboom|30/100|[from] Recoil
+|
+|win|Kizukato
+|raw|fresh0's rating: 1541 &rarr; <strong>1522</strong><br />(-19 for losing)
+|raw|Kizukato's rating: 1556 &rarr; <strong>1575</strong><br />(+19 for winning)
+|l|☆Kizukato
+|player|p2|
+|l|☆fresh0
+|player|p1|

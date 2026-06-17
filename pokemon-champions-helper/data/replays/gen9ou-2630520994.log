@@ -1,0 +1,287 @@
+|j|☆rekjllj
+|j|☆Superhjkdetective
+|t:|1781268530
+|gametype|singles
+|player|p1|rekjllj|169|1693
+|player|p2|Superhjkdetective|169|1673
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Walking Wake|
+|poke|p1|Great Tusk|
+|poke|p1|Ninetales, F|
+|poke|p1|Cresselia, F|
+|poke|p1|Zarude|
+|poke|p1|Ceruledge, F|
+|poke|p2|Ninetales, M|
+|poke|p2|Ceruledge, F|
+|poke|p2|Great Tusk|
+|poke|p2|Hatterene, F|
+|poke|p2|Walking Wake|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Superhjkdetective)
+|c|☆rekjllj|hf
+|inactive|rekjllj also wants the timer to be on.
+|
+|t:|1781268554
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|turn|1
+|
+|t:|1781268564
+|-terastallize|p2a: Walking Wake|Water
+|move|p1a: Walking Wake|Draco Meteor|p2a: Walking Wake
+|-damage|p2a: Walking Wake|10/100
+|-unboost|p1a: Walking Wake|spa|2
+|move|p2a: Walking Wake|Dragon Pulse|p1a: Walking Wake
+|-supereffective|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781268571
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|turn|2
+|
+|t:|1781268580
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Ninetales|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|-terastallize|p1a: Ceruledge|Fairy
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781268586
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Ninetales|Encore||[still]
+|-fail|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781268592
+|move|p2a: Ninetales|Overheat|p1a: Great Tusk
+|-damage|p1a: Great Tusk|31/100
+|-unboost|p2a: Ninetales|spa|2
+|move|p1a: Great Tusk|Headlong Rush|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781268599
+|switch|p2a: Walking Wake|Walking Wake, tera:Water|10/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|turn|5
+|
+|t:|1781268605
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|move|p2a: Walking Wake|Hydro Steam|p1a: Cresselia
+|-damage|p1a: Cresselia|32/100
+|-enditem|p1a: Cresselia|Eject Button
+|
+|t:|1781268611
+|switch|p1a: Zarude|Zarude|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781268620
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Zarude|Synthesis|p1a: Zarude
+|-fail|p1a: Zarude|heal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781268628
+|move|p1a: Zarude|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|49/100
+|-enditem|p2a: Hatterene|Eject Button|[from] move: Knock Off|[of] p1a: Zarude
+|move|p2a: Hatterene|Draining Kiss|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|46/100
+|-heal|p2a: Hatterene|95/100|[from] drain|[of] p1a: Zarude
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Zarude|53/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781268637
+|move|p1a: Zarude|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|60/100
+|move|p2a: Hatterene|Psychic Noise|p1a: Zarude
+|-immune|p1a: Zarude
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Zarude|59/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781268643
+|move|p1a: Zarude|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|23/100
+|move|p2a: Hatterene|Draining Kiss|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|1/100
+|-heal|p2a: Hatterene|72/100|[from] drain|[of] p1a: Zarude
+|
+|-weather|none
+|-heal|p1a: Zarude|7/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781268650
+|move|p1a: Zarude|Power Whip|p2a: Hatterene
+|-damage|p2a: Hatterene|12/100
+|move|p2a: Hatterene|Draining Kiss|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|0 fnt
+|-heal|p2a: Hatterene|17/100|[from] drain|[of] p1a: Zarude
+|faint|p1a: Zarude
+|
+|upkeep
+|
+|t:|1781268656
+|switch|p1a: Great Tusk|Great Tusk|31/100
+|turn|11
+|
+|t:|1781268662
+|move|p1a: Great Tusk|Headlong Rush|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781268664
+|switch|p2a: Walking Wake|Walking Wake, tera:Water|10/100
+|turn|12
+|
+|t:|1781268670
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Cresselia|Cresselia, F|32/100
+|move|p2a: Walking Wake|Hydro Steam|p1a: Cresselia
+|-damage|p1a: Cresselia|0 fnt
+|faint|p1a: Cresselia
+|
+|upkeep
+|
+|t:|1781268676
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|turn|13
+|
+|t:|1781268681
+|switch|p1a: Great Tusk|Great Tusk|31/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Walking Wake|Hydro Steam|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781268687
+|switch|p1a: Ceruledge|Ceruledge, F, tera:Fairy|100/100
+|turn|14
+|
+|t:|1781268692
+|move|p2a: Walking Wake|Hydro Steam|p1a: Ceruledge
+|-enditem|p1a: Ceruledge|Focus Sash
+|-damage|p1a: Ceruledge|1/100
+|move|p1a: Ceruledge|Bitter Blade|p2a: Walking Wake
+|-resisted|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|-heal|p1a: Ceruledge|6/100|[from] drain|[of] p2a: Walking Wake
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781268698
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|15
+|
+|t:|1781268703
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Ninetales
+|-damage|p1a: Ninetales|74/100
+|-boost|p2a: Great Tusk|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781268710
+|switch|p1a: Ceruledge|Ceruledge, F, tera:Fairy|6/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Ceruledge
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781268715
+|switch|p1a: Ninetales|Ninetales, F|74/100
+|turn|17
+|
+|t:|1781268720
+|move|p2a: Great Tusk|Headlong Rush|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Ninetales
+|
+|win|Superhjkdetective
+|raw|rekjllj's rating: 1693 &rarr; <strong>1672</strong><br />(-21 for losing)
+|raw|Superhjkdetective's rating: 1673 &rarr; <strong>1694</strong><br />(+21 for winning)
+|c|☆rekjllj|gg
+|l|☆rekjllj
+|player|p1|
+|l|☆Superhjkdetective
+|player|p2|

@@ -1,0 +1,164 @@
+|j|☆billythekid95
+|j|☆FP.//06
+|t:|1781103046
+|gametype|singles
+|player|p1|billythekid95|1|1541
+|player|p2|FP.//06|hilda-masters3|1524
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Walking Wake|
+|poke|p1|Ribombee, F|
+|poke|p1|Gholdengo|
+|poke|p1|Torkoal, F|
+|poke|p1|Great Tusk|
+|poke|p1|Ceruledge, F|
+|poke|p2|Blaziken, M|
+|poke|p2|Ninetales, F|
+|poke|p2|Venusaur, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Great Tusk|
+|poke|p2|Walking Wake|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FP.//06)
+|
+|t:|1781103051
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ribombee|Ribombee, F|100/100
+|switch|p2a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|1
+|
+|t:|1781103058
+|move|p1a: Ribombee|Sticky Web|p2a: Ninetales
+|-sidestart|p2: FP.//06|move: Sticky Web
+|move|p2a: Ninetales|Flamethrower|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-enditem|p1a: Ribombee|Focus Sash
+|-damage|p1a: Ribombee|1/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781103064
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-activate|p2a: Hatterene|move: Sticky Web
+|-unboost|p2a: Hatterene|spe|1
+|move|p1a: Ribombee|Stun Spore|p2a: Hatterene
+|move|p2a: Hatterene|Stun Spore|p1a: Ribombee|[from] ability: Magic Bounce
+|-status|p1a: Ribombee|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781103073
+|move|p1a: Ribombee|Moonblast|p2a: Hatterene
+|-damage|p2a: Hatterene|55/100
+|-unboost|p2a: Hatterene|spa|1
+|-enditem|p2a: Hatterene|Eject Button
+|
+|t:|1781103078
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781103085
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Gholdengo
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781103093
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|turn|5
+|inactive|FP.//06 has 120 seconds left.
+|inactive|FP.//06 has 90 seconds left.
+|
+|t:|1781103169
+|move|p1a: Walking Wake|Hydro Steam|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781103172
+|switch|p2a: Venusaur|Venusaur, M|100/100
+|-activate|p2a: Venusaur|move: Sticky Web
+|-unboost|p2a: Venusaur|spe|1
+|turn|6
+|inactive|FP.//06 has 60 seconds left.
+|
+|t:|1781103229
+|move|p2a: Venusaur|Growth|p2a: Venusaur
+|-boost|p2a: Venusaur|atk|2
+|-boost|p2a: Venusaur|spa|2
+|move|p1a: Walking Wake|Hydro Steam|p2a: Venusaur
+|-resisted|p2a: Venusaur
+|-damage|p2a: Venusaur|30/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781103237
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Ribombee|Ribombee, F|1/100 par
+|move|p2a: Venusaur|Giga Drain|p1a: Ribombee
+|-resisted|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|-heal|p2a: Venusaur|31/100|[from] drain|[of] p1a: Ribombee
+|faint|p1a: Ribombee
+|-damage|p2a: Venusaur|21/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781103249
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|turn|8
+|inactive|FP.//06 has 30 seconds left.
+|
+|t:|1781103280
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|-weather|none
+|upkeep
+|-message|FP.//06 forfeited.
+|
+|win|billythekid95
+|raw|billythekid95's rating: 1541 &rarr; <strong>1560</strong><br />(+19 for winning)
+|raw|FP.&#x2f;&#x2f;06's rating: 1524 &rarr; <strong>1505</strong><br />(-19 for losing)
+|l|☆FP.//06
+|player|p2|
+|l|☆billythekid95
+|player|p1|

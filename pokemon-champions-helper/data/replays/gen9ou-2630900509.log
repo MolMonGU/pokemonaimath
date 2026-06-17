@@ -1,0 +1,278 @@
+|j|☆zwardo2000
+|j|☆rekjllj
+|t:|1781308673
+|gametype|singles
+|player|p1|zwardo2000|giovanni|1484
+|player|p2|rekjllj|169|1522
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Hatterene, F|
+|poke|p1|Darkrai|
+|poke|p1|Great Tusk|
+|poke|p1|Dragonite, F|
+|poke|p1|Gholdengo|
+|poke|p2|Walking Wake|
+|poke|p2|Great Tusk|
+|poke|p2|Ninetales, M|
+|poke|p2|Cresselia, F|
+|poke|p2|Zarude|
+|poke|p2|Ceruledge, F|
+|teampreview
+|c|☆rekjllj|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by rekjllj)
+|
+|t:|1781308698
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Darkrai|Darkrai|100/100
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|turn|1
+|
+|t:|1781308704
+|move|p1a: Darkrai|Dark Pulse|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-enditem|p2a: Ceruledge|Focus Sash
+|-damage|p2a: Ceruledge|1/100
+|cant|p2a: Ceruledge|flinch
+|
+|upkeep
+|turn|2
+|
+|t:|1781308710
+|move|p1a: Darkrai|Dark Pulse|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|upkeep
+|
+|t:|1781308716
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|3
+|
+|t:|1781308723
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Great Tusk|Ice Spinner|p1a: Hatterene
+|-damage|p1a: Hatterene|73/100
+|-damage|p2a: Great Tusk|84/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|
+|upkeep
+|turn|4
+|
+|t:|1781308731
+|move|p2a: Great Tusk|Headlong Rush|p1a: Hatterene
+|-damage|p1a: Hatterene|19/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-damage|p2a: Great Tusk|67/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|move|p1a: Hatterene|Psychic Noise|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781308738
+|switch|p2a: Zarude|Zarude|100/100
+|turn|5
+|
+|t:|1781308754
+|move|p2a: Zarude|Swords Dance|p2a: Zarude
+|-boost|p2a: Zarude|atk|2
+|move|p1a: Hatterene|Pain Split|p2a: Zarude
+|-sethp|p2a: Zarude|59/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Hatterene|66/100|[from] move: Pain Split
+|
+|-heal|p2a: Zarude|65/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781308761
+|move|p2a: Zarude|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-damage|p2a: Zarude|48/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|-enditem|p1a: Hatterene|Rocky Helmet|[from] move: Knock Off|[of] p2a: Zarude
+|faint|p1a: Hatterene
+|
+|-heal|p2a: Zarude|55/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781308764
+|switch|p1a: Darkrai|Darkrai|100/100
+|turn|7
+|
+|t:|1781308769
+|-terastallize|p2a: Zarude|Poison
+|move|p1a: Darkrai|Ice Beam|p2a: Zarude
+|-damage|p2a: Zarude|23/100
+|move|p2a: Zarude|Synthesis|p2a: Zarude
+|-heal|p2a: Zarude|73/100
+|
+|-heal|p2a: Zarude|79/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781308780
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Zarude|Power Whip|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|40/100
+|
+|-heal|p2a: Zarude|85/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781308786
+|move|p2a: Zarude|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-enditem|p1a: Gholdengo|Shuca Berry|[from] move: Knock Off|[of] p2a: Zarude
+|faint|p1a: Gholdengo
+|
+|-heal|p2a: Zarude|91/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781308794
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|10
+|
+|t:|1781308799
+|-terastallize|p1a: Great Tusk|Poison
+|move|p2a: Zarude|Power Whip|p1a: Great Tusk|[miss]
+|-miss|p2a: Zarude|p1a: Great Tusk
+|move|p1a: Great Tusk|Headlong Rush|p2a: Zarude
+|-supereffective|p2a: Zarude
+|-damage|p2a: Zarude|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Zarude
+|
+|upkeep
+|
+|t:|1781308806
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|turn|11
+|
+|t:|1781308815
+|move|p2a: Walking Wake|Draco Meteor|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-unboost|p2a: Walking Wake|spa|2
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781308829
+|switch|p1a: Darkrai|Darkrai|100/100
+|turn|12
+|
+|t:|1781308834
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Ninetales|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|move|p1a: Darkrai|Dark Pulse|p2a: Ninetales
+|-damage|p2a: Ninetales|60/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781308840
+|move|p1a: Darkrai|Dark Pulse|p2a: Ninetales
+|-damage|p2a: Ninetales|14/100
+|cant|p2a: Ninetales|flinch
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781308846
+|move|p1a: Darkrai|Dark Pulse|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781308852
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|turn|15
+|
+|t:|1781308858
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|move|p2a: Walking Wake|Draco Meteor|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|40/100
+|-unboost|p2a: Walking Wake|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781308865
+|move|p1a: Dragonite|Extreme Speed|p2a: Walking Wake
+|-damage|p2a: Walking Wake|67/100
+|move|p2a: Walking Wake|Draco Meteor|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|-unboost|p2a: Walking Wake|spa|2
+|faint|p1a: Dragonite
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781308872
+|switch|p1a: Darkrai|Darkrai|100/100
+|turn|17
+|
+|t:|1781308878
+|move|p1a: Darkrai|Dark Pulse|p2a: Walking Wake
+|-crit|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781308883
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|turn|18
+|
+|t:|1781308889
+|move|p1a: Darkrai|Dark Pulse|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|47/100
+|move|p2a: Cresselia|Thunder Wave|p1a: Darkrai
+|-status|p1a: Darkrai|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781308895
+|move|p1a: Darkrai|Dark Pulse|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|0 fnt
+|faint|p2a: Cresselia
+|
+|win|zwardo2000
+|raw|zwardo2000's rating: 1484 &rarr; <strong>1506</strong><br />(+22 for winning)
+|raw|rekjllj's rating: 1522 &rarr; <strong>1500</strong><br />(-22 for losing)
+|c|☆rekjllj|gg

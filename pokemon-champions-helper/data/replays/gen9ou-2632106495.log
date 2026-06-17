@@ -1,0 +1,394 @@
+|j|☆eljugoaaron
+|j|☆bigtestsofbig
+|t:|1781476826
+|gametype|singles
+|player|p1|eljugoaaron|169|1533
+|player|p2|bigtestsofbig|102|1572
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Kingambit, M|
+|poke|p1|Great Tusk|
+|poke|p1|Cinderace, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Enamorus-Therian, F|
+|poke|p2|Lucario, M|
+|poke|p2|Great Tusk|
+|poke|p2|Garganacl, F|
+|poke|p2|Zapdos|
+|poke|p2|Primarina, F|
+|poke|p2|Darkrai|
+|teampreview
+|
+|t:|1781476836
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Garganacl|Garganacl, F|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by bigtestsofbig)
+|
+|t:|1781476842
+|move|p1a: Kyurem|Earth Power|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|68/100
+|-unboost|p2a: Garganacl|spd|1
+|move|p2a: Garganacl|Salt Cure|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|85/100
+|-start|p1a: Kyurem|Salt Cure
+|
+|-heal|p2a: Garganacl|74/100|[from] item: Leftovers
+|-damage|p1a: Kyurem|72/100|[from] Salt Cure
+|upkeep
+|turn|2
+|
+|t:|1781476850
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781476857
+|move|p1a: Great Tusk|Headlong Rush|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|22/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Garganacl|Stealth Rock|p1a: Great Tusk
+|-sidestart|p1: eljugoaaron|move: Stealth Rock
+|
+|-heal|p2a: Garganacl|28/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781476864
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|upkeep
+|turn|5
+|
+|t:|1781476869
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|move|p2a: Zapdos|Hurricane|p1a: Cinderace
+|-damage|p1a: Cinderace|32/100
+|-start|p1a: Cinderace|confusion
+|
+|upkeep
+|turn|6
+|
+|t:|1781476875
+|-activate|p1a: Cinderace|confusion
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-start|p1a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|move|p2a: Zapdos|Volt Switch|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|t:|1781476882
+|switch|p2a: Lucario|Lucario, M|100/100|[from] Volt Switch
+|-damage|p2a: Lucario|98/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1781476902
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|7
+|
+|t:|1781476906
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Great Tusk|Close Combat|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|78/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-status|p1a: Great Tusk|par|[from] ability: Static|[of] p2a: Zapdos
+|
+|upkeep
+|turn|8
+|
+|t:|1781476912
+|move|p2a: Zapdos|Volt Switch|p1a: Great Tusk
+|-immune|p1a: Great Tusk
+|move|p1a: Great Tusk|Close Combat|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|57/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1781476918
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Zapdos|Hurricane|p1a: Slowking
+|-damage|p1a: Slowking|75/100
+|-start|p1a: Slowking|confusion
+|
+|upkeep
+|turn|10
+|
+|t:|1781476922
+|move|p2a: Zapdos|Volt Switch|p1a: Slowking
+|-damage|p1a: Slowking|61/100
+|
+|t:|1781476925
+|switch|p2a: Garganacl|Garganacl, F|28/100|[from] Volt Switch
+|-damage|p2a: Garganacl|16/100|[from] Stealth Rock
+|-activate|p1a: Slowking|confusion
+|-damage|p1a: Slowking|55/100|[from] confusion
+|
+|-heal|p2a: Garganacl|22/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781476931
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|72/100
+|-end|p1a: Slowking|confusion
+|move|p1a: Slowking|Psyshock|p2a: Garganacl
+|-damage|p2a: Garganacl|46/100
+|
+|-heal|p2a: Garganacl|52/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781476935
+|switch|p1a: Great Tusk|Great Tusk|100/100 par
+|move|p2a: Garganacl|Stealth Rock|p1a: Great Tusk
+|-sidestart|p1: eljugoaaron|move: Stealth Rock
+|
+|-heal|p2a: Garganacl|58/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781476943
+|switch|p2a: Zapdos|Zapdos|57/100
+|cant|p1a: Great Tusk|par
+|
+|upkeep
+|turn|14
+|
+|t:|1781476948
+|move|p2a: Zapdos|Hurricane|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781476950
+|switch|p1a: Kyurem|Kyurem|72/100
+|-damage|p1a: Kyurem|48/100|[from] Stealth Rock
+|-ability|p1a: Kyurem|Pressure
+|turn|15
+|
+|t:|1781476954
+|switch|p2a: Garganacl|Garganacl, F|58/100
+|-damage|p2a: Garganacl|46/100|[from] Stealth Rock
+|move|p1a: Kyurem|Freeze-Dry|p2a: Garganacl
+|-damage|p2a: Garganacl|25/100
+|
+|-heal|p2a: Garganacl|31/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781476960
+|move|p1a: Kyurem|Earth Power|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|faint|p2a: Garganacl
+|
+|upkeep
+|
+|t:|1781476970
+|switch|p2a: Lucario|Lucario, M|98/100
+|-damage|p2a: Lucario|95/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1781476976
+|-terastallize|p2a: Lucario|Normal
+|move|p2a: Lucario|Extreme Speed|p1a: Kyurem
+|-damage|p1a: Kyurem|13/100
+|move|p1a: Kyurem|Body Press|p2a: Lucario
+|-supereffective|p2a: Lucario
+|-damage|p2a: Lucario|14/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781476983
+|move|p2a: Lucario|Extreme Speed|p1a: Kyurem
+|-crit|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781476985
+|switch|p1a: Slowking|Slowking-Galar, M|89/100
+|-damage|p1a: Slowking|76/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1781476991
+|move|p2a: Lucario|Extreme Speed|p1a: Slowking
+|-damage|p1a: Slowking|23/100
+|move|p1a: Slowking|Sludge Bomb|p2a: Lucario
+|-damage|p2a: Lucario|0 fnt
+|faint|p2a: Lucario
+|
+|upkeep
+|
+|t:|1781476994
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|20
+|
+|t:|1781477003
+|move|p2a: Great Tusk|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|-enditem|p1a: Slowking|Assault Vest|[from] move: Knock Off|[of] p2a: Great Tusk
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1781477006
+|switch|p1a: Enamorus|Enamorus-Therian, F|100/100
+|-damage|p1a: Enamorus|76/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1781477009
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Zapdos|Zapdos|57/100
+|move|p1a: Enamorus|Iron Defense|p1a: Enamorus
+|-boost|p1a: Enamorus|def|2
+|
+|-heal|p1a: Enamorus|82/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781477015
+|-terastallize|p1a: Enamorus|Poison
+|move|p2a: Zapdos|Volt Switch|p1a: Enamorus
+|-crit|p1a: Enamorus
+|-damage|p1a: Enamorus|40/100
+|
+|t:|1781477022
+|switch|p2a: Primarina|Primarina, F|100/100|[from] Volt Switch
+|-damage|p2a: Primarina|88/100|[from] Stealth Rock
+|move|p1a: Enamorus|Calm Mind|p1a: Enamorus
+|-boost|p1a: Enamorus|spa|1
+|-boost|p1a: Enamorus|spd|1
+|
+|-heal|p1a: Enamorus|46/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781477030
+|move|p2a: Primarina|Surf|p1a: Enamorus
+|-damage|p1a: Enamorus|16/100
+|move|p1a: Enamorus|Draining Kiss|p2a: Primarina
+|-damage|p2a: Primarina|67/100
+|-heal|p1a: Enamorus|30/100|[from] drain|[of] p2a: Primarina
+|
+|-heal|p1a: Enamorus|36/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781477036
+|move|p2a: Primarina|Surf|p1a: Enamorus
+|-damage|p1a: Enamorus|8/100
+|move|p1a: Enamorus|Draining Kiss|p2a: Primarina
+|-damage|p2a: Primarina|47/100
+|-heal|p1a: Enamorus|21/100|[from] drain|[of] p2a: Primarina
+|
+|-heal|p1a: Enamorus|27/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781477041
+|move|p2a: Primarina|Surf|p1a: Enamorus
+|-damage|p1a: Enamorus|0 fnt
+|faint|p1a: Enamorus
+|
+|upkeep
+|
+|t:|1781477043
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|-item|p1a: Kingambit|Air Balloon
+|turn|26
+|
+|t:|1781477046
+|move|p2a: Primarina|Moonblast|p1a: Kingambit
+|-damage|p1a: Kingambit|35/100
+|-enditem|p1a: Kingambit|Air Balloon
+|move|p1a: Kingambit|Iron Head|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|upkeep
+|
+|t:|1781477052
+|switch|p2a: Darkrai|Darkrai|100/100
+|-damage|p2a: Darkrai|88/100|[from] Stealth Rock
+|turn|27
+|
+|t:|1781477056
+|move|p2a: Darkrai|Trick|p1a: Kingambit
+|-activate|p2a: Darkrai|move: Trick|[of] p1a: Kingambit
+|-item|p1a: Kingambit|Choice Scarf|[from] move: Trick
+|-enditem|p2a: Darkrai|Choice Scarf|[silent]|[from] move: Trick
+|move|p1a: Kingambit|Low Kick|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|upkeep
+|
+|t:|1781477061
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|28
+|
+|t:|1781477064
+|move|p1a: Kingambit|Low Kick|p2a: Great Tusk
+|-crit|p2a: Great Tusk
+|-damage|p2a: Great Tusk|24/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen5|[silent]
+|
+|win|bigtestsofbig
+|raw|eljugoaaron's rating: 1533 &rarr; <strong>1515</strong><br />(-18 for losing)
+|raw|bigtestsofbig's rating: 1572 &rarr; <strong>1590</strong><br />(+18 for winning)
+|l|☆eljugoaaron
+|player|p1|
+|l|☆bigtestsofbig
+|player|p2|

@@ -1,0 +1,414 @@
+|badge|p2|bronze|gen9ou|100-9
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆Golem Rising
+|j|☆isaac_gam3r
+|t:|1781243025
+|gametype|singles
+|player|p1|Golem Rising|bruno|1712
+|player|p2|isaac_gam3r|acetrainer-gen4dp|1791
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torkoal, F|
+|poke|p1|Walking Wake|
+|poke|p1|Great Tusk|
+|poke|p1|Goodra-Hisui, F|
+|poke|p1|Slither Wing|
+|poke|p1|Venusaur, F|
+|poke|p2|Primarina, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Heatran, M|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Weavile, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by isaac_gam3r)
+|
+|t:|1781243030
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|switch|p2a: Heatran|Heatran, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|
+|t:|1781243042
+|move|p2a: Heatran|Earth Power|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|11/100
+|move|p1a: Torkoal|Body Press|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|45/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781243049
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|move|p2a: Heatran|Lava Plume|p1a: Walking Wake
+|-resisted|p1a: Walking Wake
+|-damage|p1a: Walking Wake|82/100
+|-status|p1a: Walking Wake|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Walking Wake|76/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1781243062
+|switch|p2a: Primarina|Primarina, F, shiny|100/100
+|-terastallize|p1a: Walking Wake|Water
+|move|p1a: Walking Wake|Hydro Steam|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|52/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Primarina|58/100|[from] item: Leftovers
+|-damage|p1a: Walking Wake|70/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1781243071
+|move|p1a: Walking Wake|Hydro Steam|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|6/100
+|move|p2a: Primarina|Draining Kiss|p1a: Walking Wake
+|-damage|p1a: Walking Wake|36/100 brn
+|-heal|p2a: Primarina|30/100|[from] drain|[of] p1a: Walking Wake
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Primarina|36/100|[from] item: Leftovers
+|-damage|p1a: Walking Wake|30/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1781243081
+|move|p2a: Primarina|Protect|p2a: Primarina
+|-singleturn|p2a: Primarina|Protect
+|move|p1a: Walking Wake|Hydro Steam|p2a: Primarina
+|-activate|p2a: Primarina|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Primarina|42/100|[from] item: Leftovers
+|-damage|p1a: Walking Wake|24/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1781243089
+|move|p2a: Primarina|Protect||[still]
+|-fail|p2a: Primarina
+|move|p1a: Walking Wake|Hydro Steam|p2a: Primarina
+|-resisted|p2a: Primarina
+|-crit|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Walking Wake|18/100 brn|[from] brn
+|upkeep
+|
+|t:|1781243091
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|7
+|
+|t:|1781243101
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Slither Wing|Slither Wing|100/100
+|-activate|p1a: Slither Wing|ability: Protosynthesis
+|-start|p1a: Slither Wing|protosynthesisatk
+|move|p2a: Weavile|Knock Off|p1a: Slither Wing
+|-resisted|p1a: Slither Wing
+|-damage|p1a: Slither Wing|71/100
+|-enditem|p1a: Slither Wing|Choice Band|[from] move: Knock Off|[of] p2a: Weavile
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781243110
+|switch|p2a: Weezing|Weezing-Galar, M, shiny|100/100
+|move|p1a: Slither Wing|U-turn|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|92/100
+|
+|t:|1781243123
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Goodra|Goodra-Hisui, F|100/100|[from] U-turn
+|
+|-weather|none
+|-heal|p2a: Weezing|98/100|[from] item: Black Sludge
+|upkeep
+|turn|9
+|
+|t:|1781243129
+|move|p2a: Weezing|Will-O-Wisp|p1a: Goodra
+|-status|p1a: Goodra|brn
+|move|p1a: Goodra|Sludge Bomb|p2a: Weezing
+|-damage|p2a: Weezing|52/100
+|
+|-heal|p2a: Weezing|58/100|[from] item: Black Sludge
+|-damage|p1a: Goodra|94/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1781243141
+|switch|p2a: Heatran|Heatran, M|45/100
+|move|p1a: Goodra|Sludge Bomb|p2a: Heatran
+|-immune|p2a: Heatran
+|
+|-damage|p1a: Goodra|88/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781243147
+|move|p2a: Heatran|Earth Power|p1a: Goodra
+|-supereffective|p1a: Goodra
+|-damage|p1a: Goodra|59/100 brn
+|move|p1a: Goodra|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|6/100
+|
+|-damage|p1a: Goodra|53/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1781243155
+|move|p2a: Heatran|Earth Power|p1a: Goodra
+|-supereffective|p1a: Goodra
+|-crit|p1a: Goodra
+|-damage|p1a: Goodra|8/100 brn
+|-unboost|p1a: Goodra|spd|1
+|move|p1a: Goodra|Dragon Pulse|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-damage|p1a: Goodra|2/100 brn|[from] brn
+|upkeep
+|
+|t:|1781243159
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|13
+|
+|t:|1781243166
+|move|p2a: Garchomp|Earthquake|p1a: Goodra
+|-supereffective|p1a: Goodra
+|-damage|p1a: Goodra|0 fnt
+|faint|p1a: Goodra
+|
+|upkeep
+|
+|t:|1781243171
+|switch|p1a: Torkoal|Torkoal, F|11/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|14
+|
+|t:|1781243175
+|switch|p1a: Slither Wing|Slither Wing|71/100
+|-activate|p1a: Slither Wing|ability: Protosynthesis
+|-start|p1a: Slither Wing|protosynthesisatk
+|move|p2a: Garchomp|Earthquake|p1a: Slither Wing
+|-resisted|p1a: Slither Wing
+|-damage|p1a: Slither Wing|41/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781243183
+|switch|p2a: Weezing|Weezing-Galar, M, shiny|58/100
+|move|p1a: Slither Wing|U-turn|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|50/100
+|
+|t:|1781243188
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Walking Wake|Walking Wake, tera:Water|18/100 brn|[from] U-turn
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Weezing|56/100|[from] item: Black Sludge
+|-damage|p1a: Walking Wake|12/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1781243196
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Walking Wake|Hydro Steam|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|53/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Raging Bolt|59/100|[from] item: Leftovers
+|-damage|p1a: Walking Wake|5/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781243206
+|move|p2a: Raging Bolt|Thunderclap|p1a: Walking Wake
+|-supereffective|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Raging Bolt|65/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781243211
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|18
+|
+|t:|1781243216
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Weezing|Weezing-Galar, M, shiny|56/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Weezing
+|-damage|p2a: Weezing|21/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Weezing|27/100|[from] item: Black Sludge
+|upkeep
+|turn|19
+|
+|t:|1781243223
+|move|p1a: Great Tusk|Ice Spinner|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781243226
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|20
+|
+|t:|1781243231
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Slither Wing|Slither Wing|41/100
+|-activate|p1a: Slither Wing|ability: Protosynthesis
+|-start|p1a: Slither Wing|protosynthesisatk
+|move|p2a: Weavile|Triple Axel|p1a: Slither Wing
+|-damage|p1a: Slither Wing|27/100
+|-damage|p1a: Slither Wing|5/100
+|-damage|p1a: Slither Wing|0 fnt
+|faint|p1a: Slither Wing
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|-hitcount|p1: Slither Wing|3
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781243245
+|switch|p1a: Venusaur|Venusaur, F|100/100
+|turn|21
+|
+|t:|1781243248
+|move|p1a: Venusaur|Weather Ball|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-enditem|p2a: Weavile|Focus Sash
+|-damage|p2a: Weavile|1/100
+|-damage|p1a: Venusaur|91/100|[from] item: Life Orb
+|move|p2a: Weavile|Triple Axel|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|62/100
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|10/100
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|-hitcount|p1: Venusaur|3
+|
+|-weather|none
+|upkeep
+|
+|t:|1781243261
+|switch|p1a: Torkoal|Torkoal, F|11/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|22
+|
+|t:|1781243266
+|move|p2a: Weavile|Knock Off|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|-enditem|p1a: Torkoal|Heat Rock|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781243271
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|23
+|
+|t:|1781243277
+|move|p2a: Weavile|Knock Off|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|84/100
+|-enditem|p1a: Great Tusk|Choice Band|[from] move: Knock Off|[of] p2a: Weavile
+|move|p1a: Great Tusk|Ice Spinner|p2a: Weavile
+|-resisted|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781243284
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|24
+|
+|t:|1781243287
+|move|p2a: Garchomp|Outrage|p1a: Great Tusk
+|-damage|p1a: Great Tusk|39/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Great Tusk|27/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781243290
+|switch|p2a: Raging Bolt|Raging Bolt|65/100
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|25
+|
+|t:|1781243309
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p1a: Great Tusk|Ice Spinner|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|33/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|win|isaac_gam3r
+|raw|Golem Rising's rating: 1712 &rarr; <strong>1696</strong><br />(-16 for losing)
+|raw|isaac_gam3r's rating: 1791 &rarr; <strong>1807</strong><br />(+16 for winning)
+|l|☆Golem Rising
+|player|p1|
+|l|☆isaac_gam3r
+|player|p2|

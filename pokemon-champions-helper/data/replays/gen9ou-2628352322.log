@@ -1,0 +1,275 @@
+|j|☆zxrkawa
+|j|☆GODKUD
+|t:|1781011232
+|gametype|singles
+|player|p1|zxrkawa|elesa|1545
+|player|p2|GODKUD|ghetsis|1514
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Meowscarada, F|
+|poke|p1|Pecharunt|
+|poke|p1|Enamorus, F|
+|poke|p1|Iron Treads|
+|poke|p1|Skarmory, M|
+|poke|p1|Slowking, F|
+|poke|p2|Hydreigon, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Sandy Shocks|
+|poke|p2|Quaquaval, M|
+|poke|p2|Ceruledge, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by zxrkawa)
+|
+|t:|1781011244
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|turn|1
+|
+|t:|1781011250
+|move|p1a: Iron Treads|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|84/100
+|-damage|p1a: Iron Treads|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-enditem|p2a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: Corviknight|U-turn|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|78/100
+|
+|t:|1781011253
+|switch|p2a: Sandy Shocks|Sandy Shocks|100/100|[from] U-turn
+|-enditem|p2a: Sandy Shocks|Booster Energy
+|-activate|p2a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p2a: Sandy Shocks|protosynthesisspe
+|
+|-heal|p1a: Iron Treads|84/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781011266
+|move|p2a: Sandy Shocks|Earth Power|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|14/100
+|move|p1a: Iron Treads|Earthquake|p2a: Sandy Shocks
+|-supereffective|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|19/100
+|
+|-heal|p1a: Iron Treads|20/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781011279
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Slowking|Slowking, F|100/100
+|move|p2a: Sandy Shocks|Earth Power|p1a: Slowking
+|-damage|p1a: Slowking|79/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781011285
+|move|p2a: Sandy Shocks|Spikes|p1a: Slowking
+|-sidestart|p1: zxrkawa|Spikes
+|move|p1a: Slowking|Scald|p2a: Sandy Shocks
+|-supereffective|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|0 fnt
+|faint|p2a: Sandy Shocks
+|-end|p2a: Sandy Shocks|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781011292
+|switch|p2a: God of Destruction|Hydreigon, M|100/100
+|turn|5
+|
+|t:|1781011301
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|move|p2a: God of Destruction|Nasty Plot|p2a: God of Destruction
+|-boost|p2a: God of Destruction|spa|2
+|
+|upkeep
+|turn|6
+|
+|t:|1781011306
+|-terastallize|p2a: God of Destruction|Steel
+|move|p1a: Enamorus|Moonblast|p2a: God of Destruction
+|-resisted|p2a: God of Destruction
+|-damage|p2a: God of Destruction|68/100
+|-unboost|p2a: God of Destruction|spa|1
+|move|p2a: God of Destruction|Flash Cannon|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-crit|p1a: Enamorus
+|-damage|p1a: Enamorus|0 fnt
+|faint|p1a: Enamorus
+|-damage|p2a: God of Destruction|59/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781011312
+|switch|p1a: Meowscarada|Meowscarada, F|100/100
+|-damage|p1a: Meowscarada|88/100|[from] Spikes
+|turn|7
+|
+|t:|1781011320
+|switch|p2a: Corviknight|Corviknight, M|84/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Meowscarada|Knock Off|p2a: Corviknight
+|-start|p1a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p2a: Corviknight|56/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781011334
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|-damage|p1a: Pecharunt|88/100|[from] Spikes
+|move|p2a: Corviknight|U-turn|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-damage|p1a: Pecharunt|86/100
+|-damage|p2a: Corviknight|39/100|[from] item: Rocky Helmet|[of] p1a: Pecharunt
+|
+|t:|1781011337
+|switch|p2a: God of Destruction|Hydreigon, M, tera:Steel|59/100|[from] U-turn
+|
+|upkeep
+|turn|9
+|
+|t:|1781011343
+|switch|p1a: Slowking|Slowking, F|100/100
+|-damage|p1a: Slowking|88/100|[from] Spikes
+|move|p2a: God of Destruction|Dark Pulse|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|40/100
+|-damage|p2a: God of Destruction|49/100|[from] item: Life Orb
+|
+|upkeep
+|turn|10
+|
+|t:|1781011350
+|-terastallize|p1a: Slowking|Steel
+|move|p2a: God of Destruction|Dark Pulse|p1a: Slowking
+|-damage|p1a: Slowking|17/100
+|-damage|p2a: God of Destruction|39/100|[from] item: Life Orb
+|move|p1a: Slowking|Flamethrower|p2a: God of Destruction
+|-supereffective|p2a: God of Destruction
+|-damage|p2a: God of Destruction|0 fnt
+|faint|p2a: God of Destruction
+|
+|upkeep
+|
+|t:|1781011363
+|switch|p2a: Quaquaval|Quaquaval, M|100/100
+|turn|11
+|
+|t:|1781011366
+|move|p2a: Quaquaval|Knock Off|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|-enditem|p1a: Slowking|Assault Vest|[from] move: Knock Off|[of] p2a: Quaquaval
+|faint|p1a: Slowking
+|-ability|p2a: Quaquaval|Moxie|boost
+|-boost|p2a: Quaquaval|atk|1
+|
+|upkeep
+|
+|t:|1781011371
+|switch|p1a: Meowscarada|Meowscarada, F|88/100
+|-damage|p1a: Meowscarada|76/100|[from] Spikes
+|turn|12
+|
+|t:|1781011376
+|move|p1a: Meowscarada|Triple Axel|p2a: Quaquaval
+|-start|p1a: Meowscarada|typechange|Ice|[from] ability: Protean
+|-resisted|p2a: Quaquaval
+|-damage|p2a: Quaquaval|92/100
+|-resisted|p2a: Quaquaval
+|-crit|p2a: Quaquaval
+|-damage|p2a: Quaquaval|66/100
+|-resisted|p2a: Quaquaval
+|-damage|p2a: Quaquaval|43/100
+|-hitcount|p2a: Quaquaval|3
+|move|p2a: Quaquaval|Brick Break|p1a: Meowscarada
+|-supereffective|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|faint|p1a: Meowscarada
+|-ability|p2a: Quaquaval|Moxie|boost
+|-boost|p2a: Quaquaval|atk|1
+|
+|upkeep
+|
+|t:|1781011382
+|switch|p1a: Pecharunt|Pecharunt|86/100
+|-damage|p1a: Pecharunt|74/100|[from] Spikes
+|turn|13
+|
+|t:|1781011385
+|move|p2a: Quaquaval|Knock Off|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|14/100
+|-damage|p2a: Quaquaval|26/100|[from] item: Rocky Helmet|[of] p1a: Pecharunt
+|-enditem|p1a: Pecharunt|Rocky Helmet|[from] move: Knock Off|[of] p2a: Quaquaval
+|move|p1a: Pecharunt|Parting Shot|p2a: Quaquaval
+|-unboost|p2a: Quaquaval|atk|1
+|-unboost|p2a: Quaquaval|spa|1
+|
+|t:|1781011390
+|switch|p1a: Skarmory|Skarmory, M|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|14
+|
+|t:|1781011393
+|move|p2a: Quaquaval|Knock Off|p1a: Skarmory
+|-damage|p1a: Skarmory|71/100
+|-enditem|p1a: Skarmory|Covert Cloak|[from] move: Knock Off|[of] p2a: Quaquaval
+|move|p1a: Skarmory|Body Press|p2a: Quaquaval
+|-damage|p2a: Quaquaval|0 fnt
+|faint|p2a: Quaquaval
+|
+|upkeep
+|
+|t:|1781011397
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|turn|15
+|j| chagu39
+|
+|t:|1781011400
+|switch|p1a: Iron Treads|Iron Treads|20/100
+|-damage|p1a: Iron Treads|7/100|[from] Spikes
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|-heal|p1a: Iron Treads|13/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781011404
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|c|☆zxrkawa|gg
+|-message|zxrkawa forfeited.
+|
+|win|GODKUD
+|raw|zxrkawa's rating: 1545 &rarr; <strong>1523</strong><br />(-22 for losing)
+|raw|GODKUD's rating: 1514 &rarr; <strong>1536</strong><br />(+22 for winning)
+|l|☆zxrkawa
+|player|p1|
+|c|☆GODKUD|Gg
+|l|☆GODKUD
+|player|p2|

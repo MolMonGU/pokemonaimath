@@ -1,0 +1,246 @@
+|j|☆KurisuChestnutOU
+|j|☆MVA Bjirtos
+|t:|1781149401
+|gametype|singles
+|player|p1|KurisuChestnutOU|may-contest|1636
+|player|p2|MVA Bjirtos|riley|1540
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, F|
+|poke|p1|Kommo-o, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Crown|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Iron Moth|
+|poke|p2|Alomomola, F|
+|poke|p2|Darkrai|
+|poke|p2|Polteageist|
+|poke|p2|Haxorus, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by MVA Bjirtos)
+|inactive|KurisuChestnutOU also wants the timer to be on.
+|
+|t:|1781149410
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|switch|p2a: Eclipse|Darkrai|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|turn|1
+|
+|t:|1781149426
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Eclipse
+|-damage|p2a: Eclipse|68/100
+|-damage|p2a: Eclipse|35/100
+|-hitcount|p2a: Eclipse|2
+|move|p2a: Eclipse|Dark Pulse|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|-damage|p2a: Eclipse|25/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781149432
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|turn|2
+|
+|t:|1781149440
+|switch|p2a: Teardrop|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Teardrop
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781149447
+|move|p2a: Teardrop|Encore|p1a: Kingambit
+|-start|p1a: Kingambit|Encore
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781149454
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|move|p2a: Teardrop|Aurora Veil|p2a: Teardrop
+|-sidestart|p2: MVA Bjirtos|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781149459
+|switch|p2a: Eclipse|Darkrai|25/100
+|move|p1a: Iron Treads|Earthquake|p2a: Eclipse
+|-damage|p2a: Eclipse|0 fnt
+|faint|p2a: Eclipse
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781149468
+|switch|p2a: Aezor|Haxorus, M, shiny|100/100
+|-ability|p2a: Aezor|Mold Breaker
+|turn|6
+|
+|t:|1781149472
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Kommo-o|Kommo-o, F|100/100
+|move|p2a: Aezor|Dragon Dance|p2a: Aezor
+|-boost|p2a: Aezor|atk|1
+|-boost|p2a: Aezor|spe|1
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1781149483
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|move|p2a: Aezor|Scale Shot|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|88/100
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|77/100
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|64/100
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|53/100
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|41/100
+|-hitcount|p1a: Kingambit|5
+|-unboost|p2a: Aezor|def|1
+|-boost|p2a: Aezor|spe|1
+|-damage|p2a: Aezor|91/100|[from] item: Life Orb
+|
+|-heal|p1a: Kingambit|48/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781149487
+|move|p2a: Aezor|Earthquake|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen1|[silent]
+|-damage|p2a: Aezor|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781149491
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|turn|9
+|
+|t:|1781149496
+|-terastallize|p1a: Iron Treads|Ghost
+|move|p2a: Aezor|Earthquake|p1a: Iron Treads
+|-damage|p1a: Iron Treads|46/100
+|-damage|p2a: Aezor|71/100|[from] item: Life Orb
+|move|p1a: Iron Treads|Stealth Rock|p2a: Aezor
+|-sidestart|p2: MVA Bjirtos|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|t:|1781149503
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Aezor|Earthquake|p1a: Kyurem
+|-damage|p1a: Kyurem|24/100
+|-damage|p2a: Aezor|61/100|[from] item: Life Orb
+|
+|upkeep
+|turn|11
+|
+|t:|1781149510
+|move|p2a: Aezor|Earthquake|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|-damage|p2a: Aezor|51/100|[from] item: Life Orb
+|
+|-sideend|p2: MVA Bjirtos|move: Aurora Veil
+|upkeep
+|
+|t:|1781149514
+|switch|p1a: Iron Treads|Iron Treads, tera:Ghost|46/100
+|turn|12
+|
+|t:|1781149518
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Kommo-o|Kommo-o, F|100/100
+|move|p2a: Aezor|Earthquake|p1a: Kommo-o
+|-damage|p1a: Kommo-o|37/100
+|-damage|p2a: Aezor|41/100|[from] item: Life Orb
+|
+|-heal|p1a: Kommo-o|43/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781149526
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Aezor|Earthquake|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|-damage|p2a: Aezor|31/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781149531
+|switch|p1a: Kommo-o|Kommo-o, F|43/100
+|turn|14
+|
+|t:|1781149535
+|move|p2a: Aezor|Earthquake|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|-damage|p2a: Aezor|22/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781149538
+|switch|p1a: Iron Treads|Iron Treads, tera:Ghost|46/100
+|turn|15
+|
+|t:|1781149546
+|move|p2a: Aezor|Earthquake|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|-damage|p2a: Aezor|12/100|[from] item: Life Orb
+|
+|win|MVA Bjirtos
+|raw|KurisuChestnutOU's rating: 1636 &rarr; <strong>1611</strong><br />(-25 for losing)
+|raw|MVA Bjirtos's rating: 1540 &rarr; <strong>1565</strong><br />(+25 for winning)

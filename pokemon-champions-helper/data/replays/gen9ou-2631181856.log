@@ -1,0 +1,230 @@
+|j|☆Mawile442
+|j|☆ilikemos
+|t:|1781354761
+|gametype|singles
+|player|p1|Mawile442|170|1660
+|player|p2|ilikemos|266|1568
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Sandy Shocks|
+|poke|p1|Scizor, F|
+|poke|p1|Manaphy|
+|poke|p1|Latios, M|
+|poke|p1|Ogerpon, F|
+|poke|p1|Iron Jugulis|
+|poke|p2|Great Tusk|
+|poke|p2|Gholdengo|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Kingambit, M|
+|poke|p2|Zamazenta-*|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mawile442)
+|
+|t:|1781354779
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Jugulis|Iron Jugulis, shiny|100/100
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|1
+|
+|t:|1781354786
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|move|p1a: Iron Jugulis|Earth Power|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|48/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781354801
+|-terastallize|p1a: Iron Jugulis|Ground
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p1a: Iron Jugulis|Earth Power|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|11/100
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Iron Jugulis
+|-immune|p1a: Iron Jugulis
+|
+|upkeep
+|turn|3
+|
+|t:|1781354811
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Iron Jugulis|Earth Power|p2a: Ogerpon
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|75/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781354816
+|move|p1a: Iron Jugulis|Hurricane|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781354823
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|5
+|
+|t:|1781354826
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|3/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|move|p2a: Gholdengo|Make It Rain|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|19/100
+|-unboost|p2a: Gholdengo|spa|1
+|
+|upkeep
+|turn|6
+|
+|t:|1781354835
+|switch|p2a: Raging Bolt|Raging Bolt, tera:Fairy|11/100
+|move|p1a: Iron Jugulis|Earth Power|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781354839
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|turn|7
+|
+|t:|1781354850
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|switch|p1a: Sandy Shocks|Sandy Shocks, shiny|100/100
+|-enditem|p1a: Sandy Shocks|Booster Energy
+|-activate|p1a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p1a: Sandy Shocks|protosynthesisspe
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|
+|upkeep
+|turn|8
+|
+|t:|1781354867
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Sandy Shocks|Earth Power|p2a: Great Tusk
+|-damage|p2a: Great Tusk|44/100
+|
+|-heal|p2a: Great Tusk|50/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781354873
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Gholdengo|Gholdengo|3/100
+|move|p1a: Sandy Shocks|Earth Power|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781354879
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|10
+|
+|t:|1781354882
+|move|p1a: Sandy Shocks|Discharge|p2a: Zamazenta
+|-damage|p2a: Zamazenta|72/100
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-heal|p2a: Zamazenta|78/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781354892
+|move|p1a: Sandy Shocks|Discharge|p2a: Zamazenta
+|-damage|p2a: Zamazenta|47/100
+|-status|p2a: Zamazenta|par
+|move|p2a: Zamazenta|Body Press|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|12/100
+|
+|-heal|p2a: Zamazenta|53/100 par|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781354902
+|move|p1a: Sandy Shocks|Discharge|p2a: Zamazenta
+|-damage|p2a: Zamazenta|25/100 par
+|cant|p2a: Zamazenta|par
+|
+|-heal|p2a: Zamazenta|31/100 par|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781354906
+|move|p1a: Sandy Shocks|Earth Power|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781354912
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|14
+|
+|t:|1781354915
+|move|p1a: Sandy Shocks|Earth Power|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|10/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|0 fnt
+|faint|p1a: Sandy Shocks
+|-end|p1a: Sandy Shocks|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781354924
+|switch|p1a: Manaphy|Manaphy, shiny|100/100
+|turn|15
+|
+|t:|1781354937
+|move|p2a: Kingambit|Sucker Punch|p1a: Manaphy
+|-damage|p1a: Manaphy|29/100
+|-enditem|p1a: Manaphy|Sitrus Berry|[eat]
+|-heal|p1a: Manaphy|54/100|[from] item: Sitrus Berry
+|move|p1a: Manaphy|Surf|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen4|[silent]
+|
+|upkeep
+|-message|ilikemos forfeited.
+|
+|win|Mawile442
+|raw|Mawile442's rating: 1660 &rarr; <strong>1675</strong><br />(+15 for winning)
+|raw|ilikemos's rating: 1568 &rarr; <strong>1553</strong><br />(-15 for losing)
+|l|☆ilikemos
+|player|p2|
+|l|☆Mawile442
+|player|p1|

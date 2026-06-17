@@ -1,0 +1,297 @@
+|j|☆XianTwa
+|j|☆hat_fm
+|t:|1781418141
+|gametype|singles
+|player|p1|XianTwa|dawn|1632
+|player|p2|hat_fm|pilot|1520
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Araquanid, M|
+|poke|p1|Enamorus, F|
+|poke|p1|Great Tusk|
+|poke|p1|Gholdengo|
+|poke|p1|Iron Moth|
+|poke|p1|Quaquaval, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Ceruledge, F|
+|poke|p2|Scizor, F|
+|poke|p2|Donphan, F|
+|poke|p2|Lycanroc-Dusk, M|
+|poke|p2|Florges, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by XianTwa)
+|
+|t:|1781418157
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Quaquaval|Quaquaval, M|100/100
+|switch|p2a: Donphan|Donphan, F|100/100
+|turn|1
+|
+|t:|1781418160
+|move|p1a: Quaquaval|Aqua Step|p2a: Donphan
+|-supereffective|p2a: Donphan
+|-damage|p2a: Donphan|52/100
+|-boost|p1a: Quaquaval|spe|1
+|-damage|p1a: Quaquaval|84/100|[from] item: Rocky Helmet|[of] p2a: Donphan
+|move|p2a: Donphan|Stealth Rock|p1a: Quaquaval
+|-sidestart|p1: XianTwa|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781418167
+|move|p1a: Quaquaval|Wave Crash|p2a: Donphan
+|-supereffective|p2a: Donphan
+|-damage|p2a: Donphan|0 fnt
+|-damage|p1a: Quaquaval|68/100|[from] item: Rocky Helmet|[of] p2a: Donphan
+|faint|p2a: Donphan
+|-ability|p1a: Quaquaval|Moxie|boost
+|-boost|p1a: Quaquaval|atk|1
+|-damage|p1a: Quaquaval|47/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1781418178
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|turn|3
+|
+|t:|1781418185
+|move|p1a: Quaquaval|Aqua Step|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-enditem|p2a: Ceruledge|Focus Sash
+|-damage|p2a: Ceruledge|1/100
+|-boost|p1a: Quaquaval|spe|1
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1781418198
+|-terastallize|p2a: Ceruledge|Ghost
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Quaquaval
+|-damage|p1a: Quaquaval|0 fnt
+|faint|p1a: Quaquaval
+|
+|upkeep
+|inactive|XianTwa has 120 seconds left.
+|
+|t:|1781418241
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|98/100|[from] Stealth Rock
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|5
+|
+|t:|1781418255
+|move|p2a: Ceruledge|Bitter Blade|p1a: Great Tusk
+|-damage|p1a: Great Tusk|33/100
+|-heal|p2a: Ceruledge|42/100|[from] drain|[of] p1a: Great Tusk
+|move|p1a: Great Tusk|Headlong Rush|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Ceruledge
+|
+|upkeep
+|
+|t:|1781418274
+|switch|p2a: Lycanroc|Lycanroc-Dusk, M|100/100
+|turn|6
+|
+|t:|1781418278
+|move|p2a: Lycanroc|Zen Headbutt|p1a: Great Tusk|[miss]
+|-miss|p2a: Lycanroc|p1a: Great Tusk
+|move|p1a: Great Tusk|Rapid Spin|p2a: Lycanroc
+|-resisted|p2a: Lycanroc
+|-damage|p2a: Lycanroc|80/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: XianTwa|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|7
+|
+|t:|1781418291
+|switch|p2a: Scizor|Scizor, F|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Scizor
+|-damage|p2a: Scizor|25/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781418296
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Araquanid|Araquanid, M|100/100
+|move|p2a: Scizor|Bullet Punch|p1a: Araquanid
+|-resisted|p1a: Araquanid
+|-damage|p1a: Araquanid|75/100
+|-damage|p2a: Scizor|15/100|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1781418302
+|move|p2a: Scizor|Knock Off|p1a: Araquanid
+|-damage|p1a: Araquanid|20/100
+|-enditem|p1a: Araquanid|Custap Berry|[from] move: Knock Off|[of] p2a: Scizor
+|-damage|p2a: Scizor|5/100|[from] item: Life Orb
+|move|p1a: Araquanid|Sticky Web|p2a: Scizor
+|-sidestart|p2: hat_fm|move: Sticky Web
+|
+|upkeep
+|turn|10
+|
+|t:|1781418308
+|move|p2a: Scizor|Bullet Punch|p1a: Araquanid
+|-resisted|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|faint|p1a: Araquanid
+|-damage|p2a: Scizor|0 fnt|[from] item: Life Orb
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1781418320
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|switch|p1a: Great Tusk|Great Tusk|33/100
+|-activate|p2a: Zamazenta|move: Sticky Web
+|-unboost|p2a: Zamazenta|spe|1
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|11
+|
+|t:|1781418325
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|move|p2a: Zamazenta|Roar|p1a: Enamorus
+|drag|p1a: Great Tusk|Great Tusk|33/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781418333
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Zamazenta|Body Press|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|
+|upkeep
+|turn|13
+|
+|t:|1781418338
+|move|p2a: Zamazenta|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|52/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|move|p1a: Gholdengo|Shadow Ball|p2a: Zamazenta
+|-damage|p2a: Zamazenta|61/100
+|
+|-heal|p2a: Zamazenta|67/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781418346
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|move|p2a: Zamazenta|Crunch|p1a: Enamorus
+|-resisted|p1a: Enamorus
+|-damage|p1a: Enamorus|85/100
+|-boost|p1a: Enamorus|def|1
+|
+|-heal|p2a: Zamazenta|73/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|j| Jasoa
+|
+|t:|1781418351
+|switch|p2a: Florges|Florges, F|100/100
+|-activate|p2a: Florges|move: Sticky Web
+|-unboost|p2a: Florges|spe|1
+|move|p1a: Enamorus|Substitute|p1a: Enamorus
+|-start|p1a: Enamorus|Substitute
+|-damage|p1a: Enamorus|60/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781418357
+|move|p1a: Enamorus|Moonblast|p2a: Florges
+|-damage|p2a: Florges|53/100
+|-damage|p1a: Enamorus|50/100|[from] item: Life Orb
+|move|p2a: Florges|Psychic Noise|p1a: Enamorus
+|-damage|p1a: Enamorus|17/100
+|-start|p1a: Enamorus|move: Heal Block
+|
+|-heal|p2a: Florges|59/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781418369
+|-terastallize|p1a: Enamorus|Fairy
+|move|p1a: Enamorus|Moonblast|p2a: Florges
+|-damage|p2a: Florges|0 fnt
+|faint|p2a: Florges
+|-damage|p1a: Enamorus|7/100|[from] item: Life Orb
+|
+|-end|p1a: Enamorus|move: Heal Block
+|upkeep
+|
+|t:|1781418378
+|switch|p2a: Lycanroc|Lycanroc-Dusk, M|80/100
+|-activate|p2a: Lycanroc|move: Sticky Web
+|-unboost|p2a: Lycanroc|spe|1
+|turn|18
+|
+|t:|1781418388
+|move|p2a: Lycanroc|Accelerock|p1a: Enamorus
+|-crit|p1a: Enamorus
+|-end|p1a: Enamorus|Substitute
+|-damage|p2a: Lycanroc|70/100|[from] item: Life Orb
+|move|p1a: Enamorus|Draining Kiss|p2a: Lycanroc
+|-damage|p2a: Lycanroc|0 fnt
+|-heal|p1a: Enamorus|60/100|[from] drain|[of] p2a: Lycanroc
+|faint|p2a: Lycanroc
+|-damage|p1a: Enamorus|50/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781418389
+|switch|p2a: Zamazenta|Zamazenta|73/100
+|-activate|p2a: Zamazenta|move: Sticky Web
+|-unboost|p2a: Zamazenta|spe|1
+|turn|19
+|
+|t:|1781418396
+|move|p1a: Enamorus|Draining Kiss|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|-heal|p1a: Enamorus|100/100|[from] drain|[of] p2a: Zamazenta
+|faint|p2a: Zamazenta
+|-damage|p1a: Enamorus|91/100|[from] item: Life Orb
+|
+|win|XianTwa
+|raw|XianTwa's rating: 1632 &rarr; <strong>1646</strong><br />(+14 for winning)
+|raw|hat_fm's rating: 1520 &rarr; <strong>1506</strong><br />(-14 for losing)
+|l|☆XianTwa
+|player|p1|
+|l|☆hat_fm
+|player|p2|
+|l| Jasoa

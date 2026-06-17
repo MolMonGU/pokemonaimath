@@ -1,0 +1,364 @@
+|j|☆healorant
+|j|☆lolshh
+|t:|1781202050
+|gametype|singles
+|player|p1|healorant|alder|1796
+|player|p2|lolshh|dawn|1745
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Rillaboom, F|
+|poke|p1|Kyurem|
+|poke|p1|Great Tusk|
+|poke|p1|Kingambit, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Iron Crown|
+|poke|p2|Kingambit, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Kyurem|
+|poke|p2|Iron Treads|
+|poke|p2|Ceruledge, M|
+|teampreview
+|j| Drewisonline
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lolshh)
+|
+|t:|1781202064
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781202067
+|move|p2a: Iron Treads|Stealth Rock|p1a: Dragapult
+|-sidestart|p1: healorant|move: Stealth Rock
+|move|p1a: Dragapult|Flamethrower|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|6/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781202076
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Iron Treads|Earthquake|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|65/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781202081
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|-item|p2a: Ceruledge|Air Balloon
+|move|p1a: Great Tusk|Stealth Rock|p2a: Ceruledge
+|-sidestart|p2: lolshh|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1781202091
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1781202095
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|j| cherryclona
+|
+|t:|1781202106
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-damage|p1a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|6
+|
+|t:|1781202109
+|-terastallize|p1a: Rillaboom|Fire
+|move|p2a: Ceruledge|Bitter Blade|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|40/100
+|move|p1a: Rillaboom|Knock Off|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|4/100
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|-enditem|p2a: Ceruledge|Air Balloon
+|
+|-heal|p2a: Ceruledge|10/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|46/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|52/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781202116
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Rillaboom
+|-damage|p1a: Rillaboom|8/100
+|move|p1a: Rillaboom|Grassy Glide|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-crit|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|-heal|p1a: Rillaboom|14/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|20/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781202128
+|switch|p2a: Kyurem|Kyurem|100/100
+|-damage|p2a: Kyurem|76/100|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|turn|8
+|
+|t:|1781202130
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-damage|p1a: Iron Crown|94/100|[from] Stealth Rock
+|move|p2a: Kyurem|Scale Shot|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|87/100
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|81/100
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|73/100
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|67/100
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|59/100
+|-hitcount|p1a: Iron Crown|5
+|-unboost|p2a: Kyurem|def|1
+|-boost|p2a: Kyurem|spe|1
+|
+|-heal|p2a: Kyurem|82/100|[from] Grassy Terrain
+|-heal|p1a: Iron Crown|66/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781202139
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|88/100|[from] Stealth Rock
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Ogerpon
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|73/100
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|57/100
+|-hitcount|p2a: Ogerpon|2
+|
+|-heal|p2a: Ogerpon|63/100|[from] Grassy Terrain
+|-heal|p1a: Iron Crown|72/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1781202146
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Iron Crown|[anim] Ivy Cudgel Water
+|-damage|p1a: Iron Crown|14/100
+|move|p1a: Iron Crown|Volt Switch|p2a: Ogerpon
+|-damage|p2a: Ogerpon|35/100
+|l| cherryclona
+|
+|t:|1781202154
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Volt Switch
+|-ability|p1a: Kyurem|Pressure
+|
+|-heal|p2a: Ogerpon|41/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781202159
+|move|p2a: Ogerpon|Play Rough|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|32/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-crit|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781202166
+|switch|p2a: Iron Treads|Iron Treads|6/100
+|-damage|p2a: Iron Treads|3/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781202170
+|move|p2a: Iron Treads|Rapid Spin|p1a: Kyurem
+|-damage|p1a: Kyurem|19/100
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: lolshh|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: Kyurem|Freeze-Dry|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781202192
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|13
+|
+|t:|1781202194
+|move|p2a: Iron Valiant|Moonblast|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781202199
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|turn|14
+|
+|t:|1781202205
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781202210
+|move|p1a: Kingambit|Low Kick|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1781202216
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|turn|16
+|
+|t:|1781202218
+|-terastallize|p2a: Iron Valiant|Ghost
+|move|p2a: Iron Valiant|Encore|p1a: Kingambit
+|-start|p1a: Kingambit|Encore
+|move|p1a: Kingambit|Low Kick|p2a: Iron Valiant
+|-immune|p2a: Iron Valiant
+|
+|upkeep
+|turn|17
+|
+|t:|1781202226
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Iron Crown|Iron Crown|14/100
+|-damage|p1a: Iron Crown|7/100|[from] Stealth Rock
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|18
+|
+|t:|1781202230
+|move|p2a: Iron Valiant|Moonblast|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781202232
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|19
+|
+|t:|1781202234
+|move|p2a: Iron Valiant|Moonblast|p1a: Kingambit
+|-damage|p1a: Kingambit|11/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-heal|p1a: Kingambit|17/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781202238
+|switch|p2a: Kyurem|Kyurem|82/100
+|-ability|p2a: Kyurem|Pressure
+|turn|20
+|
+|t:|1781202251
+|move|p2a: Kyurem|Earth Power|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1781202253
+|switch|p1a: Great Tusk|Great Tusk|65/100
+|turn|21
+|
+|t:|1781202256
+|move|p2a: Kyurem|Icicle Spear|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|47/100
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|30/100
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|14/100
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|-hitcount|p1: Great Tusk|4
+|
+|upkeep
+|
+|t:|1781202259
+|switch|p1a: Rillaboom|Rillaboom, F, tera:Fire|20/100
+|-damage|p1a: Rillaboom|0 fnt|[from] Stealth Rock
+|faint|p1a: Rillaboom
+|
+|win|lolshh
+|raw|healorant's rating: 1796 &rarr; <strong>1773</strong><br />(-23 for losing)
+|raw|lolshh's rating: 1745 &rarr; <strong>1768</strong><br />(+23 for winning)
+|l|☆healorant
+|player|p1|
+|l|☆lolshh
+|player|p2|
+|l| Drewisonline

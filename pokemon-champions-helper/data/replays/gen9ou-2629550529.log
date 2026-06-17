@@ -1,0 +1,327 @@
+|j|☆alakazam darnold
+|j|☆employment devil
+|t:|1781144703
+|gametype|singles
+|player|p1|alakazam darnold|boarder|1543
+|player|p2|employment devil|lusamine-nihilego|1608
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Meowscarada, M|
+|poke|p1|Froslass, F|
+|poke|p1|Great Tusk|
+|poke|p1|Weezing-Galar, M|
+|poke|p1|Dragonite, F|
+|poke|p1|Empoleon, M|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Primarina, F|
+|poke|p2|Darkrai|
+|poke|p2|Ursaluna, M|
+|poke|p2|Iron Treads|
+|poke|p2|Latias, F|
+|teampreview
+|c|☆employment devil|hf
+|c|☆alakazam darnold|u2
+|
+|t:|1781144727
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|1
+|
+|t:|1781144742
+|switch|p1a: Empoleon|Empoleon, M|100/100
+|move|p2a: Darkrai|Sludge Bomb|p1a: Empoleon
+|-immune|p1a: Empoleon
+|
+|upkeep
+|turn|2
+|
+|t:|1781144758
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|2
+|move|p1a: Empoleon|Surf|p2a: Darkrai
+|-damage|p2a: Darkrai|54/100
+|
+|-heal|p2a: Darkrai|60/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781144769
+|move|p2a: Darkrai|Focus Blast|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-damage|p1a: Empoleon|0 fnt
+|faint|p1a: Empoleon
+|
+|-heal|p2a: Darkrai|66/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781144780
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|4
+|
+|t:|1781144784
+|move|p1a: Great Tusk|Headlong Rush|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Darkrai
+|
+|upkeep
+|
+|t:|1781144789
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|5
+|
+|t:|1781144796
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: employment devil|Reflect
+|
+|upkeep
+|turn|6
+|
+|t:|1781144804
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Meowscarada|Dark Pulse|p2a: Iron Treads
+|-start|p1a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p2a: Iron Treads|33/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781144817
+|move|p2a: Iron Treads|Steel Beam|p1a: Meowscarada
+|-damage|p1a: Meowscarada|28/100
+|-damage|p2a: Iron Treads|0 fnt|[from] steelbeam
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|move|p1a: Meowscarada|Dark Pulse|p2: Iron Treads|[notarget]
+|-fail|p1a: Meowscarada
+|
+|upkeep
+|
+|t:|1781144845
+|switch|p2a: Primarina|Primarina, F|100/100
+|turn|8
+|
+|t:|1781144855
+|switch|p1a: Froslass|Froslass, F|100/100
+|move|p2a: Primarina|Calm Mind|p2a: Primarina
+|-boost|p2a: Primarina|spa|1
+|-boost|p2a: Primarina|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1781144861
+|move|p1a: Froslass|Thunder Wave|p2a: Primarina
+|-status|p2a: Primarina|par
+|move|p2a: Primarina|Moonblast|p1a: Froslass
+|-enditem|p1a: Froslass|Focus Sash
+|-damage|p1a: Froslass|1/100
+|-unboost|p1a: Froslass|spa|1
+|-damage|p2a: Primarina|91/100 par|[from] item: Life Orb
+|
+|upkeep
+|turn|10
+|
+|t:|1781144867
+|move|p1a: Froslass|Destiny Bond|p1a: Froslass
+|-singlemove|p1a: Froslass|Destiny Bond
+|move|p2a: Primarina|Calm Mind|p2a: Primarina
+|-boost|p2a: Primarina|spa|1
+|-boost|p2a: Primarina|spd|1
+|
+|upkeep
+|turn|11
+|
+|t:|1781144873
+|move|p2a: Primarina|Moonblast|p1a: Froslass
+|-damage|p1a: Froslass|0 fnt
+|-start|p2a: Primarina|Disable|Moonblast|[from] ability: Cursed Body|[of] p1a: Froslass
+|faint|p1a: Froslass
+|-activate|p1a: Froslass|move: Destiny Bond
+|faint|p2a: Primarina
+|
+|upkeep
+|
+|t:|1781144887
+|switch|p1a: Meowscarada|Meowscarada, M|28/100
+|switch|p2a: Ursaluna|Ursaluna, M|100/100
+|turn|12
+|
+|t:|1781144893
+|move|p1a: Meowscarada|Grass Knot|p2a: Ursaluna
+|-start|p1a: Meowscarada|typechange|Grass|[from] ability: Protean
+|-supereffective|p2a: Ursaluna
+|-damage|p2a: Ursaluna|0 fnt
+|faint|p2a: Ursaluna
+|
+|-sideend|p2: employment devil|Reflect
+|upkeep
+|
+|t:|1781144897
+|switch|p2a: Latias|Latias, F|100/100
+|turn|13
+|
+|t:|1781144908
+|switch|p1a: Weezing|Weezing-Galar, M|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781144920
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: employment devil|Reflect
+|move|p1a: Weezing|Strange Steam|p2a: Deoxys
+|-damage|p2a: Deoxys|67/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781144926
+|move|p2a: Deoxys|Taunt|p1a: Weezing
+|-start|p1a: Weezing|move: Taunt
+|move|p1a: Weezing|Strange Steam|p2a: Deoxys
+|-damage|p2a: Deoxys|32/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781144931
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|-ability|p2a: Deoxys|Pressure
+|switch|p1a: Meowscarada|Meowscarada, M|28/100
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: employment devil|move: Light Screen
+|
+|upkeep
+|turn|17
+|
+|t:|1781144935
+|move|p2a: Deoxys|Taunt|p1a: Meowscarada
+|-start|p1a: Meowscarada|move: Taunt
+|move|p1a: Meowscarada|Dark Pulse|p2a: Deoxys
+|-start|p1a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1781144938
+|switch|p2a: Latias|Latias, F|100/100
+|turn|18
+|
+|t:|1781144955
+|-terastallize|p2a: Latias|Fairy
+|move|p1a: Meowscarada|Dark Pulse|p2a: Latias
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|92/100
+|move|p2a: Latias|Agility|p2a: Latias
+|-boost|p2a: Latias|spe|2
+|
+|-heal|p2a: Latias|98/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781144959
+|switch|p1a: Weezing|Weezing-Galar, M|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|
+|-heal|p2a: Latias|100/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781144964
+|move|p2a: Latias|Stored Power|p1a: Weezing
+|-supereffective|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|
+|upkeep
+|
+|t:|1781144968
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|21
+|
+|t:|1781144973
+|-terastallize|p1a: Dragonite|Normal
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-sideend|p2: employment devil|Reflect
+|upkeep
+|turn|22
+|
+|t:|1781144981
+|move|p2a: Latias|Draining Kiss|p1a: Dragonite
+|-damage|p1a: Dragonite|75/100
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|23
+|
+|t:|1781144988
+|move|p1a: Dragonite|Extreme Speed|p2a: Latias
+|-damage|p2a: Latias|24/100
+|move|p2a: Latias|Stored Power|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|-heal|p2a: Latias|30/100|[from] item: Leftovers
+|-sideend|p2: employment devil|move: Light Screen
+|upkeep
+|
+|t:|1781144997
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|24
+|
+|t:|1781145001
+|move|p2a: Latias|Draining Kiss|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-heal|p2a: Latias|100/100|[from] drain|[of] p1a: Great Tusk
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|-message|alakazam darnold forfeited.
+|
+|win|employment devil
+|raw|alakazam darnold's rating: 1543 &rarr; <strong>1527</strong><br />(-16 for losing)
+|raw|employment devil's rating: 1608 &rarr; <strong>1624</strong><br />(+16 for winning)
+|l|☆alakazam darnold
+|player|p1|
+|l|☆employment devil
+|player|p2|

@@ -1,0 +1,245 @@
+|j|☆gatorskk
+|j|☆LowEL0God
+|t:|1781415312
+|gametype|singles
+|player|p1|gatorskk|265|1543
+|player|p2|LowEL0God|265|1565
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Darkrai|
+|poke|p1|Garchomp, M|
+|poke|p1|Alomomola, M|
+|poke|p1|Corviknight, F|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Ogerpon, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by gatorskk)
+|c|☆LowEL0God|hf
+|inactive|LowEL0God also wants the timer to be on.
+|c|☆gatorskk|hf
+|inactive|gatorskk has 120 seconds left.
+|
+|t:|1781415346
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Darkrai|Darkrai|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|1
+|
+|t:|1781415359
+|move|p1a: Darkrai|Ice Beam|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|8/100
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Darkrai|[miss]
+|-miss|p2a: Raging Bolt|p1a: Darkrai
+|
+|upkeep
+|turn|2
+|
+|t:|1781415369
+|move|p2a: Raging Bolt|Thunderclap|p1a: Darkrai
+|-damage|p1a: Darkrai|30/100
+|move|p1a: Darkrai|Ice Beam|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781415369
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|turn|3
+|
+|t:|1781415376
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1781415394
+|-terastallize|p2a: Kingambit|Dark
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Garchomp
+|-damage|p1a: Garchomp|1/100
+|-damage|p2a: Kingambit|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Kingambit|72/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|move|p1a: Garchomp|Dragon Tail|p2a: Kingambit
+|-damage|p2a: Kingambit|53/100
+|-end|p2a: Kingambit|fallen1|[silent]
+|drag|p2a: Overqwil|Overqwil, F|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781415406
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Garchomp|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: LowEL0God|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781415415
+|move|p1a: Garchomp|Spikes|p2a: Pelipper
+|-sidestart|p2: LowEL0God|Spikes
+|move|p2a: Pelipper|Weather Ball|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781415432
+|switch|p1a: Darkrai|Darkrai|30/100
+|turn|7
+|
+|t:|1781415435
+|move|p1a: Darkrai|Dark Pulse|p2a: Pelipper
+|-damage|p2a: Pelipper|15/100
+|move|p2a: Pelipper|Weather Ball|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781415452
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|turn|8
+|
+|t:|1781415457
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781415458
+|switch|p2a: Overqwil|Overqwil, F|100/100
+|-damage|p2a: Overqwil|88/100|[from] Stealth Rock
+|-damage|p2a: Overqwil|76/100|[from] Spikes
+|turn|9
+|
+|t:|1781415469
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Overqwil|Gunk Shot|p1a: Weezing
+|-damage|p1a: Weezing|49/100
+|-damage|p2a: Overqwil|66/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Weezing|55/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781415487
+|move|p2a: Overqwil|Swords Dance|p2a: Overqwil
+|-boost|p2a: Overqwil|atk|2
+|move|p1a: Weezing|Pain Split|p2a: Overqwil
+|-sethp|p2a: Overqwil|62/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Weezing|59/100|[from] move: Pain Split
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Weezing|65/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781415492
+|move|p2a: Overqwil|Liquidation|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|-damage|p2a: Overqwil|52/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|j| infopro play392
+|inactive|gatorskk has 120 seconds left.
+|
+|t:|1781415520
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|turn|12
+|
+|t:|1781415524
+|move|p2a: Overqwil|Liquidation|p1a: Corviknight
+|-damage|p1a: Corviknight|1/100
+|-damage|p2a: Overqwil|42/100|[from] item: Life Orb
+|move|p1a: Corviknight|Brave Bird|p2a: Overqwil
+|-crit|p2a: Overqwil
+|-damage|p2a: Overqwil|0 fnt
+|faint|p2a: Overqwil
+|-damage|p1a: Corviknight|0 fnt|[from] Recoil
+|faint|p1a: Corviknight
+|
+|-weather|none
+|upkeep
+|
+|t:|1781415538
+|switch|p2a: Kingambit|Kingambit, F, tera:Dark|53/100
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|-damage|p2a: Kingambit|40/100|[from] Stealth Rock
+|-damage|p2a: Kingambit|28/100|[from] Spikes
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|turn|13
+|
+|t:|1781415547
+|move|p2a: Kingambit|Sucker Punch|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|-heal|p2a: Kingambit|34/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781415557
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|turn|14
+|
+|t:|1781415567
+|move|p2a: Kingambit|Sucker Punch|p1a: Alomomola
+|-damage|p1a: Alomomola|47/100
+|move|p1a: Alomomola|Flip Turn|p2a: Kingambit
+|-crit|p2a: Kingambit
+|-damage|p2a: Kingambit|17/100
+|
+|-heal|p2a: Kingambit|23/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|-message|gatorskk forfeited.
+|
+|win|LowEL0God
+|raw|gatorskk's rating: 1543 &rarr; <strong>1524</strong><br />(-19 for losing)
+|raw|LowEL0God's rating: 1565 &rarr; <strong>1584</strong><br />(+19 for winning)
+|l|☆gatorskk
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|

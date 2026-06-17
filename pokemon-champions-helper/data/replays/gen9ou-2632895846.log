@@ -1,0 +1,164 @@
+|j|☆Nick Suzuki
+|j|☆Yujiro-Jamon
+|t:|1781575735
+|gametype|singles
+|player|p1|Nick Suzuki|skier|1551
+|player|p2|Yujiro-Jamon|alder|1483
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragonite, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Darkrai|
+|poke|p1|Gholdengo|
+|poke|p1|Moltres|
+|poke|p1|Walking Wake|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Clefable, F|
+|poke|p2|Conkeldurr, M|
+|poke|p2|Blaziken, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Corviknight, M|
+|teampreview
+|
+|t:|1781575750
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|switch|p2a: Conkeldurr|Conkeldurr, M|100/100
+|turn|1
+|
+|t:|1781575760
+|move|p1a: Walking Wake|Surf|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|65/100
+|move|p2a: Conkeldurr|Knock Off|p1a: Walking Wake
+|-damage|p1a: Walking Wake|61/100
+|-enditem|p1a: Walking Wake|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Conkeldurr
+|
+|upkeep
+|turn|2
+|
+|t:|1781575764
+|move|p1a: Walking Wake|Flip Turn|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|50/100
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Yujiro-Jamon)
+|
+|t:|1781575770
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Garchomp|Garchomp, M|100/100|[from] Flip Turn
+|move|p2a: Conkeldurr|Drain Punch|p1a: Garchomp
+|-damage|p1a: Garchomp|71/100
+|-heal|p2a: Conkeldurr|65/100|[from] drain|[of] p1a: Garchomp
+|-damage|p2a: Conkeldurr|53/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Conkeldurr|36/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|
+|upkeep
+|turn|3
+|
+|t:|1781575774
+|move|p1a: Garchomp|Stealth Rock|p2a: Conkeldurr
+|-sidestart|p2: Yujiro-Jamon|move: Stealth Rock
+|move|p2a: Conkeldurr|Ice Punch|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Conkeldurr|24/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Conkeldurr|7/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1781575784
+|switch|p1a: Walking Wake|Walking Wake|61/100
+|turn|4
+|
+|t:|1781575788
+|move|p2a: Conkeldurr|Mach Punch|p1a: Walking Wake
+|-damage|p1a: Walking Wake|36/100
+|move|p1a: Walking Wake|Knock Off|p2a: Conkeldurr
+|-resisted|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|-enditem|p2a: Conkeldurr|Assault Vest|[from] move: Knock Off|[of] p1a: Walking Wake
+|faint|p2a: Conkeldurr
+|
+|upkeep
+|
+|t:|1781575802
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|5
+|
+|t:|1781575806
+|move|p2a: Deoxys|Psychic|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781575811
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|6
+|
+|t:|1781575825
+|-terastallize|p2a: Deoxys|Electric
+|move|p2a: Deoxys|Nasty Plot|p2a: Deoxys
+|-boost|p2a: Deoxys|spa|2
+|move|p1a: Gholdengo|Make It Rain|p2a: Deoxys
+|-resisted|p2a: Deoxys
+|-damage|p2a: Deoxys|68/100
+|-unboost|p1a: Gholdengo|spa|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781575840
+|move|p2a: Deoxys|Thunderbolt|p1a: Gholdengo
+|-damage|p1a: Gholdengo|14/100
+|move|p1a: Gholdengo|Make It Rain|p2a: Deoxys
+|-resisted|p2a: Deoxys
+|-damage|p2a: Deoxys|46/100
+|-unboost|p1a: Gholdengo|spa|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781575845
+|move|p2a: Deoxys|Ice Beam|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781575848
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|9
+|
+|t:|1781575853
+|move|p1a: Dragonite|Extreme Speed|p2a: Deoxys
+|-damage|p2a: Deoxys|8/100
+|move|p2a: Deoxys|Ice Beam|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|-message|Nick Suzuki forfeited.
+|
+|win|Yujiro-Jamon
+|raw|Nick Suzuki's rating: 1551 &rarr; <strong>1527</strong><br />(-24 for losing)
+|raw|Yujiro-Jamon's rating: 1483 &rarr; <strong>1507</strong><br />(+24 for winning)
+|l|☆Nick Suzuki
+|player|p1|
+|l|☆Yujiro-Jamon
+|player|p2|

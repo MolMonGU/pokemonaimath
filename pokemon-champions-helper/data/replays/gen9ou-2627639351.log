@@ -1,0 +1,226 @@
+|j|☆XianTwa
+|j|☆DON family
+|t:|1780928890
+|gametype|singles
+|player|p1|XianTwa|dawn|1562
+|player|p2|DON family|pokemonranger|1548
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Arcanine-Hisui, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Zamazenta-*|
+|poke|p1|Darkrai|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p2|Araquanid, M|
+|poke|p2|Enamorus, F|
+|poke|p2|Gholdengo|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Great Tusk|
+|poke|p2|Dragonite, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by XianTwa)
+|
+|t:|1780928906
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Arcanine|Arcanine-Hisui, M|100/100
+|switch|p2a: Araquanid|Araquanid, M|100/100
+|turn|1
+|
+|t:|1780928910
+|move|p2a: Araquanid|Endure|p2a: Araquanid
+|-singleturn|p2a: Araquanid|move: Endure
+|move|p1a: Arcanine|Head Smash|p2a: Araquanid
+|-supereffective|p2a: Araquanid
+|-activate|p2a: Araquanid|move: Endure
+|-damage|p2a: Araquanid|1/100
+|
+|upkeep
+|turn|2
+|-enditem|p2a: Araquanid|Custap Berry|[eat]
+|-activate|p2a: Araquanid|item: Custap Berry|[consumed]
+|
+|t:|1780928919
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Araquanid|Surf|p1a: Hatterene
+|-damage|p1a: Hatterene|45/100
+|
+|upkeep
+|turn|3
+|
+|t:|1780928938
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Araquanid|Surf|p1a: Ogerpon
+|-immune|p1a: Ogerpon|[from] ability: Water Absorb
+|
+|upkeep
+|turn|4
+|
+|t:|1780928948
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Araquanid|[anim] Ivy Cudgel Water
+|-resisted|p2a: Araquanid
+|-crit|p2a: Araquanid
+|-damage|p2a: Araquanid|0 fnt
+|faint|p2a: Araquanid
+|
+|upkeep
+|
+|t:|1780928954
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|5
+|
+|t:|1780928958
+|move|p1a: Ogerpon|Play Rough|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|70/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1780928971
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Ogerpon|Play Rough|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|7/100
+|
+|upkeep
+|turn|7
+|
+|t:|1780928987
+|move|p2a: Dragonite|Ice Spinner|p1a: Ogerpon
+|-damage|p1a: Ogerpon|27/100
+|move|p1a: Ogerpon|Encore|p2a: Dragonite
+|-start|p2a: Dragonite|Encore
+|
+|upkeep
+|turn|8
+|
+|t:|1780928994
+|switch|p1a: Arcanine|Arcanine-Hisui, M|100/100
+|move|p2a: Dragonite|Ice Spinner|p1a: Arcanine
+|-resisted|p1a: Arcanine
+|-damage|p1a: Arcanine|68/100
+|
+|upkeep
+|turn|9
+|
+|t:|1780929004
+|move|p2a: Dragonite|Ice Spinner|p1a: Arcanine
+|-resisted|p1a: Arcanine
+|-damage|p1a: Arcanine|37/100
+|move|p1a: Arcanine|Flare Blitz|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1780929008
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisspe
+|turn|10
+|
+|t:|1780929017
+|switch|p1a: Hatterene|Hatterene, F|45/100
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|
+|upkeep
+|turn|11
+|
+|t:|1780929027
+|move|p2a: Great Tusk|Headlong Rush|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1780929034
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|12
+|
+|t:|1780929040
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|upkeep
+|turn|13
+|
+|t:|1780929051
+|move|p1a: Zamazenta|Heavy Slam|p2a: Enamorus
+|-supereffective|p2a: Enamorus
+|-damage|p2a: Enamorus|5/100
+|move|p2a: Enamorus|Calm Mind|p2a: Enamorus
+|-boost|p2a: Enamorus|spa|1
+|-boost|p2a: Enamorus|spd|1
+|
+|-heal|p2a: Enamorus|11/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1780929060
+|move|p1a: Zamazenta|Body Press|p2a: Enamorus
+|-resisted|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|
+|upkeep
+|
+|t:|1780929063
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|15
+|
+|t:|1780929073
+|move|p1a: Zamazenta|Crunch|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|49/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|
+|upkeep
+|turn|16
+|
+|t:|1780929078
+|move|p1a: Zamazenta|Crunch|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|-message|DON family forfeited.
+|
+|win|XianTwa
+|raw|XianTwa's rating: 1562 &rarr; <strong>1581</strong><br />(+19 for winning)
+|raw|DON family's rating: 1548 &rarr; <strong>1529</strong><br />(-19 for losing)
+|l|☆DON family
+|player|p2|
+|l|☆XianTwa
+|player|p1|

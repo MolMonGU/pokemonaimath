@@ -1,0 +1,449 @@
+|j|☆dnites
+|j|☆AllHailLechuguita
+|t:|1780969988
+|gametype|singles
+|player|p1|dnites|265|1601
+|player|p2|AllHailLechuguita|170|1603
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pincurchin, M|
+|poke|p1|Hawlucha, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Latias, F|
+|poke|p1|Raichu-Alola, F|
+|poke|p1|Iron Moth|
+|poke|p2|Ribombee, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Great Tusk|
+|poke|p2|Kingambit, F|
+|poke|p2|Skeledirge, F|
+|poke|p2|Gholdengo|
+|teampreview
+|
+|t:|1780969990
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pincurchin|Pincurchin, M|100/100
+|switch|p2a: Ribombee|Ribombee, F, shiny|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|turn|1
+|
+|t:|1780969994
+|move|p2a: Ribombee|Sticky Web|p1a: Pincurchin
+|-sidestart|p1: dnites|move: Sticky Web
+|move|p1a: Pincurchin|Discharge|p2a: Ribombee
+|-damage|p2a: Ribombee|45/100
+|
+|upkeep
+|turn|2
+|
+|t:|1780970005
+|switch|p2a: Great Tusk|Great Tusk, shiny|100/100
+|switch|p1a: Raichu|Raichu-Alola, F|100/100
+|-activate|p1a: Raichu|move: Sticky Web
+|-unboost|p1a: Raichu|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1780970008
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Kingambit|Kingambit, F, shiny|100/100
+|move|p1a: Raichu|Surf|p2a: Kingambit
+|-damage|p2a: Kingambit|58/100
+|
+|upkeep
+|turn|4
+|
+|t:|1780970012
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-activate|p1a: Iron Valiant|move: Sticky Web
+|-unboost|p1a: Iron Valiant|spe|1
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdriveatk
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|
+|upkeep
+|turn|5
+|
+|t:|1780970016
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Ribombee|Ribombee, F, shiny|45/100
+|move|p1a: Iron Valiant|Knock Off|p2a: Ribombee
+|-resisted|p2a: Ribombee
+|-damage|p2a: Ribombee|0 fnt
+|-enditem|p2a: Ribombee|Focus Sash|[from] move: Knock Off|[of] p1a: Iron Valiant
+|faint|p2a: Ribombee
+|
+|upkeep
+|
+|t:|1780970025
+|switch|p2a: Great Tusk|Great Tusk, shiny|100/100
+|turn|6
+|
+|t:|1780970028
+|-terastallize|p2a: Great Tusk|Fire
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|move|p1a: Iron Valiant|Knock Off|p2a: Great Tusk
+|-damage|p2a: Great Tusk|74/100
+|-enditem|p2a: Great Tusk|Leftovers|[from] move: Knock Off|[of] p1a: Iron Valiant
+|
+|upkeep
+|turn|7
+|
+|t:|1780970035
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p1a: Hawlucha|Electric Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Electric Seed
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|
+|upkeep
+|turn|8
+|
+|t:|1780970038
+|move|p1a: Hawlucha|Encore|p2a: Great Tusk
+|-start|p2a: Great Tusk|Encore
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|9
+|
+|t:|1780970040
+|move|p1a: Hawlucha|Acrobatics|p2a: Great Tusk
+|-damage|p2a: Great Tusk|61/100
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|
+|upkeep
+|turn|10
+|
+|t:|1780970043
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|
+|-end|p2a: Great Tusk|Encore
+|upkeep
+|turn|11
+|
+|t:|1780970046
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Skeledirge|Skeledirge, F|100/100
+|move|p1a: Hawlucha|Encore||[still]
+|-fail|p1a: Hawlucha
+|
+|upkeep
+|turn|12
+|
+|t:|1780970049
+|move|p1a: Hawlucha|Acrobatics|p2a: Skeledirge
+|-damage|p2a: Skeledirge|64/100
+|move|p2a: Skeledirge|Will-O-Wisp|p1a: Hawlucha
+|-status|p1a: Hawlucha|brn
+|
+|-damage|p1a: Hawlucha|94/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1780970053
+|move|p1a: Hawlucha|Encore|p2a: Skeledirge
+|-start|p2a: Skeledirge|Encore
+|move|p2a: Skeledirge|Will-O-Wisp|p1a: Hawlucha
+|-fail|p1a: Hawlucha|brn
+|
+|-damage|p1a: Hawlucha|88/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1780970058
+|switch|p1a: Pincurchin|Pincurchin, M|100/100
+|-activate|p1a: Pincurchin|move: Sticky Web
+|-unboost|p1a: Pincurchin|spe|1
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|switch|p2a: Great Tusk|Great Tusk, shiny, tera:Fire|61/100
+|
+|upkeep
+|turn|15
+|
+|t:|1780970066
+|switch|p1a: Hawlucha|Hawlucha, M|88/100 brn
+|move|p2a: Great Tusk|Earthquake|p1a: Hawlucha
+|-immune|p1a: Hawlucha
+|
+|-damage|p1a: Hawlucha|82/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1780970070
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-activate|p1a: Iron Moth|ability: Quark Drive
+|-start|p1a: Iron Moth|quarkdrivespa
+|move|p2a: Great Tusk|Rapid Spin|p1a: Iron Moth
+|-damage|p1a: Iron Moth|73/100
+|-boost|p2a: Great Tusk|spe|1
+|
+|upkeep
+|turn|17
+|
+|t:|1780970075
+|move|p2a: Great Tusk|Earthquake|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780970081
+|switch|p1a: Latias|Latias, F|100/100
+|-enditem|p1a: Latias|Electric Seed
+|-boost|p1a: Latias|def|1|[from] item: Electric Seed
+|turn|18
+|
+|t:|1780970091
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|
+|upkeep
+|turn|19
+|
+|t:|1780970102
+|-terastallize|p1a: Latias|Poison
+|move|p2a: Great Tusk|Ice Spinner|p1a: Latias
+|-damage|p1a: Latias|83/100
+|-fieldend|move: Electric Terrain
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|
+|upkeep
+|turn|20
+|
+|t:|1780970108
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Skeledirge|Skeledirge, F|64/100
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|
+|upkeep
+|turn|21
+|
+|t:|1780970112
+|move|p1a: Latias|Stored Power|p2a: Skeledirge
+|-damage|p2a: Skeledirge|20/100
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|70/100
+|
+|upkeep
+|turn|22
+|
+|t:|1780970115
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|100/100
+|
+|upkeep
+|turn|23
+|
+|t:|1780970118
+|move|p1a: Latias|Stored Power|p2a: Skeledirge
+|-damage|p2a: Skeledirge|43/100
+|move|p2a: Skeledirge|Will-O-Wisp|p1a: Latias
+|-status|p1a: Latias|brn
+|
+|-damage|p1a: Latias|77/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1780970126
+|switch|p2a: Kingambit|Kingambit, F, shiny|58/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Latias|Stored Power|p2a: Kingambit
+|-immune|p2a: Kingambit
+|
+|-damage|p1a: Latias|71/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1780970132
+|move|p2a: Kingambit|Sucker Punch|p1a: Latias
+|-damage|p1a: Latias|50/100 brn
+|move|p1a: Latias|Aura Sphere|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen1|[silent]
+|
+|-damage|p1a: Latias|44/100 brn|[from] brn
+|upkeep
+|
+|t:|1780970135
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|26
+|
+|t:|1780970138
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Latias|[anim] Ivy Cudgel Water
+|-damage|p1a: Latias|16/100 brn
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|66/100 brn
+|
+|-damage|p1a: Latias|60/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1780970146
+|move|p2a: Ogerpon|Encore|p1a: Latias
+|-start|p1a: Latias|Encore
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|100/100 brn
+|
+|-damage|p1a: Latias|94/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1780970151
+|switch|p1a: Pincurchin|Pincurchin, M|100/100
+|-activate|p1a: Pincurchin|move: Sticky Web
+|-unboost|p1a: Pincurchin|spe|1
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|29
+|
+|t:|1780970156
+|switch|p1a: Hawlucha|Hawlucha, M|82/100 brn
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|-damage|p1a: Hawlucha|76/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1780970158
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Hawlucha|[anim] Ivy Cudgel Water
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|upkeep
+|
+|t:|1780970160
+|switch|p1a: Raichu|Raichu-Alola, F|100/100
+|-activate|p1a: Raichu|move: Sticky Web
+|-unboost|p1a: Raichu|spe|1
+|turn|31
+|
+|t:|1780970169
+|move|p1a: Raichu|Volt Switch|p2a: Ogerpon
+|-damage|p2a: Ogerpon|32/100
+|
+|t:|1780970177
+|switch|p1a: Latias|Latias, F, tera:Poison|94/100 brn|[from] Volt Switch
+|move|p2a: Ogerpon|Horn Leech|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|45/100 brn
+|-heal|p2a: Ogerpon|63/100|[from] drain|[of] p1a: Latias
+|
+|-damage|p1a: Latias|39/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1780970184
+|move|p2a: Ogerpon|Horn Leech|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|0 fnt
+|-heal|p2a: Ogerpon|86/100|[from] drain|[of] p1a: Latias
+|faint|p1a: Latias
+|
+|upkeep
+|
+|t:|1780970187
+|switch|p1a: Raichu|Raichu-Alola, F|100/100
+|-activate|p1a: Raichu|move: Sticky Web
+|-unboost|p1a: Raichu|spe|1
+|turn|33
+|
+|t:|1780970189
+|move|p1a: Raichu|Thunderbolt|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1780970193
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|34
+|
+|t:|1780970198
+|move|p1a: Raichu|Thunderbolt|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|-enditem|p2a: Gholdengo|Air Balloon
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1780970200
+|switch|p2a: Skeledirge|Skeledirge, F|43/100
+|turn|35
+|
+|t:|1780970203
+|move|p1a: Raichu|Thunderbolt|p2a: Skeledirge
+|-damage|p2a: Skeledirge|0 fnt
+|faint|p2a: Skeledirge
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1780970206
+|switch|p2a: Great Tusk|Great Tusk, shiny, tera:Fire|61/100
+|turn|36
+|
+|t:|1780970209
+|move|p2a: Great Tusk|Rapid Spin|p1a: Raichu
+|-damage|p1a: Raichu|66/100
+|-boost|p2a: Great Tusk|spe|1
+|move|p1a: Raichu|Thunderbolt|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|win|dnites
+|raw|dnites's rating: 1601 &rarr; <strong>1621</strong><br />(+20 for winning)
+|raw|AllHailLechuguita's rating: 1603 &rarr; <strong>1583</strong><br />(-20 for losing)
+|l|☆AllHailLechuguita
+|player|p2|
+|l|☆dnites
+|player|p1|

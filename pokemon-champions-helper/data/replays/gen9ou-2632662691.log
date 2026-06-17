@@ -1,0 +1,297 @@
+|j|☆Archerdadon
+|j|☆testingrainteam2
+|t:|1781549035
+|gametype|singles
+|player|p1|Archerdadon|marshal|1542
+|player|p2|testingrainteam2|unknown|1524
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dondozo, M|
+|poke|p1|Great Tusk|
+|poke|p1|Ting-Lu|
+|poke|p1|Glimmora, M|
+|poke|p1|Primarina, M|
+|poke|p1|Hydrapple, F|
+|poke|p2|Pelipper, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Iron Treads|
+|poke|p2|Toxicroak, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Kilowattrel, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by testingrainteam2)
+|
+|t:|1781549045
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|1
+|
+|t:|1781549056
+|move|p2a: Barraskewda|Flip Turn|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-enditem|p1a: Glimmora|Focus Sash
+|-damage|p1a: Glimmora|1/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: testingrainteam2|move: Toxic Spikes
+|
+|t:|1781549060
+|switch|p2a: Iron Treads|Iron Treads|100/100|[from] Flip Turn
+|move|p1a: Glimmora|Power Gem|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|92/100
+|
+|-heal|p2a: Iron Treads|98/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781549070
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Iron Treads|Rapid Spin|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|93/100
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: testingrainteam2|Toxic Spikes|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|
+|-heal|p2a: Iron Treads|100/100|[from] item: Leftovers
+|-heal|p1a: Ting-Lu|99/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781549077
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Ting-Lu|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|65/100
+|-enditem|p2a: Hatterene|Eject Button
+|
+|t:|1781549083
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|
+|-heal|p1a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781549088
+|switch|p1a: Hydrapple|Hydrapple, F|100/100
+|move|p2a: Barraskewda|Flip Turn|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|94/100
+|-damage|p2a: Barraskewda|84/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|
+|t:|1781549092
+|switch|p2a: Pelipper|Pelipper, F|100/100|[from] Flip Turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781549102
+|switch|p1a: Primarina|Primarina, M|100/100
+|move|p2a: Pelipper|Hurricane|p1a: Primarina
+|-damage|p1a: Primarina|71/100
+|-start|p1a: Primarina|confusion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Primarina|77/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781549111
+|-activate|p1a: Primarina|confusion
+|move|p1a: Primarina|Psychic Noise|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|79/100
+|-start|p2a: Pelipper|move: Heal Block
+|move|p2a: Pelipper|U-turn|p1a: Primarina
+|-resisted|p1a: Primarina
+|-crit|p1a: Primarina
+|-damage|p1a: Primarina|71/100
+|
+|t:|1781549115
+|switch|p2a: Kilowattrel|Kilowattrel, F|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Primarina|77/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781549122
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|-terastallize|p2a: Kilowattrel|Flying
+|move|p2a: Kilowattrel|Hurricane|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|57/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ting-Lu|64/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781549139
+|move|p2a: Kilowattrel|Hurricane|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|20/100
+|-start|p1a: Ting-Lu|confusion
+|-activate|p1a: Ting-Lu|confusion
+|move|p1a: Ting-Lu|Payback|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|33/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ting-Lu|26/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781549153
+|switch|p1a: Glimmora|Glimmora, M|1/100
+|move|p2a: Kilowattrel|Hurricane|p1a: Glimmora
+|-resisted|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781549158
+|switch|p1a: Dondozo|Dondozo, M|100/100
+|turn|10
+|
+|t:|1781549162
+|switch|p2a: Toxicroak|Toxicroak, F|100/100
+|move|p1a: Dondozo|Waterfall|p2a: Toxicroak
+|-immune|p2a: Toxicroak|[from] ability: Dry Skin
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781549167
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Toxicroak|Toxic|p1a: Great Tusk
+|-status|p1a: Great Tusk|tox
+|
+|-weather|none
+|-damage|p1a: Great Tusk|94/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1781549175
+|switch|p2a: Hatterene|Hatterene, F|65/100
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ting-Lu|Ting-Lu|26/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|
+|-heal|p1a: Ting-Lu|32/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781549180
+|move|p2a: Hatterene|Draining Kiss|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|15/100
+|-heal|p2a: Hatterene|87/100|[from] drain|[of] p1a: Ting-Lu
+|move|p1a: Ting-Lu|Rest|p1a: Ting-Lu
+|-status|p1a: Ting-Lu|slp|[from] move: Rest
+|-heal|p1a: Ting-Lu|100/100 slp|[silent]
+|
+|upkeep
+|turn|14
+|
+|t:|1781549192
+|switch|p2a: Pelipper|Pelipper, F|79/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|switch|p1a: Primarina|Primarina, M|77/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Primarina|83/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781549200
+|move|p1a: Primarina|Substitute|p1a: Primarina
+|-start|p1a: Primarina|Substitute
+|-damage|p1a: Primarina|58/100
+|move|p2a: Pelipper|U-turn|p1a: Primarina
+|-resisted|p1a: Primarina
+|-activate|p1a: Primarina|move: Substitute|[damage]
+|
+|t:|1781549206
+|switch|p2a: Barraskewda|Barraskewda, F|84/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Primarina|64/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781549211
+|move|p2a: Barraskewda|Flip Turn|p1a: Primarina
+|-resisted|p1a: Primarina
+|-end|p1a: Primarina|Substitute
+|
+|t:|1781549215
+|switch|p2a: Iron Treads|Iron Treads|100/100|[from] Flip Turn
+|move|p1a: Primarina|Calm Mind|p1a: Primarina
+|-boost|p1a: Primarina|spa|1
+|-boost|p1a: Primarina|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Primarina|70/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781549220
+|-terastallize|p1a: Primarina|Poison
+|move|p2a: Iron Treads|Stealth Rock|p1a: Primarina
+|-sidestart|p1: Archerdadon|move: Stealth Rock
+|move|p1a: Primarina|Substitute|p1a: Primarina
+|-start|p1a: Primarina|Substitute
+|-damage|p1a: Primarina|45/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Primarina|51/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781549224
+|move|p2a: Iron Treads|Earthquake|p1a: Primarina
+|-supereffective|p1a: Primarina
+|-end|p1a: Primarina|Substitute
+|move|p1a: Primarina|Calm Mind|p1a: Primarina
+|-boost|p1a: Primarina|spa|1
+|-boost|p1a: Primarina|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Primarina|57/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781549227
+|move|p2a: Iron Treads|Earthquake|p1a: Primarina
+|-supereffective|p1a: Primarina
+|-crit|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|faint|p1a: Primarina
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|Archerdadon forfeited.
+|
+|win|testingrainteam2
+|raw|Archerdadon's rating: 1542 &rarr; <strong>1521</strong><br />(-21 for losing)
+|raw|testingrainteam2's rating: 1524 &rarr; <strong>1545</strong><br />(+21 for winning)
+|l|☆Archerdadon
+|player|p1|
+|l|☆testingrainteam2
+|player|p2|

@@ -1,0 +1,249 @@
+|j|☆overheat xyz
+|j|☆LetsgoBrandonJ
+|t:|1781324968
+|gametype|singles
+|player|p1|overheat xyz|2|1652
+|player|p2|LetsgoBrandonJ|palmer|1722
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Rillaboom, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Kingambit, F|
+|poke|p1|Corviknight, F|
+|poke|p2|Araquanid, M|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Moth|
+|poke|p2|Iron Valiant|
+|poke|p2|Raging Bolt|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LetsgoBrandonJ)
+|
+|t:|1781324974
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|switch|p2a: Araquanid|Araquanid, M, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1781324985
+|move|p1a: Rillaboom|Wood Hammer|p2a: Araquanid
+|-damage|p2a: Araquanid|0 fnt
+|faint|p2a: Araquanid
+|-damage|p1a: Rillaboom|68/100|[from] Recoil
+|
+|-heal|p1a: Rillaboom|74/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781324994
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespa
+|turn|2
+|
+|t:|1781325008
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Slowking
+|-damage|p1a: Slowking|72/100
+|
+|-heal|p1a: Slowking|78/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781325018
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Kingambit|Kingambit, M, shiny|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|-item|p2a: Kingambit|Air Balloon
+|move|p1a: Slowking|Future Sight|p2a: Kingambit
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p1a: Slowking|85/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781325031
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1781325037
+|move|p1a: Samurott|Sacred Sword|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-enditem|p2a: Kingambit|Air Balloon
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen1|[silent]
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781325049
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|6
+|
+|t:|1781325059
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781325065
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Slowking
+|-damage|p1a: Slowking|49/100
+|move|p1a: Slowking|Sludge Bomb|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|73/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781325082
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|upkeep
+|
+|t:|1781325087
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|9
+|
+|t:|1781325094
+|-terastallize|p2a: Raging Bolt|Ghost
+|move|p1a: Dragapult|Shadow Ball|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|8/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1781325104
+|switch|p1a: Rillaboom|Rillaboom, M|74/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|10
+|
+|t:|1781325110
+|move|p1a: Rillaboom|Grassy Glide|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-heal|p1a: Rillaboom|80/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781325117
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|turn|11
+|
+|t:|1781325127
+|switch|p1a: Slowking|Slowking-Galar, M|82/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|47/100
+|-boost|p2a: Iron Moth|spa|1
+|
+|-heal|p1a: Slowking|53/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781325137
+|move|p2a: Iron Moth|Fiery Dance|p1a: Slowking
+|-damage|p1a: Slowking|22/100
+|-boost|p2a: Iron Moth|spa|1
+|move|p1a: Slowking|Psychic Noise|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-crit|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p1a: Slowking|28/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781325151
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespa
+|turn|13
+|
+|t:|1781325158
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|81/100
+|
+|-heal|p1a: Kingambit|88/100|[from] Grassy Terrain
+|-heal|p1a: Kingambit|94/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781325171
+|-terastallize|p1a: Kingambit|Fairy
+|move|p2a: Iron Valiant|Vacuum Wave|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|80/100
+|move|p1a: Kingambit|Iron Head|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-heal|p1a: Kingambit|87/100|[from] Grassy Terrain
+|-heal|p1a: Kingambit|93/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781325184
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|15
+|
+|t:|1781325188
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|-enditem|p2a: Gholdengo|Air Balloon
+|faint|p2a: Gholdengo
+|
+|win|overheat xyz
+|raw|overheat xyz's rating: 1652 &rarr; <strong>1676</strong><br />(+24 for winning)
+|raw|LetsgoBrandonJ's rating: 1722 &rarr; <strong>1698</strong><br />(-24 for losing)
+|l|☆LetsgoBrandonJ
+|player|p2|

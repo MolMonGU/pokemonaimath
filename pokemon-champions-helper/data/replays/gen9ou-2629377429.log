@@ -1,0 +1,301 @@
+|j|☆msean3
+|j|☆erhai
+|t:|1781124341
+|gametype|singles
+|player|p1|msean3|170|1674
+|player|p2|erhai|170|1680
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Darkrai|
+|poke|p1|Alomomola, F|
+|poke|p1|Corviknight, M|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Ogerpon, F|
+|poke|p2|Iron Jugulis|
+|poke|p2|Ogerpon, F|
+|poke|p2|Scizor, M|
+|poke|p2|Latios, M|
+|poke|p2|Manaphy|
+|poke|p2|Sandy Shocks|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by erhai)
+|
+|t:|1781124355
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Darkrai|Darkrai|100/100
+|switch|p2a: Sandy Shocks|Sandy Shocks|100/100
+|-enditem|p2a: Sandy Shocks|Booster Energy
+|-activate|p2a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p2a: Sandy Shocks|protosynthesisspe
+|turn|1
+|
+|t:|1781124358
+|move|p2a: Sandy Shocks|Discharge|p1a: Darkrai
+|-damage|p1a: Darkrai|49/100
+|move|p1a: Darkrai|Ice Beam|p2a: Sandy Shocks
+|-supereffective|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|0 fnt
+|faint|p2a: Sandy Shocks
+|-end|p2a: Sandy Shocks|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781124370
+|switch|p2a: Manaphy|Manaphy, shiny|100/100
+|turn|2
+|
+|t:|1781124373
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|move|p2a: Manaphy|Tail Glow|p2a: Manaphy
+|-boost|p2a: Manaphy|spa|3
+|
+|upkeep
+|turn|3
+|
+|t:|1781124377
+|move|p1a: Ogerpon|Encore|p2a: Manaphy
+|-start|p2a: Manaphy|Encore
+|move|p2a: Manaphy|Tail Glow|p2a: Manaphy
+|-boost|p2a: Manaphy|spa|3
+|
+|upkeep
+|turn|4
+|
+|t:|1781124382
+|switch|p2a: Iron Jugulis|Iron Jugulis|100/100
+|-enditem|p2a: Iron Jugulis|Booster Energy
+|-activate|p2a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Jugulis|quarkdrivespe
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Iron Jugulis
+|-resisted|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|73/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781124387
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Iron Jugulis|Hurricane|p1a: Alomomola
+|-damage|p1a: Alomomola|76/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781124390
+|move|p2a: Iron Jugulis|Hurricane|p1a: Alomomola
+|-damage|p1a: Alomomola|47/100
+|move|p1a: Alomomola|Play Rough|p2a: Iron Jugulis
+|-supereffective|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|33/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781124394
+|move|p2a: Iron Jugulis|Hurricane|p1a: Alomomola
+|-damage|p1a: Alomomola|20/100
+|move|p1a: Alomomola|Play Rough|p2a: Iron Jugulis
+|-supereffective|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|0 fnt
+|faint|p2a: Iron Jugulis
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781124404
+|switch|p2a: Latios|Latios, M, shiny|100/100
+|turn|8
+|
+|t:|1781124406
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Latios|Agility|p2a: Latios
+|-boost|p2a: Latios|spe|2
+|
+|upkeep
+|turn|9
+|
+|t:|1781124408
+|move|p2a: Latios|Calm Mind|p2a: Latios
+|-boost|p2a: Latios|spa|1
+|-boost|p2a: Latios|spd|1
+|move|p1a: Corviknight|Brave Bird|p2a: Latios
+|-damage|p2a: Latios|65/100
+|-damage|p1a: Corviknight|90/100|[from] Recoil
+|
+|-heal|p1a: Corviknight|96/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781124418
+|move|p2a: Latios|Calm Mind|p2a: Latios
+|-boost|p2a: Latios|spa|1
+|-boost|p2a: Latios|spd|1
+|move|p1a: Corviknight|Brave Bird|p2a: Latios
+|-damage|p2a: Latios|28/100
+|-damage|p1a: Corviknight|85/100|[from] Recoil
+|
+|-heal|p1a: Corviknight|91/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781124430
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Latios|Stored Power|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1781124434
+|switch|p1a: Corviknight|Corviknight, M|91/100
+|-ability|p1a: Corviknight|Pressure
+|turn|12
+|
+|t:|1781124437
+|move|p2a: Latios|Stored Power|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|47/100
+|move|p1a: Corviknight|Brave Bird|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|faint|p2a: Latios
+|-damage|p1a: Corviknight|39/100|[from] Recoil
+|
+|-heal|p1a: Corviknight|45/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781124445
+|switch|p2a: Scizor|Scizor, M, shiny|100/100
+|turn|13
+|
+|t:|1781124448
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|move|p1a: Corviknight|U-turn|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|93/100
+|
+|t:|1781124450
+|switch|p1a: Weezing|Weezing-Galar, F|100/100|[from] U-turn
+|-ability|p1a: Weezing|Neutralizing Gas
+|
+|upkeep
+|turn|14
+|
+|t:|1781124454
+|-terastallize|p2a: Scizor|Fire
+|-terastallize|p1a: Weezing|Water
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|move|p1a: Weezing|Will-O-Wisp|p2a: Scizor
+|-immune|p2a: Scizor
+|
+|upkeep
+|turn|15
+|
+|t:|1781124457
+|move|p2a: Scizor|Knock Off|p1a: Weezing
+|-damage|p1a: Weezing|27/100
+|-enditem|p1a: Weezing|Leftovers|[from] move: Knock Off|[of] p2a: Scizor
+|move|p1a: Weezing|Sludge Bomb|p2a: Scizor
+|-damage|p2a: Scizor|56/100
+|-status|p2a: Scizor|psn
+|
+|-damage|p2a: Scizor|43/100 psn|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1781124468
+|move|p2a: Scizor|Knock Off|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|
+|-damage|p2a: Scizor|31/100 psn|[from] psn
+|upkeep
+|
+|t:|1781124470
+|switch|p1a: Alomomola|Alomomola, F|53/100
+|turn|17
+|
+|t:|1781124476
+|move|p1a: Alomomola|Aqua Jet|p2a: Scizor
+|-supereffective|p2a: Scizor
+|-damage|p2a: Scizor|10/100 psn
+|move|p2a: Scizor|Knock Off|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|-enditem|p1a: Alomomola|Assault Vest|[from] move: Knock Off|[of] p2a: Scizor
+|faint|p1a: Alomomola
+|
+|-damage|p2a: Scizor|0 fnt|[from] psn
+|faint|p2a: Scizor
+|upkeep
+|
+|t:|1781124490
+|switch|p2a: Ogerpon|Ogerpon, F|100/100
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|turn|18
+|
+|t:|1781124497
+|move|p2a: Ogerpon|Rock Tomb|p1a: Ogerpon
+|-damage|p1a: Ogerpon|73/100
+|-unboost|p1a: Ogerpon|spe|1
+|-ability|p1a: Ogerpon|Defiant|boost
+|-boost|p1a: Ogerpon|atk|2
+|move|p1a: Ogerpon|U-turn|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|t:|1781124501
+|switch|p1a: Darkrai|Darkrai|49/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781124503
+|switch|p2a: Manaphy|Manaphy, shiny|100/100
+|turn|19
+|
+|t:|1781124509
+|move|p1a: Darkrai|Trick|p2a: Manaphy
+|-activate|p1a: Darkrai|move: Trick|[of] p2a: Manaphy
+|-item|p2a: Manaphy|Choice Specs|[from] move: Trick
+|-item|p1a: Darkrai|Custap Berry|[from] move: Trick
+|move|p2a: Manaphy|Surf|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|upkeep
+|
+|t:|1781124512
+|switch|p1a: Ogerpon|Ogerpon, F|73/100
+|turn|20
+|
+|t:|1781124514
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Manaphy
+|-supereffective|p2a: Manaphy
+|-crit|p2a: Manaphy
+|-damage|p2a: Manaphy|0 fnt
+|faint|p2a: Manaphy
+|
+|win|msean3
+|raw|msean3's rating: 1674 &rarr; <strong>1694</strong><br />(+20 for winning)
+|raw|erhai's rating: 1680 &rarr; <strong>1660</strong><br />(-20 for losing)
+|l|☆erhai
+|player|p2|
+|c|☆msean3|gg
+|l|☆msean3
+|player|p1|

@@ -1,0 +1,514 @@
+|j|☆phreshoatmeal
+|j|☆18dabloons
+|t:|1781156413
+|gametype|singles
+|player|p1|phreshoatmeal|clerk|1636
+|player|p2|18dabloons|caitlin|1739
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Excadrill, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Hippowdon, M|
+|poke|p1|Amoonguss, F|
+|poke|p1|Tauros-Paldea-Aqua, M|
+|poke|p2|Ursaluna, M|
+|poke|p2|Rillaboom, M|
+|poke|p2|Iron Moth|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Scizor, M|
+|poke|p2|Ting-Lu|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by phreshoatmeal)
+|
+|t:|1781156442
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tauros|Tauros-Paldea-Aqua, M|100/100
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-ability|p1a: Tauros|Intimidate|boost
+|-unboost|p2a: Rillaboom|atk|1
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1781156451
+|switch|p1a: Amoonguss|Amoonguss, F|100/100
+|move|p2a: Rillaboom|Grassy Glide|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|96/100
+|-damage|p2a: Rillaboom|84/100|[from] item: Rocky Helmet|[of] p1a: Amoonguss
+|
+|-heal|p2a: Rillaboom|90/100|[from] Grassy Terrain
+|-heal|p1a: Amoonguss|100/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781156469
+|switch|p2a: Scizor|Scizor, M|100/100
+|move|p1a: Amoonguss|Stun Spore|p2a: Scizor
+|-status|p2a: Scizor|par
+|
+|upkeep
+|turn|3
+|
+|t:|1781156475
+|move|p1a: Amoonguss|Foul Play|p2a: Scizor
+|-damage|p2a: Scizor|66/100 par
+|cant|p2a: Scizor|par
+|
+|-heal|p2a: Scizor|72/100 par|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781156487
+|move|p1a: Amoonguss|Toxic||[still]
+|-fail|p1a: Amoonguss
+|move|p2a: Scizor|Knock Off|p1a: Amoonguss
+|-damage|p1a: Amoonguss|73/100
+|-damage|p2a: Scizor|56/100 par|[from] item: Rocky Helmet|[of] p1a: Amoonguss
+|-enditem|p1a: Amoonguss|Rocky Helmet|[from] move: Knock Off|[of] p2a: Scizor
+|
+|-heal|p1a: Amoonguss|79/100|[from] Grassy Terrain
+|-heal|p2a: Scizor|62/100 par|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781156491
+|move|p1a: Amoonguss|Toxic||[still]
+|-fail|p1a: Amoonguss
+|move|p2a: Scizor|U-turn|p1a: Amoonguss
+|-damage|p1a: Amoonguss|47/100
+|j| Mega Delibird X
+|
+|t:|1781156499
+|switch|p2a: Iron Moth|Iron Moth|100/100|[from] U-turn
+|
+|-heal|p1a: Amoonguss|53/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781156504
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Iron Moth|U-turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|75/100
+|-enditem|p1a: Tyranitar|Eject Button
+|
+|t:|1781156510
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Moth|95/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1781156523
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Rillaboom|Rillaboom, M|90/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Excadrill|Iron Head|p2a: Rillaboom
+|-damage|p2a: Rillaboom|24/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rillaboom|18/100|[from] Sandstorm
+|-heal|p2a: Rillaboom|24/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1781156529
+|switch|p2a: Scizor|Scizor, M|62/100 par
+|move|p1a: Excadrill|Iron Head|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|24/100 par
+|-enditem|p2a: Scizor|Sitrus Berry|[eat]
+|-heal|p2a: Scizor|49/100 par|[from] item: Sitrus Berry
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Scizor|55/100 par|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781156537
+|switch|p1a: Amoonguss|Amoonguss, F|87/100
+|move|p2a: Scizor|U-turn|p1a: Amoonguss
+|-damage|p1a: Amoonguss|59/100
+|
+|t:|1781156544
+|switch|p2a: Ursaluna|Ursaluna, M|100/100|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Amoonguss|53/100|[from] Sandstorm
+|-heal|p1a: Amoonguss|59/100|[from] Grassy Terrain
+|-status|p2a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|10
+|
+|t:|1781156565
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|move|p2a: Ursaluna|Facade|p1a: Hippowdon
+|-damage|p1a: Hippowdon|37/100
+|-enditem|p1a: Hippowdon|Eject Button
+|
+|t:|1781156576
+|switch|p1a: Tauros|Tauros-Paldea-Aqua, M|100/100
+|-ability|p1a: Tauros|Intimidate|boost
+|-unboost|p2a: Ursaluna|atk|1
+|
+|-weather|none
+|-damage|p2a: Ursaluna|94/100 brn|[from] brn
+|upkeep
+|turn|11
+|inactive|phreshoatmeal has 120 seconds left.
+|inactive|18dabloons has 120 seconds left.
+|
+|t:|1781156620
+|-terastallize|p2a: Ursaluna|Fairy
+|move|p1a: Tauros|Close Combat|p2a: Ursaluna
+|-resisted|p2a: Ursaluna
+|-damage|p2a: Ursaluna|70/100 brn
+|-unboost|p1a: Tauros|def|1
+|-unboost|p1a: Tauros|spd|1
+|move|p2a: Ursaluna|Facade|p1a: Tauros
+|-damage|p1a: Tauros|0 fnt
+|faint|p1a: Tauros
+|
+|-heal|p2a: Ursaluna|76/100 brn|[from] Grassy Terrain
+|-damage|p2a: Ursaluna|70/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781156635
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|turn|12
+|inactive|18dabloons has 120 seconds left.
+|inactive|phreshoatmeal has 90 seconds left.
+|
+|t:|1781156650
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Excadrill|Iron Head|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|65/100
+|
+|-heal|p2a: Ting-Lu|72/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|18dabloons has 120 seconds left.
+|
+|t:|1781156656
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Hatterene
+|move|p1a: Hatterene|Stealth Rock|p2a: Ting-Lu|[from] ability: Magic Bounce
+|-sidestart|p2: 18dabloons|move: Stealth Rock
+|
+|-heal|p2a: Ting-Lu|78/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|phreshoatmeal has 90 seconds left.
+|
+|t:|1781156678
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|move|p2a: Ting-Lu|Ruination|p1a: Excadrill
+|-damage|p1a: Excadrill|51/100
+|
+|-heal|p2a: Ting-Lu|84/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|phreshoatmeal has 90 seconds left.
+|
+|t:|1781156684
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Ting-Lu|Payback|p1a: Hatterene
+|-damage|p1a: Hatterene|84/100
+|
+|-heal|p2a: Ting-Lu|90/100|[from] item: Leftovers
+|-heal|p1a: Hatterene|90/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781156699
+|switch|p2a: Ursaluna|Ursaluna, M, tera:Fairy|70/100 brn
+|-damage|p2a: Ursaluna|57/100 brn|[from] Stealth Rock
+|move|p1a: Hatterene|Future Sight|p2a: Ursaluna
+|-start|p1a: Hatterene|move: Future Sight
+|
+|-heal|p1a: Hatterene|96/100|[from] item: Leftovers
+|-damage|p2a: Ursaluna|51/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781156705
+|switch|p1a: Hippowdon|Hippowdon, M|37/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Ursaluna|Facade|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|faint|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ursaluna|45/100 brn|[from] Sandstorm
+|-damage|p2a: Ursaluna|39/100 brn|[from] brn
+|upkeep
+|
+|t:|1781156711
+|switch|p1a: Excadrill|Excadrill, M|51/100
+|turn|18
+|
+|t:|1781156738
+|switch|p2a: Scizor|Scizor, M|55/100 par
+|-damage|p2a: Scizor|43/100 par|[from] Stealth Rock
+|move|p1a: Excadrill|Earthquake|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|-weather|Sandstorm|[upkeep]
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|inactive|18dabloons has 120 seconds left.
+|
+|t:|1781156749
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|88/100|[from] Stealth Rock
+|turn|19
+|inactive|18dabloons has 120 seconds left.
+|
+|t:|1781156769
+|switch|p1a: Amoonguss|Amoonguss, F|93/100
+|switch|p2a: Ursaluna|Ursaluna, M, tera:Fairy|39/100 brn
+|-damage|p2a: Ursaluna|26/100 brn|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ursaluna|20/100 brn|[from] Sandstorm
+|-damage|p1a: Amoonguss|87/100|[from] Sandstorm
+|-damage|p2a: Ursaluna|14/100 brn|[from] brn
+|upkeep
+|turn|20
+|inactive|phreshoatmeal has 120 seconds left.
+|inactive|18dabloons has 120 seconds left.
+|
+|t:|1781156790
+|switch|p1a: Hatterene|Hatterene, F|96/100
+|move|p2a: Ursaluna|Facade|p1a: Hatterene
+|-damage|p1a: Hatterene|2/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ursaluna|8/100 brn|[from] Sandstorm
+|-damage|p1a: Hatterene|0 fnt|[from] Sandstorm
+|faint|p1a: Hatterene
+|-damage|p2a: Ursaluna|2/100 brn|[from] brn
+|upkeep
+|
+|t:|1781156797
+|switch|p1a: Excadrill|Excadrill, M|51/100
+|turn|21
+|
+|t:|1781156808
+|move|p1a: Excadrill|Poison Jab|p2a: Ursaluna
+|-supereffective|p2a: Ursaluna
+|-damage|p2a: Ursaluna|0 fnt
+|faint|p2a: Ursaluna
+|
+|-weather|none
+|upkeep
+|j| pokemonlover-834
+|inactive|18dabloons has 120 seconds left.
+|
+|t:|1781156825
+|switch|p2a: Ting-Lu|Ting-Lu|90/100
+|-damage|p2a: Ting-Lu|84/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|22
+|inactive|phreshoatmeal has 120 seconds left.
+|
+|t:|1781156834
+|switch|p1a: Amoonguss|Amoonguss, F|100/100
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Amoonguss
+|-sidestart|p1: phreshoatmeal|move: Stealth Rock
+|
+|-heal|p2a: Ting-Lu|90/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|phreshoatmeal has 120 seconds left.
+|
+|t:|1781156844
+|switch|p2a: Iron Moth|Iron Moth|95/100
+|-damage|p2a: Iron Moth|70/100|[from] Stealth Rock
+|switch|p1a: Tyranitar|Tyranitar, M|75/100
+|-damage|p1a: Tyranitar|63/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Moth|64/100|[from] Sandstorm
+|upkeep
+|turn|24
+|inactive|phreshoatmeal has 120 seconds left.
+|
+|t:|1781156854
+|move|p2a: Iron Moth|U-turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|45/100
+|
+|t:|1781156872
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Ting-Lu|Ting-Lu|90/100|[from] U-turn
+|-damage|p2a: Ting-Lu|84/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Tyranitar|Knock Off|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|74/100
+|-enditem|p2a: Ting-Lu|Leftovers|[from] move: Knock Off|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1781156879
+|move|p1a: Tyranitar|Ice Beam|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|53/100
+|-status|p2a: Ting-Lu|frz
+|-curestatus|p2a: Ting-Lu|frz|[msg]
+|move|p2a: Ting-Lu|Ruination|p1a: Tyranitar
+|-damage|p1a: Tyranitar|23/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1781156899
+|switch|p1a: Amoonguss|Amoonguss, F|100/100
+|-damage|p1a: Amoonguss|88/100|[from] Stealth Rock
+|move|p2a: Ting-Lu|Body Press|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|79/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Amoonguss|73/100|[from] Sandstorm
+|upkeep
+|turn|27
+|
+|t:|1781156914
+|move|p2a: Ting-Lu|Ruination|p1a: Amoonguss
+|-damage|p1a: Amoonguss|37/100
+|move|p1a: Amoonguss|Grass Knot|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-crit|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|-weather|none
+|upkeep
+|
+|t:|1781156930
+|switch|p2a: Iron Moth|Iron Moth|64/100
+|-damage|p2a: Iron Moth|39/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1781156935
+|switch|p1a: Tyranitar|Tyranitar, M|23/100
+|-damage|p1a: Tyranitar|10/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Iron Moth|Fiery Dance|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|1/100
+|-boost|p2a: Iron Moth|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Moth|33/100|[from] Sandstorm
+|upkeep
+|turn|29
+|
+|t:|1781156942
+|move|p2a: Iron Moth|Fiery Dance|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|-boost|p2a: Iron Moth|spa|1
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Moth|27/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781156946
+|switch|p1a: Excadrill|Excadrill, M|51/100
+|-damage|p1a: Excadrill|48/100|[from] Stealth Rock
+|turn|30
+|inactive|18dabloons has 120 seconds left.
+|
+|t:|1781156983
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|88/100
+|-damage|p2a: Ogerpon|76/100|[from] Stealth Rock
+|move|p1a: Excadrill|Poison Jab|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781156987
+|switch|p2a: Rillaboom|Rillaboom, M|24/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|31
+|
+|t:|1781157014
+|move|p2a: Rillaboom|Grassy Glide|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rillaboom|18/100|[from] Sandstorm
+|-heal|p2a: Rillaboom|24/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781157016
+|switch|p1a: Amoonguss|Amoonguss, F|70/100
+|-damage|p1a: Amoonguss|58/100|[from] Stealth Rock
+|turn|32
+|
+|t:|1781157027
+|move|p2a: Rillaboom|Knock Off|p1a: Amoonguss
+|-damage|p1a: Amoonguss|40/100
+|move|p1a: Amoonguss|Foul Play|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-weather|none
+|-heal|p1a: Amoonguss|46/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781157034
+|switch|p2a: Iron Moth|Iron Moth|27/100
+|-damage|p2a: Iron Moth|2/100|[from] Stealth Rock
+|turn|33
+|
+|t:|1781157037
+|-terastallize|p1a: Amoonguss|Dark
+|move|p2a: Iron Moth|Fiery Dance|p1a: Amoonguss
+|-damage|p1a: Amoonguss|2/100
+|move|p1a: Amoonguss|Foul Play|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|win|phreshoatmeal
+|raw|phreshoatmeal's rating: 1636 &rarr; <strong>1662</strong><br />(+26 for winning)
+|raw|18dabloons's rating: 1739 &rarr; <strong>1713</strong><br />(-26 for losing)
+|l| pokemonlover-834
+|l|☆18dabloons
+|player|p2|
+|l|☆phreshoatmeal
+|player|p1|

@@ -1,0 +1,252 @@
+|j|☆erhai
+|j|☆my2003
+|t:|1781465006
+|gametype|singles
+|player|p1|erhai|102|1673
+|player|p2|my2003|101|1574
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Jugulis|
+|poke|p1|Ogerpon, F|
+|poke|p1|Scizor, F|
+|poke|p1|Latios, M|
+|poke|p1|Manaphy|
+|poke|p1|Sandy Shocks|
+|poke|p2|Glimmora, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Dragonite, F|
+|poke|p2|Iron Moth|
+|poke|p2|Gholdengo|
+|poke|p2|Deoxys-Speed|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by erhai)
+|
+|t:|1781465033
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|1
+|
+|t:|1781465049
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|move|p1a: Iron Jugulis|Taunt|p2a: Glimmora
+|-start|p2a: Glimmora|move: Taunt
+|
+|upkeep
+|turn|2
+|
+|t:|1781465057
+|move|p1a: Iron Jugulis|Earth Power|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|
+|upkeep
+|
+|t:|1781465081
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|3
+|
+|t:|1781465094
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Dragonite
+|-damage|p2a: Dragonite|67/100
+|move|p2a: Dragonite|Outrage|p1a: Iron Jugulis
+|-crit|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781465100
+|switch|p1a: Scizor|Scizor, F, shiny|100/100
+|turn|4
+|
+|t:|1781465103
+|move|p2a: Dragonite|Outrage|p1a: Scizor|[from] lockedmove
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|41/100
+|-start|p2a: Dragonite|confusion|[fatigue]
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1781465113
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Scizor|Bullet Punch|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|54/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|
+|upkeep
+|turn|6
+|
+|t:|1781465126
+|move|p1a: Scizor|Bullet Punch|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|9/100
+|move|p2a: Gholdengo|Shadow Ball|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1781465140
+|switch|p1a: Manaphy|Manaphy, shiny|100/100
+|turn|7
+|
+|t:|1781465155
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|move|p1a: Manaphy|Surf|p2a: Deoxys
+|-damage|p2a: Deoxys|38/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781465165
+|move|p2a: Deoxys|Knock Off|p1a: Manaphy
+|-damage|p1a: Manaphy|66/100
+|-enditem|p1a: Manaphy|Rindo Berry|[from] move: Knock Off|[of] p2a: Deoxys
+|-damage|p2a: Deoxys|28/100|[from] item: Life Orb
+|move|p1a: Manaphy|Surf|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1781465168
+|switch|p2a: Dragonite|Dragonite, F|67/100
+|turn|9
+|
+|t:|1781465176
+|-terastallize|p2a: Dragonite|Normal
+|move|p2a: Dragonite|Extreme Speed|p1a: Manaphy
+|-damage|p1a: Manaphy|0 fnt
+|faint|p1a: Manaphy
+|
+|upkeep
+|
+|t:|1781465181
+|switch|p1a: Sandy Shocks|Sandy Shocks|100/100
+|-enditem|p1a: Sandy Shocks|Booster Energy
+|-activate|p1a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p1a: Sandy Shocks|protosynthesisspe
+|turn|10
+|
+|t:|1781465194
+|switch|p2a: Gholdengo|Gholdengo|9/100
+|-terastallize|p1a: Sandy Shocks|Ghost
+|move|p1a: Sandy Shocks|Stealth Rock|p2a: Gholdengo
+|-sidestart|p2: my2003|move: Stealth Rock
+|
+|upkeep
+|turn|11
+|
+|t:|1781465202
+|move|p1a: Sandy Shocks|Discharge|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781465205
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|turn|12
+|
+|t:|1781465210
+|-end|p1a: Sandy Shocks|Protosynthesis|[silent]
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|
+|-heal|p2a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781465213
+|-end|p2a: Kingambit|fallen3|[silent]
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-damage|p2a: Iron Moth|76/100|[from] Stealth Rock
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespa
+|move|p1a: Ogerpon|Encore||[still]
+|-fail|p1a: Ogerpon
+|
+|upkeep
+|turn|14
+|
+|t:|1781465217
+|move|p1a: Ogerpon|Rock Tomb|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|9/100
+|-unboost|p2a: Iron Moth|spe|1
+|move|p2a: Iron Moth|Fiery Dance|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|-boost|p2a: Iron Moth|spa|1
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1781465225
+|switch|p1a: Latios|Latios, M, shiny|100/100
+|turn|15
+|
+|t:|1781465244
+|move|p1a: Latios|Aura Sphere|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781465258
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|16
+|
+|t:|1781465267
+|move|p1a: Latios|Aura Sphere|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-crit|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen4|[silent]
+|
+|upkeep
+|-message|my2003 forfeited.
+|
+|win|erhai
+|raw|erhai's rating: 1673 &rarr; <strong>1687</strong><br />(+14 for winning)
+|raw|my2003's rating: 1574 &rarr; <strong>1560</strong><br />(-14 for losing)
+|l|☆my2003
+|player|p2|
+|l|☆erhai
+|player|p1|

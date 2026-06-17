@@ -1,0 +1,278 @@
+|j|☆temporarylight
+|j|☆GreninjaMyFav
+|t:|1781201895
+|gametype|singles
+|player|p1|temporarylight|jogger|1723
+|player|p2|GreninjaMyFav|skyla|1702
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Raging Bolt|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Zamazenta-*|
+|poke|p1|Cresselia, F|
+|poke|p1|Glimmora, F|
+|poke|p1|Kingambit, F|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Great Tusk|
+|poke|p2|Raging Bolt|
+|poke|p2|Corviknight, F|
+|poke|p2|Ogerpon, F|
+|teampreview
+|
+|t:|1781201901
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|1
+|
+|t:|1781201904
+|move|p1a: Zamazenta|Light Screen|p1a: Zamazenta
+|-sidestart|p1: temporarylight|move: Light Screen
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Zamazenta
+|-damage|p1a: Zamazenta|53/100
+|-unboost|p2a: Raging Bolt|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781201908
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Zamazenta|Reflect|p1a: Zamazenta
+|-sidestart|p1: temporarylight|Reflect
+|
+|upkeep
+|turn|3
+|
+|t:|1781201913
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Slowking|Thunder Wave|p1a: Ogerpon
+|-status|p1a: Ogerpon|par
+|
+|upkeep
+|turn|4
+|
+|t:|1781201918
+|switch|p2a: Ogerpon|Ogerpon, F|100/100
+|move|p1a: Ogerpon|Knock Off|p2a: Ogerpon
+|-damage|p2a: Ogerpon|46/100
+|-enditem|p2a: Ogerpon|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Ogerpon
+|
+|upkeep
+|turn|5
+|
+|t:|1781201922
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|move|p2a: Ogerpon|U-turn|p1a: Glimmora
+|-resisted|p1a: Glimmora
+|-damage|p1a: Glimmora|95/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: GreninjaMyFav|move: Toxic Spikes
+|-enditem|p1a: Glimmora|Red Card|[of] p2a: Ogerpon
+|drag|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|
+|upkeep
+|turn|6
+|
+|t:|1781201930
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Corviknight|Defog|p1a: Raging Bolt
+|-unboost|p1a: Raging Bolt|evasion|1
+|-sideend|p1: temporarylight|Reflect
+|-sideend|p1: temporarylight|move: Light Screen
+|-sideend|p2: GreninjaMyFav|Toxic Spikes|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|7
+|
+|t:|1781201935
+|switch|p2a: Ogerpon|Ogerpon, F|46/100
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Ogerpon
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|1/100
+|-status|p2a: Ogerpon|par
+|
+|upkeep
+|turn|8
+|
+|t:|1781201941
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781201943
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|9
+|
+|t:|1781201951
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781201955
+|switch|p1a: Zamazenta|Zamazenta|53/100
+|move|p2a: Samurott|Ceaseless Edge|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|38/100
+|-sidestart|p1: temporarylight|Spikes
+|
+|upkeep
+|turn|11
+|
+|t:|1781201959
+|move|p1a: Zamazenta|Reflect|p1a: Zamazenta
+|-sidestart|p1: temporarylight|Reflect
+|move|p2a: Samurott|Ceaseless Edge|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|32/100
+|-sidestart|p1: temporarylight|Spikes
+|
+|upkeep
+|turn|12
+|
+|t:|1781201967
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Zamazenta|Light Screen|p1a: Zamazenta
+|-sidestart|p1: temporarylight|move: Light Screen
+|
+|upkeep
+|turn|13
+|
+|t:|1781201972
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781201974
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781201988
+|-terastallize|p1a: Cresselia|Fairy
+|move|p2a: Samurott|Knock Off|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|94/100
+|-enditem|p1a: Cresselia|Leftovers|[from] move: Knock Off|[of] p2a: Samurott
+|move|p1a: Cresselia|Moonblast|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|51/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781201993
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781201997
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Slowking|Thunder Wave|p1a: Cresselia|[miss]
+|-miss|p2a: Slowking|p1a: Cresselia
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781201999
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|84/100
+|-status|p1a: Cresselia|psn
+|
+|-weather|none
+|-damage|p1a: Cresselia|72/100 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1781202005
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781202007
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Cresselia|60/100 psn|[from] psn
+|-sideend|p1: temporarylight|Reflect
+|upkeep
+|turn|19
+|
+|t:|1781202010
+|move|p2a: Raging Bolt|Volt Switch|p1a: Cresselia
+|-damage|p1a: Cresselia|52/100 psn
+|
+|t:|1781202013
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|100/100|[from] Volt Switch
+|move|p1a: Cresselia|Lunar Blessing|p1a: Cresselia
+|-heal|p1a: Cresselia|77/100 psn
+|-curestatus|p1a: Cresselia|psn|[msg]
+|
+|-weather|Snowscape|[upkeep]
+|-sideend|p1: temporarylight|move: Light Screen
+|upkeep
+|turn|20
+|j| novashiii
+|
+|t:|1781202016
+|move|p1a: Cresselia|Stored Power|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|-message|GreninjaMyFav forfeited.
+|
+|win|temporarylight
+|raw|temporarylight's rating: 1723 &rarr; <strong>1742</strong><br />(+19 for winning)
+|raw|GreninjaMyFav's rating: 1702 &rarr; <strong>1683</strong><br />(-19 for losing)
+|l| novashiii
+|l|☆GreninjaMyFav
+|player|p2|
+|l|☆temporarylight
+|player|p1|

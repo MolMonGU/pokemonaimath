@@ -1,0 +1,308 @@
+|j|☆dnites
+|j|☆kai cyan
+|t:|1781535432
+|gametype|singles
+|player|p1|dnites|169|1521
+|player|p2|kai cyan|skyla|1547
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pincurchin, M|
+|poke|p1|Hawlucha, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Latias, F|
+|poke|p1|Raichu-Alola, F|
+|poke|p1|Iron Moth|
+|poke|p2|Zamazenta-*|
+|poke|p2|Iron Treads|
+|poke|p2|Dragapult, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Moltres|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by kai cyan)
+|
+|t:|1781535440
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pincurchin|Pincurchin, M|100/100
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|turn|1
+|
+|t:|1781535444
+|move|p2a: Dragapult|Draco Meteor|p1a: Pincurchin|[miss]
+|-miss|p2a: Dragapult|p1a: Pincurchin
+|move|p1a: Pincurchin|Spikes|p2a: Dragapult
+|-sidestart|p2: kai cyan|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1781535450
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdriveatk
+|move|p2a: Dragapult|Draco Meteor|p1a: Iron Valiant
+|-immune|p1a: Iron Valiant
+|
+|upkeep
+|turn|3
+|
+|t:|1781535462
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Iron Valiant|Thunder Punch|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|3/100
+|-status|p1a: Iron Valiant|brn|[from] ability: Flame Body|[of] p2a: Moltres
+|
+|-damage|p1a: Iron Valiant|94/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1781535471
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-damage|p2a: Ting-Lu|88/100|[from] Spikes
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Iron Valiant|Thunder Punch|p2a: Ting-Lu
+|-immune|p2a: Ting-Lu
+|
+|-heal|p2a: Ting-Lu|94/100|[from] item: Leftovers
+|-damage|p1a: Iron Valiant|88/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1781535481
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-activate|p1a: Iron Moth|ability: Quark Drive
+|-start|p1a: Iron Moth|quarkdrivespa
+|move|p2a: Ting-Lu|Spikes|p1a: Iron Moth
+|-sidestart|p1: dnites|Spikes
+|
+|-heal|p2a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|j| peeekapeee
+|
+|t:|1781535485
+|move|p1a: Iron Moth|U-turn|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|89/100
+|
+|t:|1781535488
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Iron Valiant|Iron Valiant|88/100 brn|[from] U-turn
+|-damage|p1a: Iron Valiant|76/100 brn|[from] Spikes
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdriveatk
+|move|p2a: Ting-Lu|Earthquake|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|30/100 brn
+|
+|-heal|p2a: Ting-Lu|95/100|[from] item: Leftovers
+|-damage|p1a: Iron Valiant|24/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1781535507
+|move|p1a: Iron Valiant|Spirit Break|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|53/100
+|-unboost|p2a: Ting-Lu|spa|1
+|move|p2a: Ting-Lu|Earthquake|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-heal|p2a: Ting-Lu|60/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781535517
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-activate|p1a: Iron Moth|ability: Quark Drive
+|-start|p1a: Iron Moth|quarkdrivespa
+|turn|8
+|
+|t:|1781535521
+|move|p1a: Iron Moth|Fiery Dance|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|35/100
+|-boost|p1a: Iron Moth|spa|1
+|move|p2a: Ting-Lu|Earthquake|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p2a: Ting-Lu|41/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1781535527
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|turn|9
+|
+|t:|1781535533
+|switch|p2a: Moltres|Moltres|3/100
+|move|p1a: Hawlucha|Drain Punch|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|
+|upkeep
+|
+|t:|1781535542
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Spikes
+|turn|10
+|
+|t:|1781535548
+|switch|p1a: Pincurchin|Pincurchin, M|100/100
+|-damage|p1a: Pincurchin|88/100|[from] Spikes
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|move|p2a: Dragapult|Draco Meteor|p1a: Pincurchin
+|-damage|p1a: Pincurchin|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Pincurchin
+|
+|upkeep
+|
+|t:|1781535554
+|switch|p1a: Raichu|Raichu-Alola, F|100/100
+|-damage|p1a: Raichu|88/100|[from] Spikes
+|turn|11
+|
+|t:|1781535566
+|switch|p2a: Ting-Lu|Ting-Lu|41/100
+|-damage|p2a: Ting-Lu|29/100|[from] Spikes
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Raichu|Surf|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781535580
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-damage|p2a: Iron Treads|88/100|[from] Spikes
+|-activate|p2a: Iron Treads|ability: Quark Drive
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|12
+|
+|t:|1781535584
+|move|p1a: Raichu|Surf|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781535587
+|switch|p2a: Dragapult|Dragapult, M|88/100
+|-damage|p2a: Dragapult|76/100|[from] Spikes
+|turn|13
+|
+|t:|1781535591
+|move|p1a: Raichu|Surf|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|46/100
+|move|p2a: Dragapult|Shadow Ball|p1a: Raichu
+|-supereffective|p1a: Raichu
+|-damage|p1a: Raichu|0 fnt
+|faint|p1a: Raichu
+|
+|upkeep
+|
+|t:|1781535597
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p1a: Hawlucha|Electric Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Electric Seed
+|turn|14
+|
+|t:|1781535605
+|move|p1a: Hawlucha|Acrobatics|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1781535607
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-damage|p2a: Zamazenta|88/100|[from] Spikes
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|15
+|
+|t:|1781535616
+|-terastallize|p2a: Zamazenta|Ghost
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Zamazenta|Substitute|p2a: Zamazenta
+|-start|p2a: Zamazenta|Substitute
+|-damage|p2a: Zamazenta|63/100
+|
+|-heal|p2a: Zamazenta|69/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781535620
+|move|p1a: Hawlucha|Encore|p2a: Zamazenta
+|-start|p2a: Zamazenta|Encore
+|move|p2a: Zamazenta|Substitute|p2a: Zamazenta
+|-fail|p2a: Zamazenta|move: Substitute
+|
+|-heal|p2a: Zamazenta|75/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781535622
+|move|p1a: Hawlucha|Acrobatics|p2a: Zamazenta
+|-end|p2a: Zamazenta|Substitute
+|move|p2a: Zamazenta|Substitute|p2a: Zamazenta
+|-start|p2a: Zamazenta|Substitute
+|-damage|p2a: Zamazenta|50/100
+|
+|-heal|p2a: Zamazenta|57/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|18
+|
+|t:|1781535627
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|88/100|[from] Spikes
+|move|p1a: Hawlucha|Acrobatics|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781535629
+|switch|p2a: Zamazenta|Zamazenta, tera:Ghost|57/100
+|-damage|p2a: Zamazenta|44/100|[from] Spikes
+|turn|19
+|
+|t:|1781535631
+|move|p1a: Hawlucha|Acrobatics|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|win|dnites
+|raw|dnites's rating: 1521 &rarr; <strong>1542</strong><br />(+21 for winning)
+|raw|kai cyan's rating: 1547 &rarr; <strong>1526</strong><br />(-21 for losing)
+|l|☆kai cyan
+|player|p2|
+|l|☆dnites
+|player|p1|
+|l| peeekapeee

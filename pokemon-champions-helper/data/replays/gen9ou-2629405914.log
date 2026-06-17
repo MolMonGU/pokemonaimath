@@ -1,0 +1,315 @@
+|j|☆The median voter
+|j|☆amiruae
+|t:|1781127292
+|gametype|singles
+|player|p1|The median voter|scientist-gen4dp|1539
+|player|p2|amiruae|palmer|1510
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Great Tusk|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Alomomola, F|
+|poke|p1|Scizor, M|
+|poke|p1|Iron Valiant|
+|poke|p2|Gholdengo|
+|poke|p2|Armarouge, M|
+|poke|p2|Iron Hands|
+|poke|p2|Zapdos|
+|poke|p2|Raging Bolt|
+|poke|p2|Jirachi|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by amiruae)
+|
+|t:|1781127303
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Preacher|Zapdos|100/100
+|switch|p2a: Jirachi|Jirachi|100/100
+|turn|1
+|
+|t:|1781127308
+|move|p2a: Jirachi|Light Screen|p2a: Jirachi
+|-sidestart|p2: amiruae|move: Light Screen
+|move|p1a: Preacher|Discharge|p2a: Jirachi
+|-damage|p2a: Jirachi|84/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781127313
+|move|p2a: Jirachi|Reflect|p2a: Jirachi
+|-sidestart|p2: amiruae|Reflect
+|move|p1a: Preacher|U-turn|p2a: Jirachi
+|-damage|p2a: Jirachi|78/100
+|
+|t:|1781127318
+|switch|p1a: Experiment|Scizor, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1781127322
+|move|p2a: Jirachi|U-turn|p1a: Experiment
+|-resisted|p1a: Experiment
+|-damage|p1a: Experiment|90/100
+|
+|t:|1781127326
+|switch|p2a: Iron Hands|Iron Hands|100/100|[from] U-turn
+|-enditem|p2a: Iron Hands|Booster Energy
+|-activate|p2a: Iron Hands|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Hands|quarkdriveatk
+|move|p1a: Experiment|Knock Off|p2a: Iron Hands
+|-resisted|p2a: Iron Hands
+|-damage|p2a: Iron Hands|96/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781127334
+|switch|p1a: Acolyte|Iron Valiant|100/100
+|-enditem|p1a: Acolyte|Booster Energy
+|-activate|p1a: Acolyte|ability: Quark Drive|[fromitem]
+|-start|p1a: Acolyte|quarkdrivespe
+|move|p2a: Iron Hands|Swords Dance|p2a: Iron Hands
+|-boost|p2a: Iron Hands|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1781127346
+|move|p1a: Acolyte|Encore|p2a: Iron Hands
+|-start|p2a: Iron Hands|Encore
+|move|p2a: Iron Hands|Swords Dance|p2a: Iron Hands
+|-boost|p2a: Iron Hands|atk|2
+|
+|upkeep
+|turn|6
+|
+|t:|1781127354
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|switch|p2a: Armarouge|Armarouge, M|100/100
+|move|p1a: Acolyte|Calm Mind|p1a: Acolyte
+|-boost|p1a: Acolyte|spa|1
+|-boost|p1a: Acolyte|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781127360
+|move|p1a: Acolyte|Shadow Ball|p2a: Armarouge
+|-supereffective|p2a: Armarouge
+|-damage|p2a: Armarouge|57/100
+|-unboost|p2a: Armarouge|spd|1
+|-enditem|p2a: Armarouge|Weakness Policy
+|-boost|p2a: Armarouge|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Armarouge|spa|2|[from] item: Weakness Policy
+|move|p2a: Armarouge|Psyshock|p1a: Acolyte
+|-supereffective|p1a: Acolyte
+|-damage|p1a: Acolyte|0 fnt
+|faint|p1a: Acolyte
+|-end|p1a: Acolyte|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781127369
+|switch|p1a: The End of All|Hoopa-Unbound|100/100
+|turn|8
+|
+|t:|1781127382
+|move|p2a: Armarouge|Armor Cannon|p1a: The End of All
+|-damage|p1a: The End of All|29/100
+|-unboost|p2a: Armarouge|def|1
+|-unboost|p2a: Armarouge|spd|1
+|move|p1a: The End of All|Hyperspace Fury|p2a: Armarouge
+|-supereffective|p2a: Armarouge
+|-damage|p2a: Armarouge|0 fnt
+|-unboost|p1a: The End of All|def|1
+|faint|p2a: Armarouge
+|
+|-sideend|p2: amiruae|move: Light Screen
+|upkeep
+|
+|t:|1781127403
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|9
+|
+|t:|1781127409
+|move|p2a: Zapdos|Thunderbolt|p1a: The End of All
+|-damage|p1a: The End of All|5/100
+|move|p1a: The End of All|Psychic Noise|p2a: Zapdos
+|-damage|p2a: Zapdos|58/100
+|-start|p2a: Zapdos|move: Heal Block
+|
+|-sideend|p2: amiruae|Reflect
+|upkeep
+|turn|10
+|
+|t:|1781127413
+|switch|p1a: Holy Envoy|Alomomola, F|100/100
+|move|p2a: Zapdos|Thunderbolt|p1a: Holy Envoy
+|-supereffective|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|49/100
+|
+|-end|p2a: Zapdos|move: Heal Block
+|upkeep
+|turn|11
+|
+|t:|1781127419
+|-terastallize|p1a: Holy Envoy|Ghost
+|move|p2a: Zapdos|Thunderbolt|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|22/100
+|move|p1a: Holy Envoy|Mirror Coat|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1781127437
+|switch|p2a: Jirachi|Jirachi|78/100
+|turn|12
+|
+|t:|1781127445
+|move|p2a: Jirachi|Light Screen|p2a: Jirachi
+|-sidestart|p2: amiruae|move: Light Screen
+|move|p1a: Holy Envoy|Flip Turn|p2a: Jirachi
+|-damage|p2a: Jirachi|62/100
+|
+|t:|1781127468
+|switch|p1a: Experiment|Scizor, M|90/100|[from] Flip Turn
+|
+|upkeep
+|turn|13
+|
+|t:|1781127473
+|move|p2a: Jirachi|Reflect|p2a: Jirachi
+|-sidestart|p2: amiruae|Reflect
+|move|p1a: Experiment|U-turn|p2a: Jirachi
+|-damage|p2a: Jirachi|30/100
+|
+|t:|1781127495
+|switch|p1a: Preacher|Zapdos|100/100|[from] U-turn
+|
+|upkeep
+|turn|14
+|
+|t:|1781127504
+|move|p2a: Jirachi|U-turn|p1a: Preacher
+|-resisted|p1a: Preacher
+|-damage|p1a: Preacher|93/100
+|
+|t:|1781127508
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] U-turn
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Preacher|Hurricane|p2a: Raging Bolt|[miss]
+|-miss|p1a: Preacher|p2a: Raging Bolt
+|
+|upkeep
+|turn|15
+|
+|t:|1781127521
+|move|p1a: Preacher|U-turn|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|96/100
+|
+|t:|1781127524
+|switch|p1a: The End of All|Hoopa-Unbound|5/100|[from] U-turn
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781127528
+|move|p2a: Raging Bolt|Thunderclap|p1a: The End of All
+|-damage|p1a: The End of All|0 fnt
+|faint|p1a: The End of All
+|
+|upkeep
+|
+|t:|1781127530
+|switch|p1a: Templar|Great Tusk|100/100
+|turn|17
+|
+|t:|1781127533
+|move|p1a: Templar|Headlong Rush|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|48/100
+|-unboost|p1a: Templar|def|1
+|-unboost|p1a: Templar|spd|1
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Templar
+|-damage|p1a: Templar|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Templar
+|-end|p1a: Templar|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781127541
+|switch|p1a: Holy Envoy|Alomomola, F, tera:Ghost|56/100
+|turn|18
+|
+|t:|1781127545
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|34/100
+|move|p1a: Holy Envoy|Play Rough|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|36/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781127551
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|move|p1a: Holy Envoy|Mirror Coat||[still]
+|-fail|p1a: Holy Envoy
+|
+|-sideend|p2: amiruae|move: Light Screen
+|upkeep
+|turn|20
+|
+|t:|1781127557
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|move|p1a: Holy Envoy|Flip Turn|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|33/100
+|
+|t:|1781127559
+|switch|p1a: Experiment|Scizor, M|90/100|[from] Flip Turn
+|
+|-sideend|p2: amiruae|Reflect
+|upkeep
+|turn|21
+|
+|t:|1781127566
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Experiment
+|-damage|p1a: Experiment|0 fnt
+|faint|p1a: Experiment
+|
+|upkeep
+|-message|The median voter forfeited.
+|
+|win|amiruae
+|raw|The median voter's rating: 1539 &rarr; <strong>1517</strong><br />(-22 for losing)
+|raw|amiruae's rating: 1510 &rarr; <strong>1532</strong><br />(+22 for winning)
+|l|☆The median voter
+|player|p1|
+|l|☆amiruae
+|player|p2|

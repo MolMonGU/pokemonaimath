@@ -1,0 +1,193 @@
+|j|☆hotnips
+|j|☆xXb1llyXx
+|t:|1781496172
+|gametype|singles
+|player|p1|hotnips|bruno|1569
+|player|p2|xXb1llyXx|mom-unova|1589
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Great Tusk|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Corviknight, F|
+|poke|p1|Clefable, F|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Dragapult, F|
+|poke|p2|Gholdengo|
+|poke|p2|Ting-Lu|
+|poke|p2|Iron Treads|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Zamazenta-*|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hotnips)
+|
+|t:|1781496192
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Clefable|Clefable, F|100/100
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|1
+|
+|t:|1781496203
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|move|p2a: Gholdengo|Focus Blast|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781496213
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|2
+|
+|t:|1781496222
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Dragapult|U-turn|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|82/100
+|-enditem|p2a: Ting-Lu|Weakness Policy
+|-boost|p2a: Ting-Lu|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Ting-Lu|spa|2|[from] item: Weakness Policy
+|
+|t:|1781496226
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1781496230
+|move|p1a: Great Tusk|Close Combat|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|18/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Ting-Lu|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781496242
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|4
+|
+|t:|1781496245
+|move|p1a: Dragapult|U-turn|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|t:|1781496260
+|switch|p1a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781496266
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|5
+|
+|t:|1781496269
+|move|p2a: Iron Treads|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|11/100
+|-enditem|p1a: Slowking|Assault Vest|[from] move: Knock Off|[of] p2a: Iron Treads
+|move|p1a: Slowking|Flamethrower|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|26/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781496276
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Iron Treads|Knock Off|p1a: Corviknight
+|-damage|p1a: Corviknight|82/100
+|-damage|p2a: Iron Treads|9/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|-enditem|p1a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p2a: Iron Treads
+|
+|upkeep
+|turn|7
+|
+|t:|1781496285
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Corviknight|U-turn|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|91/100
+|
+|t:|1781496304
+|switch|p1a: Slowking|Slowking-Galar, M|44/100|[from] U-turn
+|
+|upkeep
+|turn|8
+|
+|t:|1781496308
+|move|p2a: Tornadus|Dark Pulse|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|-damage|p2a: Tornadus|82/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781496315
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|9
+|
+|t:|1781496320
+|move|p1a: Dragapult|Shadow Ball|p2a: Tornadus
+|-damage|p2a: Tornadus|16/100
+|move|p2a: Tornadus|Dark Pulse|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|15/100
+|-damage|p2a: Tornadus|7/100|[from] item: Life Orb
+|
+|upkeep
+|turn|10
+|
+|t:|1781496326
+|move|p1a: Dragapult|Shadow Ball|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|upkeep
+|
+|t:|1781496328
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|11
+|
+|t:|1781496334
+|move|p2a: Gholdengo|Shadow Ball|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|-message|hotnips forfeited.
+|
+|win|xXb1llyXx
+|raw|hotnips's rating: 1569 &rarr; <strong>1550</strong><br />(-19 for losing)
+|raw|xXb1llyXx's rating: 1589 &rarr; <strong>1608</strong><br />(+19 for winning)
+|l|☆hotnips
+|player|p1|
+|l|☆xXb1llyXx
+|player|p2|

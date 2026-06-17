@@ -1,0 +1,306 @@
+|j|☆ykykp
+|j|☆EtnaArmpits
+|t:|1780997255
+|gametype|singles
+|player|p1|ykykp|1|1745
+|player|p2|EtnaArmpits|2|1696
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Valiant|
+|poke|p1|Pecharunt|
+|poke|p1|Alomomola, F|
+|poke|p1|Cinderace, M|
+|poke|p1|Zamazenta-*|
+|poke|p1|Ogerpon-Cornerstone, F|
+|poke|p2|Kyurem|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Iron Valiant|
+|poke|p2|Dragonite, F|
+|poke|p2|Darkrai|
+|poke|p2|Iron Treads|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by EtnaArmpits)
+|
+|t:|1780997262
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1780997269
+|move|p2a: Iron Treads|Steel Beam|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-ability|p1a: Ogerpon|Sturdy
+|-damage|p1a: Ogerpon|1/100
+|-damage|p2a: Iron Treads|50/100|[from] steelbeam
+|move|p1a: Ogerpon|Trailblaze|p2a: Iron Treads
+|-damage|p2a: Iron Treads|25/100
+|-boost|p1a: Ogerpon|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1780997276
+|move|p1a: Ogerpon|Trailblaze|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-boost|p1a: Ogerpon|spe|1
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780997279
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|3
+|
+|t:|1780997282
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Dragonite|Extreme Speed|p1a: Pecharunt
+|-immune|p1a: Pecharunt
+|
+|upkeep
+|turn|4
+|
+|t:|1780997285
+|move|p2a: Dragonite|Earthquake|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|65/100
+|move|p1a: Pecharunt|Malignant Chain|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|77/100
+|
+|upkeep
+|turn|5
+|
+|t:|1780997288
+|move|p2a: Dragonite|Earthquake|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|26/100
+|move|p1a: Pecharunt|Malignant Chain|p2a: Dragonite
+|-damage|p2a: Dragonite|45/100
+|
+|upkeep
+|turn|6
+|
+|t:|1780997299
+|move|p2a: Dragonite|Earthquake|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-crit|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|faint|p1a: Pecharunt
+|
+|upkeep
+|
+|t:|1780997301
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|turn|7
+|
+|t:|1780997305
+|move|p2a: Dragonite|Extreme Speed|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|59/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1780997309
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|8
+|
+|t:|1780997313
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Deoxys|Ice Beam|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|90/100
+|-status|p1a: Alomomola|frz
+|-damage|p2a: Deoxys|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1780997316
+|move|p2a: Deoxys|Nasty Plot|p2a: Deoxys
+|-boost|p2a: Deoxys|spa|2
+|-curestatus|p1a: Alomomola|frz|[msg]
+|move|p1a: Alomomola|Flip Turn|p2a: Deoxys
+|-damage|p2a: Deoxys|64/100
+|
+|t:|1780997324
+|switch|p1a: Cinderace|Cinderace, M|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|10
+|
+|t:|1780997328
+|-terastallize|p2a: Deoxys|Fighting
+|move|p1a: Cinderace|Sucker Punch|p2a: Deoxys
+|-start|p1a: Cinderace|typechange|Dark|[from] ability: Libero
+|-resisted|p2a: Deoxys
+|-damage|p2a: Deoxys|36/100
+|move|p2a: Deoxys|Psycho Boost|p1a: Cinderace
+|-immune|p1a: Cinderace
+|
+|upkeep
+|turn|11
+|
+|t:|1780997335
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, F|1/100
+|move|p2a: Deoxys|Focus Blast|p1a: Ogerpon|[miss]
+|-miss|p2a: Deoxys|p1a: Ogerpon
+|
+|upkeep
+|turn|12
+|
+|t:|1780997338
+|move|p2a: Deoxys|Ice Beam|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|-damage|p2a: Deoxys|26/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1780997341
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|turn|13
+|
+|t:|1780997345
+|move|p2a: Deoxys|Psycho Boost|p1a: Alomomola
+|-damage|p1a: Alomomola|10/100
+|-unboost|p2a: Deoxys|spa|2
+|-damage|p2a: Deoxys|16/100|[from] item: Life Orb
+|move|p1a: Alomomola|Flip Turn|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|t:|1780997356
+|switch|p1a: Cinderace|Cinderace, M|100/100|[from] Flip Turn
+|
+|upkeep
+|
+|t:|1780997362
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|14
+|
+|t:|1780997365
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|2
+|move|p1a: Cinderace|U-turn|p2a: Darkrai
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|7/100
+|
+|t:|1780997371
+|switch|p1a: Iron Valiant|Iron Valiant|59/100|[from] U-turn
+|
+|upkeep
+|turn|15
+|
+|t:|1780997374
+|move|p1a: Iron Valiant|Vacuum Wave|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|upkeep
+|
+|t:|1780997376
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|16
+|
+|t:|1780997382
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Alomomola|Alomomola, F|44/100
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|
+|upkeep
+|turn|17
+|
+|t:|1780997386
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|move|p1a: Alomomola|Flip Turn|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|81/100
+|
+|t:|1780997398
+|switch|p1a: Cinderace|Cinderace, M|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|18
+|
+|t:|1780997405
+|move|p1a: Cinderace|Sucker Punch|p2a: Iron Valiant
+|-start|p1a: Cinderace|typechange|Dark|[from] ability: Libero
+|-resisted|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|70/100
+|move|p2a: Iron Valiant|Close Combat|p1a: Cinderace
+|-supereffective|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|faint|p1a: Cinderace
+|
+|upkeep
+|
+|t:|1780997429
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|19
+|
+|t:|1780997435
+|move|p2a: Iron Valiant|Ice Punch|p1a: Zamazenta
+|-damage|p1a: Zamazenta|48/100
+|move|p1a: Zamazenta|Close Combat|p2a: Iron Valiant
+|-resisted|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780997439
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|20
+|
+|t:|1780997442
+|move|p1a: Zamazenta|Close Combat|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|faint|p2a: Kyurem
+|
+|win|ykykp
+|raw|ykykp's rating: 1745 &rarr; <strong>1762</strong><br />(+17 for winning)
+|raw|EtnaArmpits's rating: 1696 &rarr; <strong>1679</strong><br />(-17 for losing)
+|l|☆EtnaArmpits
+|player|p2|
+|l|☆ykykp
+|player|p1|

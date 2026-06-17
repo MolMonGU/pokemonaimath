@@ -1,0 +1,232 @@
+|j|☆erhai
+|j|☆deathprofessor21
+|t:|1781274108
+|gametype|singles
+|player|p1|erhai|2|1569
+|player|p2|deathprofessor21|266|1622
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Jugulis|
+|poke|p1|Ogerpon, F|
+|poke|p1|Scizor, M|
+|poke|p1|Latios, M|
+|poke|p1|Manaphy|
+|poke|p1|Sandy Shocks|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Hydrapple, M|
+|poke|p2|Moltres|
+|poke|p2|Raging Bolt|
+|poke|p2|Venomoth, F|
+|poke|p2|Meowscarada, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by erhai)
+|inactive|deathprofessor21 also wants the timer to be on.
+|
+|t:|1781274128
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Manaphy|Manaphy, shiny|100/100
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|turn|1
+|
+|t:|1781274137
+|move|p2a: Meowscarada|U-turn|p1a: Manaphy
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p1a: Manaphy|49/100
+|
+|t:|1781274140
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] U-turn
+|move|p1a: Manaphy|Ice Beam|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|46/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781274151
+|switch|p1a: Sandy Shocks|Sandy Shocks|100/100
+|-enditem|p1a: Sandy Shocks|Booster Energy
+|-activate|p1a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p1a: Sandy Shocks|protosynthesisspe
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|10/100
+|-unboost|p2a: Raging Bolt|spa|2
+|
+|upkeep
+|turn|3
+|
+|t:|1781274161
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Hydrapple|Hydrapple, M|100/100
+|move|p1a: Sandy Shocks|Stealth Rock|p2a: Hydrapple
+|-sidestart|p2: deathprofessor21|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1781274165
+|move|p1a: Sandy Shocks|Spikes|p2a: Hydrapple
+|-sidestart|p2: deathprofessor21|Spikes
+|move|p2a: Hydrapple|Fickle Beam|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|0 fnt
+|faint|p1a: Sandy Shocks
+|-end|p1a: Sandy Shocks|Protosynthesis|[silent]
+|-damage|p2a: Hydrapple|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781274170
+|switch|p1a: Manaphy|Manaphy, shiny|49/100
+|turn|5
+|
+|t:|1781274189
+|-terastallize|p2a: Hydrapple|Steel
+|move|p1a: Manaphy|Ice Beam|p2a: Hydrapple
+|-resisted|p2a: Hydrapple
+|-damage|p2a: Hydrapple|78/100
+|move|p2a: Hydrapple|Leaf Storm|p1a: Manaphy|[miss]
+|-miss|p2a: Hydrapple|p1a: Manaphy
+|
+|upkeep
+|turn|6
+|
+|t:|1781274200
+|move|p1a: Manaphy|Surf|p2a: Hydrapple
+|-damage|p2a: Hydrapple|37/100
+|move|p2a: Hydrapple|Fickle Beam|p1a: Manaphy
+|-damage|p1a: Manaphy|0 fnt
+|faint|p1a: Manaphy
+|-damage|p2a: Hydrapple|27/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781274220
+|switch|p1a: Scizor|Scizor, M, shiny|100/100
+|turn|7
+|
+|t:|1781274226
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|upkeep
+|turn|8
+|
+|t:|1781274232
+|-terastallize|p1a: Scizor|Fire
+|move|p2a: Moltres|Flamethrower|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|74/100
+|move|p1a: Scizor|Knock Off|p2a: Moltres
+|-damage|p2a: Moltres|34/100
+|-enditem|p2a: Moltres|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Scizor
+|
+|upkeep
+|turn|9
+|
+|t:|1781274241
+|move|p1a: Scizor|Knock Off|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|
+|upkeep
+|
+|t:|1781274251
+|switch|p2a: Raging Bolt|Raging Bolt|46/100
+|-damage|p2a: Raging Bolt|33/100|[from] Stealth Rock
+|-damage|p2a: Raging Bolt|21/100|[from] Spikes
+|turn|10
+|
+|t:|1781274260
+|move|p1a: Scizor|Bullet Punch|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781274277
+|switch|p2a: Hydrapple|Hydrapple, M, tera:Steel|60/100
+|-damage|p2a: Hydrapple|54/100|[from] Stealth Rock
+|-damage|p2a: Hydrapple|42/100|[from] Spikes
+|turn|11
+|
+|t:|1781274284
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|-damage|p2a: Slowking|88/100|[from] Stealth Rock
+|-damage|p2a: Slowking|76/100|[from] Spikes
+|move|p1a: Scizor|Close Combat|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|52/100
+|-unboost|p1a: Scizor|def|1
+|-unboost|p1a: Scizor|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1781274292
+|move|p1a: Scizor|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-enditem|p2a: Slowking|Assault Vest|[from] move: Knock Off|[of] p1a: Scizor
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781274301
+|switch|p2a: Venomoth|Venomoth, F|100/100
+|turn|13
+|
+|t:|1781274309
+|move|p1a: Scizor|Bullet Punch|p2a: Venomoth
+|-damage|p2a: Venomoth|12/100
+|move|p2a: Venomoth|Bug Buzz|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|23/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781274313
+|move|p1a: Scizor|Bullet Punch|p2a: Venomoth
+|-damage|p2a: Venomoth|0 fnt
+|faint|p2a: Venomoth
+|
+|upkeep
+|
+|t:|1781274316
+|switch|p2a: Hydrapple|Hydrapple, M, tera:Steel|75/100
+|-damage|p2a: Hydrapple|69/100|[from] Stealth Rock
+|-damage|p2a: Hydrapple|57/100|[from] Spikes
+|turn|15
+|
+|t:|1781274318
+|move|p1a: Scizor|Close Combat|p2a: Hydrapple
+|-supereffective|p2a: Hydrapple
+|-damage|p2a: Hydrapple|0 fnt
+|-unboost|p1a: Scizor|def|1
+|-unboost|p1a: Scizor|spd|1
+|faint|p2a: Hydrapple
+|
+|upkeep
+|-message|deathprofessor21 forfeited.
+|
+|win|erhai
+|raw|erhai's rating: 1569 &rarr; <strong>1592</strong><br />(+23 for winning)
+|raw|deathprofessor21's rating: 1622 &rarr; <strong>1599</strong><br />(-23 for losing)
+|l|☆deathprofessor21
+|player|p2|
+|l|☆erhai
+|player|p1|

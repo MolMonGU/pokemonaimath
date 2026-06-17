@@ -1,0 +1,305 @@
+|j|☆erhai
+|j|☆The Pokemon Place
+|t:|1781115549
+|gametype|singles
+|player|p1|erhai|170|1653
+|player|p2|The Pokemon Place|266|1675
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Jugulis|
+|poke|p1|Ogerpon, F|
+|poke|p1|Scizor, F|
+|poke|p1|Latios, M|
+|poke|p1|Manaphy|
+|poke|p1|Sandy Shocks|
+|poke|p2|Garganacl, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Iron Treads|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Kyurem|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by erhai)
+|
+|t:|1781115561
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sandy Shocks|Sandy Shocks|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|-enditem|p1a: Sandy Shocks|Booster Energy
+|-activate|p1a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p1a: Sandy Shocks|protosynthesisspe
+|turn|1
+|
+|t:|1781115565
+|move|p1a: Sandy Shocks|Earth Power|p2a: Kyurem
+|-damage|p2a: Kyurem|58/100
+|move|p2a: Kyurem|Freeze-Dry|p1a: Sandy Shocks
+|-supereffective|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|9/100
+|
+|-heal|p2a: Kyurem|64/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781115570
+|move|p1a: Sandy Shocks|Stealth Rock|p2a: Kyurem
+|-sidestart|p2: The Pokemon Place|move: Stealth Rock
+|move|p2a: Kyurem|Freeze-Dry|p1a: Sandy Shocks
+|-supereffective|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|0 fnt
+|faint|p1a: Sandy Shocks
+|-end|p1a: Sandy Shocks|Protosynthesis|[silent]
+|
+|-heal|p2a: Kyurem|71/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781115573
+|switch|p1a: Scizor|Scizor, F, shiny|100/100
+|turn|3
+|
+|t:|1781115578
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-damage|p2a: Iron Treads|98/100|[from] Stealth Rock
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|-heal|p2a: Iron Treads|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781115583
+|move|p2a: Iron Treads|Rapid Spin|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|94/100
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: The Pokemon Place|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: Scizor|Knock Off|p2a: Iron Treads
+|-damage|p2a: Iron Treads|41/100
+|-enditem|p2a: Iron Treads|Leftovers|[from] move: Knock Off|[of] p1a: Scizor
+|
+|upkeep
+|turn|5
+|
+|t:|1781115595
+|move|p2a: Iron Treads|Stealth Rock|p1a: Scizor
+|-sidestart|p1: erhai|move: Stealth Rock
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|upkeep
+|turn|6
+|
+|t:|1781115599
+|move|p2a: Iron Treads|Knock Off|p1a: Scizor
+|-damage|p1a: Scizor|69/100
+|-enditem|p1a: Scizor|Metal Coat|[from] move: Knock Off|[of] p2a: Iron Treads
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1781115603
+|move|p1a: Scizor|Bullet Punch|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781115605
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|8
+|
+|t:|1781115617
+|-terastallize|p2a: Zamazenta|Fire
+|move|p1a: Scizor|Bullet Punch|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|64/100
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-heal|p2a: Zamazenta|70/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781115627
+|move|p1a: Scizor|Bullet Punch|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|50/100
+|move|p2a: Zamazenta|Body Press|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|-heal|p2a: Zamazenta|56/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781115631
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|-damage|p1a: Iron Jugulis|76/100|[from] Stealth Rock
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|10
+|
+|t:|1781115641
+|move|p1a: Iron Jugulis|Earth Power|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|6/100
+|move|p2a: Zamazenta|Body Press|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|-heal|p2a: Zamazenta|12/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781115646
+|switch|p1a: Latios|Latios, M, shiny|100/100
+|-damage|p1a: Latios|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1781115653
+|move|p2a: Zamazenta|Crunch|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|50/100
+|-enditem|p1a: Latios|Weakness Policy
+|-boost|p1a: Latios|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Latios|spa|2|[from] item: Weakness Policy
+|move|p1a: Latios|Agility|p1a: Latios
+|-boost|p1a: Latios|spe|2
+|
+|-heal|p2a: Zamazenta|18/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781115673
+|move|p1a: Latios|Calm Mind|p1a: Latios
+|-boost|p1a: Latios|spa|1
+|-boost|p1a: Latios|spd|1
+|move|p2a: Zamazenta|Roar|p1a: Latios
+|drag|p1a: Manaphy|Manaphy, shiny|100/100
+|-damage|p1a: Manaphy|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Zamazenta|24/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781115678
+|move|p2a: Zamazenta|Body Press|p1a: Manaphy
+|-damage|p1a: Manaphy|5/100
+|move|p1a: Manaphy|Tail Glow|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|3
+|
+|-heal|p2a: Zamazenta|30/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|-enditem|p1a: Manaphy|Custap Berry|[eat]
+|-activate|p1a: Manaphy|item: Custap Berry|[consumed]
+|
+|t:|1781115680
+|move|p1a: Manaphy|Surf|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781115684
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|15
+|
+|t:|1781115691
+|move|p2a: Tornadus|Dark Pulse|p1a: Manaphy
+|-damage|p1a: Manaphy|0 fnt
+|faint|p1a: Manaphy
+|-damage|p2a: Tornadus|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781115695
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781115702
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Ogerpon|[miss]
+|-miss|p2a: Tornadus|p1a: Ogerpon
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|upkeep
+|turn|17
+|
+|t:|1781115708
+|-terastallize|p1a: Ogerpon|Grass
+|detailschange|p1a: Ogerpon|Ogerpon-Teal-Tera, F, tera:Grass
+|-ability|p1a: Ogerpon|Embody Aspect (Teal)|boost
+|-boost|p1a: Ogerpon|spe|1
+|move|p1a: Ogerpon|Rock Tomb|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|upkeep
+|
+|t:|1781115712
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|18
+|
+|t:|1781115714
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781115716
+|switch|p2a: Kyurem|Kyurem|71/100
+|-ability|p2a: Kyurem|Pressure
+|turn|19
+|
+|t:|1781115718
+|move|p2a: Kyurem|Protect|p2a: Kyurem
+|-singleturn|p2a: Kyurem|Protect
+|move|p1a: Ogerpon|Rock Tomb|p2a: Kyurem
+|-activate|p2a: Kyurem|move: Protect
+|
+|-heal|p2a: Kyurem|77/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781115721
+|move|p1a: Ogerpon|Encore|p2a: Kyurem
+|-start|p2a: Kyurem|Encore
+|move|p2a: Kyurem|Protect||[still]
+|-fail|p2a: Kyurem
+|
+|-heal|p2a: Kyurem|83/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|-message|The Pokemon Place forfeited.
+|
+|win|erhai
+|raw|erhai's rating: 1671 &rarr; <strong>1691</strong><br />(+20 for winning)
+|raw|The Pokemon Place's rating: 1675 &rarr; <strong>1655</strong><br />(-20 for losing)
+|l|☆The Pokemon Place
+|player|p2|
+|l|☆erhai
+|player|p1|

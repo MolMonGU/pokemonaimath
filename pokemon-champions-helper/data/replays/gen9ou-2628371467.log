@@ -1,0 +1,304 @@
+|j|☆sterster
+|j|☆Floundso
+|t:|1781013057
+|gametype|singles
+|player|p1|sterster|101|1685
+|player|p2|Floundso|giovanni|1786
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, M|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Great Tusk|
+|poke|p1|Dragonite, F|
+|poke|p1|Iron Moth|
+|poke|p1|Primarina, M|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Pecharunt|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|j| Hakone Outbound
+|
+|t:|1781013157
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Siren|Primarina, M|100/100
+|switch|p2a: Khaos|Hoopa-Unbound|100/100
+|turn|1
+|
+|t:|1781013175
+|move|p2a: Khaos|Zen Headbutt|p1a: Siren
+|-damage|p1a: Siren|0 fnt
+|faint|p1a: Siren
+|
+|upkeep
+|
+|t:|1781013181
+|switch|p1a: Meruem|Kingambit, M|100/100
+|-activate|p1a: Meruem|ability: Supreme Overlord
+|-start|p1a: Meruem|fallen1|[silent]
+|turn|2
+|
+|t:|1781013194
+|switch|p2a: Calamity|Iron Valiant, shiny|100/100
+|move|p1a: Meruem|Iron Head|p2a: Calamity
+|-supereffective|p2a: Calamity
+|-damage|p2a: Calamity|0 fnt
+|faint|p2a: Calamity
+|-end|p2a: Calamity|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781013198
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Meruem|atk|1
+|turn|3
+|
+|t:|1781013201
+|-end|p1a: Meruem|fallen1|[silent]
+|switch|p1a: Yoshi|Dragonite, F, shiny|100/100
+|move|p2a: Enten|U-turn|p1a: Yoshi
+|-resisted|p1a: Yoshi
+|-damage|p1a: Yoshi|94/100
+|
+|t:|1781013205
+|switch|p2a: Khaos|Hoopa-Unbound|100/100|[from] U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1781013211
+|move|p1a: Yoshi|Outrage|p2a: Khaos
+|-damage|p2a: Khaos|0 fnt
+|faint|p2a: Khaos
+|
+|upkeep
+|
+|t:|1781013215
+|switch|p2a: Overseer|Pecharunt|100/100
+|turn|5
+|
+|t:|1781013217
+|move|p1a: Yoshi|Outrage|p2a: Overseer|[from] lockedmove
+|-damage|p2a: Overseer|47/100
+|-start|p1a: Yoshi|confusion|[fatigue]
+|move|p2a: Overseer|Malignant Chain|p1a: Yoshi
+|-damage|p1a: Yoshi|60/100
+|-status|p1a: Yoshi|tox
+|
+|-damage|p1a: Yoshi|54/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1781013230
+|-activate|p1a: Yoshi|confusion
+|-damage|p1a: Yoshi|37/100 tox|[from] confusion
+|move|p2a: Overseer|Recover|p2a: Overseer
+|-heal|p2a: Overseer|98/100
+|
+|-damage|p1a: Yoshi|25/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1781013234
+|-activate|p1a: Yoshi|confusion
+|-damage|p1a: Yoshi|8/100 tox|[from] confusion
+|move|p2a: Overseer|Recover|p2a: Overseer
+|-heal|p2a: Overseer|100/100
+|
+|-damage|p1a: Yoshi|0 fnt|[from] psn
+|faint|p1a: Yoshi
+|upkeep
+|
+|t:|1781013238
+|switch|p1a: Moebius|Deoxys-Speed|100/100
+|-ability|p1a: Moebius|Pressure
+|turn|8
+|
+|t:|1781013245
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|move|p1a: Moebius|Nasty Plot|p1a: Moebius
+|-boost|p1a: Moebius|spa|2
+|
+|upkeep
+|turn|9
+|
+|t:|1781013257
+|move|p1a: Moebius|Nasty Plot|p1a: Moebius
+|-boost|p1a: Moebius|spa|2
+|move|p2a: Pisces|Mirror Coat||[still]
+|-fail|p2a: Pisces
+|
+|upkeep
+|turn|10
+|
+|t:|1781013260
+|move|p1a: Moebius|Psycho Boost|p2a: Pisces
+|-damage|p2a: Pisces|0 fnt
+|-unboost|p1a: Moebius|spa|2
+|faint|p2a: Pisces
+|-damage|p1a: Moebius|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781013263
+|switch|p2a: Liberacy|Cinderace, M, shiny|100/100
+|turn|11
+|
+|t:|1781013270
+|move|p2a: Liberacy|Sucker Punch||[still]
+|-fail|p2a: Liberacy
+|move|p1a: Moebius|Nasty Plot|p1a: Moebius
+|-boost|p1a: Moebius|spa|2
+|
+|upkeep
+|turn|12
+|
+|t:|1781013278
+|-terastallize|p1a: Moebius|Fighting
+|move|p1a: Moebius|Focus Blast|p2a: Liberacy
+|-damage|p2a: Liberacy|0 fnt
+|faint|p2a: Liberacy
+|-damage|p1a: Moebius|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781013283
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Moebius|atk|1
+|turn|13
+|
+|t:|1781013289
+|move|p2a: Enten|Earthquake|p1a: Moebius
+|-damage|p1a: Moebius|0 fnt
+|faint|p1a: Moebius
+|
+|upkeep
+|
+|t:|1781013294
+|switch|p1a: Anomaly|Great Tusk|100/100
+|-enditem|p1a: Anomaly|Booster Energy
+|-activate|p1a: Anomaly|ability: Protosynthesis|[fromitem]
+|-start|p1a: Anomaly|protosynthesisatk
+|turn|14
+|
+|t:|1781013299
+|switch|p2a: Overseer|Pecharunt|100/100
+|move|p1a: Anomaly|Headlong Rush|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|23/100
+|-unboost|p1a: Anomaly|def|1
+|-unboost|p1a: Anomaly|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1781013313
+|-end|p1a: Anomaly|Protosynthesis|[silent]
+|switch|p1a: Anomаly|Iron Moth|100/100
+|-enditem|p1a: Anomаly|Booster Energy
+|-activate|p1a: Anomаly|ability: Quark Drive|[fromitem]
+|-start|p1a: Anomаly|quarkdrivespe
+|move|p2a: Overseer|Recover|p2a: Overseer
+|-heal|p2a: Overseer|73/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781013317
+|move|p1a: Anomаly|Fiery Dance|p2a: Overseer
+|-damage|p2a: Overseer|36/100
+|move|p2a: Overseer|Parting Shot|p1a: Anomаly
+|-unboost|p1a: Anomаly|atk|1
+|-unboost|p1a: Anomаly|spa|1
+|
+|t:|1781013320
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100|[from] Parting Shot
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Anomаly|atk|1
+|
+|upkeep
+|turn|17
+|
+|t:|1781013331
+|move|p1a: Anomаly|Fiery Dance|p2a: Enten
+|-damage|p2a: Enten|60/100
+|-boost|p1a: Anomаly|spa|1
+|move|p2a: Enten|Earthquake|p1a: Anomаly
+|-supereffective|p1a: Anomаly
+|-damage|p1a: Anomаly|0 fnt
+|faint|p1a: Anomаly
+|-end|p1a: Anomаly|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781013336
+|switch|p1a: Anomaly|Great Tusk|100/100
+|turn|18
+|
+|t:|1781013339
+|switch|p2a: Overseer|Pecharunt|36/100
+|move|p1a: Anomaly|Headlong Rush|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|0 fnt
+|-unboost|p1a: Anomaly|def|1
+|-unboost|p1a: Anomaly|spd|1
+|faint|p2a: Overseer
+|
+|upkeep
+|
+|t:|1781013342
+|switch|p2a: Enten|Landorus-Therian, M, shiny|60/100
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Anomaly|atk|1
+|turn|19
+|
+|t:|1781013346
+|-end|p1a: Anomaly|Protosynthesis|[silent]
+|switch|p1a: Meruem|Kingambit, M|100/100
+|-activate|p1a: Meruem|ability: Supreme Overlord
+|-start|p1a: Meruem|fallen4|[silent]
+|-terastallize|p2a: Enten|Ground
+|move|p2a: Enten|Earthquake|p1a: Meruem
+|-supereffective|p1a: Meruem
+|-damage|p1a: Meruem|0 fnt
+|faint|p1a: Meruem
+|-end|p1a: Meruem|fallen4|[silent]
+|
+|upkeep
+|
+|t:|1781013348
+|switch|p1a: Anomaly|Great Tusk|100/100
+|turn|20
+|
+|t:|1781013355
+|move|p2a: Enten|Earthquake|p1a: Anomaly
+|-damage|p1a: Anomaly|41/100
+|move|p1a: Anomaly|Ice Spinner|p2a: Enten
+|-supereffective|p2a: Enten
+|-damage|p2a: Enten|0 fnt
+|faint|p2a: Enten
+|
+|win|sterster
+|raw|sterster's rating: 1685 &rarr; <strong>1711</strong><br />(+26 for winning)
+|raw|Floundso's rating: 1786 &rarr; <strong>1760</strong><br />(-26 for losing)
+|c|☆sterster|gg
+|l|☆Floundso
+|player|p2|
+|l|☆sterster
+|player|p1|

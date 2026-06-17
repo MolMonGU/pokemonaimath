@@ -1,0 +1,351 @@
+|j|☆suprya
+|j|☆seven-iwnl
+|t:|1781498161
+|gametype|singles
+|player|p1|suprya|clown|1708
+|player|p2|seven-iwnl|ghetsis|1634
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Hydrapple, F|
+|poke|p1|Iron Treads|
+|poke|p1|Gholdengo|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Greninja-*, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Ribombee, M|
+|poke|p2|Gholdengo|
+|poke|p2|Great Tusk|
+|poke|p2|Ogerpon-Cornerstone, F|
+|poke|p2|Ceruledge, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by suprya)
+|inactive|suprya has 120 seconds left.
+|
+|t:|1781498194
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Ribombee|Ribombee, M, shiny|100/100
+|turn|1
+|
+|t:|1781498200
+|move|p2a: Ribombee|Stun Spore|p1a: Iron Treads
+|-status|p1a: Iron Treads|par
+|move|p1a: Iron Treads|Stealth Rock|p2a: Ribombee
+|-sidestart|p2: seven-iwnl|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|j| Shucklepilled
+|
+|t:|1781498204
+|switch|p2a: Great Tusk|Great Tusk, shiny|100/100
+|-damage|p2a: Great Tusk|98/100|[from] Stealth Rock
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Iron Treads|Rapid Spin|p2a: Great Tusk
+|-damage|p2a: Great Tusk|88/100
+|-boost|p1a: Iron Treads|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781498211
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Great Tusk|Rapid Spin|p1a: Pelipper
+|-damage|p1a: Pelipper|84/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: seven-iwnl|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781498220
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Gholdengo|Gholdengo, shiny|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Pelipper|Hurricane|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|79/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781498225
+|switch|p2a: Ribombee|Ribombee, M, shiny|100/100
+|switch|p1a: Iron Treads|Iron Treads|100/100 par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781498230
+|switch|p2a: Ceruledge|Ceruledge, F, shiny|100/100
+|move|p1a: Iron Treads|Stealth Rock|p2a: Ceruledge
+|-sidestart|p2: seven-iwnl|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781498238
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Greninja|Greninja, M|100/100
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|-weather|none
+|upkeep
+|turn|8
+|
+|t:|1781498260
+|move|p1a: Greninja|Dark Pulse|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-enditem|p2a: Ceruledge|Focus Sash
+|-damage|p2a: Ceruledge|1/100
+|move|p2a: Ceruledge|Close Combat|p1a: Greninja
+|-supereffective|p1a: Greninja
+|-damage|p1a: Greninja|0 fnt
+|-unboost|p2a: Ceruledge|def|1
+|-unboost|p2a: Ceruledge|spd|1
+|faint|p1a: Greninja
+|
+|upkeep
+|
+|t:|1781498269
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|9
+|
+|t:|1781498271
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|3/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|upkeep
+|
+|t:|1781498282
+|switch|p2a: Ribombee|Ribombee, M, shiny|100/100
+|-damage|p2a: Ribombee|76/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1781498299
+|move|p1a: Gholdengo|Shadow Ball|p2a: Ribombee
+|-damage|p2a: Ribombee|5/100
+|move|p2a: Ribombee|Sticky Web|p1a: Gholdengo
+|-sidestart|p1: suprya|move: Sticky Web
+|
+|upkeep
+|turn|11
+|
+|t:|1781498315
+|move|p1a: Gholdengo|Shadow Ball|p2a: Ribombee
+|-damage|p2a: Ribombee|0 fnt
+|faint|p2a: Ribombee
+|
+|upkeep
+|
+|t:|1781498318
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|12
+|
+|t:|1781498321
+|switch|p1a: Iron Treads|Iron Treads|100/100 par
+|-activate|p1a: Iron Treads|move: Sticky Web
+|-unboost|p1a: Iron Treads|spe|1
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781498328
+|-terastallize|p2a: Raging Bolt|Ghost
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|cant|p1a: Iron Treads|par
+|
+|upkeep
+|turn|14
+|
+|t:|1781498334
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|move|p1a: Iron Treads|Knock Off|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|57/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781498352
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|34/100 par
+|move|p1a: Iron Treads|Knock Off|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|25/100
+|
+|-heal|p1a: Iron Treads|40/100 par|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781498359
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781498361
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|-activate|p1a: Slowking|move: Sticky Web
+|-unboost|p1a: Slowking|spe|1
+|turn|17
+|
+|t:|1781498365
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Slowking
+|-damage|p1a: Slowking|23/100
+|move|p1a: Slowking|Psyshock|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781498371
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|-damage|p2a: Ogerpon|88/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781498384
+|switch|p1a: Hydrapple|Hydrapple, F|100/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Hydrapple|[anim] Ivy Cudgel Rock
+|-damage|p1a: Hydrapple|65/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781498389
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Hydrapple|[anim] Ivy Cudgel Rock
+|-damage|p1a: Hydrapple|26/100
+|move|p1a: Hydrapple|Giga Drain|p2a: Ogerpon
+|-damage|p2a: Ogerpon|52/100
+|-heal|p1a: Hydrapple|39/100|[from] drain|[of] p2a: Ogerpon
+|
+|upkeep
+|turn|20
+|
+|t:|1781498397
+|switch|p2a: Gholdengo|Gholdengo, shiny|79/100
+|-damage|p2a: Gholdengo|73/100|[from] Stealth Rock
+|switch|p1a: Gholdengo|Gholdengo|3/100
+|-activate|p1a: Gholdengo|move: Sticky Web
+|-unboost|p1a: Gholdengo|spe|1
+|
+|upkeep
+|turn|21
+|
+|t:|1781498401
+|move|p1a: Gholdengo|Shadow Ball|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781498403
+|switch|p2a: Great Tusk|Great Tusk, shiny|88/100
+|-damage|p2a: Great Tusk|85/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781498406
+|move|p2a: Great Tusk|Ice Spinner|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781498408
+|switch|p1a: Pelipper|Pelipper, F|84/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|23
+|
+|t:|1781498414
+|move|p2a: Great Tusk|Ice Spinner|p1a: Pelipper
+|-damage|p1a: Pelipper|61/100
+|move|p1a: Pelipper|Hurricane|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781498417
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, F|52/100
+|-damage|p2a: Ogerpon|40/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781498428
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Pelipper|[anim] Ivy Cudgel Rock
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781498430
+|switch|p1a: Hydrapple|Hydrapple, F|72/100
+|turn|25
+|
+|t:|1781498434
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Hydrapple|[anim] Ivy Cudgel Rock
+|-damage|p1a: Hydrapple|34/100
+|move|p1a: Hydrapple|Giga Drain|p2a: Ogerpon
+|-crit|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|-heal|p1a: Hydrapple|48/100|[from] drain|[of] p2a: Ogerpon
+|faint|p2a: Ogerpon
+|
+|win|suprya
+|raw|suprya's rating: 1728 &rarr; <strong>1743</strong><br />(+15 for winning)
+|raw|seven-iwnl's rating: 1634 &rarr; <strong>1619</strong><br />(-15 for losing)
+|l|☆seven-iwnl
+|player|p2|
+|l|☆suprya
+|player|p1|
+|l| Shucklepilled

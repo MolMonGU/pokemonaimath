@@ -1,0 +1,392 @@
+|j|☆daytime_lunar
+|j|☆Enigmatic Gale
+|t:|1781588930
+|gametype|singles
+|player|p1|daytime_lunar|wattson|1580
+|player|p2|Enigmatic Gale|juggler|1602
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tinkaton, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Ogerpon, F|
+|poke|p1|Moltres|
+|poke|p1|Great Tusk|
+|poke|p1|Pecharunt|
+|poke|p2|Gholdengo|
+|poke|p2|Zamazenta-*|
+|poke|p2|Ting-Lu|
+|poke|p2|Clefable, F|
+|poke|p2|Dragonite, M|
+|poke|p2|Deoxys-Speed|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by daytime_lunar)
+|inactive|Enigmatic Gale has 120 seconds left.
+|
+|t:|1781588962
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|1
+|
+|t:|1781588984
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Ogerpon|Knock Off|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|91/100
+|-enditem|p2a: Zamazenta|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Ogerpon
+|
+|upkeep
+|turn|2
+|
+|t:|1781589003
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Zamazenta|Stone Edge|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|96/100
+|
+|-heal|p1a: Great Tusk|100/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781589015
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Clefable
+|-damage|p2a: Clefable|83/100
+|-damage|p1a: Great Tusk|84/100|[from] item: Rocky Helmet|[of] p2a: Clefable
+|
+|-heal|p1a: Great Tusk|90/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781589025
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Tinkaton|Tinkaton, F|100/100
+|-item|p1a: Tinkaton|Air Balloon
+|move|p2a: Clefable|Stealth Rock|p1a: Tinkaton
+|-sidestart|p1: daytime_lunar|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1781589040
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Tinkaton|Knock Off|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|96/100
+|-enditem|p2a: Ting-Lu|Leftovers|[from] move: Knock Off|[of] p1a: Tinkaton
+|
+|upkeep
+|turn|6
+|
+|t:|1781589054
+|move|p1a: Tinkaton|Stealth Rock|p2a: Ting-Lu
+|-sidestart|p2: Enigmatic Gale|move: Stealth Rock
+|move|p2a: Ting-Lu|Ruination|p1a: Tinkaton|[miss]
+|-miss|p2a: Ting-Lu|p1a: Tinkaton
+|
+|upkeep
+|turn|7
+|
+|t:|1781589062
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Ting-Lu|Ruination|p1a: Pecharunt
+|-damage|p1a: Pecharunt|50/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781589070
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|100/100
+|
+|upkeep
+|turn|9
+|inactive|Enigmatic Gale has 120 seconds left.
+|
+|t:|1781589097
+|move|p1a: Pecharunt|Shadow Ball|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|55/100
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|
+|upkeep
+|turn|10
+|inactive|Enigmatic Gale has 120 seconds left.
+|
+|t:|1781589129
+|move|p1a: Pecharunt|Shadow Ball|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|12/100
+|move|p2a: Gholdengo|Shadow Ball|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|1/100
+|
+|upkeep
+|turn|11
+|inactive|Enigmatic Gale has 120 seconds left.
+|c|☆daytime_lunar|roll of doom and despair
+|
+|t:|1781589163
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Pecharunt|Shadow Ball|p2a: Dragonite
+|-damage|p2a: Dragonite|89/100
+|-unboost|p2a: Dragonite|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1781589186
+|-terastallize|p1a: Pecharunt|Flying
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|51/100
+|move|p2a: Dragonite|Earthquake|p1a: Pecharunt
+|-immune|p1a: Pecharunt
+|
+|upkeep
+|turn|13
+|c|☆daytime_lunar|READS
+|inactive|Enigmatic Gale has 90 seconds left.
+|c|☆daytime_lunar|but also why run bulky dnite
+|c|☆daytime_lunar|you have clef ting zama
+|
+|t:|1781589233
+|move|p1a: Pecharunt|Malignant Chain|p2a: Dragonite
+|-damage|p2a: Dragonite|47/100
+|-status|p2a: Dragonite|tox
+|-start|p2a: Dragonite|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|-activate|p2a: Dragonite|confusion
+|move|p2a: Dragonite|Dragon Tail|p1a: Pecharunt
+|-damage|p1a: Pecharunt|28/100
+|drag|p1a: Great Tusk|Great Tusk|90/100
+|-damage|p1a: Great Tusk|87/100|[from] Stealth Rock
+|
+|-heal|p1a: Great Tusk|93/100|[from] item: Leftovers
+|-damage|p2a: Dragonite|41/100 tox|[from] psn
+|upkeep
+|turn|14
+|inactive|Enigmatic Gale has 60 seconds left.
+|
+|t:|1781589250
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Tinkaton|Tinkaton, F|100/100
+|-damage|p1a: Tinkaton|94/100|[from] Stealth Rock
+|-item|p1a: Tinkaton|Air Balloon
+|switch|p2a: Clefable|Clefable, F|83/100
+|
+|upkeep
+|turn|15
+|inactive|Enigmatic Gale has 60 seconds left.
+|
+|t:|1781589261
+|switch|p2a: Ting-Lu|Ting-Lu|96/100
+|-damage|p2a: Ting-Lu|90/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Tinkaton|Gigaton Hammer|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|65/100
+|
+|upkeep
+|turn|16
+|inactive|Enigmatic Gale has 60 seconds left.
+|
+|t:|1781589274
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|move|p2a: Ting-Lu|Spikes|p1a: Ogerpon
+|-sidestart|p1: daytime_lunar|Spikes
+|
+|upkeep
+|turn|17
+|
+|t:|1781589282
+|switch|p2a: Dragonite|Dragonite, M|41/100 tox
+|move|p1a: Ogerpon|Spikes|p2a: Dragonite
+|-sidestart|p2: Enigmatic Gale|Spikes
+|
+|-damage|p2a: Dragonite|35/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1781589289
+|move|p1a: Ogerpon|Knock Off|p2a: Dragonite
+|-damage|p2a: Dragonite|7/100 tox
+|-enditem|p2a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Ogerpon
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|57/100 tox
+|-singleturn|p2a: Dragonite|move: Roost
+|
+|-damage|p2a: Dragonite|45/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1781589301
+|move|p1a: Ogerpon|Spikes|p2a: Dragonite
+|-sidestart|p2: Enigmatic Gale|Spikes
+|move|p2a: Dragonite|Dragon Tail|p1a: Ogerpon
+|-damage|p1a: Ogerpon|57/100
+|drag|p1a: Raging Bolt|Raging Bolt|100/100
+|-damage|p1a: Raging Bolt|88/100|[from] Stealth Rock
+|-damage|p1a: Raging Bolt|76/100|[from] Spikes
+|
+|-damage|p2a: Dragonite|27/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1781589314
+|move|p2a: Dragonite|Extreme Speed|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|45/100
+|move|p1a: Raging Bolt|Volt Switch|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|t:|1781589324
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Ogerpon|Ogerpon, F|57/100|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1781589330
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|21
+|
+|t:|1781589344
+|switch|p1a: Tinkaton|Tinkaton, F|94/100
+|-damage|p1a: Tinkaton|88/100|[from] Stealth Rock
+|-item|p1a: Tinkaton|Air Balloon
+|move|p2a: Deoxys|Ice Beam|p1a: Tinkaton
+|-resisted|p1a: Tinkaton
+|-damage|p1a: Tinkaton|77/100
+|-enditem|p1a: Tinkaton|Air Balloon
+|
+|upkeep
+|turn|22
+|
+|t:|1781589367
+|switch|p2a: Ting-Lu|Ting-Lu|65/100
+|-damage|p2a: Ting-Lu|58/100|[from] Stealth Rock
+|-damage|p2a: Ting-Lu|42/100|[from] Spikes
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Tinkaton|Knock Off|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|39/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781589383
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Ting-Lu|Whirlwind|p1a: Moltres
+|drag|p1a: Great Tusk|Great Tusk|93/100
+|-damage|p1a: Great Tusk|90/100|[from] Stealth Rock
+|-damage|p1a: Great Tusk|78/100|[from] Spikes
+|
+|-heal|p1a: Great Tusk|84/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781589395
+|switch|p2a: Gholdengo|Gholdengo|12/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Gholdengo
+|-immune|p2a: Gholdengo
+|
+|-heal|p1a: Great Tusk|90/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|inactive|Enigmatic Gale has 60 seconds left.
+|
+|t:|1781589414
+|move|p1a: Great Tusk|Earthquake|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|-heal|p1a: Great Tusk|97/100|[from] item: Leftovers
+|upkeep
+|c|☆daytime_lunar|4 boots magic guard
+|c|☆daytime_lunar|hm
+|inactive|Enigmatic Gale has 60 seconds left.
+|
+|t:|1781589421
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|26
+|
+|t:|1781589429
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Tinkaton|Tinkaton, F|77/100
+|-damage|p1a: Tinkaton|71/100|[from] Stealth Rock
+|-damage|p1a: Tinkaton|59/100|[from] Spikes
+|move|p2a: Deoxys|Nasty Plot|p2a: Deoxys
+|-boost|p2a: Deoxys|spa|2
+|
+|upkeep
+|turn|27
+|
+|t:|1781589440
+|-terastallize|p2a: Deoxys|Electric
+|move|p2a: Deoxys|Thunderbolt|p1a: Tinkaton
+|-damage|p1a: Tinkaton|0 fnt
+|faint|p1a: Tinkaton
+|
+|upkeep
+|inactive|daytime_lunar has 120 seconds left.
+|
+|t:|1781589475
+|switch|p1a: Great Tusk|Great Tusk|97/100
+|-damage|p1a: Great Tusk|94/100|[from] Stealth Rock
+|-damage|p1a: Great Tusk|81/100|[from] Spikes
+|turn|28
+|inactive|Enigmatic Gale has 60 seconds left.
+|
+|t:|1781589506
+|move|p2a: Deoxys|Ice Beam|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|inactive|daytime_lunar has 120 seconds left.
+|
+|t:|1781589523
+|switch|p1a: Raging Bolt|Raging Bolt|45/100
+|-damage|p1a: Raging Bolt|33/100|[from] Stealth Rock
+|-damage|p1a: Raging Bolt|21/100|[from] Spikes
+|turn|29
+|
+|t:|1781589528
+|move|p1a: Raging Bolt|Thunderclap|p2a: Deoxys
+|-resisted|p2a: Deoxys
+|-damage|p2a: Deoxys|73/100
+|move|p2a: Deoxys|Ice Beam|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|-message|daytime_lunar forfeited.
+|
+|win|Enigmatic Gale
+|raw|daytime_lunar's rating: 1580 &rarr; <strong>1561</strong><br />(-19 for losing)
+|raw|Enigmatic Gale's rating: 1602 &rarr; <strong>1621</strong><br />(+19 for winning)
+|l|☆daytime_lunar
+|player|p1|
+|c|☆Enigmatic Gale|gg

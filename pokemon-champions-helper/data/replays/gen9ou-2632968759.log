@@ -1,0 +1,615 @@
+|j|☆levi6969
+|j|☆Pig Perfect
+|t:|1781586006
+|gametype|singles
+|player|p1|levi6969|101|1538
+|player|p2|Pig Perfect|workerice|1579
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Pecharunt|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Cinderace, M|
+|poke|p1|Alomomola, M|
+|poke|p1|Iron Valiant|
+|poke|p2|Great Tusk|
+|poke|p2|Hatterene, F|
+|poke|p2|Heatran, M|
+|poke|p2|Ninetales, M|
+|poke|p2|Slither Wing|
+|poke|p2|Walking Wake|
+|teampreview
+|
+|t:|1781586021
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|100/100
+|switch|p2a: Look Both Ways|Ninetales, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Look Both Ways|atk|1
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Look Both Ways
+|turn|1
+|
+|t:|1781586028
+|switch|p2a: Witches Wish|Hatterene, F|100/100
+|-terastallize|p1a: Landorus|Ground
+|move|p1a: Landorus|Earthquake|p2a: Witches Wish
+|-damage|p2a: Witches Wish|41/100
+|-enditem|p2a: Witches Wish|Eject Button
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by levi6969)
+|
+|t:|1781586037
+|switch|p2a: Gimme Shelter|Heatran, M|100/100
+|-item|p2a: Gimme Shelter|Air Balloon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781586045
+|switch|p1a: Alomomola|Alomomola, M, shiny|100/100
+|move|p2a: Gimme Shelter|Magma Storm|p1a: Alomomola|[miss]
+|-miss|p2a: Gimme Shelter|p1a: Alomomola
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781586057
+|switch|p2a: Tyranna Seesaur|Walking Wake|100/100
+|-activate|p2a: Tyranna Seesaur|ability: Protosynthesis
+|-start|p2a: Tyranna Seesaur|protosynthesisspe
+|move|p1a: Alomomola|Flip Turn|p2a: Tyranna Seesaur
+|-resisted|p2a: Tyranna Seesaur
+|-damage|p2a: Tyranna Seesaur|98/100
+|
+|t:|1781586064
+|switch|p1a: Cinderace|Cinderace, M, shiny|100/100|[from] Flip Turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781586082
+|switch|p1a: Alomomola|Alomomola, M, shiny|100/100
+|-terastallize|p2a: Tyranna Seesaur|Stellar
+|move|p2a: Tyranna Seesaur|Dragon Pulse|p1a: Alomomola
+|-damage|p1a: Alomomola|54/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781586090
+|-end|p2a: Tyranna Seesaur|Protosynthesis|[silent]
+|switch|p2a: Touch Me I’m Sick|Slither Wing|100/100
+|-activate|p2a: Touch Me I’m Sick|ability: Protosynthesis
+|-start|p2a: Touch Me I’m Sick|protosynthesisatk
+|move|p1a: Alomomola|Mirror Coat||[still]
+|-fail|p1a: Alomomola
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781586097
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Touch Me I’m Sick|U-turn|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-damage|p1a: Pecharunt|96/100
+|
+|t:|1781586099
+|-end|p2a: Touch Me I’m Sick|Protosynthesis|[silent]
+|switch|p2a: Tyranna Seesaur|Walking Wake, tera:Stellar|98/100|[from] U-turn
+|-activate|p2a: Tyranna Seesaur|ability: Protosynthesis
+|-start|p2a: Tyranna Seesaur|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781586106
+|switch|p1a: Iron Valiant|Iron Valiant, shiny|100/100
+|move|p2a: Tyranna Seesaur|Draco Meteor|p1a: Iron Valiant
+|-immune|p1a: Iron Valiant
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781586117
+|-end|p2a: Tyranna Seesaur|Protosynthesis|[silent]
+|switch|p2a: Witches Wish|Hatterene, F|41/100
+|move|p1a: Iron Valiant|Vacuum Wave|p2a: Witches Wish
+|-resisted|p2a: Witches Wish
+|-damage|p2a: Witches Wish|34/100
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781586124
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Pecharunt|Pecharunt|96/100
+|switch|p2a: Look Both Ways|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Look Both Ways
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|j| TheWireHD
+|inactive|Pig Perfect has 120 seconds left.
+|
+|t:|1781586155
+|switch|p2a: Tyranna Seesaur|Walking Wake, tera:Stellar|98/100
+|-activate|p2a: Tyranna Seesaur|ability: Protosynthesis
+|-start|p2a: Tyranna Seesaur|protosynthesisspe
+|move|p1a: Pecharunt|Parting Shot|p2a: Tyranna Seesaur
+|-unboost|p2a: Tyranna Seesaur|atk|1
+|-unboost|p2a: Tyranna Seesaur|spa|1
+|
+|t:|1781586159
+|switch|p1a: Alomomola|Alomomola, M, shiny|88/100|[from] Parting Shot
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781586162
+|move|p2a: Tyranna Seesaur|Flip Turn|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|85/100
+|
+|t:|1781586163
+|-end|p2a: Tyranna Seesaur|Protosynthesis|[silent]
+|switch|p2a: Touch Me I’m Sick|Slither Wing|100/100|[from] Flip Turn
+|-activate|p2a: Touch Me I’m Sick|ability: Protosynthesis
+|-start|p2a: Touch Me I’m Sick|protosynthesisatk
+|move|p1a: Alomomola|Flip Turn|p2a: Touch Me I’m Sick
+|-damage|p2a: Touch Me I’m Sick|94/100
+|-damage|p1a: Alomomola|69/100|[from] item: Rocky Helmet|[of] p2a: Touch Me I’m Sick
+|
+|t:|1781586175
+|switch|p1a: Pecharunt|Pecharunt|96/100|[from] Flip Turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781586182
+|-end|p2a: Touch Me I’m Sick|Protosynthesis|[silent]
+|switch|p2a: Trash Man|Great Tusk|100/100
+|-activate|p2a: Trash Man|ability: Protosynthesis
+|-start|p2a: Trash Man|protosynthesisatk
+|move|p1a: Pecharunt|Parting Shot|p2a: Trash Man
+|-unboost|p2a: Trash Man|atk|1
+|-unboost|p2a: Trash Man|spa|1
+|
+|t:|1781586188
+|switch|p1a: Landorus|Landorus-Therian, M, shiny, tera:Ground|100/100|[from] Parting Shot
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Trash Man|atk|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781586198
+|-end|p2a: Trash Man|Protosynthesis|[silent]
+|switch|p2a: Touch Me I’m Sick|Slither Wing|94/100
+|-activate|p2a: Touch Me I’m Sick|ability: Protosynthesis
+|-start|p2a: Touch Me I’m Sick|protosynthesisatk
+|move|p1a: Landorus|Earthquake|p2a: Touch Me I’m Sick
+|-resisted|p2a: Touch Me I’m Sick
+|-damage|p2a: Touch Me I’m Sick|62/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781586204
+|switch|p1a: Pecharunt|Pecharunt|96/100
+|move|p2a: Touch Me I’m Sick|U-turn|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-damage|p1a: Pecharunt|91/100
+|
+|t:|1781586206
+|-end|p2a: Touch Me I’m Sick|Protosynthesis|[silent]
+|switch|p2a: Tyranna Seesaur|Walking Wake, tera:Stellar|98/100|[from] U-turn
+|-activate|p2a: Tyranna Seesaur|ability: Protosynthesis
+|-start|p2a: Tyranna Seesaur|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781586210
+|switch|p1a: Alomomola|Alomomola, M, shiny|100/100
+|move|p2a: Tyranna Seesaur|Draco Meteor|p1a: Alomomola
+|-damage|p1a: Alomomola|52/100
+|-unboost|p2a: Tyranna Seesaur|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781586220
+|move|p2a: Tyranna Seesaur|Draco Meteor|p1a: Alomomola
+|-damage|p1a: Alomomola|29/100
+|-unboost|p2a: Tyranna Seesaur|spa|2
+|move|p1a: Alomomola|Flip Turn|p2a: Tyranna Seesaur
+|-resisted|p2a: Tyranna Seesaur
+|-damage|p2a: Tyranna Seesaur|96/100
+|
+|t:|1781586226
+|switch|p1a: Iron Valiant|Iron Valiant, shiny|100/100|[from] Flip Turn
+|
+|-weather|none
+|-end|p2a: Tyranna Seesaur|Protosynthesis
+|upkeep
+|turn|17
+|
+|t:|1781586231
+|-end|p2a: Tyranna Seesaur|Protosynthesis|[silent]
+|switch|p2a: Look Both Ways|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Look Both Ways
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Look Both Ways
+|-damage|p2a: Look Both Ways|64/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781586240
+|switch|p2a: Trash Man|Great Tusk|100/100
+|-activate|p2a: Trash Man|ability: Protosynthesis
+|-start|p2a: Trash Man|protosynthesisatk
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Trash Man
+|-damage|p2a: Trash Man|69/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781586256
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Pecharunt|Pecharunt|91/100
+|move|p2a: Trash Man|Headlong Rush|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|18/100
+|-unboost|p2a: Trash Man|def|1
+|-unboost|p2a: Trash Man|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781586263
+|switch|p1a: Landorus|Landorus-Therian, M, shiny, tera:Ground|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Trash Man|atk|1
+|move|p2a: Trash Man|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|65/100
+|-enditem|p1a: Landorus|Choice Scarf|[from] move: Knock Off|[of] p2a: Trash Man
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781586282
+|move|p1a: Landorus|Earthquake|p2a: Trash Man
+|-damage|p2a: Trash Man|0 fnt
+|faint|p2a: Trash Man
+|-end|p2a: Trash Man|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781586285
+|switch|p2a: Tyranna Seesaur|Walking Wake, tera:Stellar|96/100
+|-activate|p2a: Tyranna Seesaur|ability: Protosynthesis
+|-start|p2a: Tyranna Seesaur|protosynthesisspe
+|turn|22
+|
+|t:|1781586293
+|switch|p1a: Iron Valiant|Iron Valiant, shiny|100/100
+|move|p2a: Tyranna Seesaur|Dragon Pulse|p1a: Iron Valiant
+|-immune|p1a: Iron Valiant
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1781586302
+|-end|p2a: Tyranna Seesaur|Protosynthesis|[silent]
+|switch|p2a: Witches Wish|Hatterene, F|34/100
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Alomomola|Alomomola, M, shiny|62/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1781586311
+|move|p1a: Alomomola|Flip Turn|p2a: Witches Wish
+|-damage|p2a: Witches Wish|28/100
+|
+|t:|1781586316
+|switch|p1a: Pecharunt|Pecharunt|18/100|[from] Flip Turn
+|move|p2a: Witches Wish|Draining Kiss|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-damage|p1a: Pecharunt|7/100
+|-heal|p2a: Witches Wish|38/100|[from] drain|[of] p1a: Pecharunt
+|
+|-weather|none
+|upkeep
+|turn|25
+|
+|t:|1781586324
+|switch|p2a: Gimme Shelter|Heatran, M|100/100
+|-item|p2a: Gimme Shelter|Air Balloon
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|57/100
+|
+|upkeep
+|turn|26
+|
+|t:|1781586329
+|switch|p1a: Alomomola|Alomomola, M, shiny|95/100
+|move|p2a: Gimme Shelter|Stealth Rock|p1a: Alomomola
+|-sidestart|p1: levi6969|move: Stealth Rock
+|
+|upkeep
+|turn|27
+|
+|t:|1781586332
+|switch|p2a: Tyranna Seesaur|Walking Wake, tera:Stellar|96/100
+|move|p1a: Alomomola|Flip Turn|p2a: Tyranna Seesaur
+|-resisted|p2a: Tyranna Seesaur
+|-damage|p2a: Tyranna Seesaur|92/100
+|
+|t:|1781586336
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100|[from] Flip Turn
+|-damage|p1a: Hoopa|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|28
+|
+|t:|1781586338
+|move|p2a: Tyranna Seesaur|Flip Turn|p1a: Hoopa
+|-damage|p1a: Hoopa|61/100
+|
+|t:|1781586344
+|-end|p2a: Tyranna Seesaur|Protosynthesis|[silent]
+|switch|p2a: Witches Wish|Hatterene, F|38/100|[from] Flip Turn
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Witches Wish
+|-damage|p2a: Witches Wish|0 fnt
+|-unboost|p1a: Hoopa|def|1
+|faint|p2a: Witches Wish
+|
+|upkeep
+|
+|t:|1781586348
+|switch|p2a: Touch Me I’m Sick|Slither Wing|62/100
+|turn|29
+|
+|t:|1781586356
+|switch|p1a: Landorus|Landorus-Therian, M, shiny, tera:Ground|65/100
+|-damage|p1a: Landorus|59/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Touch Me I’m Sick|atk|1
+|move|p2a: Touch Me I’m Sick|U-turn|p1a: Landorus
+|-damage|p1a: Landorus|35/100
+|
+|t:|1781586361
+|-end|p2a: Touch Me I’m Sick|Protosynthesis|[silent]
+|switch|p2a: Look Both Ways|Ninetales, M|64/100|[from] U-turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Look Both Ways
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|30
+|
+|t:|1781586367
+|switch|p1a: Alomomola|Alomomola, M, shiny|100/100
+|-damage|p1a: Alomomola|88/100|[from] Stealth Rock
+|move|p2a: Look Both Ways|Foul Play|p1a: Alomomola
+|-damage|p1a: Alomomola|76/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|31
+|
+|t:|1781586379
+|switch|p2a: Tyranna Seesaur|Walking Wake, tera:Stellar|92/100
+|-activate|p2a: Tyranna Seesaur|ability: Protosynthesis
+|-start|p2a: Tyranna Seesaur|protosynthesisspe
+|move|p1a: Alomomola|Body Slam|p2a: Tyranna Seesaur
+|-damage|p2a: Tyranna Seesaur|76/100
+|-status|p2a: Tyranna Seesaur|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|32
+|
+|t:|1781586384
+|move|p2a: Tyranna Seesaur|Flip Turn|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|73/100
+|
+|t:|1781586386
+|-end|p2a: Tyranna Seesaur|Protosynthesis|[silent]
+|switch|p2a: Touch Me I’m Sick|Slither Wing|62/100|[from] Flip Turn
+|-activate|p2a: Touch Me I’m Sick|ability: Protosynthesis
+|-start|p2a: Touch Me I’m Sick|protosynthesisatk
+|move|p1a: Alomomola|Mirror Coat||[still]
+|-fail|p1a: Alomomola
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|33
+|
+|t:|1781586396
+|switch|p1a: Hoopa|Hoopa-Unbound|61/100
+|-damage|p1a: Hoopa|49/100|[from] Stealth Rock
+|move|p2a: Touch Me I’m Sick|U-turn|p1a: Hoopa
+|-supereffective|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|t:|1781586403
+|-end|p2a: Touch Me I’m Sick|Protosynthesis|[silent]
+|switch|p2a: Gimme Shelter|Heatran, M|100/100|[from] U-turn
+|-item|p2a: Gimme Shelter|Air Balloon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781586406
+|switch|p1a: Cinderace|Cinderace, M, shiny|100/100
+|turn|34
+|
+|t:|1781586423
+|switch|p2a: Touch Me I’m Sick|Slither Wing|62/100
+|-activate|p2a: Touch Me I’m Sick|ability: Protosynthesis
+|-start|p2a: Touch Me I’m Sick|protosynthesisatk
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-start|p1a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|35
+|
+|t:|1781586432
+|move|p2a: Touch Me I’m Sick|First Impression|p1a: Cinderace
+|-damage|p1a: Cinderace|28/100
+|move|p1a: Cinderace|Pyro Ball|p2a: Touch Me I’m Sick
+|-supereffective|p2a: Touch Me I’m Sick
+|-damage|p2a: Touch Me I’m Sick|0 fnt
+|faint|p2a: Touch Me I’m Sick
+|-end|p2a: Touch Me I’m Sick|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781586449
+|switch|p2a: Gimme Shelter|Heatran, M|100/100
+|-damage|p2a: Gimme Shelter|88/100|[from] Stealth Rock
+|-item|p2a: Gimme Shelter|Air Balloon
+|turn|36
+|
+|t:|1781586458
+|switch|p2a: Tyranna Seesaur|Walking Wake, tera:Stellar|76/100 par
+|-damage|p2a: Tyranna Seesaur|63/100 par|[from] Stealth Rock
+|-activate|p2a: Tyranna Seesaur|ability: Protosynthesis
+|-start|p2a: Tyranna Seesaur|protosynthesisspe
+|move|p1a: Cinderace|U-turn|p2a: Tyranna Seesaur
+|-damage|p2a: Tyranna Seesaur|41/100 par
+|
+|t:|1781586470
+|switch|p1a: Alomomola|Alomomola, M, shiny|100/100|[from] U-turn
+|
+|-weather|none
+|-end|p2a: Tyranna Seesaur|Protosynthesis
+|upkeep
+|turn|37
+|
+|t:|1781586476
+|move|p2a: Tyranna Seesaur|Draco Meteor|p1a: Alomomola
+|-damage|p1a: Alomomola|49/100
+|-unboost|p2a: Tyranna Seesaur|spa|2
+|move|p1a: Alomomola|Body Slam|p2a: Tyranna Seesaur
+|-damage|p2a: Tyranna Seesaur|23/100 par
+|
+|upkeep
+|turn|38
+|
+|t:|1781586485
+|-end|p2a: Tyranna Seesaur|Protosynthesis|[silent]
+|switch|p2a: Look Both Ways|Ninetales, M|64/100
+|-damage|p2a: Look Both Ways|39/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Look Both Ways
+|move|p1a: Alomomola|Flip Turn|p2a: Look Both Ways
+|-supereffective|p2a: Look Both Ways
+|-damage|p2a: Look Both Ways|20/100
+|
+|t:|1781586490
+|switch|p1a: Iron Valiant|Iron Valiant, shiny|100/100|[from] Flip Turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|39
+|
+|t:|1781586498
+|move|p1a: Iron Valiant|Vacuum Wave|p2a: Look Both Ways
+|-damage|p2a: Look Both Ways|0 fnt
+|faint|p2a: Look Both Ways
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781586502
+|switch|p2a: Gimme Shelter|Heatran, M|88/100
+|-damage|p2a: Gimme Shelter|76/100|[from] Stealth Rock
+|-item|p2a: Gimme Shelter|Air Balloon
+|turn|40
+|
+|t:|1781586505
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Alomomola|Alomomola, M, shiny|82/100
+|move|p2a: Gimme Shelter|Magma Storm|p1a: Alomomola|[miss]
+|-miss|p2a: Gimme Shelter|p1a: Alomomola
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|41
+|
+|t:|1781586508
+|move|p2a: Gimme Shelter|Magma Storm|p1a: Alomomola|[miss]
+|-miss|p2a: Gimme Shelter|p1a: Alomomola
+|move|p1a: Alomomola|Flip Turn|p2a: Gimme Shelter
+|-supereffective|p2a: Gimme Shelter
+|-damage|p2a: Gimme Shelter|61/100
+|-enditem|p2a: Gimme Shelter|Air Balloon
+|
+|t:|1781586510
+|switch|p1a: Landorus|Landorus-Therian, M, shiny, tera:Ground|35/100|[from] Flip Turn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Gimme Shelter|atk|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|42
+|
+|t:|1781586515
+|move|p1a: Landorus|Earthquake|p2a: Gimme Shelter
+|-supereffective|p2a: Gimme Shelter
+|-crit|p2a: Gimme Shelter
+|-damage|p2a: Gimme Shelter|0 fnt
+|faint|p2a: Gimme Shelter
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|c|☆levi6969|gg
+|-message|Pig Perfect forfeited.
+|
+|win|levi6969
+|raw|levi6969's rating: 1538 &rarr; <strong>1560</strong><br />(+22 for winning)
+|raw|Pig Perfect's rating: 1579 &rarr; <strong>1557</strong><br />(-22 for losing)
+|l|☆Pig Perfect
+|player|p2|
+|l|☆levi6969
+|player|p1|

@@ -1,0 +1,318 @@
+|j|☆jsnsddk
+|j|☆blah0blah1blah2
+|t:|1781183049
+|gametype|singles
+|player|p1|jsnsddk|102|1563
+|player|p2|blah0blah1blah2|colress|1582
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragonite, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Kingambit, F|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Iron Crown|
+|poke|p1|Manaphy|
+|poke|p2|Regidrago|
+|poke|p2|Iron Treads|
+|poke|p2|Primarina, F|
+|poke|p2|Pecharunt|
+|poke|p2|Scizor, M|
+|poke|p2|Ogerpon, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by blah0blah1blah2)
+|inactive|jsnsddk also wants the timer to be on.
+|j| gorduricap
+|
+|t:|1781183069
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|switch|p2a: Ogerpon|Ogerpon, F|100/100
+|turn|1
+|
+|t:|1781183077
+|move|p2a: Ogerpon|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|72/100
+|-enditem|p1a: Hatterene|Light Clay|[from] move: Knock Off|[of] p2a: Ogerpon
+|move|p1a: Hatterene|Reflect|p1a: Hatterene
+|-sidestart|p1: jsnsddk|Reflect
+|
+|upkeep
+|turn|2
+|
+|t:|1781183083
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldstart|move: Trick Room|[of] p1a: Hatterene
+|
+|upkeep
+|turn|3
+|
+|t:|1781183089
+|move|p1a: Hatterene|Healing Wish|p1a: Hatterene
+|faint|p1a: Hatterene
+|move|p2a: Ogerpon|Ivy Cudgel|p1: Hatterene|[notarget]
+|-fail|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781183092
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100
+|turn|4
+|
+|t:|1781183108
+|move|p1a: Crawdaunt|Knock Off|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|-enditem|p2a: Ogerpon|Expert Belt|[from] move: Knock Off|[of] p1a: Crawdaunt
+|faint|p2a: Ogerpon
+|-damage|p1a: Crawdaunt|90/100|[from] item: Life Orb
+|
+|upkeep
+|inactive|blah0blah1blah2 has 120 seconds left.
+|
+|t:|1781183130
+|switch|p2a: Primarina|Primarina, F|100/100
+|turn|5
+|
+|t:|1781183136
+|move|p1a: Crawdaunt|Knock Off|p2a: Primarina
+|-resisted|p2a: Primarina
+|-crit|p2a: Primarina
+|-damage|p2a: Primarina|23/100
+|-enditem|p2a: Primarina|Assault Vest|[from] move: Knock Off|[of] p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|80/100|[from] item: Life Orb
+|move|p2a: Primarina|Moonblast|p1a: Crawdaunt
+|-supereffective|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|
+|-sideend|p1: jsnsddk|Reflect
+|upkeep
+|
+|t:|1781183151
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|turn|6
+|
+|t:|1781183157
+|move|p2a: Primarina|Surf|p1a: Kingambit
+|-damage|p1a: Kingambit|15/100
+|move|p1a: Kingambit|Iron Head|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1781183164
+|switch|p2a: Scizor|Scizor, M|100/100
+|turn|7
+|
+|t:|1781183170
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|move|p2a: Scizor|Bullet Punch|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|76/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781183177
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|-enditem|p2a: Iron Treads|Mirror Herb
+|-boost|p2a: Iron Treads|spa|1|[from] item: Mirror Herb
+|-boost|p2a: Iron Treads|spd|1|[from] item: Mirror Herb
+|
+|upkeep
+|turn|9
+|
+|t:|1781183198
+|-terastallize|p1a: Iron Crown|Fighting
+|move|p1a: Iron Crown|Focus Blast|p2a: Iron Treads|[miss]
+|-miss|p1a: Iron Crown|p2a: Iron Treads
+|move|p2a: Iron Treads|Earthquake|p1a: Iron Crown
+|-damage|p1a: Iron Crown|25/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781183206
+|-terastallize|p2a: Iron Treads|Ghost
+|move|p1a: Iron Crown|Focus Blast|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|move|p2a: Iron Treads|Rapid Spin|p1a: Iron Crown
+|-damage|p1a: Iron Crown|8/100
+|-boost|p2a: Iron Treads|spe|1
+|
+|upkeep
+|turn|11
+|
+|t:|1781183213
+|move|p2a: Iron Treads|Rapid Spin|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|-boost|p2a: Iron Treads|spe|1
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781183226
+|switch|p1a: Kingambit|Kingambit, F|15/100
+|-heal|p1a: Kingambit|100/100|[from] move: Healing Wish
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|12
+|
+|t:|1781183229
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|move|p2a: Iron Treads|Stealth Rock|p1a: Kingambit
+|-sidestart|p1: jsnsddk|move: Stealth Rock
+|
+|upkeep
+|turn|13
+|
+|t:|1781183234
+|move|p1a: Kingambit|Sucker Punch|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|7/100
+|move|p2a: Iron Treads|Earthquake|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|23/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781183241
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|move|p2a: Iron Treads|Stealth Rock||[still]
+|-fail|p2a: Iron Treads
+|
+|upkeep
+|turn|15
+|
+|t:|1781183244
+|-end|p1a: Kingambit|fallen3|[silent]
+|switch|p1a: Manaphy|Manaphy|100/100
+|-damage|p1a: Manaphy|88/100|[from] Stealth Rock
+|move|p2a: Iron Treads|Stealth Rock||[still]
+|-fail|p2a: Iron Treads
+|
+|-heal|p1a: Manaphy|94/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781183252
+|move|p2a: Iron Treads|Earthquake|p1a: Manaphy
+|-damage|p1a: Manaphy|54/100
+|move|p1a: Manaphy|Acid Armor|p1a: Manaphy
+|-boost|p1a: Manaphy|def|2
+|
+|-heal|p1a: Manaphy|60/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781183268
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Regidrago|Regidrago|100/100
+|move|p1a: Manaphy|Take Heart|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|1
+|-boost|p1a: Manaphy|spd|1
+|
+|-heal|p1a: Manaphy|66/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781183277
+|move|p2a: Regidrago|Dragon Energy|p1a: Manaphy
+|-damage|p1a: Manaphy|11/100
+|move|p1a: Manaphy|Stored Power|p2a: Regidrago
+|-damage|p2a: Regidrago|53/100
+|
+|-heal|p1a: Manaphy|18/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781183291
+|move|p2a: Regidrago|Dragon Energy|p1a: Manaphy
+|-damage|p1a: Manaphy|0 fnt
+|faint|p1a: Manaphy
+|
+|upkeep
+|
+|t:|1781183298
+|switch|p1a: Kingambit|Kingambit, F|23/100
+|-damage|p1a: Kingambit|17/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|20
+|
+|t:|1781183313
+|switch|p2a: Scizor|Scizor, M|100/100
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|upkeep
+|turn|21
+|
+|t:|1781183317
+|move|p2a: Scizor|Bullet Punch|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|
+|upkeep
+|
+|t:|1781183320
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|-damage|p1a: Dragonite|75/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781183324
+|move|p2a: Scizor|Bullet Punch|p1a: Dragonite
+|-damage|p1a: Dragonite|15/100
+|move|p1a: Dragonite|Fire Punch|p2a: Scizor
+|-supereffective|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1781183328
+|switch|p2a: Regidrago|Regidrago|53/100
+|turn|23
+|
+|t:|1781183332
+|move|p2a: Regidrago|Dragon Pulse|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|win|blah0blah1blah2
+|raw|jsnsddk's rating: 1563 &rarr; <strong>1544</strong><br />(-19 for losing)
+|raw|blah0blah1blah2's rating: 1582 &rarr; <strong>1601</strong><br />(+19 for winning)
+|l| gorduricap
+|l|☆jsnsddk
+|player|p1|

@@ -1,0 +1,327 @@
+|j|☆shockmoth
+|j|☆cachowcapow
+|t:|1780932672
+|gametype|singles
+|player|p1|shockmoth|102|1754
+|player|p2|cachowcapow|102|1738
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Frosmoth, F|
+|poke|p1|Pincurchin, M|
+|poke|p1|Raichu-Alola, F|
+|poke|p1|Iron Hands|
+|poke|p1|Rotom-Wash|
+|poke|p1|Pawmot, M|
+|poke|p2|Primarina, M|
+|poke|p2|Slither Wing|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Great Tusk|
+|poke|p2|Meowscarada, M|
+|poke|p2|Gardevoir, M|
+|teampreview
+|
+|t:|1780932678
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: OH YEAH!!! YEAH!!|Pincurchin, M|100/100
+|switch|p2a: Gardevoir|Gardevoir, M, shiny|100/100
+|-ability|p2a: Gardevoir|Electric Surge|Trace|[from] ability: Trace|[of] p1a: OH YEAH!!! YEAH!!
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Gardevoir
+|turn|1
+|
+|t:|1780932698
+|move|p2a: Gardevoir|Moonblast|p1a: OH YEAH!!! YEAH!!
+|-damage|p1a: OH YEAH!!! YEAH!!|0 fnt
+|faint|p1a: OH YEAH!!! YEAH!!
+|
+|upkeep
+|
+|t:|1780932702
+|switch|p1a: Finger Eleven|Frosmoth, F, shiny|100/100
+|turn|2
+|
+|t:|1780932707
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|switch|p1a: Iron Deficiency|Iron Hands|100/100
+|-activate|p1a: Iron Deficiency|ability: Quark Drive
+|-start|p1a: Iron Deficiency|quarkdriveatk
+|
+|upkeep
+|turn|3
+|
+|t:|1780932709
+|move|p2a: Slither Wing|Will-O-Wisp|p1a: Iron Deficiency
+|-status|p1a: Iron Deficiency|brn
+|move|p1a: Iron Deficiency|Swords Dance|p1a: Iron Deficiency
+|-boost|p1a: Iron Deficiency|atk|2
+|
+|-damage|p1a: Iron Deficiency|94/100 brn|[from] brn
+|upkeep
+|turn|4
+|-activate|p1a: Iron Deficiency|item: Quick Claw
+|
+|t:|1780932712
+|move|p1a: Iron Deficiency|Swords Dance|p1a: Iron Deficiency
+|-boost|p1a: Iron Deficiency|atk|2
+|move|p2a: Slither Wing|U-turn|p1a: Iron Deficiency
+|-resisted|p1a: Iron Deficiency
+|-damage|p1a: Iron Deficiency|86/100 brn
+|
+|t:|1780932718
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|
+|-damage|p1a: Iron Deficiency|80/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1780932720
+|move|p2a: Great Tusk|Headlong Rush|p1a: Iron Deficiency
+|-supereffective|p1a: Iron Deficiency
+|-damage|p1a: Iron Deficiency|9/100 brn
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Iron Deficiency|Ice Punch|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-damage|p1a: Iron Deficiency|3/100 brn|[from] brn
+|-fieldend|move: Electric Terrain
+|-end|p1a: Iron Deficiency|Quark Drive
+|upkeep
+|
+|t:|1780932724
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|turn|6
+|
+|t:|1780932733
+|move|p2a: Slither Wing|First Impression|p1a: Iron Deficiency
+|-resisted|p1a: Iron Deficiency
+|-damage|p1a: Iron Deficiency|0 fnt
+|faint|p1a: Iron Deficiency
+|-end|p1a: Iron Deficiency|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780932735
+|switch|p1a: Evanescence|Pawmot, M|100/100
+|turn|7
+|
+|t:|1780932739
+|move|p1a: Evanescence|Nuzzle|p2a: Slither Wing
+|-damage|p2a: Slither Wing|95/100
+|-status|p2a: Slither Wing|par
+|-damage|p1a: Evanescence|84/100|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|cant|p2a: Slither Wing|par
+|
+|upkeep
+|turn|8
+|j| Ryaanng
+|
+|t:|1780932744
+|move|p1a: Evanescence|Revival Blessing|p1a: Evanescence
+|-enditem|p1a: Evanescence|Leppa Berry|[eat]
+|-activate|p1a: Evanescence|item: Leppa Berry|Revival Blessing|[consumed]
+|
+|t:|1780932746
+|-heal|p1: Iron Deficiency|50/100|[from] move: Revival Blessing
+|move|p2a: Slither Wing|U-turn|p1a: Evanescence
+|-resisted|p1a: Evanescence
+|-damage|p1a: Evanescence|64/100
+|
+|t:|1780932757
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Gardevoir|Gardevoir, M, shiny|100/100|[from] U-turn
+|-ability|p2a: Gardevoir|Volt Absorb|Trace|[from] ability: Trace|[of] p1a: Evanescence
+|
+|upkeep
+|turn|9
+|
+|t:|1780932759
+|move|p1a: Evanescence|Nuzzle|p2a: Gardevoir
+|-immune|p2a: Gardevoir|[from] ability: Volt Absorb
+|move|p2a: Gardevoir|Moonblast|p1a: Evanescence
+|-supereffective|p1a: Evanescence
+|-damage|p1a: Evanescence|0 fnt
+|faint|p1a: Evanescence
+|
+|upkeep
+|l| Ryaanng
+|
+|t:|1780932770
+|switch|p1a: Finger Eleven|Frosmoth, F, shiny|100/100
+|turn|10
+|
+|t:|1780932775
+|switch|p2a: Slither Wing|Slither Wing|95/100 par
+|switch|p1a: William O' Wisp|Rotom-Wash|100/100
+|
+|upkeep
+|turn|11
+|
+|t:|1780932783
+|move|p1a: William O' Wisp|Reflect|p1a: William O' Wisp
+|-sidestart|p1: shockmoth|Reflect
+|move|p2a: Slither Wing|U-turn|p1a: William O' Wisp
+|-damage|p1a: William O' Wisp|82/100
+|
+|t:|1780932791
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|12
+|
+|t:|1780932797
+|move|p1a: William O' Wisp|Light Screen|p1a: William O' Wisp
+|-sidestart|p1: shockmoth|move: Light Screen
+|move|p2a: Slowking|Future Sight|p1a: William O' Wisp
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|13
+|
+|t:|1780932804
+|move|p1a: William O' Wisp|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|80/100
+|
+|t:|1780932809
+|switch|p1a: Surf's Up (2007)|Raichu-Alola, F|100/100|[from] Volt Switch
+|move|p2a: Slowking|Sludge Bomb|p1a: Surf's Up (2007)
+|-damage|p1a: Surf's Up (2007)|78/100
+|
+|upkeep
+|turn|14
+|
+|t:|1780932815
+|move|p1a: Surf's Up (2007)|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|53/100
+|
+|t:|1780932820
+|switch|p1a: William O' Wisp|Rotom-Wash|82/100|[from] Volt Switch
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1780932827
+|switch|p2a: Meowscarada|Meowscarada, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: William O' Wisp|move: Future Sight
+|-damage|p1a: William O' Wisp|58/100
+|upkeep
+|turn|15
+|
+|t:|1780932833
+|move|p2a: Meowscarada|U-turn|p1a: William O' Wisp
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p1a: William O' Wisp|41/100
+|
+|t:|1780932835
+|switch|p2a: Slowking|Slowking-Galar, M|86/100|[from] U-turn
+|move|p1a: William O' Wisp|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|68/100
+|
+|t:|1780932841
+|switch|p1a: Iron Deficiency|Iron Hands|50/100|[from] Volt Switch
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1780932849
+|move|p1a: Iron Deficiency|Swords Dance|p1a: Iron Deficiency
+|-boost|p1a: Iron Deficiency|atk|2
+|move|p2a: Slowking|Future Sight|p1a: Iron Deficiency
+|-start|p2a: Slowking|move: Future Sight
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1780932876
+|switch|p2a: Slither Wing|Slither Wing|95/100 par
+|move|p1a: Iron Deficiency|Supercell Slam|p2a: Slither Wing
+|-damage|p2a: Slither Wing|0 fnt
+|-damage|p1a: Iron Deficiency|34/100|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|faint|p2a: Slither Wing
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1780932893
+|switch|p2a: Gardevoir|Gardevoir, M, shiny|100/100
+|turn|18
+|
+|t:|1780932897
+|move|p2a: Gardevoir|Moonblast|p1a: Iron Deficiency
+|-supereffective|p1a: Iron Deficiency
+|-damage|p1a: Iron Deficiency|0 fnt
+|faint|p1a: Iron Deficiency
+|-end|p1a: Iron Deficiency|Quark Drive|[silent]
+|
+|-weather|none
+|-hint|Future Sight did not hit because the target is fainted.
+|-sideend|p1: shockmoth|Reflect
+|upkeep
+|
+|t:|1780932899
+|switch|p1a: Finger Eleven|Frosmoth, F, shiny|100/100
+|-ability|p2a: Gardevoir|Ice Scales|Trace|[from] ability: Trace|[of] p1a: Finger Eleven
+|turn|19
+|j| Mega Delibird X
+|
+|t:|1780932906
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|move|p1a: Finger Eleven|Quiver Dance|p1a: Finger Eleven
+|-boost|p1a: Finger Eleven|spa|1
+|-boost|p1a: Finger Eleven|spd|1
+|-boost|p1a: Finger Eleven|spe|1
+|
+|-sideend|p1: shockmoth|move: Light Screen
+|upkeep
+|turn|20
+|
+|t:|1780932909
+|move|p2a: Meowscarada|Knock Off|p1a: Finger Eleven
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p1a: Finger Eleven|24/100
+|-enditem|p1a: Finger Eleven|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Meowscarada
+|move|p1a: Finger Eleven|Quiver Dance|p1a: Finger Eleven
+|-boost|p1a: Finger Eleven|spa|1
+|-boost|p1a: Finger Eleven|spd|1
+|-boost|p1a: Finger Eleven|spe|1
+|
+|upkeep
+|turn|21
+|
+|t:|1780932913
+|move|p2a: Meowscarada|Knock Off|p1a: Finger Eleven
+|-damage|p1a: Finger Eleven|0 fnt
+|faint|p1a: Finger Eleven
+|
+|upkeep
+|j| MushTown
+|-message|shockmoth forfeited.
+|
+|win|cachowcapow
+|raw|shockmoth's rating: 1754 &rarr; <strong>1732</strong><br />(-22 for losing)
+|raw|cachowcapow's rating: 1714 &rarr; <strong>1736</strong><br />(+22 for winning)
+|l|☆shockmoth
+|player|p1|
+|l| MushTown
+|l| Mega Delibird X

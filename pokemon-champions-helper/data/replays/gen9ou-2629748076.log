@@ -1,0 +1,682 @@
+|j|☆POESIE CLANDESTINE
+|j|☆Floundso
+|t:|1781174848
+|gametype|singles
+|player|p1|POESIE CLANDESTINE|backpacker|1660
+|player|p2|Floundso|giovanni|1843
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Serperior, M|
+|poke|p1|Umbreon, F|
+|poke|p1|Kyurem|
+|poke|p1|Zapdos|
+|poke|p1|Iron Treads|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Pecharunt|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|
+|t:|1781174865
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|turn|1
+|
+|t:|1781174873
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|move|p1a: Zapdos|Hurricane|p2a: Pisces|[miss]
+|-miss|p1a: Zapdos|p2a: Pisces
+|
+|upkeep
+|turn|2
+|
+|t:|1781174881
+|switch|p1a: Umbreon|Umbreon, F|100/100
+|move|p2a: Pisces|Mirror Coat||[still]
+|-fail|p2a: Pisces
+|
+|upkeep
+|turn|3
+|
+|t:|1781174899
+|switch|p2a: Overseer|Pecharunt|100/100
+|move|p1a: Umbreon|Toxic|p2a: Overseer
+|-immune|p2a: Overseer
+|
+|upkeep
+|turn|4
+|
+|t:|1781174922
+|move|p1a: Umbreon|Protect|p1a: Umbreon
+|-singleturn|p1a: Umbreon|Protect
+|move|p2a: Overseer|Parting Shot|p1a: Umbreon
+|-activate|p1a: Umbreon|move: Protect
+|
+|upkeep
+|turn|5
+|
+|t:|1781174927
+|move|p2a: Overseer|Malignant Chain|p1a: Umbreon
+|-damage|p1a: Umbreon|79/100
+|-status|p1a: Umbreon|tox
+|-start|p1a: Umbreon|confusion|[from] ability: Poison Puppeteer|[of] p2a: Overseer
+|-activate|p1a: Umbreon|confusion
+|move|p1a: Umbreon|Foul Play|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|78/100
+|
+|-heal|p1a: Umbreon|85/100 tox|[from] item: Leftovers
+|-damage|p1a: Umbreon|79/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1781174941
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|move|p2a: Overseer|Parting Shot|p1a: Iron Treads
+|-unboost|p1a: Iron Treads|atk|1
+|-unboost|p1a: Iron Treads|spa|1
+|
+|t:|1781174945
+|switch|p2a: Khaos|Hoopa-Unbound|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|7
+|
+|t:|1781174954
+|move|p1a: Iron Treads|Stealth Rock|p2a: Khaos
+|-sidestart|p2: Floundso|move: Stealth Rock
+|move|p2a: Khaos|Hyperspace Fury|p1a: Iron Treads
+|-damage|p1a: Iron Treads|1/100
+|-unboost|p2a: Khaos|def|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781174965
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|-damage|p2a: Pisces|88/100|[from] Stealth Rock
+|move|p1a: Iron Treads|Earthquake|p2a: Pisces
+|-crit|p2a: Pisces
+|-damage|p2a: Pisces|39/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781174974
+|move|p1a: Iron Treads|Steel Beam|p2a: Pisces
+|-resisted|p2a: Pisces
+|-damage|p2a: Pisces|34/100
+|-damage|p1a: Iron Treads|0 fnt|[from] steelbeam
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|move|p2a: Pisces|Flip Turn|p1: Iron Treads|[notarget]
+|-fail|p2a: Pisces
+|
+|upkeep
+|
+|t:|1781174990
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|10
+|
+|t:|1781175001
+|switch|p2a: Overseer|Pecharunt|78/100
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|75/100
+|
+|-heal|p1a: Zamazenta|82/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781175009
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|58/100
+|move|p2a: Overseer|Parting Shot|p1a: Zamazenta
+|-unboost|p1a: Zamazenta|atk|1
+|-unboost|p1a: Zamazenta|spa|1
+|
+|t:|1781175012
+|switch|p2a: Pisces|Alomomola, M, shiny|67/100|[from] Parting Shot
+|-damage|p2a: Pisces|54/100|[from] Stealth Rock
+|
+|-heal|p1a: Zamazenta|88/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781175018
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Pisces|Flip Turn|p1a: Zamazenta
+|-activate|p1a: Zamazenta|move: Substitute|[damage]
+|
+|t:|1781175020
+|switch|p2a: Overseer|Pecharunt|58/100|[from] Flip Turn
+|
+|-heal|p1a: Zamazenta|94/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781175025
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|44/100
+|move|p2a: Overseer|Recover|p2a: Overseer
+|-heal|p2a: Overseer|94/100
+|
+|-heal|p1a: Zamazenta|99/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781175031
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|80/100
+|move|p2a: Overseer|Malignant Chain|p1a: Zamazenta
+|-end|p1a: Zamazenta|Substitute
+|
+|-heal|p1a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781175036
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|75/100
+|move|p2a: Overseer|Parting Shot|p1a: Zamazenta
+|-unboost|p1a: Zamazenta|atk|1
+|-unboost|p1a: Zamazenta|spa|1
+|
+|t:|1781175040
+|switch|p2a: Pisces|Alomomola, M, shiny|88/100|[from] Parting Shot
+|-damage|p2a: Pisces|75/100|[from] Stealth Rock
+|
+|-heal|p1a: Zamazenta|82/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781175048
+|move|p1a: Zamazenta|Body Press|p2a: Pisces
+|-damage|p2a: Pisces|19/100
+|move|p2a: Pisces|Flip Turn|p1a: Zamazenta
+|-activate|p1a: Zamazenta|move: Substitute|[damage]
+|
+|t:|1781175053
+|switch|p2a: Overseer|Pecharunt|80/100|[from] Flip Turn
+|
+|-heal|p1a: Zamazenta|88/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781175060
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Overseer|Malignant Chain|p1a: Zamazenta
+|-end|p1a: Zamazenta|Substitute
+|
+|-heal|p1a: Zamazenta|94/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781175070
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|69/100
+|move|p2a: Overseer|Foul Play|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-activate|p1a: Zamazenta|move: Substitute|[damage]
+|
+|-heal|p1a: Zamazenta|75/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781175075
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|70/100
+|move|p2a: Overseer|Malignant Chain|p1a: Zamazenta
+|-end|p1a: Zamazenta|Substitute
+|
+|-heal|p1a: Zamazenta|81/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781175080
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|56/100
+|move|p2a: Overseer|Malignant Chain|p1a: Zamazenta
+|-activate|p1a: Zamazenta|move: Substitute|[damage]
+|
+|-heal|p1a: Zamazenta|63/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781175088
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|60/100
+|move|p2a: Overseer|Foul Play|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-activate|p1a: Zamazenta|move: Substitute|[damage]
+|
+|-heal|p1a: Zamazenta|69/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781175095
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|50/100
+|move|p2a: Overseer|Recover|p2a: Overseer
+|-heal|p2a: Overseer|99/100
+|
+|-heal|p1a: Zamazenta|75/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781175104
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|90/100
+|move|p2a: Overseer|Malignant Chain|p1a: Zamazenta
+|-end|p1a: Zamazenta|Substitute
+|
+|-heal|p1a: Zamazenta|81/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781175110
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|56/100
+|move|p2a: Overseer|Malignant Chain|p1a: Zamazenta
+|-activate|p1a: Zamazenta|move: Substitute|[damage]
+|
+|-heal|p1a: Zamazenta|62/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781175159
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|80/100
+|move|p2a: Overseer|Malignant Chain|p1a: Zamazenta
+|-end|p1a: Zamazenta|Substitute
+|
+|-heal|p1a: Zamazenta|69/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781175171
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|44/100
+|move|p2a: Overseer|Parting Shot|p1a: Zamazenta
+|-unboost|p1a: Zamazenta|atk|1
+|-unboost|p1a: Zamazenta|spa|1
+|
+|t:|1781175207
+|switch|p2a: Pisces|Alomomola, M, shiny|52/100|[from] Parting Shot
+|-damage|p2a: Pisces|40/100|[from] Stealth Rock
+|
+|-heal|p1a: Zamazenta|50/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781175215
+|switch|p2a: Overseer|Pecharunt|80/100
+|move|p1a: Zamazenta|Body Press|p2a: Overseer
+|-immune|p2a: Overseer
+|
+|-heal|p1a: Zamazenta|56/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781175222
+|switch|p2a: Pisces|Alomomola, M, shiny|73/100
+|-damage|p2a: Pisces|60/100|[from] Stealth Rock
+|move|p1a: Zamazenta|Crunch|p2a: Pisces
+|-damage|p2a: Pisces|55/100
+|
+|-heal|p1a: Zamazenta|62/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1781175225
+|switch|p2a: Overseer|Pecharunt|80/100
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|72/100
+|
+|-heal|p1a: Zamazenta|68/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781175233
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|64/100
+|move|p2a: Overseer|Parting Shot|p1a: Zamazenta
+|-unboost|p1a: Zamazenta|atk|1
+|-unboost|p1a: Zamazenta|spa|1
+|
+|t:|1781175236
+|switch|p2a: Pisces|Alomomola, M, shiny|88/100|[from] Parting Shot
+|-damage|p2a: Pisces|75/100|[from] Stealth Rock
+|
+|-heal|p1a: Zamazenta|74/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1781175239
+|switch|p2a: Overseer|Pecharunt|64/100
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|56/100
+|
+|-heal|p1a: Zamazenta|81/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1781175255
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|-damage|p2a: Pisces|88/100|[from] Stealth Rock
+|move|p1a: Zamazenta|Crunch|p2a: Pisces
+|-damage|p2a: Pisces|82/100
+|-unboost|p2a: Pisces|def|1
+|
+|-heal|p1a: Zamazenta|87/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1781175266
+|switch|p2a: Overseer|Pecharunt|56/100
+|move|p1a: Zamazenta|Body Press|p2a: Overseer
+|-immune|p2a: Overseer
+|
+|-heal|p1a: Zamazenta|93/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1781175273
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|49/100
+|move|p2a: Overseer|Recover|p2a: Overseer
+|-heal|p2a: Overseer|99/100
+|
+|-heal|p1a: Zamazenta|99/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1781175281
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|92/100
+|move|p2a: Overseer|Parting Shot|p1a: Zamazenta
+|-unboost|p1a: Zamazenta|atk|1
+|-unboost|p1a: Zamazenta|spa|1
+|
+|t:|1781175284
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100|[from] Parting Shot
+|-damage|p2a: Pisces|88/100|[from] Stealth Rock
+|
+|-heal|p1a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1781175288
+|switch|p2a: Overseer|Pecharunt|92/100
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|86/100
+|
+|upkeep
+|turn|37
+|
+|t:|1781175295
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|-damage|p2a: Pisces|88/100|[from] Stealth Rock
+|move|p1a: Zamazenta|Crunch|p2a: Pisces
+|-damage|p2a: Pisces|84/100
+|
+|upkeep
+|turn|38
+|
+|t:|1781175300
+|switch|p2a: Overseer|Pecharunt|86/100
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|80/100
+|
+|upkeep
+|turn|39
+|
+|t:|1781175306
+|move|p1a: Zamazenta|Body Press|p2a: Overseer
+|-immune|p2a: Overseer
+|move|p2a: Overseer|Parting Shot|p1a: Zamazenta
+|-unboost|p1a: Zamazenta|atk|1
+|-unboost|p1a: Zamazenta|spa|1
+|
+|t:|1781175308
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100|[from] Parting Shot
+|-damage|p2a: Pisces|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|40
+|
+|t:|1781175315
+|switch|p2a: Overseer|Pecharunt|80/100
+|move|p1a: Zamazenta|Crunch|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|75/100
+|
+|upkeep
+|turn|41
+|
+|t:|1781175323
+|switch|p1a: Serperior|Serperior, M|100/100
+|move|p2a: Overseer|Parting Shot|p1a: Serperior
+|-boost|p1a: Serperior|atk|1
+|-boost|p1a: Serperior|spa|1
+|
+|t:|1781175327
+|switch|p2a: Liberacy|Cinderace, M, shiny|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|42
+|
+|t:|1781175341
+|-terastallize|p1a: Serperior|Ghost
+|move|p2a: Liberacy|Pyro Ball|p1a: Serperior
+|-damage|p1a: Serperior|41/100
+|move|p1a: Serperior|Glare|p2a: Liberacy
+|-status|p2a: Liberacy|par
+|
+|-heal|p1a: Serperior|47/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1781175349
+|move|p1a: Serperior|Substitute|p1a: Serperior
+|-start|p1a: Serperior|Substitute
+|-damage|p1a: Serperior|22/100
+|move|p2a: Liberacy|Court Change|p2a: Liberacy
+|-start|p2a: Liberacy|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p2a: Liberacy|move: Court Change
+|
+|-heal|p1a: Serperior|29/100|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1781175363
+|move|p2a: Liberacy|Sucker Punch||[still]
+|-fail|p2a: Liberacy
+|move|p1a: Serperior|Leech Seed|p2a: Liberacy
+|-start|p2a: Liberacy|move: Leech Seed
+|
+|-heal|p1a: Serperior|35/100|[from] item: Leftovers
+|-damage|p2a: Liberacy|88/100 par|[from] Leech Seed|[of] p1a: Serperior
+|-heal|p1a: Serperior|45/100|[silent]
+|upkeep
+|turn|45
+|
+|t:|1781175382
+|move|p1a: Serperior|Substitute|p1a: Serperior
+|-fail|p1a: Serperior|move: Substitute
+|move|p2a: Liberacy|Pyro Ball|p1a: Serperior
+|-end|p1a: Serperior|Substitute
+|
+|-heal|p1a: Serperior|51/100|[from] item: Leftovers
+|-damage|p2a: Liberacy|76/100 par|[from] Leech Seed|[of] p1a: Serperior
+|-heal|p1a: Serperior|62/100|[silent]
+|upkeep
+|turn|46
+|
+|t:|1781175388
+|move|p1a: Serperior|Substitute|p1a: Serperior
+|-start|p1a: Serperior|Substitute
+|-damage|p1a: Serperior|37/100
+|move|p2a: Liberacy|U-turn|p1a: Serperior
+|-resisted|p1a: Serperior
+|-activate|p1a: Serperior|move: Substitute|[damage]
+|
+|t:|1781175393
+|switch|p2a: Khaos|Hoopa-Unbound|100/100|[from] U-turn
+|
+|-heal|p1a: Serperior|43/100|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1781175403
+|move|p1a: Serperior|Glare|p2a: Khaos
+|-status|p2a: Khaos|par
+|move|p2a: Khaos|Hyperspace Fury|p1a: Serperior
+|-supereffective|p1a: Serperior
+|-crit|p1a: Serperior
+|-damage|p1a: Serperior|0 fnt
+|-unboost|p2a: Khaos|def|1
+|faint|p1a: Serperior
+|
+|upkeep
+|
+|t:|1781175442
+|switch|p1a: Umbreon|Umbreon, F|79/100 tox
+|-damage|p1a: Umbreon|66/100 tox|[from] Stealth Rock
+|turn|48
+|
+|t:|1781175457
+|switch|p2a: Overseer|Pecharunt|75/100
+|move|p1a: Umbreon|Foul Play|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|54/100
+|
+|-heal|p1a: Umbreon|73/100 tox|[from] item: Leftovers
+|-damage|p1a: Umbreon|66/100 tox|[from] psn
+|upkeep
+|turn|49
+|
+|t:|1781175485
+|move|p2a: Overseer|Parting Shot|p1a: Umbreon
+|-unboost|p1a: Umbreon|atk|1
+|-unboost|p1a: Umbreon|spa|1
+|
+|t:|1781175490
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100|[from] Parting Shot
+|-ability|p2a: Enten|Intimidate|boost
+|-fail|p1a: Umbreon|unboost|Attack|[from] ability: Inner Focus|[of] p1a: Umbreon
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|
+|-heal|p1a: Umbreon|73/100 tox|[from] item: Leftovers
+|-damage|p1a: Umbreon|60/100 tox|[from] psn
+|upkeep
+|turn|50
+|
+|t:|1781175497
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-damage|p1a: Zamazenta|94/100|[from] Stealth Rock
+|
+|-heal|p1a: Zamazenta|100/100|[from] move: Wish|[wisher] Umbreon
+|upkeep
+|turn|51
+|
+|t:|1781175502
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|75/100
+|move|p2a: Pisces|Flip Turn|p1a: Zamazenta
+|-activate|p1a: Zamazenta|move: Substitute|[damage]
+|
+|t:|1781175505
+|switch|p2a: Calamity|Iron Valiant, shiny|100/100|[from] Flip Turn
+|
+|-heal|p1a: Zamazenta|82/100|[from] item: Leftovers
+|upkeep
+|turn|52
+|
+|t:|1781175515
+|move|p1a: Zamazenta|Body Press|p2a: Calamity
+|-resisted|p2a: Calamity
+|-damage|p2a: Calamity|81/100
+|move|p2a: Calamity|Moonblast|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-end|p1a: Zamazenta|Substitute
+|
+|-heal|p1a: Zamazenta|88/100|[from] item: Leftovers
+|upkeep
+|turn|53
+|
+|t:|1781175523
+|switch|p1a: Zapdos|Zapdos|100/100
+|-damage|p1a: Zapdos|76/100|[from] Stealth Rock
+|move|p2a: Calamity|Moonblast|p1a: Zapdos
+|-damage|p1a: Zapdos|20/100
+|
+|upkeep
+|turn|54
+|
+|t:|1781175530
+|-end|p2a: Calamity|Quark Drive|[silent]
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|move|p1a: Zapdos|Hurricane|p2a: Pisces
+|-damage|p2a: Pisces|73/100
+|-start|p2a: Pisces|confusion
+|
+|upkeep
+|turn|55
+|-message|POESIE CLANDESTINE forfeited.
+|
+|win|Floundso
+|raw|POESIE CLANDESTINE's rating: 1660 &rarr; <strong>1650</strong><br />(-10 for losing)
+|raw|Floundso's rating: 1843 &rarr; <strong>1853</strong><br />(+10 for winning)
+|l|☆POESIE CLANDESTINE
+|player|p1|
+|l|☆Floundso
+|player|p2|

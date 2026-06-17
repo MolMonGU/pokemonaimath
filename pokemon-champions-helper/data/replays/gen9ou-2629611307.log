@@ -1,0 +1,384 @@
+|j|☆The median voter
+|j|☆just.mr.himself
+|t:|1781152991
+|gametype|singles
+|player|p1|The median voter|scientist-gen4dp|1532
+|player|p2|just.mr.himself|steven|1529
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Great Tusk|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Alomomola, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Rillaboom, F|
+|poke|p2|Pelipper, L99, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Pawmot, F|
+|poke|p2|Meowscarada, F|
+|poke|p2|Tentacruel, F|
+|teampreview
+|
+|t:|1781153000
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Preacher|Zapdos|100/100
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by just.mr.himself)
+|
+|t:|1781153006
+|move|p2a: Meowscarada|Triple Axel|p1a: Preacher
+|-start|p2a: Meowscarada|typechange|Ice|[from] ability: Protean
+|-supereffective|p1a: Preacher
+|-damage|p1a: Preacher|78/100
+|-supereffective|p1a: Preacher
+|-damage|p1a: Preacher|41/100
+|-supereffective|p1a: Preacher
+|-damage|p1a: Preacher|0 fnt
+|-status|p2a: Meowscarada|par|[from] ability: Static|[of] p1a: Preacher
+|faint|p1a: Preacher
+|-hitcount|p1: Preacher|3
+|
+|upkeep
+|
+|t:|1781153018
+|switch|p1a: Zealot|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Zealot
+|turn|2
+|
+|t:|1781153020
+|move|p1a: Zealot|Wood Hammer|p2a: Meowscarada
+|-damage|p2a: Meowscarada|0 fnt
+|faint|p2a: Meowscarada
+|-damage|p1a: Zealot|75/100|[from] Recoil
+|
+|-heal|p1a: Zealot|81/100|[from] Grassy Terrain
+|upkeep
+|inactive|just.mr.himself has 120 seconds left.
+|
+|t:|1781153057
+|switch|p2a: Great Neck|Raging Bolt|100/100
+|-enditem|p2a: Great Neck|Booster Energy
+|-activate|p2a: Great Neck|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Neck|protosynthesisspa
+|turn|3
+|
+|t:|1781153061
+|switch|p1a: The End of All|Hoopa-Unbound|100/100
+|move|p2a: Great Neck|Dragon Pulse|p1a: The End of All
+|-damage|p1a: The End of All|68/100
+|
+|-heal|p1a: The End of All|74/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|inactive|just.mr.himself has 120 seconds left.
+|
+|t:|1781153089
+|move|p2a: Great Neck|Dragon Pulse|p1a: The End of All
+|-damage|p1a: The End of All|39/100
+|move|p1a: The End of All|Psychic Noise|p2a: Great Neck
+|-damage|p2a: Great Neck|59/100
+|-start|p2a: Great Neck|move: Heal Block
+|
+|-heal|p1a: The End of All|45/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|inactive|just.mr.himself has 120 seconds left.
+|
+|t:|1781153108
+|move|p2a: Great Neck|Dragon Pulse|p1a: The End of All
+|-damage|p1a: The End of All|9/100
+|move|p1a: The End of All|Hyperspace Fury|p2a: Great Neck
+|-damage|p2a: Great Neck|11/100
+|-unboost|p1a: The End of All|def|1
+|
+|-heal|p1a: The End of All|15/100|[from] Grassy Terrain
+|-end|p2a: Great Neck|move: Heal Block
+|upkeep
+|turn|6
+|inactive|just.mr.himself has 120 seconds left.
+|
+|t:|1781153121
+|move|p2a: Great Neck|Weather Ball|p1a: The End of All
+|-damage|p1a: The End of All|2/100
+|move|p1a: The End of All|Psychic Noise|p2a: Great Neck
+|-damage|p2a: Great Neck|0 fnt
+|faint|p2a: Great Neck
+|-end|p2a: Great Neck|Protosynthesis|[silent]
+|
+|-heal|p1a: The End of All|8/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|inactive|just.mr.himself has 120 seconds left.
+|
+|t:|1781153129
+|switch|p2a: ExSkewda Me|Barraskewda, F|100/100
+|turn|7
+|
+|t:|1781153137
+|move|p2a: ExSkewda Me|Flip Turn|p1a: The End of All
+|-damage|p1a: The End of All|0 fnt
+|faint|p1a: The End of All
+|inactive|just.mr.himself has 120 seconds left.
+|
+|t:|1781153153
+|switch|p2a: Pelipper|Pelipper, L99, F|100/100|[from] Flip Turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781153159
+|switch|p1a: Holy Envoy|Alomomola, F|100/100
+|turn|8
+|
+|t:|1781153162
+|move|p1a: Holy Envoy|Flip Turn|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|91/100
+|
+|t:|1781153170
+|switch|p1a: Zealot|Rillaboom, F|81/100|[from] Flip Turn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Zealot
+|move|p2a: Pelipper|U-turn|p1a: Zealot
+|-supereffective|p1a: Zealot
+|-damage|p1a: Zealot|65/100
+|
+|t:|1781153194
+|switch|p2a: Really want eject|Pawmot, F|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zealot|71/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781153197
+|-terastallize|p1a: Zealot|Grass
+|move|p1a: Zealot|Grassy Glide|p2a: Really want eject
+|-damage|p2a: Really want eject|0 fnt
+|faint|p2a: Really want eject
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zealot|77/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781153210
+|switch|p2a: Pelipper|Pelipper, L99, F|91/100
+|turn|10
+|
+|t:|1781153217
+|switch|p1a: Holy Envoy|Alomomola, F|100/100
+|-terastallize|p2a: Pelipper|Normal
+|move|p2a: Pelipper|Hurricane|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|82/100
+|-start|p1a: Holy Envoy|confusion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Holy Envoy|88/100|[from] Grassy Terrain
+|-heal|p2a: Pelipper|97/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781153225
+|-activate|p1a: Holy Envoy|confusion
+|move|p1a: Holy Envoy|Flip Turn|p2a: Pelipper
+|-damage|p2a: Pelipper|77/100
+|
+|t:|1781153230
+|switch|p1a: Acolyte|Iron Valiant|100/100|[from] Flip Turn
+|-enditem|p1a: Acolyte|Booster Energy
+|-activate|p1a: Acolyte|ability: Quark Drive|[fromitem]
+|-start|p1a: Acolyte|quarkdrivespe
+|move|p2a: Pelipper|U-turn|p1a: Acolyte
+|-resisted|p1a: Acolyte
+|-damage|p1a: Acolyte|98/100
+|
+|t:|1781153237
+|switch|p2a: Spaghetti Too|Tentacruel, F|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Acolyte|100/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781153240
+|move|p1a: Acolyte|Calm Mind|p1a: Acolyte
+|-boost|p1a: Acolyte|spa|1
+|-boost|p1a: Acolyte|spd|1
+|move|p2a: Spaghetti Too|Sludge Bomb|p1a: Acolyte
+|-supereffective|p1a: Acolyte
+|-damage|p1a: Acolyte|34/100
+|-status|p1a: Acolyte|psn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Acolyte|40/100 psn|[from] Grassy Terrain
+|-damage|p1a: Acolyte|28/100 psn|[from] psn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1781153248
+|move|p1a: Acolyte|Shadow Ball|p2a: Spaghetti Too
+|-damage|p2a: Spaghetti Too|86/100
+|move|p2a: Spaghetti Too|Sludge Bomb|p1a: Acolyte
+|-supereffective|p1a: Acolyte
+|-damage|p1a: Acolyte|0 fnt
+|faint|p1a: Acolyte
+|-end|p1a: Acolyte|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Spaghetti Too|92/100|[from] ability: Rain Dish
+|upkeep
+|
+|t:|1781153253
+|switch|p1a: Zealot|Rillaboom, F, tera:Grass|77/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Zealot
+|turn|14
+|
+|t:|1781153258
+|move|p1a: Zealot|Grassy Glide|p2a: Spaghetti Too
+|-damage|p2a: Spaghetti Too|0 fnt
+|faint|p2a: Spaghetti Too
+|
+|-weather|none
+|-heal|p1a: Zealot|84/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781153266
+|switch|p2a: Pelipper|Pelipper, L99, F, tera:Normal|77/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|15
+|
+|t:|1781153273
+|move|p1a: Zealot|Grassy Glide|p2a: Pelipper
+|-damage|p2a: Pelipper|16/100
+|move|p2a: Pelipper|Hurricane|p1a: Zealot
+|-supereffective|p1a: Zealot
+|-damage|p1a: Zealot|1/100
+|-start|p1a: Zealot|confusion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zealot|7/100|[from] Grassy Terrain
+|-heal|p2a: Pelipper|22/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1781153281
+|switch|p1a: Holy Envoy|Alomomola, F|100/100
+|move|p2a: Pelipper|U-turn|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|94/100
+|
+|t:|1781153283
+|switch|p2a: ExSkewda Me|Barraskewda, F|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Holy Envoy|99/100|[from] Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1781153291
+|move|p2a: ExSkewda Me|Liquidation|p1a: Holy Envoy
+|-resisted|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|70/100
+|-unboost|p1a: Holy Envoy|def|1
+|move|p1a: Holy Envoy|Flip Turn|p2a: ExSkewda Me
+|-resisted|p2a: ExSkewda Me
+|-damage|p2a: ExSkewda Me|78/100
+|
+|t:|1781153294
+|switch|p1a: Zealot|Rillaboom, F, tera:Grass|7/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: ExSkewda Me|84/100|[from] Grassy Terrain
+|-heal|p1a: Zealot|13/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1781153301
+|move|p2a: ExSkewda Me|Aqua Jet|p1a: Zealot
+|-resisted|p1a: Zealot
+|-damage|p1a: Zealot|0 fnt
+|faint|p1a: Zealot
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: ExSkewda Me|90/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781153304
+|switch|p1a: Holy Envoy|Alomomola, F|100/100
+|turn|19
+|
+|t:|1781153313
+|move|p2a: ExSkewda Me|Liquidation|p1a: Holy Envoy
+|-resisted|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|67/100
+|move|p1a: Holy Envoy|Scald|p2a: ExSkewda Me
+|-resisted|p2a: ExSkewda Me
+|-damage|p2a: ExSkewda Me|69/100
+|-status|p2a: ExSkewda Me|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: ExSkewda Me|62/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1781153323
+|move|p2a: ExSkewda Me|Liquidation|p1a: Holy Envoy
+|-resisted|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|50/100
+|move|p1a: Holy Envoy|Flip Turn|p2a: ExSkewda Me
+|-resisted|p2a: ExSkewda Me
+|-damage|p2a: ExSkewda Me|39/100 brn
+|
+|t:|1781153330
+|switch|p1a: Templar|Great Tusk|100/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: ExSkewda Me|33/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1781153332
+|-end|p1a: Templar|Protosynthesis|[silent]
+|switch|p1a: Holy Envoy|Alomomola, F|83/100
+|move|p2a: ExSkewda Me|Flip Turn|p1a: Holy Envoy
+|-resisted|p1a: Holy Envoy
+|-damage|p1a: Holy Envoy|72/100
+|
+|t:|1781153334
+|switch|p2a: Pelipper|Pelipper, L99, F, tera:Normal|22/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1781153341
+|move|p1a: Holy Envoy|Scald|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|none
+|upkeep
+|-message|just.mr.himself forfeited.
+|
+|win|The median voter
+|raw|The median voter's rating: 1532 &rarr; <strong>1552</strong><br />(+20 for winning)
+|raw|just.mr.himself's rating: 1529 &rarr; <strong>1509</strong><br />(-20 for losing)
+|l|☆just.mr.himself
+|player|p2|
+|l|☆The median voter
+|player|p1|

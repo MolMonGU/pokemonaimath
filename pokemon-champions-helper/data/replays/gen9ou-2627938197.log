@@ -1,0 +1,297 @@
+|j|☆lucy cobblestone
+|j|☆RunicImpulse
+|t:|1780956479
+|gametype|singles
+|player|p1|lucy cobblestone|guitarist|1582
+|player|p2|RunicImpulse|psychic-gen4|1519
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Kingambit, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Zamazenta-*|
+|poke|p1|Kyurem|
+|poke|p1|Pecharunt|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Kleavor, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Staraptor, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Iron Moth|
+|teampreview
+|
+|t:|1780956486
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|switch|p2a: Kleavor|Kleavor, F|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by RunicImpulse)
+|
+|t:|1780956503
+|move|p1a: Zamazenta|Stone Edge|p2a: Kleavor
+|-supereffective|p2a: Kleavor
+|-damage|p2a: Kleavor|16/100
+|move|p2a: Kleavor|Trailblaze|p1a: Zamazenta
+|-damage|p1a: Zamazenta|88/100
+|-boost|p2a: Kleavor|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1780956509
+|move|p2a: Kleavor|Stone Axe|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|73/100
+|-sidestart|p1: lucy cobblestone|move: Stealth Rock
+|move|p1a: Zamazenta|Crunch|p2a: Kleavor
+|-damage|p2a: Kleavor|0 fnt
+|faint|p2a: Kleavor
+|
+|upkeep
+|
+|t:|1780956531
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|3
+|inactive|lucy cobblestone has 120 seconds left.
+|inactive|lucy cobblestone has 90 seconds left.
+|
+|t:|1780956599
+|-terastallize|p1a: Zamazenta|Steel
+|move|p2a: Iron Valiant|Moonblast|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|52/100
+|move|p1a: Zamazenta|Heavy Slam|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|inactive|RunicImpulse has 120 seconds left.
+|
+|t:|1780956645
+|switch|p2a: Staraptor|Staraptor, M|100/100
+|turn|4
+|inactive|lucy cobblestone has 90 seconds left.
+|
+|t:|1780956681
+|move|p2a: Staraptor|Close Combat|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|-unboost|p2a: Staraptor|def|1
+|-unboost|p2a: Staraptor|spd|1
+|faint|p1a: Zamazenta
+|
+|upkeep
+|
+|t:|1780956687
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Staraptor|atk|1
+|turn|5
+|
+|t:|1780956696
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Landorus|Stealth Rock|p2a: Ogerpon
+|-sidestart|p2: RunicImpulse|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|inactive|RunicImpulse has 120 seconds left.
+|
+|t:|1780956702
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Ogerpon|Knock Off|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|52/100
+|-enditem|p1a: Pecharunt|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ogerpon
+|
+|upkeep
+|turn|7
+|inactive|lucy cobblestone has 90 seconds left.
+|inactive|RunicImpulse has 120 seconds left.
+|
+|t:|1780956726
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Pecharunt|Malignant Chain|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|32/100
+|-status|p2a: Ogerpon|tox
+|-start|p2a: Ogerpon|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|
+|-damage|p2a: Ogerpon|26/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1780956733
+|-activate|p2a: Ogerpon|confusion
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Pecharunt|[anim] Ivy Cudgel Water
+|-damage|p1a: Pecharunt|0 fnt
+|faint|p1a: Pecharunt
+|
+|-damage|p2a: Ogerpon|14/100 tox|[from] psn
+|upkeep
+|
+|t:|1780956738
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|-damage|p1a: Samurott|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1780956743
+|move|p1a: Samurott|Sucker Punch|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1780956758
+|switch|p2a: Staraptor|Staraptor, M|100/100
+|-damage|p2a: Staraptor|76/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1780956778
+|switch|p1a: Landorus|Landorus-Therian, M|88/100
+|-damage|p1a: Landorus|76/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Staraptor|atk|1
+|move|p2a: Staraptor|Brave Bird|p1a: Landorus
+|-damage|p1a: Landorus|26/100
+|-damage|p2a: Staraptor|59/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|-damage|p2a: Staraptor|42/100|[from] Recoil
+|
+|upkeep
+|turn|11
+|
+|t:|1780956784
+|move|p2a: Staraptor|Brave Bird|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-damage|p2a: Staraptor|26/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p1a: Landorus
+|-damage|p2a: Staraptor|17/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1780956791
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|12
+|
+|t:|1780956794
+|move|p1a: Kingambit|Sucker Punch|p2a: Staraptor
+|-crit|p2a: Staraptor
+|-damage|p2a: Staraptor|0 fnt
+|faint|p2a: Staraptor
+|
+|-heal|p1a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780956797
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-damage|p2a: Iron Moth|76/100|[from] Stealth Rock
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespa
+|turn|13
+|inactive|lucy cobblestone has 120 seconds left.
+|
+|t:|1780956811
+|-end|p1a: Kingambit|fallen3|[silent]
+|switch|p1a: Samurott|Samurott-Hisui, F|88/100
+|-damage|p1a: Samurott|76/100|[from] Stealth Rock
+|move|p2a: Iron Moth|Substitute|p2a: Iron Moth
+|-start|p2a: Iron Moth|Substitute
+|-damage|p2a: Iron Moth|51/100
+|
+|upkeep
+|turn|14
+|inactive|lucy cobblestone has 120 seconds left.
+|
+|t:|1780956819
+|move|p2a: Iron Moth|Energy Ball|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1780956822
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|15
+|
+|t:|1780956825
+|move|p2a: Iron Moth|Fiery Dance|p1a: Kyurem
+|-damage|p1a: Kyurem|44/100
+|move|p1a: Kyurem|Earth Power|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-end|p2a: Iron Moth|Substitute
+|
+|upkeep
+|turn|16
+|
+|t:|1780956831
+|move|p2a: Iron Moth|Fiery Dance|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1780956833
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|turn|17
+|
+|t:|1780956836
+|move|p1a: Kingambit|Sucker Punch|p2a: Iron Moth
+|-crit|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p1a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780956839
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|turn|18
+|
+|t:|1780956842
+|move|p1a: Kingambit|Low Kick|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen5|[silent]
+|
+|win|lucy cobblestone
+|raw|lucy cobblestone's rating: 1598 &rarr; <strong>1614</strong><br />(+16 for winning)
+|raw|RunicImpulse's rating: 1519 &rarr; <strong>1503</strong><br />(-16 for losing)
+|l|☆lucy cobblestone
+|player|p1|
+|l|☆RunicImpulse
+|player|p2|

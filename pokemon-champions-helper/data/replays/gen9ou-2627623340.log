@@ -1,0 +1,511 @@
+|j|☆kooopooolooo
+|j|☆gongcitaihou
+|t:|1780927400
+|gametype|singles
+|player|p1|kooopooolooo|170|1511
+|player|p2|gongcitaihou|bellelba|1601
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Excadrill, F|
+|poke|p1|Rotom-Wash|
+|poke|p1|Latios, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Mamoswine, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Raging Bolt|
+|poke|p2|Scizor, M|
+|poke|p2|Glimmora, F|
+|poke|p2|Kyurem|
+|poke|p2|Moltres|
+|teampreview
+|
+|t:|1780927426
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|switch|p2a: Scizor|Scizor, M|100/100
+|turn|1
+|
+|t:|1780927443
+|move|p1a: Rotom|Will-O-Wisp|p2a: Scizor|[miss]
+|-miss|p1a: Rotom|p2a: Scizor
+|move|p2a: Scizor|Knock Off|p1a: Rotom
+|-damage|p1a: Rotom|57/100
+|-enditem|p1a: Rotom|Leftovers|[from] move: Knock Off|[of] p2a: Scizor
+|
+|upkeep
+|turn|2
+|
+|t:|1780927458
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|move|p1a: Rotom|Pain Split|p2a: Glimmora
+|-sethp|p2a: Glimmora|74/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|90/100|[from] move: Pain Split
+|
+|-heal|p2a: Glimmora|80/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1780927467
+|move|p1a: Rotom|Hydro Pump|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|
+|upkeep
+|
+|t:|1780927473
+|switch|p2a: Kyurem|Kyurem, shiny|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|4
+|
+|t:|1780927513
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Kyurem|Substitute|p2a: Kyurem
+|-start|p2a: Kyurem|Substitute
+|-damage|p2a: Kyurem|76/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kyurem|70/100|[from] Sandstorm
+|-heal|p2a: Kyurem|76/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by kooopooolooo)
+|
+|t:|1780927544
+|move|p2a: Kyurem|Earth Power|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|67/100
+|-unboost|p1a: Tyranitar|spd|1
+|move|p1a: Tyranitar|Knock Off|p2a: Kyurem
+|-end|p2a: Kyurem|Substitute
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kyurem|70/100|[from] Sandstorm
+|-heal|p2a: Kyurem|76/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1780927566
+|move|p2a: Kyurem|Protect|p2a: Kyurem
+|-singleturn|p2a: Kyurem|Protect
+|move|p1a: Tyranitar|Knock Off|p2a: Kyurem
+|-activate|p2a: Kyurem|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kyurem|70/100|[from] Sandstorm
+|-heal|p2a: Kyurem|76/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1780927576
+|move|p2a: Kyurem|Substitute|p2a: Kyurem
+|-start|p2a: Kyurem|Substitute
+|-damage|p2a: Kyurem|51/100
+|move|p1a: Tyranitar|Knock Off|p2a: Kyurem
+|-end|p2a: Kyurem|Substitute
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kyurem|45/100|[from] Sandstorm
+|-heal|p2a: Kyurem|51/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|j| Agathina
+|
+|t:|1780927586
+|switch|p1a: Latios|Latios, M|100/100
+|move|p2a: Kyurem|Protect||[still]
+|-fail|p2a: Kyurem
+|
+|-weather|none
+|-heal|p2a: Kyurem|57/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1780927594
+|move|p2a: Kyurem|Protect|p2a: Kyurem
+|-singleturn|p2a: Kyurem|Protect
+|move|p1a: Latios|Flip Turn|p2a: Kyurem
+|-activate|p2a: Kyurem|move: Protect
+|
+|-heal|p2a: Kyurem|63/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1780927604
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Latios|Draco Meteor|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|68/100
+|-unboost|p1a: Latios|spa|2
+|
+|-heal|p2a: Ting-Lu|75/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1780927615
+|switch|p1a: Rotom|Rotom-Wash|90/100
+|move|p2a: Ting-Lu|Spikes|p1a: Rotom
+|-sidestart|p1: kooopooolooo|Spikes
+|
+|-heal|p2a: Ting-Lu|81/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1780927623
+|move|p1a: Rotom|Will-O-Wisp|p2a: Ting-Lu|[miss]
+|-miss|p1a: Rotom|p2a: Ting-Lu
+|move|p2a: Ting-Lu|Spikes|p1a: Rotom
+|-sidestart|p1: kooopooolooo|Spikes
+|
+|-heal|p2a: Ting-Lu|87/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1780927631
+|switch|p2a: Kyurem|Kyurem, shiny|63/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Rotom|Will-O-Wisp|p2a: Kyurem
+|-status|p2a: Kyurem|brn
+|
+|-heal|p2a: Kyurem|69/100 brn|[from] item: Leftovers
+|-damage|p2a: Kyurem|63/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1780927642
+|move|p2a: Kyurem|Freeze-Dry|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|6/100
+|move|p1a: Rotom|Volt Switch|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|51/100 brn
+|
+|t:|1780927646
+|switch|p1a: Latios|Latios, M|100/100|[from] Volt Switch
+|
+|-heal|p2a: Kyurem|57/100 brn|[from] item: Leftovers
+|-damage|p2a: Kyurem|51/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1780927655
+|move|p2a: Kyurem|Protect|p2a: Kyurem
+|-singleturn|p2a: Kyurem|Protect
+|move|p1a: Latios|Psychic Noise|p2a: Kyurem
+|-activate|p2a: Kyurem|move: Protect
+|
+|-heal|p2a: Kyurem|57/100 brn|[from] item: Leftovers
+|-damage|p2a: Kyurem|51/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1780927665
+|move|p1a: Latios|Flip Turn|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|46/100 brn
+|
+|t:|1780927667
+|switch|p1a: Tyranitar|Tyranitar, F|67/100|[from] Flip Turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Kyurem|Freeze-Dry|p1a: Tyranitar
+|-damage|p1a: Tyranitar|50/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kyurem|40/100 brn|[from] Sandstorm
+|-heal|p2a: Kyurem|46/100 brn|[from] item: Leftovers
+|-damage|p2a: Kyurem|40/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1780927682
+|switch|p2a: Ting-Lu|Ting-Lu|87/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Tyranitar|Knock Off|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|75/100
+|-enditem|p2a: Ting-Lu|Leftovers|[from] move: Knock Off|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1780927692
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Ting-Lu|atk|1
+|move|p2a: Ting-Lu|Whirlwind|p1a: Landorus
+|drag|p1a: Latios|Latios, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Latios|95/100|[from] Sandstorm
+|upkeep
+|turn|19
+|
+|t:|1780927702
+|move|p1a: Latios|Flip Turn|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|64/100
+|
+|t:|1780927705
+|switch|p1a: Landorus|Landorus-Therian, M|100/100|[from] Flip Turn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Ting-Lu|atk|1
+|move|p2a: Ting-Lu|Ruination|p1a: Landorus
+|-damage|p1a: Landorus|50/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1780927714
+|move|p1a: Landorus|Taunt|p2a: Ting-Lu
+|-start|p2a: Ting-Lu|move: Taunt
+|cant|p2a: Ting-Lu|move: Taunt|Spikes
+|
+|-weather|none
+|upkeep
+|turn|21
+|
+|t:|1780927721
+|move|p1a: Landorus|Stealth Rock|p2a: Ting-Lu
+|-sidestart|p2: gongcitaihou|move: Stealth Rock
+|move|p2a: Ting-Lu|Ruination|p1a: Landorus
+|-damage|p1a: Landorus|26/100
+|
+|upkeep
+|turn|22
+|
+|t:|1780927727
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Landorus|U-turn|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|97/100
+|-status|p1a: Landorus|brn|[from] ability: Flame Body|[of] p2a: Moltres
+|
+|t:|1780927729
+|switch|p1a: Rotom|Rotom-Wash|6/100|[from] U-turn
+|
+|upkeep
+|turn|23
+|
+|t:|1780927742
+|switch|p2a: Kyurem|Kyurem, shiny|40/100 brn
+|-damage|p2a: Kyurem|15/100 brn|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Rotom|Pain Split|p2a: Kyurem
+|-sethp|p2a: Kyurem|10/100 brn|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|12/100|[from] move: Pain Split
+|
+|-heal|p2a: Kyurem|16/100 brn|[from] item: Leftovers
+|-damage|p2a: Kyurem|10/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1780927755
+|switch|p1a: Tyranitar|Tyranitar, F|50/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Kyurem|Freeze-Dry|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|23/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kyurem|4/100 brn|[from] Sandstorm
+|-heal|p2a: Kyurem|10/100 brn|[from] item: Leftovers
+|-damage|p2a: Kyurem|4/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1780927767
+|move|p2a: Kyurem|Earth Power|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kyurem|0 fnt|[from] Sandstorm
+|faint|p2a: Kyurem
+|upkeep
+|
+|t:|1780927784
+|switch|p2a: Ting-Lu|Ting-Lu|64/100
+|switch|p1a: Rotom|Rotom-Wash|12/100
+|-damage|p2a: Ting-Lu|57/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|26
+|
+|t:|1780927794
+|move|p1a: Rotom|Pain Split|p2a: Ting-Lu
+|-sethp|p2a: Ting-Lu|32/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|54/100|[from] move: Pain Split
+|move|p2a: Ting-Lu|Spikes|p1a: Rotom
+|-sidestart|p1: kooopooolooo|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|48/100|[from] Sandstorm
+|upkeep
+|turn|27
+|
+|t:|1780927803
+|move|p1a: Rotom|Hydro Pump|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|42/100|[from] Sandstorm
+|upkeep
+|
+|t:|1780927811
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|28
+|inactive|kooopooolooo has 120 seconds left.
+|
+|t:|1780927843
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|move|p1a: Rotom|Pain Split|p2a: Raging Bolt
+|-sethp|p2a: Raging Bolt|60/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|80/100|[from] move: Pain Split
+|
+|-weather|none
+|upkeep
+|turn|29
+|
+|t:|1780927852
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|
+|t:|1780927856
+|switch|p1a: Landorus|Landorus-Therian, M|26/100 brn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Raging Bolt|atk|1
+|turn|30
+|
+|t:|1780927861
+|move|p1a: Landorus|Earth Power|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|17/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1780927866
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|-item|p1a: Excadrill|Air Balloon
+|turn|31
+|
+|t:|1780927876
+|move|p1a: Excadrill|Rapid Spin|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-boost|p1a: Excadrill|spe|1
+|-sideend|p1: kooopooolooo|Spikes|[from] move: Rapid Spin|[of] p1a: Excadrill
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780927882
+|switch|p2a: Moltres|Moltres|97/100
+|turn|32
+|
+|t:|1780927887
+|switch|p1a: Latios|Latios, M|95/100
+|move|p2a: Moltres|Flamethrower|p1a: Latios
+|-resisted|p1a: Latios
+|-damage|p1a: Latios|76/100
+|
+|upkeep
+|turn|33
+|
+|t:|1780927894
+|move|p1a: Latios|Draco Meteor|p2a: Moltres
+|-damage|p2a: Moltres|21/100
+|-unboost|p1a: Latios|spa|2
+|move|p2a: Moltres|U-turn|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|34/100
+|
+|t:|1780927901
+|switch|p2a: Scizor|Scizor, M|100/100|[from] U-turn
+|-damage|p2a: Scizor|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|34
+|
+|t:|1780927908
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|-item|p1a: Excadrill|Air Balloon
+|move|p2a: Scizor|Bullet Punch|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|62/100
+|-enditem|p1a: Excadrill|Air Balloon
+|
+|upkeep
+|turn|35
+|
+|t:|1780927918
+|switch|p2a: Moltres|Moltres|21/100
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|
+|upkeep
+|turn|36
+|
+|t:|1780927925
+|move|p1a: Excadrill|Iron Head|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|-status|p1a: Excadrill|brn|[from] ability: Flame Body|[of] p2a: Moltres
+|faint|p2a: Moltres
+|
+|-damage|p1a: Excadrill|56/100 brn|[from] brn
+|upkeep
+|
+|t:|1780927933
+|switch|p2a: Scizor|Scizor, M|88/100
+|-damage|p2a: Scizor|76/100|[from] Stealth Rock
+|turn|37
+|
+|t:|1780927940
+|-terastallize|p2a: Scizor|Steel
+|move|p2a: Scizor|Bullet Punch|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|9/100 brn
+|move|p1a: Excadrill|Earthquake|p2a: Scizor
+|-supereffective|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|win|kooopooolooo
+|raw|kooopooolooo's rating: 1511 &rarr; <strong>1536</strong><br />(+25 for winning)
+|raw|gongcitaihou's rating: 1601 &rarr; <strong>1576</strong><br />(-25 for losing)
+|l|☆kooopooolooo
+|player|p1|
+|l|☆gongcitaihou
+|player|p2|
+|l| Agathina

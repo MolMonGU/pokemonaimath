@@ -1,0 +1,220 @@
+|j|☆Ryan's World
+|j|☆2001civic
+|t:|1781422142
+|gametype|singles
+|player|p1|Ryan's World|266|1602
+|player|p2|2001civic|102|1614
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ceruledge, M|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Kyurem|
+|poke|p1|Great Tusk|
+|poke|p2|Torkoal, M|
+|poke|p2|Great Tusk|
+|poke|p2|Walking Wake|
+|poke|p2|Kingambit, M|
+|poke|p2|Slither Wing|
+|poke|p2|Venusaur, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ryan's World)
+|
+|t:|1781422155
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|switch|p2a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|1
+|
+|t:|1781422166
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|move|p1a: Great Tusk|Headlong Rush|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-damage|p2a: Slither Wing|47/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781422171
+|move|p2a: Slither Wing|First Impression|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|39/100
+|move|p1a: Great Tusk|Temper Flare|p2a: Slither Wing
+|-supereffective|p2a: Slither Wing
+|-damage|p2a: Slither Wing|0 fnt
+|faint|p2a: Slither Wing
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781422178
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|turn|3
+|
+|t:|1781422180
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|move|p2a: Walking Wake|Hydro Steam|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|33/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|inactive|2001civic has 120 seconds left.
+|
+|t:|1781422235
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: Ryan's World|move: Light Screen
+|move|p2a: Walking Wake|Hydro Steam|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|faint|p1a: Grimmsnarl
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781422237
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|turn|5
+|
+|t:|1781422241
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Slowking|Sludge Bomb|p2a: Kingambit
+|-immune|p2a: Kingambit
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|inactive|2001civic has 120 seconds left.
+|
+|t:|1781422246
+|move|p1a: Slowking|Flamethrower|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|5/100
+|-status|p2a: Kingambit|brn
+|-damage|p1a: Slowking|91/100|[from] item: Life Orb
+|move|p2a: Kingambit|Iron Head|p1a: Slowking
+|-damage|p1a: Slowking|58/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Kingambit|11/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|5/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1781422253
+|switch|p1a: Great Tusk|Great Tusk|39/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Kingambit|11/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|5/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1781422256
+|move|p1a: Great Tusk|Rapid Spin|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-boost|p1a: Great Tusk|spe|1
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen1|[silent]
+|
+|-weather|none
+|-end|p1a: Great Tusk|Protosynthesis
+|upkeep
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisspe
+|
+|t:|1781422262
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|9
+|
+|t:|1781422266
+|move|p1a: Great Tusk|Ice Spinner|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|68/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Great Tusk
+|-damage|p1a: Great Tusk|28/100
+|-boost|p2a: Great Tusk|spe|1
+|
+|-heal|p2a: Great Tusk|74/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781422273
+|move|p1a: Great Tusk|Headlong Rush|p2a: Great Tusk
+|-damage|p2a: Great Tusk|34/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|
+|-heal|p2a: Great Tusk|40/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781422277
+|move|p1a: Great Tusk|Headlong Rush|p2a: Great Tusk
+|-damage|p2a: Great Tusk|12/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Great Tusk|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-heal|p2a: Great Tusk|18/100|[from] item: Leftovers
+|-sideend|p1: Ryan's World|move: Light Screen
+|upkeep
+|
+|t:|1781422284
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|12
+|l|☆2001civic
+|inactive|2001civic disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|2001civic has 30 seconds to reconnect!
+|inactive|2001civic has 20 seconds to reconnect!
+|inactive|2001civic has 15 seconds to reconnect!
+|inactive|2001civic has 10 seconds to reconnect!
+|inactive|2001civic has 5 seconds to reconnect!
+|-message|2001civic lost due to inactivity.
+|
+|win|Ryan's World
+|raw|Ryan&apos;s World's rating: 1602 &rarr; <strong>1623</strong><br />(+21 for winning)
+|raw|2001civic's rating: 1614 &rarr; <strong>1593</strong><br />(-21 for losing)
+|l|☆Ryan's World
+|player|p1|

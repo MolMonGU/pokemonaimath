@@ -1,0 +1,308 @@
+|j|☆Acastillo631
+|j|☆GODKUD
+|t:|1781103855
+|gametype|singles
+|player|p1|Acastillo631|silver|1505
+|player|p2|GODKUD|ghetsis|1561
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Valiant|
+|poke|p1|Sinistcha|
+|poke|p1|Tyranitar, M|
+|poke|p1|Klefki, M|
+|poke|p1|Swampert, M|
+|poke|p1|Talonflame, M|
+|poke|p2|Hydreigon, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Sandy Shocks|
+|poke|p2|Quaquaval, F|
+|poke|p2|Ceruledge, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by GODKUD)
+|
+|t:|1781103879
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Redips|Klefki, M|100/100
+|switch|p2a: Sandy Shocks|Sandy Shocks|100/100
+|-enditem|p2a: Sandy Shocks|Booster Energy
+|-activate|p2a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p2a: Sandy Shocks|protosynthesisspe
+|turn|1
+|
+|t:|1781103883
+|move|p1a: Redips|Magnet Rise|p1a: Redips
+|-start|p1a: Redips|Magnet Rise
+|move|p2a: Sandy Shocks|Earth Power|p1a: Redips
+|-immune|p1a: Redips
+|
+|upkeep
+|turn|2
+|
+|t:|1781103885
+|move|p1a: Redips|Spikes|p2a: Sandy Shocks
+|-sidestart|p2: GODKUD|Spikes
+|move|p2a: Sandy Shocks|Stealth Rock|p1a: Redips
+|-sidestart|p1: Acastillo631|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781103888
+|switch|p1a: Duff Mcwhalen|Swampert, M|100/100
+|-damage|p1a: Duff Mcwhalen|94/100|[from] Stealth Rock
+|move|p2a: Sandy Shocks|Spikes|p1a: Duff Mcwhalen
+|-sidestart|p1: Acastillo631|Spikes
+|
+|-heal|p1a: Duff Mcwhalen|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|l|☆Acastillo631
+|inactive|Acastillo631 disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆Acastillo631
+|inactive|Acastillo631 reconnected and has 140 seconds left.
+|player|p1|Acastillo631|silver|
+|inactive|Acastillo631 has 120 seconds left.
+|
+|t:|1781103920
+|-end|p2a: Sandy Shocks|Protosynthesis|[silent]
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Duff Mcwhalen|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|upkeep
+|turn|5
+|inactive|Acastillo631 has 120 seconds left.
+|
+|t:|1781103935
+|move|p2a: Corviknight|U-turn|p1a: Duff Mcwhalen
+|-damage|p1a: Duff Mcwhalen|88/100
+|
+|t:|1781103938
+|switch|p2a: Quaquaval|Quaquaval, F|100/100|[from] U-turn
+|-damage|p2a: Quaquaval|88/100|[from] Spikes
+|move|p1a: Duff Mcwhalen|Stealth Rock|p2a: Quaquaval
+|-sidestart|p2: GODKUD|move: Stealth Rock
+|
+|-heal|p1a: Duff Mcwhalen|94/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781103945
+|switch|p1a: Wire Sponge|Sinistcha|100/100
+|move|p2a: Quaquaval|Knock Off|p1a: Wire Sponge
+|-supereffective|p1a: Wire Sponge
+|-damage|p1a: Wire Sponge|50/100
+|-enditem|p1a: Wire Sponge|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Quaquaval
+|
+|upkeep
+|turn|7
+|
+|t:|1781103964
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Wire Sponge|Strength Sap|p2a: Slowking
+|-unboost|p2a: Slowking|atk|1
+|-heal|p1a: Wire Sponge|89/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781103981
+|move|p1a: Wire Sponge|Calm Mind|p1a: Wire Sponge
+|-boost|p1a: Wire Sponge|spa|1
+|-boost|p1a: Wire Sponge|spd|1
+|move|p2a: Slowking|Toxic|p1a: Wire Sponge
+|-status|p1a: Wire Sponge|tox
+|
+|-damage|p1a: Wire Sponge|83/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1781103992
+|move|p1a: Wire Sponge|Shadow Ball|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|40/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781103996
+|switch|p2a: God of Destruction|Hydreigon, M|100/100|[from] Chilly Reception
+|-damage|p2a: God of Destruction|88/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Wire Sponge|70/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1781104005
+|switch|p1a: Eregion|Tyranitar, M|100/100
+|-damage|p1a: Eregion|88/100|[from] Stealth Rock
+|-damage|p1a: Eregion|76/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Eregion
+|move|p2a: God of Destruction|Nasty Plot|p2a: God of Destruction
+|-boost|p2a: God of Destruction|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: God of Destruction|82/100|[from] Sandstorm
+|-heal|p1a: Eregion|82/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781104015
+|move|p2a: God of Destruction|Draco Meteor|p1a: Eregion
+|-damage|p1a: Eregion|15/100
+|-unboost|p2a: God of Destruction|spa|2
+|-damage|p2a: God of Destruction|72/100|[from] item: Life Orb
+|move|p1a: Eregion|Ice Beam|p2a: God of Destruction
+|-supereffective|p2a: God of Destruction
+|-damage|p2a: God of Destruction|26/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: God of Destruction|20/100|[from] Sandstorm
+|-heal|p1a: Eregion|21/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781104025
+|move|p2a: God of Destruction|Flash Cannon|p1a: Eregion
+|-supereffective|p1a: Eregion
+|-damage|p1a: Eregion|0 fnt
+|faint|p1a: Eregion
+|-damage|p2a: God of Destruction|10/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: God of Destruction|4/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781104034
+|switch|p1a: Talonflame|Talonflame, M|100/100
+|turn|13
+|
+|t:|1781104037
+|move|p1a: Talonflame|Flamethrower|p2a: God of Destruction
+|-resisted|p2a: God of Destruction
+|-damage|p2a: God of Destruction|0 fnt
+|faint|p2a: God of Destruction
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Talonflame|94/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781104039
+|switch|p2a: Sandy Shocks|Sandy Shocks|100/100
+|-damage|p2a: Sandy Shocks|88/100|[from] Spikes
+|-damage|p2a: Sandy Shocks|82/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1781104053
+|switch|p1a: Duff Mcwhalen|Swampert, M|94/100
+|-damage|p1a: Duff Mcwhalen|88/100|[from] Stealth Rock
+|-damage|p1a: Duff Mcwhalen|76/100|[from] Spikes
+|move|p2a: Sandy Shocks|Earth Power|p1a: Duff Mcwhalen
+|-damage|p1a: Duff Mcwhalen|49/100
+|
+|-weather|none
+|-heal|p1a: Duff Mcwhalen|55/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781104063
+|move|p2a: Sandy Shocks|Earth Power|p1a: Duff Mcwhalen
+|-damage|p1a: Duff Mcwhalen|27/100
+|move|p1a: Duff Mcwhalen|Earthquake|p2a: Sandy Shocks
+|-supereffective|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|0 fnt
+|faint|p2a: Sandy Shocks
+|-end|p2a: Sandy Shocks|Protosynthesis|[silent]
+|
+|-heal|p1a: Duff Mcwhalen|33/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781104068
+|switch|p2a: Quaquaval|Quaquaval, F|88/100
+|-damage|p2a: Quaquaval|76/100|[from] Spikes
+|-damage|p2a: Quaquaval|70/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781104074
+|move|p2a: Quaquaval|Knock Off|p1a: Duff Mcwhalen
+|-damage|p1a: Duff Mcwhalen|4/100
+|-enditem|p1a: Duff Mcwhalen|Leftovers|[from] move: Knock Off|[of] p2a: Quaquaval
+|move|p1a: Duff Mcwhalen|Earthquake|p2a: Quaquaval
+|-damage|p2a: Quaquaval|24/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781104082
+|switch|p1a: Redips|Klefki, M|100/100
+|-damage|p1a: Redips|95/100|[from] Stealth Rock
+|-damage|p1a: Redips|82/100|[from] Spikes
+|move|p2a: Quaquaval|Aqua Step|p1a: Redips
+|-damage|p1a: Redips|48/100
+|-boost|p2a: Quaquaval|spe|1
+|-damage|p2a: Quaquaval|8/100|[from] item: Rocky Helmet|[of] p1a: Redips
+|
+|upkeep
+|turn|18
+|
+|t:|1781104089
+|move|p1a: Redips|Spikes|p2a: Quaquaval
+|-sidestart|p2: GODKUD|Spikes
+|move|p2a: Quaquaval|Rapid Spin|p1a: Redips
+|-resisted|p1a: Redips
+|-damage|p1a: Redips|41/100
+|-boost|p2a: Quaquaval|spe|1
+|-damage|p2a: Quaquaval|0 fnt|[from] item: Rocky Helmet|[of] p1a: Redips
+|faint|p2a: Quaquaval
+|
+|upkeep
+|
+|t:|1781104092
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|-damage|p2a: Ceruledge|84/100|[from] Spikes
+|-damage|p2a: Ceruledge|59/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1781104094
+|move|p1a: Redips|Thunder Wave|p2a: Ceruledge|[miss]
+|-miss|p1a: Redips|p2a: Ceruledge
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|20
+|
+|t:|1781104098
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Redips
+|-damage|p1a: Redips|4/100
+|-damage|p2a: Ceruledge|43/100|[from] item: Rocky Helmet|[of] p1a: Redips
+|move|p1a: Redips|Thunder Wave|p2a: Ceruledge
+|-status|p2a: Ceruledge|par
+|
+|upkeep
+|turn|21
+|-message|GODKUD forfeited.
+|
+|win|Acastillo631
+|raw|Acastillo631's rating: 1505 &rarr; <strong>1528</strong><br />(+23 for winning)
+|raw|GODKUD's rating: 1561 &rarr; <strong>1538</strong><br />(-23 for losing)
+|l|☆GODKUD
+|player|p2|
+|l|☆Acastillo631
+|player|p1|

@@ -1,0 +1,464 @@
+|j|☆Daymo
+|j|☆LowEL0God
+|t:|1781413095
+|gametype|singles
+|player|p1|Daymo|170|1534
+|player|p2|LowEL0God|265|1553
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Moth|
+|poke|p1|Gliscor, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Zamazenta-*|
+|poke|p2|Pelipper, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781413105
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|1
+|
+|t:|1781413109
+|move|p1a: Zamazenta|Light Screen|p1a: Zamazenta
+|-sidestart|p1: Daymo|move: Light Screen
+|move|p2a: Raging Bolt|Thunder|p1a: Zamazenta|[miss]
+|-miss|p2a: Raging Bolt|p1a: Zamazenta
+|
+|upkeep
+|turn|2
+|
+|t:|1781413113
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|move|p1a: Zamazenta|Reflect|p1a: Zamazenta
+|-sidestart|p1: Daymo|Reflect
+|
+|upkeep
+|turn|3
+|
+|t:|1781413115
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Zamazenta|Close Combat|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|82/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781413123
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Pelipper|Hurricane|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|91/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781413128
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|55/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781413133
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Gliscor|Gliscor, F|100/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: Gliscor
+|-sidestart|p1: Daymo|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|7
+|
+|t:|1781413137
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Pelipper|Pelipper, F|82/100
+|move|p1a: Gliscor|Earthquake|p2a: Pelipper
+|-immune|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781413139
+|move|p1a: Gliscor|Facade|p2a: Pelipper
+|-damage|p2a: Pelipper|50/100
+|move|p2a: Pelipper|Weather Ball|p1a: Gliscor
+|-supereffective|p1a: Gliscor
+|-damage|p1a: Gliscor|36/100 tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Gliscor|48/100 tox|[from] ability: Poison Heal
+|-sideend|p1: Daymo|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1781413146
+|move|p1a: Gliscor|Facade|p2a: Pelipper
+|-damage|p2a: Pelipper|18/100
+|move|p2a: Pelipper|Hurricane|p1a: Gliscor
+|-damage|p1a: Gliscor|4/100 tox
+|-start|p1a: Gliscor|confusion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Gliscor|17/100 tox|[from] ability: Poison Heal
+|-sideend|p1: Daymo|Reflect
+|upkeep
+|turn|10
+|
+|t:|1781413150
+|-activate|p1a: Gliscor|confusion
+|-damage|p1a: Gliscor|7/100 tox|[from] confusion
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|68/100
+|-singleturn|p2a: Pelipper|move: Roost
+|
+|-weather|none
+|-heal|p1a: Gliscor|19/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|11
+|
+|t:|1781413152
+|-activate|p1a: Gliscor|confusion
+|move|p1a: Gliscor|Facade|p2a: Pelipper
+|-damage|p2a: Pelipper|33/100
+|move|p2a: Pelipper|Hurricane|p1a: Gliscor|[miss]
+|-miss|p2a: Pelipper|p1a: Gliscor
+|
+|-heal|p1a: Gliscor|32/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|12
+|
+|t:|1781413154
+|-activate|p1a: Gliscor|confusion
+|move|p1a: Gliscor|Facade|p2a: Pelipper
+|-damage|p2a: Pelipper|2/100
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|53/100
+|-singleturn|p2a: Pelipper|move: Roost
+|
+|-heal|p1a: Gliscor|44/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|13
+|
+|t:|1781413156
+|-end|p1a: Gliscor|confusion
+|move|p1a: Gliscor|Facade|p2a: Pelipper
+|-damage|p2a: Pelipper|18/100
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|69/100
+|-singleturn|p2a: Pelipper|move: Roost
+|
+|-heal|p1a: Gliscor|56/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|14
+|
+|t:|1781413158
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|move|p2a: Pelipper|Hurricane|p1a: Gliscor
+|-damage|p1a: Gliscor|9/100 tox
+|
+|-heal|p1a: Gliscor|21/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|15
+|
+|t:|1781413160
+|move|p1a: Gliscor|Facade|p2a: Pelipper
+|-damage|p2a: Pelipper|7/100
+|move|p2a: Pelipper|Hurricane|p1a: Gliscor|[miss]
+|-miss|p2a: Pelipper|p1a: Gliscor
+|
+|-heal|p1a: Gliscor|34/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|16
+|
+|t:|1781413162
+|move|p1a: Gliscor|Facade|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-heal|p1a: Gliscor|46/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781413163
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|17
+|
+|t:|1781413168
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|move|p2a: Barraskewda|Liquidation|p1a: Ogerpon
+|-heal|p1a: Ogerpon|100/100|[from] ability: Water Absorb|[of] p2a: Barraskewda
+|
+|upkeep
+|turn|18
+|
+|t:|1781413172
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Raging Bolt|[anim] Ivy Cudgel Water
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|74/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781413177
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|-damage|p1a: Hatterene|88/100|[from] Stealth Rock
+|move|p2a: Raging Bolt|Thunder|p1a: Hatterene
+|-damage|p1a: Hatterene|22/100
+|
+|-heal|p1a: Hatterene|28/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781413180
+|move|p2a: Raging Bolt|Thunder|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781413182
+|switch|p1a: Gliscor|Gliscor, F|46/100 tox
+|-damage|p1a: Gliscor|34/100 tox|[from] Stealth Rock
+|turn|21
+|
+|t:|1781413184
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p1a: Gliscor|Earthquake|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|32/100
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Gliscor
+|
+|upkeep
+|
+|t:|1781413189
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-damage|p1a: Iron Moth|76/100|[from] Stealth Rock
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|turn|22
+|
+|t:|1781413193
+|move|p2a: Raging Bolt|Thunderclap|p1a: Iron Moth
+|-damage|p1a: Iron Moth|55/100
+|move|p1a: Iron Moth|Fiery Dance|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781413194
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|23
+|
+|t:|1781413200
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|move|p2a: Barraskewda|Aqua Jet|p1a: Ogerpon
+|-heal|p1a: Ogerpon|100/100|[from] ability: Water Absorb|[of] p2a: Barraskewda
+|
+|upkeep
+|turn|24
+|
+|t:|1781413204
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|move|p1a: Ogerpon|Trailblaze|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|89/100
+|-boost|p1a: Ogerpon|spe|1
+|
+|-heal|p2a: Kingambit|95/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781413208
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Ogerpon
+|-damage|p1a: Ogerpon|24/100
+|
+|-heal|p2a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781413211
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Ogerpon|Encore|p2a: Kingambit
+|-start|p2a: Kingambit|Encore
+|
+|upkeep
+|turn|27
+|
+|t:|1781413213
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|upkeep
+|turn|28
+|
+|t:|1781413215
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|upkeep
+|turn|29
+|
+|t:|1781413218
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|0
+|
+|-end|p2a: Kingambit|Encore
+|upkeep
+|turn|30
+|
+|t:|1781413219
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Ogerpon|Encore|p2a: Kingambit
+|-start|p2a: Kingambit|Encore
+|
+|upkeep
+|turn|31
+|
+|t:|1781413222
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|0
+|
+|upkeep
+|turn|32
+|
+|t:|1781413224
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|0
+|
+|upkeep
+|turn|33
+|
+|t:|1781413226
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|0
+|
+|-end|p2a: Kingambit|Encore
+|upkeep
+|turn|34
+|
+|t:|1781413228
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Iron Treads|Iron Treads|55/100
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Iron Treads|[anim] Ivy Cudgel Water
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781413229
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|35
+|
+|t:|1781413232
+|move|p1a: Ogerpon|Trailblaze|p2a: Barraskewda
+|-supereffective|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|-boost|p1a: Ogerpon|spe|1
+|faint|p2a: Barraskewda
+|
+|upkeep
+|
+|t:|1781413233
+|switch|p2a: Overqwil|Overqwil, M|100/100
+|turn|36
+|
+|t:|1781413236
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Overqwil|[anim] Ivy Cudgel Water
+|-damage|p2a: Overqwil|0 fnt
+|faint|p2a: Overqwil
+|
+|upkeep
+|
+|t:|1781413236
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|turn|37
+|
+|t:|1781413239
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Kingambit|[anim] Ivy Cudgel Water
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen5|[silent]
+|
+|win|Daymo
+|raw|Daymo's rating: 1534 &rarr; <strong>1555</strong><br />(+21 for winning)
+|raw|LowEL0God's rating: 1553 &rarr; <strong>1532</strong><br />(-21 for losing)
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|

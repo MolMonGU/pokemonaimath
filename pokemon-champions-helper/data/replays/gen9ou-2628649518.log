@@ -1,0 +1,329 @@
+|j|☆tauros3
+|j|☆jd2sleepy
+|t:|1781039035
+|gametype|singles
+|player|p1|tauros3|swimmer-gen4dp|1564
+|player|p2|jd2sleepy|brock|1609
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Rillaboom, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Tauros-Paldea-Blaze, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Muk-Alola, F|
+|poke|p1|Iron Treads|
+|poke|p2|Pelipper, M|
+|poke|p2|Greninja-*, M|
+|poke|p2|Overqwil, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tauros3)
+|
+|t:|1781039060
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: West Virginia|Raging Bolt|100/100
+|switch|p2a: Tready Way|Iron Treads|100/100
+|-enditem|p2a: Tready Way|Booster Energy
+|-activate|p2a: Tready Way|ability: Quark Drive|[fromitem]
+|-start|p2a: Tready Way|quarkdrivespe
+|turn|1
+|
+|t:|1781039065
+|-end|p1a: West Virginia|Protosynthesis|[silent]
+|switch|p1a: Summer Shandy|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Summer Shandy
+|move|p2a: Tready Way|Ice Spinner|p1a: Summer Shandy
+|-supereffective|p1a: Summer Shandy
+|-damage|p1a: Summer Shandy|54/100
+|-fieldend|move: Grassy Terrain
+|
+|upkeep
+|turn|2
+|
+|t:|1781039071
+|switch|p1a: HELP|Ogerpon-Wellspring, F|100/100
+|move|p2a: Tready Way|Stealth Rock|p1a: HELP
+|-sidestart|p1: tauros3|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781039076
+|-end|p2a: Tready Way|Quark Drive|[silent]
+|switch|p2a: Drizzy|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Drizzy
+|move|p1a: HELP|Ivy Cudgel|p2a: Drizzy|[anim] Ivy Cudgel Water
+|-resisted|p2a: Drizzy
+|-damage|p2a: Drizzy|63/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781039083
+|switch|p1a: Plastic Flowers|Iron Treads|100/100
+|-damage|p1a: Plastic Flowers|97/100|[from] Stealth Rock
+|-enditem|p1a: Plastic Flowers|Booster Energy
+|-activate|p1a: Plastic Flowers|ability: Quark Drive|[fromitem]
+|-start|p1a: Plastic Flowers|quarkdrivespe
+|move|p2a: Drizzy|U-turn|p1a: Plastic Flowers
+|-resisted|p1a: Plastic Flowers
+|-damage|p1a: Plastic Flowers|94/100
+|
+|t:|1781039088
+|switch|p2a: Rage N Furious|Raging Bolt|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|j| Lowladderubersnoob
+|
+|t:|1781039095
+|move|p1a: Plastic Flowers|Rapid Spin|p2a: Rage N Furious
+|-damage|p2a: Rage N Furious|90/100
+|-boost|p1a: Plastic Flowers|spe|1
+|-sideend|p1: tauros3|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Plastic Flowers
+|move|p2a: Rage N Furious|Weather Ball|p1a: Plastic Flowers
+|-supereffective|p1a: Plastic Flowers
+|-damage|p1a: Plastic Flowers|0 fnt
+|faint|p1a: Plastic Flowers
+|-end|p1a: Plastic Flowers|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781039099
+|switch|p1a: 2YL|Muk-Alola, F|100/100
+|turn|6
+|
+|t:|1781039102
+|-end|p2a: Rage N Furious|Protosynthesis|[silent]
+|switch|p2a: Tready Way|Iron Treads|100/100
+|move|p1a: 2YL|Knock Off|p2a: Tready Way
+|-damage|p2a: Tready Way|79/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781039109
+|switch|p1a: HELP|Ogerpon-Wellspring, F|100/100
+|move|p2a: Tready Way|Stealth Rock|p1a: HELP
+|-sidestart|p1: tauros3|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781039125
+|-end|p2a: Tready Way|Quark Drive|[silent]
+|switch|p2a: Rage N Furious|Raging Bolt|90/100
+|move|p1a: HELP|Play Rough|p2a: Rage N Furious
+|-supereffective|p2a: Rage N Furious
+|-damage|p2a: Rage N Furious|25/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781039129
+|move|p1a: HELP|Ivy Cudgel|p2a: Rage N Furious|[anim] Ivy Cudgel Water
+|-resisted|p2a: Rage N Furious
+|-crit|p2a: Rage N Furious
+|-damage|p2a: Rage N Furious|0 fnt
+|faint|p2a: Rage N Furious
+|-end|p2a: Rage N Furious|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781039131
+|switch|p2a: Spike Em|Overqwil, M|100/100
+|turn|10
+|
+|t:|1781039140
+|-terastallize|p1a: HELP|Water
+|detailschange|p1a: HELP|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p1a: HELP|Embody Aspect (Wellspring)|boost
+|-boost|p1a: HELP|spd|1
+|move|p2a: Spike Em|Gunk Shot|p1a: HELP
+|-damage|p1a: HELP|0 fnt
+|faint|p1a: HELP
+|detailschange|p1: HELP|Ogerpon-Wellspring, F|[silent]
+|-damage|p2a: Spike Em|91/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1781039147
+|switch|p1a: West Virginia|Raging Bolt|100/100
+|-damage|p1a: West Virginia|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1781039177
+|-end|p1a: West Virginia|Protosynthesis|[silent]
+|switch|p1a: Summer Shandy|Rillaboom, F|54/100
+|-damage|p1a: Summer Shandy|41/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Summer Shandy
+|move|p2a: Spike Em|Gunk Shot|p1a: Summer Shandy
+|-supereffective|p1a: Summer Shandy
+|-damage|p1a: Summer Shandy|0 fnt
+|faint|p1a: Summer Shandy
+|-damage|p2a: Spike Em|81/100|[from] item: Life Orb
+|
+|-heal|p2a: Spike Em|87/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781039183
+|switch|p1a: The Plan|Tauros-Paldea-Blaze, M|100/100
+|-damage|p1a: The Plan|88/100|[from] Stealth Rock
+|-ability|p1a: The Plan|Intimidate|boost
+|-unboost|p2a: Spike Em|atk|1
+|turn|12
+|
+|t:|1781039187
+|move|p2a: Spike Em|Taunt|p1a: The Plan
+|-start|p1a: The Plan|move: Taunt
+|cant|p1a: The Plan|move: Taunt|Will-O-Wisp
+|
+|-heal|p2a: Spike Em|93/100|[from] Grassy Terrain
+|-heal|p1a: The Plan|94/100|[from] Grassy Terrain
+|-heal|p1a: The Plan|100/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781039189
+|move|p2a: Spike Em|Gunk Shot|p1a: The Plan
+|-damage|p1a: The Plan|64/100
+|-damage|p2a: Spike Em|83/100|[from] item: Life Orb
+|move|p1a: The Plan|Body Press|p2a: Spike Em
+|-damage|p2a: Spike Em|37/100
+|
+|-heal|p2a: Spike Em|43/100|[from] Grassy Terrain
+|-heal|p1a: The Plan|70/100|[from] Grassy Terrain
+|-heal|p1a: The Plan|76/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781039192
+|move|p2a: Spike Em|Gunk Shot|p1a: The Plan
+|-damage|p1a: The Plan|42/100
+|-damage|p2a: Spike Em|33/100|[from] item: Life Orb
+|move|p1a: The Plan|Body Press|p2a: Spike Em
+|-crit|p2a: Spike Em
+|-damage|p2a: Spike Em|0 fnt
+|faint|p2a: Spike Em
+|
+|-heal|p1a: The Plan|48/100|[from] Grassy Terrain
+|-heal|p1a: The Plan|54/100|[from] item: Leftovers
+|-end|p1a: The Plan|move: Taunt
+|upkeep
+|
+|t:|1781039198
+|switch|p2a: Drizzy|Pelipper, M|63/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Drizzy
+|turn|15
+|
+|t:|1781039203
+|switch|p1a: West Virginia|Raging Bolt|88/100
+|-damage|p1a: West Virginia|76/100|[from] Stealth Rock
+|move|p2a: Drizzy|U-turn|p1a: West Virginia
+|-damage|p1a: West Virginia|68/100
+|
+|t:|1781039205
+|switch|p2a: Tready Way|Iron Treads|79/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Tready Way|85/100|[from] Grassy Terrain
+|-heal|p1a: West Virginia|74/100|[from] Grassy Terrain
+|-heal|p1a: West Virginia|81/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781039209
+|-end|p1a: West Virginia|Protosynthesis|[silent]
+|switch|p1a: The Plan|Tauros-Paldea-Blaze, M|54/100
+|-damage|p1a: The Plan|42/100|[from] Stealth Rock
+|-ability|p1a: The Plan|Intimidate|boost
+|-unboost|p2a: Tready Way|atk|1
+|move|p2a: Tready Way|Ice Spinner|p1a: The Plan
+|-resisted|p1a: The Plan
+|-damage|p1a: The Plan|36/100
+|-fieldend|move: Grassy Terrain
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: The Plan|42/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781039215
+|-end|p2a: Tready Way|Quark Drive|[silent]
+|switch|p2a: Drizzy|Pelipper, M|63/100
+|move|p1a: The Plan|Body Press|p2a: Drizzy
+|-resisted|p2a: Drizzy
+|-damage|p2a: Drizzy|48/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: The Plan|48/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781039220
+|switch|p1a: 2YL|Muk-Alola, F|100/100
+|-damage|p1a: 2YL|88/100|[from] Stealth Rock
+|move|p2a: Drizzy|U-turn|p1a: 2YL
+|-damage|p1a: 2YL|78/100
+|
+|t:|1781039222
+|switch|p2a: Tready Way|Iron Treads|85/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781039225
+|move|p2a: Tready Way|Earthquake|p1a: 2YL
+|-supereffective|p1a: 2YL
+|-damage|p1a: 2YL|0 fnt
+|faint|p1a: 2YL
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781039228
+|switch|p1a: The Plan|Tauros-Paldea-Blaze, M|48/100
+|-damage|p1a: The Plan|36/100|[from] Stealth Rock
+|-ability|p1a: The Plan|Intimidate|boost
+|-unboost|p2a: Tready Way|atk|1
+|turn|20
+|
+|t:|1781039231
+|move|p2a: Tready Way|Earthquake|p1a: The Plan
+|-supereffective|p1a: The Plan
+|-damage|p1a: The Plan|0 fnt
+|faint|p1a: The Plan
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|tauros3 forfeited.
+|
+|win|jd2sleepy
+|raw|tauros3's rating: 1564 &rarr; <strong>1547</strong><br />(-17 for losing)
+|raw|jd2sleepy's rating: 1609 &rarr; <strong>1626</strong><br />(+17 for winning)
+|l|☆tauros3
+|player|p1|
+|l| Lowladderubersnoob

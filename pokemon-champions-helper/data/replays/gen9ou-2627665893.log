@@ -1,0 +1,317 @@
+|j|☆temporarylight
+|j|☆cachowcapow
+|t:|1780931289
+|gametype|singles
+|player|p1|temporarylight|jogger|1716
+|player|p2|cachowcapow|102|1734
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Weavile, F|
+|poke|p1|Moltres|
+|poke|p1|Dragapult, F|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ogerpon, F|
+|poke|p2|Primarina, M|
+|poke|p2|Slither Wing|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Great Tusk|
+|poke|p2|Meowscarada, F|
+|poke|p2|Gardevoir, F|
+|teampreview
+|
+|t:|1780931316
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|turn|1
+|
+|t:|1780931321
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Meowscarada|atk|1
+|move|p2a: Meowscarada|Knock Off|p1a: Landorus
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p1a: Landorus|71/100
+|-enditem|p1a: Landorus|Leftovers|[from] move: Knock Off|[of] p2a: Meowscarada
+|
+|upkeep
+|turn|2
+|j| SUBMACHINEGOTH
+|
+|t:|1780931329
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|switch|p1a: Moltres|Moltres|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1780931344
+|move|p1a: Moltres|U-turn|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-damage|p2a: Slither Wing|95/100
+|-damage|p1a: Moltres|84/100|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|j| Hakone Outbound
+|
+|t:|1780931368
+|switch|p1a: Dragapult|Dragapult, F|100/100|[from] U-turn
+|move|p2a: Slither Wing|U-turn|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|80/100
+|
+|t:|1780931377
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Gardevoir|Gardevoir, F, shiny|100/100|[from] U-turn
+|-ability|p2a: Gardevoir|Infiltrator|Trace|[from] ability: Trace|[of] p1a: Dragapult
+|
+|upkeep
+|turn|4
+|
+|t:|1780931386
+|move|p1a: Dragapult|U-turn|p2a: Gardevoir
+|-damage|p2a: Gardevoir|64/100
+|
+|t:|1780931389
+|switch|p1a: Moltres|Moltres|84/100|[from] U-turn
+|move|p2a: Gardevoir|Moonblast|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|43/100
+|-unboost|p1a: Moltres|spa|1
+|
+|upkeep
+|turn|5
+|
+|t:|1780931395
+|-terastallize|p2a: Gardevoir|Fairy
+|move|p2a: Gardevoir|Moonblast|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|upkeep
+|j| michealjackkson
+|
+|t:|1780931407
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|turn|6
+|
+|t:|1780931410
+|switch|p2a: Slither Wing|Slither Wing|95/100
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-damage|p2a: Slither Wing|78/100
+|
+|upkeep
+|turn|7
+|
+|t:|1780931416
+|switch|p1a: Dragapult|Dragapult, F|80/100
+|move|p2a: Slither Wing|U-turn|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|58/100
+|
+|t:|1780931420
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Meowscarada|Meowscarada, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|8
+|
+|t:|1780931426
+|move|p2a: Meowscarada|Knock Off|p1a: Dragapult
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|-enditem|p1a: Dragapult|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Meowscarada
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1780931440
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|9
+|
+|t:|1780931454
+|switch|p2a: Slither Wing|Slither Wing|78/100
+|move|p1a: Weavile|Swords Dance|p1a: Weavile
+|-boost|p1a: Weavile|atk|2
+|
+|upkeep
+|turn|10
+|
+|t:|1780931457
+|-terastallize|p1a: Weavile|Ice
+|move|p2a: Slither Wing|First Impression|p1a: Weavile
+|-damage|p1a: Weavile|30/100
+|move|p1a: Weavile|Icicle Crash|p2a: Slither Wing
+|-damage|p2a: Slither Wing|0 fnt
+|faint|p2a: Slither Wing
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780931464
+|switch|p2a: Primarina|Primarina, M, shiny|100/100
+|turn|11
+|
+|t:|1780931474
+|switch|p1a: Landorus|Landorus-Therian, M|71/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Primarina|atk|1
+|move|p2a: Primarina|Draining Kiss|p1a: Landorus
+|-damage|p1a: Landorus|48/100
+|
+|upkeep
+|turn|12
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by temporarylight)
+|
+|t:|1780931527
+|move|p1a: Landorus|Stealth Rock|p2a: Primarina
+|-sidestart|p2: cachowcapow|move: Stealth Rock
+|move|p2a: Primarina|Psychic Noise|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1780931535
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|turn|13
+|inactive|cachowcapow has 120 seconds left.
+|
+|t:|1780931567
+|move|p1a: Ogerpon|U-turn|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|90/100
+|
+|t:|1780931571
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100|[from] U-turn
+|move|p2a: Primarina|Encore||[still]
+|-fail|p2a: Primarina
+|
+|-heal|p2a: Primarina|96/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1780931576
+|move|p1a: Hoopa|Psychic Noise|p2a: Primarina
+|-damage|p2a: Primarina|54/100
+|-start|p2a: Primarina|move: Heal Block
+|cant|p2a: Primarina|move: Heal Block|Draining Kiss
+|
+|upkeep
+|turn|15
+|
+|t:|1780931580
+|move|p1a: Hoopa|Psychic Noise|p2a: Primarina
+|-damage|p2a: Primarina|16/100
+|move|p2a: Primarina|Encore|p1a: Hoopa
+|-start|p1a: Hoopa|Encore
+|
+|-end|p2a: Primarina|move: Heal Block
+|upkeep
+|turn|16
+|
+|t:|1780931589
+|move|p1a: Hoopa|Psychic Noise|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|upkeep
+|
+|t:|1780931591
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|-damage|p2a: Meowscarada|88/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1780931599
+|move|p2a: Meowscarada|U-turn|p1a: Hoopa
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-supereffective|p1a: Hoopa
+|-crit|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|t:|1780931624
+|switch|p2a: Gardevoir|Gardevoir, F, shiny, tera:Fairy|64/100|[from] U-turn
+|-damage|p2a: Gardevoir|52/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1780931636
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|-ability|p2a: Gardevoir|Defiant|Trace|[from] ability: Trace|[of] p1a: Ogerpon
+|turn|18
+|
+|t:|1780931640
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Slowking
+|-resisted|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|60/100
+|
+|upkeep
+|turn|19
+|
+|t:|1780931643
+|move|p1a: Ogerpon|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-enditem|p2a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Ogerpon
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1780931648
+|switch|p2a: Meowscarada|Meowscarada, F|88/100
+|-damage|p2a: Meowscarada|76/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1780931653
+|move|p2a: Meowscarada|U-turn|p1a: Ogerpon
+|-start|p2a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-supereffective|p1a: Ogerpon
+|-crit|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|t:|1780931656
+|switch|p2a: Gardevoir|Gardevoir, F, shiny, tera:Fairy|52/100|[from] U-turn
+|-damage|p2a: Gardevoir|40/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1780931659
+|switch|p1a: Weavile|Weavile, F, tera:Ice|30/100
+|-ability|p2a: Gardevoir|Pressure|Trace|[from] ability: Trace|[of] p1a: Weavile
+|-ability|p2a: Gardevoir|Pressure
+|-ability|p1a: Weavile|Pressure
+|turn|21
+|
+|t:|1780931661
+|move|p2a: Gardevoir|Vacuum Wave|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|win|cachowcapow
+|raw|temporarylight's rating: 1716 &rarr; <strong>1694</strong><br />(-22 for losing)
+|raw|cachowcapow's rating: 1688 &rarr; <strong>1710</strong><br />(+22 for winning)
+|l|☆cachowcapow
+|player|p2|
+|l| SUBMACHINEGOTH
+|l| michealjackkson

@@ -1,0 +1,343 @@
+|j|☆Walvis Timmy
+|j|☆jameshardensucks
+|t:|1781441176
+|gametype|singles
+|player|p1|Walvis Timmy|265|1528
+|player|p2|jameshardensucks|harlequin|1538
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Blissey, F|
+|poke|p1|Gliscor, F|
+|poke|p1|Skarmory, F|
+|poke|p1|Pecharunt|
+|poke|p2|Rillaboom, F|
+|poke|p2|Ogerpon-Cornerstone, F|
+|poke|p2|Hawlucha, F|
+|poke|p2|Pecharunt|
+|poke|p2|Great Tusk|
+|poke|p2|Hoopa-Unbound|
+|teampreview
+|
+|t:|1781441211
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|turn|1
+|
+|t:|1781441220
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Pecharunt|Parting Shot|p2a: Pecharunt
+|-unboost|p2a: Pecharunt|atk|1
+|-unboost|p2a: Pecharunt|spa|1
+|
+|t:|1781441228
+|switch|p1a: Gliscor|Gliscor, F|100/100|[from] Parting Shot
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1781441233
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|move|p2a: Pecharunt|Parting Shot|p1a: Gliscor
+|-unboost|p1a: Gliscor|atk|1
+|-unboost|p1a: Gliscor|spa|1
+|
+|t:|1781441238
+|switch|p2a: Rillaboom|Rillaboom, F|100/100|[from] Parting Shot
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|
+|upkeep
+|turn|3
+|
+|t:|1781441249
+|-terastallize|p1a: Gliscor|Normal
+|move|p2a: Rillaboom|Knock Off|p1a: Gliscor
+|-damage|p1a: Gliscor|73/100 tox
+|-enditem|p1a: Gliscor|Toxic Orb|[from] move: Knock Off|[of] p2a: Rillaboom
+|move|p1a: Gliscor|Facade|p2a: Rillaboom
+|-damage|p2a: Rillaboom|24/100
+|
+|-heal|p2a: Rillaboom|30/100|[from] Grassy Terrain
+|-heal|p1a: Gliscor|79/100 tox|[from] Grassy Terrain
+|-heal|p1a: Gliscor|91/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|4
+|
+|t:|1781441256
+|move|p2a: Rillaboom|U-turn|p1a: Gliscor
+|-damage|p1a: Gliscor|69/100 tox
+|
+|t:|1781441260
+|switch|p2a: Pecharunt|Pecharunt|100/100|[from] U-turn
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|
+|-heal|p1a: Gliscor|75/100 tox|[from] Grassy Terrain
+|-heal|p1a: Gliscor|88/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|5
+|
+|t:|1781441264
+|move|p1a: Gliscor|Earthquake|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|58/100
+|move|p2a: Pecharunt|Parting Shot|p1a: Gliscor
+|-unboost|p1a: Gliscor|atk|1
+|-unboost|p1a: Gliscor|spa|1
+|
+|t:|1781441268
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, F|100/100|[from] Parting Shot
+|
+|-heal|p1a: Gliscor|94/100 tox|[from] Grassy Terrain
+|-heal|p1a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|6
+|
+|t:|1781441274
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1781441284
+|move|p2a: Ogerpon|Power Whip|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|
+|upkeep
+|
+|t:|1781441289
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|turn|8
+|
+|t:|1781441291
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Pecharunt|[anim] Ivy Cudgel Rock
+|-damage|p1a: Pecharunt|44/100
+|move|p1a: Pecharunt|Toxic|p2a: Ogerpon
+|-status|p2a: Ogerpon|tox
+|-start|p2a: Ogerpon|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|
+|-heal|p1a: Pecharunt|50/100|[from] Grassy Terrain
+|-damage|p2a: Ogerpon|94/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1781441296
+|switch|p1a: Skarmory|Skarmory, F|100/100
+|-activate|p2a: Ogerpon|confusion
+|-damage|p2a: Ogerpon|54/100 tox|[from] confusion
+|
+|-heal|p2a: Ogerpon|60/100 tox|[from] Grassy Terrain
+|-damage|p2a: Ogerpon|48/100 tox|[from] psn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1781441300
+|-activate|p2a: Ogerpon|confusion
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Skarmory|[anim] Ivy Cudgel Rock
+|-damage|p1a: Skarmory|25/100
+|move|p1a: Skarmory|Stealth Rock|p2a: Ogerpon
+|-sidestart|p2: jameshardensucks|move: Stealth Rock
+|
+|-damage|p2a: Ogerpon|29/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1781441306
+|-end|p2a: Ogerpon|confusion
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Skarmory|[anim] Ivy Cudgel Rock
+|-damage|p1a: Skarmory|0 fnt
+|faint|p1a: Skarmory
+|
+|-damage|p2a: Ogerpon|4/100 tox|[from] psn
+|upkeep
+|
+|t:|1781441317
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|turn|12
+|
+|t:|1781441325
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-damage|p2a: Great Tusk|98/100|[from] Stealth Rock
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781441331
+|-terastallize|p2a: Great Tusk|Poison
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|81/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Ogerpon
+|-damage|p1a: Ogerpon|81/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: jameshardensucks|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|14
+|
+|t:|1781441335
+|move|p2a: Great Tusk|Knock Off|p1a: Ogerpon
+|-damage|p1a: Ogerpon|42/100
+|-enditem|p1a: Ogerpon|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Great Tusk
+|move|p1a: Ogerpon|U-turn|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|74/100
+|-damage|p1a: Ogerpon|25/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|
+|t:|1781441342
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|15
+|
+|t:|1781441348
+|move|p2a: Great Tusk|Stealth Rock|p1a: Samurott
+|-sidestart|p1: Walvis Timmy|move: Stealth Rock
+|move|p1a: Samurott|Ceaseless Edge|p2a: Great Tusk
+|-damage|p2a: Great Tusk|44/100
+|-damage|p1a: Samurott|84/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|-sidestart|p2: jameshardensucks|Spikes
+|
+|upkeep
+|turn|16
+|
+|t:|1781441354
+|move|p2a: Great Tusk|Knock Off|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|65/100
+|-enditem|p1a: Samurott|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Great Tusk
+|move|p1a: Samurott|Ceaseless Edge|p2a: Great Tusk
+|-damage|p2a: Great Tusk|16/100
+|-damage|p1a: Samurott|48/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|-sidestart|p2: jameshardensucks|Spikes
+|
+|upkeep
+|turn|17
+|j| Schlafparalyse
+|
+|t:|1781441362
+|move|p2a: Great Tusk|Rapid Spin|p1a: Samurott
+|-damage|p1a: Samurott|29/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: jameshardensucks|Spikes|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|move|p1a: Samurott|Ceaseless Edge|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|-damage|p1a: Samurott|13/100|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|-sidestart|p2: jameshardensucks|Spikes
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781441369
+|switch|p2a: Rillaboom|Rillaboom, F|30/100
+|-damage|p2a: Rillaboom|18/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|18
+|
+|t:|1781441373
+|switch|p1a: Pecharunt|Pecharunt|50/100
+|move|p2a: Rillaboom|Grassy Glide|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-damage|p1a: Pecharunt|41/100
+|
+|-heal|p2a: Rillaboom|24/100|[from] Grassy Terrain
+|-heal|p1a: Pecharunt|47/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1781441375
+|move|p2a: Rillaboom|Knock Off|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|12/100
+|-enditem|p1a: Pecharunt|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Rillaboom
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|62/100
+|
+|-heal|p2a: Rillaboom|30/100|[from] Grassy Terrain
+|-heal|p1a: Pecharunt|68/100|[from] Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1781441382
+|move|p2a: Rillaboom|U-turn|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-damage|p1a: Pecharunt|65/100
+|
+|t:|1781441395
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, F|4/100 tox|[from] U-turn
+|-damage|p2a: Ogerpon|0 fnt|[from] Spikes
+|faint|p2a: Ogerpon
+|move|p1a: Pecharunt|Shadow Ball|p2: Ogerpon|[notarget]
+|-fail|p1a: Pecharunt
+|
+|-heal|p1a: Pecharunt|71/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781441402
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100
+|-damage|p2a: Hoopa|88/100|[from] Spikes
+|turn|21
+|
+|t:|1781441405
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Hoopa|Psychic Noise|p1a: Blissey
+|-damage|p1a: Blissey|88/100
+|-start|p1a: Blissey|move: Heal Block
+|
+|-heal|p2a: Hoopa|94/100|[from] Grassy Terrain
+|upkeep
+|turn|22
+|
+|t:|1781441414
+|move|p2a: Hoopa|Knock Off|p1a: Blissey
+|-damage|p1a: Blissey|30/100
+|-enditem|p1a: Blissey|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Hoopa
+|move|p1a: Blissey|Shadow Ball|p2a: Hoopa
+|-damage|p2a: Hoopa|87/100
+|
+|-heal|p2a: Hoopa|93/100|[from] Grassy Terrain
+|-end|p1a: Blissey|move: Heal Block
+|upkeep
+|turn|23
+|
+|t:|1781441437
+|move|p2a: Hoopa|Psychic Noise|p1a: Blissey
+|-damage|p1a: Blissey|16/100
+|-start|p1a: Blissey|move: Heal Block
+|cant|p1a: Blissey|move: Heal Block|Soft-Boiled
+|
+|-heal|p2a: Hoopa|99/100|[from] Grassy Terrain
+|upkeep
+|turn|24
+|-message|Walvis Timmy forfeited.
+|
+|win|jameshardensucks
+|raw|Walvis Timmy's rating: 1528 &rarr; <strong>1509</strong><br />(-19 for losing)
+|raw|jameshardensucks's rating: 1538 &rarr; <strong>1557</strong><br />(+19 for winning)
+|l|☆Walvis Timmy
+|player|p1|
+|l|☆jameshardensucks
+|player|p2|

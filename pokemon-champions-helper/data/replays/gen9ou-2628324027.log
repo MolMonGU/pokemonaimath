@@ -1,0 +1,502 @@
+|j|☆th3r3d33m3r
+|j|☆Thederpa1
+|t:|1781008242
+|gametype|singles
+|player|p1|th3r3d33m3r|lady|1549
+|player|p2|Thederpa1|swimmer-gen4dp|1559
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Pecharunt|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Cinderace, M|
+|poke|p1|Alomomola, M|
+|poke|p1|Iron Valiant|
+|poke|p2|Pecharunt|
+|poke|p2|Zapdos|
+|poke|p2|Tyranitar, F|
+|poke|p2|Excadrill, F|
+|poke|p2|Volcanion|
+|poke|p2|Hydrapple, M|
+|teampreview
+|
+|t:|1781008265
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Calamity|Iron Valiant, shiny|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|1
+|
+|t:|1781008279
+|-end|p1a: Calamity|Quark Drive|[silent]
+|switch|p1a: Khaos|Hoopa-Unbound|100/100
+|move|p2a: Zapdos|Volt Switch|p1a: Khaos
+|-damage|p1a: Khaos|73/100
+|
+|t:|1781008287
+|switch|p2a: Tyranitar|Tyranitar, F|100/100|[from] Volt Switch
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Khaos|67/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1781008307
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Khaos|Drain Punch|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|82/100
+|-heal|p1a: Khaos|78/100|[from] drain|[of] p2a: Zapdos
+|-status|p1a: Khaos|par|[from] ability: Static|[of] p2a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|76/100|[from] Sandstorm
+|-damage|p1a: Khaos|72/100 par|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1781008315
+|switch|p1a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Enten|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|move|p2a: Zapdos|Volt Switch|p1a: Enten
+|-immune|p1a: Enten
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|70/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1781008319
+|move|p1a: Enten|Stone Edge|p2a: Zapdos|[miss]
+|-miss|p1a: Enten|p2a: Zapdos
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|94/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1781008325
+|switch|p1a: Pisces|Alomomola, M, shiny|100/100
+|move|p2a: Zapdos|Heat Wave|p1a: Pisces
+|-resisted|p1a: Pisces
+|-damage|p1a: Pisces|93/100
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1781008328
+|move|p2a: Zapdos|Thunder Wave|p1a: Pisces
+|-status|p1a: Pisces|par
+|move|p1a: Pisces|Mirror Coat||[still]
+|-fail|p1a: Pisces
+|
+|upkeep
+|turn|7
+|
+|t:|1781008334
+|move|p2a: Zapdos|Volt Switch|p1a: Pisces
+|-supereffective|p1a: Pisces
+|-damage|p1a: Pisces|63/100 par
+|
+|t:|1781008338
+|switch|p2a: Volcanion|Volcanion|100/100|[from] Volt Switch
+|move|p1a: Pisces|Flip Turn|p2a: Volcanion
+|-immune|p2a: Volcanion|[from] ability: Water Absorb
+|
+|upkeep
+|turn|8
+|
+|t:|1781008348
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Pisces|Mirror Coat||[still]
+|-fail|p1a: Pisces
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Pisces|57/100 par|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1781008360
+|switch|p1a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Enten|Intimidate|boost
+|-unboost|p2a: Tyranitar|atk|1
+|move|p2a: Tyranitar|Knock Off|p1a: Enten
+|-damage|p1a: Enten|57/100
+|-enditem|p1a: Enten|Choice Scarf|[from] move: Knock Off|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781008365
+|switch|p2a: Hydrapple|Hydrapple, M|100/100
+|move|p1a: Enten|U-turn|p2a: Hydrapple
+|-supereffective|p2a: Hydrapple
+|-crit|p2a: Hydrapple
+|-damage|p2a: Hydrapple|36/100
+|
+|t:|1781008378
+|switch|p1a: Khaos|Hoopa-Unbound|72/100 par|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Khaos|66/100 par|[from] Sandstorm
+|-damage|p2a: Hydrapple|30/100|[from] Sandstorm
+|upkeep
+|turn|11
+|
+|t:|1781008386
+|switch|p2a: Zapdos|Zapdos|94/100
+|move|p1a: Khaos|Hyperspace Fury|p2a: Zapdos
+|-damage|p2a: Zapdos|17/100
+|-unboost|p1a: Khaos|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|11/100|[from] Sandstorm
+|-damage|p1a: Khaos|60/100 par|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1781008392
+|move|p2a: Zapdos|Volt Switch|p1a: Khaos
+|-damage|p1a: Khaos|32/100 par
+|
+|t:|1781008396
+|switch|p2a: Tyranitar|Tyranitar, F|100/100|[from] Volt Switch
+|cant|p1a: Khaos|par
+|
+|-weather|none
+|upkeep
+|turn|13
+|
+|t:|1781008405
+|switch|p1a: Enten|Landorus-Therian, M, shiny|57/100
+|-ability|p1a: Enten|Intimidate|boost
+|-unboost|p2a: Tyranitar|atk|1
+|move|p2a: Tyranitar|Knock Off|p1a: Enten
+|-damage|p1a: Enten|30/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781008411
+|switch|p2a: Hydrapple|Hydrapple, M|63/100
+|move|p1a: Enten|U-turn|p2a: Hydrapple
+|-supereffective|p2a: Hydrapple
+|-damage|p2a: Hydrapple|24/100
+|
+|t:|1781008415
+|switch|p1a: Khaos|Hoopa-Unbound|32/100 par|[from] U-turn
+|
+|upkeep
+|turn|15
+|
+|t:|1781008426
+|move|p1a: Khaos|Drain Punch|p2a: Hydrapple
+|-crit|p2a: Hydrapple
+|-damage|p2a: Hydrapple|0 fnt
+|-heal|p1a: Khaos|48/100 par|[from] drain|[of] p2a: Hydrapple
+|faint|p2a: Hydrapple
+|
+|upkeep
+|
+|t:|1781008431
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|turn|16
+|
+|t:|1781008435
+|switch|p1a: Pisces|Alomomola, M, shiny|90/100 par
+|move|p2a: Pecharunt|Parting Shot|p1a: Pisces
+|-unboost|p1a: Pisces|atk|1
+|-unboost|p1a: Pisces|spa|1
+|
+|t:|1781008438
+|switch|p2a: Tyranitar|Tyranitar, F|100/100|[from] Parting Shot
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Pisces|84/100 par|[from] Sandstorm
+|upkeep
+|turn|17
+|
+|t:|1781008446
+|move|p2a: Tyranitar|Stealth Rock|p1a: Pisces
+|-sidestart|p1: th3r3d33m3r|move: Stealth Rock
+|cant|p1a: Pisces|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Pisces|77/100 par|[from] Sandstorm
+|upkeep
+|turn|18
+|
+|t:|1781008451
+|switch|p2a: Volcanion|Volcanion|100/100
+|move|p1a: Pisces|Body Slam|p2a: Volcanion
+|-damage|p2a: Volcanion|93/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Volcanion|86/100|[from] Sandstorm
+|-damage|p1a: Pisces|71/100 par|[from] Sandstorm
+|upkeep
+|turn|19
+|
+|t:|1781008458
+|move|p2a: Volcanion|Steam Eruption|p1a: Pisces
+|-resisted|p1a: Pisces
+|-damage|p1a: Pisces|56/100 par
+|move|p1a: Pisces|Mirror Coat|p2a: Volcanion
+|-damage|p2a: Volcanion|41/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Volcanion|35/100|[from] Sandstorm
+|-damage|p1a: Pisces|49/100 par|[from] Sandstorm
+|upkeep
+|turn|20
+|
+|t:|1781008466
+|move|p2a: Volcanion|Steam Eruption|p1a: Pisces
+|-resisted|p1a: Pisces
+|-damage|p1a: Pisces|34/100 par
+|cant|p1a: Pisces|par
+|
+|-weather|none
+|upkeep
+|turn|21
+|
+|t:|1781008472
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Pisces|Mirror Coat||[still]
+|-fail|p1a: Pisces
+|
+|upkeep
+|turn|22
+|
+|t:|1781008479
+|switch|p1a: Enten|Landorus-Therian, M, shiny|30/100
+|-damage|p1a: Enten|18/100|[from] Stealth Rock
+|-ability|p1a: Enten|Intimidate|boost
+|-unboost|p2a: Pecharunt|atk|1
+|move|p2a: Pecharunt|Parting Shot|p1a: Enten
+|-unboost|p1a: Enten|atk|1
+|-unboost|p1a: Enten|spa|1
+|
+|t:|1781008490
+|switch|p2a: Excadrill|Excadrill, F|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|23
+|
+|t:|1781008506
+|-terastallize|p2a: Excadrill|Ghost
+|move|p1a: Enten|Earthquake|p2a: Excadrill
+|-damage|p2a: Excadrill|44/100
+|move|p2a: Excadrill|Rapid Spin|p1a: Enten
+|-damage|p1a: Enten|0 fnt
+|-boost|p2a: Excadrill|spe|1
+|faint|p1a: Enten
+|-damage|p2a: Excadrill|34/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781008516
+|switch|p1a: Liberacy|Cinderace, M, shiny|100/100
+|turn|24
+|
+|t:|1781008520
+|move|p1a: Liberacy|Sucker Punch|p2a: Excadrill
+|-start|p1a: Liberacy|typechange|Dark|[from] ability: Libero
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|upkeep
+|j| just-jaype
+|j| takong
+|
+|t:|1781008548
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|25
+|
+|t:|1781008551
+|move|p1a: Liberacy|Court Change|p1a: Liberacy
+|-swapsideconditions
+|-activate|p1a: Liberacy|move: Court Change
+|move|p2a: Tyranitar|Low Kick|p1a: Liberacy
+|-supereffective|p1a: Liberacy
+|-damage|p1a: Liberacy|39/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Liberacy|33/100|[from] Sandstorm
+|upkeep
+|turn|26
+|
+|t:|1781008555
+|move|p1a: Liberacy|U-turn|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|64/100
+|
+|t:|1781008558
+|switch|p1a: Khaos|Hoopa-Unbound|48/100 par|[from] U-turn
+|move|p2a: Tyranitar|Stealth Rock|p1a: Khaos
+|-sidestart|p1: th3r3d33m3r|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Khaos|42/100 par|[from] Sandstorm
+|-heal|p2a: Tyranitar|70/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781008565
+|move|p2a: Tyranitar|Knock Off|p1a: Khaos
+|-damage|p1a: Khaos|0 fnt
+|-enditem|p1a: Khaos|Choice Band|[from] move: Knock Off|[of] p2a: Tyranitar
+|faint|p1a: Khaos
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|76/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781008567
+|switch|p1a: Calamity|Iron Valiant, shiny|100/100
+|-damage|p1a: Calamity|94/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1781008574
+|switch|p2a: Volcanion|Volcanion|35/100
+|-terastallize|p1a: Calamity|Fairy
+|move|p1a: Calamity|Moonblast|p2a: Volcanion
+|-resisted|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|faint|p2a: Volcanion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Calamity|88/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781008576
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|turn|29
+|
+|t:|1781008579
+|-end|p1a: Calamity|Quark Drive|[silent]
+|switch|p1a: Pisces|Alomomola, M, shiny|67/100 par
+|-damage|p1a: Pisces|55/100 par|[from] Stealth Rock
+|move|p2a: Pecharunt|Malignant Chain|p1a: Pisces
+|-damage|p1a: Pisces|35/100 par
+|
+|-weather|none
+|upkeep
+|turn|30
+|l| takong
+|
+|t:|1781008590
+|move|p2a: Pecharunt|Parting Shot|p1a: Pisces
+|-unboost|p1a: Pisces|atk|1
+|-unboost|p1a: Pisces|spa|1
+|
+|t:|1781008591
+|switch|p2a: Zapdos|Zapdos|11/100|[from] Parting Shot
+|move|p1a: Pisces|Flip Turn|p2a: Zapdos
+|-damage|p2a: Zapdos|1/100
+|
+|t:|1781008594
+|switch|p1a: Calamity|Iron Valiant, shiny, tera:Fairy|88/100|[from] Flip Turn
+|-damage|p1a: Calamity|76/100|[from] Stealth Rock
+|
+|upkeep
+|turn|31
+|
+|t:|1781008598
+|move|p1a: Calamity|Moonblast|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1781008600
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|turn|32
+|
+|t:|1781008605
+|-end|p1a: Calamity|Quark Drive|[silent]
+|switch|p1a: Pisces|Alomomola, M, shiny|68/100 par
+|-damage|p1a: Pisces|55/100 par|[from] Stealth Rock
+|move|p2a: Pecharunt|Malignant Chain|p1a: Pisces
+|-damage|p1a: Pisces|35/100 par
+|
+|upkeep
+|turn|33
+|
+|t:|1781008614
+|move|p2a: Pecharunt|Parting Shot|p1a: Pisces
+|-unboost|p1a: Pisces|atk|1
+|-unboost|p1a: Pisces|spa|1
+|l| just-jaype
+|
+|t:|1781008616
+|switch|p2a: Tyranitar|Tyranitar, F|76/100|[from] Parting Shot
+|-damage|p2a: Tyranitar|64/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Pisces|Flip Turn|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|47/100
+|
+|t:|1781008619
+|switch|p1a: Calamity|Iron Valiant, shiny, tera:Fairy|76/100|[from] Flip Turn
+|-damage|p1a: Calamity|63/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Calamity|57/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|53/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1781008623
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Calamity|Moonblast|p2a: Pecharunt
+|-resisted|p2a: Pecharunt
+|-damage|p2a: Pecharunt|50/100
+|-unboost|p2a: Pecharunt|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Calamity|51/100|[from] Sandstorm
+|-damage|p2a: Pecharunt|44/100|[from] Sandstorm
+|upkeep
+|turn|35
+|
+|t:|1781008632
+|move|p1a: Calamity|Moonblast|p2a: Pecharunt
+|-resisted|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|faint|p2a: Pecharunt
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Calamity|44/100|[from] Sandstorm
+|upkeep
+|-message|Thederpa1 forfeited.
+|
+|win|th3r3d33m3r
+|raw|th3r3d33m3r's rating: 1549 &rarr; <strong>1570</strong><br />(+21 for winning)
+|raw|Thederpa1's rating: 1559 &rarr; <strong>1538</strong><br />(-21 for losing)
+|l|☆Thederpa1
+|player|p2|
+|l|☆th3r3d33m3r
+|player|p1|

@@ -1,0 +1,336 @@
+|j|☆billythekid95
+|j|☆LowEL0God
+|t:|1781602003
+|gametype|singles
+|player|p1|billythekid95|265|1687
+|player|p2|LowEL0God|265|1670
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Walking Wake|
+|poke|p1|Ribombee, M|
+|poke|p1|Gholdengo|
+|poke|p1|Torkoal, F|
+|poke|p1|Great Tusk|
+|poke|p1|Ceruledge, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781602010
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ribombee|Ribombee, M|100/100
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|1
+|
+|t:|1781602027
+|move|p1a: Ribombee|Sticky Web|p2a: Barraskewda
+|-sidestart|p2: LowEL0God|move: Sticky Web
+|move|p2a: Barraskewda|Flip Turn|p1a: Ribombee
+|-damage|p1a: Ribombee|6/100
+|
+|t:|1781602029
+|switch|p2a: Iron Treads|Iron Treads|100/100|[from] Flip Turn
+|-activate|p2a: Iron Treads|move: Sticky Web
+|-unboost|p2a: Iron Treads|spe|1
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivedef
+|
+|upkeep
+|turn|2
+|
+|t:|1781602037
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|move|p2a: Iron Treads|Rapid Spin|p1a: Ceruledge
+|-immune|p1a: Ceruledge
+|
+|upkeep
+|turn|3
+|
+|t:|1781602044
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|move|p2a: Iron Treads|Earth Power|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|24/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781602050
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Ceruledge|Bitter Blade|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|84/100
+|-heal|p1a: Ceruledge|33/100|[from] drain|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781602060
+|move|p1a: Ceruledge|Poltergeist|p2a: Pelipper
+|-activate|p2a: Pelipper|move: Poltergeist|Damp Rock
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781602061
+|switch|p2a: Overqwil|Overqwil, M|100/100
+|-activate|p2a: Overqwil|move: Sticky Web
+|-unboost|p2a: Overqwil|spe|1
+|turn|6
+|
+|t:|1781602072
+|switch|p1a: Ribombee|Ribombee, M|6/100
+|move|p2a: Overqwil|Liquidation|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|faint|p1a: Ribombee
+|-damage|p2a: Overqwil|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781602080
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|7
+|
+|t:|1781602084
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-activate|p2a: Raging Bolt|move: Sticky Web
+|-unboost|p2a: Raging Bolt|spe|1
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Torkoal|Stealth Rock|p2a: Raging Bolt
+|-sidestart|p2: LowEL0God|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781602093
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Raging Bolt|Weather Ball|p1a: Great Tusk
+|-damage|p1a: Great Tusk|55/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781602102
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p1a: Great Tusk|Earthquake|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|48/100
+|move|p2a: Raging Bolt|Weather Ball|p1a: Great Tusk
+|-damage|p1a: Great Tusk|10/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781602109
+|move|p1a: Great Tusk|Earthquake|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781602110
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|move: Sticky Web
+|-unboost|p2a: Kingambit|spe|1
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|turn|11
+|
+|t:|1781602119
+|move|p2a: Kingambit|Sucker Punch|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781602125
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|turn|12
+|
+|t:|1781602130
+|move|p2a: Kingambit|Sucker Punch|p1a: Walking Wake
+|-damage|p1a: Walking Wake|42/100
+|move|p1a: Walking Wake|Flamethrower|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen2|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781602132
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|-activate|p2a: Barraskewda|move: Sticky Web
+|-unboost|p2a: Barraskewda|spe|1
+|-damage|p2a: Barraskewda|88/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1781602147
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Ceruledge|Ceruledge, M|33/100
+|move|p2a: Barraskewda|Aqua Jet|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781602154
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|14
+|
+|t:|1781602157
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-activate|p2a: Iron Treads|move: Sticky Web
+|-unboost|p2a: Iron Treads|spe|1
+|-damage|p2a: Iron Treads|97/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Shadow Ball|p2a: Iron Treads
+|-damage|p2a: Iron Treads|38/100
+|
+|-weather|none
+|upkeep
+|turn|15
+|
+|t:|1781602165
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Overqwil|Overqwil, M|91/100
+|-activate|p2a: Overqwil|move: Sticky Web
+|-unboost|p2a: Overqwil|spe|1
+|-damage|p2a: Overqwil|78/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Shadow Ball|p2a: Overqwil
+|-resisted|p2a: Overqwil
+|-damage|p2a: Overqwil|45/100
+|-unboost|p2a: Overqwil|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781602180
+|switch|p2a: Iron Treads|Iron Treads|38/100
+|-activate|p2a: Iron Treads|move: Sticky Web
+|-unboost|p2a: Iron Treads|spe|1
+|-damage|p2a: Iron Treads|35/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Shadow Ball|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781602181
+|switch|p2a: Overqwil|Overqwil, M|45/100
+|-activate|p2a: Overqwil|move: Sticky Web
+|-unboost|p2a: Overqwil|spe|1
+|-damage|p2a: Overqwil|33/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1781602193
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Overqwil|Gunk Shot|p1a: Torkoal
+|-damage|p1a: Torkoal|44/100
+|-damage|p2a: Overqwil|23/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781602202
+|switch|p2a: Barraskewda|Barraskewda, M|88/100
+|-activate|p2a: Barraskewda|move: Sticky Web
+|-unboost|p2a: Barraskewda|spe|1
+|-damage|p2a: Barraskewda|75/100|[from] Stealth Rock
+|move|p1a: Torkoal|Lava Plume|p2a: Barraskewda
+|-resisted|p2a: Barraskewda
+|-damage|p2a: Barraskewda|36/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781602211
+|move|p2a: Barraskewda|Liquidation|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781602217
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|20
+|
+|t:|1781602219
+|move|p1a: Gholdengo|Shadow Ball|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781602220
+|switch|p2a: Overqwil|Overqwil, M|23/100
+|-activate|p2a: Overqwil|move: Sticky Web
+|-unboost|p2a: Overqwil|spe|1
+|-damage|p2a: Overqwil|11/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1781602229
+|-terastallize|p1a: Gholdengo|Flying
+|move|p1a: Gholdengo|Shadow Ball|p2a: Overqwil
+|-resisted|p2a: Overqwil
+|-damage|p2a: Overqwil|0 fnt
+|faint|p2a: Overqwil
+|
+|win|billythekid95
+|raw|billythekid95's rating: 1687 &rarr; <strong>1706</strong><br />(+19 for winning)
+|raw|LowEL0God's rating: 1670 &rarr; <strong>1651</strong><br />(-19 for losing)
+|l|☆billythekid95
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|

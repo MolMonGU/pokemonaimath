@@ -1,0 +1,327 @@
+|j|☆I Stay Untouched
+|j|☆somsleep
+|t:|1781037834
+|gametype|singles
+|player|p1|I Stay Untouched|cynthia|1546
+|player|p2|somsleep|2|1557
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Kyurem|
+|poke|p1|Zapdos|
+|poke|p1|Great Tusk|
+|poke|p1|Kingambit, F|
+|poke|p1|Slowking-Galar, M|
+|poke|p2|Abomasnow, M|
+|poke|p2|Cetitan, M|
+|poke|p2|Rotom|
+|poke|p2|Illumise, F|
+|poke|p2|Keldeo-Resolute|
+|poke|p2|Iron Treads|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by somsleep)
+|
+|t:|1781037844
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Rotom|Rotom|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781037849
+|move|p2a: Rotom|Trick|p1a: Kyurem
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Kyurem
+|-item|p1a: Kyurem|Choice Scarf|[from] move: Trick
+|-item|p2a: Rotom|Choice Specs|[from] move: Trick
+|move|p1a: Kyurem|Draco Meteor|p2a: Rotom|[miss]
+|-miss|p1a: Kyurem|p2a: Rotom
+|
+|upkeep
+|turn|2
+|
+|t:|1781037854
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Kyurem|Draco Meteor|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|54/100
+|-unboost|p1a: Kyurem|spa|2
+|
+|upkeep
+|turn|3
+|
+|t:|1781037859
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: Great Tusk
+|-sidestart|p1: I Stay Untouched|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1781037863
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Rotom|Rotom|100/100
+|move|p1a: Great Tusk|Stealth Rock|p2a: Rotom
+|-sidestart|p2: somsleep|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1781037869
+|move|p2a: Rotom|Trick|p1a: Great Tusk
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Great Tusk
+|-item|p1a: Great Tusk|Choice Specs|[from] move: Trick
+|-item|p2a: Rotom|Heavy-Duty Boots|[from] move: Trick
+|move|p1a: Great Tusk|Knock Off|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|-enditem|p2a: Rotom|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Great Tusk
+|faint|p2a: Rotom
+|
+|upkeep
+|
+|t:|1781037872
+|switch|p2a: Iron Treads|Iron Treads|54/100
+|-damage|p2a: Iron Treads|51/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1781037877
+|move|p2a: Iron Treads|Rapid Spin|p1a: Great Tusk
+|-damage|p1a: Great Tusk|88/100
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: somsleep|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: Great Tusk|Knock Off|p2a: Iron Treads
+|-damage|p2a: Iron Treads|29/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781037882
+|move|p2a: Iron Treads|Iron Head|p1a: Great Tusk
+|-damage|p1a: Great Tusk|61/100
+|cant|p1a: Great Tusk|flinch
+|
+|upkeep
+|turn|8
+|
+|t:|1781037887
+|move|p2a: Iron Treads|Iron Head|p1a: Great Tusk
+|-damage|p1a: Great Tusk|34/100
+|cant|p1a: Great Tusk|flinch
+|
+|upkeep
+|turn|9
+|
+|t:|1781037891
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Iron Treads|Earthquake|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|upkeep
+|turn|10
+|
+|t:|1781037898
+|move|p2a: Iron Treads|Iron Head|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|87/100
+|cant|p1a: Zapdos|flinch
+|
+|upkeep
+|turn|11
+|
+|t:|1781037903
+|move|p2a: Iron Treads|Iron Head|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|73/100
+|cant|p1a: Zapdos|flinch
+|
+|upkeep
+|turn|12
+|c|☆somsleep|Sorty
+|c|☆I Stay Untouched|serene grace?????
+|c|☆somsleep|sorry
+|c|☆somsleep|idk hahaha
+|
+|t:|1781037921
+|move|p2a: Iron Treads|Iron Head|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|60/100
+|move|p1a: Zapdos|U-turn|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|22/100
+|c|☆I Stay Untouched|hahahahah
+|
+|t:|1781037930
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|13
+|
+|t:|1781037937
+|move|p2a: Iron Treads|Iron Head|p1a: Ogerpon
+|-resisted|p1a: Ogerpon
+|-damage|p1a: Ogerpon|64/100
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Iron Treads|[anim] Ivy Cudgel Water
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781037947
+|switch|p2a: Abomasnow|Abomasnow, M, shiny|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|turn|14
+|
+|t:|1781037956
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Abomasnow|Blizzard|p1a: Slowking
+|-damage|p1a: Slowking|73/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781037967
+|move|p2a: Abomasnow|Blizzard|p1a: Slowking
+|-damage|p1a: Slowking|42/100
+|move|p1a: Slowking|Sludge Bomb|p2a: Abomasnow
+|-supereffective|p2a: Abomasnow
+|-damage|p2a: Abomasnow|20/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781037971
+|move|p2a: Abomasnow|Aurora Veil|p2a: Abomasnow
+|-sidestart|p2: somsleep|move: Aurora Veil
+|move|p1a: Slowking|Sludge Bomb|p2a: Abomasnow
+|-supereffective|p2a: Abomasnow
+|-damage|p2a: Abomasnow|0 fnt
+|faint|p2a: Abomasnow
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781037974
+|switch|p2a: Cetitan|Cetitan, M|100/100
+|turn|17
+|
+|t:|1781037994
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|move|p2a: Cetitan|Belly Drum|p2a: Cetitan
+|-damage|p2a: Cetitan|50/100
+|-setboost|p2a: Cetitan|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Cetitan|Sitrus Berry|[eat]
+|-heal|p2a: Cetitan|75/100|[from] item: Sitrus Berry
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781038003
+|-terastallize|p1a: Kingambit|Fairy
+|move|p2a: Cetitan|Earthquake|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781038022
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|64/100
+|-damage|p1a: Ogerpon|52/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1781038024
+|move|p2a: Cetitan|Ice Shard|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|inactive|I Stay Untouched has 120 seconds left.
+|
+|t:|1781038065
+|switch|p1a: Zapdos|Zapdos|60/100
+|turn|20
+|
+|t:|1781038070
+|move|p2a: Cetitan|Ice Shard|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|-weather|Snowscape|[upkeep]
+|-sideend|p2: somsleep|move: Aurora Veil
+|upkeep
+|
+|t:|1781038088
+|switch|p1a: Slowking|Slowking-Galar, M|75/100
+|turn|21
+|
+|t:|1781038091
+|move|p2a: Cetitan|Earthquake|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-weather|none
+|upkeep
+|
+|t:|1781038095
+|switch|p1a: Kyurem|Kyurem|100/100
+|-damage|p1a: Kyurem|76/100|[from] Stealth Rock
+|-ability|p1a: Kyurem|Pressure
+|turn|22
+|
+|t:|1781038097
+|move|p2a: Cetitan|Ice Shard|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|c|☆I Stay Untouched|ggwp
+|
+|t:|1781038102
+|switch|p1a: Great Tusk|Great Tusk|34/100
+|-damage|p1a: Great Tusk|31/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1781038104
+|move|p2a: Cetitan|Ice Shard|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|win|somsleep
+|raw|I Stay Untouched's rating: 1546 &rarr; <strong>1527</strong><br />(-19 for losing)
+|raw|somsleep's rating: 1557 &rarr; <strong>1576</strong><br />(+19 for winning)
+|c|☆I Stay Untouched|:)
+|c|☆somsleep|Gg
+|l|☆somsleep
+|player|p2|
+|l|☆I Stay Untouched
+|player|p1|

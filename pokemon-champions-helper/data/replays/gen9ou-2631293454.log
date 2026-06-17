@@ -1,0 +1,281 @@
+|j|☆the lekas
+|j|☆manabi.portoviejo
+|t:|1781368075
+|gametype|singles
+|player|p1|the lekas|1|1530
+|player|p2|manabi.portoviejo|169|1508
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Glimmora, M|
+|poke|p1|Gholdengo|
+|poke|p1|Ursaluna, F|
+|poke|p1|Dragonite, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Iron Moth|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Hawlucha, M|
+|poke|p2|Iron Crown|
+|poke|p2|Indeedee-F, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Cloyster, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by the lekas)
+|
+|t:|1781368082
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|switch|p2a: Indeedee|Indeedee-F, F|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|1
+|
+|t:|1781368091
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|move|p2a: Indeedee|Trick Room|p2a: Indeedee
+|-fieldstart|move: Trick Room|[of] p2a: Indeedee
+|
+|upkeep
+|turn|2
+|
+|t:|1781368095
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100
+|move|p1a: Gholdengo|Make It Rain|p2a: Hoopa
+|-enditem|p2a: Hoopa|Focus Sash
+|-damage|p2a: Hoopa|1/100
+|-unboost|p1a: Gholdengo|spa|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781368103
+|move|p2a: Hoopa|Hyperspace Fury|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-unboost|p2a: Hoopa|def|1
+|-enditem|p1a: Gholdengo|Air Balloon
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1781368106
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|turn|4
+|
+|t:|1781368111
+|move|p2a: Hoopa|Expanding Force|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-enditem|p1a: Glimmora|Focus Sash
+|-damage|p1a: Glimmora|1/100
+|move|p1a: Glimmora|Mortal Spin|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|faint|p2a: Hoopa
+|
+|upkeep
+|
+|t:|1781368123
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|5
+|
+|t:|1781368127
+|move|p2a: Hatterene|Expanding Force|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|
+|-fieldend|move: Trick Room
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1781368131
+|switch|p1a: Ursaluna|Ursaluna, F|100/100
+|turn|6
+|
+|t:|1781368139
+|switch|p2a: Indeedee|Indeedee-F, F|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|move|p1a: Ursaluna|Swords Dance|p1a: Ursaluna
+|-boost|p1a: Ursaluna|atk|2
+|
+|-status|p1a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|7
+|
+|t:|1781368149
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Ursaluna|Facade|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|-damage|p1a: Ursaluna|94/100 brn|[from] brn
+|upkeep
+|
+|t:|1781368155
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-enditem|p2a: Iron Crown|Booster Energy
+|-activate|p2a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Crown|quarkdrivespa
+|turn|8
+|
+|t:|1781368157
+|move|p2a: Iron Crown|Expanding Force|p1a: Ursaluna
+|-damage|p1a: Ursaluna|0 fnt
+|faint|p1a: Ursaluna
+|
+|upkeep
+|
+|t:|1781368161
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|9
+|
+|t:|1781368168
+|move|p1a: Dragonite|Earthquake|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|36/100
+|move|p2a: Iron Crown|Expanding Force|p1a: Dragonite
+|-damage|p1a: Dragonite|39/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781368179
+|move|p1a: Dragonite|Earthquake|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1781368185
+|switch|p2a: Indeedee|Indeedee-F, F|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|11
+|
+|t:|1781368194
+|move|p1a: Dragonite|Earthquake|p2a: Indeedee
+|-crit|p2a: Indeedee
+|-damage|p2a: Indeedee|44/100
+|move|p2a: Indeedee|Reflect|p2a: Indeedee
+|-sidestart|p2: manabi.portoviejo|Reflect
+|
+|upkeep
+|turn|12
+|
+|t:|1781368200
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p2a: Hawlucha|Psychic Seed
+|-boost|p2a: Hawlucha|spd|1|[from] item: Psychic Seed
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781368206
+|move|p2a: Hawlucha|Acrobatics|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1781368210
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|turn|14
+|
+|t:|1781368217
+|move|p2a: Hawlucha|Acrobatics|p1a: Iron Moth
+|-damage|p1a: Iron Moth|27/100
+|move|p1a: Iron Moth|Dazzling Gleam|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-crit|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|upkeep
+|
+|t:|1781368233
+|switch|p2a: Cloyster|Cloyster, M|100/100
+|turn|15
+|
+|t:|1781368241
+|move|p1a: Iron Moth|Fiery Dance|p2a: Cloyster
+|-enditem|p2a: Cloyster|Focus Sash
+|-damage|p2a: Cloyster|1/100
+|-boost|p1a: Iron Moth|spa|1
+|move|p2a: Cloyster|Liquidation|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1781368244
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|16
+|
+|t:|1781368246
+|switch|p2a: Indeedee|Indeedee-F, F|44/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|move|p1a: Rillaboom|Grassy Glide|p2a: Indeedee
+|-damage|p2a: Indeedee|22/100
+|-damage|p1a: Rillaboom|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|17
+|
+|t:|1781368251
+|move|p1a: Rillaboom|Grassy Glide|p2a: Indeedee
+|-damage|p2a: Indeedee|1/100
+|-damage|p1a: Rillaboom|81/100|[from] item: Life Orb
+|move|p2a: Indeedee|Healing Wish|p2a: Indeedee
+|faint|p2a: Indeedee
+|
+|upkeep
+|
+|t:|1781368255
+|switch|p2a: Cloyster|Cloyster, M|1/100
+|-heal|p2a: Cloyster|100/100|[from] move: Healing Wish
+|turn|18
+|
+|t:|1781368261
+|-terastallize|p1a: Rillaboom|Grass
+|move|p1a: Rillaboom|Grassy Glide|p2a: Cloyster
+|-supereffective|p2a: Cloyster
+|-damage|p2a: Cloyster|48/100
+|-damage|p1a: Rillaboom|71/100|[from] item: Life Orb
+|move|p2a: Cloyster|Icicle Spear|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|45/100
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|18/100
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|-hitcount|p1: Rillaboom|3
+|
+|win|manabi.portoviejo
+|raw|the lekas's rating: 1530 &rarr; <strong>1509</strong><br />(-21 for losing)
+|raw|manabi.portoviejo's rating: 1508 &rarr; <strong>1529</strong><br />(+21 for winning)
+|l|☆the lekas
+|player|p1|

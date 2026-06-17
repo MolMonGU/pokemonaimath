@@ -1,0 +1,316 @@
+|j|‽aaagislash
+|j|‽Bring it on mon
+|t:|1781246241
+|gametype|singles
+|player|p1|aaagislash|265|1604
+|player|p2|Bring it on mon|galacticgruntf|1605
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Regieleki|
+|poke|p1|Araquanid, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Great Tusk|
+|poke|p1|Zoroark-Hisui, M|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Klefki, M|
+|poke|p2|Maushold-Four|
+|poke|p2|Latias, F|
+|poke|p2|Okidogi, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Bring it on mon)
+|j| lord shiddenfards
+|
+|t:|1781246263
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Regieleki|Regieleki|100/100
+|switch|p2a: Klefki|Klefki, M|100/100
+|turn|1
+|
+|t:|1781246266
+|move|p2a: Klefki|Light Screen|p2a: Klefki
+|-sidestart|p2: Bring it on mon|move: Light Screen
+|move|p1a: Regieleki|Volt Switch|p2a: Klefki
+|-damage|p2a: Klefki|66/100
+|
+|t:|1781246268
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|2
+|
+|t:|1781246270
+|move|p2a: Klefki|Reflect|p2a: Klefki
+|-sidestart|p2: Bring it on mon|Reflect
+|move|p1a: Samurott|Ceaseless Edge|p2a: Klefki
+|-resisted|p2a: Klefki
+|-damage|p2a: Klefki|55/100
+|-sidestart|p2: Bring it on mon|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1781246275
+|switch|p2a: Okidogi|Okidogi, M|100/100
+|-damage|p2a: Okidogi|88/100|[from] Spikes
+|move|p1a: Samurott|Ceaseless Edge|p2a: Okidogi
+|-resisted|p2a: Okidogi
+|-damage|p2a: Okidogi|81/100
+|-sidestart|p2: Bring it on mon|Spikes
+|
+|-heal|p2a: Okidogi|87/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781246280
+|move|p1a: Samurott|Ceaseless Edge|p2a: Okidogi
+|-resisted|p2a: Okidogi
+|-damage|p2a: Okidogi|79/100
+|-sidestart|p2: Bring it on mon|Spikes
+|move|p2a: Okidogi|Knock Off|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|82/100
+|-enditem|p1a: Samurott|Assault Vest|[from] move: Knock Off|[of] p2a: Okidogi
+|
+|-heal|p2a: Okidogi|85/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781246285
+|move|p1a: Samurott|Flip Turn|p2a: Okidogi
+|-crit|p2a: Okidogi
+|-damage|p2a: Okidogi|58/100
+|
+|t:|1781246286
+|switch|p1a: Dragapult|Dragapult, F|100/100|[from] Flip Turn
+|move|p2a: Okidogi|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|5/100
+|-enditem|p1a: Dragapult|Weakness Policy
+|-boost|p1a: Dragapult|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Dragapult|spa|2|[from] item: Weakness Policy
+|
+|-heal|p2a: Okidogi|64/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781246296
+|move|p1a: Dragapult|Draco Meteor|p2a: Okidogi
+|-damage|p2a: Okidogi|4/100
+|-unboost|p1a: Dragapult|spa|2
+|move|p2a: Okidogi|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-heal|p2a: Okidogi|10/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781246299
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|7
+|
+|t:|1781246302
+|switch|p2a: Latias|Latias, F|100/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Latias
+|-damage|p2a: Latias|90/100
+|-boost|p1a: Great Tusk|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781246305
+|move|p1a: Great Tusk|Rapid Spin|p2a: Latias
+|-damage|p2a: Latias|80/100
+|-boost|p1a: Great Tusk|spe|1
+|move|p2a: Latias|Agility|p2a: Latias
+|-boost|p2a: Latias|spe|2
+|
+|-sideend|p2: Bring it on mon|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1781246307
+|move|p1a: Great Tusk|Rapid Spin|p2a: Latias
+|-damage|p2a: Latias|70/100
+|-boost|p1a: Great Tusk|spe|1
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|
+|-sideend|p2: Bring it on mon|Reflect
+|upkeep
+|turn|10
+|
+|t:|1781246318
+|-terastallize|p2a: Latias|Steel
+|move|p1a: Great Tusk|Ice Spinner|p2a: Latias
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|51/100
+|move|p2a: Latias|Agility|p2a: Latias
+|-boost|p2a: Latias|spe|2
+|
+|upkeep
+|turn|11
+|
+|t:|1781246323
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Araquanid|Araquanid, M|100/100
+|move|p2a: Latias|Stored Power|p1a: Araquanid
+|-damage|p1a: Araquanid|21/100
+|-enditem|p1a: Araquanid|Red Card|[of] p2a: Latias
+|drag|p2a: Ninetales|Ninetales-Alola, M|100/100
+|-damage|p2a: Ninetales|76/100|[from] Spikes
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781246329
+|move|p2a: Ninetales|Freeze-Dry|p1a: Araquanid
+|-supereffective|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|faint|p1a: Araquanid
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781246332
+|switch|p1a: Regieleki|Regieleki|100/100
+|turn|13
+|
+|t:|1781246341
+|move|p1a: Regieleki|Volt Switch|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|t:|1781246350
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] Volt Switch
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781246352
+|switch|p2a: Klefki|Klefki, M|55/100
+|-damage|p2a: Klefki|31/100|[from] Spikes
+|turn|14
+|
+|t:|1781246356
+|move|p2a: Klefki|Light Screen|p2a: Klefki
+|-sidestart|p2: Bring it on mon|move: Light Screen
+|move|p1a: Great Tusk|Rapid Spin|p2a: Klefki
+|-resisted|p2a: Klefki
+|-damage|p2a: Klefki|21/100
+|-boost|p1a: Great Tusk|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781246358
+|move|p2a: Klefki|Reflect|p2a: Klefki
+|-sidestart|p2: Bring it on mon|Reflect
+|move|p1a: Great Tusk|Rapid Spin|p2a: Klefki
+|-resisted|p2a: Klefki
+|-damage|p2a: Klefki|17/100
+|-boost|p1a: Great Tusk|spe|1
+|
+|-weather|none
+|upkeep
+|turn|16
+|
+|t:|1781246361
+|switch|p2a: Okidogi|Okidogi, M|10/100
+|-damage|p2a: Okidogi|0 fnt|[from] Spikes
+|faint|p2a: Okidogi
+|move|p1a: Great Tusk|Rapid Spin|p2: Okidogi|[notarget]
+|-fail|p1a: Great Tusk
+|
+|upkeep
+|
+|t:|1781246364
+|switch|p2a: Maushold|Maushold-Four|100/100
+|-damage|p2a: Maushold|75/100|[from] Spikes
+|turn|17
+|
+|t:|1781246370
+|move|p1a: Great Tusk|Close Combat|p2a: Maushold
+|-supereffective|p2a: Maushold
+|-damage|p2a: Maushold|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Maushold
+|
+|upkeep
+|
+|t:|1781246372
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|75/100|[from] Spikes
+|turn|18
+|
+|t:|1781246386
+|-terastallize|p1a: Great Tusk|Fighting
+|move|p1a: Great Tusk|Close Combat|p2a: Ogerpon
+|-damage|p2a: Ogerpon|32/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Ogerpon|Trailblaze|p1a: Great Tusk
+|-damage|p1a: Great Tusk|54/100
+|-boost|p2a: Ogerpon|spe|1
+|
+|upkeep
+|turn|19
+|
+|t:|1781246394
+|move|p1a: Great Tusk|Close Combat|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781246395
+|switch|p2a: Latias|Latias, F, tera:Steel|51/100
+|turn|20
+|
+|t:|1781246399
+|move|p1a: Great Tusk|Close Combat|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Latias
+|
+|upkeep
+|
+|t:|1781246400
+|switch|p2a: Klefki|Klefki, M|17/100
+|-damage|p2a: Klefki|0 fnt|[from] Spikes
+|faint|p2a: Klefki
+|
+|win|aaagislash
+|raw|aaagislash's rating: 1604 &rarr; <strong>1624</strong><br />(+20 for winning)
+|raw|Bring it on mon's rating: 1605 &rarr; <strong>1585</strong><br />(-20 for losing)
+|l|‽Bring it on mon
+|player|p2|
+|l|‽aaagislash
+|player|p1|
+|l| lord shiddenfards

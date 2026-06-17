@@ -1,0 +1,328 @@
+|j|☆Hallommora
+|j|☆ankoro
+|t:|1781010098
+|gametype|singles
+|player|p1|Hallommora|clown|1585
+|player|p2|ankoro|acetrainer-gen2|1554
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Treads|
+|poke|p1|Raging Bolt|
+|poke|p1|Iron Valiant|
+|poke|p1|Kingambit, F|
+|poke|p1|Great Tusk|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p2|Indeedee, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Ursaluna, F|
+|poke|p2|Iron Hands|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Mimikyu, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Hallommora)
+|
+|t:|1781010108
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: terror|Mimikyu, F, shiny|100/100
+|turn|1
+|
+|t:|1781010116
+|move|p1a: Iron Treads|Stealth Rock|p2a: terror
+|-sidestart|p2: ankoro|move: Stealth Rock
+|move|p2a: terror|Trick Room|p2a: terror
+|-fieldstart|move: Trick Room|[of] p2a: terror
+|
+|upkeep
+|turn|2
+|inactive|ankoro has 120 seconds left.
+|
+|t:|1781010168
+|switch|p2a: horrivel|Ursaluna, F, shiny|100/100
+|-damage|p2a: horrivel|94/100|[from] Stealth Rock
+|move|p1a: Iron Treads|Knock Off|p2a: horrivel
+|-damage|p2a: horrivel|72/100
+|-enditem|p2a: horrivel|Flame Orb|[from] move: Knock Off|[of] p1a: Iron Treads
+|
+|upkeep
+|turn|3
+|
+|t:|1781010186
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: horrivel|Headlong Rush|p1a: Ogerpon
+|-resisted|p1a: Ogerpon
+|-damage|p1a: Ogerpon|57/100
+|-unboost|p2a: horrivel|def|1
+|-unboost|p2a: horrivel|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1781010192
+|move|p2a: horrivel|Supercell Slam|p1a: Ogerpon
+|-damage|p1a: Ogerpon|5/100
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: horrivel|[anim] Ivy Cudgel Water
+|-supereffective|p2a: horrivel
+|-damage|p2a: horrivel|0 fnt
+|faint|p2a: horrivel
+|
+|upkeep
+|
+|t:|1781010197
+|switch|p2a: ruim|Indeedee, M, shiny|100/100
+|-damage|p2a: ruim|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: ruim
+|turn|5
+|
+|t:|1781010203
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: ruim|Expanding Force|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|64/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1781010211
+|move|p1a: Iron Treads|Knock Off|p2a: ruim
+|-supereffective|p2a: ruim
+|-damage|p2a: ruim|26/100
+|-enditem|p2a: ruim|Terrain Extender|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: ruim|Trick Room|p2a: ruim
+|-fieldstart|move: Trick Room|[of] p2a: ruim
+|
+|upkeep
+|turn|7
+|inactive|ankoro has 120 seconds left.
+|
+|t:|1781010239
+|move|p2a: ruim|Healing Wish|p2a: ruim
+|faint|p2a: ruim
+|move|p1a: Iron Treads|Knock Off|p2: ruim|[notarget]
+|-fail|p1a: Iron Treads
+|
+|upkeep
+|
+|t:|1781010241
+|switch|p2a: nojento|Iron Hands, shiny|100/100
+|-damage|p2a: nojento|94/100|[from] Stealth Rock
+|-enditem|p2a: nojento|Booster Energy
+|-activate|p2a: nojento|ability: Quark Drive|[fromitem]
+|-start|p2a: nojento|quarkdriveatk
+|turn|8
+|
+|t:|1781010263
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|5/100
+|move|p2a: nojento|Close Combat|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|-unboost|p2a: nojento|def|1
+|-unboost|p2a: nojento|spd|1
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1781010271
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisspe
+|turn|9
+|
+|t:|1781010281
+|-terastallize|p2a: nojento|Flying
+|move|p2a: nojento|Ice Punch|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|49/100
+|-status|p1a: Great Tusk|frz
+|-curestatus|p1a: Great Tusk|frz|[msg]
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|
+|upkeep
+|turn|10
+|inactive|Hallommora has 120 seconds left.
+|
+|t:|1781010320
+|-terastallize|p1a: Great Tusk|Ice
+|move|p2a: nojento|Ice Punch|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|41/100
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|11
+|inactive|Hallommora has 120 seconds left.
+|inactive|ankoro has 120 seconds left.
+|
+|t:|1781010348
+|-end|p2a: nojento|Quark Drive|[silent]
+|switch|p2a: pessimo|Hatterene, F, shiny|100/100
+|-damage|p2a: pessimo|88/100|[from] Stealth Rock
+|move|p1a: Great Tusk|Headlong Rush|p2a: pessimo
+|-damage|p2a: pessimo|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: pessimo
+|
+|upkeep
+|
+|t:|1781010351
+|switch|p2a: terror|Mimikyu, F, shiny|100/100
+|-damage|p2a: terror|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781010357
+|move|p1a: Great Tusk|Ice Spinner|p2a: terror
+|-activate|p2a: terror|ability: Disguise
+|-damage|p2a: terror|88/100
+|-fieldend|move: Psychic Terrain
+|detailschange|p2a: terror|Mimikyu-Busted, F, shiny
+|-damage|p2a: terror|76/100|[from] pokemon: Mimikyu-Busted
+|-enditem|p2a: terror|Red Card|[of] p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|drag|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: terror|Trick Room|p2a: terror
+|-fieldstart|move: Trick Room|[of] p2a: terror
+|
+|upkeep
+|turn|13
+|
+|t:|1781010369
+|move|p2a: terror|Destiny Bond|p2a: terror
+|-singlemove|p2a: terror|Destiny Bond
+|move|p1a: Raging Bolt|Thunderbolt|p2a: terror
+|-damage|p2a: terror|0 fnt
+|faint|p2a: terror
+|-activate|p2a: terror|move: Destiny Bond
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|inactive|Hallommora has 120 seconds left.
+|
+|t:|1781010402
+|switch|p2a: nojento|Iron Hands, shiny, tera:Flying|94/100
+|switch|p1a: Great Tusk|Great Tusk, tera:Ice|41/100
+|-heal|p2a: nojento|100/100|[from] move: Healing Wish
+|-damage|p2a: nojento|76/100|[from] Stealth Rock
+|turn|14
+|inactive|Hallommora has 120 seconds left.
+|
+|t:|1781010408
+|move|p2a: nojento|Close Combat|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-unboost|p2a: nojento|def|1
+|-unboost|p2a: nojento|spd|1
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|inactive|Hallommora has 120 seconds left.
+|
+|t:|1781010416
+|switch|p1a: Iron Treads|Iron Treads|64/100
+|turn|15
+|
+|t:|1781010424
+|move|p2a: nojento|Close Combat|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-unboost|p2a: nojento|def|1
+|-unboost|p2a: nojento|spd|1
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781010427
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|16
+|
+|t:|1781010431
+|-end|p2a: nojento|Quark Drive|[silent]
+|switch|p2a: sujo|Hoopa-Unbound|100/100
+|-damage|p2a: sujo|88/100|[from] Stealth Rock
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|17
+|
+|t:|1781010448
+|move|p1a: Kingambit|Kowtow Cleave|p2a: sujo
+|-damage|p2a: sujo|14/100
+|move|p2a: sujo|Trick Room|p2a: sujo
+|-fieldstart|move: Trick Room|[of] p2a: sujo
+|
+|upkeep
+|turn|18
+|
+|t:|1781010454
+|switch|p2a: nojento|Iron Hands, shiny, tera:Flying|76/100
+|-damage|p2a: nojento|51/100|[from] Stealth Rock
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|upkeep
+|turn|19
+|
+|t:|1781010456
+|move|p1a: Kingambit|Sucker Punch|p2a: nojento
+|-damage|p2a: nojento|12/100
+|move|p2a: nojento|Close Combat|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|-unboost|p2a: nojento|def|1
+|-unboost|p2a: nojento|spd|1
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|
+|upkeep
+|
+|t:|1781010459
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|20
+|
+|t:|1781010461
+|move|p2a: nojento|Heavy Slam|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|win|ankoro
+|raw|Hallommora's rating: 1585 &rarr; <strong>1563</strong><br />(-22 for losing)
+|raw|ankoro's rating: 1554 &rarr; <strong>1576</strong><br />(+22 for winning)
+|l|☆ankoro
+|player|p2|
+|l|☆Hallommora
+|player|p1|

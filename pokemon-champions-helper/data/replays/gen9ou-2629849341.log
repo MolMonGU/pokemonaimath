@@ -1,0 +1,445 @@
+|j|☆Mortifi
+|j|☆erjuanzas
+|t:|1781186567
+|gametype|singles
+|player|p1|Mortifi|pokemaniac|1681
+|player|p2|erjuanzas|linebacker|1647
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Gholdengo|
+|poke|p1|Iron Treads|
+|poke|p1|Moltres|
+|poke|p1|Zamazenta-*|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Garganacl, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Overqwil, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|
+|t:|1781186591
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|switch|p2a: La Cabra|Barraskewda, F|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by erjuanzas)
+|
+|t:|1781186606
+|move|p1a: Samurott|Ceaseless Edge|p2a: La Cabra
+|-damage|p2a: La Cabra|14/100
+|-sidestart|p2: erjuanzas|Spikes
+|move|p2a: La Cabra|Flip Turn|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|70/100
+|
+|t:|1781186612
+|switch|p2a: Iron Treads|Iron Treads|100/100|[from] Flip Turn
+|-damage|p2a: Iron Treads|88/100|[from] Spikes
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|
+|upkeep
+|turn|2
+|
+|t:|1781186623
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: Moltres
+|-sidestart|p1: Mortifi|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781186628
+|move|p2a: Iron Treads|Rapid Spin|p1a: Moltres
+|-damage|p1a: Moltres|93/100
+|-boost|p2a: Iron Treads|spe|1
+|-status|p2a: Iron Treads|brn|[from] ability: Flame Body|[of] p1a: Moltres
+|-sideend|p2: erjuanzas|Spikes|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: Moltres|Flamethrower|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781186632
+|switch|p2a: Pelipas|Pelipper, F, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipas
+|turn|4
+|inactive|Mortifi has 120 seconds left.
+|
+|t:|1781186671
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Pelipas|U-turn|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|92/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|t:|1781186676
+|switch|p2a: La Cabra|Barraskewda, F|14/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|inactive|Mortifi has 120 seconds left.
+|
+|t:|1781186697
+|-terastallize|p2a: La Cabra|Water
+|move|p2a: La Cabra|Flip Turn|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|t:|1781186706
+|switch|p2a: Overqwil|Overqwil, F|100/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|Mortifi has 120 seconds left.
+|
+|t:|1781186714
+|switch|p1a: Garganacl|Garganacl, M|100/100
+|-damage|p1a: Garganacl|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1781186722
+|move|p2a: Overqwil|Liquidation|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|6/100
+|-damage|p2a: Overqwil|91/100|[from] item: Life Orb
+|move|p1a: Garganacl|Salt Cure|p2a: Overqwil
+|-damage|p2a: Overqwil|73/100
+|-start|p2a: Overqwil|Salt Cure
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Garganacl|12/100|[from] item: Leftovers
+|-damage|p2a: Overqwil|61/100|[from] Salt Cure
+|upkeep
+|turn|7
+|
+|t:|1781186736
+|switch|p2a: La Cabra|Barraskewda, F, tera:Water|14/100
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-damage|p1a: Zamazenta|94/100|[from] Stealth Rock
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|inactive|Mortifi has 120 seconds left.
+|
+|t:|1781186756
+|move|p2a: La Cabra|Flip Turn|p1a: Zamazenta
+|-damage|p1a: Zamazenta|32/100
+|
+|t:|1781186759
+|switch|p2a: Pelipas|Pelipper, F, shiny|100/100|[from] Flip Turn
+|move|p1a: Zamazenta|Close Combat|p2a: Pelipas
+|-resisted|p2a: Pelipas
+|-damage|p2a: Pelipas|77/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781186772
+|move|p1a: Zamazenta|Close Combat|p2a: Pelipas
+|-resisted|p2a: Pelipas
+|-damage|p2a: Pelipas|53/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|move|p2a: Pelipas|U-turn|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-crit|p1a: Zamazenta
+|-damage|p1a: Zamazenta|22/100
+|
+|t:|1781186775
+|switch|p2a: La Cabra|Barraskewda, F, tera:Water|14/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781186783
+|move|p2a: La Cabra|Liquidation|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781186789
+|switch|p1a: Moltres|Moltres|93/100
+|turn|11
+|
+|t:|1781186795
+|-terastallize|p1a: Moltres|Grass
+|move|p2a: La Cabra|Liquidation|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|41/100
+|-status|p2a: La Cabra|brn|[from] ability: Flame Body|[of] p1a: Moltres
+|move|p1a: Moltres|U-turn|p2a: La Cabra
+|-damage|p2a: La Cabra|0 fnt
+|faint|p2a: La Cabra
+|
+|t:|1781186808
+|switch|p1a: Samurott|Samurott-Hisui, F|70/100|[from] U-turn
+|-damage|p1a: Samurott|57/100|[from] Stealth Rock
+|
+|-weather|none
+|upkeep
+|
+|t:|1781186812
+|switch|p2a: Pelipas|Pelipper, F, shiny|53/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipas
+|turn|12
+|
+|t:|1781186816
+|move|p1a: Samurott|Ceaseless Edge|p2a: Pelipas|[miss]
+|-miss|p1a: Samurott|p2a: Pelipas
+|move|p2a: Pelipas|Roost|p2a: Pelipas
+|-heal|p2a: Pelipas|100/100
+|-singleturn|p2a: Pelipas|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781186823
+|move|p1a: Samurott|Ceaseless Edge|p2a: Pelipas
+|-damage|p2a: Pelipas|66/100
+|-sidestart|p2: erjuanzas|Spikes
+|move|p2a: Pelipas|U-turn|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|31/100
+|
+|t:|1781186831
+|switch|p2a: Kingambit|Kingambit, M|100/100|[from] U-turn
+|-damage|p2a: Kingambit|88/100|[from] Spikes
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kingambit|94/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781186839
+|switch|p1a: Garganacl|Garganacl, M|12/100
+|-damage|p1a: Garganacl|0 fnt|[from] Stealth Rock
+|faint|p1a: Garganacl
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781186847
+|switch|p1a: Moltres|Moltres, tera:Grass|41/100
+|turn|15
+|
+|t:|1781186852
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|91/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781186858
+|move|p1a: Moltres|Flamethrower|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|66/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Moltres
+|-damage|p1a: Moltres|6/100
+|-status|p2a: Kingambit|brn|[from] ability: Flame Body|[of] p1a: Moltres
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kingambit|72/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|66/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781186868
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|56/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kingambit|72/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|66/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1781186876
+|move|p1a: Moltres|Flamethrower|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|30/100 brn
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Moltres
+|-damage|p1a: Moltres|13/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kingambit|36/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|30/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1781186885
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|63/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Moltres
+|-damage|p1a: Moltres|19/100
+|
+|-weather|none
+|-heal|p2a: Kingambit|36/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|30/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1781186893
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|69/100
+|
+|-heal|p2a: Kingambit|36/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|30/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1781186901
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|100/100
+|
+|-heal|p2a: Kingambit|36/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|30/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1781186908
+|move|p2a: Kingambit|Sucker Punch|p1a: Moltres
+|-damage|p1a: Moltres|69/100
+|move|p1a: Moltres|Flamethrower|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen2|[silent]
+|
+|upkeep
+|
+|t:|1781186912
+|switch|p2a: Pelipas|Pelipper, F, shiny|66/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipas
+|turn|23
+|
+|t:|1781186928
+|move|p1a: Moltres|Flamethrower|p2a: Pelipas
+|-resisted|p2a: Pelipas
+|-damage|p2a: Pelipas|52/100
+|move|p2a: Pelipas|Hurricane|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781186936
+|switch|p1a: Samurott|Samurott-Hisui, F|31/100
+|-damage|p1a: Samurott|19/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781186940
+|move|p1a: Samurott|Ceaseless Edge|p2a: Pelipas
+|-damage|p2a: Pelipas|17/100
+|-sidestart|p2: erjuanzas|Spikes
+|move|p2a: Pelipas|Roost|p2a: Pelipas
+|-heal|p2a: Pelipas|67/100
+|-singleturn|p2a: Pelipas|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1781186947
+|move|p1a: Samurott|Ceaseless Edge|p2a: Pelipas
+|-damage|p2a: Pelipas|32/100
+|-sidestart|p2: erjuanzas|Spikes
+|move|p2a: Pelipas|Roost|p2a: Pelipas
+|-heal|p2a: Pelipas|83/100
+|-singleturn|p2a: Pelipas|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1781186955
+|move|p1a: Samurott|Ceaseless Edge|p2a: Pelipas
+|-damage|p2a: Pelipas|48/100
+|move|p2a: Pelipas|Roost|p2a: Pelipas
+|-heal|p2a: Pelipas|98/100
+|-singleturn|p2a: Pelipas|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|27
+|
+|t:|1781186962
+|move|p1a: Samurott|Ceaseless Edge|p2a: Pelipas
+|-damage|p2a: Pelipas|63/100
+|move|p2a: Pelipas|Hurricane|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781186969
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|turn|28
+|
+|t:|1781186972
+|move|p1a: Iron Treads|Knock Off|p2a: Pelipas
+|-damage|p2a: Pelipas|44/100
+|-enditem|p2a: Pelipas|Damp Rock|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: Pelipas|Weather Ball|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|win|erjuanzas
+|raw|Mortifi's rating: 1681 &rarr; <strong>1659</strong><br />(-22 for losing)
+|raw|erjuanzas's rating: 1647 &rarr; <strong>1669</strong><br />(+22 for winning)
+|c|☆erjuanzas|gg
+|l|☆Mortifi
+|player|p1|
+|l|☆erjuanzas
+|player|p2|

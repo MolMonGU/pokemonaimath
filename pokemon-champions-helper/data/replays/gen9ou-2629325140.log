@@ -1,0 +1,554 @@
+|j|☆blip_exists
+|j|☆mister_ttar
+|t:|1781119272
+|gametype|singles
+|player|p1|blip_exists|colress|1604
+|player|p2|mister_ttar|170|1604
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Corviknight, F|
+|poke|p1|Clefable, F|
+|poke|p1|Alomomola, M|
+|poke|p1|Clodsire, F|
+|poke|p1|Toxapex, F|
+|poke|p1|Quagsire, M|
+|poke|p2|Quaquaval, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Gholdengo|
+|poke|p2|Raging Bolt|
+|teampreview
+|
+|t:|1781119282
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Toxapex|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by blip_exists)
+|
+|t:|1781119285
+|move|p2a: Landorus|Taunt|p1a: Toxapex
+|-start|p1a: Toxapex|move: Taunt
+|cant|p1a: Toxapex|move: Taunt|Toxic
+|
+|upkeep
+|turn|2
+|
+|t:|1781119288
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Alomomola
+|-sidestart|p1: blip_exists|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781119290
+|move|p2a: Landorus|U-turn|p1a: Alomomola
+|-damage|p1a: Alomomola|87/100
+|
+|t:|1781119293
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] U-turn
+|move|p1a: Alomomola|Flip Turn|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-crit|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|93/100
+|
+|t:|1781119295
+|switch|p1a: Clodsire|Clodsire, F|100/100|[from] Flip Turn
+|
+|-heal|p2a: Raging Bolt|99/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781119314
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Clodsire|Toxic|p2a: Gholdengo
+|-immune|p2a: Gholdengo|[from] ability: Good as Gold
+|
+|upkeep
+|turn|5
+|
+|t:|1781119320
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Clodsire|atk|1
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781119325
+|move|p2a: Landorus|Taunt|p1a: Toxapex
+|-start|p1a: Toxapex|move: Taunt
+|move|p1a: Toxapex|Poison Jab|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|92/100
+|-status|p2a: Landorus|psn
+|-damage|p1a: Toxapex|84/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|
+|-damage|p2a: Landorus|80/100 psn|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1781119332
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Landorus|Earth Power|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|-damage|p2a: Landorus|67/100 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781119337
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Corviknight|Defog|p2a: Gholdengo
+|-immune|p2a: Gholdengo|[from] ability: Good as Gold
+|
+|upkeep
+|turn|9
+|
+|t:|1781119341
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781119347
+|move|p2a: Tornadus|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|86/100
+|-enditem|p1a: Toxapex|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Toxapex|Toxic|p2a: Tornadus
+|-status|p2a: Tornadus|tox
+|
+|-damage|p2a: Tornadus|94/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1781119350
+|move|p2a: Tornadus|Nasty Plot|p2a: Tornadus
+|-boost|p2a: Tornadus|spa|2
+|move|p1a: Toxapex|Poison Jab|p2a: Tornadus
+|-damage|p2a: Tornadus|67/100 tox
+|
+|-damage|p2a: Tornadus|55/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1781119353
+|move|p2a: Tornadus|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|77/100
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-damage|p2a: Tornadus|37/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1781119357
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781119362
+|move|p2a: Gholdengo|Thunder Wave|p1a: Toxapex
+|-status|p1a: Toxapex|par
+|cant|p1a: Toxapex|par
+|
+|upkeep
+|turn|15
+|
+|t:|1781119368
+|switch|p1a: Clodsire|Clodsire, F|100/100
+|move|p2a: Gholdengo|Hex|p1a: Clodsire
+|-damage|p1a: Clodsire|85/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781119374
+|move|p2a: Gholdengo|Make It Rain|p1a: Clodsire
+|-damage|p1a: Clodsire|59/100
+|-unboost|p2a: Gholdengo|spa|1
+|move|p1a: Clodsire|Earthquake|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|65/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781119381
+|move|p2a: Gholdengo|Make It Rain|p1a: Clodsire
+|-damage|p1a: Clodsire|31/100
+|-unboost|p2a: Gholdengo|spa|1
+|move|p1a: Clodsire|Recover|p1a: Clodsire
+|-heal|p1a: Clodsire|81/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781119387
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Gholdengo|Hex|p1a: Corviknight
+|-damage|p1a: Corviknight|87/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781119391
+|switch|p1a: Toxapex|Toxapex, F|100/100 par
+|-damage|p1a: Toxapex|88/100 par|[from] Stealth Rock
+|move|p2a: Gholdengo|Thunder Wave|p1a: Toxapex
+|-fail|p1a: Toxapex|par
+|
+|upkeep
+|turn|20
+|
+|t:|1781119394
+|switch|p1a: Clodsire|Clodsire, F|81/100
+|move|p2a: Gholdengo|Recover|p2a: Gholdengo
+|-heal|p2a: Gholdengo|100/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781119397
+|switch|p2a: Tornadus|Tornadus-Therian, M|70/100 tox
+|move|p1a: Clodsire|Spikes|p2a: Tornadus
+|-sidestart|p2: mister_ttar|Spikes
+|
+|-damage|p2a: Tornadus|64/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1781119401
+|switch|p1a: Toxapex|Toxapex, F|100/100 par
+|-damage|p1a: Toxapex|88/100 par|[from] Stealth Rock
+|move|p2a: Tornadus|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|80/100 par
+|
+|-damage|p2a: Tornadus|52/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1781119406
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|88/100|[from] Spikes
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|24
+|
+|t:|1781119409
+|switch|p1a: Clodsire|Clodsire, F|81/100
+|move|p2a: Gholdengo|Hex|p1a: Clodsire
+|-damage|p1a: Clodsire|65/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781119413
+|move|p2a: Gholdengo|Make It Rain|p1a: Clodsire
+|-damage|p1a: Clodsire|38/100
+|-unboost|p2a: Gholdengo|spa|1
+|move|p1a: Clodsire|Recover|p1a: Clodsire
+|-heal|p1a: Clodsire|88/100
+|
+|upkeep
+|turn|26
+|
+|t:|1781119422
+|move|p2a: Gholdengo|Hex|p1a: Clodsire
+|-damage|p1a: Clodsire|74/100
+|move|p1a: Clodsire|Spikes|p2a: Gholdengo
+|-sidestart|p2: mister_ttar|Spikes
+|
+|upkeep
+|turn|27
+|
+|t:|1781119424
+|switch|p2a: Tornadus|Tornadus-Therian, M|85/100 tox
+|move|p1a: Clodsire|Spikes|p2a: Tornadus
+|-sidestart|p2: mister_ttar|Spikes
+|
+|-damage|p2a: Tornadus|79/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1781119429
+|switch|p1a: Toxapex|Toxapex, F|100/100 par
+|-damage|p1a: Toxapex|88/100 par|[from] Stealth Rock
+|move|p2a: Tornadus|Nasty Plot|p2a: Tornadus
+|-boost|p2a: Tornadus|spa|2
+|
+|-damage|p2a: Tornadus|67/100 tox|[from] psn
+|upkeep
+|turn|29
+|inactive|blip_exists has 120 seconds left.
+|
+|t:|1781119460
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Toxapex
+|-damage|p1a: Toxapex|11/100 par
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-damage|p2a: Tornadus|49/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1781119465
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Alomomola|[miss]
+|-miss|p2a: Tornadus|p1a: Alomomola
+|
+|-damage|p2a: Tornadus|25/100 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1781119472
+|switch|p2a: Gholdengo|Gholdengo|88/100
+|-damage|p2a: Gholdengo|63/100|[from] Spikes
+|move|p1a: Alomomola|Flip Turn|p2a: Gholdengo
+|-damage|p2a: Gholdengo|52/100
+|
+|t:|1781119474
+|switch|p1a: Toxapex|Toxapex, F|44/100 par|[from] Flip Turn
+|-damage|p1a: Toxapex|32/100 par|[from] Stealth Rock
+|
+|upkeep
+|turn|32
+|
+|t:|1781119479
+|switch|p1a: Clodsire|Clodsire, F|74/100
+|move|p2a: Gholdengo|Recover|p2a: Gholdengo
+|-heal|p2a: Gholdengo|100/100
+|
+|upkeep
+|turn|33
+|
+|t:|1781119483
+|move|p2a: Gholdengo|Hex|p1a: Clodsire
+|-damage|p1a: Clodsire|58/100
+|move|p1a: Clodsire|Earthquake|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|63/100
+|
+|upkeep
+|turn|34
+|
+|t:|1781119486
+|move|p2a: Gholdengo|Make It Rain|p1a: Clodsire
+|-damage|p1a: Clodsire|30/100
+|-unboost|p2a: Gholdengo|spa|1
+|move|p1a: Clodsire|Recover|p1a: Clodsire
+|-heal|p1a: Clodsire|80/100
+|
+|upkeep
+|turn|35
+|
+|t:|1781119493
+|switch|p2a: Tornadus|Tornadus-Therian, M|58/100 tox
+|move|p1a: Clodsire|Earthquake|p2a: Tornadus
+|-immune|p2a: Tornadus
+|
+|-damage|p2a: Tornadus|52/100 tox|[from] psn
+|upkeep
+|turn|36
+|
+|t:|1781119502
+|switch|p2a: Quaquaval|Quaquaval, M|100/100
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|
+|upkeep
+|turn|37
+|
+|t:|1781119511
+|move|p2a: Quaquaval|Bulk Up|p2a: Quaquaval
+|-boost|p2a: Quaquaval|atk|1
+|-boost|p2a: Quaquaval|def|1
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|upkeep
+|turn|38
+|
+|t:|1781119522
+|move|p2a: Quaquaval|Bulk Up|p2a: Quaquaval
+|-boost|p2a: Quaquaval|atk|1
+|-boost|p2a: Quaquaval|def|1
+|move|p1a: Alomomola|Flip Turn|p2a: Quaquaval
+|-resisted|p2a: Quaquaval
+|-damage|p2a: Quaquaval|96/100
+|
+|t:|1781119524
+|switch|p1a: Quagsire|Quagsire, M|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|39
+|
+|t:|1781119532
+|move|p2a: Quaquaval|Close Combat|p1a: Quagsire
+|-damage|p1a: Quagsire|56/100
+|-unboost|p2a: Quaquaval|def|1
+|-unboost|p2a: Quaquaval|spd|1
+|move|p1a: Quagsire|Toxic|p2a: Quaquaval
+|-status|p2a: Quaquaval|tox
+|
+|-damage|p2a: Quaquaval|90/100 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1781119536
+|move|p2a: Quaquaval|Close Combat|p1a: Quagsire
+|-damage|p1a: Quagsire|15/100
+|-unboost|p2a: Quaquaval|def|1
+|-unboost|p2a: Quaquaval|spd|1
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|65/100
+|
+|-damage|p2a: Quaquaval|77/100 tox|[from] psn
+|upkeep
+|turn|41
+|
+|t:|1781119538
+|move|p2a: Quaquaval|Close Combat|p1a: Quagsire
+|-damage|p1a: Quagsire|22/100
+|-unboost|p2a: Quaquaval|def|1
+|-unboost|p2a: Quaquaval|spd|1
+|move|p1a: Quagsire|Counter|p2a: Quaquaval
+|-damage|p2a: Quaquaval|0 fnt
+|faint|p2a: Quaquaval
+|
+|upkeep
+|
+|t:|1781119543
+|switch|p2a: Tornadus|Tornadus-Therian, M|85/100 tox
+|turn|42
+|
+|t:|1781119545
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Alomomola|[miss]
+|-miss|p2a: Tornadus|p1a: Alomomola
+|
+|-damage|p2a: Tornadus|79/100 tox|[from] psn
+|upkeep
+|turn|43
+|
+|t:|1781119550
+|move|p2a: Tornadus|Knock Off|p1a: Alomomola
+|-damage|p1a: Alomomola|86/100
+|-enditem|p1a: Alomomola|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-damage|p2a: Tornadus|67/100 tox|[from] psn
+|upkeep
+|turn|44
+|
+|t:|1781119557
+|switch|p2a: Raging Bolt|Raging Bolt|99/100
+|-damage|p2a: Raging Bolt|74/100|[from] Spikes
+|move|p1a: Alomomola|Flip Turn|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-crit|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|66/100
+|
+|t:|1781119560
+|switch|p1a: Quagsire|Quagsire, M|22/100|[from] Flip Turn
+|
+|-heal|p1a: Quagsire|82/100|[from] move: Wish|[wisher] Alomomola
+|-heal|p2a: Raging Bolt|72/100|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|t:|1781119568
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Landorus|Landorus-Therian, M|67/100 psn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Quagsire|atk|1
+|move|p1a: Quagsire|Toxic||[still]
+|-fail|p1a: Quagsire
+|
+|-damage|p2a: Landorus|55/100 psn|[from] psn
+|upkeep
+|turn|46
+|
+|t:|1781119571
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|-damage|p1a: Alomomola|88/100|[from] Stealth Rock
+|move|p2a: Landorus|U-turn|p1a: Alomomola
+|-damage|p1a: Alomomola|75/100
+|
+|t:|1781119574
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100 tox|[from] U-turn
+|
+|-damage|p2a: Tornadus|94/100 tox|[from] psn
+|upkeep
+|turn|47
+|
+|t:|1781119576
+|move|p2a: Tornadus|Nasty Plot|p2a: Tornadus
+|-boost|p2a: Tornadus|spa|2
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-damage|p2a: Tornadus|82/100 tox|[from] psn
+|upkeep
+|turn|48
+|
+|t:|1781119584
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Clefable|[miss]
+|-miss|p2a: Tornadus|p1a: Clefable
+|
+|-damage|p2a: Tornadus|64/100 tox|[from] psn
+|upkeep
+|turn|49
+|
+|t:|1781119588
+|move|p2a: Tornadus|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|89/100
+|-enditem|p1a: Clefable|Leftovers|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Clefable|Ice Beam|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|12/100 tox
+|
+|-damage|p2a: Tornadus|0 fnt|[from] psn
+|faint|p2a: Tornadus
+|upkeep
+|
+|t:|1781119596
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-damage|p2a: Zamazenta|76/100|[from] Spikes
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|50
+|-message|mister_ttar forfeited.
+|
+|win|blip_exists
+|raw|blip_exists's rating: 1604 &rarr; <strong>1624</strong><br />(+20 for winning)
+|raw|mister_ttar's rating: 1604 &rarr; <strong>1584</strong><br />(-20 for losing)
+|l|☆mister_ttar
+|player|p2|
+|l|☆blip_exists
+|player|p1|

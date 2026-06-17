@@ -1,0 +1,364 @@
+|j|☆altyWIN
+|j|☆biryanilover
+|t:|1781413631
+|gametype|singles
+|player|p1|altyWIN|backpacker|1593
+|player|p2|biryanilover|265|1630
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Excadrill, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Hydrapple, F|
+|poke|p1|Alomomola, L99, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Zapdos|
+|poke|p2|Rillaboom, F|
+|poke|p2|Heatran, M|
+|poke|p2|Walking Wake|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Weezing-Galar, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by biryanilover)
+|c|☆altyWIN|W biryani
+|
+|t:|1781413645
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: FreeCaneMerchant|Zapdos|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: FreeCaneMerchant|atk|1
+|turn|1
+|
+|t:|1781413669
+|switch|p1a: Kim K|Hatterene, F|100/100
+|move|p2a: Landorus|U-turn|p1a: Kim K
+|-damage|p1a: Kim K|82/100
+|
+|t:|1781413673
+|switch|p2a: Heatran|Heatran, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1781413684
+|switch|p1a: Goatyranny|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Goatyranny
+|move|p2a: Heatran|Magma Storm|p1a: Goatyranny
+|-resisted|p1a: Goatyranny
+|-damage|p1a: Goatyranny|85/100
+|-activate|p1a: Goatyranny|move: Magma Storm|[of] p2a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Goatyranny|73/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|3
+|
+|t:|1781413691
+|move|p1a: Goatyranny|Low Kick|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|-end|p1a: Goatyranny|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1781413694
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|4
+|
+|t:|1781413701
+|switch|p1a: Cardi B|Alomomola, L99, F|100/100
+|move|p2a: Zamazenta|Stone Edge|p1a: Cardi B
+|-damage|p1a: Cardi B|79/100
+|-damage|p2a: Zamazenta|91/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|84/100|[from] Sandstorm
+|-damage|p1a: Cardi B|73/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1781413707
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|move|p1a: Cardi B|Flip Turn|p2a: Walking Wake
+|-resisted|p2a: Walking Wake
+|-damage|p2a: Walking Wake|96/100
+|
+|t:|1781413733
+|switch|p1a: Kim K|Hatterene, F|82/100|[from] Flip Turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Walking Wake|90/100|[from] Sandstorm
+|-damage|p1a: Kim K|76/100|[from] Sandstorm
+|-heal|p2a: Walking Wake|96/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781413736
+|-terastallize|p2a: Walking Wake|Steel
+|move|p2a: Walking Wake|Substitute|p2a: Walking Wake
+|-start|p2a: Walking Wake|Substitute
+|-damage|p2a: Walking Wake|71/100
+|move|p1a: Kim K|Draining Kiss|p2a: Walking Wake
+|-resisted|p2a: Walking Wake
+|-activate|p2a: Walking Wake|move: Substitute|[damage]
+|-heal|p1a: Kim K|87/100|[from] drain|[of] p2a: Walking Wake
+|
+|-weather|none
+|-heal|p2a: Walking Wake|77/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781413744
+|move|p2a: Walking Wake|Knock Off|p1a: Kim K
+|-damage|p1a: Kim K|72/100
+|-enditem|p1a: Kim K|Assault Vest|[from] move: Knock Off|[of] p2a: Walking Wake
+|move|p1a: Kim K|Psychic Noise|p2a: Walking Wake
+|-resisted|p2a: Walking Wake
+|-damage|p2a: Walking Wake|57/100
+|-start|p2a: Walking Wake|move: Heal Block
+|
+|upkeep
+|turn|8
+|
+|t:|1781413758
+|move|p2a: Walking Wake|Scald|p1a: Kim K
+|-damage|p1a: Kim K|31/100
+|move|p1a: Kim K|Mystical Fire|p2a: Walking Wake
+|-supereffective|p2a: Walking Wake
+|-end|p2a: Walking Wake|Substitute
+|
+|-end|p2a: Walking Wake|move: Heal Block
+|upkeep
+|turn|9
+|
+|t:|1781413771
+|switch|p1a: Cardi B|Alomomola, L99, F|100/100
+|move|p2a: Walking Wake|Scald|p1a: Cardi B
+|-resisted|p1a: Cardi B
+|-damage|p1a: Cardi B|78/100
+|
+|-heal|p2a: Walking Wake|63/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781413778
+|move|p2a: Walking Wake|Substitute|p2a: Walking Wake
+|-start|p2a: Walking Wake|Substitute
+|-damage|p2a: Walking Wake|38/100
+|move|p1a: Cardi B|Flip Turn|p2a: Walking Wake
+|-activate|p2a: Walking Wake|move: Substitute|[damage]
+|inactive|altyWIN has 120 seconds left.
+|
+|t:|1781413812
+|switch|p1a: Hydrippy|Hydrapple, F|100/100|[from] Flip Turn
+|
+|-heal|p2a: Walking Wake|44/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781413819
+|switch|p1a: Cardi B|Alomomola, L99, F|100/100
+|move|p2a: Walking Wake|Knock Off|p1a: Cardi B
+|-damage|p1a: Cardi B|92/100
+|-enditem|p1a: Cardi B|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Walking Wake
+|
+|-heal|p2a: Walking Wake|50/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781413825
+|move|p2a: Walking Wake|Scald|p1a: Cardi B
+|-resisted|p1a: Cardi B
+|-damage|p1a: Cardi B|69/100
+|move|p1a: Cardi B|Wish|p1a: Cardi B
+|
+|-heal|p2a: Walking Wake|57/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781413832
+|move|p2a: Walking Wake|Scald|p1a: Cardi B
+|-resisted|p1a: Cardi B
+|-damage|p1a: Cardi B|44/100
+|move|p1a: Cardi B|Flip Turn|p2a: Walking Wake
+|-end|p2a: Walking Wake|Substitute
+|
+|t:|1781413834
+|switch|p1a: Kim K|Hatterene, F|31/100|[from] Flip Turn
+|
+|-heal|p1a: Kim K|100/100|[from] move: Wish|[wisher] Cardi B
+|-heal|p2a: Walking Wake|63/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781413840
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Kim K|atk|1
+|move|p1a: Kim K|Mystical Fire|p2a: Landorus
+|-damage|p2a: Landorus|75/100
+|-unboost|p2a: Landorus|spa|1
+|
+|upkeep
+|turn|15
+|
+|t:|1781413852
+|move|p2a: Landorus|Earth Power|p1a: Kim K
+|-damage|p1a: Kim K|81/100
+|move|p1a: Kim K|Psychic Noise|p2a: Landorus
+|-damage|p2a: Landorus|38/100
+|-start|p2a: Landorus|move: Heal Block
+|
+|upkeep
+|turn|16
+|
+|t:|1781413859
+|move|p2a: Landorus|Earth Power|p1a: Kim K
+|-damage|p1a: Kim K|59/100
+|move|p1a: Kim K|Psychic Noise|p2a: Landorus
+|-damage|p2a: Landorus|1/100
+|
+|-end|p2a: Landorus|move: Heal Block
+|upkeep
+|turn|17
+|
+|t:|1781413865
+|move|p2a: Landorus|Earth Power|p1a: Kim K
+|-damage|p1a: Kim K|37/100
+|move|p1a: Kim K|Draining Kiss|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|-heal|p1a: Kim K|37/100|[from] drain|[of] p2a: Landorus
+|-damage|p1a: Kim K|21/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1781413868
+|switch|p2a: Walking Wake|Walking Wake, tera:Steel|63/100
+|turn|18
+|
+|t:|1781413880
+|switch|p1a: Cardi B|Alomomola, L99, F|78/100
+|move|p2a: Walking Wake|Substitute|p2a: Walking Wake
+|-start|p2a: Walking Wake|Substitute
+|-damage|p2a: Walking Wake|38/100
+|
+|-heal|p2a: Walking Wake|44/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781413882
+|move|p2a: Walking Wake|Dragon Pulse|p1a: Cardi B
+|-damage|p1a: Cardi B|23/100
+|move|p1a: Cardi B|Wish|p1a: Cardi B
+|
+|-heal|p2a: Walking Wake|50/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781413890
+|switch|p1a: Kim K|Hatterene, F|21/100
+|move|p2a: Walking Wake|Scald|p1a: Kim K
+|-damage|p1a: Kim K|0 fnt
+|faint|p1a: Kim K
+|
+|-heal|p2a: Walking Wake|57/100|[from] item: Leftovers
+|upkeep
+|j| diancie the pearl
+|
+|t:|1781413897
+|switch|p1a: Goatyranny|Tyranitar, M|73/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Goatyranny
+|turn|21
+|l| diancie the pearl
+|inactive|altyWIN has 120 seconds left.
+|
+|t:|1781413939
+|move|p2a: Walking Wake|Scald|p1a: Goatyranny
+|-supereffective|p1a: Goatyranny
+|-damage|p1a: Goatyranny|16/100
+|move|p1a: Goatyranny|Knock Off|p2a: Walking Wake
+|-end|p2a: Walking Wake|Substitute
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Walking Wake|63/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781413951
+|switch|p1a: FreeCaneMerchant|Zapdos|100/100
+|move|p2a: Walking Wake|Dragon Pulse|p1a: FreeCaneMerchant
+|-damage|p1a: FreeCaneMerchant|49/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: FreeCaneMerchant|43/100|[from] Sandstorm
+|-heal|p2a: Walking Wake|69/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781413961
+|switch|p1a: Childinthemines|Excadrill, M|100/100
+|move|p2a: Walking Wake|Scald|p1a: Childinthemines
+|-supereffective|p1a: Childinthemines
+|-damage|p1a: Childinthemines|0 fnt
+|faint|p1a: Childinthemines
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Walking Wake|75/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781413968
+|switch|p1a: Cardi B|Alomomola, L99, F|56/100
+|turn|24
+|
+|t:|1781413973
+|move|p2a: Walking Wake|Dragon Pulse|p1a: Cardi B
+|-damage|p1a: Cardi B|8/100
+|move|p1a: Cardi B|Wish|p1a: Cardi B
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Cardi B|1/100|[from] Sandstorm
+|-heal|p2a: Walking Wake|81/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781413981
+|switch|p1a: FreeCaneMerchant|Zapdos|43/100
+|move|p2a: Walking Wake|Dragon Pulse|p1a: FreeCaneMerchant
+|-damage|p1a: FreeCaneMerchant|0 fnt
+|faint|p1a: FreeCaneMerchant
+|
+|-weather|none
+|-heal|p2a: Walking Wake|88/100|[from] item: Leftovers
+|upkeep
+|-message|altyWIN forfeited.
+|
+|win|biryanilover
+|raw|altyWIN's rating: 1593 &rarr; <strong>1575</strong><br />(-18 for losing)
+|raw|biryanilover's rating: 1630 &rarr; <strong>1648</strong><br />(+18 for winning)
+|l|☆altyWIN
+|player|p1|
+|j| uncle brown
+|j| t44 (the one)
+|l| t44 (the one)
+|j| gaaadiel
+|j| zafhn
+|l| zafhn

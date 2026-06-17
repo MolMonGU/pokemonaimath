@@ -1,0 +1,286 @@
+|j|☆myree
+|j|☆Always bet on red
+|t:|1781292654
+|gametype|singles
+|player|p1|myree|benga|1592
+|player|p2|Always bet on red|102|1585
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Valiant|
+|poke|p1|Ogerpon-Cornerstone, F|
+|poke|p1|Iron Treads|
+|poke|p1|Fezandipiti, M|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Goodra-Hisui, M|
+|poke|p2|Torkoal, F|
+|poke|p2|Slither Wing|
+|poke|p2|Venusaur, F|
+|poke|p2|Walking Wake|
+|poke|p2|Corviknight, F|
+|poke|p2|Primarina, F|
+|teampreview
+|
+|t:|1781292670
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Prof. Goo-D.|Goodra-Hisui, M|100/100
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|turn|1
+|
+|t:|1781292677
+|switch|p1a: fezanskibidi|Fezandipiti, M|100/100
+|-item|p1a: fezanskibidi|Air Balloon
+|move|p2a: Slither Wing|U-turn|p1a: fezanskibidi
+|-resisted|p1a: fezanskibidi
+|-damage|p1a: fezanskibidi|81/100
+|-enditem|p1a: fezanskibidi|Air Balloon
+|
+|t:|1781292681
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Torkoal|Torkoal, F|100/100|[from] U-turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781292685
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|move|p1a: fezanskibidi|Moonblast|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|89/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Corviknight|95/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781292690
+|move|p1a: fezanskibidi|Heat Wave|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|48/100
+|move|p2a: Corviknight|U-turn|p1a: fezanskibidi
+|-resisted|p1a: fezanskibidi
+|-damage|p1a: fezanskibidi|77/100
+|
+|t:|1781292702
+|switch|p2a: Walking Wake|Walking Wake|100/100|[from] U-turn
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781292709
+|switch|p1a: Prof. Goo-D.|Goodra-Hisui, M|100/100
+|move|p2a: Walking Wake|Hydro Steam|p1a: Prof. Goo-D.
+|-resisted|p1a: Prof. Goo-D.
+|-damage|p1a: Prof. Goo-D.|80/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781292720
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Corviknight|Corviknight, F|48/100
+|move|p1a: Prof. Goo-D.|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|23/100
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Prof. Goo-D.
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781292722
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|73/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Prof. Goo-D.|Thunderbolt|p2a: Corviknight
+|-damage|p2a: Corviknight|55/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781292733
+|switch|p1a: fezanskibidi|Fezandipiti, M|77/100
+|move|p2a: Corviknight|U-turn|p1a: fezanskibidi
+|-resisted|p1a: fezanskibidi
+|-damage|p1a: fezanskibidi|73/100
+|
+|t:|1781292748
+|switch|p2a: Walking Wake|Walking Wake|100/100|[from] U-turn
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781292755
+|switch|p1a: Prof. Goo-D.|Goodra-Hisui, M|80/100
+|move|p2a: Walking Wake|Flip Turn|p1a: Prof. Goo-D.
+|-resisted|p1a: Prof. Goo-D.
+|-damage|p1a: Prof. Goo-D.|76/100
+|-ability|p1a: Prof. Goo-D.|Gooey
+|-unboost|p2a: Walking Wake|spe|1
+|
+|t:|1781292761
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Slither Wing|Slither Wing|100/100|[from] Flip Turn
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|
+|-weather|none
+|-end|p2a: Slither Wing|Protosynthesis
+|upkeep
+|turn|9
+|
+|t:|1781292771
+|switch|p1a: fezanskibidi|Fezandipiti, M|73/100
+|move|p2a: Slither Wing|Close Combat|p1a: fezanskibidi
+|-resisted|p1a: fezanskibidi
+|-damage|p1a: fezanskibidi|41/100
+|-unboost|p2a: Slither Wing|def|1
+|-unboost|p2a: Slither Wing|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1781292779
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Primarina|Primarina, F|100/100
+|move|p1a: fezanskibidi|Roost|p1a: fezanskibidi
+|-heal|p1a: fezanskibidi|91/100
+|-singleturn|p1a: fezanskibidi|move: Roost
+|
+|upkeep
+|turn|11
+|
+|t:|1781292787
+|switch|p2a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: fezanskibidi|Nasty Plot|p1a: fezanskibidi
+|-boost|p1a: fezanskibidi|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781292800
+|move|p1a: fezanskibidi|Moonblast|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|60/100
+|move|p2a: Torkoal|Lava Plume|p1a: fezanskibidi
+|-damage|p1a: fezanskibidi|62/100
+|-status|p1a: fezanskibidi|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: fezanskibidi|56/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1781292820
+|switch|p2a: Corviknight|Corviknight, F|55/100
+|move|p1a: fezanskibidi|Heat Wave|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: fezanskibidi|50/100 brn|[from] brn
+|upkeep
+|
+|t:|1781292843
+|switch|p2a: Venusaur|Venusaur, F|100/100
+|turn|14
+|
+|t:|1781292866
+|-terastallize|p1a: fezanskibidi|Water
+|move|p2a: Venusaur|Weather Ball|p1a: fezanskibidi
+|-resisted|p1a: fezanskibidi
+|-damage|p1a: fezanskibidi|25/100 brn
+|-damage|p2a: Venusaur|91/100|[from] item: Life Orb
+|move|p1a: fezanskibidi|Heat Wave|p2a: Venusaur
+|-supereffective|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: fezanskibidi|19/100 brn|[from] brn
+|upkeep
+|
+|t:|1781292881
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|turn|15
+|
+|t:|1781292892
+|switch|p1a: Prof. Goo-D.|Goodra-Hisui, M|76/100
+|move|p2a: Walking Wake|Hydro Steam|p1a: Prof. Goo-D.
+|-resisted|p1a: Prof. Goo-D.
+|-damage|p1a: Prof. Goo-D.|55/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781292898
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|move|p1a: Prof. Goo-D.|Knock Off|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-damage|p2a: Slither Wing|81/100
+|-enditem|p2a: Slither Wing|Choice Band|[from] move: Knock Off|[of] p1a: Prof. Goo-D.
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781292951
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|move|p2a: Slither Wing|Close Combat|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|36/100
+|-unboost|p2a: Slither Wing|def|1
+|-unboost|p2a: Slither Wing|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781292993
+|-terastallize|p2a: Slither Wing|Bug
+|move|p1a: Iron Valiant|Moonblast|p2a: Slither Wing
+|-crit|p2a: Slither Wing
+|-damage|p2a: Slither Wing|0 fnt
+|faint|p2a: Slither Wing
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|
+|-weather|none
+|upkeep
+|-message|Always bet on red forfeited.
+|
+|win|myree
+|raw|myree's rating: 1612 &rarr; <strong>1630</strong><br />(+18 for winning)
+|raw|Always bet on red's rating: 1585 &rarr; <strong>1567</strong><br />(-18 for losing)
+|l|☆Always bet on red
+|player|p2|
+|l|☆myree
+|player|p1|

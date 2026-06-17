@@ -1,0 +1,330 @@
+|j|☆ihymyly
+|j|☆KurisuChestnutLab
+|t:|1781172188
+|gametype|singles
+|player|p1|ihymyly|169|1591
+|player|p2|KurisuChestnutLab|may-contest|1573
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Kingdra, F|
+|poke|p1|Weavile, M|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Iron Treads|
+|poke|p2|Zamazenta-*|
+|poke|p2|Zapdos|
+|poke|p2|Garganacl, F|
+|poke|p2|Clefable, F|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutLab)
+|
+|t:|1781172197
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Garganacl|Garganacl, F|100/100
+|turn|1
+|
+|t:|1781172202
+|move|p1a: Iron Treads|Knock Off|p2a: Garganacl
+|-damage|p2a: Garganacl|83/100
+|-enditem|p2a: Garganacl|Leftovers|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: Garganacl|Salt Cure|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|98/100
+|-start|p1a: Iron Treads|Salt Cure
+|
+|-heal|p1a: Iron Treads|100/100|[from] item: Leftovers
+|-damage|p1a: Iron Treads|75/100|[from] Salt Cure
+|upkeep
+|turn|2
+|
+|t:|1781172210
+|move|p1a: Iron Treads|Stealth Rock|p2a: Garganacl
+|-sidestart|p2: KurisuChestnutLab|move: Stealth Rock
+|move|p2a: Garganacl|Stealth Rock|p1a: Iron Treads
+|-sidestart|p1: ihymyly|move: Stealth Rock
+|
+|-heal|p1a: Iron Treads|82/100|[from] item: Leftovers
+|-damage|p1a: Iron Treads|57/100|[from] Salt Cure
+|upkeep
+|turn|3
+|
+|t:|1781172216
+|move|p1a: Iron Treads|Rapid Spin|p2a: Garganacl
+|-resisted|p2a: Garganacl
+|-damage|p2a: Garganacl|79/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: ihymyly|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Garganacl|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|19/100
+|
+|-heal|p1a: Iron Treads|25/100|[from] item: Leftovers
+|-damage|p1a: Iron Treads|0 fnt|[from] Salt Cure
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|upkeep
+|
+|t:|1781172223
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|4
+|j| Vitriso
+|l| Vitriso
+|
+|t:|1781172229
+|move|p1a: Pelipper|Surf|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|21/100
+|move|p2a: Garganacl|Salt Cure|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|78/100
+|-start|p1a: Pelipper|Salt Cure
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Pelipper|53/100|[from] Salt Cure
+|upkeep
+|turn|5
+|
+|t:|1781172235
+|move|p1a: Pelipper|U-turn|p2a: Garganacl
+|-damage|p2a: Garganacl|15/100
+|
+|t:|1781172239
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100|[from] U-turn
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|65/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781172245
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-damage|p2a: Zamazenta|94/100|[from] Stealth Rock
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Samurott|Razor Shell|p2a: Zamazenta
+|-damage|p2a: Zamazenta|55/100
+|-unboost|p2a: Zamazenta|def|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zamazenta|61/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|j| Vitriso
+|l| Vitriso
+|
+|t:|1781172255
+|move|p2a: Zamazenta|Body Press|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|39/100
+|move|p1a: Samurott|Razor Shell|p2a: Zamazenta
+|-damage|p2a: Zamazenta|8/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zamazenta|14/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781172261
+|move|p1a: Samurott|Aqua Jet|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781172265
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|-damage|p2a: Samurott|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1781172268
+|move|p2a: Samurott|Ceaseless Edge|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|16/100
+|-sidestart|p1: ihymyly|Spikes
+|move|p1a: Samurott|Ceaseless Edge|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|62/100
+|-sidestart|p2: KurisuChestnutLab|Spikes
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781172276
+|move|p1a: Samurott|Aqua Jet|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|44/100
+|move|p2a: Samurott|Ceaseless Edge|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|-sidestart|p1: ihymyly|Spikes
+|faint|p1a: Samurott
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781172281
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-damage|p1a: Raging Bolt|84/100|[from] Spikes
+|turn|11
+|
+|t:|1781172285
+|-terastallize|p2a: Samurott|Dark
+|move|p2a: Samurott|Ceaseless Edge|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|34/100
+|-sidestart|p1: ihymyly|Spikes
+|move|p1a: Raging Bolt|Thunder|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-weather|none
+|upkeep
+|
+|t:|1781172290
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|94/100|[from] Stealth Rock
+|-damage|p2a: Gholdengo|82/100|[from] Spikes
+|turn|12
+|
+|t:|1781172294
+|move|p2a: Gholdengo|Shadow Ball|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781172305
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|13
+|
+|t:|1781172310
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Weavile|Swords Dance|p1a: Weavile
+|-boost|p1a: Weavile|atk|2
+|
+|upkeep
+|turn|14
+|
+|t:|1781172316
+|move|p1a: Weavile|Triple Axel|p2a: Clefable
+|-damage|p2a: Clefable|93/100
+|-damage|p2a: Clefable|77/100
+|-hitcount|p2a: Clefable|2
+|move|p2a: Clefable|Moonblast|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|17/100
+|-unboost|p1a: Weavile|spa|1
+|
+|upkeep
+|turn|15
+|
+|t:|1781172321
+|move|p1a: Weavile|Triple Axel|p2a: Clefable
+|-damage|p2a: Clefable|70/100
+|-damage|p2a: Clefable|54/100
+|-damage|p2a: Clefable|33/100
+|-hitcount|p2a: Clefable|3
+|move|p2a: Clefable|Moonblast|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|upkeep
+|
+|t:|1781172328
+|switch|p1a: Pelipper|Pelipper, F|53/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|16
+|
+|t:|1781172332
+|move|p1a: Pelipper|Surf|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781172337
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|17
+|
+|t:|1781172345
+|move|p2a: Zapdos|Volt Switch|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|t:|1781172349
+|switch|p2a: Garganacl|Garganacl, F|65/100|[from] Volt Switch
+|-damage|p2a: Garganacl|52/100|[from] Stealth Rock
+|-damage|p2a: Garganacl|40/100|[from] Spikes
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781172352
+|switch|p1a: Kingdra|Kingdra, F|100/100
+|-damage|p1a: Kingdra|76/100|[from] Spikes
+|turn|18
+|
+|t:|1781172356
+|move|p1a: Kingdra|Weather Ball|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|faint|p2a: Garganacl
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781172361
+|switch|p2a: Gholdengo|Gholdengo|82/100
+|-damage|p2a: Gholdengo|76/100|[from] Stealth Rock
+|-damage|p2a: Gholdengo|64/100|[from] Spikes
+|turn|19
+|
+|t:|1781172365
+|-terastallize|p1a: Kingdra|Water
+|move|p1a: Kingdra|Weather Ball|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781172368
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|20
+|
+|t:|1781172374
+|move|p1a: Kingdra|Weather Ball|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|win|ihymyly
+|raw|ihymyly's rating: 1591 &rarr; <strong>1608</strong><br />(+17 for winning)
+|raw|KurisuChestnutLab's rating: 1544 &rarr; <strong>1527</strong><br />(-17 for losing)
+|l|☆KurisuChestnutLab
+|player|p2|
+|l|☆ihymyly
+|player|p1|

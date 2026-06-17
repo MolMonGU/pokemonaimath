@@ -1,0 +1,330 @@
+|j|☆lolcano46
+|j|☆Pig Perfect
+|t:|1781582359
+|gametype|singles
+|player|p1|lolcano46|fisherman-gen4|1556
+|player|p2|Pig Perfect|workerice|1596
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Azelf|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Scizor, M|
+|poke|p1|Gengar, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Cinderace, M|
+|poke|p2|Great Tusk|
+|poke|p2|Hatterene, F|
+|poke|p2|Heatran, F|
+|poke|p2|Ninetales, M|
+|poke|p2|Slither Wing|
+|poke|p2|Walking Wake|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lolcano46)
+|
+|t:|1781582386
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|switch|p2a: Touch Me I’m Sick|Slither Wing|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|1
+|
+|t:|1781582400
+|-end|p2a: Touch Me I’m Sick|Protosynthesis|[silent]
+|switch|p2a: Trash Man|Great Tusk|100/100
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Trash Man
+|-damage|p2a: Trash Man|51/100
+|
+|upkeep
+|turn|2
+|j| Concept Everything
+|
+|t:|1781582412
+|move|p2a: Trash Man|Knock Off|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|78/100
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Trash Man
+|-damage|p2a: Trash Man|0 fnt
+|faint|p2a: Trash Man
+|-end|p2a: Trash Man|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781582422
+|switch|p2a: Gimme Shelter|Heatran, F|100/100
+|-item|p2a: Gimme Shelter|Air Balloon
+|turn|3
+|
+|t:|1781582426
+|move|p2a: Gimme Shelter|Stealth Rock|p1a: Raging Bolt
+|-sidestart|p1: lolcano46|move: Stealth Rock
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Gimme Shelter
+|-damage|p2a: Gimme Shelter|32/100
+|-enditem|p2a: Gimme Shelter|Air Balloon
+|
+|upkeep
+|turn|4
+|
+|t:|1781582433
+|switch|p2a: Witches Wish|Hatterene, F|100/100
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Witches Wish
+|-damage|p2a: Witches Wish|21/100
+|-enditem|p2a: Witches Wish|Eject Button
+|
+|t:|1781582441
+|switch|p2a: Tyranna Seesaur|Walking Wake|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781582446
+|-terastallize|p1a: Raging Bolt|Fairy
+|move|p2a: Tyranna Seesaur|Flip Turn|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|62/100
+|
+|t:|1781582461
+|-end|p2a: Tyranna Seesaur|Protosynthesis|[silent]
+|switch|p2a: Gimme Shelter|Heatran, F|32/100|[from] Flip Turn
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Gimme Shelter
+|-resisted|p2a: Gimme Shelter
+|-damage|p2a: Gimme Shelter|0 fnt
+|faint|p2a: Gimme Shelter
+|
+|upkeep
+|
+|t:|1781582474
+|switch|p2a: Tyranna Seesaur|Walking Wake|100/100
+|turn|6
+|j| kanaete onegai
+|
+|t:|1781582477
+|-terastallize|p2a: Tyranna Seesaur|Stellar
+|move|p2a: Tyranna Seesaur|Hydro Steam|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|l| kanaete onegai
+|
+|t:|1781582487
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|turn|7
+|
+|t:|1781582510
+|-end|p2a: Tyranna Seesaur|Protosynthesis|[silent]
+|switch|p2a: Look Both Ways|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Look Both Ways
+|move|p1a: Cinderace|Court Change|p1a: Cinderace
+|-start|p1a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p1a: Cinderace|move: Court Change
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781582520
+|switch|p1a: Scizor|Scizor, M|100/100
+|move|p2a: Look Both Ways|Overheat|p1a: Scizor|[miss]
+|-miss|p2a: Look Both Ways|p1a: Scizor
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781582525
+|move|p1a: Scizor|Bullet Punch|p2a: Look Both Ways
+|-resisted|p2a: Look Both Ways
+|-damage|p2a: Look Both Ways|78/100
+|move|p2a: Look Both Ways|Overheat|p1a: Scizor
+|-supereffective|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|-unboost|p2a: Look Both Ways|spa|2
+|faint|p1a: Scizor
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781582529
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|10
+|
+|t:|1781582535
+|switch|p2a: Witches Wish|Hatterene, F|21/100
+|-damage|p2a: Witches Wish|9/100|[from] Stealth Rock
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Witches Wish|[anim] Ivy Cudgel Water
+|-damage|p2a: Witches Wish|0 fnt
+|faint|p2a: Witches Wish
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781582537
+|switch|p2a: Touch Me I’m Sick|Slither Wing|100/100
+|-damage|p2a: Touch Me I’m Sick|88/100|[from] Stealth Rock
+|-activate|p2a: Touch Me I’m Sick|ability: Protosynthesis
+|-start|p2a: Touch Me I’m Sick|protosynthesisatk
+|turn|11
+|
+|t:|1781582541
+|switch|p1a: Gengar|Gengar, M|100/100
+|move|p2a: Touch Me I’m Sick|U-turn|p1a: Gengar
+|-resisted|p1a: Gengar
+|-damage|p1a: Gengar|79/100
+|-start|p2a: Touch Me I’m Sick|Disable|U-turn|[from] ability: Cursed Body|[of] p1a: Gengar
+|
+|t:|1781582543
+|-end|p2a: Touch Me I’m Sick|Protosynthesis|[silent]
+|switch|p2a: Tyranna Seesaur|Walking Wake, tera:Stellar|100/100|[from] U-turn
+|-damage|p2a: Tyranna Seesaur|88/100|[from] Stealth Rock
+|-activate|p2a: Tyranna Seesaur|ability: Protosynthesis
+|-start|p2a: Tyranna Seesaur|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781582550
+|move|p1a: Gengar|Thunder Wave|p2a: Tyranna Seesaur|[miss]
+|-miss|p1a: Gengar|p2a: Tyranna Seesaur
+|move|p2a: Tyranna Seesaur|Dragon Pulse|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|-start|p2a: Tyranna Seesaur|Disable|Dragon Pulse|[from] ability: Cursed Body|[of] p1a: Gengar
+|faint|p1a: Gengar
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781582555
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|13
+|
+|t:|1781582559
+|-end|p2a: Tyranna Seesaur|Protosynthesis|[silent]
+|switch|p2a: Touch Me I’m Sick|Slither Wing|88/100
+|-damage|p2a: Touch Me I’m Sick|76/100|[from] Stealth Rock
+|-activate|p2a: Touch Me I’m Sick|ability: Protosynthesis
+|-start|p2a: Touch Me I’m Sick|protosynthesisatk
+|move|p1a: Ogerpon|Play Rough|p2a: Touch Me I’m Sick
+|-supereffective|p2a: Touch Me I’m Sick
+|-damage|p2a: Touch Me I’m Sick|18/100
+|-damage|p1a: Ogerpon|84/100|[from] item: Rocky Helmet|[of] p2a: Touch Me I’m Sick
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781582562
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|move|p2a: Touch Me I’m Sick|Morning Sun|p2a: Touch Me I’m Sick
+|-heal|p2a: Touch Me I’m Sick|85/100
+|
+|-weather|none
+|-end|p2a: Touch Me I’m Sick|Protosynthesis
+|upkeep
+|turn|15
+|j| DA COME UP
+|
+|t:|1781582566
+|-end|p2a: Touch Me I’m Sick|Protosynthesis|[silent]
+|switch|p2a: Look Both Ways|Ninetales, M|78/100
+|-damage|p2a: Look Both Ways|53/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Look Both Ways
+|move|p1a: Cinderace|Pyro Ball|p2a: Look Both Ways
+|-resisted|p2a: Look Both Ways
+|-damage|p2a: Look Both Ways|0 fnt
+|faint|p2a: Look Both Ways
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781582569
+|switch|p2a: Tyranna Seesaur|Walking Wake, tera:Stellar|88/100
+|-damage|p2a: Tyranna Seesaur|76/100|[from] Stealth Rock
+|-activate|p2a: Tyranna Seesaur|ability: Protosynthesis
+|-start|p2a: Tyranna Seesaur|protosynthesisspe
+|turn|16
+|
+|t:|1781582598
+|move|p1a: Cinderace|Sucker Punch|p2a: Tyranna Seesaur
+|-start|p1a: Cinderace|typechange|Dark|[from] ability: Libero
+|-damage|p2a: Tyranna Seesaur|41/100
+|move|p2a: Tyranna Seesaur|Draco Meteor|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|-unboost|p2a: Tyranna Seesaur|spa|2
+|faint|p1a: Cinderace
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781582605
+|switch|p1a: Azelf|Azelf|100/100
+|turn|17
+|inactive|Pig Perfect has 120 seconds left.
+|
+|t:|1781582644
+|move|p2a: Tyranna Seesaur|Draco Meteor|p1a: Azelf
+|-damage|p1a: Azelf|22/100
+|-unboost|p2a: Tyranna Seesaur|spa|2
+|move|p1a: Azelf|Dazzling Gleam|p2a: Tyranna Seesaur
+|-supereffective|p2a: Tyranna Seesaur
+|-damage|p2a: Tyranna Seesaur|0 fnt
+|faint|p2a: Tyranna Seesaur
+|-end|p2a: Tyranna Seesaur|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781582648
+|switch|p2a: Touch Me I’m Sick|Slither Wing|85/100
+|-damage|p2a: Touch Me I’m Sick|72/100|[from] Stealth Rock
+|-activate|p2a: Touch Me I’m Sick|ability: Protosynthesis
+|-start|p2a: Touch Me I’m Sick|protosynthesisatk
+|turn|18
+|inactive|lolcano46 has 120 seconds left.
+|
+|t:|1781582687
+|move|p2a: Touch Me I’m Sick|First Impression|p1a: Azelf
+|-supereffective|p1a: Azelf
+|-damage|p1a: Azelf|0 fnt
+|faint|p1a: Azelf
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781582690
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|84/100
+|turn|19
+|
+|t:|1781582695
+|move|p1a: Ogerpon|Play Rough|p2a: Touch Me I’m Sick
+|-supereffective|p2a: Touch Me I’m Sick
+|-damage|p2a: Touch Me I’m Sick|9/100
+|-damage|p1a: Ogerpon|67/100|[from] item: Rocky Helmet|[of] p2a: Touch Me I’m Sick
+|move|p2a: Touch Me I’m Sick|U-turn|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|win|Pig Perfect
+|raw|lolcano46's rating: 1556 &rarr; <strong>1538</strong><br />(-18 for losing)
+|raw|Pig Perfect's rating: 1596 &rarr; <strong>1614</strong><br />(+18 for winning)
+|l|☆lolcano46
+|player|p1|
+|c|☆Pig Perfect|Gg
+|l| Concept Everything
+|l|☆Pig Perfect
+|player|p2|

@@ -1,0 +1,287 @@
+|j|☆LowEL0God
+|j|☆tiftif
+|t:|1781262201
+|gametype|singles
+|player|p1|LowEL0God|265|1531
+|player|p2|tiftif|266|1539
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, F|
+|poke|p1|Barraskewda, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Iron Treads|
+|poke|p2|Barraskewda, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Talonflame, M|
+|poke|p2|Keldeo-Resolute|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|inactive|tiftif has 120 seconds left.
+|
+|t:|1781262238
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|1
+|
+|t:|1781262247
+|move|p2a: Iron Treads|Earthquake|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|14/100
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|25/100
+|-unboost|p1a: Raging Bolt|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781262253
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Iron Treads|Stealth Rock|p1a: Pelipper
+|-sidestart|p1: LowEL0God|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781262255
+|move|p2a: Iron Treads|Ice Spinner|p1a: Pelipper
+|-damage|p1a: Pelipper|81/100
+|move|p1a: Pelipper|Hurricane|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781262262
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|4
+|
+|t:|1781262267
+|switch|p1a: Raging Bolt|Raging Bolt|14/100
+|-damage|p1a: Raging Bolt|1/100|[from] Stealth Rock
+|move|p2a: Raging Bolt|Weather Ball|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781262268
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|turn|5
+|
+|t:|1781262271
+|move|p2a: Raging Bolt|Thunder|p1a: Kingambit
+|-damage|p1a: Kingambit|15/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|51/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kingambit|21/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781262276
+|move|p2a: Raging Bolt|Thunderclap|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen1|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781262277
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-damage|p1a: Iron Treads|97/100|[from] Stealth Rock
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|7
+|
+|t:|1781262281
+|move|p1a: Iron Treads|Earth Power|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781262284
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|8
+|
+|t:|1781262286
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Pelipper|Pelipper, M|81/100
+|-damage|p1a: Pelipper|57/100|[from] Stealth Rock
+|move|p2a: Barraskewda|Flip Turn|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|28/100
+|
+|t:|1781262291
+|switch|p2a: Keldeo|Keldeo-Resolute|100/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781262294
+|move|p2a: Keldeo|Surf|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|none
+|upkeep
+|
+|t:|1781262295
+|switch|p1a: Overqwil|Overqwil, F|100/100
+|-damage|p1a: Overqwil|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1781262307
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|-terastallize|p1a: Overqwil|Water
+|move|p1a: Overqwil|Gunk Shot|p2a: Pelipper
+|-damage|p2a: Pelipper|37/100
+|-status|p2a: Pelipper|psn
+|-damage|p1a: Overqwil|78/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Pelipper|25/100 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1781262314
+|move|p1a: Overqwil|Liquidation|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|-damage|p1a: Overqwil|69/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781262318
+|switch|p2a: Talonflame|Talonflame, M|100/100
+|turn|12
+|
+|t:|1781262321
+|move|p2a: Talonflame|Hurricane|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|faint|p1a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781262323
+|switch|p1a: Iron Treads|Iron Treads|97/100
+|-damage|p1a: Iron Treads|94/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1781262330
+|switch|p2a: Keldeo|Keldeo-Resolute|100/100
+|move|p1a: Iron Treads|Rapid Spin|p2a: Keldeo
+|-damage|p2a: Keldeo|89/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: LowEL0God|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Keldeo|96/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781262332
+|move|p1a: Iron Treads|Earth Power|p2a: Keldeo
+|-damage|p2a: Keldeo|55/100
+|move|p2a: Keldeo|Surf|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Keldeo|61/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781262334
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|turn|15
+|
+|t:|1781262349
+|move|p1a: Barraskewda|Liquidation|p2a: Keldeo
+|-resisted|p2a: Keldeo
+|-damage|p2a: Keldeo|4/100
+|move|p2a: Keldeo|Secret Sword|p1a: Barraskewda
+|-damage|p1a: Barraskewda|14/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Keldeo|10/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781262352
+|move|p1a: Barraskewda|Liquidation|p2a: Keldeo
+|-resisted|p2a: Keldeo
+|-damage|p2a: Keldeo|0 fnt
+|faint|p2a: Keldeo
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781262354
+|switch|p2a: Talonflame|Talonflame, M|100/100
+|turn|17
+|
+|t:|1781262355
+|move|p2a: Talonflame|Hurricane|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|win|tiftif
+|raw|LowEL0God's rating: 1531 &rarr; <strong>1511</strong><br />(-20 for losing)
+|raw|tiftif's rating: 1539 &rarr; <strong>1559</strong><br />(+20 for winning)
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p1|

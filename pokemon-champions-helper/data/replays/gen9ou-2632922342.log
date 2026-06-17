@@ -1,0 +1,138 @@
+|j|☆The median voter
+|j|☆juicepar
+|t:|1781579123
+|gametype|singles
+|player|p1|The median voter|scientist-gen4dp|1612
+|player|p2|juicepar|lucian|1525
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Great Tusk|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Scizor, M|
+|poke|p1|Dragapult, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Gliscor, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Iron Moth|
+|poke|p2|Hatterene, F|
+|teampreview
+|
+|t:|1781579153
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Templar|Great Tusk|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|1
+|
+|t:|1781579162
+|-terastallize|p2a: Raging Bolt|Ghost
+|move|p1a: Templar|Headlong Rush|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|41/100
+|-unboost|p1a: Templar|def|1
+|-unboost|p1a: Templar|spd|1
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Templar
+|-damage|p1a: Templar|0 fnt
+|faint|p1a: Templar
+|-end|p1a: Templar|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781579172
+|switch|p1a: The End of All|Hoopa-Unbound|100/100
+|turn|2
+|
+|t:|1781579179
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: The End of All|Psychic Noise|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|26/100
+|-start|p2a: Zamazenta|move: Heal Block
+|
+|upkeep
+|turn|3
+|
+|t:|1781579192
+|switch|p1a: Preacher|Zapdos|100/100
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: juicepar|move: Light Screen
+|
+|-end|p2a: Zamazenta|move: Heal Block
+|upkeep
+|turn|4
+|
+|t:|1781579202
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: juicepar|Reflect
+|move|p1a: Preacher|Hurricane|p2a: Zamazenta|[miss]
+|-miss|p1a: Preacher|p2a: Zamazenta
+|
+|upkeep
+|turn|5
+|
+|t:|1781579208
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|move|p1a: Preacher|Discharge|p2a: Gliscor
+|-immune|p2a: Gliscor
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|6
+|
+|t:|1781579214
+|move|p2a: Gliscor|Agility|p2a: Gliscor
+|-boost|p2a: Gliscor|spe|2
+|move|p1a: Preacher|U-turn|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|98/100 tox
+|
+|t:|1781579216
+|switch|p1a: Bishop|Slowking-Galar, M|100/100|[from] U-turn
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|7
+|
+|t:|1781579226
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|move|p1a: Bishop|Ice Beam|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|46/100 tox
+|
+|-heal|p2a: Gliscor|58/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|8
+|
+|t:|1781579232
+|-terastallize|p1a: Bishop|Water
+|move|p2a: Gliscor|Earthquake|p1a: Bishop
+|-damage|p1a: Bishop|0 fnt
+|faint|p1a: Bishop
+|
+|-heal|p2a: Gliscor|71/100 tox|[from] ability: Poison Heal
+|upkeep
+|-message|The median voter forfeited.
+|
+|win|juicepar
+|raw|The median voter's rating: 1612 &rarr; <strong>1587</strong><br />(-25 for losing)
+|raw|juicepar's rating: 1525 &rarr; <strong>1550</strong><br />(+25 for winning)

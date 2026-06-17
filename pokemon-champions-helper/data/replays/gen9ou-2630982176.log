@@ -1,0 +1,326 @@
+|j|☆Golem Rising
+|j|‽LT_Alt1
+|t:|1781320222
+|gametype|singles
+|player|p1|Golem Rising|bruno|1743
+|player|p2|LT_Alt1|1|1734
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torkoal, M|
+|poke|p1|Walking Wake|
+|poke|p1|Great Tusk|
+|poke|p1|Goodra-Hisui, F|
+|poke|p1|Slither Wing|
+|poke|p1|Venusaur, F|
+|poke|p2|Kyurem|
+|poke|p2|Raging Bolt|
+|poke|p2|Hatterene, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Corviknight, M|
+|teampreview
+|
+|t:|1781320233
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|1
+|
+|t:|1781320240
+|switch|p1a: Goodra|Goodra-Hisui, F|100/100
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Goodra
+|-damage|p1a: Goodra|60/100
+|-unboost|p2a: Raging Bolt|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781320248
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|switch|p1a: Slither Wing|Slither Wing|100/100
+|-activate|p1a: Slither Wing|ability: Protosynthesis
+|-start|p1a: Slither Wing|protosynthesisatk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781320262
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Slither Wing|Flare Blitz|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|-damage|p1a: Slither Wing|60/100|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781320270
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|4
+|
+|t:|1781320276
+|move|p2a: Kyurem|Draco Meteor|p1a: Slither Wing
+|-damage|p1a: Slither Wing|0 fnt
+|-unboost|p2a: Kyurem|spa|2
+|faint|p1a: Slither Wing
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781320287
+|switch|p1a: Venusaur|Venusaur, F|100/100
+|turn|5
+|
+|t:|1781320292
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Venusaur|Growth|p1a: Venusaur
+|-boost|p1a: Venusaur|atk|2
+|-boost|p1a: Venusaur|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781320299
+|move|p1a: Venusaur|Earth Power|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|19/100
+|-damage|p1a: Venusaur|91/100|[from] item: Life Orb
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781320311
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|7
+|
+|t:|1781320318
+|move|p1a: Walking Wake|Hydro Steam|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781320326
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|8
+|
+|t:|1781320352
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Goodra|Goodra-Hisui, F|60/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781320358
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Goodra|Sludge Bomb|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|94/100
+|
+|-heal|p2a: Ting-Lu|99/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781320369
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|61/100
+|
+|-heal|p2a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781320376
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Great Tusk|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|34/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|45/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|upkeep
+|turn|12
+|
+|t:|1781320384
+|move|p1a: Great Tusk|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|28/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781320387
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|13
+|
+|t:|1781320397
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Hatterene|Nuzzle|p1a: Torkoal
+|-damage|p1a: Torkoal|98/100
+|-status|p1a: Torkoal|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781320409
+|switch|p1a: Goodra|Goodra-Hisui, F|60/100
+|move|p2a: Hatterene|Dazzling Gleam|p1a: Goodra
+|-damage|p1a: Goodra|44/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781320420
+|switch|p1a: Great Tusk|Great Tusk|28/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781320428
+|-terastallize|p2a: Ting-Lu|Ghost
+|move|p1a: Great Tusk|Headlong Rush|p2a: Ting-Lu
+|-crit|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|5/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Ting-Lu|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Ting-Lu|12/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781320439
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|17
+|
+|t:|1781320443
+|move|p1a: Walking Wake|Hydro Steam|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781320445
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|18
+|
+|t:|1781320452
+|-terastallize|p1a: Walking Wake|Water
+|move|p1a: Walking Wake|Hydro Steam|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|43/100
+|move|p2a: Kyurem|Draco Meteor|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|-unboost|p2a: Kyurem|spa|2
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781320462
+|switch|p1a: Goodra|Goodra-Hisui, F|44/100
+|turn|19
+|
+|t:|1781320465
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Goodra|Sludge Bomb|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|42/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Hatterene|48/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781320474
+|move|p1a: Goodra|Sludge Bomb|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|-weather|none
+|upkeep
+|
+|t:|1781320476
+|switch|p2a: Kyurem|Kyurem|43/100
+|-ability|p2a: Kyurem|Pressure
+|turn|21
+|
+|t:|1781320487
+|move|p2a: Kyurem|Earth Power|p1a: Goodra
+|-supereffective|p1a: Goodra
+|-damage|p1a: Goodra|1/100
+|move|p1a: Goodra|Sludge Bomb|p2a: Kyurem
+|-damage|p2a: Kyurem|16/100
+|-status|p2a: Kyurem|psn
+|
+|-damage|p2a: Kyurem|4/100 psn|[from] psn
+|upkeep
+|turn|22
+|-message|LT_Alt1 forfeited.
+|
+|win|Golem Rising
+|raw|Golem Rising's rating: 1743 &rarr; <strong>1762</strong><br />(+19 for winning)
+|raw|LT_Alt1's rating: 1734 &rarr; <strong>1715</strong><br />(-19 for losing)
+|l|‽LT_Alt1
+|player|p2|
+|l|☆Golem Rising
+|player|p1|

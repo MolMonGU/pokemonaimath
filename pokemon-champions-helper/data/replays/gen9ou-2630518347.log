@@ -1,0 +1,264 @@
+|j|☆hillbilly z
+|j|☆greatestwarriors
+|t:|1781268224
+|gametype|singles
+|player|p1|hillbilly z|169|1509
+|player|p2|greatestwarriors|jogger|1524
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torkoal, F|
+|poke|p1|Scovillain, F|
+|poke|p1|Walking Wake|
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Ceruledge, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Primarina, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Iron Treads|
+|poke|p2|Scizor, F|
+|poke|p2|Darkrai|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by greatestwarriors)
+|
+|t:|1781268232
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-item|p2a: Iron Treads|Air Balloon
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|
+|t:|1781268235
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Iron Treads|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|67/100
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781268239
+|switch|p1a: Scovillain|Scovillain, F|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781268242
+|move|p1a: Scovillain|Flamethrower|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-enditem|p2a: Iron Treads|Air Balloon
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|-damage|p1a: Scovillain|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781268250
+|switch|p2a: Primarina|Primarina, F|100/100
+|turn|3
+|
+|t:|1781268256
+|move|p1a: Scovillain|Growth|p1a: Scovillain
+|-boost|p1a: Scovillain|atk|2
+|-boost|p1a: Scovillain|spa|2
+|move|p2a: Primarina|Surf|p1a: Scovillain
+|-damage|p1a: Scovillain|47/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781268263
+|-terastallize|p2a: Primarina|Poison
+|move|p1a: Scovillain|Giga Drain|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|72/100
+|-heal|p1a: Scovillain|64/100|[from] drain|[of] p2a: Primarina
+|-damage|p1a: Scovillain|54/100|[from] item: Life Orb
+|move|p2a: Primarina|Surf|p1a: Scovillain
+|-damage|p1a: Scovillain|6/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781268267
+|move|p1a: Scovillain|Flamethrower|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|-damage|p1a: Scovillain|0 fnt|[from] item: Life Orb
+|faint|p1a: Scovillain
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781268277
+|switch|p1a: Hatterene|Hatterene, F|67/100
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|6
+|
+|t:|1781268286
+|switch|p2a: Scizor|Scizor, F, shiny|100/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|85/100
+|-heal|p1a: Hatterene|78/100|[from] drain|[of] p2a: Scizor
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781268291
+|move|p2a: Scizor|U-turn|p1a: Hatterene
+|-damage|p1a: Hatterene|20/100
+|
+|t:|1781268294
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|move|p1a: Hatterene|Mystical Fire|p2a: Ogerpon
+|-damage|p2a: Ogerpon|59/100
+|-unboost|p2a: Ogerpon|spa|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781268297
+|move|p2a: Ogerpon|Horn Leech|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-heal|p2a: Ogerpon|69/100|[from] drain|[of] p1a: Hatterene
+|faint|p1a: Hatterene
+|
+|-weather|none
+|upkeep
+|
+|t:|1781268299
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|9
+|
+|t:|1781268301
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Torkoal|[anim] Ivy Cudgel Water
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|55/100
+|move|p1a: Torkoal|Flamethrower|p2a: Ogerpon
+|-damage|p2a: Ogerpon|5/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781268313
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Torkoal|[anim] Ivy Cudgel Water
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|3/100
+|move|p1a: Torkoal|Flamethrower|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781268321
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|turn|11
+|
+|t:|1781268327
+|move|p2a: Zamazenta|Body Press|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781268331
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspa
+|turn|12
+|
+|t:|1781268334
+|move|p2a: Zamazenta|Body Press|p1a: Walking Wake
+|-damage|p1a: Walking Wake|62/100
+|move|p1a: Walking Wake|Hydro Steam|p2a: Zamazenta
+|-damage|p2a: Zamazenta|7/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Zamazenta|13/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781268340
+|move|p2a: Zamazenta|Body Press|p1a: Walking Wake
+|-damage|p1a: Walking Wake|22/100
+|move|p1a: Walking Wake|Hydro Steam|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781268343
+|switch|p2a: Scizor|Scizor, F, shiny|85/100
+|turn|14
+|
+|t:|1781268345
+|move|p2a: Scizor|Bullet Punch|p1a: Walking Wake
+|-resisted|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781268348
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|turn|15
+|
+|t:|1781268351
+|move|p2a: Scizor|Bullet Punch|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|66/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|move|p1a: Ceruledge|Bitter Blade|p2a: Scizor
+|-supereffective|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|-heal|p1a: Ceruledge|100/100|[from] drain|[of] p2a: Scizor
+|faint|p2a: Scizor
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781268357
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|16
+|
+|t:|1781268359
+|move|p1a: Ceruledge|Bitter Blade|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|win|hillbilly z
+|raw|hillbilly z's rating: 1509 &rarr; <strong>1530</strong><br />(+21 for winning)
+|raw|greatestwarriors's rating: 1524 &rarr; <strong>1503</strong><br />(-21 for losing)
+|l|☆greatestwarriors
+|player|p2|
+|l|☆hillbilly z
+|player|p1|

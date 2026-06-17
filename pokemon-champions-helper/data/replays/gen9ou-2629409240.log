@@ -1,0 +1,475 @@
+|j|☆salazzle stan
+|j|☆erhai
+|t:|1781127652
+|gametype|singles
+|player|p1|salazzle stan|ninjaboy|1483
+|player|p2|erhai|170|1620
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Deoxys-Speed|
+|poke|p1|Kyurem|
+|poke|p1|Hydreigon, M|
+|poke|p1|Thundurus, M|
+|poke|p1|Arcanine, M|
+|poke|p1|Regieleki|
+|poke|p2|Iron Jugulis|
+|poke|p2|Ogerpon, F|
+|poke|p2|Scizor, F|
+|poke|p2|Latios, M|
+|poke|p2|Manaphy|
+|poke|p2|Sandy Shocks|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by salazzle stan)
+|
+|t:|1781127673
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Thundurus|Thundurus, M|100/100
+|switch|p2a: Iron Jugulis|Iron Jugulis|100/100
+|-enditem|p2a: Iron Jugulis|Booster Energy
+|-activate|p2a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Jugulis|quarkdrivespe
+|turn|1
+|
+|t:|1781127681
+|move|p2a: Iron Jugulis|Dark Pulse|p1a: Thundurus
+|-damage|p1a: Thundurus|44/100
+|move|p1a: Thundurus|Thunderbolt|p2a: Iron Jugulis
+|-supereffective|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|0 fnt
+|faint|p2a: Iron Jugulis
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781127690
+|switch|p2a: Sandy Shocks|Sandy Shocks|100/100
+|-enditem|p2a: Sandy Shocks|Booster Energy
+|-activate|p2a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p2a: Sandy Shocks|protosynthesisspe
+|turn|2
+|
+|t:|1781127697
+|move|p1a: Thundurus|Taunt|p2a: Sandy Shocks
+|-start|p2a: Sandy Shocks|move: Taunt
+|move|p2a: Sandy Shocks|Discharge|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|
+|upkeep
+|
+|t:|1781127707
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|3
+|
+|t:|1781127712
+|move|p2a: Sandy Shocks|Earth Power|p1a: Kyurem
+|-damage|p1a: Kyurem|63/100
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|
+|-heal|p1a: Kyurem|69/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781127721
+|move|p2a: Sandy Shocks|Earth Power|p1a: Kyurem
+|-damage|p1a: Kyurem|33/100
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|
+|-heal|p1a: Kyurem|39/100|[from] item: Leftovers
+|-end|p2a: Sandy Shocks|move: Taunt
+|upkeep
+|turn|5
+|
+|t:|1781127729
+|move|p1a: Kyurem|Icicle Spear|p2a: Sandy Shocks
+|-supereffective|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|46/100
+|-supereffective|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|0 fnt
+|faint|p2a: Sandy Shocks
+|-end|p2a: Sandy Shocks|Protosynthesis|[silent]
+|-hitcount|p2: Sandy Shocks|2
+|
+|-heal|p1a: Kyurem|45/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781127733
+|switch|p2a: Scizor|Scizor, F, shiny|100/100
+|turn|6
+|
+|t:|1781127738
+|switch|p1a: Arcanine|Arcanine, M|100/100
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Scizor|atk|1
+|move|p2a: Scizor|Bullet Punch|p1a: Arcanine
+|-resisted|p1a: Arcanine
+|-damage|p1a: Arcanine|86/100
+|
+|-heal|p1a: Arcanine|92/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781127748
+|switch|p1a: Regieleki|Regieleki|100/100
+|switch|p2a: Manaphy|Manaphy, shiny|100/100
+|
+|upkeep
+|turn|8
+|inactive|erhai has 120 seconds left.
+|
+|t:|1781127784
+|move|p1a: Regieleki|Volt Switch|p2a: Manaphy
+|-supereffective|p2a: Manaphy
+|-damage|p2a: Manaphy|26/100
+|
+|t:|1781127789
+|switch|p1a: Kyurem|Kyurem|45/100|[from] Volt Switch
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Manaphy|Tail Glow|p2a: Manaphy
+|-boost|p2a: Manaphy|spa|3
+|
+|-heal|p1a: Kyurem|51/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781127798
+|move|p2a: Manaphy|Ice Beam|p1a: Kyurem
+|-damage|p1a: Kyurem|3/100
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|
+|-heal|p1a: Kyurem|9/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781127805
+|move|p1a: Kyurem|Icicle Spear|p2a: Manaphy
+|-resisted|p2a: Manaphy
+|-damage|p2a: Manaphy|18/100
+|-resisted|p2a: Manaphy
+|-damage|p2a: Manaphy|9/100
+|-resisted|p2a: Manaphy
+|-damage|p2a: Manaphy|0 fnt
+|faint|p2a: Manaphy
+|-hitcount|p2: Manaphy|3
+|
+|-heal|p1a: Kyurem|16/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781127808
+|switch|p2a: Scizor|Scizor, F, shiny|100/100
+|turn|11
+|
+|t:|1781127815
+|move|p2a: Scizor|Bullet Punch|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781127820
+|switch|p1a: Arcanine|Arcanine, M|92/100
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Scizor|atk|1
+|turn|12
+|
+|t:|1781127827
+|move|p1a: Arcanine|Will-O-Wisp|p2a: Scizor
+|-status|p2a: Scizor|brn
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|-heal|p1a: Arcanine|98/100|[from] item: Leftovers
+|-damage|p2a: Scizor|95/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1781127835
+|switch|p1a: Regieleki|Regieleki|100/100
+|move|p2a: Scizor|Knock Off|p1a: Regieleki
+|-crit|p1a: Regieleki
+|-damage|p1a: Regieleki|13/100
+|-enditem|p1a: Regieleki|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Scizor
+|
+|-damage|p2a: Scizor|89/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781127846
+|move|p2a: Scizor|Bullet Punch|p1a: Regieleki
+|-resisted|p1a: Regieleki
+|-damage|p1a: Regieleki|0 fnt
+|faint|p1a: Regieleki
+|
+|-damage|p2a: Scizor|83/100 brn|[from] brn
+|upkeep
+|
+|t:|1781127851
+|switch|p1a: Arcanine|Arcanine, M|98/100
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Scizor|atk|1
+|turn|15
+|
+|t:|1781127863
+|move|p1a: Arcanine|Curse|p1a: Arcanine
+|-unboost|p1a: Arcanine|spe|1
+|-boost|p1a: Arcanine|atk|1
+|-boost|p1a: Arcanine|def|1
+|move|p2a: Scizor|Knock Off|p1a: Arcanine
+|-damage|p1a: Arcanine|85/100
+|-enditem|p1a: Arcanine|Leftovers|[from] move: Knock Off|[of] p2a: Scizor
+|
+|-damage|p2a: Scizor|77/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1781127871
+|switch|p2a: Ogerpon|Ogerpon, F|100/100
+|move|p1a: Arcanine|Will-O-Wisp|p2a: Ogerpon
+|-status|p2a: Ogerpon|brn
+|
+|-damage|p2a: Ogerpon|95/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781127883
+|move|p1a: Arcanine|Extreme Speed|p2a: Ogerpon
+|-damage|p2a: Ogerpon|43/100 brn
+|move|p2a: Ogerpon|Encore|p1a: Arcanine
+|-start|p1a: Arcanine|Encore
+|
+|-damage|p2a: Ogerpon|37/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1781127889
+|move|p1a: Arcanine|Extreme Speed|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781127892
+|switch|p2a: Latios|Latios, M, shiny|100/100
+|turn|19
+|
+|t:|1781127896
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Latios|Agility|p2a: Latios
+|-boost|p2a: Latios|spe|2
+|
+|upkeep
+|turn|20
+|
+|t:|1781127903
+|move|p2a: Latios|Calm Mind|p2a: Latios
+|-boost|p2a: Latios|spa|1
+|-boost|p2a: Latios|spd|1
+|move|p1a: Deoxys|Taunt|p2a: Latios
+|-start|p2a: Latios|move: Taunt
+|
+|upkeep
+|turn|21
+|
+|t:|1781127920
+|move|p2a: Latios|Stored Power|p1a: Deoxys
+|-resisted|p1a: Deoxys
+|-damage|p1a: Deoxys|60/100
+|move|p1a: Deoxys|Cosmic Power|p1a: Deoxys
+|-boost|p1a: Deoxys|def|1
+|-boost|p1a: Deoxys|spd|1
+|
+|upkeep
+|turn|22
+|
+|t:|1781127929
+|move|p2a: Latios|Stored Power|p1a: Deoxys
+|-resisted|p1a: Deoxys
+|-damage|p1a: Deoxys|31/100
+|move|p1a: Deoxys|Recover|p1a: Deoxys
+|-heal|p1a: Deoxys|81/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781127939
+|move|p2a: Latios|Stored Power|p1a: Deoxys
+|-resisted|p1a: Deoxys
+|-damage|p1a: Deoxys|50/100
+|move|p1a: Deoxys|Cosmic Power|p1a: Deoxys
+|-boost|p1a: Deoxys|def|1
+|-boost|p1a: Deoxys|spd|1
+|
+|-end|p2a: Latios|move: Taunt
+|upkeep
+|turn|24
+|
+|t:|1781127947
+|move|p2a: Latios|Calm Mind|p2a: Latios
+|-boost|p2a: Latios|spa|1
+|-boost|p2a: Latios|spd|1
+|move|p1a: Deoxys|Cosmic Power|p1a: Deoxys
+|-boost|p1a: Deoxys|def|1
+|-boost|p1a: Deoxys|spd|1
+|
+|upkeep
+|turn|25
+|
+|t:|1781127953
+|move|p2a: Latios|Calm Mind|p2a: Latios
+|-boost|p2a: Latios|spa|1
+|-boost|p2a: Latios|spd|1
+|move|p1a: Deoxys|Recover|p1a: Deoxys
+|-heal|p1a: Deoxys|99/100
+|
+|upkeep
+|turn|26
+|
+|t:|1781127962
+|move|p2a: Latios|Calm Mind|p2a: Latios
+|-boost|p2a: Latios|spa|1
+|-boost|p2a: Latios|spd|1
+|move|p1a: Deoxys|Cosmic Power|p1a: Deoxys
+|-boost|p1a: Deoxys|def|1
+|-boost|p1a: Deoxys|spd|1
+|
+|upkeep
+|turn|27
+|
+|t:|1781127968
+|move|p2a: Latios|Stored Power|p1a: Deoxys
+|-resisted|p1a: Deoxys
+|-damage|p1a: Deoxys|34/100
+|move|p1a: Deoxys|Taunt|p2a: Latios
+|-start|p2a: Latios|move: Taunt
+|
+|upkeep
+|turn|28
+|
+|t:|1781127976
+|move|p2a: Latios|Stored Power|p1a: Deoxys
+|-resisted|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|upkeep
+|
+|t:|1781127980
+|switch|p1a: Hydreigon|Hydreigon, M|100/100
+|turn|29
+|
+|t:|1781127984
+|-terastallize|p2a: Latios|Fighting
+|move|p2a: Latios|Aura Sphere|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-enditem|p1a: Hydreigon|Focus Sash
+|-damage|p1a: Hydreigon|1/100
+|move|p1a: Hydreigon|Roar|p2a: Latios
+|drag|p2a: Scizor|Scizor, F, shiny|77/100 brn
+|
+|-damage|p2a: Scizor|71/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1781127994
+|move|p2a: Scizor|Bullet Punch|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|
+|-damage|p2a: Scizor|65/100 brn|[from] brn
+|upkeep
+|
+|t:|1781127999
+|switch|p1a: Arcanine|Arcanine, M|85/100
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Scizor|atk|1
+|turn|31
+|
+|t:|1781128013
+|move|p1a: Arcanine|Curse|p1a: Arcanine
+|-unboost|p1a: Arcanine|spe|1
+|-boost|p1a: Arcanine|atk|1
+|-boost|p1a: Arcanine|def|1
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|-damage|p2a: Scizor|59/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1781128021
+|move|p2a: Scizor|Close Combat|p1a: Arcanine
+|-damage|p1a: Arcanine|60/100
+|-unboost|p2a: Scizor|def|1
+|-unboost|p2a: Scizor|spd|1
+|move|p1a: Arcanine|Curse|p1a: Arcanine
+|-unboost|p1a: Arcanine|spe|1
+|-boost|p1a: Arcanine|atk|1
+|-boost|p1a: Arcanine|def|1
+|
+|-damage|p2a: Scizor|53/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1781128031
+|move|p2a: Scizor|Close Combat|p1a: Arcanine
+|-damage|p1a: Arcanine|42/100
+|-unboost|p2a: Scizor|def|1
+|-unboost|p2a: Scizor|spd|1
+|move|p1a: Arcanine|Morning Sun|p1a: Arcanine
+|-heal|p1a: Arcanine|92/100
+|
+|-damage|p2a: Scizor|47/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1781128039
+|switch|p2a: Latios|Latios, M, shiny, tera:Fighting|100/100
+|move|p1a: Arcanine|Curse|p1a: Arcanine
+|-unboost|p1a: Arcanine|spe|1
+|-boost|p1a: Arcanine|atk|1
+|-boost|p1a: Arcanine|def|1
+|
+|upkeep
+|turn|35
+|inactive|salazzle stan has 120 seconds left.
+|
+|t:|1781128095
+|move|p1a: Arcanine|Extreme Speed|p2a: Latios
+|-damage|p2a: Latios|37/100
+|move|p2a: Latios|Calm Mind|p2a: Latios
+|-boost|p2a: Latios|spa|1
+|-boost|p2a: Latios|spd|1
+|
+|upkeep
+|turn|36
+|-message|erhai forfeited.
+|
+|win|salazzle stan
+|raw|salazzle stan's rating: 1483 &rarr; <strong>1511</strong><br />(+28 for winning)
+|raw|erhai's rating: 1639 &rarr; <strong>1611</strong><br />(-28 for losing)
+|l|☆erhai
+|player|p2|
+|c|☆salazzle stan|lol
+|l|☆salazzle stan
+|player|p1|

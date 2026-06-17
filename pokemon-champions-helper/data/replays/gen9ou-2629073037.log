@@ -1,0 +1,288 @@
+|j|☆Juchzer
+|j|☆ykykp
+|t:|1781095919
+|gametype|singles
+|player|p1|Juchzer|2|1625
+|player|p2|ykykp|101|1760
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Ceruledge, F|
+|poke|p1|Great Tusk|
+|poke|p1|Scizor, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Pecharunt|
+|poke|p2|Alomomola, M|
+|poke|p2|Cinderace, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Ogerpon-Cornerstone, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ykykp)
+|
+|t:|1781095943
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|turn|1
+|
+|t:|1781095950
+|move|p1a: Hoopa|Psychic|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781095968
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|turn|2
+|
+|t:|1781095978
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Ogerpon|Power Whip|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|55/100
+|
+|-heal|p1a: Rillaboom|61/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781095991
+|move|p2a: Ogerpon|Knock Off|p1a: Rillaboom
+|-damage|p1a: Rillaboom|20/100
+|-enditem|p1a: Rillaboom|Choice Band|[from] move: Knock Off|[of] p2a: Ogerpon
+|move|p1a: Rillaboom|U-turn|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|30/100
+|
+|t:|1781096000
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100|[from] U-turn
+|
+|-heal|p2a: Ogerpon|36/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|j| choispecs ironmoth
+|
+|t:|1781096007
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Hoopa|Psychic|p2a: Alomomola
+|-damage|p2a: Alomomola|68/100
+|
+|-heal|p2a: Alomomola|74/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1781096015
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Alomomola|atk|1
+|move|p2a: Alomomola|Flip Turn|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|81/100
+|-damage|p2a: Alomomola|58/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|
+|t:|1781096025
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, F|36/100|[from] Flip Turn
+|
+|-heal|p2a: Ogerpon|42/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781096037
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Ogerpon|Power Whip|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|76/100
+|
+|-heal|p2a: Ogerpon|48/100|[from] Grassy Terrain
+|-heal|p1a: Scizor|82/100|[from] Grassy Terrain
+|-heal|p1a: Scizor|89/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781096047
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|-heal|p1a: Scizor|95/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781096055
+|move|p2a: Pecharunt|Parting Shot|p1a: Scizor
+|-unboost|p1a: Scizor|atk|1
+|-unboost|p1a: Scizor|spa|1
+|
+|t:|1781096059
+|switch|p2a: Alomomola|Alomomola, M|91/100|[from] Parting Shot
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|-heal|p1a: Scizor|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781096076
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|move|p2a: Alomomola|Flip Turn|p1a: Scizor
+|-damage|p1a: Scizor|84/100
+|
+|t:|1781096089
+|switch|p2a: Cinderace|Cinderace, F|100/100|[from] Flip Turn
+|
+|-heal|p1a: Scizor|90/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781096110
+|-terastallize|p1a: Scizor|Flying
+|move|p2a: Cinderace|Pyro Ball|p1a: Scizor
+|-damage|p1a: Scizor|36/100
+|move|p1a: Scizor|Dual Wingbeat|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|-hitcount|p2: Cinderace|1
+|
+|-heal|p1a: Scizor|42/100|[from] item: Leftovers
+|upkeep
+|j| yuureisuisei
+|
+|t:|1781096135
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|turn|11
+|
+|t:|1781096139
+|move|p2a: Pecharunt|Malignant Chain|p1a: Scizor
+|-damage|p1a: Scizor|7/100
+|-status|p1a: Scizor|tox
+|-start|p1a: Scizor|confusion|[from] ability: Poison Puppeteer|[of] p2a: Pecharunt
+|-activate|p1a: Scizor|confusion
+|-damage|p1a: Scizor|0 fnt|[from] confusion
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1781096152
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|turn|12
+|
+|t:|1781096159
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Hoopa|Knock Off|p2a: Alomomola
+|-damage|p2a: Alomomola|64/100
+|-enditem|p2a: Alomomola|Assault Vest|[from] move: Knock Off|[of] p1a: Hoopa
+|
+|upkeep
+|turn|13
+|
+|t:|1781096166
+|switch|p1a: Landorus|Landorus-Therian, M|81/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Alomomola|atk|1
+|move|p2a: Alomomola|Flip Turn|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|40/100
+|-damage|p2a: Alomomola|47/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|
+|t:|1781096168
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, F|48/100|[from] Flip Turn
+|
+|upkeep
+|turn|14
+|
+|t:|1781096175
+|move|p2a: Ogerpon|Power Whip|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-damage|p2a: Ogerpon|31/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1781096187
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|turn|15
+|
+|t:|1781096192
+|switch|p2a: Alomomola|Alomomola, M|80/100
+|move|p1a: Hoopa|Psychic|p2a: Alomomola
+|-damage|p2a: Alomomola|34/100
+|-unboost|p2a: Alomomola|spd|1
+|
+|upkeep
+|turn|16
+|l| yuureisuisei
+|
+|t:|1781096214
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, F|31/100
+|move|p1a: Hoopa|Psychic|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781096217
+|switch|p2a: Alomomola|Alomomola, M|67/100
+|turn|17
+|
+|t:|1781096223
+|move|p1a: Hoopa|Psychic|p2a: Alomomola
+|-damage|p2a: Alomomola|22/100
+|move|p2a: Alomomola|Flip Turn|p1a: Hoopa
+|-damage|p1a: Hoopa|68/100
+|
+|t:|1781096231
+|switch|p2a: Pecharunt|Pecharunt|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|18
+|
+|t:|1781096237
+|move|p1a: Hoopa|Psychic|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|faint|p2a: Pecharunt
+|
+|upkeep
+|
+|t:|1781096238
+|switch|p2a: Alomomola|Alomomola, M|55/100
+|turn|19
+|
+|t:|1781096243
+|move|p1a: Hoopa|Psychic|p2a: Alomomola
+|-damage|p2a: Alomomola|13/100
+|move|p2a: Alomomola|Mirror Coat|p1a: Hoopa
+|-immune|p1a: Hoopa
+|
+|upkeep
+|turn|20
+|-message|ykykp forfeited.
+|
+|win|Juchzer
+|raw|Juchzer's rating: 1625 &rarr; <strong>1652</strong><br />(+27 for winning)
+|raw|ykykp's rating: 1760 &rarr; <strong>1733</strong><br />(-27 for losing)
+|l|☆ykykp
+|player|p2|
+|l|☆Juchzer
+|player|p1|
+|l| choispecs ironmoth

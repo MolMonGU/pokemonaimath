@@ -1,0 +1,239 @@
+|j|☆LowEL0God
+|j|☆bigtestsofbig
+|t:|1781475970
+|gametype|singles
+|player|p1|LowEL0God|265|1531
+|player|p2|bigtestsofbig|102|1622
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, F|
+|poke|p1|Barraskewda, F|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Lucario, M|
+|poke|p2|Great Tusk|
+|poke|p2|Garganacl, M|
+|poke|p2|Zapdos|
+|poke|p2|Primarina, F|
+|poke|p2|Darkrai|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781475980
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|switch|p2a: Primarina|Primarina, F|100/100
+|turn|1
+|
+|t:|1781475984
+|switch|p2a: Lucario|Lucario, M|100/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781475990
+|-terastallize|p1a: Kingambit|Dark
+|move|p2a: Lucario|Final Gambit|p1a: Kingambit
+|-damage|p1a: Kingambit|30/100
+|faint|p2a: Lucario
+|move|p1a: Kingambit|Kowtow Cleave|p2: Lucario|[notarget]
+|-fail|p1a: Kingambit
+|
+|-heal|p1a: Kingambit|37/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781475996
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|3
+|
+|t:|1781476000
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Great Tusk|Headlong Rush|p1a: Pelipper
+|-immune|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781476003
+|move|p2a: Great Tusk|Stone Edge|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|44/100
+|move|p1a: Pelipper|Weather Ball|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781476007
+|switch|p2a: Primarina|Primarina, F|100/100
+|turn|5
+|
+|t:|1781476010
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Primarina|Moonblast|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|11/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781476020
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Raging Bolt|Thunder|p2a: Zapdos
+|-damage|p2a: Zapdos|15/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781476025
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|65/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781476028
+|move|p1a: Raging Bolt|Thunderclap|p2a: Zapdos
+|-damage|p2a: Zapdos|13/100
+|move|p2a: Zapdos|Hurricane|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781476029
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|turn|9
+|
+|t:|1781476035
+|move|p1a: Barraskewda|Liquidation|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781476037
+|switch|p2a: Primarina|Primarina, F|100/100
+|turn|10
+|
+|t:|1781476047
+|move|p1a: Barraskewda|Liquidation|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|32/100
+|move|p2a: Primarina|Hydro Pump|p1a: Barraskewda
+|-resisted|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-weather|none
+|upkeep
+|
+|t:|1781476049
+|switch|p1a: Overqwil|Overqwil, F|100/100
+|turn|11
+|
+|t:|1781476060
+|move|p1a: Overqwil|Crunch|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|-damage|p1a: Overqwil|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781476064
+|switch|p2a: Garganacl|Garganacl, M|100/100
+|turn|12
+|
+|t:|1781476066
+|move|p1a: Overqwil|Swords Dance|p1a: Overqwil
+|-boost|p1a: Overqwil|atk|2
+|move|p2a: Garganacl|Curse|p2a: Garganacl
+|-unboost|p2a: Garganacl|spe|1
+|-boost|p2a: Garganacl|atk|1
+|-boost|p2a: Garganacl|def|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781476070
+|-terastallize|p2a: Garganacl|Grass
+|move|p1a: Overqwil|Liquidation|p2a: Garganacl
+|-resisted|p2a: Garganacl
+|-crit|p2a: Garganacl
+|-damage|p2a: Garganacl|62/100
+|-damage|p1a: Overqwil|81/100|[from] item: Life Orb
+|move|p2a: Garganacl|Curse|p2a: Garganacl
+|-unboost|p2a: Garganacl|spe|1
+|-boost|p2a: Garganacl|atk|1
+|-boost|p2a: Garganacl|def|1
+|
+|-heal|p2a: Garganacl|68/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781476078
+|move|p1a: Overqwil|Gunk Shot|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|faint|p2a: Garganacl
+|-damage|p1a: Overqwil|71/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781476081
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|15
+|
+|t:|1781476085
+|move|p2a: Darkrai|Focus Blast|p1a: Overqwil|[miss]
+|-miss|p2a: Darkrai|p1a: Overqwil
+|move|p1a: Overqwil|Gunk Shot|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|-damage|p1a: Overqwil|62/100|[from] item: Life Orb
+|
+|win|LowEL0God
+|raw|LowEL0God's rating: 1531 &rarr; <strong>1556</strong><br />(+25 for winning)
+|raw|bigtestsofbig's rating: 1622 &rarr; <strong>1597</strong><br />(-25 for losing)
+|l|☆bigtestsofbig
+|player|p2|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p1|

@@ -1,0 +1,357 @@
+|j|☆phreshoatmeal
+|j|☆Para_dox_ical_2
+|t:|1781227847
+|gametype|singles
+|player|p1|phreshoatmeal|clerk|1695
+|player|p2|Para_dox_ical_2|miku-flying|1630
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Excadrill, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Hippowdon, M|
+|poke|p1|Amoonguss, F|
+|poke|p1|Zamazenta-*|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Glimmora, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|
+|t:|1781227890
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|switch|p2a: Diamond Dust|Glimmora, F, shiny|100/100
+|turn|1
+|
+|t:|1781227903
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Diamond Dust|Meteor Beam||[still]
+|-prepare|p2a: Diamond Dust|Meteor Beam
+|-boost|p2a: Diamond Dust|spa|1
+|-enditem|p2a: Diamond Dust|Power Herb
+|-anim|p2a: Diamond Dust|Meteor Beam|p1a: Tyranitar|[miss]
+|-miss|p2a: Diamond Dust|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Para_dox_ical_2)
+|
+|t:|1781227927
+|move|p2a: Diamond Dust|Spikes|p1a: Tyranitar
+|-sidestart|p1: phreshoatmeal|Spikes
+|move|p1a: Tyranitar|Stealth Rock|p2a: Diamond Dust
+|-sidestart|p2: Para_dox_ical_2|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781227936
+|move|p2a: Diamond Dust|Earth Power|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|59/100
+|-enditem|p1a: Tyranitar|Eject Button
+|
+|t:|1781227938
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|-damage|p1a: Excadrill|88/100|[from] Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781227945
+|switch|p2a: Thornless Thorn|Landorus-Therian, M|100/100
+|-damage|p2a: Thornless Thorn|88/100|[from] Stealth Rock
+|-ability|p2a: Thornless Thorn|Intimidate|boost
+|-unboost|p1a: Excadrill|atk|1
+|move|p1a: Excadrill|Iron Head|p2a: Thornless Thorn
+|-damage|p2a: Thornless Thorn|42/100
+|-damage|p1a: Excadrill|71/100|[from] item: Rocky Helmet|[of] p2a: Thornless Thorn
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|j| nesnot
+|
+|t:|1781227966
+|switch|p2a: Unite|Kingambit, M|100/100
+|-damage|p2a: Unite|94/100|[from] Stealth Rock
+|move|p1a: Excadrill|Iron Head|p2a: Unite
+|-resisted|p2a: Unite
+|-damage|p2a: Unite|77/100
+|
+|-weather|none
+|-heal|p2a: Unite|84/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781227981
+|switch|p1a: Amoonguss|Amoonguss, F|100/100
+|-damage|p1a: Amoonguss|88/100|[from] Spikes
+|-end|p2a: Unite|fallenundefined|[silent]
+|switch|p2a: Diamond Dust|Glimmora, F, shiny|100/100
+|-damage|p2a: Diamond Dust|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|7
+|inactive|Para_dox_ical_2 has 120 seconds left.
+|
+|t:|1781228007
+|move|p2a: Diamond Dust|Mortal Spin|p1a: Amoonguss
+|-damage|p1a: Amoonguss|84/100
+|-damage|p2a: Diamond Dust|72/100|[from] item: Rocky Helmet|[of] p1a: Amoonguss
+|-sideend|p2: Para_dox_ical_2|Stealth Rock|[from] move: Mortal Spin|[of] p2a: Diamond Dust
+|move|p1a: Amoonguss|Stun Spore|p2a: Diamond Dust
+|-status|p2a: Diamond Dust|par
+|
+|upkeep
+|turn|8
+|inactive|Para_dox_ical_2 has 120 seconds left.
+|
+|t:|1781228016
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|-damage|p1a: Hatterene|88/100|[from] Spikes
+|move|p2a: Diamond Dust|Earth Power|p1a: Hatterene
+|-damage|p1a: Hatterene|53/100
+|
+|-heal|p1a: Hatterene|59/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|Para_dox_ical_2 has 120 seconds left.
+|inactive|Para_dox_ical_2 has 90 seconds left.
+|
+|t:|1781228059
+|switch|p2a: Thornless Thorn|Landorus-Therian, M|42/100
+|-ability|p2a: Thornless Thorn|Intimidate|boost
+|-unboost|p1a: Hatterene|atk|1
+|move|p1a: Hatterene|Pain Split|p2a: Thornless Thorn
+|-sethp|p2a: Thornless Thorn|45/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Hatterene|54/100|[from] move: Pain Split
+|
+|-heal|p1a: Hatterene|60/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Para_dox_ical_2 has 90 seconds left.
+|
+|t:|1781228076
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|-damage|p1a: Hippowdon|88/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Thornless Thorn|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|65/100
+|-enditem|p1a: Hippowdon|Eject Button
+|
+|t:|1781228084
+|switch|p1a: Excadrill|Excadrill, M|71/100
+|-damage|p1a: Excadrill|59/100|[from] Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|11
+|inactive|Para_dox_ical_2 has 90 seconds left.
+|
+|t:|1781228117
+|move|p1a: Excadrill|Iron Head|p2a: Thornless Thorn
+|-damage|p2a: Thornless Thorn|0 fnt
+|-damage|p1a: Excadrill|42/100|[from] item: Rocky Helmet|[of] p2a: Thornless Thorn
+|faint|p2a: Thornless Thorn
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781228134
+|switch|p2a: Mio|Ogerpon-Wellspring, F|100/100
+|turn|12
+|
+|t:|1781228141
+|switch|p1a: Amoonguss|Amoonguss, F|100/100
+|-damage|p1a: Amoonguss|88/100|[from] Spikes
+|move|p2a: Mio|Taunt|p1a: Amoonguss
+|-start|p1a: Amoonguss|move: Taunt
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Mio|95/100|[from] Sandstorm
+|-damage|p1a: Amoonguss|82/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1781228155
+|switch|p2a: Diamond Dust|Glimmora, F, shiny|72/100 par
+|move|p1a: Amoonguss|Grass Knot|p2a: Diamond Dust
+|-damage|p2a: Diamond Dust|57/100 par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Amoonguss|76/100|[from] Sandstorm
+|upkeep
+|turn|14
+|
+|t:|1781228171
+|switch|p1a: Hatterene|Hatterene, F|60/100
+|-damage|p1a: Hatterene|48/100|[from] Spikes
+|move|p2a: Diamond Dust|Earth Power|p1a: Hatterene
+|-damage|p1a: Hatterene|16/100
+|
+|-weather|none
+|-heal|p1a: Hatterene|22/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781228184
+|move|p2a: Diamond Dust|Earth Power|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781228190
+|switch|p1a: Excadrill|Excadrill, M|42/100
+|-damage|p1a: Excadrill|30/100|[from] Spikes
+|turn|16
+|
+|t:|1781228196
+|switch|p2a: Mio|Ogerpon-Wellspring, F|95/100
+|move|p1a: Excadrill|Earthquake|p2a: Mio
+|-resisted|p2a: Mio
+|-damage|p2a: Mio|36/100
+|
+|upkeep
+|turn|17
+|inactive|Para_dox_ical_2 has 90 seconds left.
+|
+|t:|1781228207
+|move|p2a: Mio|Ivy Cudgel|p1a: Excadrill|[anim] Ivy Cudgel Water
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|t:|1781228223
+|switch|p1a: Amoonguss|Amoonguss, F|100/100
+|-damage|p1a: Amoonguss|88/100|[from] Spikes
+|turn|18
+|inactive|Para_dox_ical_2 has 90 seconds left.
+|
+|t:|1781228235
+|switch|p2a: Diamond Dust|Glimmora, F, shiny|57/100 par
+|move|p1a: Amoonguss|Grass Knot|p2a: Diamond Dust
+|-crit|p2a: Diamond Dust
+|-damage|p2a: Diamond Dust|19/100 par
+|
+|upkeep
+|turn|19
+|inactive|Para_dox_ical_2 has 90 seconds left.
+|
+|t:|1781228245
+|move|p2a: Diamond Dust|Spikes|p1a: Amoonguss
+|-sidestart|p1: phreshoatmeal|Spikes
+|move|p1a: Amoonguss|Grass Knot|p2a: Diamond Dust
+|-damage|p2a: Diamond Dust|0 fnt
+|faint|p2a: Diamond Dust
+|
+|upkeep
+|inactive|Para_dox_ical_2 has 90 seconds left.
+|inactive|Para_dox_ical_2 has 60 seconds left.
+|
+|t:|1781228280
+|switch|p2a: Unite|Kingambit, M|84/100
+|-activate|p2a: Unite|ability: Supreme Overlord
+|-start|p2a: Unite|fallen2|[silent]
+|turn|20
+|inactive|Para_dox_ical_2 has 60 seconds left.
+|j| liechiteladihul
+|
+|t:|1781228303
+|switch|p1a: Hippowdon|Hippowdon, M|65/100
+|-damage|p1a: Hippowdon|48/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Unite|Swords Dance|p2a: Unite
+|-boost|p2a: Unite|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Unite|90/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|inactive|Para_dox_ical_2 has 60 seconds left.
+|
+|t:|1781228335
+|move|p2a: Unite|Kowtow Cleave|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|faint|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Unite|96/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781228341
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-damage|p1a: Zamazenta|84/100|[from] Spikes
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|22
+|
+|t:|1781228354
+|-end|p2a: Unite|fallen2|[silent]
+|switch|p2a: Puff of Smoke|Dragapult, M|100/100
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Puff of Smoke|95/100|[from] Sandstorm
+|-damage|p1a: Zamazenta|78/100|[from] Sandstorm
+|-heal|p1a: Zamazenta|84/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781228363
+|move|p2a: Puff of Smoke|Draco Meteor|p1a: Zamazenta
+|-damage|p1a: Zamazenta|10/100
+|-unboost|p2a: Puff of Smoke|spa|2
+|move|p1a: Zamazenta|Crunch|p2a: Puff of Smoke
+|-supereffective|p2a: Puff of Smoke
+|-damage|p2a: Puff of Smoke|21/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Puff of Smoke|15/100|[from] Sandstorm
+|-damage|p1a: Zamazenta|4/100|[from] Sandstorm
+|-heal|p1a: Zamazenta|10/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781228375
+|move|p2a: Puff of Smoke|Draco Meteor|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|-unboost|p2a: Puff of Smoke|spa|2
+|faint|p1a: Zamazenta
+|
+|-weather|none
+|upkeep
+|-message|phreshoatmeal forfeited.
+|
+|win|Para_dox_ical_2
+|raw|phreshoatmeal's rating: 1695 &rarr; <strong>1671</strong><br />(-24 for losing)
+|raw|Para_dox_ical_2's rating: 1630 &rarr; <strong>1654</strong><br />(+24 for winning)
+|l|☆phreshoatmeal
+|player|p1|
+|l| liechiteladihul
+|l|☆Para_dox_ical_2
+|player|p2|
+|l| nesnot

@@ -1,0 +1,313 @@
+|j|☆viutil
+|j|☆InfinityPokeRang3r
+|t:|1781525591
+|gametype|singles
+|player|p1|viutil|266|1554
+|player|p2|InfinityPokeRang3r|ingo|1525
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ursaluna, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Porygon2|
+|poke|p1|Iron Hands|
+|poke|p1|Rhyperior, M|
+|poke|p2|Dragonite, F|
+|poke|p2|Araquanid, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Iron Crown|
+|poke|p2|Regieleki|
+|poke|p2|Alomomola, M|
+|teampreview
+|
+|t:|1781525604
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Porygon2|Porygon2|100/100
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|atk|1
+|turn|1
+|
+|t:|1781525609
+|move|p2a: Iron Crown|Focus Blast|p1a: Porygon2|[miss]
+|-miss|p2a: Iron Crown|p1a: Porygon2
+|move|p1a: Porygon2|Trick Room|p1a: Porygon2
+|-fieldstart|move: Trick Room|[of] p1a: Porygon2
+|
+|upkeep
+|turn|2
+|
+|t:|1781525618
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Porygon2|Shadow Ball|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-crit|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|90/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781525625
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Ting-Lu|Ruination|p1a: Hatterene
+|-damage|p1a: Hatterene|50/100
+|-enditem|p1a: Hatterene|Eject Button
+|j| choispecs ironmoth
+|
+|t:|1781525629
+|switch|p1a: Ursaluna|Ursaluna, M|100/100
+|
+|-status|p1a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|4
+|
+|t:|1781525638
+|move|p2a: Ting-Lu|Ruination|p1a: Ursaluna
+|-damage|p1a: Ursaluna|51/100 brn
+|move|p1a: Ursaluna|Facade|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|28/100
+|-damage|p1a: Ursaluna|34/100 brn|[from] item: Rocky Helmet|[of] p2a: Ting-Lu
+|
+|-damage|p1a: Ursaluna|28/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1781525658
+|switch|p1a: Porygon2|Porygon2|100/100
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|move|p2a: Ting-Lu|Earthquake|p1a: Porygon2
+|-damage|p1a: Porygon2|73/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1781525665
+|move|p2a: Ting-Lu|Spikes|p1a: Porygon2
+|-sidestart|p1: viutil|Spikes
+|move|p1a: Porygon2|Trick Room|p1a: Porygon2
+|-fieldstart|move: Trick Room|[of] p1a: Porygon2
+|
+|upkeep
+|turn|7
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by viutil)
+|
+|t:|1781525670
+|move|p2a: Ting-Lu|Earthquake|p1a: Porygon2
+|-damage|p1a: Porygon2|50/100
+|move|p1a: Porygon2|Ice Beam|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781525681
+|switch|p2a: Araquanid|Araquanid, M|100/100
+|turn|8
+|-activate|p2a: Araquanid|item: Quick Claw
+|
+|t:|1781525685
+|move|p2a: Araquanid|Liquidation|p1a: Porygon2
+|-damage|p1a: Porygon2|10/100
+|move|p1a: Porygon2|Tri Attack|p2a: Araquanid
+|-damage|p2a: Araquanid|56/100
+|-status|p2a: Araquanid|par
+|
+|upkeep
+|turn|9
+|-activate|p2a: Araquanid|item: Quick Claw
+|
+|t:|1781525691
+|cant|p2a: Araquanid|par
+|move|p1a: Porygon2|Tri Attack|p2a: Araquanid
+|-damage|p2a: Araquanid|8/100 par
+|
+|upkeep
+|turn|10
+|-activate|p2a: Araquanid|item: Quick Claw
+|
+|t:|1781525694
+|move|p2a: Araquanid|Leech Life|p1a: Porygon2
+|-damage|p1a: Porygon2|0 fnt
+|-heal|p2a: Araquanid|14/100 par|[from] drain|[of] p1a: Porygon2
+|faint|p1a: Porygon2
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1781525702
+|switch|p1a: Hatterene|Hatterene, F|50/100
+|-damage|p1a: Hatterene|38/100|[from] Spikes
+|turn|11
+|-activate|p2a: Araquanid|item: Quick Claw
+|
+|t:|1781525706
+|cant|p2a: Araquanid|par
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldstart|move: Trick Room|[of] p1a: Hatterene
+|
+|upkeep
+|turn|12
+|
+|t:|1781525711
+|move|p2a: Araquanid|Liquidation|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781525720
+|switch|p1a: Iron Hands|Iron Hands|100/100
+|-damage|p1a: Iron Hands|88/100|[from] Spikes
+|-enditem|p1a: Iron Hands|Booster Energy
+|-activate|p1a: Iron Hands|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Hands|quarkdriveatk
+|turn|13
+|
+|t:|1781525727
+|move|p2a: Araquanid|Lunge|p1a: Iron Hands
+|-resisted|p1a: Iron Hands
+|-damage|p1a: Iron Hands|79/100
+|-unboost|p1a: Iron Hands|atk|1
+|move|p1a: Iron Hands|Drain Punch|p2a: Araquanid
+|-resisted|p2a: Araquanid
+|-damage|p2a: Araquanid|0 fnt
+|-heal|p1a: Iron Hands|84/100|[from] drain|[of] p2a: Araquanid
+|faint|p2a: Araquanid
+|
+|upkeep
+|
+|t:|1781525745
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|turn|14
+|
+|t:|1781525753
+|move|p1a: Iron Hands|Drain Punch|p2a: Iron Crown
+|-damage|p2a: Iron Crown|60/100
+|-heal|p1a: Iron Hands|96/100|[from] drain|[of] p2a: Iron Crown
+|move|p2a: Iron Crown|Psyshock|p1a: Iron Hands
+|-supereffective|p1a: Iron Hands
+|-damage|p1a: Iron Hands|21/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781525761
+|move|p1a: Iron Hands|Supercell Slam|p2a: Iron Crown
+|-damage|p2a: Iron Crown|7/100
+|move|p2a: Iron Crown|Psyshock|p1a: Iron Hands
+|-supereffective|p1a: Iron Hands
+|-damage|p1a: Iron Hands|0 fnt
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1781525765
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|turn|16
+|
+|t:|1781525767
+|move|p2a: Iron Crown|Psyshock|p1a: Slowking
+|-damage|p1a: Slowking|41/100
+|move|p1a: Slowking|Trick Room|p1a: Slowking
+|-fieldstart|move: Trick Room|[of] p1a: Slowking
+|
+|upkeep
+|turn|17
+|
+|t:|1781525772
+|move|p1a: Slowking|Flamethrower|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-crit|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781525781
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|turn|18
+|
+|t:|1781525788
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781525794
+|switch|p1a: Rhyperior|Rhyperior, M|100/100|[from] Chilly Reception
+|-damage|p1a: Rhyperior|88/100|[from] Spikes
+|move|p2a: Alomomola|Flip Turn|p1a: Rhyperior
+|-supereffective|p1a: Rhyperior
+|-damage|p1a: Rhyperior|54/100
+|
+|t:|1781525805
+|switch|p2a: Regieleki|Regieleki|100/100|[from] Flip Turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781525813
+|move|p1a: Rhyperior|Megahorn|p2a: Regieleki|[miss]
+|-miss|p1a: Rhyperior|p2a: Regieleki
+|move|p2a: Regieleki|Reflect|p2a: Regieleki
+|-sidestart|p2: InfinityPokeRang3r|Reflect
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781525819
+|move|p1a: Rhyperior|Megahorn|p2a: Regieleki
+|-damage|p2a: Regieleki|34/100
+|move|p2a: Regieleki|Light Screen|p2a: Regieleki
+|-sidestart|p2: InfinityPokeRang3r|move: Light Screen
+|
+|-weather|Snowscape|[upkeep]
+|-fieldend|move: Trick Room
+|upkeep
+|turn|21
+|
+|t:|1781525824
+|move|p2a: Regieleki|Rapid Spin|p1a: Rhyperior
+|-resisted|p1a: Rhyperior
+|-damage|p1a: Rhyperior|50/100
+|-boost|p2a: Regieleki|spe|1
+|move|p1a: Rhyperior|Megahorn|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781525833
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|22
+|-message|viutil forfeited.
+|
+|win|InfinityPokeRang3r
+|raw|viutil's rating: 1554 &rarr; <strong>1532</strong><br />(-22 for losing)
+|raw|InfinityPokeRang3r's rating: 1525 &rarr; <strong>1547</strong><br />(+22 for winning)
+|l|☆viutil
+|player|p1|
+|l|☆InfinityPokeRang3r
+|player|p2|

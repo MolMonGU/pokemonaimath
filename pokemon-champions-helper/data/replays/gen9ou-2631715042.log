@@ -1,0 +1,226 @@
+|badge|p1|silver|gen9randombattle|30-9
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆Ctannn
+|j|☆m5322
+|t:|1781427226
+|gametype|singles
+|player|p1|Ctannn|169|1715
+|player|p2|m5322|2|1561
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Rillaboom, M|
+|poke|p1|Garganacl, F|
+|poke|p1|Cinderace, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Ceruledge, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Glimmora, F|
+|poke|p2|Moltres-Galar|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by m5322)
+|
+|t:|1781427245
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|1
+|
+|t:|1781427251
+|move|p2a: Ogerpon|Play Rough|p1a: Raging Bolt|[miss]
+|-miss|p2a: Ogerpon|p1a: Raging Bolt
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Ogerpon
+|-damage|p2a: Ogerpon|35/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781427257
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|
+|upkeep
+|turn|3
+|
+|t:|1781427260
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: m5322|move: Light Screen
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Deoxys
+|-damage|p2a: Deoxys|69/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781427265
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Deoxys|Psycho Boost|p1a: Slowking|[miss]
+|-miss|p2a: Deoxys|p1a: Slowking
+|
+|upkeep
+|turn|5
+|
+|t:|1781427270
+|move|p2a: Deoxys|Taunt|p1a: Slowking
+|-start|p1a: Slowking|move: Taunt
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|cant|p1a: Slowking|move: Taunt|Chilly Reception
+|
+|upkeep
+|turn|6
+|
+|t:|1781427274
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: m5322|Reflect
+|move|p1a: Slowking|Future Sight|p2a: Deoxys
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|7
+|
+|t:|1781427283
+|switch|p2a: Moltres|Moltres-Galar|100/100
+|move|p1a: Slowking|Psychic|p2a: Moltres
+|-immune|p2a: Moltres
+|
+|-end|p1a: Slowking|move: Taunt
+|upkeep
+|turn|8
+|
+|t:|1781427288
+|switch|p1a: Garganacl|Garganacl, F|100/100
+|move|p2a: Moltres|Nasty Plot|p2a: Moltres
+|-boost|p2a: Moltres|spa|2
+|
+|-end|p2a: Moltres|move: Future Sight
+|-immune|p2a: Moltres
+|upkeep
+|turn|9
+|
+|t:|1781427291
+|move|p2a: Moltres|Fiery Wrath|p1a: Garganacl
+|-damage|p1a: Garganacl|40/100
+|move|p1a: Garganacl|Salt Cure|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|85/100
+|-start|p2a: Moltres|Salt Cure
+|
+|-heal|p1a: Garganacl|47/100|[from] item: Leftovers
+|-damage|p2a: Moltres|72/100|[from] Salt Cure
+|upkeep
+|turn|10
+|
+|t:|1781427305
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Garganacl|Recover|p1a: Garganacl
+|-heal|p1a: Garganacl|97/100
+|
+|-heal|p1a: Garganacl|100/100|[from] item: Leftovers
+|-sideend|p2: m5322|move: Light Screen
+|upkeep
+|turn|11
+|
+|t:|1781427308
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Zamazenta|Substitute|p2a: Zamazenta
+|-start|p2a: Zamazenta|Substitute
+|-damage|p2a: Zamazenta|76/100
+|
+|-heal|p2a: Zamazenta|82/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781427313
+|move|p2a: Zamazenta|Heavy Slam|p1a: Slowking
+|-damage|p1a: Slowking|88/100
+|-damage|p2a: Zamazenta|65/100|[from] item: Rocky Helmet|[of] p1a: Slowking
+|move|p1a: Slowking|Future Sight|p2a: Zamazenta
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p2a: Zamazenta|71/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781427322
+|move|p2a: Zamazenta|Heavy Slam|p1a: Slowking
+|-damage|p1a: Slowking|76/100
+|-damage|p2a: Zamazenta|55/100|[from] item: Rocky Helmet|[of] p1a: Slowking
+|move|p1a: Slowking|Psychic|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-end|p2a: Zamazenta|Substitute
+|
+|-heal|p2a: Zamazenta|61/100|[from] item: Leftovers
+|-sideend|p2: m5322|Reflect
+|upkeep
+|turn|14
+|
+|t:|1781427326
+|switch|p2a: Deoxys|Deoxys-Speed|69/100
+|-ability|p2a: Deoxys|Pressure
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781427332
+|switch|p1a: Rillaboom|Rillaboom, M|100/100|[from] Chilly Reception
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Deoxys|move: Future Sight
+|-resisted|p2a: Deoxys
+|-damage|p2a: Deoxys|42/100
+|-heal|p2a: Deoxys|48/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1781427341
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|move|p1a: Rillaboom|Knock Off|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|15/100
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|-enditem|p2a: Ceruledge|Life Orb|[from] move: Knock Off|[of] p1a: Rillaboom
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Ceruledge|21/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1781427348
+|move|p1a: Rillaboom|Grassy Glide|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|-message|m5322 forfeited.
+|
+|win|Ctannn
+|raw|Ctannn's rating: 1715 &rarr; <strong>1727</strong><br />(+12 for winning)
+|raw|m5322's rating: 1561 &rarr; <strong>1549</strong><br />(-12 for losing)
+|l|☆m5322
+|player|p2|
+|l|☆Ctannn
+|player|p1|

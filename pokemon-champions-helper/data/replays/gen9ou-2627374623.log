@@ -1,0 +1,349 @@
+|j|☆ballerr
+|j|☆rockeater9000
+|t:|1780892407
+|gametype|singles
+|player|p1|ballerr|miku-ground|1590
+|player|p2|rockeater9000|1|1628
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Salazzle, F|
+|poke|p1|Gliscor, M|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Great Tusk|
+|poke|p1|Kingambit, F|
+|poke|p1|Deoxys-Speed|
+|poke|p2|Greninja-*, M|
+|poke|p2|Glimmora, F|
+|poke|p2|Garchomp, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Kingambit, F|
+|poke|p2|Ceruledge, F|
+|teampreview
+|
+|t:|1780892421
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|1
+|
+|t:|1780892440
+|switch|p2a: Greninja|Greninja, M|100/100
+|move|p1a: Deoxys|Taunt|p2a: Greninja
+|-start|p2a: Greninja|move: Taunt
+|
+|upkeep
+|turn|2
+|
+|t:|1780892446
+|move|p1a: Deoxys|Focus Blast|p2a: Greninja
+|-supereffective|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|faint|p2a: Greninja
+|-damage|p1a: Deoxys|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1780892450
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|3
+|
+|t:|1780892459
+|move|p2a: Iron Valiant|Knock Off|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|5/100
+|-enditem|p1a: Deoxys|Life Orb|[from] move: Knock Off|[of] p2a: Iron Valiant
+|move|p1a: Deoxys|Psycho Boost|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|-unboost|p1a: Deoxys|spa|2
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780892463
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|-item|p2a: Ceruledge|Air Balloon
+|turn|4
+|
+|t:|1780892477
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|upkeep
+|
+|t:|1780892480
+|switch|p1a: Salazzle|Salazzle, F|100/100
+|turn|5
+|
+|t:|1780892488
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|move|p1a: Salazzle|Toxic|p2a: Glimmora
+|-status|p2a: Glimmora|tox
+|
+|-damage|p2a: Glimmora|94/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1780892494
+|move|p1a: Salazzle|Substitute|p1a: Salazzle
+|-start|p1a: Salazzle|Substitute
+|-damage|p1a: Salazzle|76/100
+|move|p2a: Glimmora|Earth Power|p1a: Salazzle
+|-supereffective|p1a: Salazzle
+|-end|p1a: Salazzle|Substitute
+|
+|-heal|p1a: Salazzle|82/100|[from] item: Leftovers
+|-damage|p2a: Glimmora|82/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1780892498
+|move|p1a: Salazzle|Protect|p1a: Salazzle
+|-singleturn|p1a: Salazzle|Protect
+|move|p2a: Glimmora|Earth Power|p1a: Salazzle
+|-activate|p1a: Salazzle|move: Protect
+|
+|-heal|p1a: Salazzle|88/100|[from] item: Leftovers
+|-damage|p2a: Glimmora|63/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1780892501
+|move|p1a: Salazzle|Substitute|p1a: Salazzle
+|-start|p1a: Salazzle|Substitute
+|-damage|p1a: Salazzle|63/100
+|move|p2a: Glimmora|Earth Power|p1a: Salazzle
+|-supereffective|p1a: Salazzle
+|-end|p1a: Salazzle|Substitute
+|
+|-heal|p1a: Salazzle|70/100|[from] item: Leftovers
+|-damage|p2a: Glimmora|39/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1780892505
+|move|p1a: Salazzle|Protect|p1a: Salazzle
+|-singleturn|p1a: Salazzle|Protect
+|move|p2a: Glimmora|Stealth Rock|p1a: Salazzle
+|-sidestart|p1: ballerr|move: Stealth Rock
+|
+|-heal|p1a: Salazzle|76/100|[from] item: Leftovers
+|-damage|p2a: Glimmora|8/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1780892511
+|move|p1a: Salazzle|Sludge Bomb|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|
+|-heal|p1a: Salazzle|82/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780892516
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|turn|11
+|
+|t:|1780892538
+|-terastallize|p1a: Salazzle|Ghost
+|move|p1a: Salazzle|Toxic|p2a: Garchomp|[miss]
+|-miss|p1a: Salazzle|p2a: Garchomp
+|move|p2a: Garchomp|Scale Shot|p1a: Salazzle
+|-damage|p1a: Salazzle|65/100
+|-damage|p1a: Salazzle|48/100
+|-damage|p1a: Salazzle|32/100
+|-damage|p1a: Salazzle|16/100
+|-hitcount|p1a: Salazzle|4
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|
+|-heal|p1a: Salazzle|22/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1780892554
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Garchomp|Scale Shot|p1a: Slowking|[miss]
+|-miss|p2a: Garchomp|p1a: Slowking
+|
+|upkeep
+|turn|13
+|
+|t:|1780892561
+|move|p2a: Garchomp|Earthquake|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1780892564
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|14
+|
+|t:|1780892578
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|-item|p2a: Ceruledge|Air Balloon
+|move|p1a: Great Tusk|Headlong Rush|p2a: Ceruledge
+|-immune|p2a: Ceruledge
+|
+|upkeep
+|turn|15
+|
+|t:|1780892581
+|move|p1a: Great Tusk|Ice Spinner|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|79/100
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|-enditem|p2a: Ceruledge|Air Balloon
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|16
+|
+|t:|1780892585
+|move|p2a: Ceruledge|Poltergeist|p1a: Great Tusk
+|-activate|p1a: Great Tusk|move: Poltergeist|Heavy-Duty Boots
+|-damage|p1a: Great Tusk|24/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Ceruledge
+|
+|upkeep
+|
+|t:|1780892618
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|turn|17
+|
+|t:|1780892629
+|move|p2a: Garchomp|Scale Shot|p1a: Great Tusk
+|-damage|p1a: Great Tusk|9/100
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|-hitcount|p1: Great Tusk|2
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|
+|upkeep
+|
+|t:|1780892639
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|18
+|
+|t:|1780892643
+|move|p2a: Garchomp|Earthquake|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|10/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Kingambit|0 fnt|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1780892650
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|switch|p1a: Salazzle|Salazzle, F, tera:Ghost|22/100
+|-damage|p1a: Salazzle|10/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|turn|19
+|
+|t:|1780892653
+|move|p1a: Salazzle|Toxic|p2a: Kingambit
+|-status|p2a: Kingambit|tox
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Salazzle
+|-supereffective|p1a: Salazzle
+|-damage|p1a: Salazzle|0 fnt
+|faint|p1a: Salazzle
+|
+|-damage|p2a: Kingambit|94/100 tox|[from] psn
+|upkeep
+|
+|t:|1780892656
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|-damage|p1a: Gliscor|88/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1780892659
+|-terastallize|p2a: Kingambit|Dark
+|move|p1a: Gliscor|Knock Off|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|86/100 tox
+|-enditem|p2a: Kingambit|Black Glasses|[from] move: Knock Off|[of] p1a: Gliscor
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Gliscor
+|-damage|p1a: Gliscor|12/100
+|
+|-damage|p2a: Kingambit|74/100 tox|[from] psn
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|21
+|
+|t:|1780892670
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p1a: Gliscor|25/100 tox|[from] ability: Poison Heal
+|-damage|p2a: Kingambit|56/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1780892683
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p1a: Gliscor|37/100 tox|[from] ability: Poison Heal
+|-damage|p2a: Kingambit|32/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1780892692
+|move|p1a: Gliscor|Facade|p2a: Kingambit
+|-damage|p2a: Kingambit|8/100 tox
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|
+|win|rockeater9000
+|raw|ballerr's rating: 1590 &rarr; <strong>1572</strong><br />(-18 for losing)
+|raw|rockeater9000's rating: 1628 &rarr; <strong>1646</strong><br />(+18 for winning)
+|l|☆rockeater9000
+|player|p2|
+|l|☆ballerr
+|player|p1|

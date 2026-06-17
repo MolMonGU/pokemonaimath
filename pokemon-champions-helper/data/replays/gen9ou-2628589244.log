@@ -1,0 +1,411 @@
+|j|☆roninakahito
+|j|☆vivienne black
+|t:|1781033145
+|gametype|singles
+|player|p1|roninakahito|ninjaboy|1550
+|player|p2|vivienne black|guitarist|1532
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Crown|
+|poke|p1|Tyranitar, F|
+|poke|p1|Great Tusk|
+|poke|p1|Drifblim, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Iron Valiant|
+|poke|p2|Iron Moth|
+|poke|p2|Gliscor, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Zamazenta-*|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by roninakahito)
+|inactive|roninakahito has 120 seconds left.
+|
+|t:|1781033188
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Drifblim|Drifblim, M|100/100
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|1
+|
+|t:|1781033197
+|move|p1a: Drifblim|Trick|p2a: Zamazenta
+|-activate|p1a: Drifblim|move: Trick|[of] p2a: Zamazenta
+|-item|p2a: Zamazenta|Choice Scarf|[from] move: Trick
+|-item|p1a: Drifblim|Light Clay|[from] move: Trick
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: vivienne black|move: Light Screen
+|
+|upkeep
+|turn|2
+|
+|t:|1781033205
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|move|p1a: Drifblim|Will-O-Wisp|p2a: Iron Moth
+|-immune|p2a: Iron Moth
+|
+|upkeep
+|turn|3
+|
+|t:|1781033209
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Iron Moth|Fiery Dance|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|87/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Moth|94/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|93/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781033215
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|switch|p1a: Drifblim|Drifblim, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|94/100|[from] Sandstorm
+|-damage|p1a: Drifblim|94/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1781033218
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: vivienne black|Reflect
+|move|p1a: Drifblim|Will-O-Wisp|p2a: Zamazenta
+|-status|p2a: Zamazenta|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|88/100 brn|[from] Sandstorm
+|-damage|p1a: Drifblim|88/100|[from] Sandstorm
+|-damage|p2a: Zamazenta|82/100 brn|[from] brn
+|-sideend|p2: vivienne black|move: Light Screen
+|upkeep
+|turn|6
+|
+|t:|1781033221
+|switch|p2a: Iron Moth|Iron Moth|94/100
+|move|p1a: Drifblim|Defog|p2a: Iron Moth
+|-unboost|p2a: Iron Moth|evasion|1
+|-sideend|p2: vivienne black|Reflect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Moth|88/100|[from] Sandstorm
+|-damage|p1a: Drifblim|82/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1781033224
+|switch|p1a: Tyranitar|Tyranitar, F|93/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|79/100
+|
+|-weather|none
+|-heal|p1a: Tyranitar|85/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781033228
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Zamazenta|Zamazenta|82/100 brn
+|move|p1a: Tyranitar|Dragon Dance|p1a: Tyranitar
+|-boost|p1a: Tyranitar|atk|1
+|-boost|p1a: Tyranitar|spe|1
+|
+|-heal|p1a: Tyranitar|91/100|[from] item: Leftovers
+|-damage|p2a: Zamazenta|76/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1781033231
+|switch|p1a: Drifblim|Drifblim, M|82/100
+|move|p2a: Zamazenta|Close Combat|p1a: Drifblim
+|-immune|p1a: Drifblim
+|
+|-damage|p2a: Zamazenta|70/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1781033236
+|switch|p2a: Iron Moth|Iron Moth|88/100
+|move|p1a: Drifblim|Shadow Ball|p2a: Iron Moth
+|-damage|p2a: Iron Moth|58/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781033239
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Zamazenta|Zamazenta|70/100 brn
+|switch|p1a: Tyranitar|Tyranitar, F|91/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|64/100 brn|[from] Sandstorm
+|-heal|p1a: Tyranitar|97/100|[from] item: Leftovers
+|-damage|p2a: Zamazenta|58/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1781033248
+|switch|p1a: Drifblim|Drifblim, M|82/100
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: vivienne black|Reflect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|52/100 brn|[from] Sandstorm
+|-damage|p1a: Drifblim|76/100|[from] Sandstorm
+|-damage|p2a: Zamazenta|46/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1781033251
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Drifblim|Shadow Ball|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|36/100
+|-unboost|p2a: Hatterene|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Drifblim|70/100|[from] Sandstorm
+|-damage|p2a: Hatterene|30/100|[from] Sandstorm
+|-heal|p2a: Hatterene|36/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781033254
+|switch|p2a: Iron Moth|Iron Moth|58/100
+|move|p1a: Drifblim|Shadow Ball|p2a: Iron Moth
+|-damage|p2a: Iron Moth|26/100
+|-unboost|p2a: Iron Moth|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Moth|20/100|[from] Sandstorm
+|-damage|p1a: Drifblim|64/100|[from] Sandstorm
+|upkeep
+|turn|15
+|
+|t:|1781033257
+|switch|p1a: Tyranitar|Tyranitar, F|97/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|84/100
+|
+|-weather|none
+|-heal|p1a: Tyranitar|91/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781033263
+|move|p2a: Iron Moth|Energy Ball|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|27/100
+|move|p1a: Tyranitar|Dragon Dance|p1a: Tyranitar
+|-boost|p1a: Tyranitar|atk|1
+|-boost|p1a: Tyranitar|spe|1
+|
+|-heal|p1a: Tyranitar|33/100|[from] item: Leftovers
+|-sideend|p2: vivienne black|Reflect
+|upkeep
+|turn|17
+|
+|t:|1781033270
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Zamazenta|Zamazenta|46/100 brn
+|move|p1a: Tyranitar|Low Kick|p2a: Zamazenta
+|-crit|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|-heal|p1a: Tyranitar|40/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781033283
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|18
+|
+|t:|1781033288
+|move|p1a: Tyranitar|Stone Edge|p2a: Ogerpon
+|-crit|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|-heal|p1a: Tyranitar|46/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781033292
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|19
+|
+|t:|1781033297
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|
+|upkeep
+|turn|20
+|
+|t:|1781033307
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Drifblim|Drifblim, M|64/100
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|21
+|
+|t:|1781033313
+|move|p1a: Drifblim|Shadow Ball|p2a: Gliscor
+|-damage|p2a: Gliscor|58/100 tox
+|move|p2a: Gliscor|Agility|p2a: Gliscor
+|-boost|p2a: Gliscor|spe|2
+|
+|-heal|p2a: Gliscor|71/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|22
+|
+|t:|1781033319
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|-terastallize|p2a: Gliscor|Normal
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|
+|-heal|p2a: Gliscor|77/100 tox|[from] Grassy Terrain
+|-heal|p2a: Gliscor|89/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|23
+|
+|t:|1781033323
+|move|p2a: Gliscor|Facade|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Gliscor|95/100 tox|[from] Grassy Terrain
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781033328
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|turn|24
+|
+|t:|1781033345
+|move|p2a: Gliscor|Earthquake|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|11/100
+|-enditem|p1a: Iron Crown|Weakness Policy
+|-boost|p1a: Iron Crown|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Iron Crown|spa|2|[from] item: Weakness Policy
+|move|p1a: Iron Crown|Agility|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spe|2
+|
+|-heal|p1a: Iron Crown|17/100|[from] Grassy Terrain
+|upkeep
+|turn|25
+|
+|t:|1781033353
+|move|p1a: Iron Crown|Stored Power|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|-heal|p1a: Iron Crown|23/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781033356
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|26
+|
+|t:|1781033359
+|move|p2a: Raging Bolt|Thunderclap|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781033360
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|27
+|
+|t:|1781033384
+|move|p1a: Great Tusk|Headlong Rush|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781033387
+|switch|p2a: Iron Moth|Iron Moth|20/100
+|turn|28
+|
+|t:|1781033390
+|move|p2a: Iron Moth|Energy Ball|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781033393
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|29
+|
+|t:|1781033409
+|move|p1a: Iron Valiant|Thunderbolt|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781033411
+|switch|p2a: Hatterene|Hatterene, F|36/100
+|turn|30
+|inactive|roninakahito has 120 seconds left.
+|
+|t:|1781033466
+|-terastallize|p1a: Iron Valiant|Steel
+|move|p1a: Iron Valiant|Moonblast|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|win|roninakahito
+|raw|roninakahito's rating: 1550 &rarr; <strong>1569</strong><br />(+19 for winning)
+|raw|vivienne black's rating: 1532 &rarr; <strong>1513</strong><br />(-19 for losing)
+|l|☆roninakahito
+|player|p1|
+|l|☆vivienne black
+|player|p2|

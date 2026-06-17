@@ -1,0 +1,331 @@
+|j|☆jus4funsies
+|j|☆kanitanku
+|t:|1781230579
+|gametype|singles
+|player|p1|jus4funsies|teamrocket|1637
+|player|p2|kanitanku|169|1616
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Gholdengo|
+|poke|p1|Great Tusk|
+|poke|p1|Raging Bolt|
+|poke|p1|Dragonite, F|
+|poke|p1|Kingambit, M|
+|poke|p2|Sylveon, M|
+|poke|p2|Ninetales, M|
+|poke|p2|Walking Wake|
+|poke|p2|Slither Wing|
+|poke|p2|Hatterene, F|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|
+|t:|1781230588
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Shamiqua|Samurott-Hisui, F|100/100
+|switch|p2a: Ninetales|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|1
+|
+|t:|1781230599
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|move|p1a: Shamiqua|Ceaseless Edge|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-damage|p2a: Slither Wing|73/100
+|-sidestart|p2: kanitanku|Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781230613
+|move|p2a: Slither Wing|First Impression|p1a: Shamiqua
+|-supereffective|p1a: Shamiqua
+|-enditem|p1a: Shamiqua|Focus Sash
+|-damage|p1a: Shamiqua|1/100
+|move|p1a: Shamiqua|Ceaseless Edge|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-damage|p2a: Slither Wing|42/100
+|-sidestart|p2: kanitanku|Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781230625
+|move|p1a: Shamiqua|Sucker Punch|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-damage|p2a: Slither Wing|22/100
+|move|p2a: Slither Wing|U-turn|p1a: Shamiqua
+|-supereffective|p1a: Shamiqua
+|-damage|p1a: Shamiqua|0 fnt
+|faint|p1a: Shamiqua
+|
+|t:|1781230633
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781230635
+|switch|p1a: Tyrone|Great Tusk|100/100
+|-activate|p1a: Tyrone|ability: Protosynthesis
+|-start|p1a: Tyrone|protosynthesisspe
+|turn|4
+|
+|t:|1781230643
+|move|p1a: Tyrone|Stealth Rock|p2a: Landorus
+|-sidestart|p2: kanitanku|move: Stealth Rock
+|move|p2a: Landorus|Earth Power|p1a: Tyrone
+|-damage|p1a: Tyrone|48/100
+|-unboost|p1a: Tyrone|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781230650
+|move|p1a: Tyrone|Ice Spinner|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-enditem|p2a: Landorus|Yache Berry|[eat]
+|-enditem|p2a: Landorus|Yache Berry|[weaken]
+|-damage|p2a: Landorus|46/100
+|move|p2a: Landorus|Earth Power|p1a: Tyrone
+|-damage|p1a: Tyrone|0 fnt
+|faint|p1a: Tyrone
+|-end|p1a: Tyrone|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781230655
+|switch|p1a: Cinna-Mon|Gholdengo|100/100
+|-item|p1a: Cinna-Mon|Air Balloon
+|turn|6
+|
+|t:|1781230657
+|move|p2a: Landorus|Weather Ball|p1a: Cinna-Mon
+|-supereffective|p1a: Cinna-Mon
+|-damage|p1a: Cinna-Mon|0 fnt
+|-enditem|p1a: Cinna-Mon|Air Balloon
+|faint|p1a: Cinna-Mon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781230661
+|switch|p1a: Daddy long neck|Raging Bolt|100/100
+|-activate|p1a: Daddy long neck|ability: Protosynthesis
+|-start|p1a: Daddy long neck|protosynthesisspa
+|turn|7
+|
+|t:|1781230665
+|-terastallize|p1a: Daddy long neck|Fairy
+|move|p2a: Landorus|Stealth Rock|p1a: Daddy long neck
+|-sidestart|p1: jus4funsies|move: Stealth Rock
+|move|p1a: Daddy long neck|Dragon Pulse|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781230690
+|switch|p2a: Sylveon|Sylveon, M, shiny|100/100
+|-damage|p2a: Sylveon|84/100|[from] Spikes
+|-damage|p2a: Sylveon|71/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1781230693
+|move|p1a: Daddy long neck|Calm Mind|p1a: Daddy long neck
+|-boost|p1a: Daddy long neck|spa|1
+|-boost|p1a: Daddy long neck|spd|1
+|move|p2a: Sylveon|Hyper Voice|p1a: Daddy long neck
+|-damage|p1a: Daddy long neck|51/100
+|
+|-weather|none
+|-end|p1a: Daddy long neck|Protosynthesis
+|upkeep
+|-enditem|p1a: Daddy long neck|Booster Energy
+|-activate|p1a: Daddy long neck|ability: Protosynthesis|[fromitem]
+|-start|p1a: Daddy long neck|protosynthesisspa
+|turn|9
+|
+|t:|1781230701
+|move|p1a: Daddy long neck|Thunderbolt|p2a: Sylveon
+|-damage|p2a: Sylveon|0 fnt
+|faint|p2a: Sylveon
+|
+|upkeep
+|
+|t:|1781230704
+|switch|p2a: Ninetales|Ninetales, M|100/100
+|-damage|p2a: Ninetales|84/100|[from] Spikes
+|-damage|p2a: Ninetales|59/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|10
+|
+|t:|1781230718
+|move|p1a: Daddy long neck|Thunderclap||[still]
+|-fail|p1a: Daddy long neck
+|move|p2a: Ninetales|Encore|p1a: Daddy long neck
+|-start|p1a: Daddy long neck|Encore
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781230738
+|move|p1a: Daddy long neck|Thunderclap||[still]
+|-fail|p1a: Daddy long neck
+|move|p2a: Ninetales|Healing Wish|p2a: Ninetales
+|faint|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781230741
+|switch|p2a: Slither Wing|Slither Wing|22/100
+|-heal|p2a: Slither Wing|100/100|[from] move: Healing Wish
+|-damage|p2a: Slither Wing|84/100|[from] Spikes
+|-damage|p2a: Slither Wing|72/100|[from] Stealth Rock
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|turn|12
+|
+|t:|1781230749
+|move|p1a: Daddy long neck|Thunderclap|p2a: Slither Wing
+|-damage|p2a: Slither Wing|19/100
+|move|p2a: Slither Wing|Earthquake|p1a: Daddy long neck
+|-damage|p1a: Daddy long neck|4/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781230762
+|move|p2a: Slither Wing|First Impression||[still]
+|-hint|First Impression only works on your first turn out.
+|-fail|p2a: Slither Wing
+|move|p1a: Daddy long neck|Thunderclap||[still]
+|-fail|p1a: Daddy long neck
+|
+|-weather|SunnyDay|[upkeep]
+|-end|p1a: Daddy long neck|Encore
+|upkeep
+|turn|14
+|
+|t:|1781230767
+|move|p2a: Slither Wing|First Impression||[still]
+|-hint|First Impression only works on your first turn out.
+|-fail|p2a: Slither Wing
+|move|p1a: Daddy long neck|Thunderclap||[still]
+|-fail|p1a: Daddy long neck
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781230772
+|move|p2a: Slither Wing|U-turn|p1a: Daddy long neck
+|-resisted|p1a: Daddy long neck
+|-damage|p1a: Daddy long neck|0 fnt
+|faint|p1a: Daddy long neck
+|-end|p1a: Daddy long neck|Protosynthesis|[silent]
+|
+|t:|1781230781
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Hatterene|Hatterene, F|100/100|[from] U-turn
+|-damage|p2a: Hatterene|84/100|[from] Spikes
+|-damage|p2a: Hatterene|72/100|[from] Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781230784
+|switch|p1a: WE WUZ|Kingambit, M|100/100
+|-damage|p1a: WE WUZ|94/100|[from] Stealth Rock
+|-activate|p1a: WE WUZ|ability: Supreme Overlord
+|-start|p1a: WE WUZ|fallen4|[silent]
+|turn|16
+|
+|t:|1781230789
+|switch|p2a: Slither Wing|Slither Wing|19/100
+|-damage|p2a: Slither Wing|3/100|[from] Spikes
+|-damage|p2a: Slither Wing|0 fnt|[from] Stealth Rock
+|faint|p2a: Slither Wing
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|move|p1a: WE WUZ|Iron Head|p2: Slither Wing|[notarget]
+|-fail|p1a: WE WUZ
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781230793
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-damage|p2a: Walking Wake|84/100|[from] Spikes
+|-damage|p2a: Walking Wake|72/100|[from] Stealth Rock
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|turn|17
+|
+|t:|1781230817
+|move|p1a: WE WUZ|Sucker Punch|p2a: Walking Wake
+|-damage|p2a: Walking Wake|2/100
+|move|p2a: Walking Wake|Flamethrower|p1a: WE WUZ
+|-supereffective|p1a: WE WUZ
+|-damage|p1a: WE WUZ|0 fnt
+|faint|p1a: WE WUZ
+|-end|p1a: WE WUZ|fallen4|[silent]
+|-damage|p2a: Walking Wake|0 fnt|[from] item: Life Orb
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781230820
+|switch|p2a: Hatterene|Hatterene, F|72/100
+|switch|p1a: DragoniGG|Dragonite, F|100/100
+|-damage|p2a: Hatterene|55/100|[from] Spikes
+|-damage|p2a: Hatterene|43/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781230828
+|move|p1a: DragoniGG|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|11/100
+|move|p2a: Hatterene|Dazzling Gleam|p1a: DragoniGG
+|-supereffective|p1a: DragoniGG
+|-damage|p1a: DragoniGG|63/100
+|
+|upkeep
+|turn|19
+|c|☆kanitanku|gg
+|
+|t:|1781230832
+|move|p1a: DragoniGG|Extreme Speed|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|win|jus4funsies
+|raw|jus4funsies's rating: 1637 &rarr; <strong>1656</strong><br />(+19 for winning)
+|raw|kanitanku's rating: 1616 &rarr; <strong>1597</strong><br />(-19 for losing)
+|l|☆kanitanku
+|player|p2|
+|l|☆jus4funsies
+|player|p1|

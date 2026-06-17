@@ -1,0 +1,343 @@
+|j|☆Aarons fish
+|j|☆P38
+|t:|1781022977
+|gametype|singles
+|player|p1|Aarons fish|101|1543
+|player|p2|P38|spark-casual|1564
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Torkoal, M|
+|poke|p1|Iron Moth|
+|poke|p1|Slither Wing|
+|poke|p1|Walking Wake|
+|poke|p2|Kingambit, F|
+|poke|p2|Iron Moth|
+|poke|p2|Cramorant, M|
+|poke|p2|Enamorus, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Great Tusk|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Aarons fish)
+|
+|t:|1781022982
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|switch|p2a: Cramorant|Cramorant, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|j| Fat_Yogi
+|
+|t:|1781022988
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Cramorant|Surf|p1a: Raging Bolt
+|-formechange|p2a: Cramorant|Cramorant-Gulping|
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|97/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781022995
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Raging Bolt|Weather Ball|p2a: Great Tusk
+|-damage|p2a: Great Tusk|2/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781022999
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Great Tusk|atk|1
+|move|p2a: Great Tusk|Stealth Rock|p1a: Landorus
+|-sidestart|p1: Aarons fish|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781023001
+|move|p2a: Great Tusk|Ice Spinner|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|27/100
+|-damage|p2a: Great Tusk|0 fnt|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|move|p1a: Landorus|Stealth Rock|p2: Great Tusk
+|-sidestart|p2: P38|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781023005
+|switch|p2a: Cramorant|Cramorant, M, shiny|100/100
+|-damage|p2a: Cramorant|76/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1781023010
+|move|p2a: Cramorant|Defog|p1a: Landorus
+|-unboost|p1a: Landorus|evasion|1
+|-sideend|p1: Aarons fish|Stealth Rock|[from] move: Defog|[of] p2a: Cramorant
+|-sideend|p2: P38|Stealth Rock|[from] move: Defog|[of] p2a: Cramorant
+|move|p1a: Landorus|Stone Edge|p2a: Cramorant
+|-supereffective|p2a: Cramorant
+|-damage|p2a: Cramorant|0 fnt
+|faint|p2a: Cramorant
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781023016
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|turn|6
+|
+|t:|1781023023
+|move|p2a: Enamorus|Moonblast|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781023024
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|turn|7
+|
+|t:|1781023027
+|-terastallize|p1a: Iron Moth|Fire
+|move|p1a: Iron Moth|Fiery Dance|p2a: Enamorus
+|-enditem|p2a: Enamorus|Focus Sash
+|-damage|p2a: Enamorus|1/100
+|move|p2a: Enamorus|Earth Power|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|31/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781023033
+|move|p1a: Iron Moth|Fiery Dance|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|
+|-weather|none
+|upkeep
+|
+|t:|1781023040
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|turn|9
+|
+|t:|1781023045
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|97/100
+|move|p2a: Iron Moth|Sludge Wave|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|74/100
+|-status|p1a: Raging Bolt|psn
+|
+|-damage|p1a: Raging Bolt|62/100 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1781023051
+|move|p2a: Iron Moth|Dazzling Gleam|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|35/100 psn
+|move|p1a: Raging Bolt|Volt Switch|p2a: Iron Moth
+|-damage|p2a: Iron Moth|61/100
+|
+|t:|1781023059
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Walking Wake|Walking Wake|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|11
+|
+|t:|1781023074
+|-terastallize|p2a: Iron Moth|Grass
+|move|p2a: Iron Moth|Dazzling Gleam|p1a: Walking Wake
+|-supereffective|p1a: Walking Wake
+|-damage|p1a: Walking Wake|33/100
+|move|p1a: Walking Wake|Hydro Steam|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-damage|p2a: Iron Moth|31/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781023079
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Iron Moth|Sludge Wave|p1a: Torkoal
+|-damage|p1a: Torkoal|38/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781023084
+|move|p2a: Iron Moth|Fiery Dance|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|1/100
+|-boost|p2a: Iron Moth|spa|1
+|move|p1a: Torkoal|Stealth Rock|p2a: Iron Moth
+|-sidestart|p2: P38|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781023088
+|move|p2a: Iron Moth|Fiery Dance|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|-boost|p2a: Iron Moth|spa|1
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781023089
+|switch|p1a: Slither Wing|Slither Wing|100/100
+|-activate|p1a: Slither Wing|ability: Protosynthesis
+|-start|p1a: Slither Wing|protosynthesisatk
+|turn|15
+|
+|t:|1781023092
+|move|p1a: Slither Wing|First Impression|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781023096
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-damage|p2a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|16
+|
+|t:|1781023103
+|move|p2a: Iron Valiant|Encore|p1a: Slither Wing
+|-start|p1a: Slither Wing|Encore
+|move|p1a: Slither Wing|First Impression||[still]
+|-hint|First Impression only works on your first turn out.
+|-fail|p1a: Slither Wing
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781023108
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Iron Moth|Iron Moth, tera:Fire|31/100
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781023112
+|move|p2a: Iron Valiant|Knock Off|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|-enditem|p1a: Iron Moth|Choice Specs|[from] move: Knock Off|[of] p2a: Iron Valiant
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781023121
+|switch|p1a: Raging Bolt|Raging Bolt|35/100 psn
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|19
+|
+|t:|1781023126
+|move|p1a: Raging Bolt|Thunderclap|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|none
+|-end|p1a: Raging Bolt|Protosynthesis
+|-damage|p1a: Raging Bolt|23/100 psn|[from] psn
+|upkeep
+|
+|t:|1781023128
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|turn|20
+|
+|t:|1781023131
+|move|p2a: Kingambit|Sucker Punch|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781023133
+|switch|p1a: Slither Wing|Slither Wing|100/100
+|turn|21
+|
+|t:|1781023136
+|move|p2a: Kingambit|Iron Head|p1a: Slither Wing
+|-damage|p1a: Slither Wing|15/100
+|cant|p1a: Slither Wing|flinch
+|
+|upkeep
+|turn|22
+|
+|t:|1781023142
+|move|p1a: Slither Wing|First Impression||[still]
+|-hint|First Impression only works on your first turn out.
+|-fail|p1a: Slither Wing
+|move|p2a: Kingambit|Iron Head|p1a: Slither Wing
+|-damage|p1a: Slither Wing|0 fnt
+|faint|p1a: Slither Wing
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|
+|upkeep
+|-message|Aarons fish forfeited.
+|
+|win|P38
+|raw|Aarons fish's rating: 1543 &rarr; <strong>1524</strong><br />(-19 for losing)
+|raw|P38's rating: 1564 &rarr; <strong>1583</strong><br />(+19 for winning)
+|l|☆Aarons fish
+|player|p1|
+|l|☆P38
+|player|p2|
+|l| Fat_Yogi

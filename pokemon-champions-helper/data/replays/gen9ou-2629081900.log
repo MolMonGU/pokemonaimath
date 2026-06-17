@@ -1,0 +1,312 @@
+|j|☆anamchara
+|j|☆ankoro
+|t:|1781096879
+|gametype|singles
+|player|p1|anamchara|101|1614
+|player|p2|ankoro|acetrainer-gen2|1579
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Meowscarada, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Glimmora, F|
+|poke|p1|Dragapult, M|
+|poke|p2|Lycanroc, M|
+|poke|p2|Kingambit, M|
+|poke|p2|Azumarill, M|
+|poke|p2|Pawmot, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Iron Jugulis|
+|teampreview
+|
+|t:|1781096901
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|switch|p2a: doggorock|Lycanroc, M|100/100
+|turn|1
+|
+|t:|1781096920
+|move|p1a: Meowscarada|U-turn|p2a: doggorock
+|-start|p1a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-crit|p2a: doggorock
+|-damage|p2a: doggorock|34/100
+|
+|t:|1781096922
+|switch|p1a: Glimmora|Glimmora, F|100/100|[from] U-turn
+|move|p2a: doggorock|Endeavor|p1a: Glimmora
+|-damage|p1a: Glimmora|39/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: ankoro|move: Toxic Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1781096930
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: doggorock|Rock Blast|p1a: Slowking
+|-damage|p1a: Slowking|92/100
+|-damage|p1a: Slowking|82/100
+|-damage|p1a: Slowking|73/100
+|-hitcount|p1a: Slowking|3
+|
+|upkeep
+|turn|3
+|
+|t:|1781096960
+|move|p2a: doggorock|Stealth Rock|p1a: Slowking
+|-sidestart|p1: anamchara|move: Stealth Rock
+|move|p1a: Slowking|Psychic Noise|p2a: doggorock
+|-damage|p2a: doggorock|0 fnt
+|faint|p2a: doggorock
+|
+|upkeep
+|
+|t:|1781096969
+|switch|p2a: Iron Jugulis|Iron Jugulis|100/100
+|-enditem|p2a: Iron Jugulis|Booster Energy
+|-activate|p2a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Jugulis|quarkdrivespe
+|turn|4
+|
+|t:|1781096972
+|move|p2a: Iron Jugulis|Taunt|p1a: Slowking
+|-start|p1a: Slowking|move: Taunt
+|move|p1a: Slowking|Ice Beam|p2a: Iron Jugulis
+|-supereffective|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|29/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781096990
+|move|p2a: Iron Jugulis|Dark Pulse|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|27/100
+|cant|p1a: Slowking|flinch
+|
+|upkeep
+|turn|6
+|
+|t:|1781097001
+|switch|p1a: Glimmora|Glimmora, F|39/100
+|-damage|p1a: Glimmora|27/100|[from] Stealth Rock
+|move|p2a: Iron Jugulis|Dark Pulse|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1781097007
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|-damage|p1a: Meowscarada|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1781097013
+|move|p1a: Meowscarada|U-turn|p2a: Iron Jugulis
+|-start|p1a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p2a: Iron Jugulis|0 fnt
+|faint|p2a: Iron Jugulis
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|
+|t:|1781097026
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by anamchara)
+|
+|t:|1781097070
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-status|p2a: Zamazenta|psn
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|8
+|
+|t:|1781097076
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|move|p2a: Zamazenta|Close Combat|p1a: Dragapult
+|-immune|p1a: Dragapult
+|
+|-damage|p2a: Zamazenta|88/100 psn|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1781097081
+|-terastallize|p1a: Dragapult|Ghost
+|move|p1a: Dragapult|Hex|p2a: Zamazenta
+|-damage|p2a: Zamazenta|3/100 psn
+|-damage|p1a: Dragapult|78/100|[from] item: Life Orb
+|move|p2a: Zamazenta|Crunch|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|-damage|p2a: Zamazenta|0 fnt|[from] item: Life Orb
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781097099
+|switch|p1a: Meowscarada|Meowscarada, M|88/100
+|switch|p2a: joy|Pawmot, F|100/100
+|-damage|p1a: Meowscarada|76/100|[from] Stealth Rock
+|-status|p2a: joy|psn
+|turn|10
+|
+|t:|1781097104
+|move|p1a: Meowscarada|U-turn|p2a: joy
+|-start|p1a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-resisted|p2a: joy
+|-damage|p2a: joy|79/100 psn
+|
+|t:|1781097105
+|switch|p1a: Iron Valiant|Iron Valiant|100/100|[from] U-turn
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: joy|Revival Blessing|p2a: joy
+|-enditem|p2a: joy|Leppa Berry|[eat]
+|-activate|p2a: joy|item: Leppa Berry|Revival Blessing|[consumed]
+|
+|t:|1781097109
+|-heal|p2: Zamazenta|50/100|[from] move: Revival Blessing
+|
+|-damage|p2a: joy|67/100 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1781097113
+|move|p1a: Iron Valiant|Spirit Break|p2a: joy
+|-supereffective|p2a: joy
+|-damage|p2a: joy|0 fnt
+|faint|p2a: joy
+|
+|upkeep
+|
+|t:|1781097117
+|switch|p2a: juquinha|Azumarill, M|100/100
+|-status|p2a: juquinha|psn
+|turn|12
+|
+|t:|1781097120
+|move|p1a: Iron Valiant|Spirit Break|p2a: juquinha
+|-damage|p2a: juquinha|58/100 psn
+|-unboost|p2a: juquinha|spa|1
+|move|p2a: juquinha|Belly Drum|p2a: juquinha
+|-damage|p2a: juquinha|8/100 psn
+|-setboost|p2a: juquinha|atk|6|[from] move: Belly Drum
+|-enditem|p2a: juquinha|Sitrus Berry|[eat]
+|-heal|p2a: juquinha|33/100 psn|[from] item: Sitrus Berry
+|
+|-damage|p2a: juquinha|21/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1781097122
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|88/100
+|-damage|p1a: Ogerpon|76/100|[from] Stealth Rock
+|move|p2a: juquinha|Aqua Jet|p1a: Ogerpon
+|-heal|p1a: Ogerpon|100/100|[from] ability: Water Absorb|[of] p2a: juquinha
+|
+|-damage|p2a: juquinha|8/100 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1781097125
+|move|p1a: Ogerpon|Trailblaze|p2a: juquinha
+|-supereffective|p2a: juquinha
+|-damage|p2a: juquinha|0 fnt
+|-boost|p1a: Ogerpon|spe|1
+|faint|p2a: juquinha
+|
+|upkeep
+|
+|t:|1781097127
+|switch|p2a: Zamazenta|Zamazenta|50/100
+|-status|p2a: Zamazenta|psn
+|turn|15
+|
+|t:|1781097130
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Zamazenta|[anim] Ivy Cudgel Water
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781097133
+|switch|p2a: koolguybit|Kingambit, M|100/100
+|-activate|p2a: koolguybit|ability: Supreme Overlord
+|-start|p2a: koolguybit|fallen5|[silent]
+|-item|p2a: koolguybit|Air Balloon
+|turn|16
+|
+|t:|1781097135
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: koolguybit|[anim] Ivy Cudgel Water
+|-damage|p2a: koolguybit|40/100
+|-enditem|p2a: koolguybit|Air Balloon
+|move|p2a: koolguybit|Swords Dance|p2a: koolguybit
+|-boost|p2a: koolguybit|atk|2
+|
+|upkeep
+|turn|17
+|
+|t:|1781097139
+|move|p2a: koolguybit|Sucker Punch|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1781097140
+|switch|p1a: Iron Valiant|Iron Valiant|94/100
+|-damage|p1a: Iron Valiant|88/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781097145
+|-terastallize|p2a: koolguybit|Ghost
+|move|p1a: Iron Valiant|Close Combat|p2a: koolguybit
+|-immune|p2a: koolguybit
+|move|p2a: koolguybit|Iron Head|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781097158
+|switch|p1a: Meowscarada|Meowscarada, M|76/100
+|-damage|p1a: Meowscarada|64/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1781097160
+|move|p2a: koolguybit|Sucker Punch|p1a: Meowscarada
+|-resisted|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|faint|p1a: Meowscarada
+|
+|upkeep
+|-message|anamchara forfeited.
+|
+|win|ankoro
+|raw|anamchara's rating: 1640 &rarr; <strong>1617</strong><br />(-23 for losing)
+|raw|ankoro's rating: 1579 &rarr; <strong>1602</strong><br />(+23 for winning)
+|l|☆anamchara
+|player|p1|
+|l|☆ankoro
+|player|p2|

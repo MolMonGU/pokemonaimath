@@ -1,0 +1,228 @@
+|j|‽antonitaly
+|j|☆KurisuChestnutOU
+|t:|1781123614
+|gametype|singles
+|player|p1|antonitaly|nate|1505
+|player|p2|KurisuChestnutOU|may-contest|1545
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Darkrai|
+|poke|p1|Kingambit, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Zamazenta-*|
+|poke|p1|Glimmora, F|
+|poke|p1|Iron Hands|
+|poke|p2|Kingambit, M|
+|poke|p2|Kommo-o, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Kyurem|
+|poke|p2|Iron Treads|
+|poke|p2|Iron Crown|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by antonitaly)
+|inactive|KurisuChestnutOU also wants the timer to be on.
+|
+|t:|1781123621
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Darkrai|Darkrai|100/100
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-enditem|p2a: Iron Crown|Booster Energy
+|-activate|p2a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Crown|quarkdrivespe
+|turn|1
+|
+|t:|1781123632
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Iron Crown|Focus Blast|p1a: Ogerpon
+|-damage|p1a: Ogerpon|57/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781123639
+|-terastallize|p2a: Iron Crown|Fighting
+|move|p2a: Iron Crown|Focus Blast|p1a: Ogerpon|[miss]
+|-miss|p2a: Iron Crown|p1a: Ogerpon
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Iron Crown|[anim] Ivy Cudgel Water
+|-damage|p2a: Iron Crown|39/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781123650
+|-terastallize|p1a: Ogerpon|Water
+|detailschange|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p2a: Iron Crown|Focus Blast|p1a: Ogerpon
+|-damage|p1a: Ogerpon|14/100
+|move|p1a: Ogerpon|Horn Leech|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|-heal|p1a: Ogerpon|36/100|[from] drain|[of] p2a: Iron Crown
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781123656
+|switch|p2a: Kommo-o|Kommo-o, M|100/100
+|turn|4
+|
+|t:|1781123666
+|switch|p1a: Iron Hands|Iron Hands|100/100
+|move|p2a: Kommo-o|Drain Punch|p1a: Iron Hands
+|-damage|p1a: Iron Hands|81/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781123672
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|68/100
+|move|p1a: Iron Hands|Ice Punch|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-crit|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|
+|upkeep
+|
+|t:|1781123679
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|6
+|
+|t:|1781123689
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|move|p2a: Iron Valiant|Moonblast|p1a: Glimmora
+|-resisted|p1a: Glimmora
+|-damage|p1a: Glimmora|70/100
+|-unboost|p1a: Glimmora|spa|1
+|-enditem|p1a: Glimmora|Red Card|[of] p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|drag|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|
+|upkeep
+|turn|7
+|
+|t:|1781123700
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|move|p1a: Glimmora|Earth Power|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|64/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781123707
+|move|p2a: Iron Valiant|Focus Blast|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1781123713
+|switch|p1a: Darkrai|Darkrai|100/100
+|turn|9
+|
+|t:|1781123717
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|move|p1a: Darkrai|Sludge Bomb|p2a: Kingambit
+|-immune|p2a: Kingambit
+|
+|upkeep
+|turn|10
+|
+|t:|1781123724
+|move|p1a: Darkrai|Focus Blast|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen2|[silent]
+|
+|upkeep
+|
+|t:|1781123731
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|11
+|
+|t:|1781123738
+|move|p2a: Iron Treads|Earthquake|p1a: Darkrai
+|-damage|p1a: Darkrai|49/100
+|move|p1a: Darkrai|Focus Blast|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781123747
+|switch|p2a: Iron Valiant|Iron Valiant|64/100
+|turn|12
+|
+|t:|1781123752
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Darkrai|Sludge Bomb|p2a: Kyurem
+|-damage|p2a: Kyurem|64/100
+|-status|p2a: Kyurem|psn
+|
+|-damage|p2a: Kyurem|52/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1781123762
+|move|p1a: Darkrai|Dark Pulse|p2a: Kyurem
+|-damage|p2a: Kyurem|3/100 psn
+|move|p2a: Kyurem|Dragon Dance|p2a: Kyurem
+|-boost|p2a: Kyurem|atk|1
+|-boost|p2a: Kyurem|spe|1
+|
+|-damage|p2a: Kyurem|0 fnt|[from] psn
+|faint|p2a: Kyurem
+|upkeep
+|
+|t:|1781123765
+|switch|p2a: Iron Valiant|Iron Valiant|64/100
+|turn|14
+|
+|t:|1781123772
+|move|p1a: Darkrai|Sludge Bomb|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|win|antonitaly
+|raw|antonitaly's rating: 1505 &rarr; <strong>1528</strong><br />(+23 for winning)
+|raw|KurisuChestnutOU's rating: 1557 &rarr; <strong>1534</strong><br />(-23 for losing)

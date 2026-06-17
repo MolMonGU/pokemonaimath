@@ -1,0 +1,261 @@
+|j|☆wizardrex
+|j|☆KurisuChestnutOU
+|t:|1781137368
+|gametype|singles
+|player|p1|wizardrex|2|1548
+|player|p2|KurisuChestnutOU|may-contest|1563
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Indeedee, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Hawlucha, F|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Armarouge, F|
+|poke|p1|Maushold|
+|poke|p2|Hawlucha, F|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Gholdengo|
+|poke|p2|Kyurem|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutOU)
+|inactive|wizardrex has 120 seconds left.
+|
+|t:|1781137407
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Indeedee|Indeedee, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Indeedee|atk|1
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|turn|1
+|
+|t:|1781137414
+|move|p2a: Landorus|U-turn|p1a: Indeedee
+|-supereffective|p1a: Indeedee
+|-damage|p1a: Indeedee|44/100
+|
+|t:|1781137421
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100|[from] U-turn
+|move|p1a: Indeedee|Expanding Force|p2a: Samurott
+|-immune|p2a: Samurott
+|
+|upkeep
+|turn|2
+|
+|t:|1781137428
+|move|p1a: Indeedee|Dazzling Gleam|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|73/100
+|move|p2a: Samurott|Ceaseless Edge|p1a: Indeedee
+|-supereffective|p1a: Indeedee
+|-damage|p1a: Indeedee|0 fnt
+|-sidestart|p1: wizardrex|Spikes
+|faint|p1a: Indeedee
+|
+|upkeep
+|
+|t:|1781137432
+|switch|p1a: Maushold|Maushold|100/100
+|-damage|p1a: Maushold|88/100|[from] Spikes
+|turn|3
+|
+|t:|1781137440
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Maushold|Tidy Up|p1a: Maushold
+|-sideend|p1: wizardrex|Spikes
+|-activate|p1a: Maushold|move: Tidy Up
+|-boost|p1a: Maushold|atk|1
+|-boost|p1a: Maushold|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1781137446
+|move|p1a: Maushold|Bite|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|22/100
+|cant|p2a: Gholdengo|flinch
+|
+|upkeep
+|turn|5
+|
+|t:|1781137451
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Maushold|atk|1
+|move|p1a: Maushold|Bite|p2a: Landorus
+|-damage|p2a: Landorus|81/100
+|-damage|p1a: Maushold|71/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|
+|upkeep
+|turn|6
+|
+|t:|1781137460
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Landorus|U-turn|p1a: Hatterene
+|-damage|p1a: Hatterene|83/100
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781137462
+|switch|p1a: Armarouge|Armarouge, F|100/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781137470
+|move|p2a: Landorus|U-turn|p1a: Armarouge
+|-damage|p1a: Armarouge|76/100
+|-ability|p1a: Armarouge|Weak Armor|boost
+|-unboost|p1a: Armarouge|def|1
+|-boost|p1a: Armarouge|spe|2
+|
+|t:|1781137476
+|switch|p2a: Samurott|Samurott-Hisui, F|73/100|[from] U-turn
+|move|p1a: Armarouge|Expanding Force|p2a: Samurott
+|-immune|p2a: Samurott
+|
+|upkeep
+|turn|8
+|
+|t:|1781137483
+|move|p1a: Armarouge|Destiny Bond|p1a: Armarouge
+|-singlemove|p1a: Armarouge|Destiny Bond
+|move|p2a: Samurott|Ceaseless Edge|p1a: Armarouge
+|-supereffective|p1a: Armarouge
+|-damage|p1a: Armarouge|0 fnt
+|-sidestart|p1: wizardrex|Spikes
+|faint|p1a: Armarouge
+|-activate|p1a: Armarouge|move: Destiny Bond
+|faint|p2a: Samurott
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1781137490
+|switch|p1a: Maushold|Maushold|71/100
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-damage|p1a: Maushold|59/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|9
+|
+|t:|1781137494
+|move|p2a: Rillaboom|Grassy Glide|p1a: Maushold
+|-damage|p1a: Maushold|0 fnt
+|faint|p1a: Maushold
+|
+|upkeep
+|
+|t:|1781137496
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|turn|10
+|
+|t:|1781137508
+|switch|p2a: Gholdengo|Gholdengo|22/100
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|
+|-heal|p2a: Gholdengo|28/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781137512
+|move|p2a: Gholdengo|Shadow Ball|p1a: Hawlucha
+|-damage|p1a: Hawlucha|38/100
+|move|p1a: Hawlucha|Throat Chop|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-crit|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781137518
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p2a: Hawlucha|Grassy Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Grassy Seed
+|turn|12
+|
+|t:|1781137523
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|move|p1a: Hawlucha|Acrobatics|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-crit|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|upkeep
+|
+|t:|1781137527
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|13
+|
+|t:|1781137533
+|move|p2a: Kyurem|Ice Beam|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781137540
+|switch|p1a: Hatterene|Hatterene, F|83/100
+|-damage|p1a: Hatterene|70/100|[from] Spikes
+|turn|14
+|
+|t:|1781137544
+|move|p2a: Kyurem|Ice Beam|p1a: Hatterene
+|-damage|p1a: Hatterene|20/100
+|move|p1a: Hatterene|Dazzling Gleam|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|52/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781137550
+|move|p2a: Kyurem|Ice Beam|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781137554
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|-damage|p1a: Hoopa|88/100|[from] Spikes
+|turn|16
+|
+|t:|1781137559
+|move|p2a: Kyurem|Ice Beam|p1a: Hoopa
+|-damage|p1a: Hoopa|46/100
+|move|p1a: Hoopa|Expanding Force|p2a: Kyurem
+|-damage|p2a: Kyurem|9/100
+|-damage|p1a: Hoopa|36/100|[from] item: Life Orb
+|
+|upkeep
+|turn|17
+|-message|wizardrex forfeited.
+|
+|win|KurisuChestnutOU
+|raw|wizardrex's rating: 1548 &rarr; <strong>1530</strong><br />(-18 for losing)
+|raw|KurisuChestnutOU's rating: 1582 &rarr; <strong>1600</strong><br />(+18 for winning)
+|l|☆wizardrex
+|player|p1|
+|l|☆KurisuChestnutOU
+|player|p2|

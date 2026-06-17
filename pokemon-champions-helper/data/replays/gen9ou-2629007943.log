@@ -1,0 +1,393 @@
+|j|☆DPPlato
+|j|☆cachowcapow
+|t:|1781087641
+|gametype|singles
+|player|p1|DPPlato|2|1512
+|player|p2|cachowcapow|265|1663
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Deoxys-Speed|
+|poke|p1|Great Tusk|
+|poke|p1|Ninetales, F|
+|poke|p1|Venusaur, F|
+|poke|p1|Walking Wake|
+|poke|p1|Kingambit, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Slither Wing|
+|poke|p2|Alomomola, M|
+|poke|p2|Great Tusk|
+|poke|p2|Meowscarada, M|
+|poke|p2|Froslass, F|
+|teampreview
+|
+|t:|1781087649
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|1
+|
+|t:|1781087657
+|move|p1a: Deoxys|Stealth Rock|p2a: Meowscarada
+|-sidestart|p2: cachowcapow|move: Stealth Rock
+|move|p2a: Meowscarada|Dark Pulse|p1a: Deoxys
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-supereffective|p1a: Deoxys
+|-enditem|p1a: Deoxys|Focus Sash
+|-damage|p1a: Deoxys|1/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781087660
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|-damage|p2a: Slither Wing|88/100|[from] Stealth Rock
+|move|p1a: Deoxys|Superpower|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-damage|p2a: Slither Wing|79/100
+|-unboost|p1a: Deoxys|atk|1
+|-unboost|p1a: Deoxys|def|1
+|-damage|p1a: Deoxys|0 fnt|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|faint|p1a: Deoxys
+|
+|upkeep
+|j| wuxinshushu1
+|
+|t:|1781087667
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|turn|3
+|
+|t:|1781087673
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|-damage|p2a: Alomomola|88/100|[from] Stealth Rock
+|move|p1a: Walking Wake|Draco Meteor|p2a: Alomomola
+|-damage|p2a: Alomomola|42/100
+|-unboost|p1a: Walking Wake|spa|2
+|
+|upkeep
+|turn|4
+|
+|t:|1781087680
+|move|p1a: Walking Wake|Draco Meteor|p2a: Alomomola|[miss]
+|-miss|p1a: Walking Wake|p2a: Alomomola
+|move|p2a: Alomomola|Flip Turn|p1a: Walking Wake
+|-resisted|p1a: Walking Wake
+|-damage|p1a: Walking Wake|96/100
+|
+|t:|1781087686
+|switch|p2a: Cinderace|Cinderace, M|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|5
+|
+|t:|1781087691
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|move|p2a: Cinderace|U-turn|p1a: Ninetales
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|81/100
+|
+|t:|1781087702
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|-damage|p2a: Great Tusk|98/100|[from] Stealth Rock
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781087709
+|-terastallize|p1a: Ninetales|Ghost
+|move|p2a: Great Tusk|Headlong Rush|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781087711
+|switch|p1a: Venusaur|Venusaur, F|100/100
+|turn|7
+|
+|t:|1781087719
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, M|76/100
+|-damage|p2a: Alomomola|63/100|[from] Stealth Rock
+|move|p1a: Venusaur|Growth|p1a: Venusaur
+|-boost|p1a: Venusaur|atk|2
+|-boost|p1a: Venusaur|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781087724
+|-terastallize|p2a: Alomomola|Steel
+|move|p1a: Venusaur|Giga Drain|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|42/100
+|-damage|p1a: Venusaur|91/100|[from] item: Life Orb
+|move|p2a: Alomomola|Mirror Coat|p1a: Venusaur
+|-damage|p1a: Venusaur|17/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781087735
+|switch|p2a: Froslass|Froslass, F|100/100
+|-damage|p2a: Froslass|76/100|[from] Stealth Rock
+|move|p1a: Venusaur|Weather Ball|p2a: Froslass
+|-supereffective|p2a: Froslass
+|-damage|p2a: Froslass|0 fnt
+|faint|p2a: Froslass
+|-damage|p1a: Venusaur|7/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781087741
+|switch|p2a: Slither Wing|Slither Wing|79/100
+|-damage|p2a: Slither Wing|67/100|[from] Stealth Rock
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|turn|10
+|
+|t:|1781087743
+|move|p2a: Slither Wing|First Impression|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781087745
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|turn|11
+|
+|t:|1781087750
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|move|p2a: Slither Wing|Will-O-Wisp|p1a: Great Tusk|[miss]
+|-miss|p2a: Slither Wing|p1a: Great Tusk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781087758
+|move|p1a: Great Tusk|Headlong Rush|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-damage|p2a: Slither Wing|37/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|84/100|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|move|p2a: Slither Wing|Will-O-Wisp|p1a: Great Tusk
+|-status|p1a: Great Tusk|brn
+|
+|-weather|none
+|-end|p1a: Great Tusk|Protosynthesis
+|-end|p2a: Slither Wing|Protosynthesis
+|-damage|p1a: Great Tusk|78/100 brn|[from] brn
+|upkeep
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|13
+|
+|t:|1781087762
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|move|p2a: Slither Wing|Morning Sun|p2a: Slither Wing
+|-heal|p2a: Slither Wing|87/100
+|
+|-damage|p1a: Great Tusk|71/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781087765
+|move|p1a: Great Tusk|Rapid Spin|p2a: Slither Wing
+|-damage|p2a: Slither Wing|71/100
+|-boost|p1a: Great Tusk|spe|1
+|-damage|p1a: Great Tusk|55/100 brn|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|move|p2a: Slither Wing|U-turn|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|48/100 brn
+|
+|t:|1781087770
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, M, tera:Steel|76/100|[from] U-turn
+|-damage|p2a: Alomomola|69/100|[from] Stealth Rock
+|
+|-damage|p1a: Great Tusk|42/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781087772
+|switch|p2a: Slither Wing|Slither Wing|71/100
+|-damage|p2a: Slither Wing|59/100|[from] Stealth Rock
+|move|p1a: Great Tusk|Headlong Rush|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-damage|p2a: Slither Wing|36/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|25/100 brn|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|
+|-damage|p1a: Great Tusk|19/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1781087777
+|move|p1a: Great Tusk|Headlong Rush|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-damage|p2a: Slither Wing|10/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|2/100 brn|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|move|p2a: Slither Wing|Morning Sun|p2a: Slither Wing
+|-heal|p2a: Slither Wing|60/100
+|
+|-damage|p1a: Great Tusk|0 fnt|[from] brn
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|upkeep
+|
+|t:|1781087781
+|switch|p1a: Walking Wake|Walking Wake|96/100
+|turn|17
+|
+|t:|1781087786
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, M, tera:Steel|100/100
+|-damage|p2a: Alomomola|94/100|[from] Stealth Rock
+|move|p1a: Walking Wake|Flamethrower|p2a: Alomomola
+|-supereffective|p2a: Alomomola
+|-damage|p2a: Alomomola|50/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781087791
+|move|p1a: Walking Wake|Flamethrower|p2a: Alomomola
+|-supereffective|p2a: Alomomola
+|-damage|p2a: Alomomola|9/100
+|move|p2a: Alomomola|Flip Turn|p1a: Walking Wake
+|-resisted|p1a: Walking Wake
+|-damage|p1a: Walking Wake|92/100
+|
+|t:|1781087793
+|switch|p2a: Cinderace|Cinderace, M|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|19
+|
+|t:|1781087800
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-start|p2a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|move|p1a: Walking Wake|Flamethrower|p2a: Cinderace
+|-damage|p2a: Cinderace|39/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781087803
+|move|p2a: Cinderace|U-turn|p1a: Walking Wake
+|-damage|p1a: Walking Wake|68/100
+|
+|t:|1781087806
+|switch|p2a: Alomomola|Alomomola, M, tera:Steel|42/100|[from] U-turn
+|move|p1a: Walking Wake|Flamethrower|p2a: Alomomola
+|-supereffective|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|
+|upkeep
+|
+|t:|1781087811
+|switch|p2a: Slither Wing|Slither Wing|60/100
+|turn|21
+|
+|t:|1781087819
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|move|p2a: Slither Wing|First Impression|p1a: Kingambit
+|-damage|p1a: Kingambit|60/100
+|
+|-heal|p1a: Kingambit|66/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781087826
+|move|p1a: Kingambit|Iron Head|p2a: Slither Wing
+|-damage|p2a: Slither Wing|11/100
+|-damage|p1a: Kingambit|49/100|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|move|p2a: Slither Wing|U-turn|p1a: Kingambit
+|-damage|p1a: Kingambit|24/100
+|
+|t:|1781087832
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Great Tusk|Great Tusk|98/100|[from] U-turn
+|
+|-heal|p1a: Kingambit|30/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781087835
+|move|p2a: Great Tusk|Headlong Rush|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|
+|upkeep
+|
+|t:|1781087837
+|switch|p1a: Walking Wake|Walking Wake|68/100
+|-damage|p1a: Walking Wake|56/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781087845
+|move|p2a: Great Tusk|Headlong Rush|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|win|cachowcapow
+|raw|DPPlato's rating: 1512 &rarr; <strong>1500</strong><br />(-12 for losing)
+|raw|cachowcapow's rating: 1663 &rarr; <strong>1675</strong><br />(+12 for winning)
+|l|☆cachowcapow
+|player|p2|
+|l|☆DPPlato
+|player|p1|
+|l| wuxinshushu1

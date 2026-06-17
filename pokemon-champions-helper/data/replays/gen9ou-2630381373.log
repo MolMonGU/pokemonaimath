@@ -1,0 +1,259 @@
+|j|☆LowEL0God
+|j|☆KnightKnaveSpy
+|t:|1781247796
+|gametype|singles
+|player|p1|LowEL0God|265|1626
+|player|p2|KnightKnaveSpy|2|1588
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, F|
+|poke|p1|Barraskewda, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Blaziken, F|
+|poke|p2|Kingambit, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Greninja-*, F|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781247803
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|1
+|
+|t:|1781247806
+|move|p2a: Samurott|Ceaseless Edge|p1a: Raging Bolt
+|-crit|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|41/100
+|-sidestart|p1: LowEL0God|Spikes
+|move|p1a: Raging Bolt|Thunder|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-enditem|p2a: Samurott|Focus Sash
+|-damage|p2a: Samurott|1/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781247810
+|move|p2a: Samurott|Sucker Punch|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|11/100
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|
+|upkeep
+|turn|3
+|
+|t:|1781247814
+|move|p2a: Samurott|Sucker Punch|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781247815
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-damage|p1a: Iron Treads|88/100|[from] Spikes
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|4
+|
+|t:|1781247818
+|-terastallize|p2a: Samurott|Ghost
+|move|p1a: Iron Treads|Rapid Spin|p2a: Samurott
+|-immune|p2a: Samurott
+|move|p2a: Samurott|Aqua Cutter|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781247819
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-damage|p1a: Kingambit|88/100|[from] Spikes
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|turn|5
+|j| yuureisuisei
+|
+|t:|1781247824
+|move|p2a: Samurott|Aqua Cutter|p1a: Kingambit
+|-damage|p1a: Kingambit|52/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|58/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781247829
+|move|p2a: Samurott|Aqua Jet|p1a: Kingambit
+|-damage|p1a: Kingambit|44/100
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|-heal|p1a: Kingambit|50/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781247834
+|move|p2a: Samurott|Aqua Jet|p1a: Kingambit
+|-damage|p1a: Kingambit|37/100
+|move|p1a: Kingambit|Iron Head|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-heal|p1a: Kingambit|43/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781247837
+|switch|p2a: Blaziken|Blaziken, F|100/100
+|turn|8
+|
+|t:|1781247839
+|-terastallize|p1a: Kingambit|Dark
+|move|p1a: Kingambit|Sucker Punch|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-damage|p2a: Blaziken|2/100
+|move|p2a: Blaziken|Flare Blitz|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen2|[silent]
+|-damage|p2a: Blaziken|0 fnt|[from] Recoil
+|faint|p2a: Blaziken
+|
+|upkeep
+|
+|t:|1781247848
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-item|p2a: Raging Bolt|Air Balloon
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|9
+|
+|t:|1781247851
+|switch|p1a: Overqwil|Overqwil, F|100/100
+|-damage|p1a: Overqwil|88/100|[from] Spikes
+|move|p2a: Raging Bolt|Volt Switch|p1a: Overqwil
+|-damage|p1a: Overqwil|27/100
+|
+|t:|1781247854
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Kingambit|Kingambit, F|100/100|[from] Volt Switch
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|l| yuureisuisei
+|
+|t:|1781247858
+|move|p2a: Kingambit|Sucker Punch|p1a: Overqwil
+|-resisted|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|faint|p1a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781247860
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|-damage|p1a: Barraskewda|88/100|[from] Spikes
+|turn|11
+|
+|t:|1781247868
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Greninja|Greninja, F|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781247872
+|move|p2a: Greninja|Ice Beam|p1a: Pelipper
+|-start|p2a: Greninja|typechange|Ice|[from] ability: Protean
+|-damage|p1a: Pelipper|40/100
+|move|p1a: Pelipper|Hurricane|p2a: Greninja
+|-damage|p2a: Greninja|41/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781247877
+|move|p2a: Greninja|Ice Beam|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781247878
+|switch|p1a: Barraskewda|Barraskewda, M|88/100
+|-damage|p1a: Barraskewda|75/100|[from] Spikes
+|turn|14
+|
+|t:|1781247880
+|move|p2a: Greninja|Water Shuriken|p1a: Barraskewda
+|-resisted|p1a: Barraskewda
+|-crit|p1a: Barraskewda
+|-damage|p1a: Barraskewda|65/100
+|-resisted|p1a: Barraskewda
+|-damage|p1a: Barraskewda|57/100
+|-hitcount|p1a: Barraskewda|2
+|move|p1a: Barraskewda|Close Combat|p2a: Greninja
+|-supereffective|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|faint|p2a: Greninja
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781247885
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-item|p2a: Raging Bolt|Air Balloon
+|turn|15
+|
+|t:|1781247887
+|move|p2a: Raging Bolt|Thunderclap|p1a: Barraskewda
+|-supereffective|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|win|KnightKnaveSpy
+|raw|LowEL0God's rating: 1626 &rarr; <strong>1604</strong><br />(-22 for losing)
+|raw|KnightKnaveSpy's rating: 1588 &rarr; <strong>1610</strong><br />(+22 for winning)
+|l|☆KnightKnaveSpy
+|player|p2|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p1|

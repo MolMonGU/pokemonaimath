@@ -1,0 +1,342 @@
+|j|☆lolshh
+|j|☆cachowcapow
+|t:|1781087870
+|gametype|singles
+|player|p1|lolshh|2|1735
+|player|p2|cachowcapow|265|1675
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Valiant|
+|poke|p1|Kingambit, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kyurem|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Ceruledge, F|
+|poke|p2|Cinderace, M|
+|poke|p2|Slither Wing|
+|poke|p2|Alomomola, F|
+|poke|p2|Great Tusk|
+|poke|p2|Meowscarada, M|
+|poke|p2|Froslass, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lolshh)
+|
+|t:|1781087879
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Froslass|Froslass, F|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781087883
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|move|p1a: Iron Treads|Stealth Rock|p2a: Slither Wing
+|-sidestart|p2: cachowcapow|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781087889
+|move|p1a: Iron Treads|Rapid Spin|p2a: Slither Wing
+|-damage|p2a: Slither Wing|91/100
+|-boost|p1a: Iron Treads|spe|1
+|-damage|p1a: Iron Treads|84/100|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|move|p2a: Slither Wing|Will-O-Wisp|p1a: Iron Treads
+|-status|p1a: Iron Treads|brn
+|
+|-damage|p1a: Iron Treads|78/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1781087896
+|move|p1a: Iron Treads|Earthquake|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-damage|p2a: Slither Wing|84/100
+|move|p2a: Slither Wing|U-turn|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|65/100 brn
+|
+|t:|1781087904
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, F|100/100|[from] U-turn
+|-damage|p2a: Alomomola|88/100|[from] Stealth Rock
+|
+|-damage|p1a: Iron Treads|59/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1781087907
+|move|p1a: Iron Treads|Endeavor|p2a: Alomomola
+|-damage|p2a: Alomomola|43/100
+|move|p2a: Alomomola|Body Slam|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-crit|p1a: Iron Treads
+|-damage|p1a: Iron Treads|51/100 brn
+|
+|-damage|p1a: Iron Treads|45/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1781087914
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Alomomola|Flip Turn|p1a: Ogerpon
+|-immune|p1a: Ogerpon|[from] ability: Water Absorb
+|
+|upkeep
+|turn|6
+|
+|t:|1781087919
+|switch|p2a: Slither Wing|Slither Wing|84/100
+|-damage|p2a: Slither Wing|72/100|[from] Stealth Rock
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1781087930
+|switch|p1a: Iron Treads|Iron Treads|45/100 brn
+|move|p2a: Slither Wing|U-turn|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|34/100 brn
+|
+|t:|1781087932
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Cinderace|Cinderace, M|100/100|[from] U-turn
+|
+|-damage|p1a: Iron Treads|28/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1781087938
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-start|p2a: Cinderace|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|move|p1a: Iron Treads|Rapid Spin|p2a: Cinderace
+|-damage|p2a: Cinderace|92/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: lolshh|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|
+|-damage|p1a: Iron Treads|21/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1781087943
+|move|p1a: Iron Treads|Stealth Rock|p2a: Cinderace
+|-sidestart|p2: cachowcapow|move: Stealth Rock
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|
+|-damage|p1a: Iron Treads|15/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1781087948
+|switch|p2a: Slither Wing|Slither Wing|72/100
+|move|p1a: Iron Treads|Stealth Rock|p2a: Slither Wing
+|-sidestart|p2: cachowcapow|move: Stealth Rock
+|
+|-damage|p1a: Iron Treads|9/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781087955
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, F|77/100
+|-damage|p2a: Alomomola|64/100|[from] Stealth Rock
+|move|p1a: Iron Treads|Endeavor|p2a: Alomomola
+|-damage|p2a: Alomomola|7/100
+|
+|-damage|p1a: Iron Treads|3/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1781087961
+|move|p2a: Alomomola|Aqua Jet|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781087969
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p1a: Ogerpon|88/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1781087976
+|switch|p2a: Slither Wing|Slither Wing|72/100
+|-damage|p2a: Slither Wing|60/100|[from] Stealth Rock
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Slither Wing|[anim] Ivy Cudgel Water
+|-damage|p2a: Slither Wing|11/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781087979
+|move|p2a: Slither Wing|First Impression|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1781087982
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|-damage|p1a: Ceruledge|76/100|[from] Stealth Rock
+|-item|p1a: Ceruledge|Air Balloon
+|turn|15
+|
+|t:|1781087992
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|move|p2a: Slither Wing|Morning Sun|p2a: Slither Wing
+|-heal|p2a: Slither Wing|61/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781087996
+|move|p1a: Ceruledge|Bitter Blade|p2a: Slither Wing
+|-supereffective|p2a: Slither Wing
+|-damage|p2a: Slither Wing|0 fnt
+|-heal|p1a: Ceruledge|100/100|[from] drain|[of] p2a: Slither Wing
+|-damage|p1a: Ceruledge|84/100|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|faint|p2a: Slither Wing
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781088004
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|-damage|p2a: Meowscarada|88/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1781088013
+|move|p2a: Meowscarada|Dark Pulse|p1a: Ceruledge
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|-enditem|p1a: Ceruledge|Air Balloon
+|faint|p1a: Ceruledge
+|
+|upkeep
+|
+|t:|1781088019
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|18
+|
+|t:|1781088032
+|switch|p2a: Alomomola|Alomomola, F|40/100
+|-damage|p2a: Alomomola|28/100|[from] Stealth Rock
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|19
+|
+|t:|1781088040
+|switch|p2a: Cinderace|Cinderace, M|92/100
+|move|p1a: Iron Valiant|Substitute|p1a: Iron Valiant
+|-start|p1a: Iron Valiant|Substitute
+|-damage|p1a: Iron Valiant|69/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781088045
+|-terastallize|p1a: Iron Valiant|Ghost
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Cinderace
+|-damage|p2a: Cinderace|4/100
+|move|p2a: Cinderace|Pyro Ball|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Substitute
+|
+|upkeep
+|turn|21
+|
+|t:|1781088052
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|upkeep
+|
+|t:|1781088063
+|switch|p2a: Alomomola|Alomomola, F|61/100
+|-damage|p2a: Alomomola|49/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781088069
+|move|p1a: Iron Valiant|Substitute|p1a: Iron Valiant
+|-start|p1a: Iron Valiant|Substitute
+|-damage|p1a: Iron Valiant|45/100
+|move|p2a: Alomomola|Mirror Coat||[still]
+|-fail|p2a: Alomomola
+|
+|upkeep
+|turn|23
+|
+|t:|1781088073
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Alomomola|Flip Turn|p1a: Iron Valiant
+|-activate|p1a: Iron Valiant|move: Substitute|[damage]
+|
+|t:|1781088078
+|switch|p2a: Meowscarada|Meowscarada, M|88/100|[from] Flip Turn
+|-damage|p2a: Meowscarada|76/100|[from] Stealth Rock
+|
+|upkeep
+|turn|24
+|
+|t:|1781088082
+|switch|p2a: Alomomola|Alomomola, F|82/100
+|-damage|p2a: Alomomola|70/100|[from] Stealth Rock
+|move|p1a: Iron Valiant|Moonblast|p2a: Alomomola
+|-damage|p2a: Alomomola|23/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781088086
+|move|p2a: Alomomola|Aqua Jet|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Substitute
+|move|p1a: Iron Valiant|Moonblast|p2a: Alomomola
+|-crit|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|
+|upkeep
+|-message|cachowcapow forfeited.
+|
+|win|lolshh
+|raw|lolshh's rating: 1735 &rarr; <strong>1752</strong><br />(+17 for winning)
+|raw|cachowcapow's rating: 1675 &rarr; <strong>1658</strong><br />(-17 for losing)
+|l|☆cachowcapow
+|player|p2|
+|l|☆lolshh
+|player|p1|

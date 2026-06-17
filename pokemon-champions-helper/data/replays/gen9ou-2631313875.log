@@ -1,0 +1,334 @@
+|j|☆8t88
+|j|☆rockeater9000
+|t:|1781370362
+|gametype|singles
+|player|p1|8t88|2|1580
+|player|p2|rockeater9000|2|1633
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, L99, F|
+|poke|p1|Barraskewda, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Golduck, F|
+|poke|p1|Pawmot, F|
+|poke|p1|Tentacruel, F|
+|poke|p2|Greninja-*, M|
+|poke|p2|Glimmora, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Kingambit, F|
+|poke|p2|Ceruledge, F|
+|teampreview
+|
+|t:|1781370364
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ghoti carrier|Pelipper, L99, F|100/100
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Ghoti carrier
+|turn|1
+|
+|t:|1781370367
+|switch|p1a: Spaghetti Too|Tentacruel, F|100/100
+|move|p2a: Glimmora|Meteor Beam||[still]
+|-prepare|p2a: Glimmora|Meteor Beam
+|-boost|p2a: Glimmora|spa|1
+|-enditem|p2a: Glimmora|Power Herb
+|-anim|p2a: Glimmora|Meteor Beam|p1a: Spaghetti Too
+|-damage|p1a: Spaghetti Too|65/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Spaghetti Too|71/100|[from] ability: Rain Dish
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by rockeater9000)
+|
+|t:|1781370378
+|move|p2a: Glimmora|Earth Power|p1a: Spaghetti Too
+|-supereffective|p1a: Spaghetti Too
+|-damage|p1a: Spaghetti Too|33/100
+|move|p1a: Spaghetti Too|Flip Turn|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-crit|p2a: Glimmora
+|-damage|p2a: Glimmora|12/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: 8t88|move: Toxic Spikes
+|
+|t:|1781370384
+|switch|p1a: Ghoti carrier|Pelipper, L99, F|100/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781370387
+|move|p2a: Glimmora|Stealth Rock|p1a: Ghoti carrier
+|-sidestart|p1: 8t88|move: Stealth Rock
+|move|p1a: Ghoti carrier|Surf|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781370393
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|4
+|
+|t:|1781370395
+|move|p2a: Garchomp|Scale Shot|p1a: Ghoti carrier
+|-damage|p1a: Ghoti carrier|90/100
+|-damage|p1a: Ghoti carrier|78/100
+|-damage|p1a: Ghoti carrier|66/100
+|-damage|p1a: Ghoti carrier|53/100
+|-damage|p1a: Ghoti carrier|43/100
+|-hitcount|p1a: Ghoti carrier|5
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|move|p1a: Ghoti carrier|U-turn|p2a: Garchomp
+|-damage|p2a: Garchomp|87/100
+|-damage|p1a: Ghoti carrier|31/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|
+|t:|1781370403
+|switch|p1a: Seaking Duck|Golduck, F|100/100|[from] U-turn
+|-status|p1a: Seaking Duck|psn
+|-damage|p1a: Seaking Duck|88/100 psn|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Seaking Duck|76/100 psn|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1781370408
+|switch|p2a: Greninja|Greninja, M|100/100
+|move|p1a: Seaking Duck|Ice Beam|p2a: Greninja
+|-resisted|p2a: Greninja
+|-damage|p2a: Greninja|70/100
+|-damage|p1a: Seaking Duck|66/100 psn|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Seaking Duck|54/100 psn|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1781370411
+|move|p1a: Seaking Duck|Vacuum Wave|p2a: Greninja
+|-supereffective|p2a: Greninja
+|-damage|p2a: Greninja|17/100
+|-damage|p1a: Seaking Duck|44/100 psn|[from] item: Life Orb
+|move|p2a: Greninja|Surf|p1a: Seaking Duck
+|-resisted|p1a: Seaking Duck
+|-damage|p1a: Seaking Duck|0 fnt
+|faint|p1a: Seaking Duck
+|-ability|p2a: Greninja|Battle Bond|boost
+|-boost|p2a: Greninja|atk|1
+|-boost|p2a: Greninja|spa|1
+|-boost|p2a: Greninja|spe|1
+|-activate|p2a: Greninja|ability: Battle Bond
+|-damage|p2a: Greninja|7/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781370414
+|switch|p1a: Spaghetti Too|Tentacruel, F|33/100
+|-sideend|p1: 8t88|move: Toxic Spikes|[of] p1a: Spaghetti Too
+|-damage|p1a: Spaghetti Too|21/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1781370417
+|move|p2a: Greninja|Dark Pulse|p1a: Spaghetti Too
+|-damage|p1a: Spaghetti Too|0 fnt
+|faint|p1a: Spaghetti Too
+|-damage|p2a: Greninja|0 fnt|[from] item: Life Orb
+|faint|p2a: Greninja
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781370422
+|switch|p2a: Garchomp|Garchomp, M|87/100
+|switch|p1a: ExSkewda Me|Barraskewda, F|100/100
+|-damage|p1a: ExSkewda Me|88/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1781370430
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|-item|p2a: Ceruledge|Air Balloon
+|move|p1a: ExSkewda Me|Liquidation|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|-enditem|p2a: Ceruledge|Air Balloon
+|faint|p2a: Ceruledge
+|
+|-weather|none
+|upkeep
+|
+|t:|1781370433
+|switch|p2a: Garchomp|Garchomp, M|87/100
+|turn|9
+|
+|t:|1781370436
+|move|p1a: ExSkewda Me|Flip Turn|p2a: Garchomp
+|-damage|p2a: Garchomp|47/100
+|-damage|p1a: ExSkewda Me|76/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|
+|t:|1781370439
+|switch|p1a: Ghoti carrier|Pelipper, L99, F|31/100|[from] Flip Turn
+|-damage|p1a: Ghoti carrier|6/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Ghoti carrier
+|move|p2a: Garchomp|Scale Shot|p1a: Ghoti carrier|[miss]
+|-miss|p2a: Garchomp|p1a: Ghoti carrier
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781370443
+|move|p2a: Garchomp|Scale Shot|p1a: Ghoti carrier
+|-damage|p1a: Ghoti carrier|0 fnt
+|faint|p1a: Ghoti carrier
+|-hitcount|p1: Ghoti carrier|1
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781370445
+|switch|p1a: ExSkewda Me|Barraskewda, F|76/100
+|-damage|p1a: ExSkewda Me|64/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1781370455
+|move|p1a: ExSkewda Me|Liquidation|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: ExSkewda Me|52/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781370456
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|12
+|
+|t:|1781370460
+|move|p2a: Kingambit|Sucker Punch|p1a: ExSkewda Me
+|-damage|p1a: ExSkewda Me|0 fnt
+|faint|p1a: ExSkewda Me
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781370463
+|switch|p1a: Really want eject|Pawmot, F|100/100
+|-damage|p1a: Really want eject|94/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1781370470
+|-end|p2a: Kingambit|fallen4|[silent]
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|move|p1a: Really want eject|Nuzzle|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|90/100
+|-status|p2a: Iron Valiant|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781370473
+|switch|p1a: Great Neck|Raging Bolt|100/100
+|-damage|p1a: Great Neck|88/100|[from] Stealth Rock
+|cant|p2a: Iron Valiant|par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Great Neck|94/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|j| unamedturd
+|
+|t:|1781370478
+|-terastallize|p1a: Great Neck|Fairy
+|move|p2a: Iron Valiant|Moonblast|p1a: Great Neck
+|-damage|p1a: Great Neck|51/100
+|-unboost|p1a: Great Neck|spa|1
+|move|p1a: Great Neck|Thunder|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|17/100 par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Great Neck|58/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781370481
+|move|p1a: Great Neck|Thunderclap|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|none
+|-heal|p1a: Great Neck|64/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781370483
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|turn|17
+|
+|t:|1781370487
+|move|p1a: Great Neck|Thunder|p2a: Kingambit|[miss]
+|-miss|p1a: Great Neck|p2a: Kingambit
+|move|p2a: Kingambit|Iron Head|p1a: Great Neck
+|-supereffective|p1a: Great Neck
+|-damage|p1a: Great Neck|0 fnt
+|faint|p1a: Great Neck
+|-end|p1a: Great Neck|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781370489
+|switch|p1a: Really want eject|Pawmot, F|94/100
+|-damage|p1a: Really want eject|88/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781370491
+|-terastallize|p2a: Kingambit|Dark
+|move|p1a: Really want eject|Close Combat|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|20/100
+|-unboost|p1a: Really want eject|def|1
+|-unboost|p1a: Really want eject|spd|1
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Really want eject
+|-resisted|p1a: Really want eject
+|-damage|p1a: Really want eject|0 fnt
+|faint|p1a: Really want eject
+|
+|win|rockeater9000
+|raw|8t88's rating: 1580 &rarr; <strong>1563</strong><br />(-17 for losing)
+|raw|rockeater9000's rating: 1633 &rarr; <strong>1650</strong><br />(+17 for winning)
+|l|☆8t88
+|player|p1|
+|l| unamedturd
+|l|☆rockeater9000
+|player|p2|
+|j| gn757tb
+|l| gn757tb

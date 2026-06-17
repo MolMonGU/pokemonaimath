@@ -1,0 +1,593 @@
+|j|☆STONE CHAI
+|j|☆uniandes5
+|t:|1781195083
+|gametype|singles
+|player|p1|STONE CHAI|1|1576
+|player|p2|uniandes5|101|1637
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Gholdengo|
+|poke|p1|Zamazenta-*|
+|poke|p1|Ting-Lu|
+|poke|p1|Clefable, F|
+|poke|p1|Dragonite, M|
+|poke|p1|Skarmory, F|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Latias, F|
+|poke|p2|Tinkaton, F|
+|poke|p2|Volcanion|
+|poke|p2|Mew|
+|poke|p2|Dragapult, F|
+|teampreview
+|
+|t:|1781195101
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Djengo Unrained|Gholdengo|100/100
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|1
+|
+|t:|1781195105
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|switch|p1a: Up Bowl On Em|Ting-Lu|100/100
+|-ability|p1a: Up Bowl On Em|Vessel of Ruin
+|
+|upkeep
+|turn|2
+|
+|t:|1781195127
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: uniandes5|Reflect
+|move|p1a: Up Bowl On Em|Ruination|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|50/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781195131
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: uniandes5|move: Light Screen
+|move|p1a: Up Bowl On Em|Spikes|p2a: Grimmsnarl
+|-sidestart|p2: uniandes5|Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1781195136
+|switch|p2a: Volcanion|Volcanion|100/100
+|move|p1a: Up Bowl On Em|Spikes|p2a: Volcanion
+|-sidestart|p2: uniandes5|Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1781195169
+|-terastallize|p1a: Up Bowl On Em|Water
+|move|p2a: Volcanion|Steam Eruption|p1a: Up Bowl On Em
+|-resisted|p1a: Up Bowl On Em
+|-damage|p1a: Up Bowl On Em|89/100
+|move|p1a: Up Bowl On Em|Ruination|p2a: Volcanion|[miss]
+|-miss|p1a: Up Bowl On Em|p2a: Volcanion
+|
+|-heal|p1a: Up Bowl On Em|95/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781195177
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Up Bowl On Em|Ruination|p2a: Dragapult
+|-damage|p2a: Dragapult|51/100
+|
+|-heal|p1a: Up Bowl On Em|100/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781195183
+|move|p2a: Dragapult|Thunder Wave|p1a: Up Bowl On Em
+|-status|p1a: Up Bowl On Em|par
+|move|p1a: Up Bowl On Em|Earthquake|p2a: Dragapult
+|-damage|p2a: Dragapult|24/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781195188
+|move|p2a: Dragapult|Dragon Darts|p1a: Up Bowl On Em
+|-damage|p1a: Up Bowl On Em|87/100 par
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Up Bowl On Em
+|-damage|p1a: Up Bowl On Em|73/100 par
+|cant|p1a: Up Bowl On Em|par
+|
+|-heal|p1a: Up Bowl On Em|80/100 par|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781195192
+|move|p2a: Dragapult|Hex|p1a: Up Bowl On Em
+|-damage|p1a: Up Bowl On Em|54/100 par
+|move|p1a: Up Bowl On Em|Earthquake|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-heal|p1a: Up Bowl On Em|61/100 par|[from] item: Leftovers
+|-sideend|p2: uniandes5|Reflect
+|upkeep
+|
+|t:|1781195200
+|switch|p2a: Tinkaton|Tinkaton, F|100/100
+|-damage|p2a: Tinkaton|84/100|[from] Spikes
+|-ability|p2a: Tinkaton|Mold Breaker
+|turn|10
+|
+|t:|1781195205
+|move|p2a: Tinkaton|Knock Off|p1a: Up Bowl On Em
+|-damage|p1a: Up Bowl On Em|47/100 par
+|-enditem|p1a: Up Bowl On Em|Leftovers|[from] move: Knock Off|[of] p2a: Tinkaton
+|cant|p1a: Up Bowl On Em|par
+|
+|-sideend|p2: uniandes5|move: Light Screen
+|upkeep
+|turn|11
+|
+|t:|1781195215
+|move|p2a: Tinkaton|Foul Play|p1a: Up Bowl On Em
+|-damage|p1a: Up Bowl On Em|34/100 par
+|move|p1a: Up Bowl On Em|Earthquake|p2a: Tinkaton
+|-supereffective|p2a: Tinkaton
+|-damage|p2a: Tinkaton|13/100
+|-enditem|p2a: Tinkaton|Red Card|[of] p1a: Up Bowl On Em
+|drag|p1a: K.F.C.|Skarmory, F|100/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781195224
+|move|p2a: Tinkaton|Knock Off|p1a: K.F.C.
+|-crit|p1a: K.F.C.
+|-damage|p1a: K.F.C.|79/100
+|-damage|p2a: Tinkaton|0 fnt|[from] item: Rocky Helmet|[of] p1a: K.F.C.
+|faint|p2a: Tinkaton
+|move|p1a: K.F.C.|Spikes|p2: Tinkaton
+|-sidestart|p2: uniandes5|Spikes
+|
+|upkeep
+|
+|t:|1781195231
+|switch|p2a: Volcanion|Volcanion|100/100
+|turn|13
+|
+|t:|1781195248
+|move|p2a: Volcanion|Flamethrower|p1a: K.F.C.
+|-supereffective|p1a: K.F.C.
+|-damage|p1a: K.F.C.|0 fnt
+|faint|p1a: K.F.C.
+|
+|upkeep
+|
+|t:|1781195252
+|switch|p1a: Secret Service|Dragonite, M|100/100
+|turn|14
+|
+|t:|1781195257
+|move|p1a: Secret Service|Earthquake|p2a: Volcanion
+|-supereffective|p2a: Volcanion
+|-damage|p2a: Volcanion|45/100
+|move|p2a: Volcanion|Steam Eruption|p1a: Secret Service
+|-resisted|p1a: Secret Service
+|-damage|p1a: Secret Service|88/100
+|-status|p1a: Secret Service|brn
+|
+|-damage|p1a: Secret Service|82/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781195282
+|switch|p2a: Mew|Mew|100/100
+|-damage|p2a: Mew|75/100|[from] Spikes
+|move|p1a: Secret Service|Extreme Speed|p2a: Mew
+|-damage|p2a: Mew|65/100
+|
+|-damage|p1a: Secret Service|76/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1781195287
+|move|p2a: Mew|Dragon Dance|p2a: Mew
+|-boost|p2a: Mew|atk|1
+|-boost|p2a: Mew|spe|1
+|move|p1a: Secret Service|Dragon Tail|p2a: Mew
+|-damage|p2a: Mew|52/100
+|drag|p2a: Latias|Latias, F|100/100
+|
+|-damage|p1a: Secret Service|70/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781195295
+|switch|p2a: Mew|Mew|52/100
+|-damage|p2a: Mew|27/100|[from] Spikes
+|move|p1a: Secret Service|Dragon Tail|p2a: Mew
+|-damage|p2a: Mew|16/100
+|drag|p2a: Latias|Latias, F|100/100
+|
+|-damage|p1a: Secret Service|64/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1781195301
+|switch|p2a: Mew|Mew|16/100
+|-damage|p2a: Mew|0 fnt|[from] Spikes
+|faint|p2a: Mew
+|move|p1a: Secret Service|Dragon Tail|p2: Mew|[notarget]
+|-fail|p1a: Secret Service
+|
+|-damage|p1a: Secret Service|58/100 brn|[from] brn
+|upkeep
+|
+|t:|1781195307
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|50/100
+|-damage|p2a: Grimmsnarl|26/100|[from] Spikes
+|turn|19
+|
+|t:|1781195310
+|move|p1a: Secret Service|Extreme Speed|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|10/100
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: uniandes5|Reflect
+|
+|-damage|p1a: Secret Service|52/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1781195318
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: uniandes5|move: Light Screen
+|move|p1a: Secret Service|Roost|p1a: Secret Service
+|-heal|p1a: Secret Service|100/100 brn
+|-singleturn|p1a: Secret Service|move: Roost
+|
+|-damage|p1a: Secret Service|94/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1781195326
+|move|p2a: Grimmsnarl|Taunt|p1a: Secret Service
+|-start|p1a: Secret Service|move: Taunt
+|move|p1a: Secret Service|Dragon Tail|p2a: Grimmsnarl
+|-immune|p2a: Grimmsnarl
+|
+|-damage|p1a: Secret Service|88/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1781195334
+|move|p2a: Grimmsnarl|Taunt||[still]
+|-fail|p2a: Grimmsnarl
+|move|p1a: Secret Service|Dragon Tail|p2a: Grimmsnarl
+|-immune|p2a: Grimmsnarl
+|
+|-damage|p1a: Secret Service|82/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1781195338
+|move|p2a: Grimmsnarl|Taunt||[still]
+|-fail|p2a: Grimmsnarl
+|move|p1a: Secret Service|Dragon Tail|p2a: Grimmsnarl
+|-immune|p2a: Grimmsnarl
+|
+|-damage|p1a: Secret Service|76/100 brn|[from] brn
+|-end|p1a: Secret Service|move: Taunt
+|upkeep
+|turn|24
+|
+|t:|1781195343
+|move|p2a: Grimmsnarl|Taunt|p1a: Secret Service
+|-start|p1a: Secret Service|move: Taunt
+|cant|p1a: Secret Service|move: Taunt|Roost
+|
+|-damage|p1a: Secret Service|70/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1781195348
+|move|p2a: Grimmsnarl|Taunt||[still]
+|-fail|p2a: Grimmsnarl
+|move|p1a: Secret Service|Dragon Tail|p2a: Grimmsnarl
+|-immune|p2a: Grimmsnarl
+|
+|-damage|p1a: Secret Service|64/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1781195351
+|move|p2a: Grimmsnarl|Taunt||[still]
+|-fail|p2a: Grimmsnarl
+|move|p1a: Secret Service|Dragon Tail|p2a: Grimmsnarl
+|-immune|p2a: Grimmsnarl
+|
+|-damage|p1a: Secret Service|58/100 brn|[from] brn
+|-end|p1a: Secret Service|move: Taunt
+|-sideend|p2: uniandes5|Reflect
+|upkeep
+|turn|27
+|
+|t:|1781195354
+|move|p1a: Secret Service|Extreme Speed|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|faint|p2a: Grimmsnarl
+|
+|-damage|p1a: Secret Service|52/100 brn|[from] brn
+|-sideend|p2: uniandes5|move: Light Screen
+|upkeep
+|
+|t:|1781195357
+|switch|p2a: Latias|Latias, F|100/100
+|turn|28
+|
+|t:|1781195361
+|switch|p2a: Volcanion|Volcanion|45/100
+|move|p1a: Secret Service|Dragon Tail|p2a: Volcanion
+|-damage|p2a: Volcanion|33/100
+|drag|p2a: Latias|Latias, F|100/100
+|
+|-damage|p1a: Secret Service|46/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1781195367
+|switch|p2a: Volcanion|Volcanion|33/100
+|move|p1a: Secret Service|Dragon Tail|p2a: Volcanion
+|-damage|p2a: Volcanion|20/100
+|drag|p2a: Latias|Latias, F|100/100
+|
+|-damage|p1a: Secret Service|40/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1781195373
+|switch|p2a: Volcanion|Volcanion|20/100
+|move|p1a: Secret Service|Roost|p1a: Secret Service
+|-heal|p1a: Secret Service|91/100 brn
+|-singleturn|p1a: Secret Service|move: Roost
+|
+|-damage|p1a: Secret Service|85/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1781195377
+|move|p1a: Secret Service|Extreme Speed|p2a: Volcanion
+|-damage|p2a: Volcanion|10/100
+|move|p2a: Volcanion|Steam Eruption|p1a: Secret Service
+|-resisted|p1a: Secret Service
+|-damage|p1a: Secret Service|60/100 brn
+|
+|-damage|p1a: Secret Service|54/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1781195381
+|move|p1a: Secret Service|Roost|p1a: Secret Service
+|-heal|p1a: Secret Service|100/100 brn
+|-singleturn|p1a: Secret Service|move: Roost
+|move|p2a: Volcanion|Steam Eruption|p1a: Secret Service
+|-resisted|p1a: Secret Service
+|-damage|p1a: Secret Service|88/100 brn
+|
+|-damage|p1a: Secret Service|82/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1781195386
+|move|p1a: Secret Service|Extreme Speed|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|faint|p2a: Volcanion
+|
+|-damage|p1a: Secret Service|76/100 brn|[from] brn
+|upkeep
+|
+|t:|1781195389
+|switch|p2a: Latias|Latias, F|100/100
+|turn|34
+|
+|t:|1781195394
+|switch|p1a: Djengo Unrained|Gholdengo|100/100
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|
+|upkeep
+|turn|35
+|
+|t:|1781195400
+|-terastallize|p2a: Latias|Poison
+|move|p2a: Latias|Stored Power|p1a: Djengo Unrained
+|-resisted|p1a: Djengo Unrained
+|-damage|p1a: Djengo Unrained|86/100
+|move|p1a: Djengo Unrained|Thunder Wave|p2a: Latias
+|-status|p2a: Latias|par
+|-enditem|p2a: Latias|Lum Berry|[eat]
+|-curestatus|p2a: Latias|par|[msg]
+|
+|upkeep
+|turn|36
+|
+|t:|1781195408
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Djengo Unrained|Thunder Wave|p2a: Latias|[miss]
+|-miss|p1a: Djengo Unrained|p2a: Latias
+|
+|upkeep
+|turn|37
+|
+|t:|1781195412
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Djengo Unrained|Thunder Wave|p2a: Latias
+|-status|p2a: Latias|par
+|
+|upkeep
+|turn|38
+|
+|t:|1781195416
+|move|p1a: Djengo Unrained|Hex|p2a: Latias
+|-damage|p2a: Latias|84/100 par
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|
+|upkeep
+|turn|39
+|
+|t:|1781195427
+|move|p1a: Djengo Unrained|Hex|p2a: Latias
+|-damage|p2a: Latias|68/100 par
+|move|p2a: Latias|Stored Power|p1a: Djengo Unrained
+|-resisted|p1a: Djengo Unrained
+|-damage|p1a: Djengo Unrained|0 fnt
+|faint|p1a: Djengo Unrained
+|
+|upkeep
+|
+|t:|1781195442
+|switch|p1a: Secret Service|Dragonite, M|76/100 brn
+|turn|40
+|
+|t:|1781195447
+|move|p1a: Secret Service|Extreme Speed|p2a: Latias
+|-damage|p2a: Latias|57/100 par
+|cant|p2a: Latias|par
+|
+|-damage|p1a: Secret Service|70/100 brn|[from] brn
+|upkeep
+|turn|41
+|
+|t:|1781195451
+|move|p1a: Secret Service|Extreme Speed|p2a: Latias
+|-damage|p2a: Latias|46/100 par
+|move|p2a: Latias|Recover|p2a: Latias
+|-heal|p2a: Latias|96/100 par
+|
+|-damage|p1a: Secret Service|64/100 brn|[from] brn
+|upkeep
+|turn|42
+|
+|t:|1781195456
+|move|p1a: Secret Service|Extreme Speed|p2a: Latias
+|-damage|p2a: Latias|85/100 par
+|move|p2a: Latias|Stored Power|p1a: Secret Service
+|-damage|p1a: Secret Service|0 fnt
+|faint|p1a: Secret Service
+|
+|upkeep
+|
+|t:|1781195462
+|switch|p1a: Up Bowl On Em|Ting-Lu, tera:Water|34/100 par
+|-ability|p1a: Up Bowl On Em|Vessel of Ruin
+|turn|43
+|
+|t:|1781195465
+|move|p2a: Latias|Stored Power|p1a: Up Bowl On Em
+|-damage|p1a: Up Bowl On Em|0 fnt
+|faint|p1a: Up Bowl On Em
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by uniandes5)
+|
+|t:|1781195472
+|switch|p1a: Moonrock 350|Clefable, F|100/100
+|turn|44
+|
+|t:|1781195476
+|move|p1a: Moonrock 350|Knock Off|p2a: Latias
+|-damage|p2a: Latias|76/100 par
+|cant|p2a: Latias|par
+|
+|upkeep
+|turn|45
+|
+|t:|1781195479
+|move|p1a: Moonrock 350|Knock Off|p2a: Latias
+|-damage|p2a: Latias|68/100 par
+|cant|p2a: Latias|par
+|
+|upkeep
+|turn|46
+|
+|t:|1781195483
+|move|p1a: Moonrock 350|Knock Off|p2a: Latias
+|-damage|p2a: Latias|61/100 par
+|cant|p2a: Latias|par
+|
+|upkeep
+|turn|47
+|
+|t:|1781195489
+|move|p1a: Moonrock 350|Knock Off|p2a: Latias
+|-damage|p2a: Latias|54/100 par
+|cant|p2a: Latias|par
+|
+|upkeep
+|turn|48
+|
+|t:|1781195496
+|switch|p1a: CClifford|Zamazenta|100/100
+|-ability|p1a: CClifford|Dauntless Shield|boost
+|-boost|p1a: CClifford|def|1
+|cant|p2a: Latias|par
+|
+|upkeep
+|turn|49
+|
+|t:|1781195505
+|move|p1a: CClifford|Crunch|p2a: Latias
+|-damage|p2a: Latias|35/100 par
+|move|p2a: Latias|Recover|p2a: Latias
+|-heal|p2a: Latias|85/100 par
+|
+|upkeep
+|turn|50
+|
+|t:|1781195510
+|move|p1a: CClifford|Crunch|p2a: Latias
+|-damage|p2a: Latias|66/100 par
+|-unboost|p2a: Latias|def|1
+|move|p2a: Latias|Stored Power|p1a: CClifford
+|-supereffective|p1a: CClifford
+|-damage|p1a: CClifford|0 fnt
+|faint|p1a: CClifford
+|
+|upkeep
+|
+|t:|1781195512
+|switch|p1a: Moonrock 350|Clefable, F|100/100
+|turn|51
+|
+|t:|1781195515
+|move|p1a: Moonrock 350|Knock Off|p2a: Latias
+|-damage|p2a: Latias|55/100 par
+|move|p2a: Latias|Stored Power|p1a: Moonrock 350
+|-damage|p1a: Moonrock 350|0 fnt
+|faint|p1a: Moonrock 350
+|
+|win|uniandes5
+|raw|STONE CHAI's rating: 1576 &rarr; <strong>1559</strong><br />(-17 for losing)
+|raw|uniandes5's rating: 1637 &rarr; <strong>1654</strong><br />(+17 for winning)
+|l|☆STONE CHAI
+|player|p1|
+|l|☆uniandes5
+|player|p2|

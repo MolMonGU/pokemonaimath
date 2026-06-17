@@ -1,0 +1,331 @@
+|j|☆moocowvin
+|j|‽RadiantSol
+|t:|1781348067
+|gametype|singles
+|player|p1|moocowvin|acetrainersnowf|1570
+|player|p2|RadiantSol|flint|1560
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, M|
+|poke|p1|Kommo-o, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Crown|
+|poke|p2|Espeon, F|
+|poke|p2|Talonflame, F|
+|poke|p2|Lapras, F|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Muk-Alola, F|
+|poke|p2|Quagsire, F|
+|teampreview
+|
+|t:|1781348075
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Muk|Muk-Alola, F, shiny|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781348078
+|switch|p2a: Talonflame|Talonflame, F|100/100
+|move|p1a: Iron Treads|Stealth Rock|p2a: Talonflame
+|-sidestart|p2: RadiantSol|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by RadiantSol)
+|
+|t:|1781348092
+|move|p1a: Iron Treads|Rapid Spin|p2a: Talonflame
+|-damage|p2a: Talonflame|88/100
+|-boost|p1a: Iron Treads|spe|1
+|move|p2a: Talonflame|Defog|p1a: Iron Treads
+|-unboost|p1a: Iron Treads|evasion|1
+|-sideend|p2: RadiantSol|Stealth Rock|[from] move: Defog|[of] p2a: Talonflame
+|
+|upkeep
+|turn|3
+|
+|t:|1781348095
+|move|p1a: Iron Treads|Stealth Rock|p2a: Talonflame
+|-sidestart|p2: RadiantSol|move: Stealth Rock
+|move|p2a: Talonflame|Flamethrower|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|43/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781348098
+|move|p1a: Iron Treads|Endeavor|p2a: Talonflame
+|-damage|p2a: Talonflame|55/100
+|move|p2a: Talonflame|Defog|p1a: Iron Treads
+|-unboost|p1a: Iron Treads|evasion|1
+|-sideend|p2: RadiantSol|Stealth Rock|[from] move: Defog|[of] p2a: Talonflame
+|
+|upkeep
+|turn|5
+|
+|t:|1781348101
+|move|p1a: Iron Treads|Stealth Rock|p2a: Talonflame
+|-sidestart|p2: RadiantSol|move: Stealth Rock
+|move|p2a: Talonflame|Flamethrower|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781348110
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|6
+|
+|t:|1781348115
+|move|p2a: Talonflame|Protect|p2a: Talonflame
+|-singleturn|p2a: Talonflame|Protect
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781348127
+|switch|p2a: Muk|Muk-Alola, F, shiny|100/100
+|-damage|p2a: Muk|88/100|[from] Stealth Rock
+|move|p1a: Kyurem|Icicle Spear|p2a: Muk
+|-damage|p2a: Muk|67/100
+|-damage|p2a: Muk|45/100
+|-damage|p2a: Muk|25/100
+|-damage|p2a: Muk|3/100
+|-hitcount|p2a: Muk|4
+|
+|-heal|p2a: Muk|9/100|[from] item: Black Sludge
+|upkeep
+|turn|8
+|
+|t:|1781348131
+|move|p1a: Kyurem|Icicle Spear|p2a: Muk
+|-damage|p2a: Muk|0 fnt
+|faint|p2a: Muk
+|-hitcount|p2: Muk|1
+|
+|upkeep
+|
+|t:|1781348148
+|switch|p2a: Quagsire|Quagsire, F, shiny|100/100
+|-damage|p2a: Quagsire|94/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1781348163
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Quagsire|Toxic|p1a: Iron Valiant
+|-status|p1a: Iron Valiant|tox
+|
+|-damage|p1a: Iron Valiant|94/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1781348183
+|switch|p2a: Talonflame|Talonflame, F|55/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Talonflame
+|-resisted|p2a: Talonflame
+|-damage|p2a: Talonflame|22/100
+|-unboost|p2a: Talonflame|spa|1
+|
+|-damage|p1a: Iron Valiant|82/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1781348188
+|move|p2a: Talonflame|Protect|p2a: Talonflame
+|-singleturn|p2a: Talonflame|Protect
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Talonflame
+|-activate|p2a: Talonflame|move: Protect
+|
+|-damage|p1a: Iron Valiant|63/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1781348194
+|move|p1a: Iron Valiant|Moonblast|p2a: Talonflame
+|-resisted|p2a: Talonflame
+|-damage|p2a: Talonflame|0 fnt
+|faint|p2a: Talonflame
+|
+|-damage|p1a: Iron Valiant|38/100 tox|[from] psn
+|upkeep
+|
+|t:|1781348222
+|switch|p2a: Ninetales|Ninetales-Alola, F, shiny|100/100
+|-damage|p2a: Ninetales|76/100|[from] Stealth Rock
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|13
+|
+|t:|1781348230
+|move|p2a: Ninetales|Protect|p2a: Ninetales
+|-singleturn|p2a: Ninetales|Protect
+|move|p1a: Iron Valiant|Moonblast|p2a: Ninetales
+|-activate|p2a: Ninetales|move: Protect
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Iron Valiant|7/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1781348234
+|move|p1a: Iron Valiant|Moonblast|p2a: Ninetales
+|-damage|p2a: Ninetales|27/100
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: RadiantSol|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Iron Valiant|0 fnt|[from] psn
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|upkeep
+|
+|t:|1781348239
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|15
+|
+|t:|1781348243
+|move|p2a: Ninetales|Protect|p2a: Ninetales
+|-singleturn|p2a: Ninetales|Protect
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781348249
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Ninetales|Encore|p1a: Kyurem
+|-start|p1a: Kyurem|Encore
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781348263
+|switch|p2a: Quagsire|Quagsire, F, shiny|94/100
+|-damage|p2a: Quagsire|88/100|[from] Stealth Rock
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|
+|-weather|none
+|upkeep
+|turn|18
+|
+|t:|1781348269
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|move|p2a: Quagsire|Toxic|p1a: Iron Crown|[miss]
+|-miss|p2a: Quagsire|p1a: Iron Crown
+|
+|upkeep
+|turn|19
+|
+|t:|1781348273
+|move|p1a: Iron Crown|Agility|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spe|2
+|move|p2a: Quagsire|Toxic Spikes|p1a: Iron Crown
+|-sidestart|p1: moocowvin|move: Toxic Spikes
+|
+|upkeep
+|turn|20
+|
+|t:|1781348291
+|switch|p2a: Espeon|Espeon, F, shiny|100/100
+|-damage|p2a: Espeon|88/100|[from] Stealth Rock
+|move|p1a: Iron Crown|Agility|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spe|2
+|
+|upkeep
+|turn|21
+|
+|t:|1781348297
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Espeon
+|-damage|p2a: Espeon|73/100
+|-damage|p2a: Espeon|58/100
+|-hitcount|p2a: Espeon|2
+|move|p2a: Espeon|Calm Mind|p2a: Espeon
+|-boost|p2a: Espeon|spa|1
+|-boost|p2a: Espeon|spd|1
+|
+|-sideend|p2: RadiantSol|move: Aurora Veil
+|upkeep
+|turn|22
+|
+|t:|1781348301
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Espeon
+|-damage|p2a: Espeon|39/100
+|-damage|p2a: Espeon|21/100
+|-hitcount|p2a: Espeon|2
+|move|p2a: Espeon|Shadow Ball|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|30/100
+|-enditem|p1a: Iron Crown|Weakness Policy
+|-boost|p1a: Iron Crown|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Iron Crown|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|23
+|
+|t:|1781348313
+|switch|p2a: Ninetales|Ninetales-Alola, F, shiny|27/100
+|-damage|p2a: Ninetales|2/100|[from] Stealth Rock
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Iron Crown|Stored Power|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781348316
+|switch|p2a: Quagsire|Quagsire, F, shiny|88/100
+|-damage|p2a: Quagsire|82/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781348318
+|move|p1a: Iron Crown|Stored Power|p2a: Quagsire
+|-damage|p2a: Quagsire|0 fnt
+|faint|p2a: Quagsire
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|-message|RadiantSol forfeited.
+|
+|win|moocowvin
+|raw|moocowvin's rating: 1570 &rarr; <strong>1589</strong><br />(+19 for winning)
+|raw|RadiantSol's rating: 1560 &rarr; <strong>1541</strong><br />(-19 for losing)
+|l|‽RadiantSol
+|player|p2|
+|l|☆moocowvin
+|player|p1|

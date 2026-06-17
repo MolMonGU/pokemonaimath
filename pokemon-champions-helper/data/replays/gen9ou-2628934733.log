@@ -1,0 +1,302 @@
+|j|☆nartey
+|j|☆AyushXD
+|t:|1781076312
+|gametype|singles
+|player|p1|nartey|lance|1620
+|player|p2|AyushXD|unknown|1601
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Hatterene, F|
+|poke|p1|Corviknight, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Great Tusk|
+|poke|p1|Heatran, M|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Kyurem|
+|poke|p2|Iron Valiant|
+|poke|p2|Cinderace, F|
+|poke|p2|Kingambit, F|
+|teampreview
+|
+|t:|1781076327
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Heatran|Heatran, M|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781076331
+|move|p2a: Kyurem|Earth Power|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1781076334
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|2
+|
+|t:|1781076340
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Kyurem|Draco Meteor|p2a: Slowking
+|-damage|p2a: Slowking|43/100
+|-unboost|p1a: Kyurem|spa|2
+|
+|upkeep
+|turn|3
+|
+|t:|1781076346
+|move|p1a: Kyurem|Draco Meteor|p2a: Slowking
+|-damage|p2a: Slowking|16/100
+|-unboost|p1a: Kyurem|spa|2
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781076350
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781076355
+|-terastallize|p2a: Kyurem|Ice
+|move|p1a: Kyurem|Draco Meteor|p2a: Kyurem
+|-damage|p2a: Kyurem|69/100
+|-unboost|p1a: Kyurem|spa|2
+|move|p2a: Kyurem|Blizzard|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781076367
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|turn|5
+|
+|t:|1781076372
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hatterene|atk|1
+|-terastallize|p1a: Hatterene|Water
+|move|p1a: Hatterene|Mystical Fire|p2a: Landorus
+|-damage|p2a: Landorus|78/100
+|-unboost|p2a: Landorus|spa|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781076380
+|move|p2a: Landorus|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|62/100
+|move|p1a: Hatterene|Psychic Noise|p2a: Landorus
+|-damage|p2a: Landorus|41/100
+|-start|p2a: Landorus|move: Heal Block
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Hatterene|68/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781076384
+|move|p2a: Landorus|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|30/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Landorus
+|-damage|p2a: Landorus|15/100
+|-heal|p1a: Hatterene|53/100|[from] drain|[of] p2a: Landorus
+|-damage|p1a: Hatterene|37/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|
+|-weather|none
+|-heal|p1a: Hatterene|43/100|[from] item: Leftovers
+|-end|p2a: Landorus|move: Heal Block
+|upkeep
+|turn|8
+|
+|t:|1781076389
+|move|p2a: Landorus|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|4/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|-heal|p1a: Hatterene|17/100|[from] drain|[of] p2a: Landorus
+|-damage|p1a: Hatterene|1/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|faint|p2a: Landorus
+|
+|-heal|p1a: Hatterene|7/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781076395
+|switch|p2a: Kyurem|Kyurem, tera:Ice|69/100
+|-ability|p2a: Kyurem|Pressure
+|turn|9
+|
+|t:|1781076398
+|move|p2a: Kyurem|Freeze-Dry|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781076407
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|10
+|
+|t:|1781076410
+|switch|p2a: Slowking|Slowking-Galar, F|49/100
+|move|p1a: Iron Valiant|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-enditem|p2a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Iron Valiant
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781076420
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|11
+|
+|t:|1781076422
+|move|p1a: Iron Valiant|Knock Off|p2a: Cinderace
+|-damage|p2a: Cinderace|62/100
+|-enditem|p2a: Cinderace|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Iron Valiant
+|move|p2a: Cinderace|Pyro Ball|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|28/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781076434
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|move|p1a: Iron Valiant|Close Combat|p2a: Iron Valiant
+|-resisted|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|67/100
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781076438
+|move|p2a: Iron Valiant|Moonblast|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-crit|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781076440
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|turn|14
+|
+|t:|1781076443
+|move|p2a: Iron Valiant|Knock Off|p1a: Corviknight
+|-damage|p1a: Corviknight|85/100
+|-damage|p2a: Iron Valiant|50/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|-enditem|p1a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p2a: Iron Valiant
+|move|p1a: Corviknight|Brave Bird|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|-damage|p1a: Corviknight|73/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1781076451
+|switch|p2a: Cinderace|Cinderace, F|62/100
+|turn|15
+|
+|t:|1781076461
+|move|p2a: Cinderace|Will-O-Wisp|p1a: Corviknight
+|-status|p1a: Corviknight|brn
+|move|p1a: Corviknight|Brave Bird|p2a: Cinderace
+|-damage|p2a: Cinderace|37/100
+|-damage|p1a: Corviknight|67/100 brn|[from] Recoil
+|
+|-damage|p1a: Corviknight|61/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1781076468
+|switch|p2a: Kyurem|Kyurem, tera:Ice|69/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100 brn
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-damage|p1a: Corviknight|94/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781076471
+|move|p2a: Kyurem|Freeze-Dry|p1a: Corviknight
+|-damage|p1a: Corviknight|26/100 brn
+|move|p1a: Corviknight|Brave Bird|p2a: Kyurem
+|-damage|p2a: Kyurem|52/100
+|-damage|p1a: Corviknight|21/100 brn|[from] Recoil
+|
+|-damage|p1a: Corviknight|15/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1781076477
+|move|p2a: Kyurem|Freeze-Dry|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|upkeep
+|
+|t:|1781076478
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisspe
+|turn|19
+|
+|t:|1781076480
+|move|p1a: Great Tusk|Headlong Rush|p2a: Kyurem
+|-damage|p2a: Kyurem|6/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Kyurem|Freeze-Dry|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|win|AyushXD
+|raw|nartey's rating: 1620 &rarr; <strong>1599</strong><br />(-21 for losing)
+|raw|AyushXD's rating: 1601 &rarr; <strong>1622</strong><br />(+21 for winning)
+|l|☆nartey
+|player|p1|
+|l|☆AyushXD
+|player|p2|

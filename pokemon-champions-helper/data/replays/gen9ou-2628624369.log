@@ -1,0 +1,342 @@
+|j|☆vivienne black
+|j|☆pepinoloko
+|t:|1781036514
+|gametype|singles
+|player|p1|vivienne black|guitarist|1540
+|player|p2|pepinoloko|byron|1536
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Moth|
+|poke|p1|Gliscor, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Zamazenta-*|
+|poke|p2|Zoroark-Hisui, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Breloom, F|
+|poke|p2|Hydrapple, M|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Snorlax, M|
+|teampreview
+|
+|t:|1781036540
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|switch|p2a: Breloom|Breloom, F|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pepinoloko)
+|
+|t:|1781036557
+|switch|p2a: Hydrapple|Hydrapple, M|100/100
+|move|p1a: Zamazenta|Reflect|p1a: Zamazenta
+|-sidestart|p1: vivienne black|Reflect
+|
+|upkeep
+|turn|2
+|
+|t:|1781036563
+|switch|p2a: Love has a name|Grimmsnarl, M|100/100
+|move|p1a: Zamazenta|Light Screen|p1a: Zamazenta
+|-sidestart|p1: vivienne black|move: Light Screen
+|
+|upkeep
+|turn|3
+|
+|t:|1781036592
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|move|p2a: Love has a name|Trick|p1a: Iron Moth
+|-activate|p2a: Love has a name|move: Trick|[of] p1a: Iron Moth
+|-item|p1a: Iron Moth|Choice Scarf|[from] move: Trick
+|-enditem|p2a: Love has a name|Choice Scarf|[silent]|[from] move: Trick
+|
+|upkeep
+|turn|4
+|
+|t:|1781036597
+|move|p2a: Love has a name|Parting Shot|p1a: Iron Moth
+|-unboost|p1a: Iron Moth|atk|1
+|-unboost|p1a: Iron Moth|spa|1
+|
+|t:|1781036599
+|switch|p2a: Snorlax|Snorlax, M|100/100|[from] Parting Shot
+|move|p1a: Iron Moth|Sludge Wave|p2a: Snorlax
+|-damage|p2a: Snorlax|84/100
+|
+|-heal|p2a: Snorlax|90/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781036607
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|switch|p2a: Love has a name|Grimmsnarl, M|100/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781036610
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Love has a name|Thunder Wave|p1a: Hatterene
+|move|p1a: Hatterene|Thunder Wave|p2a: Love has a name|[from] ability: Magic Bounce
+|-status|p2a: Love has a name|par
+|
+|upkeep
+|turn|7
+|
+|t:|1781036613
+|cant|p2a: Love has a name|par
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781036616
+|move|p2a: Love has a name|Trick|p1a: Hatterene
+|-activate|p2a: Love has a name|move: Trick|[of] p1a: Hatterene
+|-enditem|p1a: Hatterene|Leftovers|[silent]|[from] move: Trick
+|-item|p2a: Love has a name|Leftovers|[from] move: Trick
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-sideend|p1: vivienne black|Reflect
+|upkeep
+|turn|9
+|
+|t:|1781036621
+|cant|p2a: Love has a name|par
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-sideend|p1: vivienne black|move: Light Screen
+|upkeep
+|turn|10
+|
+|t:|1781036625
+|move|p2a: Love has a name|Parting Shot|p1a: Hatterene
+|move|p1a: Hatterene|Parting Shot|p2a: Love has a name|[from] ability: Magic Bounce
+|-unboost|p2a: Love has a name|atk|1
+|-unboost|p2a: Love has a name|spa|1
+|
+|t:|1781036631
+|switch|p1a: Iron Moth|Iron Moth|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|11
+|
+|t:|1781036634
+|switch|p2a: Snorlax|Snorlax, M|90/100
+|move|p1a: Iron Moth|Sludge Wave|p2a: Snorlax
+|-damage|p2a: Snorlax|64/100
+|
+|-heal|p2a: Snorlax|71/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781036639
+|move|p1a: Iron Moth|Sludge Wave|p2a: Snorlax
+|-damage|p2a: Snorlax|47/100
+|move|p2a: Snorlax|Body Slam|p1a: Iron Moth
+|-damage|p1a: Iron Moth|49/100
+|
+|-heal|p2a: Snorlax|53/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781036644
+|move|p1a: Iron Moth|Sludge Wave|p2a: Snorlax
+|-damage|p2a: Snorlax|31/100
+|move|p2a: Snorlax|Body Slam|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p2a: Snorlax|38/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781036655
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|turn|14
+|
+|t:|1781036659
+|switch|p2a: Hydrapple|Hydrapple, M|100/100
+|move|p1a: Zamazenta|Reflect|p1a: Zamazenta
+|-sidestart|p1: vivienne black|Reflect
+|
+|upkeep
+|turn|15
+|
+|t:|1781036680
+|move|p1a: Zamazenta|Light Screen|p1a: Zamazenta
+|-sidestart|p1: vivienne black|move: Light Screen
+|move|p2a: Hydrapple|Nasty Plot|p2a: Hydrapple
+|-boost|p2a: Hydrapple|spa|2
+|
+|upkeep
+|turn|16
+|
+|t:|1781036686
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Hydrapple|Fickle Beam|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|35/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781036694
+|-terastallize|p2a: Hydrapple|Fairy
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Hydrapple
+|-immune|p2a: Hydrapple
+|move|p2a: Hydrapple|Fickle Beam|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781036721
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|18
+|
+|t:|1781036726
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Hydrapple|Fickle Beam|p1a: Ogerpon
+|-damage|p1a: Ogerpon|62/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781036737
+|-terastallize|p1a: Ogerpon|Water
+|detailschange|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Hydrapple|[anim] Ivy Cudgel Water
+|-damage|p2a: Hydrapple|4/100
+|move|p2a: Hydrapple|Fickle Beam|p1a: Ogerpon|[anim] Fickle Beam All Out
+|-activate|p2a: Hydrapple|move: Fickle Beam
+|-crit|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|detailschange|p1: Ogerpon|Ogerpon-Wellspring, F|[silent]
+|
+|upkeep
+|
+|t:|1781036749
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|turn|20
+|
+|t:|1781036753
+|move|p1a: Gliscor|Facade|p2a: Hydrapple
+|-damage|p2a: Hydrapple|0 fnt
+|-damage|p1a: Gliscor|84/100|[from] item: Rocky Helmet|[of] p2a: Hydrapple
+|faint|p2a: Hydrapple
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|
+|t:|1781036761
+|switch|p2a: Love has a name|Grimmsnarl, M|100/100
+|turn|21
+|
+|t:|1781036773
+|move|p2a: Love has a name|Trick|p1a: Gliscor
+|-activate|p2a: Love has a name|move: Trick|[of] p1a: Gliscor
+|-item|p1a: Gliscor|Choice Specs|[from] move: Trick
+|-item|p2a: Love has a name|Toxic Orb|[from] move: Trick
+|move|p1a: Gliscor|Swords Dance|p1a: Gliscor
+|-boost|p1a: Gliscor|atk|2
+|
+|-heal|p1a: Gliscor|96/100 tox|[from] ability: Poison Heal
+|-sideend|p1: vivienne black|Reflect
+|-status|p2a: Love has a name|tox|[from] item: Toxic Orb
+|upkeep
+|turn|22
+|
+|t:|1781036786
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Love has a name|Trick|p1a: Hatterene
+|-activate|p2a: Love has a name|move: Trick|[of] p1a: Hatterene
+|-item|p1a: Hatterene|Toxic Orb|[from] move: Trick
+|-enditem|p2a: Love has a name|Toxic Orb|[silent]|[from] move: Trick
+|
+|-damage|p2a: Love has a name|95/100 tox|[from] psn
+|-sideend|p1: vivienne black|move: Light Screen
+|-status|p1a: Hatterene|tox|[from] item: Toxic Orb
+|upkeep
+|turn|23
+|
+|t:|1781036789
+|move|p2a: Love has a name|Shadow Ball|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|22/100 tox
+|-unboost|p1a: Hatterene|spd|1
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-damage|p2a: Love has a name|83/100 tox|[from] psn
+|-damage|p1a: Hatterene|16/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1781036794
+|move|p2a: Love has a name|Shadow Ball|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-damage|p2a: Love has a name|65/100 tox|[from] psn
+|upkeep
+|inactive|vivienne black has 120 seconds left.
+|
+|t:|1781036835
+|switch|p1a: Gliscor|Gliscor, M|96/100 tox
+|turn|25
+|
+|t:|1781036838
+|move|p2a: Love has a name|Hyper Voice|p1a: Gliscor
+|-damage|p1a: Gliscor|39/100 tox
+|move|p1a: Gliscor|Facade|p2a: Love has a name
+|-immune|p2a: Love has a name
+|
+|-damage|p2a: Love has a name|41/100 tox|[from] psn
+|-heal|p1a: Gliscor|52/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|26
+|-message|vivienne black forfeited.
+|
+|win|pepinoloko
+|raw|vivienne black's rating: 1521 &rarr; <strong>1502</strong><br />(-19 for losing)
+|raw|pepinoloko's rating: 1536 &rarr; <strong>1555</strong><br />(+19 for winning)
+|l|☆vivienne black
+|player|p1|
+|l|☆pepinoloko
+|player|p2|

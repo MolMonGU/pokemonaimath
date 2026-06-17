@@ -1,0 +1,316 @@
+|j|☆extra-pseudo man
+|j|☆mastersannin
+|t:|1781373270
+|gametype|singles
+|player|p1|extra-pseudo man|102|1609
+|player|p2|mastersannin|265|1519
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragonite, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Tyranitar, F|
+|poke|p1|Metagross|
+|poke|p1|Goodra-Hisui, M|
+|poke|p1|Garchomp, F|
+|poke|p2|Pelipper, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mastersannin)
+|c|☆extra-pseudo man|gl
+|inactive|mastersannin has 120 seconds left.
+|
+|t:|1781373303
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tyranocif|Tyranitar, F|100/100
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranocif
+|turn|1
+|c|☆mastersannin|gl
+|
+|t:|1781373312
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Tyranocif|Stealth Rock|p2a: Iron Treads
+|-sidestart|p2: mastersannin|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781373317
+|switch|p1a: Marill me|Garchomp, F|100/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: Marill me
+|-sidestart|p1: extra-pseudo man|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781373324
+|move|p2a: Iron Treads|Earth Power|p1a: Marill me
+|-damage|p1a: Marill me|70/100
+|move|p1a: Marill me|Dragon Tail|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|88/100
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|drag|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Raging Bolt|82/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1781373332
+|switch|p1a: Tyranocif|Tyranitar, F|100/100
+|-damage|p1a: Tyranocif|88/100|[from] Stealth Rock
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Tyranocif|[miss]
+|-miss|p2a: Raging Bolt|p1a: Tyranocif
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Raging Bolt|76/100|[from] Sandstorm
+|-heal|p1a: Tyranocif|94/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781373338
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Tyranocif
+|-damage|p1a: Tyranocif|52/100
+|-unboost|p2a: Raging Bolt|spa|2
+|move|p1a: Tyranocif|Ice Beam|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|41/100
+|
+|-weather|none
+|-heal|p1a: Tyranocif|58/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781373344
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-damage|p2a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Tyranocif|Roar|p2a: Pelipper
+|drag|p2a: Kingambit|Kingambit, F|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kingambit|100/100|[from] item: Leftovers
+|-heal|p1a: Tyranocif|64/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781373351
+|switch|p1a: Marill me|Garchomp, F|70/100
+|-damage|p1a: Marill me|64/100|[from] Stealth Rock
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781373356
+|-terastallize|p2a: Kingambit|Dark
+|move|p1a: Marill me|Earthquake|p2a: Kingambit
+|-damage|p2a: Kingambit|71/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Marill me
+|-damage|p1a: Marill me|0 fnt
+|-damage|p2a: Kingambit|58/100|[from] ability: Rough Skin|[of] p1a: Marill me
+|-damage|p2a: Kingambit|42/100|[from] item: Rocky Helmet|[of] p1a: Marill me
+|faint|p1a: Marill me
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kingambit|48/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781373375
+|switch|p1a: He pulten on it|Dragapult, M|100/100
+|turn|9
+|j| ogkbee
+|
+|t:|1781373390
+|move|p1a: He pulten on it|Draco Meteor|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1a: He pulten on it|spa|2
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781373398
+|switch|p2a: Overqwil|Overqwil, M|100/100
+|-damage|p2a: Overqwil|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1781373404
+|switch|p1a: The goot|Goodra-Hisui, M|100/100
+|-damage|p1a: The goot|94/100|[from] Stealth Rock
+|move|p2a: Overqwil|Liquidation|p1a: The goot
+|-resisted|p1a: The goot
+|-damage|p1a: The goot|62/100
+|-ability|p1a: The goot|Gooey
+|-unboost|p2a: Overqwil|spe|1
+|-damage|p2a: Overqwil|78/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781373413
+|move|p2a: Overqwil|Crunch|p1a: The goot
+|-damage|p1a: The goot|4/100
+|-ability|p1a: The goot|Gooey
+|-unboost|p2a: Overqwil|spe|1
+|-damage|p2a: Overqwil|69/100|[from] item: Life Orb
+|move|p1a: The goot|Flash Cannon|p2a: Overqwil
+|-damage|p2a: Overqwil|0 fnt
+|faint|p2a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781373418
+|switch|p2a: Iron Treads|Iron Treads|88/100
+|-damage|p2a: Iron Treads|85/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781373423
+|move|p2a: Iron Treads|Rapid Spin|p1a: The goot
+|-resisted|p1a: The goot
+|-damage|p1a: The goot|0 fnt
+|-boost|p2a: Iron Treads|spe|1
+|-ability|p1a: The goot|Gooey
+|-unboost|p2a: Iron Treads|spe|1
+|-sideend|p2: mastersannin|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|faint|p1a: The goot
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781373427
+|switch|p1a: He pulten on it|Dragapult, M|100/100
+|turn|13
+|
+|t:|1781373434
+|move|p1a: He pulten on it|Will-O-Wisp|p2a: Iron Treads
+|-status|p2a: Iron Treads|brn
+|move|p2a: Iron Treads|Earth Power|p1a: He pulten on it
+|-damage|p1a: He pulten on it|57/100
+|
+|-weather|none
+|-damage|p2a: Iron Treads|79/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781373437
+|move|p1a: He pulten on it|Hex|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781373444
+|switch|p2a: Pelipper|Pelipper, F|76/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|15
+|
+|t:|1781373448
+|move|p1a: He pulten on it|Draco Meteor|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|-unboost|p1a: He pulten on it|spa|2
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781373452
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|16
+|
+|t:|1781373456
+|switch|p1a: Tyranocif|Tyranitar, F|64/100
+|-damage|p1a: Tyranocif|52/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranocif
+|move|p2a: Barraskewda|Liquidation|p1a: Tyranocif
+|-supereffective|p1a: Tyranocif
+|-damage|p1a: Tyranocif|0 fnt
+|faint|p1a: Tyranocif
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Barraskewda|94/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781373461
+|switch|p1a: kaboom|Metagross|100/100
+|-damage|p1a: kaboom|95/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1781373464
+|move|p2a: Barraskewda|Liquidation|p1a: kaboom
+|-damage|p1a: kaboom|28/100
+|move|p1a: kaboom|Heavy Slam|p2a: Barraskewda
+|-resisted|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781373467
+|switch|p2a: Raging Bolt|Raging Bolt|41/100
+|turn|18
+|
+|t:|1781373470
+|move|p2a: Raging Bolt|Thunderclap|p1a: kaboom
+|-damage|p1a: kaboom|0 fnt
+|faint|p1a: kaboom
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Raging Bolt|35/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781373474
+|switch|p1a: Chud|Dragonite, F|100/100
+|turn|19
+|
+|t:|1781373476
+|move|p1a: Chud|Earthquake|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|win|extra-pseudo man
+|raw|extra-pseudo man's rating: 1609 &rarr; <strong>1624</strong><br />(+15 for winning)
+|raw|mastersannin's rating: 1519 &rarr; <strong>1504</strong><br />(-15 for losing)
+|l|☆mastersannin
+|player|p2|
+|l|☆extra-pseudo man
+|player|p1|
+|l| ogkbee

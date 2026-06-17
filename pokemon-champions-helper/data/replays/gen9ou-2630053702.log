@@ -1,0 +1,208 @@
+|j|‽thraggnezone
+|j|☆Steez Ibanez
+|t:|1781205428
+|gametype|singles
+|player|p1|thraggnezone|clown|1700
+|player|p2|Steez Ibanez|willow-casual|1639
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Treads|
+|poke|p1|Araquanid, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Dragonite, M|
+|poke|p1|Enamorus, F|
+|poke|p1|Kingambit, M|
+|poke|p2|Kyurem|
+|poke|p2|Ceruledge, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Kingambit, F|
+|poke|p2|Zamazenta-*|
+|teampreview
+|
+|t:|1781205438
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781205444
+|-terastallize|p2a: Kyurem|Ice
+|move|p2a: Kyurem|Icicle Spear|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-damage|p1a: Enamorus|47/100
+|-supereffective|p1a: Enamorus
+|-damage|p1a: Enamorus|0 fnt
+|faint|p1a: Enamorus
+|-hitcount|p1: Enamorus|2
+|
+|upkeep
+|
+|t:|1781205451
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|-item|p1a: Kingambit|Air Balloon
+|turn|2
+|
+|t:|1781205456
+|move|p2a: Kyurem|Icicle Spear|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|93/100
+|-enditem|p1a: Kingambit|Air Balloon
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|86/100
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|80/100
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|73/100
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|67/100
+|-hitcount|p1a: Kingambit|5
+|move|p1a: Kingambit|Iron Head|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|15/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781205460
+|move|p1a: Kingambit|Sucker Punch|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781205463
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Kingambit|atk|1
+|turn|4
+|
+|t:|1781205467
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Araquanid|Araquanid, M|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Araquanid
+|-sidestart|p1: thraggnezone|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1781205469
+|move|p2a: Landorus|U-turn|p1a: Araquanid
+|-damage|p1a: Araquanid|79/100
+|
+|t:|1781205471
+|switch|p2a: Hatterene|Hatterene, F|100/100|[from] U-turn
+|move|p1a: Araquanid|Surf|p2a: Hatterene
+|-crit|p2a: Hatterene
+|-damage|p2a: Hatterene|7/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781205475
+|move|p1a: Araquanid|Surf|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781205477
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|turn|7
+|
+|t:|1781205479
+|move|p2a: Ceruledge|Poltergeist|p1a: Araquanid
+|-activate|p1a: Araquanid|move: Poltergeist|Custap Berry
+|-crit|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|faint|p1a: Araquanid
+|-damage|p2a: Ceruledge|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781205487
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-damage|p1a: Iron Treads|97/100|[from] Stealth Rock
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdriveatk
+|turn|8
+|
+|t:|1781205504
+|move|p1a: Iron Treads|Earthquake|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by thraggnezone)
+|
+|t:|1781205508
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|9
+|
+|t:|1781205512
+|move|p2a: Zamazenta|Body Press|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781205519
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespa
+|turn|10
+|
+|t:|1781205527
+|move|p1a: Iron Valiant|Moonblast|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781205531
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|11
+|
+|t:|1781205536
+|move|p1a: Iron Valiant|Vacuum Wave|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen4|[silent]
+|
+|upkeep
+|-message|Steez Ibanez forfeited.
+|
+|win|thraggnezone
+|raw|thraggnezone's rating: 1700 &rarr; <strong>1717</strong><br />(+17 for winning)
+|raw|Steez Ibanez's rating: 1639 &rarr; <strong>1622</strong><br />(-17 for losing)
+|l|☆Steez Ibanez
+|player|p2|
+|l|‽thraggnezone
+|player|p1|

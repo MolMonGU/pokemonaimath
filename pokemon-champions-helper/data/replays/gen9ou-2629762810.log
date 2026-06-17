@@ -1,0 +1,253 @@
+|j|☆LoseToRU?
+|j|☆KurisuChestnutOU
+|t:|1781176891
+|gametype|singles
+|player|p1|LoseToRU?|giovanni-gen1|1541
+|player|p2|KurisuChestnutOU|may-contest|1542
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Jugulis|
+|poke|p1|Moltres-Galar|
+|poke|p1|Darkrai|
+|poke|p1|Greninja-*, M|
+|poke|p1|Weavile, M|
+|poke|p1|Zarude-Dada|
+|poke|p2|Hawlucha, F|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Gholdengo|
+|poke|p2|Kyurem|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|
+|t:|1781176897
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutOU)
+|
+|t:|1781176900
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Kyurem
+|-damage|p2a: Kyurem|76/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781176906
+|move|p1a: Iron Jugulis|Hurricane|p2a: Kyurem
+|-damage|p2a: Kyurem|39/100
+|move|p2a: Kyurem|Focus Blast|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|53/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781176910
+|move|p1a: Iron Jugulis|Hurricane|p2a: Kyurem|[miss]
+|-miss|p1a: Iron Jugulis|p2a: Kyurem
+|move|p2a: Kyurem|Ice Beam|p1a: Iron Jugulis
+|-supereffective|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781176939
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|4
+|
+|t:|1781176943
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|move|p1a: Weavile|Knock Off|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|75/100
+|-enditem|p2a: Samurott|Assault Vest|[from] move: Knock Off|[of] p1a: Weavile
+|
+|upkeep
+|turn|5
+|
+|t:|1781176951
+|switch|p1a: Zarude|Zarude-Dada|100/100
+|move|p2a: Samurott|Flip Turn|p1a: Zarude
+|-resisted|p1a: Zarude
+|-damage|p1a: Zarude|89/100
+|
+|t:|1781176956
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from] Flip Turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zarude|atk|1
+|
+|upkeep
+|turn|6
+|
+|t:|1781176970
+|-terastallize|p1a: Zarude|Poison
+|move|p1a: Zarude|Swords Dance|p1a: Zarude
+|-boost|p1a: Zarude|atk|2
+|move|p2a: Landorus|Stealth Rock|p1a: Zarude
+|-sidestart|p1: LoseToRU?|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1781176974
+|move|p1a: Zarude|Swords Dance|p1a: Zarude
+|-boost|p1a: Zarude|atk|2
+|move|p2a: Landorus|Earth Power|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|24/100
+|-enditem|p1a: Zarude|Salac Berry|[eat]
+|-boost|p1a: Zarude|spe|1|[from] item: Salac Berry
+|
+|upkeep
+|turn|8
+|
+|t:|1781176978
+|move|p1a: Zarude|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|-damage|p1a: Zarude|7/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|-enditem|p2a: Landorus|Rocky Helmet|[from] move: Knock Off|[of] p1a: Zarude
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1781176983
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|9
+|
+|t:|1781176986
+|move|p2a: Rillaboom|Grassy Glide|p1a: Zarude
+|-resisted|p1a: Zarude
+|-damage|p1a: Zarude|0 fnt
+|faint|p1a: Zarude
+|
+|upkeep
+|
+|t:|1781176988
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|-damage|p1a: Moltres|76/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1781176991
+|switch|p2a: Kyurem|Kyurem|39/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Moltres|Agility|p1a: Moltres
+|-boost|p1a: Moltres|spe|2
+|
+|-heal|p2a: Kyurem|45/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781176995
+|move|p1a: Moltres|Fiery Wrath|p2a: Kyurem
+|-damage|p2a: Kyurem|19/100
+|move|p2a: Kyurem|Ice Beam|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|-heal|p2a: Kyurem|25/100|[from] Grassy Terrain
+|upkeep
+|j| Thanksforfreeloez
+|
+|t:|1781177011
+|switch|p1a: Darkrai|Darkrai|100/100
+|-damage|p1a: Darkrai|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781177016
+|move|p1a: Darkrai|Dark Pulse|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|-heal|p1a: Darkrai|94/100|[from] Grassy Terrain
+|upkeep
+|n| Thanksforfreeloez|thanksforfreeloez
+|
+|t:|1781177019
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|13
+|
+|t:|1781177023
+|-terastallize|p2a: Gholdengo|Steel
+|move|p1a: Darkrai|Dark Pulse|p2a: Gholdengo
+|-damage|p2a: Gholdengo|51/100
+|cant|p2a: Gholdengo|flinch
+|
+|-heal|p1a: Darkrai|99/100|[from] Grassy Terrain
+|-heal|p2a: Gholdengo|57/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1781177027
+|move|p1a: Darkrai|Dark Pulse|p2a: Gholdengo
+|-damage|p2a: Gholdengo|2/100
+|move|p2a: Gholdengo|Make It Rain|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|-unboost|p2a: Gholdengo|spa|1
+|faint|p1a: Darkrai
+|
+|upkeep
+|
+|t:|1781177031
+|switch|p1a: Greninja|Greninja, M|100/100
+|-damage|p1a: Greninja|88/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1781177037
+|move|p2a: Gholdengo|Make It Rain|p1a: Greninja
+|-resisted|p1a: Greninja
+|-damage|p1a: Greninja|46/100
+|-unboost|p2a: Gholdengo|spa|1
+|move|p1a: Greninja|Dark Pulse|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|-ability|p1a: Greninja|Battle Bond|boost
+|-boost|p1a: Greninja|atk|1
+|-boost|p1a: Greninja|spa|1
+|-boost|p1a: Greninja|spe|1
+|-activate|p1a: Greninja|ability: Battle Bond
+|
+|upkeep
+|
+|t:|1781177043
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|16
+|
+|t:|1781177050
+|move|p2a: Rillaboom|Grassy Glide|p1a: Greninja
+|-supereffective|p1a: Greninja
+|-damage|p1a: Greninja|0 fnt
+|faint|p1a: Greninja
+|
+|upkeep
+|-message|LoseToRU? forfeited.
+|
+|win|KurisuChestnutOU
+|raw|LoseToRU?'s rating: 1541 &rarr; <strong>1520</strong><br />(-21 for losing)
+|raw|KurisuChestnutOU's rating: 1523 &rarr; <strong>1544</strong><br />(+21 for winning)
+|l|☆LoseToRU?
+|player|p1|

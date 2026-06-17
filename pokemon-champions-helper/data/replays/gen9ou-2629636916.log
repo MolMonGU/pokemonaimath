@@ -1,0 +1,310 @@
+|j|☆chill element
+|j|☆northside mons
+|t:|1781157185
+|gametype|singles
+|player|p1|chill element|youngster|1498
+|player|p2|northside mons|fisherman-gen4|1586
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Reuniclus, F|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Dragonite, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Zamazenta-*|
+|poke|p1|Blaziken, M|
+|poke|p2|Great Tusk|
+|poke|p2|Walking Wake|
+|poke|p2|Kingambit, M|
+|poke|p2|Venusaur, M|
+|poke|p2|Ninetales, F|
+|poke|p2|Raging Bolt|
+|teampreview
+|
+|t:|1781157213
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Blaziken|Blaziken, M|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-item|p2a: Raging Bolt|Air Balloon
+|turn|1
+|
+|t:|1781157229
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Blaziken
+|-damage|p1a: Blaziken|20/100
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|2
+|
+|t:|1781157237
+|move|p1a: Blaziken|Upper Hand||[still]
+|-fail|p1a: Blaziken
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|upkeep
+|
+|t:|1781157240
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|turn|3
+|
+|t:|1781157244
+|move|p1a: Samurott|Ceaseless Edge|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|56/100
+|-enditem|p2a: Raging Bolt|Air Balloon
+|-sidestart|p2: northside mons|Spikes
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-enditem|p1a: Samurott|Focus Sash
+|-damage|p1a: Samurott|1/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781157251
+|move|p1a: Samurott|Ceaseless Edge|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|14/100
+|-sidestart|p2: northside mons|Spikes
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781157262
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|5
+|
+|t:|1781157267
+|move|p1a: Zamazenta|Ice Fang|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781157277
+|switch|p2a: Ninetales|Ninetales, F|100/100
+|-damage|p2a: Ninetales|84/100|[from] Spikes
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|6
+|
+|t:|1781157285
+|switch|p1a: Reuniclus|Reuniclus, F|100/100
+|move|p2a: Ninetales|Will-O-Wisp|p1a: Reuniclus|[miss]
+|-miss|p2a: Ninetales|p1a: Reuniclus
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781157309
+|move|p2a: Ninetales|Weather Ball|p1a: Reuniclus
+|-damage|p1a: Reuniclus|61/100
+|move|p1a: Reuniclus|Focus Blast|p2a: Ninetales
+|-damage|p2a: Ninetales|32/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781157318
+|switch|p2a: Venusaur|Venusaur, M|100/100
+|-damage|p2a: Venusaur|84/100|[from] Spikes
+|move|p1a: Reuniclus|Recover|p1a: Reuniclus
+|-heal|p1a: Reuniclus|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781157321
+|move|p2a: Venusaur|Growth|p2a: Venusaur
+|-boost|p2a: Venusaur|atk|2
+|-boost|p2a: Venusaur|spa|2
+|move|p1a: Reuniclus|Psychic Noise|p2a: Venusaur
+|-supereffective|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781157327
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-damage|p2a: Walking Wake|84/100|[from] Spikes
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|turn|10
+|
+|t:|1781157342
+|move|p2a: Walking Wake|Hydro Steam|p1a: Reuniclus
+|-damage|p1a: Reuniclus|39/100
+|move|p1a: Reuniclus|Psychic Noise|p2a: Walking Wake
+|-damage|p2a: Walking Wake|21/100
+|-start|p2a: Walking Wake|move: Heal Block
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781157346
+|move|p2a: Walking Wake|Hydro Steam|p1a: Reuniclus
+|-damage|p1a: Reuniclus|0 fnt
+|faint|p1a: Reuniclus
+|
+|-weather|SunnyDay|[upkeep]
+|-end|p2a: Walking Wake|move: Heal Block
+|upkeep
+|
+|t:|1781157349
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|12
+|
+|t:|1781157356
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-damage|p2a: Great Tusk|84/100|[from] Spikes
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Dragonite|Extreme Speed|p2a: Great Tusk
+|-damage|p2a: Great Tusk|62/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781157361
+|move|p2a: Great Tusk|Rapid Spin|p1a: Dragonite
+|-damage|p1a: Dragonite|91/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: northside mons|Spikes|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|move|p1a: Dragonite|Dragon Tail|p2a: Great Tusk
+|-damage|p2a: Great Tusk|39/100
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|drag|p2a: Walking Wake|Walking Wake|21/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|
+|-weather|none
+|-end|p2a: Walking Wake|Protosynthesis
+|upkeep
+|turn|14
+|
+|t:|1781157375
+|move|p1a: Dragonite|Extreme Speed|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781157378
+|switch|p2a: Ninetales|Ninetales, F|32/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|15
+|
+|t:|1781157390
+|move|p1a: Dragonite|Extreme Speed|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781157393
+|switch|p2a: Great Tusk|Great Tusk|39/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|16
+|
+|t:|1781157399
+|move|p2a: Great Tusk|Ice Spinner|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781157402
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|turn|17
+|
+|t:|1781157406
+|move|p1a: Iron Valiant|Moonblast|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781157409
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|-item|p2a: Kingambit|Air Balloon
+|turn|18
+|
+|t:|1781157414
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|move|p2a: Kingambit|Iron Head|p1a: Zamazenta
+|-damage|p1a: Zamazenta|29/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781157423
+|-terastallize|p2a: Kingambit|Ghost
+|move|p1a: Zamazenta|Crunch|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|59/100
+|-enditem|p2a: Kingambit|Air Balloon
+|move|p2a: Kingambit|Iron Head|p1a: Zamazenta
+|-crit|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781157426
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|turn|20
+|
+|t:|1781157429
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen5|[silent]
+|
+|win|chill element
+|raw|chill element's rating: 1498 &rarr; <strong>1523</strong><br />(+25 for winning)
+|raw|northside mons's rating: 1586 &rarr; <strong>1561</strong><br />(-25 for losing)
+|l|☆northside mons
+|player|p2|
+|l|☆chill element
+|player|p1|

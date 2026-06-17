@@ -1,0 +1,320 @@
+|j|☆Mr.X&Y97
+|j|☆chip wittley
+|t:|1780974376
+|gametype|singles
+|player|p1|Mr.X&Y97|ingo|1647
+|player|p2|chip wittley|lance|1777
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Indeedee, M|
+|poke|p1|Armarouge, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Hawlucha, F|
+|poke|p1|Maushold|
+|poke|p1|Polteageist|
+|poke|p2|Cacturne, M|
+|poke|p2|Zapdos|
+|poke|p2|Gholdengo|
+|poke|p2|Great Tusk|
+|poke|p2|Arcanine-Hisui, F|
+|poke|p2|Fezandipiti, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mr.X&Y97)
+|
+|t:|1780974391
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Indeedee|Indeedee, M|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|turn|1
+|
+|t:|1780974396
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Zapdos|Thunder Wave|p1a: Hatterene
+|move|p1a: Hatterene|Thunder Wave|p2a: Zapdos|[from] ability: Magic Bounce
+|-immune|p2a: Zapdos
+|
+|upkeep
+|turn|2
+|
+|t:|1780974403
+|move|p2a: Zapdos|Volt Switch|p1a: Hatterene
+|-damage|p1a: Hatterene|69/100
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1780974423
+|switch|p1a: Indeedee|Indeedee, M|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1780974432
+|move|p1a: Indeedee|Expanding Force|p2a: Zapdos
+|-damage|p2a: Zapdos|50/100
+|move|p2a: Zapdos|Thunder Wave|p1a: Indeedee
+|-status|p1a: Indeedee|par
+|
+|upkeep
+|turn|4
+|
+|t:|1780974439
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|99/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Indeedee|Dazzling Gleam|p2a: Zapdos
+|-damage|p2a: Zapdos|81/100
+|
+|upkeep
+|turn|5
+|
+|t:|1780974444
+|move|p2a: Zapdos|Volt Switch|p1a: Indeedee
+|-damage|p1a: Indeedee|70/100 par
+|
+|t:|1780974445
+|switch|p2a: Cacturne|Cacturne, M|100/100|[from] Volt Switch
+|move|p1a: Indeedee|Expanding Force|p2a: Cacturne
+|-immune|p2a: Cacturne
+|
+|upkeep
+|turn|6
+|
+|t:|1780974459
+|switch|p1a: Hatterene|Hatterene, F|69/100
+|move|p2a: Cacturne|Dark Pulse|p1a: Hatterene
+|-damage|p1a: Hatterene|16/100
+|-damage|p2a: Cacturne|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|
+|t:|1780974468
+|move|p2a: Cacturne|Giga Drain|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-heal|p2a: Cacturne|99/100|[from] drain|[of] p1a: Hatterene
+|faint|p1a: Hatterene
+|-damage|p2a: Cacturne|89/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1780974472
+|switch|p1a: Maushold|Maushold|100/100
+|turn|8
+|
+|t:|1780974479
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Maushold|Tidy Up|p1a: Maushold
+|-boost|p1a: Maushold|atk|1
+|-boost|p1a: Maushold|spe|1
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|9
+|
+|t:|1780974485
+|move|p1a: Maushold|Bite|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|22/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|move|p2a: Gholdengo|Focus Blast|p1a: Maushold
+|-supereffective|p1a: Maushold
+|-damage|p1a: Maushold|0 fnt
+|faint|p1a: Maushold
+|
+|upkeep
+|
+|t:|1780974494
+|switch|p1a: Indeedee|Indeedee, M|70/100 par
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|turn|10
+|
+|t:|1780974518
+|switch|p1a: Armarouge|Armarouge, F|100/100
+|move|p2a: Gholdengo|Focus Blast|p1a: Armarouge
+|-resisted|p1a: Armarouge
+|-damage|p1a: Armarouge|73/100
+|
+|upkeep
+|turn|11
+|
+|t:|1780974545
+|switch|p1a: Indeedee|Indeedee, M|70/100 par
+|move|p2a: Gholdengo|Shadow Ball|p1a: Indeedee
+|-immune|p1a: Indeedee
+|
+|upkeep
+|turn|12
+|
+|t:|1780974552
+|move|p2a: Gholdengo|Psyshock|p1a: Indeedee
+|-resisted|p1a: Indeedee
+|-damage|p1a: Indeedee|40/100 par
+|move|p1a: Indeedee|Expanding Force|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1780974560
+|switch|p2a: Fezandipiti|Fezandipiti, M|100/100
+|turn|13
+|
+|t:|1780974568
+|switch|p1a: Armarouge|Armarouge, F|73/100
+|move|p2a: Fezandipiti|Play Rough|p1a: Armarouge
+|-resisted|p1a: Armarouge
+|-damage|p1a: Armarouge|54/100
+|-ability|p1a: Armarouge|Weak Armor|boost
+|-unboost|p1a: Armarouge|def|1
+|-boost|p1a: Armarouge|spe|2
+|-status|p1a: Armarouge|tox|[from] ability: Toxic Chain|[of] p2a: Fezandipiti
+|
+|-damage|p1a: Armarouge|48/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1780974584
+|-terastallize|p2a: Fezandipiti|Dark
+|move|p1a: Armarouge|Expanding Force|p2a: Fezandipiti
+|-immune|p2a: Fezandipiti
+|move|p2a: Fezandipiti|Beat Up|p1a: Armarouge
+|-supereffective|p1a: Armarouge
+|-damage|p1a: Armarouge|30/100 tox
+|-ability|p1a: Armarouge|Weak Armor|boost
+|-unboost|p1a: Armarouge|def|1
+|-boost|p1a: Armarouge|spe|2
+|-enditem|p1a: Armarouge|Weakness Policy
+|-boost|p1a: Armarouge|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Armarouge|spa|2|[from] item: Weakness Policy
+|-supereffective|p1a: Armarouge
+|-damage|p1a: Armarouge|6/100 tox
+|-ability|p1a: Armarouge|Weak Armor|boost
+|-unboost|p1a: Armarouge|def|1
+|-boost|p1a: Armarouge|spe|2
+|-supereffective|p1a: Armarouge
+|-damage|p1a: Armarouge|0 fnt
+|faint|p1a: Armarouge
+|-hitcount|p1: Armarouge|3
+|
+|upkeep
+|
+|t:|1780974594
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p1a: Hawlucha|Psychic Seed
+|-boost|p1a: Hawlucha|spd|1|[from] item: Psychic Seed
+|turn|15
+|
+|t:|1780974623
+|-terastallize|p1a: Hawlucha|Steel
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Fezandipiti|Play Rough|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|80/100
+|
+|upkeep
+|turn|16
+|
+|t:|1780974630
+|switch|p2a: Zapdos|Zapdos|81/100
+|move|p1a: Hawlucha|Encore||[still]
+|-fail|p1a: Hawlucha
+|
+|upkeep
+|turn|17
+|
+|t:|1780974639
+|move|p1a: Hawlucha|Acrobatics|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|43/100
+|move|p2a: Zapdos|Thunder Wave|p1a: Hawlucha
+|-status|p1a: Hawlucha|par
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|18
+|
+|t:|1780974645
+|move|p1a: Hawlucha|Acrobatics|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|9/100
+|move|p2a: Zapdos|Volt Switch|p1a: Hawlucha
+|-damage|p1a: Hawlucha|52/100 par
+|
+|t:|1780974648
+|switch|p2a: Cacturne|Cacturne, M|89/100|[from] Volt Switch
+|
+|upkeep
+|turn|19
+|
+|t:|1780974651
+|move|p2a: Cacturne|Sucker Punch|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|-damage|p2a: Cacturne|80/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1780974653
+|switch|p1a: Indeedee|Indeedee, M|40/100 par
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|turn|20
+|
+|t:|1780974659
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Indeedee|Dazzling Gleam|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|45/100
+|
+|upkeep
+|turn|21
+|
+|t:|1780974663
+|move|p2a: Great Tusk|Stealth Rock|p1a: Indeedee
+|-sidestart|p1: Mr.X&Y97|move: Stealth Rock
+|cant|p1a: Indeedee|par
+|
+|upkeep
+|turn|22
+|
+|t:|1780974667
+|move|p2a: Great Tusk|Headlong Rush|p1a: Indeedee
+|-damage|p1a: Indeedee|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Indeedee
+|
+|upkeep
+|
+|t:|1780974669
+|switch|p1a: Polteageist|Polteageist|100/100
+|-damage|p1a: Polteageist|88/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1780974672
+|move|p2a: Great Tusk|Headlong Rush|p1a: Polteageist
+|-damage|p1a: Polteageist|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Polteageist
+|
+|win|chip wittley
+|raw|Mr.X&amp;Y97's rating: 1647 &rarr; <strong>1634</strong><br />(-13 for losing)
+|raw|chip wittley's rating: 1777 &rarr; <strong>1790</strong><br />(+13 for winning)
+|l|☆Mr.X&Y97
+|player|p1|
+|c|☆chip wittley|gg

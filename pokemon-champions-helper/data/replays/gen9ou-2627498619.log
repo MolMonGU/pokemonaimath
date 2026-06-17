@@ -1,0 +1,302 @@
+|j|☆bahnmiking
+|j|☆XianTwa
+|t:|1780912213
+|gametype|singles
+|player|p1|bahnmiking|bianca|1551
+|player|p2|XianTwa|dawn|1530
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Thundurus, M|
+|poke|p1|Great Tusk|
+|poke|p1|Hatterene, F|
+|poke|p1|Primarina, M|
+|poke|p1|Kingambit, F|
+|poke|p1|Slowking-Galar, F|
+|poke|p2|Araquanid, M|
+|poke|p2|Enamorus, F|
+|poke|p2|Great Tusk|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Moth|
+|poke|p2|Quaquaval, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by XianTwa)
+|inactive|bahnmiking has 120 seconds left.
+|
+|t:|1780912248
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|switch|p2a: Quaquaval|Quaquaval, M|100/100
+|turn|1
+|
+|t:|1780912253
+|switch|p2a: Araquanid|Araquanid, M|100/100
+|move|p1a: Slowking|Thunder Wave|p2a: Araquanid
+|-status|p2a: Araquanid|par
+|
+|upkeep
+|turn|2
+|
+|t:|1780912259
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Araquanid|Surf|p1a: Hatterene
+|-damage|p1a: Hatterene|45/100
+|
+|upkeep
+|turn|3
+|
+|t:|1780912267
+|move|p1a: Hatterene|Pain Split|p2a: Araquanid
+|-sethp|p2a: Araquanid|71/100 par|[from] move: Pain Split|[silent]
+|-sethp|p1a: Hatterene|76/100|[from] move: Pain Split
+|move|p2a: Araquanid|Surf|p1a: Hatterene
+|-damage|p1a: Hatterene|14/100
+|
+|upkeep
+|turn|4
+|
+|t:|1780912273
+|move|p1a: Hatterene|Pain Split|p2a: Araquanid
+|-sethp|p2a: Araquanid|42/100 par|[from] move: Pain Split|[silent]
+|-sethp|p1a: Hatterene|45/100|[from] move: Pain Split
+|move|p2a: Araquanid|Surf|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1780912280
+|switch|p1a: Thundurus|Thundurus, M|100/100
+|turn|5
+|
+|t:|1780912284
+|move|p2a: Araquanid|Endure|p2a: Araquanid
+|-singleturn|p2a: Araquanid|move: Endure
+|move|p1a: Thundurus|Swagger|p2a: Araquanid
+|-boost|p2a: Araquanid|atk|2
+|-start|p2a: Araquanid|confusion
+|-enditem|p1a: Thundurus|Mirror Herb
+|-boost|p1a: Thundurus|atk|2|[from] item: Mirror Herb
+|
+|upkeep
+|turn|6
+|
+|t:|1780912307
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespa
+|move|p1a: Thundurus|Acrobatics|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780912316
+|switch|p2a: Quaquaval|Quaquaval, M|100/100
+|turn|7
+|
+|t:|1780912324
+|-terastallize|p2a: Quaquaval|Steel
+|move|p1a: Thundurus|Acrobatics|p2a: Quaquaval
+|-resisted|p2a: Quaquaval
+|-damage|p2a: Quaquaval|30/100
+|move|p2a: Quaquaval|Triple Axel|p1a: Thundurus
+|-supereffective|p1a: Thundurus
+|-damage|p1a: Thundurus|78/100
+|-supereffective|p1a: Thundurus
+|-damage|p1a: Thundurus|33/100
+|-supereffective|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|-ability|p2a: Quaquaval|Moxie|boost
+|-boost|p2a: Quaquaval|atk|1
+|-hitcount|p1: Thundurus|3
+|
+|upkeep
+|
+|t:|1780912338
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|8
+|
+|t:|1780912348
+|move|p1a: Great Tusk|Headlong Rush|p2a: Quaquaval
+|-supereffective|p2a: Quaquaval
+|-damage|p2a: Quaquaval|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Quaquaval
+|
+|upkeep
+|
+|t:|1780912351
+|switch|p2a: Araquanid|Araquanid, M|42/100 par
+|turn|9
+|
+|t:|1780912359
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Primarina|Primarina, M|100/100
+|move|p2a: Araquanid|Sticky Web|p1a: Primarina
+|-sidestart|p1: bahnmiking|move: Sticky Web
+|
+|upkeep
+|turn|10
+|
+|t:|1780912369
+|move|p1a: Primarina|Flip Turn|p2a: Araquanid
+|-resisted|p2a: Araquanid
+|-damage|p2a: Araquanid|33/100 par
+|
+|t:|1780912372
+|switch|p1a: Slowking|Slowking-Galar, F|100/100|[from] Flip Turn
+|move|p2a: Araquanid|Endeavor|p1a: Slowking
+|-damage|p1a: Slowking|29/100
+|
+|upkeep
+|turn|11
+|
+|t:|1780912385
+|move|p2a: Araquanid|Surf|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1780912392
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|12
+|
+|t:|1780912397
+|move|p1a: Great Tusk|Rapid Spin|p2a: Araquanid
+|-damage|p2a: Araquanid|17/100 par
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: bahnmiking|Sticky Web|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|move|p2a: Araquanid|Surf|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780912405
+|switch|p1a: Primarina|Primarina, M|100/100
+|turn|13
+|-enditem|p2a: Araquanid|Custap Berry|[eat]
+|-activate|p2a: Araquanid|item: Custap Berry|[consumed]
+|
+|t:|1780912410
+|cant|p2a: Araquanid|par
+|move|p1a: Primarina|Psychic Noise|p2a: Araquanid
+|-damage|p2a: Araquanid|0 fnt
+|faint|p2a: Araquanid
+|
+|upkeep
+|
+|t:|1780912416
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|14
+|
+|t:|1780912421
+|move|p2a: Gholdengo|Shadow Ball|p1a: Primarina
+|-damage|p1a: Primarina|72/100
+|move|p1a: Primarina|Psychic Noise|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-crit|p2a: Gholdengo
+|-damage|p2a: Gholdengo|78/100
+|-start|p2a: Gholdengo|move: Heal Block
+|-enditem|p2a: Gholdengo|Air Balloon
+|
+|upkeep
+|turn|15
+|
+|t:|1780912432
+|move|p2a: Gholdengo|Make It Rain|p1a: Primarina
+|-damage|p1a: Primarina|32/100
+|-unboost|p2a: Gholdengo|spa|1
+|move|p1a: Primarina|Surf|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1780912435
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|turn|16
+|
+|t:|1780912450
+|-terastallize|p1a: Primarina|Poison
+|move|p2a: Enamorus|Moonblast|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|10/100
+|-damage|p2a: Enamorus|91/100|[from] item: Life Orb
+|move|p1a: Primarina|Moonblast|p2a: Enamorus
+|-damage|p2a: Enamorus|13/100
+|
+|upkeep
+|turn|17
+|
+|t:|1780912463
+|move|p2a: Enamorus|Moonblast|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|faint|p1a: Primarina
+|-damage|p2a: Enamorus|3/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1780912465
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|turn|18
+|
+|t:|1780912470
+|move|p2a: Enamorus|Earth Power|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|6/100
+|-damage|p2a: Enamorus|0 fnt|[from] item: Life Orb
+|faint|p2a: Enamorus
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|12/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780912472
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|19
+|
+|t:|1780912475
+|move|p1a: Kingambit|Sucker Punch|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|53/100
+|move|p2a: Great Tusk|Close Combat|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen5|[silent]
+|
+|win|XianTwa
+|raw|bahnmiking's rating: 1551 &rarr; <strong>1530</strong><br />(-21 for losing)
+|raw|XianTwa's rating: 1530 &rarr; <strong>1551</strong><br />(+21 for winning)
+|l|☆XianTwa
+|player|p2|

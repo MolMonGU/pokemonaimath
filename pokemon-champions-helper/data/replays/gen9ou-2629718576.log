@@ -1,0 +1,291 @@
+|j|☆LoseToRU?
+|j|☆KurisuChestnutOU
+|t:|1781170457
+|gametype|singles
+|player|p1|LoseToRU?|giovanni-gen1|1614
+|player|p2|KurisuChestnutOU|may-contest|1482
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Jugulis|
+|poke|p1|Moltres-Galar|
+|poke|p1|Darkrai|
+|poke|p1|Kingambit, F|
+|poke|p1|Weavile, F|
+|poke|p1|Meowscarada, M|
+|poke|p2|Kingambit, M|
+|poke|p2|Kommo-o, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Kyurem|
+|poke|p2|Iron Treads|
+|poke|p2|Iron Crown|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutOU)
+|
+|t:|1781170465
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|1
+|
+|t:|1781170468
+|-terastallize|p1a: Iron Jugulis|Ground
+|move|p2a: Iron Valiant|Moonblast|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|37/100
+|move|p1a: Iron Jugulis|Hurricane|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781170474
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|turn|2
+|
+|t:|1781170478
+|move|p2a: Kingambit|Sucker Punch|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781170485
+|switch|p1a: Darkrai|Darkrai|100/100
+|turn|3
+|
+|t:|1781170488
+|move|p1a: Darkrai|Trick|p2a: Kingambit
+|-activate|p1a: Darkrai|move: Trick|[of] p2a: Kingambit
+|-item|p2a: Kingambit|Choice Scarf|[from] move: Trick
+|-item|p1a: Darkrai|Leftovers|[from] move: Trick
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1781170501
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Kommo-o|Kommo-o, F|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781170506
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Meowscarada|Trick|p2a: Kingambit
+|-start|p1a: Meowscarada|typechange|Psychic|[from] ability: Protean
+|-activate|p1a: Meowscarada|move: Trick|[of] p2a: Kingambit
+|-item|p2a: Kingambit|Choice Band|[from] move: Trick
+|-item|p1a: Meowscarada|Choice Scarf|[from] move: Trick
+|
+|upkeep
+|turn|6
+|
+|t:|1781170513
+|move|p1a: Meowscarada|Spikes|p2a: Kingambit
+|-sidestart|p2: KurisuChestnutOU|Spikes
+|move|p2a: Kingambit|Iron Head|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|faint|p1a: Meowscarada
+|
+|upkeep
+|
+|t:|1781170521
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|-item|p1a: Kingambit|Air Balloon
+|turn|7
+|
+|t:|1781170525
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|move|p2a: Kingambit|Iron Head|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|65/100
+|-enditem|p1a: Kingambit|Air Balloon
+|
+|upkeep
+|turn|8
+|
+|t:|1781170534
+|move|p1a: Kingambit|Low Kick|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen1|[silent]
+|
+|upkeep
+|
+|t:|1781170539
+|switch|p2a: Kommo-o|Kommo-o, F|100/100
+|-damage|p2a: Kommo-o|88/100|[from] Spikes
+|turn|9
+|
+|t:|1781170553
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Darkrai|Darkrai|100/100
+|move|p2a: Kommo-o|Drain Punch|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|22/100
+|-heal|p2a: Kommo-o|100/100|[from] drain|[of] p1a: Darkrai
+|
+|-heal|p1a: Darkrai|28/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781170559
+|move|p1a: Darkrai|Taunt|p2a: Kommo-o
+|-start|p2a: Kommo-o|move: Taunt
+|cant|p2a: Kommo-o|move: Taunt|Clangorous Soul
+|
+|-heal|p1a: Darkrai|34/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781170569
+|move|p1a: Darkrai|Sludge Bomb|p2a: Kommo-o
+|-damage|p2a: Kommo-o|71/100
+|move|p2a: Kommo-o|Drain Punch|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|-heal|p2a: Kommo-o|85/100|[from] drain|[of] p1a: Darkrai
+|faint|p1a: Darkrai
+|
+|-heal|p2a: Kommo-o|91/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781170574
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|turn|12
+|
+|t:|1781170577
+|switch|p2a: Kyurem|Kyurem|100/100
+|-damage|p2a: Kyurem|88/100|[from] Spikes
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Moltres|Agility|p1a: Moltres
+|-boost|p1a: Moltres|spe|2
+|
+|upkeep
+|turn|13
+|
+|t:|1781170583
+|move|p1a: Moltres|Fiery Wrath|p2a: Kyurem
+|-damage|p2a: Kyurem|47/100
+|move|p2a: Kyurem|Icicle Spear|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|67/100
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|39/100
+|-enditem|p1a: Moltres|Sitrus Berry|[eat]
+|-heal|p1a: Moltres|64/100|[from] item: Sitrus Berry
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|36/100
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|2/100
+|-hitcount|p1a: Moltres|4
+|-ability|p1a: Moltres|Berserk|boost
+|-boost|p1a: Moltres|spa|1
+|
+|upkeep
+|turn|14
+|
+|t:|1781170590
+|move|p1a: Moltres|Fiery Wrath|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781170593
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-damage|p2a: Iron Treads|88/100|[from] Spikes
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|15
+|
+|t:|1781170598
+|move|p1a: Moltres|Fiery Wrath|p2a: Iron Treads
+|-damage|p2a: Iron Treads|26/100
+|move|p2a: Iron Treads|Rapid Spin|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: KurisuChestnutOU|Spikes|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|faint|p1a: Moltres
+|
+|upkeep
+|
+|t:|1781170616
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|16
+|
+|t:|1781170619
+|move|p1a: Weavile|Ice Shard|p2a: Iron Treads
+|-damage|p2a: Iron Treads|11/100
+|move|p2a: Iron Treads|Earthquake|p1a: Weavile
+|-damage|p1a: Weavile|38/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781170625
+|move|p1a: Weavile|Ice Shard|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781170628
+|switch|p2a: Kommo-o|Kommo-o, F|91/100
+|turn|18
+|
+|t:|1781170633
+|-terastallize|p2a: Kommo-o|Ghost
+|move|p1a: Weavile|Triple Axel|p2a: Kommo-o
+|-damage|p2a: Kommo-o|83/100
+|-damage|p2a: Kommo-o|68/100
+|-damage|p2a: Kommo-o|44/100
+|-hitcount|p2a: Kommo-o|3
+|move|p2a: Kommo-o|Drain Punch|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|-heal|p2a: Kommo-o|59/100|[from] drain|[of] p1a: Weavile
+|faint|p1a: Weavile
+|
+|-heal|p2a: Kommo-o|66/100|[from] item: Leftovers
+|upkeep
+|c|☆LoseToRU?|gg
+|-message|LoseToRU? forfeited.
+|
+|win|KurisuChestnutOU
+|raw|LoseToRU?'s rating: 1614 &rarr; <strong>1588</strong><br />(-26 for losing)
+|raw|KurisuChestnutOU's rating: 1503 &rarr; <strong>1529</strong><br />(+26 for winning)

@@ -1,0 +1,402 @@
+|j|☆kadu99
+|j|☆nartey
+|t:|1781162683
+|gametype|singles
+|player|p1|kadu99|policeman-gen4|1566
+|player|p2|nartey|lance|1600
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Valiant|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Ting-Lu|
+|poke|p1|Pecharunt|
+|poke|p1|Cinderace, F|
+|poke|p1|Dragonite, M|
+|poke|p2|Kyurem|
+|poke|p2|Hatterene, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Great Tusk|
+|poke|p2|Heatran, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by kadu99)
+|j| testingrainteam1
+|l| testingrainteam1
+|
+|t:|1781162710
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: SwordArtOnline|Iron Valiant|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781162738
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: SwordArtOnline|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|70/100
+|-unboost|p1a: SwordArtOnline|def|1
+|-unboost|p1a: SwordArtOnline|spd|1
+|-damage|p1a: SwordArtOnline|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|upkeep
+|turn|2
+|
+|t:|1781162744
+|-end|p1a: SwordArtOnline|Quark Drive|[silent]
+|switch|p1a: LooTing|Ting-Lu|100/100
+|-ability|p1a: LooTing|Vessel of Ruin
+|move|p2a: Corviknight|U-turn|p1a: LooTing
+|-supereffective|p1a: LooTing
+|-damage|p1a: LooTing|85/100
+|
+|t:|1781162748
+|switch|p2a: Kyurem|Kyurem|100/100|[from] U-turn
+|-ability|p2a: Kyurem|Pressure
+|
+|-heal|p1a: LooTing|92/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781162750
+|move|p2a: Kyurem|Ice Beam|p1a: LooTing
+|-supereffective|p1a: LooTing
+|-damage|p1a: LooTing|36/100
+|move|p1a: LooTing|Ruination|p2a: Kyurem
+|-damage|p2a: Kyurem|51/100
+|
+|-heal|p1a: LooTing|43/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781162760
+|switch|p1a: Ronaldinho|Cinderace, F|100/100
+|move|p2a: Kyurem|Ice Beam|p1a: Ronaldinho
+|-resisted|p1a: Ronaldinho
+|-damage|p1a: Ronaldinho|47/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781162764
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Ronaldinho|Low Kick|p2a: Heatran
+|-start|p1a: Ronaldinho|typechange|Fighting|[from] ability: Libero
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|-status|p1a: Ronaldinho|brn|[from] ability: Flame Body|[of] p2a: Heatran
+|faint|p2a: Heatran
+|
+|-damage|p1a: Ronaldinho|41/100 brn|[from] brn
+|upkeep
+|inactive|nartey has 120 seconds left.
+|
+|t:|1781162811
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|6
+|
+|t:|1781162815
+|move|p1a: Ronaldinho|U-turn|p2a: Hatterene
+|-damage|p2a: Hatterene|91/100
+|
+|t:|1781162819
+|switch|p1a: Cherrypop|Pecharunt|100/100|[from] U-turn
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|-heal|p2a: Hatterene|97/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781162823
+|move|p1a: Cherrypop|Malignant Chain|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|38/100
+|move|p2a: Hatterene|Psychic Noise|p1a: Cherrypop
+|-supereffective|p1a: Cherrypop
+|-damage|p1a: Cherrypop|0 fnt
+|faint|p1a: Cherrypop
+|
+|-heal|p2a: Hatterene|44/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781162832
+|switch|p1a: Ludicolo Fan|Ogerpon-Wellspring, F|100/100
+|turn|8
+|
+|t:|1781162835
+|move|p1a: Ludicolo Fan|Ivy Cudgel|p2a: Hatterene|[anim] Ivy Cudgel Water
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781162840
+|switch|p2a: Corviknight|Corviknight, M|70/100
+|-ability|p2a: Corviknight|Pressure
+|turn|9
+|
+|t:|1781162846
+|switch|p1a: LooTing|Ting-Lu|43/100
+|-ability|p1a: LooTing|Vessel of Ruin
+|move|p2a: Corviknight|Brave Bird|p1a: LooTing
+|-damage|p1a: LooTing|23/100
+|-damage|p2a: Corviknight|61/100|[from] Recoil
+|
+|-heal|p1a: LooTing|29/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781162851
+|move|p2a: Corviknight|Brave Bird|p1a: LooTing
+|-damage|p1a: LooTing|9/100
+|-damage|p2a: Corviknight|53/100|[from] Recoil
+|move|p1a: LooTing|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: nartey|move: Stealth Rock
+|
+|-heal|p1a: LooTing|15/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781162857
+|move|p2a: Corviknight|Defog|p1a: LooTing
+|-unboost|p1a: LooTing|evasion|1
+|-sideend|p2: nartey|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: LooTing|Ruination|p2a: Corviknight
+|-damage|p2a: Corviknight|27/100
+|
+|-heal|p1a: LooTing|21/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781162861
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|77/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: LooTing|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: nartey|move: Stealth Rock
+|
+|-heal|p1a: LooTing|28/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781162865
+|move|p2a: Corviknight|Defog|p1a: LooTing
+|-unboost|p1a: LooTing|evasion|1
+|-sideend|p2: nartey|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: LooTing|Ruination|p2a: Corviknight
+|-damage|p2a: Corviknight|39/100
+|
+|-heal|p1a: LooTing|34/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781162876
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|89/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: LooTing|Ruination|p2a: Corviknight
+|-damage|p2a: Corviknight|45/100
+|
+|-heal|p1a: LooTing|40/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781162880
+|move|p2a: Corviknight|U-turn|p1a: LooTing
+|-supereffective|p1a: LooTing
+|-damage|p1a: LooTing|25/100
+|
+|t:|1781162882
+|switch|p2a: Kyurem|Kyurem|51/100|[from] U-turn
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: LooTing|Stealth Rock|p2a: Kyurem
+|-sidestart|p2: nartey|move: Stealth Rock
+|
+|-heal|p1a: LooTing|31/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781162887
+|switch|p1a: Ronaldinho|Cinderace, F|41/100 brn
+|move|p2a: Kyurem|Ice Beam|p1a: Ronaldinho
+|-resisted|p1a: Ronaldinho
+|-damage|p1a: Ronaldinho|0 fnt
+|faint|p1a: Ronaldinho
+|
+|upkeep
+|
+|t:|1781162895
+|switch|p1a: SwordArtOnline|Iron Valiant|84/100
+|turn|17
+|
+|t:|1781162912
+|switch|p2a: Corviknight|Corviknight, M|45/100
+|-damage|p2a: Corviknight|32/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: SwordArtOnline|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|1/100
+|-unboost|p1a: SwordArtOnline|def|1
+|-unboost|p1a: SwordArtOnline|spd|1
+|-damage|p1a: SwordArtOnline|67/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|upkeep
+|turn|18
+|
+|t:|1781162921
+|move|p1a: SwordArtOnline|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-unboost|p1a: SwordArtOnline|def|1
+|-unboost|p1a: SwordArtOnline|spd|1
+|-damage|p1a: SwordArtOnline|51/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781162925
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-damage|p2a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|19
+|
+|t:|1781162929
+|move|p1a: SwordArtOnline|Endure|p1a: SwordArtOnline
+|-singleturn|p1a: SwordArtOnline|move: Endure
+|move|p2a: Iron Valiant|Moonblast|p1a: SwordArtOnline
+|-supereffective|p1a: SwordArtOnline
+|-activate|p1a: SwordArtOnline|move: Endure
+|-damage|p1a: SwordArtOnline|1/100
+|
+|upkeep
+|turn|20
+|-enditem|p1a: SwordArtOnline|Custap Berry|[eat]
+|-activate|p1a: SwordArtOnline|item: Custap Berry|[consumed]
+|
+|t:|1781162933
+|move|p1a: SwordArtOnline|Moonblast|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781162939
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-damage|p2a: Great Tusk|98/100|[from] Stealth Rock
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisspe
+|turn|21
+|
+|t:|1781162942
+|move|p2a: Great Tusk|Rapid Spin|p1a: SwordArtOnline
+|-damage|p1a: SwordArtOnline|0 fnt
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: nartey|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|faint|p1a: SwordArtOnline
+|-end|p1a: SwordArtOnline|Quark Drive|[silent]
+|
+|upkeep
+|inactive|kadu99 has 120 seconds left.
+|
+|t:|1781162976
+|switch|p1a: Ludicolo Fan|Ogerpon-Wellspring, F|100/100
+|turn|22
+|
+|t:|1781163000
+|-terastallize|p2a: Great Tusk|Ice
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|move|p1a: Ludicolo Fan|Ivy Cudgel|p2a: Great Tusk|[anim] Ivy Cudgel Water
+|-damage|p2a: Great Tusk|71/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781163009
+|switch|p1a: LooTing|Ting-Lu|31/100
+|-ability|p1a: LooTing|Vessel of Ruin
+|move|p2a: Great Tusk|Ice Spinner|p1a: LooTing
+|-supereffective|p1a: LooTing
+|-damage|p1a: LooTing|0 fnt
+|faint|p1a: LooTing
+|
+|upkeep
+|
+|t:|1781163011
+|switch|p1a: s26 ultra 5g 512gb|Dragonite, M|100/100
+|turn|24
+|
+|t:|1781163017
+|-terastallize|p1a: s26 ultra 5g 512gb|Normal
+|move|p2a: Great Tusk|Ice Spinner|p1a: s26 ultra 5g 512gb
+|-damage|p1a: s26 ultra 5g 512gb|76/100
+|move|p1a: s26 ultra 5g 512gb|Dragon Tail|p2a: Great Tusk
+|-damage|p2a: Great Tusk|56/100
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|drag|p2a: Kyurem|Kyurem|51/100
+|-ability|p2a: Kyurem|Pressure
+|
+|upkeep
+|turn|25
+|
+|t:|1781163034
+|move|p1a: s26 ultra 5g 512gb|Extreme Speed|p2a: Kyurem
+|-damage|p2a: Kyurem|4/100
+|move|p2a: Kyurem|Ice Beam|p1a: s26 ultra 5g 512gb
+|-crit|p1a: s26 ultra 5g 512gb
+|-damage|p1a: s26 ultra 5g 512gb|0 fnt
+|faint|p1a: s26 ultra 5g 512gb
+|
+|upkeep
+|
+|t:|1781163037
+|switch|p1a: Ludicolo Fan|Ogerpon-Wellspring, F|100/100
+|turn|26
+|
+|t:|1781163041
+|move|p1a: Ludicolo Fan|Ivy Cudgel|p2a: Kyurem|[anim] Ivy Cudgel Water
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781163043
+|switch|p2a: Great Tusk|Great Tusk, tera:Ice|56/100
+|turn|27
+|
+|t:|1781163048
+|move|p1a: Ludicolo Fan|Ivy Cudgel|p2a: Great Tusk|[anim] Ivy Cudgel Water
+|-damage|p2a: Great Tusk|17/100
+|move|p2a: Great Tusk|Ice Spinner|p1a: Ludicolo Fan
+|-damage|p1a: Ludicolo Fan|56/100
+|
+|upkeep
+|turn|28
+|-message|nartey forfeited.
+|
+|win|kadu99
+|raw|kadu99's rating: 1566 &rarr; <strong>1588</strong><br />(+22 for winning)
+|raw|nartey's rating: 1600 &rarr; <strong>1578</strong><br />(-22 for losing)
+|l|☆nartey
+|player|p2|
+|l|☆kadu99
+|player|p1|

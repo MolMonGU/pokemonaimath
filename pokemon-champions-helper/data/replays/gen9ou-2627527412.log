@@ -1,0 +1,414 @@
+|j|☆JacquesDeAlderberg
+|j|☆ja hoi
+|t:|1780916444
+|gametype|singles
+|player|p1|JacquesDeAlderberg|2|1769
+|player|p2|ja hoi|101|1592
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Pecharunt|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Cinderace, M|
+|poke|p1|Alomomola, M|
+|poke|p1|Iron Valiant|
+|poke|p2|Quaquaval, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Dragapult, F|
+|poke|p2|Garganacl, F|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Iron Moth|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by JacquesDeAlderberg)
+|
+|t:|1780916466
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Calamity|Iron Valiant, shiny|100/100
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|turn|1
+|
+|t:|1780916474
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: ja hoi|move: Light Screen
+|move|p1a: Calamity|Moonblast|p2a: Grimmsnarl
+|-supereffective|p2a: Grimmsnarl
+|-crit|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|faint|p2a: Grimmsnarl
+|
+|upkeep
+|
+|t:|1780916484
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespa
+|turn|2
+|
+|t:|1780916490
+|-end|p1a: Calamity|Quark Drive|[silent]
+|switch|p1a: Pisces|Alomomola, M, shiny|100/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Pisces
+|-resisted|p1a: Pisces
+|-damage|p1a: Pisces|82/100
+|
+|upkeep
+|turn|3
+|
+|t:|1780916499
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Garganacl|Garganacl, F|100/100
+|move|p1a: Pisces|Flip Turn|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|77/100
+|
+|t:|1780916506
+|switch|p1a: Khaos|Hoopa-Unbound|100/100|[from] Flip Turn
+|
+|-heal|p2a: Garganacl|83/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1780916511
+|move|p1a: Khaos|Knock Off|p2a: Garganacl
+|-damage|p2a: Garganacl|17/100
+|-enditem|p2a: Garganacl|Leftovers|[from] move: Knock Off|[of] p1a: Khaos
+|move|p2a: Garganacl|Salt Cure|p1a: Khaos
+|-damage|p1a: Khaos|75/100
+|-start|p1a: Khaos|Salt Cure
+|
+|-damage|p1a: Khaos|63/100|[from] Salt Cure
+|upkeep
+|turn|5
+|
+|t:|1780916520
+|switch|p1a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Enten|Intimidate|boost
+|-unboost|p2a: Garganacl|atk|1
+|move|p2a: Garganacl|Body Press|p1a: Enten
+|-resisted|p1a: Enten
+|-damage|p1a: Enten|87/100
+|
+|upkeep
+|turn|6
+|
+|t:|1780916528
+|move|p1a: Enten|Earthquake|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|faint|p2a: Garganacl
+|
+|upkeep
+|
+|t:|1780916536
+|switch|p2a: Quaquaval|Quaquaval, M|100/100
+|turn|7
+|
+|t:|1780916550
+|switch|p1a: Overseer|Pecharunt|100/100
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|
+|upkeep
+|turn|8
+|
+|t:|1780916562
+|move|p2a: Zamazenta|Crunch|p1a: Overseer
+|-supereffective|p1a: Overseer
+|-damage|p1a: Overseer|79/100
+|move|p1a: Overseer|Parting Shot|p2a: Zamazenta
+|-unboost|p2a: Zamazenta|atk|1
+|-unboost|p2a: Zamazenta|spa|1
+|
+|t:|1780916566
+|switch|p1a: Calamity|Iron Valiant, shiny|100/100|[from] Parting Shot
+|
+|-sideend|p2: ja hoi|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1780916585
+|-end|p1a: Calamity|Quark Drive|[silent]
+|switch|p1a: Liberacy|Cinderace, M, shiny|100/100
+|-terastallize|p2a: Zamazenta|Steel
+|move|p2a: Zamazenta|Body Press|p1a: Liberacy
+|-damage|p1a: Liberacy|33/100
+|
+|upkeep
+|turn|10
+|
+|t:|1780916592
+|move|p2a: Zamazenta|Body Press|p1a: Liberacy
+|-damage|p1a: Liberacy|0 fnt
+|faint|p1a: Liberacy
+|
+|upkeep
+|
+|t:|1780916595
+|switch|p1a: Overseer|Pecharunt|79/100
+|turn|11
+|
+|t:|1780916598
+|move|p2a: Zamazenta|Crunch|p1a: Overseer
+|-supereffective|p1a: Overseer
+|-damage|p1a: Overseer|65/100
+|-unboost|p1a: Overseer|def|1
+|move|p1a: Overseer|Shadow Ball|p2a: Zamazenta
+|-crit|p2a: Zamazenta
+|-damage|p2a: Zamazenta|73/100
+|
+|-heal|p2a: Zamazenta|79/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1780916608
+|move|p2a: Zamazenta|Crunch|p1a: Overseer
+|-supereffective|p1a: Overseer
+|-damage|p1a: Overseer|45/100
+|move|p1a: Overseer|Parting Shot|p2a: Zamazenta
+|-unboost|p2a: Zamazenta|atk|1
+|-unboost|p2a: Zamazenta|spa|1
+|
+|t:|1780916610
+|switch|p1a: Enten|Landorus-Therian, M, shiny|87/100|[from] Parting Shot
+|-ability|p1a: Enten|Intimidate|boost
+|-unboost|p2a: Zamazenta|atk|1
+|
+|-heal|p2a: Zamazenta|85/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1780916619
+|move|p1a: Enten|Earthquake|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|28/100
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-heal|p2a: Zamazenta|34/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1780916628
+|move|p1a: Enten|Earthquake|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1780916633
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|15
+|
+|t:|1780916637
+|switch|p1a: Pisces|Alomomola, M, shiny|100/100
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|upkeep
+|turn|16
+|
+|t:|1780916643
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Pisces|Flip Turn|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|89/100
+|
+|t:|1780916660
+|switch|p1a: Enten|Landorus-Therian, M, shiny|87/100|[from] Flip Turn
+|-ability|p1a: Enten|Intimidate|boost
+|-unboost|p2a: Dragapult|atk|1
+|
+|-heal|p2a: Dragapult|95/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1780916667
+|switch|p1a: Calamity|Iron Valiant, shiny|100/100
+|move|p2a: Dragapult|Dragon Darts|p1a: Calamity
+|-immune|p1a: Calamity
+|
+|-heal|p2a: Dragapult|100/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1780916674
+|-terastallize|p1a: Calamity|Fairy
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Calamity|Moonblast|p2a: Dragapult|[miss]
+|-miss|p1a: Calamity|p2a: Dragapult
+|
+|upkeep
+|turn|19
+|
+|t:|1780916680
+|move|p2a: Dragapult|Phantom Force|p1a: Calamity|[from] lockedmove
+|-damage|p1a: Calamity|0 fnt
+|faint|p1a: Calamity
+|-end|p1a: Calamity|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780916683
+|switch|p1a: Enten|Landorus-Therian, M, shiny|87/100
+|-ability|p1a: Enten|Intimidate|boost
+|-unboost|p2a: Dragapult|atk|1
+|turn|20
+|
+|t:|1780916688
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Enten|Earthquake|p2a: Dragapult
+|-damage|p2a: Dragapult|14/100
+|
+|-heal|p2a: Dragapult|20/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1780916695
+|switch|p1a: Khaos|Hoopa-Unbound|63/100
+|move|p2a: Dragapult|Dragon Darts|p1a: Khaos
+|-damage|p1a: Khaos|0 fnt
+|faint|p1a: Khaos
+|
+|-heal|p2a: Dragapult|26/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780916697
+|switch|p1a: Enten|Landorus-Therian, M, shiny|87/100
+|-ability|p1a: Enten|Intimidate|boost
+|-unboost|p2a: Dragapult|atk|1
+|turn|22
+|
+|t:|1780916705
+|move|p2a: Dragapult|Dragon Darts|p1a: Enten
+|-damage|p1a: Enten|52/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Enten
+|-damage|p1a: Enten|23/100
+|move|p1a: Enten|Earthquake|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1780916713
+|switch|p2a: Quaquaval|Quaquaval, M|100/100
+|turn|23
+|
+|t:|1780916721
+|switch|p1a: Pisces|Alomomola, M, shiny|100/100
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|
+|upkeep
+|turn|24
+|
+|t:|1780916728
+|move|p2a: Iron Moth|Energy Ball|p1a: Pisces
+|-supereffective|p1a: Pisces
+|-damage|p1a: Pisces|62/100
+|move|p1a: Pisces|Flip Turn|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|47/100
+|
+|t:|1780916734
+|switch|p1a: Enten|Landorus-Therian, M, shiny|23/100|[from] Flip Turn
+|-ability|p1a: Enten|Intimidate|boost
+|-unboost|p2a: Iron Moth|atk|1
+|
+|upkeep
+|turn|25
+|
+|t:|1780916740
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Quaquaval|Quaquaval, M|100/100
+|move|p1a: Enten|Earthquake|p2a: Quaquaval
+|-damage|p2a: Quaquaval|30/100
+|
+|upkeep
+|turn|26
+|
+|t:|1780916745
+|move|p2a: Quaquaval|Aqua Jet|p1a: Enten
+|-supereffective|p1a: Enten
+|-damage|p1a: Enten|0 fnt
+|faint|p1a: Enten
+|-ability|p2a: Quaquaval|Moxie|boost
+|-boost|p2a: Quaquaval|atk|1
+|
+|upkeep
+|
+|t:|1780916750
+|switch|p1a: Overseer|Pecharunt|45/100
+|turn|27
+|
+|t:|1780916754
+|move|p2a: Quaquaval|Aqua Jet|p1a: Overseer
+|-damage|p1a: Overseer|28/100
+|move|p1a: Overseer|Shadow Ball|p2a: Quaquaval
+|-damage|p2a: Quaquaval|0 fnt
+|faint|p2a: Quaquaval
+|
+|upkeep
+|
+|t:|1780916760
+|switch|p2a: Iron Moth|Iron Moth|47/100
+|turn|28
+|
+|t:|1780916764
+|move|p2a: Iron Moth|Fiery Dance|p1a: Overseer
+|-damage|p1a: Overseer|0 fnt
+|-boost|p2a: Iron Moth|spa|1
+|faint|p1a: Overseer
+|
+|upkeep
+|
+|t:|1780916767
+|switch|p1a: Pisces|Alomomola, M, shiny|95/100
+|turn|29
+|c|☆ja hoi|gg
+|
+|t:|1780916771
+|move|p1a: Pisces|Aqua Jet|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|6/100
+|move|p2a: Iron Moth|Energy Ball|p1a: Pisces
+|-supereffective|p1a: Pisces
+|-damage|p1a: Pisces|34/100
+|
+|upkeep
+|turn|30
+|c|☆JacquesDeAlderberg|gg
+|
+|t:|1780916778
+|move|p1a: Pisces|Aqua Jet|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|win|JacquesDeAlderberg
+|raw|JacquesDeAlderberg's rating: 1769 &rarr; <strong>1780</strong><br />(+11 for winning)
+|raw|ja hoi's rating: 1592 &rarr; <strong>1581</strong><br />(-11 for losing)
+|l|☆ja hoi
+|player|p2|
+|l|☆JacquesDeAlderberg
+|player|p1|

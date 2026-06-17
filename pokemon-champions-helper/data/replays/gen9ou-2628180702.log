@@ -1,0 +1,297 @@
+|j|☆DPPlato
+|j|‽lt_alt1
+|t:|1780987804
+|gametype|singles
+|player|p1|DPPlato|170|1522
+|player|p2|lt_alt1|170|1715
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Deoxys-Speed|
+|poke|p1|Great Tusk|
+|poke|p1|Ninetales, F|
+|poke|p1|Venusaur, M|
+|poke|p1|Walking Wake|
+|poke|p1|Kingambit, F|
+|poke|p2|Darkrai|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Treads|
+|poke|p2|Raging Bolt|
+|poke|p2|Gliscor, M|
+|teampreview
+|
+|t:|1780987821
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|1
+|
+|t:|1780987828
+|move|p1a: Ninetales|Healing Wish|p1a: Ninetales
+|faint|p1a: Ninetales
+|move|p2a: Raging Bolt|Draco Meteor|p1: Ninetales|[notarget]
+|-fail|p2a: Raging Bolt
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1780987838
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|2
+|j| Hakone Outbound
+|
+|t:|1780987862
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1780987903
+|move|p1a: Great Tusk|Headlong Rush|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|5/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Slowking|Future Sight|p1a: Great Tusk
+|-start|p2a: Slowking|move: Future Sight
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Slowking|11/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1780987910
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Iron Treads
+|-damage|p2a: Iron Treads|81/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1780987924
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Gliscor
+|-immune|p2a: Gliscor
+|
+|-weather|SunnyDay|[upkeep]
+|-end|p1a: Great Tusk|move: Future Sight
+|-supereffective|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|
+|t:|1780987926
+|switch|p1a: Venusaur|Venusaur, M|100/100
+|turn|6
+|n|‽lt_alt1|ltalt1
+|n|‽lt_alt1|ltalt1
+|
+|t:|1780987942
+|move|p1a: Venusaur|Growth|p1a: Venusaur
+|-boost|p1a: Venusaur|atk|2
+|-boost|p1a: Venusaur|spa|2
+|move|p2a: Gliscor|Spikes|p1a: Venusaur
+|-sidestart|p1: DPPlato|Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1780987946
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Venusaur|Giga Drain|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1780987951
+|switch|p2a: Slowking|Slowking-Galar, F|44/100
+|-terastallize|p1a: Venusaur|Fire
+|move|p1a: Venusaur|Weather Ball|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|-damage|p1a: Venusaur|91/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|j| turks and jerks
+|
+|t:|1780987954
+|switch|p2a: Iron Treads|Iron Treads|81/100
+|turn|9
+|
+|t:|1780987957
+|move|p2a: Iron Treads|Earthquake|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|
+|upkeep
+|
+|t:|1780987961
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-damage|p1a: Walking Wake|88/100|[from] Spikes
+|turn|10
+|l| turks and jerks
+|
+|t:|1780987972
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Gliscor|Gliscor, M|100/100 tox
+|move|p1a: Walking Wake|Flamethrower|p2a: Gliscor
+|-damage|p2a: Gliscor|61/100 tox
+|
+|-heal|p2a: Gliscor|73/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|11
+|
+|t:|1780987980
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-damage|p1a: Deoxys|88/100|[from] Spikes
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Gliscor|Spikes|p1a: Deoxys
+|-sidestart|p1: DPPlato|Spikes
+|
+|-heal|p2a: Gliscor|86/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|12
+|
+|t:|1780987985
+|move|p1a: Deoxys|Taunt|p2a: Gliscor
+|-start|p2a: Gliscor|move: Taunt
+|move|p2a: Gliscor|Knock Off|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|10/100
+|-enditem|p1a: Deoxys|Focus Sash|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|-heal|p2a: Gliscor|98/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|13
+|
+|t:|1780987988
+|switch|p2a: Iron Treads|Iron Treads|81/100
+|move|p1a: Deoxys|Psycho Boost|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|48/100
+|-unboost|p1a: Deoxys|spa|2
+|
+|upkeep
+|turn|14
+|
+|t:|1780987991
+|move|p1a: Deoxys|Superpower|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|14/100
+|-unboost|p1a: Deoxys|atk|1
+|-unboost|p1a: Deoxys|def|1
+|move|p2a: Iron Treads|Rapid Spin|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|-boost|p2a: Iron Treads|spe|1
+|faint|p1a: Deoxys
+|
+|upkeep
+|
+|t:|1780988001
+|switch|p1a: Walking Wake|Walking Wake|88/100
+|-heal|p1a: Walking Wake|100/100|[from] move: Healing Wish
+|-damage|p1a: Walking Wake|84/100|[from] Spikes
+|turn|15
+|
+|t:|1780988003
+|move|p2a: Iron Treads|Earthquake|p1a: Walking Wake
+|-damage|p1a: Walking Wake|46/100
+|move|p1a: Walking Wake|Hydro Steam|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780988021
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|16
+|
+|t:|1780988023
+|move|p2a: Gholdengo|Trick|p1a: Walking Wake
+|-activate|p2a: Gholdengo|move: Trick|[of] p1a: Walking Wake
+|-item|p1a: Walking Wake|Choice Scarf|[from] move: Trick
+|-item|p2a: Gholdengo|Choice Specs|[from] move: Trick
+|move|p1a: Walking Wake|Hydro Steam|p2a: Gholdengo
+|-damage|p2a: Gholdengo|50/100
+|
+|upkeep
+|turn|17
+|
+|t:|1780988036
+|move|p1a: Walking Wake|Hydro Steam|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1780988039
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|18
+|
+|t:|1780988042
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-damage|p1a: Kingambit|84/100|[from] Spikes
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|-heal|p1a: Kingambit|90/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1780988047
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|
+|upkeep
+|-message|DPPlato forfeited.
+|
+|win|lt_alt1
+|raw|DPPlato's rating: 1522 &rarr; <strong>1512</strong><br />(-10 for losing)
+|raw|lt_alt1's rating: 1715 &rarr; <strong>1725</strong><br />(+10 for winning)
+|l|☆DPPlato
+|player|p1|
+|n|‽lt_alt1|ltalt1
+|n|‽lt_alt1|ltalt1

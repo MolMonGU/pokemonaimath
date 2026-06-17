@@ -1,0 +1,183 @@
+|j|☆CyborgParrot127
+|j|☆LowEL0God
+|t:|1781543883
+|gametype|singles
+|player|p1|CyborgParrot127|clerk|1716
+|player|p2|LowEL0God|265|1659
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Great Tusk|
+|poke|p1|Walking Wake|
+|poke|p1|Hatterene, F|
+|poke|p1|Entei|
+|poke|p1|Venusaur, F|
+|poke|p1|Ninetales, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|c|☆CyborgParrot127|u2
+|
+|t:|1781543899
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|turn|1
+|
+|t:|1781543905
+|move|p1a: Walking Wake|Hydro Steam|p2a: Kingambit
+|-damage|p2a: Kingambit|37/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Walking Wake
+|-damage|p1a: Walking Wake|50/100
+|
+|-heal|p2a: Kingambit|43/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781543907
+|-terastallize|p2a: Kingambit|Dark
+|move|p2a: Kingambit|Sucker Punch|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-heal|p2a: Kingambit|49/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781543911
+|switch|p1a: Entei|Entei|100/100
+|turn|3
+|
+|t:|1781543914
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Entei|Stone Edge|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|28/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781543921
+|switch|p1a: Ninetales|Ninetales, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|move|p2a: Pelipper|Weather Ball|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|85/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781543923
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Ninetales|Encore||[still]
+|-fail|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781543927
+|switch|p1a: Venusaur|Venusaur, F, shiny|100/100
+|move|p2a: Raging Bolt|Weather Ball|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781543930
+|switch|p1a: Entei|Entei|100/100
+|turn|7
+|
+|t:|1781543937
+|move|p1a: Entei|Sacred Fire|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|52/100
+|-status|p2a: Raging Bolt|brn
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Entei
+|-damage|p1a: Entei|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Entei
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Raging Bolt|46/100 brn|[from] brn
+|upkeep
+|
+|t:|1781543941
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|8
+|
+|t:|1781543946
+|move|p1a: Great Tusk|Rapid Spin|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|27/100 brn
+|-boost|p1a: Great Tusk|spe|1
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Great Tusk
+|-damage|p1a: Great Tusk|21/100
+|-unboost|p2a: Raging Bolt|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Raging Bolt|21/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1781543948
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Pelipper|Pelipper, M|28/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|-end|p1a: Great Tusk|Protosynthesis
+|move|p1a: Great Tusk|Rapid Spin|p2a: Pelipper
+|-damage|p2a: Pelipper|14/100
+|-boost|p1a: Great Tusk|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781543951
+|move|p1a: Great Tusk|Rapid Spin|p2a: Pelipper
+|-damage|p2a: Pelipper|2/100
+|-boost|p1a: Great Tusk|spe|1
+|move|p2a: Pelipper|Weather Ball|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|CyborgParrot127 forfeited.
+|
+|win|LowEL0God
+|raw|CyborgParrot127's rating: 1716 &rarr; <strong>1693</strong><br />(-23 for losing)
+|raw|LowEL0God's rating: 1659 &rarr; <strong>1682</strong><br />(+23 for winning)
+|l|☆CyborgParrot127
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|

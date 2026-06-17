@@ -1,0 +1,301 @@
+|j|☆xp180
+|j|☆sagat_99
+|t:|1781516728
+|gametype|singles
+|player|p1|xp180|170|1529
+|player|p2|sagat_99|whitney|1486
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Araquanid, M|
+|poke|p1|Gholdengo|
+|poke|p1|Raging Bolt|
+|poke|p1|Iron Valiant|
+|poke|p1|Ceruledge, M|
+|poke|p1|Deoxys-Speed|
+|poke|p2|Raging Bolt|
+|poke|p2|Torkoal, M|
+|poke|p2|Slither Wing|
+|poke|p2|Walking Wake|
+|poke|p2|Great Tusk|
+|poke|p2|Hatterene, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by sagat_99)
+|inactive|sagat_99 has 120 seconds left.
+|
+|t:|1781516781
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Araquanid|Araquanid, M|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|1
+|
+|t:|1781516784
+|move|p2a: Raging Bolt|Volt Switch|p1a: Araquanid
+|-supereffective|p1a: Araquanid
+|-damage|p1a: Araquanid|15/100
+|
+|t:|1781516788
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slither Wing|Slither Wing|100/100|[from] Volt Switch
+|move|p1a: Araquanid|Sticky Web|p2a: Slither Wing
+|-sidestart|p2: sagat_99|move: Sticky Web
+|
+|upkeep
+|turn|2
+|-enditem|p1a: Araquanid|Custap Berry|[eat]
+|-activate|p1a: Araquanid|item: Custap Berry|[consumed]
+|
+|t:|1781516797
+|move|p1a: Araquanid|Surf|p2a: Slither Wing
+|-damage|p2a: Slither Wing|62/100
+|move|p2a: Slither Wing|Morning Sun|p2a: Slither Wing
+|-heal|p2a: Slither Wing|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781516804
+|move|p2a: Slither Wing|U-turn|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|faint|p1a: Araquanid
+|
+|t:|1781516808
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Torkoal|Torkoal, M|100/100|[from] U-turn
+|-activate|p2a: Torkoal|move: Sticky Web
+|-unboost|p2a: Torkoal|spe|1
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781516813
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|turn|4
+|
+|t:|1781516826
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|move|p2a: Torkoal|Earthquake|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|39/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781516832
+|move|p1a: Ceruledge|Bitter Blade|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|42/100
+|-heal|p1a: Ceruledge|74/100|[from] drain|[of] p2a: Torkoal
+|move|p2a: Torkoal|Earthquake|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781516841
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|6
+|
+|t:|1781516849
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|move: Sticky Web
+|-unboost|p2a: Great Tusk|spe|1
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Great Tusk
+|-immune|p2a: Great Tusk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781516857
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Great Tusk|Ice Spinner|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|84/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781516867
+|-terastallize|p1a: Gholdengo|Flying
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|move|p2a: Great Tusk|Headlong Rush|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781516881
+|move|p1a: Gholdengo|Shadow Ball|p2a: Great Tusk
+|-damage|p2a: Great Tusk|20/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Gholdengo
+|-damage|p1a: Gholdengo|62/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: sagat_99|Sticky Web|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781516889
+|move|p2a: Great Tusk|Ice Spinner|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-weather|none
+|-end|p2a: Great Tusk|Protosynthesis
+|upkeep
+|
+|t:|1781516895
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|11
+|c|☆sagat_99|why not make it rain ?
+|
+|t:|1781516925
+|move|p1a: Deoxys|Ice Beam|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|-damage|p1a: Deoxys|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781516927
+|switch|p2a: Torkoal|Torkoal, M|42/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|12
+|
+|t:|1781516940
+|move|p1a: Deoxys|Psycho Boost|p2a: Torkoal|[miss]
+|-miss|p1a: Deoxys|p2a: Torkoal
+|move|p2a: Torkoal|Overheat|p1a: Deoxys
+|-damage|p1a: Deoxys|14/100
+|-unboost|p2a: Torkoal|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781516945
+|move|p1a: Deoxys|Psycho Boost|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|-unboost|p1a: Deoxys|spa|2
+|faint|p2a: Torkoal
+|-damage|p1a: Deoxys|4/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781516952
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|turn|14
+|
+|t:|1781516955
+|move|p2a: Slither Wing|First Impression|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781516960
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|15
+|
+|t:|1781516964
+|move|p1a: Raging Bolt|Calm Mind|p1a: Raging Bolt
+|-boost|p1a: Raging Bolt|spa|1
+|-boost|p1a: Raging Bolt|spd|1
+|move|p2a: Slither Wing|U-turn|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|63/100
+|
+|t:|1781516972
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Walking Wake|Walking Wake|100/100|[from] U-turn
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781516976
+|move|p2a: Walking Wake|Draco Meteor|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|-unboost|p2a: Walking Wake|spa|2
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781516980
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespa
+|turn|17
+|
+|t:|1781516991
+|move|p2a: Walking Wake|Hydro Steam|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|47/100
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781516997
+|-terastallize|p2a: Walking Wake|Water
+|move|p2a: Walking Wake|Hydro Steam|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|win|sagat_99
+|raw|xp180's rating: 1529 &rarr; <strong>1507</strong><br />(-22 for losing)
+|raw|sagat_99's rating: 1486 &rarr; <strong>1508</strong><br />(+22 for winning)
+|l|☆xp180
+|player|p1|
+|l|☆sagat_99
+|player|p2|

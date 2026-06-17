@@ -1,0 +1,250 @@
+|j|☆sawquarete
+|j|☆101Darmanitans
+|t:|1781150836
+|gametype|singles
+|player|p1|sawquarete|li|1572
+|player|p2|101Darmanitans|roxie|1593
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Great Tusk|
+|poke|p1|Kingambit, M|
+|poke|p1|Gholdengo|
+|poke|p1|Ting-Lu|
+|poke|p1|Alomomola, F|
+|poke|p1|Zamazenta-*|
+|poke|p2|Rillaboom, F|
+|poke|p2|Hawlucha, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Glimmora, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|
+|t:|1781150849
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|1
+|
+|t:|1781150857
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|move|p1a: Gholdengo|Thunder Wave|p2a: Samurott
+|-status|p2a: Samurott|par
+|
+|upkeep
+|turn|2
+|
+|t:|1781150867
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Samurott|Ceaseless Edge|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|85/100
+|-sidestart|p1: sawquarete|Spikes
+|
+|-heal|p1a: Zamazenta|91/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781150871
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|move|p1a: Zamazenta|Crunch|p2a: Glimmora
+|-damage|p2a: Glimmora|74/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: sawquarete|move: Toxic Spikes
+|
+|-heal|p1a: Zamazenta|98/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781150876
+|move|p1a: Zamazenta|Body Press|p2a: Glimmora
+|-damage|p2a: Glimmora|17/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: sawquarete|move: Toxic Spikes
+|move|p2a: Glimmora|Stealth Rock|p1a: Zamazenta
+|-sidestart|p1: sawquarete|move: Stealth Rock
+|
+|-heal|p1a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781150880
+|move|p1a: Zamazenta|Body Press|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|
+|upkeep
+|
+|t:|1781150887
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|6
+|
+|t:|1781150889
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Rillaboom|U-turn|p1a: Zamazenta
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|96/100
+|
+|t:|1781150891
+|switch|p2a: Hawlucha|Hawlucha, F|100/100|[from] U-turn
+|-enditem|p2a: Hawlucha|Grassy Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Grassy Seed
+|
+|-heal|p1a: Zamazenta|100/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781150896
+|move|p2a: Hawlucha|Encore|p1a: Zamazenta
+|-start|p1a: Zamazenta|Encore
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|upkeep
+|turn|8
+|
+|t:|1781150905
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|
+|upkeep
+|turn|9
+|
+|t:|1781150916
+|move|p2a: Hawlucha|Acrobatics|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|58/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|move|p1a: Gholdengo|Thunder Wave|p2a: Hawlucha
+|-status|p2a: Hawlucha|par
+|
+|-heal|p1a: Gholdengo|65/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1781150922
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|100/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781150926
+|move|p2a: Hawlucha|Acrobatics|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|48/100
+|move|p1a: Gholdengo|Hex|p2a: Hawlucha
+|-damage|p2a: Hawlucha|14/100 par
+|
+|-heal|p1a: Gholdengo|54/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781150928
+|move|p2a: Hawlucha|Acrobatics|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|5/100
+|move|p1a: Gholdengo|Hex|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|-heal|p1a: Gholdengo|11/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781150934
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|13
+|
+|t:|1781150936
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Gholdengo|[anim] Ivy Cudgel Water
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781150939
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|14
+|
+|t:|1781150957
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|-terastallize|p1a: Great Tusk|Steel
+|move|p1a: Great Tusk|Ice Spinner|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|22/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781150963
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Great Tusk|Ice Spinner|p2a: Dragapult|[miss]
+|-miss|p1a: Great Tusk|p2a: Dragapult
+|
+|upkeep
+|turn|16
+|
+|t:|1781150966
+|move|p2a: Dragapult|Phantom Force|p1a: Great Tusk|[from] lockedmove
+|-damage|p1a: Great Tusk|62/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by sawquarete)
+|
+|t:|1781150993
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|17
+|
+|t:|1781150997
+|-terastallize|p2a: Ogerpon|Water
+|detailschange|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Great Tusk|[anim] Ivy Cudgel Water
+|-damage|p1a: Great Tusk|2/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Ogerpon
+|-damage|p2a: Ogerpon|75/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: sawquarete|Spikes|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|-sideend|p1: sawquarete|Toxic Spikes|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|-sideend|p1: sawquarete|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|18
+|-message|101Darmanitans forfeited.
+|
+|win|sawquarete
+|raw|sawquarete's rating: 1572 &rarr; <strong>1593</strong><br />(+21 for winning)
+|raw|101Darmanitans's rating: 1593 &rarr; <strong>1572</strong><br />(-21 for losing)
+|l|☆101Darmanitans
+|player|p2|
+|l|☆sawquarete
+|player|p1|

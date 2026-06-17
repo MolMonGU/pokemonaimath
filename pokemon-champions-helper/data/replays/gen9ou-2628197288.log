@@ -1,0 +1,221 @@
+|j|☆jertsi
+|j|☆kadu99
+|t:|1780990364
+|gametype|singles
+|player|p1|jertsi|2|1621
+|player|p2|kadu99|policeman-gen4|1628
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Alomomola, F|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Zamazenta-*|
+|poke|p1|Iron Treads|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Scizor, F|
+|poke|p2|Alomomola, M|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Iron Crown|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jertsi)
+|j| norwaytm
+|
+|t:|1780990382
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Iron Crown|atk|1
+|turn|1
+|
+|t:|1780990394
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|upkeep
+|turn|2
+|
+|t:|1780990399
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Alomomola
+|-sidestart|p1: jertsi|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1780990403
+|move|p2a: Landorus|U-turn|p1a: Alomomola
+|-crit|p1a: Alomomola
+|-damage|p1a: Alomomola|86/100
+|
+|t:|1780990405
+|switch|p2a: Iron Crown|Iron Crown|100/100|[from] U-turn
+|move|p1a: Alomomola|Flip Turn|p2a: Iron Crown
+|-damage|p2a: Iron Crown|84/100
+|
+|t:|1780990410
+|switch|p1a: Iron Treads|Iron Treads|100/100|[from] Flip Turn
+|-damage|p1a: Iron Treads|97/100|[from] Stealth Rock
+|
+|-heal|p1a: Iron Treads|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1780990419
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Iron Treads|Rapid Spin|p2a: Alomomola
+|-damage|p2a: Alomomola|92/100
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: jertsi|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|
+|upkeep
+|turn|5
+|
+|t:|1780990430
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Alomomola|Flip Turn|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|96/100
+|
+|t:|1780990436
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|6
+|
+|t:|1780990441
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1780990463
+|-terastallize|p2a: Raging Bolt|Bug
+|move|p1a: Iron Treads|Knock Off|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|73/100
+|-enditem|p2a: Raging Bolt|Leftovers|[from] move: Knock Off|[of] p1a: Iron Treads
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|8
+|
+|t:|1780990480
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Slowking
+|-damage|p1a: Slowking|39/100
+|
+|upkeep
+|turn|9
+|
+|t:|1780990489
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1780990495
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Raging Bolt|atk|1
+|turn|10
+|
+|t:|1780990502
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Landorus|Stone Edge|p2a: Alomomola|[miss]
+|-miss|p1a: Landorus|p2a: Alomomola
+|
+|upkeep
+|turn|11
+|
+|t:|1780990508
+|move|p1a: Landorus|Stone Edge|p2a: Alomomola|[miss]
+|-miss|p1a: Landorus|p2a: Alomomola
+|move|p2a: Alomomola|Flip Turn|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|65/100
+|
+|t:|1780990511
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from] Flip Turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|
+|upkeep
+|turn|12
+|
+|t:|1780990516
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Iron Treads
+|-sidestart|p1: jertsi|move: Stealth Rock
+|
+|upkeep
+|turn|13
+|
+|t:|1780990518
+|move|p1a: Iron Treads|Rapid Spin|p2a: Landorus
+|-damage|p2a: Landorus|86/100
+|-boost|p1a: Iron Treads|spe|1
+|-damage|p1a: Iron Treads|84/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|-sideend|p1: jertsi|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|move|p2a: Landorus|Earth Power|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780990528
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|14
+|
+|t:|1780990531
+|switch|p2a: Iron Crown|Iron Crown|84/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Iron Crown
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|67/100
+|
+|upkeep
+|turn|15
+|j| hattybatty304
+|-message|jertsi forfeited.
+|
+|win|kadu99
+|raw|jertsi's rating: 1621 &rarr; <strong>1601</strong><br />(-20 for losing)
+|raw|kadu99's rating: 1628 &rarr; <strong>1648</strong><br />(+20 for winning)
+|c|☆jertsi|gg'
+|l| hattybatty304
+|l|☆jertsi
+|player|p1|
+|c|☆kadu99|gg
+|l|☆kadu99
+|player|p2|
+|l| norwaytm

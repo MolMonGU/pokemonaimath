@@ -1,0 +1,256 @@
+|j|☆life orb trump
+|j|☆lucy cobblestone
+|t:|1780951020
+|gametype|singles
+|player|p1|life orb trump|lucas|1601
+|player|p2|lucy cobblestone|guitarist|1606
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torkoal, F|
+|poke|p1|Walking Wake|
+|poke|p1|Hatterene, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Scovillain, M|
+|poke|p1|Zamazenta-*|
+|poke|p2|Iron Moth|
+|poke|p2|Gliscor, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Zamazenta-*|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by life orb trump)
+|
+|t:|1780951025
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|
+|t:|1780951044
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: lucy cobblestone|move: Light Screen
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1780951049
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: lucy cobblestone|Reflect
+|move|p1a: Hatterene|Nuzzle|p2a: Zamazenta
+|-damage|p2a: Zamazenta|99/100
+|-status|p2a: Zamazenta|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1780951053
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|move|p1a: Hatterene|Psychic Noise|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|67/100
+|-start|p2a: Iron Moth|move: Heal Block
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1780951063
+|move|p2a: Iron Moth|Fiery Dance|p1a: Hatterene
+|-damage|p1a: Hatterene|35/100
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1780951066
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|
+|-weather|SunnyDay|[upkeep]
+|-end|p2a: Iron Moth|move: Heal Block
+|upkeep
+|turn|5
+|
+|t:|1780951070
+|move|p2a: Iron Moth|Sludge Wave|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|76/100
+|move|p1a: Raging Bolt|Discharge|p2a: Iron Moth
+|-damage|p2a: Iron Moth|38/100
+|-status|p2a: Iron Moth|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1780951081
+|move|p2a: Iron Moth|Sludge Wave|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|50/100
+|move|p1a: Raging Bolt|Discharge|p2a: Iron Moth
+|-damage|p2a: Iron Moth|6/100 par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1780951087
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2a: Iron Moth|Toxic Spikes|p1a: Raging Bolt
+|-sidestart|p1: life orb trump|move: Toxic Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1780951092
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2a: Iron Moth|Whirlwind|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|drag|p1a: Torkoal|Torkoal, F|100/100
+|-status|p1a: Torkoal|psn
+|
+|-weather|none
+|-damage|p1a: Torkoal|88/100 psn|[from] psn
+|-sideend|p2: lucy cobblestone|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1780951098
+|move|p2a: Iron Moth|Sludge Wave|p1a: Torkoal
+|-damage|p1a: Torkoal|24/100 psn
+|move|p1a: Torkoal|Stealth Rock|p2a: Iron Moth
+|-sidestart|p2: lucy cobblestone|move: Stealth Rock
+|
+|-damage|p1a: Torkoal|11/100 psn|[from] psn
+|-sideend|p2: lucy cobblestone|Reflect
+|upkeep
+|turn|10
+|
+|t:|1780951106
+|switch|p1a: Hatterene|Hatterene, F|35/100
+|-status|p1a: Hatterene|psn
+|move|p2a: Iron Moth|Fiery Dance|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-boost|p2a: Iron Moth|spa|1
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1780951116
+|switch|p1a: Scovillain|Scovillain, M|100/100
+|turn|11
+|
+|t:|1780951120
+|move|p2a: Iron Moth|Fiery Dance|p1a: Scovillain
+|-damage|p1a: Scovillain|0 fnt
+|faint|p1a: Scovillain
+|
+|upkeep
+|j| Hexin
+|
+|t:|1780951126
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-status|p1a: Zamazenta|psn
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|12
+|
+|t:|1780951147
+|move|p1a: Zamazenta|Crunch|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-damage|p1a: Zamazenta|88/100 psn|[from] psn
+|upkeep
+|
+|t:|1780951152
+|switch|p2a: Zamazenta|Zamazenta|99/100 par
+|-damage|p2a: Zamazenta|93/100 par|[from] Stealth Rock
+|turn|13
+|
+|t:|1780951157
+|switch|p1a: Torkoal|Torkoal, F|11/100 psn
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: lucy cobblestone|Reflect
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Torkoal|0 fnt|[from] psn
+|faint|p1a: Torkoal
+|upkeep
+|
+|t:|1780951161
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-status|p1a: Walking Wake|psn
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|14
+|inactive|lucy cobblestone has 120 seconds left.
+|
+|t:|1780951202
+|move|p1a: Walking Wake|Hydro Steam|p2a: Zamazenta
+|-damage|p2a: Zamazenta|22/100 par
+|move|p2a: Zamazenta|Close Combat|p1a: Walking Wake
+|-damage|p1a: Walking Wake|45/100 psn
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Walking Wake|33/100 psn|[from] psn
+|upkeep
+|turn|15
+|l|☆life orb trump
+|inactive|life orb trump disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆life orb trump
+|inactive|life orb trump reconnected and has 130 seconds left.
+|player|p1|life orb trump|lucas|
+|
+|t:|1780951225
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Zamazenta|Zamazenta|88/100 psn
+|move|p2a: Zamazenta|Close Combat|p1a: Zamazenta
+|-damage|p1a: Zamazenta|51/100 psn
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Zamazenta|57/100 psn|[from] item: Leftovers
+|-damage|p1a: Zamazenta|45/100 psn|[from] psn
+|upkeep
+|turn|16
+|inactive|lucy cobblestone has 120 seconds left.
+|-message|life orb trump forfeited.
+|
+|win|lucy cobblestone
+|raw|life orb trump's rating: 1601 &rarr; <strong>1581</strong><br />(-20 for losing)
+|raw|lucy cobblestone's rating: 1606 &rarr; <strong>1626</strong><br />(+20 for winning)
+|l|☆life orb trump
+|player|p1|
+|l| Hexin
+|j| Hexin
+|l| Hexin
+|l|☆lucy cobblestone
+|player|p2|

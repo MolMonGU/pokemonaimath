@@ -1,0 +1,386 @@
+|j|☆blackgokuking
+|j|☆kingofdondons
+|t:|1781051313
+|gametype|singles
+|player|p1|blackgokuking|169|1498
+|player|p2|kingofdondons|skyla|1558
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Walking Wake|
+|poke|p1|Great Tusk|
+|poke|p1|Ninetales, F|
+|poke|p1|Cresselia, F|
+|poke|p1|Zarude|
+|poke|p1|Ceruledge, F|
+|poke|p2|Dragonite, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Iron Moth|
+|poke|p2|Iron Valiant|
+|poke|p2|Kyurem|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by kingofdondons)
+|
+|t:|1781051332
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|turn|1
+|
+|t:|1781051340
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Cresselia
+|-damage|p1a: Cresselia|64/100
+|-enditem|p1a: Cresselia|Eject Button
+|
+|t:|1781051351
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781051358
+|move|p2a: Iron Moth|Dazzling Gleam|p1a: Walking Wake
+|-supereffective|p1a: Walking Wake
+|-damage|p1a: Walking Wake|40/100
+|move|p1a: Walking Wake|Hydro Steam|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781051362
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|3
+|
+|t:|1781051371
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Cresselia|Cresselia, F|64/100
+|move|p2a: Iron Valiant|Close Combat|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|46/100
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781051379
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Cresselia|Thunder Wave|p2a: Ting-Lu
+|-immune|p2a: Ting-Lu
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781051385
+|switch|p1a: Zarude|Zarude|100/100
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Zarude
+|-sidestart|p1: blackgokuking|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781051396
+|move|p1a: Zarude|Knock Off|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|87/100
+|-damage|p1a: Zarude|84/100|[from] item: Rocky Helmet|[of] p2a: Ting-Lu
+|-enditem|p2a: Ting-Lu|Rocky Helmet|[from] move: Knock Off|[of] p1a: Zarude
+|move|p2a: Ting-Lu|Ruination|p1a: Zarude
+|-damage|p1a: Zarude|42/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Zarude|48/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781051404
+|move|p1a: Zarude|Synthesis|p1a: Zarude
+|-heal|p1a: Zarude|100/100
+|move|p2a: Ting-Lu|Ruination|p1a: Zarude
+|-damage|p1a: Zarude|51/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Zarude|57/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781051422
+|move|p1a: Zarude|Power Whip|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|16/100
+|move|p2a: Ting-Lu|Ruination|p1a: Zarude
+|-damage|p1a: Zarude|29/100
+|
+|-weather|none
+|-heal|p1a: Zarude|35/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781051430
+|move|p1a: Zarude|Synthesis|p1a: Zarude
+|-heal|p1a: Zarude|85/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Zarude
+|-resisted|p1a: Zarude
+|-damage|p1a: Zarude|66/100
+|
+|-heal|p1a: Zarude|72/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781051435
+|move|p1a: Zarude|Power Whip|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|-heal|p1a: Zarude|78/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781051439
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|turn|11
+|
+|t:|1781051451
+|switch|p1a: Cresselia|Cresselia, F|46/100
+|-damage|p1a: Cresselia|33/100|[from] Stealth Rock
+|move|p2a: Iron Valiant|Close Combat|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|13/100
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1781051463
+|move|p2a: Iron Valiant|Knock Off|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|0 fnt
+|faint|p1a: Cresselia
+|
+|upkeep
+|
+|t:|1781051468
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-damage|p1a: Ninetales|76/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|13
+|
+|t:|1781051472
+|move|p2a: Iron Valiant|Close Combat|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|faint|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781051475
+|switch|p1a: Walking Wake|Walking Wake|40/100
+|-damage|p1a: Walking Wake|28/100|[from] Stealth Rock
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|14
+|
+|t:|1781051480
+|move|p1a: Walking Wake|Hydro Steam|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781051488
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|turn|15
+|
+|t:|1781051490
+|move|p2a: Dragonite|Extreme Speed|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781051493
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|97/100|[from] Stealth Rock
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|16
+|
+|t:|1781051505
+|-terastallize|p2a: Dragonite|Normal
+|move|p1a: Great Tusk|Ice Spinner|p2a: Dragonite
+|-damage|p2a: Dragonite|79/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781051510
+|move|p2a: Dragonite|Ice Spinner|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|29/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Dragonite
+|-damage|p2a: Dragonite|53/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: blackgokuking|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781051516
+|-terastallize|p1a: Great Tusk|Steel
+|move|p2a: Dragonite|Extreme Speed|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|4/100
+|move|p1a: Great Tusk|Close Combat|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Dragonite
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781051520
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|19
+|
+|t:|1781051522
+|move|p2a: Gholdengo|Shadow Ball|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781051531
+|switch|p1a: Zarude|Zarude|78/100
+|turn|20
+|
+|t:|1781051539
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Zarude|Knock Off|p2a: Kyurem
+|-damage|p2a: Kyurem|56/100
+|-enditem|p2a: Kyurem|Loaded Dice|[from] move: Knock Off|[of] p1a: Zarude
+|
+|-weather|none
+|-heal|p1a: Zarude|84/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781051546
+|move|p1a: Zarude|Power Whip|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|27/100
+|move|p2a: Kyurem|Icicle Spear|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|55/100
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|30/100
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|3/100
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|0 fnt
+|faint|p1a: Zarude
+|-hitcount|p1: Zarude|4
+|
+|upkeep
+|
+|t:|1781051551
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|turn|22
+|
+|t:|1781051559
+|move|p2a: Kyurem|Scale Shot|p1a: Ceruledge
+|-damage|p1a: Ceruledge|79/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|-damage|p1a: Ceruledge|49/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|-damage|p1a: Ceruledge|8/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|-hitcount|p1a: Ceruledge|3
+|-unboost|p2a: Kyurem|def|1
+|-boost|p2a: Kyurem|spe|1
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|upkeep
+|turn|23
+|
+|t:|1781051563
+|move|p1a: Ceruledge|Bitter Blade|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|-heal|p1a: Ceruledge|26/100|[from] drain|[of] p2a: Kyurem
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781051565
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|24
+|
+|t:|1781051568
+|move|p1a: Ceruledge|Bitter Blade|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|-heal|p1a: Ceruledge|80/100|[from] drain|[of] p2a: Gholdengo
+|faint|p2a: Gholdengo
+|
+|win|blackgokuking
+|raw|blackgokuking's rating: 1498 &rarr; <strong>1521</strong><br />(+23 for winning)
+|raw|kingofdondons's rating: 1558 &rarr; <strong>1535</strong><br />(-23 for losing)
+|l|☆kingofdondons
+|player|p2|
+|l|☆blackgokuking
+|player|p1|

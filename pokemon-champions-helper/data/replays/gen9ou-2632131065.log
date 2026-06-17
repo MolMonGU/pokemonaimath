@@ -1,0 +1,257 @@
+|j|☆Partynparadise
+|j|☆InfinityPokeRang3r
+|t:|1781479993
+|gametype|singles
+|player|p1|Partynparadise|brawly|1559
+|player|p2|InfinityPokeRang3r|ingo|1511
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Great Tusk|
+|poke|p1|Moltres|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Meowscarada, M|
+|poke|p2|Araquanid, F|
+|poke|p2|Ogerpon-Cornerstone, F|
+|poke|p2|Iron Treads|
+|poke|p2|Pecharunt|
+|poke|p2|Latios, M|
+|poke|p2|Alcremie, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Partynparadise)
+|
+|t:|1781479999
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|switch|p2a: Araquanid|Araquanid, F|100/100
+|turn|1
+|
+|t:|1781480001
+|move|p1a: Meowscarada|Trick|p2a: Araquanid
+|-start|p1a: Meowscarada|typechange|Psychic|[from] ability: Protean
+|-activate|p1a: Meowscarada|move: Trick|[of] p2a: Araquanid
+|-item|p2a: Araquanid|Choice Scarf|[from] move: Trick
+|-item|p1a: Meowscarada|Quick Claw|[from] move: Trick
+|move|p2a: Araquanid|Leech Life|p1a: Meowscarada
+|-supereffective|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|faint|p1a: Meowscarada
+|
+|upkeep
+|
+|t:|1781480008
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|2
+|
+|t:|1781480020
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Great Tusk|Stealth Rock|p2a: Pecharunt
+|-sidestart|p2: InfinityPokeRang3r|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781480029
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Pecharunt|Malignant Chain|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|87/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781480034
+|move|p2a: Pecharunt|Parting Shot|p1a: Slowking
+|-unboost|p1a: Slowking|atk|1
+|-unboost|p1a: Slowking|spa|1
+|
+|t:|1781480038
+|switch|p2a: Iron Treads|Iron Treads|100/100|[from] Parting Shot
+|-damage|p2a: Iron Treads|97/100|[from] Stealth Rock
+|move|p1a: Slowking|Future Sight|p2a: Iron Treads
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|5
+|
+|t:|1781480045
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Iron Treads|Rapid Spin|p1a: Moltres
+|-damage|p1a: Moltres|88/100
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: InfinityPokeRang3r|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|
+|upkeep
+|turn|6
+|
+|t:|1781480056
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Latios|Latios, M|100/100
+|move|p1a: Moltres|Flamethrower|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|83/100
+|
+|-end|p2a: Latios|move: Future Sight
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|59/100
+|upkeep
+|turn|7
+|
+|t:|1781480064
+|move|p2a: Latios|Luster Purge|p1a: Moltres
+|-damage|p1a: Moltres|12/100
+|move|p1a: Moltres|U-turn|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|21/100
+|
+|t:|1781480068
+|switch|p1a: Iron Valiant|Iron Valiant|100/100|[from] U-turn
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|
+|upkeep
+|turn|8
+|
+|t:|1781480071
+|move|p1a: Iron Valiant|Knock Off|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|-enditem|p2a: Latios|Choice Specs|[from] move: Knock Off|[of] p1a: Iron Valiant
+|faint|p2a: Latios
+|
+|upkeep
+|
+|t:|1781480079
+|switch|p2a: Alcremie|Alcremie, F|100/100
+|turn|9
+|
+|t:|1781480085
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Moltres|Moltres|12/100
+|move|p2a: Alcremie|Calm Mind|p2a: Alcremie
+|-boost|p2a: Alcremie|spa|1
+|-boost|p2a: Alcremie|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1781480093
+|move|p1a: Moltres|U-turn|p2a: Alcremie
+|-resisted|p2a: Alcremie
+|-damage|p2a: Alcremie|93/100
+|
+|t:|1781480096
+|switch|p1a: Slowking|Slowking-Galar, F|100/100|[from] U-turn
+|move|p2a: Alcremie|Draining Kiss|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|91/100
+|-heal|p2a: Alcremie|100/100|[from] drain|[of] p1a: Slowking
+|
+|upkeep
+|turn|11
+|
+|t:|1781480104
+|move|p2a: Alcremie|Calm Mind|p2a: Alcremie
+|-boost|p2a: Alcremie|spa|1
+|-boost|p2a: Alcremie|spd|1
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781480106
+|switch|p1a: Iron Valiant|Iron Valiant|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781480112
+|move|p1a: Iron Valiant|Encore|p2a: Alcremie
+|-block|p2a: Alcremie|ability: Aroma Veil|[of] p2a: Alcremie
+|move|p2a: Alcremie|Acid Armor|p2a: Alcremie
+|-boost|p2a: Alcremie|def|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781480120
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Alcremie|Draining Kiss|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|89/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781480124
+|move|p2a: Alcremie|Stored Power|p1a: Slowking
+|-damage|p1a: Slowking|46/100
+|move|p1a: Slowking|Future Sight|p2a: Alcremie
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781480130
+|move|p2a: Alcremie|Calm Mind|p2a: Alcremie
+|-boost|p2a: Alcremie|spa|1
+|-boost|p2a: Alcremie|spd|1
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|
+|t:|1781480142
+|switch|p1a: Iron Valiant|Iron Valiant|100/100|[from] Chilly Reception
+|
+|-weather|none
+|upkeep
+|turn|16
+|
+|t:|1781480148
+|-terastallize|p1a: Iron Valiant|Fighting
+|move|p1a: Iron Valiant|Close Combat|p2a: Alcremie
+|-resisted|p2a: Alcremie
+|-damage|p2a: Alcremie|79/100
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|move|p2a: Alcremie|Draining Kiss|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|-heal|p2a: Alcremie|100/100|[from] drain|[of] p1a: Iron Valiant
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-end|p2a: Alcremie|move: Future Sight
+|-damage|p2a: Alcremie|85/100
+|upkeep
+|
+|t:|1781480153
+|switch|p1a: Slowking|Slowking-Galar, F|80/100
+|turn|17
+|-message|Partynparadise forfeited.
+|
+|win|InfinityPokeRang3r
+|raw|Partynparadise's rating: 1559 &rarr; <strong>1536</strong><br />(-23 for losing)
+|raw|InfinityPokeRang3r's rating: 1511 &rarr; <strong>1534</strong><br />(+23 for winning)
+|l|☆Partynparadise
+|player|p1|
+|l|☆InfinityPokeRang3r
+|player|p2|

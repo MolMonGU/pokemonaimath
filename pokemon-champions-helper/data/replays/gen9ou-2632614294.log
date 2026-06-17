@@ -1,0 +1,905 @@
+|j|☆Vernita
+|j|☆LowEL0God
+|t:|1781544292
+|gametype|singles
+|player|p1|Vernita|169|1632
+|player|p2|LowEL0God|265|1654
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Alomomola, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Kyurem|
+|poke|p1|Tinkaton, F|
+|poke|p1|Great Tusk|
+|poke|p2|Pelipper, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|c|☆LowEL0God|hf
+|
+|t:|1781544296
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781544298
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Barraskewda|Close Combat|p1a: Alomomola
+|-damage|p1a: Alomomola|64/100
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|-damage|p2a: Barraskewda|84/100|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|
+|upkeep
+|turn|2
+|
+|t:|1781544304
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|move|p1a: Alomomola|Flip Turn|p2a: Kingambit
+|-damage|p2a: Kingambit|89/100
+|
+|t:|1781544308
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] Flip Turn
+|
+|-heal|p2a: Kingambit|96/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781544309
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Great Tusk|Knock Off|p2a: Pelipper
+|-damage|p2a: Pelipper|78/100
+|-enditem|p2a: Pelipper|Damp Rock|[from] move: Knock Off|[of] p1a: Great Tusk
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781544314
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Alomomola|Alomomola, F|98/100
+|move|p2a: Pelipper|Hurricane|p1a: Alomomola
+|-damage|p1a: Alomomola|57/100
+|-start|p1a: Alomomola|confusion
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781544319
+|-activate|p1a: Alomomola|confusion
+|-damage|p1a: Alomomola|52/100|[from] confusion
+|move|p2a: Pelipper|Weather Ball|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|20/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781544326
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Pelipper|Weather Ball|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|85/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781544339
+|switch|p2a: Kingambit|Kingambit, M|96/100
+|move|p1a: Kyurem|Focus Blast|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781544340
+|switch|p2a: Barraskewda|Barraskewda, F|84/100
+|turn|8
+|
+|t:|1781544351
+|switch|p1a: Alomomola|Alomomola, F|54/100
+|move|p2a: Barraskewda|Close Combat|p1a: Alomomola
+|-damage|p1a: Alomomola|17/100
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|-damage|p2a: Barraskewda|67/100|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781544354
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Barraskewda|Close Combat|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781544359
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Barraskewda|Close Combat|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|88/100
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|-damage|p2a: Barraskewda|50/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|
+|-weather|none
+|upkeep
+|turn|11
+|
+|t:|1781544362
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|switch|p1a: Alomomola|Alomomola, F|50/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781544365
+|switch|p1a: Hatterene|Hatterene, F|88/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: Hatterene
+|move|p1a: Hatterene|Stealth Rock|p2a: Iron Treads|[from] ability: Magic Bounce
+|-sidestart|p2: LowEL0God|move: Stealth Rock
+|
+|upkeep
+|turn|13
+|
+|t:|1781544368
+|switch|p1a: Alomomola|Alomomola, F|83/100
+|move|p2a: Iron Treads|Rapid Spin|p1a: Alomomola
+|-damage|p1a: Alomomola|78/100
+|-boost|p2a: Iron Treads|spe|1
+|-damage|p2a: Iron Treads|84/100|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|-sideend|p2: LowEL0God|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|
+|upkeep
+|turn|14
+|
+|t:|1781544373
+|move|p2a: Iron Treads|Stealth Rock|p1a: Alomomola
+|-sidestart|p1: Vernita|move: Stealth Rock
+|move|p1a: Alomomola|Scald|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|46/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781544375
+|move|p2a: Iron Treads|Earth Power|p1a: Alomomola
+|-damage|p1a: Alomomola|34/100
+|move|p1a: Alomomola|Flip Turn|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|15/100
+|
+|t:|1781544377
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] Flip Turn
+|-damage|p1a: Great Tusk|98/100|[from] Stealth Rock
+|
+|upkeep
+|turn|16
+|
+|t:|1781544379
+|move|p2a: Iron Treads|Steel Beam|p1a: Great Tusk
+|-damage|p1a: Great Tusk|65/100
+|-damage|p2a: Iron Treads|0 fnt|[from] steelbeam
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|move|p1a: Great Tusk|Rapid Spin|p2: Iron Treads|[notarget]
+|-fail|p1a: Great Tusk
+|
+|upkeep
+|j| Fat_Yogi
+|
+|t:|1781544380
+|switch|p2a: Barraskewda|Barraskewda, F|50/100
+|turn|17
+|
+|t:|1781544383
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Alomomola|Alomomola, F|67/100
+|-damage|p1a: Alomomola|55/100|[from] Stealth Rock
+|move|p2a: Barraskewda|Flip Turn|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|42/100
+|-damage|p2a: Barraskewda|34/100|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|
+|t:|1781544384
+|switch|p2a: Overqwil|Overqwil, M|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|18
+|
+|t:|1781544386
+|move|p2a: Overqwil|Swords Dance|p2a: Overqwil
+|-boost|p2a: Overqwil|atk|2
+|move|p1a: Alomomola|Flip Turn|p2a: Overqwil
+|-damage|p2a: Overqwil|82/100
+|
+|t:|1781544388
+|switch|p1a: Great Tusk|Great Tusk|65/100|[from] Flip Turn
+|-damage|p1a: Great Tusk|62/100|[from] Stealth Rock
+|
+|upkeep
+|turn|19
+|
+|t:|1781544389
+|move|p2a: Overqwil|Liquidation|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|-damage|p2a: Overqwil|73/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781544394
+|switch|p1a: Kyurem|Kyurem|85/100
+|-damage|p1a: Kyurem|60/100|[from] Stealth Rock
+|-ability|p1a: Kyurem|Pressure
+|turn|20
+|
+|t:|1781544395
+|-terastallize|p2a: Overqwil|Water
+|move|p1a: Kyurem|Earth Power|p2a: Overqwil
+|-damage|p2a: Overqwil|28/100
+|move|p2a: Overqwil|Crunch|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|-damage|p2a: Overqwil|18/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781544404
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|-damage|p1a: Tornadus|76/100|[from] Stealth Rock
+|turn|21
+|j| isolatedstar
+|
+|t:|1781544405
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Tornadus|Knock Off|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|88/100
+|
+|upkeep
+|turn|22
+|
+|t:|1781544408
+|move|p1a: Tornadus|U-turn|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|75/100
+|
+|t:|1781544411
+|switch|p1a: Tinkaton|Tinkaton, F|100/100|[from] U-turn
+|-damage|p1a: Tinkaton|94/100|[from] Stealth Rock
+|-item|p1a: Tinkaton|Air Balloon
+|move|p2a: Raging Bolt|Thunder|p1a: Tinkaton
+|-damage|p1a: Tinkaton|21/100
+|-status|p1a: Tinkaton|par
+|-enditem|p1a: Tinkaton|Air Balloon
+|
+|upkeep
+|turn|23
+|
+|t:|1781544415
+|move|p2a: Raging Bolt|Thunder|p1a: Tinkaton
+|-damage|p1a: Tinkaton|0 fnt
+|faint|p1a: Tinkaton
+|
+|upkeep
+|
+|t:|1781544420
+|switch|p1a: Hatterene|Hatterene, F|88/100
+|-damage|p1a: Hatterene|75/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781544421
+|move|p2a: Raging Bolt|Thunder|p1a: Hatterene|[miss]
+|-miss|p2a: Raging Bolt|p1a: Hatterene
+|move|p1a: Hatterene|Draining Kiss|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|36/100
+|-heal|p1a: Hatterene|100/100|[from] drain|[of] p2a: Raging Bolt
+|
+|upkeep
+|turn|25
+|
+|t:|1781544423
+|move|p2a: Raging Bolt|Thunder|p1a: Hatterene
+|-damage|p1a: Hatterene|14/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-heal|p1a: Hatterene|50/100|[from] drain|[of] p2a: Raging Bolt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781544425
+|switch|p2a: Overqwil|Overqwil, M, tera:Water|18/100
+|turn|26
+|
+|t:|1781544431
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|-damage|p1a: Tornadus|76/100|[from] Stealth Rock
+|move|p2a: Overqwil|Gunk Shot|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|-damage|p2a: Overqwil|9/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781544433
+|switch|p1a: Alomomola|Alomomola, F|75/100
+|-damage|p1a: Alomomola|63/100|[from] Stealth Rock
+|turn|27
+|
+|t:|1781544435
+|switch|p2a: Pelipper|Pelipper, F|78/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|28
+|
+|t:|1781544441
+|move|p2a: Pelipper|Weather Ball|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|34/100
+|move|p1a: Alomomola|Flip Turn|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|68/100
+|
+|t:|1781544444
+|switch|p1a: Hatterene|Hatterene, F|50/100|[from] Flip Turn
+|-damage|p1a: Hatterene|38/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Hatterene|100/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|29
+|
+|t:|1781544447
+|move|p2a: Pelipper|Weather Ball|p1a: Hatterene
+|-damage|p1a: Hatterene|49/100
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|30
+|
+|t:|1781544450
+|switch|p2a: Overqwil|Overqwil, M, tera:Water|9/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Overqwil
+|-damage|p2a: Overqwil|0 fnt
+|-heal|p1a: Hatterene|55/100|[from] drain|[of] p2a: Overqwil
+|faint|p2a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781544451
+|switch|p2a: Barraskewda|Barraskewda, F|34/100
+|turn|31
+|
+|t:|1781544459
+|switch|p1a: Alomomola|Alomomola, F|68/100
+|-damage|p1a: Alomomola|55/100|[from] Stealth Rock
+|move|p2a: Barraskewda|Liquidation|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|28/100
+|-damage|p2a: Barraskewda|17/100|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|
+|-weather|none
+|upkeep
+|turn|32
+|
+|t:|1781544463
+|switch|p2a: Pelipper|Pelipper, F|68/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|33
+|
+|t:|1781544464
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Pelipper|Weather Ball|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Alomomola|78/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|34
+|
+|t:|1781544468
+|move|p2a: Pelipper|Hurricane|p1a: Alomomola
+|-damage|p1a: Alomomola|38/100
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|35
+|
+|t:|1781544472
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Pelipper|Weather Ball|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Alomomola|88/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|36
+|
+|t:|1781544479
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|move|p2a: Pelipper|Hurricane|p1a: Alomomola
+|-damage|p1a: Alomomola|48/100
+|
+|-weather|none
+|upkeep
+|turn|37
+|
+|t:|1781544486
+|move|p2a: Pelipper|Hurricane|p1a: Alomomola
+|-damage|p1a: Alomomola|7/100
+|move|p1a: Alomomola|Scald|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|58/100
+|
+|-heal|p1a: Alomomola|57/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|38
+|
+|t:|1781544493
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Pelipper|Hurricane|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|upkeep
+|turn|39
+|
+|t:|1781544497
+|move|p2a: Pelipper|Hurricane|p1a: Alomomola|[miss]
+|-miss|p2a: Pelipper|p1a: Alomomola
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|upkeep
+|turn|40
+|
+|t:|1781544498
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|100/100
+|-singleturn|p2a: Pelipper|move: Roost
+|
+|-heal|p1a: Alomomola|100/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|41
+|
+|t:|1781544502
+|move|p2a: Pelipper|Hurricane|p1a: Alomomola
+|-damage|p1a: Alomomola|59/100
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|upkeep
+|turn|42
+|
+|t:|1781544508
+|move|p2a: Pelipper|U-turn|p1a: Alomomola
+|-damage|p1a: Alomomola|54/100
+|-damage|p2a: Pelipper|84/100|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|
+|t:|1781544509
+|switch|p2a: Barraskewda|Barraskewda, F|17/100|[from] U-turn
+|move|p1a: Alomomola|Scald|p2a: Barraskewda
+|-resisted|p2a: Barraskewda
+|-damage|p2a: Barraskewda|1/100
+|
+|-heal|p1a: Alomomola|100/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|43
+|
+|t:|1781544512
+|switch|p2a: Pelipper|Pelipper, F|84/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Alomomola|Protect||[still]
+|-fail|p1a: Alomomola
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|44
+|
+|t:|1781544513
+|move|p2a: Pelipper|Hurricane|p1a: Alomomola
+|-damage|p1a: Alomomola|54/100
+|-start|p1a: Alomomola|confusion
+|-activate|p1a: Alomomola|confusion
+|move|p1a: Alomomola|Scald|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|70/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|45
+|
+|t:|1781544515
+|-activate|p1a: Alomomola|confusion
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Pelipper|Hurricane|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|46
+|
+|t:|1781544519
+|move|p2a: Pelipper|Hurricane|p1a: Alomomola
+|-damage|p1a: Alomomola|14/100
+|-activate|p1a: Alomomola|confusion
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|47
+|
+|t:|1781544522
+|-end|p1a: Alomomola|confusion
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Pelipper|Weather Ball|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-weather|none
+|-heal|p1a: Alomomola|64/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|48
+|
+|t:|1781544526
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|move|p2a: Pelipper|Hurricane|p1a: Alomomola
+|-damage|p1a: Alomomola|25/100
+|
+|upkeep
+|turn|49
+|
+|t:|1781544529
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Pelipper|Hurricane|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-heal|p1a: Alomomola|75/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|50
+|
+|t:|1781544534
+|move|p2a: Pelipper|Hurricane|p1a: Alomomola
+|-damage|p1a: Alomomola|34/100
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|upkeep
+|turn|51
+|
+|t:|1781544538
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Pelipper|Hurricane|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-heal|p1a: Alomomola|84/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|52
+|
+|t:|1781544543
+|move|p2a: Pelipper|Hurricane|p1a: Alomomola|[miss]
+|-miss|p2a: Pelipper|p1a: Alomomola
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|upkeep
+|turn|53
+|
+|t:|1781544546
+|move|p1a: Alomomola|Scald|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|60/100
+|move|p2a: Pelipper|Hurricane|p1a: Alomomola
+|-damage|p1a: Alomomola|38/100
+|-start|p1a: Alomomola|confusion
+|
+|-heal|p1a: Alomomola|88/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|54
+|
+|t:|1781544552
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|100/100
+|-singleturn|p2a: Pelipper|move: Roost
+|-activate|p1a: Alomomola|confusion
+|move|p1a: Alomomola|Flip Turn|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|94/100
+|
+|t:|1781544554
+|switch|p1a: Hatterene|Hatterene, F|55/100|[from] Flip Turn
+|-damage|p1a: Hatterene|43/100|[from] Stealth Rock
+|
+|upkeep
+|turn|55
+|
+|t:|1781544557
+|switch|p2a: Barraskewda|Barraskewda, F|1/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|-heal|p1a: Hatterene|43/100|[from] drain|[of] p2a: Barraskewda
+|faint|p2a: Barraskewda
+|
+|upkeep
+|
+|t:|1781544558
+|switch|p2a: Pelipper|Pelipper, F|94/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|56
+|
+|t:|1781544562
+|move|p2a: Pelipper|Weather Ball|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781544564
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|-damage|p1a: Alomomola|88/100|[from] Stealth Rock
+|turn|57
+|
+|t:|1781544565
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Pelipper|Weather Ball|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|58
+|
+|t:|1781544571
+|move|p2a: Pelipper|Weather Ball|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|59/100
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|59
+|
+|t:|1781544574
+|move|p1a: Alomomola|Scald|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|79/100
+|move|p2a: Pelipper|Weather Ball|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|28/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Alomomola|78/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|60
+|
+|t:|1781544577
+|move|p2a: Pelipper|Weather Ball|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|50/100
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-weather|none
+|upkeep
+|turn|61
+|
+|t:|1781544581
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|100/100
+|-singleturn|p2a: Pelipper|move: Roost
+|
+|-heal|p1a: Alomomola|99/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|62
+|
+|t:|1781544582
+|move|p2a: Pelipper|Weather Ball|p1a: Alomomola
+|-damage|p1a: Alomomola|88/100
+|move|p1a: Alomomola|Scald|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|92/100
+|-status|p2a: Pelipper|brn
+|
+|-damage|p2a: Pelipper|85/100 brn|[from] brn
+|upkeep
+|turn|63
+|
+|t:|1781544584
+|move|p1a: Alomomola|Scald|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|76/100 brn
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|100/100 brn
+|-singleturn|p2a: Pelipper|move: Roost
+|
+|-damage|p2a: Pelipper|94/100 brn|[from] brn
+|upkeep
+|turn|64
+|
+|t:|1781544587
+|move|p2a: Pelipper|Weather Ball|p1a: Alomomola
+|-damage|p1a: Alomomola|74/100
+|move|p1a: Alomomola|Scald|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|84/100 brn
+|
+|-damage|p2a: Pelipper|78/100 brn|[from] brn
+|upkeep
+|turn|65
+|
+|t:|1781544590
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|100/100 brn
+|-singleturn|p2a: Pelipper|move: Roost
+|move|p1a: Alomomola|Scald|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|91/100 brn
+|
+|-damage|p2a: Pelipper|84/100 brn|[from] brn
+|upkeep
+|turn|66
+|
+|t:|1781544592
+|move|p1a: Alomomola|Scald|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|74/100 brn
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|100/100 brn
+|-singleturn|p2a: Pelipper|move: Roost
+|
+|-damage|p2a: Pelipper|94/100 brn|[from] brn
+|upkeep
+|turn|67
+|
+|t:|1781544594
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|100/100 brn
+|-singleturn|p2a: Pelipper|move: Roost
+|
+|-damage|p2a: Pelipper|94/100 brn|[from] brn
+|upkeep
+|turn|68
+|
+|t:|1781544598
+|move|p2a: Pelipper|U-turn|p1a: Alomomola
+|-damage|p1a: Alomomola|71/100
+|-damage|p2a: Pelipper|78/100 brn|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|move|p1a: Alomomola|Scald|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|69/100 brn
+|
+|-heal|p1a: Alomomola|100/100|[from] move: Wish|[wisher] Alomomola
+|-damage|p2a: Pelipper|62/100 brn|[from] brn
+|upkeep
+|turn|69
+|
+|t:|1781544600
+|move|p1a: Alomomola|Scald|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|53/100 brn
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|100/100 brn
+|-singleturn|p2a: Pelipper|move: Roost
+|
+|-damage|p2a: Pelipper|94/100 brn|[from] brn
+|upkeep
+|turn|70
+|
+|t:|1781544603
+|move|p1a: Alomomola|Scald|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|85/100 brn
+|move|p2a: Pelipper|U-turn|p1a: Alomomola
+|-damage|p1a: Alomomola|98/100
+|-damage|p2a: Pelipper|69/100 brn|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|
+|-damage|p2a: Pelipper|62/100 brn|[from] brn
+|upkeep
+|turn|71
+|
+|t:|1781544606
+|move|p1a: Alomomola|Flip Turn|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|56/100 brn
+|move|p2a: Pelipper|U-turn|p1a: Alomomola
+|-damage|p1a: Alomomola|96/100
+|-damage|p2a: Pelipper|40/100 brn|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|
+|-damage|p2a: Pelipper|34/100 brn|[from] brn
+|upkeep
+|turn|72
+|
+|t:|1781544608
+|move|p1a: Alomomola|Flip Turn|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|27/100 brn
+|move|p2a: Pelipper|Weather Ball|p1a: Alomomola
+|-damage|p1a: Alomomola|83/100
+|
+|-damage|p2a: Pelipper|21/100 brn|[from] brn
+|upkeep
+|turn|73
+|
+|t:|1781544610
+|move|p1a: Alomomola|Flip Turn|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|14/100 brn
+|move|p2a: Pelipper|U-turn|p1a: Alomomola
+|-damage|p1a: Alomomola|81/100
+|-damage|p2a: Pelipper|0 fnt|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|faint|p2a: Pelipper
+|
+|win|Vernita
+|raw|Vernita's rating: 1632 &rarr; <strong>1653</strong><br />(+21 for winning)
+|raw|LowEL0God's rating: 1654 &rarr; <strong>1633</strong><br />(-21 for losing)
+|l|☆Vernita
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|
+|j|☆Vernita
+|player|p1|Vernita|169|
+|l| Fat_Yogi

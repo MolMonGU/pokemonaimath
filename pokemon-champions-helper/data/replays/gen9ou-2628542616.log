@@ -1,0 +1,468 @@
+|j|☆katholikon
+|j|☆bfrhnnlfhroh
+|t:|1781028812
+|gametype|singles
+|player|p1|katholikon|102|1666
+|player|p2|bfrhnnlfhroh|266|1647
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Boulder|
+|poke|p1|Dragapult, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Great Tusk|
+|poke|p1|Ting-Lu|
+|poke|p1|Corviknight, F|
+|poke|p2|Walking Wake|
+|poke|p2|Great Tusk|
+|poke|p2|Ninetales, F|
+|poke|p2|Cinderace, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Glimmora, F|
+|teampreview
+|
+|t:|1781028832
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|turn|1
+|
+|t:|1781028857
+|move|p2a: Cinderace|Sucker Punch|p1a: Dragapult
+|-start|p2a: Cinderace|typechange|Dark|[from] ability: Libero
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1781028861
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|2
+|j| Almirante Matthew
+|
+|t:|1781028867
+|switch|p2a: fast strong|Walking Wake|100/100
+|move|p1a: Great Tusk|Close Combat|p2a: fast strong
+|-damage|p2a: fast strong|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: fast strong
+|-end|p2a: fast strong|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781028905
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|turn|3
+|
+|t:|1781028934
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|-terastallize|p2a: Glimmora|Ghost
+|move|p2a: Glimmora|Earth Power|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|87/100
+|
+|-heal|p1a: Ting-Lu|93/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781028944
+|move|p2a: Glimmora|Mortal Spin|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|91/100
+|-status|p1a: Ting-Lu|psn
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Glimmora
+|-sidestart|p2: bfrhnnlfhroh|move: Stealth Rock
+|
+|-heal|p1a: Ting-Lu|98/100 psn|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|85/100 psn|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1781028953
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Glimmora|Mortal Spin|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|upkeep
+|turn|6
+|
+|t:|1781028961
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Glimmora|Stealth Rock|p1a: Great Tusk
+|-sidestart|p1: katholikon|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1781028966
+|move|p1a: Great Tusk|Headlong Rush|p2a: Glimmora
+|-enditem|p2a: Glimmora|Focus Sash
+|-damage|p2a: Glimmora|1/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: katholikon|move: Toxic Spikes
+|move|p2a: Glimmora|Mortal Spin|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|98/100
+|-status|p1a: Great Tusk|psn
+|-sideend|p2: bfrhnnlfhroh|Stealth Rock|[from] move: Mortal Spin|[of] p2a: Glimmora
+|
+|-damage|p1a: Great Tusk|85/100 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781028995
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Glimmora|Earth Power|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|upkeep
+|turn|9
+|
+|t:|1781029004
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|move|p1a: Corviknight|Defog|p2a: Cinderace
+|-unboost|p2a: Cinderace|evasion|1
+|-sideend|p1: katholikon|Toxic Spikes|[from] move: Defog|[of] p1a: Corviknight
+|-sideend|p1: katholikon|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|upkeep
+|turn|10
+|
+|t:|1781029014
+|switch|p1a: Ting-Lu|Ting-Lu|85/100 psn
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Cinderace|Pyro Ball|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|40/100 psn
+|
+|-heal|p1a: Ting-Lu|46/100 psn|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|33/100 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1781029024
+|move|p2a: Cinderace|Pyro Ball|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781029026
+|switch|p1a: Great Tusk|Great Tusk|85/100 psn
+|turn|12
+|
+|t:|1781029032
+|switch|p2a: Glimmora|Glimmora, F, tera:Ghost|1/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: katholikon|move: Toxic Spikes
+|faint|p2a: Glimmora
+|
+|-damage|p1a: Great Tusk|73/100 psn|[from] psn
+|upkeep
+|
+|t:|1781029044
+|switch|p2a: fast|Great Tusk|100/100
+|turn|13
+|
+|t:|1781029047
+|-end|p2a: fast|Protosynthesis|[silent]
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Cinderace
+|-supereffective|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Cinderace
+|
+|-damage|p1a: Great Tusk|60/100 psn|[from] psn
+|upkeep
+|
+|t:|1781029058
+|switch|p2a: fast|Great Tusk|100/100
+|turn|14
+|
+|t:|1781029065
+|-end|p2a: fast|Protosynthesis|[silent]
+|switch|p2a: good|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: good
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Corviknight|Corviknight, F|88/100
+|-ability|p1a: Corviknight|Pressure
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781029085
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-status|p1a: Raging Bolt|psn
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: good|Will-O-Wisp|p1a: Raging Bolt|[miss]
+|-miss|p2a: good|p1a: Raging Bolt
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Raging Bolt|88/100 psn|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1781029099
+|move|p2a: good|Weather Ball|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|67/100 psn
+|move|p1a: Raging Bolt|Draco Meteor|p2a: good
+|-damage|p2a: good|0 fnt
+|-unboost|p1a: Raging Bolt|spa|2
+|faint|p2a: good
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Raging Bolt|55/100 psn|[from] psn
+|upkeep
+|
+|t:|1781029110
+|switch|p2a: fast|Great Tusk|100/100
+|-activate|p2a: fast|ability: Protosynthesis
+|-start|p2a: fast|protosynthesisspe
+|turn|17
+|
+|t:|1781029119
+|-end|p2a: fast|Protosynthesis|[silent]
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-unboost|p1a: Raging Bolt|spa|2
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Raging Bolt|42/100 psn|[from] psn
+|upkeep
+|l| Almirante Matthew
+|
+|t:|1781029129
+|switch|p2a: fast|Great Tusk|100/100
+|-activate|p2a: fast|ability: Protosynthesis
+|-start|p2a: fast|protosynthesisspe
+|turn|18
+|
+|t:|1781029135
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Corviknight|Corviknight, F|88/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: fast|Bulk Up|p2a: fast
+|-boost|p2a: fast|atk|1
+|-boost|p2a: fast|def|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781029144
+|move|p2a: fast|Bulk Up|p2a: fast
+|-boost|p2a: fast|atk|1
+|-boost|p2a: fast|def|1
+|move|p1a: Corviknight|Brave Bird|p2a: fast
+|-supereffective|p2a: fast
+|-damage|p2a: fast|78/100
+|-damage|p1a: Corviknight|80/100|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: fast|85/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781029155
+|move|p2a: fast|Bulk Up|p2a: fast
+|-boost|p2a: fast|atk|1
+|-boost|p2a: fast|def|1
+|move|p1a: Corviknight|Brave Bird|p2a: fast
+|-supereffective|p2a: fast
+|-damage|p2a: fast|65/100
+|-damage|p1a: Corviknight|73/100|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: fast|71/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781029165
+|switch|p1a: Great Tusk|Great Tusk|60/100 psn
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: fast|Rapid Spin|p1a: Great Tusk
+|-damage|p1a: Great Tusk|35/100 psn
+|-boost|p2a: fast|spe|1
+|
+|-weather|none
+|-end|p2a: fast|Protosynthesis
+|-end|p1a: Great Tusk|Protosynthesis
+|-heal|p2a: fast|77/100|[from] item: Leftovers
+|-damage|p1a: Great Tusk|22/100 psn|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1781029176
+|move|p2a: fast|Ice Spinner|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-heal|p2a: fast|83/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781029179
+|switch|p1a: Corviknight|Corviknight, F|73/100
+|-ability|p1a: Corviknight|Pressure
+|turn|23
+|
+|t:|1781029185
+|move|p2a: fast|Bulk Up|p2a: fast
+|-boost|p2a: fast|atk|1
+|-boost|p2a: fast|def|1
+|move|p1a: Corviknight|Brave Bird|p2a: fast
+|-supereffective|p2a: fast
+|-damage|p2a: fast|67/100
+|-damage|p1a: Corviknight|67/100|[from] Recoil
+|
+|-heal|p2a: fast|73/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1781029196
+|move|p2a: fast|Bulk Up|p2a: fast
+|-boost|p2a: fast|atk|1
+|-boost|p2a: fast|def|1
+|move|p1a: Corviknight|Defog|p2a: fast
+|-unboost|p2a: fast|evasion|1
+|-sideend|p1: katholikon|Toxic Spikes|[from] move: Defog|[of] p1a: Corviknight
+|
+|-heal|p2a: fast|79/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781029204
+|move|p2a: fast|Bulk Up|p2a: fast
+|-boost|p2a: fast|atk|1
+|-boost|p2a: fast|def|1
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p2a: fast|86/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781029214
+|move|p2a: fast|Ice Spinner|p1a: Corviknight
+|-damage|p1a: Corviknight|35/100
+|-damage|p2a: fast|69/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|move|p1a: Corviknight|Defog|p2a: fast
+|-unboost|p2a: fast|evasion|1
+|
+|-heal|p2a: fast|75/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781029225
+|move|p2a: fast|Rapid Spin|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|14/100
+|-boost|p2a: fast|spe|1
+|-damage|p2a: fast|59/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|64/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p2a: fast|65/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781029236
+|move|p2a: fast|Ice Spinner|p1a: Corviknight
+|-damage|p1a: Corviknight|4/100
+|-damage|p2a: fast|48/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|54/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p2a: fast|54/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1781029252
+|move|p2a: fast|Ice Spinner|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|-damage|p2a: fast|38/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|faint|p1a: Corviknight
+|
+|-heal|p2a: fast|44/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781029255
+|switch|p1a: Iron Boulder|Iron Boulder|100/100
+|-enditem|p1a: Iron Boulder|Booster Energy
+|-activate|p1a: Iron Boulder|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Boulder|quarkdrivespe
+|turn|30
+|
+|t:|1781029263
+|-terastallize|p1a: Iron Boulder|Fighting
+|move|p2a: fast|Headlong Rush|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|0 fnt
+|-unboost|p2a: fast|def|1
+|-unboost|p2a: fast|spd|1
+|faint|p1a: Iron Boulder
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|
+|-heal|p2a: fast|50/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781029266
+|switch|p1a: Raging Bolt|Raging Bolt|42/100 psn
+|turn|31
+|l|☆katholikon
+|player|p1|
+|
+|t:|1781029275
+|move|p2a: fast|Headlong Rush|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|-unboost|p2a: fast|def|1
+|-unboost|p2a: fast|spd|1
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|win|bfrhnnlfhroh
+|raw|katholikon's rating: 1666 &rarr; <strong>1645</strong><br />(-21 for losing)
+|raw|bfrhnnlfhroh's rating: 1647 &rarr; <strong>1668</strong><br />(+21 for winning)
+|l|☆bfrhnnlfhroh
+|player|p2|

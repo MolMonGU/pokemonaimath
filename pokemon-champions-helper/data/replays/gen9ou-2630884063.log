@@ -1,0 +1,152 @@
+|j|☆Johnny tots
+|j|☆LowEL0God
+|t:|1781306492
+|gametype|singles
+|player|p1|Johnny tots|266|1774
+|player|p2|LowEL0God|265|1667
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Rillaboom, F|
+|poke|p1|Klefki, F|
+|poke|p1|Manaphy|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Clefable, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|c|☆Johnny tots|Gl
+|
+|t:|1781306503
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|switch|p2a: Overqwil|Overqwil, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1781306506
+|switch|p1a: Klefki|Klefki, F|100/100
+|move|p2a: Overqwil|Gunk Shot|p1a: Klefki
+|-immune|p1a: Klefki
+|
+|upkeep
+|turn|2
+|
+|t:|1781306511
+|move|p1a: Klefki|Switcheroo|p2a: Overqwil
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p2a: Overqwil
+|move|p2a: Overqwil|Swords Dance|p2a: Overqwil
+|-boost|p2a: Overqwil|atk|2
+|
+|upkeep
+|turn|3
+|c|☆Johnny tots|Whoops
+|
+|t:|1781306528
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Overqwil|Liquidation|p1a: Ogerpon
+|-immune|p1a: Ogerpon|[from] ability: Water Absorb
+|
+|upkeep
+|turn|4
+|
+|t:|1781306539
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Overqwil|[anim] Ivy Cudgel Water
+|-damage|p2a: Overqwil|35/100
+|move|p2a: Overqwil|Crunch|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|-damage|p2a: Overqwil|25/100|[from] item: Life Orb
+|
+|-heal|p2a: Overqwil|31/100|[from] Grassy Terrain
+|upkeep
+|inactive|Johnny tots has 120 seconds left.
+|inactive|Johnny tots has 90 seconds left.
+|
+|t:|1781306611
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|turn|5
+|inactive|Johnny tots has 60 seconds left.
+|inactive|Johnny tots has 30 seconds left.
+|
+|t:|1781306664
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|move|p1a: Rillaboom|Grassy Glide|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|86/100
+|
+|-heal|p2a: Kingambit|92/100|[from] Grassy Terrain
+|-heal|p2a: Kingambit|99/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781306666
+|move|p1a: Rillaboom|Bulk Up|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|1
+|-boost|p1a: Rillaboom|def|1
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|100/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781306677
+|-terastallize|p2a: Kingambit|Dark
+|move|p1a: Rillaboom|High Horsepower|p2a: Kingambit
+|-damage|p2a: Kingambit|60/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Rillaboom
+|-damage|p1a: Rillaboom|17/100
+|
+|-heal|p1a: Rillaboom|24/100|[from] Grassy Terrain
+|-heal|p2a: Kingambit|66/100|[from] Grassy Terrain
+|-heal|p2a: Kingambit|72/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781306686
+|move|p1a: Rillaboom|Knock Off|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|52/100
+|-enditem|p2a: Kingambit|Leftovers|[from] move: Knock Off|[of] p1a: Rillaboom
+|move|p2a: Kingambit|Iron Head|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Kingambit|58/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|inactive|Johnny tots has 30 seconds left.
+|inactive|Johnny tots has 20 seconds left.
+|inactive|Johnny tots has 15 seconds left.
+|inactive|Johnny tots has 10 seconds left.
+|inactive|Johnny tots has 5 seconds left.
+|-message|Johnny tots lost due to inactivity.
+|
+|win|LowEL0God
+|raw|Johnny tots's rating: 1774 &rarr; <strong>1748</strong><br />(-26 for losing)
+|raw|LowEL0God's rating: 1667 &rarr; <strong>1693</strong><br />(+26 for winning)
+|l|☆Johnny tots
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|

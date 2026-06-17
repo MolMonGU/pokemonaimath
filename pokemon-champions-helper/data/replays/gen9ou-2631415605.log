@@ -1,0 +1,405 @@
+|j|☆Miurez
+|j|☆myree
+|t:|1781381932
+|gametype|singles
+|player|p1|Miurez|pokemonranger-gen4|1669
+|player|p2|myree|benga|1665
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Deoxys-Speed|
+|poke|p1|Ceruledge, F|
+|poke|p1|Zamazenta-*|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Glimmora, M|
+|poke|p1|Hatterene, F|
+|poke|p2|Tinkaton, F|
+|poke|p2|Glimmora, M|
+|poke|p2|Iron Hands|
+|poke|p2|Slither Wing|
+|poke|p2|Wo-Chien|
+|poke|p2|Okidogi, M|
+|teampreview
+|
+|t:|1781381954
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|switch|p2a: st. jay g. saturn|Slither Wing|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|1
+|
+|t:|1781381960
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|-end|p2a: st. jay g. saturn|Protosynthesis|[silent]
+|switch|p2a: meethewoo|Wo-Chien|100/100
+|-ability|p2a: meethewoo|Tablets of Ruin
+|
+|upkeep
+|turn|2
+|
+|t:|1781381973
+|switch|p2a: ms. giving|Tinkaton, F|100/100
+|-item|p2a: ms. giving|Air Balloon
+|move|p1a: Glimmora|Meteor Beam||[still]
+|-prepare|p1a: Glimmora|Meteor Beam
+|-boost|p1a: Glimmora|spa|1
+|-enditem|p1a: Glimmora|Power Herb
+|-anim|p1a: Glimmora|Meteor Beam|p2a: ms. giving
+|-resisted|p2a: ms. giving
+|-damage|p2a: ms. giving|59/100
+|-enditem|p2a: ms. giving|Air Balloon
+|
+|upkeep
+|turn|3
+|
+|t:|1781381986
+|move|p2a: ms. giving|Encore|p1a: Glimmora
+|-start|p1a: Glimmora|Encore
+|move|p1a: Glimmora|Meteor Beam||[still]
+|-prepare|p1a: Glimmora|Meteor Beam
+|-boost|p1a: Glimmora|spa|1
+|
+|upkeep
+|turn|4
+|
+|t:|1781381991
+|move|p2a: ms. giving|Gigaton Hammer|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: myree|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1781382014
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|5
+|
+|t:|1781382021
+|switch|p2a: chef pzn.|Okidogi, M|100/100
+|-sideend|p2: myree|move: Toxic Spikes|[of] p2a: chef pzn.
+|move|p1a: Zamazenta|Body Press|p2a: chef pzn.
+|-resisted|p2a: chef pzn.
+|-damage|p2a: chef pzn.|80/100
+|
+|-heal|p2a: chef pzn.|87/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781382029
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: chef pzn.|Toxic|p1a: Deoxys
+|-status|p1a: Deoxys|tox
+|
+|-heal|p2a: chef pzn.|93/100|[from] item: Leftovers
+|-damage|p1a: Deoxys|95/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1781382033
+|switch|p2a: meethewoo|Wo-Chien|100/100
+|-ability|p2a: meethewoo|Tablets of Ruin
+|move|p1a: Deoxys|Psycho Boost|p2a: meethewoo
+|-immune|p2a: meethewoo
+|
+|-damage|p1a: Deoxys|83/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1781382040
+|move|p1a: Deoxys|Taunt|p2a: meethewoo
+|-start|p2a: meethewoo|move: Taunt
+|move|p2a: meethewoo|Knock Off|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|7/100 tox
+|-enditem|p1a: Deoxys|Light Clay|[from] move: Knock Off|[of] p2a: meethewoo
+|
+|-damage|p1a: Deoxys|0 fnt|[from] psn
+|faint|p1a: Deoxys
+|upkeep
+|
+|t:|1781382063
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|turn|9
+|
+|t:|1781382072
+|switch|p2a: chef pzn.|Okidogi, M|93/100
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|76/100
+|
+|-heal|p1a: Zamazenta|82/100|[from] item: Leftovers
+|-heal|p2a: chef pzn.|99/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781382078
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: chef pzn.|Gunk Shot|p1a: Zamazenta
+|-activate|p1a: Zamazenta|move: Substitute|[damage]
+|
+|-heal|p1a: Zamazenta|88/100|[from] item: Leftovers
+|-heal|p2a: chef pzn.|100/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781382090
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: chef pzn.|Gunk Shot|p1a: Zamazenta
+|-end|p1a: Zamazenta|Substitute
+|
+|-heal|p1a: Zamazenta|94/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781382107
+|switch|p2a: meethewoo|Wo-Chien|100/100
+|-ability|p2a: meethewoo|Tablets of Ruin
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|69/100
+|
+|-heal|p1a: Zamazenta|75/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781382114
+|-terastallize|p2a: meethewoo|Poison
+|move|p1a: Zamazenta|Body Press|p2a: meethewoo
+|-resisted|p2a: meethewoo
+|-damage|p2a: meethewoo|59/100
+|move|p2a: meethewoo|Ruination|p1a: Zamazenta
+|-end|p1a: Zamazenta|Substitute
+|
+|-heal|p1a: Zamazenta|81/100|[from] item: Leftovers
+|-heal|p2a: meethewoo|65/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781382124
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|57/100
+|move|p2a: meethewoo|Ruination|p1a: Zamazenta
+|-end|p1a: Zamazenta|Substitute
+|
+|-heal|p1a: Zamazenta|63/100|[from] item: Leftovers
+|-heal|p2a: meethewoo|72/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781382127
+|move|p1a: Zamazenta|Body Press|p2a: meethewoo
+|-resisted|p2a: meethewoo
+|-damage|p2a: meethewoo|34/100
+|move|p2a: meethewoo|Ruination|p1a: Zamazenta
+|-damage|p1a: Zamazenta|32/100
+|
+|-heal|p1a: Zamazenta|38/100|[from] item: Leftovers
+|-heal|p2a: meethewoo|40/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781382136
+|move|p2a: meethewoo|Protect|p2a: meethewoo
+|-singleturn|p2a: meethewoo|Protect
+|move|p1a: Zamazenta|Body Press|p2a: meethewoo
+|-activate|p2a: meethewoo|move: Protect
+|
+|-heal|p1a: Zamazenta|44/100|[from] item: Leftovers
+|-heal|p2a: meethewoo|46/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781382141
+|move|p1a: Zamazenta|Body Press|p2a: meethewoo
+|-resisted|p2a: meethewoo
+|-damage|p2a: meethewoo|7/100
+|move|p2a: meethewoo|Leech Seed|p1a: Zamazenta
+|-start|p1a: Zamazenta|move: Leech Seed
+|
+|-heal|p1a: Zamazenta|50/100|[from] item: Leftovers
+|-heal|p2a: meethewoo|13/100|[from] item: Leftovers
+|-damage|p1a: Zamazenta|38/100|[from] Leech Seed|[of] p2a: meethewoo
+|-heal|p2a: meethewoo|24/100|[silent]
+|upkeep
+|turn|18
+|
+|t:|1781382146
+|move|p2a: meethewoo|Protect|p2a: meethewoo
+|-singleturn|p2a: meethewoo|Protect
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|-heal|p1a: Zamazenta|44/100|[from] item: Leftovers
+|-heal|p2a: meethewoo|30/100|[from] item: Leftovers
+|-damage|p1a: Zamazenta|32/100|[from] Leech Seed|[of] p2a: meethewoo
+|-heal|p2a: meethewoo|41/100|[silent]
+|upkeep
+|turn|19
+|
+|t:|1781382154
+|switch|p2a: chef pzn.|Okidogi, M|100/100
+|move|p1a: Zamazenta|Body Press|p2a: chef pzn.
+|-resisted|p2a: chef pzn.
+|-damage|p2a: chef pzn.|49/100
+|
+|-heal|p1a: Zamazenta|38/100|[from] item: Leftovers
+|-heal|p2a: chef pzn.|55/100|[from] item: Leftovers
+|-damage|p1a: Zamazenta|26/100|[from] Leech Seed|[of] p2a: chef pzn.
+|-heal|p2a: chef pzn.|65/100|[silent]
+|upkeep
+|turn|20
+|
+|t:|1781382167
+|move|p1a: Zamazenta|Body Press|p2a: chef pzn.
+|-resisted|p2a: chef pzn.
+|-damage|p2a: chef pzn.|13/100
+|move|p2a: chef pzn.|Gunk Shot|p1a: Zamazenta
+|-damage|p1a: Zamazenta|15/100
+|
+|-heal|p1a: Zamazenta|21/100|[from] item: Leftovers
+|-heal|p2a: chef pzn.|19/100|[from] item: Leftovers
+|-damage|p1a: Zamazenta|9/100|[from] Leech Seed|[of] p2a: chef pzn.
+|-heal|p2a: chef pzn.|30/100|[silent]
+|upkeep
+|turn|21
+|
+|t:|1781382181
+|move|p1a: Zamazenta|Body Press|p2a: chef pzn.
+|-resisted|p2a: chef pzn.
+|-damage|p2a: chef pzn.|0 fnt
+|faint|p2a: chef pzn.
+|
+|-heal|p1a: Zamazenta|15/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781382183
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|turn|22
+|
+|t:|1781382188
+|move|p2a: Glimmora|Spiky Shield|p2a: Glimmora
+|-singleturn|p2a: Glimmora|move: Protect
+|move|p1a: Zamazenta|Body Press|p2a: Glimmora
+|-activate|p2a: Glimmora|move: Protect
+|-damage|p1a: Zamazenta|3/100|[from] Spiky Shield|[of] p2a: Glimmora
+|
+|-heal|p1a: Zamazenta|9/100|[from] item: Leftovers
+|-damage|p1a: Zamazenta|0 fnt|[from] Leech Seed|[of] p2a: Glimmora
+|faint|p1a: Zamazenta
+|upkeep
+|
+|t:|1781382198
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|23
+|
+|t:|1781382218
+|switch|p2a: ms. giving|Tinkaton, F|59/100
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: ms. giving|[anim] Ivy Cudgel Water
+|-damage|p2a: ms. giving|0 fnt
+|faint|p2a: ms. giving
+|
+|upkeep
+|
+|t:|1781382231
+|switch|p2a: monk-ee d. garp|Iron Hands|100/100
+|turn|24
+|
+|t:|1781382235
+|move|p1a: Ogerpon|Play Rough|p2a: monk-ee d. garp
+|-supereffective|p2a: monk-ee d. garp
+|-damage|p2a: monk-ee d. garp|52/100
+|move|p2a: monk-ee d. garp|Thunder Punch|p1a: Ogerpon
+|-damage|p1a: Ogerpon|40/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781382243
+|move|p1a: Ogerpon|Play Rough|p2a: monk-ee d. garp
+|-supereffective|p2a: monk-ee d. garp
+|-damage|p2a: monk-ee d. garp|6/100
+|move|p2a: monk-ee d. garp|Thunder Punch|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1781382250
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|turn|26
+|
+|t:|1781382261
+|move|p1a: Ceruledge|Bitter Blade|p2a: monk-ee d. garp
+|-damage|p2a: monk-ee d. garp|0 fnt
+|faint|p2a: monk-ee d. garp
+|-end|p2a: monk-ee d. garp|Quark Drive|[silent]
+|-damage|p1a: Ceruledge|90/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781382264
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|turn|27
+|
+|t:|1781382289
+|-terastallize|p1a: Ceruledge|Ghost
+|move|p2a: Glimmora|Power Gem|p1a: Ceruledge
+|-damage|p1a: Ceruledge|48/100
+|move|p1a: Ceruledge|Poltergeist|p2a: Glimmora
+|-activate|p2a: Glimmora|move: Poltergeist|Rocky Helmet
+|-damage|p2a: Glimmora|0 fnt
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: Miurez|move: Toxic Spikes
+|faint|p2a: Glimmora
+|-damage|p1a: Ceruledge|38/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781382301
+|switch|p2a: st. jay g. saturn|Slither Wing|100/100
+|turn|28
+|
+|t:|1781382306
+|move|p1a: Ceruledge|Bitter Blade|p2a: st. jay g. saturn
+|-supereffective|p2a: st. jay g. saturn
+|-damage|p2a: st. jay g. saturn|4/100
+|-heal|p1a: Ceruledge|92/100|[from] drain|[of] p2a: st. jay g. saturn
+|-damage|p1a: Ceruledge|82/100|[from] item: Life Orb
+|move|p2a: st. jay g. saturn|Flare Blitz|p1a: Ceruledge
+|-damage|p1a: Ceruledge|42/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|-damage|p2a: st. jay g. saturn|0 fnt|[from] Recoil
+|faint|p2a: st. jay g. saturn
+|-end|p2a: st. jay g. saturn|Protosynthesis|[silent]
+|
+|upkeep
+|-message|myree forfeited.
+|
+|win|Miurez
+|raw|Miurez's rating: 1669 &rarr; <strong>1689</strong><br />(+20 for winning)
+|raw|myree's rating: 1665 &rarr; <strong>1645</strong><br />(-20 for losing)
+|l|☆Miurez
+|player|p1|
+|l|☆myree
+|player|p2|

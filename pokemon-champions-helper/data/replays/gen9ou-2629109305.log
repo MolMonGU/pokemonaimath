@@ -1,0 +1,246 @@
+|j|☆Izlymoney
+|j|☆tiftif
+|t:|1781099617
+|gametype|singles
+|player|p1|Izlymoney|169|1578
+|player|p2|tiftif|101|1621
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cramorant, F|
+|poke|p1|Gallade, M|
+|poke|p1|Kingambit, F|
+|poke|p1|Iron Moth|
+|poke|p1|Enamorus, F|
+|poke|p1|Ogerpon-Cornerstone, F|
+|poke|p2|Pelipper, F|
+|poke|p2|Iron Treads|
+|poke|p2|Barraskewda, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Talonflame, M|
+|poke|p2|Keldeo-Resolute|
+|teampreview
+|
+|t:|1781099630
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cramorant|Cramorant, F, shiny|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tiftif)
+|
+|t:|1781099643
+|move|p2a: Iron Treads|Stealth Rock|p1a: Cramorant
+|-sidestart|p1: Izlymoney|move: Stealth Rock
+|move|p1a: Cramorant|Surf|p2a: Iron Treads
+|-formechange|p1a: Cramorant|Cramorant-Gulping|
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781099655
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|2
+|
+|t:|1781099661
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Cramorant|Defog|p2a: Raging Bolt
+|-unboost|p2a: Raging Bolt|evasion|1
+|-sideend|p1: Izlymoney|Stealth Rock|[from] move: Defog|[of] p1a: Cramorant
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781099670
+|move|p1a: Cramorant|Tailwind|p1a: Cramorant
+|-sidestart|p1: Izlymoney|move: Tailwind
+|move|p2a: Raging Bolt|Thunder|p1a: Cramorant
+|-supereffective|p1a: Cramorant
+|-enditem|p1a: Cramorant|Focus Sash
+|-damage|p1a: Cramorant|1/100
+|-damage|p2a: Raging Bolt|76/100|[from] ability: Gulp Missile|[of] p1a: Cramorant
+|-unboost|p2a: Raging Bolt|def|1
+|-formechange|p1a: Cramorant|Cramorant|
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781099678
+|move|p1a: Cramorant|Surf|p2a: Raging Bolt
+|-formechange|p1a: Cramorant|Cramorant-Gorging|
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|46/100
+|move|p2a: Raging Bolt|Thunder|p1a: Cramorant
+|-supereffective|p1a: Cramorant
+|-damage|p1a: Cramorant|0 fnt
+|-damage|p2a: Raging Bolt|21/100|[from] ability: Gulp Missile|[of] p1a: Cramorant
+|-formechange|p1a: Cramorant|Cramorant|
+|faint|p1a: Cramorant
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781099685
+|switch|p1a: Gallade|Gallade, M|100/100
+|turn|5
+|
+|t:|1781099692
+|move|p1a: Gallade|Shadow Sneak|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|3/100
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781099698
+|move|p1a: Gallade|Shadow Sneak|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p1: Izlymoney|move: Tailwind
+|upkeep
+|
+|t:|1781099700
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|7
+|
+|t:|1781099707
+|move|p2a: Barraskewda|Flip Turn|p1a: Gallade
+|-crit|p1a: Gallade
+|-enditem|p1a: Gallade|Focus Sash
+|-damage|p1a: Gallade|1/100
+|
+|t:|1781099713
+|switch|p2a: Talonflame|Talonflame, M|100/100|[from] Flip Turn
+|move|p1a: Gallade|Psycho Cut|p2a: Talonflame
+|-damage|p2a: Talonflame|21/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781099718
+|move|p1a: Gallade|Shadow Sneak|p2a: Talonflame
+|-damage|p2a: Talonflame|0 fnt
+|faint|p2a: Talonflame
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781099725
+|switch|p2a: Keldeo|Keldeo-Resolute|100/100
+|turn|9
+|
+|t:|1781099745
+|move|p1a: Gallade|Shadow Sneak|p2a: Keldeo
+|-damage|p2a: Keldeo|86/100
+|move|p2a: Keldeo|Surf|p1a: Gallade
+|-damage|p1a: Gallade|0 fnt
+|faint|p1a: Gallade
+|
+|-weather|none
+|-heal|p2a: Keldeo|92/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781099750
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|turn|10
+|
+|t:|1781099755
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Ogerpon|Power Whip|p2a: Pelipper
+|-damage|p2a: Pelipper|47/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781099761
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Pelipper|[anim] Ivy Cudgel Rock
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781099766
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|12
+|
+|t:|1781099769
+|move|p2a: Barraskewda|Liquidation|p1a: Ogerpon
+|-ability|p1a: Ogerpon|Sturdy
+|-damage|p1a: Ogerpon|1/100
+|-unboost|p1a: Ogerpon|def|1
+|move|p1a: Ogerpon|Power Whip|p2a: Barraskewda
+|-supereffective|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781099772
+|switch|p2a: Keldeo|Keldeo-Resolute|92/100
+|turn|13
+|
+|t:|1781099780
+|-terastallize|p2a: Keldeo|Steel
+|move|p1a: Ogerpon|Power Whip|p2a: Keldeo
+|-resisted|p2a: Keldeo
+|-damage|p2a: Keldeo|54/100
+|move|p2a: Keldeo|Surf|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Keldeo|61/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781099787
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|turn|14
+|
+|t:|1781099793
+|move|p2a: Keldeo|Surf|p1a: Enamorus
+|-damage|p1a: Enamorus|3/100
+|move|p1a: Enamorus|Earth Power|p2a: Keldeo
+|-supereffective|p2a: Keldeo
+|-damage|p2a: Keldeo|0 fnt
+|faint|p2a: Keldeo
+|
+|win|Izlymoney
+|raw|Izlymoney's rating: 1578 &rarr; <strong>1600</strong><br />(+22 for winning)
+|raw|tiftif's rating: 1621 &rarr; <strong>1599</strong><br />(-22 for losing)
+|l|☆tiftif
+|player|p2|
+|l|☆Izlymoney
+|player|p1|

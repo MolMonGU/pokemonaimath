@@ -1,0 +1,293 @@
+|j|☆Partynparadise
+|j|☆omari p
+|t:|1781482057
+|gametype|singles
+|player|p1|Partynparadise|brawly|1536
+|player|p2|omari p|pokemonrangerf|1527
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Great Tusk|
+|poke|p1|Moltres|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Meowscarada, F|
+|poke|p2|Thundurus-Therian, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Latios, M|
+|poke|p2|Jirachi|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Great Tusk|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Partynparadise)
+|
+|t:|1781482066
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Meowscarada|Meowscarada, F|100/100
+|switch|p2a: Latios|Latios, M|100/100
+|turn|1
+|
+|t:|1781482072
+|move|p2a: Latios|Draco Meteor|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|-unboost|p2a: Latios|spa|2
+|faint|p1a: Meowscarada
+|
+|upkeep
+|
+|t:|1781482082
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|2
+|
+|t:|1781482087
+|switch|p2a: Jirachi|Jirachi|100/100
+|move|p1a: Iron Valiant|Knock Off|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-damage|p2a: Jirachi|43/100
+|-enditem|p2a: Jirachi|Assault Vest|[from] move: Knock Off|[of] p1a: Iron Valiant
+|
+|upkeep
+|turn|3
+|
+|t:|1781482091
+|move|p1a: Iron Valiant|Knock Off|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-damage|p2a: Jirachi|6/100
+|move|p2a: Jirachi|Psychic Noise|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781482096
+|switch|p1a: Moltres|Moltres|100/100
+|turn|4
+|
+|t:|1781482103
+|move|p2a: Jirachi|Doom Desire|p1a: Moltres
+|-start|p2a: Jirachi|Doom Desire
+|move|p1a: Moltres|Flamethrower|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-damage|p2a: Jirachi|0 fnt
+|faint|p2a: Jirachi
+|
+|upkeep
+|
+|t:|1781482106
+|switch|p2a: Latios|Latios, M|100/100
+|turn|5
+|
+|t:|1781482108
+|move|p2a: Latios|Luster Purge|p1a: Moltres
+|-damage|p1a: Moltres|47/100
+|-unboost|p1a: Moltres|spd|1
+|move|p1a: Moltres|U-turn|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|59/100
+|
+|t:|1781482113
+|switch|p1a: Slowking|Slowking-Galar, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|6
+|
+|t:|1781482117
+|move|p2a: Latios|Luster Purge|p1a: Slowking
+|-damage|p1a: Slowking|71/100
+|move|p1a: Slowking|Future Sight|p2a: Latios
+|-start|p1a: Slowking|move: Future Sight
+|
+|-end|p1a: Slowking|move: Doom Desire
+|-damage|p1a: Slowking|33/100
+|upkeep
+|turn|7
+|
+|t:|1781482125
+|move|p2a: Latios|Luster Purge|p1a: Slowking
+|-damage|p1a: Slowking|3/100
+|-unboost|p1a: Slowking|spd|1
+|move|p1a: Slowking|Thunder Wave|p2a: Latios
+|-status|p2a: Latios|par
+|
+|upkeep
+|turn|8
+|
+|t:|1781482128
+|cant|p2a: Latios|par
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781482133
+|switch|p1a: Kyurem|Kyurem, shiny|100/100|[from] Chilly Reception
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Latios|move: Future Sight
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|37/100 par
+|upkeep
+|turn|9
+|
+|t:|1781482141
+|move|p1a: Kyurem|Substitute|p1a: Kyurem
+|-start|p1a: Kyurem|Substitute
+|-damage|p1a: Kyurem|76/100
+|move|p2a: Latios|Luster Purge|p1a: Kyurem
+|-crit|p1a: Kyurem
+|-end|p1a: Kyurem|Substitute
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kyurem|82/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781482144
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-damage|p2a: Cinderace|70/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kyurem|88/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781482148
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: Cinderace|Pyro Ball|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kyurem|94/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781482152
+|move|p2a: Cinderace|High Jump Kick|p1a: Kyurem
+|-start|p2a: Cinderace|typechange|Fighting|[from] ability: Libero
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|10/100
+|move|p1a: Kyurem|Substitute|p1a: Kyurem
+|-fail|p1a: Kyurem|move: Substitute|[weak]
+|
+|-weather|none
+|-heal|p1a: Kyurem|16/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781482160
+|switch|p1a: Moltres|Moltres|47/100
+|move|p2a: Cinderace|Pyro Ball|p1a: Moltres
+|-resisted|p1a: Moltres
+|-crit|p1a: Moltres
+|-damage|p1a: Moltres|23/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781482162
+|switch|p2a: Thundurus|Thundurus-Therian, M|100/100
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|73/100
+|-singleturn|p1a: Moltres|move: Roost
+|
+|upkeep
+|turn|15
+|
+|t:|1781482165
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Thundurus|Nasty Plot|p2a: Thundurus
+|-boost|p2a: Thundurus|spa|2
+|
+|upkeep
+|turn|16
+|
+|t:|1781482171
+|move|p2a: Thundurus|Focus Blast|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781482176
+|switch|p1a: Slowking|Slowking-Galar, F|36/100
+|turn|17
+|
+|t:|1781482178
+|move|p2a: Thundurus|Thunderbolt|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1781482181
+|switch|p1a: Moltres|Moltres|73/100
+|turn|18
+|
+|t:|1781482182
+|move|p2a: Thundurus|Thunderbolt|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|upkeep
+|
+|t:|1781482184
+|switch|p1a: Kyurem|Kyurem, shiny|16/100
+|-ability|p1a: Kyurem|Pressure
+|turn|19
+|
+|t:|1781482191
+|-terastallize|p2a: Thundurus|Fairy
+|-terastallize|p1a: Kyurem|Ground
+|move|p2a: Thundurus|Thunderbolt|p1a: Kyurem
+|-immune|p1a: Kyurem
+|move|p1a: Kyurem|Freeze-Dry|p2a: Thundurus
+|-damage|p2a: Thundurus|45/100
+|
+|-heal|p2a: Thundurus|51/100|[from] item: Leftovers
+|-heal|p1a: Kyurem|22/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781482202
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: Thundurus|Focus Blast|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-heal|p2a: Thundurus|58/100|[from] item: Leftovers
+|-heal|p1a: Kyurem|28/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781482206
+|move|p2a: Thundurus|Focus Blast|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|win|omari p
+|raw|Partynparadise's rating: 1536 &rarr; <strong>1515</strong><br />(-21 for losing)
+|raw|omari p's rating: 1527 &rarr; <strong>1548</strong><br />(+21 for winning)
+|l|☆Partynparadise
+|player|p1|

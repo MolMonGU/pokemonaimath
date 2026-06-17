@@ -1,0 +1,235 @@
+|j|☆bfrhnnlfhroh
+|j|☆lemontheheavens
+|t:|1780970733
+|gametype|singles
+|player|p1|bfrhnnlfhroh|1|1589
+|player|p2|lemontheheavens|266|1670
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Walking Wake|
+|poke|p1|Great Tusk|
+|poke|p1|Ninetales, M|
+|poke|p1|Cinderace, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Glimmora, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Dragapult, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Alomomola, F|
+|poke|p2|Torterra, M|
+|teampreview
+|
+|t:|1780970753
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|1
+|
+|t:|1780970759
+|move|p1a: Cinderace|Sucker Punch|p2a: Dragapult
+|-start|p1a: Cinderace|typechange|Dark|[from] ability: Libero
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1780970766
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|2
+|
+|t:|1780970777
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Glimmora
+|-sidestart|p1: bfrhnnlfhroh|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1780970784
+|move|p1a: Glimmora|Mortal Spin|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|99/100
+|-status|p2a: Ting-Lu|psn
+|-sideend|p1: bfrhnnlfhroh|Stealth Rock|[from] move: Mortal Spin|[of] p1a: Glimmora
+|move|p2a: Ting-Lu|Spikes|p1a: Glimmora
+|-sidestart|p1: bfrhnnlfhroh|Spikes
+|
+|-heal|p2a: Ting-Lu|100/100 psn|[from] item: Leftovers
+|-damage|p2a: Ting-Lu|88/100 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1780970805
+|switch|p1a: fast|Great Tusk|100/100
+|-damage|p1a: fast|88/100|[from] Spikes
+|move|p2a: Ting-Lu|Whirlwind|p1a: fast
+|-end|p1a: fast|Protosynthesis|[silent]
+|drag|p1a: Cinderace|Cinderace, F|100/100
+|-damage|p1a: Cinderace|88/100|[from] Spikes
+|
+|-heal|p2a: Ting-Lu|94/100 psn|[from] item: Leftovers
+|-damage|p2a: Ting-Lu|82/100 psn|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1780970815
+|move|p1a: Cinderace|U-turn|p2a: Ting-Lu
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|30/100 psn
+|
+|t:|1780970820
+|switch|p1a: fast|Great Tusk|88/100|[from] U-turn
+|-damage|p1a: fast|76/100|[from] Spikes
+|move|p2a: Ting-Lu|Memento|p1a: fast
+|-unboost|p1a: fast|atk|2
+|-unboost|p1a: fast|spa|2
+|faint|p2a: Ting-Lu
+|
+|-heal|p1a: fast|82/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780970827
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|6
+|
+|t:|1780970843
+|-end|p1a: fast|Protosynthesis|[silent]
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|-damage|p1a: Glimmora|88/100|[from] Spikes
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1780970853
+|-terastallize|p1a: Glimmora|Ghost
+|move|p2a: Iron Valiant|Close Combat|p1a: Glimmora
+|-immune|p1a: Glimmora
+|move|p1a: Glimmora|Sludge Wave|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780970864
+|switch|p2a: Torterra|Torterra, M|100/100
+|turn|8
+|
+|t:|1780970869
+|move|p1a: Glimmora|Mortal Spin|p2a: Torterra
+|-crit|p2a: Torterra
+|-damage|p2a: Torterra|91/100
+|-status|p2a: Torterra|psn
+|-sideend|p1: bfrhnnlfhroh|Spikes|[from] move: Mortal Spin|[of] p1a: Glimmora
+|move|p2a: Torterra|Shell Smash|p2a: Torterra
+|-unboost|p2a: Torterra|def|1
+|-unboost|p2a: Torterra|spd|1
+|-boost|p2a: Torterra|atk|2
+|-boost|p2a: Torterra|spa|2
+|-boost|p2a: Torterra|spe|2
+|
+|-damage|p2a: Torterra|79/100 psn|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1780970882
+|move|p2a: Torterra|Headlong Rush|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-unboost|p2a: Torterra|def|1
+|-unboost|p2a: Torterra|spd|1
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: lemontheheavens|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|-damage|p2a: Torterra|67/100 psn|[from] psn
+|upkeep
+|
+|t:|1780970896
+|switch|p1a: Cinderace|Cinderace, F|88/100
+|turn|10
+|
+|t:|1780970906
+|move|p1a: Cinderace|Sucker Punch|p2a: Torterra
+|-start|p1a: Cinderace|typechange|Dark|[from] ability: Libero
+|-damage|p2a: Torterra|0 fnt
+|faint|p2a: Torterra
+|
+|upkeep
+|
+|t:|1780970911
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|turn|11
+|
+|t:|1780970917
+|switch|p1a: good|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: good
+|move|p2a: Alomomola|Flip Turn|p1a: good
+|-supereffective|p1a: good
+|-damage|p1a: good|80/100
+|
+|t:|1780970919
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100|[from] Flip Turn
+|-status|p2a: Hoopa|psn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Hoopa|88/100 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1780970932
+|switch|p1a: fast|Great Tusk|82/100
+|-activate|p1a: fast|ability: Protosynthesis
+|-start|p1a: fast|protosynthesisspe
+|-terastallize|p2a: Hoopa|Dark
+|move|p2a: Hoopa|Hyperspace Fury|p1a: fast
+|-resisted|p1a: fast
+|-damage|p1a: fast|58/100
+|-unboost|p2a: Hoopa|def|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: fast|64/100|[from] item: Leftovers
+|-damage|p2a: Hoopa|76/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1780970950
+|move|p1a: fast|Headlong Rush|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|-unboost|p1a: fast|def|1
+|-unboost|p1a: fast|spd|1
+|faint|p2a: Hoopa
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: fast|70/100|[from] item: Leftovers
+|upkeep
+|-message|lemontheheavens forfeited.
+|
+|win|bfrhnnlfhroh
+|raw|bfrhnnlfhroh's rating: 1589 &rarr; <strong>1614</strong><br />(+25 for winning)
+|raw|lemontheheavens's rating: 1670 &rarr; <strong>1645</strong><br />(-25 for losing)
+|l|☆lemontheheavens
+|player|p2|
+|l|☆bfrhnnlfhroh
+|player|p1|

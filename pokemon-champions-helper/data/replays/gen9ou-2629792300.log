@@ -1,0 +1,161 @@
+|j|☆Juchzer
+|j|☆FireSide_01
+|t:|1781180675
+|gametype|singles
+|player|p1|Juchzer|2|1527
+|player|p2|FireSide_01|janine|1540
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Tentacruel, M|
+|poke|p1|Ceruledge, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Scizor, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Ninetales, F|
+|poke|p2|Walking Wake|
+|poke|p2|Typhlosion-Hisui, F|
+|poke|p2|Great Tusk|
+|poke|p2|Rillaboom, F|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FireSide_01)
+|
+|t:|1781180686
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tentacruel|Tentacruel, M|100/100
+|switch|p2a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|1
+|
+|t:|1781180695
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Tentacruel|Sludge Bomb|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|85/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|inactive|Juchzer has 120 seconds left.
+|
+|t:|1781180737
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|58/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Scizor|64/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|j| Easontom
+|
+|t:|1781180743
+|move|p2a: Raging Bolt|Weather Ball|p1a: Scizor
+|-supereffective|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781180747
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Raging Bolt|atk|1
+|turn|4
+|
+|t:|1781180754
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisspe
+|move|p1a: Landorus|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: FireSide_01|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781180779
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|move|p2a: Great Tusk|Ice Spinner|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|84/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|inactive|Juchzer has 120 seconds left.
+|
+|t:|1781180816
+|move|p1a: Ceruledge|Bitter Blade|p2a: Great Tusk
+|-damage|p2a: Great Tusk|53/100
+|-heal|p1a: Ceruledge|100/100|[from] drain|[of] p2a: Great Tusk
+|move|p2a: Great Tusk|Rapid Spin|p1a: Ceruledge
+|-immune|p1a: Ceruledge
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781180825
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Ninetales|Ninetales, F|100/100
+|-damage|p2a: Ninetales|76/100|[from] Stealth Rock
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|inactive|Juchzer has 120 seconds left.
+|
+|t:|1781180837
+|move|p1a: Ceruledge|Bitter Blade|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|none
+|upkeep
+|
+|t:|1781180845
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-damage|p2a: Walking Wake|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1781180853
+|move|p1a: Ceruledge|Poltergeist|p2a: Walking Wake
+|-activate|p2a: Walking Wake|move: Poltergeist|Choice Specs
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|upkeep
+|-message|FireSide_01 forfeited.
+|
+|win|Juchzer
+|raw|Juchzer's rating: 1527 &rarr; <strong>1548</strong><br />(+21 for winning)
+|raw|FireSide_01's rating: 1540 &rarr; <strong>1519</strong><br />(-21 for losing)
+|l|☆FireSide_01
+|player|p2|
+|l|☆Juchzer
+|player|p1|

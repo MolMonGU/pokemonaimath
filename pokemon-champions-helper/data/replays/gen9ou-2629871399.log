@@ -1,0 +1,349 @@
+|j|☆erhai
+|j|☆tauros3
+|t:|1781188603
+|gametype|singles
+|player|p1|erhai|102|1640
+|player|p2|tauros3|swimmer-gen4dp|1606
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Jugulis|
+|poke|p1|Ogerpon, F|
+|poke|p1|Scizor, M|
+|poke|p1|Latios, M|
+|poke|p1|Manaphy|
+|poke|p1|Sandy Shocks|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Cloyster, F|
+|poke|p2|Moltres-Galar|
+|poke|p2|Ursaluna, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Cinderace, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tauros3)
+|inactive|erhai has 120 seconds left.
+|
+|t:|1781188646
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sandy Shocks|Sandy Shocks|100/100
+|switch|p2a: Pink Triangle|Hatterene, F|100/100
+|-enditem|p1a: Sandy Shocks|Booster Energy
+|-activate|p1a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p1a: Sandy Shocks|protosynthesisspe
+|turn|1
+|
+|t:|1781188673
+|move|p1a: Sandy Shocks|Discharge|p2a: Pink Triangle
+|-damage|p2a: Pink Triangle|62/100
+|move|p2a: Pink Triangle|Trick Room|p2a: Pink Triangle
+|-fieldstart|move: Trick Room|[of] p2a: Pink Triangle
+|
+|upkeep
+|turn|2
+|inactive|erhai has 120 seconds left.
+|
+|t:|1781188705
+|move|p2a: Pink Triangle|Dazzling Gleam|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|41/100
+|move|p1a: Sandy Shocks|Discharge|p2a: Pink Triangle
+|-damage|p2a: Pink Triangle|20/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781188710
+|move|p2a: Pink Triangle|Dazzling Gleam|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|0 fnt
+|faint|p1a: Sandy Shocks
+|-end|p1a: Sandy Shocks|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781188724
+|switch|p1a: Scizor|Scizor, M, shiny|100/100
+|turn|4
+|
+|t:|1781188729
+|move|p1a: Scizor|Bullet Punch|p2a: Pink Triangle
+|-supereffective|p2a: Pink Triangle
+|-damage|p2a: Pink Triangle|0 fnt
+|faint|p2a: Pink Triangle
+|
+|upkeep
+|
+|t:|1781188733
+|switch|p2a: El Scorcho|Ursaluna, M|100/100
+|turn|5
+|inactive|erhai has 120 seconds left.
+|
+|t:|1781188757
+|switch|p1a: Manaphy|Manaphy, shiny|100/100
+|move|p2a: El Scorcho|Fire Punch|p1a: Manaphy
+|-resisted|p1a: Manaphy
+|-damage|p1a: Manaphy|86/100
+|
+|-fieldend|move: Trick Room
+|-status|p2a: El Scorcho|brn|[from] item: Flame Orb
+|upkeep
+|turn|6
+|
+|t:|1781188766
+|switch|p2a: The Good Life|Ninetales-Alola, M|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: The Good Life
+|move|p1a: Manaphy|Surf|p2a: The Good Life
+|-damage|p2a: The Good Life|64/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781188781
+|move|p2a: The Good Life|Aurora Veil|p2a: The Good Life
+|-sidestart|p2: tauros3|move: Aurora Veil
+|move|p1a: Manaphy|Tail Glow|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|3
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781188784
+|switch|p1a: Scizor|Scizor, M, shiny|100/100
+|move|p2a: The Good Life|Encore||[still]
+|-fail|p2a: The Good Life
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781188790
+|switch|p2a: Long Time Sunshine|Cinderace, M|100/100
+|move|p1a: Scizor|Knock Off|p2a: Long Time Sunshine
+|-damage|p2a: Long Time Sunshine|79/100
+|-enditem|p2a: Long Time Sunshine|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Scizor
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781188797
+|switch|p1a: Manaphy|Manaphy, shiny|86/100
+|move|p2a: Long Time Sunshine|U-turn|p1a: Manaphy
+|-damage|p1a: Manaphy|68/100
+|
+|t:|1781188819
+|switch|p2a: El Scorcho|Ursaluna, M|100/100 brn|[from] U-turn
+|
+|-weather|none
+|-damage|p2a: El Scorcho|94/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781188830
+|move|p1a: Manaphy|Surf|p2a: El Scorcho
+|-supereffective|p2a: El Scorcho
+|-crit|p2a: El Scorcho
+|-damage|p2a: El Scorcho|0 fnt
+|faint|p2a: El Scorcho
+|
+|upkeep
+|
+|t:|1781188849
+|switch|p2a: Butterfly|Moltres-Galar|100/100
+|turn|12
+|
+|t:|1781188855
+|move|p1a: Manaphy|Tail Glow|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|3
+|move|p2a: Butterfly|Agility|p2a: Butterfly
+|-boost|p2a: Butterfly|spe|2
+|
+|upkeep
+|turn|13
+|
+|t:|1781188860
+|move|p2a: Butterfly|Fiery Wrath|p1a: Manaphy
+|-damage|p1a: Manaphy|28/100
+|move|p1a: Manaphy|Tail Glow|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|3
+|
+|upkeep
+|turn|14
+|
+|t:|1781188863
+|move|p2a: Butterfly|Fiery Wrath|p1a: Manaphy
+|-damage|p1a: Manaphy|0 fnt
+|faint|p1a: Manaphy
+|
+|-sideend|p2: tauros3|move: Aurora Veil
+|upkeep
+|
+|t:|1781188869
+|switch|p1a: Scizor|Scizor, M, shiny|100/100
+|turn|15
+|
+|t:|1781188875
+|move|p2a: Butterfly|Fiery Wrath|p1a: Scizor
+|-damage|p1a: Scizor|44/100
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|upkeep
+|turn|16
+|
+|t:|1781188890
+|move|p1a: Scizor|Bullet Punch|p2a: Butterfly
+|-crit|p2a: Butterfly
+|-damage|p2a: Butterfly|0 fnt
+|faint|p2a: Butterfly
+|
+|upkeep
+|
+|t:|1781188896
+|switch|p2a: Long Time Sunshine|Cinderace, M|79/100
+|turn|17
+|
+|t:|1781188903
+|move|p1a: Scizor|Bullet Punch|p2a: Long Time Sunshine
+|-resisted|p2a: Long Time Sunshine
+|-damage|p2a: Long Time Sunshine|28/100
+|move|p2a: Long Time Sunshine|Pyro Ball|p1a: Scizor
+|-supereffective|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1781188909
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|18
+|
+|t:|1781188912
+|switch|p2a: The Good Life|Ninetales-Alola, M|64/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: The Good Life
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: The Good Life
+|-resisted|p2a: The Good Life
+|-damage|p2a: The Good Life|44/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1781188917
+|move|p1a: Iron Jugulis|Taunt|p2a: The Good Life
+|-start|p2a: The Good Life|move: Taunt
+|cant|p2a: The Good Life|move: Taunt|Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781188921
+|move|p1a: Iron Jugulis|Hurricane|p2a: The Good Life|[miss]
+|-miss|p1a: Iron Jugulis|p2a: The Good Life
+|move|p2a: The Good Life|Freeze-Dry|p1a: Iron Jugulis
+|-supereffective|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|54/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781188928
+|switch|p2a: Long Time Sunshine|Cinderace, M|28/100
+|move|p1a: Iron Jugulis|Hurricane|p2a: Long Time Sunshine
+|-damage|p2a: Long Time Sunshine|0 fnt
+|faint|p2a: Long Time Sunshine
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781188933
+|switch|p2a: Getchoo|Cloyster, F|100/100
+|turn|22
+|
+|t:|1781188938
+|-terastallize|p2a: Getchoo|Ice
+|move|p2a: Getchoo|Ice Shard|p1a: Iron Jugulis
+|-supereffective|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781188948
+|switch|p1a: Latios|Latios, M, shiny|100/100
+|turn|23
+|
+|t:|1781188957
+|switch|p2a: The Good Life|Ninetales-Alola, M|44/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: The Good Life
+|move|p1a: Latios|Aura Sphere|p2a: The Good Life
+|-damage|p2a: The Good Life|18/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1781188965
+|move|p2a: The Good Life|Aurora Veil|p2a: The Good Life
+|-sidestart|p2: tauros3|move: Aurora Veil
+|move|p1a: Latios|Agility|p1a: Latios
+|-boost|p1a: Latios|spe|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1781188971
+|move|p1a: Latios|Aura Sphere|p2a: The Good Life
+|-damage|p2a: The Good Life|6/100
+|move|p2a: The Good Life|Encore|p1a: Latios
+|-start|p1a: Latios|Encore
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1781188975
+|move|p1a: Latios|Aura Sphere|p2a: The Good Life
+|-damage|p2a: The Good Life|0 fnt
+|faint|p2a: The Good Life
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781188978
+|switch|p2a: Getchoo|Cloyster, F, tera:Ice|100/100
+|turn|27
+|
+|t:|1781188981
+|-terastallize|p1a: Latios|Fighting
+|move|p1a: Latios|Aura Sphere|p2a: Getchoo
+|-supereffective|p2a: Getchoo
+|-damage|p2a: Getchoo|0 fnt
+|faint|p2a: Getchoo
+|
+|win|erhai
+|raw|erhai's rating: 1640 &rarr; <strong>1658</strong><br />(+18 for winning)
+|raw|tauros3's rating: 1606 &rarr; <strong>1588</strong><br />(-18 for losing)
+|l|☆tauros3
+|player|p2|
+|l|☆erhai
+|player|p1|

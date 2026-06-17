@@ -1,0 +1,303 @@
+|j|☆snurke
+|j|‽Parking Lot Demon
+|t:|1780920296
+|gametype|singles
+|player|p1|snurke|sisandbro|1647
+|player|p2|Parking Lot Demon|1|1561
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Garganacl, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Hawlucha, M|
+|poke|p1|Great Tusk|
+|poke|p1|Heatran, F|
+|poke|p2|Araquanid, F|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Moth|
+|poke|p2|Iron Valiant|
+|poke|p2|Raging Bolt|
+|poke|p2|Kingambit, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Parking Lot Demon)
+|
+|t:|1780920300
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Heatran|Heatran, F, shiny|100/100
+|switch|p2a: Araquanid|Araquanid, F|100/100
+|turn|1
+|
+|t:|1780920302
+|move|p1a: Heatran|Taunt|p2a: Araquanid
+|-start|p2a: Araquanid|move: Taunt
+|cant|p2a: Araquanid|move: Taunt|Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1780920308
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Araquanid|Surf|p1a: Ogerpon
+|-immune|p1a: Ogerpon|[from] ability: Water Absorb
+|
+|upkeep
+|turn|3
+|
+|t:|1780920311
+|move|p1a: Ogerpon|Knock Off|p2a: Araquanid
+|-damage|p2a: Araquanid|63/100
+|-enditem|p2a: Araquanid|Custap Berry|[from] move: Knock Off|[of] p1a: Ogerpon
+|move|p2a: Araquanid|Lunge|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|45/100
+|-unboost|p1a: Ogerpon|atk|1
+|
+|-end|p2a: Araquanid|move: Taunt
+|upkeep
+|turn|4
+|
+|t:|1780920326
+|switch|p1a: Hawlucha|Hawlucha, M, shiny|100/100
+|move|p2a: Araquanid|Sticky Web|p1a: Hawlucha
+|-sidestart|p1: snurke|move: Sticky Web
+|
+|upkeep
+|turn|5
+|j| Ak444me
+|
+|t:|1780920340
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Hawlucha|Acrobatics|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|88/100
+|
+|upkeep
+|turn|6
+|l| Ak444me
+|
+|t:|1780920346
+|switch|p1a: Heatran|Heatran, F, shiny|100/100
+|-activate|p1a: Heatran|move: Sticky Web
+|-unboost|p1a: Heatran|spe|1
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|80/100
+|
+|-heal|p1a: Heatran|87/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1780920356
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Heatran
+|-damage|p1a: Heatran|42/100
+|move|p1a: Heatran|Taunt|p2a: Raging Bolt
+|-start|p2a: Raging Bolt|move: Taunt
+|
+|-heal|p1a: Heatran|48/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1780920368
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Heatran
+|-damage|p1a: Heatran|6/100
+|move|p1a: Heatran|Stealth Rock|p2a: Raging Bolt
+|-sidestart|p2: Parking Lot Demon|move: Stealth Rock
+|
+|-heal|p1a: Heatran|12/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1780920377
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|move: Sticky Web
+|-unboost|p1a: Great Tusk|spe|1
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Great Tusk
+|-damage|p1a: Great Tusk|10/100
+|
+|-heal|p1a: Great Tusk|16/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1780920382
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-end|p2a: Raging Bolt|move: Taunt
+|upkeep
+|j| Ak444me
+|l| Ak444me
+|
+|t:|1780920391
+|switch|p1a: The Process|Garganacl, M, shiny|100/100
+|-activate|p1a: The Process|move: Sticky Web
+|-unboost|p1a: The Process|spe|1
+|turn|11
+|
+|t:|1780920396
+|move|p2a: Raging Bolt|Thunderbolt|p1a: The Process
+|-crit|p1a: The Process
+|-damage|p1a: The Process|28/100
+|move|p1a: The Process|Salt Cure|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|75/100
+|-start|p2a: Raging Bolt|Salt Cure
+|
+|-heal|p1a: The Process|34/100|[from] item: Leftovers
+|-damage|p2a: Raging Bolt|63/100|[from] Salt Cure
+|upkeep
+|turn|12
+|
+|t:|1780920402
+|move|p1a: The Process|Protect|p1a: The Process
+|-singleturn|p1a: The Process|Protect
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|-heal|p1a: The Process|40/100|[from] item: Leftovers
+|-damage|p2a: Raging Bolt|51/100|[from] Salt Cure
+|upkeep
+|turn|13
+|
+|t:|1780920412
+|switch|p1a: Rillaboom|Rillaboom, M, shiny|100/100
+|-activate|p1a: Rillaboom|move: Sticky Web
+|-unboost|p1a: Rillaboom|spe|1
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|43/100
+|
+|-heal|p2a: Raging Bolt|57/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|49/100|[from] Grassy Terrain
+|-damage|p2a: Raging Bolt|44/100|[from] Salt Cure
+|upkeep
+|turn|14
+|
+|t:|1780920420
+|move|p1a: Rillaboom|Grassy Glide|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|26/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Raging Bolt|32/100|[from] Grassy Terrain
+|-damage|p2a: Raging Bolt|20/100|[from] Salt Cure
+|upkeep
+|
+|t:|1780920426
+|switch|p1a: The Process|Garganacl, M, shiny|40/100
+|-activate|p1a: The Process|move: Sticky Web
+|-unboost|p1a: The Process|spe|1
+|turn|15
+|
+|t:|1780920430
+|move|p1a: The Process|Protect|p1a: The Process
+|-singleturn|p1a: The Process|Protect
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: The Process
+|-activate|p1a: The Process|move: Protect
+|
+|-heal|p2a: Raging Bolt|26/100|[from] Grassy Terrain
+|-heal|p1a: The Process|47/100|[from] Grassy Terrain
+|-heal|p1a: The Process|53/100|[from] item: Leftovers
+|-damage|p2a: Raging Bolt|14/100|[from] Salt Cure
+|upkeep
+|turn|16
+|
+|t:|1780920438
+|switch|p1a: Heatran|Heatran, F, shiny|12/100
+|-activate|p1a: Heatran|move: Sticky Web
+|-unboost|p1a: Heatran|spe|1
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-heal|p2a: Raging Bolt|20/100|[from] Grassy Terrain
+|-damage|p2a: Raging Bolt|8/100|[from] Salt Cure
+|upkeep
+|
+|t:|1780920440
+|switch|p1a: The Process|Garganacl, M, shiny|53/100
+|-activate|p1a: The Process|move: Sticky Web
+|-unboost|p1a: The Process|spe|1
+|turn|17
+|
+|t:|1780920444
+|move|p1a: The Process|Protect|p1a: The Process
+|-singleturn|p1a: The Process|Protect
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: The Process
+|-activate|p1a: The Process|move: Protect
+|
+|-heal|p2a: Raging Bolt|14/100|[from] Grassy Terrain
+|-heal|p1a: The Process|59/100|[from] Grassy Terrain
+|-heal|p1a: The Process|65/100|[from] item: Leftovers
+|-damage|p2a: Raging Bolt|2/100|[from] Salt Cure
+|upkeep
+|turn|18
+|
+|t:|1780920454
+|-terastallize|p1a: The Process|Fairy
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: The Process
+|-immune|p1a: The Process
+|move|p1a: The Process|Recover|p1a: The Process
+|-heal|p1a: The Process|100/100
+|
+|-heal|p2a: Raging Bolt|8/100|[from] Grassy Terrain
+|-damage|p2a: Raging Bolt|0 fnt|[from] Salt Cure
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|upkeep
+|
+|t:|1780920481
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|-item|p2a: Kingambit|Air Balloon
+|turn|19
+|
+|t:|1780920490
+|switch|p1a: Hawlucha|Hawlucha, M, shiny|100/100
+|-enditem|p1a: Hawlucha|Grassy Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Grassy Seed
+|move|p2a: Kingambit|Iron Head|p1a: Hawlucha
+|-damage|p1a: Hawlucha|58/100
+|
+|upkeep
+|turn|20
+|
+|t:|1780920500
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Kingambit|Iron Head|p1a: Hawlucha
+|-crit|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|-message|snurke forfeited.
+|
+|win|Parking Lot Demon
+|raw|snurke's rating: 1647 &rarr; <strong>1622</strong><br />(-25 for losing)
+|raw|Parking Lot Demon's rating: 1561 &rarr; <strong>1586</strong><br />(+25 for winning)
+|l|‽Parking Lot Demon
+|player|p2|

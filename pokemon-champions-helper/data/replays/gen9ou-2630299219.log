@@ -1,0 +1,300 @@
+|j|‽aaagislash
+|j|☆winslowyoudog
+|t:|1781234454
+|gametype|singles
+|player|p1|aaagislash|265|1606
+|player|p2|winslowyoudog|2|1672
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Regieleki|
+|poke|p1|Araquanid, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Great Tusk|
+|poke|p1|Zoroark-Hisui, F|
+|poke|p2|Slowbro-Galar, M|
+|poke|p2|Indeedee, M|
+|poke|p2|Armarouge, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Iron Treads|
+|poke|p2|Hawlucha, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by winslowyoudog)
+|
+|t:|1781234463
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Regieleki|Regieleki|100/100
+|switch|p2a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|1
+|
+|t:|1781234469
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-item|p2a: Iron Treads|Air Balloon
+|-terastallize|p1a: Regieleki|Electric
+|move|p1a: Regieleki|Volt Switch|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|
+|upkeep
+|turn|2
+|
+|t:|1781234477
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: Dragapult
+|-sidestart|p1: aaagislash|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781234487
+|move|p1a: Dragapult|Hex|p2a: Iron Treads
+|-damage|p2a: Iron Treads|61/100
+|-enditem|p2a: Iron Treads|Air Balloon
+|move|p2a: Iron Treads|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|23/100
+|-enditem|p1a: Dragapult|Weakness Policy
+|-boost|p1a: Dragapult|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Dragapult|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|4
+|
+|t:|1781234493
+|move|p1a: Dragapult|Hex|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781234496
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p2a: Hawlucha|Psychic Seed
+|-boost|p2a: Hawlucha|spd|1|[from] item: Psychic Seed
+|turn|5
+|
+|t:|1781234502
+|move|p2a: Hawlucha|Acrobatics|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1781234507
+|switch|p1a: Regieleki|Regieleki, tera:Electric|100/100
+|-damage|p1a: Regieleki|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1781234526
+|switch|p1a: Araquanid|Araquanid, F|100/100
+|-damage|p1a: Araquanid|75/100|[from] Stealth Rock
+|-terastallize|p2a: Hawlucha|Electric
+|move|p2a: Hawlucha|Close Combat|p1a: Araquanid
+|-resisted|p1a: Araquanid
+|-damage|p1a: Araquanid|48/100
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|-enditem|p1a: Araquanid|Red Card|[of] p2a: Hawlucha
+|drag|p2a: Hatterene|Hatterene, F|100/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781234537
+|move|p1a: Araquanid|Surf|p2a: Hatterene
+|-damage|p2a: Hatterene|42/100
+|-enditem|p2a: Hatterene|Eject Button
+|
+|t:|1781234541
+|switch|p2a: Hawlucha|Hawlucha, M, tera:Electric|100/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781234554
+|move|p2a: Hawlucha|Acrobatics|p1a: Araquanid
+|-supereffective|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|faint|p1a: Araquanid
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1781234557
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|98/100|[from] Stealth Rock
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|9
+|
+|t:|1781234568
+|move|p1a: Great Tusk|Rapid Spin|p2a: Hawlucha
+|-damage|p2a: Hawlucha|72/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: aaagislash|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|move|p2a: Hawlucha|Acrobatics|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|28/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781234579
+|switch|p2a: Hatterene|Hatterene, F|42/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781234592
+|switch|p2a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|11
+|
+|t:|1781234598
+|move|p1a: Great Tusk|Headlong Rush|p2a: Indeedee
+|-damage|p2a: Indeedee|8/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Indeedee|Trick Room|p2a: Indeedee
+|-fieldstart|move: Trick Room|[of] p2a: Indeedee
+|
+|upkeep
+|turn|12
+|
+|t:|1781234604
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|move|p2a: Indeedee|Expanding Force|p1a: Samurott
+|-immune|p1a: Samurott
+|
+|upkeep
+|turn|13
+|
+|t:|1781234607
+|move|p2a: Indeedee|Healing Wish|p2a: Indeedee
+|faint|p2a: Indeedee
+|move|p1a: Samurott|Ceaseless Edge|p2: Indeedee|[notarget]
+|-fail|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781234611
+|switch|p2a: Hawlucha|Hawlucha, M, tera:Electric|72/100
+|-heal|p2a: Hawlucha|100/100|[from] move: Healing Wish
+|turn|14
+|
+|t:|1781234614
+|move|p1a: Samurott|Ceaseless Edge|p2a: Hawlucha
+|-damage|p2a: Hawlucha|47/100
+|-sidestart|p2: winslowyoudog|Spikes
+|move|p2a: Hawlucha|Close Combat|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781234623
+|switch|p1a: Great Tusk|Great Tusk|28/100
+|turn|15
+|
+|t:|1781234632
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Hawlucha|Encore||[still]
+|-fail|p2a: Hawlucha
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|16
+|
+|t:|1781234638
+|move|p1a: Great Tusk|Trick|p2a: Hawlucha
+|-activate|p1a: Great Tusk|move: Trick|[of] p2a: Hawlucha
+|-item|p2a: Hawlucha|Ring Target|[from] move: Trick
+|-enditem|p1a: Great Tusk|Ring Target|[silent]|[from] move: Trick
+|move|p2a: Hawlucha|Acrobatics|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|26/100
+|replace|p1a: Zoroark|Zoroark-Hisui, F
+|-end|p1a: Zoroark|Illusion
+|
+|upkeep
+|turn|17
+|
+|t:|1781234658
+|switch|p1a: Great Tusk|Great Tusk|28/100
+|move|p2a: Hawlucha|Acrobatics|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781234668
+|switch|p1a: Regieleki|Regieleki, tera:Electric|88/100
+|turn|18
+|
+|t:|1781234671
+|move|p1a: Regieleki|Thunderbolt|p2a: Hawlucha
+|-resisted|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1781234686
+|switch|p2a: Megaman|Slowbro-Galar, M|100/100
+|-damage|p2a: Megaman|88/100|[from] Spikes
+|turn|19
+|-activate|p2a: Megaman|ability: Quick Draw
+|
+|t:|1781234688
+|move|p2a: Megaman|Expanding Force|p1a: Regieleki
+|-damage|p1a: Regieleki|12/100
+|move|p1a: Regieleki|Thunderbolt|p2a: Megaman
+|-crit|p2a: Megaman
+|-damage|p2a: Megaman|0 fnt
+|faint|p2a: Megaman
+|
+|upkeep
+|
+|t:|1781234690
+|switch|p2a: Armarouge|Armarouge, F|100/100
+|-damage|p2a: Armarouge|88/100|[from] Spikes
+|turn|20
+|
+|t:|1781234693
+|move|p1a: Regieleki|Thunderbolt|p2a: Armarouge
+|-damage|p2a: Armarouge|0 fnt
+|faint|p2a: Armarouge
+|
+|win|aaagislash
+|raw|aaagislash's rating: 1606 &rarr; <strong>1630</strong><br />(+24 for winning)
+|raw|winslowyoudog's rating: 1672 &rarr; <strong>1648</strong><br />(-24 for losing)
+|l|☆winslowyoudog
+|player|p2|
+|l|‽aaagislash
+|player|p1|

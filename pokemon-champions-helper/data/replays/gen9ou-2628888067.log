@@ -1,0 +1,452 @@
+|j|☆thani3
+|j|☆Liaoa
+|t:|1781068610
+|gametype|singles
+|player|p1|thani3|bugcatcher-gen4dp|1533
+|player|p2|Liaoa|bellelba|1552
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Excadrill, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Zapdos|
+|poke|p1|Ogerpon, F|
+|poke|p1|Toxapex, M|
+|poke|p2|Clefable, M|
+|poke|p2|Dondozo, F|
+|poke|p2|Alomomola, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Skeledirge, F|
+|poke|p2|Corviknight, F|
+|teampreview
+|
+|t:|1781068627
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|1
+|
+|t:|1781068632
+|move|p2a: Clefable|Moonblast|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|49/100
+|move|p1a: Tyranitar|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|65/100
+|-enditem|p2a: Clefable|Choice Scarf|[from] move: Knock Off|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781068638
+|move|p2a: Clefable|Trick|p1a: Tyranitar
+|-activate|p2a: Clefable|move: Trick|[of] p1a: Tyranitar
+|-enditem|p1a: Tyranitar|Smooth Rock|[silent]|[from] move: Trick
+|-item|p2a: Clefable|Smooth Rock|[from] move: Trick
+|move|p1a: Tyranitar|Stealth Rock|p2a: Clefable
+|-sidestart|p2: Liaoa|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781068643
+|switch|p1a: Excadrill|Excadrill, M, shiny|100/100
+|move|p2a: Clefable|Moonblast|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|76/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Excadrill|82/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781068645
+|move|p1a: Excadrill|Substitute|p1a: Excadrill
+|-start|p1a: Excadrill|Substitute
+|-damage|p1a: Excadrill|57/100
+|move|p2a: Clefable|Flamethrower|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-end|p1a: Excadrill|Substitute
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Excadrill|63/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781068649
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-damage|p2a: Ting-Lu|94/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Excadrill|Earthquake|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|60/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Excadrill|69/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781068654
+|switch|p1a: Zapdos|Zapdos, shiny|100/100
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: thani3|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|94/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1781068658
+|move|p1a: Zapdos|Hurricane|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|26/100
+|move|p2a: Ting-Lu|Lash Out|p1a: Zapdos
+|-damage|p1a: Zapdos|51/100
+|-status|p2a: Ting-Lu|par|[from] ability: Static|[of] p1a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|45/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1781068665
+|move|p1a: Zapdos|Hurricane|p2a: Ting-Lu|[miss]
+|-miss|p1a: Zapdos|p2a: Ting-Lu
+|cant|p2a: Ting-Lu|par
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781068669
+|switch|p2a: Clefable|Clefable, M|65/100
+|move|p1a: Zapdos|Hurricane|p2a: Clefable
+|-damage|p2a: Clefable|6/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781068672
+|move|p1a: Zapdos|Volt Switch|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|t:|1781068674
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|49/100|[from] Volt Switch
+|-damage|p1a: Tyranitar|37/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Liaoa)
+|
+|t:|1781068677
+|switch|p2a: Ting-Lu|Ting-Lu|26/100 par
+|-damage|p2a: Ting-Lu|20/100 par|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|11
+|-enditem|p2a: Ting-Lu|Custap Berry|[eat]
+|-activate|p2a: Ting-Lu|item: Custap Berry|[consumed]
+|
+|t:|1781068680
+|move|p2a: Ting-Lu|Earthquake|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781068684
+|switch|p1a: Excadrill|Excadrill, M, shiny|69/100
+|-damage|p1a: Excadrill|66/100|[from] Stealth Rock
+|turn|12
+|j| AbrarS
+|
+|t:|1781068690
+|move|p1a: Excadrill|Rapid Spin|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|10/100 par
+|-boost|p1a: Excadrill|spe|1
+|-sideend|p1: thani3|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Excadrill
+|move|p2a: Ting-Lu|Earthquake|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|l| AbrarS
+|
+|t:|1781068693
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|turn|13
+|
+|t:|1781068697
+|move|p1a: Ogerpon|U-turn|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|t:|1781068699
+|switch|p1a: Zapdos|Zapdos, shiny|45/100|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|39/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781068704
+|switch|p2a: Skeledirge|Skeledirge, F|100/100
+|-damage|p2a: Skeledirge|76/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1781068707
+|move|p2a: Skeledirge|Torch Song|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|-boost|p2a: Skeledirge|spa|1
+|faint|p1a: Zapdos
+|
+|-weather|none
+|upkeep
+|
+|t:|1781068716
+|switch|p1a: Iron Valiant|Iron Valiant, shiny|100/100
+|turn|15
+|
+|t:|1781068719
+|-terastallize|p1a: Iron Valiant|Ghost
+|move|p2a: Skeledirge|Torch Song|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|3/100
+|-boost|p2a: Skeledirge|spa|1
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|0 fnt
+|faint|p2a: Skeledirge
+|
+|upkeep
+|
+|t:|1781068725
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781068730
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Toxapex|Toxapex, M, shiny|100/100
+|move|p2a: Corviknight|Brave Bird|p1a: Toxapex
+|-damage|p1a: Toxapex|64/100
+|-damage|p2a: Corviknight|77/100|[from] Recoil
+|-enditem|p1a: Toxapex|Eject Button
+|
+|t:|1781068733
+|switch|p1a: Iron Valiant|Iron Valiant, shiny, tera:Ghost|3/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781068735
+|move|p2a: Corviknight|Brave Bird|p1a: Iron Valiant
+|-crit|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|-damage|p2a: Corviknight|76/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1781068741
+|switch|p1a: Toxapex|Toxapex, M, shiny|97/100
+|turn|18
+|
+|t:|1781068747
+|switch|p2a: Dondozo|Dondozo, F|100/100
+|-damage|p2a: Dondozo|88/100|[from] Stealth Rock
+|move|p1a: Toxapex|Toxic Spikes|p2a: Dondozo
+|-sidestart|p2: Liaoa|move: Toxic Spikes
+|
+|upkeep
+|turn|19
+|
+|t:|1781068749
+|move|p2a: Dondozo|Body Slam|p1a: Toxapex
+|-damage|p1a: Toxapex|67/100
+|move|p1a: Toxapex|Toxic|p2a: Dondozo
+|-status|p2a: Dondozo|tox
+|
+|-damage|p2a: Dondozo|82/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1781068753
+|move|p2a: Dondozo|Body Slam|p1a: Toxapex
+|-damage|p1a: Toxapex|39/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|89/100
+|
+|-damage|p2a: Dondozo|70/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1781068755
+|move|p2a: Dondozo|Body Slam|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|45/100
+|move|p1a: Toxapex|Toxic Spikes|p2a: Dondozo
+|-sidestart|p2: Liaoa|move: Toxic Spikes
+|
+|-damage|p2a: Dondozo|51/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1781068758
+|move|p2a: Dondozo|Body Slam|p1a: Toxapex
+|-damage|p1a: Toxapex|18/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|68/100
+|
+|-damage|p2a: Dondozo|26/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1781068760
+|move|p2a: Dondozo|Body Slam|p1a: Toxapex
+|-damage|p1a: Toxapex|36/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|87/100
+|
+|-damage|p2a: Dondozo|0 fnt|[from] psn
+|faint|p2a: Dondozo
+|upkeep
+|
+|t:|1781068762
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|-damage|p2a: Alomomola|88/100|[from] Stealth Rock
+|-status|p2a: Alomomola|tox
+|turn|24
+|
+|t:|1781068766
+|move|p2a: Alomomola|Body Slam|p1a: Toxapex
+|-damage|p1a: Toxapex|62/100
+|-status|p1a: Toxapex|par
+|cant|p1a: Toxapex|par
+|
+|-damage|p2a: Alomomola|82/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1781068769
+|move|p2a: Alomomola|Body Slam|p1a: Toxapex
+|-damage|p1a: Toxapex|40/100 par
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|90/100 par
+|
+|-damage|p2a: Alomomola|70/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1781068774
+|move|p2a: Alomomola|Body Slam|p1a: Toxapex
+|-damage|p1a: Toxapex|66/100 par
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-damage|p2a: Alomomola|51/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1781068776
+|move|p2a: Alomomola|Body Slam|p1a: Toxapex
+|-damage|p1a: Toxapex|41/100 par
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-damage|p2a: Alomomola|26/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1781068778
+|move|p2a: Alomomola|Body Slam|p1a: Toxapex
+|-damage|p1a: Toxapex|17/100 par
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|67/100 par
+|
+|-damage|p2a: Alomomola|0 fnt|[from] psn
+|faint|p2a: Alomomola
+|upkeep
+|
+|t:|1781068780
+|switch|p2a: Corviknight|Corviknight, F|76/100
+|-damage|p2a: Corviknight|64/100|[from] Stealth Rock
+|turn|29
+|
+|t:|1781068783
+|-terastallize|p2a: Corviknight|Flying
+|move|p2a: Corviknight|Brave Bird|p1a: Toxapex
+|-damage|p1a: Toxapex|24/100 par
+|-damage|p2a: Corviknight|51/100|[from] Recoil
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|74/100 par
+|
+|upkeep
+|turn|30
+|
+|t:|1781068789
+|move|p2a: Corviknight|Brave Bird|p1a: Toxapex
+|-damage|p1a: Toxapex|25/100 par
+|-damage|p2a: Corviknight|36/100|[from] Recoil
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|75/100 par
+|
+|upkeep
+|turn|31
+|
+|t:|1781068794
+|move|p2a: Corviknight|Brave Bird|p1a: Toxapex
+|-damage|p1a: Toxapex|28/100 par
+|-damage|p2a: Corviknight|22/100|[from] Recoil
+|cant|p1a: Toxapex|par
+|
+|upkeep
+|turn|32
+|
+|t:|1781068799
+|move|p2a: Corviknight|Brave Bird|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|-damage|p2a: Corviknight|14/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1781068801
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|turn|33
+|
+|t:|1781068804
+|move|p2a: Corviknight|Brave Bird|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|-damage|p2a: Corviknight|0 fnt|[from] Recoil
+|faint|p2a: Corviknight
+|
+|win|Liaoa
+|raw|thani3's rating: 1533 &rarr; <strong>1514</strong><br />(-19 for losing)
+|raw|Liaoa's rating: 1552 &rarr; <strong>1571</strong><br />(+19 for winning)
+|c|☆thani3|fuicking whole team with scarf
+|c|☆thani3|lol
+|l|☆thani3
+|player|p1|
+|l|☆Liaoa
+|player|p2|

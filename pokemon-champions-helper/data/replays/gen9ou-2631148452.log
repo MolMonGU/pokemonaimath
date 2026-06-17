@@ -1,0 +1,405 @@
+|j|☆Mysterious Soop
+|j|☆tb poke
+|t:|1781349490
+|gametype|singles
+|player|p1|Mysterious Soop|102|1606
+|player|p2|tb poke|170|1603
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Excadrill, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Hydrapple, F|
+|poke|p1|Gholdengo|
+|poke|p1|Alomomola, M|
+|poke|p1|Hatterene, F|
+|poke|p2|Enamorus, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Iron Treads|
+|poke|p2|Kyurem|
+|poke|p2|Pecharunt|
+|poke|p2|Darkrai|
+|teampreview
+|
+|t:|1781349547
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tb poke)
+|j| Benas2009
+|
+|t:|1781349572
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|move|p2a: Pecharunt|Malignant Chain|p1a: Excadrill
+|-immune|p1a: Excadrill
+|
+|upkeep
+|turn|2
+|
+|t:|1781349584
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|move|p2a: Pecharunt|Parting Shot|p1a: Excadrill
+|-unboost|p1a: Excadrill|atk|1
+|-unboost|p1a: Excadrill|spa|1
+|j| invmenot
+|
+|t:|1781349594
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Parting Shot
+|-ability|p2a: Kyurem|Pressure
+|
+|upkeep
+|turn|3
+|
+|t:|1781349604
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Kyurem|Body Press|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|95/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781349616
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Hatterene|Mystical Fire|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|35/100
+|-unboost|p2a: Iron Treads|spa|1
+|
+|upkeep
+|turn|5
+|
+|t:|1781349623
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Iron Treads|Knock Off|p1a: Alomomola
+|-damage|p1a: Alomomola|83/100
+|-damage|p2a: Iron Treads|19/100|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|-enditem|p1a: Alomomola|Rocky Helmet|[from] move: Knock Off|[of] p2a: Iron Treads
+|
+|upkeep
+|turn|6
+|j| Puyu paz
+|
+|t:|1781349628
+|move|p2a: Iron Treads|Stealth Rock|p1a: Alomomola
+|-sidestart|p1: Mysterious Soop|move: Stealth Rock
+|move|p1a: Alomomola|Flip Turn|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|t:|1781349632
+|switch|p1a: Tyranitar|Tyranitar, M|100/100|[from] Flip Turn
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781349643
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|7
+|
+|t:|1781349649
+|move|p2a: Kyurem|Ice Beam|p1a: Tyranitar
+|-damage|p1a: Tyranitar|63/100
+|move|p1a: Tyranitar|Stone Edge|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781349658
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|8
+|
+|t:|1781349664
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|-damage|p1a: Alomomola|88/100|[from] Stealth Rock
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|94/100|[from] Sandstorm
+|-damage|p1a: Alomomola|82/100|[from] Sandstorm
+|-heal|p2a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781349670
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p1a: Alomomola|Scald|p2a: Zamazenta
+|-damage|p2a: Zamazenta|89/100
+|-status|p2a: Zamazenta|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|83/100 brn|[from] Sandstorm
+|-damage|p1a: Alomomola|76/100|[from] Sandstorm
+|-heal|p2a: Zamazenta|89/100 brn|[from] item: Leftovers
+|-damage|p2a: Zamazenta|83/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1781349678
+|move|p2a: Zamazenta|Body Press|p1a: Alomomola
+|-damage|p1a: Alomomola|44/100
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-weather|none
+|-heal|p2a: Zamazenta|89/100 brn|[from] item: Leftovers
+|-damage|p2a: Zamazenta|83/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781349682
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|1
+|
+|-heal|p1a: Alomomola|94/100|[from] move: Wish|[wisher] Alomomola
+|-heal|p2a: Zamazenta|89/100 brn|[from] item: Leftovers
+|-damage|p2a: Zamazenta|83/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1781349685
+|move|p2a: Zamazenta|Body Press|p1a: Alomomola
+|-damage|p1a: Alomomola|57/100
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-heal|p2a: Zamazenta|89/100 brn|[from] item: Leftovers
+|-damage|p2a: Zamazenta|83/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1781349688
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|move|p2a: Zamazenta|Body Press|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|
+|-heal|p1a: Gholdengo|100/100|[from] move: Wish|[wisher] Alomomola
+|-heal|p2a: Zamazenta|89/100 brn|[from] item: Leftovers
+|-damage|p2a: Zamazenta|83/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781349704
+|move|p1a: Gholdengo|Shadow Ball|p2a: Zamazenta
+|-damage|p2a: Zamazenta|51/100 brn
+|move|p2a: Zamazenta|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|75/100
+|
+|-heal|p2a: Zamazenta|57/100 brn|[from] item: Leftovers
+|-damage|p2a: Zamazenta|51/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781349708
+|switch|p2a: Darkrai|Darkrai|100/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Darkrai
+|-resisted|p2a: Darkrai
+|-damage|p2a: Darkrai|72/100
+|-unboost|p2a: Darkrai|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781349717
+|switch|p1a: Hatterene|Hatterene, F|95/100
+|-damage|p1a: Hatterene|83/100|[from] Stealth Rock
+|move|p2a: Darkrai|Dark Pulse|p1a: Hatterene
+|-damage|p1a: Hatterene|60/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781349724
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Pecharunt
+|-resisted|p2a: Pecharunt
+|-damage|p2a: Pecharunt|89/100
+|-heal|p1a: Hatterene|70/100|[from] drain|[of] p2a: Pecharunt
+|-damage|p1a: Hatterene|54/100|[from] item: Rocky Helmet|[of] p2a: Pecharunt
+|
+|upkeep
+|turn|18
+|
+|t:|1781349731
+|switch|p1a: Tyranitar|Tyranitar, M|63/100
+|-damage|p1a: Tyranitar|50/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Pecharunt|Malignant Chain|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|42/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Pecharunt|83/100|[from] Sandstorm
+|upkeep
+|turn|19
+|
+|t:|1781349738
+|move|p2a: Pecharunt|Malignant Chain|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|33/100
+|-status|p1a: Tyranitar|tox
+|-start|p1a: Tyranitar|confusion|[from] ability: Poison Puppeteer|[of] p2a: Pecharunt
+|-activate|p1a: Tyranitar|confusion
+|move|p1a: Tyranitar|Knock Off|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|3/100
+|-damage|p1a: Tyranitar|16/100 tox|[from] item: Rocky Helmet|[of] p2a: Pecharunt
+|-enditem|p2a: Pecharunt|Rocky Helmet|[from] move: Knock Off|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Pecharunt|0 fnt|[from] Sandstorm
+|faint|p2a: Pecharunt
+|-damage|p1a: Tyranitar|10/100 tox|[from] psn
+|upkeep
+|
+|t:|1781349745
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|turn|20
+|
+|t:|1781349749
+|move|p2a: Enamorus|Moonblast|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Enamorus|94/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781349752
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|-damage|p1a: Excadrill|97/100|[from] Stealth Rock
+|turn|21
+|j| KangkongNation
+|l| Benas2009
+|
+|t:|1781349758
+|switch|p2a: Zamazenta|Zamazenta|51/100 brn
+|move|p1a: Excadrill|Iron Head|p2a: Zamazenta
+|-damage|p2a: Zamazenta|18/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zamazenta|12/100 brn|[from] Sandstorm
+|-heal|p1a: Excadrill|100/100|[from] item: Leftovers
+|-heal|p2a: Zamazenta|18/100 brn|[from] item: Leftovers
+|-damage|p2a: Zamazenta|12/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1781349761
+|move|p1a: Excadrill|Rapid Spin|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|-boost|p1a: Excadrill|spe|1
+|-sideend|p1: Mysterious Soop|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Excadrill
+|faint|p2a: Zamazenta
+|
+|-weather|none
+|upkeep
+|
+|t:|1781349766
+|switch|p2a: Enamorus|Enamorus, F|94/100
+|turn|23
+|
+|t:|1781349777
+|switch|p1a: Alomomola|Alomomola, M|91/100
+|-terastallize|p2a: Enamorus|Ground
+|move|p2a: Enamorus|Earth Power|p1a: Alomomola
+|-damage|p1a: Alomomola|5/100
+|
+|upkeep
+|turn|24
+|l| invmenot
+|
+|t:|1781349783
+|switch|p1a: Hydrapple|Hydrapple, F|100/100
+|move|p2a: Enamorus|Earth Power|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|67/100
+|
+|upkeep
+|turn|25
+|l| KangkongNation
+|
+|t:|1781349791
+|switch|p2a: Darkrai|Darkrai|72/100
+|move|p1a: Hydrapple|Giga Drain|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|-heal|p1a: Hydrapple|91/100|[from] drain|[of] p2a: Darkrai
+|faint|p2a: Darkrai
+|
+|upkeep
+|
+|t:|1781349793
+|switch|p2a: Enamorus|Enamorus, F, tera:Ground|94/100
+|turn|26
+|
+|t:|1781349796
+|switch|p1a: Alomomola|Alomomola, M|39/100
+|move|p2a: Enamorus|Moonblast|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|faint|p1a: Alomomola
+|
+|upkeep
+|
+|t:|1781349803
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|turn|27
+|
+|t:|1781349807
+|move|p2a: Enamorus|Moonblast|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|51/100
+|move|p1a: Excadrill|Earthquake|p2a: Enamorus
+|-damage|p2a: Enamorus|3/100
+|
+|-heal|p1a: Excadrill|57/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781349811
+|move|p2a: Enamorus|Moonblast|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|8/100
+|move|p1a: Excadrill|Earthquake|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|
+|win|Mysterious Soop
+|raw|Mysterious Soop's rating: 1606 &rarr; <strong>1626</strong><br />(+20 for winning)
+|raw|tb poke's rating: 1603 &rarr; <strong>1583</strong><br />(-20 for losing)
+|c|☆Mysterious Soop|ggs
+|l|☆tb poke
+|player|p2|
+|l|☆Mysterious Soop
+|player|p1|
+|l| Puyu paz

@@ -1,0 +1,316 @@
+|j|☆erhai
+|j|☆KurisuChestnutLab
+|t:|1781114802
+|gametype|singles
+|player|p1|erhai|170|1607
+|player|p2|KurisuChestnutLab|may-contest|1575
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Jugulis|
+|poke|p1|Ogerpon, F|
+|poke|p1|Scizor, F|
+|poke|p1|Latios, M|
+|poke|p1|Manaphy|
+|poke|p1|Sandy Shocks|
+|poke|p2|Primarina, M|
+|poke|p2|Hippowdon, M|
+|poke|p2|Skarmory, M|
+|poke|p2|Zapdos|
+|poke|p2|Dragonite, F|
+|poke|p2|Slowking, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by erhai)
+|inactive|KurisuChestnutLab also wants the timer to be on.
+|
+|t:|1781114809
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sandy Shocks|Sandy Shocks|100/100
+|switch|p2a: Primarina|Primarina, M|100/100
+|-enditem|p1a: Sandy Shocks|Booster Energy
+|-activate|p1a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p1a: Sandy Shocks|protosynthesisspe
+|turn|1
+|
+|t:|1781114813
+|move|p1a: Sandy Shocks|Stealth Rock|p2a: Primarina
+|-sidestart|p2: KurisuChestnutLab|move: Stealth Rock
+|move|p2a: Primarina|Surf|p1a: Sandy Shocks
+|-supereffective|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|0 fnt
+|faint|p1a: Sandy Shocks
+|-end|p1a: Sandy Shocks|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781114828
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|turn|2
+|
+|t:|1781114833
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1781114837
+|move|p1a: Ogerpon|Rock Tomb|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|47/100
+|-unboost|p2a: Zapdos|spe|1
+|move|p2a: Zapdos|Hurricane|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-crit|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|j| switchblade0719
+|
+|t:|1781114865
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|4
+|
+|t:|1781114870
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Zapdos
+|-damage|p2a: Zapdos|6/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|56/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|5
+|
+|t:|1781114884
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Zapdos
+|-damage|p2a: Zapdos|16/100
+|move|p2a: Zapdos|Volt Switch|p1a: Iron Jugulis
+|-supereffective|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|26/100
+|
+|t:|1781114888
+|switch|p2a: Dragonite|Dragonite, F|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|6
+|
+|t:|1781114918
+|move|p2a: Dragonite|Extreme Speed|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781114921
+|switch|p1a: Manaphy|Manaphy, shiny|100/100
+|turn|7
+|
+|t:|1781114927
+|move|p1a: Manaphy|Tail Glow|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|3
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781114954
+|-terastallize|p2a: Dragonite|Normal
+|move|p2a: Dragonite|Extreme Speed|p1a: Manaphy
+|-crit|p1a: Manaphy
+|-damage|p1a: Manaphy|3/100
+|move|p1a: Manaphy|Ice Beam|p2a: Dragonite
+|-damage|p2a: Dragonite|64/100
+|
+|upkeep
+|turn|9
+|-enditem|p1a: Manaphy|Custap Berry|[eat]
+|-activate|p1a: Manaphy|item: Custap Berry|[consumed]
+|
+|t:|1781114958
+|move|p2a: Dragonite|Extreme Speed|p1a: Manaphy
+|-damage|p1a: Manaphy|0 fnt
+|faint|p1a: Manaphy
+|
+|upkeep
+|
+|t:|1781114961
+|switch|p1a: Scizor|Scizor, F, shiny|100/100
+|turn|10
+|
+|t:|1781114966
+|move|p2a: Dragonite|Earthquake|p1a: Scizor
+|-damage|p1a: Scizor|37/100
+|move|p1a: Scizor|Close Combat|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|-unboost|p1a: Scizor|def|1
+|-unboost|p1a: Scizor|spd|1
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1781114974
+|switch|p2a: Primarina|Primarina, M|100/100
+|-damage|p2a: Primarina|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1781114991
+|move|p1a: Scizor|Bullet Punch|p2a: Primarina
+|-damage|p2a: Primarina|43/100
+|move|p2a: Primarina|Moonblast|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1781114993
+|switch|p1a: Latios|Latios, M, shiny|100/100
+|turn|12
+|
+|t:|1781114999
+|switch|p2a: Skarmory|Skarmory, M|100/100
+|-damage|p2a: Skarmory|88/100|[from] Stealth Rock
+|move|p1a: Latios|Calm Mind|p1a: Latios
+|-boost|p1a: Latios|spa|1
+|-boost|p1a: Latios|spd|1
+|
+|-heal|p2a: Skarmory|94/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781115003
+|move|p1a: Latios|Agility|p1a: Latios
+|-boost|p1a: Latios|spe|2
+|move|p2a: Skarmory|Iron Head|p1a: Latios
+|-damage|p1a: Latios|80/100
+|
+|-heal|p2a: Skarmory|99/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781115010
+|move|p1a: Latios|Calm Mind|p1a: Latios
+|-boost|p1a: Latios|spa|1
+|-boost|p1a: Latios|spd|1
+|move|p2a: Skarmory|Iron Head|p1a: Latios
+|-damage|p1a: Latios|58/100
+|
+|-heal|p2a: Skarmory|100/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781115014
+|switch|p2a: Primarina|Primarina, M|43/100
+|-damage|p2a: Primarina|30/100|[from] Stealth Rock
+|move|p1a: Latios|Calm Mind|p1a: Latios
+|-boost|p1a: Latios|spa|1
+|-boost|p1a: Latios|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781115022
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Latios|Calm Mind|p1a: Latios
+|-boost|p1a: Latios|spa|1
+|-boost|p1a: Latios|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Latios|52/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|100/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781115027
+|switch|p2a: Skarmory|Skarmory, M|100/100
+|-damage|p2a: Skarmory|88/100|[from] Stealth Rock
+|move|p1a: Latios|Stored Power|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Latios|46/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781115040
+|switch|p2a: Zapdos|Zapdos|16/100
+|turn|18
+|
+|t:|1781115047
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|move|p1a: Latios|Stored Power|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Latios|40/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781115050
+|switch|p2a: Zapdos|Zapdos|16/100
+|turn|19
+|
+|t:|1781115054
+|switch|p2a: Slowking|Slowking, F|100/100
+|move|p1a: Latios|Stored Power|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|3/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Latios|34/100|[from] Sandstorm
+|-damage|p2a: Slowking|0 fnt|[from] Sandstorm
+|faint|p2a: Slowking
+|upkeep
+|
+|t:|1781115060
+|switch|p2a: Primarina|Primarina, M|30/100
+|-damage|p2a: Primarina|18/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1781115062
+|move|p1a: Latios|Stored Power|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|-weather|none
+|upkeep
+|
+|t:|1781115066
+|switch|p2a: Zapdos|Zapdos|16/100
+|turn|21
+|
+|t:|1781115070
+|move|p1a: Latios|Stored Power|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|win|erhai
+|raw|erhai's rating: 1634 &rarr; <strong>1651</strong><br />(+17 for winning)
+|raw|KurisuChestnutLab's rating: 1575 &rarr; <strong>1558</strong><br />(-17 for losing)
+|l|☆erhai
+|player|p1|
+|l| switchblade0719

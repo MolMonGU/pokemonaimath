@@ -1,0 +1,186 @@
+|j|☆imperimento
+|j|☆Dat boii fam
+|t:|1780928547
+|gametype|singles
+|player|p1|imperimento|266|1731
+|player|p2|Dat boii fam|li|1699
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Moltres|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Gholdengo|
+|poke|p1|Pecharunt|
+|poke|p1|Walking Wake|
+|poke|p1|Ting-Lu|
+|poke|p2|Alomomola, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Zapdos|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Scizor, M|
+|poke|p2|Amoonguss, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Dat boii fam)
+|inactive|imperimento has 120 seconds left.
+|
+|t:|1780928588
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Walking Wake|atk|1
+|turn|1
+|
+|t:|1780928595
+|move|p2a: Landorus|U-turn|p1a: Walking Wake
+|-damage|p1a: Walking Wake|69/100
+|
+|t:|1780928598
+|switch|p2a: Alomomola|Alomomola, F|100/100|[from] U-turn
+|move|p1a: Walking Wake|Knock Off|p2a: Alomomola
+|-damage|p2a: Alomomola|94/100
+|-enditem|p2a: Alomomola|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Walking Wake
+|
+|upkeep
+|turn|2
+|j| testingrainteam1
+|
+|t:|1780928628
+|move|p1a: Walking Wake|Surf|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|72/100
+|move|p2a: Alomomola|Flip Turn|p1a: Walking Wake
+|-resisted|p1a: Walking Wake
+|-damage|p1a: Walking Wake|65/100
+|
+|t:|1780928634
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from] Flip Turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Walking Wake|atk|1
+|
+|upkeep
+|turn|3
+|
+|t:|1780928647
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Landorus|Rock Slide|p1a: Moltres|[miss]
+|-miss|p2a: Landorus|p1a: Moltres
+|
+|upkeep
+|turn|4
+|l| testingrainteam1
+|c|☆Dat boii fam|:(
+|c|☆imperimento|:(
+|
+|t:|1780928663
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|
+|upkeep
+|turn|5
+|
+|t:|1780928671
+|move|p2a: Alomomola|Flip Turn|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|81/100
+|
+|t:|1780928676
+|switch|p2a: Scizor|Scizor, M|100/100|[from] Flip Turn
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Scizor
+|-sidestart|p2: Dat boii fam|move: Stealth Rock
+|
+|-heal|p1a: Ting-Lu|88/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1780928684
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Scizor|Knock Off|p1a: Moltres
+|-damage|p1a: Moltres|81/100
+|-enditem|p1a: Moltres|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Scizor
+|
+|upkeep
+|turn|7
+|
+|t:|1780928695
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|-damage|p2a: Alomomola|88/100|[from] Stealth Rock
+|move|p1a: Moltres|U-turn|p2a: Alomomola
+|-damage|p2a: Alomomola|81/100
+|
+|t:|1780928701
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|8
+|
+|t:|1780928706
+|switch|p2a: Amoonguss|Amoonguss, M|100/100
+|-damage|p2a: Amoonguss|88/100|[from] Stealth Rock
+|move|p1a: Samurott|Ceaseless Edge|p2a: Amoonguss
+|-damage|p2a: Amoonguss|60/100
+|-damage|p1a: Samurott|84/100|[from] item: Rocky Helmet|[of] p2a: Amoonguss
+|-sidestart|p2: Dat boii fam|Spikes
+|
+|upkeep
+|turn|9
+|
+|t:|1780928721
+|move|p1a: Samurott|Knock Off|p2a: Amoonguss
+|-damage|p2a: Amoonguss|30/100
+|-damage|p1a: Samurott|67/100|[from] item: Rocky Helmet|[of] p2a: Amoonguss
+|-enditem|p2a: Amoonguss|Rocky Helmet|[from] move: Knock Off|[of] p1a: Samurott
+|move|p2a: Amoonguss|Giga Drain|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|34/100
+|-heal|p2a: Amoonguss|44/100|[from] drain|[of] p1a: Samurott
+|
+|upkeep
+|turn|10
+|
+|t:|1780928732
+|move|p1a: Samurott|Ceaseless Edge|p2a: Amoonguss
+|-damage|p2a: Amoonguss|12/100
+|-sidestart|p2: Dat boii fam|Spikes
+|move|p2a: Amoonguss|Giga Drain|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|-heal|p2a: Amoonguss|26/100|[from] drain|[of] p1a: Samurott
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1780928744
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|11
+|l|☆imperimento
+|inactive|imperimento disconnected and has a minute to reconnect!
+|player|p1|
+|j| 0RickMountStrong
+|inactive|imperimento has 30 seconds to reconnect!
+|inactive|imperimento has 20 seconds to reconnect!
+|inactive|imperimento has 15 seconds to reconnect!
+|inactive|imperimento has 10 seconds to reconnect!
+|inactive|imperimento has 5 seconds to reconnect!
+|-message|imperimento lost due to inactivity.
+|
+|win|Dat boii fam
+|raw|imperimento's rating: 1731 &rarr; <strong>1709</strong><br />(-22 for losing)
+|raw|Dat boii fam's rating: 1699 &rarr; <strong>1721</strong><br />(+22 for winning)
+|l|☆Dat boii fam
+|player|p2|
+|j|☆imperimento
+|player|p1|imperimento|266|

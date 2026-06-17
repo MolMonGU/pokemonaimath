@@ -1,0 +1,217 @@
+|j|☆testingrainteam2
+|j|☆axleb27
+|t:|1781546933
+|gametype|singles
+|player|p1|testingrainteam2|unknown|1477
+|player|p2|axleb27|2|1531
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Iron Treads|
+|poke|p1|Toxicroak, F|
+|poke|p1|Barraskewda, F|
+|poke|p1|Kilowattrel, M|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Iron Crown|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by testingrainteam2)
+|l|☆axleb27
+|inactive|axleb27 disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆axleb27
+|inactive|axleb27 reconnected and has 125 seconds left.
+|player|p2|axleb27|2|
+|inactive|testingrainteam2 has 120 seconds left.
+|
+|t:|1781546985
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|turn|1
+|
+|t:|1781547009
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|86/100
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|72/100
+|-hitcount|p1a: Iron Treads|2
+|
+|-heal|p1a: Iron Treads|78/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781547021
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Iron Treads|Stealth Rock|p2a: Weezing
+|-sidestart|p2: axleb27|move: Stealth Rock
+|
+|-heal|p1a: Iron Treads|84/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781547032
+|move|p1a: Iron Treads|Volt Switch|p2a: Weezing
+|-damage|p2a: Weezing|86/100
+|
+|t:|1781547034
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Toxicroak|Toxicroak, F|100/100|[from] Volt Switch
+|move|p2a: Weezing|Defog|p1a: Toxicroak
+|-unboost|p1a: Toxicroak|evasion|1
+|-sideend|p2: axleb27|Stealth Rock|[from] move: Defog|[of] p2a: Weezing
+|
+|upkeep
+|turn|4
+|
+|t:|1781547038
+|move|p1a: Toxicroak|Encore|p2a: Weezing
+|-start|p2a: Weezing|Encore
+|move|p2a: Weezing|Defog|p1a: Toxicroak
+|-unboost|p1a: Toxicroak|evasion|1
+|
+|upkeep
+|turn|5
+|
+|t:|1781547042
+|switch|p1a: Kilowattrel|Kilowattrel, M|100/100
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781547053
+|move|p1a: Kilowattrel|Volt Switch|p2a: Iron Crown
+|-damage|p2a: Iron Crown|57/100
+|
+|t:|1781547056
+|switch|p1a: Iron Treads|Iron Treads|84/100|[from] Volt Switch
+|move|p2a: Iron Crown|Psychic Noise|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-crit|p1a: Iron Treads
+|-damage|p1a: Iron Treads|47/100
+|-start|p1a: Iron Treads|move: Heal Block
+|
+|upkeep
+|turn|7
+|
+|t:|1781547061
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Iron Treads|atk|1
+|move|p1a: Iron Treads|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-end|p1a: Iron Treads|move: Heal Block
+|upkeep
+|turn|8
+|
+|t:|1781547076
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Landorus|U-turn|p1a: Hatterene
+|-damage|p1a: Hatterene|63/100
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781547081
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781547083
+|move|p2a: Landorus|U-turn|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|82/100
+|
+|t:|1781547088
+|switch|p2a: Iron Crown|Iron Crown|57/100|[from] U-turn
+|move|p1a: Pelipper|U-turn|p2a: Iron Crown
+|-damage|p2a: Iron Crown|47/100
+|
+|t:|1781547093
+|switch|p1a: Barraskewda|Barraskewda, F|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781547102
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Barraskewda|Flip Turn|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|68/100
+|
+|t:|1781547114
+|switch|p1a: Iron Treads|Iron Treads|47/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Iron Treads|53/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781547122
+|move|p1a: Iron Treads|Earthquake|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Iron Treads|59/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781547137
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Iron Treads|atk|1
+|turn|12
+|
+|t:|1781547151
+|move|p2a: Landorus|Stone Edge|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|49/100
+|move|p1a: Iron Treads|Stealth Rock|p2a: Landorus
+|-sidestart|p2: axleb27|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Iron Treads|55/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|-message|axleb27 forfeited.
+|
+|win|testingrainteam2
+|raw|testingrainteam2's rating: 1477 &rarr; <strong>1500</strong><br />(+23 for winning)
+|raw|axleb27's rating: 1531 &rarr; <strong>1508</strong><br />(-23 for losing)
+|l|☆axleb27
+|player|p2|
+|l|☆testingrainteam2
+|player|p1|

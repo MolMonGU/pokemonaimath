@@ -1,0 +1,229 @@
+|j|☆AllHailLechuguita
+|j|☆IsoCon
+|t:|1780951064
+|gametype|singles
+|player|p1|AllHailLechuguita|170|1562
+|player|p2|IsoCon|blackbelt-gen2|1507
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ribombee, M|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Great Tusk|
+|poke|p1|Kingambit, M|
+|poke|p1|Skeledirge, F|
+|poke|p1|Gholdengo|
+|poke|p2|Ogerpon, F|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Blissey, F|
+|poke|p2|Gliscor, F|
+|poke|p2|Skarmory, F|
+|poke|p2|Pecharunt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by AllHailLechuguita)
+|
+|t:|1780951100
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|turn|1
+|inactive|IsoCon has 120 seconds left.
+|
+|t:|1780951130
+|switch|p2a: Skarmory|Skarmory, F|100/100
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1780951137
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Skarmory|Whirlwind|p1a: Ogerpon
+|drag|p1a: Ribombee|Ribombee, M, shiny|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1780951146
+|move|p1a: Ribombee|Sticky Web|p2a: Skarmory
+|-sidestart|p2: IsoCon|move: Sticky Web
+|move|p2a: Skarmory|Stealth Rock|p1a: Ribombee
+|-sidestart|p1: AllHailLechuguita|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1780951149
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Ribombee|Stun Spore|p2a: Blissey
+|-status|p2a: Blissey|par
+|
+|upkeep
+|turn|5
+|
+|t:|1780951158
+|switch|p1a: Great Tusk|Great Tusk, shiny|100/100
+|-damage|p1a: Great Tusk|97/100|[from] Stealth Rock
+|move|p2a: Blissey|Shadow Ball|p1a: Great Tusk
+|-damage|p1a: Great Tusk|75/100
+|
+|-heal|p1a: Great Tusk|82/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1780951181
+|-curestatus|p2a: Blissey|par|[from] ability: Natural Cure|[silent]
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|
+|-heal|p1a: Great Tusk|88/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1780951201
+|switch|p2a: Skarmory|Skarmory, F|100/100
+|move|p1a: Great Tusk|Earthquake|p2a: Skarmory
+|-immune|p2a: Skarmory
+|
+|-heal|p1a: Great Tusk|94/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1780951205
+|move|p1a: Great Tusk|Rapid Spin|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|94/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: AllHailLechuguita|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|move|p2a: Skarmory|Whirlwind|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|drag|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|
+|upkeep
+|turn|9
+|
+|t:|1780951211
+|move|p1a: Ogerpon|Encore|p2a: Skarmory
+|-start|p2a: Skarmory|Encore
+|move|p2a: Skarmory|Whirlwind|p1a: Ogerpon
+|drag|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|
+|upkeep
+|turn|10
+|
+|t:|1780951218
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|move|p1a: Gholdengo|Thunder Wave|p2a: Samurott
+|-status|p2a: Samurott|par
+|
+|upkeep
+|turn|11
+|
+|t:|1780951227
+|move|p1a: Gholdengo|Focus Blast|p2a: Samurott|[miss]
+|-miss|p1a: Gholdengo|p2a: Samurott
+|move|p2a: Samurott|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-enditem|p1a: Gholdengo|Air Balloon
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1780951231
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|12
+|
+|t:|1780951237
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Samurott|Encore|p1a: Ogerpon
+|-start|p1a: Ogerpon|Encore
+|
+|upkeep
+|turn|13
+|
+|t:|1780951243
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Samurott|Ceaseless Edge|p1a: Ogerpon
+|-damage|p1a: Ogerpon|39/100
+|-sidestart|p1: AllHailLechuguita|Spikes
+|
+|upkeep
+|turn|14
+|
+|t:|1780951245
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Samurott|Ceaseless Edge|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|-sidestart|p1: AllHailLechuguita|Spikes
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1780951248
+|switch|p1a: Great Tusk|Great Tusk, shiny|94/100
+|-damage|p1a: Great Tusk|77/100|[from] Spikes
+|turn|15
+|
+|t:|1780951252
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Pecharunt
+|-immune|p2a: Pecharunt
+|
+|-heal|p1a: Great Tusk|83/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1780951256
+|move|p1a: Great Tusk|Earthquake|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|60/100
+|move|p2a: Pecharunt|Toxic|p1a: Great Tusk
+|-status|p1a: Great Tusk|tox
+|-start|p1a: Great Tusk|confusion|[from] ability: Poison Puppeteer|[of] p2a: Pecharunt
+|
+|-heal|p1a: Great Tusk|89/100 tox|[from] item: Leftovers
+|-damage|p1a: Great Tusk|83/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1780951259
+|-activate|p1a: Great Tusk|confusion
+|move|p1a: Great Tusk|Earthquake|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|14/100
+|move|p2a: Pecharunt|Recover|p2a: Pecharunt
+|-heal|p2a: Pecharunt|65/100
+|
+|-heal|p1a: Great Tusk|89/100 tox|[from] item: Leftovers
+|-damage|p1a: Great Tusk|77/100 tox|[from] psn
+|upkeep
+|turn|18
+|-message|AllHailLechuguita forfeited.
+|
+|win|IsoCon
+|raw|AllHailLechuguita's rating: 1562 &rarr; <strong>1539</strong><br />(-23 for losing)
+|raw|IsoCon's rating: 1507 &rarr; <strong>1530</strong><br />(+23 for winning)
+|l|☆AllHailLechuguita
+|player|p1|
+|l|☆IsoCon
+|player|p2|

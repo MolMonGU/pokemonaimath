@@ -1,0 +1,231 @@
+|j|☆tiftif
+|j|☆waha8
+|t:|1781257505
+|gametype|singles
+|player|p1|tiftif|266|1590
+|player|p2|waha8|102|1646
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Iron Treads|
+|poke|p1|Barraskewda, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Talonflame, F|
+|poke|p1|Keldeo-Resolute|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Indeedee, M|
+|poke|p2|Cinderace, F|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Cetitan, M|
+|poke|p2|Kyurem|
+|teampreview
+|
+|t:|1781257523
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|switch|p2a: Mavis|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Mavis
+|turn|1
+|j| choispecs ironmoth
+|
+|t:|1781257539
+|move|p1a: Barraskewda|Flip Turn|p2a: Mavis
+|-damage|p2a: Mavis|55/100
+|
+|t:|1781257544
+|switch|p1a: Pelipper|Pelipper, M|100/100|[from] Flip Turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Mavis|Freeze-Dry|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781257547
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|turn|2
+|j| lord shiddenfards
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tiftif)
+|
+|t:|1781257558
+|switch|p2a: DeeDee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: DeeDee
+|move|p1a: Barraskewda|Flip Turn|p2a: DeeDee
+|-damage|p2a: DeeDee|0 fnt
+|faint|p2a: DeeDee
+|
+|t:|1781257566
+|switch|p1a: Iron Treads|Iron Treads|100/100|[from] Flip Turn
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781257572
+|switch|p2a: Mavis|Ninetales-Alola, F|55/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Mavis
+|turn|3
+|
+|t:|1781257577
+|move|p1a: Iron Treads|Earthquake|p2a: Mavis
+|-damage|p2a: Mavis|5/100
+|move|p2a: Mavis|Aurora Veil|p2a: Mavis
+|-sidestart|p2: waha8|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781257582
+|move|p1a: Iron Treads|Rapid Spin|p2a: Mavis
+|-damage|p2a: Mavis|0 fnt
+|-boost|p1a: Iron Treads|spe|1
+|faint|p2a: Mavis
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781257587
+|switch|p2a: SageOfSixPaths|Slowking-Galar, M|100/100
+|turn|5
+|
+|t:|1781257591
+|move|p1a: Iron Treads|Earthquake|p2a: SageOfSixPaths
+|-supereffective|p2a: SageOfSixPaths
+|-damage|p2a: SageOfSixPaths|49/100
+|move|p2a: SageOfSixPaths|Trick Room|p2a: SageOfSixPaths
+|-fieldstart|move: Trick Room|[of] p2a: SageOfSixPaths
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781257598
+|move|p2a: SageOfSixPaths|Fire Blast|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|-damage|p2a: SageOfSixPaths|39/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781257607
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|7
+|
+|t:|1781257614
+|-terastallize|p2a: SageOfSixPaths|Psychic
+|move|p2a: SageOfSixPaths|Expanding Force|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|-damage|p2a: SageOfSixPaths|30/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|-sideend|p2: waha8|move: Aurora Veil
+|upkeep
+|
+|t:|1781257620
+|switch|p1a: Talonflame|Talonflame, F|100/100
+|turn|8
+|
+|t:|1781257623
+|move|p1a: Talonflame|Air Slash|p2a: SageOfSixPaths
+|-activate|p2a: SageOfSixPaths|move: Psychic Terrain
+|move|p2a: SageOfSixPaths|Expanding Force|p1a: Talonflame
+|-damage|p1a: Talonflame|0 fnt
+|faint|p1a: Talonflame
+|-damage|p2a: SageOfSixPaths|20/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781257632
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|turn|9
+|
+|t:|1781257637
+|move|p2a: SageOfSixPaths|Expanding Force|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|-damage|p2a: SageOfSixPaths|10/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|-fieldend|move: Trick Room
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1781257640
+|switch|p1a: Keldeo|Keldeo-Resolute|100/100
+|turn|10
+|
+|t:|1781257646
+|switch|p2a: Thing|Cetitan, M|100/100
+|-terastallize|p1a: Keldeo|Steel
+|move|p1a: Keldeo|Substitute|p1a: Keldeo
+|-start|p1a: Keldeo|Substitute
+|-damage|p1a: Keldeo|76/100
+|
+|-weather|none
+|-heal|p1a: Keldeo|82/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781257655
+|move|p1a: Keldeo|Calm Mind|p1a: Keldeo
+|-boost|p1a: Keldeo|spa|1
+|-boost|p1a: Keldeo|spd|1
+|move|p2a: Thing|Earthquake|p1a: Keldeo
+|-supereffective|p1a: Keldeo
+|-end|p1a: Keldeo|Substitute
+|
+|-heal|p1a: Keldeo|88/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781257663
+|move|p1a: Keldeo|Secret Sword|p2a: Thing
+|-supereffective|p2a: Thing
+|-damage|p2a: Thing|0 fnt
+|faint|p2a: Thing
+|
+|-heal|p1a: Keldeo|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781257668
+|switch|p2a: ReverseUNO|Cinderace, F|100/100
+|turn|13
+|
+|t:|1781257671
+|move|p2a: ReverseUNO|Pyro Ball|p1a: Keldeo
+|-supereffective|p1a: Keldeo
+|-damage|p1a: Keldeo|0 fnt
+|faint|p1a: Keldeo
+|
+|win|waha8
+|raw|tiftif's rating: 1590 &rarr; <strong>1573</strong><br />(-17 for losing)
+|raw|waha8's rating: 1646 &rarr; <strong>1663</strong><br />(+17 for winning)
+|l| lord shiddenfards
+|l|☆waha8
+|player|p2|

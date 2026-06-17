@@ -1,0 +1,271 @@
+|j|☆clickdontthink
+|j|☆AmygdalanResponse
+|t:|1781376754
+|gametype|singles
+|player|p1|clickdontthink|bruno-gen2|1581
+|player|p2|AmygdalanResponse|marshal|1539
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Kingambit, M|
+|poke|p1|Kyurem|
+|poke|p1|Blaziken, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Deoxys-Speed|
+|poke|p2|Indeedee, M|
+|poke|p2|Iron Crown|
+|poke|p2|Iron Valiant|
+|poke|p2|Primarina, M|
+|poke|p2|Great Tusk|
+|poke|p2|Zamazenta-*|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by clickdontthink)
+|inactive|AmygdalanResponse has 120 seconds left.
+|
+|t:|1781376795
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|switch|p2a: Indeedee|Indeedee, M|100/100
+|-ability|p1a: Deoxys|Pressure
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|1
+|
+|t:|1781376802
+|move|p1a: Deoxys|Light Screen|p1a: Deoxys
+|-sidestart|p1: clickdontthink|move: Light Screen
+|move|p2a: Indeedee|Encore|p1a: Deoxys
+|-start|p1a: Deoxys|Encore
+|
+|upkeep
+|turn|2
+|
+|t:|1781376808
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|
+|upkeep
+|turn|3
+|
+|t:|1781376812
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Iron Valiant|[anim] Ivy Cudgel Water
+|-damage|p2a: Iron Valiant|20/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781376820
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Iron Valiant|Close Combat|p1a: Deoxys
+|-resisted|p1a: Deoxys
+|-damage|p1a: Deoxys|40/100
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1781376827
+|move|p2a: Iron Valiant|Knock Off|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|-enditem|p1a: Deoxys|Light Clay|[from] move: Knock Off|[of] p2a: Iron Valiant
+|faint|p1a: Deoxys
+|
+|upkeep
+|inactive|clickdontthink has 120 seconds left.
+|
+|t:|1781376858
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|6
+|inactive|AmygdalanResponse has 120 seconds left.
+|
+|t:|1781376892
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|inactive|AmygdalanResponse has 120 seconds left.
+|
+|t:|1781376897
+|switch|p2a: Indeedee|Indeedee, M|100/100
+|turn|7
+|inactive|clickdontthink has 120 seconds left.
+|inactive|clickdontthink has 90 seconds left.
+|
+|t:|1781376955
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Indeedee|Expanding Force|p1a: Ogerpon
+|-damage|p1a: Ogerpon|56/100
+|
+|upkeep
+|turn|8
+|inactive|clickdontthink has 90 seconds left.
+|
+|t:|1781376962
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Ogerpon|Horn Leech|p2a: Zamazenta
+|-damage|p2a: Zamazenta|71/100
+|-heal|p1a: Ogerpon|72/100|[from] drain|[of] p2a: Zamazenta
+|
+|-sideend|p1: clickdontthink|move: Light Screen
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|9
+|
+|t:|1781376969
+|move|p2a: Zamazenta|Close Combat|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|faint|p1a: Ogerpon
+|
+|upkeep
+|inactive|clickdontthink has 90 seconds left.
+|
+|t:|1781376982
+|switch|p1a: Blaziken|Blaziken, F|100/100
+|-item|p1a: Blaziken|Air Balloon
+|turn|10
+|inactive|clickdontthink has 90 seconds left.
+|
+|t:|1781377001
+|switch|p2a: Primarina|Primarina, M|100/100
+|move|p1a: Blaziken|Close Combat|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|58/100
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|11
+|inactive|clickdontthink has 90 seconds left.
+|
+|t:|1781377009
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Primarina|Psychic Noise|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|79/100
+|-start|p1a: Kyurem|move: Heal Block
+|
+|upkeep
+|turn|12
+|
+|t:|1781377019
+|switch|p2a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|move|p1a: Kyurem|Icicle Spear|p2a: Indeedee
+|-damage|p2a: Indeedee|75/100
+|-damage|p2a: Indeedee|48/100
+|-damage|p2a: Indeedee|19/100
+|-damage|p2a: Indeedee|0 fnt
+|faint|p2a: Indeedee
+|-hitcount|p2: Indeedee|4
+|
+|-end|p1a: Kyurem|move: Heal Block
+|upkeep
+|
+|t:|1781377022
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-enditem|p2a: Iron Crown|Booster Energy
+|-activate|p2a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Crown|quarkdrivespe
+|turn|13
+|
+|t:|1781377029
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|move|p1a: Kyurem|Icicle Spear|p2a: Iron Crown
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|94/100
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|88/100
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|81/100
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|75/100
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|69/100
+|-hitcount|p2a: Iron Crown|5
+|
+|upkeep
+|turn|14
+|
+|t:|1781377033
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|16/100
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|-hitcount|p1: Kyurem|2
+|
+|upkeep
+|
+|t:|1781377037
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|15
+|
+|t:|1781377040
+|-terastallize|p2a: Iron Crown|Fighting
+|-terastallize|p1a: Kingambit|Ghost
+|move|p2a: Iron Crown|Focus Blast|p1a: Kingambit
+|-immune|p1a: Kingambit
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Iron Crown
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|38/100
+|
+|upkeep
+|turn|16
+|inactive|clickdontthink has 120 seconds left.
+|
+|t:|1781377060
+|-end|p1a: Kingambit|fallen3|[silent]
+|switch|p1a: Blaziken|Blaziken, F|100/100
+|-item|p1a: Blaziken|Air Balloon
+|move|p2a: Iron Crown|Expanding Force|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|-enditem|p1a: Blaziken|Air Balloon
+|faint|p1a: Blaziken
+|
+|upkeep
+|inactive|clickdontthink has 120 seconds left.
+|-message|clickdontthink forfeited.
+|
+|win|AmygdalanResponse
+|raw|clickdontthink's rating: 1607 &rarr; <strong>1583</strong><br />(-24 for losing)
+|raw|AmygdalanResponse's rating: 1539 &rarr; <strong>1563</strong><br />(+24 for winning)
+|l|☆clickdontthink
+|player|p1|

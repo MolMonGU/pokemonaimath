@@ -1,0 +1,533 @@
+|j|☆bigballs01
+|j|‽msean3
+|t:|1781493291
+|gametype|singles
+|player|p1|bigballs01|swimmer-gen4dp|1656
+|player|p2|msean3|102|1645
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Kyurem|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Kingambit, F|
+|poke|p2|Darkrai|
+|poke|p2|Alomomola, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Garchomp, F|
+|poke|p2|Ogerpon, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by bigballs01)
+|
+|t:|1781493319
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|1
+|
+|t:|1781493328
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|move|p1a: Tornadus|Knock Off|p2a: Garchomp
+|-damage|p2a: Garchomp|88/100
+|-damage|p1a: Tornadus|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Tornadus|72/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|-enditem|p2a: Garchomp|Rocky Helmet|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|upkeep
+|turn|2
+|
+|t:|1781493337
+|move|p1a: Tornadus|U-turn|p2a: Garchomp
+|-damage|p2a: Garchomp|78/100
+|-damage|p1a: Tornadus|59/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|
+|t:|1781493339
+|switch|p1a: Hatterene|Hatterene, F|100/100|[from] U-turn
+|move|p2a: Garchomp|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|67/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781493345
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Hatterene|Draining Kiss|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|84/100
+|-heal|p1a: Hatterene|80/100|[from] drain|[of] p2a: Weezing
+|
+|-heal|p2a: Weezing|90/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781493348
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Weezing|Sludge Bomb|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|90/100
+|
+|-heal|p2a: Weezing|96/100|[from] item: Leftovers
+|-heal|p1a: Slowking|96/100|[from] item: Black Sludge
+|upkeep
+|turn|5
+|
+|t:|1781493353
+|move|p2a: Weezing|Will-O-Wisp|p1a: Slowking
+|-status|p1a: Slowking|brn
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781493368
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Weezing|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781493373
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|-ability|p1a: Kyurem|Pressure
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Kyurem|Blizzard|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|6/100
+|-status|p2a: Corviknight|frz
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Corviknight|12/100 frz|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781493377
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Kyurem|Blizzard|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|79/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781493383
+|switch|p1a: Tornadus|Tornadus-Therian, M|93/100
+|move|p2a: Alomomola|Flip Turn|p1a: Tornadus
+|-damage|p1a: Tornadus|72/100
+|
+|t:|1781493390
+|switch|p2a: Darkrai|Darkrai|100/100|[from] Flip Turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781493394
+|move|p2a: Darkrai|Ice Beam|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|5/100
+|move|p1a: Tornadus|Knock Off|p2a: Darkrai
+|-resisted|p2a: Darkrai
+|-damage|p2a: Darkrai|86/100
+|-enditem|p2a: Darkrai|Choice Specs|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|-weather|none
+|upkeep
+|turn|10
+|
+|t:|1781493410
+|switch|p1a: Hatterene|Hatterene, F|80/100
+|move|p2a: Darkrai|Dark Pulse|p1a: Hatterene
+|-damage|p1a: Hatterene|33/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781493426
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|move|p2a: Darkrai|Dark Pulse|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-crit|p1a: Kingambit
+|-damage|p1a: Kingambit|69/100
+|
+|-heal|p1a: Kingambit|75/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781493438
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Hatterene|Hatterene, F|33/100
+|move|p2a: Darkrai|Focus Blast|p1a: Hatterene|[miss]
+|-miss|p2a: Darkrai|p1a: Hatterene
+|
+|upkeep
+|turn|13
+|
+|t:|1781493446
+|move|p2a: Darkrai|Dark Pulse|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781493448
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|14
+|
+|t:|1781493456
+|switch|p2a: Corviknight|Corviknight, F|12/100 frz
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Kyurem|Ice Beam|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781493462
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|turn|15
+|
+|t:|1781493469
+|switch|p1a: Tornadus|Tornadus-Therian, M|38/100
+|move|p2a: Alomomola|Flip Turn|p1a: Tornadus
+|-damage|p1a: Tornadus|18/100
+|j| Shucklepilled
+|
+|t:|1781493476
+|switch|p2a: Garchomp|Garchomp, F|78/100|[from] Flip Turn
+|
+|upkeep
+|turn|16
+|
+|t:|1781493481
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Garchomp|Stealth Rock|p1a: Great Tusk
+|-sidestart|p1: bigballs01|move: Stealth Rock
+|
+|upkeep
+|turn|17
+|
+|t:|1781493488
+|-terastallize|p2a: Garchomp|Ghost
+|move|p1a: Great Tusk|Rapid Spin|p2a: Garchomp
+|-immune|p2a: Garchomp
+|move|p2a: Garchomp|Spikes|p1a: Great Tusk
+|-sidestart|p1: bigballs01|Spikes
+|
+|upkeep
+|turn|18
+|
+|t:|1781493491
+|move|p1a: Great Tusk|Headlong Rush|p2a: Garchomp
+|-damage|p2a: Garchomp|38/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|move|p2a: Garchomp|Spikes|p1a: Great Tusk
+|-sidestart|p1: bigballs01|Spikes
+|
+|upkeep
+|turn|19
+|
+|t:|1781493495
+|move|p1a: Great Tusk|Headlong Rush|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|76/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1781493501
+|switch|p2a: Darkrai|Darkrai|86/100
+|turn|20
+|
+|t:|1781493522
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Tornadus|Tornadus-Therian, M|51/100
+|-damage|p1a: Tornadus|26/100|[from] Stealth Rock
+|move|p2a: Darkrai|Ice Beam|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1781493523
+|switch|p1a: Great Tusk|Great Tusk|76/100
+|-damage|p1a: Great Tusk|73/100|[from] Stealth Rock
+|-damage|p1a: Great Tusk|56/100|[from] Spikes
+|turn|21
+|
+|t:|1781493533
+|-terastallize|p1a: Great Tusk|Steel
+|move|p2a: Darkrai|Dark Pulse|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781493540
+|switch|p1a: Kyurem|Kyurem|100/100
+|-damage|p1a: Kyurem|76/100|[from] Stealth Rock
+|-damage|p1a: Kyurem|59/100|[from] Spikes
+|-ability|p1a: Kyurem|Pressure
+|turn|22
+|
+|t:|1781493544
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Kyurem|Ice Beam|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|85/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781493547
+|move|p1a: Kyurem|Ice Beam|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|68/100
+|move|p2a: Alomomola|Flip Turn|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|51/100
+|
+|t:|1781493552
+|switch|p2a: Darkrai|Darkrai|86/100|[from] Flip Turn
+|
+|upkeep
+|turn|24
+|
+|t:|1781493554
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Kyurem|Ice Beam|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|83/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781493556
+|move|p1a: Kyurem|Ice Beam|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|65/100
+|move|p2a: Alomomola|Play Rough|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-crit|p1a: Kyurem
+|-damage|p1a: Kyurem|5/100
+|
+|upkeep
+|turn|26
+|
+|t:|1781493560
+|move|p1a: Kyurem|Ice Beam|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|49/100
+|move|p2a: Alomomola|Flip Turn|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|t:|1781493564
+|switch|p2a: Darkrai|Darkrai|86/100|[from] Flip Turn
+|
+|upkeep
+|
+|t:|1781493574
+|switch|p1a: Kingambit|Kingambit, F|75/100
+|-damage|p1a: Kingambit|69/100|[from] Stealth Rock
+|-damage|p1a: Kingambit|52/100|[from] Spikes
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|27
+|
+|t:|1781493578
+|move|p2a: Darkrai|Focus Blast|p1a: Kingambit|[miss]
+|-miss|p2a: Darkrai|p1a: Kingambit
+|move|p1a: Kingambit|Iron Head|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|-heal|p1a: Kingambit|59/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781493582
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|turn|28
+|
+|t:|1781493591
+|-end|p1a: Kingambit|fallen4|[silent]
+|switch|p1a: Slowking|Slowking-Galar, M|96/100 brn
+|-damage|p1a: Slowking|83/100 brn|[from] Stealth Rock
+|-damage|p1a: Slowking|67/100 brn|[from] Spikes
+|move|p2a: Weezing|Will-O-Wisp|p1a: Slowking
+|-fail|p1a: Slowking|brn
+|
+|-heal|p1a: Slowking|73/100 brn|[from] item: Black Sludge
+|-damage|p1a: Slowking|67/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1781493598
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Ogerpon|Ogerpon, F|100/100
+|move|p1a: Slowking|Trick|p2a: Ogerpon
+|-activate|p1a: Slowking|move: Trick|[of] p2a: Ogerpon
+|-item|p2a: Ogerpon|Black Sludge|[from] move: Trick
+|-item|p1a: Slowking|Heavy-Duty Boots|[from] move: Trick
+|
+|-damage|p2a: Ogerpon|88/100|[from] item: Black Sludge
+|-damage|p1a: Slowking|61/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1781493604
+|move|p2a: Ogerpon|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|13/100 brn
+|-enditem|p1a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ogerpon
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781493607
+|switch|p1a: Kingambit|Kingambit, F|59/100|[from] Chilly Reception
+|-damage|p1a: Kingambit|52/100|[from] Stealth Rock
+|-damage|p1a: Kingambit|36/100|[from] Spikes
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Ogerpon|76/100|[from] item: Black Sludge
+|-heal|p1a: Kingambit|42/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1781493616
+|move|p2a: Ogerpon|U-turn|p1a: Kingambit
+|-damage|p1a: Kingambit|26/100
+|
+|t:|1781493619
+|switch|p2a: Alomomola|Alomomola, F|82/100|[from] U-turn
+|move|p1a: Kingambit|Iron Head|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|59/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kingambit|32/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1781493628
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Alomomola
+|-damage|p2a: Alomomola|6/100
+|move|p2a: Alomomola|Flip Turn|p1a: Kingambit
+|-damage|p1a: Kingambit|19/100
+|
+|t:|1781493631
+|switch|p2a: Weezing|Weezing-Galar, M|100/100|[from] Flip Turn
+|-ability|p2a: Weezing|Neutralizing Gas
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kingambit|25/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1781493642
+|-end|p1a: Kingambit|fallen4|[silent]
+|switch|p1a: Slowking|Slowking-Galar, M|46/100 brn
+|-damage|p1a: Slowking|34/100 brn|[from] Stealth Rock
+|-damage|p1a: Slowking|17/100 brn|[from] Spikes
+|move|p2a: Weezing|Will-O-Wisp|p1a: Slowking
+|-fail|p1a: Slowking|brn
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Slowking|11/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1781493646
+|move|p2a: Weezing|Sludge Bomb|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-weather|none
+|upkeep
+|
+|t:|1781493648
+|switch|p1a: Kingambit|Kingambit, F|25/100
+|-damage|p1a: Kingambit|19/100|[from] Stealth Rock
+|-damage|p1a: Kingambit|2/100|[from] Spikes
+|turn|35
+|
+|t:|1781493653
+|move|p2a: Weezing|Will-O-Wisp|p1a: Kingambit|[miss]
+|-miss|p2a: Weezing|p1a: Kingambit
+|move|p1a: Kingambit|Iron Head|p2a: Weezing
+|-supereffective|p2a: Weezing
+|-damage|p2a: Weezing|39/100
+|
+|-heal|p2a: Weezing|45/100|[from] item: Leftovers
+|-heal|p1a: Kingambit|9/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1781493659
+|move|p2a: Weezing|Will-O-Wisp|p1a: Kingambit|[miss]
+|-miss|p2a: Weezing|p1a: Kingambit
+|move|p1a: Kingambit|Iron Head|p2a: Weezing
+|-supereffective|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|
+|-heal|p1a: Kingambit|15/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781493663
+|switch|p2a: Ogerpon|Ogerpon, F|76/100
+|turn|37
+|c|☆bigballs01|lol my bad
+|
+|t:|1781493672
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|move|p2a: Ogerpon|Encore|p1a: Kingambit
+|-start|p1a: Kingambit|Encore
+|
+|-damage|p2a: Ogerpon|64/100|[from] item: Black Sludge
+|-heal|p1a: Kingambit|21/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|-message|bigballs01 forfeited.
+|
+|win|msean3
+|raw|bigballs01's rating: 1656 &rarr; <strong>1635</strong><br />(-21 for losing)
+|raw|msean3's rating: 1645 &rarr; <strong>1666</strong><br />(+21 for winning)
+|l|☆bigballs01
+|player|p1|
+|l|‽msean3
+|player|p2|
+|l| Shucklepilled

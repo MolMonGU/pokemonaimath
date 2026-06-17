@@ -1,0 +1,297 @@
+|j|☆volcaronaisboss
+|j|☆cachowcapow
+|t:|1780928709
+|gametype|singles
+|player|p1|volcaronaisboss|burglar-gen3|1566
+|player|p2|cachowcapow|102|1650
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Comfey, M|
+|poke|p1|Whimsicott, F|
+|poke|p1|Iron Moth|
+|poke|p1|Walking Wake|
+|poke|p1|Great Tusk|
+|poke|p1|Ninetales, F|
+|poke|p2|Primarina, M|
+|poke|p2|Slither Wing|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Great Tusk|
+|poke|p2|Meowscarada, M|
+|poke|p2|Gardevoir, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by volcaronaisboss)
+|inactive|cachowcapow has 120 seconds left.
+|
+|t:|1780928743
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|turn|1
+|
+|t:|1780928749
+|move|p1a: Walking Wake|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|67/100
+|-enditem|p2a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Walking Wake
+|move|p2a: Slowking|Future Sight|p1a: Walking Wake
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|2
+|
+|t:|1780928757
+|move|p1a: Walking Wake|Flip Turn|p2a: Slowking
+|-damage|p2a: Slowking|51/100
+|
+|t:|1780928762
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] Flip Turn
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1780928771
+|switch|p2a: Slither Wing|Slither Wing|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1780928778
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|move|p2a: Slither Wing|U-turn|p1a: Walking Wake
+|-damage|p1a: Walking Wake|70/100
+|
+|t:|1780928783
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Meowscarada|Meowscarada, M|100/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Walking Wake|move: Future Sight
+|-damage|p1a: Walking Wake|39/100
+|upkeep
+|turn|4
+|
+|t:|1780928792
+|move|p2a: Meowscarada|Knock Off|p1a: Walking Wake
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p1a: Walking Wake|0 fnt
+|-enditem|p1a: Walking Wake|Assault Vest|[from] move: Knock Off|[of] p2a: Meowscarada
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1780928794
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|5
+|
+|t:|1780928808
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespa
+|move|p2a: Meowscarada|Knock Off|p1a: Iron Moth
+|-damage|p1a: Iron Moth|46/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1780928814
+|move|p2a: Meowscarada|Knock Off|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1780928822
+|switch|p1a: Whimsicott|Whimsicott, F|100/100
+|turn|7
+|
+|t:|1780928829
+|switch|p2a: Slowking|Slowking-Galar, M|84/100
+|move|p1a: Whimsicott|Growth|p1a: Whimsicott
+|-boost|p1a: Whimsicott|atk|2
+|-boost|p1a: Whimsicott|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1780928834
+|-terastallize|p1a: Whimsicott|Ghost
+|move|p1a: Whimsicott|Shadow Ball|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|-damage|p1a: Whimsicott|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|j| testingrainteam1
+|l| testingrainteam1
+|
+|t:|1780928853
+|switch|p2a: Primarina|Primarina, M, shiny|100/100
+|turn|9
+|
+|t:|1780928861
+|-terastallize|p2a: Primarina|Steel
+|move|p1a: Whimsicott|Shadow Ball|p2a: Primarina
+|-damage|p2a: Primarina|34/100
+|-damage|p1a: Whimsicott|81/100|[from] item: Life Orb
+|move|p2a: Primarina|Encore|p1a: Whimsicott
+|-start|p1a: Whimsicott|Encore
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Primarina|40/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1780928866
+|move|p1a: Whimsicott|Shadow Ball|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|-damage|p1a: Whimsicott|71/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1780928868
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|turn|11
+|
+|t:|1780928870
+|move|p1a: Whimsicott|Shadow Ball|p2a: Meowscarada
+|-resisted|p2a: Meowscarada
+|-damage|p2a: Meowscarada|39/100
+|-damage|p1a: Whimsicott|61/100|[from] item: Life Orb
+|move|p2a: Meowscarada|Knock Off|p1a: Whimsicott
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-supereffective|p1a: Whimsicott
+|-damage|p1a: Whimsicott|0 fnt
+|-enditem|p1a: Whimsicott|Life Orb|[from] move: Knock Off|[of] p2a: Meowscarada
+|faint|p1a: Whimsicott
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1780928874
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisspe
+|turn|12
+|
+|t:|1780928884
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|-activate|p2a: Slither Wing|ability: Protosynthesis
+|-start|p2a: Slither Wing|protosynthesisatk
+|move|p1a: Great Tusk|Headlong Rush|p2a: Slither Wing
+|-resisted|p2a: Slither Wing
+|-damage|p2a: Slither Wing|80/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|84/100|[from] item: Rocky Helmet|[of] p2a: Slither Wing
+|
+|-weather|none
+|-end|p1a: Great Tusk|Protosynthesis
+|-end|p2a: Slither Wing|Protosynthesis
+|upkeep
+|turn|13
+|
+|t:|1780928890
+|move|p1a: Great Tusk|Stealth Rock|p2a: Slither Wing
+|-sidestart|p2: cachowcapow|move: Stealth Rock
+|move|p2a: Slither Wing|U-turn|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|69/100
+|-damage|p2a: Slither Wing|64/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|
+|t:|1780928892
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|
+|upkeep
+|turn|14
+|
+|t:|1780928899
+|move|p1a: Great Tusk|Ice Spinner|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|66/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Great Tusk
+|-damage|p1a: Great Tusk|54/100
+|-boost|p2a: Great Tusk|spe|1
+|-damage|p2a: Great Tusk|50/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|-sideend|p2: cachowcapow|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|15
+|
+|t:|1780928911
+|move|p2a: Great Tusk|Headlong Rush|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-damage|p2a: Great Tusk|33/100|[from] item: Rocky Helmet|[of] p1a: Great Tusk
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1780928915
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisspe
+|turn|16
+|inactive|cachowcapow has 120 seconds left.
+|
+|t:|1780928952
+|move|p2a: Great Tusk|Headlong Rush|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1780928960
+|switch|p1a: Comfey|Comfey, M|100/100
+|turn|17
+|
+|t:|1780928967
+|move|p2a: Great Tusk|Headlong Rush|p1a: Comfey
+|-crit|p1a: Comfey
+|-damage|p1a: Comfey|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Comfey
+|
+|win|cachowcapow
+|raw|volcaronaisboss's rating: 1566 &rarr; <strong>1552</strong><br />(-14 for losing)
+|raw|cachowcapow's rating: 1665 &rarr; <strong>1679</strong><br />(+14 for winning)
+|l|☆cachowcapow
+|player|p2|
+|c|☆volcaronaisboss|okay
+|l|☆volcaronaisboss
+|player|p1|

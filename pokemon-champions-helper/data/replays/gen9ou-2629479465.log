@@ -1,0 +1,277 @@
+|j|☆KurisuChestnutOU
+|j|☆bigtestsofbig
+|t:|1781135963
+|gametype|singles
+|player|p1|KurisuChestnutOU|may-contest|1556
+|player|p2|bigtestsofbig|265|1578
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hawlucha, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Gholdengo|
+|poke|p1|Kyurem|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Bisharp, F|
+|poke|p2|Moltres|
+|poke|p2|Great Tusk|
+|poke|p2|Primarina, F|
+|poke|p2|Iron Boulder|
+|poke|p2|Darkrai|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutOU)
+|
+|t:|1781135974
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Primarina|Primarina, F|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781135982
+|move|p1a: Kyurem|Freeze-Dry|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|56/100
+|move|p2a: Primarina|Moonblast|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|30/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781135989
+|move|p1a: Kyurem|Freeze-Dry|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|9/100
+|move|p2a: Primarina|Moonblast|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781135993
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|3
+|
+|t:|1781135996
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Rillaboom|Wood Hammer|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|83/100
+|-damage|p1a: Rillaboom|95/100|[from] Recoil
+|
+|-heal|p1a: Rillaboom|100/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781136001
+|-terastallize|p1a: Rillaboom|Fire
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|move|p2a: Moltres|Will-O-Wisp|p1a: Rillaboom
+|-immune|p1a: Rillaboom
+|
+|upkeep
+|turn|5
+|
+|t:|1781136009
+|switch|p2a: Primarina|Primarina, F|9/100
+|move|p1a: Rillaboom|Knock Off|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|-enditem|p2a: Primarina|Assault Vest|[from] move: Knock Off|[of] p1a: Rillaboom
+|faint|p2a: Primarina
+|
+|upkeep
+|
+|t:|1781136038
+|switch|p2a: Iron Boulder|Iron Boulder|100/100
+|turn|6
+|
+|t:|1781136044
+|-end|p2a: Iron Boulder|Quark Drive|[silent]
+|switch|p2a: Moltres|Moltres|83/100
+|move|p1a: Rillaboom|Knock Off|p2a: Moltres
+|-damage|p2a: Moltres|30/100
+|-enditem|p2a: Moltres|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Rillaboom
+|
+|upkeep
+|turn|7
+|
+|t:|1781136048
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Rillaboom|Knock Off|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|73/100
+|-enditem|p2a: Great Tusk|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Rillaboom
+|
+|-heal|p2a: Great Tusk|79/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1781136052
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Great Tusk|atk|1
+|move|p2a: Great Tusk|Headlong Rush|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|upkeep
+|turn|9
+|
+|t:|1781136057
+|move|p1a: Landorus|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: bigtestsofbig|move: Stealth Rock
+|move|p2a: Great Tusk|Rapid Spin|p1a: Landorus
+|-damage|p1a: Landorus|89/100
+|-boost|p2a: Great Tusk|spe|1
+|-damage|p2a: Great Tusk|63/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|-sideend|p2: bigtestsofbig|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|10
+|
+|t:|1781136063
+|move|p2a: Great Tusk|Ice Spinner|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|15/100
+|-damage|p2a: Great Tusk|47/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|move|p1a: Landorus|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: bigtestsofbig|move: Stealth Rock
+|
+|upkeep
+|turn|11
+|
+|t:|1781136067
+|move|p2a: Great Tusk|Ice Spinner|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-damage|p2a: Great Tusk|30/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1781136074
+|switch|p1a: Rillaboom|Rillaboom, F, tera:Fire|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|12
+|
+|t:|1781136080
+|move|p1a: Rillaboom|Grassy Glide|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781136083
+|switch|p2a: Bisharp|Bisharp, F|100/100
+|-damage|p2a: Bisharp|95/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1781136087
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|move|p2a: Bisharp|Swords Dance|p2a: Bisharp
+|-boost|p2a: Bisharp|atk|2
+|
+|-heal|p2a: Bisharp|100/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1781136092
+|move|p1a: Rillaboom|Knock Off|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|74/100
+|-enditem|p2a: Bisharp|Eviolite|[from] move: Knock Off|[of] p1a: Rillaboom
+|move|p2a: Bisharp|Throat Chop|p1a: Rillaboom
+|-damage|p1a: Rillaboom|14/100
+|-start|p1a: Rillaboom|Throat Chop|[silent]
+|
+|-heal|p1a: Rillaboom|20/100|[from] Grassy Terrain
+|-heal|p2a: Bisharp|80/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1781136098
+|move|p2a: Bisharp|Sucker Punch|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Bisharp|86/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781136104
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p1a: Hawlucha|Grassy Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Grassy Seed
+|turn|16
+|
+|t:|1781136123
+|-terastallize|p2a: Bisharp|Flying
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Bisharp|Throat Chop|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|66/100
+|-start|p1a: Hawlucha|Throat Chop|[silent]
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1781136137
+|move|p2a: Bisharp|Sucker Punch|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-crit|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|upkeep
+|
+|t:|1781136140
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|turn|18
+|
+|t:|1781136144
+|move|p1a: Samurott|Ceaseless Edge|p2a: Bisharp
+|-damage|p2a: Bisharp|38/100
+|-sidestart|p2: bigtestsofbig|Spikes
+|move|p2a: Bisharp|Low Kick|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781136153
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|19
+|
+|t:|1781136157
+|move|p1a: Gholdengo|Recover||[still]
+|-fail|p1a: Gholdengo|heal
+|move|p2a: Bisharp|Throat Chop|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|win|bigtestsofbig
+|raw|KurisuChestnutOU's rating: 1540 &rarr; <strong>1522</strong><br />(-18 for losing)
+|raw|bigtestsofbig's rating: 1578 &rarr; <strong>1596</strong><br />(+18 for winning)

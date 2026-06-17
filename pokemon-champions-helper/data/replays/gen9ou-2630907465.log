@@ -1,0 +1,237 @@
+|j|‽v1n001
+|j|☆rexa2
+|t:|1781309645
+|gametype|singles
+|player|p1|v1n001|266|1598
+|player|p2|rexa2|brock|1527
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Raging Bolt|
+|poke|p1|Alomomola, F|
+|poke|p1|Ting-Lu|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p2|Maushold-Four|
+|poke|p2|Kilowattrel, M|
+|poke|p2|Incineroar, M|
+|poke|p2|Slowking, M|
+|poke|p2|Cetitan, M|
+|poke|p2|Whimsicott, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by v1n001)
+|
+|t:|1781309662
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|switch|p2a: Whimsicott|Whimsicott, F|100/100
+|turn|1
+|
+|t:|1781309673
+|move|p2a: Whimsicott|Switcheroo|p1a: Raging Bolt
+|-activate|p2a: Whimsicott|move: Trick|[of] p1a: Raging Bolt
+|-item|p1a: Raging Bolt|Lagging Tail|[from] move: Switcheroo
+|-item|p2a: Whimsicott|Choice Specs|[from] move: Switcheroo
+|move|p1a: Raging Bolt|Volt Switch|p2a: Whimsicott
+|-resisted|p2a: Whimsicott
+|-damage|p2a: Whimsicott|74/100
+|
+|t:|1781309689
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Weezing|Weezing-Galar, F, shiny|100/100|[from] Volt Switch
+|-ability|p1a: Weezing|Neutralizing Gas
+|
+|upkeep
+|turn|2
+|
+|t:|1781309695
+|switch|p2a: Slowking|Slowking, M|100/100
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781309698
+|move|p1a: Ogerpon|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|23/100
+|-enditem|p2a: Slowking|Leftovers|[from] move: Knock Off|[of] p1a: Ogerpon
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781309705
+|switch|p2a: Cetitan|Cetitan, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781309709
+|move|p2a: Cetitan|Belly Drum|p2a: Cetitan
+|-damage|p2a: Cetitan|50/100
+|-setboost|p2a: Cetitan|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Cetitan|Sitrus Berry|[eat]
+|-heal|p2a: Cetitan|75/100|[from] item: Sitrus Berry
+|move|p1a: Ogerpon|U-turn|p2a: Cetitan
+|-damage|p2a: Cetitan|55/100
+|
+|t:|1781309725
+|switch|p1a: Ting-Lu|Ting-Lu|100/100|[from] U-turn
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781309728
+|-terastallize|p1a: Ting-Lu|Poison
+|move|p2a: Cetitan|Ice Spinner|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|4/100
+|move|p1a: Ting-Lu|Whirlwind|p2a: Cetitan
+|drag|p2a: Incineroar|Incineroar, M|100/100
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Ting-Lu|atk|1
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|10/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781309734
+|switch|p1a: Alomomola|Alomomola, F, shiny|100/100
+|move|p2a: Incineroar|Knock Off|p1a: Alomomola
+|-damage|p1a: Alomomola|77/100
+|-enditem|p1a: Alomomola|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Incineroar
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781309742
+|move|p2a: Incineroar|Parting Shot|p1a: Alomomola
+|-unboost|p1a: Alomomola|atk|1
+|-unboost|p1a: Alomomola|spa|1
+|
+|t:|1781309761
+|switch|p2a: Toretto|Maushold-Four|100/100|[from] Parting Shot
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-weather|none
+|upkeep
+|turn|8
+|
+|t:|1781309768
+|switch|p1a: Weezing|Weezing-Galar, F, shiny|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Toretto|U-turn|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|98/100
+|
+|t:|1781309783
+|switch|p2a: Slowking|Slowking, M|56/100|[from] U-turn
+|
+|-heal|p1a: Weezing|100/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|9
+|
+|t:|1781309786
+|move|p1a: Weezing|Sludge Bomb|p2a: Slowking
+|-damage|p2a: Slowking|38/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781309795
+|switch|p2a: Kilowattrel|Kilowattrel, M|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781309804
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|move|p2a: Kilowattrel|Volt Switch|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|91/100
+|-damage|p2a: Kilowattrel|91/100|[from] item: Life Orb
+|
+|t:|1781309819
+|switch|p2a: Cetitan|Cetitan, M|55/100|[from] Volt Switch
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781309824
+|move|p2a: Cetitan|Ice Spinner|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|8/100
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Cetitan
+|-damage|p2a: Cetitan|0 fnt
+|faint|p2a: Cetitan
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781309834
+|switch|p2a: Kilowattrel|Kilowattrel, M|91/100
+|turn|12
+|
+|t:|1781309840
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Kilowattrel|atk|1
+|move|p2a: Kilowattrel|Volt Switch|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781309844
+|move|p1a: Landorus|Stone Edge|p2a: Kilowattrel|[miss]
+|-miss|p1a: Landorus|p2a: Kilowattrel
+|move|p2a: Kilowattrel|Weather Ball|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-damage|p2a: Kilowattrel|81/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1781309866
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|14
+|
+|t:|1781309870
+|move|p2a: Kilowattrel|Air Slash|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|-damage|p2a: Kilowattrel|71/100|[from] item: Life Orb
+|
+|upkeep
+|-message|v1n001 forfeited.
+|
+|win|rexa2
+|raw|v1n001's rating: 1614 &rarr; <strong>1589</strong><br />(-25 for losing)
+|raw|rexa2's rating: 1527 &rarr; <strong>1552</strong><br />(+25 for winning)
+|l|‽v1n001
+|player|p1|

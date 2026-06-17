@@ -1,0 +1,272 @@
+|j|☆Davy12345
+|j|☆Superhjkdetective
+|t:|1781081245
+|gametype|singles
+|player|p1|Davy12345|drayden|1621
+|player|p2|Superhjkdetective|2|1616
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Gholdengo|
+|poke|p1|Raging Bolt|
+|poke|p1|Kingambit, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Deoxys-Speed|
+|poke|p2|Ninetales, F|
+|poke|p2|Ceruledge, M|
+|poke|p2|Great Tusk|
+|poke|p2|Hatterene, F|
+|poke|p2|Walking Wake|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Davy12345)
+|
+|t:|1781081257
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|1
+|
+|t:|1781081264
+|move|p1a: Deoxys|Taunt|p2a: Ceruledge
+|-start|p2a: Ceruledge|move: Taunt
+|cant|p2a: Ceruledge|move: Taunt|Swords Dance
+|
+|upkeep
+|turn|2
+|
+|t:|1781081268
+|move|p1a: Deoxys|Skill Swap|p2a: Ceruledge
+|-activate|p1a: Deoxys|Skill Swap|Weak Armor|Pressure|[of] p2a: Ceruledge
+|-ability|p2a: Ceruledge|Pressure
+|move|p2a: Ceruledge|Poltergeist|p1a: Deoxys
+|-activate|p1a: Deoxys|move: Poltergeist|Focus Sash
+|-supereffective|p1a: Deoxys
+|-enditem|p1a: Deoxys|Focus Sash
+|-damage|p1a: Deoxys|1/100
+|-ability|p1a: Deoxys|Weak Armor|boost
+|-unboost|p1a: Deoxys|def|1
+|-boost|p1a: Deoxys|spe|2
+|
+|upkeep
+|turn|3
+|
+|t:|1781081281
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|-end|p2a: Ceruledge|move: Taunt
+|upkeep
+|
+|t:|1781081290
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|4
+|
+|t:|1781081296
+|switch|p2a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Ninetales
+|-damage|p2a: Ninetales|14/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781081301
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Hatterene
+|-damage|p2a: Hatterene|22/100
+|-enditem|p2a: Hatterene|Eject Button
+|
+|t:|1781081307
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781081313
+|-terastallize|p1a: Raging Bolt|Fairy
+|move|p2a: Great Tusk|Headlong Rush|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|23/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781081323
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|turn|7
+|j| yuureisuisei
+|
+|t:|1781081328
+|move|p1a: Raging Bolt|Thunderclap|p2a: Walking Wake
+|-damage|p2a: Walking Wake|35/100
+|move|p2a: Walking Wake|Flamethrower|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781081341
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|8
+|j| fsdzfsedfdgs
+|
+|t:|1781081346
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Hatterene|Hatterene, F|22/100
+|move|p1a: Iron Valiant|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781081350
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|turn|9
+|
+|t:|1781081354
+|move|p1a: Iron Valiant|Knock Off|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|8/100
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|-enditem|p2a: Ceruledge|Focus Sash|[from] move: Knock Off|[of] p1a: Iron Valiant
+|move|p2a: Ceruledge|Bitter Blade|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|-heal|p2a: Ceruledge|58/100|[from] drain|[of] p1a: Iron Valiant
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|l| fsdzfsedfdgs
+|
+|t:|1781081366
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|10
+|
+|t:|1781081368
+|move|p2a: Ceruledge|Bitter Blade|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|-heal|p2a: Ceruledge|100/100|[from] drain|[of] p1a: Ogerpon
+|faint|p1a: Ogerpon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781081371
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|11
+|
+|t:|1781081377
+|move|p1a: Kingambit|Sucker Punch|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|-weather|none
+|upkeep
+|
+|t:|1781081381
+|switch|p2a: Ninetales|Ninetales, F|14/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|12
+|
+|t:|1781081384
+|-end|p1a: Kingambit|fallen4|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Ninetales|Encore|p1a: Gholdengo
+|-immune|p1a: Gholdengo|[from] ability: Good as Gold
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781081387
+|move|p2a: Ninetales|Overheat|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-crit|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-unboost|p2a: Ninetales|spa|2
+|-enditem|p1a: Gholdengo|Air Balloon
+|faint|p1a: Gholdengo
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781081389
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|turn|14
+|
+|t:|1781081396
+|move|p2a: Ninetales|Will-O-Wisp|p1a: Kingambit
+|-status|p1a: Kingambit|brn
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Kingambit|94/100 brn|[from] brn
+|upkeep
+|
+|t:|1781081399
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|15
+|
+|t:|1781081405
+|move|p2a: Raging Bolt|Weather Ball|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen5|[silent]
+|-damage|p2a: Raging Bolt|90/100|[from] item: Life Orb
+|
+|win|Superhjkdetective
+|raw|Davy12345's rating: 1621 &rarr; <strong>1601</strong><br />(-20 for losing)
+|raw|Superhjkdetective's rating: 1616 &rarr; <strong>1636</strong><br />(+20 for winning)
+|l|☆Davy12345
+|player|p1|
+|l| yuureisuisei

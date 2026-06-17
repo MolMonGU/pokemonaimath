@@ -1,0 +1,347 @@
+|j|☆STONE CHAI
+|j|☆gabboh
+|t:|1781598190
+|gametype|singles
+|player|p1|STONE CHAI|102|1594
+|player|p2|gabboh|266|1556
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragonite, M|
+|poke|p1|Iron Moth|
+|poke|p1|Iron Valiant|
+|poke|p1|Ogerpon-Cornerstone, F|
+|poke|p1|Primarina, M|
+|poke|p1|Kyurem|
+|poke|p2|Hatterene, F|
+|poke|p2|Porygon2|
+|poke|p2|Volcanion|
+|poke|p2|Ursaluna, F|
+|poke|p2|Iron Hands|
+|poke|p2|Cresselia, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by gabboh)
+|
+|t:|1781598215
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespa
+|turn|1
+|inactive|gabboh has 120 seconds left.
+|
+|t:|1781598270
+|move|p1a: Iron Moth|Overheat|p2a: Hatterene
+|-damage|p2a: Hatterene|5/100
+|-unboost|p1a: Iron Moth|spa|2
+|move|p2a: Hatterene|Trick Room|p2a: Hatterene
+|-fieldstart|move: Trick Room|[of] p2a: Hatterene
+|
+|upkeep
+|turn|2
+|
+|t:|1781598282
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Hatterene|Psychic Noise|p1a: Kyurem
+|-damage|p1a: Kyurem|77/100
+|-start|p1a: Kyurem|move: Heal Block
+|
+|upkeep
+|turn|3
+|
+|t:|1781598294
+|move|p2a: Hatterene|Misty Explosion|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|15/100
+|faint|p2a: Hatterene
+|move|p1a: Kyurem|Ice Beam|p2: Hatterene|[notarget]
+|-fail|p1a: Kyurem
+|
+|-end|p1a: Kyurem|move: Heal Block
+|upkeep
+|inactive|gabboh has 90 seconds left.
+|
+|t:|1781598310
+|switch|p2a: Ursaluna|Ursaluna, F|100/100
+|turn|4
+|
+|t:|1781598332
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|move|p2a: Ursaluna|Facade|p1a: Dragonite
+|-damage|p1a: Dragonite|76/100
+|
+|-status|p2a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|5
+|
+|t:|1781598350
+|move|p2a: Ursaluna|Facade|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|-damage|p2a: Ursaluna|94/100 brn|[from] brn
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1781598357
+|switch|p1a: Primarina|Primarina, M|100/100
+|turn|6
+|inactive|STONE CHAI has 120 seconds left.
+|inactive|gabboh has 90 seconds left.
+|
+|t:|1781598395
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|move|p1a: Primarina|Psychic|p2a: Cresselia
+|-resisted|p2a: Cresselia
+|-damage|p2a: Cresselia|85/100
+|
+|upkeep
+|turn|7
+|inactive|STONE CHAI has 120 seconds left.
+|
+|t:|1781598402
+|switch|p1a: Kyurem|Kyurem|15/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Cresselia|Trick Room|p2a: Cresselia
+|-fieldstart|move: Trick Room|[of] p2a: Cresselia
+|
+|upkeep
+|turn|8
+|inactive|gabboh has 90 seconds left.
+|
+|t:|1781598411
+|move|p2a: Cresselia|Moonblast|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781598419
+|switch|p1a: Primarina|Primarina, M|100/100
+|turn|9
+|inactive|STONE CHAI has 120 seconds left.
+|
+|t:|1781598434
+|switch|p2a: Volcanion|Volcanion|100/100
+|move|p1a: Primarina|Moonblast|p2a: Volcanion
+|-resisted|p2a: Volcanion
+|-damage|p2a: Volcanion|56/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781598446
+|move|p2a: Volcanion|Sludge Bomb|p1a: Primarina
+|-supereffective|p1a: Primarina
+|-damage|p1a: Primarina|11/100
+|-status|p1a: Primarina|psn
+|move|p1a: Primarina|Moonblast|p2a: Volcanion
+|-resisted|p2a: Volcanion
+|-crit|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|faint|p2a: Volcanion
+|
+|-damage|p1a: Primarina|0 fnt|[from] psn
+|faint|p1a: Primarina
+|upkeep
+|inactive|STONE CHAI has 120 seconds left.
+|
+|t:|1781598460
+|switch|p2a: Ursaluna|Ursaluna, F|94/100 brn
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|turn|11
+|
+|t:|1781598469
+|move|p2a: Ursaluna|Fire Punch|p1a: Ogerpon
+|-damage|p1a: Ogerpon|44/100
+|move|p1a: Ogerpon|Counter|p2a: Ursaluna
+|-damage|p2a: Ursaluna|21/100 brn
+|
+|-damage|p2a: Ursaluna|15/100 brn|[from] brn
+|-fieldend|move: Trick Room
+|upkeep
+|turn|12
+|
+|t:|1781598480
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Ursaluna|[anim] Ivy Cudgel Rock
+|-resisted|p2a: Ursaluna
+|-damage|p2a: Ursaluna|0 fnt
+|faint|p2a: Ursaluna
+|
+|upkeep
+|
+|t:|1781598485
+|switch|p2a: Porygon2|Porygon2|100/100
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|atk|1
+|turn|13
+|
+|t:|1781598489
+|move|p1a: Ogerpon|Taunt|p2a: Porygon2
+|-start|p2a: Porygon2|move: Taunt
+|cant|p2a: Porygon2|move: Taunt|Trick Room
+|
+|upkeep
+|turn|14
+|inactive|STONE CHAI has 120 seconds left.
+|
+|t:|1781598523
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|move|p2a: Porygon2|Ice Beam|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|86/100
+|-status|p1a: Iron Moth|frz
+|
+|upkeep
+|turn|15
+|
+|t:|1781598532
+|switch|p2a: Cresselia|Cresselia, F|85/100
+|cant|p1a: Iron Moth|frz
+|
+|upkeep
+|turn|16
+|
+|t:|1781598544
+|-curestatus|p1a: Iron Moth|frz|[msg]
+|move|p1a: Iron Moth|Overheat|p2a: Cresselia
+|-damage|p2a: Cresselia|38/100
+|-unboost|p1a: Iron Moth|spa|2
+|move|p2a: Cresselia|Trick Room|p2a: Cresselia
+|-fieldstart|move: Trick Room|[of] p2a: Cresselia
+|
+|upkeep
+|turn|17
+|inactive|STONE CHAI has 120 seconds left.
+|
+|t:|1781598583
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Cresselia|Psychic|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|6/100
+|
+|upkeep
+|turn|18
+|inactive|STONE CHAI has 90 seconds left.
+|inactive|STONE CHAI has 60 seconds left.
+|
+|t:|1781598645
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, F|44/100
+|move|p2a: Cresselia|Psychic|p1a: Ogerpon
+|-damage|p1a: Ogerpon|15/100
+|
+|upkeep
+|turn|19
+|j| avernux
+|
+|t:|1781598653
+|move|p2a: Cresselia|Psychic|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1781598657
+|switch|p1a: Iron Moth|Iron Moth|86/100
+|turn|20
+|
+|t:|1781598673
+|move|p2a: Cresselia|Psychic|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|30/100
+|move|p1a: Iron Moth|Fiery Dance|p2a: Cresselia
+|-damage|p2a: Cresselia|9/100
+|-boost|p1a: Iron Moth|spa|1
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|21
+|
+|t:|1781598681
+|move|p1a: Iron Moth|Fiery Dance|p2a: Cresselia
+|-damage|p2a: Cresselia|0 fnt
+|faint|p2a: Cresselia
+|
+|upkeep
+|
+|t:|1781598685
+|switch|p2a: Porygon2|Porygon2|100/100
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|atk|1
+|turn|22
+|
+|t:|1781598698
+|move|p1a: Iron Moth|Overheat|p2a: Porygon2
+|-damage|p2a: Porygon2|31/100
+|-unboost|p1a: Iron Moth|spa|2
+|move|p2a: Porygon2|Trick Room|p2a: Porygon2
+|-fieldstart|move: Trick Room|[of] p2a: Porygon2
+|
+|upkeep
+|turn|23
+|
+|t:|1781598710
+|move|p2a: Porygon2|Hyper Beam|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|-mustrecharge|p2a: Porygon2
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781598714
+|switch|p1a: Iron Valiant|Iron Valiant|6/100
+|turn|24
+|inactive|STONE CHAI has 90 seconds left.
+|
+|t:|1781598734
+|cant|p2a: Porygon2|recharge
+|move|p1a: Iron Valiant|Moonblast|p2a: Porygon2
+|-damage|p2a: Porygon2|0 fnt
+|faint|p2a: Porygon2
+|
+|upkeep
+|
+|t:|1781598740
+|switch|p2a: Iron Hands|Iron Hands, shiny|100/100
+|-enditem|p2a: Iron Hands|Booster Energy
+|-activate|p2a: Iron Hands|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Hands|quarkdriveatk
+|turn|25
+|
+|t:|1781598745
+|move|p2a: Iron Hands|Wild Charge|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|-damage|p2a: Iron Hands|99/100|[from] Recoil
+|
+|win|gabboh
+|raw|STONE CHAI's rating: 1594 &rarr; <strong>1572</strong><br />(-22 for losing)
+|raw|gabboh's rating: 1556 &rarr; <strong>1578</strong><br />(+22 for winning)
+|l|☆STONE CHAI
+|player|p1|
+|l|☆gabboh
+|player|p2|
+|l| avernux

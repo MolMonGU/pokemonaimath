@@ -1,0 +1,461 @@
+|j|☆weiee
+|j|☆rekjllj
+|t:|1781306052
+|gametype|singles
+|player|p1|weiee|169|1517
+|player|p2|rekjllj|169|1581
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Salamence, F|
+|poke|p1|Glimmora, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Scizor, F|
+|poke|p1|Raging Bolt|
+|poke|p2|Walking Wake|
+|poke|p2|Great Tusk|
+|poke|p2|Ninetales, M|
+|poke|p2|Cresselia, F|
+|poke|p2|Zarude|
+|poke|p2|Ceruledge, M|
+|teampreview
+|c|☆rekjllj|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by rekjllj)
+|
+|t:|1781306062
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Scizor|Scizor, F|100/100
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|turn|1
+|
+|t:|1781306068
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781306074
+|move|p1a: Iron Valiant|Encore|p2a: Ceruledge
+|-start|p2a: Ceruledge|Encore
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1781306079
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Cresselia
+|-damage|p2a: Cresselia|73/100
+|-enditem|p2a: Cresselia|Eject Button
+|
+|t:|1781306086
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781306091
+|switch|p2a: Cresselia|Cresselia, F|73/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Cresselia
+|-damage|p2a: Cresselia|48/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781306100
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|98/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781306106
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Scizor|U-turn|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|81/100
+|
+|t:|1781306113
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|7
+|
+|t:|1781306118
+|-terastallize|p2a: Great Tusk|Steel
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Great Tusk|[anim] Ivy Cudgel Water
+|-damage|p2a: Great Tusk|37/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Ogerpon
+|-damage|p1a: Ogerpon|77/100
+|-boost|p2a: Great Tusk|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781306126
+|move|p2a: Great Tusk|Close Combat|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1781306131
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|turn|9
+|
+|t:|1781306137
+|move|p1a: Iron Valiant|Vacuum Wave|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781306141
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|turn|10
+|
+|t:|1781306144
+|move|p1a: Iron Valiant|Moonblast|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|71/100
+|move|p2a: Ceruledge|Bitter Blade|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|38/100
+|-heal|p2a: Ceruledge|100/100|[from] drain|[of] p1a: Iron Valiant
+|
+|upkeep
+|turn|11
+|
+|t:|1781306148
+|switch|p2a: Cresselia|Cresselia, F|98/100
+|move|p1a: Iron Valiant|Destiny Bond|p1a: Iron Valiant
+|-singlemove|p1a: Iron Valiant|Destiny Bond
+|
+|upkeep
+|turn|12
+|
+|t:|1781306152
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|move|p2a: Cresselia|Psychic|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|37/100
+|-unboost|p1a: Glimmora|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781306159
+|move|p1a: Glimmora|Stealth Rock|p2a: Cresselia
+|-sidestart|p2: rekjllj|move: Stealth Rock
+|move|p2a: Cresselia|Psychic|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1781306162
+|switch|p1a: Scizor|Scizor, F|100/100
+|turn|14
+|
+|t:|1781306170
+|move|p2a: Cresselia|Thunder Wave|p1a: Scizor
+|-status|p1a: Scizor|par
+|move|p1a: Scizor|Knock Off|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|54/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781306177
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|100/100
+|move|p1a: Scizor|Knock Off|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|54/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781306183
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|100/100
+|move|p1a: Scizor|Knock Off|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|58/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781306189
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|100/100
+|move|p1a: Scizor|Knock Off|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|59/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781306195
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|100/100
+|cant|p1a: Scizor|par
+|
+|upkeep
+|turn|19
+|
+|t:|1781306201
+|switch|p2a: Zarude|Zarude|100/100
+|-damage|p2a: Zarude|88/100|[from] Stealth Rock
+|move|p1a: Scizor|Knock Off|p2a: Zarude
+|-resisted|p2a: Zarude
+|-damage|p2a: Zarude|62/100
+|-enditem|p2a: Zarude|Leftovers|[from] move: Knock Off|[of] p1a: Scizor
+|
+|upkeep
+|turn|20
+|
+|t:|1781306207
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|move|p2a: Zarude|Synthesis|p2a: Zarude
+|-heal|p2a: Zarude|100/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781306213
+|move|p2a: Zarude|Knock Off|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|61/100
+|-enditem|p1a: Raging Bolt|Assault Vest|[from] move: Knock Off|[of] p2a: Zarude
+|move|p1a: Raging Bolt|Volt Switch|p2a: Zarude
+|-resisted|p2a: Zarude
+|-damage|p2a: Zarude|78/100
+|
+|t:|1781306215
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Scizor|Scizor, F|100/100 par|[from] Volt Switch
+|
+|upkeep
+|turn|22
+|
+|t:|1781306221
+|move|p2a: Zarude|Knock Off|p1a: Scizor
+|-damage|p1a: Scizor|49/100 par
+|-enditem|p1a: Scizor|Choice Band|[from] move: Knock Off|[of] p2a: Zarude
+|cant|p1a: Scizor|par
+|
+|upkeep
+|turn|23
+|
+|t:|1781306227
+|move|p2a: Zarude|Knock Off|p1a: Scizor
+|-damage|p1a: Scizor|18/100 par
+|move|p1a: Scizor|U-turn|p2a: Zarude
+|-supereffective|p2a: Zarude
+|-damage|p2a: Zarude|0 fnt
+|faint|p2a: Zarude
+|
+|t:|1781306232
+|switch|p1a: Raging Bolt|Raging Bolt|61/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781306238
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|-damage|p2a: Cresselia|88/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781306244
+|move|p2a: Cresselia|Psychic|p1a: Raging Bolt
+|-crit|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|27/100
+|move|p1a: Raging Bolt|Volt Switch|p2a: Cresselia
+|-damage|p2a: Cresselia|65/100
+|
+|t:|1781306246
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Scizor|Scizor, F|18/100 par|[from] Volt Switch
+|
+|upkeep
+|turn|25
+|
+|t:|1781306252
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|100/100
+|move|p1a: Scizor|Knock Off|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|73/100
+|
+|upkeep
+|turn|26
+|
+|t:|1781306258
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|100/100
+|cant|p1a: Scizor|par
+|
+|upkeep
+|turn|27
+|
+|t:|1781306264
+|move|p2a: Cresselia|Psychic|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|3/100 par
+|cant|p1a: Scizor|par
+|
+|upkeep
+|turn|28
+|
+|t:|1781306270
+|move|p1a: Scizor|Bullet Punch|p2a: Cresselia
+|-damage|p2a: Cresselia|78/100
+|move|p2a: Cresselia|Psychic|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1781306278
+|switch|p1a: Raging Bolt|Raging Bolt|27/100
+|turn|29
+|
+|t:|1781306284
+|move|p2a: Cresselia|Psychic|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|7/100
+|move|p1a: Raging Bolt|Volt Switch|p2a: Cresselia
+|-damage|p2a: Cresselia|52/100
+|
+|t:|1781306288
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Iron Valiant|Iron Valiant|38/100|[from] Volt Switch
+|
+|upkeep
+|turn|30
+|
+|t:|1781306292
+|move|p1a: Iron Valiant|Encore|p2a: Cresselia
+|-start|p2a: Cresselia|Encore
+|move|p2a: Cresselia|Psychic|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781306293
+|switch|p1a: Salamence|Salamence, F|100/100
+|turn|31
+|
+|t:|1781306299
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-damage|p2a: Walking Wake|88/100|[from] Stealth Rock
+|move|p1a: Salamence|Dragon Dance|p1a: Salamence
+|-boost|p1a: Salamence|atk|1
+|-boost|p1a: Salamence|spe|1
+|
+|upkeep
+|turn|32
+|
+|t:|1781306305
+|-terastallize|p1a: Salamence|Flying
+|move|p1a: Salamence|Substitute|p1a: Salamence
+|-start|p1a: Salamence|Substitute
+|-damage|p1a: Salamence|76/100
+|move|p2a: Walking Wake|Dragon Tail|p1a: Salamence
+|-activate|p1a: Salamence|move: Substitute|[damage]
+|
+|-heal|p1a: Salamence|82/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1781306312
+|move|p1a: Salamence|Dual Wingbeat|p2a: Walking Wake
+|-damage|p2a: Walking Wake|39/100
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|-ability|p1a: Salamence|Moxie|boost
+|-boost|p1a: Salamence|atk|1
+|-hitcount|p2: Walking Wake|2
+|
+|-heal|p1a: Salamence|88/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781306316
+|switch|p2a: Ninetales|Ninetales, M|100/100
+|-damage|p2a: Ninetales|76/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|34
+|
+|t:|1781306320
+|move|p1a: Salamence|Earthquake|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|-ability|p1a: Salamence|Moxie|boost
+|-boost|p1a: Salamence|atk|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Salamence|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781306324
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|-damage|p2a: Ceruledge|76/100|[from] Stealth Rock
+|turn|35
+|
+|t:|1781306327
+|move|p1a: Salamence|Earthquake|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|-ability|p1a: Salamence|Moxie|boost
+|-boost|p1a: Salamence|atk|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Salamence|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781306331
+|switch|p2a: Cresselia|Cresselia, F|52/100
+|-damage|p2a: Cresselia|40/100|[from] Stealth Rock
+|turn|36
+|
+|t:|1781306334
+|move|p1a: Salamence|Dual Wingbeat|p2a: Cresselia
+|-damage|p2a: Cresselia|0 fnt
+|faint|p2a: Cresselia
+|-hitcount|p2: Cresselia|1
+|
+|win|weiee
+|raw|weiee's rating: 1517 &rarr; <strong>1541</strong><br />(+24 for winning)
+|raw|rekjllj's rating: 1581 &rarr; <strong>1557</strong><br />(-24 for losing)
+|c|☆rekjllj|gg

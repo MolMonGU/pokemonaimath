@@ -1,0 +1,369 @@
+|j|☆LoseToRU?
+|j|☆stevstacks
+|t:|1781324530
+|gametype|singles
+|player|p1|LoseToRU?|giovanni-gen1|1514
+|player|p2|stevstacks|1|1555
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Jugulis|
+|poke|p1|Thundurus, M|
+|poke|p1|Azumarill, F|
+|poke|p1|Zamazenta-*|
+|poke|p1|Cloyster, M|
+|poke|p1|Iron Valiant|
+|poke|p2|Torkoal, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Walking Wake|
+|poke|p2|Great Tusk|
+|poke|p2|Zamazenta-*|
+|poke|p2|Dragonite, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by stevstacks)
+|
+|t:|1781324557
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|switch|p2a: Torkoal|Torkoal, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|1
+|
+|t:|1781324571
+|move|p1a: Iron Valiant|Taunt|p2a: Torkoal
+|-start|p2a: Torkoal|move: Taunt
+|move|p2a: Torkoal|Overheat|p1a: Iron Valiant
+|-crit|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|-unboost|p2a: Torkoal|spa|2
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|LoseToRU? has 120 seconds left.
+|inactive|LoseToRU? has 90 seconds left.
+|
+|t:|1781324644
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|2
+|
+|t:|1781324664
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Walking Wake
+|-damage|p2a: Walking Wake|55/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781324668
+|move|p2a: Walking Wake|Hydro Steam|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|4/100
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Walking Wake
+|-damage|p2a: Walking Wake|6/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781324671
+|move|p2a: Walking Wake|Hydro Steam|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781324675
+|switch|p1a: Azumarill|Azumarill, F, shiny|100/100
+|turn|5
+|
+|t:|1781324677
+|move|p2a: Walking Wake|Hydro Steam|p1a: Azumarill
+|-resisted|p1a: Azumarill
+|-damage|p1a: Azumarill|70/100
+|move|p1a: Azumarill|Liquidation|p2a: Walking Wake
+|-resisted|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781324681
+|switch|p2a: Great Tusk|Great Tusk, shiny|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|6
+|inactive|LoseToRU? has 120 seconds left.
+|
+|t:|1781324697
+|move|p2a: Great Tusk|Headlong Rush|p1a: Azumarill
+|-damage|p1a: Azumarill|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Azumarill
+|-damage|p2a: Great Tusk|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|LoseToRU? has 120 seconds left.
+|inactive|LoseToRU? has 90 seconds left.
+|inactive|LoseToRU? has 60 seconds left.
+|
+|t:|1781324767
+|switch|p1a: Thundurus|Thundurus, M|100/100
+|turn|7
+|
+|t:|1781324770
+|move|p1a: Thundurus|Focus Blast|p2a: Great Tusk|[miss]
+|-miss|p1a: Thundurus|p2a: Great Tusk
+|move|p2a: Great Tusk|Ice Spinner|p1a: Thundurus
+|-supereffective|p1a: Thundurus
+|-enditem|p1a: Thundurus|Focus Sash
+|-damage|p1a: Thundurus|1/100
+|-damage|p2a: Great Tusk|81/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781324775
+|move|p1a: Thundurus|Focus Blast|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781324780
+|switch|p2a: Corviknight|Corviknight, F, shiny|100/100
+|-ability|p2a: Corviknight|Pressure
+|turn|9
+|
+|t:|1781324808
+|move|p1a: Thundurus|Thunderbolt|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|40/100
+|move|p2a: Corviknight|U-turn|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|
+|t:|1781324814
+|switch|p2a: Zamazenta|Zamazenta|100/100|[from] U-turn
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|
+|upkeep
+|inactive|LoseToRU? has 60 seconds left.
+|l|☆stevstacks
+|inactive|stevstacks disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆stevstacks
+|inactive|stevstacks reconnected.
+|player|p2|stevstacks|1|
+|inactive|LoseToRU? has 30 seconds left.
+|inactive|LoseToRU? has 20 seconds left.
+|inactive|LoseToRU? has 15 seconds left.
+|inactive|LoseToRU? has 10 seconds left.
+|
+|t:|1781324881
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|10
+|inactive|LoseToRU? has 20 seconds left this turn.
+|
+|t:|1781324885
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|upkeep
+|turn|11
+|inactive|LoseToRU? has 30 seconds left this turn.
+|
+|t:|1781324888
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Zamazenta|Roar|p1a: Zamazenta
+|drag|p1a: Cloyster|Cloyster, M|100/100
+|
+|upkeep
+|turn|12
+|inactive|LoseToRU? has 30 seconds left.
+|
+|t:|1781324907
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|
+|upkeep
+|turn|13
+|
+|t:|1781324909
+|move|p1a: Cloyster|Icicle Spear|p2a: Zamazenta
+|-damage|p2a: Zamazenta|96/100
+|-damage|p2a: Zamazenta|90/100
+|-damage|p2a: Zamazenta|85/100
+|-damage|p2a: Zamazenta|80/100
+|-damage|p2a: Zamazenta|75/100
+|-hitcount|p2a: Zamazenta|5
+|move|p2a: Zamazenta|Body Press|p1a: Cloyster
+|-supereffective|p1a: Cloyster
+|-enditem|p1a: Cloyster|Focus Sash
+|-damage|p1a: Cloyster|1/100
+|
+|-heal|p2a: Zamazenta|81/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781324911
+|move|p1a: Cloyster|Icicle Spear|p2a: Zamazenta
+|-damage|p2a: Zamazenta|76/100
+|-damage|p2a: Zamazenta|71/100
+|-damage|p2a: Zamazenta|66/100
+|-damage|p2a: Zamazenta|61/100
+|-crit|p2a: Zamazenta
+|-damage|p2a: Zamazenta|34/100
+|-hitcount|p2a: Zamazenta|5
+|move|p2a: Zamazenta|Body Press|p1a: Cloyster
+|-supereffective|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|
+|-heal|p2a: Zamazenta|40/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781324914
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|turn|15
+|
+|t:|1781324916
+|-terastallize|p1a: Zamazenta|Ghost
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Zamazenta|Body Press|p1a: Zamazenta
+|-immune|p1a: Zamazenta
+|
+|-heal|p2a: Zamazenta|47/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781324920
+|switch|p2a: Torkoal|Torkoal, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|17
+|inactive|LoseToRU? has 60 seconds left.
+|
+|t:|1781324948
+|-terastallize|p2a: Torkoal|Ghost
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|75/100
+|move|p2a: Torkoal|Will-O-Wisp||[still]
+|-fail|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Zamazenta|82/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781324951
+|move|p1a: Zamazenta|Crunch|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|70/100
+|move|p2a: Torkoal|Overheat|p1a: Zamazenta
+|-end|p1a: Zamazenta|Substitute
+|-unboost|p2a: Torkoal|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Zamazenta|88/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781324955
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|63/100
+|move|p2a: Torkoal|Overheat|p1a: Zamazenta
+|-activate|p1a: Zamazenta|move: Substitute|[damage]
+|-unboost|p2a: Torkoal|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Zamazenta|69/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781324958
+|switch|p2a: Zamazenta|Zamazenta|47/100
+|move|p1a: Zamazenta|Crunch|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|39/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Zamazenta|75/100|[from] item: Leftovers
+|-heal|p2a: Zamazenta|45/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|inactive|LoseToRU? has 90 seconds left.
+|
+|t:|1781324967
+|move|p1a: Zamazenta|Body Press|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Zamazenta|81/100|[from] item: Leftovers
+|upkeep
+|inactive|stevstacks has 120 seconds left.
+|l|☆stevstacks
+|inactive|stevstacks disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|stevstacks has 30 seconds to reconnect!
+|inactive|stevstacks has 20 seconds to reconnect!
+|inactive|stevstacks has 15 seconds to reconnect!
+|inactive|stevstacks has 10 seconds to reconnect!
+|inactive|stevstacks has 5 seconds to reconnect!
+|-message|stevstacks lost due to inactivity.
+|
+|win|LoseToRU?
+|raw|LoseToRU?'s rating: 1534 &rarr; <strong>1555</strong><br />(+21 for winning)
+|raw|stevstacks's rating: 1555 &rarr; <strong>1534</strong><br />(-21 for losing)
+|l|☆LoseToRU?
+|player|p1|

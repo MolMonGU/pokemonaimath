@@ -1,0 +1,226 @@
+|j|☆SofteLocke
+|j|☆Croomz
+|t:|1781544019
+|gametype|singles
+|player|p1|SofteLocke|170|1673
+|player|p2|Croomz|169|1626
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torkoal, M|
+|poke|p1|Walking Wake|
+|poke|p1|Great Tusk|
+|poke|p1|Hatterene, F|
+|poke|p1|Ceruledge, F|
+|poke|p1|Raging Bolt|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Dragonite, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Iron Moth|
+|poke|p2|Iron Valiant|
+|poke|p2|Moltres-Galar|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Croomz)
+|
+|t:|1781544035
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespe
+|turn|1
+|
+|t:|1781544038
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Iron Moth|Fiery Dance|p1a: Hatterene
+|-damage|p1a: Hatterene|37/100
+|-boost|p2a: Iron Moth|spa|1
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781544040
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781544051
+|-terastallize|p2a: Iron Moth|Fairy
+|move|p2a: Iron Moth|Dazzling Gleam|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781544056
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|turn|3
+|
+|t:|1781544066
+|move|p2a: Iron Moth|Sludge Wave|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|60/100
+|move|p1a: Ceruledge|Bitter Blade|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|-heal|p1a: Ceruledge|100/100|[from] drain|[of] p2a: Iron Moth
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781544072
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|turn|4
+|
+|t:|1781544078
+|move|p1a: Ceruledge|Close Combat|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-enditem|p2a: Samurott|Focus Sash
+|-damage|p2a: Samurott|1/100
+|-unboost|p1a: Ceruledge|def|1
+|-unboost|p1a: Ceruledge|spd|1
+|move|p2a: Samurott|Ceaseless Edge|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-enditem|p1a: Ceruledge|Focus Sash
+|-damage|p1a: Ceruledge|1/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|-sidestart|p1: SofteLocke|Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781544084
+|move|p1a: Ceruledge|Bitter Blade|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|-heal|p1a: Ceruledge|1/100|[from] drain|[of] p2a: Samurott
+|faint|p2a: Samurott
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781544088
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|6
+|
+|t:|1781544091
+|move|p2a: Iron Valiant|Knock Off|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781544095
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|-damage|p1a: Torkoal|88/100|[from] Spikes
+|turn|7
+|
+|t:|1781544101
+|move|p2a: Iron Valiant|Moonblast|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|60/100
+|move|p1a: Torkoal|Lava Plume|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|27/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781544104
+|move|p2a: Iron Valiant|Destiny Bond|p2a: Iron Valiant
+|-singlemove|p2a: Iron Valiant|Destiny Bond
+|move|p1a: Torkoal|Lava Plume|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-activate|p2a: Iron Valiant|move: Destiny Bond
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|faint|p1a: Torkoal
+|
+|-weather|none
+|upkeep
+|
+|t:|1781544110
+|switch|p2a: Moltres|Moltres-Galar|100/100
+|switch|p1a: Hatterene|Hatterene, F|37/100
+|-damage|p1a: Hatterene|25/100|[from] Spikes
+|turn|9
+|
+|t:|1781544115
+|move|p2a: Moltres|Fiery Wrath|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781544118
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-damage|p1a: Walking Wake|88/100|[from] Spikes
+|turn|10
+|
+|t:|1781544129
+|-terastallize|p1a: Walking Wake|Fairy
+|move|p1a: Walking Wake|Dragon Pulse|p2a: Moltres
+|-damage|p2a: Moltres|62/100
+|move|p2a: Moltres|Agility|p2a: Moltres
+|-boost|p2a: Moltres|spe|2
+|
+|upkeep
+|turn|11
+|
+|t:|1781544137
+|move|p2a: Moltres|Hurricane|p1a: Walking Wake|[miss]
+|-miss|p2a: Moltres|p1a: Walking Wake
+|move|p1a: Walking Wake|Draco Meteor|p2a: Moltres
+|-damage|p2a: Moltres|4/100
+|-unboost|p1a: Walking Wake|spa|2
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|-enditem|p2a: Moltres|Sitrus Berry|[eat]
+|-heal|p2a: Moltres|29/100|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|12
+|
+|t:|1781544141
+|move|p2a: Moltres|Hurricane|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|upkeep
+|-message|SofteLocke forfeited.
+|
+|win|Croomz
+|raw|SofteLocke's rating: 1673 &rarr; <strong>1650</strong><br />(-23 for losing)
+|raw|Croomz's rating: 1626 &rarr; <strong>1649</strong><br />(+23 for winning)
+|l|☆SofteLocke
+|player|p1|
+|l|☆Croomz
+|player|p2|

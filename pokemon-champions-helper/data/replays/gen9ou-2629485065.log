@@ -1,0 +1,251 @@
+|j|☆KurisuChestnutOU
+|j|☆kennojex
+|t:|1781136667
+|gametype|singles
+|player|p1|KurisuChestnutOU|may-contest|1518
+|player|p2|kennojex|lucas|1590
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, F|
+|poke|p1|Kommo-o, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Crown|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Garganacl, M|
+|poke|p2|Manaphy|
+|poke|p2|Latias, F|
+|poke|p2|Incineroar, M|
+|poke|p2|Gliscor, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KurisuChestnutOU)
+|
+|t:|1781136676
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781136689
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: kennojex|move: Light Screen
+|
+|upkeep
+|turn|2
+|
+|t:|1781136695
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|68/100
+|move|p2a: Grimmsnarl|Spirit Break|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|6/100
+|-unboost|p1a: Kommo-o|spa|1
+|
+|-heal|p1a: Kommo-o|12/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781136705
+|move|p1a: Kommo-o|Drain Punch|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|46/100
+|-heal|p1a: Kommo-o|43/100|[from] drain|[of] p2a: Grimmsnarl
+|move|p2a: Grimmsnarl|Spirit Break|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|upkeep
+|
+|t:|1781136712
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|4
+|
+|t:|1781136719
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: kennojex|Reflect
+|move|p1a: Kyurem|Icicle Spear|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|38/100
+|-damage|p2a: Grimmsnarl|30/100
+|-damage|p2a: Grimmsnarl|22/100
+|-damage|p2a: Grimmsnarl|14/100
+|-hitcount|p2a: Grimmsnarl|4
+|
+|upkeep
+|turn|5
+|
+|t:|1781136725
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|move|p2a: Grimmsnarl|Parting Shot|p1a: Iron Crown
+|-unboost|p1a: Iron Crown|atk|1
+|-unboost|p1a: Iron Crown|spa|1
+|
+|t:|1781136728
+|switch|p2a: Incineroar|Incineroar, M|100/100|[from] Parting Shot
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Iron Crown|atk|1
+|
+|upkeep
+|turn|6
+|
+|t:|1781136735
+|move|p1a: Iron Crown|Focus Blast|p2a: Incineroar
+|-supereffective|p2a: Incineroar
+|-damage|p2a: Incineroar|77/100
+|-enditem|p2a: Incineroar|Weakness Policy
+|-boost|p2a: Incineroar|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Incineroar|spa|2|[from] item: Weakness Policy
+|move|p2a: Incineroar|Flame Charge|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|14/100
+|-boost|p2a: Incineroar|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781136742
+|move|p1a: Iron Crown|Focus Blast|p2a: Incineroar
+|-supereffective|p2a: Incineroar
+|-damage|p2a: Incineroar|52/100
+|move|p2a: Incineroar|Flame Charge|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|-boost|p2a: Incineroar|spe|1
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781136748
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|8
+|
+|t:|1781136756
+|move|p2a: Incineroar|Power Trip|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|-sideend|p2: kennojex|move: Light Screen
+|upkeep
+|
+|t:|1781136761
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|9
+|
+|t:|1781136767
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Incineroar|Flame Charge|p1a: Iron Valiant
+|-crit|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|23/100
+|-boost|p2a: Incineroar|spe|1
+|
+|upkeep
+|turn|10
+|
+|t:|1781136772
+|move|p2a: Incineroar|Flame Charge|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|-boost|p2a: Incineroar|spe|1
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781136775
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|11
+|
+|t:|1781136784
+|-end|p1a: Kingambit|fallen4|[silent]
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|-terastallize|p2a: Incineroar|Fire
+|move|p2a: Incineroar|Flame Charge|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|10/100
+|-boost|p2a: Incineroar|spe|1
+|
+|-sideend|p2: kennojex|Reflect
+|upkeep
+|turn|12
+|
+|t:|1781136788
+|move|p2a: Incineroar|Flame Charge|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-crit|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-boost|p2a: Incineroar|spe|1
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781136796
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|turn|13
+|
+|t:|1781136799
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|move|p2a: Incineroar|Bulk Up|p2a: Incineroar
+|-boost|p2a: Incineroar|atk|1
+|-boost|p2a: Incineroar|def|1
+|
+|upkeep
+|turn|14
+|
+|t:|1781136805
+|move|p1a: Kingambit|Sucker Punch|p2a: Incineroar
+|-damage|p2a: Incineroar|9/100
+|move|p2a: Incineroar|Power Trip|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen5|[silent]
+|
+|win|kennojex
+|raw|KurisuChestnutOU's rating: 1533 &rarr; <strong>1516</strong><br />(-17 for losing)
+|raw|kennojex's rating: 1590 &rarr; <strong>1607</strong><br />(+17 for winning)
+|l|☆KurisuChestnutOU
+|player|p1|
+|l|☆kennojex
+|player|p2|
+|j|☆kennojex
+|player|p2|kennojex|lucas|
+|l|☆kennojex
+|player|p2|

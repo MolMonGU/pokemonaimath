@@ -1,0 +1,260 @@
+|j|☆jimola
+|j|☆LowEL0God
+|t:|1781209351
+|gametype|singles
+|player|p1|jimola|2|1475
+|player|p2|LowEL0God|265|1586
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Treads|
+|poke|p1|Hatterene, F|
+|poke|p1|Iron Thorns|
+|poke|p1|Pincurchin, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Iron Jugulis|
+|poke|p2|Pelipper, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781209365
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pincurchin|Pincurchin, M|100/100
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|turn|1
+|
+|t:|1781209375
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|move|p1a: Pincurchin|Spikes|p2a: Kingambit
+|-sidestart|p2: LowEL0God|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1781209389
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Kingambit|Iron Head|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781209391
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|3
+|
+|t:|1781209400
+|move|p1a: Iron Valiant|Close Combat|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|
+|upkeep
+|
+|t:|1781209401
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|4
+|
+|t:|1781209407
+|move|p1a: Iron Valiant|Thunderbolt|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781209408
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|-damage|p2a: Barraskewda|88/100|[from] Spikes
+|turn|5
+|
+|t:|1781209437
+|move|p2a: Barraskewda|Flip Turn|p1a: Iron Valiant
+|-enditem|p1a: Iron Valiant|Focus Sash
+|-damage|p1a: Iron Valiant|1/100
+|
+|t:|1781209438
+|switch|p2a: Overqwil|Overqwil, M|100/100|[from] Flip Turn
+|-damage|p2a: Overqwil|88/100|[from] Spikes
+|move|p1a: Iron Valiant|Thunderbolt|p2a: Overqwil
+|-damage|p2a: Overqwil|31/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781209449
+|move|p1a: Iron Valiant|Thunderbolt|p2a: Overqwil
+|-crit|p2a: Overqwil
+|-damage|p2a: Overqwil|0 fnt
+|faint|p2a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781209450
+|switch|p2a: Barraskewda|Barraskewda, F|88/100
+|-damage|p2a: Barraskewda|75/100|[from] Spikes
+|turn|7
+|
+|t:|1781209457
+|move|p2a: Barraskewda|Liquidation|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781209468
+|switch|p1a: Pincurchin|Pincurchin, M|100/100
+|turn|8
+|
+|t:|1781209485
+|-terastallize|p1a: Pincurchin|Grass
+|move|p2a: Barraskewda|Liquidation|p1a: Pincurchin
+|-resisted|p1a: Pincurchin
+|-damage|p1a: Pincurchin|43/100
+|move|p1a: Pincurchin|Scald|p2a: Barraskewda
+|-resisted|p2a: Barraskewda
+|-damage|p2a: Barraskewda|32/100
+|-status|p2a: Barraskewda|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Barraskewda|26/100 brn|[from] brn
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|9
+|
+|t:|1781209496
+|move|p2a: Barraskewda|Liquidation|p1a: Pincurchin
+|-resisted|p1a: Pincurchin
+|-damage|p1a: Pincurchin|13/100
+|move|p1a: Pincurchin|Scald|p2a: Barraskewda
+|-resisted|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781209497
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Spikes
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|10
+|
+|t:|1781209512
+|move|p2a: Raging Bolt|Weather Ball|p1a: Pincurchin
+|-resisted|p1a: Pincurchin
+|-damage|p1a: Pincurchin|0 fnt
+|faint|p1a: Pincurchin
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781209522
+|switch|p1a: Iron Thorns|Iron Thorns|100/100
+|turn|11
+|
+|t:|1781209532
+|move|p1a: Iron Thorns|Ice Punch|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|30/100
+|move|p2a: Raging Bolt|Weather Ball|p1a: Iron Thorns
+|-supereffective|p1a: Iron Thorns
+|-damage|p1a: Iron Thorns|0 fnt
+|faint|p1a: Iron Thorns
+|-end|p1a: Iron Thorns|Quark Drive|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781209536
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|turn|12
+|
+|t:|1781209541
+|move|p1a: Iron Treads|Rapid Spin|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|14/100
+|-boost|p1a: Iron Treads|spe|1
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|27/100
+|-unboost|p2a: Raging Bolt|spa|2
+|
+|upkeep
+|turn|13
+|
+|t:|1781209548
+|move|p2a: Raging Bolt|Thunderclap|p1a: Iron Treads
+|-immune|p1a: Iron Treads
+|move|p1a: Iron Treads|Rapid Spin|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-boost|p1a: Iron Treads|spe|1
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781209548
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-damage|p2a: Iron Treads|88/100|[from] Spikes
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|14
+|
+|t:|1781209550
+|-terastallize|p2a: Iron Treads|Ghost
+|move|p1a: Iron Treads|Earthquake|p2a: Iron Treads
+|-damage|p2a: Iron Treads|40/100
+|move|p2a: Iron Treads|Stealth Rock|p1a: Iron Treads
+|-sidestart|p1: jimola|move: Stealth Rock
+|
+|upkeep
+|turn|15
+|
+|t:|1781209557
+|move|p1a: Iron Treads|Earthquake|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|win|jimola
+|raw|jimola's rating: 1475 &rarr; <strong>1501</strong><br />(+26 for winning)
+|raw|LowEL0God's rating: 1586 &rarr; <strong>1560</strong><br />(-26 for losing)
+|l|☆jimola
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|

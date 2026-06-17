@@ -1,0 +1,300 @@
+|j|☆pepinoloko
+|j|☆Kizukato
+|t:|1780922097
+|gametype|singles
+|player|p1|pepinoloko|byron|1577
+|player|p2|Kizukato|cynthia|1615
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zoroark-Hisui, F|
+|poke|p1|Cinderace, F|
+|poke|p1|Araquanid, F|
+|poke|p1|Kleavor, M|
+|poke|p1|Mienshao, M|
+|poke|p1|Hydrapple, F|
+|poke|p2|Gholdengo|
+|poke|p2|Rillaboom, F|
+|poke|p2|Iron Treads|
+|poke|p2|Raging Bolt|
+|poke|p2|Iron Valiant|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kizukato)
+|
+|t:|1780922120
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kleavor|Kleavor, M|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1780922126
+|move|p1a: Kleavor|Flamethrower|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|upkeep
+|
+|t:|1780922139
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|2
+|
+|t:|1780922154
+|switch|p1a: Araquanid|Araquanid, F|100/100
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1780922161
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Araquanid
+|-supereffective|p1a: Araquanid
+|-damage|p1a: Araquanid|10/100
+|move|p1a: Araquanid|Mirror Coat|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-heal|p1a: Araquanid|17/100|[from] Grassy Terrain
+|-heal|p1a: Araquanid|23/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780922176
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|4
+|
+|t:|1780922182
+|switch|p1a: Hydrapple|Hydrapple, F|100/100
+|move|p2a: Ogerpon|Power Whip|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|89/100
+|-damage|p2a: Ogerpon|84/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|
+|-heal|p2a: Ogerpon|90/100|[from] Grassy Terrain
+|-heal|p1a: Hydrapple|95/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1780922188
+|move|p2a: Ogerpon|U-turn|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|62/100
+|-damage|p2a: Ogerpon|73/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|
+|t:|1780922191
+|switch|p2a: Iron Treads|Iron Treads|100/100|[from] U-turn
+|move|p1a: Hydrapple|Fickle Beam|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|88/100
+|
+|-heal|p2a: Iron Treads|94/100|[from] Grassy Terrain
+|-heal|p1a: Hydrapple|68/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1780922201
+|switch|p1a: Mienshao|Mienshao, M|100/100
+|move|p2a: Iron Treads|Knock Off|p1a: Mienshao
+|-resisted|p1a: Mienshao
+|-damage|p1a: Mienshao|77/100
+|-enditem|p1a: Mienshao|Life Orb|[from] move: Knock Off|[of] p2a: Iron Treads
+|
+|-heal|p2a: Iron Treads|99/100|[from] Grassy Terrain
+|-heal|p1a: Mienshao|83/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1780922207
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Mienshao|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|21/100
+|-enditem|p2a: Gholdengo|Choice Scarf|[from] move: Knock Off|[of] p1a: Mienshao
+|
+|-heal|p1a: Mienshao|89/100|[from] Grassy Terrain
+|-heal|p2a: Gholdengo|27/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1780922212
+|move|p1a: Mienshao|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|-heal|p1a: Mienshao|95/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1780922217
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|9
+|
+|t:|1780922225
+|switch|p1a: Araquanid|Araquanid, F|23/100
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|
+|-heal|p1a: Araquanid|29/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1780922232
+|move|p2a: Iron Valiant|Knock Off|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|-enditem|p1a: Araquanid|Leftovers|[from] move: Knock Off|[of] p2a: Iron Valiant
+|faint|p1a: Araquanid
+|
+|upkeep
+|
+|t:|1780922236
+|switch|p1a: Kleavor|Kleavor, M|100/100
+|turn|11
+|
+|t:|1780922241
+|move|p2a: Iron Valiant|Knock Off|p1a: Kleavor
+|-supereffective|p1a: Kleavor
+|-damage|p1a: Kleavor|0 fnt
+|replace|p1a: The end is nigh|Zoroark-Hisui, F
+|-end|p1a: The end is nigh|Illusion
+|-enditem|p1a: The end is nigh|Choice Specs|[from] move: Knock Off|[of] p2a: Iron Valiant
+|faint|p1a: The end is nigh
+|
+|upkeep
+|
+|t:|1780922244
+|switch|p1a: Hydrapple|Hydrapple, F|100/100
+|turn|12
+|
+|t:|1780922248
+|-terastallize|p2a: Iron Valiant|Fairy
+|-terastallize|p1a: Hydrapple|Fairy
+|move|p2a: Iron Valiant|Moonblast|p1a: Hydrapple
+|-damage|p1a: Hydrapple|49/100
+|-unboost|p1a: Hydrapple|spa|1
+|move|p1a: Hydrapple|Earth Power|p2a: Iron Valiant
+|-crit|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|33/100
+|
+|upkeep
+|turn|13
+|
+|t:|1780922260
+|move|p2a: Iron Valiant|Moonblast|p1a: Hydrapple
+|-damage|p1a: Hydrapple|1/100
+|-unboost|p1a: Hydrapple|spa|1
+|move|p1a: Hydrapple|Earth Power|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|11/100
+|
+|upkeep
+|turn|14
+|
+|t:|1780922274
+|move|p2a: Iron Valiant|Moonblast|p1a: Hydrapple
+|-damage|p1a: Hydrapple|0 fnt
+|faint|p1a: Hydrapple
+|
+|upkeep
+|
+|t:|1780922277
+|switch|p1a: U-Turn from sin|Cinderace, F|100/100
+|turn|15
+|
+|t:|1780922284
+|move|p1a: U-Turn from sin|Sucker Punch|p2a: Iron Valiant
+|-start|p1a: U-Turn from sin|typechange|Dark|[from] ability: Libero
+|-resisted|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780922303
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|73/100
+|turn|16
+|
+|t:|1780922310
+|move|p1a: U-Turn from sin|U-turn|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|13/100
+|
+|t:|1780922312
+|switch|p1a: Mienshao|Mienshao, M|100/100|[from] U-turn
+|move|p2a: Ogerpon|U-turn|p1a: Mienshao
+|-resisted|p1a: Mienshao
+|-damage|p1a: Mienshao|73/100
+|
+|t:|1780922315
+|switch|p2a: Iron Treads|Iron Treads|99/100|[from] U-turn
+|
+|upkeep
+|turn|17
+|
+|t:|1780922322
+|move|p2a: Iron Treads|High Horsepower|p1a: Mienshao
+|-damage|p1a: Mienshao|5/100
+|move|p1a: Mienshao|Close Combat|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|8/100
+|-unboost|p1a: Mienshao|def|1
+|-unboost|p1a: Mienshao|spd|1
+|
+|upkeep
+|turn|18
+|
+|t:|1780922328
+|move|p2a: Iron Treads|Rapid Spin|p1a: Mienshao
+|-damage|p1a: Mienshao|0 fnt
+|-boost|p2a: Iron Treads|spe|1
+|faint|p1a: Mienshao
+|
+|upkeep
+|
+|t:|1780922332
+|switch|p1a: U-Turn from sin|Cinderace, F|100/100
+|turn|19
+|
+|t:|1780922336
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|13/100
+|move|p1a: U-Turn from sin|Sucker Punch||[still]
+|-fail|p1a: U-Turn from sin
+|
+|upkeep
+|turn|20
+|
+|t:|1780922342
+|move|p1a: U-Turn from sin|U-turn|p2a: Ogerpon
+|-start|p1a: U-Turn from sin|typechange|Bug|[from] ability: Libero
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|-message|Kizukato forfeited.
+|
+|win|pepinoloko
+|raw|pepinoloko's rating: 1577 &rarr; <strong>1599</strong><br />(+22 for winning)
+|raw|Kizukato's rating: 1615 &rarr; <strong>1593</strong><br />(-22 for losing)
+|l|☆Kizukato
+|player|p2|
+|l|☆pepinoloko
+|player|p1|

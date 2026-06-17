@@ -1,0 +1,293 @@
+|j|☆vartholomeus
+|j|☆LowEL0God
+|t:|1781590684
+|gametype|singles
+|player|p1|vartholomeus|gambler|1519
+|player|p2|LowEL0God|265|1639
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Moltres|
+|poke|p1|Kleavor, F|
+|poke|p1|Greninja-*, M|
+|poke|p1|Ting-Lu|
+|poke|p1|Iron Valiant|
+|poke|p1|Gholdengo|
+|poke|p2|Pelipper, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by vartholomeus)
+|c|☆LowEL0God|hf
+|
+|t:|1781590687
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Klingk|Kleavor, F|100/100
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|turn|1
+|inactive|LowEL0God also wants the timer to be on.
+|
+|t:|1781590690
+|move|p1a: Klingk|Close Combat|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1a: Klingk|def|1
+|-unboost|p1a: Klingk|spd|1
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|
+|upkeep
+|
+|t:|1781590692
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|2
+|
+|t:|1781590694
+|move|p2a: Barraskewda|Flip Turn|p1a: Klingk
+|-supereffective|p1a: Klingk
+|-enditem|p1a: Klingk|Focus Sash
+|-damage|p1a: Klingk|1/100
+|
+|t:|1781590697
+|switch|p2a: Iron Treads|Iron Treads|100/100|[from] Flip Turn
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Klingk|Stone Axe|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|88/100
+|-sidestart|p2: LowEL0God|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781590701
+|-terastallize|p1a: Klingk|Ghost
+|move|p2a: Iron Treads|Rapid Spin|p1a: Klingk
+|-immune|p1a: Klingk
+|move|p1a: Klingk|Close Combat|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|2/100
+|-unboost|p1a: Klingk|def|1
+|-unboost|p1a: Klingk|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1781590704
+|move|p1a: Klingk|Quick Attack|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781590705
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|-damage|p2a: Barraskewda|88/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1781590707
+|move|p1a: Klingk|Quick Attack|p2a: Barraskewda
+|-damage|p2a: Barraskewda|59/100
+|move|p2a: Barraskewda|Liquidation|p1a: Klingk
+|-damage|p1a: Klingk|0 fnt
+|faint|p1a: Klingk
+|
+|upkeep
+|
+|t:|1781590712
+|switch|p1a: Suke|Greninja, M|100/100
+|turn|6
+|
+|t:|1781590714
+|move|p1a: Suke|Dark Pulse|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|-ability|p1a: Suke|Battle Bond|boost
+|-boost|p1a: Suke|atk|1
+|-boost|p1a: Suke|spa|1
+|-boost|p1a: Suke|spe|1
+|-activate|p1a: Suke|ability: Battle Bond
+|-damage|p1a: Suke|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781590716
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|7
+|
+|t:|1781590719
+|switch|p1a: Lulu|Ting-Lu|100/100
+|-ability|p1a: Lulu|Vessel of Ruin
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|
+|upkeep
+|turn|8
+|
+|t:|1781590723
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-damage|p2a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Lulu|Earthquake|p2a: Pelipper
+|-immune|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781590727
+|switch|p1a: Suke|Greninja, M|91/100
+|move|p2a: Pelipper|Weather Ball|p1a: Suke
+|-resisted|p1a: Suke
+|-damage|p1a: Suke|50/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781590729
+|move|p1a: Suke|Dark Pulse|p2a: Pelipper
+|-damage|p2a: Pelipper|11/100
+|-damage|p1a: Suke|40/100|[from] item: Life Orb
+|move|p2a: Pelipper|Hurricane|p1a: Suke
+|-damage|p1a: Suke|0 fnt
+|faint|p1a: Suke
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781590736
+|switch|p1a: Mantequillo|Gholdengo|100/100
+|turn|11
+|
+|t:|1781590738
+|move|p1a: Mantequillo|Shadow Ball|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781590739
+|switch|p2a: Overqwil|Overqwil, M|100/100
+|-damage|p2a: Overqwil|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781590743
+|switch|p1a: Lulu|Ting-Lu|100/100
+|-ability|p1a: Lulu|Vessel of Ruin
+|-terastallize|p2a: Overqwil|Water
+|move|p2a: Overqwil|Swords Dance|p2a: Overqwil
+|-boost|p2a: Overqwil|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781590753
+|move|p2a: Overqwil|Liquidation|p1a: Lulu
+|-supereffective|p1a: Lulu
+|-damage|p1a: Lulu|0 fnt
+|faint|p1a: Lulu
+|-damage|p2a: Overqwil|78/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781590758
+|switch|p1a: Maltro|Moltres|100/100
+|turn|14
+|
+|t:|1781590762
+|move|p2a: Overqwil|Liquidation|p1a: Maltro
+|-supereffective|p1a: Maltro
+|-damage|p1a: Maltro|0 fnt
+|-status|p2a: Overqwil|brn|[from] ability: Flame Body|[of] p1a: Maltro
+|faint|p1a: Maltro
+|-damage|p2a: Overqwil|69/100 brn|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Overqwil|63/100 brn|[from] brn
+|upkeep
+|
+|t:|1781590770
+|switch|p1a: Mantequillo|Gholdengo|100/100
+|turn|15
+|
+|t:|1781590773
+|move|p2a: Overqwil|Crunch|p1a: Mantequillo
+|-supereffective|p1a: Mantequillo
+|-damage|p1a: Mantequillo|0 fnt
+|faint|p1a: Mantequillo
+|-damage|p2a: Overqwil|53/100 brn|[from] item: Life Orb
+|
+|-weather|none
+|-damage|p2a: Overqwil|47/100 brn|[from] brn
+|upkeep
+|
+|t:|1781590777
+|switch|p1a: Irohak|Iron Valiant|100/100
+|-enditem|p1a: Irohak|Booster Energy
+|-activate|p1a: Irohak|ability: Quark Drive|[fromitem]
+|-start|p1a: Irohak|quarkdrivespe
+|turn|16
+|
+|t:|1781590779
+|move|p1a: Irohak|Close Combat|p2a: Overqwil
+|-damage|p2a: Overqwil|0 fnt
+|-unboost|p1a: Irohak|def|1
+|-unboost|p1a: Irohak|spd|1
+|faint|p2a: Overqwil
+|
+|upkeep
+|
+|t:|1781590780
+|switch|p2a: Raging Bolt|Raging Bolt|88/100
+|-damage|p2a: Raging Bolt|76/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1781590786
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Irohak|Encore|p2a: Raging Bolt
+|-start|p2a: Raging Bolt|Encore
+|
+|upkeep
+|turn|18
+|
+|t:|1781590790
+|move|p2a: Raging Bolt|Thunderclap|p1a: Irohak
+|-damage|p1a: Irohak|0 fnt
+|faint|p1a: Irohak
+|-end|p1a: Irohak|Quark Drive|[silent]
+|
+|win|LowEL0God
+|raw|vartholomeus's rating: 1519 &rarr; <strong>1506</strong><br />(-13 for losing)
+|raw|LowEL0God's rating: 1639 &rarr; <strong>1652</strong><br />(+13 for winning)
+|l|☆vartholomeus
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|

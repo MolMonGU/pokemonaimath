@@ -1,0 +1,257 @@
+|j|‽zippitytippity
+|j|‽lt_alt1
+|t:|1780970752
+|gametype|singles
+|player|p1|zippitytippity|cynthia-masters4|1659
+|player|p2|lt_alt1|170|1735
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Heatran, F|
+|poke|p1|Kyurem|
+|poke|p1|Gholdengo|
+|poke|p1|Enamorus, F|
+|poke|p1|Cinderace, M|
+|poke|p2|Darkrai|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Treads|
+|poke|p2|Raging Bolt|
+|poke|p2|Gliscor, F|
+|teampreview
+|
+|t:|1780970772
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Heatran|Heatran, F|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|turn|1
+|
+|t:|1780970780
+|move|p2a: Iron Treads|Earthquake|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1780970785
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by zippitytippity)
+|
+|t:|1780970796
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|move|p1a: Cinderace|Pyro Ball|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|77/100
+|
+|-heal|p2a: Raging Bolt|83/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1780970806
+|move|p1a: Cinderace|U-turn|p2a: Raging Bolt
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p2a: Raging Bolt|52/100
+|
+|t:|1780970810
+|switch|p1a: Kyurem|Kyurem|100/100|[from] U-turn
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Kyurem
+|
+|-heal|p2a: Raging Bolt|58/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780970812
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|turn|4
+|
+|t:|1780970825
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Enamorus|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|38/100
+|
+|-heal|p2a: Slowking|44/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1780970841
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|6
+|
+|t:|1780970848
+|-terastallize|p1a: Hoopa|Dark
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Gliscor
+|-damage|p2a: Gliscor|6/100 tox
+|-unboost|p1a: Hoopa|def|1
+|move|p2a: Gliscor|Toxic|p1a: Hoopa
+|-status|p1a: Hoopa|tox
+|
+|-damage|p1a: Hoopa|95/100 tox|[from] psn
+|-heal|p2a: Gliscor|18/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|7
+|
+|t:|1780970861
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Gliscor
+|-crit|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|-unboost|p1a: Hoopa|def|1
+|faint|p2a: Gliscor
+|
+|-damage|p1a: Hoopa|83/100 tox|[from] psn
+|upkeep
+|
+|t:|1780970865
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|turn|8
+|
+|t:|1780970875
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Iron Treads|Ice Spinner|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|90/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|upkeep
+|turn|9
+|
+|t:|1780970881
+|move|p2a: Iron Treads|Earthquake|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|4/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Iron Treads
+|-damage|p2a: Iron Treads|54/100
+|
+|upkeep
+|turn|10
+|
+|t:|1780970885
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|move|p2a: Iron Treads|Ice Spinner|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-damage|p1a: Enamorus|29/100
+|
+|upkeep
+|turn|11
+|
+|t:|1780970906
+|-terastallize|p2a: Iron Treads|Grass
+|move|p1a: Enamorus|Earth Power|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|25/100
+|move|p2a: Iron Treads|Rapid Spin|p1a: Enamorus
+|-damage|p1a: Enamorus|4/100
+|-boost|p2a: Iron Treads|spe|1
+|
+|upkeep
+|turn|12
+|
+|t:|1780970914
+|switch|p1a: Gholdengo|Gholdengo|4/100
+|move|p2a: Iron Treads|Ice Spinner|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1780970918
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|turn|13
+|
+|t:|1780970921
+|move|p1a: Cinderace|Sucker Punch|p2a: Iron Treads
+|-start|p1a: Cinderace|typechange|Dark|[from] ability: Libero
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780970926
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|14
+|
+|t:|1780970929
+|move|p2a: Darkrai|Focus Blast|p1a: Cinderace
+|-supereffective|p1a: Cinderace
+|-crit|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|upkeep
+|
+|t:|1780970934
+|switch|p1a: Enamorus|Enamorus, F|4/100
+|turn|15
+|
+|t:|1780970939
+|switch|p2a: Slowking|Slowking-Galar, M|77/100
+|move|p1a: Enamorus|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|18/100
+|
+|-heal|p2a: Slowking|24/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1780970944
+|move|p1a: Enamorus|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1780970947
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|17
+|
+|t:|1780970951
+|switch|p1a: Hoopa|Hoopa-Unbound, tera:Dark|83/100 tox
+|move|p2a: Darkrai|Ice Beam|p1a: Hoopa
+|-damage|p1a: Hoopa|54/100 tox
+|
+|-damage|p1a: Hoopa|48/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1780970962
+|move|p2a: Darkrai|Focus Blast|p1a: Hoopa
+|-supereffective|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|upkeep
+|-message|zippitytippity forfeited.
+|
+|win|lt_alt1
+|raw|zippitytippity's rating: 1659 &rarr; <strong>1643</strong><br />(-16 for losing)
+|raw|lt_alt1's rating: 1735 &rarr; <strong>1751</strong><br />(+16 for winning)
+|l|‽zippitytippity
+|player|p1|

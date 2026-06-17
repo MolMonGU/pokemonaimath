@@ -1,0 +1,304 @@
+|j|☆SincereSarje
+|j|☆suaiaj
+|t:|1781430264
+|gametype|singles
+|player|p1|SincereSarje|morty|1609
+|player|p2|suaiaj|juan|1623
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Alomomola, F|
+|poke|p1|Kyurem|
+|poke|p1|Zamazenta-*|
+|poke|p1|Great Tusk|
+|poke|p1|Ting-Lu|
+|poke|p1|Pecharunt|
+|poke|p2|Flygon, F|
+|poke|p2|Klefki, F|
+|poke|p2|Iron Moth|
+|poke|p2|Azumarill, M|
+|poke|p2|Kingambit, M|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SincereSarje)
+|
+|t:|1781430276
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|switch|p2a: Azumarill|Azumarill, M|100/100
+|turn|1
+|
+|t:|1781430286
+|move|p2a: Azumarill|Play Rough|p1a: Alomomola
+|-damage|p1a: Alomomola|60/100
+|move|p1a: Alomomola|Flip Turn|p2a: Azumarill
+|-resisted|p2a: Azumarill
+|-damage|p2a: Azumarill|91/100
+|
+|t:|1781430296
+|switch|p1a: Pecharunt|Pecharunt|100/100|[from] Flip Turn
+|-item|p1a: Pecharunt|Air Balloon
+|
+|upkeep
+|turn|2
+|
+|t:|1781430301
+|switch|p2a: Klefki|Klefki, F|100/100
+|move|p1a: Pecharunt|Parting Shot|p2a: Klefki
+|-unboost|p2a: Klefki|atk|1
+|-unboost|p2a: Klefki|spa|1
+|
+|t:|1781430311
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|3
+|
+|t:|1781430324
+|move|p2a: Klefki|Reflect|p2a: Klefki
+|-sidestart|p2: suaiaj|Reflect
+|move|p1a: Great Tusk|Headlong Rush|p2a: Klefki
+|-supereffective|p2a: Klefki
+|-damage|p2a: Klefki|34/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1781430334
+|switch|p2a: Azumarill|Azumarill, M|91/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Azumarill
+|-damage|p2a: Azumarill|58/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1781430340
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|-item|p1a: Pecharunt|Air Balloon
+|move|p2a: Azumarill|Belly Drum|p2a: Azumarill
+|-damage|p2a: Azumarill|8/100
+|-setboost|p2a: Azumarill|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Azumarill|Sitrus Berry|[eat]
+|-heal|p2a: Azumarill|33/100|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|6
+|
+|t:|1781430349
+|-terastallize|p2a: Azumarill|Ground
+|move|p1a: Pecharunt|Toxic|p2a: Azumarill
+|-status|p2a: Azumarill|tox
+|-start|p2a: Azumarill|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|-activate|p2a: Azumarill|confusion
+|move|p2a: Azumarill|Liquidation|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|-enditem|p1a: Pecharunt|Air Balloon
+|faint|p1a: Pecharunt
+|
+|-damage|p2a: Azumarill|27/100 tox|[from] psn
+|upkeep
+|
+|t:|1781430365
+|switch|p1a: Alomomola|Alomomola, F|94/100
+|turn|7
+|
+|t:|1781430369
+|move|p1a: Alomomola|Aqua Jet|p2a: Azumarill
+|-supereffective|p2a: Azumarill
+|-damage|p2a: Azumarill|15/100 tox
+|-activate|p2a: Azumarill|confusion
+|-damage|p2a: Azumarill|0 fnt|[from] confusion
+|faint|p2a: Azumarill
+|
+|upkeep
+|inactive|suaiaj has 120 seconds left.
+|
+|t:|1781430402
+|switch|p2a: Flygon|Flygon, F, shiny|100/100
+|turn|8
+|
+|t:|1781430415
+|move|p2a: Flygon|Dragon Dance|p2a: Flygon
+|-boost|p2a: Flygon|atk|1
+|-boost|p2a: Flygon|spe|1
+|move|p1a: Alomomola|Flip Turn|p2a: Flygon
+|-damage|p2a: Flygon|90/100
+|
+|t:|1781430423
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|9
+|
+|t:|1781430426
+|move|p2a: Flygon|Alluring Voice|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|28/100
+|-enditem|p2a: Flygon|Throat Spray
+|-boost|p2a: Flygon|spa|1|[from] item: Throat Spray
+|move|p1a: Great Tusk|Ice Spinner|p2a: Flygon
+|-supereffective|p2a: Flygon
+|-damage|p2a: Flygon|11/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781430434
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Flygon|Alluring Voice|p1a: Alomomola
+|-damage|p1a: Alomomola|84/100
+|
+|-sideend|p2: suaiaj|Reflect
+|upkeep
+|turn|11
+|
+|t:|1781430440
+|move|p1a: Alomomola|Aqua Jet|p2a: Flygon
+|-damage|p2a: Flygon|0 fnt
+|faint|p2a: Flygon
+|
+|upkeep
+|
+|t:|1781430450
+|switch|p2a: Klefki|Klefki, F|34/100
+|turn|12
+|
+|t:|1781430469
+|move|p2a: Klefki|Reflect|p2a: Klefki
+|-sidestart|p2: suaiaj|Reflect
+|move|p1a: Alomomola|Flip Turn|p2a: Klefki
+|-damage|p2a: Klefki|25/100
+|
+|t:|1781430474
+|switch|p1a: Ting-Lu|Ting-Lu|100/100|[from] Flip Turn
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|
+|upkeep
+|turn|13
+|
+|t:|1781430490
+|move|p2a: Klefki|Spikes|p1a: Ting-Lu
+|-sidestart|p1: SincereSarje|Spikes
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Klefki
+|-sidestart|p2: suaiaj|move: Stealth Rock
+|
+|upkeep
+|turn|14
+|
+|t:|1781430503
+|move|p2a: Klefki|Spikes|p1a: Ting-Lu
+|-sidestart|p1: SincereSarje|Spikes
+|move|p1a: Ting-Lu|Whirlwind|p2a: Klefki
+|drag|p2a: Iron Moth|Iron Moth, shiny|100/100
+|-damage|p2a: Iron Moth|76/100|[from] Stealth Rock
+|
+|upkeep
+|turn|15
+|
+|t:|1781430509
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|-item|p2a: Kingambit|Air Balloon
+|move|p1a: Ting-Lu|Earthquake|p2a: Kingambit
+|-immune|p2a: Kingambit
+|
+|upkeep
+|turn|16
+|
+|t:|1781430515
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|move|p1a: Ting-Lu|Whirlwind|p2a: Kingambit
+|-end|p2a: Kingambit|fallen2|[silent]
+|drag|p2a: Iron Moth|Iron Moth, shiny|76/100
+|-damage|p2a: Iron Moth|51/100|[from] Stealth Rock
+|
+|upkeep
+|turn|17
+|
+|t:|1781430518
+|move|p2a: Iron Moth|Fiery Dance|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|85/100
+|move|p1a: Ting-Lu|Ruination|p2a: Iron Moth
+|-damage|p2a: Iron Moth|26/100
+|
+|-heal|p1a: Ting-Lu|91/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781430522
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|-damage|p1a: Alomomola|84/100|[from] Spikes
+|move|p2a: Iron Moth|Air Slash|p1a: Alomomola
+|-damage|p1a: Alomomola|72/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781430526
+|move|p2a: Iron Moth|Meteor Beam||[still]
+|-prepare|p2a: Iron Moth|Meteor Beam
+|-boost|p2a: Iron Moth|spa|1
+|-enditem|p2a: Iron Moth|Power Herb
+|-anim|p2a: Iron Moth|Meteor Beam|p1a: Alomomola
+|-damage|p1a: Alomomola|42/100
+|move|p1a: Alomomola|Flip Turn|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|t:|1781430538
+|switch|p1a: Great Tusk|Great Tusk|28/100|[from] Flip Turn
+|
+|-sideend|p2: suaiaj|Reflect
+|upkeep
+|
+|t:|1781430542
+|switch|p2a: Kingambit|Kingambit, M|94/100
+|-damage|p2a: Kingambit|88/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|-item|p2a: Kingambit|Air Balloon
+|turn|20
+|
+|t:|1781430545
+|move|p1a: Great Tusk|Close Combat|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-enditem|p2a: Kingambit|Air Balloon
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|-message|suaiaj forfeited.
+|
+|win|SincereSarje
+|raw|SincereSarje's rating: 1609 &rarr; <strong>1630</strong><br />(+21 for winning)
+|raw|suaiaj's rating: 1623 &rarr; <strong>1602</strong><br />(-21 for losing)
+|l|☆SincereSarje
+|player|p1|
+|l|☆suaiaj
+|player|p2|

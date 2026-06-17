@@ -1,0 +1,474 @@
+|j|☆poor team design
+|j|☆Pig Perfect
+|t:|1781583027
+|gametype|singles
+|player|p1|poor team design|1|1537
+|player|p2|Pig Perfect|workerice|1626
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Moth|
+|poke|p1|Gliscor, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Zamazenta-*|
+|poke|p2|Great Tusk|
+|poke|p2|Hatterene, F|
+|poke|p2|Heatran, F|
+|poke|p2|Ninetales, M|
+|poke|p2|Slither Wing|
+|poke|p2|Walking Wake|
+|teampreview
+|
+|t:|1781583045
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|switch|p2a: Touch Me I’m Sick|Slither Wing|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|1
+|
+|t:|1781583057
+|-end|p2a: Touch Me I’m Sick|Protosynthesis|[silent]
+|switch|p2a: Trash Man|Great Tusk|100/100
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Trash Man
+|-damage|p2a: Trash Man|46/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781583069
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Trash Man|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|72/100
+|-enditem|p1a: Hatterene|Leftovers|[from] move: Knock Off|[of] p2a: Trash Man
+|
+|upkeep
+|turn|3
+|
+|t:|1781583076
+|-end|p2a: Trash Man|Protosynthesis|[silent]
+|switch|p2a: Look Both Ways|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Look Both Ways
+|move|p1a: Hatterene|Draining Kiss|p2a: Look Both Ways
+|-resisted|p2a: Look Both Ways
+|-damage|p2a: Look Both Ways|89/100
+|-heal|p1a: Hatterene|82/100|[from] drain|[of] p2a: Look Both Ways
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781583089
+|move|p2a: Look Both Ways|Overheat|p1a: Hatterene|[miss]
+|-miss|p2a: Look Both Ways|p1a: Hatterene
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781583097
+|switch|p2a: Witches Wish|Hatterene, F|100/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Witches Wish
+|-damage|p2a: Witches Wish|66/100
+|-heal|p1a: Hatterene|100/100|[from] drain|[of] p2a: Witches Wish
+|-enditem|p2a: Witches Wish|Eject Button
+|
+|t:|1781583116
+|switch|p2a: Gimme Shelter|Heatran, F|100/100
+|-item|p2a: Gimme Shelter|Air Balloon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781583128
+|move|p2a: Gimme Shelter|Magma Storm|p1a: Hatterene|[miss]
+|-miss|p2a: Gimme Shelter|p1a: Hatterene
+|move|p1a: Hatterene|Mystical Fire|p2a: Gimme Shelter
+|-start|p2a: Gimme Shelter|ability: Flash Fire
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781583142
+|switch|p1a: Gliscor|Gliscor, F|100/100
+|move|p2a: Gimme Shelter|Magma Storm|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781583149
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|8
+|
+|t:|1781583156
+|-end|p2a: Gimme Shelter|ability: Flash Fire|[silent]
+|switch|p2a: Tyranna Seesaur|Walking Wake|100/100
+|-activate|p2a: Tyranna Seesaur|ability: Protosynthesis
+|-start|p2a: Tyranna Seesaur|protosynthesisspe
+|-terastallize|p1a: Ogerpon|Water
+|detailschange|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Tyranna Seesaur|[anim] Ivy Cudgel Water
+|-resisted|p2a: Tyranna Seesaur
+|-damage|p2a: Tyranna Seesaur|89/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781583162
+|-terastallize|p2a: Tyranna Seesaur|Stellar
+|move|p2a: Tyranna Seesaur|Draco Meteor|p1a: Ogerpon
+|-damage|p1a: Ogerpon|1/100
+|-unboost|p2a: Tyranna Seesaur|spa|2
+|move|p1a: Ogerpon|Trailblaze|p2a: Tyranna Seesaur
+|-damage|p2a: Tyranna Seesaur|55/100
+|-boost|p1a: Ogerpon|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781583171
+|-end|p2a: Tyranna Seesaur|Protosynthesis|[silent]
+|switch|p2a: Touch Me I’m Sick|Slither Wing|100/100
+|-activate|p2a: Touch Me I’m Sick|ability: Protosynthesis
+|-start|p2a: Touch Me I’m Sick|protosynthesisatk
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Touch Me I’m Sick|[anim] Ivy Cudgel Water
+|-damage|p2a: Touch Me I’m Sick|67/100
+|
+|-weather|none
+|-end|p2a: Touch Me I’m Sick|Protosynthesis
+|upkeep
+|turn|11
+|
+|t:|1781583178
+|move|p2a: Touch Me I’m Sick|First Impression|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|detailschange|p1: Ogerpon|Ogerpon-Wellspring, F|[silent]
+|
+|upkeep
+|
+|t:|1781583183
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|turn|12
+|
+|t:|1781583188
+|move|p1a: Raging Bolt|Calm Mind|p1a: Raging Bolt
+|-boost|p1a: Raging Bolt|spa|1
+|-boost|p1a: Raging Bolt|spd|1
+|move|p2a: Touch Me I’m Sick|U-turn|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|67/100
+|
+|t:|1781583190
+|-end|p2a: Touch Me I’m Sick|Protosynthesis|[silent]
+|switch|p2a: Trash Man|Great Tusk|46/100|[from] U-turn
+|
+|upkeep
+|turn|13
+|
+|t:|1781583195
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Trash Man|Headlong Rush|p1a: Zamazenta
+|-damage|p1a: Zamazenta|68/100
+|-unboost|p2a: Trash Man|def|1
+|-unboost|p2a: Trash Man|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1781583200
+|-end|p2a: Trash Man|Protosynthesis|[silent]
+|switch|p2a: Witches Wish|Hatterene, F|66/100
+|move|p1a: Zamazenta|Reflect|p1a: Zamazenta
+|-sidestart|p1: poor team design|Reflect
+|
+|upkeep
+|turn|15
+|
+|t:|1781583203
+|move|p1a: Zamazenta|Light Screen|p1a: Zamazenta
+|-sidestart|p1: poor team design|move: Light Screen
+|move|p2a: Witches Wish|Psychic Noise|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|41/100
+|-start|p1a: Zamazenta|move: Heal Block
+|
+|upkeep
+|turn|16
+|
+|t:|1781583208
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|move|p2a: Witches Wish|Psychic Noise|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|68/100
+|-start|p1a: Iron Moth|move: Heal Block
+|
+|upkeep
+|turn|17
+|
+|t:|1781583212
+|switch|p2a: Gimme Shelter|Heatran, F|100/100
+|-item|p2a: Gimme Shelter|Air Balloon
+|move|p1a: Iron Moth|Sludge Wave|p2a: Gimme Shelter
+|-immune|p2a: Gimme Shelter
+|
+|-end|p1a: Iron Moth|move: Heal Block
+|upkeep
+|turn|18
+|
+|t:|1781583216
+|move|p1a: Iron Moth|Toxic Spikes|p2a: Gimme Shelter
+|-sidestart|p2: Pig Perfect|move: Toxic Spikes
+|move|p2a: Gimme Shelter|Power Gem|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|43/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781583219
+|move|p1a: Iron Moth|Toxic Spikes|p2a: Gimme Shelter
+|-sidestart|p2: Pig Perfect|move: Toxic Spikes
+|move|p2a: Gimme Shelter|Stealth Rock|p1a: Iron Moth
+|-sidestart|p1: poor team design|move: Stealth Rock
+|
+|upkeep
+|turn|20
+|
+|t:|1781583222
+|move|p2a: Gimme Shelter|Power Gem|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|16/100
+|move|p1a: Iron Moth|Whirlwind|p2a: Gimme Shelter
+|drag|p2a: Witches Wish|Hatterene, F|66/100
+|-status|p2a: Witches Wish|tox
+|
+|-damage|p2a: Witches Wish|60/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1781583227
+|switch|p2a: Gimme Shelter|Heatran, F|100/100
+|-item|p2a: Gimme Shelter|Air Balloon
+|move|p1a: Iron Moth|Whirlwind|p2a: Gimme Shelter
+|drag|p2a: Look Both Ways|Ninetales, M|89/100
+|-status|p2a: Look Both Ways|tox
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Look Both Ways
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Look Both Ways|83/100 tox|[from] psn
+|-sideend|p1: poor team design|Reflect
+|upkeep
+|turn|22
+|
+|t:|1781583236
+|move|p1a: Iron Moth|Sludge Wave|p2a: Look Both Ways
+|-damage|p2a: Look Both Ways|30/100 tox
+|move|p2a: Look Both Ways|Overheat|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|1/100
+|-unboost|p2a: Look Both Ways|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Look Both Ways|18/100 tox|[from] psn
+|-sideend|p1: poor team design|move: Light Screen
+|upkeep
+|turn|23
+|
+|t:|1781583246
+|move|p2a: Look Both Ways|Healing Wish|p2a: Look Both Ways
+|faint|p2a: Look Both Ways
+|move|p1a: Iron Moth|Whirlwind|p2: Look Both Ways|[notarget]
+|-fail|p1a: Iron Moth
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781583260
+|switch|p2a: Gimme Shelter|Heatran, F|100/100
+|-item|p2a: Gimme Shelter|Air Balloon
+|turn|24
+|
+|t:|1781583263
+|move|p2a: Gimme Shelter|Power Gem|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781583269
+|switch|p1a: Zamazenta|Zamazenta|41/100
+|-damage|p1a: Zamazenta|35/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1781583276
+|switch|p2a: Trash Man|Great Tusk|46/100
+|-heal|p2a: Trash Man|100/100|[from] move: Healing Wish
+|-status|p2a: Trash Man|tox
+|-activate|p2a: Trash Man|ability: Protosynthesis
+|-start|p2a: Trash Man|protosynthesisatk
+|move|p1a: Zamazenta|Close Combat|p2a: Trash Man
+|-damage|p2a: Trash Man|61/100 tox
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Trash Man|55/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1781583294
+|move|p1a: Zamazenta|Reflect|p1a: Zamazenta
+|-sidestart|p1: poor team design|Reflect
+|move|p2a: Trash Man|Rapid Spin|p1a: Zamazenta
+|-damage|p1a: Zamazenta|22/100
+|-boost|p2a: Trash Man|spe|1
+|-sideend|p2: Pig Perfect|Toxic Spikes|[from] move: Rapid Spin|[of] p2a: Trash Man
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Trash Man|43/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1781583303
+|move|p1a: Zamazenta|Ice Fang|p2a: Trash Man|[miss]
+|-miss|p1a: Zamazenta|p2a: Trash Man
+|move|p2a: Trash Man|Headlong Rush|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|-unboost|p2a: Trash Man|def|1
+|-unboost|p2a: Trash Man|spd|1
+|faint|p1a: Zamazenta
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Trash Man|24/100 tox|[from] psn
+|upkeep
+|
+|t:|1781583308
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|-damage|p1a: Hatterene|88/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1781583316
+|-end|p2a: Trash Man|Protosynthesis|[silent]
+|switch|p2a: Gimme Shelter|Heatran, F|100/100
+|-item|p2a: Gimme Shelter|Air Balloon
+|move|p1a: Hatterene|Draining Kiss|p2a: Gimme Shelter
+|-resisted|p2a: Gimme Shelter
+|-damage|p2a: Gimme Shelter|95/100
+|-heal|p1a: Hatterene|93/100|[from] drain|[of] p2a: Gimme Shelter
+|-enditem|p2a: Gimme Shelter|Air Balloon
+|
+|-weather|none
+|upkeep
+|turn|29
+|
+|t:|1781583320
+|move|p2a: Gimme Shelter|Magma Storm|p1a: Hatterene|[miss]
+|-miss|p2a: Gimme Shelter|p1a: Hatterene
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|upkeep
+|turn|30
+|
+|t:|1781583322
+|move|p2a: Gimme Shelter|Magma Storm|p1a: Hatterene
+|-damage|p1a: Hatterene|57/100
+|-activate|p1a: Hatterene|move: Magma Storm|[of] p2a: Gimme Shelter
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-damage|p1a: Hatterene|44/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|31
+|
+|t:|1781583325
+|move|p2a: Gimme Shelter|Power Gem|p1a: Hatterene
+|-damage|p1a: Hatterene|30/100
+|move|p1a: Hatterene|Stored Power|p2a: Gimme Shelter
+|-resisted|p2a: Gimme Shelter
+|-damage|p2a: Gimme Shelter|52/100
+|
+|-damage|p1a: Hatterene|18/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|32
+|
+|t:|1781583328
+|move|p2a: Gimme Shelter|Power Gem|p1a: Hatterene
+|-damage|p1a: Hatterene|4/100
+|move|p1a: Hatterene|Stored Power|p2a: Gimme Shelter
+|-resisted|p2a: Gimme Shelter
+|-damage|p2a: Gimme Shelter|5/100
+|
+|-damage|p1a: Hatterene|0 fnt|[from] move: Magma Storm|[partiallytrapped]
+|faint|p1a: Hatterene
+|upkeep
+|
+|t:|1781583331
+|switch|p1a: Raging Bolt|Raging Bolt|67/100
+|-damage|p1a: Raging Bolt|54/100|[from] Stealth Rock
+|turn|33
+|
+|t:|1781583338
+|move|p2a: Gimme Shelter|Power Gem|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|29/100
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Gimme Shelter
+|-damage|p2a: Gimme Shelter|0 fnt
+|faint|p2a: Gimme Shelter
+|
+|-sideend|p1: poor team design|Reflect
+|upkeep
+|
+|t:|1781583340
+|switch|p2a: Touch Me I’m Sick|Slither Wing|67/100
+|turn|34
+|
+|t:|1781583349
+|move|p2a: Touch Me I’m Sick|First Impression|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|win|Pig Perfect
+|raw|poor team design's rating: 1537 &rarr; <strong>1522</strong><br />(-15 for losing)
+|raw|Pig Perfect's rating: 1626 &rarr; <strong>1641</strong><br />(+15 for winning)
+|c|☆Pig Perfect|Gg
+|l|☆Pig Perfect
+|player|p2|
+|c|☆poor team design|Gg

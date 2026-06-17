@@ -1,0 +1,334 @@
+|j|☆Archerdadon
+|j|☆qingshou
+|t:|1781515277
+|gametype|singles
+|player|p1|Archerdadon|marshal|1548
+|player|p2|qingshou|hilbert|1543
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dondozo, F|
+|poke|p1|Great Tusk|
+|poke|p1|Ting-Lu|
+|poke|p1|Glimmora, F|
+|poke|p1|Garganacl, M|
+|poke|p1|Hydrapple, F|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Iron Treads|
+|poke|p2|Moltres|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by qingshou)
+|
+|t:|1781515288
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|1
+|
+|t:|1781515294
+|move|p2a: Dragapult|Shadow Ball|p1a: Glimmora
+|-damage|p1a: Glimmora|36/100
+|move|p1a: Glimmora|Dazzling Gleam|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|29/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781515301
+|switch|p1a: Garganacl|Garganacl, M|100/100
+|move|p2a: Dragapult|Shadow Ball|p1a: Garganacl
+|-damage|p1a: Garganacl|83/100
+|
+|-heal|p1a: Garganacl|89/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781515307
+|switch|p2a: 叹息之墙|Slowking-Galar, F|100/100
+|move|p1a: Garganacl|Salt Cure|p2a: 叹息之墙
+|-damage|p2a: 叹息之墙|85/100
+|-start|p2a: 叹息之墙|Salt Cure
+|
+|-heal|p1a: Garganacl|96/100|[from] item: Leftovers
+|-damage|p2a: 叹息之墙|73/100|[from] Salt Cure
+|upkeep
+|turn|4
+|
+|t:|1781515316
+|move|p1a: Garganacl|Curse|p1a: Garganacl
+|-unboost|p1a: Garganacl|spe|1
+|-boost|p1a: Garganacl|atk|1
+|-boost|p1a: Garganacl|def|1
+|-prepare|p2a: 叹息之墙|Chilly Reception|[premajor]
+|move|p2a: 叹息之墙|Chilly Reception|p2a: 叹息之墙
+|-weather|Snowscape
+|
+|t:|1781515322
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Garganacl|100/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781515329
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Garganacl|Salt Cure|p2a: Ogerpon
+|-damage|p2a: Ogerpon|74/100
+|-start|p2a: Ogerpon|Salt Cure
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Ogerpon|49/100|[from] Salt Cure
+|upkeep
+|turn|6
+|
+|t:|1781515342
+|switch|p1a: Hydrapple|Hydrapple, F|100/100
+|move|p2a: Ogerpon|Horn Leech|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|88/100
+|-heal|p2a: Ogerpon|58/100|[from] drain|[of] p1a: Hydrapple
+|-damage|p2a: Ogerpon|41/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Ogerpon|16/100|[from] Salt Cure
+|upkeep
+|turn|7
+|
+|t:|1781515352
+|switch|p2a: 叹息之墙|Slowking-Galar, F|100/100
+|move|p1a: Hydrapple|Giga Drain|p2a: 叹息之墙
+|-resisted|p2a: 叹息之墙
+|-damage|p2a: 叹息之墙|91/100
+|-heal|p1a: Hydrapple|92/100|[from] drain|[of] p2a: 叹息之墙
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781515355
+|move|p1a: Hydrapple|Nasty Plot|p1a: Hydrapple
+|-boost|p1a: Hydrapple|spa|2
+|-prepare|p2a: 叹息之墙|Chilly Reception|[premajor]
+|move|p2a: 叹息之墙|Chilly Reception|p2a: 叹息之墙
+|
+|t:|1781515358
+|switch|p2a: Dragapult|Dragapult, M|29/100|[from] Chilly Reception
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781515363
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Dragapult|U-turn|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-crit|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|70/100
+|
+|t:|1781515365
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|16/100|[from] U-turn
+|
+|-heal|p1a: Ting-Lu|76/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781515372
+|switch|p2a: Dragapult|Dragapult, M|29/100
+|switch|p1a: Hydrapple|Hydrapple, F|100/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781515378
+|switch|p1a: Garganacl|Garganacl, M|100/100
+|move|p2a: Dragapult|U-turn|p1a: Garganacl
+|-damage|p1a: Garganacl|88/100
+|
+|t:|1781515379
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|16/100|[from] U-turn
+|
+|-heal|p1a: Garganacl|94/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781515385
+|switch|p1a: Hydrapple|Hydrapple, F|100/100
+|move|p2a: Ogerpon|Horn Leech|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|94/100
+|-heal|p2a: Ogerpon|21/100|[from] drain|[of] p1a: Hydrapple
+|-damage|p2a: Ogerpon|4/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|
+|upkeep
+|turn|13
+|
+|t:|1781515393
+|switch|p2a: 叹息之墙|Slowking-Galar, F|100/100
+|move|p1a: Hydrapple|Fickle Beam|p2a: 叹息之墙
+|-damage|p2a: 叹息之墙|81/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781515399
+|switch|p1a: Ting-Lu|Ting-Lu|76/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: 叹息之墙|Future Sight|p1a: Ting-Lu
+|-start|p2a: 叹息之墙|move: Future Sight
+|
+|-heal|p1a: Ting-Lu|83/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781515402
+|move|p1a: Ting-Lu|Stealth Rock|p2a: 叹息之墙
+|-sidestart|p2: qingshou|move: Stealth Rock
+|-prepare|p2a: 叹息之墙|Chilly Reception|[premajor]
+|move|p2a: 叹息之墙|Chilly Reception|p2a: 叹息之墙
+|-weather|Snowscape
+|
+|t:|1781515405
+|switch|p2a: 一剑，足矣|Samurott-Hisui, M, shiny|100/100|[from] Chilly Reception
+|-damage|p2a: 一剑，足矣|88/100|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|89/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781515416
+|switch|p1a: Glimmora|Glimmora, F|36/100
+|move|p2a: 一剑，足矣|Aqua Cutter|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: qingshou|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|-weather|Snowscape|[upkeep]
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|
+|t:|1781515427
+|switch|p1a: Hydrapple|Hydrapple, F|100/100
+|turn|17
+|
+|t:|1781515433
+|switch|p2a: 叹息之墙|Slowking-Galar, F|100/100
+|-damage|p2a: 叹息之墙|88/100|[from] Stealth Rock
+|-sideend|p2: qingshou|move: Toxic Spikes|[of] p2a: 叹息之墙
+|switch|p1a: Ting-Lu|Ting-Lu|89/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|95/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781515437
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Ting-Lu|Earthquake|p2a: Moltres
+|-immune|p2a: Moltres
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781515440
+|move|p2a: Moltres|U-turn|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|83/100
+|
+|t:|1781515442
+|switch|p2a: Iron Treads|Iron Treads|100/100|[from] U-turn
+|-damage|p2a: Iron Treads|97/100|[from] Stealth Rock
+|move|p1a: Ting-Lu|Payback|p2a: Iron Treads
+|-damage|p2a: Iron Treads|81/100
+|
+|-weather|none
+|-heal|p2a: Iron Treads|88/100|[from] item: Leftovers
+|-heal|p1a: Ting-Lu|90/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781515445
+|-terastallize|p1a: Ting-Lu|Ghost
+|move|p2a: Iron Treads|Rapid Spin|p1a: Ting-Lu
+|-immune|p1a: Ting-Lu
+|move|p1a: Ting-Lu|Earthquake|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|33/100
+|
+|-heal|p2a: Iron Treads|39/100|[from] item: Leftovers
+|-heal|p1a: Ting-Lu|96/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781515452
+|move|p2a: Iron Treads|Knock Off|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|71/100
+|-enditem|p1a: Ting-Lu|Leftovers|[from] move: Knock Off|[of] p2a: Iron Treads
+|move|p1a: Ting-Lu|Earthquake|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781515456
+|switch|p2a: 一剑，足矣|Samurott-Hisui, M, shiny|88/100
+|-damage|p2a: 一剑，足矣|76/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781515459
+|switch|p1a: Hydrapple|Hydrapple, F|100/100
+|move|p2a: 一剑，足矣|Ceaseless Edge|p1a: Hydrapple
+|-damage|p1a: Hydrapple|59/100
+|-damage|p2a: 一剑，足矣|59/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|-sidestart|p1: Archerdadon|Spikes
+|
+|upkeep
+|turn|23
+|
+|t:|1781515464
+|move|p2a: 一剑，足矣|Ceaseless Edge|p1a: Hydrapple
+|-damage|p1a: Hydrapple|20/100
+|-damage|p2a: 一剑，足矣|43/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|-sidestart|p1: Archerdadon|Spikes
+|move|p1a: Hydrapple|Giga Drain|p2a: 一剑，足矣
+|-supereffective|p2a: 一剑，足矣
+|-damage|p2a: 一剑，足矣|0 fnt
+|-heal|p1a: Hydrapple|37/100|[from] drain|[of] p2a: 一剑，足矣
+|faint|p2a: 一剑，足矣
+|
+|upkeep
+|-message|qingshou forfeited.
+|
+|win|Archerdadon
+|raw|Archerdadon's rating: 1548 &rarr; <strong>1568</strong><br />(+20 for winning)
+|raw|qingshou's rating: 1543 &rarr; <strong>1523</strong><br />(-20 for losing)
+|l|☆qingshou
+|player|p2|
+|l|☆Archerdadon
+|player|p1|

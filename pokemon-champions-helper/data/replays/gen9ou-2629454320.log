@@ -1,0 +1,160 @@
+|j|☆extra-pseudo man
+|j|☆OP Earthquakes
+|t:|1781132847
+|gametype|singles
+|player|p1|extra-pseudo man|266|1619
+|player|p2|OP Earthquakes|giovanni-masters|1798
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragonite, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Metagross|
+|poke|p1|Goodra-Hisui, F|
+|poke|p1|Garchomp, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Pawmot, F|
+|poke|p2|Kyurem|
+|poke|p2|Excadrill, M|
+|poke|p2|Hawlucha, F|
+|poke|p2|Zamazenta-*|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by OP Earthquakes)
+|
+|t:|1781132863
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: kaboom|Metagross|100/100
+|switch|p2a: The sandstorm|Tyranitar, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: The sandstorm
+|turn|1
+|
+|t:|1781132870
+|move|p1a: kaboom|Earthquake|p2a: The sandstorm
+|-supereffective|p2a: The sandstorm
+|-damage|p2a: The sandstorm|26/100
+|move|p2a: The sandstorm|Stealth Rock|p1a: kaboom
+|-sidestart|p1: extra-pseudo man|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781132876
+|switch|p1a: Marill me|Garchomp, M|100/100
+|-damage|p1a: Marill me|94/100|[from] Stealth Rock
+|switch|p2a: Itachi|Hawlucha, F, shiny|100/100
+|-ability|p2a: Itachi|Mold Breaker
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Itachi|94/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1781132881
+|move|p2a: Itachi|Swords Dance|p2a: Itachi
+|-boost|p2a: Itachi|atk|2
+|move|p1a: Marill me|Spikes|p2a: Itachi
+|-sidestart|p2: OP Earthquakes|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Itachi|88/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1781132884
+|move|p2a: Itachi|Encore|p1a: Marill me
+|-start|p1a: Marill me|Encore
+|move|p1a: Marill me|Spikes|p2a: Itachi
+|-sidestart|p2: OP Earthquakes|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Itachi|82/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1781132887
+|switch|p1a: He pulten on it|Dragapult, M|100/100
+|move|p2a: Itachi|Brave Bird|p1a: He pulten on it
+|-damage|p1a: He pulten on it|0 fnt
+|faint|p1a: He pulten on it
+|-damage|p2a: Itachi|47/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Itachi|41/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781132890
+|switch|p1a: Marill me|Garchomp, M|94/100
+|-damage|p1a: Marill me|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1781132894
+|move|p2a: Itachi|Defog|p1a: Marill me
+|-unboost|p1a: Marill me|evasion|1
+|-sideend|p1: extra-pseudo man|Stealth Rock|[from] move: Defog|[of] p2a: Itachi
+|-sideend|p2: OP Earthquakes|Spikes|[from] move: Defog|[of] p2a: Itachi
+|move|p1a: Marill me|Dragon Tail|p2a: Itachi|[miss]
+|-miss|p1a: Marill me|p2a: Itachi
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Itachi|35/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1781132901
+|move|p2a: Itachi|Brave Bird|p1a: Marill me
+|-damage|p1a: Marill me|24/100
+|-damage|p2a: Itachi|23/100|[from] ability: Rough Skin|[of] p1a: Marill me
+|-damage|p2a: Itachi|6/100|[from] item: Rocky Helmet|[of] p1a: Marill me
+|-damage|p2a: Itachi|0 fnt|[from] Recoil
+|faint|p2a: Itachi
+|move|p1a: Marill me|Dragon Tail|p2: Itachi|[notarget]
+|-fail|p1a: Marill me
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781132909
+|switch|p2a: OP|Excadrill, M|100/100
+|turn|8
+|
+|t:|1781132914
+|move|p2a: OP|Iron Head|p1a: Marill me
+|-damage|p1a: Marill me|0 fnt
+|-damage|p2a: OP|88/100|[from] ability: Rough Skin|[of] p1a: Marill me
+|-damage|p2a: OP|71/100|[from] item: Rocky Helmet|[of] p1a: Marill me
+|faint|p1a: Marill me
+|
+|-weather|none
+|upkeep
+|
+|t:|1781132932
+|switch|p1a: Tyranocif|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranocif
+|turn|9
+|
+|t:|1781132934
+|move|p2a: OP|Iron Head|p1a: Tyranocif
+|-supereffective|p1a: Tyranocif
+|-damage|p1a: Tyranocif|0 fnt
+|faint|p1a: Tyranocif
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|-message|extra-pseudo man forfeited.
+|
+|win|OP Earthquakes
+|raw|extra-pseudo man's rating: 1619 &rarr; <strong>1608</strong><br />(-11 for losing)
+|raw|OP Earthquakes's rating: 1798 &rarr; <strong>1809</strong><br />(+11 for winning)

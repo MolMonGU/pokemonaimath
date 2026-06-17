@@ -1,0 +1,249 @@
+|j|☆FitzyLegend
+|j|☆retsewe
+|t:|1781064352
+|gametype|singles
+|player|p1|FitzyLegend|hilbert|1542
+|player|p2|retsewe|266|1640
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hawlucha, M|
+|poke|p1|Maushold-Four|
+|poke|p1|Iron Valiant|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Serperior, M|
+|poke|p1|Gliscor, M|
+|poke|p2|Kyurem|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Gyarados, M|
+|poke|p2|Dragonite, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Heatran, M|
+|teampreview
+|
+|t:|1781064358
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Serperior|Serperior, M|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FitzyLegend)
+|
+|t:|1781064366
+|move|p1a: Serperior|Leaf Storm|p2a: Hatterene
+|-damage|p2a: Hatterene|50/100
+|-boost|p1a: Serperior|spa|2
+|move|p2a: Hatterene|Nuzzle|p1a: Serperior
+|-resisted|p1a: Serperior
+|-damage|p1a: Serperior|98/100
+|-status|p1a: Serperior|par
+|
+|-heal|p1a: Serperior|100/100 par|[from] item: Leftovers
+|-heal|p2a: Hatterene|56/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781064378
+|switch|p2a: Heatran|Heatran, M|100/100
+|cant|p1a: Serperior|par
+|
+|upkeep
+|turn|3
+|
+|t:|1781064384
+|move|p2a: Heatran|Flamethrower|p1a: Serperior
+|-supereffective|p1a: Serperior
+|-damage|p1a: Serperior|0 fnt
+|faint|p1a: Serperior
+|
+|upkeep
+|
+|t:|1781064403
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|4
+|j| testingrainteam1
+|l| testingrainteam1
+|inactive|retsewe has 120 seconds left.
+|c|☆FitzyLegend|Hurry uo
+|
+|t:|1781064439
+|switch|p2a: Gyarados|Gyarados, M|100/100
+|move|p1a: Iron Valiant|Knock Off|p2a: Gyarados
+|-damage|p2a: Gyarados|66/100
+|-enditem|p2a: Gyarados|Expert Belt|[from] move: Knock Off|[of] p1a: Iron Valiant
+|
+|upkeep
+|turn|5
+|inactive|retsewe has 120 seconds left.
+|
+|t:|1781064451
+|move|p1a: Iron Valiant|Moonblast|p2a: Gyarados
+|-damage|p2a: Gyarados|20/100
+|-unboost|p2a: Gyarados|spa|1
+|move|p2a: Gyarados|Waterfall|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|38/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781064459
+|move|p1a: Iron Valiant|Knock Off|p2a: Gyarados
+|-damage|p2a: Gyarados|0 fnt
+|faint|p2a: Gyarados
+|
+|upkeep
+|
+|t:|1781064467
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|7
+|
+|t:|1781064476
+|-terastallize|p2a: Dragonite|Normal
+|move|p2a: Dragonite|Extreme Speed|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781064493
+|switch|p1a: Maushold|Maushold-Four|100/100
+|turn|8
+|
+|t:|1781064499
+|-terastallize|p1a: Maushold|Ghost
+|move|p2a: Dragonite|Extreme Speed|p1a: Maushold
+|-immune|p1a: Maushold
+|move|p1a: Maushold|Encore|p2a: Dragonite
+|-start|p2a: Dragonite|Encore
+|
+|upkeep
+|turn|9
+|
+|t:|1781064507
+|switch|p2a: Grimmsnarl|Grimmsnarl, M, shiny|100/100
+|move|p1a: Maushold|Tidy Up|p1a: Maushold
+|-boost|p1a: Maushold|atk|1
+|-boost|p1a: Maushold|spe|1
+|
+|upkeep
+|turn|10
+|
+|t:|1781064516
+|move|p2a: Grimmsnarl|Sucker Punch|p1a: Maushold
+|-supereffective|p1a: Maushold
+|-damage|p1a: Maushold|0 fnt
+|faint|p1a: Maushold
+|
+|upkeep
+|
+|t:|1781064526
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|turn|11
+|
+|t:|1781064532
+|move|p1a: Hawlucha|Sky Attack||[still]
+|-prepare|p1a: Hawlucha|Sky Attack
+|-enditem|p1a: Hawlucha|Power Herb
+|-anim|p1a: Hawlucha|Sky Attack|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|19/100
+|move|p2a: Grimmsnarl|Spirit Break|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-crit|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|-heal|p2a: Grimmsnarl|25/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781064544
+|switch|p1a: Gliscor|Gliscor, M|100/100
+|turn|12
+|
+|t:|1781064548
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Grimmsnarl|Taunt|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p2a: Grimmsnarl|31/100|[from] item: Leftovers
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|13
+|
+|t:|1781064562
+|move|p2a: Grimmsnarl|Bulk Up|p2a: Grimmsnarl
+|-boost|p2a: Grimmsnarl|atk|1
+|-boost|p2a: Grimmsnarl|def|1
+|move|p1a: Gliscor|Facade|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|7/100
+|
+|-heal|p2a: Grimmsnarl|13/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781064571
+|move|p2a: Grimmsnarl|Sucker Punch|p1a: Gliscor
+|-damage|p1a: Gliscor|59/100 tox
+|move|p1a: Gliscor|Earthquake|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|faint|p2a: Grimmsnarl
+|
+|-heal|p1a: Gliscor|71/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1781064581
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|15
+|
+|t:|1781064585
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Kyurem|Freeze-Dry|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p1a: Gliscor|84/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|16
+|
+|t:|1781064596
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|move|p2a: Kyurem|Ice Beam|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|63/100
+|
+|upkeep
+|turn|17
+|j| testingrainteam1
+|l| testingrainteam1
+|
+|t:|1781064605
+|move|p2a: Kyurem|Freeze-Dry|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|-message|FitzyLegend forfeited.
+|
+|win|retsewe
+|raw|FitzyLegend's rating: 1542 &rarr; <strong>1527</strong><br />(-15 for losing)
+|raw|retsewe's rating: 1640 &rarr; <strong>1655</strong><br />(+15 for winning)
+|l|☆FitzyLegend
+|player|p1|
+|l|☆retsewe
+|player|p2|

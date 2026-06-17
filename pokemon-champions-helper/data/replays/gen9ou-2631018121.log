@@ -1,0 +1,188 @@
+|j|☆cataclyst03
+|j|☆zerogerpon
+|t:|1781325753
+|gametype|singles
+|player|p1|cataclyst03|hilbert|1523
+|player|p2|zerogerpon|dawn|1589
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cresselia, F|
+|poke|p1|Torkoal, M|
+|poke|p1|Ursaluna, F|
+|poke|p1|Porygon2|
+|poke|p1|Glastrier|
+|poke|p1|Hatterene, F|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Alomomola, F|
+|poke|p2|Iron Treads|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Lokix, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by cataclyst03)
+|
+|t:|1781325761
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Porygon2|Porygon2|100/100
+|switch|p2a: Lokix|Lokix, F|100/100
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|turn|1
+|
+|t:|1781325765
+|move|p2a: Lokix|Knock Off|p1a: Porygon2
+|-damage|p1a: Porygon2|50/100
+|-enditem|p1a: Porygon2|Eviolite|[from] move: Knock Off|[of] p2a: Lokix
+|move|p1a: Porygon2|Trick Room|p1a: Porygon2
+|-fieldstart|move: Trick Room|[of] p1a: Porygon2
+|
+|upkeep
+|turn|2
+|
+|t:|1781325773
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Porygon2|Recover|p1a: Porygon2
+|-heal|p1a: Porygon2|99/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781325780
+|move|p2a: Weezing|Protect|p2a: Weezing
+|-singleturn|p2a: Weezing|Protect
+|move|p1a: Porygon2|Tri Attack|p2a: Weezing
+|-activate|p2a: Weezing|move: Protect
+|
+|upkeep
+|turn|4
+|
+|t:|1781325787
+|switch|p1a: Ursaluna|Ursaluna, F|100/100
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|
+|-status|p1a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|5
+|
+|t:|1781325800
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Ursaluna|Facade|p2a: Alomomola
+|-damage|p2a: Alomomola|19/100
+|-damage|p1a: Ursaluna|84/100 brn|[from] item: Rocky Helmet|[of] p2a: Alomomola
+|
+|-damage|p1a: Ursaluna|78/100 brn|[from] brn
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1781325816
+|switch|p1a: Porygon2|Porygon2|99/100
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|-terastallize|p2a: Alomomola|Ghost
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|
+|upkeep
+|turn|7
+|
+|t:|1781325821
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Porygon2|Trick Room|p1a: Porygon2
+|-fieldstart|move: Trick Room|[of] p1a: Porygon2
+|
+|-heal|p2a: Alomomola|69/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|8
+|c|☆cataclyst03|Nah bro
+|c|☆cataclyst03|Thats the worst 2 turns Ive ever seen in my life
+|
+|t:|1781325841
+|move|p1a: Porygon2|Shadow Ball|p2a: Alomomola
+|-supereffective|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|
+|upkeep
+|c|☆cataclyst03|3
+|
+|t:|1781325847
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|turn|9
+|
+|t:|1781325855
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Porygon2|Tri Attack|p2a: Zamazenta
+|-damage|p2a: Zamazenta|23/100
+|-status|p2a: Zamazenta|brn
+|
+|-damage|p2a: Zamazenta|17/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1781325867
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Porygon2|Tri Attack|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|58/100
+|
+|-heal|p2a: Iron Treads|64/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781325881
+|-terastallize|p1a: Porygon2|Ghost
+|move|p1a: Porygon2|Shadow Ball|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1781325885
+|switch|p2a: Lokix|Lokix, F|100/100
+|turn|12
+|
+|t:|1781325901
+|move|p2a: Lokix|Knock Off|p1a: Porygon2
+|-supereffective|p1a: Porygon2
+|-damage|p1a: Porygon2|1/100
+|move|p1a: Porygon2|Tri Attack|p2a: Lokix
+|-damage|p2a: Lokix|0 fnt
+|faint|p2a: Lokix
+|
+|upkeep
+|
+|t:|1781325907
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|13
+|-message|zerogerpon forfeited.
+|
+|win|cataclyst03
+|raw|cataclyst03's rating: 1523 &rarr; <strong>1547</strong><br />(+24 for winning)
+|raw|zerogerpon's rating: 1589 &rarr; <strong>1565</strong><br />(-24 for losing)
+|l|☆zerogerpon
+|player|p2|
+|l|☆cataclyst03
+|player|p1|

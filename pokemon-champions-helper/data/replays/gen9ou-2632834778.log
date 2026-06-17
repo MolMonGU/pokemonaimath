@@ -1,0 +1,275 @@
+|j|☆DiceyRice
+|j|☆idealist
+|t:|1781567975
+|gametype|singles
+|player|p1|DiceyRice|miku-ghost|1689
+|player|p2|idealist|2|1627
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, F|
+|poke|p1|Kommo-o, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Crown|
+|poke|p2|Garganacl, M|
+|poke|p2|Darkrai|
+|poke|p2|Great Tusk|
+|poke|p2|Hatterene, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Dragonite, M|
+|teampreview
+|
+|t:|1781567999
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|j| nonchalantbufalant
+|
+|t:|1781568035
+|move|p1a: Iron Treads|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: idealist|move: Stealth Rock
+|move|p2a: Tornadus|Heat Wave|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-crit|p1a: Iron Treads
+|-damage|p1a: Iron Treads|17/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781568042
+|move|p1a: Iron Treads|Endeavor|p2a: Tornadus
+|-damage|p2a: Tornadus|19/100
+|move|p2a: Tornadus|Knock Off|p1a: Iron Treads
+|-damage|p1a: Iron Treads|8/100
+|
+|upkeep
+|turn|3
+|c| nonchalantbufalant|You suddenly get stumped
+|c| nonchalantbufalant|No one else to look to
+|c| nonchalantbufalant|It all seems hopeless
+|
+|t:|1781568060
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-damage|p2a: Hatterene|88/100|[from] Stealth Rock
+|move|p1a: Iron Treads|Rapid Spin|p2a: Hatterene
+|-damage|p2a: Hatterene|78/100
+|-boost|p1a: Iron Treads|spe|1
+|-damage|p1a: Iron Treads|0 fnt|[from] item: Rocky Helmet|[of] p2a: Hatterene
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|c| nonchalantbufalant|However you can see a light at the end of the tunnel
+|
+|t:|1781568071
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|turn|4
+|c| nonchalantbufalant|It was the impostor
+|
+|t:|1781568078
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|30/100
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|-hitcount|p2: Hatterene|2
+|
+|upkeep
+|c| nonchalantbufalant|But how could it be?
+|
+|t:|1781568090
+|switch|p2a: Garganacl|Garganacl, M|100/100
+|-damage|p2a: Garganacl|88/100|[from] Stealth Rock
+|turn|5
+|c| nonchalantbufalant|The impostor is sus, how is he the light
+|
+|t:|1781568097
+|-terastallize|p2a: Garganacl|Water
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Garganacl
+|-resisted|p2a: Garganacl
+|-damage|p2a: Garganacl|80/100
+|-resisted|p2a: Garganacl
+|-damage|p2a: Garganacl|72/100
+|-hitcount|p2a: Garganacl|2
+|move|p2a: Garganacl|Salt Cure|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|93/100
+|-start|p1a: Iron Crown|Salt Cure
+|
+|-heal|p2a: Garganacl|78/100|[from] item: Leftovers
+|-damage|p1a: Iron Crown|69/100|[from] Salt Cure
+|upkeep
+|turn|6
+|c| nonchalantbufalant|An eluding mystery with no immediate answer
+|
+|t:|1781568113
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-damage|p2a: Great Tusk|98/100|[from] Stealth Rock
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Iron Crown|Psychic Noise|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-crit|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-damage|p1a: Iron Crown|44/100|[from] Salt Cure
+|upkeep
+|c| nonchalantbufalant|But you must accept this reality
+|
+|t:|1781568125
+|switch|p2a: Tornadus|Tornadus-Therian, M, shiny|52/100
+|-damage|p2a: Tornadus|27/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1781568130
+|switch|p2a: Garganacl|Garganacl, M, tera:Water|78/100
+|-damage|p2a: Garganacl|66/100|[from] Stealth Rock
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Garganacl
+|-resisted|p2a: Garganacl
+|-damage|p2a: Garganacl|58/100
+|-resisted|p2a: Garganacl
+|-damage|p2a: Garganacl|49/100
+|-hitcount|p2a: Garganacl|2
+|
+|-heal|p2a: Garganacl|55/100|[from] item: Leftovers
+|-damage|p1a: Iron Crown|19/100|[from] Salt Cure
+|upkeep
+|turn|8
+|c| nonchalantbufalant|The impostor is the light and he is your only hope now
+|
+|t:|1781568141
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|move|p1a: Iron Crown|Focus Blast|p2a: Garganacl
+|-activate|p2a: Garganacl|move: Protect
+|
+|-heal|p2a: Garganacl|62/100|[from] item: Leftovers
+|-damage|p1a: Iron Crown|0 fnt|[from] Salt Cure
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|upkeep
+|
+|t:|1781568143
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|turn|9
+|c| nonchalantbufalant|With this in mind, you decide to trust him
+|
+|t:|1781568156
+|move|p1a: Kommo-o|Substitute|p1a: Kommo-o
+|-start|p1a: Kommo-o|Substitute
+|-damage|p1a: Kommo-o|75/100
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|100/100
+|
+|-heal|p1a: Kommo-o|82/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|c| nonchalantbufalant|You embark on a journey together seeking answers
+|
+|t:|1781568163
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|-damage|p2a: Dragonite|76/100|[from] Stealth Rock
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|49/100
+|
+|-heal|p1a: Kommo-o|55/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|c| nonchalantbufalant|But none are to be found
+|c| nonchalantbufalant|You seem to be getting somewhere
+|
+|t:|1781568177
+|move|p2a: Dragonite|Extreme Speed|p1a: Kommo-o
+|-activate|p1a: Kommo-o|move: Substitute|[damage]
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|22/100
+|
+|-heal|p1a: Kommo-o|28/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|c| nonchalantbufalant|But you feel lost at the same time
+|
+|t:|1781568187
+|-terastallize|p1a: Kommo-o|Ghost
+|move|p2a: Dragonite|Extreme Speed|p1a: Kommo-o
+|-immune|p1a: Kommo-o
+|move|p1a: Kommo-o|Shadow Claw|p2a: Dragonite
+|-damage|p2a: Dragonite|21/100
+|
+|-heal|p1a: Kommo-o|35/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|c| nonchalantbufalant|A weird feeling begins to bubble over in your gut
+|c| nonchalantbufalant|Why is this happening?
+|
+|t:|1781568197
+|move|p1a: Kommo-o|Drain Punch|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|-heal|p1a: Kommo-o|45/100|[from] drain|[of] p2a: Dragonite
+|faint|p2a: Dragonite
+|
+|-heal|p1a: Kommo-o|51/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781568205
+|switch|p2a: Tornadus|Tornadus-Therian, M, shiny|60/100
+|-damage|p2a: Tornadus|36/100|[from] Stealth Rock
+|turn|14
+|c| nonchalantbufalant|And just as you ponder over this feeling of insecure novelty
+|
+|t:|1781568211
+|move|p1a: Kommo-o|Shadow Claw|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|-heal|p1a: Kommo-o|58/100|[from] item: Leftovers
+|upkeep
+|-message|idealist forfeited.
+|
+|win|DiceyRice
+|raw|DiceyRice's rating: 1689 &rarr; <strong>1705</strong><br />(+16 for winning)
+|raw|idealist's rating: 1627 &rarr; <strong>1611</strong><br />(-16 for losing)
+|l|☆idealist
+|player|p2|
+|c| nonchalantbufalant|It finally becomes clear
+|c| nonchalantbufalant|The impostor is sus for a reason
+|c| nonchalantbufalant|He was never to be trusted
+|c| nonchalantbufalant|And just like that everything goes dark
+|c| nonchalantbufalant|In your finals moments you begin to realize the truth in life
+|c| nonchalantbufalant|The impostor will ALWAYS be sus
+|c| nonchalantbufalant|Thanks for listening

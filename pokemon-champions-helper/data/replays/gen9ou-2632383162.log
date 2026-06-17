@@ -1,0 +1,328 @@
+|j|‽SWAGGER_W2F
+|j|☆FP.//06
+|t:|1781518523
+|gametype|singles
+|player|p1|SWAGGER_W2F|flint|1543
+|player|p2|FP.//06|hilda-masters3|1584
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ceruledge, M|
+|poke|p1|Scizor, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Primarina, F|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Great Tusk|
+|poke|p2|Darkrai|
+|poke|p2|Iron Treads|
+|poke|p2|Dragonite, M|
+|poke|p2|Kyurem|
+|poke|p2|Hatterene, F|
+|poke|p2|Zamazenta-*|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FP.//06)
+|
+|t:|1781518536
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Scizor|Scizor, F|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781518543
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Scizor|U-turn|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|73/100
+|
+|t:|1781518550
+|switch|p1a: Primarina|Primarina, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1781518555
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Primarina|Psychic Noise|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|91/100
+|-start|p2a: Kyurem|move: Heal Block
+|
+|upkeep
+|turn|3
+|
+|t:|1781518566
+|switch|p2a: Iron Treads|Iron Treads|73/100
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781518576
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: Iron Treads|Earthquake|p1a: Mandibuzz
+|-immune|p1a: Mandibuzz
+|
+|upkeep
+|turn|5
+|
+|t:|1781518582
+|switch|p1a: Primarina|Primarina, F|100/100
+|move|p2a: Iron Treads|Knock Off|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|88/100
+|-enditem|p1a: Primarina|Leftovers|[from] move: Knock Off|[of] p2a: Iron Treads
+|
+|upkeep
+|turn|6
+|
+|t:|1781518593
+|move|p2a: Iron Treads|Stealth Rock|p1a: Primarina
+|-sidestart|p1: SWAGGER_W2F|move: Stealth Rock
+|move|p1a: Primarina|Calm Mind|p1a: Primarina
+|-boost|p1a: Primarina|spa|1
+|-boost|p1a: Primarina|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781518600
+|move|p2a: Iron Treads|Earthquake|p1a: Primarina
+|-damage|p1a: Primarina|50/100
+|move|p1a: Primarina|Psychic Noise|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781518604
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|8
+|
+|t:|1781518612
+|move|p2a: Zamazenta|Heavy Slam|p1a: Primarina
+|-damage|p1a: Primarina|14/100
+|-damage|p2a: Zamazenta|91/100|[from] item: Life Orb
+|move|p1a: Primarina|Draining Kiss|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|31/100
+|-heal|p1a: Primarina|54/100|[from] drain|[of] p2a: Zamazenta
+|
+|upkeep
+|turn|9
+|
+|t:|1781518620
+|move|p2a: Zamazenta|Heavy Slam|p1a: Primarina
+|-damage|p1a: Primarina|17/100
+|-damage|p2a: Zamazenta|21/100|[from] item: Life Orb
+|move|p1a: Primarina|Draining Kiss|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|-heal|p1a: Primarina|31/100|[from] drain|[of] p2a: Zamazenta
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781518624
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|10
+|
+|t:|1781518633
+|-terastallize|p1a: Primarina|Steel
+|move|p2a: Darkrai|Sludge Bomb|p1a: Primarina
+|-immune|p1a: Primarina
+|move|p1a: Primarina|Draining Kiss|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|24/100
+|-heal|p1a: Primarina|75/100|[from] drain|[of] p2a: Darkrai
+|
+|upkeep
+|turn|11
+|
+|t:|1781518641
+|move|p2a: Darkrai|Focus Blast|p1a: Primarina|[miss]
+|-miss|p2a: Darkrai|p1a: Primarina
+|move|p1a: Primarina|Draining Kiss|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|-heal|p1a: Primarina|89/100|[from] drain|[of] p2a: Darkrai
+|faint|p2a: Darkrai
+|
+|upkeep
+|
+|t:|1781518645
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|12
+|
+|t:|1781518651
+|move|p1a: Primarina|Substitute|p1a: Primarina
+|-start|p1a: Primarina|Substitute
+|-damage|p1a: Primarina|64/100
+|move|p2a: Hatterene|Nuzzle|p1a: Primarina
+|-activate|p1a: Primarina|move: Substitute|[damage]
+|
+|upkeep
+|turn|13
+|
+|t:|1781518657
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Primarina|Calm Mind|p1a: Primarina
+|-boost|p1a: Primarina|spa|1
+|-boost|p1a: Primarina|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1781518663
+|move|p2a: Dragonite|Encore|p1a: Primarina
+|-start|p1a: Primarina|Encore
+|move|p1a: Primarina|Calm Mind|p1a: Primarina
+|-boost|p1a: Primarina|spa|1
+|-boost|p1a: Primarina|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1781518671
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781518682
+|switch|p2a: Kyurem|Kyurem|91/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Mandibuzz|Foul Play|p2a: Kyurem
+|-damage|p2a: Kyurem|65/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781518690
+|switch|p1a: Scizor|Scizor, F|100/100
+|-damage|p1a: Scizor|88/100|[from] Stealth Rock
+|move|p2a: Kyurem|Earth Power|p1a: Scizor
+|-damage|p1a: Scizor|45/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781518699
+|move|p1a: Scizor|Bullet Punch|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781518701
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|turn|19
+|
+|t:|1781518706
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|20
+|
+|t:|1781518713
+|move|p2a: Dragonite|Scale Shot|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|87/100
+|-damage|p1a: Mandibuzz|74/100
+|-damage|p1a: Mandibuzz|62/100
+|-damage|p1a: Mandibuzz|50/100
+|-damage|p1a: Mandibuzz|39/100
+|-hitcount|p1a: Mandibuzz|5
+|-unboost|p2a: Dragonite|def|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Mandibuzz|Foul Play|p2a: Dragonite
+|-damage|p2a: Dragonite|31/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781518727
+|move|p2a: Dragonite|Scale Shot|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|26/100
+|-damage|p1a: Mandibuzz|12/100
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|-hitcount|p1: Mandibuzz|3
+|-unboost|p2a: Dragonite|def|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|
+|t:|1781518740
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|98/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781518745
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Hatterene
+|-damage|p2a: Hatterene|78/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781518753
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|-damage|p1a: Ceruledge|76/100|[from] Stealth Rock
+|move|p2a: Hatterene|Dazzling Gleam|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|65/100
+|
+|upkeep
+|turn|24
+|
+|t:|1781518760
+|-terastallize|p2a: Hatterene|Water
+|move|p1a: Ceruledge|Poltergeist|p2a: Hatterene
+|-activate|p2a: Hatterene|move: Poltergeist|Custap Berry
+|-damage|p2a: Hatterene|25/100
+|move|p2a: Hatterene|Healing Wish|p2a: Hatterene
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781518766
+|switch|p2a: Dragonite|Dragonite, M|31/100
+|-heal|p2a: Dragonite|100/100|[from] move: Healing Wish
+|turn|25
+|-message|FP.//06 forfeited.
+|
+|win|SWAGGER_W2F
+|raw|SWAGGER_W2F's rating: 1543 &rarr; <strong>1565</strong><br />(+22 for winning)
+|raw|FP.&#x2f;&#x2f;06's rating: 1584 &rarr; <strong>1562</strong><br />(-22 for losing)
+|l|☆FP.//06
+|player|p2|
+|l|‽SWAGGER_W2F
+|player|p1|

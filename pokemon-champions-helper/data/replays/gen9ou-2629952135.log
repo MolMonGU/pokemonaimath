@@ -1,0 +1,130 @@
+|j|☆billythekid95
+|j|☆hat40
+|t:|1781195911
+|gametype|singles
+|player|p1|billythekid95|101|1614
+|player|p2|hat40|265|1651
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Walking Wake|
+|poke|p1|Ribombee, F|
+|poke|p1|Gholdengo|
+|poke|p1|Torkoal, F|
+|poke|p1|Great Tusk|
+|poke|p1|Ceruledge, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Manaphy|
+|poke|p2|Bruxish, M|
+|poke|p2|Overqwil, M|
+|poke|p2|Iron Treads|
+|poke|p2|Raging Bolt|
+|teampreview
+|
+|t:|1781195928
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ribombee|Ribombee, F|100/100
+|switch|p2a: Bruxish|Bruxish, M|100/100
+|turn|1
+|
+|t:|1781195935
+|move|p2a: Bruxish|Flip Turn|p1a: Ribombee
+|-damage|p1a: Ribombee|50/100
+|
+|t:|1781195937
+|switch|p2a: Iron Treads|Iron Treads|100/100|[from] Flip Turn
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Ribombee|Sticky Web|p2a: Iron Treads
+|-sidestart|p2: hat40|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1781195944
+|move|p2a: Iron Treads|Knock Off|p1a: Ribombee
+|-resisted|p1a: Ribombee
+|-damage|p1a: Ribombee|24/100
+|-enditem|p1a: Ribombee|Focus Sash|[from] move: Knock Off|[of] p2a: Iron Treads
+|move|p1a: Ribombee|Stun Spore|p2a: Iron Treads
+|-status|p2a: Iron Treads|par
+|
+|upkeep
+|turn|3
+|
+|t:|1781195953
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|move|p2a: Iron Treads|Rapid Spin|p1a: Ceruledge
+|-immune|p1a: Ceruledge
+|
+|upkeep
+|turn|4
+|
+|t:|1781195958
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|move|p2a: Iron Treads|Earthquake|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-enditem|p1a: Ceruledge|Focus Sash
+|-damage|p1a: Ceruledge|1/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|
+|upkeep
+|turn|5
+|
+|t:|1781195968
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Ceruledge|Bitter Blade|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|85/100
+|-heal|p1a: Ceruledge|10/100|[from] drain|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781195976
+|move|p1a: Ceruledge|Poltergeist|p2a: Pelipper
+|-activate|p2a: Pelipper|move: Poltergeist|Damp Rock
+|-damage|p2a: Pelipper|7/100
+|move|p2a: Pelipper|U-turn|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-crit|p1a: Ceruledge
+|-damage|p1a: Ceruledge|4/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|
+|t:|1781195982
+|switch|p2a: Overqwil|Overqwil, M|100/100|[from] U-turn
+|-activate|p2a: Overqwil|move: Sticky Web
+|-unboost|p2a: Overqwil|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|-message|hat40 forfeited.
+|
+|win|billythekid95
+|raw|billythekid95's rating: 1614 &rarr; <strong>1636</strong><br />(+22 for winning)
+|raw|hat40's rating: 1651 &rarr; <strong>1629</strong><br />(-22 for losing)
+|l|☆hat40
+|player|p2|
+|l|☆billythekid95
+|player|p1|

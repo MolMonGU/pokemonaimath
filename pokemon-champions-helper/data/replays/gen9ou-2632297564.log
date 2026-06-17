@@ -1,0 +1,380 @@
+|j|☆Belike
+|j|☆ihymyly
+|t:|1781503763
+|gametype|singles
+|player|p1|Belike|rocketgrunt|1603
+|player|p2|ihymyly|1|1576
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zapdos-Galar|
+|poke|p1|Iron Treads|
+|poke|p1|Umbreon, M|
+|poke|p1|Cinderace, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Serperior, F|
+|poke|p2|Pelipper, F|
+|poke|p2|Kingdra, M|
+|poke|p2|Weavile, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Clodsire, F|
+|poke|p2|Corviknight, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Belike)
+|
+|t:|1781503770
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zapdos|Zapdos-Galar|100/100
+|switch|p2a: Beakblaster 3000|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Beakblaster 3000
+|turn|1
+|
+|t:|1781503778
+|move|p1a: Zapdos|Brave Bird|p2a: Beakblaster 3000
+|-damage|p2a: Beakblaster 3000|35/100
+|-damage|p1a: Zapdos|79/100|[from] Recoil
+|move|p2a: Beakblaster 3000|Surf|p1a: Zapdos
+|-damage|p1a: Zapdos|24/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781503784
+|switch|p2a: Cokuf|Corviknight, F|100/100
+|-ability|p2a: Cokuf|Pressure
+|move|p1a: Zapdos|Brave Bird|p2a: Cokuf
+|-resisted|p2a: Cokuf
+|-damage|p2a: Cokuf|62/100
+|-damage|p1a: Zapdos|8/100|[from] Recoil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781503787
+|switch|p1a: Umbreon|Umbreon, M|100/100
+|move|p2a: Cokuf|U-turn|p1a: Umbreon
+|-supereffective|p1a: Umbreon
+|-damage|p1a: Umbreon|75/100
+|
+|t:|1781503798
+|switch|p2a: Elongatedkou|Raging Bolt|100/100|[from] U-turn
+|-enditem|p2a: Elongatedkou|Booster Energy
+|-activate|p2a: Elongatedkou|ability: Protosynthesis|[fromitem]
+|-start|p2a: Elongatedkou|protosynthesisspa
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Umbreon|81/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781503803
+|move|p2a: Elongatedkou|Weather Ball|p1a: Umbreon
+|-damage|p1a: Umbreon|38/100
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Umbreon|44/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781503808
+|move|p2a: Elongatedkou|Thunder|p1a: Umbreon
+|-damage|p1a: Umbreon|0 fnt
+|faint|p1a: Umbreon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781503817
+|switch|p1a: Serperior|Serperior, F|100/100
+|turn|6
+|
+|t:|1781503822
+|move|p1a: Serperior|Leech Seed|p2a: Elongatedkou
+|-start|p2a: Elongatedkou|move: Leech Seed
+|move|p2a: Elongatedkou|Dragon Pulse|p1a: Serperior
+|-damage|p1a: Serperior|31/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Serperior|37/100|[from] item: Leftovers
+|-damage|p2a: Elongatedkou|88/100|[from] Leech Seed|[of] p1a: Serperior
+|-heal|p1a: Serperior|51/100|[silent]
+|upkeep
+|turn|7
+|
+|t:|1781503826
+|move|p1a: Serperior|Substitute|p1a: Serperior
+|-start|p1a: Serperior|Substitute
+|-damage|p1a: Serperior|26/100
+|move|p2a: Elongatedkou|Dragon Pulse|p1a: Serperior
+|-end|p1a: Serperior|Substitute
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Serperior|33/100|[from] item: Leftovers
+|-damage|p2a: Elongatedkou|76/100|[from] Leech Seed|[of] p1a: Serperior
+|-heal|p1a: Serperior|47/100|[silent]
+|upkeep
+|turn|8
+|
+|t:|1781503828
+|move|p1a: Serperior|Substitute|p1a: Serperior
+|-start|p1a: Serperior|Substitute
+|-damage|p1a: Serperior|22/100
+|move|p2a: Elongatedkou|Dragon Pulse|p1a: Serperior
+|-end|p1a: Serperior|Substitute
+|
+|-weather|none
+|-heal|p1a: Serperior|28/100|[from] item: Leftovers
+|-damage|p2a: Elongatedkou|63/100|[from] Leech Seed|[of] p1a: Serperior
+|-heal|p1a: Serperior|42/100|[silent]
+|upkeep
+|turn|9
+|
+|t:|1781503832
+|-end|p2a: Elongatedkou|Protosynthesis|[silent]
+|switch|p2a: Cokuf|Corviknight, F|62/100
+|-ability|p2a: Cokuf|Pressure
+|move|p1a: Serperior|Substitute|p1a: Serperior
+|-start|p1a: Serperior|Substitute
+|-damage|p1a: Serperior|17/100
+|
+|-heal|p1a: Serperior|24/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781503834
+|move|p1a: Serperior|Leech Seed|p2a: Cokuf
+|-start|p2a: Cokuf|move: Leech Seed
+|move|p2a: Cokuf|U-turn|p1a: Serperior
+|-supereffective|p1a: Serperior
+|-end|p1a: Serperior|Substitute
+|
+|t:|1781503838
+|switch|p2a: Nails|Weavile, M|100/100|[from] U-turn
+|-ability|p2a: Nails|Pressure
+|
+|-heal|p1a: Serperior|30/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781503841
+|move|p2a: Nails|Knock Off|p1a: Serperior
+|-damage|p1a: Serperior|0 fnt
+|-enditem|p1a: Serperior|Leftovers|[from] move: Knock Off|[of] p2a: Nails
+|faint|p1a: Serperior
+|
+|upkeep
+|
+|t:|1781503848
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|turn|12
+|
+|t:|1781503851
+|move|p2a: Nails|Knock Off|p1a: Iron Treads
+|-damage|p1a: Iron Treads|67/100
+|-enditem|p1a: Iron Treads|Leftovers|[from] move: Knock Off|[of] p2a: Nails
+|move|p1a: Iron Treads|Stealth Rock|p2a: Nails
+|-sidestart|p2: ihymyly|move: Stealth Rock
+|
+|upkeep
+|turn|13
+|
+|t:|1781503857
+|move|p2a: Nails|Triple Axel|p1a: Iron Treads
+|-damage|p1a: Iron Treads|60/100
+|-damage|p1a: Iron Treads|46/100
+|-damage|p1a: Iron Treads|23/100
+|-hitcount|p1a: Iron Treads|3
+|move|p1a: Iron Treads|Rapid Spin|p2a: Nails
+|-damage|p2a: Nails|72/100
+|-boost|p1a: Iron Treads|spe|1
+|
+|upkeep
+|turn|14
+|
+|t:|1781503866
+|move|p2a: Nails|Ice Shard|p1a: Iron Treads
+|-damage|p1a: Iron Treads|9/100
+|move|p1a: Iron Treads|Ice Spinner|p2a: Nails
+|-resisted|p2a: Nails
+|-damage|p2a: Nails|48/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781503869
+|move|p2a: Nails|Ice Shard|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781503871
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|turn|16
+|
+|t:|1781503874
+|move|p2a: Nails|Knock Off|p1a: Cinderace
+|-damage|p1a: Cinderace|29/100
+|-enditem|p1a: Cinderace|Choice Band|[from] move: Knock Off|[of] p2a: Nails
+|move|p1a: Cinderace|U-turn|p2a: Nails
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-supereffective|p2a: Nails
+|-damage|p2a: Nails|0 fnt
+|faint|p2a: Nails
+|
+|t:|1781503877
+|switch|p1a: Zapdos|Zapdos-Galar|8/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781503882
+|switch|p2a: Beakblaster 3000|Pelipper, F|35/100
+|-damage|p2a: Beakblaster 3000|10/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Beakblaster 3000
+|turn|17
+|
+|t:|1781503885
+|move|p1a: Zapdos|Thunderous Kick|p2a: Beakblaster 3000
+|-resisted|p2a: Beakblaster 3000
+|-damage|p2a: Beakblaster 3000|0 fnt
+|faint|p2a: Beakblaster 3000
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781503895
+|switch|p2a: Sire Slayton|Clodsire, F|100/100
+|-damage|p2a: Sire Slayton|94/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781503900
+|switch|p1a: Cinderace|Cinderace, F|29/100
+|move|p2a: Sire Slayton|Earthquake|p1a: Cinderace
+|-supereffective|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Sire Slayton|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781503903
+|switch|p1a: Zapdos|Zapdos-Galar|8/100
+|turn|19
+|
+|t:|1781503908
+|switch|p2a: Cokuf|Corviknight, F|62/100
+|-damage|p2a: Cokuf|50/100|[from] Stealth Rock
+|-ability|p2a: Cokuf|Pressure
+|move|p1a: Zapdos|Stomping Tantrum|p2a: Cokuf
+|-immune|p2a: Cokuf
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781503913
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Cokuf|Brave Bird|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|9/100
+|-damage|p2a: Cokuf|28/100|[from] Recoil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781503916
+|move|p1a: Iron Valiant|Thunderbolt|p2a: Cokuf
+|-supereffective|p2a: Cokuf
+|-crit|p2a: Cokuf
+|-damage|p2a: Cokuf|0 fnt
+|faint|p2a: Cokuf
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781503921
+|switch|p2a: Sire Slayton|Clodsire, F|100/100
+|-damage|p2a: Sire Slayton|94/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781503928
+|move|p1a: Iron Valiant|Moonblast|p2a: Sire Slayton
+|-resisted|p2a: Sire Slayton
+|-crit|p2a: Sire Slayton
+|-damage|p2a: Sire Slayton|75/100
+|-unboost|p2a: Sire Slayton|spa|1
+|move|p2a: Sire Slayton|Toxic|p1a: Iron Valiant
+|-status|p1a: Iron Valiant|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Sire Slayton|81/100|[from] item: Leftovers
+|-damage|p1a: Iron Valiant|3/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1781503932
+|move|p1a: Iron Valiant|Encore|p2a: Sire Slayton
+|-start|p2a: Sire Slayton|Encore
+|move|p2a: Sire Slayton|Toxic|p1a: Iron Valiant
+|-fail|p1a: Iron Valiant|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Sire Slayton|87/100|[from] item: Leftovers
+|-damage|p1a: Iron Valiant|0 fnt|[from] psn
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|upkeep
+|
+|t:|1781503933
+|switch|p1a: Zapdos|Zapdos-Galar|8/100
+|turn|24
+|
+|t:|1781503937
+|-terastallize|p1a: Zapdos|Ground
+|move|p1a: Zapdos|Stomping Tantrum|p2a: Sire Slayton
+|-supereffective|p2a: Sire Slayton
+|-damage|p2a: Sire Slayton|0 fnt
+|faint|p2a: Sire Slayton
+|
+|-weather|none
+|upkeep
+|
+|t:|1781503944
+|switch|p2a: Vincent Von Vain|Kingdra, M|100/100
+|-damage|p2a: Vincent Von Vain|88/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1781503946
+|move|p1a: Zapdos|Stomping Tantrum|p2a: Vincent Von Vain
+|-damage|p2a: Vincent Von Vain|15/100
+|move|p2a: Vincent Von Vain|Dragon Pulse|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|win|ihymyly
+|raw|Belike's rating: 1603 &rarr; <strong>1581</strong><br />(-22 for losing)
+|raw|ihymyly's rating: 1576 &rarr; <strong>1598</strong><br />(+22 for winning)
+|l|☆Belike
+|player|p1|
+|l|☆ihymyly
+|player|p2|

@@ -1,0 +1,346 @@
+|j|☆dilf huntr
+|j|☆thepoowizard_md
+|t:|1781021987
+|gametype|singles
+|player|p1|dilf huntr|170|1553
+|player|p2|thepoowizard_md|rood|1573
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Araquanid, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Ceruledge, F|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Gholdengo|
+|poke|p1|Raging Bolt|
+|poke|p2|Magnezone|
+|poke|p2|Cinderace, F|
+|poke|p2|Regieleki|
+|poke|p2|Great Tusk|
+|poke|p2|Gholdengo|
+|poke|p2|Kyurem|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by dilf huntr)
+|
+|t:|1781022005
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Araquanid|Araquanid, F|100/100
+|switch|p2a: Magnum Jones|Magnezone|100/100
+|turn|1
+|
+|t:|1781022011
+|move|p2a: Magnum Jones|Discharge|p1a: Araquanid
+|-supereffective|p1a: Araquanid
+|-damage|p1a: Araquanid|20/100
+|move|p1a: Araquanid|Mirror Coat|p2a: Magnum Jones
+|-damage|p2a: Magnum Jones|0 fnt
+|faint|p2a: Magnum Jones
+|
+|upkeep
+|
+|t:|1781022017
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|2
+|-enditem|p1a: Araquanid|Custap Berry|[eat]
+|-activate|p1a: Araquanid|item: Custap Berry|[consumed]
+|
+|t:|1781022031
+|move|p1a: Araquanid|Sticky Web|p2a: Regieleki
+|-sidestart|p2: thepoowizard_md|move: Sticky Web
+|move|p2a: Regieleki|Volt Switch|p1a: Araquanid
+|-supereffective|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|faint|p1a: Araquanid
+|
+|t:|1781022044
+|switch|p2a: Poo Chainz|Cinderace, F|100/100|[from] Volt Switch
+|-activate|p2a: Poo Chainz|move: Sticky Web
+|-unboost|p2a: Poo Chainz|spe|1
+|
+|upkeep
+|
+|t:|1781022046
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|3
+|
+|t:|1781022057
+|move|p2a: Poo Chainz|High Jump Kick|p1a: Raging Bolt
+|-start|p2a: Poo Chainz|typechange|Fighting|[from] ability: Libero
+|-damage|p1a: Raging Bolt|29/100
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Poo Chainz
+|-damage|p2a: Poo Chainz|1/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781022064
+|switch|p2a: Big Tuskackus|Great Tusk|100/100
+|-activate|p2a: Big Tuskackus|move: Sticky Web
+|-unboost|p2a: Big Tuskackus|spe|1
+|-enditem|p2a: Big Tuskackus|Booster Energy
+|-activate|p2a: Big Tuskackus|ability: Protosynthesis|[fromitem]
+|-start|p2a: Big Tuskackus|protosynthesisatk
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|
+|upkeep
+|turn|5
+|
+|t:|1781022071
+|move|p2a: Big Tuskackus|Rapid Spin|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|13/100
+|-boost|p2a: Big Tuskackus|spe|1
+|-sideend|p2: thepoowizard_md|Sticky Web|[from] move: Rapid Spin|[of] p2a: Big Tuskackus
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Big Tuskackus|[miss]
+|-miss|p1a: Raging Bolt|p2a: Big Tuskackus
+|
+|upkeep
+|turn|6
+|
+|t:|1781022078
+|move|p2a: Big Tuskackus|Knock Off|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781022095
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespa
+|turn|7
+|
+|t:|1781022110
+|-end|p2a: Big Tuskackus|Protosynthesis|[silent]
+|switch|p2a: Regieleki|Regieleki|100/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|
+|upkeep
+|c|☆thepoowizard_md|Did NOT mean to do that lmao
+|
+|t:|1781022130
+|switch|p2a: Poo Chainz|Cinderace, F|1/100
+|turn|8
+|
+|t:|1781022135
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|move|p2a: Poo Chainz|Pyro Ball|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|43/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|
+|upkeep
+|turn|9
+|
+|t:|1781022141
+|switch|p2a: Big Tuskackus|Great Tusk|100/100
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Big Tuskackus
+|-damage|p2a: Big Tuskackus|87/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781022148
+|move|p1a: Ceruledge|Bitter Blade|p2a: Big Tuskackus
+|-damage|p2a: Big Tuskackus|55/100
+|-heal|p1a: Ceruledge|67/100|[from] drain|[of] p2a: Big Tuskackus
+|move|p2a: Big Tuskackus|Knock Off|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|-enditem|p1a: Ceruledge|Focus Sash|[from] move: Knock Off|[of] p2a: Big Tuskackus
+|faint|p1a: Ceruledge
+|
+|upkeep
+|
+|t:|1781022159
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|11
+|
+|t:|1781022164
+|-end|p2a: Big Tuskackus|Protosynthesis|[silent]
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Deoxys|Ice Beam|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|84/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|-damage|p1a: Deoxys|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1781022173
+|move|p1a: Deoxys|Psycho Boost|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|42/100
+|-unboost|p1a: Deoxys|spa|2
+|-damage|p1a: Deoxys|81/100|[from] item: Life Orb
+|move|p2a: Gholdengo|Shadow Ball|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|upkeep
+|
+|t:|1781022179
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|turn|13
+|
+|t:|1781022183
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-crit|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781022187
+|switch|p2a: Poo Chainz|Cinderace, F|1/100
+|turn|14
+|
+|t:|1781022190
+|-terastallize|p2a: Poo Chainz|Fire
+|move|p2a: Poo Chainz|Pyro Ball|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781022193
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|15
+|
+|t:|1781022208
+|-terastallize|p1a: Gholdengo|Water
+|move|p2a: Poo Chainz|Pyro Ball|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|63/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|move|p1a: Gholdengo|Thunder Wave|p2a: Poo Chainz
+|-status|p2a: Poo Chainz|par
+|
+|upkeep
+|turn|16
+|
+|t:|1781022218
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|100/100
+|move|p2a: Poo Chainz|Pyro Ball|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|62/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781022228
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|100/100
+|move|p2a: Poo Chainz|Pyro Ball|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|61/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781022242
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|100/100
+|move|p2a: Poo Chainz|Pyro Ball|p1a: Gholdengo|[miss]
+|-miss|p2a: Poo Chainz|p1a: Gholdengo
+|
+|upkeep
+|turn|19
+|
+|t:|1781022246
+|move|p1a: Gholdengo|Hex|p2a: Poo Chainz
+|-damage|p2a: Poo Chainz|0 fnt
+|faint|p2a: Poo Chainz
+|
+|upkeep
+|
+|t:|1781022249
+|switch|p2a: Victor Krum|Kyurem|100/100
+|-ability|p2a: Victor Krum|Pressure
+|turn|20
+|
+|t:|1781022256
+|move|p2a: Victor Krum|Substitute|p2a: Victor Krum
+|-start|p2a: Victor Krum|Substitute
+|-damage|p2a: Victor Krum|76/100
+|move|p1a: Gholdengo|Thunder Wave||[still]
+|-fail|p1a: Gholdengo
+|
+|upkeep
+|turn|21
+|
+|t:|1781022266
+|move|p2a: Victor Krum|Dragon Dance|p2a: Victor Krum
+|-boost|p2a: Victor Krum|atk|1
+|-boost|p2a: Victor Krum|spe|1
+|move|p1a: Gholdengo|Hex|p2a: Victor Krum
+|-end|p2a: Victor Krum|Substitute
+|
+|upkeep
+|turn|22
+|
+|t:|1781022269
+|move|p2a: Victor Krum|Scale Shot|p1a: Gholdengo
+|-crit|p1a: Gholdengo
+|-damage|p1a: Gholdengo|80/100
+|-damage|p1a: Gholdengo|66/100
+|-damage|p1a: Gholdengo|53/100
+|-damage|p1a: Gholdengo|38/100
+|-hitcount|p1a: Gholdengo|4
+|-unboost|p2a: Victor Krum|def|1
+|-boost|p2a: Victor Krum|spe|1
+|move|p1a: Gholdengo|Make It Rain|p2a: Victor Krum
+|-supereffective|p2a: Victor Krum
+|-damage|p2a: Victor Krum|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Victor Krum
+|
+|upkeep
+|
+|t:|1781022274
+|switch|p2a: Big Tuskackus|Great Tusk|55/100
+|turn|23
+|
+|t:|1781022278
+|move|p2a: Big Tuskackus|Headlong Rush|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-unboost|p2a: Big Tuskackus|def|1
+|-unboost|p2a: Big Tuskackus|spd|1
+|faint|p1a: Gholdengo
+|
+|win|thepoowizard_md
+|raw|dilf huntr's rating: 1553 &rarr; <strong>1534</strong><br />(-19 for losing)
+|raw|thepoowizard_md's rating: 1573 &rarr; <strong>1592</strong><br />(+19 for winning)
+|l|☆dilf huntr
+|player|p1|
+|l|☆thepoowizard_md
+|player|p2|

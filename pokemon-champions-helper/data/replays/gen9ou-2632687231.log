@@ -1,0 +1,409 @@
+|j|‽I'm evil and spicy
+|j|☆Kogasscarf
+|t:|1781551417
+|gametype|singles
+|player|p1|I'm evil and spicy|1|1585
+|player|p2|Kogasscarf|koga|1595
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Armarouge, M|
+|poke|p1|Rillaboom, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Darkrai|
+|poke|p1|Great Tusk|
+|poke|p1|Pecharunt|
+|poke|p2|Iron Hands|
+|poke|p2|Latios, M|
+|poke|p2|Kingambit, F|
+|poke|p2|Gholdengo|
+|poke|p2|Great Tusk|
+|poke|p2|Grimmsnarl, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kogasscarf)
+|
+|t:|1781551426
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1781551430
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: Kogasscarf|Reflect
+|move|p1a: Rillaboom|Knock Off|p2a: Grimmsnarl
+|-resisted|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|95/100
+|-enditem|p2a: Grimmsnarl|Light Clay|[from] move: Knock Off|[of] p1a: Rillaboom
+|
+|-heal|p2a: Grimmsnarl|100/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1781551437
+|move|p2a: Grimmsnarl|Thunder Wave|p1a: Rillaboom
+|-status|p1a: Rillaboom|par
+|move|p1a: Rillaboom|U-turn|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|87/100
+|
+|t:|1781551446
+|switch|p1a: Darkrai|Darkrai|100/100|[from] U-turn
+|
+|-heal|p2a: Grimmsnarl|93/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1781551454
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: Kogasscarf|move: Light Screen
+|move|p1a: Darkrai|Sludge Bomb|p2a: Grimmsnarl
+|-supereffective|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|69/100
+|
+|-heal|p2a: Grimmsnarl|75/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1781551470
+|switch|p2a: Iron Hands|Iron Hands|100/100
+|move|p1a: Darkrai|Nasty Plot|p1a: Darkrai
+|-boost|p1a: Darkrai|spa|2
+|
+|upkeep
+|turn|5
+|
+|t:|1781551477
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Iron Hands|Swords Dance|p2a: Iron Hands
+|-boost|p2a: Iron Hands|atk|2
+|
+|upkeep
+|turn|6
+|
+|t:|1781551483
+|move|p1a: Pecharunt|Malignant Chain|p2a: Iron Hands
+|-damage|p2a: Iron Hands|89/100
+|move|p2a: Iron Hands|Swords Dance|p2a: Iron Hands
+|-boost|p2a: Iron Hands|atk|2
+|
+|-heal|p2a: Iron Hands|95/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1781551487
+|move|p1a: Pecharunt|Malignant Chain|p2a: Iron Hands
+|-damage|p2a: Iron Hands|82/100
+|-status|p2a: Iron Hands|tox
+|-start|p2a: Iron Hands|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|-activate|p2a: Iron Hands|confusion
+|-damage|p2a: Iron Hands|50/100 tox|[from] confusion
+|
+|-heal|p2a: Iron Hands|56/100 tox|[from] Grassy Terrain
+|-damage|p2a: Iron Hands|50/100 tox|[from] psn
+|-sideend|p2: Kogasscarf|move: Light Screen
+|upkeep
+|turn|8
+|
+|t:|1781551503
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Iron Hands|confusion
+|-damage|p2a: Iron Hands|18/100 tox|[from] confusion
+|
+|-heal|p2a: Iron Hands|24/100 tox|[from] Grassy Terrain
+|-damage|p2a: Iron Hands|12/100 tox|[from] psn
+|-sideend|p2: Kogasscarf|Reflect
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1781551509
+|move|p1a: Great Tusk|Close Combat|p2a: Iron Hands
+|-damage|p2a: Iron Hands|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781551515
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|75/100
+|turn|10
+|j| KenlyKajiro
+|
+|t:|1781551524
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: Kogasscarf|Reflect
+|move|p1a: Great Tusk|Stealth Rock|p2a: Grimmsnarl
+|-sidestart|p2: Kogasscarf|move: Stealth Rock
+|
+|upkeep
+|turn|11
+|l| KenlyKajiro
+|
+|t:|1781551534
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Rillaboom|Rillaboom, F|100/100 par
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|switch|p2a: Latios|Latios, M|100/100
+|-damage|p2a: Latios|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|12
+|
+|t:|1781551542
+|switch|p1a: Darkrai|Darkrai|100/100
+|move|p2a: Latios|Agility|p2a: Latios
+|-boost|p2a: Latios|spe|2
+|
+|upkeep
+|turn|13
+|
+|t:|1781551550
+|move|p2a: Latios|Calm Mind|p2a: Latios
+|-boost|p2a: Latios|spa|1
+|-boost|p2a: Latios|spd|1
+|move|p1a: Darkrai|Dark Pulse|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|30/100
+|-enditem|p2a: Latios|Weakness Policy
+|-boost|p2a: Latios|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Latios|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|14
+|
+|t:|1781551556
+|move|p2a: Latios|Aura Sphere|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|-sideend|p2: Kogasscarf|Reflect
+|upkeep
+|
+|t:|1781551567
+|switch|p1a: Armarouge|Armarouge, M|100/100
+|-enditem|p1a: Armarouge|Grassy Seed
+|-boost|p1a: Armarouge|def|1|[from] item: Grassy Seed
+|turn|15
+|
+|t:|1781551576
+|move|p2a: Latios|Stored Power|p1a: Armarouge
+|-resisted|p1a: Armarouge
+|-damage|p1a: Armarouge|0 fnt
+|faint|p1a: Armarouge
+|
+|upkeep
+|
+|t:|1781551588
+|switch|p1a: Rillaboom|Rillaboom, F|100/100 par
+|turn|16
+|
+|t:|1781551593
+|cant|p1a: Rillaboom|par
+|move|p2a: Latios|Stored Power|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|upkeep
+|
+|t:|1781551596
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|17
+|
+|t:|1781551602
+|move|p1a: Ogerpon|Grassy Glide|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|faint|p2a: Latios
+|
+|upkeep
+|
+|t:|1781551612
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|94/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781551620
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Gholdengo|Shadow Ball|p1a: Great Tusk
+|-damage|p1a: Great Tusk|4/100
+|
+|-heal|p1a: Great Tusk|10/100|[from] Grassy Terrain
+|-heal|p2a: Gholdengo|100/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1781551624
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Great Tusk|Headlong Rush|p2a: Great Tusk
+|-damage|p2a: Great Tusk|56/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|20
+|
+|t:|1781551638
+|move|p1a: Great Tusk|Headlong Rush|p2a: Great Tusk
+|-crit|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781551659
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|75/100
+|-damage|p2a: Grimmsnarl|62/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1781551670
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: Kogasscarf|Reflect
+|move|p1a: Great Tusk|Headlong Rush|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|26/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|22
+|
+|t:|1781551683
+|move|p1a: Great Tusk|Headlong Rush|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Grimmsnarl
+|
+|upkeep
+|
+|t:|1781551690
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|23
+|
+|t:|1781551695
+|-terastallize|p2a: Kingambit|Flying
+|move|p1a: Great Tusk|Stealth Rock||[still]
+|-fail|p1a: Great Tusk
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|upkeep
+|turn|24
+|
+|t:|1781551710
+|move|p2a: Kingambit|Sucker Punch|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781551712
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|turn|25
+|
+|t:|1781551721
+|-terastallize|p1a: Pecharunt|Fairy
+|move|p1a: Pecharunt|Nasty Plot|p1a: Pecharunt
+|-boost|p1a: Pecharunt|spa|2
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-damage|p1a: Pecharunt|58/100
+|
+|-sideend|p2: Kogasscarf|Reflect
+|upkeep
+|turn|26
+|
+|t:|1781551727
+|move|p1a: Pecharunt|Malignant Chain|p2a: Kingambit
+|-damage|p2a: Kingambit|36/100
+|move|p2a: Kingambit|Iron Head|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|faint|p1a: Pecharunt
+|
+|upkeep
+|
+|t:|1781551733
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|27
+|
+|t:|1781551736
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|upkeep
+|turn|28
+|
+|t:|1781551742
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|upkeep
+|turn|29
+|
+|t:|1781551745
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|upkeep
+|turn|30
+|
+|t:|1781551748
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|0
+|
+|upkeep
+|turn|31
+|
+|t:|1781551751
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|0
+|
+|upkeep
+|turn|32
+|
+|t:|1781551754
+|move|p2a: Kingambit|Sucker Punch|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|win|Kogasscarf
+|raw|I&apos;m evil and spicy's rating: 1585 &rarr; <strong>1566</strong><br />(-19 for losing)
+|raw|Kogasscarf's rating: 1595 &rarr; <strong>1614</strong><br />(+19 for winning)
+|l|‽I'm evil and spicy
+|player|p1|
+|l|☆Kogasscarf
+|player|p2|

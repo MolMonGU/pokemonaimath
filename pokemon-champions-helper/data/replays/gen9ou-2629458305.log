@@ -1,0 +1,329 @@
+|j|☆ChillLanturnYT
+|j|☆theoddkeystone
+|t:|1781133347
+|gametype|singles
+|player|p1|ChillLanturnYT|palmer|1531
+|player|p2|theoddkeystone|bruno-gen2|1551
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Magnezone|
+|poke|p1|Rillaboom, F|
+|poke|p1|Primarina, F|
+|poke|p1|Bronzong|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Great Tusk|
+|poke|p2|Great Tusk|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Kyurem|
+|poke|p2|Gliscor, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Darkrai|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ChillLanturnYT)
+|
+|t:|1781133364
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|turn|1
+|
+|t:|1781133367
+|move|p1a: Hoopa|Knock Off|p2a: Gliscor
+|-damage|p2a: Gliscor|35/100
+|-enditem|p2a: Gliscor|Toxic Orb|[from] move: Knock Off|[of] p1a: Hoopa
+|move|p2a: Gliscor|Knock Off|p1a: Hoopa
+|-damage|p1a: Hoopa|64/100
+|-enditem|p1a: Hoopa|Choice Band|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|upkeep
+|turn|2
+|
+|t:|1781133375
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|move|p1a: Hoopa|Zen Headbutt|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|35/100
+|-item|p1a: Hoopa|Heavy-Duty Boots|[from] ability: Magician|[of] p2a: Zamazenta
+|
+|upkeep
+|turn|3
+|
+|t:|1781133380
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Zamazenta|Close Combat|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|34/100
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1781133389
+|move|p2a: Zamazenta|Close Combat|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781133393
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|5
+|
+|t:|1781133398
+|switch|p2a: Gliscor|Gliscor, M|35/100
+|move|p1a: Rillaboom|Grassy Glide|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|upkeep
+|
+|t:|1781133400
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|6
+|
+|t:|1781133403
+|switch|p1a: Hoopa|Hoopa-Unbound|64/100
+|move|p2a: Darkrai|Will-O-Wisp|p1a: Hoopa
+|-status|p1a: Hoopa|brn
+|
+|-heal|p1a: Hoopa|70/100 brn|[from] Grassy Terrain
+|-damage|p1a: Hoopa|64/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1781133409
+|move|p2a: Darkrai|Dark Pulse|p1a: Hoopa
+|-damage|p1a: Hoopa|25/100 brn
+|cant|p1a: Hoopa|flinch
+|
+|-heal|p1a: Hoopa|31/100 brn|[from] Grassy Terrain
+|-damage|p1a: Hoopa|25/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1781133416
+|move|p2a: Darkrai|Dark Pulse|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|upkeep
+|
+|t:|1781133426
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|turn|9
+|
+|t:|1781133430
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Rillaboom|Grassy Glide|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|73/100
+|
+|-heal|p2a: Slowking|79/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1781133435
+|switch|p1a: Magnezone|Magnezone|100/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781133438
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781133443
+|switch|p1a: Bronzong|Bronzong|100/100
+|move|p2a: Great Tusk|Stealth Rock|p1a: Bronzong
+|-sidestart|p1: ChillLanturnYT|move: Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781133450
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Darkrai|Darkrai|100/100
+|move|p1a: Bronzong|Body Press|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|43/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781133455
+|move|p2a: Darkrai|Knock Off|p1a: Bronzong
+|-supereffective|p1a: Bronzong
+|-damage|p1a: Bronzong|47/100
+|-enditem|p1a: Bronzong|Leftovers|[from] move: Knock Off|[of] p2a: Darkrai
+|move|p1a: Bronzong|Body Press|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781133460
+|switch|p2a: Zamazenta|Zamazenta|35/100
+|turn|14
+|
+|t:|1781133465
+|move|p2a: Zamazenta|Close Combat|p1a: Bronzong
+|-damage|p1a: Bronzong|0 fnt
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|faint|p1a: Bronzong
+|
+|-weather|none
+|upkeep
+|
+|t:|1781133479
+|switch|p1a: Primarina|Primarina, F|100/100
+|-damage|p1a: Primarina|88/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1781133481
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Primarina|Calm Mind|p1a: Primarina
+|-boost|p1a: Primarina|spa|1
+|-boost|p1a: Primarina|spd|1
+|
+|-heal|p1a: Primarina|94/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781133486
+|-terastallize|p1a: Primarina|Steel
+|move|p1a: Primarina|Substitute|p1a: Primarina
+|-start|p1a: Primarina|Substitute
+|-damage|p1a: Primarina|69/100
+|move|p2a: Slowking|Thunder Wave||[still]
+|-fail|p2a: Slowking
+|
+|-heal|p1a: Primarina|75/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781133494
+|move|p1a: Primarina|Draining Kiss|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|91/100
+|-heal|p1a: Primarina|83/100|[from] drain|[of] p2a: Slowking
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781133499
+|switch|p2a: Zamazenta|Zamazenta|35/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Primarina|89/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781133501
+|move|p2a: Zamazenta|Close Combat|p1a: Primarina
+|-supereffective|p1a: Primarina
+|-end|p1a: Primarina|Substitute
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|move|p1a: Primarina|Draining Kiss|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|-heal|p1a: Primarina|100/100|[from] drain|[of] p2a: Zamazenta
+|faint|p2a: Zamazenta
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781133503
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|19
+|
+|t:|1781133506
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-damage|p1a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Great Tusk|Headlong Rush|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|54/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Rillaboom|60/100|[from] Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1781133512
+|-terastallize|p2a: Great Tusk|Steel
+|move|p2a: Great Tusk|Ice Spinner|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|-fieldend|move: Grassy Terrain
+|faint|p1a: Rillaboom
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781133521
+|switch|p1a: Primarina|Primarina, F, tera:Steel|100/100
+|-damage|p1a: Primarina|94/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1781133527
+|move|p2a: Great Tusk|Headlong Rush|p1a: Primarina
+|-supereffective|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Primarina
+|
+|-weather|none
+|upkeep
+|
+|t:|1781133530
+|switch|p1a: Magnezone|Magnezone|100/100
+|-damage|p1a: Magnezone|94/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781133533
+|move|p2a: Great Tusk|Headlong Rush|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Magnezone
+|
+|win|theoddkeystone
+|raw|ChillLanturnYT's rating: 1531 &rarr; <strong>1512</strong><br />(-19 for losing)
+|raw|theoddkeystone's rating: 1551 &rarr; <strong>1570</strong><br />(+19 for winning)
+|l|☆ChillLanturnYT
+|player|p1|
+|l|☆theoddkeystone
+|player|p2|

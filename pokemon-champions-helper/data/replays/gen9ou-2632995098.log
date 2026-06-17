@@ -1,0 +1,345 @@
+|j|☆Joegirl
+|j|☆freekaik
+|t:|1781590623
+|gametype|singles
+|player|p1|Joegirl|101|1518
+|player|p2|freekaik|169|1578
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Valiant|
+|poke|p1|Sinistcha|
+|poke|p1|Clefable, F|
+|poke|p1|Kommo-o, F|
+|poke|p1|Haxorus, M|
+|poke|p1|Weezing-Galar, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Corviknight, M|
+|poke|p2|Heatran, F|
+|poke|p2|Great Tusk|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by freekaik)
+|
+|t:|1781590636
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|switch|p2a: Heatran|Heatran, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|-item|p2a: Heatran|Air Balloon
+|turn|1
+|
+|t:|1781590647
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Kommo-o|Kommo-o, F|100/100
+|move|p2a: Heatran|Magma Storm|p1a: Kommo-o|[miss]
+|-miss|p2a: Heatran|p1a: Kommo-o
+|
+|upkeep
+|turn|2
+|
+|t:|1781590654
+|switch|p2a: Mandibuzz|Mandibuzz, F|100/100
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|68/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781590662
+|move|p1a: Kommo-o|Boomburst|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|41/100
+|move|p2a: Mandibuzz|Toxic|p1a: Kommo-o
+|-status|p1a: Kommo-o|tox
+|
+|-damage|p1a: Kommo-o|61/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1781590669
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|28/100 tox
+|-enditem|p1a: Kommo-o|Sitrus Berry|[eat]
+|-heal|p1a: Kommo-o|53/100 tox|[from] item: Sitrus Berry
+|
+|-damage|p1a: Kommo-o|41/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1781590689
+|switch|p2a: Mandibuzz|Mandibuzz, F|41/100
+|move|p1a: Kommo-o|Close Combat|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|0 fnt
+|-unboost|p1a: Kommo-o|def|1
+|-unboost|p1a: Kommo-o|spd|1
+|-damage|p1a: Kommo-o|24/100 tox|[from] item: Rocky Helmet|[of] p2a: Mandibuzz
+|faint|p2a: Mandibuzz
+|
+|-damage|p1a: Kommo-o|6/100 tox|[from] psn
+|upkeep
+|
+|t:|1781590704
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|turn|6
+|
+|t:|1781590713
+|move|p1a: Kommo-o|Boomburst|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|70/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-damage|p1a: Kommo-o|0 fnt|[from] psn
+|faint|p1a: Kommo-o
+|upkeep
+|
+|t:|1781590719
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|7
+|
+|t:|1781590725
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Corviknight|U-turn|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|96/100
+|
+|t:|1781590737
+|switch|p2a: Heatran|Heatran, F|100/100|[from] U-turn
+|-item|p2a: Heatran|Air Balloon
+|
+|upkeep
+|turn|8
+|
+|t:|1781590745
+|-terastallize|p1a: Iron Valiant|Ghost
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Heatran|Flash Cannon|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|57/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781590751
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|38/100
+|-enditem|p2a: Heatran|Air Balloon
+|move|p2a: Heatran|Magma Storm|p1a: Iron Valiant|[miss]
+|-miss|p2a: Heatran|p1a: Iron Valiant
+|
+|upkeep
+|turn|10
+|
+|t:|1781590758
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1781590762
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|11
+|
+|t:|1781590766
+|-terastallize|p2a: Ogerpon|Water
+|detailschange|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Ogerpon
+|-damage|p2a: Ogerpon|43/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Iron Valiant|[anim] Ivy Cudgel Water
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781590782
+|switch|p1a: Sinistcha|Sinistcha|100/100
+|turn|12
+|
+|t:|1781590792
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Sinistcha|Calm Mind|p1a: Sinistcha
+|-boost|p1a: Sinistcha|spa|1
+|-boost|p1a: Sinistcha|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781590798
+|move|p1a: Sinistcha|Calm Mind|p1a: Sinistcha
+|-boost|p1a: Sinistcha|spa|1
+|-boost|p1a: Sinistcha|spd|1
+|move|p2a: Corviknight|U-turn|p1a: Sinistcha
+|-damage|p1a: Sinistcha|90/100
+|
+|t:|1781590803
+|switch|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water|43/100|[from] U-turn
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1781590808
+|move|p2a: Ogerpon|Encore|p1a: Sinistcha
+|-start|p1a: Sinistcha|Encore
+|move|p1a: Sinistcha|Calm Mind|p1a: Sinistcha
+|-boost|p1a: Sinistcha|spa|1
+|-boost|p1a: Sinistcha|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1781590814
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Weezing|[anim] Ivy Cudgel Water
+|-damage|p1a: Weezing|48/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781590821
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Weezing|[anim] Ivy Cudgel Water
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|
+|upkeep
+|
+|t:|1781590824
+|switch|p1a: Haxorus|Haxorus, M|100/100
+|-ability|p1a: Haxorus|Mold Breaker
+|turn|17
+|
+|t:|1781590837
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Haxorus|Swords Dance|p1a: Haxorus
+|-boost|p1a: Haxorus|atk|2
+|
+|upkeep
+|turn|18
+|
+|t:|1781590844
+|move|p1a: Haxorus|Scale Shot|p2a: Great Tusk
+|-damage|p2a: Great Tusk|80/100
+|-damage|p2a: Great Tusk|60/100
+|-damage|p2a: Great Tusk|39/100
+|-damage|p2a: Great Tusk|18/100
+|-hitcount|p2a: Great Tusk|4
+|-unboost|p1a: Haxorus|def|1
+|-boost|p1a: Haxorus|spe|1
+|move|p2a: Great Tusk|Ice Spinner|p1a: Haxorus
+|-supereffective|p1a: Haxorus
+|-damage|p1a: Haxorus|0 fnt
+|faint|p1a: Haxorus
+|
+|upkeep
+|
+|t:|1781590861
+|switch|p1a: Clefable|Clefable, F|100/100
+|turn|19
+|
+|t:|1781590863
+|move|p2a: Great Tusk|Headlong Rush|p1a: Clefable
+|-damage|p1a: Clefable|27/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Clefable|Moonblast|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781590874
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|20
+|
+|t:|1781590880
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1781590883
+|switch|p1a: Sinistcha|Sinistcha|90/100
+|turn|21
+|
+|t:|1781590885
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Sinistcha|[miss]
+|-miss|p2a: Raging Bolt|p1a: Sinistcha
+|move|p1a: Sinistcha|Calm Mind|p1a: Sinistcha
+|-boost|p1a: Sinistcha|spa|1
+|-boost|p1a: Sinistcha|spd|1
+|
+|upkeep
+|turn|22
+|
+|t:|1781590892
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|move|p1a: Sinistcha|Shadow Ball|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|73/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781590897
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Sinistcha
+|-damage|p1a: Sinistcha|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Sinistcha
+|
+|win|freekaik
+|raw|Joegirl's rating: 1518 &rarr; <strong>1501</strong><br />(-17 for losing)
+|raw|freekaik's rating: 1578 &rarr; <strong>1595</strong><br />(+17 for winning)
+|l|☆freekaik
+|player|p2|
+|l|☆Joegirl
+|player|p1|

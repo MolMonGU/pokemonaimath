@@ -1,0 +1,321 @@
+|j|☆mythiixx
+|j|☆CyborgParrot127
+|t:|1781541737
+|gametype|singles
+|player|p1|mythiixx|valerie|1678
+|player|p2|CyborgParrot127|workerice|1626
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hawlucha, F|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Gholdengo|
+|poke|p1|Kyurem|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Great Tusk|
+|poke|p2|Walking Wake|
+|poke|p2|Hatterene, F|
+|poke|p2|Cinderace, F|
+|poke|p2|Venusaur, M|
+|poke|p2|Ninetales, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by CyborgParrot127)
+|
+|t:|1781541753
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|1
+|
+|t:|1781541758
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Cinderace|atk|1
+|move|p2a: Cinderace|U-turn|p1a: Landorus
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|83/100
+|-damage|p2a: Cinderace|84/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|
+|t:|1781541762
+|switch|p2a: Walking Wake|Walking Wake|100/100|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1781541770
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|move|p2a: Walking Wake|Flamethrower|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|86/100
+|-status|p1a: Samurott|brn
+|
+|-damage|p1a: Samurott|80/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1781541779
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Samurott|Ceaseless Edge|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|93/100
+|-damage|p1a: Samurott|63/100 brn|[from] item: Rocky Helmet|[of] p2a: Great Tusk
+|-sidestart|p2: CyborgParrot127|Spikes
+|
+|-damage|p1a: Samurott|57/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1781541790
+|switch|p1a: Landorus|Landorus-Therian, M|83/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Great Tusk|atk|1
+|move|p2a: Great Tusk|Rapid Spin|p1a: Landorus
+|-damage|p1a: Landorus|72/100
+|-boost|p2a: Great Tusk|spe|1
+|-damage|p2a: Great Tusk|77/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|-sideend|p2: CyborgParrot127|Spikes|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|5
+|
+|t:|1781541807
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|
+|upkeep
+|turn|6
+|
+|t:|1781541813
+|move|p1a: Kyurem|Ice Beam|p2a: Hatterene
+|-damage|p2a: Hatterene|52/100
+|-status|p2a: Hatterene|frz
+|-enditem|p2a: Hatterene|Eject Button
+|
+|t:|1781541822
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|
+|upkeep
+|turn|7
+|j| Negative1stClass
+|
+|t:|1781541830
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Walking Wake|Draco Meteor|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|42/100
+|-unboost|p2a: Walking Wake|spa|2
+|
+|upkeep
+|turn|8
+|
+|t:|1781541835
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Ninetales|Ninetales, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|move|p1a: Gholdengo|Trick|p2a: Ninetales
+|-activate|p1a: Gholdengo|move: Trick|[of] p2a: Ninetales
+|-item|p2a: Ninetales|Choice Scarf|[from] move: Trick
+|-item|p1a: Gholdengo|Heat Rock|[from] move: Trick
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781541846
+|switch|p2a: Venusaur|Venusaur, M, shiny|100/100
+|switch|p1a: Samurott|Samurott-Hisui, F|57/100 brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Samurott|51/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1781541854
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Venusaur|Growth|p2a: Venusaur
+|-boost|p2a: Venusaur|atk|2
+|-boost|p2a: Venusaur|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781541861
+|move|p2a: Venusaur|Weather Ball|p1a: Kyurem
+|-damage|p1a: Kyurem|33/100
+|-damage|p2a: Venusaur|91/100|[from] item: Life Orb
+|move|p1a: Kyurem|Ice Beam|p2a: Venusaur
+|-supereffective|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781541866
+|switch|p2a: Cinderace|Cinderace, F|84/100
+|turn|12
+|
+|t:|1781541871
+|switch|p1a: Landorus|Landorus-Therian, M|72/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Cinderace|atk|1
+|move|p2a: Cinderace|Pyro Ball|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781541887
+|switch|p1a: Samurott|Samurott-Hisui, F|51/100 brn
+|turn|13
+|
+|t:|1781541891
+|move|p2a: Cinderace|Pyro Ball|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|6/100 brn
+|move|p1a: Samurott|Ceaseless Edge|p2a: Cinderace
+|-damage|p2a: Cinderace|56/100
+|-sidestart|p2: CyborgParrot127|Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Samurott|0 fnt|[from] brn
+|faint|p1a: Samurott
+|upkeep
+|
+|t:|1781541899
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|14
+|
+|t:|1781541908
+|-terastallize|p1a: Rillaboom|Fire
+|move|p2a: Cinderace|Pyro Ball|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|59/100
+|move|p1a: Rillaboom|Wood Hammer|p2a: Cinderace
+|-resisted|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|-damage|p1a: Rillaboom|44/100|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Rillaboom|51/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781541926
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-damage|p2a: Walking Wake|88/100|[from] Spikes
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|turn|15
+|
+|t:|1781541935
+|move|p1a: Rillaboom|Grassy Glide|p2a: Walking Wake
+|-damage|p2a: Walking Wake|45/100
+|move|p2a: Walking Wake|Hydro Steam|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-weather|none
+|-end|p2a: Walking Wake|Protosynthesis
+|-heal|p2a: Walking Wake|51/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781541940
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p1a: Hawlucha|Grassy Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Grassy Seed
+|turn|16
+|
+|t:|1781541951
+|-terastallize|p2a: Walking Wake|Water
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Walking Wake|Hydro Steam|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|-heal|p2a: Walking Wake|58/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781541957
+|switch|p1a: Gholdengo|Gholdengo|42/100
+|turn|17
+|
+|t:|1781541962
+|move|p2a: Walking Wake|Hydro Steam|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-heal|p2a: Walking Wake|64/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781541964
+|switch|p1a: Kyurem|Kyurem|33/100
+|-ability|p1a: Kyurem|Pressure
+|turn|18
+|
+|t:|1781541968
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Ninetales|Ninetales, M, shiny|100/100
+|-damage|p2a: Ninetales|88/100|[from] Spikes
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|move|p1a: Kyurem|Freeze-Dry|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|71/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Ninetales|77/100|[from] Grassy Terrain
+|-heal|p1a: Kyurem|39/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|19
+|j| Agathina
+|
+|t:|1781541978
+|move|p2a: Ninetales|Overheat|p1a: Kyurem
+|-damage|p1a: Kyurem|6/100
+|-unboost|p2a: Ninetales|spa|2
+|move|p1a: Kyurem|Earth Power|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|17/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1781541986
+|move|p2a: Ninetales|Overheat|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|-unboost|p2a: Ninetales|spa|2
+|faint|p1a: Kyurem
+|
+|win|CyborgParrot127
+|raw|mythiixx's rating: 1678 &rarr; <strong>1655</strong><br />(-23 for losing)
+|raw|CyborgParrot127's rating: 1626 &rarr; <strong>1649</strong><br />(+23 for winning)
+|l|☆mythiixx
+|player|p1|
+|l|☆CyborgParrot127
+|player|p2|
+|l| Agathina

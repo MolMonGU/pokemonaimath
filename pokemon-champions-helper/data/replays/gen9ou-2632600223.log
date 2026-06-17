@@ -1,0 +1,435 @@
+|j|☆SofteLocke
+|j|☆stone xo
+|t:|1781542917
+|gametype|singles
+|player|p1|SofteLocke|170|1658
+|player|p2|stone xo|169|1660
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torkoal, M|
+|poke|p1|Walking Wake|
+|poke|p1|Great Tusk|
+|poke|p1|Hatterene, F|
+|poke|p1|Ceruledge, M|
+|poke|p1|Raging Bolt|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Iron Crown|
+|poke|p2|Raging Bolt|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Glimmora, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by stone xo)
+|
+|t:|1781542924
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|
+|t:|1781542934
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: stone xo|move: Light Screen
+|move|p1a: Torkoal|Stealth Rock|p2a: Grimmsnarl
+|-sidestart|p2: stone xo|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781542939
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: stone xo|Reflect
+|move|p1a: Torkoal|Will-O-Wisp|p2a: Grimmsnarl
+|-status|p2a: Grimmsnarl|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Grimmsnarl|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1781542946
+|move|p2a: Grimmsnarl|Parting Shot|p1a: Torkoal
+|-unboost|p1a: Torkoal|atk|1
+|-unboost|p1a: Torkoal|spa|1
+|
+|t:|1781542950
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] Parting Shot
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Torkoal|Will-O-Wisp|p2a: Raging Bolt
+|-status|p2a: Raging Bolt|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Raging Bolt|82/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1781542954
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Hatterene
+|-immune|p1a: Hatterene
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Raging Bolt|76/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1781542958
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Great Tusk
+|-immune|p1a: Great Tusk
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Raging Bolt|70/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1781542962
+|move|p1a: Great Tusk|Headlong Rush|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-crit|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781542975
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1781542984
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Ogerpon|Play Rough|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|33/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781542996
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Ogerpon|Play Rough|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|54/100
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781542997
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|
+|-weather|none
+|-end|p1a: Walking Wake|Protosynthesis
+|-sideend|p2: stone xo|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1781543003
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Ogerpon|Play Rough|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|91/100
+|
+|-weather|SunnyDay|[upkeep]
+|-sideend|p2: stone xo|Reflect
+|upkeep
+|turn|10
+|
+|t:|1781543008
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|94/100 brn
+|-damage|p2a: Grimmsnarl|82/100 brn|[from] Stealth Rock
+|move|p1a: Torkoal|Will-O-Wisp|p2a: Grimmsnarl
+|-fail|p2a: Grimmsnarl|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Grimmsnarl|76/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781543018
+|switch|p1a: Hatterene|Hatterene, F|54/100
+|move|p2a: Grimmsnarl|Taunt|p1a: Hatterene
+|move|p1a: Hatterene|Taunt|p2a: Grimmsnarl|[from] ability: Magic Bounce
+|-start|p2a: Grimmsnarl|move: Taunt
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Grimmsnarl|70/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1781543025
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|-damage|p2a: Glimmora|88/100|[from] Stealth Rock
+|move|p1a: Hatterene|Healing Wish|p1a: Hatterene
+|faint|p1a: Hatterene
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781543030
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|13
+|
+|t:|1781543048
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|70/100 brn
+|-damage|p2a: Grimmsnarl|57/100 brn|[from] Stealth Rock
+|move|p1a: Walking Wake|Hydro Steam|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|faint|p2a: Grimmsnarl
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781543051
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|88/100
+|-damage|p2a: Ogerpon|76/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1781543054
+|move|p1a: Walking Wake|Draco Meteor|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|-unboost|p1a: Walking Wake|spa|2
+|faint|p2a: Ogerpon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781543071
+|switch|p2a: Glimmora|Glimmora, F|88/100
+|-damage|p2a: Glimmora|76/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1781543079
+|move|p1a: Walking Wake|Hydro Steam|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|7/100
+|-enditem|p2a: Glimmora|Red Card|[of] p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|drag|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Glimmora|Stealth Rock|p1a: Great Tusk
+|-sidestart|p1: SofteLocke|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781543088
+|move|p1a: Great Tusk|Headlong Rush|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: SofteLocke|move: Toxic Spikes
+|faint|p2a: Glimmora
+|
+|-weather|none
+|-end|p1a: Great Tusk|Protosynthesis
+|upkeep
+|
+|t:|1781543094
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-damage|p2a: Zamazenta|94/100|[from] Stealth Rock
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|17
+|
+|t:|1781543103
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|33/100
+|-heal|p1a: Raging Bolt|100/100|[from] move: Healing Wish
+|-damage|p1a: Raging Bolt|88/100|[from] Stealth Rock
+|-status|p1a: Raging Bolt|psn
+|move|p2a: Zamazenta|Substitute|p2a: Zamazenta
+|-start|p2a: Zamazenta|Substitute
+|-damage|p2a: Zamazenta|69/100
+|
+|-heal|p2a: Zamazenta|75/100|[from] item: Leftovers
+|-damage|p1a: Raging Bolt|75/100 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1781543110
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Zamazenta
+|-end|p2a: Zamazenta|Substitute
+|
+|-heal|p2a: Zamazenta|82/100|[from] item: Leftovers
+|-damage|p1a: Raging Bolt|63/100 psn|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1781543113
+|move|p2a: Zamazenta|Substitute|p2a: Zamazenta
+|-start|p2a: Zamazenta|Substitute
+|-damage|p2a: Zamazenta|57/100
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Zamazenta
+|-end|p2a: Zamazenta|Substitute
+|
+|-heal|p2a: Zamazenta|63/100|[from] item: Leftovers
+|-damage|p1a: Raging Bolt|50/100 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1781543116
+|move|p2a: Zamazenta|Body Press|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-heal|p2a: Zamazenta|69/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781543119
+|switch|p1a: Torkoal|Torkoal, M|91/100
+|-damage|p1a: Torkoal|66/100|[from] Stealth Rock
+|-status|p1a: Torkoal|psn
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|21
+|
+|t:|1781543127
+|move|p2a: Zamazenta|Substitute|p2a: Zamazenta
+|-start|p2a: Zamazenta|Substitute
+|-damage|p2a: Zamazenta|44/100
+|move|p1a: Torkoal|Lava Plume|p2a: Zamazenta
+|-end|p2a: Zamazenta|Substitute
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Zamazenta|50/100|[from] item: Leftovers
+|-damage|p1a: Torkoal|54/100 psn|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1781543134
+|move|p2a: Zamazenta|Substitute|p2a: Zamazenta
+|-start|p2a: Zamazenta|Substitute
+|-damage|p2a: Zamazenta|25/100
+|move|p1a: Torkoal|Lava Plume|p2a: Zamazenta
+|-end|p2a: Zamazenta|Substitute
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Zamazenta|31/100|[from] item: Leftovers
+|-damage|p1a: Torkoal|42/100 psn|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1781543146
+|move|p2a: Zamazenta|Substitute|p2a: Zamazenta
+|-start|p2a: Zamazenta|Substitute
+|-damage|p2a: Zamazenta|6/100
+|move|p1a: Torkoal|Lava Plume|p2a: Zamazenta
+|-end|p2a: Zamazenta|Substitute
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Zamazenta|13/100|[from] item: Leftovers
+|-damage|p1a: Torkoal|29/100 psn|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1781543165
+|move|p2a: Zamazenta|Body Press|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Zamazenta|19/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781543167
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-damage|p1a: Walking Wake|88/100|[from] Stealth Rock
+|-status|p1a: Walking Wake|psn
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|25
+|
+|t:|1781543175
+|move|p1a: Walking Wake|Weather Ball|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Walking Wake|76/100 psn|[from] psn
+|upkeep
+|
+|t:|1781543178
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-damage|p2a: Iron Crown|94/100|[from] Stealth Rock
+|-enditem|p2a: Iron Crown|Booster Energy
+|-activate|p2a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Crown|quarkdrivespe
+|turn|26
+|
+|t:|1781543184
+|-terastallize|p2a: Iron Crown|Fighting
+|move|p1a: Walking Wake|Weather Ball|p2a: Iron Crown
+|-damage|p2a: Iron Crown|45/100
+|move|p2a: Iron Crown|Focus Blast|p1a: Walking Wake
+|-damage|p1a: Walking Wake|6/100 psn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Walking Wake|0 fnt|[from] psn
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|upkeep
+|
+|t:|1781543194
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|98/100|[from] Stealth Rock
+|-status|p1a: Great Tusk|psn
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|27
+|
+|t:|1781543200
+|-terastallize|p1a: Great Tusk|Ground
+|move|p2a: Iron Crown|Focus Blast|p1a: Great Tusk
+|-damage|p1a: Great Tusk|6/100 psn
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|win|SofteLocke
+|raw|SofteLocke's rating: 1658 &rarr; <strong>1678</strong><br />(+20 for winning)
+|raw|stone xo's rating: 1660 &rarr; <strong>1640</strong><br />(-20 for losing)
+|l|☆stone xo
+|player|p2|
+|l|☆SofteLocke
+|player|p1|

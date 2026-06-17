@@ -1,0 +1,372 @@
+|j|☆Arcosara
+|j|☆remove sun teams
+|t:|1781198742
+|gametype|singles
+|player|p1|Arcosara|adaman|1533
+|player|p2|remove sun teams|miku-psychic|1772
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Iron Hands|
+|poke|p1|Ceruledge, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Iron Treads|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Pecharunt|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|c|☆remove sun teams|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by remove sun teams)
+|
+|t:|1781198762
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Deoxys|Pressure
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Deoxys|atk|1
+|turn|1
+|c|☆Arcosara|u2
+|
+|t:|1781198776
+|switch|p2a: Khaos|Hoopa-Unbound|100/100
+|move|p1a: Deoxys|Reflect|p1a: Deoxys
+|-sidestart|p1: Arcosara|Reflect
+|
+|upkeep
+|turn|2
+|
+|t:|1781198790
+|move|p1a: Deoxys|Light Screen|p1a: Deoxys
+|-sidestart|p1: Arcosara|move: Light Screen
+|move|p2a: Khaos|Knock Off|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|-enditem|p1a: Deoxys|Light Clay|[from] move: Knock Off|[of] p2a: Khaos
+|faint|p1a: Deoxys
+|
+|upkeep
+|
+|t:|1781198792
+|switch|p1a: Iron Hands|Iron Hands|100/100
+|-enditem|p1a: Iron Hands|Booster Energy
+|-activate|p1a: Iron Hands|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Hands|quarkdriveatk
+|turn|3
+|
+|t:|1781198806
+|switch|p2a: Overseer|Pecharunt|100/100
+|move|p1a: Iron Hands|Ice Punch|p2a: Overseer
+|-damage|p2a: Overseer|82/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781198821
+|move|p2a: Overseer|Malignant Chain|p1a: Iron Hands
+|-damage|p1a: Iron Hands|85/100
+|move|p1a: Iron Hands|Supercell Slam|p2a: Overseer
+|-damage|p2a: Overseer|46/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781198836
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Overseer|Recover|p2a: Overseer
+|-heal|p2a: Overseer|96/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781198849
+|move|p1a: Iron Treads|Stealth Rock|p2a: Overseer
+|-sidestart|p2: remove sun teams|move: Stealth Rock
+|move|p2a: Overseer|Shadow Ball|p1a: Iron Treads
+|-damage|p1a: Iron Treads|86/100
+|
+|-heal|p1a: Iron Treads|92/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781198864
+|move|p1a: Iron Treads|Earth Power|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|51/100
+|move|p2a: Overseer|Recover|p2a: Overseer
+|-heal|p2a: Overseer|100/100
+|
+|-heal|p1a: Iron Treads|98/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781198878
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|-damage|p2a: Pisces|88/100|[from] Stealth Rock
+|move|p1a: Iron Treads|Earth Power|p2a: Pisces
+|-crit|p2a: Pisces
+|-damage|p2a: Pisces|67/100
+|
+|-heal|p1a: Iron Treads|100/100|[from] item: Leftovers
+|-sideend|p1: Arcosara|Reflect
+|upkeep
+|turn|9
+|
+|t:|1781198892
+|move|p1a: Iron Treads|Volt Switch|p2a: Pisces
+|-supereffective|p2a: Pisces
+|-damage|p2a: Pisces|53/100
+|
+|t:|1781198895
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Iron Hands|Iron Hands|85/100|[from] Volt Switch
+|move|p2a: Pisces|Flip Turn|p1a: Iron Hands
+|-damage|p1a: Iron Hands|74/100
+|
+|t:|1781198909
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100|[from] Flip Turn
+|-damage|p2a: Enten|88/100|[from] Stealth Rock
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Iron Hands|atk|1
+|
+|-sideend|p1: Arcosara|move: Light Screen
+|upkeep
+|turn|10
+|
+|t:|1781198923
+|move|p2a: Enten|U-turn|p1a: Iron Hands
+|-resisted|p1a: Iron Hands
+|-damage|p1a: Iron Hands|65/100
+|
+|t:|1781198937
+|switch|p2a: Overseer|Pecharunt|100/100|[from] U-turn
+|move|p1a: Iron Hands|Ice Punch|p2a: Overseer
+|-damage|p2a: Overseer|92/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781198951
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|move|p2a: Overseer|Shadow Ball|p1a: Iron Treads
+|-damage|p1a: Iron Treads|72/100
+|
+|-heal|p1a: Iron Treads|79/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781198958
+|switch|p2a: Enten|Landorus-Therian, M, shiny|88/100
+|-damage|p2a: Enten|76/100|[from] Stealth Rock
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Iron Treads|atk|1
+|move|p1a: Iron Treads|Earth Power|p2a: Enten
+|-immune|p2a: Enten
+|
+|-heal|p1a: Iron Treads|85/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781198980
+|move|p2a: Enten|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781198990
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|14
+|
+|t:|1781199014
+|switch|p2a: Overseer|Pecharunt|92/100
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1781199028
+|-terastallize|p1a: Iron Valiant|Steel
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Overseer|Parting Shot|p1a: Iron Valiant
+|-unboost|p1a: Iron Valiant|atk|1
+|-unboost|p1a: Iron Valiant|spa|1
+|
+|t:|1781199041
+|switch|p2a: Liberacy|Cinderace, M, shiny|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|16
+|
+|t:|1781199055
+|move|p1a: Iron Valiant|Focus Blast|p2a: Liberacy
+|-damage|p2a: Liberacy|0 fnt
+|faint|p2a: Liberacy
+|
+|upkeep
+|
+|t:|1781199069
+|switch|p2a: Khaos|Hoopa-Unbound|100/100
+|-damage|p2a: Khaos|88/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1781199082
+|move|p1a: Iron Valiant|Moonblast|p2a: Khaos
+|-supereffective|p2a: Khaos
+|-damage|p2a: Khaos|0 fnt
+|faint|p2a: Khaos
+|
+|upkeep
+|
+|t:|1781199090
+|switch|p2a: Overseer|Pecharunt|92/100
+|turn|18
+|
+|t:|1781199097
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Overseer|Parting Shot|p1a: Iron Valiant
+|-unboost|p1a: Iron Valiant|atk|1
+|-unboost|p1a: Iron Valiant|spa|1
+|
+|t:|1781199104
+|switch|p2a: Pisces|Alomomola, M, shiny|86/100|[from] Parting Shot
+|-damage|p2a: Pisces|74/100|[from] Stealth Rock
+|
+|upkeep
+|turn|19
+|
+|t:|1781199111
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Pisces|Body Slam|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-crit|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|86/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781199119
+|move|p1a: Iron Valiant|Thunderbolt|p2a: Pisces
+|-supereffective|p2a: Pisces
+|-damage|p2a: Pisces|9/100
+|move|p2a: Pisces|Body Slam|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|76/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781199127
+|move|p2a: Pisces|Aqua Jet|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|63/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Pisces
+|-damage|p2a: Pisces|0 fnt
+|faint|p2a: Pisces
+|
+|upkeep
+|
+|t:|1781199135
+|switch|p2a: Overseer|Pecharunt|92/100
+|turn|22
+|
+|t:|1781199142
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Overseer|Recover|p2a: Overseer
+|-heal|p2a: Overseer|100/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781199149
+|move|p1a: Iron Valiant|Thunderbolt|p2a: Overseer
+|-damage|p2a: Overseer|30/100
+|move|p2a: Overseer|Recover|p2a: Overseer
+|-heal|p2a: Overseer|80/100
+|
+|upkeep
+|turn|24
+|
+|t:|1781199156
+|switch|p2a: Enten|Landorus-Therian, M, shiny|76/100
+|-damage|p2a: Enten|64/100|[from] Stealth Rock
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Iron Valiant|atk|1
+|move|p1a: Iron Valiant|Moonblast|p2a: Enten
+|-damage|p2a: Enten|0 fnt
+|faint|p2a: Enten
+|
+|upkeep
+|
+|t:|1781199163
+|switch|p2a: Calamity|Iron Valiant, shiny|100/100
+|-damage|p2a: Calamity|94/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1781199170
+|move|p2a: Calamity|Vacuum Wave|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|36/100
+|move|p1a: Iron Valiant|Thunderbolt|p2a: Calamity
+|-damage|p2a: Calamity|0 fnt
+|faint|p2a: Calamity
+|-end|p2a: Calamity|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781199174
+|switch|p2a: Overseer|Pecharunt|80/100
+|turn|26
+|c|☆remove sun teams|bullshit
+|
+|t:|1781199179
+|move|p1a: Iron Valiant|Thunderbolt|p2a: Overseer
+|-damage|p2a: Overseer|4/100
+|move|p2a: Overseer|Shadow Ball|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|22/100
+|
+|upkeep
+|turn|27
+|c|☆Arcosara|yea this mon is insane
+|-message|remove sun teams forfeited.
+|
+|win|Arcosara
+|raw|Arcosara's rating: 1533 &rarr; <strong>1565</strong><br />(+32 for winning)
+|raw|remove sun teams's rating: 1772 &rarr; <strong>1740</strong><br />(-32 for losing)
+|c|☆remove sun teams|gg
+|l|☆remove sun teams
+|player|p2|
+|l|☆Arcosara
+|player|p1|

@@ -1,0 +1,164 @@
+|j|☆crck like alakazam
+|j|☆TwinkleLittleStars
+|t:|1781276465
+|gametype|singles
+|player|p1|crck like alakazam|psychicf-gen4|1559
+|player|p2|TwinkleLittleStars|alec-anime|1567
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Treads|
+|poke|p1|Pelipper, M|
+|poke|p1|Dondozo, M|
+|poke|p1|Overqwil, F|
+|poke|p1|Enamorus, F|
+|poke|p1|Raging Bolt|
+|poke|p2|Lilligant, F|
+|poke|p2|Walking Wake|
+|poke|p2|Great Tusk|
+|poke|p2|Ninetales, M|
+|poke|p2|Cresselia, F|
+|poke|p2|Cinderace, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by crck like alakazam)
+|
+|t:|1781276482
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ol'DirtyBolt|Raging Bolt|100/100
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-enditem|p1a: Ol'DirtyBolt|Booster Energy
+|-activate|p1a: Ol'DirtyBolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Ol'DirtyBolt|protosynthesisspa
+|turn|1
+|
+|t:|1781276505
+|-terastallize|p1a: Ol'DirtyBolt|Fairy
+|move|p2a: Walking Wake|Draco Meteor|p1a: Ol'DirtyBolt
+|-immune|p1a: Ol'DirtyBolt
+|move|p1a: Ol'DirtyBolt|Dragon Pulse|p2a: Walking Wake
+|-supereffective|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781276512
+|switch|p2a: Ninetales|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|2
+|
+|t:|1781276533
+|move|p2a: Ninetales|Overheat|p1a: Ol'DirtyBolt
+|-damage|p1a: Ol'DirtyBolt|43/100
+|-unboost|p2a: Ninetales|spa|2
+|move|p1a: Ol'DirtyBolt|Dragon Pulse|p2a: Ninetales
+|-damage|p2a: Ninetales|36/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781276543
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Ol'DirtyBolt|Dragon Pulse|p2a: Great Tusk
+|-damage|p2a: Great Tusk|36/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|j| DA COME UP
+|
+|t:|1781276552
+|-end|p1a: Ol'DirtyBolt|Protosynthesis|[silent]
+|switch|p1a: 4Pc Peliac Combo|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: 4Pc Peliac Combo
+|-end|p2a: Great Tusk|Protosynthesis
+|move|p2a: Great Tusk|Headlong Rush|p1a: 4Pc Peliac Combo
+|-immune|p1a: 4Pc Peliac Combo
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781276574
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Ninetales|Ninetales, M|36/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|move|p1a: 4Pc Peliac Combo|Hurricane|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781276584
+|switch|p2a: Lilligant|Lilligant, F|100/100
+|turn|6
+|
+|t:|1781276588
+|move|p2a: Lilligant|Solar Beam||[still]
+|-prepare|p2a: Lilligant|Solar Beam
+|-anim|p2a: Lilligant|Solar Beam|p1a: 4Pc Peliac Combo
+|-damage|p1a: 4Pc Peliac Combo|0 fnt
+|faint|p1a: 4Pc Peliac Combo
+|-damage|p2a: Lilligant|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781276599
+|switch|p1a: PurpleRain|Overqwil, F, shiny|100/100
+|turn|7
+|
+|t:|1781276609
+|move|p2a: Lilligant|Weather Ball|p1a: PurpleRain
+|-damage|p1a: PurpleRain|4/100
+|-damage|p2a: Lilligant|81/100|[from] item: Life Orb
+|move|p1a: PurpleRain|Gunk Shot|p2a: Lilligant
+|-supereffective|p2a: Lilligant
+|-damage|p2a: Lilligant|0 fnt
+|faint|p2a: Lilligant
+|-damage|p1a: PurpleRain|0 fnt|[from] item: Life Orb
+|faint|p1a: PurpleRain
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781276621
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|switch|p1a: C.T.E.Spins|Iron Treads|100/100
+|-enditem|p1a: C.T.E.Spins|Booster Energy
+|-activate|p1a: C.T.E.Spins|ability: Quark Drive|[fromitem]
+|-start|p1a: C.T.E.Spins|quarkdrivespe
+|turn|8
+|
+|t:|1781276625
+|move|p1a: C.T.E.Spins|Earthquake|p2a: Cinderace
+|-supereffective|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|-message|TwinkleLittleStars forfeited.
+|
+|win|crck like alakazam
+|raw|crck like alakazam's rating: 1559 &rarr; <strong>1579</strong><br />(+20 for winning)
+|raw|TwinkleLittleStars's rating: 1567 &rarr; <strong>1547</strong><br />(-20 for losing)
+|l|☆TwinkleLittleStars
+|player|p2|
+|l| DA COME UP

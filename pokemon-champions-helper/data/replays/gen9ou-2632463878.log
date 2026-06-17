@@ -1,0 +1,316 @@
+|j|‽Zogotunga
+|j|☆Negative1stClass
+|t:|1781529424
+|gametype|singles
+|player|p1|Zogotunga|265|1561
+|player|p2|Negative1stClass|hilbert|1534
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Great Tusk|
+|poke|p1|Glimmora, F|
+|poke|p1|Gholdengo|
+|poke|p1|Regieleki|
+|poke|p1|Cinderace, F|
+|poke|p2|Pelipper, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Azelf|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Negative1stClass)
+|
+|t:|1781529447
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|1
+|
+|t:|1781529451
+|move|p1a: Glimmora|Spiky Shield|p1a: Glimmora
+|-singleturn|p1a: Glimmora|move: Protect
+|move|p2a: Barraskewda|Flip Turn|p1a: Glimmora
+|-activate|p1a: Glimmora|move: Protect
+|-damage|p2a: Barraskewda|88/100|[from] Spiky Shield|[of] p1a: Glimmora
+|
+|upkeep
+|turn|2
+|
+|t:|1781529459
+|move|p2a: Barraskewda|Flip Turn|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-enditem|p1a: Glimmora|Focus Sash
+|-damage|p1a: Glimmora|1/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: Negative1stClass|move: Toxic Spikes
+|
+|t:|1781529465
+|switch|p2a: Pelipper|Pelipper, F|100/100|[from] Flip Turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Glimmora|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: Negative1stClass|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781529471
+|move|p1a: Glimmora|Energy Ball|p2a: Pelipper
+|-crit|p2a: Pelipper
+|-damage|p2a: Pelipper|38/100
+|move|p2a: Pelipper|U-turn|p1a: Glimmora
+|-resisted|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: Negative1stClass|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|t:|1781529477
+|switch|p2a: Iron Treads|Iron Treads|100/100|[from] U-turn
+|-damage|p2a: Iron Treads|97/100|[from] Stealth Rock
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|Zogotunga has 120 seconds left.
+|
+|t:|1781529514
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|4
+|
+|t:|1781529519
+|move|p2a: Iron Treads|Steel Beam|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|70/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|-damage|p2a: Iron Treads|47/100|[from] steelbeam
+|move|p1a: Gholdengo|Shadow Ball|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781529522
+|switch|p2a: Overqwil|Overqwil, M|100/100
+|-sideend|p2: Negative1stClass|move: Toxic Spikes|[of] p2a: Overqwil
+|-damage|p2a: Overqwil|88/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1781529534
+|move|p2a: Overqwil|Swords Dance|p2a: Overqwil
+|-boost|p2a: Overqwil|atk|2
+|move|p1a: Gholdengo|Dazzling Gleam|p2a: Overqwil
+|-damage|p2a: Overqwil|42/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781529539
+|move|p2a: Overqwil|Crunch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|-damage|p2a: Overqwil|32/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781529549
+|switch|p1a: Regieleki|Regieleki|100/100
+|turn|7
+|
+|t:|1781529564
+|move|p1a: Regieleki|Volt Switch|p2a: Overqwil
+|-damage|p2a: Overqwil|0 fnt
+|faint|p2a: Overqwil
+|
+|t:|1781529572
+|switch|p1a: Kyurem|Kyurem|100/100|[from] Volt Switch
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781529577
+|switch|p2a: Barraskewda|Barraskewda, F|88/100
+|-damage|p2a: Barraskewda|75/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1781529580
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: Barraskewda|Close Combat|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781529594
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisspe
+|move|p2a: Barraskewda|Close Combat|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|34/100
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|
+|-weather|none
+|upkeep
+|turn|10
+|
+|t:|1781529606
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Regieleki|Regieleki|100/100
+|switch|p2a: Pelipper|Pelipper, F|38/100
+|-damage|p2a: Pelipper|14/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781529620
+|move|p1a: Regieleki|Volt Switch|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|t:|1781529632
+|switch|p1a: Cinderace|Cinderace, F|100/100|[from] Volt Switch
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781529637
+|switch|p2a: Barraskewda|Barraskewda, F|75/100
+|-damage|p2a: Barraskewda|63/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781529640
+|-terastallize|p2a: Barraskewda|Water
+|move|p1a: Cinderace|Sucker Punch|p2a: Barraskewda
+|-start|p1a: Cinderace|typechange|Dark|[from] ability: Libero
+|-damage|p2a: Barraskewda|1/100
+|move|p2a: Barraskewda|Liquidation|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781529650
+|switch|p1a: Regieleki|Regieleki|100/100
+|turn|13
+|
+|t:|1781529664
+|switch|p1a: Great Tusk|Great Tusk|34/100
+|move|p2a: Barraskewda|Liquidation|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781529668
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|14
+|
+|t:|1781529678
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: Barraskewda|Liquidation|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781529684
+|move|p2a: Barraskewda|Liquidation|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|40/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Barraskewda
+|-supereffective|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyurem|46/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781529687
+|switch|p2a: Azelf|Azelf|100/100
+|-damage|p2a: Azelf|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1781529691
+|move|p2a: Azelf|Dazzling Gleam|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781529695
+|switch|p1a: Regieleki|Regieleki|100/100
+|turn|17
+|
+|t:|1781529705
+|-terastallize|p1a: Regieleki|Electric
+|move|p1a: Regieleki|Electro Ball|p2a: Azelf
+|-damage|p2a: Azelf|0 fnt
+|faint|p2a: Azelf
+|
+|-weather|none
+|upkeep
+|
+|t:|1781529708
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|18
+|
+|t:|1781529710
+|move|p1a: Regieleki|Electro Ball|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|69/100
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Regieleki
+|-damage|p1a: Regieleki|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Regieleki
+|
+|win|Negative1stClass
+|raw|Zogotunga's rating: 1561 &rarr; <strong>1539</strong><br />(-22 for losing)
+|raw|Negative1stClass's rating: 1534 &rarr; <strong>1556</strong><br />(+22 for winning)
+|l|‽Zogotunga
+|player|p1|
+|l|☆Negative1stClass
+|player|p2|

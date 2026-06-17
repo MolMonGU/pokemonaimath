@@ -1,0 +1,410 @@
+|j|☆11thtiergbone
+|j|☆M0onStarr
+|t:|1781246655
+|gametype|singles
+|player|p1|11thtiergbone|delinquent|1617
+|player|p2|M0onStarr|169|1557
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Keldeo|
+|poke|p1|Cinderace, F|
+|poke|p1|Sinistcha|
+|poke|p1|Iron Valiant|
+|poke|p1|Gholdengo|
+|poke|p1|Tyranitar, M|
+|poke|p2|Klefki, F|
+|poke|p2|Regieleki|
+|poke|p2|Raging Bolt|
+|poke|p2|Ceruledge, F|
+|poke|p2|Iron Crown|
+|poke|p2|Great Tusk|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by M0onStarr)
+|
+|t:|1781246662
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|1
+|
+|t:|1781246668
+|move|p2a: Regieleki|Volt Switch|p1a: Cinderace
+|-damage|p1a: Cinderace|15/100
+|
+|t:|1781246676
+|switch|p2a: Klefki|Klefki, F|100/100|[from] Volt Switch
+|move|p1a: Cinderace|Pyro Ball|p2a: Klefki
+|-supereffective|p2a: Klefki
+|-damage|p2a: Klefki|0 fnt
+|faint|p2a: Klefki
+|
+|upkeep
+|
+|t:|1781246682
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|2
+|
+|t:|1781246687
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Regieleki|Volt Switch|p1a: Tyranitar
+|-damage|p1a: Tyranitar|75/100
+|
+|t:|1781246693
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] Volt Switch
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781246697
+|switch|p1a: Sinistcha|Sinistcha|100/100
+|move|p2a: Great Tusk|Stealth Rock|p1a: Sinistcha
+|-sidestart|p1: 11thtiergbone|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sinistcha|94/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1781246705
+|move|p2a: Great Tusk|Ice Spinner|p1a: Sinistcha
+|-supereffective|p1a: Sinistcha
+|-damage|p1a: Sinistcha|57/100
+|move|p1a: Sinistcha|Shadow Ball|p2a: Great Tusk
+|-damage|p2a: Great Tusk|53/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sinistcha|51/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1781246716
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-enditem|p2a: Iron Crown|Booster Energy
+|-activate|p2a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Crown|quarkdrivespe
+|move|p1a: Sinistcha|Strength Sap|p2a: Iron Crown
+|-unboost|p2a: Iron Crown|atk|1
+|-heal|p1a: Sinistcha|95/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sinistcha|89/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1781246719
+|switch|p1a: Cinderace|Cinderace, F|15/100
+|-damage|p1a: Cinderace|0 fnt|[from] Stealth Rock
+|faint|p1a: Cinderace
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|
+|-weather|none
+|upkeep
+|
+|t:|1781246730
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1781246733
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|72/100
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|53/100
+|-hitcount|p1a: Gholdengo|2
+|move|p1a: Gholdengo|Shadow Ball|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|49/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781246742
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|move|p1a: Gholdengo|Shadow Ball|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|5/100
+|-unboost|p2a: Iron Crown|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1781246746
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-crit|p1a: Gholdengo
+|-damage|p1a: Gholdengo|12/100
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|-hitcount|p1: Gholdengo|2
+|
+|upkeep
+|
+|t:|1781246748
+|switch|p1a: Keldeo|Keldeo|100/100
+|-damage|p1a: Keldeo|94/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1781246751
+|move|p1a: Keldeo|Vacuum Wave|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|-heal|p1a: Keldeo|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781246755
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|11
+|
+|t:|1781246765
+|move|p1a: Keldeo|Vacuum Wave|p2a: Regieleki
+|-damage|p2a: Regieleki|46/100
+|move|p2a: Regieleki|Volt Switch|p1a: Keldeo
+|-supereffective|p1a: Keldeo
+|-damage|p1a: Keldeo|0 fnt
+|faint|p1a: Keldeo
+|
+|t:|1781246775
+|switch|p2a: Great Tusk|Great Tusk|53/100|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1781246778
+|switch|p1a: Sinistcha|Sinistcha|89/100
+|turn|12
+|
+|t:|1781246786
+|move|p2a: Great Tusk|Ice Spinner|p1a: Sinistcha
+|-supereffective|p1a: Sinistcha
+|-damage|p1a: Sinistcha|49/100
+|move|p1a: Sinistcha|Calm Mind|p1a: Sinistcha
+|-boost|p1a: Sinistcha|spa|1
+|-boost|p1a: Sinistcha|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781246793
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Regieleki|Regieleki|46/100
+|move|p1a: Sinistcha|Strength Sap|p2a: Regieleki
+|-unboost|p2a: Regieleki|atk|1
+|-heal|p1a: Sinistcha|100/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781246798
+|move|p2a: Regieleki|Volt Switch|p1a: Sinistcha
+|-resisted|p1a: Sinistcha
+|-damage|p1a: Sinistcha|78/100
+|
+|t:|1781246806
+|switch|p2a: Ceruledge|Ceruledge, F|100/100|[from] Volt Switch
+|move|p1a: Sinistcha|Calm Mind|p1a: Sinistcha
+|-boost|p1a: Sinistcha|spa|1
+|-boost|p1a: Sinistcha|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1781246815
+|move|p2a: Ceruledge|Taunt|p1a: Sinistcha
+|-start|p1a: Sinistcha|move: Taunt
+|cant|p1a: Sinistcha|move: Taunt|Strength Sap
+|
+|upkeep
+|turn|16
+|
+|t:|1781246830
+|move|p2a: Ceruledge|Bulk Up|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|1
+|-boost|p2a: Ceruledge|def|1
+|move|p1a: Sinistcha|Shadow Ball|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|7/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781246847
+|move|p2a: Ceruledge|Bitter Blade|p1a: Sinistcha
+|-supereffective|p1a: Sinistcha
+|-damage|p1a: Sinistcha|40/100
+|-heal|p2a: Ceruledge|25/100|[from] drain|[of] p1a: Sinistcha
+|move|p1a: Sinistcha|Shadow Ball|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|-end|p1a: Sinistcha|move: Taunt
+|upkeep
+|inactive|M0onStarr has 120 seconds left.
+|inactive|M0onStarr has 90 seconds left.
+|
+|t:|1781246918
+|switch|p2a: Great Tusk|Great Tusk|53/100
+|turn|18
+|
+|t:|1781246928
+|move|p2a: Great Tusk|Ice Spinner|p1a: Sinistcha
+|-supereffective|p1a: Sinistcha
+|-damage|p1a: Sinistcha|5/100
+|move|p1a: Sinistcha|Strength Sap|p2a: Great Tusk
+|-unboost|p2a: Great Tusk|atk|1
+|-heal|p1a: Sinistcha|100/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781246938
+|move|p2a: Great Tusk|Ice Spinner|p1a: Sinistcha
+|-supereffective|p1a: Sinistcha
+|-damage|p1a: Sinistcha|76/100
+|move|p1a: Sinistcha|Strength Sap|p2a: Great Tusk
+|-unboost|p2a: Great Tusk|atk|1
+|-heal|p1a: Sinistcha|100/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781246943
+|move|p2a: Great Tusk|Ice Spinner|p1a: Sinistcha
+|-supereffective|p1a: Sinistcha
+|-damage|p1a: Sinistcha|80/100
+|move|p1a: Sinistcha|Matcha Gotcha|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|-heal|p1a: Sinistcha|100/100|[from] drain|[of] p2a: Great Tusk
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781246946
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|21
+|
+|t:|1781246949
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|move|p1a: Sinistcha|Shadow Ball|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|62/100
+|
+|upkeep
+|turn|22
+|
+|t:|1781246954
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|move|p1a: Sinistcha|Shadow Ball|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|33/100
+|-unboost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|23
+|
+|t:|1781246957
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Sinistcha
+|-damage|p1a: Sinistcha|22/100
+|move|p1a: Sinistcha|Calm Mind|p1a: Sinistcha
+|-boost|p1a: Sinistcha|spa|1
+|-boost|p1a: Sinistcha|spd|1
+|
+|upkeep
+|turn|24
+|c|☆M0onStarr|Nice ig
+|
+|t:|1781246966
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Sinistcha
+|-damage|p1a: Sinistcha|0 fnt
+|faint|p1a: Sinistcha
+|
+|upkeep
+|
+|t:|1781246969
+|switch|p1a: Iron Valiant|Iron Valiant, shiny|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|25
+|c|☆M0onStarr|Ty
+|
+|t:|1781246983
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Regieleki|Regieleki|46/100
+|move|p1a: Iron Valiant|Destiny Bond|p1a: Iron Valiant
+|-singlemove|p1a: Iron Valiant|Destiny Bond
+|
+|upkeep
+|turn|26
+|
+|t:|1781246995
+|move|p2a: Regieleki|Thunderbolt|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-activate|p1a: Iron Valiant|move: Destiny Bond
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|faint|p2a: Regieleki
+|
+|upkeep
+|
+|t:|1781246997
+|switch|p2a: Raging Bolt|Raging Bolt|33/100
+|switch|p1a: Tyranitar|Tyranitar, M|75/100
+|-damage|p1a: Tyranitar|62/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|27
+|
+|t:|1781247012
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Tyranitar
+|-damage|p1a: Tyranitar|39/100
+|move|p1a: Tyranitar|Ice Punch|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|5/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Raging Bolt|0 fnt|[from] Sandstorm
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|win|11thtiergbone
+|raw|11thtiergbone's rating: 1617 &rarr; <strong>1634</strong><br />(+17 for winning)
+|raw|M0onStarr's rating: 1557 &rarr; <strong>1540</strong><br />(-17 for losing)
+|c|☆11thtiergbone|gg noob
+|c|☆M0onStarr|Ggwp
+|l|☆11thtiergbone
+|player|p1|
+|c|☆M0onStarr|?
+|c|☆M0onStarr|Allr the
+|c|☆M0onStarr|n
+|l|☆M0onStarr
+|player|p2|

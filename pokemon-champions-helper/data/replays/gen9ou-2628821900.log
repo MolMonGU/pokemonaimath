@@ -1,0 +1,343 @@
+|j|☆blackgokuking
+|j|☆rexa2
+|t:|1781059347
+|gametype|singles
+|player|p1|blackgokuking|169|1544
+|player|p2|rexa2|brock|1539
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, M|
+|poke|p1|Kommo-o, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Crown|
+|poke|p2|Maushold-Four|
+|poke|p2|Kilowattrel, M|
+|poke|p2|Incineroar, F|
+|poke|p2|Slowking, F|
+|poke|p2|Cetitan, F|
+|poke|p2|Sinistcha|
+|teampreview
+|
+|t:|1781059356
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Slowking|Slowking, F|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781059361
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781059366
+|switch|p2a: Incineroar|Incineroar, F|100/100|[from] Chilly Reception
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Kyurem|atk|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781059372
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Incineroar|Will-O-Wisp|p1a: Kyurem
+|-status|p1a: Kyurem|brn
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Kyurem|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1781059377
+|move|p1a: Kyurem|Earth Power|p2a: Incineroar
+|-supereffective|p2a: Incineroar
+|-damage|p2a: Incineroar|51/100
+|move|p2a: Incineroar|Knock Off|p1a: Kyurem
+|-damage|p1a: Kyurem|72/100 brn
+|-enditem|p1a: Kyurem|Loaded Dice|[from] move: Knock Off|[of] p2a: Incineroar
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Kyurem|66/100 brn|[from] brn
+|upkeep
+|turn|4
+|j| biscoitotroll
+|
+|t:|1781059382
+|move|p1a: Kyurem|Earth Power|p2a: Incineroar
+|-supereffective|p2a: Incineroar
+|-damage|p2a: Incineroar|0 fnt
+|faint|p2a: Incineroar
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Kyurem|60/100 brn|[from] brn
+|upkeep
+|
+|t:|1781059387
+|switch|p2a: Cetitan|Cetitan, F|100/100
+|turn|5
+|
+|t:|1781059391
+|move|p1a: Kyurem|Scale Shot|p2a: Cetitan
+|-damage|p2a: Cetitan|94/100
+|-damage|p2a: Cetitan|87/100
+|-damage|p2a: Cetitan|80/100
+|-damage|p2a: Cetitan|74/100
+|-damage|p2a: Cetitan|68/100
+|-hitcount|p2a: Cetitan|5
+|-unboost|p1a: Kyurem|def|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Cetitan|Belly Drum|p2a: Cetitan
+|-damage|p2a: Cetitan|18/100
+|-setboost|p2a: Cetitan|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Cetitan|Sitrus Berry|[eat]
+|-heal|p2a: Cetitan|43/100|[from] item: Sitrus Berry
+|
+|-weather|none
+|-damage|p1a: Kyurem|54/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1781059400
+|move|p2a: Cetitan|Ice Shard|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781059404
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|turn|7
+|
+|t:|1781059409
+|move|p2a: Cetitan|Ice Shard|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|58/100
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Cetitan
+|-supereffective|p2a: Cetitan
+|-damage|p2a: Cetitan|0 fnt
+|faint|p2a: Cetitan
+|-hitcount|p2: Cetitan|1
+|
+|upkeep
+|
+|t:|1781059414
+|switch|p2a: Slowking|Slowking, F|100/100
+|turn|8
+|
+|t:|1781059419
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|move|p2a: Slowking|Flamethrower|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|31/100
+|-status|p1a: Iron Crown|brn
+|
+|-damage|p1a: Iron Crown|25/100 brn|[from] brn
+|upkeep
+|turn|9
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by rexa2)
+|
+|t:|1781059427
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|89/100
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|78/100
+|-hitcount|p2a: Slowking|2
+|move|p2a: Slowking|Flamethrower|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|-heal|p2a: Slowking|84/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781059438
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|turn|10
+|
+|t:|1781059448
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Slowking|Flamethrower|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|67/100
+|-status|p1a: Iron Valiant|brn
+|
+|-heal|p2a: Slowking|90/100|[from] item: Leftovers
+|-damage|p1a: Iron Valiant|60/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781059456
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|56/100
+|move|p2a: Slowking|Psychic Noise|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-heal|p2a: Slowking|62/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781059464
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|12
+|
+|t:|1781059469
+|move|p1a: Iron Treads|Earthquake|p2a: Slowking
+|-damage|p2a: Slowking|24/100
+|move|p2a: Slowking|Scald|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|32/100
+|
+|-heal|p2a: Slowking|30/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781059472
+|switch|p2a: Kilowattrel|Kilowattrel, M|100/100
+|move|p1a: Iron Treads|Earthquake|p2a: Kilowattrel
+|-immune|p2a: Kilowattrel
+|
+|upkeep
+|turn|14
+|
+|t:|1781059479
+|switch|p2a: Sinistcha|Sinistcha|100/100
+|move|p1a: Iron Treads|Endeavor|p2a: Sinistcha
+|-immune|p2a: Sinistcha
+|
+|upkeep
+|turn|15
+|
+|t:|1781059488
+|move|p1a: Iron Treads|Stealth Rock|p2a: Sinistcha
+|-sidestart|p2: rexa2|move: Stealth Rock
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781059492
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|
+|upkeep
+|turn|17
+|
+|t:|1781059502
+|move|p1a: Kommo-o|Substitute|p1a: Kommo-o
+|-start|p1a: Kommo-o|Substitute
+|-damage|p1a: Kommo-o|75/100
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|
+|-heal|p1a: Kommo-o|82/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781059506
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|49/100
+|move|p2a: Sinistcha|Matcha Gotcha|p1a: Kommo-o
+|-resisted|p1a: Kommo-o
+|-activate|p1a: Kommo-o|move: Substitute|[damage]
+|
+|-heal|p1a: Kommo-o|55/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781059525
+|-terastallize|p1a: Kommo-o|Ghost
+|move|p1a: Kommo-o|Shadow Claw|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|47/100
+|-damage|p1a: Kommo-o|39/100|[from] item: Rocky Helmet|[of] p2a: Sinistcha
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|
+|-heal|p1a: Kommo-o|45/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781059543
+|move|p1a: Kommo-o|Shadow Claw|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-crit|p2a: Sinistcha
+|-damage|p2a: Sinistcha|0 fnt
+|-damage|p1a: Kommo-o|28/100|[from] item: Rocky Helmet|[of] p2a: Sinistcha
+|faint|p2a: Sinistcha
+|
+|-heal|p1a: Kommo-o|35/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781059551
+|switch|p2a: Kilowattrel|Kilowattrel, M|100/100
+|-damage|p2a: Kilowattrel|76/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1781059563
+|move|p1a: Kommo-o|Drain Punch|p2a: Kilowattrel
+|-resisted|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|39/100
+|-heal|p1a: Kommo-o|49/100|[from] drain|[of] p2a: Kilowattrel
+|move|p2a: Kilowattrel|Volt Switch|p1a: Kommo-o
+|-end|p1a: Kommo-o|Substitute
+|-damage|p2a: Kilowattrel|29/100|[from] item: Life Orb
+|-message|rexa2 forfeited.
+|
+|win|blackgokuking
+|raw|blackgokuking's rating: 1544 &rarr; <strong>1564</strong><br />(+20 for winning)
+|raw|rexa2's rating: 1539 &rarr; <strong>1519</strong><br />(-20 for losing)
+|l|☆rexa2
+|player|p2|
+|l| biscoitotroll
+|l|☆blackgokuking
+|player|p1|

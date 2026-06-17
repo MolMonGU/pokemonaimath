@@ -1,0 +1,277 @@
+|j|☆Galarian Blades
+|j|☆xp180
+|t:|1781170638
+|gametype|singles
+|player|p1|Galarian Blades|#capplxiwutangclants|1675
+|player|p2|xp180|2|1672
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Dragonite, F|
+|poke|p1|Kyurem|
+|poke|p1|Hatterene, F|
+|poke|p1|Kingambit, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Araquanid, M|
+|poke|p2|Gholdengo|
+|poke|p2|Raging Bolt|
+|poke|p2|Iron Valiant|
+|poke|p2|Ceruledge, M|
+|poke|p2|Deoxys-Speed|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Galarian Blades)
+|
+|t:|1781170660
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Araquanid|Araquanid, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Araquanid|atk|1
+|turn|1
+|
+|t:|1781170665
+|move|p1a: Landorus|U-turn|p2a: Araquanid
+|-damage|p2a: Araquanid|78/100
+|
+|t:|1781170679
+|switch|p1a: Hatterene|Hatterene, F|100/100|[from] U-turn
+|move|p2a: Araquanid|Sticky Web|p1a: Hatterene
+|move|p1a: Hatterene|Sticky Web|p2a: Araquanid|[from] ability: Magic Bounce
+|-sidestart|p2: xp180|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1781170683
+|move|p2a: Araquanid|Surf|p1a: Hatterene
+|-damage|p1a: Hatterene|69/100
+|move|p1a: Hatterene|Nuzzle|p2a: Araquanid
+|-supereffective|p2a: Araquanid
+|-damage|p2a: Araquanid|70/100
+|-status|p2a: Araquanid|par
+|
+|upkeep
+|turn|3
+|
+|t:|1781170688
+|move|p1a: Hatterene|Psychic Noise|p2a: Araquanid
+|-damage|p2a: Araquanid|47/100 par
+|-start|p2a: Araquanid|move: Heal Block
+|move|p2a: Araquanid|Surf|p1a: Hatterene
+|-damage|p1a: Hatterene|39/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781170692
+|move|p1a: Hatterene|Psychic Noise|p2a: Araquanid
+|-damage|p2a: Araquanid|25/100 par
+|cant|p2a: Araquanid|par
+|
+|-end|p2a: Araquanid|move: Heal Block
+|upkeep
+|turn|5
+|-enditem|p2a: Araquanid|Custap Berry|[eat]
+|-activate|p2a: Araquanid|item: Custap Berry|[consumed]
+|
+|t:|1781170698
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|cant|p2a: Araquanid|par
+|
+|upkeep
+|turn|6
+|
+|t:|1781170703
+|cant|p2a: Araquanid|par
+|move|p1a: Kyurem|Freeze-Dry|p2a: Araquanid
+|-supereffective|p2a: Araquanid
+|-damage|p2a: Araquanid|0 fnt
+|faint|p2a: Araquanid
+|
+|upkeep
+|
+|t:|1781170709
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|-activate|p2a: Ceruledge|move: Sticky Web
+|-unboost|p2a: Ceruledge|spe|1
+|turn|7
+|j| Mega Delibird X
+|
+|t:|1781170717
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Ceruledge|atk|1
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|8
+|
+|t:|1781170720
+|move|p1a: Landorus|Sandsear Storm|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|11/100
+|move|p2a: Ceruledge|Bitter Blade|p1a: Landorus
+|-damage|p1a: Landorus|38/100
+|-heal|p2a: Ceruledge|52/100|[from] drain|[of] p1a: Landorus
+|-damage|p2a: Ceruledge|36/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|
+|upkeep
+|turn|9
+|
+|t:|1781170725
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Landorus
+|-damage|p1a: Landorus|11/100
+|-damage|p2a: Ceruledge|19/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|move|p1a: Landorus|Smack Down|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|upkeep
+|
+|t:|1781170729
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|10
+|
+|t:|1781170734
+|move|p2a: Gholdengo|Shadow Ball|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1781170760
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|11
+|
+|t:|1781170765
+|move|p1a: Zamazenta|Crunch|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|24/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|-damage|p1a: Zamazenta|91/100|[from] item: Life Orb
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|
+|upkeep
+|turn|12
+|
+|t:|1781170769
+|move|p1a: Zamazenta|Crunch|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|-damage|p1a: Zamazenta|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781170772
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-activate|p2a: Raging Bolt|move: Sticky Web
+|-unboost|p2a: Raging Bolt|spe|1
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|13
+|
+|t:|1781170800
+|switch|p1a: Hatterene|Hatterene, F|39/100
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1781170805
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781170809
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|15
+|
+|t:|1781170813
+|-terastallize|p2a: Raging Bolt|Bug
+|move|p1a: Kyurem|Ice Beam|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|69/100
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|7/100
+|
+|upkeep
+|turn|16
+|
+|t:|1781170819
+|move|p2a: Raging Bolt|Thunderclap|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781170824
+|switch|p1a: Zamazenta|Zamazenta|81/100
+|turn|17
+|
+|t:|1781170827
+|move|p1a: Zamazenta|Stone Edge|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|-damage|p1a: Zamazenta|71/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781170831
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-activate|p2a: Deoxys|move: Sticky Web
+|-unboost|p2a: Deoxys|spe|1
+|-ability|p2a: Deoxys|Pressure
+|turn|18
+|
+|t:|1781170838
+|-terastallize|p1a: Zamazenta|Dark
+|move|p1a: Zamazenta|Crunch|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|-damage|p1a: Zamazenta|61/100|[from] item: Life Orb
+|
+|upkeep
+|-message|xp180 forfeited.
+|
+|win|Galarian Blades
+|raw|Galarian Blades's rating: 1695 &rarr; <strong>1714</strong><br />(+19 for winning)
+|raw|xp180's rating: 1672 &rarr; <strong>1653</strong><br />(-19 for losing)
+|l|☆xp180
+|player|p2|
+|l|☆Galarian Blades
+|player|p1|
+|l| Mega Delibird X
+|j|☆Galarian Blades
+|player|p1|Galarian Blades|#capplxiwutangclants|
+|l|☆Galarian Blades
+|player|p1|

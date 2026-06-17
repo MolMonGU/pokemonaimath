@@ -1,0 +1,345 @@
+|j|☆peep the drip
+|j|☆huilaoshi1111
+|t:|1781455450
+|gametype|singles
+|player|p1|peep the drip|wattson|1521
+|player|p2|huilaoshi1111|266|1539
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, F|
+|poke|p1|Kommo-o, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Crown|
+|poke|p2|Mienshao, M|
+|poke|p2|Blissey, F|
+|poke|p2|Slowbro, F|
+|poke|p2|Krookodile, F|
+|poke|p2|Talonflame, M|
+|poke|p2|Zoroark-Hisui, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by peep the drip)
+|
+|t:|1781455465
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|switch|p2a: Mienshao|Mienshao, M|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|1
+|
+|t:|1781455474
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Slowbro
+|-damage|p2a: Slowbro|56/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781455481
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|upkeep
+|
+|t:|1781455485
+|switch|p2a: Blissey|Blissey, F|100/100
+|turn|3
+|
+|t:|1781455489
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|move|p2a: Blissey|Thunder Wave|p1a: Iron Treads
+|-immune|p1a: Iron Treads
+|
+|upkeep
+|turn|4
+|
+|t:|1781455498
+|switch|p2a: Talonflame|Talonflame, M|100/100
+|move|p1a: Iron Treads|Stealth Rock|p2a: Talonflame
+|-sidestart|p2: huilaoshi1111|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1781455508
+|move|p1a: Iron Treads|Endeavor|p2a: Talonflame
+|-immune|p2a: Talonflame
+|move|p2a: Talonflame|Defog|p1a: Iron Treads
+|-unboost|p1a: Iron Treads|evasion|1
+|-sideend|p2: huilaoshi1111|Stealth Rock|[from] move: Defog|[of] p2a: Talonflame
+|
+|upkeep
+|turn|6
+|
+|t:|1781455514
+|move|p1a: Iron Treads|Stealth Rock|p2a: Talonflame
+|-sidestart|p2: huilaoshi1111|move: Stealth Rock
+|move|p2a: Talonflame|Fire Blast|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|28/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781455521
+|move|p1a: Iron Treads|Endeavor|p2a: Talonflame
+|-damage|p2a: Talonflame|30/100
+|move|p2a: Talonflame|Defog|p1a: Iron Treads
+|-unboost|p1a: Iron Treads|evasion|1
+|-sideend|p2: huilaoshi1111|Stealth Rock|[from] move: Defog|[of] p2a: Talonflame
+|
+|upkeep
+|turn|8
+|
+|t:|1781455527
+|move|p1a: Iron Treads|Stealth Rock|p2a: Talonflame
+|-sidestart|p2: huilaoshi1111|move: Stealth Rock
+|move|p2a: Talonflame|Fire Blast|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781455529
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|turn|9
+|
+|t:|1781455534
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Iron Crown|Psychic Noise|p2a: Blissey
+|-damage|p2a: Blissey|90/100
+|-start|p2a: Blissey|move: Heal Block
+|
+|upkeep
+|turn|10
+|
+|t:|1781455541
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|move|p2a: Blissey|Stealth Rock|p1a: Iron Crown
+|-sidestart|p1: peep the drip|move: Stealth Rock
+|
+|-end|p2a: Blissey|move: Heal Block
+|upkeep
+|turn|11
+|
+|t:|1781455546
+|move|p1a: Iron Crown|Focus Blast|p2a: Blissey
+|-supereffective|p2a: Blissey
+|-damage|p2a: Blissey|53/100
+|-unboost|p2a: Blissey|spd|1
+|move|p2a: Blissey|Thunder Wave|p1a: Iron Crown
+|-status|p1a: Iron Crown|par
+|
+|upkeep
+|turn|12
+|
+|t:|1781455561
+|switch|p2a: Krookodile|Krookodile, F|100/100
+|-damage|p2a: Krookodile|94/100|[from] Stealth Rock
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Iron Crown|atk|1
+|cant|p1a: Iron Crown|par
+|
+|upkeep
+|turn|13
+|
+|t:|1781455571
+|move|p2a: Krookodile|Earthquake|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-crit|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781455577
+|switch|p1a: Kyurem|Kyurem|100/100
+|-damage|p1a: Kyurem|76/100|[from] Stealth Rock
+|-ability|p1a: Kyurem|Pressure
+|turn|14
+|
+|t:|1781455583
+|switch|p2a: Talonflame|Talonflame, M|30/100
+|move|p1a: Kyurem|Scale Shot|p2a: Talonflame
+|-damage|p2a: Talonflame|16/100
+|-damage|p2a: Talonflame|1/100
+|-damage|p2a: Talonflame|0 fnt
+|faint|p2a: Talonflame
+|-hitcount|p2: Talonflame|3
+|-unboost|p1a: Kyurem|def|1
+|-boost|p1a: Kyurem|spe|1
+|
+|upkeep
+|
+|t:|1781455592
+|switch|p2a: Mienshao|Mienshao, M|100/100
+|-damage|p2a: Mienshao|95/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1781455601
+|move|p1a: Kyurem|Icicle Spear|p2a: Mienshao
+|-damage|p2a: Mienshao|70/100
+|-damage|p2a: Mienshao|47/100
+|-damage|p2a: Mienshao|22/100
+|-damage|p2a: Mienshao|0 fnt
+|faint|p2a: Mienshao
+|-hitcount|p2: Mienshao|4
+|
+|upkeep
+|
+|t:|1781455610
+|switch|p2a: Krookodile|Krookodile, F|94/100
+|-damage|p2a: Krookodile|88/100|[from] Stealth Rock
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Kyurem|atk|1
+|turn|16
+|
+|t:|1781455615
+|-terastallize|p2a: Krookodile|Poison
+|move|p1a: Kyurem|Icicle Spear|p2a: Krookodile
+|-damage|p2a: Krookodile|77/100
+|-damage|p2a: Krookodile|66/100
+|-damage|p2a: Krookodile|55/100
+|-damage|p2a: Krookodile|45/100
+|-hitcount|p2a: Krookodile|4
+|move|p2a: Krookodile|Earthquake|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781455621
+|switch|p1a: Kommo-o|Kommo-o, F|100/100
+|-damage|p1a: Kommo-o|94/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1781455625
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|61/100
+|move|p2a: Krookodile|Earthquake|p1a: Kommo-o
+|-damage|p1a: Kommo-o|17/100
+|
+|-heal|p1a: Kommo-o|23/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781455630
+|move|p1a: Kommo-o|Shadow Claw|p2a: Krookodile
+|-damage|p2a: Krookodile|14/100
+|move|p2a: Krookodile|Earthquake|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|upkeep
+|
+|t:|1781455634
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1781455638
+|switch|p2a: Blissey|Blissey, F|53/100
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Blissey
+|-immune|p2a: Blissey
+|
+|upkeep
+|turn|20
+|
+|t:|1781455644
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Blissey|Thunder Wave|p1a: Iron Valiant
+|-status|p1a: Iron Valiant|par
+|
+|upkeep
+|turn|21
+|
+|t:|1781455646
+|move|p1a: Iron Valiant|Focus Blast|p2a: Blissey
+|-supereffective|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|faint|p2a: Blissey
+|
+|upkeep
+|
+|t:|1781455651
+|switch|p2a: Krookodile|Krookodile, F, tera:Poison|14/100
+|-damage|p2a: Krookodile|1/100|[from] Stealth Rock
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Iron Valiant|atk|1
+|turn|22
+|
+|t:|1781455654
+|move|p2a: Krookodile|Earthquake|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781455655
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-damage|p1a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|turn|23
+|
+|t:|1781455658
+|move|p1a: Kingambit|Sucker Punch|p2a: Krookodile
+|-damage|p2a: Krookodile|0 fnt
+|faint|p2a: Krookodile
+|
+|-heal|p1a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781455660
+|switch|p2a: Zoroark|Zoroark-Hisui, M|100/100
+|-damage|p2a: Zoroark|88/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781455663
+|move|p1a: Kingambit|Sucker Punch|p2a: Zoroark
+|-supereffective|p2a: Zoroark
+|-damage|p2a: Zoroark|0 fnt
+|faint|p2a: Zoroark
+|
+|win|peep the drip
+|raw|peep the drip's rating: 1521 &rarr; <strong>1542</strong><br />(+21 for winning)
+|raw|huilaoshi1111's rating: 1539 &rarr; <strong>1518</strong><br />(-21 for losing)
+|l|☆peep the drip
+|player|p1|

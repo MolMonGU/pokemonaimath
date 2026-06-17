@@ -1,0 +1,321 @@
+|j|☆deathprofessor21
+|j|☆kshuaib734
+|t:|1781220289
+|gametype|singles
+|player|p1|deathprofessor21|169|1647
+|player|p2|kshuaib734|steven|1655
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Hydrapple, F|
+|poke|p1|Moltres|
+|poke|p1|Raging Bolt|
+|poke|p1|Weezing-Galar, M|
+|poke|p1|Meowscarada, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Quaquaval, F|
+|poke|p2|Kingdra, F|
+|poke|p2|Excadrill, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by kshuaib734)
+|
+|t:|1781220312
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|switch|p2a: Tyrant's Enforcer|Dragapult, M|100/100
+|turn|1
+|
+|t:|1781220319
+|move|p2a: Tyrant's Enforcer|Dragon Darts|p1a: Slowking
+|-damage|p1a: Slowking|71/100
+|-anim|p2a: Tyrant's Enforcer|Dragon Darts|p1a: Slowking
+|-damage|p1a: Slowking|43/100
+|-damage|p2a: Tyrant's Enforcer|91/100|[from] item: Life Orb
+|move|p1a: Slowking|Ice Beam|p2a: Tyrant's Enforcer
+|-supereffective|p2a: Tyrant's Enforcer
+|-damage|p2a: Tyrant's Enforcer|0 fnt
+|faint|p2a: Tyrant's Enforcer
+|
+|upkeep
+|
+|t:|1781220328
+|switch|p2a: Tyrant's Downpour|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Tyrant's Downpour
+|turn|2
+|
+|t:|1781220333
+|move|p2a: Tyrant's Downpour|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|16/100
+|-enditem|p1a: Slowking|Assault Vest|[from] move: Knock Off|[of] p2a: Tyrant's Downpour
+|move|p1a: Slowking|Sludge Bomb|p2a: Tyrant's Downpour
+|-damage|p2a: Tyrant's Downpour|38/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781220340
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|move|p2a: Tyrant's Downpour|U-turn|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|91/100
+|
+|t:|1781220347
+|switch|p2a: King Tyrant|Tyranitar, M|100/100|[from] U-turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: King Tyrant
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Raging Bolt|85/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1781220364
+|move|p1a: Raging Bolt|Volt Switch|p2a: King Tyrant
+|-damage|p2a: King Tyrant|77/100
+|
+|t:|1781220367
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Moltres|Moltres|100/100|[from] Volt Switch
+|move|p2a: King Tyrant|Knock Off|p1a: Moltres
+|-damage|p1a: Moltres|61/100
+|-enditem|p1a: Moltres|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: King Tyrant
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Moltres|55/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1781220375
+|move|p1a: Moltres|U-turn|p2a: King Tyrant
+|-supereffective|p2a: King Tyrant
+|-damage|p2a: King Tyrant|60/100
+|-enditem|p2a: King Tyrant|Weakness Policy
+|-boost|p2a: King Tyrant|atk|2|[from] item: Weakness Policy
+|-boost|p2a: King Tyrant|spa|2|[from] item: Weakness Policy
+|
+|t:|1781220383
+|switch|p1a: Weezing|Weezing-Galar, M|100/100|[from] U-turn
+|move|p2a: King Tyrant|Stealth Rock|p1a: Weezing
+|-sidestart|p1: deathprofessor21|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weezing|95/100|[from] Sandstorm
+|-heal|p1a: Weezing|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781220391
+|move|p2a: King Tyrant|Knock Off|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|70/100
+|-enditem|p1a: Weezing|Leftovers|[from] move: Knock Off|[of] p2a: King Tyrant
+|move|p1a: Weezing|Will-O-Wisp|p2a: King Tyrant
+|-status|p2a: King Tyrant|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weezing|64/100|[from] Sandstorm
+|-damage|p2a: King Tyrant|54/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1781220410
+|switch|p1a: Slowking|Slowking-Galar, M|49/100
+|-damage|p1a: Slowking|37/100|[from] Stealth Rock
+|move|p2a: King Tyrant|Ice Beam|p1a: Slowking
+|-damage|p1a: Slowking|1/100
+|
+|-weather|none
+|-damage|p2a: King Tyrant|48/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1781220418
+|move|p2a: King Tyrant|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-damage|p2a: King Tyrant|42/100 brn|[from] brn
+|upkeep
+|
+|t:|1781220420
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|-damage|p1a: Meowscarada|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1781220434
+|switch|p2a: Tyrant's Downpour|Pelipper, F|38/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Tyrant's Downpour
+|move|p1a: Meowscarada|U-turn|p2a: Tyrant's Downpour
+|-start|p1a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-resisted|p2a: Tyrant's Downpour
+|-damage|p2a: Tyrant's Downpour|20/100
+|
+|t:|1781220443
+|switch|p1a: Raging Bolt|Raging Bolt|85/100|[from] U-turn
+|-damage|p1a: Raging Bolt|73/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781220455
+|switch|p2a: King Tyrant|Tyranitar, M|42/100 brn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: King Tyrant
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: King Tyrant
+|-damage|p2a: King Tyrant|14/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Raging Bolt|67/100|[from] Sandstorm
+|-damage|p2a: King Tyrant|8/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781220467
+|switch|p2a: Tyrant's Legacy|Excadrill, F|100/100
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Tyrant's Legacy
+|-resisted|p2a: Tyrant's Legacy
+|-damage|p2a: Tyrant's Legacy|69/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Raging Bolt|61/100|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1781220474
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Moltres|Moltres|55/100
+|-damage|p1a: Moltres|5/100|[from] Stealth Rock
+|move|p2a: Tyrant's Legacy|Throat Chop|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|-damage|p2a: Tyrant's Legacy|59/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781220477
+|switch|p1a: Weezing|Weezing-Galar, M|64/100
+|-damage|p1a: Weezing|51/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1781220494
+|move|p2a: Tyrant's Legacy|Iron Head|p1a: Weezing
+|-supereffective|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-damage|p2a: Tyrant's Legacy|49/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781220497
+|switch|p1a: Hydrapple|Hydrapple, F|100/100
+|-damage|p1a: Hydrapple|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1781220502
+|move|p2a: Tyrant's Legacy|Iron Head|p1a: Hydrapple
+|-damage|p1a: Hydrapple|45/100
+|-damage|p2a: Tyrant's Legacy|39/100|[from] item: Life Orb
+|move|p1a: Hydrapple|Earth Power|p2a: Tyrant's Legacy
+|-supereffective|p2a: Tyrant's Legacy
+|-crit|p2a: Tyrant's Legacy
+|-damage|p2a: Tyrant's Legacy|0 fnt
+|faint|p2a: Tyrant's Legacy
+|-damage|p1a: Hydrapple|35/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1781220514
+|switch|p2a: King Tyrant|Tyranitar, M|8/100 brn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: King Tyrant
+|turn|15
+|
+|t:|1781220523
+|switch|p1a: Raging Bolt|Raging Bolt|61/100
+|-damage|p1a: Raging Bolt|48/100|[from] Stealth Rock
+|move|p2a: King Tyrant|Ice Beam|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|8/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Raging Bolt|2/100|[from] Sandstorm
+|-damage|p2a: King Tyrant|1/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1781220534
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: King Tyrant
+|-damage|p2a: King Tyrant|0 fnt
+|faint|p2a: King Tyrant
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Raging Bolt|0 fnt|[from] Sandstorm
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|upkeep
+|
+|t:|1781220545
+|switch|p1a: Meowscarada|Meowscarada, M|88/100
+|switch|p2a: Tyrant's Downpour|Pelipper, F|20/100
+|-damage|p1a: Meowscarada|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Tyrant's Downpour
+|turn|17
+|
+|t:|1781220552
+|move|p1a: Meowscarada|Flower Trick|p2a: Tyrant's Downpour
+|-start|p1a: Meowscarada|typechange|Grass|[from] ability: Protean
+|-crit|p2a: Tyrant's Downpour
+|-damage|p2a: Tyrant's Downpour|0 fnt
+|faint|p2a: Tyrant's Downpour
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781220560
+|switch|p2a: Tyrant's Vengeance|Kingdra, F|100/100
+|turn|18
+|
+|t:|1781220572
+|move|p2a: Tyrant's Vengeance|Hurricane|p1a: Meowscarada
+|-supereffective|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|faint|p1a: Meowscarada
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781220574
+|switch|p1a: Hydrapple|Hydrapple, F|68/100
+|-damage|p1a: Hydrapple|56/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1781220580
+|move|p2a: Tyrant's Vengeance|Hurricane|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|0 fnt
+|faint|p1a: Hydrapple
+|
+|win|kshuaib734
+|raw|deathprofessor21's rating: 1647 &rarr; <strong>1627</strong><br />(-20 for losing)
+|raw|kshuaib734's rating: 1655 &rarr; <strong>1675</strong><br />(+20 for winning)
+|l|☆deathprofessor21
+|player|p1|
+|l|☆kshuaib734
+|player|p2|

@@ -1,0 +1,286 @@
+|j|☆Dragesh
+|j|☆suminkwak249
+|t:|1781027684
+|gametype|singles
+|player|p1|Dragesh|169|1648
+|player|p2|suminkwak249|shadowtriad|1657
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Treads|
+|poke|p1|Enamorus, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Dragonite, F|
+|poke|p1|Gholdengo|
+|poke|p1|Dragapult, F|
+|poke|p2|Torkoal, M|
+|poke|p2|Walking Wake|
+|poke|p2|Raging Bolt|
+|poke|p2|Espeon, F|
+|poke|p2|Ceruledge, M|
+|poke|p2|Iron Treads|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Dragesh)
+|j| testingrainteam1
+|l| testingrainteam1
+|
+|t:|1781027704
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781027709
+|switch|p2a: Espeon|Espeon, F|100/100
+|move|p1a: Iron Treads|Earthquake|p2a: Espeon
+|-damage|p2a: Espeon|63/100
+|-enditem|p2a: Espeon|Eject Button
+|
+|t:|1781027711
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspa
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781027716
+|move|p1a: Iron Treads|Stealth Rock|p2a: Walking Wake
+|-sidestart|p2: suminkwak249|move: Stealth Rock
+|move|p2a: Walking Wake|Hydro Steam|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781027720
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|3
+|
+|t:|1781027722
+|-terastallize|p2a: Walking Wake|Water
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Walking Wake|Hydro Steam|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781027728
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|4
+|
+|t:|1781027730
+|move|p1a: Dragapult|Dragon Darts|p2a: Walking Wake
+|-damage|p2a: Walking Wake|72/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Walking Wake
+|-damage|p2a: Walking Wake|47/100
+|move|p2a: Walking Wake|Hydro Steam|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-enditem|p1a: Dragapult|Focus Sash
+|-damage|p1a: Dragapult|1/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781027738
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-damage|p2a: Iron Treads|97/100|[from] Stealth Rock
+|-item|p2a: Iron Treads|Air Balloon
+|move|p1a: Dragapult|Dragon Darts|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|88/100
+|-enditem|p2a: Iron Treads|Air Balloon
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|77/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781027741
+|move|p1a: Dragapult|Fire Blast|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781027759
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|-damage|p2a: Ceruledge|76/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1781027764
+|move|p1a: Dragapult|Dragon Darts|p2a: Ceruledge
+|-damage|p2a: Ceruledge|44/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Ceruledge
+|-damage|p2a: Ceruledge|12/100
+|move|p2a: Ceruledge|Bitter Blade|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|-heal|p2a: Ceruledge|12/100|[from] drain|[of] p1a: Dragapult
+|faint|p1a: Dragapult
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781027773
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|turn|8
+|
+|t:|1781027777
+|move|p1a: Enamorus|Moonblast|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|-weather|none
+|upkeep
+|
+|t:|1781027781
+|switch|p2a: Torkoal|Torkoal, M|100/100
+|-damage|p2a: Torkoal|76/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|9
+|
+|t:|1781027784
+|move|p1a: Enamorus|Earth Power|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|4/100
+|move|p2a: Torkoal|Rapid Spin|p1a: Enamorus
+|-damage|p1a: Enamorus|84/100
+|-boost|p2a: Torkoal|spe|1
+|-sideend|p2: suminkwak249|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Enamorus|90/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781027789
+|switch|p2a: Espeon|Espeon, F|63/100
+|move|p1a: Enamorus|Moonblast|p2a: Espeon
+|-damage|p2a: Espeon|11/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Enamorus|96/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781027795
+|move|p1a: Enamorus|Moonblast|p2a: Espeon
+|-damage|p2a: Espeon|0 fnt
+|faint|p2a: Espeon
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Enamorus|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781027799
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|12
+|
+|t:|1781027802
+|move|p1a: Enamorus|Substitute|p1a: Enamorus
+|-start|p1a: Enamorus|Substitute
+|-damage|p1a: Enamorus|76/100
+|move|p2a: Raging Bolt|Weather Ball|p1a: Enamorus
+|-end|p1a: Enamorus|Substitute
+|-damage|p2a: Raging Bolt|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Enamorus|82/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781027805
+|move|p1a: Enamorus|Substitute|p1a: Enamorus
+|-start|p1a: Enamorus|Substitute
+|-damage|p1a: Enamorus|57/100
+|move|p2a: Raging Bolt|Weather Ball|p1a: Enamorus
+|-end|p1a: Enamorus|Substitute
+|-damage|p2a: Raging Bolt|81/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Enamorus|63/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781027806
+|move|p1a: Enamorus|Moonblast|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Enamorus|69/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781027808
+|switch|p2a: Walking Wake|Walking Wake, tera:Water|47/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspa
+|turn|15
+|
+|t:|1781027810
+|move|p1a: Enamorus|Moonblast|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Enamorus|76/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781027812
+|switch|p2a: Torkoal|Torkoal, M|4/100
+|turn|16
+|
+|t:|1781027814
+|move|p1a: Enamorus|Moonblast|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|win|Dragesh
+|raw|Dragesh's rating: 1648 &rarr; <strong>1669</strong><br />(+21 for winning)
+|raw|suminkwak249's rating: 1657 &rarr; <strong>1636</strong><br />(-21 for losing)
+|l|☆Dragesh
+|player|p1|
+|l|☆suminkwak249
+|player|p2|

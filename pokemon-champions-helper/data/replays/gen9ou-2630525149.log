@@ -1,0 +1,249 @@
+|j|☆tiftif
+|j|☆m5322
+|t:|1781268994
+|gametype|singles
+|player|p1|tiftif|266|1579
+|player|p2|m5322|2|1521
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Iron Treads|
+|poke|p1|Barraskewda, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Talonflame, F|
+|poke|p1|Keldeo-Resolute|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Ceruledge, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Glimmora, M|
+|poke|p2|Moltres-Galar|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by m5322)
+|
+|t:|1781269004
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781269008
+|move|p1a: Iron Treads|Stealth Rock|p2a: Deoxys
+|-sidestart|p2: m5322|move: Stealth Rock
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: m5322|Reflect
+|
+|upkeep
+|turn|2
+|
+|t:|1781269012
+|move|p1a: Iron Treads|Earthquake|p2a: Deoxys
+|-damage|p2a: Deoxys|70/100
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: m5322|move: Light Screen
+|
+|upkeep
+|turn|3
+|
+|t:|1781269017
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|88/100|[from] Stealth Rock
+|move|p1a: Iron Treads|Earthquake|p2a: Ogerpon
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|73/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781269020
+|move|p1a: Iron Treads|Ice Spinner|p2a: Ogerpon
+|-damage|p2a: Ogerpon|56/100
+|move|p2a: Ogerpon|Horn Leech|p1a: Iron Treads
+|-damage|p1a: Iron Treads|56/100
+|-heal|p2a: Ogerpon|80/100|[from] drain|[of] p1a: Iron Treads
+|
+|upkeep
+|turn|5
+|
+|t:|1781269028
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Ogerpon|Horn Leech|p1a: Pelipper
+|-damage|p1a: Pelipper|62/100
+|-heal|p2a: Ogerpon|99/100|[from] drain|[of] p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781269043
+|switch|p1a: Iron Treads|Iron Treads|56/100
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781269049
+|move|p1a: Iron Treads|Rapid Spin|p2a: Ogerpon
+|-damage|p2a: Ogerpon|90/100
+|-boost|p1a: Iron Treads|spe|1
+|move|p2a: Ogerpon|Horn Leech|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-heal|p2a: Ogerpon|100/100|[from] drain|[of] p1a: Iron Treads
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781269055
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|8
+|
+|t:|1781269059
+|move|p2a: Ogerpon|Play Rough|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p2: m5322|Reflect
+|upkeep
+|
+|t:|1781269064
+|switch|p1a: Talonflame|Talonflame, F|100/100
+|turn|9
+|
+|t:|1781269076
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|-damage|p2a: Glimmora|88/100|[from] Stealth Rock
+|move|p1a: Talonflame|Hurricane|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|68/100
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p2: m5322|move: Light Screen
+|upkeep
+|turn|10
+|
+|t:|1781269085
+|switch|p1a: Keldeo|Keldeo-Resolute|100/100
+|move|p2a: Glimmora|Mortal Spin|p1a: Keldeo
+|-damage|p1a: Keldeo|94/100
+|-status|p1a: Keldeo|psn
+|-sideend|p2: m5322|Stealth Rock|[from] move: Mortal Spin|[of] p2a: Glimmora
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Keldeo|99/100 psn|[from] item: Leftovers
+|-damage|p1a: Keldeo|88/100 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1781269099
+|switch|p2a: Moltres|Moltres-Galar|100/100
+|move|p1a: Keldeo|Surf|p2a: Moltres
+|-damage|p2a: Moltres|44/100
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|-enditem|p2a: Moltres|Sitrus Berry|[eat]
+|-heal|p2a: Moltres|69/100|[from] item: Sitrus Berry
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Keldeo|94/100 psn|[from] item: Leftovers
+|-damage|p1a: Keldeo|82/100 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1781269108
+|move|p1a: Keldeo|Calm Mind|p1a: Keldeo
+|-boost|p1a: Keldeo|spa|1
+|-boost|p1a: Keldeo|spd|1
+|move|p2a: Moltres|Hurricane|p1a: Keldeo
+|-supereffective|p1a: Keldeo
+|-damage|p1a: Keldeo|0 fnt
+|faint|p1a: Keldeo
+|
+|-weather|none
+|upkeep
+|
+|t:|1781269114
+|switch|p1a: Pelipper|Pelipper, F|62/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|13
+|
+|t:|1781269116
+|move|p2a: Moltres|Hurricane|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781269124
+|switch|p1a: Talonflame|Talonflame, F|100/100
+|turn|14
+|
+|t:|1781269132
+|switch|p2a: Glimmora|Glimmora, M|68/100
+|move|p1a: Talonflame|Hurricane|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|27/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781269134
+|move|p1a: Talonflame|Hurricane|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781269153
+|switch|p2a: Moltres|Moltres-Galar|69/100
+|turn|16
+|
+|t:|1781269174
+|move|p1a: Talonflame|Hurricane|p2a: Moltres
+|-damage|p2a: Moltres|9/100
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|move|p2a: Moltres|Hurricane|p1a: Talonflame
+|-damage|p1a: Talonflame|0 fnt
+|faint|p1a: Talonflame
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|tiftif forfeited.
+|
+|win|m5322
+|raw|tiftif's rating: 1579 &rarr; <strong>1556</strong><br />(-23 for losing)
+|raw|m5322's rating: 1521 &rarr; <strong>1544</strong><br />(+23 for winning)
+|l|☆m5322
+|player|p2|

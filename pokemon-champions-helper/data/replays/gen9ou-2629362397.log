@@ -1,0 +1,356 @@
+|j|☆blackgokuking
+|j|☆msean3
+|t:|1781122861
+|gametype|singles
+|player|p1|blackgokuking|101|1654
+|player|p2|msean3|170|1746
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, F|
+|poke|p1|Kommo-o, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Crown|
+|poke|p2|Darkrai|
+|poke|p2|Alomomola, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Garchomp, F|
+|poke|p2|Ogerpon, F|
+|teampreview
+|
+|t:|1781122882
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|turn|1
+|
+|t:|1781122885
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|move|p2a: Alomomola|Flip Turn|p1a: Iron Crown
+|-damage|p1a: Iron Crown|85/100
+|
+|t:|1781122888
+|switch|p2a: Garchomp|Garchomp, F|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|2
+|
+|t:|1781122896
+|-terastallize|p1a: Iron Crown|Fighting
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Garchomp
+|-damage|p2a: Garchomp|67/100
+|-damage|p2a: Garchomp|35/100
+|-hitcount|p2a: Garchomp|2
+|move|p2a: Garchomp|Earthquake|p1a: Iron Crown
+|-damage|p1a: Iron Crown|44/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781122903
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|92/100
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|83/100
+|-hitcount|p2a: Alomomola|2
+|
+|upkeep
+|turn|4
+|
+|t:|1781122908
+|move|p1a: Iron Crown|Focus Blast|p2a: Alomomola
+|-damage|p2a: Alomomola|40/100
+|move|p2a: Alomomola|Play Rough|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|13/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781122923
+|move|p2a: Alomomola|Aqua Jet|p1a: Iron Crown
+|-damage|p1a: Iron Crown|2/100
+|move|p1a: Iron Crown|Focus Blast|p2a: Alomomola|[miss]
+|-miss|p1a: Iron Crown|p2a: Alomomola
+|
+|upkeep
+|turn|6
+|
+|t:|1781122930
+|move|p2a: Alomomola|Aqua Jet|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781122931
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|7
+|
+|t:|1781122934
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781122936
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Corviknight|Brave Bird|p1a: Kyurem
+|-damage|p1a: Kyurem|65/100
+|-damage|p2a: Corviknight|89/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|95/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781122940
+|move|p1a: Kyurem|Icicle Spear|p2a: Corviknight
+|-damage|p2a: Corviknight|76/100
+|-damage|p2a: Corviknight|54/100
+|-damage|p2a: Corviknight|34/100
+|-damage|p2a: Corviknight|14/100
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|-hitcount|p2: Corviknight|5
+|
+|upkeep
+|
+|t:|1781122942
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|turn|10
+|
+|t:|1781122950
+|-terastallize|p2a: Weezing|Water
+|move|p1a: Kyurem|Icicle Spear|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|93/100
+|-resisted|p2a: Weezing
+|-crit|p2a: Weezing
+|-damage|p2a: Weezing|80/100
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|71/100
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|63/100
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|54/100
+|-hitcount|p2a: Weezing|5
+|move|p2a: Weezing|Will-O-Wisp|p1a: Kyurem
+|-status|p1a: Kyurem|brn
+|
+|-heal|p2a: Weezing|60/100|[from] item: Leftovers
+|-damage|p1a: Kyurem|59/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781122955
+|move|p1a: Kyurem|Scale Shot|p2a: Weezing
+|-damage|p2a: Weezing|52/100
+|-damage|p2a: Weezing|45/100
+|-damage|p2a: Weezing|37/100
+|-damage|p2a: Weezing|29/100
+|-damage|p2a: Weezing|21/100
+|-hitcount|p2a: Weezing|5
+|-unboost|p1a: Kyurem|def|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Weezing|Sludge Bomb|p1a: Kyurem
+|-damage|p1a: Kyurem|30/100 brn
+|
+|-heal|p2a: Weezing|27/100|[from] item: Leftovers
+|-damage|p1a: Kyurem|24/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1781122969
+|move|p1a: Kyurem|Earth Power|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|-ability|p1a: Kyurem|Pressure
+|
+|-damage|p1a: Kyurem|17/100 brn|[from] brn
+|upkeep
+|
+|t:|1781122972
+|switch|p2a: Alomomola|Alomomola, M|73/100
+|turn|13
+|
+|t:|1781122976
+|move|p1a: Kyurem|Scale Shot|p2a: Alomomola
+|-damage|p2a: Alomomola|64/100
+|-damage|p2a: Alomomola|54/100
+|-damage|p2a: Alomomola|45/100
+|-damage|p2a: Alomomola|34/100
+|-damage|p2a: Alomomola|25/100
+|-hitcount|p2a: Alomomola|5
+|-unboost|p1a: Kyurem|def|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Alomomola|Play Rough|p1a: Kyurem|[miss]
+|-miss|p2a: Alomomola|p1a: Kyurem
+|
+|-damage|p1a: Kyurem|11/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781122987
+|move|p2a: Alomomola|Aqua Jet|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-crit|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781123008
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|15
+|
+|t:|1781123017
+|switch|p2a: Ogerpon|Ogerpon, F|100/100
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781123022
+|move|p1a: Iron Valiant|Moonblast|p2a: Ogerpon
+|-damage|p2a: Ogerpon|21/100
+|-unboost|p2a: Ogerpon|spa|1
+|-ability|p2a: Ogerpon|Defiant|boost
+|-boost|p2a: Ogerpon|atk|2
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781123032
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|17
+|
+|t:|1781123038
+|move|p1a: Iron Treads|Earthquake|p2a: Ogerpon
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781123040
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|18
+|
+|t:|1781123046
+|move|p1a: Iron Treads|Stealth Rock|p2a: Darkrai
+|-sidestart|p2: msean3|move: Stealth Rock
+|move|p2a: Darkrai|Focus Blast|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781123050
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|turn|19
+|
+|t:|1781123053
+|move|p2a: Darkrai|Focus Blast|p1a: Kommo-o|[miss]
+|-miss|p2a: Darkrai|p1a: Kommo-o
+|move|p1a: Kommo-o|Substitute|p1a: Kommo-o
+|-start|p1a: Kommo-o|Substitute
+|-damage|p1a: Kommo-o|75/100
+|
+|-heal|p1a: Kommo-o|82/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|j| malicious M
+|
+|t:|1781123056
+|switch|p2a: Alomomola|Alomomola, M|58/100
+|-damage|p2a: Alomomola|45/100|[from] Stealth Rock
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|49/100
+|
+|-heal|p1a: Kommo-o|55/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781123062
+|move|p1a: Kommo-o|Drain Punch|p2a: Alomomola
+|-crit|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|-heal|p1a: Kommo-o|89/100|[from] drain|[of] p2a: Alomomola
+|faint|p2a: Alomomola
+|
+|-heal|p1a: Kommo-o|95/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781123065
+|switch|p2a: Darkrai|Darkrai|100/100
+|-damage|p2a: Darkrai|88/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781123067
+|move|p1a: Kommo-o|Drain Punch|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|-heal|p1a: Kommo-o|100/100|[from] drain|[of] p2a: Darkrai
+|faint|p2a: Darkrai
+|
+|upkeep
+|l| malicious M
+|-message|msean3 forfeited.
+|
+|win|blackgokuking
+|raw|blackgokuking's rating: 1654 &rarr; <strong>1679</strong><br />(+25 for winning)
+|raw|msean3's rating: 1746 &rarr; <strong>1721</strong><br />(-25 for losing)
+|c|☆msean3|gg
+|l|☆blackgokuking
+|player|p1|
+|l|☆msean3
+|player|p2|

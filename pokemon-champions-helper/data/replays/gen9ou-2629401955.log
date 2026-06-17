@@ -1,0 +1,578 @@
+|j|☆fajita squad
+|j|☆KurisuChestnutOU
+|t:|1781126860
+|gametype|singles
+|player|p1|fajita squad|elesa|1592
+|player|p2|KurisuChestnutOU|may-contest|1588
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, F|
+|poke|p1|Cinderace, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Slowking-Galar, M|
+|poke|p2|Gliscor, F|
+|poke|p2|Dondozo, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Gholdengo|
+|poke|p2|Great Tusk|
+|poke|p2|Kingambit, F|
+|teampreview
+|
+|t:|1781126865
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cinderace|Cinderace, F, shiny|100/100
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by fajita squad)
+|inactive|KurisuChestnutOU also wants the timer to be on.
+|
+|t:|1781126871
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|move|p1a: Cinderace|Will-O-Wisp|p2a: Gliscor
+|-status|p2a: Gliscor|brn
+|
+|-damage|p2a: Gliscor|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1781126878
+|move|p1a: Cinderace|U-turn|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|89/100 brn
+|
+|t:|1781126882
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|100/100|[from] U-turn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Gliscor|atk|1
+|move|p2a: Gliscor|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|94/100
+|-damage|p2a: Gliscor|72/100 brn|[from] item: Rocky Helmet|[of] p1a: Landorus
+|-enditem|p1a: Landorus|Rocky Helmet|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|-damage|p2a: Gliscor|66/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1781126887
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Landorus|Taunt|p2a: Great Tusk
+|-start|p2a: Great Tusk|move: Taunt
+|
+|upkeep
+|turn|4
+|
+|t:|1781126894
+|switch|p1a: Kyurem|Kyurem, shiny|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Great Tusk|Ice Spinner|p1a: Kyurem
+|-damage|p1a: Kyurem|74/100
+|
+|-heal|p1a: Kyurem|80/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781126898
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Slowking
+|-damage|p2a: Slowking|87/100
+|-status|p2a: Slowking|frz
+|
+|-heal|p1a: Kyurem|86/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781126904
+|move|p1a: Kyurem|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|62/100 frz
+|cant|p2a: Slowking|frz
+|
+|-heal|p1a: Kyurem|93/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781126909
+|move|p1a: Kyurem|Substitute|p1a: Kyurem
+|-start|p1a: Kyurem|Substitute
+|-damage|p1a: Kyurem|68/100
+|cant|p2a: Slowking|frz
+|
+|-heal|p1a: Kyurem|74/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781126913
+|move|p1a: Kyurem|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|39/100 frz
+|-curestatus|p2a: Slowking|frz|[msg]
+|move|p2a: Slowking|Future Sight|p1a: Kyurem
+|-start|p2a: Slowking|move: Future Sight
+|
+|-heal|p1a: Kyurem|80/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781126918
+|move|p1a: Kyurem|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|13/100
+|move|p2a: Slowking|Psyshock|p1a: Kyurem
+|-end|p1a: Kyurem|Substitute
+|
+|-heal|p1a: Kyurem|86/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781126923
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Kyurem|Freeze-Dry|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|80/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|
+|-end|p1a: Kyurem|move: Future Sight
+|-damage|p1a: Kyurem|44/100
+|-heal|p1a: Kyurem|51/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781126928
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: Gholdengo|Make It Rain|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-heal|p1a: Kyurem|57/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781126933
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100
+|move|p2a: Gholdengo|Make It Rain|p1a: Slowking
+|-damage|p1a: Slowking|62/100
+|-unboost|p2a: Gholdengo|spa|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781126940
+|switch|p2a: Slowking|Slowking-Galar, M|46/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781126945
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|94/100|[from] Chilly Reception
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Slowking|atk|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781126951
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Landorus|U-turn|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|93/100
+|
+|t:|1781126953
+|switch|p1a: Kyurem|Kyurem, shiny|57/100|[from] U-turn
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kyurem|63/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781126959
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|79/100
+|move|p1a: Kyurem|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|56/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kyurem|69/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781126965
+|move|p1a: Kyurem|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|34/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Kyurem
+|-damage|p1a: Kyurem|40/100
+|-status|p1a: Kyurem|psn
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kyurem|46/100 psn|[from] item: Leftovers
+|-damage|p1a: Kyurem|33/100 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1781126972
+|move|p1a: Kyurem|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|11/100
+|move|p2a: Slowking|Psyshock|p1a: Kyurem
+|-damage|p1a: Kyurem|16/100 psn
+|
+|-weather|none
+|-heal|p1a: Kyurem|22/100 psn|[from] item: Leftovers
+|-damage|p1a: Kyurem|10/100 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1781126976
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|81/100
+|
+|-heal|p1a: Kyurem|16/100 psn|[from] item: Leftovers
+|-heal|p2a: Kingambit|87/100|[from] item: Leftovers
+|-damage|p1a: Kyurem|4/100 psn|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1781126982
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|94/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Kingambit|atk|1
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|44/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781126987
+|switch|p2a: Dondozo|Dondozo, F|100/100
+|move|p1a: Landorus|Earthquake|p2a: Dondozo
+|-damage|p2a: Dondozo|78/100
+|
+|-heal|p2a: Dondozo|85/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781126991
+|move|p1a: Landorus|Taunt|p2a: Dondozo
+|-start|p2a: Dondozo|move: Taunt
+|move|p2a: Dondozo|Wave Crash|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|23/100
+|-damage|p2a: Dondozo|70/100|[from] Recoil
+|
+|-heal|p2a: Dondozo|76/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781126994
+|move|p1a: Landorus|Earthquake|p2a: Dondozo
+|-damage|p2a: Dondozo|54/100
+|move|p2a: Dondozo|Wave Crash|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-damage|p2a: Dondozo|50/100|[from] Recoil
+|
+|-heal|p2a: Dondozo|56/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781127000
+|switch|p1a: Kyurem|Kyurem, shiny|4/100 psn
+|-ability|p1a: Kyurem|Pressure
+|turn|23
+|
+|t:|1781127003
+|switch|p2a: Slowking|Slowking-Galar, M|77/100
+|move|p1a: Kyurem|Freeze-Dry|p2a: Slowking
+|-damage|p2a: Slowking|62/100
+|
+|-heal|p1a: Kyurem|10/100 psn|[from] item: Leftovers
+|-damage|p1a: Kyurem|0 fnt|[from] psn
+|faint|p1a: Kyurem
+|upkeep
+|
+|t:|1781127006
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|turn|24
+|
+|t:|1781127010
+|switch|p2a: Kingambit|Kingambit, F|87/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|93/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1781127016
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Dondozo|Dondozo, F|56/100
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|95/100
+|
+|-heal|p2a: Dondozo|62/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781127023
+|move|p2a: Dondozo|Wave Crash|p1a: Slowking
+|-damage|p1a: Slowking|50/100
+|-damage|p2a: Dondozo|50/100|[from] Recoil
+|move|p1a: Slowking|Psychic Noise|p2a: Dondozo
+|-damage|p2a: Dondozo|26/100
+|-start|p2a: Dondozo|move: Heal Block
+|
+|upkeep
+|turn|27
+|
+|t:|1781127031
+|switch|p1a: Cinderace|Cinderace, F, shiny|100/100
+|move|p2a: Dondozo|Wave Crash|p1a: Cinderace
+|-supereffective|p1a: Cinderace
+|-damage|p1a: Cinderace|1/100
+|-damage|p2a: Dondozo|2/100|[from] Recoil
+|
+|-end|p2a: Dondozo|move: Heal Block
+|upkeep
+|turn|28
+|
+|t:|1781127042
+|move|p1a: Cinderace|U-turn|p2a: Dondozo
+|-damage|p2a: Dondozo|0 fnt
+|faint|p2a: Dondozo
+|
+|t:|1781127044
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|83/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781127048
+|switch|p2a: Kingambit|Kingambit, F|93/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|turn|29
+|
+|t:|1781127051
+|move|p2a: Kingambit|Iron Head|p1a: Slowking
+|-damage|p1a: Slowking|27/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|cant|p1a: Slowking|flinch
+|
+|-heal|p2a: Kingambit|99/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781127057
+|move|p2a: Kingambit|Iron Head|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-heal|p2a: Kingambit|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781127059
+|switch|p1a: Cinderace|Cinderace, F, shiny|1/100
+|turn|31
+|
+|t:|1781127063
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|95/100
+|move|p1a: Cinderace|Pyro Ball|p2a: Slowking
+|-damage|p2a: Slowking|25/100
+|
+|upkeep
+|turn|32
+|
+|t:|1781127067
+|switch|p2a: Gliscor|Gliscor, F|66/100 brn
+|move|p1a: Cinderace|Pyro Ball|p2a: Gliscor
+|-damage|p2a: Gliscor|24/100 brn
+|
+|-damage|p2a: Gliscor|18/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1781127073
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Cinderace|Pyro Ball|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-damage|p2a: Gliscor|12/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1781127076
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Cinderace|Pyro Ball|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-damage|p2a: Gliscor|6/100 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1781127079
+|move|p1a: Cinderace|Pyro Ball|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|upkeep
+|
+|t:|1781127083
+|switch|p2a: Great Tusk|Great Tusk|93/100
+|turn|36
+|
+|t:|1781127089
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|move|p1a: Cinderace|Pyro Ball|p2a: Kingambit|[miss]
+|-miss|p1a: Cinderace|p2a: Kingambit
+|
+|upkeep
+|turn|37
+|
+|t:|1781127093
+|move|p2a: Kingambit|Sucker Punch|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|upkeep
+|
+|t:|1781127095
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|38
+|
+|t:|1781127099
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|59/100
+|move|p1a: Iron Valiant|Encore||[still]
+|-fail|p1a: Iron Valiant
+|
+|upkeep
+|turn|39
+|
+|t:|1781127103
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|move|p2a: Slowking|Flamethrower|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|52/100
+|
+|-heal|p1a: Kingambit|58/100|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1781127108
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|64/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1781127116
+|-terastallize|p1a: Kingambit|Flying
+|move|p2a: Kingambit|Low Kick|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|47/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|53/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1781127121
+|move|p2a: Kingambit|Iron Head|p1a: Kingambit
+|-damage|p1a: Kingambit|4/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|18/100
+|
+|-heal|p2a: Kingambit|24/100|[from] item: Leftovers
+|-heal|p1a: Kingambit|11/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1781127129
+|move|p2a: Kingambit|Sucker Punch|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|
+|-heal|p2a: Kingambit|31/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781127131
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|turn|44
+|
+|t:|1781127136
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|92/100
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|45
+|
+|t:|1781127139
+|-terastallize|p2a: Slowking|Water
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Slowking
+|-damage|p2a: Slowking|78/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|15/100
+|
+|upkeep
+|turn|46
+|
+|t:|1781127145
+|move|p1a: Iron Valiant|Moonblast|p2a: Slowking
+|-damage|p2a: Slowking|52/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|win|KurisuChestnutOU
+|raw|fajita squad's rating: 1592 &rarr; <strong>1570</strong><br />(-22 for losing)
+|raw|KurisuChestnutOU's rating: 1560 &rarr; <strong>1582</strong><br />(+22 for winning)
+|l|☆fajita squad
+|player|p1|

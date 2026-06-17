@@ -1,0 +1,282 @@
+|j|‽LT_Alt1
+|j|☆cachowcapow
+|t:|1781088231
+|gametype|singles
+|player|p1|LT_Alt1|265|1698
+|player|p2|cachowcapow|265|1675
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Raging Bolt|
+|poke|p1|Hatterene, F|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Ting-Lu|
+|poke|p1|Corviknight, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Slither Wing|
+|poke|p2|Alomomola, M|
+|poke|p2|Great Tusk|
+|poke|p2|Meowscarada, F|
+|poke|p2|Froslass, F|
+|teampreview
+|
+|t:|1781088244
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|
+|t:|1781088252
+|move|p2a: Meowscarada|Power Gem|p1a: Kyurem
+|-start|p2a: Meowscarada|typechange|Rock|[from] ability: Protean
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|19/100
+|move|p1a: Kyurem|Draco Meteor|p2a: Meowscarada|[miss]
+|-miss|p1a: Kyurem|p2a: Meowscarada
+|
+|upkeep
+|turn|2
+|
+|t:|1781088262
+|switch|p2a: Slither Wing|Slither Wing|100/100
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|
+|upkeep
+|turn|3
+|
+|t:|1781088267
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Slither Wing|U-turn|p1a: Slowking
+|-damage|p1a: Slowking|73/100
+|
+|t:|1781088284
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Meowscarada|Meowscarada, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|4
+|j| kanaete onegai
+|
+|t:|1781088290
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Meowscarada|Grass Knot|p1a: Ting-Lu
+|-start|p2a: Meowscarada|typechange|Grass|[from] ability: Protean
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|32/100
+|
+|-heal|p1a: Ting-Lu|38/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781088295
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781088300
+|move|p2a: Cinderace|U-turn|p1a: Slowking
+|-start|p2a: Cinderace|typechange|Bug|[from] ability: Libero
+|-damage|p1a: Slowking|69/100
+|
+|t:|1781088303
+|switch|p2a: Alomomola|Alomomola, M|100/100|[from] U-turn
+|move|p1a: Slowking|Sludge Bomb|p2a: Alomomola
+|-damage|p2a: Alomomola|84/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781088308
+|move|p2a: Alomomola|Flip Turn|p1a: Slowking
+|-damage|p1a: Slowking|54/100
+|
+|t:|1781088314
+|switch|p2a: Slither Wing|Slither Wing|100/100|[from] Flip Turn
+|move|p1a: Slowking|Future Sight|p2a: Slither Wing
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|8
+|
+|t:|1781088319
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Slither Wing|U-turn|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|95/100
+|-damage|p2a: Slither Wing|84/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|t:|1781088324
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Cinderace|Cinderace, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|9
+|
+|t:|1781088329
+|move|p2a: Cinderace|Pyro Ball|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|11/100
+|-status|p1a: Corviknight|brn
+|move|p1a: Corviknight|Body Press|p2a: Cinderace
+|-crit|p2a: Cinderace
+|-damage|p2a: Cinderace|75/100
+|
+|-end|p2a: Cinderace|move: Future Sight
+|-crit|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|-damage|p1a: Corviknight|5/100 brn|[from] brn
+|upkeep
+|
+|t:|1781088341
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|turn|10
+|
+|t:|1781088345
+|move|p2a: Alomomola|Aqua Jet|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|-damage|p2a: Alomomola|84/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|faint|p1a: Corviknight
+|
+|upkeep
+|
+|t:|1781088350
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|turn|11
+|
+|t:|1781088370
+|move|p1a: Raging Bolt|Volt Switch|p2a: Alomomola
+|-supereffective|p2a: Alomomola
+|-damage|p2a: Alomomola|44/100
+|
+|t:|1781088375
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Ting-Lu|Ting-Lu|38/100|[from] Volt Switch
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Alomomola|Mirror Coat|p1a: Ting-Lu
+|-immune|p1a: Ting-Lu
+|
+|-heal|p1a: Ting-Lu|44/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781088387
+|move|p1a: Ting-Lu|Ruination|p2a: Alomomola|[miss]
+|-miss|p1a: Ting-Lu|p2a: Alomomola
+|move|p2a: Alomomola|Flip Turn|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|27/100
+|
+|t:|1781088398
+|switch|p2a: Slither Wing|Slither Wing|84/100|[from] Flip Turn
+|
+|-heal|p1a: Ting-Lu|33/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781088407
+|switch|p1a: Slowking|Slowking-Galar, M|87/100
+|move|p2a: Slither Wing|U-turn|p1a: Slowking
+|-damage|p1a: Slowking|58/100
+|
+|t:|1781088415
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Froslass|Froslass, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|14
+|
+|t:|1781088420
+|switch|p1a: Ting-Lu|Ting-Lu|33/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Froslass|Poltergeist|p1a: Ting-Lu
+|-activate|p1a: Ting-Lu|move: Poltergeist|Leftovers
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|23/100
+|
+|-heal|p1a: Ting-Lu|29/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781088434
+|switch|p2a: Slither Wing|Slither Wing|84/100
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Slither Wing
+|-sidestart|p2: cachowcapow|move: Stealth Rock
+|
+|-heal|p1a: Ting-Lu|36/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781088455
+|switch|p1a: Slowking|Slowking-Galar, M|91/100
+|move|p2a: Slither Wing|U-turn|p1a: Slowking
+|-damage|p1a: Slowking|65/100
+|
+|t:|1781088489
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|-damage|p2a: Great Tusk|98/100|[from] Stealth Rock
+|
+|upkeep
+|turn|17
+|
+|t:|1781088495
+|move|p2a: Great Tusk|Headlong Rush|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-enditem|p1a: Slowking|Shuca Berry|[eat]
+|-enditem|p1a: Slowking|Shuca Berry|[weaken]
+|-damage|p1a: Slowking|14/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781088499
+|switch|p1a: Kyurem|Kyurem|19/100|[from] Chilly Reception
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781088503
+|move|p2a: Great Tusk|Headlong Rush|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Kyurem
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781088508
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|turn|19
+|j| testingrainteam1
+|-message|LT_Alt1 forfeited.
+|
+|win|cachowcapow
+|raw|LT_Alt1's rating: 1698 &rarr; <strong>1677</strong><br />(-21 for losing)
+|raw|cachowcapow's rating: 1675 &rarr; <strong>1696</strong><br />(+21 for winning)
+|l|‽LT_Alt1
+|player|p1|
+|l| testingrainteam1

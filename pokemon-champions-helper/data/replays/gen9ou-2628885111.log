@@ -1,0 +1,344 @@
+|j|☆Test g17
+|j|☆CodenameZQ
+|t:|1781068125
+|gametype|singles
+|player|p1|Test g17|hilbert|1540
+|player|p2|CodenameZQ|roxanne|1517
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Feraligatr, F|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Moth|
+|poke|p1|Keldeo-Resolute|
+|poke|p1|Kyurem|
+|poke|p2|Zamazenta-*|
+|poke|p2|Iron Hands|
+|poke|p2|Ceruledge, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Glimmora, F|
+|teampreview
+|
+|t:|1781068140
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|1
+|
+|t:|1781068150
+|move|p2a: Deoxys|Taunt|p1a: Iron Treads
+|-start|p1a: Iron Treads|move: Taunt
+|move|p1a: Iron Treads|Rapid Spin|p2a: Deoxys
+|-damage|p2a: Deoxys|87/100
+|-boost|p1a: Iron Treads|spe|1
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by CodenameZQ)
+|
+|t:|1781068195
+|move|p1a: Iron Treads|Earth Power|p2a: Deoxys
+|-damage|p2a: Deoxys|46/100
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: CodenameZQ|Reflect
+|
+|upkeep
+|turn|3
+|
+|t:|1781068202
+|move|p1a: Iron Treads|Earth Power|p2a: Deoxys
+|-damage|p2a: Deoxys|6/100
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: CodenameZQ|move: Light Screen
+|
+|-end|p1a: Iron Treads|move: Taunt
+|upkeep
+|turn|4
+|
+|t:|1781068216
+|move|p1a: Iron Treads|Earth Power|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|inactive|CodenameZQ has 120 seconds left.
+|
+|t:|1781068247
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|turn|5
+|inactive|CodenameZQ has 120 seconds left.
+|inactive|Test g17 has 120 seconds left.
+|
+|t:|1781068280
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Feraligatr|Feraligatr, F|100/100
+|move|p2a: Ceruledge|Bitter Blade|p1a: Feraligatr
+|-resisted|p1a: Feraligatr
+|-damage|p1a: Feraligatr|62/100
+|-damage|p2a: Ceruledge|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|6
+|inactive|CodenameZQ has 120 seconds left.
+|inactive|Test g17 has 120 seconds left.
+|
+|t:|1781068306
+|move|p2a: Ceruledge|Poltergeist|p1a: Feraligatr
+|-activate|p1a: Feraligatr|move: Poltergeist|Loaded Dice
+|-damage|p1a: Feraligatr|0 fnt
+|faint|p1a: Feraligatr
+|-damage|p2a: Ceruledge|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781068323
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|7
+|
+|t:|1781068334
+|switch|p1a: Keldeo|Keldeo-Resolute|100/100
+|move|p2a: Ceruledge|Bitter Blade|p1a: Keldeo
+|-resisted|p1a: Keldeo
+|-damage|p1a: Keldeo|65/100
+|-heal|p2a: Ceruledge|99/100|[from] drain|[of] p1a: Keldeo
+|-damage|p2a: Ceruledge|90/100|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|
+|t:|1781068344
+|-terastallize|p1a: Keldeo|Water
+|move|p1a: Keldeo|Surf|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|upkeep
+|inactive|CodenameZQ has 120 seconds left.
+|
+|t:|1781068362
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|9
+|inactive|CodenameZQ has 120 seconds left.
+|inactive|Test g17 has 90 seconds left.
+|
+|t:|1781068403
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Iron Valiant|Thunderbolt|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|85/100
+|
+|-sideend|p2: CodenameZQ|Reflect
+|upkeep
+|turn|10
+|inactive|CodenameZQ has 120 seconds left.
+|
+|t:|1781068422
+|move|p2a: Iron Valiant|Moonblast|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|3/100
+|move|p1a: Kyurem|Icicle Spear|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|83/100
+|-damage|p2a: Iron Valiant|63/100
+|-hitcount|p2a: Iron Valiant|2
+|
+|-sideend|p2: CodenameZQ|move: Light Screen
+|upkeep
+|turn|11
+|inactive|CodenameZQ has 120 seconds left.
+|
+|t:|1781068435
+|move|p2a: Iron Valiant|Moonblast|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781068443
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|turn|12
+|inactive|CodenameZQ has 120 seconds left.
+|
+|t:|1781068464
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|move|p1a: Iron Moth|Fiery Dance|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|76/100
+|-boost|p1a: Iron Moth|spa|1
+|-enditem|p2a: Glimmora|Red Card|[of] p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|drag|p1a: Keldeo|Keldeo-Resolute, tera:Water|65/100
+|
+|upkeep
+|turn|13
+|inactive|CodenameZQ has 120 seconds left.
+|
+|t:|1781068482
+|move|p1a: Keldeo|Surf|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|
+|upkeep
+|
+|t:|1781068487
+|switch|p2a: Iron Hands|Iron Hands|100/100
+|-enditem|p2a: Iron Hands|Booster Energy
+|-activate|p2a: Iron Hands|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Hands|quarkdriveatk
+|turn|14
+|inactive|Test g17 has 90 seconds left.
+|
+|t:|1781068505
+|move|p1a: Keldeo|Surf|p2a: Iron Hands
+|-damage|p2a: Iron Hands|4/100
+|move|p2a: Iron Hands|Close Combat|p1a: Keldeo
+|-damage|p1a: Keldeo|0 fnt
+|-unboost|p2a: Iron Hands|def|1
+|-unboost|p2a: Iron Hands|spd|1
+|faint|p1a: Keldeo
+|
+|upkeep
+|inactive|Test g17 has 90 seconds left.
+|
+|t:|1781068512
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|turn|15
+|inactive|CodenameZQ has 120 seconds left.
+|
+|t:|1781068527
+|move|p1a: Iron Treads|Rapid Spin|p2a: Iron Hands
+|-damage|p2a: Iron Hands|0 fnt
+|-boost|p1a: Iron Treads|spe|1
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781068549
+|switch|p2a: Iron Valiant|Iron Valiant|63/100
+|turn|16
+|
+|t:|1781068554
+|move|p1a: Iron Treads|Steel Beam|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|-damage|p1a: Iron Treads|50/100|[from] steelbeam
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781068557
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|17
+|inactive|Test g17 has 120 seconds left.
+|inactive|CodenameZQ has 120 seconds left.
+|
+|t:|1781068568
+|move|p1a: Iron Treads|Earth Power|p2a: Zamazenta
+|-damage|p2a: Zamazenta|68/100
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-heal|p2a: Zamazenta|74/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781068571
+|move|p1a: Iron Treads|Earth Power|p2a: Zamazenta
+|-damage|p2a: Zamazenta|42/100
+|move|p2a: Zamazenta|Body Press|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p2a: Zamazenta|48/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781068575
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|turn|19
+|
+|t:|1781068585
+|move|p2a: Zamazenta|Body Press|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|23/100
+|move|p1a: Iron Moth|Fiery Dance|p2a: Zamazenta
+|-damage|p2a: Zamazenta|8/100
+|-boost|p1a: Iron Moth|spa|1
+|
+|-heal|p2a: Zamazenta|14/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781068592
+|move|p2a: Zamazenta|Body Press|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p2a: Zamazenta|20/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781068594
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|21
+|
+|t:|1781068598
+|-terastallize|p2a: Zamazenta|Steel
+|move|p1a: Deoxys|Psycho Boost|p2a: Zamazenta|[miss]
+|-miss|p1a: Deoxys|p2a: Zamazenta
+|move|p2a: Zamazenta|Heavy Slam|p1a: Deoxys
+|-damage|p1a: Deoxys|40/100
+|
+|-heal|p2a: Zamazenta|27/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781068606
+|move|p1a: Deoxys|Superpower|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|7/100
+|-unboost|p1a: Deoxys|atk|1
+|-unboost|p1a: Deoxys|def|1
+|move|p2a: Zamazenta|Heavy Slam|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|win|CodenameZQ
+|raw|Test g17's rating: 1540 &rarr; <strong>1519</strong><br />(-21 for losing)
+|raw|CodenameZQ's rating: 1517 &rarr; <strong>1538</strong><br />(+21 for winning)
+|l|☆CodenameZQ
+|player|p2|
+|l|☆Test g17
+|player|p1|

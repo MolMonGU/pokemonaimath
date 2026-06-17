@@ -1,0 +1,251 @@
+|j|☆alle43
+|j|☆viutil
+|t:|1781436589
+|gametype|singles
+|player|p1|alle43|266|1584
+|player|p2|viutil|2|1567
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Great Tusk|
+|poke|p1|Skarmory, M|
+|poke|p1|Raging Bolt|
+|poke|p2|Dragapult, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Corviknight, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Gholdengo|
+|teampreview
+|
+|t:|1781436599
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by viutil)
+|
+|t:|1781436608
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|-unboost|p1a: Hoopa|def|1
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1781436613
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|2
+|
+|t:|1781436629
+|switch|p1a: Skarmory|Skarmory, M|100/100
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1781436636
+|move|p2a: Iron Valiant|Knock Off|p1a: Skarmory
+|-damage|p1a: Skarmory|59/100
+|-damage|p2a: Iron Valiant|84/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|-enditem|p1a: Skarmory|Rocky Helmet|[from] move: Knock Off|[of] p2a: Iron Valiant
+|move|p1a: Skarmory|Iron Defense|p1a: Skarmory
+|-boost|p1a: Skarmory|def|2
+|
+|upkeep
+|turn|4
+|
+|t:|1781436645
+|move|p2a: Iron Valiant|Close Combat|p1a: Skarmory
+|-damage|p1a: Skarmory|20/100
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|70/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|upkeep
+|turn|5
+|
+|t:|1781436650
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|100/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|upkeep
+|turn|6
+|
+|t:|1781436654
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|move|p1a: Skarmory|Iron Defense|p1a: Skarmory
+|-boost|p1a: Skarmory|def|2
+|
+|upkeep
+|turn|7
+|
+|t:|1781436656
+|move|p2a: Iron Valiant|Close Combat|p1a: Skarmory
+|-damage|p1a: Skarmory|49/100
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|move|p1a: Skarmory|Iron Defense|p1a: Skarmory
+|-boost|p1a: Skarmory|def|2
+|
+|upkeep
+|turn|8
+|
+|t:|1781436659
+|move|p2a: Iron Valiant|Close Combat|p1a: Skarmory
+|-damage|p1a: Skarmory|13/100
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|63/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|upkeep
+|turn|9
+|
+|t:|1781436663
+|move|p2a: Iron Valiant|Close Combat|p1a: Skarmory
+|-damage|p1a: Skarmory|27/100
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|move|p1a: Skarmory|Body Press|p2a: Iron Valiant
+|-resisted|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781436666
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|10
+|
+|t:|1781436672
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Skarmory|Body Press|p2a: Gholdengo
+|-immune|p2a: Gholdengo
+|
+|upkeep
+|turn|11
+|
+|t:|1781436683
+|move|p2a: Gholdengo|Shadow Ball|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|faint|p1a: Skarmory
+|
+|upkeep
+|
+|t:|1781436691
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|turn|12
+|
+|t:|1781436700
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Corviknight
+|-damage|p2a: Corviknight|66/100
+|-unboost|p1a: Hoopa|def|1
+|
+|upkeep
+|turn|13
+|
+|t:|1781436709
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|move|p2a: Corviknight|U-turn|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|86/100
+|
+|t:|1781436718
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] U-turn
+|
+|upkeep
+|turn|14
+|
+|t:|1781436721
+|-terastallize|p1a: Raging Bolt|Fairy
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|44/100
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Raging Bolt
+|-immune|p1a: Raging Bolt
+|
+|upkeep
+|turn|15
+|j| Puyu paz
+|l| Puyu paz
+|
+|t:|1781436728
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Raging Bolt|Volt Switch|p2a: Gholdengo
+|-damage|p2a: Gholdengo|52/100
+|
+|t:|1781436732
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Dragapult|Dragapult, M|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|16
+|
+|t:|1781436738
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|44/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781436752
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-unboost|p1a: Hoopa|def|1
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781436756
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|18
+|
+|t:|1781436759
+|move|p1a: Hoopa|Hyperspace Fury|p2a: Ogerpon
+|-damage|p2a: Ogerpon|28/100
+|-unboost|p1a: Hoopa|def|1
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|upkeep
+|turn|19
+|-message|viutil forfeited.
+|
+|win|alle43
+|raw|alle43's rating: 1584 &rarr; <strong>1603</strong><br />(+19 for winning)
+|raw|viutil's rating: 1567 &rarr; <strong>1548</strong><br />(-19 for losing)
+|l|☆viutil
+|player|p2|
+|l|☆alle43
+|player|p1|

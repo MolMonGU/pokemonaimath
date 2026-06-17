@@ -1,0 +1,322 @@
+|j|☆mongwong
+|j|☆jonuz
+|t:|1781241654
+|gametype|singles
+|player|p1|mongwong|eusine-gen2|1780
+|player|p2|jonuz|102|1736
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Indeedee, M|
+|poke|p1|Polteageist-Antique|
+|poke|p1|Hawlucha, M|
+|poke|p1|Primarina, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Great Tusk|
+|poke|p2|Gholdengo|
+|poke|p2|Darkrai|
+|poke|p2|Clefable, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Dragonite, F|
+|poke|p2|Pecharunt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mongwong)
+|
+|t:|1781241674
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Primarina|Primarina, F|100/100
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|1
+|
+|t:|1781241680
+|move|p2a: Darkrai|Sludge Bomb|p1a: Primarina
+|-supereffective|p1a: Primarina
+|-damage|p1a: Primarina|49/100
+|-status|p1a: Primarina|psn
+|move|p1a: Primarina|Moonblast|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|-damage|p1a: Primarina|37/100 psn|[from] psn
+|upkeep
+|
+|t:|1781241688
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|2
+|
+|t:|1781241690
+|move|p1a: Primarina|Moonblast|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|53/100
+|-enditem|p2a: Ting-Lu|Red Card|[of] p1a: Primarina
+|drag|p1a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Indeedee
+|-sidestart|p1: mongwong|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781241697
+|move|p1a: Indeedee|Encore|p2a: Ting-Lu
+|-start|p2a: Ting-Lu|Encore
+|move|p2a: Ting-Lu|Stealth Rock||[still]
+|-fail|p2a: Ting-Lu
+|
+|upkeep
+|turn|4
+|
+|t:|1781241704
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|move|p1a: Indeedee|Expanding Force|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|57/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781241709
+|switch|p1a: Primarina|Primarina, F|37/100 psn
+|-damage|p1a: Primarina|25/100 psn|[from] Stealth Rock
+|move|p2a: Gholdengo|Make It Rain|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|-unboost|p2a: Gholdengo|spa|1
+|faint|p1a: Primarina
+|
+|upkeep
+|
+|t:|1781241715
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|-damage|p1a: Hawlucha|88/100|[from] Stealth Rock
+|-enditem|p1a: Hawlucha|Psychic Seed
+|-boost|p1a: Hawlucha|spd|1|[from] item: Psychic Seed
+|turn|6
+|
+|t:|1781241718
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Gholdengo|Make It Rain|p1a: Hawlucha
+|-damage|p1a: Hawlucha|44/100
+|-unboost|p2a: Gholdengo|spa|1
+|
+|upkeep
+|turn|7
+|
+|t:|1781241722
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|move|p1a: Hawlucha|Throat Chop|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|53/100
+|-start|p2a: Pecharunt|Throat Chop|[silent]
+|
+|upkeep
+|turn|8
+|
+|t:|1781241731
+|move|p1a: Hawlucha|Acrobatics|p2a: Pecharunt
+|-damage|p2a: Pecharunt|8/100
+|move|p2a: Pecharunt|Malignant Chain|p1a: Hawlucha
+|-damage|p1a: Hawlucha|10/100
+|-status|p1a: Hawlucha|tox
+|-start|p1a: Hawlucha|confusion|[from] ability: Poison Puppeteer|[of] p2a: Pecharunt
+|
+|-damage|p1a: Hawlucha|4/100 tox|[from] psn
+|-end|p2a: Pecharunt|Throat Chop|[silent]
+|upkeep
+|turn|9
+|
+|t:|1781241738
+|-activate|p1a: Hawlucha|confusion
+|move|p1a: Hawlucha|Acrobatics|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|faint|p2a: Pecharunt
+|
+|-damage|p1a: Hawlucha|0 fnt|[from] psn
+|faint|p1a: Hawlucha
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1781241745
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|switch|p2a: Gholdengo|Gholdengo|57/100
+|-damage|p1a: Great Tusk|98/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1781241752
+|move|p2a: Gholdengo|Make It Rain|p1a: Great Tusk
+|-damage|p1a: Great Tusk|15/100
+|-unboost|p2a: Gholdengo|spa|1
+|move|p1a: Great Tusk|Earthquake|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781241756
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|11
+|
+|t:|1781241758
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Indeedee|Indeedee, M|100/100
+|-damage|p1a: Indeedee|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|move|p2a: Dragonite|Extreme Speed|p1a: Indeedee
+|-activate|p1a: Indeedee|move: Psychic Terrain
+|
+|upkeep
+|turn|12
+|
+|t:|1781241764
+|switch|p1a: Great Tusk|Great Tusk|15/100
+|-damage|p1a: Great Tusk|12/100|[from] Stealth Rock
+|switch|p2a: Ting-Lu|Ting-Lu|53/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|upkeep
+|turn|13
+|
+|t:|1781241778
+|-terastallize|p2a: Ting-Lu|Ghost
+|move|p1a: Great Tusk|Rapid Spin|p2a: Ting-Lu
+|-immune|p2a: Ting-Lu
+|move|p2a: Ting-Lu|Spikes|p1a: Great Tusk
+|-sidestart|p1: mongwong|Spikes
+|
+|upkeep
+|turn|14
+|
+|t:|1781241784
+|move|p1a: Great Tusk|Knock Off|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|34/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781241787
+|switch|p1a: Indeedee|Indeedee, M|88/100
+|-damage|p1a: Indeedee|76/100|[from] Stealth Rock
+|-damage|p1a: Indeedee|64/100|[from] Spikes
+|turn|15
+|
+|t:|1781241791
+|move|p1a: Indeedee|Expanding Force|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|2/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Indeedee
+|-damage|p1a: Indeedee|0 fnt
+|faint|p1a: Indeedee
+|
+|upkeep
+|
+|t:|1781241798
+|switch|p1a: Polteageist|Polteageist-Antique|100/100
+|-damage|p1a: Polteageist|88/100|[from] Stealth Rock
+|-damage|p1a: Polteageist|76/100|[from] Spikes
+|turn|16
+|
+|t:|1781241800
+|-terastallize|p1a: Polteageist|Grass
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|move|p2a: Ting-Lu|Earthquake|p1a: Polteageist
+|-resisted|p1a: Polteageist
+|-damage|p1a: Polteageist|25/100
+|-ability|p1a: Polteageist|Weak Armor|boost
+|-unboost|p1a: Polteageist|def|1
+|-boost|p1a: Polteageist|spe|2
+|
+|upkeep
+|turn|17
+|
+|t:|1781241807
+|move|p1a: Polteageist|Giga Drain|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|-heal|p1a: Polteageist|26/100|[from] drain|[of] p2a: Ting-Lu
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781241810
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|18
+|
+|t:|1781241814
+|move|p1a: Polteageist|Stored Power|p2a: Dragonite
+|-damage|p2a: Dragonite|10/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|19
+|
+|t:|1781241819
+|move|p2a: Dragonite|Extreme Speed|p1a: Polteageist
+|-damage|p1a: Polteageist|0 fnt
+|faint|p1a: Polteageist
+|
+|upkeep
+|
+|t:|1781241820
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-damage|p1a: Iron Valiant|82/100|[from] Spikes
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|20
+|
+|t:|1781241822
+|move|p2a: Dragonite|Extreme Speed|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|24/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1781241824
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|21
+|
+|t:|1781241826
+|move|p1a: Iron Valiant|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|56/100
+|-unboost|p2a: Clefable|spa|1
+|move|p2a: Clefable|Moonblast|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|win|jonuz
+|raw|mongwong's rating: 1780 &rarr; <strong>1757</strong><br />(-23 for losing)
+|raw|jonuz's rating: 1736 &rarr; <strong>1759</strong><br />(+23 for winning)
+|l|☆mongwong
+|player|p1|
+|l|☆jonuz
+|player|p2|

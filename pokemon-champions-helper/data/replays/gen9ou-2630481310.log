@@ -1,0 +1,377 @@
+|j|☆Kirnil
+|j|☆gasrubd
+|t:|1781263520
+|gametype|singles
+|player|p1|Kirnil|maid|1522
+|player|p2|gasrubd|2|1523
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Glimmora, M|
+|poke|p1|Great Tusk|
+|poke|p1|Alomomola, M|
+|poke|p1|Amoonguss, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Hoopa-Unbound|
+|poke|p2|Ninetales, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Rillaboom, M|
+|poke|p2|Walking Wake|
+|poke|p2|Great Tusk|
+|poke|p2|Dragapult, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by gasrubd)
+|
+|t:|1781263532
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|1
+|
+|t:|1781263539
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Alomomola
+|-damage|p1a: Alomomola|75/100
+|move|p1a: Alomomola|Mirror Coat|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|34/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781263548
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|move|p1a: Alomomola|Flip Turn|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|78/100
+|
+|t:|1781263554
+|switch|p1a: Glimmora|Glimmora, M|100/100|[from] Flip Turn
+|-item|p1a: Glimmora|Air Balloon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781263565
+|move|p2a: Ninetales|Solar Beam||[still]
+|-prepare|p2a: Ninetales|Solar Beam
+|-anim|p2a: Ninetales|Solar Beam|p1a: Glimmora
+|-damage|p1a: Glimmora|57/100
+|-enditem|p1a: Glimmora|Air Balloon
+|move|p1a: Glimmora|Mortal Spin|p2a: Ninetales
+|-damage|p2a: Ninetales|70/100
+|-status|p2a: Ninetales|psn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Ninetales|58/100 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1781263572
+|switch|p2a: Raging Bolt|Raging Bolt|34/100
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Glimmora|Stealth Rock|p2a: Raging Bolt
+|-sidestart|p2: gasrubd|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781263578
+|move|p1a: Glimmora|Earth Power|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781263583
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|6
+|
+|t:|1781263591
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Glimmora
+|-status|p1a: Glimmora|brn
+|move|p1a: Glimmora|Power Gem|p2a: Dragapult
+|-damage|p2a: Dragapult|44/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Glimmora|51/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1781263597
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Dragapult|Hex|p1a: Alomomola
+|-damage|p1a: Alomomola|86/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781263602
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Alomomola
+|-status|p1a: Alomomola|brn
+|move|p1a: Alomomola|Flip Turn|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|42/100
+|
+|t:|1781263611
+|switch|p1a: Iron Valiant|Iron Valiant|100/100|[from] Flip Turn
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781263622
+|move|p1a: Iron Valiant|Moonblast|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-weather|none
+|upkeep
+|
+|t:|1781263626
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-damage|p2a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|10
+|
+|t:|1781263630
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Amoonguss|Amoonguss, F|100/100
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|
+|-heal|p2a: Rillaboom|94/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|99/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781263636
+|move|p2a: Rillaboom|Knock Off|p1a: Amoonguss
+|-crit|p1a: Amoonguss
+|-damage|p1a: Amoonguss|29/100
+|-damage|p2a: Rillaboom|84/100|[from] item: Rocky Helmet|[of] p1a: Amoonguss
+|-enditem|p1a: Amoonguss|Rocky Helmet|[from] move: Knock Off|[of] p2a: Rillaboom
+|move|p1a: Amoonguss|Foul Play|p2a: Rillaboom
+|-damage|p2a: Rillaboom|12/100
+|
+|-heal|p2a: Rillaboom|18/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|24/100|[from] item: Leftovers
+|-heal|p1a: Amoonguss|35/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781263646
+|switch|p1a: Glimmora|Glimmora, M|51/100 brn
+|move|p2a: Rillaboom|Knock Off|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: gasrubd|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|-heal|p2a: Rillaboom|30/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|36/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781263648
+|switch|p1a: Amoonguss|Amoonguss, F|69/100
+|turn|13
+|
+|t:|1781263651
+|move|p2a: Rillaboom|Drain Punch|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|50/100
+|-heal|p2a: Rillaboom|47/100|[from] drain|[of] p1a: Amoonguss
+|move|p1a: Amoonguss|Foul Play|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-heal|p1a: Amoonguss|56/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781263656
+|switch|p2a: Ninetales|Ninetales, F|58/100 psn
+|-damage|p2a: Ninetales|33/100 psn|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|14
+|
+|t:|1781263660
+|switch|p1a: Alomomola|Alomomola, M|100/100 brn
+|move|p2a: Ninetales|Solar Beam||[still]
+|-prepare|p2a: Ninetales|Solar Beam
+|-anim|p2a: Ninetales|Solar Beam|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|59/100 brn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Ninetales|39/100 psn|[from] Grassy Terrain
+|-heal|p1a: Alomomola|65/100 brn|[from] Grassy Terrain
+|-damage|p2a: Ninetales|27/100 psn|[from] psn
+|-damage|p1a: Alomomola|59/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1781263667
+|move|p2a: Ninetales|Solar Beam||[still]
+|-prepare|p2a: Ninetales|Solar Beam
+|-anim|p2a: Ninetales|Solar Beam|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|32/100 brn
+|move|p1a: Alomomola|Flip Turn|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|14/100 psn
+|
+|t:|1781263672
+|switch|p1a: Iron Valiant|Iron Valiant|100/100|[from] Flip Turn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Ninetales|1/100 psn|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1781263676
+|move|p1a: Iron Valiant|Knock Off|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|-enditem|p2a: Ninetales|Heat Rock|[from] move: Knock Off|[of] p1a: Iron Valiant
+|faint|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781263678
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-damage|p2a: Walking Wake|88/100|[from] Stealth Rock
+|-status|p2a: Walking Wake|psn
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|turn|17
+|
+|t:|1781263687
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Amoonguss|Amoonguss, F|90/100
+|-terastallize|p2a: Walking Wake|Water
+|move|p2a: Walking Wake|Hydro Steam|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|37/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Walking Wake|76/100 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1781263694
+|move|p2a: Walking Wake|Hydro Steam|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|0 fnt
+|faint|p1a: Amoonguss
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Walking Wake|64/100 psn|[from] psn
+|upkeep
+|
+|t:|1781263698
+|switch|p1a: Alomomola|Alomomola, M|65/100 brn
+|turn|19
+|
+|t:|1781263703
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-damage|p2a: Great Tusk|98/100|[from] Stealth Rock
+|-status|p2a: Great Tusk|psn
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Great Tusk|85/100 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1781263709
+|move|p2a: Great Tusk|Headlong Rush|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Hoopa
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Great Tusk|73/100 psn|[from] psn
+|upkeep
+|
+|t:|1781263716
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|21
+|
+|t:|1781263719
+|move|p1a: Great Tusk|Rapid Spin|p2a: Great Tusk
+|-damage|p2a: Great Tusk|48/100 psn
+|-boost|p1a: Great Tusk|spe|1
+|move|p2a: Great Tusk|Headlong Rush|p1a: Great Tusk
+|-damage|p1a: Great Tusk|9/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|
+|-weather|none
+|-end|p1a: Great Tusk|Protosynthesis
+|-end|p2a: Great Tusk|Protosynthesis
+|-damage|p2a: Great Tusk|35/100 psn|[from] psn
+|upkeep
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisspe
+|turn|22
+|
+|t:|1781263738
+|move|p1a: Great Tusk|Close Combat|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781263741
+|switch|p2a: Walking Wake|Walking Wake, tera:Water|64/100 psn
+|-damage|p2a: Walking Wake|51/100 psn|[from] Stealth Rock
+|turn|23
+|
+|t:|1781263745
+|move|p1a: Great Tusk|Headlong Rush|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|win|Kirnil
+|raw|Kirnil's rating: 1522 &rarr; <strong>1542</strong><br />(+20 for winning)
+|raw|gasrubd's rating: 1523 &rarr; <strong>1503</strong><br />(-20 for losing)
+|l|☆Kirnil
+|player|p1|
+|l|☆gasrubd
+|player|p2|

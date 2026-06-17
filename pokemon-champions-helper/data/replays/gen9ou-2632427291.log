@@ -1,0 +1,395 @@
+|j|☆cachowcapow
+|j|☆viutil
+|t:|1781525045
+|gametype|singles
+|player|p1|cachowcapow|101|1642
+|player|p2|viutil|266|1572
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pikachu, F|
+|poke|p1|Alomomola, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Slither Wing|
+|poke|p1|Iron Treads|
+|poke|p1|Glimmora, F|
+|poke|p2|Ursaluna, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Porygon2|
+|poke|p2|Iron Hands|
+|poke|p2|Rhyperior, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by viutil)
+|
+|t:|1781525057
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|turn|1
+|
+|t:|1781525065
+|switch|p2a: Porygon2|Porygon2|100/100
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|spa|1
+|move|p1a: Iron Treads|Knock Off|p2a: Porygon2
+|-damage|p2a: Porygon2|86/100
+|-enditem|p2a: Porygon2|Eviolite|[from] move: Knock Off|[of] p1a: Iron Treads
+|
+|upkeep
+|turn|2
+|
+|t:|1781525090
+|move|p1a: Iron Treads|Volt Switch|p2a: Porygon2
+|-damage|p2a: Porygon2|70/100
+|
+|t:|1781525094
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Alomomola|Alomomola, M|100/100|[from] Volt Switch
+|move|p2a: Porygon2|Trick Room|p2a: Porygon2
+|-fieldstart|move: Trick Room|[of] p2a: Porygon2
+|
+|upkeep
+|turn|3
+|
+|t:|1781525099
+|move|p1a: Alomomola|Flip Turn|p2a: Porygon2
+|-damage|p2a: Porygon2|53/100
+|
+|t:|1781525122
+|switch|p1a: Iron Treads|Iron Treads|100/100|[from] Flip Turn
+|move|p2a: Porygon2|Tri Attack|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|59/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781525128
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Porygon2|Ice Beam|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|90/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781525133
+|move|p1a: Alomomola|Body Slam|p2a: Porygon2
+|-damage|p2a: Porygon2|38/100
+|-status|p2a: Porygon2|par
+|cant|p2a: Porygon2|par
+|
+|upkeep
+|turn|6
+|
+|t:|1781525138
+|move|p2a: Porygon2|Ice Beam|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|79/100
+|move|p1a: Alomomola|Body Slam|p2a: Porygon2
+|-damage|p2a: Porygon2|22/100 par
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|7
+|
+|t:|1781525142
+|move|p1a: Alomomola|Flip Turn|p2a: Porygon2
+|-damage|p2a: Porygon2|7/100 par
+|
+|t:|1781525169
+|switch|p1a: Slither Wing|Slither Wing|100/100|[from] Flip Turn
+|move|p2a: Porygon2|Trick Room|p2a: Porygon2
+|-fieldstart|move: Trick Room|[of] p2a: Porygon2
+|
+|upkeep
+|turn|8
+|
+|t:|1781525176
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Porygon2|Tri Attack|p1a: Alomomola
+|-damage|p1a: Alomomola|73/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781525193
+|cant|p2a: Porygon2|par
+|move|p1a: Alomomola|Flip Turn|p2a: Porygon2
+|-damage|p2a: Porygon2|0 fnt
+|faint|p2a: Porygon2
+|
+|t:|1781525200
+|switch|p1a: Slither Wing|Slither Wing|100/100|[from] Flip Turn
+|
+|upkeep
+|inactive|viutil has 120 seconds left.
+|
+|t:|1781525232
+|switch|p2a: Rhyperior|Rhyperior, F|100/100
+|turn|10
+|
+|t:|1781525240
+|move|p2a: Rhyperior|Fire Punch|p1a: Slither Wing
+|-supereffective|p1a: Slither Wing
+|-damage|p1a: Slither Wing|26/100
+|-damage|p2a: Rhyperior|84/100|[from] item: Rocky Helmet|[of] p1a: Slither Wing
+|move|p1a: Slither Wing|Will-O-Wisp|p2a: Rhyperior
+|-status|p2a: Rhyperior|brn
+|
+|-damage|p2a: Rhyperior|78/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1781525244
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Rhyperior|Fire Punch|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|91/100
+|
+|-damage|p2a: Rhyperior|71/100 brn|[from] brn
+|-fieldend|move: Trick Room
+|upkeep
+|turn|12
+|
+|t:|1781525256
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Alomomola|Flip Turn|p2a: Slowking
+|-damage|p2a: Slowking|83/100
+|
+|t:|1781525269
+|switch|p1a: Iron Valiant|Iron Valiant|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|13
+|
+|t:|1781525275
+|move|p1a: Iron Valiant|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-enditem|p2a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Iron Valiant
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781525283
+|switch|p2a: Rhyperior|Rhyperior, F|71/100 brn
+|turn|14
+|inactive|cachowcapow has 120 seconds left.
+|
+|t:|1781525320
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Rhyperior|Earthquake|p1a: Alomomola
+|-damage|p1a: Alomomola|64/100
+|
+|-damage|p2a: Rhyperior|65/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1781525325
+|move|p1a: Alomomola|Flip Turn|p2a: Rhyperior
+|-supereffective|p2a: Rhyperior
+|-damage|p2a: Rhyperior|24/100 brn
+|
+|t:|1781525329
+|switch|p1a: Slither Wing|Slither Wing|26/100|[from] Flip Turn
+|move|p2a: Rhyperior|Earthquake|p1a: Slither Wing
+|-resisted|p1a: Slither Wing
+|-damage|p1a: Slither Wing|10/100
+|
+|-damage|p2a: Rhyperior|18/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1781525333
+|move|p1a: Slither Wing|U-turn|p2a: Rhyperior
+|-damage|p2a: Rhyperior|0 fnt
+|faint|p2a: Rhyperior
+|
+|t:|1781525341
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Pikachu|Pikachu, F|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1781525347
+|switch|p2a: Ursaluna|Ursaluna, M|100/100
+|turn|17
+|
+|t:|1781525352
+|move|p1a: Pikachu|Grass Knot|p2a: Ursaluna
+|-supereffective|p2a: Ursaluna
+|-damage|p2a: Ursaluna|18/100
+|move|p2a: Ursaluna|Headlong Rush|p1a: Pikachu
+|-supereffective|p1a: Pikachu
+|-damage|p1a: Pikachu|0 fnt
+|-unboost|p2a: Ursaluna|def|1
+|-unboost|p2a: Ursaluna|spd|1
+|faint|p1a: Pikachu
+|
+|-status|p2a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|
+|t:|1781525359
+|switch|p1a: Alomomola|Alomomola, M|98/100
+|turn|18
+|
+|t:|1781525362
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Alomomola|Flip Turn|p2a: Hatterene
+|-damage|p2a: Hatterene|83/100
+|-enditem|p2a: Hatterene|Eject Button
+|
+|t:|1781525364
+|switch|p2a: Iron Hands|Iron Hands|100/100
+|-enditem|p2a: Iron Hands|Booster Energy
+|-activate|p2a: Iron Hands|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Hands|quarkdriveatk
+|
+|upkeep
+|turn|19
+|
+|t:|1781525381
+|move|p2a: Iron Hands|Drain Punch|p1a: Alomomola
+|-damage|p1a: Alomomola|51/100
+|move|p1a: Alomomola|Flip Turn|p2a: Iron Hands
+|-damage|p2a: Iron Hands|89/100
+|
+|t:|1781525387
+|switch|p1a: Iron Treads|Iron Treads|59/100|[from] Flip Turn
+|
+|upkeep
+|turn|20
+|
+|t:|1781525392
+|move|p1a: Iron Treads|Earth Power|p2a: Iron Hands
+|-supereffective|p2a: Iron Hands
+|-damage|p2a: Iron Hands|27/100
+|move|p2a: Iron Hands|Drain Punch|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-heal|p2a: Iron Hands|46/100|[from] drain|[of] p1a: Iron Treads
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781525415
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|turn|21
+|
+|t:|1781525423
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|switch|p2a: Hatterene|Hatterene, F|83/100
+|move|p1a: Glimmora|Earth Power|p2a: Hatterene
+|-damage|p2a: Hatterene|50/100
+|
+|upkeep
+|turn|22
+|inactive|cachowcapow has 120 seconds left.
+|
+|t:|1781525461
+|move|p1a: Glimmora|Earth Power|p2a: Hatterene
+|-damage|p2a: Hatterene|19/100
+|move|p2a: Hatterene|Trick Room|p2a: Hatterene
+|-fieldstart|move: Trick Room|[of] p2a: Hatterene
+|
+|upkeep
+|turn|23
+|
+|t:|1781525466
+|move|p2a: Hatterene|Psychic|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1781525475
+|switch|p1a: Slither Wing|Slither Wing|10/100
+|turn|24
+|
+|t:|1781525479
+|switch|p2a: Iron Hands|Iron Hands|46/100
+|move|p1a: Slither Wing|First Impression|p2a: Iron Hands
+|-resisted|p2a: Iron Hands
+|-damage|p2a: Iron Hands|33/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781525492
+|move|p2a: Iron Hands|Supercell Slam|p1a: Slither Wing
+|-damage|p1a: Slither Wing|0 fnt
+|-damage|p2a: Iron Hands|17/100|[from] item: Rocky Helmet|[of] p1a: Slither Wing
+|faint|p1a: Slither Wing
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781525494
+|switch|p1a: Alomomola|Alomomola, M|84/100
+|turn|26
+|
+|t:|1781525497
+|move|p1a: Alomomola|Flip Turn|p2a: Iron Hands
+|-damage|p2a: Iron Hands|7/100
+|
+|t:|1781525500
+|switch|p1a: Iron Valiant|Iron Valiant|100/100|[from] Flip Turn
+|move|p2a: Iron Hands|Supercell Slam|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|17/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|27
+|
+|t:|1781525506
+|-terastallize|p1a: Iron Valiant|Fire
+|move|p1a: Iron Valiant|Fire Punch|p2a: Iron Hands
+|-damage|p2a: Iron Hands|0 fnt
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781525514
+|switch|p2a: Hatterene|Hatterene, F|19/100
+|turn|28
+|inactive|cachowcapow has 120 seconds left.
+|
+|t:|1781525559
+|move|p1a: Iron Valiant|Fire Punch|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781525564
+|switch|p2a: Ursaluna|Ursaluna, M|18/100 brn
+|turn|29
+|-message|viutil forfeited.
+|
+|win|cachowcapow
+|raw|cachowcapow's rating: 1604 &rarr; <strong>1622</strong><br />(+18 for winning)
+|raw|viutil's rating: 1572 &rarr; <strong>1554</strong><br />(-18 for losing)
+|l|☆viutil
+|player|p2|
+|l|☆cachowcapow
+|player|p1|

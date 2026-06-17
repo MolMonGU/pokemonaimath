@@ -1,0 +1,331 @@
+|j|☆Archerdadon
+|j|☆hawkins0
+|t:|1781512897
+|gametype|singles
+|player|p1|Archerdadon|marshal|1575
+|player|p2|hawkins0|102|1718
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dondozo, F|
+|poke|p1|Great Tusk|
+|poke|p1|Ting-Lu|
+|poke|p1|Glimmora, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Hydrapple, F|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Pecharunt|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Cinderace, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|
+|t:|1781512905
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|switch|p2a: Khaos|Hoopa-Unbound|100/100
+|turn|1
+|
+|t:|1781512916
+|move|p1a: Glimmora|Dazzling Gleam|p2a: Khaos
+|-supereffective|p2a: Khaos
+|-damage|p2a: Khaos|50/100
+|move|p2a: Khaos|Hyperspace Fury|p1a: Glimmora
+|-enditem|p1a: Glimmora|Focus Sash
+|-damage|p1a: Glimmora|1/100
+|-unboost|p2a: Khaos|def|1
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: hawkins0|move: Toxic Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1781512921
+|switch|p2a: Overseer|Pecharunt|100/100
+|-sideend|p2: hawkins0|move: Toxic Spikes|[of] p2a: Overseer
+|move|p1a: Glimmora|Dazzling Gleam|p2a: Overseer
+|-resisted|p2a: Overseer
+|-damage|p2a: Overseer|87/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781512924
+|move|p1a: Glimmora|Earth Power|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|27/100
+|move|p2a: Overseer|Shadow Ball|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1781512929
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|4
+|
+|t:|1781512932
+|move|p2a: Overseer|Parting Shot|p1a: Ting-Lu
+|-unboost|p1a: Ting-Lu|atk|1
+|-unboost|p1a: Ting-Lu|spa|1
+|
+|t:|1781512933
+|switch|p2a: Calamity|Iron Valiant, shiny|100/100|[from] Parting Shot
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Calamity
+|-sidestart|p2: hawkins0|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1781512940
+|-terastallize|p1a: Ting-Lu|Ghost
+|move|p2a: Calamity|Moonblast|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|72/100
+|-unboost|p1a: Ting-Lu|spa|1
+|move|p1a: Ting-Lu|Earthquake|p2a: Calamity
+|-damage|p2a: Calamity|69/100
+|
+|-heal|p1a: Ting-Lu|78/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781512950
+|-end|p2a: Calamity|Quark Drive|[silent]
+|switch|p2a: Overseer|Pecharunt|27/100
+|switch|p1a: Hydrapple|Hydrapple, F|100/100
+|
+|upkeep
+|turn|7
+|
+|t:|1781512954
+|move|p2a: Overseer|Malignant Chain|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|37/100
+|-status|p1a: Hydrapple|tox
+|-start|p1a: Hydrapple|confusion|[from] ability: Poison Puppeteer|[of] p2a: Overseer
+|-activate|p1a: Hydrapple|confusion
+|move|p1a: Hydrapple|Earth Power|p2a: Overseer
+|-supereffective|p2a: Overseer
+|-damage|p2a: Overseer|0 fnt
+|faint|p2a: Overseer
+|
+|-damage|p1a: Hydrapple|31/100 tox|[from] psn
+|upkeep
+|
+|t:|1781512961
+|switch|p2a: Liberacy|Cinderace, M, shiny|100/100
+|turn|8
+|
+|t:|1781512969
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Liberacy|Court Change|p2a: Liberacy
+|-start|p2a: Liberacy|typechange|Normal|[from] ability: Libero
+|-swapsideconditions
+|-activate|p2a: Liberacy|move: Court Change
+|
+|upkeep
+|turn|9
+|
+|t:|1781512973
+|move|p2a: Liberacy|U-turn|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|92/100
+|
+|t:|1781512975
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100|[from] U-turn
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Great Tusk|atk|1
+|move|p1a: Great Tusk|Rapid Spin|p2a: Enten
+|-damage|p2a: Enten|88/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: Archerdadon|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|10
+|
+|t:|1781512979
+|move|p2a: Enten|Grass Knot|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781512996
+|switch|p1a: Ting-Lu|Ting-Lu, tera:Ghost|78/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|11
+|
+|t:|1781513002
+|switch|p2a: Khaos|Hoopa-Unbound|50/100
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Khaos
+|-sidestart|p2: hawkins0|move: Stealth Rock
+|
+|-heal|p1a: Ting-Lu|84/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781513005
+|switch|p1a: Dondozo|Dondozo, F|100/100
+|move|p2a: Khaos|Hyperspace Fury|p1a: Dondozo
+|-damage|p1a: Dondozo|56/100
+|-unboost|p2a: Khaos|def|1
+|
+|-heal|p1a: Dondozo|62/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781513011
+|switch|p2a: Pisces|Alomomola, M, shiny|100/100
+|-damage|p2a: Pisces|88/100|[from] Stealth Rock
+|move|p1a: Dondozo|Waterfall|p2a: Pisces
+|-resisted|p2a: Pisces
+|-damage|p2a: Pisces|79/100
+|
+|-heal|p1a: Dondozo|68/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781513014
+|switch|p1a: Hydrapple|Hydrapple, F|64/100 tox
+|move|p2a: Pisces|Flip Turn|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|62/100 tox
+|-damage|p2a: Pisces|63/100|[from] item: Rocky Helmet|[of] p1a: Hydrapple
+|
+|t:|1781513020
+|switch|p2a: Calamity|Iron Valiant, shiny|69/100|[from] Flip Turn
+|-damage|p2a: Calamity|63/100|[from] Stealth Rock
+|
+|-damage|p1a: Hydrapple|56/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1781513023
+|switch|p1a: Ting-Lu|Ting-Lu, tera:Ghost|84/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|-terastallize|p2a: Calamity|Fairy
+|move|p2a: Calamity|Moonblast|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|44/100
+|
+|-heal|p1a: Ting-Lu|50/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781513033
+|move|p2a: Calamity|Moonblast|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|12/100
+|move|p1a: Ting-Lu|Earthquake|p2a: Calamity
+|-damage|p2a: Calamity|13/100
+|
+|-heal|p1a: Ting-Lu|19/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781513043
+|move|p2a: Calamity|Moonblast|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781513045
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|18
+|
+|t:|1781513052
+|-end|p2a: Calamity|Quark Drive|[silent]
+|switch|p2a: Pisces|Alomomola, M, shiny|96/100
+|-damage|p2a: Pisces|83/100|[from] Stealth Rock
+|move|p1a: Iron Valiant|Moonblast|p2a: Pisces
+|-damage|p2a: Pisces|57/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781513058
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|move|p2a: Pisces|Flip Turn|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|78/100
+|
+|t:|1781513062
+|switch|p2a: Liberacy|Cinderace, M, shiny|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|20
+|
+|t:|1781513068
+|move|p1a: Iron Valiant|Psyshock|p2a: Liberacy
+|-damage|p2a: Liberacy|42/100
+|move|p2a: Liberacy|Pyro Ball|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|2/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781513074
+|move|p2a: Liberacy|Sucker Punch|p1a: Iron Valiant
+|-start|p2a: Liberacy|typechange|Dark|[from] ability: Libero
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781513085
+|switch|p1a: Dondozo|Dondozo, F|68/100
+|turn|22
+|
+|t:|1781513087
+|move|p2a: Liberacy|Court Change|p2a: Liberacy
+|-swapsideconditions
+|-activate|p2a: Liberacy|move: Court Change
+|move|p1a: Dondozo|Waterfall|p2a: Liberacy
+|-damage|p2a: Liberacy|0 fnt
+|faint|p2a: Liberacy
+|
+|-heal|p1a: Dondozo|74/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781513089
+|switch|p2a: Calamity|Iron Valiant, shiny, tera:Fairy|13/100
+|turn|23
+|
+|t:|1781513091
+|move|p2a: Calamity|Moonblast|p1a: Dondozo
+|-crit|p1a: Dondozo
+|-damage|p1a: Dondozo|0 fnt
+|faint|p1a: Dondozo
+|
+|upkeep
+|-message|Archerdadon forfeited.
+|
+|win|hawkins0
+|raw|Archerdadon's rating: 1575 &rarr; <strong>1563</strong><br />(-12 for losing)
+|raw|hawkins0's rating: 1718 &rarr; <strong>1730</strong><br />(+12 for winning)
+|l|☆Archerdadon
+|player|p1|
+|l|☆hawkins0
+|player|p2|

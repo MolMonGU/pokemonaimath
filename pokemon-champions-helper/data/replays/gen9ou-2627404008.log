@@ -1,0 +1,595 @@
+|j|☆adil
+|j|☆lianxiaonian
+|t:|1780897036
+|gametype|singles
+|player|p1|adil|2|1712
+|player|p2|lianxiaonian|265|1665
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Great Tusk|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Kyurem|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Ting-Lu|
+|poke|p2|Talonflame, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Barraskewda, M|
+|poke|p2|Iron Treads|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lianxiaonian)
+|
+|t:|1780897049
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|switch|p2a: 工具象|Iron Treads|100/100
+|-item|p2a: 工具象|Air Balloon
+|turn|1
+|
+|t:|1780897055
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: 工具象|Earthquake|p1a: Tornadus
+|-immune|p1a: Tornadus
+|
+|upkeep
+|turn|2
+|j| Kisaragi Station
+|
+|t:|1780897059
+|-end|p2a: 工具象|Quark Drive|[silent]
+|switch|p2a: 雷电士兵|Raging Bolt|100/100
+|move|p1a: Tornadus|U-turn|p2a: 雷电士兵
+|-damage|p2a: 雷电士兵|89/100
+|
+|t:|1780897063
+|switch|p1a: Slowking|Slowking-Galar, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1780897067
+|move|p2a: 雷电士兵|Volt Switch|p1a: Slowking
+|-damage|p1a: Slowking|75/100
+|
+|t:|1780897069
+|-end|p2a: 雷电士兵|Protosynthesis|[silent]
+|switch|p2a: 工具象|Iron Treads|100/100|[from] Volt Switch
+|-item|p2a: 工具象|Air Balloon
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1780897078
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1780897084
+|-end|p2a: 工具象|Quark Drive|[silent]
+|switch|p2a: Pelipper|Pelipper, F, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Great Tusk|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: lianxiaonian|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1780897095
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Pelipper|U-turn|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|81/100
+|
+|t:|1780897098
+|switch|p2a: 工具象|Iron Treads|100/100|[from] U-turn
+|-damage|p2a: 工具象|97/100|[from] Stealth Rock
+|-item|p2a: 工具象|Air Balloon
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rillaboom|87/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1780897116
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: 工具象|Ice Spinner|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|41/100
+|-fieldend|move: Grassy Terrain
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1780897121
+|move|p1a: Tornadus|U-turn|p2a: 工具象
+|-resisted|p2a: 工具象
+|-damage|p2a: 工具象|90/100
+|-enditem|p2a: 工具象|Air Balloon
+|
+|t:|1780897137
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|move|p2a: 工具象|Rapid Spin|p1a: Great Tusk
+|-damage|p1a: Great Tusk|90/100
+|-boost|p2a: 工具象|spe|1
+|-sideend|p2: lianxiaonian|Stealth Rock|[from] move: Rapid Spin|[of] p2a: 工具象
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1780897144
+|-end|p2a: 工具象|Quark Drive|[silent]
+|switch|p2a: 工具帽|Hatterene, F, shiny|100/100
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1780897148
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|j| Easontom
+|
+|t:|1780897155
+|switch|p1a: Ting-Lu|Ting-Lu|100/100|[from] Chilly Reception
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: 工具帽|Nuzzle|p1a: Ting-Lu
+|-immune|p1a: Ting-Lu
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1780897160
+|move|p1a: Ting-Lu|Earthquake|p2a: 工具帽
+|-damage|p2a: 工具帽|71/100
+|-enditem|p2a: 工具帽|Eject Button
+|
+|t:|1780897163
+|switch|p2a: 最快的男人|Barraskewda, M, shiny|100/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1780897169
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: 最快的男人|Flip Turn|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|85/100
+|
+|t:|1780897172
+|switch|p2a: 雷电士兵|Raging Bolt|89/100|[from] Flip Turn
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kyurem|92/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1780897179
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: 雷电士兵|Draco Meteor|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kyurem|98/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1780897183
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: 雷电士兵|Draco Meteor|p1a: Slowking
+|-damage|p1a: Slowking|54/100
+|-unboost|p2a: 雷电士兵|spa|2
+|
+|-weather|none
+|upkeep
+|turn|14
+|
+|t:|1780897188
+|move|p2a: 雷电士兵|Volt Switch|p1a: Slowking
+|-damage|p1a: Slowking|42/100
+|
+|t:|1780897191
+|-end|p2a: 雷电士兵|Protosynthesis|[silent]
+|switch|p2a: 工具象|Iron Treads|90/100|[from] Volt Switch
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1780897207
+|switch|p1a: Tornadus|Tornadus-Therian, M|75/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1780897211
+|move|p1a: Tornadus|Heat Wave|p2a: 工具象
+|-supereffective|p2a: 工具象
+|-damage|p2a: 工具象|23/100
+|move|p2a: 工具象|Ice Spinner|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|18/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1780897216
+|move|p1a: Tornadus|U-turn|p2a: 工具象
+|-resisted|p2a: 工具象
+|-damage|p2a: 工具象|16/100
+|
+|t:|1780897227
+|switch|p1a: Kyurem|Kyurem|98/100|[from] U-turn
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: 工具象|Stealth Rock|p1a: Kyurem
+|-sidestart|p1: adil|move: Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kyurem|100/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1780897240
+|move|p2a: 工具象|Stealth Rock||[still]
+|-fail|p2a: 工具象
+|move|p1a: Kyurem|Freeze-Dry|p2a: 工具象
+|-crit|p2a: 工具象
+|-damage|p2a: 工具象|0 fnt
+|faint|p2a: 工具象
+|-end|p2a: 工具象|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1780897246
+|switch|p2a: 最快的男人|Barraskewda, M, shiny|100/100
+|turn|18
+|
+|t:|1780897248
+|move|p2a: 最快的男人|Close Combat|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|14/100
+|-unboost|p2a: 最快的男人|def|1
+|-unboost|p2a: 最快的男人|spd|1
+|move|p1a: Kyurem|Freeze-Dry|p2a: 最快的男人
+|-supereffective|p2a: 最快的男人
+|-crit|p2a: 最快的男人
+|-damage|p2a: 最快的男人|0 fnt
+|faint|p2a: 最快的男人
+|
+|-weather|none
+|-heal|p1a: Kyurem|21/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780897253
+|switch|p2a: 疾风之翼！|Talonflame, M, shiny|100/100
+|turn|19
+|
+|t:|1780897258
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: 疾风之翼！|Hurricane|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-heal|p1a: Kyurem|27/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1780897261
+|switch|p1a: Slowking|Slowking-Galar, F|76/100
+|move|p2a: 疾风之翼！|Hurricane|p1a: Slowking
+|-damage|p1a: Slowking|40/100
+|
+|upkeep
+|turn|21
+|
+|t:|1780897264
+|-terastallize|p2a: 疾风之翼！|Flying
+|move|p2a: 疾风之翼！|Hurricane|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1780897271
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-damage|p1a: Ting-Lu|94/100|[from] Stealth Rock
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|22
+|
+|t:|1780897275
+|switch|p2a: 工具帽|Hatterene, F, shiny|71/100
+|move|p1a: Ting-Lu|Spikes|p2a: 工具帽
+|move|p2a: 工具帽|Spikes|p1a: Ting-Lu|[from] ability: Magic Bounce
+|-sidestart|p1: adil|Spikes
+|
+|-heal|p1a: Ting-Lu|100/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1780897278
+|move|p1a: Ting-Lu|Earthquake|p2a: 工具帽
+|-damage|p2a: 工具帽|42/100
+|move|p2a: 工具帽|Dazzling Gleam|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|72/100
+|
+|-heal|p1a: Ting-Lu|79/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1780897294
+|move|p1a: Ting-Lu|Earthquake|p2a: 工具帽
+|-damage|p2a: 工具帽|10/100
+|move|p2a: 工具帽|Dazzling Gleam|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|47/100
+|
+|-heal|p1a: Ting-Lu|53/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1780897299
+|switch|p2a: Pelipper|Pelipper, F, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Ting-Lu|Earthquake|p2a: Pelipper
+|-immune|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ting-Lu|60/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1780897329
+|switch|p1a: Rillaboom|Rillaboom, F|87/100
+|-damage|p1a: Rillaboom|74/100|[from] Stealth Rock
+|-damage|p1a: Rillaboom|62/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Pelipper|Surf|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|31/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rillaboom|37/100|[from] Grassy Terrain
+|upkeep
+|turn|27
+|
+|t:|1780897333
+|move|p1a: Rillaboom|Wood Hammer|p2a: Pelipper
+|-damage|p2a: Pelipper|6/100
+|-damage|p1a: Rillaboom|8/100|[from] Recoil
+|-damage|p1a: Rillaboom|0 fnt|[from] item: Life Orb
+|faint|p1a: Rillaboom
+|move|p2a: Pelipper|U-turn|p1: Rillaboom|[notarget]
+|-fail|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1780897336
+|switch|p1a: Great Tusk|Great Tusk|90/100
+|turn|28
+|
+|t:|1780897342
+|switch|p2a: 工具帽|Hatterene, F, shiny|10/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: 工具帽
+|-damage|p2a: 工具帽|0 fnt
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: adil|Spikes|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|-sideend|p1: adil|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|faint|p2a: 工具帽
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Great Tusk|96/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1780897344
+|switch|p2a: 疾风之翼！|Talonflame, M, shiny, tera:Flying|100/100
+|turn|29
+|
+|t:|1780897374
+|move|p2a: 疾风之翼！|Hurricane|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1780897376
+|switch|p1a: Ting-Lu|Ting-Lu|60/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|30
+|
+|t:|1780897384
+|switch|p2a: 雷电士兵|Raging Bolt|89/100
+|move|p1a: Ting-Lu|Rest|p1a: Ting-Lu
+|-status|p1a: Ting-Lu|slp|[from] move: Rest
+|-heal|p1a: Ting-Lu|100/100 slp|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: 雷电士兵|95/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|31
+|
+|t:|1780897390
+|move|p2a: 雷电士兵|Weather Ball|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|53/100 slp
+|cant|p1a: Ting-Lu|slp
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ting-Lu|59/100 slp|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1780897395
+|switch|p1a: Tornadus|Tornadus-Therian, M|51/100
+|move|p2a: 雷电士兵|Weather Ball|p1a: Tornadus
+|-damage|p1a: Tornadus|12/100
+|
+|-weather|none
+|upkeep
+|turn|33
+|j| crust king kahn
+|
+|t:|1780897400
+|switch|p1a: Ting-Lu|Ting-Lu|59/100 slp
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: 雷电士兵|Volt Switch|p1a: Ting-Lu
+|-immune|p1a: Ting-Lu
+|
+|-heal|p1a: Ting-Lu|65/100 slp|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1780897407
+|-end|p2a: 雷电士兵|Protosynthesis|[silent]
+|switch|p2a: Pelipper|Pelipper, F, shiny|6/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|switch|p1a: Kyurem|Kyurem|27/100
+|-ability|p1a: Kyurem|Pressure
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyurem|33/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1780897413
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: Pelipper|U-turn|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyurem|39/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1780897416
+|move|p1a: Kyurem|Substitute|p1a: Kyurem
+|-start|p1a: Kyurem|Substitute
+|-damage|p1a: Kyurem|14/100
+|move|p2a: Pelipper|U-turn|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Substitute|[damage]
+|
+|t:|1780897419
+|switch|p2a: 雷电士兵|Raging Bolt|95/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyurem|20/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1780897424
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: 雷电士兵|Volt Switch|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyurem|26/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1780897431
+|-terastallize|p1a: Kyurem|Ground
+|move|p1a: Kyurem|Earth Power|p2a: 雷电士兵
+|-supereffective|p2a: 雷电士兵
+|-damage|p2a: 雷电士兵|47/100
+|move|p2a: 雷电士兵|Volt Switch|p1a: Kyurem
+|-immune|p1a: Kyurem
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyurem|33/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1780897438
+|move|p1a: Kyurem|Earth Power|p2a: 雷电士兵
+|-supereffective|p2a: 雷电士兵
+|-damage|p2a: 雷电士兵|0 fnt
+|faint|p2a: 雷电士兵
+|-end|p2a: 雷电士兵|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyurem|39/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780897440
+|switch|p2a: 疾风之翼！|Talonflame, M, shiny, tera:Flying|100/100
+|turn|40
+|
+|t:|1780897445
+|move|p1a: Kyurem|Protect|p1a: Kyurem
+|-singleturn|p1a: Kyurem|Protect
+|move|p2a: 疾风之翼！|Hurricane|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyurem|45/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1780897453
+|move|p2a: 疾风之翼！|Hurricane|p1a: Kyurem
+|-end|p1a: Kyurem|Substitute
+|move|p1a: Kyurem|Freeze-Dry|p2a: 疾风之翼！
+|-supereffective|p2a: 疾风之翼！
+|-damage|p2a: 疾风之翼！|0 fnt
+|faint|p2a: 疾风之翼！
+|
+|-weather|none
+|-heal|p1a: Kyurem|51/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1780897456
+|switch|p2a: Pelipper|Pelipper, F, shiny|6/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|42
+|
+|t:|1780897459
+|move|p1a: Kyurem|Freeze-Dry|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|win|adil
+|raw|adil's rating: 1712 &rarr; <strong>1729</strong><br />(+17 for winning)
+|raw|lianxiaonian's rating: 1665 &rarr; <strong>1648</strong><br />(-17 for losing)
+|l| Easontom
+|l|☆adil
+|player|p1|
+|l|☆lianxiaonian
+|player|p2|
+|l| crust king kahn

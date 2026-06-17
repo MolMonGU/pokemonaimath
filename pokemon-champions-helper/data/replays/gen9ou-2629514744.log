@@ -1,0 +1,263 @@
+|j|☆Glimpse Man
+|j|☆Stealthalo
+|t:|1781140325
+|gametype|singles
+|player|p1|Glimpse Man|acetrainer-gen4dp|1588
+|player|p2|Stealthalo|1|1591
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Great Tusk|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Gholdengo|
+|poke|p1|Zamazenta-*|
+|poke|p1|Iron Valiant|
+|poke|p1|Talonflame, M|
+|poke|p2|Enamorus, F|
+|poke|p2|Salamence, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Heatran, M|
+|poke|p2|Quaquaval, M|
+|poke|p2|Deoxys-Speed|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Glimpse Man)
+|
+|t:|1781140344
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Talonflame|Talonflame, M|100/100
+|switch|p2a: Quaquaval|Quaquaval, M|100/100
+|turn|1
+|
+|t:|1781140351
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Talonflame|Will-O-Wisp|p2a: Heatran
+|-start|p2a: Heatran|ability: Flash Fire
+|
+|upkeep
+|turn|2
+|
+|t:|1781140359
+|move|p1a: Talonflame|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|98/100
+|
+|t:|1781140360
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100|[from] U-turn
+|move|p2a: Heatran|Lava Plume|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|79/100
+|-status|p1a: Samurott|brn
+|
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|-damage|p1a: Samurott|73/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1781140372
+|move|p1a: Samurott|Ceaseless Edge|p2a: Heatran|[miss]
+|-miss|p1a: Samurott|p2a: Heatran
+|move|p2a: Heatran|Stealth Rock|p1a: Samurott
+|-sidestart|p1: Glimpse Man|move: Stealth Rock
+|
+|-damage|p1a: Samurott|67/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1781140383
+|switch|p1a: Talonflame|Talonflame, M|100/100
+|-end|p2a: Heatran|ability: Flash Fire|[silent]
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781140390
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Talonflame|Defog|p2a: Heatran
+|-unboost|p2a: Heatran|evasion|1
+|-sideend|p1: Glimpse Man|Stealth Rock|[from] move: Defog|[of] p1a: Talonflame
+|
+|upkeep
+|turn|6
+|
+|t:|1781140397
+|move|p1a: Talonflame|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|97/100
+|
+|t:|1781140398
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|move|p2a: Heatran|Stealth Rock|p1a: Great Tusk
+|-sidestart|p1: Glimpse Man|move: Stealth Rock
+|
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781140416
+|move|p1a: Great Tusk|Headlong Rush|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1781140427
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|turn|8
+|
+|t:|1781140445
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Enamorus|Moonblast|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|63/100
+|-unboost|p1a: Gholdengo|spa|1
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|upkeep
+|turn|9
+|
+|t:|1781140457
+|switch|p1a: Samurott|Samurott-Hisui, F|67/100 brn
+|-damage|p1a: Samurott|54/100 brn|[from] Stealth Rock
+|move|p2a: Enamorus|Earth Power|p1a: Samurott
+|-damage|p1a: Samurott|32/100 brn
+|
+|-damage|p1a: Samurott|26/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1781140467
+|move|p1a: Samurott|Sucker Punch|p2a: Enamorus
+|-resisted|p2a: Enamorus
+|-damage|p2a: Enamorus|88/100
+|move|p2a: Enamorus|Moonblast|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781140481
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-damage|p1a: Zamazenta|94/100|[from] Stealth Rock
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|11
+|
+|t:|1781140499
+|move|p1a: Zamazenta|Heavy Slam|p2a: Enamorus
+|-supereffective|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|
+|-heal|p1a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781140506
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|12
+|
+|t:|1781140511
+|switch|p1a: Gholdengo|Gholdengo|63/100
+|-damage|p1a: Gholdengo|57/100|[from] Stealth Rock
+|move|p2a: Deoxys|Psycho Boost|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|12/100
+|-unboost|p2a: Deoxys|spa|2
+|-damage|p2a: Deoxys|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|13
+|
+|t:|1781140521
+|move|p2a: Deoxys|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|-damage|p2a: Deoxys|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781140533
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|14
+|
+|t:|1781140542
+|move|p1a: Iron Valiant|Knock Off|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|-enditem|p2a: Deoxys|Life Orb|[from] move: Knock Off|[of] p1a: Iron Valiant
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1781140552
+|switch|p2a: Salamence|Salamence, M|100/100
+|turn|15
+|
+|t:|1781140557
+|-terastallize|p2a: Salamence|Fire
+|move|p1a: Iron Valiant|Ice Punch|p2a: Salamence
+|-resisted|p2a: Salamence
+|-damage|p2a: Salamence|85/100
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|
+|upkeep
+|turn|16
+|
+|t:|1781140570
+|-terastallize|p1a: Iron Valiant|Ground
+|move|p1a: Iron Valiant|Swords Dance|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|atk|2
+|move|p2a: Salamence|Dual Wingbeat|p1a: Iron Valiant|[miss]
+|-miss|p2a: Salamence|p1a: Iron Valiant
+|
+|upkeep
+|turn|17
+|
+|t:|1781140578
+|move|p1a: Iron Valiant|Close Combat|p2a: Salamence
+|-damage|p2a: Salamence|0 fnt
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|faint|p2a: Salamence
+|
+|upkeep
+|l|☆Stealthalo
+|inactive|Stealthalo disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|Stealthalo has 30 seconds to reconnect!
+|inactive|Stealthalo has 20 seconds to reconnect!
+|inactive|Stealthalo has 15 seconds to reconnect!
+|inactive|Stealthalo has 10 seconds to reconnect!
+|inactive|Stealthalo has 5 seconds to reconnect!
+|-message|Stealthalo lost due to inactivity.
+|
+|win|Glimpse Man
+|raw|Glimpse Man's rating: 1588 &rarr; <strong>1608</strong><br />(+20 for winning)
+|raw|Stealthalo's rating: 1591 &rarr; <strong>1571</strong><br />(-20 for losing)

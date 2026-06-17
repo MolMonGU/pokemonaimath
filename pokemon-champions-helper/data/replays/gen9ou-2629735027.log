@@ -1,0 +1,307 @@
+|j|☆VraiKhey
+|j|☆LoseToRU?
+|t:|1781172959
+|gametype|singles
+|player|p1|VraiKhey|red|1579
+|player|p2|LoseToRU?|giovanni-gen1|1594
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Glimmora, F|
+|poke|p1|Great Tusk|
+|poke|p1|Scizor, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Corviknight, F|
+|poke|p1|Primarina, M|
+|poke|p2|Iron Jugulis|
+|poke|p2|Moltres-Galar|
+|poke|p2|Darkrai|
+|poke|p2|Greninja-*, M|
+|poke|p2|Weavile, M|
+|poke|p2|Zarude-Dada|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by VraiKhey)
+|
+|t:|1781172965
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|switch|p2a: Iron Jugulis|Iron Jugulis|100/100
+|-enditem|p2a: Iron Jugulis|Booster Energy
+|-activate|p2a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Jugulis|quarkdrivespe
+|turn|1
+|
+|t:|1781172969
+|move|p2a: Iron Jugulis|Taunt|p1a: Glimmora
+|-start|p1a: Glimmora|move: Taunt
+|cant|p1a: Glimmora|move: Taunt|Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781172971
+|move|p2a: Iron Jugulis|Earth Power|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-enditem|p1a: Glimmora|Focus Sash
+|-damage|p1a: Glimmora|1/100
+|move|p1a: Glimmora|Mortal Spin|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|93/100
+|-status|p2a: Iron Jugulis|psn
+|
+|-damage|p2a: Iron Jugulis|80/100 psn|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1781172975
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|move|p2a: Iron Jugulis|Dark Pulse|p1a: Corviknight
+|-damage|p1a: Corviknight|72/100
+|
+|-damage|p2a: Iron Jugulis|68/100 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1781172980
+|move|p2a: Iron Jugulis|Dark Pulse|p1a: Corviknight
+|-damage|p1a: Corviknight|42/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|92/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-damage|p2a: Iron Jugulis|56/100 psn|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1781172985
+|move|p2a: Iron Jugulis|Dark Pulse|p1a: Corviknight
+|-damage|p1a: Corviknight|63/100
+|move|p1a: Corviknight|Body Press|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|31/100 psn
+|
+|-damage|p2a: Iron Jugulis|19/100 psn|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1781172991
+|move|p2a: Iron Jugulis|Taunt|p1a: Corviknight
+|-start|p1a: Corviknight|move: Taunt
+|cant|p1a: Corviknight|move: Taunt|Roost
+|
+|-damage|p2a: Iron Jugulis|7/100 psn|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1781172994
+|switch|p1a: Primarina|Primarina, M|100/100
+|move|p2a: Iron Jugulis|Dark Pulse|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|90/100
+|
+|-damage|p2a: Iron Jugulis|0 fnt|[from] psn
+|faint|p2a: Iron Jugulis
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|upkeep
+|
+|t:|1781173011
+|switch|p2a: Darkrai|Darkrai|100/100
+|turn|8
+|
+|t:|1781173014
+|move|p2a: Darkrai|Trick|p1a: Primarina
+|-activate|p2a: Darkrai|move: Trick|[of] p1a: Primarina
+|-item|p1a: Primarina|Choice Scarf|[from] move: Trick
+|-item|p2a: Darkrai|Assault Vest|[from] move: Trick
+|move|p1a: Primarina|Draining Kiss|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|49/100
+|-heal|p1a: Primarina|100/100|[from] drain|[of] p2a: Darkrai
+|
+|upkeep
+|turn|9
+|
+|t:|1781173021
+|move|p2a: Darkrai|Sludge Bomb|p1a: Primarina
+|-supereffective|p1a: Primarina
+|-damage|p1a: Primarina|50/100
+|move|p1a: Primarina|Draining Kiss|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|-heal|p1a: Primarina|78/100|[from] drain|[of] p2a: Darkrai
+|faint|p2a: Darkrai
+|
+|upkeep
+|
+|t:|1781173028
+|switch|p2a: Zarude|Zarude-Dada|100/100
+|turn|10
+|
+|t:|1781173032
+|switch|p1a: Glimmora|Glimmora, F|1/100
+|move|p2a: Zarude|Swords Dance|p2a: Zarude
+|-boost|p2a: Zarude|atk|2
+|
+|upkeep
+|turn|11
+|
+|t:|1781173039
+|move|p2a: Zarude|Drain Punch|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: LoseToRU?|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1781173054
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|12
+|
+|t:|1781173069
+|-terastallize|p1a: Raging Bolt|Fairy
+|move|p2a: Zarude|Drain Punch|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|80/100
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Zarude
+|-damage|p2a: Zarude|0 fnt
+|-unboost|p1a: Raging Bolt|spa|2
+|faint|p2a: Zarude
+|
+|upkeep
+|
+|t:|1781173076
+|switch|p2a: Greninja|Greninja, M|100/100
+|-status|p2a: Greninja|psn
+|turn|13
+|
+|t:|1781173080
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Corviknight|Corviknight, F|63/100
+|move|p2a: Greninja|Hydro Pump|p1a: Corviknight
+|-damage|p1a: Corviknight|32/100
+|
+|-damage|p2a: Greninja|88/100 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1781173086
+|move|p2a: Greninja|Hydro Pump|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|-ability|p2a: Greninja|Battle Bond|boost
+|-boost|p2a: Greninja|atk|1
+|-boost|p2a: Greninja|spa|1
+|-boost|p2a: Greninja|spe|1
+|-activate|p2a: Greninja|ability: Battle Bond
+|
+|-damage|p2a: Greninja|76/100 psn|[from] psn
+|upkeep
+|
+|t:|1781173087
+|switch|p1a: Primarina|Primarina, M|78/100
+|turn|15
+|
+|t:|1781173092
+|move|p2a: Greninja|Hydro Pump|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|47/100
+|move|p1a: Primarina|Draining Kiss|p2a: Greninja
+|-supereffective|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|-heal|p1a: Primarina|91/100|[from] drain|[of] p2a: Greninja
+|faint|p2a: Greninja
+|
+|upkeep
+|
+|t:|1781173118
+|switch|p2a: Weavile|Weavile, M|100/100
+|-status|p2a: Weavile|psn
+|-ability|p2a: Weavile|Pressure
+|turn|16
+|
+|t:|1781173125
+|-terastallize|p2a: Weavile|Ice
+|move|p2a: Weavile|Swords Dance|p2a: Weavile
+|-boost|p2a: Weavile|atk|2
+|move|p1a: Primarina|Draining Kiss|p2a: Weavile
+|-damage|p2a: Weavile|60/100 psn
+|-heal|p1a: Primarina|100/100|[from] drain|[of] p2a: Weavile
+|
+|-damage|p2a: Weavile|48/100 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1781173134
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Weavile|Triple Axel|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|61/100
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|-hitcount|p1: Great Tusk|2
+|
+|-damage|p2a: Weavile|35/100 psn|[from] psn
+|upkeep
+|
+|t:|1781173140
+|switch|p1a: Scizor|Scizor, F|100/100
+|turn|18
+|
+|t:|1781173143
+|move|p2a: Weavile|Ice Shard|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|72/100
+|move|p1a: Scizor|Bullet Punch|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|-damage|p1a: Scizor|62/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781173144
+|switch|p2a: Moltres|Moltres-Galar|100/100
+|turn|19
+|
+|t:|1781173147
+|move|p2a: Moltres|Nasty Plot|p2a: Moltres
+|-boost|p2a: Moltres|spa|2
+|move|p1a: Scizor|Knock Off|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|71/100
+|-enditem|p2a: Moltres|Sitrus Berry|[from] move: Knock Off|[of] p1a: Scizor
+|-damage|p1a: Scizor|52/100|[from] item: Life Orb
+|
+|upkeep
+|turn|20
+|
+|t:|1781173157
+|move|p2a: Moltres|Fiery Wrath|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|upkeep
+|-message|LoseToRU? forfeited.
+|
+|win|VraiKhey
+|raw|VraiKhey's rating: 1579 &rarr; <strong>1600</strong><br />(+21 for winning)
+|raw|LoseToRU?'s rating: 1594 &rarr; <strong>1573</strong><br />(-21 for losing)
+|l|☆LoseToRU?
+|player|p2|
+|l|☆VraiKhey
+|player|p1|

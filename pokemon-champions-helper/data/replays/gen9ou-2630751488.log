@@ -1,0 +1,546 @@
+|j|☆SlimyTime
+|j|☆Yujiro-Jamon
+|t:|1781291057
+|gametype|singles
+|player|p1|SlimyTime|ltsurge|1658
+|player|p2|Yujiro-Jamon|alder|1617
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ursaluna, F|
+|poke|p1|Rillaboom, M|
+|poke|p1|Heatran, F|
+|poke|p1|Primarina, F|
+|poke|p1|Corviknight, F|
+|poke|p1|Darkrai|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Clefable, M|
+|poke|p2|Conkeldurr, M|
+|poke|p2|Blaziken, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Corviknight, M|
+|teampreview
+|
+|t:|1781291080
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Darkrai|Darkrai|100/100
+|switch|p2a: Conkeldurr|Conkeldurr, M|100/100
+|turn|1
+|
+|t:|1781291086
+|switch|p1a: Primarina|Primarina, F|100/100
+|move|p2a: Conkeldurr|Knock Off|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|78/100
+|-enditem|p1a: Primarina|Leftovers|[from] move: Knock Off|[of] p2a: Conkeldurr
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Yujiro-Jamon)
+|
+|t:|1781291094
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Primarina|Calm Mind|p1a: Primarina
+|-boost|p1a: Primarina|spa|1
+|-boost|p1a: Primarina|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781291097
+|move|p1a: Primarina|Substitute|p1a: Primarina
+|-start|p1a: Primarina|Substitute
+|-damage|p1a: Primarina|53/100
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1781291100
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|move|p1a: Primarina|Draining Kiss|p2a: Clefable
+|-damage|p2a: Clefable|91/100
+|-heal|p1a: Primarina|61/100|[from] drain|[of] p2a: Clefable
+|
+|-heal|p2a: Clefable|97/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781291103
+|move|p1a: Primarina|Psychic Noise|p2a: Clefable
+|-damage|p2a: Clefable|83/100
+|-start|p2a: Clefable|move: Heal Block
+|move|p2a: Clefable|Moonblast|p1a: Primarina
+|-end|p1a: Primarina|Substitute
+|
+|upkeep
+|turn|6
+|
+|t:|1781291106
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Clefable|Moonblast|p1a: Rillaboom
+|-damage|p1a: Rillaboom|63/100
+|
+|-heal|p1a: Rillaboom|69/100|[from] Grassy Terrain
+|-end|p2a: Clefable|move: Heal Block
+|upkeep
+|turn|7
+|
+|t:|1781291109
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Clefable|Protect||[still]
+|-fail|p2a: Clefable
+|
+|-heal|p2a: Clefable|90/100|[from] Grassy Terrain
+|-heal|p2a: Clefable|96/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781291112
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Heatran|Magma Storm|p2a: Ting-Lu|[miss]
+|-miss|p1a: Heatran|p2a: Ting-Lu
+|
+|upkeep
+|turn|9
+|
+|t:|1781291115
+|move|p1a: Heatran|Stealth Rock|p2a: Ting-Lu
+|-sidestart|p2: Yujiro-Jamon|move: Stealth Rock
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Heatran
+|-sidestart|p1: SlimyTime|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|t:|1781291117
+|switch|p1a: Ursaluna|Ursaluna, F|100/100
+|-damage|p1a: Ursaluna|94/100|[from] Stealth Rock
+|move|p2a: Ting-Lu|Spikes|p1a: Ursaluna
+|-sidestart|p1: SlimyTime|Spikes
+|
+|-heal|p1a: Ursaluna|100/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1781291125
+|move|p1a: Ursaluna|Bulk Up|p1a: Ursaluna
+|-boost|p1a: Ursaluna|atk|1
+|-boost|p1a: Ursaluna|def|1
+|move|p2a: Ting-Lu|Spikes|p1a: Ursaluna
+|-sidestart|p1: SlimyTime|Spikes
+|
+|upkeep
+|turn|12
+|
+|t:|1781291127
+|move|p1a: Ursaluna|Body Slam|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|72/100
+|move|p2a: Ting-Lu|Spikes|p1a: Ursaluna
+|-sidestart|p1: SlimyTime|Spikes
+|
+|-heal|p2a: Ting-Lu|79/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781291130
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|move|p1a: Ursaluna|Body Slam|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|70/100
+|-damage|p1a: Ursaluna|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|-heal|p1a: Ursaluna|90/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781291134
+|move|p2a: Corviknight|Taunt|p1a: Ursaluna
+|-start|p1a: Ursaluna|move: Taunt
+|cant|p1a: Ursaluna|move: Taunt|Bulk Up
+|
+|-heal|p1a: Ursaluna|96/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781291136
+|move|p2a: Corviknight|Iron Head|p1a: Ursaluna
+|-damage|p1a: Ursaluna|85/100
+|cant|p1a: Ursaluna|flinch
+|
+|-heal|p1a: Ursaluna|92/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781291140
+|move|p2a: Corviknight|Iron Head|p1a: Ursaluna
+|-damage|p1a: Ursaluna|79/100
+|move|p1a: Ursaluna|Body Slam|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|53/100
+|-status|p2a: Corviknight|par
+|-damage|p1a: Ursaluna|63/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|-heal|p1a: Ursaluna|69/100|[from] item: Leftovers
+|-end|p1a: Ursaluna|move: Taunt
+|upkeep
+|turn|17
+|
+|t:|1781291144
+|move|p1a: Ursaluna|Bulk Up|p1a: Ursaluna
+|-boost|p1a: Ursaluna|atk|1
+|-boost|p1a: Ursaluna|def|1
+|cant|p2a: Corviknight|par
+|
+|-heal|p1a: Ursaluna|75/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1781291146
+|move|p1a: Ursaluna|Bulk Up|p1a: Ursaluna
+|-boost|p1a: Ursaluna|atk|1
+|-boost|p1a: Ursaluna|def|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100 par
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p1a: Ursaluna|81/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781291149
+|move|p1a: Ursaluna|Bulk Up|p1a: Ursaluna
+|-boost|p1a: Ursaluna|atk|1
+|-boost|p1a: Ursaluna|def|1
+|move|p2a: Corviknight|Iron Head|p1a: Ursaluna
+|-damage|p1a: Ursaluna|75/100
+|
+|-heal|p1a: Ursaluna|82/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781291152
+|move|p1a: Ursaluna|Body Slam|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|67/100 par
+|-damage|p1a: Ursaluna|65/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|cant|p2a: Corviknight|par
+|
+|-heal|p1a: Ursaluna|71/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1781291156
+|move|p1a: Ursaluna|Bulk Up|p1a: Ursaluna
+|-boost|p1a: Ursaluna|atk|1
+|-boost|p1a: Ursaluna|def|1
+|move|p2a: Corviknight|Taunt|p1a: Ursaluna
+|-start|p1a: Ursaluna|move: Taunt
+|
+|-heal|p1a: Ursaluna|77/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781291159
+|move|p1a: Ursaluna|Body Slam|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|7/100 par
+|-damage|p1a: Ursaluna|61/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|move|p2a: Corviknight|Iron Head|p1a: Ursaluna
+|-damage|p1a: Ursaluna|55/100
+|
+|-heal|p1a: Ursaluna|62/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781291162
+|move|p1a: Ursaluna|Body Slam|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-damage|p1a: Ursaluna|45/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p2a: Corviknight
+|
+|-heal|p1a: Ursaluna|51/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781291168
+|switch|p2a: Clefable|Clefable, M|96/100
+|-damage|p2a: Clefable|83/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781291174
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|move|p1a: Ursaluna|Body Slam|p2a: Clefable
+|-damage|p2a: Clefable|51/100
+|-status|p2a: Clefable|par
+|
+|-heal|p1a: Ursaluna|58/100|[from] item: Leftovers
+|-heal|p2a: Clefable|57/100 par|[from] item: Leftovers
+|-end|p1a: Ursaluna|move: Taunt
+|upkeep
+|turn|25
+|
+|t:|1781291176
+|move|p1a: Ursaluna|High Horsepower|p2a: Clefable
+|-damage|p2a: Clefable|23/100 par
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|-heal|p1a: Ursaluna|64/100|[from] item: Leftovers
+|-heal|p2a: Clefable|29/100 par|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1781291179
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Ursaluna|High Horsepower|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|-heal|p2a: Clefable|79/100 par|[from] move: Wish|[wisher] Clefable
+|-heal|p1a: Ursaluna|70/100|[from] item: Leftovers
+|-heal|p2a: Clefable|85/100 par|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1781291181
+|move|p1a: Ursaluna|High Horsepower|p2a: Clefable
+|-damage|p2a: Clefable|54/100 par
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p1a: Ursaluna|76/100|[from] item: Leftovers
+|-heal|p2a: Clefable|60/100 par|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781291184
+|move|p1a: Ursaluna|Bulk Up|p1a: Ursaluna
+|-boost|p1a: Ursaluna|atk|1
+|-boost|p1a: Ursaluna|def|1
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|-heal|p1a: Ursaluna|83/100|[from] item: Leftovers
+|-heal|p2a: Clefable|66/100 par|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1781291186
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Ursaluna|High Horsepower|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|-heal|p2a: Clefable|100/100 par|[from] move: Wish|[wisher] Clefable
+|-heal|p1a: Ursaluna|89/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781291189
+|move|p1a: Ursaluna|High Horsepower|p2a: Clefable
+|-damage|p2a: Clefable|77/100 par
+|move|p2a: Clefable|Moonblast|p1a: Ursaluna
+|-damage|p1a: Ursaluna|69/100
+|
+|-heal|p1a: Ursaluna|75/100|[from] item: Leftovers
+|-heal|p2a: Clefable|83/100 par|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1781291192
+|move|p1a: Ursaluna|High Horsepower|p2a: Clefable
+|-damage|p2a: Clefable|60/100 par
+|move|p2a: Clefable|Moonblast|p1a: Ursaluna
+|-damage|p1a: Ursaluna|57/100
+|
+|-heal|p1a: Ursaluna|63/100|[from] item: Leftovers
+|-heal|p2a: Clefable|66/100 par|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1781291194
+|move|p1a: Ursaluna|High Horsepower|p2a: Clefable
+|-damage|p2a: Clefable|40/100 par
+|move|p2a: Clefable|Moonblast|p1a: Ursaluna
+|-damage|p1a: Ursaluna|44/100
+|
+|-heal|p1a: Ursaluna|50/100|[from] item: Leftovers
+|-heal|p2a: Clefable|46/100 par|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1781291197
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Ursaluna|High Horsepower|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|-heal|p1a: Ursaluna|57/100|[from] item: Leftovers
+|-heal|p2a: Clefable|53/100 par|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1781291199
+|move|p1a: Ursaluna|High Horsepower|p2a: Clefable
+|-damage|p2a: Clefable|28/100 par
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|-heal|p1a: Ursaluna|63/100|[from] item: Leftovers
+|-heal|p2a: Clefable|34/100 par|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1781291202
+|cant|p2a: Clefable|par
+|move|p1a: Ursaluna|High Horsepower|p2a: Clefable|[miss]
+|-miss|p1a: Ursaluna|p2a: Clefable
+|
+|-heal|p2a: Clefable|84/100 par|[from] move: Wish|[wisher] Clefable
+|-heal|p1a: Ursaluna|69/100|[from] item: Leftovers
+|-heal|p2a: Clefable|90/100 par|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1781291206
+|move|p1a: Ursaluna|High Horsepower|p2a: Clefable
+|-damage|p2a: Clefable|68/100 par
+|move|p2a: Clefable|Moonblast|p1a: Ursaluna
+|-damage|p1a: Ursaluna|49/100
+|-unboost|p1a: Ursaluna|spa|1
+|
+|-heal|p1a: Ursaluna|55/100|[from] item: Leftovers
+|-heal|p2a: Clefable|74/100 par|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1781291234
+|move|p1a: Ursaluna|High Horsepower|p2a: Clefable
+|-damage|p2a: Clefable|48/100 par
+|move|p2a: Clefable|Moonblast|p1a: Ursaluna
+|-damage|p1a: Ursaluna|35/100
+|
+|-heal|p1a: Ursaluna|41/100|[from] item: Leftovers
+|-heal|p2a: Clefable|55/100 par|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1781291247
+|move|p1a: Ursaluna|Protect|p1a: Ursaluna
+|-singleturn|p1a: Ursaluna|Protect
+|cant|p2a: Clefable|par
+|
+|-heal|p1a: Ursaluna|47/100|[from] item: Leftovers
+|-heal|p2a: Clefable|61/100 par|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1781291250
+|move|p1a: Ursaluna|High Horsepower|p2a: Clefable
+|-damage|p2a: Clefable|36/100 par
+|move|p2a: Clefable|Moonblast|p1a: Ursaluna
+|-damage|p1a: Ursaluna|28/100
+|
+|-heal|p1a: Ursaluna|34/100|[from] item: Leftovers
+|-heal|p2a: Clefable|42/100 par|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1781291259
+|move|p1a: Ursaluna|High Horsepower|p2a: Clefable
+|-damage|p2a: Clefable|17/100 par
+|cant|p2a: Clefable|par
+|
+|-heal|p1a: Ursaluna|41/100|[from] item: Leftovers
+|-heal|p2a: Clefable|23/100 par|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1781291263
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Ursaluna|High Horsepower|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|-heal|p1a: Ursaluna|47/100|[from] item: Leftovers
+|-heal|p2a: Clefable|29/100 par|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1781291265
+|move|p1a: Ursaluna|High Horsepower|p2a: Clefable
+|-damage|p2a: Clefable|6/100 par
+|cant|p2a: Clefable|par
+|
+|-heal|p1a: Ursaluna|53/100|[from] item: Leftovers
+|-heal|p2a: Clefable|12/100 par|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1781291272
+|cant|p2a: Clefable|par
+|move|p1a: Ursaluna|Body Slam|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-heal|p1a: Ursaluna|59/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781291275
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-damage|p2a: Deoxys|88/100|[from] Stealth Rock
+|-ability|p2a: Deoxys|Pressure
+|turn|44
+|
+|t:|1781291277
+|move|p1a: Ursaluna|Protect|p1a: Ursaluna
+|-singleturn|p1a: Ursaluna|Protect
+|move|p2a: Deoxys|Ice Beam|p1a: Ursaluna
+|-activate|p1a: Ursaluna|move: Protect
+|
+|-heal|p2a: Deoxys|94/100|[from] item: Leftovers
+|-heal|p1a: Ursaluna|66/100|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|t:|1781291281
+|move|p2a: Deoxys|Ice Beam|p1a: Ursaluna
+|-supereffective|p1a: Ursaluna
+|-damage|p1a: Ursaluna|32/100
+|move|p1a: Ursaluna|Body Slam|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|-heal|p1a: Ursaluna|38/100|[from] item: Leftovers
+|upkeep
+|n|!Yujiro-Jamon|yujirojamon
+|-message|Yujiro-Jamon forfeited.
+|
+|win|SlimyTime
+|raw|SlimyTime's rating: 1658 &rarr; <strong>1676</strong><br />(+18 for winning)
+|raw|Yujiro-Jamon's rating: 1617 &rarr; <strong>1599</strong><br />(-18 for losing)
+|l|!Yujiro-Jamon
+|player|p2|
+|l|☆SlimyTime
+|player|p1|

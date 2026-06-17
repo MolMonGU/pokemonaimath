@@ -1,0 +1,364 @@
+|j|☆firewall1234
+|j|☆burrolio
+|t:|1781110300
+|gametype|singles
+|player|p1|firewall1234|hugh|1581
+|player|p2|burrolio|swimmer-gen4dp|1617
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Pecharunt|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Cinderace, M|
+|poke|p1|Alomomola, M|
+|poke|p1|Iron Valiant|
+|poke|p2|Pelipper, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Beartic, M|
+|poke|p2|Iron Treads|
+|poke|p2|Samurott-Hisui, F|
+|teampreview
+|
+|t:|1781110316
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Valiant|Iron Valiant, shiny|100/100
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by firewall1234)
+|
+|t:|1781110325
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|62/100
+|-unboost|p2a: Iron Treads|spa|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781110338
+|move|p1a: Iron Valiant|Moonblast|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|17/100
+|move|p2a: Iron Treads|Volt Switch|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|87/100
+|
+|t:|1781110348
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Beartic|Beartic, M|100/100|[from] Volt Switch
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781110355
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781110362
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Raging Bolt|atk|1
+|move|p2a: Raging Bolt|Thunder|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781110370
+|move|p1a: Landorus|U-turn|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|75/100
+|
+|t:|1781110377
+|switch|p1a: Alomomola|Alomomola, M, shiny|100/100|[from] U-turn
+|move|p2a: Raging Bolt|Weather Ball|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|83/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781110389
+|move|p2a: Raging Bolt|Volt Switch|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|38/100
+|
+|t:|1781110393
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Iron Treads|Iron Treads|17/100|[from] Volt Switch
+|move|p1a: Alomomola|Flip Turn|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|t:|1781110416
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|100/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781110419
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|7
+|
+|t:|1781110424
+|switch|p1a: Alomomola|Alomomola, M, shiny|72/100
+|move|p2a: Barraskewda|Flip Turn|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|51/100
+|
+|t:|1781110426
+|switch|p2a: Pelipper|Pelipper, M|100/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781110431
+|move|p2a: Pelipper|U-turn|p1a: Alomomola
+|-damage|p1a: Alomomola|45/100
+|
+|t:|1781110437
+|switch|p2a: Barraskewda|Barraskewda, F|100/100|[from] U-turn
+|move|p1a: Alomomola|Flip Turn|p2a: Barraskewda
+|-resisted|p2a: Barraskewda
+|-damage|p2a: Barraskewda|75/100
+|
+|t:|1781110447
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|100/100|[from] Flip Turn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Barraskewda|atk|1
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781110452
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Landorus|U-turn|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|90/100
+|
+|t:|1781110456
+|switch|p1a: Iron Valiant|Iron Valiant, shiny|87/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781110460
+|move|p1a: Iron Valiant|Moonblast|p2a: Pelipper
+|-crit|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781110467
+|switch|p2a: Beartic|Beartic, M|100/100
+|turn|11
+|
+|t:|1781110470
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Beartic|Swords Dance|p2a: Beartic
+|-boost|p2a: Beartic|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781110476
+|-terastallize|p2a: Beartic|Ground
+|move|p2a: Beartic|Earthquake|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|faint|p1a: Pecharunt
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781110484
+|switch|p1a: Alomomola|Alomomola, M, shiny|79/100
+|turn|13
+|
+|t:|1781110488
+|move|p2a: Beartic|Icicle Spear|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|68/100
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|57/100
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|47/100
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|36/100
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|26/100
+|-hitcount|p1a: Alomomola|5
+|move|p1a: Alomomola|Flip Turn|p2a: Beartic
+|-supereffective|p2a: Beartic
+|-damage|p2a: Beartic|42/100
+|
+|t:|1781110493
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|100/100|[from] Flip Turn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Beartic|atk|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781110496
+|switch|p1a: Alomomola|Alomomola, M, shiny|59/100
+|move|p2a: Beartic|Icicle Spear|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|52/100
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|44/100
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|36/100
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|29/100
+|-resisted|p1a: Alomomola
+|-crit|p1a: Alomomola
+|-damage|p1a: Alomomola|18/100
+|-hitcount|p1a: Alomomola|5
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781110503
+|move|p1a: Alomomola|Aqua Jet|p2a: Beartic
+|-supereffective|p2a: Beartic
+|-damage|p2a: Beartic|4/100
+|move|p2a: Beartic|Icicle Spear|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|11/100
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|3/100
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|faint|p1a: Alomomola
+|-hitcount|p1: Alomomola|3
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781110508
+|switch|p1a: Cinderace|Cinderace, M, shiny|100/100
+|turn|16
+|
+|t:|1781110512
+|move|p1a: Cinderace|Sucker Punch|p2a: Beartic
+|-start|p1a: Cinderace|typechange|Dark|[from] ability: Libero
+|-damage|p2a: Beartic|0 fnt
+|faint|p2a: Beartic
+|
+|-weather|none
+|upkeep
+|
+|t:|1781110517
+|switch|p2a: Raging Bolt|Raging Bolt|75/100
+|turn|17
+|
+|t:|1781110521
+|move|p1a: Cinderace|U-turn|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|56/100
+|
+|t:|1781110524
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|100/100|[from] U-turn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Raging Bolt|atk|1
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1781110528
+|switch|p1a: Iron Valiant|Iron Valiant, shiny|87/100
+|turn|18
+|
+|t:|1781110533
+|move|p1a: Iron Valiant|Moonblast|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781110539
+|switch|p2a: Barraskewda|Barraskewda, F|75/100
+|turn|19
+|
+|t:|1781110551
+|move|p2a: Barraskewda|Waterfall|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|21/100
+|move|p1a: Iron Valiant|Moonblast|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|upkeep
+|
+|t:|1781110554
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|turn|20
+|
+|t:|1781110559
+|move|p2a: Samurott|Razor Shell|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781110565
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|turn|21
+|
+|t:|1781110567
+|move|p2a: Samurott|Razor Shell|p1a: Hoopa
+|-damage|p1a: Hoopa|16/100
+|move|p1a: Hoopa|Drain Punch|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|-heal|p1a: Hoopa|68/100|[from] drain|[of] p2a: Samurott
+|faint|p2a: Samurott
+|
+|win|firewall1234
+|raw|firewall1234's rating: 1581 &rarr; <strong>1603</strong><br />(+22 for winning)
+|raw|burrolio's rating: 1617 &rarr; <strong>1595</strong><br />(-22 for losing)
+|c|☆firewall1234|gg
+|c|☆burrolio|Gg
+|l|☆firewall1234
+|player|p1|
+|l|☆burrolio
+|player|p2|

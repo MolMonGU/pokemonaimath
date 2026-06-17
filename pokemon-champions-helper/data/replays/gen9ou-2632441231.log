@@ -1,0 +1,294 @@
+|j|☆bahnmiking
+|j|☆LowEL0God
+|t:|1781526800
+|gametype|singles
+|player|p1|bahnmiking|102|1602
+|player|p2|LowEL0God|265|1652
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragonite, F|
+|poke|p1|Great Tusk|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Gholdengo|
+|poke|p1|Zamazenta-*|
+|poke|p1|Iron Valiant|
+|poke|p2|Pelipper, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781526807
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-ability|p1a: Deoxys|Pressure
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1781526812
+|move|p1a: Deoxys|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: LowEL0God|move: Stealth Rock
+|move|p2a: Pelipper|Weather Ball|p1a: Deoxys
+|-damage|p1a: Deoxys|41/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781526816
+|move|p1a: Deoxys|Spikes|p2a: Pelipper
+|-sidestart|p2: LowEL0God|Spikes
+|move|p2a: Pelipper|Hurricane|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781526833
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|3
+|
+|t:|1781526837
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Pelipper|Hurricane|p1a: Dragonite
+|-crit|p1a: Dragonite
+|-damage|p1a: Dragonite|71/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781526840
+|move|p1a: Dragonite|Outrage|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|-damage|p1a: Dragonite|61/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781526841
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|-damage|p2a: Raging Bolt|76/100|[from] Spikes
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|5
+|
+|t:|1781526843
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p1a: Dragonite|Outrage|p2a: Raging Bolt|[from] lockedmove
+|-immune|p2a: Raging Bolt
+|move|p2a: Raging Bolt|Weather Ball|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|18/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781526850
+|move|p1a: Dragonite|Extreme Speed|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|24/100
+|-damage|p1a: Dragonite|8/100|[from] item: Life Orb
+|move|p2a: Raging Bolt|Weather Ball|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781526868
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|7
+|
+|t:|1781526876
+|move|p2a: Raging Bolt|Thunderclap|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781526880
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisspe
+|turn|8
+|
+|t:|1781526887
+|move|p1a: Great Tusk|Ice Spinner|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|4/100
+|move|p2a: Raging Bolt|Weather Ball|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|none
+|upkeep
+|j| Renzomane
+|
+|t:|1781526900
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|9
+|
+|t:|1781526904
+|move|p2a: Raging Bolt|Thunder|p1a: Gholdengo|[miss]
+|-miss|p2a: Raging Bolt|p1a: Gholdengo
+|move|p1a: Gholdengo|Shadow Ball|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781526905
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-damage|p2a: Iron Treads|97/100|[from] Stealth Rock
+|-damage|p2a: Iron Treads|85/100|[from] Spikes
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|10
+|
+|t:|1781526908
+|move|p2a: Iron Treads|Earth Power|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|34/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Iron Treads
+|-damage|p2a: Iron Treads|25/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781526931
+|-terastallize|p1a: Gholdengo|Fairy
+|move|p2a: Iron Treads|Earth Power|p1a: Gholdengo
+|-damage|p1a: Gholdengo|2/100
+|move|p1a: Gholdengo|Shadow Ball|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781526932
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|-damage|p2a: Barraskewda|88/100|[from] Stealth Rock
+|-damage|p2a: Barraskewda|75/100|[from] Spikes
+|turn|12
+|-enditem|p1a: Gholdengo|Custap Berry|[eat]
+|-activate|p1a: Gholdengo|item: Custap Berry|[consumed]
+|
+|t:|1781526937
+|move|p1a: Gholdengo|Shadow Ball|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|upkeep
+|
+|t:|1781526938
+|switch|p2a: Overqwil|Overqwil, M|100/100
+|-damage|p2a: Overqwil|88/100|[from] Stealth Rock
+|-damage|p2a: Overqwil|76/100|[from] Spikes
+|turn|13
+|
+|t:|1781526943
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-damage|p2a: Kingambit|82/100|[from] Spikes
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|move|p1a: Gholdengo|Shadow Ball|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|63/100
+|-unboost|p2a: Kingambit|spd|1
+|
+|-heal|p2a: Kingambit|69/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781526954
+|move|p1a: Gholdengo|Make It Rain|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|25/100
+|-unboost|p1a: Gholdengo|spa|1
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-crit|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-heal|p2a: Kingambit|31/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781526958
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|15
+|
+|t:|1781526962
+|move|p1a: Zamazenta|Close Combat|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen4|[silent]
+|-damage|p1a: Zamazenta|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781526963
+|switch|p2a: Overqwil|Overqwil, M|76/100
+|-damage|p2a: Overqwil|64/100|[from] Stealth Rock
+|-damage|p2a: Overqwil|51/100|[from] Spikes
+|turn|16
+|
+|t:|1781526968
+|move|p1a: Zamazenta|Close Combat|p2a: Overqwil
+|-damage|p2a: Overqwil|0 fnt
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|faint|p2a: Overqwil
+|-damage|p1a: Zamazenta|81/100|[from] item: Life Orb
+|
+|win|bahnmiking
+|raw|bahnmiking's rating: 1602 &rarr; <strong>1625</strong><br />(+23 for winning)
+|raw|LowEL0God's rating: 1652 &rarr; <strong>1629</strong><br />(-23 for losing)
+|l|☆bahnmiking
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|
+|l| Renzomane

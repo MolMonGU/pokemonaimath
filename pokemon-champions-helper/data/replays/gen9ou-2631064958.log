@@ -1,0 +1,259 @@
+|j|☆The Name Change
+|j|☆Negative1stClass
+|t:|1781334226
+|gametype|singles
+|player|p1|The Name Change|169|1600
+|player|p2|Negative1stClass|hilbert|1561
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Zamazenta-*|
+|poke|p1|Iron Crown|
+|poke|p1|Raging Bolt|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Glimmora, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Azelf|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Negative1stClass)
+|inactive|The Name Change has 120 seconds left.
+|
+|t:|1781334276
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1781334281
+|move|p1a: Glimmora|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: Negative1stClass|move: Stealth Rock
+|move|p2a: Pelipper|Weather Ball|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781334287
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|turn|2
+|
+|t:|1781334290
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-damage|p2a: Iron Treads|97/100|[from] Stealth Rock
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: The Name Change|move: Light Screen
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781334295
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: The Name Change|Reflect
+|move|p2a: Iron Treads|Rapid Spin|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|96/100
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: Negative1stClass|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781334301
+|move|p1a: Grimmsnarl|Parting Shot|p2a: Iron Treads
+|-unboost|p2a: Iron Treads|atk|1
+|-unboost|p2a: Iron Treads|spa|1
+|
+|t:|1781334308
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] Parting Shot
+|move|p2a: Iron Treads|Stealth Rock|p1a: Ogerpon
+|-sidestart|p1: The Name Change|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781334315
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781334318
+|move|p1a: Ogerpon|Play Rough|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781334321
+|switch|p2a: Overqwil|Overqwil, M|100/100
+|turn|7
+|
+|t:|1781334329
+|-terastallize|p1a: Ogerpon|Water
+|detailschange|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p2a: Overqwil|Gunk Shot|p1a: Ogerpon
+|-damage|p1a: Ogerpon|43/100
+|-damage|p2a: Overqwil|91/100|[from] item: Life Orb
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Overqwil|[anim] Ivy Cudgel Water
+|-damage|p2a: Overqwil|0 fnt
+|faint|p2a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781334334
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|8
+|
+|t:|1781334349
+|move|p2a: Barraskewda|Close Combat|p1a: Ogerpon
+|-damage|p1a: Ogerpon|2/100
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Barraskewda|[anim] Ivy Cudgel Water
+|-resisted|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|none
+|upkeep
+|
+|t:|1781334353
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|9
+|
+|t:|1781334357
+|move|p1a: Ogerpon|Power Whip|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p1: The Name Change|move: Light Screen
+|upkeep
+|
+|t:|1781334360
+|switch|p2a: Azelf|Azelf|100/100
+|turn|10
+|
+|t:|1781334366
+|move|p2a: Azelf|Thunder|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|detailschange|p1: Ogerpon|Ogerpon-Wellspring, F|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p1: The Name Change|Reflect
+|upkeep
+|
+|t:|1781334373
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|96/100
+|-damage|p1a: Grimmsnarl|83/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1781334377
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: The Name Change|move: Light Screen
+|move|p2a: Azelf|Dazzling Gleam|p1a: Grimmsnarl
+|-supereffective|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|59/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781334381
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: The Name Change|Reflect
+|move|p2a: Azelf|Dazzling Gleam|p1a: Grimmsnarl
+|-supereffective|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|33/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781334386
+|move|p1a: Grimmsnarl|Parting Shot|p2a: Azelf
+|-unboost|p2a: Azelf|atk|1
+|-unboost|p2a: Azelf|spa|1
+|
+|t:|1781334394
+|switch|p1a: Iron Crown|Iron Crown|100/100|[from] Parting Shot
+|-damage|p1a: Iron Crown|94/100|[from] Stealth Rock
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|move|p2a: Azelf|Dazzling Gleam|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|90/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1781334398
+|switch|p2a: Iron Treads|Iron Treads|97/100
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781334401
+|move|p1a: Iron Crown|Focus Blast|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|Negative1stClass forfeited.
+|
+|win|The Name Change
+|raw|The Name Change's rating: 1600 &rarr; <strong>1618</strong><br />(+18 for winning)
+|raw|Negative1stClass's rating: 1561 &rarr; <strong>1543</strong><br />(-18 for losing)
+|l|☆Negative1stClass
+|player|p2|
+|l|☆The Name Change
+|player|p1|

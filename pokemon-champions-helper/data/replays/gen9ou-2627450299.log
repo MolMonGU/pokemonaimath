@@ -1,0 +1,393 @@
+|j|☆imperimento
+|j|☆DiceyRice
+|t:|1780904639
+|gametype|singles
+|player|p1|imperimento|169|1699
+|player|p2|DiceyRice|miku-ghost|1830
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Moltres|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Gholdengo|
+|poke|p1|Pecharunt|
+|poke|p1|Walking Wake|
+|poke|p1|Ting-Lu|
+|poke|p2|Latias, F|
+|poke|p2|Mimikyu, F|
+|poke|p2|Glimmora, M|
+|poke|p2|Kingambit, M|
+|poke|p2|Iron Boulder|
+|poke|p2|Iron Moth|
+|teampreview
+|
+|t:|1780904669
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|switch|p2a: Senbonzakura|Glimmora, M|100/100
+|turn|1
+|
+|t:|1780904676
+|switch|p2a: Portal|Iron Moth|100/100
+|-enditem|p2a: Portal|Booster Energy
+|-activate|p2a: Portal|ability: Quark Drive|[fromitem]
+|-start|p2a: Portal|quarkdrivespe
+|move|p1a: Gholdengo|Make It Rain|p2a: Portal
+|-resisted|p2a: Portal
+|-damage|p2a: Portal|68/100
+|-unboost|p1a: Gholdengo|spa|1
+|
+|upkeep
+|turn|2
+|
+|t:|1780904686
+|-end|p2a: Portal|Quark Drive|[silent]
+|switch|p2a: Senbonzakura|Glimmora, M|100/100
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|
+|upkeep
+|turn|3
+|
+|t:|1780904693
+|move|p2a: Senbonzakura|Mortal Spin|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|99/100
+|-status|p1a: Ting-Lu|psn
+|move|p1a: Ting-Lu|Earthquake|p2a: Senbonzakura
+|-supereffective|p2a: Senbonzakura
+|-enditem|p2a: Senbonzakura|Focus Sash
+|-damage|p2a: Senbonzakura|1/100
+|-activate|p2a: Senbonzakura|ability: Toxic Debris
+|-sidestart|p1: imperimento|move: Toxic Spikes
+|
+|-heal|p1a: Ting-Lu|100/100 psn|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|88/100 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1780904702
+|move|p2a: Senbonzakura|Stealth Rock|p1a: Ting-Lu
+|-sidestart|p1: imperimento|move: Stealth Rock
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Senbonzakura
+|-sidestart|p2: DiceyRice|move: Stealth Rock
+|
+|-heal|p1a: Ting-Lu|94/100 psn|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|82/100 psn|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1780904710
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|move|p2a: Senbonzakura|Mortal Spin|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|
+|upkeep
+|turn|6
+|
+|t:|1780904718
+|move|p1a: Gholdengo|Shadow Ball|p2a: Senbonzakura
+|-damage|p2a: Senbonzakura|0 fnt
+|faint|p2a: Senbonzakura
+|
+|upkeep
+|
+|t:|1780904721
+|switch|p2a: Kanaria|Kingambit, M|100/100
+|-damage|p2a: Kanaria|94/100|[from] Stealth Rock
+|-activate|p2a: Kanaria|ability: Supreme Overlord
+|-start|p2a: Kanaria|fallen1|[silent]
+|turn|7
+|
+|t:|1780904728
+|switch|p1a: Moltres|Moltres|100/100
+|-end|p2a: Kanaria|fallen1|[silent]
+|switch|p2a: Portal|Iron Moth|68/100
+|-damage|p2a: Portal|43/100|[from] Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1780904736
+|move|p2a: Portal|Sludge Wave|p1a: Moltres
+|-damage|p1a: Moltres|52/100
+|move|p1a: Moltres|U-turn|p2a: Portal
+|-resisted|p2a: Portal
+|-damage|p2a: Portal|39/100
+|
+|t:|1780904752
+|switch|p1a: Pecharunt|Pecharunt|100/100|[from] U-turn
+|-sideend|p1: imperimento|move: Toxic Spikes|[of] p1a: Pecharunt
+|
+|upkeep
+|turn|9
+|
+|t:|1780904782
+|switch|p1a: Ting-Lu|Ting-Lu|82/100 psn
+|-damage|p1a: Ting-Lu|76/100 psn|[from] Stealth Rock
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Portal|Fiery Dance|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|58/100 psn
+|
+|-heal|p1a: Ting-Lu|65/100 psn|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|52/100 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1780904792
+|move|p2a: Portal|Dazzling Gleam|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|30/100 psn
+|move|p1a: Ting-Lu|Earthquake|p2a: Portal
+|-supereffective|p2a: Portal
+|-damage|p2a: Portal|0 fnt
+|faint|p2a: Portal
+|-end|p2a: Portal|Quark Drive|[silent]
+|
+|-heal|p1a: Ting-Lu|37/100 psn|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|24/100 psn|[from] psn
+|upkeep
+|
+|t:|1780904798
+|switch|p2a: Mimikyute|Mimikyu, F|100/100
+|-damage|p2a: Mimikyute|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1780904806
+|move|p2a: Mimikyute|Play Rough|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|-damage|p2a: Mimikyute|78/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1780904822
+|switch|p1a: Moltres|Moltres|52/100
+|turn|12
+|
+|t:|1780904827
+|switch|p2a: Smithy|Iron Boulder|100/100
+|-damage|p2a: Smithy|88/100|[from] Stealth Rock
+|-enditem|p2a: Smithy|Booster Energy
+|-activate|p2a: Smithy|ability: Quark Drive|[fromitem]
+|-start|p2a: Smithy|quarkdrivespe
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|100/100
+|-singleturn|p1a: Moltres|move: Roost
+|
+|upkeep
+|turn|13
+|
+|t:|1780904858
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Smithy|Mighty Cleave|p1a: Pecharunt
+|-damage|p1a: Pecharunt|70/100
+|
+|upkeep
+|turn|14
+|
+|t:|1780904873
+|move|p2a: Smithy|Swords Dance|p2a: Smithy
+|-boost|p2a: Smithy|atk|2
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|100/100
+|
+|upkeep
+|turn|15
+|
+|t:|1780904909
+|move|p2a: Smithy|Zen Headbutt|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|1/100
+|move|p1a: Pecharunt|Malignant Chain|p2a: Smithy
+|-resisted|p2a: Smithy
+|-damage|p2a: Smithy|72/100
+|
+|upkeep
+|turn|16
+|
+|t:|1780904919
+|move|p2a: Smithy|Mighty Cleave|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|faint|p1a: Pecharunt
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DiceyRice)
+|
+|t:|1780905003
+|switch|p1a: Moltres|Moltres|100/100
+|turn|17
+|
+|t:|1780905028
+|-terastallize|p1a: Moltres|Fairy
+|move|p2a: Smithy|Mighty Cleave|p1a: Moltres
+|-damage|p1a: Moltres|35/100
+|-status|p2a: Smithy|brn|[from] ability: Flame Body|[of] p1a: Moltres
+|move|p1a: Moltres|Roar|p2a: Smithy
+|-end|p2a: Smithy|Quark Drive|[silent]
+|drag|p2a: Latinas|Latias, F|100/100
+|-damage|p2a: Latinas|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|18
+|
+|t:|1780905040
+|switch|p2a: Kanaria|Kingambit, M|94/100
+|-damage|p2a: Kanaria|88/100|[from] Stealth Rock
+|-activate|p2a: Kanaria|ability: Supreme Overlord
+|-start|p2a: Kanaria|fallen2|[silent]
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|-damage|p1a: Samurott|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Kanaria|94/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1780905050
+|-end|p2a: Kanaria|fallen2|[silent]
+|switch|p2a: Smithy|Iron Boulder|72/100 brn
+|-damage|p2a: Smithy|60/100 brn|[from] Stealth Rock
+|move|p1a: Samurott|Ceaseless Edge|p2a: Smithy
+|-supereffective|p2a: Smithy
+|-damage|p2a: Smithy|0 fnt
+|-sidestart|p2: DiceyRice|Spikes
+|faint|p2a: Smithy
+|-end|p2a: Smithy|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1780905054
+|switch|p2a: Kanaria|Kingambit, M|94/100
+|-damage|p2a: Kanaria|88/100|[from] Stealth Rock
+|-damage|p2a: Kanaria|76/100|[from] Spikes
+|-activate|p2a: Kanaria|ability: Supreme Overlord
+|-start|p2a: Kanaria|fallen3|[silent]
+|turn|20
+|
+|t:|1780905066
+|move|p1a: Samurott|Knock Off|p2a: Kanaria
+|-resisted|p2a: Kanaria
+|-damage|p2a: Kanaria|57/100
+|-enditem|p2a: Kanaria|Leftovers|[from] move: Knock Off|[of] p1a: Samurott
+|move|p2a: Kanaria|Swords Dance|p2a: Kanaria
+|-boost|p2a: Kanaria|atk|2
+|
+|upkeep
+|turn|21
+|
+|t:|1780905079
+|move|p1a: Samurott|Ceaseless Edge|p2a: Kanaria
+|-resisted|p2a: Kanaria
+|-damage|p2a: Kanaria|41/100
+|-sidestart|p2: DiceyRice|Spikes
+|move|p2a: Kanaria|Kowtow Cleave|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|12/100
+|
+|upkeep
+|turn|22
+|
+|t:|1780905089
+|move|p1a: Samurott|Ceaseless Edge|p2a: Kanaria
+|-resisted|p2a: Kanaria
+|-damage|p2a: Kanaria|24/100
+|-sidestart|p2: DiceyRice|Spikes
+|move|p2a: Kanaria|Kowtow Cleave|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1780905107
+|switch|p1a: Moltres|Moltres, tera:Fairy|35/100
+|turn|23
+|
+|t:|1780905113
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|86/100
+|move|p2a: Kanaria|Iron Head|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|upkeep
+|inactive|imperimento has 120 seconds left.
+|
+|t:|1780905142
+|switch|p1a: Gholdengo|Gholdengo|94/100
+|-damage|p1a: Gholdengo|88/100|[from] Stealth Rock
+|turn|24
+|inactive|imperimento has 120 seconds left.
+|
+|t:|1780905152
+|move|p2a: Kanaria|Sucker Punch||[still]
+|-fail|p2a: Kanaria
+|move|p1a: Gholdengo|Trick|p2a: Kanaria
+|-activate|p1a: Gholdengo|move: Trick|[of] p2a: Kanaria
+|-item|p2a: Kanaria|Choice Scarf|[from] move: Trick
+|-enditem|p1a: Gholdengo|Choice Scarf|[silent]|[from] move: Trick
+|
+|upkeep
+|turn|25
+|inactive|imperimento has 120 seconds left.
+|inactive|imperimento has 90 seconds left.
+|
+|t:|1780905201
+|move|p2a: Kanaria|Kowtow Cleave|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1780905207
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|turn|26
+|
+|t:|1780905212
+|move|p1a: Walking Wake|Surf|p2a: Kanaria
+|-damage|p2a: Kanaria|0 fnt
+|faint|p2a: Kanaria
+|-end|p2a: Kanaria|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1780905215
+|switch|p2a: Mimikyute|Mimikyu, F|78/100
+|-damage|p2a: Mimikyute|66/100|[from] Stealth Rock
+|-damage|p2a: Mimikyute|41/100|[from] Spikes
+|turn|27
+|
+|t:|1780905221
+|move|p1a: Walking Wake|Surf|p2a: Mimikyute
+|-activate|p2a: Mimikyute|ability: Disguise
+|-damage|p2a: Mimikyute|41/100
+|detailschange|p2a: Mimikyute|Mimikyu-Busted, F
+|-damage|p2a: Mimikyute|29/100|[from] pokemon: Mimikyu-Busted
+|move|p2a: Mimikyute|Play Rough|p1a: Walking Wake
+|-supereffective|p1a: Walking Wake
+|-crit|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|-damage|p2a: Mimikyute|19/100|[from] item: Life Orb
+|
+|win|DiceyRice
+|raw|imperimento's rating: 1699 &rarr; <strong>1687</strong><br />(-12 for losing)
+|raw|DiceyRice's rating: 1839 &rarr; <strong>1851</strong><br />(+12 for winning)
+|l|☆DiceyRice
+|player|p2|

@@ -1,0 +1,468 @@
+|j|☆zxrkawa
+|j|☆tauros3
+|t:|1780951012
+|gametype|singles
+|player|p1|zxrkawa|elesa|1524
+|player|p2|tauros3|swimmer-gen4dp|1542
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Meowscarada, F|
+|poke|p1|Pecharunt|
+|poke|p1|Enamorus, F|
+|poke|p1|Iron Treads|
+|poke|p1|Skarmory, M|
+|poke|p1|Slowking, M|
+|poke|p2|Tyranitar, F|
+|poke|p2|Iron Boulder|
+|poke|p2|Excadrill, F|
+|poke|p2|Houndstone, F|
+|poke|p2|Gastrodon-East, M|
+|poke|p2|Moltres|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tauros3)
+|inactive|zxrkawa also wants the timer to be on.
+|
+|t:|1780951030
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Moltres|Moltres|100/100
+|turn|1
+|
+|t:|1780951036
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Slowking|Slowking, M|100/100
+|move|p2a: Moltres|Flamethrower|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|92/100
+|
+|upkeep
+|turn|2
+|
+|t:|1780951055
+|move|p2a: Moltres|U-turn|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|64/100
+|
+|t:|1780951072
+|switch|p2a: Iron Boulder|Iron Boulder|100/100|[from] U-turn
+|move|p1a: Slowking|Future Sight|p2a: Iron Boulder
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|3
+|
+|t:|1780951081
+|switch|p1a: Skarmory|Skarmory, M|100/100
+|move|p2a: Iron Boulder|Mighty Cleave|p1a: Skarmory
+|-damage|p1a: Skarmory|72/100
+|
+|upkeep
+|turn|4
+|
+|t:|1780951091
+|-end|p2a: Iron Boulder|Quark Drive|[silent]
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Skarmory|Spikes|p2a: Tyranitar
+|-sidestart|p2: tauros3|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-end|p2a: Tyranitar|move: Future Sight
+|-immune|p2a: Tyranitar
+|upkeep
+|turn|5
+|
+|t:|1780951098
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|-item|p2a: Excadrill|Air Balloon
+|move|p1a: Skarmory|Body Press|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|13/100
+|-enditem|p2a: Excadrill|Air Balloon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1780951107
+|move|p2a: Excadrill|Rapid Spin|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-crit|p1a: Skarmory
+|-damage|p1a: Skarmory|63/100
+|-boost|p2a: Excadrill|spe|1
+|-sideend|p2: tauros3|Spikes|[from] move: Rapid Spin|[of] p2a: Excadrill
+|move|p1a: Skarmory|Body Press|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1780951115
+|switch|p2a: Houndstone|Houndstone, F|100/100
+|turn|7
+|
+|t:|1780951122
+|-terastallize|p2a: Houndstone|Ghost
+|move|p2a: Houndstone|Poltergeist|p1a: Skarmory
+|-activate|p1a: Skarmory|move: Poltergeist|Covert Cloak
+|-damage|p1a: Skarmory|0 fnt
+|faint|p1a: Skarmory
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1780951133
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|turn|8
+|
+|t:|1780951139
+|move|p2a: Houndstone|Poltergeist|p1a: Iron Treads|[miss]
+|-miss|p2a: Houndstone|p1a: Iron Treads
+|move|p1a: Iron Treads|Knock Off|p2a: Houndstone
+|-supereffective|p2a: Houndstone
+|-damage|p2a: Houndstone|45/100
+|-enditem|p2a: Houndstone|Choice Band|[from] move: Knock Off|[of] p1a: Iron Treads
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1780951151
+|move|p2a: Houndstone|Poltergeist|p1a: Iron Treads
+|-activate|p1a: Iron Treads|move: Poltergeist|Leftovers
+|-crit|p1a: Iron Treads
+|-damage|p1a: Iron Treads|15/100
+|move|p1a: Iron Treads|Stealth Rock|p2a: Houndstone
+|-sidestart|p2: tauros3|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Iron Treads|21/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1780951169
+|move|p2a: Houndstone|Poltergeist|p1a: Iron Treads
+|-activate|p1a: Iron Treads|move: Poltergeist|Leftovers
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1780951177
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|turn|11
+|
+|t:|1780951183
+|switch|p2a: Iron Boulder|Iron Boulder|100/100
+|-damage|p2a: Iron Boulder|88/100|[from] Stealth Rock
+|-terastallize|p1a: Pecharunt|Dark
+|move|p1a: Pecharunt|Foul Play|p2a: Iron Boulder
+|-supereffective|p2a: Iron Boulder
+|-damage|p2a: Iron Boulder|0 fnt
+|faint|p2a: Iron Boulder
+|-end|p2a: Iron Boulder|Quark Drive|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1780951196
+|switch|p2a: Gastrodon|Gastrodon-East, M|100/100
+|-damage|p2a: Gastrodon|94/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1780951203
+|move|p1a: Pecharunt|Parting Shot|p2a: Gastrodon
+|-unboost|p2a: Gastrodon|atk|1
+|-unboost|p2a: Gastrodon|spa|1
+|
+|t:|1780951209
+|switch|p1a: Meowscarada|Meowscarada, F|100/100|[from] Parting Shot
+|move|p2a: Gastrodon|Surf|p1a: Meowscarada
+|-resisted|p1a: Meowscarada
+|-damage|p1a: Meowscarada|79/100
+|
+|-heal|p2a: Gastrodon|100/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1780951213
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Meowscarada|Knock Off|p2a: Moltres
+|-start|p1a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p2a: Moltres|55/100
+|-enditem|p2a: Moltres|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Meowscarada
+|
+|upkeep
+|turn|14
+|
+|t:|1780951217
+|switch|p1a: Slowking|Slowking, M|97/100
+|move|p2a: Moltres|Will-O-Wisp|p1a: Slowking
+|-status|p1a: Slowking|brn
+|
+|-damage|p1a: Slowking|91/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1780951221
+|move|p2a: Moltres|Roost|p2a: Moltres
+|-heal|p2a: Moltres|100/100
+|-singleturn|p2a: Moltres|move: Roost
+|move|p1a: Slowking|Scald|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|39/100
+|
+|-damage|p1a: Slowking|85/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1780951224
+|move|p2a: Moltres|Roost|p2a: Moltres
+|-heal|p2a: Moltres|90/100
+|-singleturn|p2a: Moltres|move: Roost
+|move|p1a: Slowking|Scald|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|29/100
+|
+|-damage|p1a: Slowking|79/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1780951228
+|move|p2a: Moltres|Roost|p2a: Moltres
+|-heal|p2a: Moltres|80/100
+|-singleturn|p2a: Moltres|move: Roost
+|move|p1a: Slowking|Scald|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|17/100
+|
+|-damage|p1a: Slowking|73/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1780951233
+|switch|p1a: Pecharunt|Pecharunt, tera:Dark|100/100
+|move|p2a: Moltres|Roost|p2a: Moltres
+|-heal|p2a: Moltres|67/100
+|-singleturn|p2a: Moltres|move: Roost
+|
+|upkeep
+|turn|19
+|
+|t:|1780951238
+|move|p1a: Pecharunt|Malignant Chain|p2a: Moltres
+|-damage|p2a: Moltres|38/100
+|move|p2a: Moltres|U-turn|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|87/100
+|-damage|p2a: Moltres|21/100|[from] item: Rocky Helmet|[of] p1a: Pecharunt
+|
+|t:|1780951244
+|switch|p2a: Tyranitar|Tyranitar, F|100/100|[from] U-turn
+|-damage|p2a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Pecharunt|81/100|[from] Sandstorm
+|upkeep
+|turn|20
+|j| Hexin
+|
+|t:|1780951254
+|move|p1a: Pecharunt|Malignant Chain|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|81/100
+|move|p2a: Tyranitar|Stealth Rock|p1a: Pecharunt
+|-sidestart|p1: zxrkawa|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Pecharunt|75/100|[from] Sandstorm
+|upkeep
+|turn|21
+|
+|t:|1780951262
+|move|p1a: Pecharunt|Malignant Chain|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|75/100
+|-status|p2a: Tyranitar|tox
+|-start|p2a: Tyranitar|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|-activate|p2a: Tyranitar|confusion
+|-damage|p2a: Tyranitar|66/100 tox|[from] confusion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Pecharunt|69/100|[from] Sandstorm
+|-damage|p2a: Tyranitar|59/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1780951272
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|100/100
+|-activate|p2a: Tyranitar|confusion
+|move|p2a: Tyranitar|Ice Beam|p1a: Pecharunt
+|-damage|p1a: Pecharunt|80/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Pecharunt|74/100|[from] Sandstorm
+|-damage|p2a: Tyranitar|47/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1780951282
+|switch|p2a: Moltres|Moltres|21/100
+|-damage|p2a: Moltres|0 fnt|[from] Stealth Rock
+|faint|p2a: Moltres
+|move|p1a: Pecharunt|Malignant Chain|p2: Moltres|[notarget]
+|-fail|p1a: Pecharunt
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Pecharunt|68/100|[from] Sandstorm
+|upkeep
+|
+|t:|1780951297
+|switch|p2a: Gastrodon|Gastrodon-East, M|100/100
+|-damage|p2a: Gastrodon|94/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1780951305
+|move|p1a: Pecharunt|Malignant Chain|p2a: Gastrodon
+|-resisted|p2a: Gastrodon
+|-damage|p2a: Gastrodon|80/100
+|move|p2a: Gastrodon|Ancient Power|p1a: Pecharunt
+|-damage|p1a: Pecharunt|44/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Pecharunt|38/100|[from] Sandstorm
+|-heal|p2a: Gastrodon|86/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1780951312
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|88/100
+|move|p2a: Gastrodon|Ancient Power|p1a: Pecharunt
+|-damage|p1a: Pecharunt|66/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Pecharunt|60/100|[from] Sandstorm
+|-heal|p2a: Gastrodon|93/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1780951315
+|move|p1a: Pecharunt|Malignant Chain|p2a: Gastrodon
+|-resisted|p2a: Gastrodon
+|-damage|p2a: Gastrodon|78/100
+|-status|p2a: Gastrodon|tox
+|-start|p2a: Gastrodon|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|-activate|p2a: Gastrodon|confusion
+|move|p2a: Gastrodon|Ancient Power|p1a: Pecharunt
+|-damage|p1a: Pecharunt|36/100
+|
+|-weather|none
+|-heal|p2a: Gastrodon|84/100 tox|[from] item: Leftovers
+|-damage|p2a: Gastrodon|78/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1780951321
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|86/100
+|-end|p2a: Gastrodon|confusion
+|move|p2a: Gastrodon|Ancient Power|p1a: Pecharunt
+|-damage|p1a: Pecharunt|67/100
+|
+|-heal|p2a: Gastrodon|84/100 tox|[from] item: Leftovers
+|-damage|p2a: Gastrodon|72/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1780951328
+|move|p1a: Pecharunt|Parting Shot|p2a: Gastrodon
+|-unboost|p2a: Gastrodon|atk|1
+|-unboost|p2a: Gastrodon|spa|1
+|
+|t:|1780951333
+|switch|p1a: Slowking|Slowking, M|100/100 brn|[from] Parting Shot
+|-damage|p1a: Slowking|88/100 brn|[from] Stealth Rock
+|move|p2a: Gastrodon|Ancient Power|p1a: Slowking
+|-damage|p1a: Slowking|82/100 brn
+|
+|-heal|p2a: Gastrodon|78/100 tox|[from] item: Leftovers
+|-damage|p2a: Gastrodon|60/100 tox|[from] psn
+|-damage|p1a: Slowking|76/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1780951337
+|switch|p2a: Tyranitar|Tyranitar, F|47/100 tox
+|-damage|p2a: Tyranitar|35/100 tox|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Slowking|Future Sight|p2a: Tyranitar
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowking|70/100 brn|[from] Sandstorm
+|-damage|p2a: Tyranitar|28/100 tox|[from] psn
+|-damage|p1a: Slowking|64/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1780951341
+|switch|p1a: Pecharunt|Pecharunt, tera:Dark|67/100
+|-damage|p1a: Pecharunt|55/100|[from] Stealth Rock
+|move|p2a: Tyranitar|Knock Off|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-damage|p1a: Pecharunt|45/100
+|-damage|p2a: Tyranitar|12/100 tox|[from] item: Rocky Helmet|[of] p1a: Pecharunt
+|-enditem|p1a: Pecharunt|Rocky Helmet|[from] move: Knock Off|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Pecharunt|39/100|[from] Sandstorm
+|-damage|p2a: Tyranitar|0 fnt|[from] psn
+|faint|p2a: Tyranitar
+|upkeep
+|
+|t:|1780951345
+|switch|p2a: Houndstone|Houndstone, F, tera:Ghost|45/100
+|-damage|p2a: Houndstone|32/100|[from] Stealth Rock
+|turn|31
+|
+|t:|1780951351
+|move|p2a: Houndstone|Play Rough|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|11/100
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|61/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Pecharunt|55/100|[from] Sandstorm
+|-end|p2a: Houndstone|move: Future Sight
+|-damage|p2a: Houndstone|0 fnt
+|faint|p2a: Houndstone
+|upkeep
+|-message|tauros3 forfeited.
+|
+|win|zxrkawa
+|raw|zxrkawa's rating: 1524 &rarr; <strong>1545</strong><br />(+21 for winning)
+|raw|tauros3's rating: 1542 &rarr; <strong>1521</strong><br />(-21 for losing)
+|l|☆tauros3
+|player|p2|
+|c|☆zxrkawa|gg
+|l| Hexin

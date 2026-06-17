@@ -1,0 +1,355 @@
+|j|☆erjuanzas
+|j|☆ja hoi
+|t:|1781520089
+|gametype|singles
+|player|p1|erjuanzas|linebacker|1625
+|player|p2|ja hoi|2|1708
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Overqwil, F|
+|poke|p1|Barraskewda, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Quaquaval, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Dragapult, M|
+|poke|p2|Garganacl, M|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Iron Moth|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ja hoi)
+|
+|t:|1781520118
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pelipas|Pelipper, F, shiny|100/100
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipas
+|turn|1
+|
+|t:|1781520125
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: ja hoi|Reflect
+|move|p1a: Pelipas|U-turn|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|95/100
+|
+|t:|1781520129
+|switch|p1a: Iron Treads|Iron Treads|100/100|[from] U-turn
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781520139
+|move|p2a: Grimmsnarl|Taunt|p1a: Iron Treads
+|-start|p1a: Iron Treads|move: Taunt
+|cant|p1a: Iron Treads|move: Taunt|Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781520145
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: ja hoi|move: Light Screen
+|move|p1a: Iron Treads|Earth Power|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|82/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781520150
+|move|p2a: Grimmsnarl|Parting Shot|p1a: Iron Treads
+|-unboost|p1a: Iron Treads|atk|1
+|-unboost|p1a: Iron Treads|spa|1
+|
+|t:|1781520154
+|switch|p2a: Quaquaval|Quaquaval, M|100/100|[from] Parting Shot
+|move|p1a: Iron Treads|Earth Power|p2a: Quaquaval
+|-damage|p2a: Quaquaval|85/100
+|
+|-weather|RainDance|[upkeep]
+|-end|p1a: Iron Treads|move: Taunt
+|upkeep
+|turn|5
+|
+|t:|1781520165
+|move|p1a: Iron Treads|Stealth Rock|p2a: Quaquaval
+|-sidestart|p2: ja hoi|move: Stealth Rock
+|move|p2a: Quaquaval|Aqua Step|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-boost|p2a: Quaquaval|spe|1
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|-ability|p2a: Quaquaval|Moxie|boost
+|-boost|p2a: Quaquaval|atk|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781520170
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|6
+|
+|t:|1781520177
+|move|p2a: Quaquaval|Ice Spinner|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|37/100
+|move|p1a: Raging Bolt|Thunder|p2a: Quaquaval
+|-supereffective|p2a: Quaquaval
+|-damage|p2a: Quaquaval|0 fnt
+|faint|p2a: Quaquaval
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781520188
+|switch|p2a: Garganacl|Garganacl, M|100/100
+|-damage|p2a: Garganacl|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1781520192
+|move|p1a: Raging Bolt|Weather Ball|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|40/100
+|move|p2a: Garganacl|Salt Cure|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|24/100
+|-start|p1a: Raging Bolt|Salt Cure
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Garganacl|47/100|[from] item: Leftovers
+|-damage|p1a: Raging Bolt|12/100|[from] Salt Cure
+|upkeep
+|turn|8
+|
+|t:|1781520207
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: La Cabra|Barraskewda, M|100/100
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|82/100
+|-damage|p2a: Grimmsnarl|70/100|[from] Stealth Rock
+|
+|-weather|none
+|-sideend|p2: ja hoi|Reflect
+|upkeep
+|turn|9
+|
+|t:|1781520216
+|-terastallize|p1a: La Cabra|Water
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: ja hoi|Reflect
+|move|p1a: La Cabra|Liquidation|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|13/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781520222
+|move|p2a: Grimmsnarl|Taunt|p1a: La Cabra
+|-start|p1a: La Cabra|move: Taunt
+|move|p1a: La Cabra|Liquidation|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|faint|p2a: Grimmsnarl
+|
+|-sideend|p2: ja hoi|move: Light Screen
+|upkeep
+|
+|t:|1781520237
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-damage|p2a: Zamazenta|94/100|[from] Stealth Rock
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|11
+|
+|t:|1781520243
+|switch|p1a: Pelipas|Pelipper, F, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipas
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zamazenta|100/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781520253
+|move|p2a: Zamazenta|Body Press|p1a: Pelipas
+|-resisted|p1a: Pelipas
+|-damage|p1a: Pelipas|71/100
+|move|p1a: Pelipas|Hurricane|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|40/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zamazenta|46/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1781520270
+|-terastallize|p2a: Zamazenta|Steel
+|move|p2a: Zamazenta|Body Press|p1a: Pelipas
+|-resisted|p1a: Pelipas
+|-damage|p1a: Pelipas|44/100
+|move|p1a: Pelipas|Hurricane|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|31/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zamazenta|37/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1781520281
+|move|p2a: Zamazenta|Body Press|p1a: Pelipas
+|-resisted|p1a: Pelipas
+|-damage|p1a: Pelipas|15/100
+|move|p1a: Pelipas|Roost|p1a: Pelipas
+|-heal|p1a: Pelipas|65/100
+|-singleturn|p1a: Pelipas|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zamazenta|44/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781520291
+|move|p2a: Zamazenta|Substitute|p2a: Zamazenta
+|-start|p2a: Zamazenta|Substitute
+|-damage|p2a: Zamazenta|19/100
+|move|p1a: Pelipas|Roost|p1a: Pelipas
+|-heal|p1a: Pelipas|100/100
+|-singleturn|p1a: Pelipas|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zamazenta|25/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781520301
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p1a: Pelipas|Weather Ball|p2a: Zamazenta
+|-end|p2a: Zamazenta|Substitute
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zamazenta|31/100|[from] item: Leftovers
+|-sideend|p2: ja hoi|Reflect
+|upkeep
+|turn|17
+|
+|t:|1781520314
+|move|p2a: Zamazenta|Body Press|p1a: Pelipas
+|-resisted|p1a: Pelipas
+|-damage|p1a: Pelipas|60/100
+|move|p1a: Pelipas|Weather Ball|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781520322
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781520326
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|-weather|none
+|-heal|p2a: Dragapult|94/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781520334
+|move|p2a: Dragapult|Dragon Darts|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|87/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|72/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-heal|p1a: Kingambit|79/100|[from] item: Leftovers
+|upkeep
+|c|☆erjuanzas|gg
+|
+|t:|1781520345
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-damage|p2a: Iron Moth|76/100|[from] Stealth Rock
+|-enditem|p2a: Iron Moth|Booster Energy
+|-activate|p2a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Moth|quarkdrivespa
+|turn|20
+|c|☆ja hoi|gg
+|
+|t:|1781520351
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Pelipas|Pelipper, F, shiny|60/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipas
+|move|p2a: Iron Moth|Fiery Dance|p1a: Pelipas
+|-resisted|p1a: Pelipas
+|-damage|p1a: Pelipas|37/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781520360
+|move|p2a: Iron Moth|Sludge Wave|p1a: Pelipas
+|-damage|p1a: Pelipas|0 fnt
+|faint|p1a: Pelipas
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781520362
+|switch|p1a: La Cabra|Barraskewda, M, tera:Water|100/100
+|turn|22
+|
+|t:|1781520368
+|move|p1a: La Cabra|Liquidation|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|ja hoi forfeited.
+|
+|win|erjuanzas
+|raw|erjuanzas's rating: 1625 &rarr; <strong>1650</strong><br />(+25 for winning)
+|raw|ja hoi's rating: 1708 &rarr; <strong>1683</strong><br />(-25 for losing)
+|l|☆ja hoi
+|player|p2|
+|l|☆erjuanzas
+|player|p1|

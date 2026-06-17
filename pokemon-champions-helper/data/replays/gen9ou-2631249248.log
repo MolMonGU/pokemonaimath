@@ -1,0 +1,154 @@
+|j|☆DarkG99
+|j|‽TheCannonites
+|t:|1781363273
+|gametype|singles
+|player|p1|DarkG99|karen|1625
+|player|p2|TheCannonites|n|1593
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kommo-o, M|
+|poke|p1|Sinistcha-Masterpiece|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Heatran, M|
+|poke|p1|Maushold-Four|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Blastoise, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Iron Crown|
+|poke|p2|Great Tusk|
+|poke|p2|Ceruledge, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by TheCannonites)
+|
+|t:|1781363276
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Maushold|Maushold-Four|100/100
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|turn|1
+|
+|t:|1781363285
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: TheCannonites|Reflect
+|move|p1a: Maushold|Switcheroo|p2a: Grimmsnarl
+|-activate|p1a: Maushold|move: Trick|[of] p2a: Grimmsnarl
+|-item|p2a: Grimmsnarl|Choice Scarf|[from] move: Switcheroo
+|-item|p1a: Maushold|Light Clay|[from] move: Switcheroo
+|
+|upkeep
+|turn|2
+|
+|t:|1781363293
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Grimmsnarl|Taunt|p1a: Ninetales
+|-start|p1a: Ninetales|move: Taunt
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781363302
+|switch|p1a: Heatran|Heatran, M|100/100
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-enditem|p2a: Iron Crown|Booster Energy
+|-activate|p2a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Crown|quarkdrivespa
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781363311
+|-terastallize|p2a: Iron Crown|Fighting
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|move|p1a: Heatran|Magma Storm|p2a: Iron Crown
+|-damage|p2a: Iron Crown|70/100
+|-activate|p2a: Iron Crown|move: Magma Storm|[of] p1a: Heatran
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Iron Crown|58/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|5
+|
+|t:|1781363323
+|move|p2a: Iron Crown|Agility|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spe|2
+|move|p1a: Heatran|Earth Power|p2a: Iron Crown
+|-damage|p2a: Iron Crown|41/100
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Iron Crown|29/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|6
+|
+|t:|1781363332
+|move|p2a: Iron Crown|Focus Blast|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-weather|none
+|-end|p2a: Iron Crown|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1781363345
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|7
+|
+|t:|1781363350
+|-terastallize|p1a: Ogerpon|Water
+|detailschange|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p2a: Iron Crown|Stored Power|p1a: Ogerpon
+|-damage|p1a: Ogerpon|20/100
+|move|p1a: Ogerpon|Trailblaze|p2a: Iron Crown
+|-damage|p2a: Iron Crown|13/100
+|-boost|p1a: Ogerpon|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1781363362
+|move|p2a: Iron Crown|Stored Power|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|detailschange|p1: Ogerpon|Ogerpon-Wellspring, F|[silent]
+|
+|-sideend|p2: TheCannonites|Reflect
+|upkeep
+|
+|t:|1781363375
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|9
+|
+|t:|1781363381
+|move|p2a: Iron Crown|Stored Power|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|-message|DarkG99 forfeited.
+|
+|win|TheCannonites
+|raw|DarkG99's rating: 1625 &rarr; <strong>1603</strong><br />(-22 for losing)
+|raw|TheCannonites's rating: 1593 &rarr; <strong>1615</strong><br />(+22 for winning)
+|l|☆DarkG99
+|player|p1|

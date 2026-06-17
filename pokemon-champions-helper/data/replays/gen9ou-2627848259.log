@@ -1,0 +1,163 @@
+|j|☆keirimm
+|j|☆Nikocado Allahcado
+|t:|1780947564
+|gametype|singles
+|player|p1|keirimm|2|1665
+|player|p2|Nikocado Allahcado|hiker-gen4|1616
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Kyurem|
+|poke|p1|Iron Valiant|
+|poke|p1|Cinderace, F|
+|poke|p1|Kingambit, F|
+|poke|p2|Ceruledge, F|
+|poke|p2|Cloyster, F|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Great Tusk|
+|poke|p2|Iron Boulder|
+|poke|p2|Gliscor, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by keirimm)
+|
+|t:|1780947583
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|1
+|
+|t:|1780947587
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: Nikocado Allahcado|move: Light Screen
+|move|p1a: Slowking|Sludge Bomb|p2a: Deoxys
+|-damage|p2a: Deoxys|81/100
+|
+|upkeep
+|turn|2
+|j| BandedAI
+|
+|t:|1780947592
+|move|p2a: Deoxys|Taunt|p1a: Slowking
+|-start|p1a: Slowking|move: Taunt
+|cant|p1a: Slowking|move: Taunt|Toxic
+|
+|upkeep
+|turn|3
+|
+|t:|1780947599
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|move|p1a: Slowking|Sludge Bomb|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|89/100
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|4
+|
+|t:|1780947610
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|5
+|
+|t:|1780947618
+|-terastallize|p2a: Gliscor|Normal
+|move|p1a: Kyurem|Freeze-Dry|p2a: Gliscor
+|-damage|p2a: Gliscor|65/100 tox
+|move|p2a: Gliscor|Agility|p2a: Gliscor
+|-boost|p2a: Gliscor|spe|2
+|
+|-heal|p2a: Gliscor|77/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|6
+|
+|t:|1780947623
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Gliscor|atk|1
+|move|p2a: Gliscor|Facade|p1a: Landorus
+|-damage|p1a: Landorus|8/100
+|-damage|p2a: Gliscor|60/100 tox|[from] item: Rocky Helmet|[of] p1a: Landorus
+|
+|-heal|p2a: Gliscor|73/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|7
+|
+|t:|1780947626
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|
+|-heal|p2a: Gliscor|85/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|8
+|
+|t:|1780947629
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Landorus|Landorus-Therian, M|8/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Gliscor|atk|1
+|move|p2a: Gliscor|Earthquake|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-heal|p2a: Gliscor|97/100 tox|[from] ability: Poison Heal
+|-sideend|p2: Nikocado Allahcado|move: Light Screen
+|upkeep
+|turn|9
+|c| BandedAI|inshallah
+|
+|t:|1780947632
+|move|p2a: Gliscor|Facade|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-damage|p2a: Gliscor|80/100 tox|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p1a: Landorus
+|
+|-heal|p2a: Gliscor|93/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1780947634
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|10
+|
+|t:|1780947639
+|-terastallize|p1a: Iron Valiant|Ghost
+|move|p2a: Gliscor|Earthquake|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|-message|keirimm forfeited.
+|
+|win|Nikocado Allahcado
+|raw|keirimm's rating: 1665 &rarr; <strong>1642</strong><br />(-23 for losing)
+|raw|Nikocado Allahcado's rating: 1616 &rarr; <strong>1639</strong><br />(+23 for winning)
+|l|☆keirimm
+|player|p1|
+|c|☆Nikocado Allahcado|bismallah
+|l|☆Nikocado Allahcado
+|player|p2|
+|j|☆Nikocado Allahcado
+|player|p2|Nikocado Allahcado|hiker-gen4|

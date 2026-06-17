@@ -1,0 +1,255 @@
+|j|☆blackgokuking
+|j|☆extra-pseudo man
+|t:|1781058563
+|gametype|singles
+|player|p1|blackgokuking|169|1581
+|player|p2|extra-pseudo man|2|1636
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, F|
+|poke|p1|Kommo-o, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Iron Treads|
+|poke|p1|Iron Crown|
+|poke|p2|Dragonite, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Tyranitar, F|
+|poke|p2|Metagross|
+|poke|p2|Goodra-Hisui, M|
+|poke|p2|Garchomp, M|
+|teampreview
+|
+|t:|1781058583
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|switch|p2a: Marill me|Garchomp, M|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|1
+|
+|t:|1781058593
+|switch|p2a: Tyranocif|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranocif
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Tyranocif
+|-resisted|p2a: Tyranocif
+|-damage|p2a: Tyranocif|95/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Valiant|94/100|[from] Sandstorm
+|-heal|p2a: Tyranocif|100/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781058597
+|switch|p2a: kaboom|Metagross|100/100
+|move|p1a: Iron Valiant|Focus Blast|p2a: kaboom|[miss]
+|-miss|p1a: Iron Valiant|p2a: kaboom
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Valiant|88/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1781058604
+|move|p2a: kaboom|Bullet Punch|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781058607
+|switch|p1a: Kommo-o|Kommo-o, F|100/100
+|turn|4
+|
+|t:|1781058615
+|switch|p2a: The goot|Goodra-Hisui, M|100/100
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|68/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Kommo-o|61/100|[from] Sandstorm
+|-heal|p1a: Kommo-o|68/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781058620
+|move|p1a: Kommo-o|Substitute|p1a: Kommo-o
+|-start|p1a: Kommo-o|Substitute
+|-damage|p1a: Kommo-o|43/100
+|move|p2a: The goot|Draco Meteor|p1a: Kommo-o|[miss]
+|-miss|p2a: The goot|p1a: Kommo-o
+|
+|-weather|none
+|-heal|p1a: Kommo-o|49/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781058625
+|move|p1a: Kommo-o|Drain Punch|p2a: The goot
+|-supereffective|p2a: The goot
+|-damage|p2a: The goot|8/100
+|-heal|p1a: Kommo-o|90/100|[from] drain|[of] p2a: The goot
+|-ability|p2a: The goot|Gooey
+|-unboost|p1a: Kommo-o|spe|1
+|move|p2a: The goot|Draco Meteor|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-end|p1a: Kommo-o|Substitute
+|-unboost|p2a: The goot|spa|2
+|
+|-heal|p1a: Kommo-o|96/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781058629
+|move|p1a: Kommo-o|Drain Punch|p2a: The goot
+|-supereffective|p2a: The goot
+|-damage|p2a: The goot|0 fnt
+|-heal|p1a: Kommo-o|99/100|[from] drain|[of] p2a: The goot
+|-ability|p2a: The goot|Gooey
+|-unboost|p1a: Kommo-o|spe|1
+|faint|p2a: The goot
+|
+|-heal|p1a: Kommo-o|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781058632
+|switch|p2a: He pulten on it|Dragapult, M|100/100
+|turn|8
+|
+|t:|1781058636
+|move|p2a: He pulten on it|Will-O-Wisp|p1a: Kommo-o
+|-status|p1a: Kommo-o|brn
+|move|p1a: Kommo-o|Shadow Claw|p2a: He pulten on it
+|-supereffective|p2a: He pulten on it
+|-damage|p2a: He pulten on it|65/100
+|
+|-damage|p1a: Kommo-o|94/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1781058640
+|move|p2a: He pulten on it|Hex|p1a: Kommo-o
+|-damage|p1a: Kommo-o|58/100 brn
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|25/100 brn
+|
+|-heal|p1a: Kommo-o|32/100 brn|[from] item: Leftovers
+|-damage|p1a: Kommo-o|25/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1781058645
+|move|p2a: He pulten on it|Hex|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|upkeep
+|
+|t:|1781058675
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|11
+|
+|t:|1781058680
+|switch|p2a: Marill me|Garchomp, M|100/100
+|move|p1a: Iron Treads|Earthquake|p2a: Marill me
+|-damage|p2a: Marill me|78/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781058683
+|move|p1a: Iron Treads|Stealth Rock|p2a: Marill me
+|-sidestart|p2: extra-pseudo man|move: Stealth Rock
+|move|p2a: Marill me|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|34/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781058688
+|move|p1a: Iron Treads|Endeavor|p2a: Marill me
+|-damage|p2a: Marill me|31/100
+|-damage|p1a: Iron Treads|21/100|[from] ability: Rough Skin|[of] p2a: Marill me
+|-damage|p1a: Iron Treads|5/100|[from] item: Rocky Helmet|[of] p2a: Marill me
+|move|p2a: Marill me|Spikes|p1a: Iron Treads
+|-sidestart|p1: blackgokuking|Spikes
+|
+|upkeep
+|turn|14
+|
+|t:|1781058699
+|move|p1a: Iron Treads|Earthquake|p2a: Marill me
+|-damage|p2a: Marill me|6/100
+|move|p2a: Marill me|Spikes|p1a: Iron Treads
+|-sidestart|p1: blackgokuking|Spikes
+|
+|upkeep
+|turn|15
+|
+|t:|1781058704
+|move|p1a: Iron Treads|Earthquake|p2a: Marill me
+|-damage|p2a: Marill me|0 fnt
+|faint|p2a: Marill me
+|
+|upkeep
+|
+|t:|1781058711
+|switch|p2a: Chud|Dragonite, F|100/100
+|turn|16
+|
+|t:|1781058716
+|-terastallize|p1a: Iron Treads|Ghost
+|move|p2a: Chud|Extreme Speed|p1a: Iron Treads
+|-immune|p1a: Iron Treads
+|move|p1a: Iron Treads|Endeavor|p2a: Chud
+|-damage|p2a: Chud|6/100
+|
+|upkeep
+|turn|17
+|
+|t:|1781058723
+|move|p1a: Iron Treads|Rapid Spin|p2a: Chud
+|-damage|p2a: Chud|0 fnt
+|-boost|p1a: Iron Treads|spe|1
+|-sideend|p1: blackgokuking|Spikes|[from] move: Rapid Spin|[of] p1a: Iron Treads
+|faint|p2a: Chud
+|
+|upkeep
+|-message|extra-pseudo man forfeited.
+|
+|win|blackgokuking
+|raw|blackgokuking's rating: 1581 &rarr; <strong>1604</strong><br />(+23 for winning)
+|raw|extra-pseudo man's rating: 1636 &rarr; <strong>1613</strong><br />(-23 for losing)
+|l|☆extra-pseudo man
+|player|p2|

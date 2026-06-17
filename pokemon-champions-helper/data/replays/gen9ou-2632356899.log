@@ -1,0 +1,265 @@
+|j|☆Yanecc
+|j|☆LowEL0God
+|t:|1781514225
+|gametype|singles
+|player|p1|Yanecc|burglar|1571
+|player|p2|LowEL0God|265|1681
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Glimmora, F|
+|poke|p1|Indeedee, M|
+|poke|p1|Armarouge, M|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Hawlucha, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Yanecc)
+|c|☆LowEL0God|hf
+|inactive|LowEL0God also wants the timer to be on.
+|c|☆Yanecc|hf
+|
+|t:|1781514239
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: PON PON PATA PON|Ogerpon-Wellspring, F|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|1
+|
+|t:|1781514258
+|move|p1a: PON PON PATA PON|U-turn|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|76/100
+|
+|t:|1781514260
+|switch|p1a: InDD|Indeedee, M, shiny|100/100|[from] U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: InDD
+|move|p2a: Raging Bolt|Thunder|p1a: InDD
+|-damage|p1a: InDD|0 fnt
+|faint|p1a: InDD
+|
+|upkeep
+|
+|t:|1781514264
+|switch|p1a: POCKET ROCKET|Armarouge, M, shiny|100/100
+|turn|2
+|
+|t:|1781514269
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Overqwil|Overqwil, F|100/100
+|move|p1a: POCKET ROCKET|Expanding Force|p2a: Overqwil
+|-immune|p2a: Overqwil
+|
+|upkeep
+|turn|3
+|
+|t:|1781514270
+|move|p2a: Overqwil|Crunch|p1a: POCKET ROCKET
+|-supereffective|p1a: POCKET ROCKET
+|-damage|p1a: POCKET ROCKET|0 fnt
+|faint|p1a: POCKET ROCKET
+|-damage|p2a: Overqwil|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781514280
+|switch|p1a: Absolute Sama|Hawlucha, M, shiny|100/100
+|-enditem|p1a: Absolute Sama|Psychic Seed
+|-boost|p1a: Absolute Sama|spd|1|[from] item: Psychic Seed
+|turn|4
+|
+|t:|1781514284
+|move|p1a: Absolute Sama|Swords Dance|p1a: Absolute Sama
+|-boost|p1a: Absolute Sama|atk|2
+|move|p2a: Overqwil|Gunk Shot|p1a: Absolute Sama|[miss]
+|-miss|p2a: Overqwil|p1a: Absolute Sama
+|
+|upkeep
+|turn|5
+|
+|t:|1781514295
+|switch|p2a: Raging Bolt|Raging Bolt|76/100
+|move|p1a: Absolute Sama|Swords Dance|p1a: Absolute Sama
+|-boost|p1a: Absolute Sama|atk|2
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1781514297
+|move|p2a: Raging Bolt|Thunderclap|p1a: Absolute Sama
+|-supereffective|p1a: Absolute Sama
+|-damage|p1a: Absolute Sama|8/100
+|move|p1a: Absolute Sama|Close Combat|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-unboost|p1a: Absolute Sama|def|1
+|-unboost|p1a: Absolute Sama|spd|1
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781514300
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|7
+|
+|t:|1781514304
+|switch|p1a: PON PON PATA PON|Ogerpon-Wellspring, F|100/100
+|move|p2a: Barraskewda|Aqua Jet|p1a: PON PON PATA PON
+|-immune|p1a: PON PON PATA PON|[from] ability: Water Absorb
+|
+|upkeep
+|turn|8
+|
+|t:|1781514312
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: PON PON PATA PON|Swords Dance|p1a: PON PON PATA PON
+|-boost|p1a: PON PON PATA PON|atk|2
+|
+|upkeep
+|turn|9
+|
+|t:|1781514314
+|move|p2a: Kingambit|Sucker Punch|p1a: PON PON PATA PON
+|-damage|p1a: PON PON PATA PON|39/100
+|move|p1a: PON PON PATA PON|Ivy Cudgel|p2a: Kingambit|[anim] Ivy Cudgel Water
+|-crit|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen1|[silent]
+|
+|upkeep
+|
+|t:|1781514314
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|10
+|
+|t:|1781514316
+|move|p2a: Barraskewda|Close Combat|p1a: PON PON PATA PON
+|-damage|p1a: PON PON PATA PON|0 fnt
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|faint|p1a: PON PON PATA PON
+|
+|upkeep
+|
+|t:|1781514318
+|switch|p1a: Pet Rock|Glimmora, F, shiny|100/100
+|turn|11
+|
+|t:|1781514322
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Pet Rock|Earth Power|p2a: Pelipper
+|-immune|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781514325
+|-terastallize|p2a: Pelipper|Ground
+|move|p1a: Pet Rock|Power Gem|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|70/100
+|move|p2a: Pelipper|Weather Ball|p1a: Pet Rock
+|-supereffective|p1a: Pet Rock
+|-enditem|p1a: Pet Rock|Focus Sash
+|-damage|p1a: Pet Rock|1/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781514327
+|move|p1a: Pet Rock|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: LowEL0God|move: Stealth Rock
+|move|p2a: Pelipper|U-turn|p1a: Pet Rock
+|-resisted|p1a: Pet Rock
+|-damage|p1a: Pet Rock|0 fnt
+|-activate|p1a: Pet Rock|ability: Toxic Debris
+|-sidestart|p2: LowEL0God|move: Toxic Spikes
+|faint|p1a: Pet Rock
+|
+|t:|1781514328
+|switch|p2a: Overqwil|Overqwil, F|91/100|[from] U-turn
+|-damage|p2a: Overqwil|78/100|[from] Stealth Rock
+|-sideend|p2: LowEL0God|move: Toxic Spikes|[of] p2a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781514330
+|switch|p1a: Sheistterene|Hatterene, F, shiny|100/100
+|turn|14
+|
+|t:|1781514333
+|-terastallize|p1a: Sheistterene|Water
+|move|p2a: Overqwil|Gunk Shot|p1a: Sheistterene|[miss]
+|-miss|p2a: Overqwil|p1a: Sheistterene
+|move|p1a: Sheistterene|Nuzzle|p2a: Overqwil
+|-damage|p2a: Overqwil|73/100
+|-status|p2a: Overqwil|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781514338
+|move|p2a: Overqwil|Gunk Shot|p1a: Sheistterene
+|-damage|p1a: Sheistterene|29/100
+|-status|p1a: Sheistterene|psn
+|-enditem|p1a: Sheistterene|Eject Button
+|-damage|p2a: Overqwil|64/100 par|[from] item: Life Orb
+|
+|t:|1781514340
+|switch|p1a: Absolute Sama|Hawlucha, M, shiny|8/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781514341
+|move|p1a: Absolute Sama|Close Combat|p2a: Overqwil
+|-damage|p2a: Overqwil|4/100 par
+|-unboost|p1a: Absolute Sama|def|1
+|-unboost|p1a: Absolute Sama|spd|1
+|move|p2a: Overqwil|Crunch|p1a: Absolute Sama
+|-resisted|p1a: Absolute Sama
+|-damage|p1a: Absolute Sama|0 fnt
+|faint|p1a: Absolute Sama
+|-damage|p2a: Overqwil|0 fnt|[from] item: Life Orb
+|faint|p2a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|Yanecc forfeited.
+|
+|win|LowEL0God
+|raw|Yanecc's rating: 1571 &rarr; <strong>1557</strong><br />(-14 for losing)
+|raw|LowEL0God's rating: 1681 &rarr; <strong>1695</strong><br />(+14 for winning)
+|l|☆Yanecc
+|player|p1|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|

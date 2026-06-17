@@ -1,0 +1,372 @@
+|j|☆jefc
+|j|☆iamverykarpy
+|t:|1781017612
+|gametype|singles
+|player|p1|jefc|170|1602
+|player|p2|iamverykarpy|colress|1644
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zamazenta-*|
+|poke|p1|Rillaboom, M|
+|poke|p1|Serperior, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Heatran, F|
+|poke|p1|Great Tusk|
+|poke|p2|Cetitan, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Kyurem|
+|poke|p2|Rillaboom, F|
+|poke|p2|Alomomola, F|
+|poke|p2|Great Tusk|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by iamverykarpy)
+|
+|t:|1781017626
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1781017635
+|move|p2a: Rillaboom|Grassy Glide|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|13/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|46/100
+|-fieldend|move: Grassy Terrain
+|
+|upkeep
+|turn|2
+|j| liechiteladihul
+|
+|t:|1781017645
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781017647
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|76/100
+|move|p2a: Alomomola|Scald|p1a: Zamazenta
+|-activate|p1a: Zamazenta|move: Substitute|[damage]
+|
+|-heal|p1a: Zamazenta|82/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781017652
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Alomomola|Scald|p1a: Zamazenta
+|-end|p1a: Zamazenta|Substitute
+|
+|-heal|p1a: Zamazenta|88/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781017659
+|switch|p2a: Slowking|Slowking-Galar, M, shiny|100/100
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|63/100
+|
+|-heal|p1a: Zamazenta|69/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781017664
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Slowking|Future Sight|p1a: Zamazenta
+|-start|p2a: Slowking|move: Future Sight
+|
+|-heal|p1a: Zamazenta|75/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781017671
+|move|p1a: Zamazenta|Body Press|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|69/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Zamazenta
+|-end|p1a: Zamazenta|Substitute
+|
+|-heal|p1a: Zamazenta|81/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781017678
+|-terastallize|p1a: Zamazenta|Steel
+|move|p1a: Zamazenta|Substitute|p1a: Zamazenta
+|-start|p1a: Zamazenta|Substitute
+|-damage|p1a: Zamazenta|56/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Zamazenta
+|-immune|p1a: Zamazenta
+|
+|-end|p1a: Zamazenta|move: Future Sight
+|-resisted|p1a: Zamazenta
+|-activate|p1a: Zamazenta|move: Substitute|[damage]
+|-heal|p1a: Zamazenta|62/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781017687
+|move|p1a: Zamazenta|Body Press|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|35/100
+|move|p2a: Slowking|Flamethrower|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-end|p1a: Zamazenta|Substitute
+|
+|-heal|p1a: Zamazenta|68/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781017694
+|move|p1a: Zamazenta|Body Press|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|3/100
+|move|p2a: Slowking|Flamethrower|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|29/100
+|
+|-heal|p1a: Zamazenta|35/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781017700
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Zamazenta|Body Press|p2a: Alomomola
+|-damage|p2a: Alomomola|30/100
+|-damage|p1a: Zamazenta|19/100|[from] item: Rocky Helmet|[of] p2a: Alomomola
+|
+|-heal|p1a: Zamazenta|25/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781017706
+|move|p1a: Zamazenta|Body Press|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|-damage|p1a: Zamazenta|8/100|[from] item: Rocky Helmet|[of] p2a: Alomomola
+|faint|p2a: Alomomola
+|
+|-heal|p1a: Zamazenta|14/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781017708
+|switch|p2a: Slowking|Slowking-Galar, M, shiny|36/100
+|turn|13
+|
+|t:|1781017719
+|move|p1a: Zamazenta|Body Press|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|5/100
+|move|p2a: Slowking|Flamethrower|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|upkeep
+|
+|t:|1781017740
+|switch|p1a: Great Tusk|Great Tusk|13/100
+|turn|14
+|
+|t:|1781017744
+|move|p1a: Great Tusk|Close Combat|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781017748
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|15
+|
+|t:|1781017753
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Heatran|Heatran, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Great Tusk|Rapid Spin|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|94/100
+|-boost|p2a: Great Tusk|spe|1
+|-status|p2a: Great Tusk|brn|[from] ability: Flame Body|[of] p1a: Heatran
+|-enditem|p1a: Heatran|Air Balloon
+|
+|-damage|p2a: Great Tusk|94/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1781017765
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Great Tusk|Headlong Rush|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|85/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|
+|-heal|p2a: Great Tusk|100/100 brn|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|91/100|[from] Grassy Terrain
+|-damage|p2a: Great Tusk|94/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1781017774
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Rillaboom|Rillaboom, F|46/100
+|move|p1a: Rillaboom|U-turn|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-crit|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|t:|1781017780
+|switch|p1a: Great Tusk|Great Tusk|13/100|[from] U-turn
+|
+|-heal|p1a: Great Tusk|19/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781017789
+|switch|p2a: Kyurem|Kyurem, shiny|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|18
+|
+|t:|1781017790
+|move|p1a: Great Tusk|Close Combat|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Kyurem
+|
+|-heal|p1a: Great Tusk|26/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781017793
+|switch|p2a: Great Tusk|Great Tusk|94/100 brn
+|turn|19
+|
+|t:|1781017812
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Rillaboom|Rillaboom, M|91/100
+|move|p2a: Great Tusk|Stealth Rock|p1a: Rillaboom
+|-sidestart|p1: jefc|move: Stealth Rock
+|
+|-heal|p2a: Great Tusk|100/100 brn|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|97/100|[from] Grassy Terrain
+|-damage|p2a: Great Tusk|94/100 brn|[from] brn
+|upkeep
+|turn|20
+|l| liechiteladihul
+|
+|t:|1781017815
+|move|p1a: Rillaboom|Grassy Glide|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|37/100 brn
+|move|p2a: Great Tusk|Knock Off|p1a: Rillaboom
+|-damage|p1a: Rillaboom|81/100
+|-enditem|p1a: Rillaboom|Terrain Extender|[from] move: Knock Off|[of] p2a: Great Tusk
+|
+|-heal|p2a: Great Tusk|43/100 brn|[from] Grassy Terrain
+|-heal|p2a: Great Tusk|49/100 brn|[from] item: Leftovers
+|-heal|p1a: Rillaboom|87/100|[from] Grassy Terrain
+|-damage|p2a: Great Tusk|43/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1781017818
+|move|p1a: Rillaboom|Grassy Glide|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-heal|p1a: Rillaboom|93/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781017821
+|switch|p2a: Cetitan|Cetitan, F, shiny|100/100
+|turn|22
+|
+|t:|1781017825
+|move|p1a: Rillaboom|Grassy Glide|p2a: Cetitan
+|-damage|p2a: Cetitan|67/100
+|move|p2a: Cetitan|Belly Drum|p2a: Cetitan
+|-damage|p2a: Cetitan|17/100
+|-setboost|p2a: Cetitan|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Cetitan|Sitrus Berry|[eat]
+|-heal|p2a: Cetitan|42/100|[from] item: Sitrus Berry
+|
+|-heal|p1a: Rillaboom|99/100|[from] Grassy Terrain
+|-heal|p2a: Cetitan|48/100|[from] Grassy Terrain
+|upkeep
+|turn|23
+|
+|t:|1781017830
+|move|p1a: Rillaboom|Grassy Glide|p2a: Cetitan
+|-damage|p2a: Cetitan|11/100
+|move|p2a: Cetitan|Ice Shard|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Cetitan|17/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781017836
+|switch|p1a: Great Tusk|Great Tusk|26/100
+|-damage|p1a: Great Tusk|23/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781017839
+|move|p2a: Cetitan|Ice Shard|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781017846
+|switch|p1a: Heatran|Heatran, F|94/100
+|-damage|p1a: Heatran|82/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1781017849
+|move|p1a: Heatran|Earth Power|p2a: Cetitan
+|-damage|p2a: Cetitan|0 fnt
+|faint|p2a: Cetitan
+|
+|win|jefc
+|raw|jefc's rating: 1602 &rarr; <strong>1624</strong><br />(+22 for winning)
+|raw|iamverykarpy's rating: 1644 &rarr; <strong>1622</strong><br />(-22 for losing)
+|l|☆jefc
+|player|p1|
+|l|☆iamverykarpy
+|player|p2|

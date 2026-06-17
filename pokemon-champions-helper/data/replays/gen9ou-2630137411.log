@@ -1,0 +1,179 @@
+|j|☆erhai
+|j|☆GauMongTo
+|t:|1781214272
+|gametype|singles
+|player|p1|erhai|169|1553
+|player|p2|GauMongTo|lance-gen3|1527
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Jugulis|
+|poke|p1|Ogerpon, F|
+|poke|p1|Scizor, F|
+|poke|p1|Latios, M|
+|poke|p1|Manaphy|
+|poke|p1|Sandy Shocks|
+|poke|p2|Hitmonlee, M|
+|poke|p2|Cinderace, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Great Tusk|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by GauMongTo)
+|inactive|GauMongTo has 120 seconds left.
+|
+|t:|1781214303
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sandy Shocks|Sandy Shocks|100/100
+|switch|p2a: Rocklee|Hitmonlee, M|100/100
+|-enditem|p1a: Sandy Shocks|Booster Energy
+|-activate|p1a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p1a: Sandy Shocks|protosynthesisspe
+|turn|1
+|
+|t:|1781214318
+|move|p1a: Sandy Shocks|Stealth Rock|p2a: Rocklee
+|-sidestart|p2: GauMongTo|move: Stealth Rock
+|move|p2a: Rocklee|High Jump Kick|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|0 fnt
+|faint|p1a: Sandy Shocks
+|-end|p1a: Sandy Shocks|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781214328
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|2
+|
+|t:|1781214339
+|switch|p2a: Louis XIV|Raging Bolt|100/100
+|-damage|p2a: Louis XIV|88/100|[from] Stealth Rock
+|move|p1a: Iron Jugulis|Earth Power|p2a: Louis XIV
+|-supereffective|p2a: Louis XIV
+|-damage|p2a: Louis XIV|37/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781214348
+|-terastallize|p1a: Iron Jugulis|Ground
+|move|p1a: Iron Jugulis|Earth Power|p2a: Louis XIV
+|-supereffective|p2a: Louis XIV
+|-damage|p2a: Louis XIV|0 fnt
+|faint|p2a: Louis XIV
+|-end|p2a: Louis XIV|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781214363
+|switch|p2a: Ho Oh|Corviknight, F|100/100
+|-damage|p2a: Ho Oh|88/100|[from] Stealth Rock
+|-ability|p2a: Ho Oh|Pressure
+|turn|4
+|
+|t:|1781214373
+|move|p1a: Iron Jugulis|Taunt|p2a: Ho Oh
+|-start|p2a: Ho Oh|move: Taunt
+|cant|p2a: Ho Oh|move: Taunt|Roost
+|
+|upkeep
+|turn|5
+|
+|t:|1781214377
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Ho Oh
+|-damage|p2a: Ho Oh|49/100
+|move|p2a: Ho Oh|Brave Bird|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|54/100
+|-damage|p2a: Ho Oh|36/100|[from] Recoil
+|
+|upkeep
+|turn|6
+|
+|t:|1781214381
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Ho Oh
+|-damage|p2a: Ho Oh|0 fnt
+|faint|p2a: Ho Oh
+|
+|upkeep
+|
+|t:|1781214386
+|switch|p2a: Dumbo|Great Tusk|100/100
+|-damage|p2a: Dumbo|98/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1781214393
+|move|p1a: Iron Jugulis|Hurricane|p2a: Dumbo|[miss]
+|-miss|p1a: Iron Jugulis|p2a: Dumbo
+|move|p2a: Dumbo|Headlong Rush|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|-unboost|p2a: Dumbo|def|1
+|-unboost|p2a: Dumbo|spd|1
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|-heal|p2a: Dumbo|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781214398
+|switch|p1a: Latios|Latios, M, shiny|100/100
+|turn|8
+|
+|t:|1781214401
+|move|p1a: Latios|Agility|p1a: Latios
+|-boost|p1a: Latios|spe|2
+|move|p2a: Dumbo|Knock Off|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|43/100
+|-enditem|p1a: Latios|Weakness Policy
+|-boost|p1a: Latios|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Latios|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|9
+|
+|t:|1781214405
+|move|p1a: Latios|Stored Power|p2a: Dumbo
+|-supereffective|p2a: Dumbo
+|-damage|p2a: Dumbo|0 fnt
+|faint|p2a: Dumbo
+|-end|p2a: Dumbo|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781214408
+|switch|p2a: Rocklee|Hitmonlee, M|100/100
+|-damage|p2a: Rocklee|94/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1781214413
+|-terastallize|p2a: Rocklee|Fighting
+|move|p1a: Latios|Stored Power|p2a: Rocklee
+|-supereffective|p2a: Rocklee
+|-damage|p2a: Rocklee|0 fnt
+|faint|p2a: Rocklee
+|
+|upkeep
+|-message|GauMongTo forfeited.
+|
+|win|erhai
+|raw|erhai's rating: 1553 &rarr; <strong>1572</strong><br />(+19 for winning)
+|raw|GauMongTo's rating: 1527 &rarr; <strong>1508</strong><br />(-19 for losing)
+|l|☆GauMongTo
+|player|p2|
+|l|☆erhai
+|player|p1|

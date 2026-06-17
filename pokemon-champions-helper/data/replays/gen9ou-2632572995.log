@@ -1,0 +1,243 @@
+|j|☆angel engine
+|j|☆GODKUD
+|t:|1781540284
+|gametype|singles
+|player|p1|angel engine|dawn|1541
+|player|p2|GODKUD|ghetsis|1556
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragonite, M|
+|poke|p1|Ting-Lu|
+|poke|p1|Pecharunt|
+|poke|p1|Darkrai|
+|poke|p1|Iron Valiant|
+|poke|p1|Kingambit, M|
+|poke|p2|Hydreigon, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Sandy Shocks|
+|poke|p2|Quaquaval, F|
+|poke|p2|Ceruledge, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by angel engine)
+|
+|t:|1781540292
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|switch|p2a: Sandy Shocks|Sandy Shocks|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|-enditem|p2a: Sandy Shocks|Booster Energy
+|-activate|p2a: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p2a: Sandy Shocks|protosynthesisspe
+|turn|1
+|
+|t:|1781540296
+|move|p2a: Sandy Shocks|Stealth Rock|p1a: Ting-Lu
+|-sidestart|p1: angel engine|move: Stealth Rock
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Sandy Shocks
+|-sidestart|p2: GODKUD|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781540302
+|-end|p2a: Sandy Shocks|Protosynthesis|[silent]
+|switch|p2a: Quaquaval|Quaquaval, F|100/100
+|-damage|p2a: Quaquaval|94/100|[from] Stealth Rock
+|move|p1a: Ting-Lu|Earthquake|p2a: Quaquaval
+|-damage|p2a: Quaquaval|53/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781540312
+|move|p2a: Quaquaval|Knock Off|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|93/100
+|-enditem|p1a: Ting-Lu|Red Card|[from] move: Knock Off|[of] p2a: Quaquaval
+|move|p1a: Ting-Lu|Earthquake|p2a: Quaquaval
+|-damage|p2a: Quaquaval|9/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781540320
+|move|p2a: Quaquaval|Rapid Spin|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|85/100
+|-boost|p2a: Quaquaval|spe|1
+|-sideend|p2: GODKUD|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Quaquaval
+|move|p1a: Ting-Lu|Earthquake|p2a: Quaquaval
+|-damage|p2a: Quaquaval|0 fnt
+|faint|p2a: Quaquaval
+|
+|upkeep
+|
+|t:|1781540323
+|switch|p2a: God of Destruction|Hydreigon, M|100/100
+|turn|5
+|
+|t:|1781540327
+|move|p2a: God of Destruction|Nasty Plot|p2a: God of Destruction
+|-boost|p2a: God of Destruction|spa|2
+|move|p1a: Ting-Lu|Stealth Rock|p2a: God of Destruction
+|-sidestart|p2: GODKUD|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1781540352
+|move|p2a: God of Destruction|Draco Meteor|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|-unboost|p2a: God of Destruction|spa|2
+|faint|p1a: Ting-Lu
+|-damage|p2a: God of Destruction|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781540359
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|7
+|
+|t:|1781540378
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Iron Valiant|Swords Dance|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|atk|2
+|
+|upkeep
+|turn|8
+|
+|t:|1781540383
+|move|p1a: Iron Valiant|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-enditem|p2a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Iron Valiant
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1781540385
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|turn|9
+|
+|t:|1781540393
+|move|p1a: Iron Valiant|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|17/100
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|-damage|p1a: Iron Valiant|78/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|move|p2a: Corviknight|Brave Bird|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|-damage|p2a: Corviknight|0 fnt|[from] Recoil
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781540404
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|switch|p2a: Sandy Shocks|Sandy Shocks|100/100
+|-damage|p2a: Sandy Shocks|94/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1781540412
+|move|p2a: Sandy Shocks|Spikes|p1a: Dragonite
+|-sidestart|p1: angel engine|Spikes
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|11
+|
+|t:|1781540416
+|move|p1a: Dragonite|Earthquake|p2a: Sandy Shocks
+|-supereffective|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|0 fnt
+|faint|p2a: Sandy Shocks
+|-end|p2a: Sandy Shocks|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781540427
+|switch|p2a: God of Destruction|Hydreigon, M|91/100
+|-damage|p2a: God of Destruction|78/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781540432
+|-terastallize|p2a: God of Destruction|Steel
+|move|p1a: Dragonite|Ice Spinner|p2a: God of Destruction
+|-resisted|p2a: God of Destruction
+|-damage|p2a: God of Destruction|52/100
+|move|p2a: God of Destruction|Nasty Plot|p2a: God of Destruction
+|-boost|p2a: God of Destruction|spa|2
+|
+|upkeep
+|turn|13
+|
+|t:|1781540439
+|-terastallize|p1a: Dragonite|Ground
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: God of Destruction|Draco Meteor|p1a: Dragonite
+|-damage|p1a: Dragonite|12/100
+|-unboost|p2a: God of Destruction|spa|2
+|-damage|p2a: God of Destruction|42/100|[from] item: Life Orb
+|
+|upkeep
+|turn|14
+|
+|t:|1781540446
+|move|p1a: Dragonite|Ice Spinner|p2a: God of Destruction
+|-resisted|p2a: God of Destruction
+|-damage|p2a: God of Destruction|10/100
+|move|p2a: God of Destruction|Draco Meteor|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|-unboost|p2a: God of Destruction|spa|2
+|faint|p1a: Dragonite
+|-damage|p2a: God of Destruction|0 fnt|[from] item: Life Orb
+|faint|p2a: God of Destruction
+|
+|upkeep
+|
+|t:|1781540450
+|switch|p2a: Ceruledge|Ceruledge, M|100/100
+|switch|p1a: Darkrai|Darkrai|100/100
+|-damage|p1a: Darkrai|88/100|[from] Stealth Rock
+|-damage|p1a: Darkrai|76/100|[from] Spikes
+|-damage|p2a: Ceruledge|76/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1781540453
+|move|p1a: Darkrai|Dark Pulse|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|win|angel engine
+|raw|angel engine's rating: 1541 &rarr; <strong>1562</strong><br />(+21 for winning)
+|raw|GODKUD's rating: 1556 &rarr; <strong>1535</strong><br />(-21 for losing)
+|l|☆angel engine
+|player|p1|
+|l|☆GODKUD
+|player|p2|

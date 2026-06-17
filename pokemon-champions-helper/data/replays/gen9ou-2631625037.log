@@ -1,0 +1,438 @@
+|j|☆tonyrayyy
+|j|☆looniertunes
+|t:|1781410743
+|gametype|singles
+|player|p1|tonyrayyy|169|1501
+|player|p2|looniertunes|cynthia|1549
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Zapdos|
+|poke|p1|Gholdengo|
+|poke|p1|Kingambit, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Great Tusk|
+|poke|p2|Tyranitar, F|
+|poke|p2|Sinistcha|
+|poke|p2|Corviknight, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Conkeldurr, M|
+|poke|p2|Primarina, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tonyrayyy)
+|inactive|looniertunes has 120 seconds left.
+|inactive|looniertunes has 90 seconds left.
+|
+|t:|1781410849
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|switch|p2a: Primarina|Primarina, F|100/100
+|turn|1
+|
+|t:|1781410859
+|move|p1a: Samurott|Flip Turn|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|82/100
+|
+|t:|1781410862
+|switch|p1a: Slowking|Slowking-Galar, M|100/100|[from] Flip Turn
+|move|p2a: Primarina|Moonblast|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|85/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781410869
+|move|p2a: Primarina|Flip Turn|p1a: Slowking
+|-damage|p1a: Slowking|71/100
+|
+|t:|1781410871
+|switch|p2a: Corviknight|Corviknight, M|100/100|[from] Flip Turn
+|move|p1a: Slowking|Toxic|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|upkeep
+|turn|3
+|
+|t:|1781410880
+|move|p2a: Corviknight|Brave Bird|p1a: Slowking
+|-damage|p1a: Slowking|32/100
+|-damage|p2a: Corviknight|88/100|[from] Recoil
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781410893
+|switch|p1a: Zapdos|Zapdos|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781410902
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Zapdos|Volt Switch|p2a: Tyranitar
+|-damage|p2a: Tyranitar|89/100
+|
+|t:|1781410909
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100|[from] Volt Switch
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Samurott|94/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1781410918
+|switch|p2a: Corviknight|Corviknight, M|88/100
+|move|p1a: Samurott|Ceaseless Edge|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|50/100
+|-damage|p1a: Samurott|78/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-sidestart|p2: looniertunes|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Samurott|72/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1781410942
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|99/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|94/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1781410950
+|move|p1a: Zapdos|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|42/100
+|
+|t:|1781410956
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] Volt Switch
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|92/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781410974
+|move|p1a: Great Tusk|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: looniertunes|move: Stealth Rock
+|move|p2a: Corviknight|Brave Bird|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|51/100
+|-damage|p2a: Corviknight|74/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781410984
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Corviknight|U-turn|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|97/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|t:|1781410991
+|switch|p2a: Excadrill|Excadrill, M|100/100|[from] U-turn
+|-damage|p2a: Excadrill|88/100|[from] Spikes
+|-damage|p2a: Excadrill|85/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781411004
+|switch|p1a: Zapdos|Zapdos|94/100
+|move|p2a: Excadrill|Swords Dance|p2a: Excadrill
+|-boost|p2a: Excadrill|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|88/100|[from] Sandstorm
+|upkeep
+|turn|11
+|
+|t:|1781411022
+|switch|p1a: Great Tusk|Great Tusk|51/100
+|move|p2a: Excadrill|Rock Slide|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|38/100
+|-damage|p2a: Excadrill|75/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1781411033
+|move|p1a: Great Tusk|Headlong Rush|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Excadrill
+|
+|upkeep
+|c|☆looniertunes|oh oops
+|c|☆looniertunes|lol i didnt realize sand was gone
+|
+|t:|1781411056
+|switch|p2a: Sinistcha|Sinistcha|100/100
+|turn|13
+|
+|t:|1781411060
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Slowking|Slowking-Galar, M|66/100
+|move|p2a: Sinistcha|Shadow Ball|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|30/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781411067
+|move|p2a: Sinistcha|Matcha Gotcha|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|21/100
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1781411075
+|switch|p1a: Samurott|Samurott-Hisui, F|72/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1781411102
+|move|p1a: Samurott|Knock Off|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|38/100
+|-enditem|p2a: Sinistcha|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Samurott
+|move|p2a: Sinistcha|Strength Sap|p1a: Samurott
+|-unboost|p1a: Samurott|atk|1
+|-heal|p2a: Sinistcha|100/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781411125
+|switch|p1a: Zapdos|Zapdos|88/100
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|17
+|inactive|looniertunes has 120 seconds left.
+|
+|t:|1781411180
+|-terastallize|p2a: Sinistcha|Fairy
+|move|p1a: Zapdos|Thunder Wave|p2a: Sinistcha
+|-status|p2a: Sinistcha|par
+|cant|p2a: Sinistcha|par
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1781411188
+|move|p1a: Zapdos|Volt Switch|p2a: Sinistcha
+|-damage|p2a: Sinistcha|77/100 par
+|
+|t:|1781411191
+|switch|p1a: Slowking|Slowking-Galar, M|54/100|[from] Volt Switch
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|
+|-weather|none
+|upkeep
+|turn|19
+|
+|t:|1781411200
+|move|p2a: Sinistcha|Shadow Ball|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1781411207
+|switch|p1a: Gholdengo|Gholdengo|97/100
+|turn|20
+|
+|t:|1781411213
+|-terastallize|p1a: Gholdengo|Fairy
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|move|p2a: Sinistcha|Shadow Ball|p1a: Gholdengo
+|-damage|p1a: Gholdengo|29/100
+|-unboost|p1a: Gholdengo|spd|1
+|
+|upkeep
+|turn|21
+|
+|t:|1781411221
+|move|p1a: Gholdengo|Make It Rain|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Sinistcha
+|
+|upkeep
+|
+|t:|1781411232
+|switch|p2a: Corviknight|Corviknight, M|74/100
+|-damage|p2a: Corviknight|61/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781411236
+|move|p1a: Gholdengo|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|1/100
+|move|p2a: Corviknight|Brave Bird|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|-damage|p2a: Corviknight|0 fnt|[from] Recoil
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781411246
+|switch|p1a: Zapdos|Zapdos|88/100
+|switch|p2a: Tyranitar|Tyranitar, F|89/100
+|-damage|p2a: Tyranitar|76/100|[from] Spikes
+|-damage|p2a: Tyranitar|64/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|23
+|
+|t:|1781411253
+|move|p1a: Zapdos|Volt Switch|p2a: Tyranitar
+|-damage|p2a: Tyranitar|52/100
+|
+|t:|1781411257
+|switch|p1a: Great Tusk|Great Tusk|38/100|[from] Volt Switch
+|move|p2a: Tyranitar|Ice Beam|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781411269
+|switch|p1a: Samurott|Samurott-Hisui, F|72/100
+|turn|24
+|
+|t:|1781411276
+|move|p1a: Samurott|Sacred Sword|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Samurott|65/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781411279
+|switch|p2a: Primarina|Primarina, F|82/100
+|-damage|p2a: Primarina|69/100|[from] Spikes
+|-damage|p2a: Primarina|57/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1781411290
+|move|p1a: Samurott|Sacred Sword|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|30/100
+|move|p2a: Primarina|Moonblast|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Primarina|24/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781411304
+|switch|p1a: Zapdos|Zapdos|88/100
+|turn|26
+|
+|t:|1781411309
+|move|p1a: Zapdos|Volt Switch|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|t:|1781411314
+|switch|p1a: Kingambit|Kingambit, M|100/100|[from] Volt Switch
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781411316
+|switch|p2a: Conkeldurr|Conkeldurr, M|100/100
+|-damage|p2a: Conkeldurr|88/100|[from] Spikes
+|-damage|p2a: Conkeldurr|82/100|[from] Stealth Rock
+|turn|27
+|
+|t:|1781411325
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Conkeldurr
+|-resisted|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|38/100
+|move|p2a: Conkeldurr|Drain Punch|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|-heal|p2a: Conkeldurr|87/100|[from] drain|[of] p1a: Kingambit
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Conkeldurr|80/100|[from] Sandstorm
+|-status|p2a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|
+|t:|1781411336
+|switch|p1a: Zapdos|Zapdos|88/100
+|turn|28
+|
+|t:|1781411339
+|move|p1a: Zapdos|Hurricane|p2a: Conkeldurr
+|-supereffective|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|faint|p2a: Conkeldurr
+|
+|win|tonyrayyy
+|raw|tonyrayyy's rating: 1501 &rarr; <strong>1524</strong><br />(+23 for winning)
+|raw|looniertunes's rating: 1549 &rarr; <strong>1526</strong><br />(-23 for losing)
+|l|☆looniertunes
+|player|p2|
+|l|☆tonyrayyy
+|player|p1|

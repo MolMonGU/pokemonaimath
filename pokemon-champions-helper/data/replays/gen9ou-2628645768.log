@@ -1,0 +1,166 @@
+|j|☆meio_potato
+|j|☆somsleep
+|t:|1781038642
+|gametype|singles
+|player|p1|meio_potato|hilda-wonderlauncher|1514
+|player|p2|somsleep|2|1576
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Latias, F|
+|poke|p1|Polteageist|
+|poke|p1|Zamazenta-*|
+|poke|p1|Kingambit, M|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Iron Moth|
+|poke|p2|Abomasnow, M|
+|poke|p2|Cetitan, M|
+|poke|p2|Rotom|
+|poke|p2|Illumise, F|
+|poke|p2|Keldeo-Resolute|
+|poke|p2|Iron Treads|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by meio_potato)
+|
+|t:|1781038647
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Latias|Latias, F|100/100
+|switch|p2a: Rotom|Rotom|100/100
+|turn|1
+|
+|t:|1781038656
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Rotom|Trick||[still]
+|-fail|p2a: Rotom
+|
+|upkeep
+|turn|2
+|
+|t:|1781038660
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1781038667
+|move|p2a: Iron Treads|Stealth Rock|p1a: Ogerpon
+|-sidestart|p1: meio_potato|move: Stealth Rock
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Iron Treads|[anim] Ivy Cudgel Water
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781038671
+|switch|p2a: Abomasnow|Abomasnow, M, shiny|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|turn|4
+|
+|t:|1781038675
+|move|p1a: Ogerpon|Knock Off|p2a: Abomasnow
+|-damage|p2a: Abomasnow|31/100
+|-enditem|p2a: Abomasnow|Icy Rock|[from] move: Knock Off|[of] p1a: Ogerpon
+|move|p2a: Abomasnow|Aurora Veil|p2a: Abomasnow
+|-sidestart|p2: somsleep|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781038680
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Abomasnow|Blizzard|p1a: Ogerpon
+|-damage|p1a: Ogerpon|39/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781038687
+|move|p1a: Ogerpon|Knock Off|p2a: Abomasnow
+|-damage|p2a: Abomasnow|0 fnt
+|faint|p2a: Abomasnow
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781038689
+|switch|p2a: Illumise|Illumise, F|100/100
+|turn|7
+|
+|t:|1781038692
+|move|p2a: Illumise|Encore|p1a: Ogerpon
+|-start|p1a: Ogerpon|Encore
+|move|p1a: Ogerpon|Knock Off|p2a: Illumise
+|-damage|p2a: Illumise|42/100
+|-enditem|p2a: Illumise|Eject Button|[from] move: Knock Off|[of] p1a: Ogerpon
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781038698
+|move|p2a: Illumise|Wish|p2a: Illumise
+|move|p1a: Ogerpon|Knock Off|p2a: Illumise
+|-damage|p2a: Illumise|6/100
+|
+|-weather|Snowscape|[upkeep]
+|-sideend|p2: somsleep|move: Aurora Veil
+|upkeep
+|turn|9
+|
+|t:|1781038704
+|move|p2a: Illumise|Tailwind|p2a: Illumise
+|-sidestart|p2: somsleep|move: Tailwind
+|move|p1a: Ogerpon|Knock Off|p2a: Illumise
+|-damage|p2a: Illumise|0 fnt
+|faint|p2a: Illumise
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Ogerpon|Encore
+|upkeep
+|
+|t:|1781038707
+|switch|p2a: Cetitan|Cetitan, M|100/100
+|turn|10
+|
+|t:|1781038714
+|move|p2a: Cetitan|Ice Shard|p1a: Ogerpon
+|-damage|p1a: Ogerpon|11/100
+|move|p1a: Ogerpon|Horn Leech|p2a: Cetitan
+|-damage|p2a: Cetitan|20/100
+|-heal|p1a: Ogerpon|76/100|[from] drain|[of] p2a: Cetitan
+|-enditem|p2a: Cetitan|Sitrus Berry|[eat]
+|-heal|p2a: Cetitan|44/100|[from] item: Sitrus Berry
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|-message|somsleep forfeited.
+|
+|win|meio_potato
+|raw|meio_potato's rating: 1536 &rarr; <strong>1558</strong><br />(+22 for winning)
+|raw|somsleep's rating: 1576 &rarr; <strong>1554</strong><br />(-22 for losing)
+|l|☆somsleep
+|player|p2|
+|l|☆meio_potato
+|player|p1|

@@ -1,0 +1,158 @@
+|j|☆bigburgerboss
+|j|☆N_Alder
+|t:|1781065140
+|gametype|singles
+|player|p1|bigburgerboss|dawn|1542
+|player|p2|N_Alder|ghetsis|1594
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Glimmora, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Excadrill, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Zamazenta-*|
+|poke|p2|Ursaluna, F|
+|poke|p2|Torkoal, M|
+|poke|p2|Mimikyu, M|
+|poke|p2|Slither Wing|
+|poke|p2|Hatterene, F|
+|poke|p2|Hoopa-Unbound|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by bigburgerboss)
+|
+|t:|1781065165
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Glimmora|Glimmora, M|100/100
+|switch|p2a: Hoopa|Hoopa-Unbound|100/100
+|turn|1
+|
+|t:|1781065174
+|move|p1a: Glimmora|Dazzling Gleam|p2a: Hoopa
+|-supereffective|p2a: Hoopa
+|-damage|p2a: Hoopa|59/100
+|move|p2a: Hoopa|Trick Room|p2a: Hoopa
+|-fieldstart|move: Trick Room|[of] p2a: Hoopa
+|
+|upkeep
+|turn|2
+|
+|t:|1781065181
+|move|p2a: Hoopa|Psychic|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-enditem|p1a: Glimmora|Focus Sash
+|-damage|p1a: Glimmora|1/100
+|move|p1a: Glimmora|Stealth Rock|p2a: Hoopa
+|-sidestart|p2: N_Alder|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1781065185
+|move|p2a: Hoopa|Hyperspace Fury|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-unboost|p2a: Hoopa|def|1
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: N_Alder|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1781065192
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|4
+|
+|t:|1781065203
+|move|p1a: Tyranitar|Knock Off|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|-enditem|p2a: Hoopa|Focus Sash|[from] move: Knock Off|[of] p1a: Tyranitar
+|faint|p2a: Hoopa
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1781065214
+|switch|p2a: Ursaluna|Ursaluna, F, shiny|100/100
+|-damage|p2a: Ursaluna|94/100|[from] Stealth Rock
+|-status|p2a: Ursaluna|psn
+|turn|5
+|
+|t:|1781065224
+|switch|p1a: Zamazenta|Zamazenta|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Ursaluna|Earthquake|p1a: Zamazenta
+|-damage|p1a: Zamazenta|45/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zamazenta|39/100|[from] Sandstorm
+|-damage|p2a: Ursaluna|82/100 psn|[from] psn
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|j| testingrainteam1
+|
+|t:|1781065234
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Zamazenta|Close Combat|p2a: Hatterene
+|-resisted|p2a: Hatterene
+|-damage|p2a: Hatterene|85/100
+|-unboost|p1a: Zamazenta|def|1
+|-unboost|p1a: Zamazenta|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zamazenta|33/100|[from] Sandstorm
+|-damage|p2a: Hatterene|79/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1781065238
+|move|p1a: Zamazenta|Heavy Slam|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zamazenta|27/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781065244
+|switch|p2a: Slither Wing|Slither Wing, shiny|100/100
+|-damage|p2a: Slither Wing|88/100|[from] Stealth Rock
+|-status|p2a: Slither Wing|psn
+|turn|8
+|l|☆N_Alder
+|inactive|N_Alder disconnected and has a minute to reconnect!
+|player|p2|
+|
+|t:|1781065265
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Slither Wing|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|64/100
+|inactive|N_Alder has 30 seconds to reconnect!
+|inactive|N_Alder has 20 seconds to reconnect!
+|inactive|N_Alder has 15 seconds to reconnect!
+|inactive|N_Alder has 10 seconds to reconnect!
+|inactive|N_Alder has 5 seconds to reconnect!
+|-message|N_Alder lost due to inactivity.
+|
+|win|bigburgerboss
+|raw|bigburgerboss's rating: 1542 &rarr; <strong>1565</strong><br />(+23 for winning)
+|raw|N_Alder's rating: 1594 &rarr; <strong>1571</strong><br />(-23 for losing)
+|l|☆bigburgerboss
+|player|p1|
+|l| testingrainteam1

@@ -1,0 +1,189 @@
+|j|☆extra-pseudo man
+|j|☆guingil
+|t:|1781373482
+|gametype|singles
+|player|p1|extra-pseudo man|102|1624
+|player|p2|guingil|169|1521
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Dragonite, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Tyranitar, F|
+|poke|p1|Metagross|
+|poke|p1|Goodra-Hisui, F|
+|poke|p1|Garchomp, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Hydrapple, M|
+|poke|p2|Enamorus, F|
+|poke|p2|Garganacl, F|
+|poke|p2|Excadrill, M|
+|poke|p2|Alomomola, F|
+|teampreview
+|
+|t:|1781373492
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: kaboom|Metagross|100/100
+|switch|p2a: Garganacl|Garganacl, F|100/100
+|turn|1
+|j| ogkbee
+|
+|t:|1781373505
+|move|p1a: kaboom|Heavy Slam|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|30/100
+|move|p2a: Garganacl|Salt Cure|p1a: kaboom
+|-resisted|p1a: kaboom
+|-damage|p1a: kaboom|94/100
+|-start|p1a: kaboom|Salt Cure
+|
+|-heal|p2a: Garganacl|36/100|[from] item: Leftovers
+|-damage|p1a: kaboom|69/100|[from] Salt Cure
+|upkeep
+|turn|2
+|
+|t:|1781373512
+|switch|p2a: Hydrapple|Hydrapple, M|100/100
+|move|p1a: kaboom|Heavy Slam|p2a: Hydrapple
+|-damage|p2a: Hydrapple|46/100
+|-damage|p1a: kaboom|52/100|[from] item: Rocky Helmet|[of] p2a: Hydrapple
+|
+|-damage|p1a: kaboom|27/100|[from] Salt Cure
+|upkeep
+|turn|3
+|
+|t:|1781373521
+|switch|p1a: The goot|Goodra-Hisui, F|100/100
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781373530
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: The goot|Thunderbolt|p2a: Tyranitar
+|-damage|p2a: Tyranitar|68/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781373536
+|switch|p1a: Marill me|Garchomp, M|100/100
+|move|p2a: Tyranitar|Low Kick|p1a: Marill me
+|-damage|p1a: Marill me|73/100
+|-damage|p2a: Tyranitar|56/100|[from] ability: Rough Skin|[of] p1a: Marill me
+|-damage|p2a: Tyranitar|39/100|[from] item: Rocky Helmet|[of] p1a: Marill me
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781373546
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|move|p1a: Marill me|Spikes|p2a: Enamorus
+|-sidestart|p2: guingil|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Enamorus|94/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1781373550
+|switch|p2a: Garganacl|Garganacl, F|36/100
+|-damage|p2a: Garganacl|24/100|[from] Spikes
+|switch|p1a: Tyranocif|Tyranitar, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Garganacl|30/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781373558
+|switch|p2a: Hydrapple|Hydrapple, M|79/100
+|-damage|p2a: Hydrapple|67/100|[from] Spikes
+|move|p1a: Tyranocif|Knock Off|p2a: Hydrapple
+|-damage|p2a: Hydrapple|40/100
+|-damage|p1a: Tyranocif|84/100|[from] item: Rocky Helmet|[of] p2a: Hydrapple
+|-enditem|p2a: Hydrapple|Rocky Helmet|[from] move: Knock Off|[of] p1a: Tyranocif
+|
+|-weather|none
+|-heal|p1a: Tyranocif|90/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781373574
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|-damage|p2a: Alomomola|88/100|[from] Spikes
+|move|p1a: Tyranocif|Ice Beam|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|83/100
+|
+|-heal|p1a: Tyranocif|96/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781373581
+|move|p2a: Alomomola|Flip Turn|p1a: Tyranocif
+|-supereffective|p1a: Tyranocif
+|-damage|p1a: Tyranocif|69/100
+|
+|t:|1781373589
+|switch|p2a: Hydrapple|Hydrapple, M|74/100|[from] Flip Turn
+|-damage|p2a: Hydrapple|61/100|[from] Spikes
+|move|p1a: Tyranocif|Stealth Rock|p2a: Hydrapple
+|-sidestart|p2: guingil|move: Stealth Rock
+|
+|-heal|p1a: Tyranocif|75/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781373597
+|move|p2a: Hydrapple|Earth Power|p1a: Tyranocif
+|-supereffective|p1a: Tyranocif
+|-damage|p1a: Tyranocif|45/100
+|move|p1a: Tyranocif|Ice Beam|p2a: Hydrapple
+|-supereffective|p2a: Hydrapple
+|-damage|p2a: Hydrapple|0 fnt
+|faint|p2a: Hydrapple
+|
+|-heal|p1a: Tyranocif|51/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781373605
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|-damage|p2a: Excadrill|88/100|[from] Spikes
+|-damage|p2a: Excadrill|85/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781373615
+|switch|p1a: He pulten on it|Dragapult, M|100/100
+|move|p2a: Excadrill|Rapid Spin|p1a: He pulten on it
+|-immune|p1a: He pulten on it
+|
+|-heal|p2a: Excadrill|91/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|c|☆extra-pseudo man|you should put minus evs on alo
+|-message|guingil forfeited.
+|
+|win|extra-pseudo man
+|raw|extra-pseudo man's rating: 1624 &rarr; <strong>1638</strong><br />(+14 for winning)
+|raw|guingil's rating: 1521 &rarr; <strong>1507</strong><br />(-14 for losing)
+|l|☆guingil
+|player|p2|
+|l|☆extra-pseudo man
+|player|p1|
+|l| ogkbee

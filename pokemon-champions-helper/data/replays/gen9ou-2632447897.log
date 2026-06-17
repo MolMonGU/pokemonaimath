@@ -1,0 +1,336 @@
+|j|☆alpalmaster
+|j|☆tamarisimms
+|t:|1781527595
+|gametype|singles
+|player|p1|alpalmaster|roughneck-gen4|1574
+|player|p2|tamarisimms|266|1544
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tinkaton, F|
+|poke|p1|Great Tusk|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Rotom-Wash|
+|poke|p1|Kommo-o, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Cinderace, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Iron Valiant|
+|poke|p2|Zapdos|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by alpalmaster)
+|
+|t:|1781527605
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|1
+|
+|t:|1781527615
+|move|p1a: Tornadus|Knock Off|p2a: Zapdos
+|-damage|p2a: Zapdos|85/100
+|-enditem|p2a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Zapdos|Thunderbolt|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|49/100
+|-status|p1a: Tornadus|par
+|
+|upkeep
+|turn|2
+|
+|t:|1781527627
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: Zapdos|Thunderbolt|p1a: Rotom
+|-damage|p1a: Rotom|57/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781527637
+|move|p1a: Rotom|Hydro Pump|p2a: Zapdos
+|-damage|p2a: Zapdos|49/100
+|move|p2a: Zapdos|Thunderbolt|p1a: Rotom
+|-damage|p1a: Rotom|19/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781527643
+|move|p1a: Rotom|Volt Switch|p2a: Zapdos
+|-damage|p2a: Zapdos|25/100
+|
+|t:|1781527650
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] Volt Switch
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|75/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|5
+|
+|t:|1781527659
+|move|p1a: Great Tusk|Ice Spinner|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|40/100
+|move|p2a: Zapdos|Hurricane|p1a: Great Tusk|[miss]
+|-miss|p2a: Zapdos|p1a: Great Tusk
+|
+|upkeep
+|turn|6
+|
+|t:|1781527666
+|-terastallize|p1a: Great Tusk|Ice
+|move|p1a: Great Tusk|Ice Spinner|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1781527671
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|7
+|
+|t:|1781527675
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|move|p2a: Cinderace|Pyro Ball|p1a: Kommo-o
+|-immune|p1a: Kommo-o|[from] ability: Bulletproof
+|
+|upkeep
+|turn|8
+|
+|t:|1781527681
+|switch|p1a: Tornadus|Tornadus-Therian, M|82/100 par
+|move|p2a: Cinderace|Will-O-Wisp||[still]
+|-fail|p2a: Cinderace
+|
+|upkeep
+|turn|9
+|
+|t:|1781527688
+|move|p2a: Cinderace|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|69/100 par
+|
+|t:|1781527690
+|switch|p2a: Ting-Lu|Ting-Lu|100/100|[from] U-turn
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Tornadus|U-turn|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-crit|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|77/100
+|
+|t:|1781527717
+|switch|p1a: Tinkaton|Tinkaton, F|100/100|[from] U-turn
+|-item|p1a: Tinkaton|Air Balloon
+|
+|-heal|p2a: Ting-Lu|83/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781527723
+|move|p1a: Tinkaton|Stealth Rock|p2a: Ting-Lu
+|-sidestart|p2: tamarisimms|move: Stealth Rock
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Tinkaton
+|-sidestart|p1: alpalmaster|move: Stealth Rock
+|
+|-heal|p2a: Ting-Lu|89/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781527734
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|move|p1a: Tinkaton|Encore||[still]
+|-fail|p1a: Tinkaton
+|
+|upkeep
+|turn|12
+|
+|t:|1781527738
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100 par
+|-damage|p1a: Tornadus|76/100 par|[from] Stealth Rock
+|move|p2a: Cinderace|Will-O-Wisp||[still]
+|-fail|p2a: Cinderace
+|
+|upkeep
+|turn|13
+|
+|t:|1781527745
+|move|p2a: Cinderace|Pyro Ball|p1a: Tornadus
+|-damage|p1a: Tornadus|8/100 par
+|cant|p1a: Tornadus|par
+|
+|upkeep
+|turn|14
+|
+|t:|1781527753
+|switch|p1a: Rotom|Rotom-Wash|19/100
+|-damage|p1a: Rotom|6/100|[from] Stealth Rock
+|move|p2a: Cinderace|U-turn|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|t:|1781527761
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|-damage|p2a: Ogerpon|88/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1781527766
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|-damage|p1a: Kommo-o|94/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1781527768
+|move|p2a: Ogerpon|Play Rough|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|upkeep
+|
+|t:|1781527774
+|switch|p1a: Tinkaton|Tinkaton, F|100/100
+|-damage|p1a: Tinkaton|94/100|[from] Stealth Rock
+|-item|p1a: Tinkaton|Air Balloon
+|turn|16
+|
+|t:|1781527780
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Tinkaton|[anim] Ivy Cudgel Water
+|-damage|p1a: Tinkaton|25/100
+|-enditem|p1a: Tinkaton|Air Balloon
+|move|p1a: Tinkaton|Thunder Wave|p2a: Ogerpon
+|-status|p2a: Ogerpon|par
+|
+|upkeep
+|turn|17
+|
+|t:|1781527790
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|-damage|p1a: Samurott|88/100|[from] Stealth Rock
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Samurott|[anim] Ivy Cudgel Water
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|52/100
+|
+|upkeep
+|turn|18
+|
+|t:|1781527797
+|move|p1a: Samurott|Ceaseless Edge|p2a: Ogerpon
+|-damage|p2a: Ogerpon|31/100 par
+|-sidestart|p2: tamarisimms|Spikes
+|cant|p2a: Ogerpon|par
+|
+|upkeep
+|turn|19
+|
+|t:|1781527807
+|move|p1a: Samurott|Ceaseless Edge|p2a: Ogerpon|[miss]
+|-miss|p1a: Samurott|p2a: Ogerpon
+|cant|p2a: Ogerpon|par
+|
+|upkeep
+|turn|20
+|
+|t:|1781527811
+|move|p1a: Samurott|Ceaseless Edge|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|-sidestart|p2: tamarisimms|Spikes
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1781527813
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-damage|p2a: Iron Valiant|94/100|[from] Stealth Rock
+|-damage|p2a: Iron Valiant|78/100|[from] Spikes
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|21
+|
+|t:|1781527826
+|switch|p1a: Tornadus|Tornadus-Therian, M|41/100 par
+|-damage|p1a: Tornadus|17/100 par|[from] Stealth Rock
+|move|p2a: Iron Valiant|Moonblast|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1781527835
+|switch|p1a: Great Tusk|Great Tusk, tera:Ice|100/100
+|-damage|p1a: Great Tusk|76/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1781527843
+|move|p2a: Iron Valiant|Close Combat|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|14/100
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|move|p1a: Great Tusk|Earthquake|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-heal|p1a: Great Tusk|21/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781527849
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|turn|23
+|
+|t:|1781527854
+|move|p2a: Cinderace|Pyro Ball|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781527857
+|switch|p1a: Samurott|Samurott-Hisui, F|52/100
+|-damage|p1a: Samurott|39/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781527861
+|-terastallize|p2a: Cinderace|Flying
+|move|p1a: Samurott|Razor Shell|p2a: Cinderace
+|-damage|p2a: Cinderace|23/100
+|move|p2a: Cinderace|U-turn|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|t:|1781527866
+|switch|p2a: Gholdengo|Gholdengo|100/100|[from] U-turn
+|-damage|p2a: Gholdengo|94/100|[from] Stealth Rock
+|-damage|p2a: Gholdengo|78/100|[from] Spikes
+|
+|upkeep
+|c|☆alpalmaster|gg
+|-message|alpalmaster forfeited.
+|
+|win|tamarisimms
+|raw|alpalmaster's rating: 1574 &rarr; <strong>1552</strong><br />(-22 for losing)
+|raw|tamarisimms's rating: 1544 &rarr; <strong>1566</strong><br />(+22 for winning)
+|l|☆alpalmaster
+|player|p1|
+|l|☆tamarisimms
+|player|p2|

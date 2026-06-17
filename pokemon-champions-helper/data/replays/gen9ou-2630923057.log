@@ -1,0 +1,378 @@
+|j|☆zwardo2000
+|j|☆kiritofps4
+|t:|1781311804
+|gametype|singles
+|player|p1|zwardo2000|giovanni|1561
+|player|p2|kiritofps4|clair-masters|1588
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Hatterene, F|
+|poke|p1|Darkrai|
+|poke|p1|Great Tusk|
+|poke|p1|Dragonite, F|
+|poke|p1|Gholdengo|
+|poke|p2|Latias, F|
+|poke|p2|Mimikyu, F|
+|poke|p2|Glimmora, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Iron Boulder|
+|poke|p2|Iron Moth|
+|teampreview
+|
+|t:|1781311815
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Darkrai|Darkrai|100/100
+|switch|p2a: Senbonzakura|Glimmora, F|100/100
+|turn|1
+|
+|t:|1781311819
+|move|p1a: Darkrai|Dark Pulse|p2a: Senbonzakura
+|-damage|p2a: Senbonzakura|42/100
+|move|p2a: Senbonzakura|Stealth Rock|p1a: Darkrai
+|-sidestart|p1: zwardo2000|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1781311822
+|move|p1a: Darkrai|Dark Pulse|p2a: Senbonzakura
+|-damage|p2a: Senbonzakura|0 fnt
+|faint|p2a: Senbonzakura
+|
+|upkeep
+|
+|t:|1781311834
+|switch|p2a: Smithy|Iron Boulder|100/100
+|-enditem|p2a: Smithy|Booster Energy
+|-activate|p2a: Smithy|ability: Quark Drive|[fromitem]
+|-start|p2a: Smithy|quarkdrivespe
+|turn|3
+|
+|t:|1781311842
+|move|p1a: Darkrai|Dark Pulse|p2a: Smithy
+|-supereffective|p2a: Smithy
+|-damage|p2a: Smithy|10/100
+|move|p2a: Smithy|Substitute|p2a: Smithy
+|-fail|p2a: Smithy|move: Substitute|[weak]
+|
+|upkeep
+|turn|4
+|
+|t:|1781311847
+|move|p1a: Darkrai|Dark Pulse|p2a: Smithy
+|-supereffective|p2a: Smithy
+|-damage|p2a: Smithy|0 fnt
+|faint|p2a: Smithy
+|-end|p2a: Smithy|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781311850
+|switch|p2a: Kanaria|Kingambit, M|100/100
+|-activate|p2a: Kanaria|ability: Supreme Overlord
+|-start|p2a: Kanaria|fallen2|[silent]
+|turn|5
+|
+|t:|1781311852
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|97/100|[from] Stealth Rock
+|move|p2a: Kanaria|Swords Dance|p2a: Kanaria
+|-boost|p2a: Kanaria|atk|2
+|
+|-heal|p1a: Great Tusk|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781311865
+|move|p1a: Great Tusk|Rapid Spin|p2a: Kanaria
+|-resisted|p2a: Kanaria
+|-damage|p2a: Kanaria|94/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: zwardo2000|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|move|p2a: Kanaria|Iron Head|p1a: Great Tusk
+|-damage|p1a: Great Tusk|44/100
+|
+|-heal|p1a: Great Tusk|50/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781311881
+|move|p1a: Great Tusk|Headlong Rush|p2a: Kanaria
+|-supereffective|p2a: Kanaria
+|-damage|p2a: Kanaria|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Kanaria
+|-end|p2a: Kanaria|fallen2|[silent]
+|
+|-heal|p1a: Great Tusk|56/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781311884
+|switch|p2a: Portal|Iron Moth|100/100
+|-enditem|p2a: Portal|Booster Energy
+|-activate|p2a: Portal|ability: Quark Drive|[fromitem]
+|-start|p2a: Portal|quarkdrivespe
+|turn|8
+|
+|t:|1781311890
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Portal|Fiery Dance|p1a: Kyurem
+|-damage|p1a: Kyurem|74/100
+|
+|upkeep
+|turn|9
+|
+|t:|1781311899
+|move|p2a: Portal|Sludge Wave|p1a: Kyurem
+|-damage|p1a: Kyurem|40/100
+|move|p1a: Kyurem|Earth Power|p2a: Portal
+|-supereffective|p2a: Portal
+|-damage|p2a: Portal|0 fnt
+|faint|p2a: Portal
+|-end|p2a: Portal|Quark Drive|[silent]
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by zwardo2000)
+|
+|t:|1781311903
+|switch|p2a: Latinas|Latias, F|100/100
+|turn|10
+|
+|t:|1781311907
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|-terastallize|p2a: Latinas|Poison
+|move|p2a: Latinas|Calm Mind|p2a: Latinas
+|-boost|p2a: Latinas|spa|1
+|-boost|p2a: Latinas|spd|1
+|
+|upkeep
+|turn|11
+|
+|t:|1781311911
+|move|p2a: Latinas|Calm Mind|p2a: Latinas
+|-boost|p2a: Latinas|spa|1
+|-boost|p2a: Latinas|spd|1
+|move|p1a: Hatterene|Nuzzle|p2a: Latinas
+|-damage|p2a: Latinas|97/100
+|-status|p2a: Latinas|par
+|-enditem|p2a: Latinas|Kee Berry|[eat]
+|-boost|p2a: Latinas|def|1|[from] item: Kee Berry
+|
+|upkeep
+|turn|12
+|
+|t:|1781311914
+|cant|p2a: Latinas|par
+|move|p1a: Hatterene|Psychic Noise|p2a: Latinas
+|-supereffective|p2a: Latinas
+|-damage|p2a: Latinas|73/100 par
+|-start|p2a: Latinas|move: Heal Block
+|
+|upkeep
+|turn|13
+|
+|t:|1781311924
+|move|p2a: Latinas|Calm Mind|p2a: Latinas
+|-boost|p2a: Latinas|spa|1
+|-boost|p2a: Latinas|spd|1
+|move|p1a: Hatterene|Psychic Noise|p2a: Latinas
+|-supereffective|p2a: Latinas
+|-damage|p2a: Latinas|51/100 par
+|
+|-end|p2a: Latinas|move: Heal Block
+|upkeep
+|turn|14
+|
+|t:|1781311928
+|move|p2a: Latinas|Recover|p2a: Latinas
+|-heal|p2a: Latinas|100/100 par
+|move|p1a: Hatterene|Psychic Noise|p2a: Latinas
+|-supereffective|p2a: Latinas
+|-damage|p2a: Latinas|81/100 par
+|-start|p2a: Latinas|move: Heal Block
+|
+|upkeep
+|turn|15
+|
+|t:|1781311934
+|switch|p1a: Darkrai|Darkrai|100/100
+|move|p2a: Latinas|Calm Mind|p2a: Latinas
+|-boost|p2a: Latinas|spa|1
+|-boost|p2a: Latinas|spd|1
+|
+|-end|p2a: Latinas|move: Heal Block
+|upkeep
+|turn|16
+|
+|t:|1781311937
+|move|p1a: Darkrai|Trick|p2a: Latinas
+|-activate|p1a: Darkrai|move: Trick|[of] p2a: Latinas
+|-item|p2a: Latinas|Choice Scarf|[from] move: Trick
+|-enditem|p1a: Darkrai|Choice Scarf|[silent]|[from] move: Trick
+|move|p2a: Latinas|Draining Kiss|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|9/100
+|-heal|p2a: Latinas|100/100 par|[from] drain|[of] p1a: Darkrai
+|
+|upkeep
+|turn|17
+|
+|t:|1781311945
+|switch|p1a: Kyurem|Kyurem|40/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Latinas|Draining Kiss|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781311948
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|18
+|
+|t:|1781311952
+|cant|p2a: Latinas|par
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|
+|upkeep
+|turn|19
+|
+|t:|1781311954
+|move|p2a: Latinas|Draining Kiss|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|81/100
+|move|p1a: Gholdengo|Psyshock|p2a: Latinas
+|-supereffective|p2a: Latinas
+|-damage|p2a: Latinas|21/100 par
+|
+|upkeep
+|turn|20
+|
+|t:|1781311957
+|move|p2a: Latinas|Draining Kiss|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|61/100
+|-heal|p2a: Latinas|35/100 par|[from] drain|[of] p1a: Gholdengo
+|move|p1a: Gholdengo|Psyshock|p2a: Latinas
+|-supereffective|p2a: Latinas
+|-damage|p2a: Latinas|0 fnt
+|faint|p2a: Latinas
+|
+|upkeep
+|
+|t:|1781311960
+|switch|p2a: Mimikyute|Mimikyu, F|100/100
+|turn|21
+|
+|t:|1781311963
+|move|p2a: Mimikyute|Swords Dance|p2a: Mimikyute
+|-boost|p2a: Mimikyute|atk|2
+|move|p1a: Gholdengo|Psyshock|p2a: Mimikyute
+|-activate|p2a: Mimikyute|ability: Disguise
+|-damage|p2a: Mimikyute|100/100
+|detailschange|p2a: Mimikyute|Mimikyu-Busted, F
+|-damage|p2a: Mimikyute|88/100|[from] pokemon: Mimikyu-Busted
+|
+|upkeep
+|turn|22
+|
+|t:|1781311972
+|move|p2a: Mimikyute|Shadow Claw|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|-damage|p2a: Mimikyute|78/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781311981
+|switch|p1a: Darkrai|Darkrai|9/100
+|turn|23
+|
+|t:|1781311986
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Mimikyute|Shadow Sneak|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|32/100
+|-damage|p2a: Mimikyute|62/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|-damage|p2a: Mimikyute|52/100|[from] item: Life Orb
+|
+|upkeep
+|turn|24
+|
+|t:|1781311998
+|switch|p1a: Darkrai|Darkrai|9/100
+|move|p2a: Mimikyute|Shadow Claw|p1a: Darkrai
+|-resisted|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|-damage|p2a: Mimikyute|42/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781312005
+|switch|p1a: Great Tusk|Great Tusk|56/100
+|turn|25
+|
+|t:|1781312008
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Hatterene|Hatterene, F|32/100
+|move|p2a: Mimikyute|Play Rough|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-damage|p2a: Mimikyute|26/100|[from] item: Rocky Helmet|[of] p1a: Hatterene
+|faint|p1a: Hatterene
+|-damage|p2a: Mimikyute|16/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781312010
+|switch|p1a: Great Tusk|Great Tusk|56/100
+|turn|26
+|
+|t:|1781312014
+|move|p2a: Mimikyute|Play Rough|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|-damage|p2a: Mimikyute|6/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781312016
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|27
+|
+|t:|1781312019
+|-terastallize|p1a: Dragonite|Normal
+|move|p2a: Mimikyute|Play Rough|p1a: Dragonite
+|-damage|p1a: Dragonite|58/100
+|-damage|p2a: Mimikyute|0 fnt|[from] item: Life Orb
+|faint|p2a: Mimikyute
+|
+|win|zwardo2000
+|raw|zwardo2000's rating: 1561 &rarr; <strong>1583</strong><br />(+22 for winning)
+|raw|kiritofps4's rating: 1588 &rarr; <strong>1566</strong><br />(-22 for losing)
+|c|☆zwardo2000|gg
+|l|☆zwardo2000
+|player|p1|
+|l|☆kiritofps4
+|player|p2|

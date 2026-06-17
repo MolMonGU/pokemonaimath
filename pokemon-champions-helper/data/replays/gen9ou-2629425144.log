@@ -1,0 +1,299 @@
+|j|☆sumofsquares
+|j|☆drop a baby
+|t:|1781129410
+|gametype|singles
+|player|p1|sumofsquares|steven|1786
+|player|p2|drop a baby|chase|1807
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Garchomp, M|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Iron Crown|
+|poke|p1|Great Tusk|
+|poke|p1|Iron Valiant|
+|poke|p1|Zapdos|
+|poke|p2|Enamorus, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by drop a baby)
+|c|☆drop a baby|Hf bigger bro
+|
+|t:|1781129444
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781129451
+|move|p2a: Iron Treads|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|74/100
+|-enditem|p1a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Iron Treads
+|move|p1a: Zapdos|U-turn|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|95/100
+|
+|t:|1781129458
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1781129462
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Dragapult
+|-immune|p2a: Dragapult
+|
+|upkeep
+|turn|3
+|
+|t:|1781129468
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Zapdos|Zapdos|74/100
+|move|p2a: Dragapult|Shadow Ball|p1a: Zapdos
+|-damage|p1a: Zapdos|44/100
+|-damage|p2a: Dragapult|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|
+|t:|1781129474
+|move|p2a: Dragapult|Dragon Darts|p1a: Zapdos
+|-damage|p1a: Zapdos|16/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-damage|p2a: Dragapult|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781129481
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|5
+|
+|t:|1781129485
+|move|p2a: Dragapult|Flamethrower|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|21/100
+|-status|p1a: Ninetales|brn
+|-damage|p2a: Dragapult|71/100|[from] item: Life Orb
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: sumofsquares|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Ninetales|15/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1781129492
+|switch|p2a: Iron Treads|Iron Treads|95/100
+|move|p1a: Ninetales|Blizzard|p2a: Iron Treads
+|-damage|p2a: Iron Treads|43/100
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Ninetales|9/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1781129498
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Ninetales|Blizzard|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|77/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Ninetales|3/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1781129503
+|switch|p2a: Iron Treads|Iron Treads|43/100
+|move|p1a: Ninetales|Blizzard|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Ninetales|0 fnt|[from] brn
+|faint|p1a: Ninetales
+|upkeep
+|
+|t:|1781129518
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|switch|p2a: Dragapult|Dragapult, F|71/100
+|turn|9
+|
+|t:|1781129522
+|move|p2a: Dragapult|Shadow Ball|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|35/100
+|-enditem|p1a: Iron Crown|Weakness Policy
+|-boost|p1a: Iron Crown|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Iron Crown|spa|2|[from] item: Weakness Policy
+|-damage|p2a: Dragapult|61/100|[from] item: Life Orb
+|move|p1a: Iron Crown|Agility|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spe|2
+|
+|-weather|none
+|upkeep
+|turn|10
+|j| silver jay#2240
+|
+|t:|1781129529
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|-hitcount|p2: Dragapult|1
+|
+|upkeep
+|
+|t:|1781129531
+|switch|p2a: Gholdengo|Gholdengo|77/100
+|turn|11
+|
+|t:|1781129536
+|move|p1a: Iron Crown|Stored Power|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|12/100
+|move|p2a: Gholdengo|Shadow Ball|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781129545
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|12
+|
+|t:|1781129549
+|switch|p2a: Enamorus|Enamorus, F|100/100
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|-sideend|p1: sumofsquares|move: Aurora Veil
+|upkeep
+|turn|13
+|
+|t:|1781129558
+|-terastallize|p1a: Garchomp|Fire
+|move|p2a: Enamorus|Moonblast|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|72/100
+|move|p1a: Garchomp|Iron Head|p2a: Enamorus
+|-supereffective|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|
+|upkeep
+|
+|t:|1781129567
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|turn|14
+|
+|t:|1781129572
+|-terastallize|p2a: Kingambit|Dark
+|move|p2a: Kingambit|Sucker Punch|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Kingambit|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1781129578
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|15
+|
+|t:|1781129582
+|-end|p2a: Kingambit|fallen3|[silent]
+|switch|p2a: Gholdengo|Gholdengo|12/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Gholdengo
+|-immune|p2a: Gholdengo
+|
+|upkeep
+|turn|16
+|
+|t:|1781129585
+|move|p1a: Great Tusk|Ice Spinner|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781129586
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|17
+|
+|t:|1781129588
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|move|p1a: Great Tusk|Headlong Rush|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|17/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|upkeep
+|turn|18
+|
+|t:|1781129592
+|move|p2a: Iron Valiant|Spirit Break|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781129594
+|switch|p1a: Iron Valiant|Iron Valiant, shiny|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|19
+|
+|t:|1781129596
+|move|p2a: Iron Valiant|Spirit Break|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|win|drop a baby
+|raw|sumofsquares's rating: 1786 &rarr; <strong>1767</strong><br />(-19 for losing)
+|raw|drop a baby's rating: 1807 &rarr; <strong>1826</strong><br />(+19 for winning)
+|l|☆drop a baby
+|player|p2|
+|l|☆sumofsquares
+|player|p1|
+|j| Shucklepilled
+|l| Shucklepilled

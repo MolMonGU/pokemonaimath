@@ -1,0 +1,362 @@
+|badge|p2|bronze|gen9ou|100-9
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|‽kochu_shak
+|j|‽LT_Alt1
+|t:|1781334802
+|gametype|singles
+|player|p1|kochu_shak|morty-masters2|1811
+|player|p2|LT_Alt1|1|1832
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Araquanid, F|
+|poke|p1|Gholdengo|
+|poke|p1|Iron Moth|
+|poke|p1|Iron Valiant|
+|poke|p1|Raging Bolt|
+|poke|p1|Kingambit, F|
+|poke|p2|Kyurem|
+|poke|p2|Raging Bolt|
+|poke|p2|Hatterene, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Corviknight, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by kochu_shak)
+|
+|t:|1781334820
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespa
+|turn|1
+|
+|t:|1781334830
+|-terastallize|p1a: Iron Valiant|Ghost
+|move|p1a: Iron Valiant|Shadow Ball|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781334836
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|2
+|
+|t:|1781334839
+|move|p1a: Iron Valiant|Moonblast|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|29/100
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Iron Valiant
+|-crit|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|-unboost|p2a: Raging Bolt|spa|2
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781334861
+|switch|p1a: Araquanid|Araquanid, F|100/100
+|turn|3
+|
+|t:|1781334864
+|move|p2a: Raging Bolt|Volt Switch|p1a: Araquanid
+|-supereffective|p1a: Araquanid
+|-damage|p1a: Araquanid|73/100
+|
+|t:|1781334867
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Volt Switch
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Araquanid|Sticky Web|p2a: Kyurem
+|-sidestart|p2: LT_Alt1|move: Sticky Web
+|
+|upkeep
+|turn|4
+|inactive|kochu_shak has 120 seconds left.
+|
+|t:|1781334909
+|move|p2a: Kyurem|Freeze-Dry|p1a: Araquanid
+|-supereffective|p1a: Araquanid
+|-crit|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|faint|p1a: Araquanid
+|
+|upkeep
+|
+|t:|1781334925
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen2|[silent]
+|-item|p1a: Kingambit|Air Balloon
+|turn|5
+|
+|t:|1781334929
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Kingambit|Iron Head|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|84/100
+|-damage|p1a: Kingambit|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|upkeep
+|turn|6
+|
+|t:|1781334934
+|-end|p1a: Kingambit|fallen2|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Corviknight|Defog|p1a: Gholdengo
+|-immune|p1a: Gholdengo|[from] ability: Good as Gold
+|
+|upkeep
+|turn|7
+|
+|t:|1781334942
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-activate|p2a: Ting-Lu|move: Sticky Web
+|-unboost|p2a: Ting-Lu|spe|1
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|
+|upkeep
+|turn|8
+|
+|t:|1781334947
+|move|p1a: Gholdengo|Make It Rain|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|43/100
+|-unboost|p1a: Gholdengo|spa|1
+|move|p2a: Ting-Lu|Ruination|p1a: Gholdengo|[miss]
+|-miss|p2a: Ting-Lu|p1a: Gholdengo
+|
+|-heal|p2a: Ting-Lu|49/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781334954
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|move|p2a: Ting-Lu|Ruination|p1a: Gholdengo
+|-damage|p1a: Gholdengo|51/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|-heal|p2a: Ting-Lu|55/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781334961
+|switch|p2a: Raging Bolt|Raging Bolt|29/100
+|-activate|p2a: Raging Bolt|move: Sticky Web
+|-unboost|p2a: Raging Bolt|spe|1
+|move|p1a: Gholdengo|Make It Rain|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781334966
+|switch|p2a: Ting-Lu|Ting-Lu|55/100
+|-activate|p2a: Ting-Lu|move: Sticky Web
+|-unboost|p2a: Ting-Lu|spe|1
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|11
+|
+|t:|1781334969
+|move|p1a: Gholdengo|Make It Rain|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|1/100
+|-unboost|p1a: Gholdengo|spa|1
+|move|p2a: Ting-Lu|Earthquake|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-heal|p2a: Ting-Lu|8/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781334977
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespa
+|turn|12
+|
+|t:|1781334989
+|move|p1a: Iron Moth|Fiery Dance|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781334996
+|switch|p2a: Corviknight|Corviknight, M|84/100
+|-ability|p2a: Corviknight|Pressure
+|turn|13
+|
+|t:|1781335000
+|-terastallize|p2a: Corviknight|Dragon
+|move|p1a: Iron Moth|Fiery Dance|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|59/100
+|move|p2a: Corviknight|Defog|p1a: Iron Moth
+|-unboost|p1a: Iron Moth|evasion|1
+|-sideend|p2: LT_Alt1|Sticky Web|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|14
+|
+|t:|1781335007
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Iron Moth|Fiery Dance|p2a: Slowking
+|-damage|p2a: Slowking|64/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781335012
+|move|p1a: Iron Moth|Fiery Dance|p2a: Slowking
+|-damage|p2a: Slowking|25/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781335014
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|inactive|kochu_shak has 120 seconds left.
+|
+|t:|1781335059
+|move|p1a: Iron Moth|Fiery Dance|p2a: Kyurem
+|-damage|p2a: Kyurem|43/100
+|move|p2a: Kyurem|Draco Meteor|p1a: Iron Moth
+|-crit|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|-unboost|p2a: Kyurem|spa|2
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|n|☆kochu_shak|kochushak
+|
+|t:|1781335073
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|17
+|c|☆kochu_shak|no spa boost
+|inactive|kochu_shak has 90 seconds left.
+|
+|t:|1781335103
+|move|p2a: Kyurem|Draco Meteor|p1a: Raging Bolt|[miss]
+|-miss|p2a: Kyurem|p1a: Raging Bolt
+|move|p1a: Raging Bolt|Calm Mind|p1a: Raging Bolt
+|-boost|p1a: Raging Bolt|spa|1
+|-boost|p1a: Raging Bolt|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|18
+|inactive|kochu_shak has 90 seconds left.
+|
+|t:|1781335113
+|switch|p2a: Slowking|Slowking-Galar, F|58/100
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781335115
+|switch|p2a: Kyurem|Kyurem|43/100
+|-ability|p2a: Kyurem|Pressure
+|turn|19
+|
+|t:|1781335121
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Kingambit|Kingambit, F|84/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|-item|p1a: Kingambit|Air Balloon
+|move|p2a: Kyurem|Draco Meteor|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|25/100
+|-unboost|p2a: Kyurem|spa|2
+|-enditem|p1a: Kingambit|Air Balloon
+|
+|-weather|none
+|upkeep
+|turn|20
+|
+|t:|1781335126
+|switch|p2a: Corviknight|Corviknight, M, tera:Dragon|59/100
+|-ability|p2a: Corviknight|Pressure
+|-end|p1a: Kingambit|fallen4|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781335136
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781335138
+|switch|p2a: Kyurem|Kyurem|43/100
+|-ability|p2a: Kyurem|Pressure
+|turn|22
+|j| testingrainteam1
+|
+|t:|1781335143
+|move|p1a: Raging Bolt|Thunderclap|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|22/100
+|move|p2a: Kyurem|Blizzard|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781335147
+|switch|p1a: Kingambit|Kingambit, F|25/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|turn|23
+|-message|LT_Alt1 forfeited.
+|
+|win|kochu_shak
+|raw|kochu_shak's rating: 1811 &rarr; <strong>1832</strong><br />(+21 for winning)
+|raw|LT_Alt1's rating: 1832 &rarr; <strong>1811</strong><br />(-21 for losing)
+|l|‽LT_Alt1
+|player|p2|
+|l| testingrainteam1

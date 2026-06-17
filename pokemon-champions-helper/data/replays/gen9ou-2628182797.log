@@ -1,0 +1,264 @@
+|j|☆Mca Player 11
+|j|☆EleaRosea
+|t:|1780988124
+|gametype|singles
+|player|p1|Mca Player 11|skierf|1517
+|player|p2|EleaRosea|harmony|1533
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Deoxys-Speed|
+|poke|p1|Iron Moth|
+|poke|p1|Zamazenta-*|
+|poke|p1|Gholdengo|
+|poke|p1|Rillaboom, M|
+|poke|p1|Iron Jugulis|
+|poke|p2|Ogerpon, F|
+|poke|p2|Great Tusk|
+|poke|p2|Alomomola, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Primarina, M|
+|poke|p2|Heatran, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by EleaRosea)
+|
+|t:|1780988152
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|switch|p2a: Ogerpon|Ogerpon, F|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|1
+|
+|t:|1780988156
+|switch|p1a: Iron Moth|Iron Moth, shiny|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|move|p2a: Ogerpon|Knock Off|p1a: Iron Moth
+|-damage|p1a: Iron Moth|58/100
+|
+|upkeep
+|turn|2
+|
+|t:|1780988161
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Iron Moth|Toxic Spikes|p2a: Heatran
+|-sidestart|p2: EleaRosea|move: Toxic Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1780988166
+|move|p2a: Heatran|Stealth Rock|p1a: Iron Moth
+|-sidestart|p1: Mca Player 11|move: Stealth Rock
+|move|p1a: Iron Moth|Whirlwind|p2a: Heatran
+|drag|p2a: Ogerpon|Ogerpon, F|100/100
+|-status|p2a: Ogerpon|psn
+|
+|-damage|p2a: Ogerpon|88/100 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1780988170
+|move|p2a: Ogerpon|Rock Tomb|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-damage|p2a: Ogerpon|76/100 psn|[from] psn
+|upkeep
+|
+|t:|1780988175
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-damage|p1a: Deoxys|88/100|[from] Stealth Rock
+|-ability|p1a: Deoxys|Pressure
+|turn|5
+|
+|t:|1780988187
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Deoxys|Stealth Rock|p2a: Heatran
+|-sidestart|p2: EleaRosea|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1780988195
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Deoxys|Spikes|p2a: Alomomola
+|-sidestart|p2: EleaRosea|Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1780988201
+|move|p1a: Deoxys|Spikes|p2a: Alomomola
+|-sidestart|p2: EleaRosea|Spikes
+|move|p2a: Alomomola|Flip Turn|p1a: Deoxys
+|-damage|p1a: Deoxys|67/100
+|-damage|p2a: Alomomola|84/100|[from] item: Rocky Helmet|[of] p1a: Deoxys
+|
+|t:|1780988203
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] Flip Turn
+|-status|p2a: Great Tusk|psn
+|-damage|p2a: Great Tusk|98/100 psn|[from] Stealth Rock
+|-damage|p2a: Great Tusk|81/100 psn|[from] Spikes
+|
+|-heal|p2a: Great Tusk|87/100 psn|[from] item: Leftovers
+|-damage|p2a: Great Tusk|75/100 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1780988209
+|-terastallize|p1a: Deoxys|Ghost
+|move|p1a: Deoxys|Spikes|p2a: Great Tusk
+|-sidestart|p2: EleaRosea|Spikes
+|move|p2a: Great Tusk|Rapid Spin|p1a: Deoxys
+|-immune|p1a: Deoxys
+|
+|-heal|p2a: Great Tusk|81/100 psn|[from] item: Leftovers
+|-damage|p2a: Great Tusk|69/100 psn|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1780988217
+|move|p1a: Deoxys|Pain Split|p2a: Great Tusk
+|-sethp|p2a: Great Tusk|62/100 psn|[from] move: Pain Split|[silent]
+|-sethp|p1a: Deoxys|75/100|[from] move: Pain Split
+|move|p2a: Great Tusk|Headlong Rush|p1a: Deoxys
+|-damage|p1a: Deoxys|3/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-damage|p2a: Great Tusk|45/100 psn|[from] item: Rocky Helmet|[of] p1a: Deoxys
+|
+|-heal|p2a: Great Tusk|51/100 psn|[from] item: Leftovers
+|-damage|p2a: Great Tusk|39/100 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1780988226
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-status|p2a: Rillaboom|psn
+|-damage|p2a: Rillaboom|88/100 psn|[from] Stealth Rock
+|-damage|p2a: Rillaboom|63/100 psn|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Deoxys|Pain Split|p2a: Rillaboom
+|-sethp|p2a: Rillaboom|33/100 psn|[from] move: Pain Split|[silent]
+|-sethp|p1a: Deoxys|42/100|[from] move: Pain Split
+|
+|-heal|p1a: Deoxys|48/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|39/100 psn|[from] Grassy Terrain
+|-damage|p2a: Rillaboom|26/100 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1780988230
+|switch|p1a: Iron Jugulis|Iron Jugulis, shiny|100/100
+|-damage|p1a: Iron Jugulis|76/100|[from] Stealth Rock
+|-enditem|p1a: Iron Jugulis|Booster Energy
+|-activate|p1a: Iron Jugulis|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|move|p2a: Rillaboom|Knock Off|p1a: Iron Jugulis
+|-resisted|p1a: Iron Jugulis
+|-crit|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|52/100
+|
+|-heal|p2a: Rillaboom|32/100 psn|[from] Grassy Terrain
+|-damage|p2a: Rillaboom|20/100 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1780988233
+|move|p1a: Iron Jugulis|Knock Off|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|-enditem|p2a: Rillaboom|Terrain Extender|[from] move: Knock Off|[of] p1a: Iron Jugulis
+|faint|p2a: Rillaboom
+|
+|upkeep
+|c|☆EleaRosea|well.
+|
+|t:|1780988245
+|switch|p2a: Primarina|Primarina, M|100/100
+|-status|p2a: Primarina|psn
+|-damage|p2a: Primarina|88/100 psn|[from] Stealth Rock
+|-damage|p2a: Primarina|63/100 psn|[from] Spikes
+|turn|13
+|
+|t:|1780988249
+|move|p1a: Iron Jugulis|Hurricane|p2a: Primarina|[miss]
+|-miss|p1a: Iron Jugulis|p2a: Primarina
+|move|p2a: Primarina|Moonblast|p1a: Iron Jugulis
+|-supereffective|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|-heal|p2a: Primarina|69/100 psn|[from] Grassy Terrain
+|-damage|p2a: Primarina|57/100 psn|[from] psn
+|upkeep
+|
+|t:|1780988254
+|switch|p1a: Rillaboom|Rillaboom, M, shiny|100/100
+|-damage|p1a: Rillaboom|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1780988259
+|switch|p2a: Heatran|Heatran, F|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|-damage|p2a: Heatran|63/100|[from] Spikes
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|
+|-heal|p1a: Rillaboom|94/100|[from] Grassy Terrain
+|-heal|p2a: Heatran|69/100|[from] Grassy Terrain
+|-heal|p2a: Heatran|76/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1780988264
+|move|p1a: Rillaboom|High Horsepower|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|-damage|p1a: Rillaboom|84/100|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|91/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1780988268
+|switch|p2a: Great Tusk|Great Tusk|39/100 psn
+|-damage|p2a: Great Tusk|36/100 psn|[from] Stealth Rock
+|-damage|p2a: Great Tusk|11/100 psn|[from] Spikes
+|turn|16
+|
+|t:|1780988272
+|move|p1a: Rillaboom|Grassy Glide|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|-damage|p1a: Rillaboom|81/100|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|87/100|[from] Grassy Terrain
+|upkeep
+|-message|EleaRosea forfeited.
+|
+|win|Mca Player 11
+|raw|Mca Player 11's rating: 1517 &rarr; <strong>1538</strong><br />(+21 for winning)
+|raw|EleaRosea's rating: 1533 &rarr; <strong>1512</strong><br />(-21 for losing)
+|l|☆EleaRosea
+|player|p2|
+|l|☆Mca Player 11
+|player|p1|

@@ -1,0 +1,480 @@
+|j|☆SofteLocke
+|j|☆PepsiEnby
+|t:|1781033175
+|gametype|singles
+|player|p1|SofteLocke|1|1650
+|player|p2|PepsiEnby|harlequin|1780
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torkoal, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Walking Wake|
+|poke|p1|Blaziken, M|
+|poke|p1|Great Tusk|
+|poke|p1|Raging Bolt|
+|poke|p2|Alomomola, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Cinderace, F|
+|poke|p2|Glaceon, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Salamence, M|
+|teampreview
+|
+|t:|1781033179
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|switch|p2a: Slowking|Slowking-Galar, F, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|
+|t:|1781033190
+|move|p1a: Torkoal|Stealth Rock|p2a: Slowking
+|-sidestart|p2: PepsiEnby|move: Stealth Rock
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781033196
+|switch|p2a: Ting-Lu|Ting-Lu, shiny|100/100|[from] Chilly Reception
+|-damage|p2a: Ting-Lu|94/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781033199
+|move|p2a: Ting-Lu|Earthquake|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|11/100
+|move|p1a: Torkoal|Will-O-Wisp|p2a: Ting-Lu
+|-status|p2a: Ting-Lu|brn
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Ting-Lu|88/100 brn|[from] brn
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by PepsiEnby)
+|
+|t:|1781033207
+|switch|p2a: Slowking|Slowking-Galar, F, shiny|100/100
+|-damage|p2a: Slowking|88/100|[from] Stealth Rock
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Slowking|94/100|[from] item: Black Sludge
+|upkeep
+|turn|4
+|
+|t:|1781033211
+|move|p1a: Hatterene|Nuzzle|p2a: Slowking
+|-damage|p2a: Slowking|91/100
+|-status|p2a: Slowking|par
+|move|p2a: Slowking|Trick|p1a: Hatterene
+|-activate|p2a: Slowking|move: Trick|[of] p1a: Hatterene
+|-item|p1a: Hatterene|Black Sludge|[from] move: Trick
+|-item|p2a: Slowking|Eject Button|[from] move: Trick
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Hatterene|88/100|[from] item: Black Sludge
+|upkeep
+|turn|5
+|
+|t:|1781033216
+|move|p1a: Hatterene|Psychic Noise|p2a: Slowking
+|-damage|p2a: Slowking|67/100 par
+|-start|p2a: Slowking|move: Heal Block
+|-enditem|p2a: Slowking|Eject Button
+|
+|t:|1781033226
+|switch|p2a: Cinderace|Cinderace, F|100/100
+|
+|-weather|none
+|-damage|p1a: Hatterene|76/100|[from] item: Black Sludge
+|upkeep
+|turn|6
+|
+|t:|1781033236
+|move|p2a: Cinderace|Court Change|p2a: Cinderace
+|-swapsideconditions
+|-activate|p2a: Cinderace|move: Court Change
+|move|p1a: Hatterene|Nuzzle|p2a: Cinderace
+|-damage|p2a: Cinderace|95/100
+|-status|p2a: Cinderace|par
+|
+|-damage|p1a: Hatterene|64/100|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1781033241
+|move|p2a: Cinderace|U-turn|p1a: Hatterene
+|-damage|p1a: Hatterene|49/100
+|
+|t:|1781033243
+|switch|p2a: Slowking|Slowking-Galar, F, shiny|99/100 par|[from] U-turn
+|move|p1a: Hatterene|Healing Wish|p1a: Hatterene
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1781033247
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|8
+|
+|t:|1781033251
+|move|p1a: Great Tusk|Headlong Rush|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|1/100 par
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|cant|p2a: Slowking|par
+|
+|upkeep
+|turn|9
+|
+|t:|1781033259
+|switch|p2a: Salamence|Salamence, M|100/100
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Great Tusk|atk|1
+|move|p1a: Great Tusk|Headlong Rush|p2a: Salamence
+|-immune|p2a: Salamence
+|
+|upkeep
+|turn|10
+|
+|t:|1781033264
+|move|p1a: Great Tusk|Ice Spinner|p2a: Salamence
+|-supereffective|p2a: Salamence
+|-crit|p2a: Salamence
+|-damage|p2a: Salamence|0 fnt
+|faint|p2a: Salamence
+|
+|upkeep
+|
+|t:|1781033270
+|switch|p2a: Glaceon|Glaceon, F, shiny|100/100
+|turn|11
+|
+|t:|1781033273
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, M|11/100
+|-heal|p1a: Torkoal|100/100|[from] move: Healing Wish
+|-damage|p1a: Torkoal|76/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Glaceon|Freeze-Dry|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|47/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1781033283
+|switch|p1a: Blaziken|Blaziken, M|100/100
+|-damage|p1a: Blaziken|88/100|[from] Stealth Rock
+|move|p2a: Glaceon|Mud Shot|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|24/100
+|-unboost|p1a: Blaziken|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1781033289
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Blaziken|Protect||[still]
+|-fail|p1a: Blaziken
+|
+|-weather|SunnyDay|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|14
+|
+|t:|1781033298
+|move|p1a: Blaziken|Overheat|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|67/100
+|-unboost|p1a: Blaziken|spa|2
+|move|p2a: Alomomola|Flip Turn|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|t:|1781033302
+|switch|p2a: Slowking|Slowking-Galar, F, shiny|34/100 par|[from] Flip Turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781033310
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|15
+|
+|t:|1781033319
+|switch|p2a: Cinderace|Cinderace, F|95/100 par
+|move|p1a: Great Tusk|Headlong Rush|p2a: Cinderace
+|-supereffective|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Cinderace
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1781033328
+|switch|p2a: Slowking|Slowking-Galar, F, shiny|68/100 par
+|turn|16
+|
+|t:|1781033333
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-damage|p1a: Raging Bolt|88/100|[from] Stealth Rock
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|-terastallize|p2a: Slowking|Fairy
+|move|p2a: Slowking|Toxic|p1a: Raging Bolt
+|-status|p1a: Raging Bolt|tox
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Raging Bolt|82/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1781033338
+|switch|p2a: Ting-Lu|Ting-Lu, shiny|88/100 brn
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Raging Bolt|Weather Ball|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|45/100 brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Raging Bolt|70/100 tox|[from] psn
+|-damage|p2a: Ting-Lu|39/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1781033345
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Raging Bolt|Weather Ball|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|78/100
+|
+|-weather|none
+|-end|p1a: Raging Bolt|Protosynthesis
+|-damage|p1a: Raging Bolt|52/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1781033350
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, M|47/100
+|-damage|p1a: Torkoal|23/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|switch|p2a: Ting-Lu|Ting-Lu, shiny|39/100 brn
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Ting-Lu|32/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1781033357
+|switch|p2a: Slowking|Slowking-Galar, F, shiny, tera:Fairy|100/100 par
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781033364
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|52/100 tox
+|-damage|p1a: Raging Bolt|39/100 tox|[from] Stealth Rock
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Slowking|Toxic|p1a: Raging Bolt
+|-fail|p1a: Raging Bolt|tox
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Raging Bolt|33/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1781033369
+|move|p1a: Raging Bolt|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|58/100 par
+|
+|t:|1781033373
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Walking Wake|Walking Wake|100/100|[from] Volt Switch
+|-damage|p1a: Walking Wake|88/100|[from] Stealth Rock
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|-end|p1a: Walking Wake|Protosynthesis
+|
+|t:|1781033377
+|switch|p2a: Glaceon|Glaceon, F, shiny|100/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1781033380
+|move|p1a: Walking Wake|Flamethrower|p2a: Glaceon
+|-supereffective|p2a: Glaceon
+|-damage|p2a: Glaceon|30/100
+|move|p2a: Glaceon|Freeze-Dry|p1a: Walking Wake
+|-supereffective|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Glaceon|36/100|[from] ability: Ice Body
+|upkeep
+|
+|t:|1781033392
+|switch|p1a: Raging Bolt|Raging Bolt|33/100 tox
+|-damage|p1a: Raging Bolt|21/100 tox|[from] Stealth Rock
+|turn|24
+|
+|t:|1781033397
+|switch|p2a: Ting-Lu|Ting-Lu, shiny|32/100 brn
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|-unboost|p1a: Raging Bolt|spa|2
+|faint|p2a: Ting-Lu
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Raging Bolt|15/100 tox|[from] psn
+|upkeep
+|
+|t:|1781033412
+|switch|p2a: Slowking|Slowking-Galar, F, shiny, tera:Fairy|92/100 par
+|turn|25
+|
+|t:|1781033415
+|move|p1a: Raging Bolt|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|75/100 par
+|
+|t:|1781033416
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Torkoal|Torkoal, M|23/100|[from] Volt Switch
+|-damage|p1a: Torkoal|0 fnt|[from] Stealth Rock
+|faint|p1a: Torkoal
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|
+|t:|1781033422
+|switch|p2a: Glaceon|Glaceon, F, shiny|36/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Glaceon|42/100|[from] ability: Ice Body
+|upkeep
+|
+|t:|1781033429
+|switch|p1a: Raging Bolt|Raging Bolt|15/100 tox
+|-damage|p1a: Raging Bolt|3/100 tox|[from] Stealth Rock
+|turn|26
+|
+|t:|1781033433
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Glaceon
+|-damage|p2a: Glaceon|0 fnt
+|-unboost|p1a: Raging Bolt|spa|2
+|faint|p2a: Glaceon
+|
+|-weather|none
+|-damage|p1a: Raging Bolt|0 fnt|[from] psn
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|upkeep
+|
+|t:|1781033441
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|turn|27
+|
+|t:|1781033452
+|-terastallize|p1a: Great Tusk|Electric
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|move|p2a: Alomomola|Flip Turn|p1a: Great Tusk
+|-damage|p1a: Great Tusk|88/100
+|
+|t:|1781033456
+|switch|p2a: Slowking|Slowking-Galar, F, shiny, tera:Fairy|100/100 par|[from] Flip Turn
+|
+|upkeep
+|turn|28
+|
+|t:|1781033465
+|move|p1a: Great Tusk|Supercell Slam|p2a: Slowking
+|-damage|p2a: Slowking|48/100 par
+|move|p2a: Slowking|Toxic|p1a: Great Tusk
+|-status|p1a: Great Tusk|tox
+|
+|-damage|p1a: Great Tusk|82/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1781033474
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Great Tusk|Supercell Slam|p2a: Alomomola
+|-supereffective|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|
+|-damage|p1a: Great Tusk|70/100 tox|[from] psn
+|upkeep
+|
+|t:|1781033478
+|switch|p2a: Slowking|Slowking-Galar, F, shiny, tera:Fairy|81/100 par
+|turn|30
+|
+|t:|1781033482
+|move|p1a: Great Tusk|Supercell Slam|p2a: Slowking
+|-damage|p2a: Slowking|19/100 par
+|move|p2a: Slowking|Ice Beam|p1a: Great Tusk
+|-damage|p1a: Great Tusk|33/100 tox
+|
+|-damage|p1a: Great Tusk|14/100 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1781033487
+|move|p1a: Great Tusk|Headlong Rush|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Slowking
+|
+|win|SofteLocke
+|raw|SofteLocke's rating: 1640 &rarr; <strong>1668</strong><br />(+28 for winning)
+|raw|PepsiEnby's rating: 1780 &rarr; <strong>1752</strong><br />(-28 for losing)
+|l|☆PepsiEnby
+|player|p2|
+|l|☆SofteLocke
+|player|p1|

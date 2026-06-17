@@ -1,0 +1,355 @@
+|j|☆iamold
+|j|☆SofteLocke
+|t:|1780894211
+|gametype|singles
+|player|p1|iamold|pilot|1564
+|player|p2|SofteLocke|265|1528
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Torkoal, F|
+|poke|p1|Ceruledge, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Walking Wake|
+|poke|p1|Ogerpon-Cornerstone, F|
+|poke|p1|Kingambit, M|
+|poke|p2|Torkoal, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Walking Wake|
+|poke|p2|Blaziken, F|
+|poke|p2|Great Tusk|
+|poke|p2|Rillaboom, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by iamold)
+|
+|t:|1780894226
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1780894229
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|move|p2a: Rillaboom|Knock Off|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-enditem|p1a: Ceruledge|Focus Sash
+|-damage|p1a: Ceruledge|1/100
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|
+|-heal|p1a: Ceruledge|7/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1780894236
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|30/100
+|-enditem|p2a: Hatterene|Eject Button
+|
+|t:|1780894245
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|
+|-heal|p1a: Ceruledge|13/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1780894248
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Rillaboom|Grassy Glide|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|73/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Torkoal|79/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1780894253
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|move|p1a: Torkoal|Eruption|p2a: Walking Wake
+|-resisted|p2a: Walking Wake
+|-damage|p2a: Walking Wake|78/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Walking Wake|84/100|[from] Grassy Terrain
+|-heal|p1a: Torkoal|85/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1780894259
+|switch|p1a: Walking Wake|Walking Wake|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|move|p2a: Walking Wake|Dragon Pulse|p1a: Walking Wake
+|-supereffective|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Walking Wake|90/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1780894267
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|turn|6
+|
+|t:|1780894274
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Hatterene|Hatterene, F|30/100
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Ceruledge|Ceruledge, M|13/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1780894277
+|move|p1a: Ceruledge|Bitter Blade|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|-heal|p1a: Ceruledge|29/100|[from] drain|[of] p2a: Hatterene
+|faint|p2a: Hatterene
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1780894285
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|8
+|
+|t:|1780894289
+|move|p2a: Great Tusk|Headlong Rush|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Ceruledge
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1780894293
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, F|100/100
+|turn|9
+|
+|t:|1780894300
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Ogerpon|Horn Leech|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|69/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Rillaboom|75/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1780894305
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Rillaboom|[anim] Ivy Cudgel Rock
+|-damage|p2a: Rillaboom|11/100
+|move|p2a: Rillaboom|U-turn|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-ability|p1a: Ogerpon|Sturdy
+|-damage|p1a: Ogerpon|1/100
+|
+|t:|1780894312
+|switch|p2a: Walking Wake|Walking Wake|90/100|[from] U-turn
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|
+|-weather|none
+|-end|p2a: Walking Wake|Protosynthesis
+|-heal|p2a: Walking Wake|96/100|[from] Grassy Terrain
+|-heal|p1a: Ogerpon|7/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1780894318
+|move|p1a: Ogerpon|Play Rough|p2a: Walking Wake
+|-supereffective|p2a: Walking Wake
+|-damage|p2a: Walking Wake|17/100
+|move|p2a: Walking Wake|Dragon Pulse|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|-heal|p2a: Walking Wake|23/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1780894324
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|12
+|
+|t:|1780894328
+|move|p2a: Walking Wake|Dragon Pulse|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|80/100
+|move|p1a: Kingambit|Low Kick|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|-heal|p1a: Kingambit|86/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1780894329
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|13
+|
+|t:|1780894334
+|-end|p1a: Kingambit|fallen3|[silent]
+|switch|p1a: Torkoal|Torkoal, F|85/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p2a: Great Tusk|Headlong Rush|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1780894336
+|switch|p1a: Kingambit|Kingambit, M|86/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|14
+|
+|t:|1780894344
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Rillaboom|Rillaboom, F|11/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|-terastallize|p1a: Kingambit|Ghost
+|move|p1a: Kingambit|Low Kick|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Kingambit|92/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1780894346
+|switch|p2a: Blaziken|Blaziken, F|100/100
+|turn|15
+|
+|t:|1780894350
+|move|p2a: Blaziken|Overheat|p1a: Kingambit
+|-damage|p1a: Kingambit|26/100
+|-unboost|p2a: Blaziken|spa|2
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-damage|p2a: Blaziken|38/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Blaziken|44/100|[from] Grassy Terrain
+|-heal|p1a: Kingambit|33/100|[from] Grassy Terrain
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|16
+|
+|t:|1780894355
+|-end|p1a: Kingambit|fallen4|[silent]
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-activate|p1a: Raging Bolt|ability: Protosynthesis
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Blaziken|Overheat|p1a: Raging Bolt
+|-resisted|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|80/100
+|-unboost|p2a: Blaziken|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Blaziken|50/100|[from] Grassy Terrain
+|-heal|p1a: Raging Bolt|86/100|[from] Grassy Terrain
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|17
+|
+|t:|1780894359
+|move|p2a: Blaziken|Close Combat|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|47/100
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|move|p1a: Raging Bolt|Dragon Pulse|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|-damage|p1a: Raging Bolt|37/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Raging Bolt|43/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1780894361
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|18
+|
+|t:|1780894364
+|-terastallize|p2a: Great Tusk|Ground
+|move|p2a: Great Tusk|Headlong Rush|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1780894367
+|switch|p1a: Kingambit|Kingambit, M, tera:Ghost|33/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen5|[silent]
+|turn|19
+|
+|t:|1780894370
+|move|p1a: Kingambit|Sucker Punch|p2a: Great Tusk
+|-damage|p2a: Great Tusk|33/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen5|[silent]
+|
+|win|SofteLocke
+|raw|iamold's rating: 1564 &rarr; <strong>1542</strong><br />(-22 for losing)
+|raw|SofteLocke's rating: 1528 &rarr; <strong>1550</strong><br />(+22 for winning)
+|l|☆SofteLocke
+|player|p2|
+|l|☆iamold
+|player|p1|

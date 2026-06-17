@@ -1,0 +1,461 @@
+|j|☆tiftif
+|j|☆tonyrayyy
+|t:|1781303440
+|gametype|singles
+|player|p1|tiftif|266|1606
+|player|p2|tonyrayyy|101|1691
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Iron Treads|
+|poke|p1|Barraskewda, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Talonflame, F|
+|poke|p1|Keldeo-Resolute|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Zapdos|
+|poke|p2|Gholdengo|
+|poke|p2|Kingambit, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Great Tusk|
+|teampreview
+|
+|t:|1781303464
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Great Tusk Wish|Iron Treads|100/100
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|-enditem|p1a: Great Tusk Wish|Booster Energy
+|-activate|p1a: Great Tusk Wish|ability: Quark Drive|[fromitem]
+|-start|p1a: Great Tusk Wish|quarkdrivespe
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tiftif)
+|
+|t:|1781303473
+|move|p1a: Great Tusk Wish|Stealth Rock|p2a: Samurott
+|-sidestart|p2: tonyrayyy|move: Stealth Rock
+|move|p2a: Samurott|Flip Turn|p1a: Great Tusk Wish
+|-supereffective|p1a: Great Tusk Wish
+|-damage|p1a: Great Tusk Wish|46/100
+|
+|t:|1781303482
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|2
+|
+|t:|1781303491
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Great Tusk Wish|Ice Spinner|p2a: Slowking
+|-damage|p2a: Slowking|72/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781303502
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Great Tusk Wish|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|71/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781303508
+|move|p1a: Great Tusk Wish|Ice Spinner|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|39/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Great Tusk Wish
+|-resisted|p1a: Great Tusk Wish
+|-damage|p1a: Great Tusk Wish|39/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: tonyrayyy|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|5
+|
+|t:|1781303521
+|move|p1a: Great Tusk Wish|Ice Spinner|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|9/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Great Tusk Wish
+|-resisted|p1a: Great Tusk Wish
+|-damage|p1a: Great Tusk Wish|33/100
+|-boost|p2a: Great Tusk|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1781303528
+|move|p2a: Great Tusk|Stealth Rock|p1a: Great Tusk Wish
+|-sidestart|p1: tiftif|move: Stealth Rock
+|move|p1a: Great Tusk Wish|Rapid Spin|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|-boost|p1a: Great Tusk Wish|spe|1
+|-sideend|p1: tiftif|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk Wish
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781303538
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|turn|7
+|
+|t:|1781303540
+|move|p1a: Great Tusk Wish|Stealth Rock|p2a: Samurott
+|-sidestart|p2: tonyrayyy|move: Stealth Rock
+|move|p2a: Samurott|Ceaseless Edge|p1a: Great Tusk Wish
+|-damage|p1a: Great Tusk Wish|0 fnt
+|-sidestart|p1: tiftif|Spikes
+|faint|p1a: Great Tusk Wish
+|-end|p1a: Great Tusk Wish|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781303548
+|switch|p1a: Bec qui pend|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Bec qui pend
+|turn|8
+|
+|t:|1781303551
+|move|p2a: Samurott|Ceaseless Edge|p1a: Bec qui pend
+|-crit|p1a: Bec qui pend
+|-damage|p1a: Bec qui pend|53/100
+|-sidestart|p1: tiftif|Spikes
+|move|p1a: Bec qui pend|U-turn|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|76/100
+|
+|t:|1781303557
+|switch|p1a: Le Talon Ducul|Talonflame, F|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781303572
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|94/100|[from] Stealth Rock
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Le Talon Ducul|Hurricane|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|62/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781303585
+|switch|p1a: Sophie|Raging Bolt|100/100
+|-damage|p1a: Sophie|84/100|[from] Spikes
+|-enditem|p1a: Sophie|Booster Energy
+|-activate|p1a: Sophie|ability: Protosynthesis|[fromitem]
+|-start|p1a: Sophie|protosynthesisspa
+|move|p2a: Gholdengo|Shadow Ball|p1a: Sophie
+|-damage|p1a: Sophie|43/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1781303594
+|move|p1a: Sophie|Thunder|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|tonyrayyy has 120 seconds left.
+|
+|t:|1781303624
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|turn|12
+|
+|t:|1781303629
+|move|p1a: Sophie|Thunder|p2a: Slowking
+|-damage|p2a: Slowking|53/100
+|move|p2a: Slowking|Toxic|p1a: Sophie
+|-status|p1a: Sophie|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Sophie|37/100 tox|[from] psn
+|upkeep
+|turn|13
+|inactive|tonyrayyy has 120 seconds left.
+|
+|t:|1781303652
+|switch|p2a: Samurott|Samurott-Hisui, M|76/100
+|-damage|p2a: Samurott|63/100|[from] Stealth Rock
+|move|p1a: Sophie|Thunder|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Sophie|25/100 tox|[from] psn
+|upkeep
+|
+|t:|1781303662
+|switch|p2a: Slowking|Slowking-Galar, M|87/100
+|turn|14
+|
+|t:|1781303664
+|move|p1a: Sophie|Thunder|p2a: Slowking
+|-damage|p2a: Slowking|36/100
+|-status|p2a: Slowking|par
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781303674
+|switch|p2a: Kingambit|Kingambit, F|100/100|[from] Chilly Reception
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Sophie|6/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1781303683
+|move|p2a: Kingambit|Sucker Punch|p1a: Sophie
+|-damage|p1a: Sophie|0 fnt
+|faint|p1a: Sophie
+|-end|p1a: Sophie|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781303695
+|switch|p1a: Bec qui pend|Pelipper, M|53/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Bec qui pend
+|turn|16
+|
+|t:|1781303711
+|-end|p2a: Kingambit|fallen3|[silent]
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Bec qui pend|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|97/100
+|-status|p1a: Bec qui pend|par|[from] ability: Static|[of] p2a: Zapdos
+|
+|t:|1781303721
+|switch|p1a: Haskwakoubeh|Barraskewda, F|100/100|[from] U-turn
+|-damage|p1a: Haskwakoubeh|84/100|[from] Spikes
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1781303729
+|-terastallize|p1a: Haskwakoubeh|Water
+|move|p1a: Haskwakoubeh|Liquidation|p2a: Zapdos
+|-damage|p2a: Zapdos|1/100
+|move|p2a: Zapdos|Volt Switch|p1a: Haskwakoubeh
+|-supereffective|p1a: Haskwakoubeh
+|-damage|p1a: Haskwakoubeh|0 fnt
+|faint|p1a: Haskwakoubeh
+|
+|t:|1781303741
+|switch|p2a: Slowking|Slowking-Galar, M|70/100 par|[from] Volt Switch
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781303746
+|switch|p1a: Kaideos|Keldeo-Resolute|100/100
+|-damage|p1a: Kaideos|84/100|[from] Spikes
+|turn|18
+|
+|t:|1781303753
+|-terastallize|p2a: Slowking|Water
+|move|p1a: Kaideos|Substitute|p1a: Kaideos
+|-start|p1a: Kaideos|Substitute
+|-damage|p1a: Kaideos|59/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781303760
+|switch|p2a: Zapdos|Zapdos|1/100|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kaideos|66/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781303765
+|move|p1a: Kaideos|Surf|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kaideos|72/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781303771
+|switch|p2a: Slowking|Slowking-Galar, M, tera:Water|100/100 par
+|turn|20
+|
+|t:|1781303774
+|move|p1a: Kaideos|Calm Mind|p1a: Kaideos
+|-boost|p1a: Kaideos|spa|1
+|-boost|p1a: Kaideos|spd|1
+|move|p2a: Slowking|Psychic Noise|p1a: Kaideos
+|-supereffective|p1a: Kaideos
+|-damage|p1a: Kaideos|25/100
+|-start|p1a: Kaideos|move: Heal Block
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1781303784
+|move|p1a: Kaideos|Secret Sword|p2a: Slowking
+|-damage|p2a: Slowking|27/100 par
+|move|p2a: Slowking|Psychic Noise|p1a: Kaideos
+|-supereffective|p1a: Kaideos
+|-damage|p1a: Kaideos|0 fnt
+|faint|p1a: Kaideos
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781303791
+|switch|p1a: Le Talon Ducul|Talonflame, F|100/100
+|turn|22
+|
+|t:|1781303798
+|switch|p2a: Kingambit|Kingambit, F|94/100
+|-damage|p2a: Kingambit|88/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|move|p1a: Le Talon Ducul|Air Slash|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|62/100
+|
+|-weather|none
+|upkeep
+|turn|23
+|
+|t:|1781303807
+|switch|p1a: Bec qui pend|Pelipper, M|53/100 par
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Bec qui pend
+|-end|p2a: Kingambit|fallen4|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M, tera:Water|60/100 par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1781303814
+|move|p1a: Bec qui pend|U-turn|p2a: Slowking
+|-damage|p2a: Slowking|50/100 par
+|
+|t:|1781303817
+|switch|p1a: Le Talon Ducul|Talonflame, F|100/100|[from] U-turn
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|cant|p2a: Slowking|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1781303824
+|move|p1a: Le Talon Ducul|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|14/100 par
+|move|p2a: Slowking|Toxic|p1a: Le Talon Ducul
+|-status|p1a: Le Talon Ducul|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Le Talon Ducul|94/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1781303831
+|switch|p2a: Kingambit|Kingambit, F|62/100
+|-damage|p2a: Kingambit|56/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|move|p1a: Le Talon Ducul|Hurricane|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|20/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Le Talon Ducul|82/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1781303841
+|-end|p2a: Kingambit|fallen4|[silent]
+|switch|p2a: Slowking|Slowking-Galar, M, tera:Water|47/100 par
+|move|p1a: Le Talon Ducul|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|8/100 par
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Le Talon Ducul|64/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1781303850
+|switch|p2a: Kingambit|Kingambit, F|20/100
+|-damage|p2a: Kingambit|14/100|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|move|p1a: Le Talon Ducul|Hurricane|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen4|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Le Talon Ducul|40/100 tox|[from] psn
+|upkeep
+|
+|t:|1781303860
+|switch|p2a: Slowking|Slowking-Galar, M, tera:Water|42/100 par
+|turn|29
+|
+|t:|1781303864
+|move|p1a: Le Talon Ducul|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|3/100 par
+|-start|p2a: Slowking|confusion
+|-activate|p2a: Slowking|confusion
+|move|p2a: Slowking|Psychic Noise|p1a: Le Talon Ducul
+|-damage|p1a: Le Talon Ducul|0 fnt
+|faint|p1a: Le Talon Ducul
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781303871
+|switch|p1a: Bec qui pend|Pelipper, M|53/100 par
+|turn|30
+|
+|t:|1781303876
+|move|p1a: Bec qui pend|Surf|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|win|tiftif
+|raw|tiftif's rating: 1606 &rarr; <strong>1631</strong><br />(+25 for winning)
+|raw|tonyrayyy's rating: 1691 &rarr; <strong>1666</strong><br />(-25 for losing)
+|l|☆tonyrayyy
+|player|p2|
+|l|☆tiftif
+|player|p1|

@@ -1,0 +1,270 @@
+|j|☆Moistmakerjr
+|j|☆TwinkleLittleStars
+|t:|1781228923
+|gametype|singles
+|player|p1|Moistmakerjr|youngster-gen4dp|1606
+|player|p2|TwinkleLittleStars|alec-anime|1593
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cloyster, M|
+|poke|p1|Polteageist|
+|poke|p1|Maushold|
+|poke|p1|Dragonite, M|
+|poke|p1|Kommo-o, M|
+|poke|p1|Kyurem|
+|poke|p2|Pelipper, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|teampreview
+|
+|t:|1781228966
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Maushold|Maushold|100/100
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Moistmakerjr)
+|
+|t:|1781228977
+|move|p1a: Maushold|Low Sweep|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|51/100
+|-unboost|p2a: Kingambit|spe|1
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Maushold
+|-damage|p1a: Maushold|20/100
+|
+|-heal|p2a: Kingambit|57/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781228983
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|
+|-heal|p2a: Kingambit|63/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781228988
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|68/100
+|-enditem|p1a: Kommo-o|Throat Spray
+|-boost|p1a: Kommo-o|spa|1|[from] item: Throat Spray
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781228992
+|move|p1a: Kommo-o|Clanging Scales|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|-unboost|p1a: Kommo-o|def|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781228997
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|turn|5
+|
+|t:|1781229001
+|move|p2a: Iron Treads|Stealth Rock|p1a: Kommo-o
+|-sidestart|p1: Moistmakerjr|move: Stealth Rock
+|move|p1a: Kommo-o|Flamethrower|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|25/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781229005
+|move|p2a: Iron Treads|Steel Beam|p1a: Kommo-o
+|-crit|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|-damage|p2a: Iron Treads|0 fnt|[from] steelbeam
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|faint|p1a: Kommo-o
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781229013
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|switch|p1a: Maushold|Maushold|20/100
+|-damage|p1a: Maushold|7/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1781229020
+|move|p2a: Barraskewda|Liquidation|p1a: Maushold
+|-damage|p1a: Maushold|0 fnt
+|faint|p1a: Maushold
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781229028
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|-damage|p1a: Cloyster|76/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1781229036
+|move|p2a: Barraskewda|Close Combat|p1a: Cloyster
+|-supereffective|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|faint|p1a: Cloyster
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781229039
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|-damage|p1a: Dragonite|76/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1781229047
+|move|p2a: Barraskewda|Flip Turn|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|42/100
+|
+|t:|1781229049
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] Flip Turn
+|move|p1a: Dragonite|Scale Shot|p2a: Ogerpon
+|-damage|p2a: Ogerpon|79/100
+|-damage|p2a: Ogerpon|60/100
+|-damage|p2a: Ogerpon|40/100
+|-damage|p2a: Ogerpon|20/100
+|-damage|p2a: Ogerpon|1/100
+|-hitcount|p2a: Ogerpon|5
+|-unboost|p1a: Dragonite|def|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1781229052
+|move|p1a: Dragonite|Scale Shot|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|-hitcount|p2: Ogerpon|1
+|-unboost|p1a: Dragonite|def|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-weather|none
+|upkeep
+|
+|t:|1781229055
+|switch|p2a: Kingambit|Kingambit, F|63/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|turn|11
+|
+|t:|1781229058
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|-heal|p2a: Kingambit|69/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781229066
+|switch|p1a: Polteageist|Polteageist|100/100
+|-damage|p1a: Polteageist|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1781229070
+|move|p1a: Polteageist|Will-O-Wisp|p2a: Kingambit
+|-status|p2a: Kingambit|brn
+|move|p2a: Kingambit|Iron Head|p1a: Polteageist
+|-damage|p1a: Polteageist|35/100
+|-ability|p1a: Polteageist|Weak Armor|boost
+|-unboost|p1a: Polteageist|def|1
+|-boost|p1a: Polteageist|spe|2
+|
+|-heal|p2a: Kingambit|76/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|69/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1781229073
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|76/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|69/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1781229077
+|move|p2a: Kingambit|Sucker Punch|p1a: Polteageist
+|-supereffective|p1a: Polteageist
+|-damage|p1a: Polteageist|0 fnt
+|faint|p1a: Polteageist
+|
+|-heal|p2a: Kingambit|76/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|69/100 brn|[from] brn
+|upkeep
+|
+|t:|1781229078
+|switch|p1a: Kyurem|Kyurem|100/100
+|-damage|p1a: Kyurem|76/100|[from] Stealth Rock
+|-ability|p1a: Kyurem|Pressure
+|turn|15
+|
+|t:|1781229089
+|-terastallize|p2a: Kingambit|Dark
+|move|p1a: Kyurem|Body Press|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|43/100 brn
+|move|p2a: Kingambit|Iron Head|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|win|TwinkleLittleStars
+|raw|Moistmakerjr's rating: 1606 &rarr; <strong>1585</strong><br />(-21 for losing)
+|raw|TwinkleLittleStars's rating: 1593 &rarr; <strong>1614</strong><br />(+21 for winning)
+|l|☆TwinkleLittleStars
+|player|p2|
+|l|☆Moistmakerjr
+|player|p1|

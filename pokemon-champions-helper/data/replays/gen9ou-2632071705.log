@@ -1,0 +1,165 @@
+|j|☆aipt2
+|j|☆CassiusAuBellossom
+|t:|1781472574
+|gametype|singles
+|player|p1|aipt2|ghetsis|1533
+|player|p2|CassiusAuBellossom|102|1558
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Ceruledge, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Beartic, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Zapdos|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Hatterene, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by CassiusAuBellossom)
+|
+|t:|1781472582
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|switch|p2a: Armin|Pelipper, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Armin
+|turn|1
+|
+|t:|1781472595
+|-terastallize|p2a: Armin|Steel
+|move|p1a: Ninetales|Snowscape|p1a: Ninetales
+|-weather|Snowscape
+|move|p2a: Armin|U-turn|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|96/100
+|
+|t:|1781472606
+|switch|p2a: Mikasa|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781472612
+|move|p2a: Mikasa|Encore|p1a: Ninetales
+|-start|p1a: Ninetales|Encore
+|move|p1a: Ninetales|Snowscape||[still]
+|-fail|p1a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781472620
+|switch|p2a: Armin|Pelipper, F, tera:Steel|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Armin
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781472628
+|switch|p2a: Annie|Hatterene, F|100/100
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Annie
+|-damage|p2a: Annie|45/100
+|-status|p2a: Annie|par
+|-enditem|p2a: Annie|Eject Button
+|
+|t:|1781472635
+|switch|p2a: Eren|Beartic, F|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781472643
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Ninetales|Ninetales-Alola, F|96/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Eren|Swords Dance|p2a: Eren
+|-boost|p2a: Eren|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1781472651
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: aipt2|move: Aurora Veil
+|move|p2a: Eren|Trailblaze|p1a: Ninetales
+|-damage|p1a: Ninetales|81/100
+|-boost|p2a: Eren|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781472660
+|move|p1a: Ninetales|Encore|p2a: Eren
+|-start|p2a: Eren|Encore
+|move|p2a: Eren|Trailblaze|p1a: Ninetales
+|-damage|p1a: Ninetales|66/100
+|-boost|p2a: Eren|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781472678
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|move|p2a: Eren|Trailblaze|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|93/100
+|-boost|p2a: Eren|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1781472694
+|move|p2a: Eren|Trailblaze|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|85/100
+|-boost|p2a: Eren|spe|1
+|move|p1a: Kingambit|Iron Head|p2a: Eren
+|-supereffective|p2a: Eren
+|-damage|p2a: Eren|22/100
+|
+|-weather|none
+|-end|p2a: Eren|Encore
+|upkeep
+|turn|10
+|
+|t:|1781472705
+|move|p2a: Eren|Swords Dance|p2a: Eren
+|-boost|p2a: Eren|atk|2
+|move|p1a: Kingambit|Iron Head|p2a: Eren
+|-supereffective|p2a: Eren
+|-damage|p2a: Eren|0 fnt
+|faint|p2a: Eren
+|
+|upkeep
+|-message|CassiusAuBellossom forfeited.
+|
+|win|aipt2
+|raw|aipt2's rating: 1533 &rarr; <strong>1554</strong><br />(+21 for winning)
+|raw|CassiusAuBellossom's rating: 1558 &rarr; <strong>1537</strong><br />(-21 for losing)
+|l|☆CassiusAuBellossom
+|player|p2|

@@ -1,0 +1,533 @@
+|j|☆XianTwa
+|j|‽LT_Alt1
+|t:|1781416242
+|gametype|singles
+|player|p1|XianTwa|dawn|1684
+|player|p2|LT_Alt1|170|1757
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Arcanine-Hisui, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Kingambit, M|
+|poke|p1|Great Tusk|
+|poke|p1|Zapdos|
+|poke|p1|Iron Boulder|
+|poke|p2|Kyurem|
+|poke|p2|Raging Bolt|
+|poke|p2|Hatterene, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Corviknight, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by XianTwa)
+|
+|t:|1781416263
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1781416278
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|move|p2a: Kyurem|Draco Meteor|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|43/100
+|-unboost|p2a: Kyurem|spa|2
+|
+|-heal|p1a: Kingambit|49/100|[from] Grassy Terrain
+|-heal|p1a: Kingambit|55/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1781416285
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Kingambit|Iron Head|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|84/100
+|-damage|p1a: Kingambit|39/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|-heal|p1a: Kingambit|45/100|[from] Grassy Terrain
+|-heal|p1a: Kingambit|51/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1781416294
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Zapdos|Zapdos|100/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781416298
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Ting-Lu|Spikes|p1a: Great Tusk
+|-sidestart|p1: XianTwa|Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1781416304
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Great Tusk|Stealth Rock|p2a: Hatterene
+|move|p2a: Hatterene|Stealth Rock|p1a: Great Tusk|[from] ability: Magic Bounce
+|-sidestart|p1: XianTwa|move: Stealth Rock
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1781416307
+|move|p1a: Great Tusk|Rapid Spin|p2a: Hatterene
+|-damage|p2a: Hatterene|86/100
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: XianTwa|Spikes|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|-sideend|p1: XianTwa|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|move|p2a: Hatterene|Dazzling Gleam|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|2/100
+|
+|-heal|p2a: Hatterene|92/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781416319
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Arcanine|Arcanine-Hisui, M|100/100
+|move|p2a: Hatterene|Dazzling Gleam|p1a: Arcanine
+|-resisted|p1a: Arcanine
+|-damage|p1a: Arcanine|80/100
+|
+|-heal|p2a: Hatterene|98/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781416330
+|move|p1a: Arcanine|Flare Blitz|p2a: Hatterene
+|-damage|p2a: Hatterene|12/100
+|move|p2a: Hatterene|Nuzzle|p1a: Arcanine
+|-damage|p1a: Arcanine|75/100
+|-status|p1a: Arcanine|par
+|
+|-heal|p2a: Hatterene|18/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781416342
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|move|p1a: Arcanine|Flare Blitz|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|66/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781416355
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Arcanine|[miss]
+|-miss|p2a: Raging Bolt|p1a: Arcanine
+|move|p1a: Arcanine|Flare Blitz|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|31/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781416361
+|switch|p1a: Kingambit|Kingambit, M|51/100
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|14/100
+|-unboost|p2a: Raging Bolt|spa|2
+|
+|-heal|p1a: Kingambit|20/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781416369
+|move|p2a: Raging Bolt|Volt Switch|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|
+|t:|1781416377
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Volt Switch
+|-ability|p2a: Kyurem|Pressure
+|
+|upkeep
+|
+|t:|1781416383
+|switch|p1a: Iron Boulder|Iron Boulder|100/100
+|-enditem|p1a: Iron Boulder|Booster Energy
+|-activate|p1a: Iron Boulder|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Boulder|quarkdrivespe
+|turn|13
+|
+|t:|1781416388
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Iron Boulder|Swords Dance|p1a: Iron Boulder
+|-boost|p1a: Iron Boulder|atk|2
+|
+|upkeep
+|turn|14
+|
+|t:|1781416395
+|-terastallize|p1a: Iron Boulder|Fighting
+|-terastallize|p2a: Ting-Lu|Ghost
+|move|p1a: Iron Boulder|Close Combat|p2a: Ting-Lu
+|-immune|p2a: Ting-Lu
+|move|p2a: Ting-Lu|Earthquake|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|51/100
+|
+|upkeep
+|turn|15
+|
+|t:|1781416401
+|move|p1a: Iron Boulder|Mighty Cleave|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|51/100
+|move|p2a: Ting-Lu|Whirlwind|p1a: Iron Boulder
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|drag|p1a: Zapdos|Zapdos|100/100
+|
+|-heal|p2a: Ting-Lu|57/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781416410
+|move|p1a: Zapdos|Volt Switch|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|44/100
+|
+|t:|1781416423
+|switch|p1a: Rillaboom|Rillaboom, M|100/100|[from] Volt Switch
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Ting-Lu|Spikes|p1a: Rillaboom
+|-sidestart|p1: XianTwa|Spikes
+|
+|-heal|p2a: Ting-Lu|50/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|57/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1781416432
+|switch|p2a: Hatterene|Hatterene, F|18/100
+|move|p1a: Rillaboom|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|-enditem|p2a: Hatterene|Leftovers|[from] move: Knock Off|[of] p1a: Rillaboom
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781416435
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|18
+|
+|t:|1781416442
+|switch|p1a: Great Tusk|Great Tusk|2/100
+|move|p2a: Kyurem|Draco Meteor|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-unboost|p2a: Kyurem|spa|2
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781416444
+|switch|p1a: Iron Boulder|Iron Boulder, tera:Fighting|51/100
+|-damage|p1a: Iron Boulder|39/100|[from] Spikes
+|turn|19
+|
+|t:|1781416451
+|switch|p2a: Ting-Lu|Ting-Lu, tera:Ghost|57/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Iron Boulder|Swords Dance|p1a: Iron Boulder
+|-boost|p1a: Iron Boulder|atk|2
+|
+|-heal|p1a: Iron Boulder|45/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|63/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|69/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1781416457
+|move|p1a: Iron Boulder|Zen Headbutt|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|28/100
+|move|p2a: Ting-Lu|Whirlwind|p1a: Iron Boulder
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|drag|p1a: Arcanine|Arcanine-Hisui, M|75/100 par
+|-damage|p1a: Arcanine|63/100 par|[from] Spikes
+|
+|-heal|p1a: Arcanine|69/100 par|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|34/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|40/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1781416469
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|-heal|p2a: Ting-Lu|46/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781416474
+|move|p1a: Zapdos|Volt Switch|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|33/100
+|
+|t:|1781416477
+|switch|p1a: Rillaboom|Rillaboom, M|100/100|[from] Volt Switch
+|-damage|p1a: Rillaboom|88/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Ting-Lu|Spikes|p1a: Rillaboom
+|-sidestart|p1: XianTwa|Spikes
+|
+|-heal|p1a: Rillaboom|94/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|40/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|46/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1781416498
+|switch|p2a: Raging Bolt|Raging Bolt|31/100
+|move|p1a: Rillaboom|Knock Off|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-enditem|p2a: Raging Bolt|Assault Vest|[from] move: Knock Off|[of] p1a: Rillaboom
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-heal|p1a: Rillaboom|100/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781416501
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|24
+|
+|t:|1781416509
+|switch|p1a: Arcanine|Arcanine-Hisui, M|69/100 par
+|-damage|p1a: Arcanine|52/100 par|[from] Spikes
+|move|p2a: Kyurem|Draco Meteor|p1a: Arcanine
+|-damage|p1a: Arcanine|0 fnt
+|-unboost|p2a: Kyurem|spa|2
+|faint|p1a: Arcanine
+|
+|upkeep
+|
+|t:|1781416515
+|switch|p1a: Iron Boulder|Iron Boulder, tera:Fighting|45/100
+|-damage|p1a: Iron Boulder|28/100|[from] Spikes
+|turn|25
+|
+|t:|1781416520
+|move|p1a: Iron Boulder|Swords Dance|p1a: Iron Boulder
+|-boost|p1a: Iron Boulder|atk|2
+|move|p2a: Kyurem|Draco Meteor|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|0 fnt
+|-unboost|p2a: Kyurem|spa|2
+|faint|p1a: Iron Boulder
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781416523
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|26
+|
+|t:|1781416530
+|switch|p2a: Ting-Lu|Ting-Lu, tera:Ghost|46/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Zapdos|Hurricane|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|26/100
+|
+|-heal|p2a: Ting-Lu|33/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|39/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|27
+|
+|t:|1781416537
+|move|p1a: Zapdos|Volt Switch|p2a: Ting-Lu
+|-crit|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|19/100
+|
+|t:|1781416538
+|switch|p1a: Rillaboom|Rillaboom, M|100/100|[from] Volt Switch
+|-damage|p1a: Rillaboom|84/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Ting-Lu|Ruination|p1a: Rillaboom
+|-damage|p1a: Rillaboom|42/100
+|
+|-heal|p1a: Rillaboom|49/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|25/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|31/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1781416543
+|move|p1a: Rillaboom|U-turn|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|21/100
+|
+|t:|1781416544
+|switch|p1a: Zapdos|Zapdos|100/100|[from] U-turn
+|move|p2a: Ting-Lu|Ruination|p1a: Zapdos
+|-damage|p1a: Zapdos|51/100
+|
+|-heal|p2a: Ting-Lu|27/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|34/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1781416548
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Ting-Lu|Spikes|p1a: Zapdos
+|-sidestart|p1: XianTwa|Spikes
+|
+|-heal|p2a: Ting-Lu|40/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|46/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1781416552
+|move|p1a: Zapdos|Volt Switch|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|33/100
+|
+|t:|1781416553
+|switch|p1a: Rillaboom|Rillaboom, M|49/100|[from] Volt Switch
+|-damage|p1a: Rillaboom|24/100|[from] Spikes
+|move|p2a: Ting-Lu|Ruination|p1a: Rillaboom
+|-damage|p1a: Rillaboom|12/100
+|
+|-heal|p1a: Rillaboom|18/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|39/100|[from] Grassy Terrain
+|-heal|p2a: Ting-Lu|45/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1781416560
+|move|p1a: Rillaboom|Knock Off|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-crit|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|-enditem|p2a: Ting-Lu|Leftovers|[from] move: Knock Off|[of] p1a: Rillaboom
+|faint|p2a: Ting-Lu
+|
+|-heal|p1a: Rillaboom|25/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1781416565
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|32
+|
+|t:|1781416568
+|move|p2a: Kyurem|Freeze-Dry|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|upkeep
+|
+|t:|1781416569
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|33
+|
+|t:|1781416574
+|switch|p2a: Corviknight|Corviknight, M|84/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Zapdos|Thunder Wave|p2a: Corviknight
+|-status|p2a: Corviknight|par
+|
+|upkeep
+|turn|34
+|
+|t:|1781416578
+|move|p1a: Zapdos|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|25/100 par
+|move|p2a: Corviknight|Body Press|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|92/100
+|
+|upkeep
+|turn|35
+|
+|t:|1781416582
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|cant|p2a: Corviknight|par
+|
+|upkeep
+|turn|36
+|
+|t:|1781416585
+|move|p1a: Zapdos|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1781416587
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|turn|37
+|
+|t:|1781416591
+|move|p1a: Zapdos|Thunder Wave|p2a: Slowking
+|-status|p2a: Slowking|par
+|move|p2a: Slowking|Future Sight|p1a: Zapdos
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|38
+|
+|t:|1781416596
+|move|p1a: Zapdos|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|70/100 par
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781416600
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Chilly Reception
+|-ability|p2a: Kyurem|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|39
+|
+|t:|1781416603
+|move|p2a: Kyurem|Blizzard|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|win|LT_Alt1
+|raw|XianTwa's rating: 1684 &rarr; <strong>1668</strong><br />(-16 for losing)
+|raw|LT_Alt1's rating: 1757 &rarr; <strong>1773</strong><br />(+16 for winning)
+|l|☆XianTwa
+|player|p1|

@@ -1,0 +1,215 @@
+|j|☆manabi.portoviejo
+|j|☆LowEL0God
+|t:|1781272530
+|gametype|singles
+|player|p1|manabi.portoviejo|2|1617
+|player|p2|LowEL0God|265|1541
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Hawlucha, F|
+|poke|p1|Iron Crown|
+|poke|p1|Indeedee-F, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Cloyster, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Overqwil, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Iron Treads|
+|poke|p2|Kingambit, F|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|
+|t:|1781272548
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Indeedee|Indeedee-F, F|100/100
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|turn|1
+|
+|t:|1781272550
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Hatterene
+|-damage|p1a: Hatterene|43/100
+|-enditem|p1a: Hatterene|Eject Button
+|
+|t:|1781272556
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p1a: Hawlucha|Psychic Seed
+|-boost|p1a: Hawlucha|spd|1|[from] item: Psychic Seed
+|
+|upkeep
+|turn|2
+|
+|t:|1781272558
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781272563
+|move|p1a: Hawlucha|Acrobatics|p2a: Pelipper
+|-damage|p2a: Pelipper|24/100
+|move|p2a: Pelipper|U-turn|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|98/100
+|
+|t:|1781272567
+|switch|p2a: Barraskewda|Barraskewda, M|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1781272572
+|move|p2a: Barraskewda|Liquidation|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781272583
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|turn|5
+|
+|t:|1781272587
+|move|p2a: Barraskewda|Liquidation|p1a: Hoopa
+|-enditem|p1a: Hoopa|Focus Sash
+|-damage|p1a: Hoopa|1/100
+|move|p1a: Hoopa|Expanding Force|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|-item|p1a: Hoopa|Choice Band|[from] ability: Magician|[of] p2: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781272589
+|switch|p2a: Overqwil|Overqwil, M|100/100
+|turn|6
+|
+|t:|1781272597
+|switch|p1a: Hatterene|Hatterene, F|43/100
+|move|p2a: Overqwil|Swords Dance|p2a: Overqwil
+|-boost|p2a: Overqwil|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781272602
+|move|p2a: Overqwil|Crunch|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|-damage|p2a: Overqwil|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781272613
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|turn|8
+|
+|t:|1781272618
+|move|p2a: Overqwil|Gunk Shot|p1a: Cloyster
+|-enditem|p1a: Cloyster|Focus Sash
+|-damage|p1a: Cloyster|1/100
+|-status|p1a: Cloyster|psn
+|-damage|p2a: Overqwil|81/100|[from] item: Life Orb
+|move|p1a: Cloyster|Icicle Spear|p2a: Overqwil
+|-damage|p2a: Overqwil|67/100
+|-damage|p2a: Overqwil|55/100
+|-damage|p2a: Overqwil|41/100
+|-crit|p2a: Overqwil
+|-damage|p2a: Overqwil|21/100
+|-damage|p2a: Overqwil|9/100
+|-hitcount|p2a: Overqwil|5
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Cloyster|0 fnt|[from] psn
+|faint|p1a: Cloyster
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1781272638
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespa
+|turn|9
+|
+|t:|1781272645
+|move|p2a: Overqwil|Crunch|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|-damage|p2a: Overqwil|0 fnt|[from] item: Life Orb
+|faint|p2a: Overqwil
+|
+|-weather|none
+|upkeep
+|
+|t:|1781272649
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|switch|p1a: Indeedee|Indeedee-F, F|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|turn|10
+|
+|t:|1781272657
+|-terastallize|p1a: Indeedee|Fairy
+|-terastallize|p2a: Kingambit|Dark
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Indeedee
+|-resisted|p1a: Indeedee
+|-damage|p1a: Indeedee|62/100
+|move|p1a: Indeedee|Trick Room|p1a: Indeedee
+|-fieldstart|move: Trick Room|[of] p1a: Indeedee
+|
+|upkeep
+|turn|11
+|
+|t:|1781272661
+|move|p2a: Kingambit|Iron Head|p1a: Indeedee
+|-supereffective|p1a: Indeedee
+|-damage|p1a: Indeedee|0 fnt
+|faint|p1a: Indeedee
+|
+|upkeep
+|
+|t:|1781272663
+|switch|p1a: Hoopa|Hoopa-Unbound|1/100
+|turn|12
+|
+|t:|1781272666
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|win|LowEL0God
+|raw|manabi.portoviejo's rating: 1617 &rarr; <strong>1593</strong><br />(-24 for losing)
+|raw|LowEL0God's rating: 1541 &rarr; <strong>1565</strong><br />(+24 for winning)
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p2|

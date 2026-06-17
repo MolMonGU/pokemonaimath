@@ -1,0 +1,148 @@
+|j|☆TwinkleLittleStars
+|j|☆winslowyoudog
+|t:|1781228314
+|gametype|singles
+|player|p1|TwinkleLittleStars|alec-anime|1657
+|player|p2|winslowyoudog|169|1656
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, M|
+|poke|p2|Slowbro-Galar, M|
+|poke|p2|Indeedee, M|
+|poke|p2|Armarouge, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Iron Treads|
+|poke|p2|Hawlucha, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by winslowyoudog)
+|
+|t:|1781228333
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|switch|p2a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|1
+|
+|t:|1781228338
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Barraskewda|Flip Turn|p2a: Hatterene
+|-damage|p2a: Hatterene|66/100
+|-enditem|p2a: Hatterene|Eject Button
+|
+|t:|1781228348
+|switch|p2a: Armarouge|Armarouge, F|100/100
+|
+|upkeep
+|turn|2
+|
+|t:|1781228352
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Armarouge|Endure||[still]
+|-fail|p2a: Armarouge
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781228357
+|move|p2a: Armarouge|Expanding Force|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1781228360
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|turn|4
+|
+|t:|1781228364
+|move|p2a: Armarouge|Endure|p2a: Armarouge
+|-singleturn|p2a: Armarouge|move: Endure
+|move|p1a: Barraskewda|Flip Turn|p2a: Armarouge
+|-supereffective|p2a: Armarouge
+|-activate|p2a: Armarouge|move: Endure
+|-damage|p2a: Armarouge|1/100
+|-ability|p2a: Armarouge|Weak Armor|boost
+|-unboost|p2a: Armarouge|def|1
+|-boost|p2a: Armarouge|spe|2
+|-enditem|p2a: Armarouge|Weakness Policy
+|-boost|p2a: Armarouge|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Armarouge|spa|2|[from] item: Weakness Policy
+|
+|t:|1781228367
+|switch|p1a: Iron Treads|Iron Treads|100/100|[from] Flip Turn
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781228389
+|move|p2a: Armarouge|Expanding Force|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|j| liechiteladihul
+|
+|t:|1781228392
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|turn|6
+|
+|t:|1781228395
+|move|p2a: Armarouge|Endure|p2a: Armarouge
+|-singleturn|p2a: Armarouge|move: Endure
+|move|p1a: Barraskewda|Liquidation|p2a: Armarouge
+|-supereffective|p2a: Armarouge
+|-activate|p2a: Armarouge|move: Endure
+|-damage|p2a: Armarouge|1/100
+|-ability|p2a: Armarouge|Weak Armor|boost
+|-unboost|p2a: Armarouge|def|1
+|-boost|p2a: Armarouge|spe|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781228405
+|move|p2a: Armarouge|Aura Sphere|p1a: Barraskewda
+|-crit|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|TwinkleLittleStars forfeited.
+|
+|win|winslowyoudog
+|raw|TwinkleLittleStars's rating: 1657 &rarr; <strong>1637</strong><br />(-20 for losing)
+|raw|winslowyoudog's rating: 1656 &rarr; <strong>1676</strong><br />(+20 for winning)
+|l|☆TwinkleLittleStars
+|player|p1|
+|l|☆winslowyoudog
+|player|p2|
+|l| liechiteladihul

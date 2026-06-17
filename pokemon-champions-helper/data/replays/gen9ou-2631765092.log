@@ -1,0 +1,294 @@
+|j|☆LowEL0God
+|j|☆halaman95
+|t:|1781436102
+|gametype|singles
+|player|p1|LowEL0God|265|1591
+|player|p2|halaman95|1|1664
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Overqwil, F|
+|poke|p1|Barraskewda, F|
+|poke|p1|Iron Treads|
+|poke|p1|Kingambit, F|
+|poke|p2|Cetitan, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Cinderace, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Ursaluna, M|
+|teampreview
+|c|☆LowEL0God|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LowEL0God)
+|c|☆halaman95|u2
+|
+|t:|1781436123
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|turn|1
+|
+|t:|1781436131
+|move|p1a: Barraskewda|Liquidation|p2a: Slowking
+|-damage|p2a: Slowking|29/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781436144
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] Chilly Reception
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1781436148
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781436154
+|move|p1a: Iron Treads|Earth Power|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|62/100
+|move|p2a: Raging Bolt|Weather Ball|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781436155
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|turn|4
+|
+|t:|1781436166
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781436170
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|51/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kingambit|57/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781436176
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|turn|6
+|
+|t:|1781436178
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|move|p2a: Cinderace|Will-O-Wisp|p1a: Kingambit
+|-status|p1a: Kingambit|brn
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Kingambit|63/100 brn|[from] item: Leftovers
+|-damage|p1a: Kingambit|57/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1781436181
+|move|p2a: Cinderace|Pyro Ball|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen1|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1781436183
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|turn|8
+|
+|t:|1781436188
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Barraskewda|Liquidation|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|81/100
+|-unboost|p2a: Alomomola|def|1
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781436191
+|move|p1a: Barraskewda|Liquidation|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|52/100
+|move|p2a: Alomomola|Flip Turn|p1a: Barraskewda
+|-resisted|p1a: Barraskewda
+|-crit|p1a: Barraskewda
+|-damage|p1a: Barraskewda|78/100
+|
+|t:|1781436194
+|switch|p2a: Slowking|Slowking-Galar, M|63/100|[from] Flip Turn
+|
+|upkeep
+|turn|10
+|
+|t:|1781436196
+|switch|p2a: Alomomola|Alomomola, M|85/100
+|move|p1a: Barraskewda|Liquidation|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|68/100
+|-unboost|p2a: Alomomola|def|1
+|
+|upkeep
+|turn|11
+|
+|t:|1781436199
+|move|p1a: Barraskewda|Liquidation|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|37/100
+|move|p2a: Alomomola|Flip Turn|p1a: Barraskewda
+|-resisted|p1a: Barraskewda
+|-damage|p1a: Barraskewda|65/100
+|
+|t:|1781436202
+|switch|p2a: Slowking|Slowking-Galar, M|96/100|[from] Flip Turn
+|
+|upkeep
+|turn|12
+|
+|t:|1781436205
+|switch|p1a: Overqwil|Overqwil, F|100/100
+|switch|p2a: Alomomola|Alomomola, M|71/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781436210
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Overqwil|Swords Dance|p1a: Overqwil
+|-boost|p1a: Overqwil|atk|2
+|
+|upkeep
+|turn|14
+|
+|t:|1781436219
+|move|p1a: Overqwil|Gunk Shot|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|-damage|p1a: Overqwil|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781436224
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|turn|15
+|
+|t:|1781436228
+|move|p2a: Cinderace|Will-O-Wisp|p1a: Overqwil
+|-status|p1a: Overqwil|brn
+|move|p1a: Overqwil|Gunk Shot|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|-damage|p1a: Overqwil|81/100 brn|[from] item: Life Orb
+|
+|-damage|p1a: Overqwil|75/100 brn|[from] brn
+|upkeep
+|
+|t:|1781436234
+|switch|p2a: Ursaluna|Ursaluna, M|100/100
+|turn|16
+|
+|t:|1781436238
+|move|p1a: Overqwil|Liquidation|p2a: Ursaluna
+|-supereffective|p2a: Ursaluna
+|-damage|p2a: Ursaluna|45/100
+|-damage|p1a: Overqwil|65/100 brn|[from] item: Life Orb
+|move|p2a: Ursaluna|Headlong Rush|p1a: Overqwil
+|-supereffective|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|-unboost|p2a: Ursaluna|def|1
+|-unboost|p2a: Ursaluna|spd|1
+|faint|p1a: Overqwil
+|
+|-status|p2a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|
+|t:|1781436242
+|switch|p1a: Barraskewda|Barraskewda, F|65/100
+|turn|17
+|
+|t:|1781436247
+|move|p1a: Barraskewda|Liquidation|p2a: Ursaluna
+|-supereffective|p2a: Ursaluna
+|-damage|p2a: Ursaluna|0 fnt
+|faint|p2a: Ursaluna
+|
+|upkeep
+|
+|t:|1781436249
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|turn|18
+|
+|t:|1781436255
+|switch|p2a: Cetitan|Cetitan, M|100/100
+|move|p1a: Barraskewda|Liquidation|p2a: Cetitan
+|-damage|p2a: Cetitan|30/100
+|-enditem|p2a: Cetitan|Sitrus Berry|[eat]
+|-heal|p2a: Cetitan|54/100|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|19
+|
+|t:|1781436259
+|move|p1a: Barraskewda|Liquidation|p2a: Cetitan
+|-damage|p2a: Cetitan|0 fnt
+|faint|p2a: Cetitan
+|
+|upkeep
+|-message|halaman95 forfeited.
+|
+|win|LowEL0God
+|raw|LowEL0God's rating: 1591 &rarr; <strong>1615</strong><br />(+24 for winning)
+|raw|halaman95's rating: 1664 &rarr; <strong>1640</strong><br />(-24 for losing)
+|l|☆halaman95
+|player|p2|
+|c|☆LowEL0God|gg
+|l|☆LowEL0God
+|player|p1|

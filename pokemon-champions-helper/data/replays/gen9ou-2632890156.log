@@ -1,0 +1,516 @@
+|j|‽rrbrru
+|j|☆depakine
+|t:|1781575013
+|gametype|singles
+|player|p1|rrbrru|101|1668
+|player|p2|depakine|1|1716
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Excadrill, F|
+|poke|p1|Hydrapple, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Alomomola, F|
+|poke|p1|Houndstone, F|
+|poke|p2|Cresselia, F|
+|poke|p2|Torkoal, F|
+|poke|p2|Walking Wake|
+|poke|p2|Iron Moth|
+|poke|p2|Great Tusk|
+|poke|p2|Heatran, M|
+|teampreview
+|
+|t:|1781575020
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|switch|p2a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|1
+|
+|t:|1781575039
+|move|p1a: Hydrapple|Draco Meteor|p2a: Torkoal
+|-damage|p2a: Torkoal|5/100
+|-unboost|p1a: Hydrapple|spa|2
+|-enditem|p1a: Hydrapple|Eject Pack
+|
+|t:|1781575042
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Torkoal|Will-O-Wisp|p1a: Alomomola
+|-status|p1a: Alomomola|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Alomomola|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1781575051
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Alomomola|Flip Turn|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|95/100
+|
+|t:|1781575056
+|switch|p1a: Tyranitar|Tyranitar, F|100/100|[from] Flip Turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|-end|p2a: Great Tusk|Protosynthesis
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1781575061
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Great Tusk|Close Combat|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|66/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-enditem|p2a: Great Tusk|Eject Pack
+|
+|t:|1781575071
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Heatran|Heatran, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|60/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1781575076
+|move|p1a: Tornadus|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|98/100
+|
+|t:|1781575078
+|switch|p1a: Alomomola|Alomomola, F|100/100 brn|[from] U-turn
+|move|p2a: Heatran|Magma Storm|p1a: Alomomola|[miss]
+|-miss|p2a: Heatran|p1a: Alomomola
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Alomomola|94/100 brn|[from] Sandstorm
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|-damage|p1a: Alomomola|88/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1781575083
+|move|p2a: Heatran|Stealth Rock|p1a: Alomomola
+|-sidestart|p1: rrbrru|move: Stealth Rock
+|move|p1a: Alomomola|Flip Turn|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|87/100
+|
+|t:|1781575085
+|switch|p1a: Excadrill|Excadrill, F|100/100|[from] Flip Turn
+|-damage|p1a: Excadrill|97/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Excadrill|100/100|[from] item: Leftovers
+|-heal|p2a: Heatran|94/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781575093
+|switch|p2a: Great Tusk|Great Tusk|95/100
+|move|p1a: Excadrill|Rapid Spin|p2a: Great Tusk
+|-damage|p2a: Great Tusk|80/100
+|-boost|p1a: Excadrill|spe|1
+|-sideend|p1: rrbrru|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Excadrill
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1781575098
+|move|p1a: Excadrill|Substitute|p1a: Excadrill
+|-start|p1a: Excadrill|Substitute
+|-damage|p1a: Excadrill|76/100
+|move|p2a: Great Tusk|Ice Spinner|p1a: Excadrill
+|-end|p1a: Excadrill|Substitute
+|
+|-heal|p1a: Excadrill|82/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781575108
+|move|p1a: Excadrill|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|39/100
+|move|p2a: Great Tusk|Close Combat|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|t:|1781575116
+|switch|p1a: Tornadus|Tornadus-Therian, M|93/100
+|turn|9
+|
+|t:|1781575120
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Heatran|Heatran, M|94/100
+|move|p1a: Tornadus|Heat Wave|p2a: Heatran
+|-start|p2a: Heatran|ability: Flash Fire
+|
+|-heal|p2a: Heatran|99/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781575126
+|move|p1a: Tornadus|Knock Off|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|75/100
+|-enditem|p2a: Heatran|Leftovers|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Heatran|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: rrbrru|move: Stealth Rock
+|
+|upkeep
+|turn|11
+|
+|t:|1781575128
+|move|p1a: Tornadus|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|72/100
+|
+|t:|1781575131
+|switch|p1a: Tyranitar|Tyranitar, F|100/100|[from] U-turn
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Heatran|Magma Storm|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|74/100
+|-activate|p1a: Tyranitar|move: Magma Storm|[of] p2a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|80/100|[from] item: Leftovers
+|-damage|p1a: Tyranitar|67/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|12
+|
+|t:|1781575136
+|-end|p2a: Heatran|ability: Flash Fire|[silent]
+|switch|p2a: Torkoal|Torkoal, F|5/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Tyranitar|Low Kick|p2a: Torkoal
+|-crit|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Tyranitar|74/100|[from] item: Leftovers
+|-end|p1a: Tyranitar|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1781575139
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-activate|p2a: Walking Wake|ability: Protosynthesis
+|-start|p2a: Walking Wake|protosynthesisspe
+|turn|13
+|
+|t:|1781575146
+|switch|p1a: Alomomola|Alomomola, F|100/100 brn
+|move|p2a: Walking Wake|Draco Meteor|p1a: Alomomola
+|-damage|p1a: Alomomola|5/100 brn
+|-unboost|p2a: Walking Wake|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Alomomola|0 fnt|[from] brn
+|faint|p1a: Alomomola
+|upkeep
+|
+|t:|1781575149
+|switch|p1a: Tyranitar|Tyranitar, F|74/100
+|-damage|p1a: Tyranitar|61/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|-end|p2a: Walking Wake|Protosynthesis
+|turn|14
+|
+|t:|1781575154
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Great Tusk|Great Tusk|39/100
+|move|p1a: Tyranitar|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: depakine|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|67/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781575158
+|switch|p1a: Houndstone|Houndstone, F|100/100
+|-damage|p1a: Houndstone|88/100|[from] Stealth Rock
+|move|p2a: Great Tusk|Headlong Rush|p1a: Houndstone
+|-damage|p1a: Houndstone|16/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1781575173
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Tornadus
+|-immune|p1a: Tornadus
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|94/100|[from] Sandstorm
+|upkeep
+|turn|17
+|
+|t:|1781575181
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|88/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781575185
+|switch|p2a: Heatran|Heatran, M|72/100
+|-damage|p2a: Heatran|59/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1781575194
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|46/100
+|-unboost|p2a: Heatran|spe|1
+|move|p2a: Heatran|Magma Storm|p1a: Tornadus|[miss]
+|-miss|p2a: Heatran|p1a: Tornadus
+|
+|-weather|none
+|upkeep
+|turn|19
+|
+|t:|1781575200
+|move|p1a: Tornadus|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|43/100
+|
+|t:|1781575202
+|switch|p1a: Tyranitar|Tyranitar, F|67/100|[from] U-turn
+|-damage|p1a: Tyranitar|55/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Heatran|Magma Storm|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|45/100
+|-activate|p1a: Tyranitar|move: Magma Storm|[of] p2a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|52/100|[from] item: Leftovers
+|-damage|p1a: Tyranitar|39/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|20
+|
+|t:|1781575206
+|move|p1a: Tyranitar|Low Kick|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|45/100|[from] item: Leftovers
+|-end|p1a: Tyranitar|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1781575210
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-damage|p2a: Walking Wake|88/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1781575218
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Walking Wake|Hydro Steam|p1a: Tornadus
+|-damage|p1a: Tornadus|37/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|31/100|[from] Sandstorm
+|-damage|p2a: Walking Wake|82/100|[from] Sandstorm
+|upkeep
+|turn|22
+|
+|t:|1781575223
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|-damage|p1a: Hydrapple|88/100|[from] Stealth Rock
+|move|p2a: Walking Wake|Hydro Steam|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|74/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Walking Wake|76/100|[from] Sandstorm
+|-damage|p1a: Hydrapple|68/100|[from] Sandstorm
+|upkeep
+|turn|23
+|
+|t:|1781575231
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|move|p1a: Hydrapple|Earth Power|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1781575235
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|-damage|p2a: Cresselia|88/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1781575239
+|switch|p1a: Houndstone|Houndstone, F|16/100
+|-damage|p1a: Houndstone|4/100|[from] Stealth Rock
+|move|p2a: Cresselia|Calm Mind|p2a: Cresselia
+|-boost|p2a: Cresselia|spa|1
+|-boost|p2a: Cresselia|spd|1
+|
+|upkeep
+|turn|25
+|
+|t:|1781575247
+|-terastallize|p2a: Cresselia|Poison
+|move|p1a: Houndstone|Trick|p2a: Cresselia
+|-activate|p1a: Houndstone|move: Trick|[of] p2a: Cresselia
+|-item|p2a: Cresselia|Choice Band|[from] move: Trick
+|-item|p1a: Houndstone|Covert Cloak|[from] move: Trick
+|move|p2a: Cresselia|Calm Mind|p2a: Cresselia
+|-boost|p2a: Cresselia|spa|1
+|-boost|p2a: Cresselia|spd|1
+|
+|upkeep
+|turn|26
+|
+|t:|1781575258
+|move|p1a: Houndstone|Poltergeist|p2a: Cresselia|[miss]
+|-miss|p1a: Houndstone|p2a: Cresselia
+|move|p2a: Cresselia|Calm Mind|p2a: Cresselia
+|-boost|p2a: Cresselia|spa|1
+|-boost|p2a: Cresselia|spd|1
+|
+|upkeep
+|turn|27
+|
+|t:|1781575262
+|move|p1a: Houndstone|Poltergeist|p2a: Cresselia
+|-activate|p2a: Cresselia|move: Poltergeist|Choice Band
+|-damage|p2a: Cresselia|64/100
+|move|p2a: Cresselia|Calm Mind|p2a: Cresselia
+|-boost|p2a: Cresselia|spa|1
+|-boost|p2a: Cresselia|spd|1
+|
+|upkeep
+|turn|28
+|
+|t:|1781575264
+|move|p1a: Houndstone|Poltergeist|p2a: Cresselia
+|-activate|p2a: Cresselia|move: Poltergeist|Choice Band
+|-damage|p2a: Cresselia|37/100
+|move|p2a: Cresselia|Calm Mind|p2a: Cresselia
+|-boost|p2a: Cresselia|spa|1
+|-boost|p2a: Cresselia|spd|1
+|
+|upkeep
+|turn|29
+|
+|t:|1781575267
+|move|p1a: Houndstone|Poltergeist|p2a: Cresselia
+|-activate|p2a: Cresselia|move: Poltergeist|Choice Band
+|-damage|p2a: Cresselia|13/100
+|move|p2a: Cresselia|Calm Mind|p2a: Cresselia
+|-boost|p2a: Cresselia|spa|1
+|-boost|p2a: Cresselia|spd|1
+|
+|upkeep
+|turn|30
+|
+|t:|1781575270
+|move|p1a: Houndstone|Poltergeist|p2a: Cresselia
+|-activate|p2a: Cresselia|move: Poltergeist|Choice Band
+|-damage|p2a: Cresselia|0 fnt
+|faint|p2a: Cresselia
+|
+|upkeep
+|
+|t:|1781575271
+|switch|p2a: Walking Wake|Walking Wake|76/100
+|-damage|p2a: Walking Wake|64/100|[from] Stealth Rock
+|turn|31
+|
+|t:|1781575276
+|move|p2a: Walking Wake|Dragon Pulse|p1a: Houndstone
+|-damage|p1a: Houndstone|0 fnt
+|faint|p1a: Houndstone
+|
+|upkeep
+|
+|t:|1781575279
+|switch|p1a: Tyranitar|Tyranitar, F|45/100
+|-damage|p1a: Tyranitar|33/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|32
+|
+|t:|1781575282
+|move|p2a: Walking Wake|Dragon Pulse|p1a: Tyranitar
+|-damage|p1a: Tyranitar|4/100
+|move|p1a: Tyranitar|Low Kick|p2a: Walking Wake
+|-damage|p2a: Walking Wake|24/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Walking Wake|18/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|11/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1781575289
+|move|p2a: Walking Wake|Dragon Pulse|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Walking Wake|12/100|[from] Sandstorm
+|upkeep
+|
+|t:|1781575291
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|-damage|p1a: Hydrapple|88/100|[from] Stealth Rock
+|turn|34
+|
+|t:|1781575293
+|-terastallize|p1a: Hydrapple|Steel
+|move|p2a: Walking Wake|Dragon Pulse|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|56/100
+|move|p1a: Hydrapple|Earth Power|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|win|rrbrru
+|raw|rrbrru's rating: 1668 &rarr; <strong>1691</strong><br />(+23 for winning)
+|raw|depakine's rating: 1716 &rarr; <strong>1693</strong><br />(-23 for losing)
+|l|☆depakine
+|player|p2|
+|l|‽rrbrru
+|player|p1|

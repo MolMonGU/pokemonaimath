@@ -1,0 +1,411 @@
+|j|☆quolius
+|j|‽LT_Alt1
+|t:|1781170168
+|gametype|singles
+|player|p1|quolius|101|1661
+|player|p2|LT_Alt1|266|1734
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Darkrai|
+|poke|p1|Great Tusk|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Iron Moth|
+|poke|p1|Gholdengo|
+|poke|p1|Ogerpon, F|
+|poke|p2|Kyurem|
+|poke|p2|Raging Bolt|
+|poke|p2|Hatterene, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Corviknight, F|
+|teampreview
+|
+|t:|1781170181
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|turn|1
+|
+|t:|1781170189
+|move|p1a: Ogerpon|U-turn|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|80/100
+|
+|t:|1781170192
+|switch|p1a: Iron Moth|Iron Moth|100/100|[from] U-turn
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Iron Moth
+|-damage|p1a: Iron Moth|25/100
+|-unboost|p2a: Raging Bolt|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1781170205
+|move|p1a: Iron Moth|Dazzling Gleam|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|50/100
+|move|p2a: Raging Bolt|Volt Switch|p1a: Iron Moth
+|-damage|p1a: Iron Moth|7/100
+|
+|t:|1781170213
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Slowking|Slowking-Galar, F|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|3
+|
+|t:|1781170218
+|move|p1a: Iron Moth|Toxic Spikes|p2a: Slowking
+|-sidestart|p2: LT_Alt1|move: Toxic Spikes
+|move|p2a: Slowking|Future Sight|p1a: Iron Moth
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|4
+|
+|t:|1781170226
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Darkrai|Darkrai|100/100
+|-prepare|p2a: Slowking|Chilly Reception|[premajor]
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snowscape
+|
+|t:|1781170233
+|switch|p2a: Corviknight|Corviknight, F|100/100|[from] Chilly Reception
+|-ability|p2a: Corviknight|Pressure
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1781170241
+|move|p1a: Darkrai|Dark Pulse|p2a: Corviknight
+|-damage|p2a: Corviknight|57/100
+|move|p2a: Corviknight|Body Press|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|45/100
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Darkrai|move: Future Sight
+|-immune|p1a: Darkrai
+|upkeep
+|turn|6
+|
+|t:|1781170251
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|-sideend|p2: LT_Alt1|move: Toxic Spikes|[of] p2a: Slowking
+|move|p1a: Darkrai|Dark Pulse|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|48/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1781170258
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Darkrai|Knock Off|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|91/100
+|-enditem|p2a: Ting-Lu|Leftovers|[from] move: Knock Off|[of] p1a: Darkrai
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1781170266
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|move|p2a: Ting-Lu|Spikes|p1a: Samurott
+|-sidestart|p1: quolius|Spikes
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1781170271
+|move|p1a: Samurott|Ceaseless Edge|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|80/100
+|-sidestart|p2: LT_Alt1|Spikes
+|move|p2a: Ting-Lu|Ruination|p1a: Samurott
+|-damage|p1a: Samurott|51/100
+|
+|upkeep
+|turn|10
+|
+|t:|1781170276
+|move|p1a: Samurott|Ceaseless Edge|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|69/100
+|-sidestart|p2: LT_Alt1|Spikes
+|move|p2a: Ting-Lu|Earthquake|p1a: Samurott
+|-damage|p1a: Samurott|5/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781170283
+|switch|p2a: Corviknight|Corviknight, F|57/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Samurott|Ceaseless Edge|p2a: Corviknight
+|-damage|p2a: Corviknight|30/100
+|-damage|p1a: Samurott|0 fnt|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1781170294
+|switch|p1a: Darkrai|Darkrai|45/100
+|-damage|p1a: Darkrai|33/100|[from] Spikes
+|turn|12
+|
+|t:|1781170319
+|switch|p2a: Ting-Lu|Ting-Lu|69/100
+|-damage|p2a: Ting-Lu|52/100|[from] Spikes
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Darkrai|Dark Pulse|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|42/100
+|
+|upkeep
+|turn|13
+|
+|t:|1781170332
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-damage|p1a: Great Tusk|88/100|[from] Spikes
+|move|p2a: Ting-Lu|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|65/100
+|
+|upkeep
+|turn|14
+|
+|t:|1781170352
+|switch|p2a: Corviknight|Corviknight, F|30/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Great Tusk|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: LT_Alt1|move: Stealth Rock
+|
+|upkeep
+|turn|15
+|
+|t:|1781170356
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|80/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|16
+|
+|t:|1781170364
+|switch|p2a: Raging Bolt|Raging Bolt|50/100
+|-damage|p2a: Raging Bolt|34/100|[from] Spikes
+|-damage|p2a: Raging Bolt|21/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|
+|upkeep
+|turn|17
+|l|☆quolius
+|player|p1|
+|j|☆quolius
+|player|p1|quolius|101|
+|
+|t:|1781170387
+|move|p2a: Raging Bolt|Thunderclap|p1a: Gholdengo
+|-damage|p1a: Gholdengo|62/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|move|p1a: Gholdengo|Shadow Ball|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781170393
+|switch|p2a: Kyurem|Kyurem|100/100
+|-damage|p2a: Kyurem|84/100|[from] Spikes
+|-damage|p2a: Kyurem|59/100|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|turn|18
+|
+|t:|1781170404
+|switch|p1a: Iron Moth|Iron Moth|7/100
+|-damage|p1a: Iron Moth|0 fnt|[from] Spikes
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|move|p2a: Kyurem|Draco Meteor|p1: Iron Moth|[notarget]
+|-fail|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1781170408
+|switch|p1a: Darkrai|Darkrai|33/100
+|-damage|p1a: Darkrai|20/100|[from] Spikes
+|turn|19
+|
+|t:|1781170414
+|switch|p2a: Ting-Lu|Ting-Lu|42/100
+|-damage|p2a: Ting-Lu|25/100|[from] Spikes
+|-damage|p2a: Ting-Lu|19/100|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Darkrai|Dark Pulse|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|9/100
+|
+|upkeep
+|turn|20
+|
+|t:|1781170423
+|move|p1a: Darkrai|Dark Pulse|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1781170439
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-damage|p2a: Hatterene|84/100|[from] Spikes
+|-damage|p2a: Hatterene|72/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1781170451
+|switch|p1a: Gholdengo|Gholdengo|62/100
+|-damage|p1a: Gholdengo|49/100|[from] Spikes
+|move|p2a: Hatterene|Nuzzle|p1a: Gholdengo
+|-damage|p1a: Gholdengo|47/100
+|-status|p1a: Gholdengo|par
+|
+|-heal|p2a: Hatterene|78/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1781170467
+|switch|p2a: Slowking|Slowking-Galar, F|81/100
+|-damage|p2a: Slowking|65/100|[from] Spikes
+|-damage|p2a: Slowking|53/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|97/100 par
+|
+|upkeep
+|turn|23
+|
+|t:|1781170486
+|switch|p1a: Great Tusk|Great Tusk|65/100
+|-damage|p1a: Great Tusk|52/100|[from] Spikes
+|-terastallize|p2a: Slowking|Grass
+|move|p2a: Slowking|Flamethrower|p1a: Great Tusk
+|-damage|p1a: Great Tusk|25/100
+|
+|upkeep
+|turn|24
+|
+|t:|1781170494
+|switch|p2a: Corviknight|Corviknight, F|80/100
+|-damage|p2a: Corviknight|68/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Great Tusk|Rapid Spin|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|63/100
+|-boost|p1a: Great Tusk|spe|1
+|-damage|p1a: Great Tusk|9/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-sideend|p1: quolius|Spikes|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|25
+|
+|t:|1781170497
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Gholdengo|Gholdengo|97/100 par
+|switch|p2a: Slowking|Slowking-Galar, F, tera:Grass|86/100
+|-damage|p2a: Slowking|69/100|[from] Spikes
+|-damage|p2a: Slowking|57/100|[from] Stealth Rock
+|
+|upkeep
+|turn|26
+|
+|t:|1781170504
+|switch|p1a: Great Tusk|Great Tusk|9/100
+|move|p2a: Slowking|Flamethrower|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1781170507
+|switch|p1a: Ogerpon|Ogerpon, F|100/100
+|turn|27
+|
+|t:|1781170513
+|switch|p2a: Corviknight|Corviknight, F|63/100
+|-damage|p2a: Corviknight|51/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ogerpon|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|47/100
+|-damage|p1a: Ogerpon|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|l|☆quolius
+|player|p1|
+|j|☆quolius
+|player|p1|quolius|101|
+|
+|t:|1781170541
+|switch|p1a: Darkrai|Darkrai|20/100|[from] U-turn
+|
+|upkeep
+|turn|28
+|
+|t:|1781170548
+|switch|p2a: Slowking|Slowking-Galar, F, tera:Grass|90/100
+|-damage|p2a: Slowking|74/100|[from] Spikes
+|-damage|p2a: Slowking|61/100|[from] Stealth Rock
+|-terastallize|p1a: Darkrai|Dark
+|move|p1a: Darkrai|Dark Pulse|p2a: Slowking
+|-damage|p2a: Slowking|23/100
+|
+|upkeep
+|turn|29
+|
+|t:|1781170564
+|switch|p2a: Hatterene|Hatterene, F|78/100
+|-damage|p2a: Hatterene|61/100|[from] Spikes
+|-damage|p2a: Hatterene|49/100|[from] Stealth Rock
+|move|p1a: Darkrai|Dark Pulse|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1781170569
+|switch|p2a: Slowking|Slowking-Galar, F, tera:Grass|56/100
+|-damage|p2a: Slowking|39/100|[from] Spikes
+|-damage|p2a: Slowking|27/100|[from] Stealth Rock
+|turn|30
+|-message|LT_Alt1 forfeited.
+|
+|win|quolius
+|raw|quolius's rating: 1661 &rarr; <strong>1685</strong><br />(+24 for winning)
+|raw|LT_Alt1's rating: 1734 &rarr; <strong>1710</strong><br />(-24 for losing)
+|l|‽LT_Alt1
+|player|p2|
+|l|☆quolius
+|player|p1|

@@ -1,0 +1,297 @@
+|j|☆Juchzer
+|j|‽ayerbe
+|t:|1781182755
+|gametype|singles
+|player|p1|Juchzer|2|1566
+|player|p2|ayerbe|blackbelt-gen4dp|1621
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Tentacruel, M|
+|poke|p1|Ceruledge, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Scizor, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Great Tusk|
+|poke|p2|Scizor, M|
+|poke|p2|Garganacl, M|
+|poke|p2|Ting-Lu|
+|poke|p2|Raging Bolt|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ayerbe)
+|
+|t:|1781182777
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|switch|p2a: Scizor|Scizor, M|100/100
+|turn|1
+|
+|t:|1781182781
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Scizor|atk|1
+|move|p2a: Scizor|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|88/100
+|-damage|p2a: Scizor|84/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|
+|t:|1781182784
+|switch|p2a: Gholdengo|Gholdengo|100/100|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1781182790
+|switch|p1a: Tentacruel|Tentacruel, M|100/100
+|move|p2a: Gholdengo|Make It Rain|p1a: Tentacruel
+|-resisted|p1a: Tentacruel
+|-damage|p1a: Tentacruel|86/100
+|-unboost|p2a: Gholdengo|spa|1
+|
+|upkeep
+|turn|3
+|
+|t:|1781182797
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Tentacruel|Ice Beam|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|85/100
+|-status|p2a: Ting-Lu|frz
+|
+|-heal|p2a: Ting-Lu|92/100 frz|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1781182802
+|move|p1a: Tentacruel|Chilling Water|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|79/100 frz
+|-unboost|p2a: Ting-Lu|atk|1
+|cant|p2a: Ting-Lu|frz
+|
+|-heal|p2a: Ting-Lu|86/100 frz|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1781182806
+|switch|p1a: Landorus|Landorus-Therian, M|88/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Ting-Lu|atk|1
+|cant|p2a: Ting-Lu|frz
+|
+|-heal|p2a: Ting-Lu|92/100 frz|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1781182808
+|move|p1a: Landorus|Stealth Rock|p2a: Ting-Lu
+|-sidestart|p2: ayerbe|move: Stealth Rock
+|-curestatus|p2a: Ting-Lu|frz|[msg]
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Landorus
+|-sidestart|p1: Juchzer|move: Stealth Rock
+|
+|-heal|p2a: Ting-Lu|98/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1781182813
+|move|p1a: Landorus|U-turn|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|72/100
+|
+|t:|1781182818
+|switch|p1a: Scizor|Scizor, F|100/100|[from] U-turn
+|-damage|p1a: Scizor|88/100|[from] Stealth Rock
+|move|p2a: Ting-Lu|Spikes|p1a: Scizor
+|-sidestart|p1: Juchzer|Spikes
+|
+|-heal|p1a: Scizor|94/100|[from] item: Leftovers
+|-heal|p2a: Ting-Lu|78/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781182821
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|move|p2a: Ting-Lu|Spikes|p1a: Scizor
+|-sidestart|p1: Juchzer|Spikes
+|
+|-heal|p1a: Scizor|100/100|[from] item: Leftovers
+|-heal|p2a: Ting-Lu|85/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781182825
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|move|p2a: Ting-Lu|Whirlwind|p1a: Scizor
+|drag|p1a: Ceruledge|Ceruledge, F|100/100
+|-damage|p1a: Ceruledge|76/100|[from] Stealth Rock
+|-damage|p1a: Ceruledge|59/100|[from] Spikes
+|
+|-heal|p2a: Ting-Lu|91/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781182830
+|move|p1a: Ceruledge|Bitter Blade|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|65/100
+|-heal|p1a: Ceruledge|82/100|[from] drain|[of] p2a: Ting-Lu
+|move|p2a: Ting-Lu|Spikes|p1a: Ceruledge
+|-sidestart|p1: Juchzer|Spikes
+|
+|-heal|p2a: Ting-Lu|72/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781182836
+|switch|p2a: Garganacl|Garganacl, M|100/100
+|-damage|p2a: Garganacl|88/100|[from] Stealth Rock
+|move|p1a: Ceruledge|Bitter Blade|p2a: Garganacl
+|-resisted|p2a: Garganacl
+|-damage|p2a: Garganacl|74/100
+|-heal|p1a: Ceruledge|91/100|[from] drain|[of] p2a: Garganacl
+|
+|-heal|p2a: Garganacl|81/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1781182841
+|move|p1a: Ceruledge|Bitter Blade|p2a: Garganacl
+|-resisted|p2a: Garganacl
+|-damage|p2a: Garganacl|67/100
+|-heal|p1a: Ceruledge|100/100|[from] drain|[of] p2a: Garganacl
+|move|p2a: Garganacl|Salt Cure|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|57/100
+|-start|p1a: Ceruledge|Salt Cure
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|
+|-heal|p2a: Garganacl|73/100|[from] item: Leftovers
+|-damage|p1a: Ceruledge|45/100|[from] Salt Cure
+|upkeep
+|turn|13
+|
+|t:|1781182851
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|move|p2a: Garganacl|Curse|p2a: Garganacl
+|-unboost|p2a: Garganacl|spe|1
+|-boost|p2a: Garganacl|atk|1
+|-boost|p2a: Garganacl|def|1
+|
+|-heal|p2a: Garganacl|80/100|[from] item: Leftovers
+|-damage|p1a: Ceruledge|32/100|[from] Salt Cure
+|upkeep
+|turn|14
+|
+|t:|1781182859
+|-terastallize|p1a: Ceruledge|Fire
+|move|p1a: Ceruledge|Bitter Blade|p2a: Garganacl
+|-resisted|p2a: Garganacl
+|-damage|p2a: Garganacl|56/100
+|-heal|p1a: Ceruledge|49/100|[from] drain|[of] p2a: Garganacl
+|move|p2a: Garganacl|Curse|p2a: Garganacl
+|-unboost|p2a: Garganacl|spe|1
+|-boost|p2a: Garganacl|atk|1
+|-boost|p2a: Garganacl|def|1
+|
+|-heal|p2a: Garganacl|62/100|[from] item: Leftovers
+|-damage|p1a: Ceruledge|37/100|[from] Salt Cure
+|upkeep
+|turn|15
+|
+|t:|1781182868
+|move|p1a: Ceruledge|Bitter Blade|p2a: Garganacl
+|-resisted|p2a: Garganacl
+|-damage|p2a: Garganacl|46/100
+|-heal|p1a: Ceruledge|48/100|[from] drain|[of] p2a: Garganacl
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|96/100
+|
+|-heal|p2a: Garganacl|100/100|[from] item: Leftovers
+|-damage|p1a: Ceruledge|36/100|[from] Salt Cure
+|upkeep
+|turn|16
+|
+|t:|1781182872
+|switch|p1a: Landorus|Landorus-Therian, M|88/100
+|-damage|p1a: Landorus|75/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Garganacl|atk|1
+|move|p2a: Garganacl|Salt Cure|p1a: Landorus
+|-damage|p1a: Landorus|53/100
+|-start|p1a: Landorus|Salt Cure
+|
+|-damage|p1a: Landorus|41/100|[from] Salt Cure
+|upkeep
+|turn|17
+|
+|t:|1781182875
+|move|p1a: Landorus|Earthquake|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|75/100
+|move|p2a: Garganacl|Curse|p2a: Garganacl
+|-unboost|p2a: Garganacl|spe|1
+|-boost|p2a: Garganacl|atk|1
+|-boost|p2a: Garganacl|def|1
+|
+|-heal|p2a: Garganacl|81/100|[from] item: Leftovers
+|-damage|p1a: Landorus|28/100|[from] Salt Cure
+|upkeep
+|turn|18
+|
+|t:|1781182879
+|move|p1a: Landorus|U-turn|p2a: Garganacl
+|-damage|p2a: Garganacl|76/100
+|
+|t:|1781182881
+|switch|p1a: Tentacruel|Tentacruel, M|86/100|[from] U-turn
+|-damage|p1a: Tentacruel|74/100|[from] Stealth Rock
+|-damage|p1a: Tentacruel|49/100|[from] Spikes
+|move|p2a: Garganacl|Curse|p2a: Garganacl
+|-unboost|p2a: Garganacl|spe|1
+|-boost|p2a: Garganacl|atk|1
+|-boost|p2a: Garganacl|def|1
+|
+|-heal|p2a: Garganacl|82/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1781182883
+|-terastallize|p2a: Garganacl|Ghost
+|move|p1a: Tentacruel|Rapid Spin|p2a: Garganacl
+|-immune|p2a: Garganacl
+|move|p2a: Garganacl|Salt Cure|p1a: Tentacruel
+|-damage|p1a: Tentacruel|6/100
+|-start|p1a: Tentacruel|Salt Cure
+|
+|-heal|p2a: Garganacl|89/100|[from] item: Leftovers
+|-damage|p1a: Tentacruel|0 fnt|[from] Salt Cure
+|faint|p1a: Tentacruel
+|upkeep
+|-message|Juchzer forfeited.
+|
+|win|ayerbe
+|raw|Juchzer's rating: 1566 &rarr; <strong>1549</strong><br />(-17 for losing)
+|raw|ayerbe's rating: 1621 &rarr; <strong>1638</strong><br />(+17 for winning)
+|l|☆Juchzer
+|player|p1|
+|l|‽ayerbe
+|player|p2|

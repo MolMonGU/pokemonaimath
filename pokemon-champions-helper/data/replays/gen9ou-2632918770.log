@@ -1,0 +1,315 @@
+|j|☆blabab
+|j|☆moocowvin
+|t:|1781578651
+|gametype|singles
+|player|p1|blabab|miku-ground|1642
+|player|p2|moocowvin|riley|1624
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Enamorus, F|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Heracross, M|
+|poke|p1|Articuno-Galar|
+|poke|p1|Alomomola, F|
+|poke|p1|Electivire, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Greninja-*, M|
+|poke|p2|Ceruledge, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Glimmora, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by blabab)
+|
+|t:|1781578658
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|turn|1
+|
+|t:|1781578667
+|move|p1a: Enamorus|Earth Power|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|
+|upkeep
+|
+|t:|1781578674
+|switch|p2a: Deoxys|Deoxys-Speed|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|2
+|
+|t:|1781578680
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: moocowvin|move: Light Screen
+|move|p1a: Enamorus|Earth Power|p2a: Deoxys
+|-damage|p2a: Deoxys|70/100
+|
+|upkeep
+|turn|3
+|
+|t:|1781578687
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: moocowvin|Reflect
+|move|p1a: Enamorus|Earth Power|p2a: Deoxys
+|-damage|p2a: Deoxys|40/100
+|
+|upkeep
+|turn|4
+|
+|t:|1781578690
+|move|p1a: Enamorus|Earth Power|p2a: Deoxys
+|-damage|p2a: Deoxys|12/100
+|move|p2a: Deoxys|Teleport|p2a: Deoxys
+|
+|t:|1781578702
+|switch|p2a: Iron Valiant|Iron Valiant|100/100|[from] Teleport
+|-enditem|p2a: Iron Valiant|Booster Energy
+|-activate|p2a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Valiant|quarkdrivespe
+|
+|upkeep
+|turn|5
+|
+|t:|1781578707
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|6
+|
+|t:|1781578717
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|move|p1a: Weezing|Defog|p2a: Iron Valiant
+|-unboost|p2a: Iron Valiant|evasion|1
+|-sideend|p2: moocowvin|Reflect
+|-sideend|p2: moocowvin|move: Light Screen
+|
+|upkeep
+|turn|7
+|
+|t:|1781578720
+|-terastallize|p2a: Iron Valiant|Steel
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|move|p1a: Weezing|Flamethrower|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|74/100
+|
+|upkeep
+|turn|8
+|
+|t:|1781578727
+|move|p2a: Iron Valiant|Thunderbolt|p1a: Weezing
+|-damage|p1a: Weezing|11/100
+|move|p1a: Weezing|Flamethrower|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|48/100
+|
+|upkeep
+|turn|9
+|-enditem|p1a: Weezing|Custap Berry|[eat]
+|-activate|p1a: Weezing|item: Custap Berry|[consumed]
+|
+|t:|1781578731
+|move|p1a: Weezing|Destiny Bond|p1a: Weezing
+|-singlemove|p1a: Weezing|Destiny Bond
+|move|p2a: Iron Valiant|Moonblast|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-activate|p1a: Weezing|move: Destiny Bond
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1781578737
+|switch|p2a: Deoxys|Deoxys-Speed|12/100
+|switch|p1a: Heracross|Heracross, M|100/100
+|-ability|p2a: Deoxys|Pressure
+|turn|10
+|
+|t:|1781578740
+|move|p2a: Deoxys|Reflect|p2a: Deoxys
+|-sidestart|p2: moocowvin|Reflect
+|move|p1a: Heracross|Substitute|p1a: Heracross
+|-start|p1a: Heracross|Substitute
+|-damage|p1a: Heracross|75/100
+|
+|upkeep
+|turn|11
+|
+|t:|1781578742
+|move|p2a: Deoxys|Taunt|p1a: Heracross
+|-start|p1a: Heracross|move: Taunt
+|cant|p1a: Heracross|move: Taunt|Swords Dance
+|
+|upkeep
+|turn|12
+|
+|t:|1781578745
+|move|p2a: Deoxys|Light Screen|p2a: Deoxys
+|-sidestart|p2: moocowvin|move: Light Screen
+|move|p1a: Heracross|Megahorn|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1781578747
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|13
+|
+|t:|1781578750
+|switch|p1a: Enamorus|Enamorus, F|100/100
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|upkeep
+|turn|14
+|
+|t:|1781578752
+|move|p2a: Zamazenta|Heavy Slam|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-damage|p1a: Enamorus|15/100
+|move|p1a: Enamorus|Moonblast|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|27/100
+|
+|-heal|p2a: Zamazenta|33/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1781578757
+|switch|p1a: Alomomola|Alomomola, F|100/100
+|move|p2a: Zamazenta|Body Press|p1a: Alomomola
+|-damage|p1a: Alomomola|33/100
+|-damage|p2a: Zamazenta|16/100|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|
+|-heal|p2a: Zamazenta|22/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781578765
+|move|p2a: Zamazenta|Body Press|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|-damage|p2a: Zamazenta|6/100|[from] item: Rocky Helmet|[of] p1a: Alomomola
+|faint|p1a: Alomomola
+|
+|-heal|p2a: Zamazenta|12/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781578770
+|switch|p1a: Articuno|Articuno-Galar|100/100
+|turn|17
+|
+|t:|1781578773
+|move|p2a: Zamazenta|Crunch|p1a: Articuno
+|-supereffective|p1a: Articuno
+|-damage|p1a: Articuno|64/100
+|move|p1a: Articuno|Agility|p1a: Articuno
+|-boost|p1a: Articuno|spe|2
+|
+|-heal|p2a: Zamazenta|18/100|[from] item: Leftovers
+|-sideend|p2: moocowvin|Reflect
+|upkeep
+|turn|18
+|
+|t:|1781578778
+|move|p1a: Articuno|Stored Power|p2a: Zamazenta
+|-supereffective|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1781578780
+|switch|p2a: Ceruledge|Ceruledge, F|100/100
+|turn|19
+|
+|t:|1781578787
+|move|p1a: Articuno|Stored Power|p2a: Ceruledge
+|-damage|p2a: Ceruledge|86/100
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|-sideend|p2: moocowvin|move: Light Screen
+|upkeep
+|turn|20
+|
+|t:|1781578791
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Articuno
+|-supereffective|p1a: Articuno
+|-damage|p1a: Articuno|0 fnt
+|faint|p1a: Articuno
+|-damage|p2a: Ceruledge|76/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781578798
+|switch|p1a: Electivire|Electivire, M|100/100
+|turn|21
+|
+|t:|1781578806
+|move|p2a: Ceruledge|Shadow Sneak|p1a: Electivire
+|-damage|p1a: Electivire|3/100
+|-damage|p2a: Ceruledge|66/100|[from] item: Life Orb
+|move|p1a: Electivire|Earthquake|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|upkeep
+|
+|t:|1781578807
+|switch|p2a: Greninja|Greninja, M|100/100
+|turn|22
+|
+|t:|1781578813
+|switch|p1a: Heracross|Heracross, M|75/100
+|move|p2a: Greninja|Liquidation|p1a: Heracross
+|-damage|p1a: Heracross|21/100
+|-unboost|p1a: Heracross|def|1
+|-enditem|p1a: Heracross|Salac Berry|[eat]
+|-boost|p1a: Heracross|spe|1|[from] item: Salac Berry
+|
+|upkeep
+|turn|23
+|
+|t:|1781578821
+|move|p1a: Heracross|Close Combat|p2a: Greninja
+|-supereffective|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|-unboost|p1a: Heracross|def|1
+|-unboost|p1a: Heracross|spd|1
+|faint|p2a: Greninja
+|
+|win|blabab
+|raw|blabab's rating: 1642 &rarr; <strong>1661</strong><br />(+19 for winning)
+|raw|moocowvin's rating: 1624 &rarr; <strong>1605</strong><br />(-19 for losing)
+|l|☆moocowvin
+|player|p2|
+|l|☆blabab
+|player|p1|

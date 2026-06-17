@@ -1,0 +1,367 @@
+|j|☆EtnaArmpits
+|j|☆Clueless Mann
+|t:|1781108992
+|gametype|singles
+|player|p1|EtnaArmpits|170|1646
+|player|p2|Clueless Mann|psychic-gen4|1673
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Iron Valiant|
+|poke|p1|Dragonite, M|
+|poke|p1|Darkrai|
+|poke|p1|Iron Treads|
+|poke|p2|Heatran, M|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Great Tusk|
+|poke|p2|Gholdengo|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Clefable, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by EtnaArmpits)
+|
+|t:|1781109019
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|-enditem|p1a: Iron Treads|Booster Energy
+|-activate|p1a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Treads|quarkdrivespe
+|turn|1
+|
+|t:|1781109027
+|move|p1a: Iron Treads|Stealth Rock|p2a: Samurott
+|-sidestart|p2: Clueless Mann|move: Stealth Rock
+|move|p2a: Samurott|Razor Shell|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|12/100
+|-unboost|p1a: Iron Treads|def|1
+|
+|upkeep
+|turn|2
+|
+|t:|1781109037
+|move|p1a: Iron Treads|Steel Beam|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|66/100
+|-damage|p1a: Iron Treads|0 fnt|[from] steelbeam
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|move|p2a: Samurott|Ceaseless Edge|p1: Iron Treads|[notarget]
+|-fail|p2a: Samurott
+|
+|upkeep
+|inactive|EtnaArmpits has 120 seconds left.
+|
+|t:|1781109078
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|3
+|
+|t:|1781109092
+|move|p1a: Kyurem|Freeze-Dry|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|upkeep
+|
+|t:|1781109108
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|94/100|[from] Stealth Rock
+|turn|4
+|
+|t:|1781109113
+|switch|p1a: Darkrai|Darkrai|100/100
+|move|p2a: Gholdengo|Trick|p1a: Darkrai
+|-activate|p2a: Gholdengo|move: Trick|[of] p1a: Darkrai
+|-item|p1a: Darkrai|Choice Scarf|[from] move: Trick
+|-item|p2a: Gholdengo|Heavy-Duty Boots|[from] move: Trick
+|
+|upkeep
+|turn|5
+|
+|t:|1781109121
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-damage|p2a: Great Tusk|98/100|[from] Stealth Rock
+|move|p1a: Darkrai|Dark Pulse|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|66/100
+|
+|upkeep
+|turn|6
+|
+|t:|1781109126
+|move|p1a: Darkrai|Dark Pulse|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|35/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Darkrai
+|-damage|p1a: Darkrai|77/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: Clueless Mann|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|7
+|
+|t:|1781109139
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Darkrai|Dark Pulse|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|58/100
+|
+|-heal|p2a: Heatran|64/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1781109143
+|move|p1a: Darkrai|Dark Pulse|p2a: Heatran
+|-damage|p2a: Heatran|37/100
+|move|p2a: Heatran|Stealth Rock|p1a: Darkrai
+|-sidestart|p1: EtnaArmpits|move: Stealth Rock
+|
+|-heal|p2a: Heatran|43/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1781109149
+|move|p1a: Darkrai|Dark Pulse|p2a: Heatran
+|-damage|p2a: Heatran|15/100
+|cant|p2a: Heatran|flinch
+|
+|-heal|p2a: Heatran|21/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1781109155
+|move|p1a: Darkrai|Dark Pulse|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1781109157
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|11
+|
+|t:|1781109160
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-damage|p1a: Deoxys|88/100|[from] Stealth Rock
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Clefable|Moonblast|p1a: Deoxys
+|-damage|p1a: Deoxys|38/100
+|
+|upkeep
+|turn|12
+|
+|t:|1781109167
+|switch|p2a: Great Tusk|Great Tusk|35/100
+|move|p1a: Deoxys|Psycho Boost|p2a: Great Tusk|[miss]
+|-miss|p1a: Deoxys|p2a: Great Tusk
+|
+|upkeep
+|turn|13
+|
+|t:|1781109172
+|move|p1a: Deoxys|Ice Beam|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|-damage|p1a: Deoxys|28/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1781109182
+|switch|p2a: Gholdengo|Gholdengo|94/100
+|turn|14
+|
+|t:|1781109186
+|move|p1a: Deoxys|Psycho Boost|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|45/100
+|-unboost|p1a: Deoxys|spa|2
+|-damage|p1a: Deoxys|18/100|[from] item: Life Orb
+|move|p2a: Gholdengo|Shadow Ball|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|upkeep
+|
+|t:|1781109194
+|switch|p1a: Kyurem|Kyurem|100/100
+|-damage|p1a: Kyurem|76/100|[from] Stealth Rock
+|-ability|p1a: Kyurem|Pressure
+|turn|15
+|
+|t:|1781109206
+|move|p1a: Kyurem|Earth Power|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-crit|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1781109214
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|16
+|
+|t:|1781109219
+|move|p1a: Kyurem|Icicle Spear|p2a: Clefable
+|-damage|p2a: Clefable|89/100
+|-damage|p2a: Clefable|77/100
+|-damage|p2a: Clefable|66/100
+|-hitcount|p2a: Clefable|3
+|move|p2a: Clefable|Thunder Wave|p1a: Kyurem
+|-status|p1a: Kyurem|par
+|
+|upkeep
+|turn|17
+|
+|t:|1781109223
+|move|p1a: Kyurem|Icicle Spear|p2a: Clefable
+|-damage|p2a: Clefable|54/100
+|-damage|p2a: Clefable|43/100
+|-hitcount|p2a: Clefable|2
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|18
+|
+|t:|1781109226
+|cant|p1a: Kyurem|par
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|93/100
+|
+|upkeep
+|turn|19
+|
+|t:|1781109230
+|move|p1a: Kyurem|Icicle Spear|p2a: Clefable
+|-damage|p2a: Clefable|81/100
+|-damage|p2a: Clefable|70/100
+|-damage|p2a: Clefable|58/100
+|-hitcount|p2a: Clefable|3
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|20
+|
+|t:|1781109234
+|move|p1a: Kyurem|Icicle Spear|p2a: Clefable
+|-damage|p2a: Clefable|47/100
+|-damage|p2a: Clefable|36/100
+|-hitcount|p2a: Clefable|2
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|86/100
+|
+|upkeep
+|turn|21
+|
+|t:|1781109244
+|-terastallize|p1a: Kyurem|Ice
+|move|p1a: Kyurem|Icicle Spear|p2a: Clefable
+|-damage|p2a: Clefable|70/100
+|-damage|p2a: Clefable|53/100
+|-damage|p2a: Clefable|38/100
+|-hitcount|p2a: Clefable|3
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|22
+|j| heptastrike
+|l| heptastrike
+|
+|t:|1781109259
+|move|p1a: Kyurem|Icicle Spear|p2a: Clefable
+|-damage|p2a: Clefable|22/100
+|-damage|p2a: Clefable|8/100
+|-hitcount|p2a: Clefable|2
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|58/100
+|
+|upkeep
+|turn|23
+|
+|t:|1781109264
+|move|p1a: Kyurem|Icicle Spear|p2a: Clefable
+|-damage|p2a: Clefable|43/100
+|-damage|p2a: Clefable|28/100
+|-damage|p2a: Clefable|14/100
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|-hitcount|p2: Clefable|4
+|
+|upkeep
+|
+|t:|1781109268
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|24
+|
+|t:|1781109272
+|-terastallize|p2a: Ogerpon|Water
+|detailschange|p2a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Kyurem|Freeze-Dry|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|18/100
+|
+|upkeep
+|turn|25
+|
+|t:|1781109276
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Kyurem|[anim] Ivy Cudgel Water
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1781109278
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|26
+|j| SigmaWolf67
+|
+|t:|1781109290
+|move|p1a: Iron Valiant|Close Combat|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|faint|p2a: Ogerpon
+|detailschange|p2: Ogerpon|Ogerpon-Wellspring, F|[silent]
+|
+|win|EtnaArmpits
+|raw|EtnaArmpits's rating: 1646 &rarr; <strong>1668</strong><br />(+22 for winning)
+|raw|Clueless Mann's rating: 1673 &rarr; <strong>1651</strong><br />(-22 for losing)
+|l|☆Clueless Mann
+|player|p2|
+|l| SigmaWolf67
+|l|☆EtnaArmpits
+|player|p1|

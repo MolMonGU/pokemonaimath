@@ -1,0 +1,255 @@
+|j|☆skayotest
+|j|☆Jonuz
+|t:|1781343659
+|gametype|singles
+|player|p1|skayotest|169|1605
+|player|p2|Jonuz|170|1693
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Rillaboom, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Gholdengo|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Cinderace, M|
+|poke|p2|Kingambit, F|
+|poke|p2|Ursaluna, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Manaphy|
+|poke|p2|Glimmora, M|
+|poke|p2|Zamazenta-*|
+|teampreview
+|
+|t:|1781343672
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|1
+|
+|t:|1781343675
+|move|p1a: Gholdengo|Make It Rain|p2a: Zamazenta
+|-damage|p2a: Zamazenta|46/100
+|-unboost|p1a: Gholdengo|spa|1
+|move|p2a: Zamazenta|Light Screen|p2a: Zamazenta
+|-sidestart|p2: Jonuz|move: Light Screen
+|
+|upkeep
+|turn|2
+|
+|t:|1781343683
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Zamazenta|Reflect|p2a: Zamazenta
+|-sidestart|p2: Jonuz|Reflect
+|
+|upkeep
+|turn|3
+|j| Schlafparalyse
+|
+|t:|1781343686
+|move|p2a: Zamazenta|Ice Fang|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|40/100
+|-damage|p2a: Zamazenta|33/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Zamazenta|17/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|move|p1a: Garchomp|Stealth Rock|p2a: Zamazenta
+|-sidestart|p2: Jonuz|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1781343693
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Zamazenta|Ice Fang|p1a: Slowking
+|-damage|p1a: Slowking|77/100
+|
+|upkeep
+|turn|5
+|
+|t:|1781343704
+|switch|p2a: Ursaluna|Ursaluna, F|100/100
+|-damage|p2a: Ursaluna|94/100|[from] Stealth Rock
+|move|p1a: Slowking|Future Sight|p2a: Ursaluna
+|-start|p1a: Slowking|move: Future Sight
+|
+|-status|p2a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|6
+|
+|t:|1781343710
+|switch|p1a: Garchomp|Garchomp, M|40/100
+|move|p2a: Ursaluna|Facade|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Ursaluna|82/100 brn|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Ursaluna|65/100 brn|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|-damage|p2a: Ursaluna|59/100 brn|[from] brn
+|upkeep
+|
+|t:|1781343720
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|7
+|
+|t:|1781343725
+|switch|p2a: Zamazenta|Zamazenta|17/100
+|-damage|p2a: Zamazenta|11/100|[from] Stealth Rock
+|move|p1a: Rillaboom|Wood Hammer|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|faint|p2a: Zamazenta
+|-damage|p1a: Rillaboom|98/100|[from] Recoil
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|-heal|p1a: Rillaboom|100/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1781343739
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1781343750
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Dragapult|Dragon Darts|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|87/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|73/100
+|-damage|p2a: Dragapult|78/100|[from] item: Life Orb
+|
+|-heal|p1a: Gholdengo|79/100|[from] Grassy Terrain
+|-heal|p2a: Dragapult|84/100|[from] Grassy Terrain
+|-sideend|p2: Jonuz|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1781343757
+|switch|p2a: Manaphy|Manaphy|100/100
+|-damage|p2a: Manaphy|88/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Make It Rain|p2a: Manaphy
+|-resisted|p2a: Manaphy
+|-damage|p2a: Manaphy|55/100
+|-unboost|p1a: Gholdengo|spa|1
+|
+|-heal|p1a: Gholdengo|85/100|[from] Grassy Terrain
+|-heal|p2a: Manaphy|61/100|[from] Grassy Terrain
+|-heal|p2a: Manaphy|68/100|[from] item: Leftovers
+|-sideend|p2: Jonuz|Reflect
+|upkeep
+|turn|10
+|
+|t:|1781343763
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|move|p2a: Manaphy|Substitute|p2a: Manaphy
+|-start|p2a: Manaphy|Substitute
+|-damage|p2a: Manaphy|43/100
+|
+|-heal|p2a: Manaphy|49/100|[from] Grassy Terrain
+|-heal|p2a: Manaphy|55/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1781343767
+|move|p2a: Manaphy|Tail Glow|p2a: Manaphy
+|-boost|p2a: Manaphy|spa|3
+|move|p1a: Samurott|Ceaseless Edge|p2a: Manaphy
+|-end|p2a: Manaphy|Substitute
+|-sidestart|p2: Jonuz|Spikes
+|
+|-heal|p2a: Manaphy|61/100|[from] Grassy Terrain
+|-heal|p2a: Manaphy|67/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1781343773
+|move|p2a: Manaphy|Alluring Voice|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|-heal|p2a: Manaphy|74/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781343778
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|13
+|
+|t:|1781343792
+|move|p1a: Rillaboom|Grassy Glide|p2a: Manaphy
+|-supereffective|p2a: Manaphy
+|-damage|p2a: Manaphy|0 fnt
+|faint|p2a: Manaphy
+|
+|upkeep
+|
+|t:|1781343798
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-damage|p2a: Kingambit|94/100|[from] Stealth Rock
+|-damage|p2a: Kingambit|82/100|[from] Spikes
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|turn|14
+|
+|t:|1781343807
+|switch|p1a: Gholdengo|Gholdengo|85/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-heal|p2a: Kingambit|88/100|[from] Grassy Terrain
+|-heal|p2a: Kingambit|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1781343809
+|switch|p1a: Cinderace|Cinderace, M|100/100
+|turn|15
+|
+|t:|1781343816
+|-terastallize|p2a: Kingambit|Fire
+|move|p1a: Cinderace|Pyro Ball|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-crit|p2a: Kingambit
+|-damage|p2a: Kingambit|59/100
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|65/100|[from] Grassy Terrain
+|-heal|p2a: Kingambit|71/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1781343821
+|move|p1a: Cinderace|Sucker Punch|p2a: Kingambit
+|-damage|p2a: Kingambit|54/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|-heal|p2a: Kingambit|60/100|[from] Grassy Terrain
+|-heal|p2a: Kingambit|66/100|[from] item: Leftovers
+|upkeep
+|-message|skayotest forfeited.
+|
+|win|Jonuz
+|raw|skayotest's rating: 1605 &rarr; <strong>1590</strong><br />(-15 for losing)
+|raw|Jonuz's rating: 1693 &rarr; <strong>1708</strong><br />(+15 for winning)
+|l|☆skayotest
+|player|p1|

@@ -1,74 +1,92 @@
 [
   {
     "name_kr": "리자몽",
-    "name": "Charizard",
-    "item": "Liechi Berry",
-    "item_kr": "리샘열매",
-    "moves_kr": ["플레어드라이브", "역린", "니트로차지", "칼춤"],
-    "moves": ["flareblitz", "outrage", "flamecharge", "swordsdance"],
+    "name": "Charizard-Mega-Y",
+    "ocr_alias": "Charizard",
+    "item": "Charizardite Y",
+    "nature": "Timid",
+    "evs": {"hp": 4, "atk": 0, "def": 0, "spa": 252, "spd": 0, "spe": 252},
+    "ability": "Drought",
+    "moves": ["flamethrower", "solarbeam", "airslash", "flamecharge"],
     "pokedex_entry": {
       "types": ["Fire", "Flying"],
-      "base_stats": {"hp": 78, "atk": 84, "def": 78, "spa": 109, "spd": 85, "spe": 100}
+      "base_stats": {"hp": 78, "atk": 104, "def": 78, "spa": 159, "spd": 115, "spe": 100},
+      "abilities": ["Drought"]
     }
   },
   {
-    "name_kr": "마릴리",
-    "name": "Azumarill",
-    "item": "Sitrus Berry",
-    "item_kr": "자뭉열매",
-    "moves_kr": ["치근거리기", "아쿠아제트", "엄청난힘", "배북"],
-    "moves": ["playrough", "aquajet", "superpower", "bellydrum"],
+    "name_kr": "보스로라",
+    "name": "Escavalier",
+    "ocr_alias": "Escavalier",
+    "item": "Escavalierite",
+    "nature": "Brave",
+    "evs": {"hp": 252, "atk": 252, "def": 4, "spa": 0, "spd": 0, "spe": 0},
+    "ability": "Shell Armor",
+    "moves": ["irondefense", "bodypress", "heavyslam", "crunch"],
     "pokedex_entry": {
-      "types": ["Water", "Fairy"],
-      "base_stats": {"hp": 100, "atk": 50, "def": 80, "spa": 60, "spd": 80, "spe": 50}
+      "types": ["Bug", "Steel"],
+      "base_stats": {"hp": 70, "atk": 135, "def": 105, "spa": 60, "spd": 105, "spe": 20},
+      "abilities": ["Shell Armor"]
     }
   },
   {
-    "name_kr": "강철톤",
-    "name": "Bronzong",
-    "item": "Leftovers",
-    "item_kr": "먹다남은음식",
-    "moves_kr": ["헤비봄버", "지진", "바디프레스", "스텔스록"],
-    "moves": ["heavyslam", "earthquake", "bodypress", "stealthrock"],
+    "name_kr": "대쓰여너",
+    "name": "Basculegion",
+    "ocr_alias": "Basculegion",
+    "item": "Mystic Water",
+    "nature": "Adamant",
+    "evs": {"hp": 0, "atk": 252, "def": 0, "spa": 0, "spd": 4, "spe": 252},
+    "ability": "Swift Swim",
+    "moves": ["wavecrash", "aquajet", "flipturn", "lastrespects"],
     "pokedex_entry": {
-      "types": ["Steel", "Psychic"],
-      "base_stats": {"hp": 67, "atk": 89, "def": 116, "spa": 79, "spd": 116, "spe": 33}
+      "types": ["Water", "Ghost"],
+      "base_stats": {"hp": 120, "atk": 112, "def": 65, "spa": 80, "spd": 75, "spe": 78},
+      "abilities": ["Swift Swim"]
     }
   },
   {
-    "name_kr": "엘풍",
-    "name": "Whimsicott",
-    "item": "White Herb",
-    "item_kr": "하양허브",
-    "moves_kr": ["문포스", "기가드레인", "씨뿌리기", "추억의선물"],
-    "moves": ["moonblast", "gigadrain", "leechseed", "memento"],
+    "name_kr": "따라큐",
+    "name": "Mimikyu",
+    "ocr_alias": "Mimikyu",
+    "item": "Scope Lens",
+    "nature": "Jolly",
+    "evs": {"hp": 4, "atk": 252, "def": 0, "spa": 0, "spd": 0, "spe": 252},
+    "ability": "Disguise",
+    "moves": ["shadowclaw", "nightslash", "swordsdance", "playrough"],
     "pokedex_entry": {
-      "types": ["Grass", "Fairy"],
-      "base_stats": {"hp": 60, "atk": 67, "def": 85, "spa": 77, "spd": 75, "spe": 116}
+      "types": ["Ghost", "Fairy"],
+      "base_stats": {"hp": 55, "atk": 90, "def": 80, "spa": 50, "spd": 105, "spe": 96},
+      "abilities": ["Disguise"]
     }
   },
   {
-    "name_kr": "팬텀",
-    "name": "Gengar",
+    "name_kr": "배바닐라",
+    "name": "Vanilluxe",
+    "ocr_alias": "Vanilluxe",
+    "item": "Never-Melt Ice",
+    "nature": "Modest",
+    "evs": {"hp": 4, "atk": 0, "def": 0, "spa": 252, "spd": 0, "spe": 252},
+    "ability": "Snow Warning",
+    "moves": ["blizzard", "freezedry", "auroraveil", "iceshard"],
+    "pokedex_entry": {
+      "types": ["Ice"],
+      "base_stats": {"hp": 71, "atk": 95, "def": 85, "spa": 110, "spd": 95, "spe": 79},
+      "abilities": ["Snow Warning"]
+    }
+  },
+  {
+    "name_kr": "한카리아스",
+    "name": "Garchomp",
+    "ocr_alias": "Garchomp",
     "item": "Focus Sash",
-    "item_kr": "기합의띠",
-    "moves_kr": ["섀도볼", "오물웨이브", "얼어붙은바람", "길동무"],
-    "moves": ["shadowball", "sludgewave", "icywind", "destinybond"],
+    "nature": "Jolly",
+    "evs": {"hp": 4, "atk": 252, "def": 0, "spa": 0, "spd": 0, "spe": 252},
+    "ability": "Rough Skin",
+    "moves": ["earthquake", "swordsdance", "firefang", "scaleshot"],
     "pokedex_entry": {
-      "types": ["Ghost", "Poison"],
-      "base_stats": {"hp": 60, "atk": 65, "def": 60, "spa": 130, "spd": 75, "spe": 110}
-    }
-  },
-  {
-    "name_kr": "할비롱",
-    "name": "Drampa",
-    "item": "Quick Claw",
-    "item_kr": "선제공격손톱",
-    "moves_kr": ["용성군", "하이퍼보이스", "화염방사", "10만볼트"],
-    "moves": ["dracometeor", "hypervoice", "flamethrower", "thunderbolt"],
-    "pokedex_entry": {
-      "types": ["Dragon", "Normal"],
-      "base_stats": {"hp": 78, "atk": 60, "def": 85, "spa": 135, "spd": 91, "spe": 36}
+      "types": ["Dragon", "Ground"],
+      "base_stats": {"hp": 108, "atk": 130, "def": 95, "spa": 80, "spd": 85, "spe": 102},
+      "abilities": ["Rough Skin"]
     }
   }
 ]

@@ -6,6 +6,7 @@ import numpy as np
 from difflib import get_close_matches
 from pathlib import Path
 from core.ocr_engine import OcrEngine, crop
+from core.stat_calc import calc_lv50_stats, estimate_spread
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 
@@ -192,6 +193,18 @@ class BattleState:
             self.opp_stat_stages = dict(init)
         if target in ("my", "all"):
             self.my_stat_stages = dict(init)
+
+    def get_lv50_stats(self, poke_name: str, entry: dict) -> dict[str, int]:
+        """레벨 50 실수치 반환. 내 팀은 my_team.json EV, 상대는 Smogon 추정."""
+        base = entry.get("base_stats", {})
+        team_entry = self._my_team_lookup.get(poke_name.lower())
+        if team_entry:
+            evs    = team_entry.get("evs", {})
+            nature = team_entry.get("nature", "Hardy")
+        else:
+            self._load_models()
+            evs, nature = estimate_spread(self._smogon, poke_name)
+        return calc_lv50_stats(base, evs, nature)
 
     def get_item_prediction(self, poke_name: str) -> list[dict]:
         """SetClassifier: 관찰 기술 → 아이템 예측 top 3"""

@@ -158,8 +158,8 @@ def draw_battle_overlay(frame, state, pokedex, types, chart):
 
     my_types  = my_entry.get("types", [])
     opp_types = opp_entry.get("types", [])
-    my_stats  = my_entry.get("base_stats", {})
-    opp_stats = opp_entry.get("base_stats", {})
+    my_lv50   = state.get_lv50_stats(my_name,  my_entry)
+    opp_lv50  = state.get_lv50_stats(opp_name, opp_entry)
 
     # ── 우상단: 기본 정보 + 승리 확률 ────────────────────────────────────────
     px, py, pw, ph = 445, 85, 190, 200
@@ -184,8 +184,8 @@ def draw_battle_overlay(frame, state, pokedex, types, chart):
         draw_text(frame, f"상성: {best_t} x{mul:.1f}", px+5, y, color, 0.45)
         y += 18
 
-    my_spe  = my_stats.get("spe", 0)
-    opp_spe = opp_stats.get("spe", 0)
+    my_spe  = my_lv50.get("spe", 0)
+    opp_spe = opp_lv50.get("spe", 0)
     if my_spe and opp_spe:
         spd_col = (0,255,0) if my_spe > opp_spe else (0,100,255)
         draw_text(frame, f"SPE {my_spe} vs {opp_spe}", px+5, y, spd_col, 0.42)
@@ -286,17 +286,17 @@ def _draw_action_panel(frame, state, my_name, opp_name, pokedex, opp_types, type
 
     my_entry  = pokedex.get(my_name, {})
     opp_entry = pokedex.get(opp_name, {})
-    my_stats  = my_entry.get("base_stats", {})
-    opp_stats = opp_entry.get("base_stats", {})
+    my_lv50   = state.get_lv50_stats(my_name,  my_entry)
+    opp_lv50  = state.get_lv50_stats(opp_name, opp_entry)
 
     # 특성 면역 타입 집합
     immune_types: set[str] = set()
     for ab in opp_entry.get("abilities", []):
         immune_types.update(ABILITY_IMMUNITIES.get(ab, []))
 
-    # 선공 여부 (SPE 랭크 반영)
-    my_spe_eff  = my_stats.get("spe", 0)  * stage_mul(state.my_stat_stages.get("spe", 0))
-    opp_spe_eff = opp_stats.get("spe", 0) * stage_mul(state.opp_stat_stages.get("spe", 0))
+    # 선공 여부 (레벨 50 SPE 실수치 + 랭크 반영)
+    my_spe_eff  = my_lv50.get("spe", 0)  * stage_mul(state.my_stat_stages.get("spe", 0))
+    opp_spe_eff = opp_lv50.get("spe", 0) * stage_mul(state.opp_stat_stages.get("spe", 0))
 
     my_moves = state.get_my_top_moves(my_name)
 
@@ -317,14 +317,14 @@ def _draw_action_panel(frame, state, my_name, opp_name, pokedex, opp_types, type
                        get_type_multiplier(mtype, opp_types, types, chart)
 
             if cat == "Physical":
-                my_stat, opp_def = my_stats.get("atk", 80), opp_stats.get("def", 80)
+                my_stat, opp_def = my_lv50.get("atk", 80), opp_lv50.get("def", 80)
                 my_stg, opp_stg  = state.my_stat_stages.get("atk", 0), state.opp_stat_stages.get("def", 0)
             else:
-                my_stat, opp_def = my_stats.get("spa", 80), opp_stats.get("spd", 80)
+                my_stat, opp_def = my_lv50.get("spa", 80), opp_lv50.get("spd", 80)
                 my_stg, opp_stg  = state.my_stat_stages.get("spa", 0), state.opp_stat_stages.get("spd", 0)
 
             dmg = calc_damage_pct(bp, my_stat, opp_def,
-                                  opp_stats.get("hp", 100), type_mul,
+                                  opp_lv50.get("hp", 100), type_mul,
                                   my_stage=my_stg, opp_def_stage=opp_stg)
             scored.append((type_mul * 1000 + (dmg or 0) + pri * 500,
                            m["move"], mtype, bp, cat, pri, dmg, {}))

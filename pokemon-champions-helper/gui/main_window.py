@@ -7,14 +7,14 @@ from PyQt6.QtWidgets import (
 from PyQt6.QtCore import Qt, QSize
 from PyQt6.QtGui import QIcon
 
-from gui.speed_tab   import SpeedTab
-from gui.damage_tab  import DamageTab
-from gui.type_tab    import TypeTab
-from gui.grid_tab    import GridTab
-from gui.sets_tab    import SetsTab
-from gui.log_tab     import LogTab
-from gui.ocr_worker  import OcrWorker
-from gui.camera_tab  import CameraTab
+from gui.speed_tab     import SpeedTab
+from gui.damage_tab    import DamageTab
+from gui.type_tab      import TypeTab
+from gui.grid_tab      import GridTab
+from gui.sets_tab      import SetsTab
+from gui.log_tab       import LogTab
+from gui.ocr_worker    import OcrWorker
+from gui.camera_window import CameraWindow
 
 
 DARK_STYLE = """
@@ -87,13 +87,15 @@ class MainWindow(QMainWindow):
 
         self._build_ui()
 
+        self._camera_win = CameraWindow()
+
         self._ocr_worker = OcrWorker()
         self._ocr_worker.my_pokemon_changed.connect(self._on_my_pokemon)
         self._ocr_worker.opp_pokemon_changed.connect(self._on_opp_pokemon)
         self._ocr_worker.my_hp_changed.connect(self._on_my_hp)
         self._ocr_worker.teams_updated.connect(self._on_teams_updated)
         self._ocr_worker.status_changed.connect(self._on_ocr_status)
-        self._ocr_worker.frame_ready.connect(self.tab_camera.update_frame)
+        self._ocr_worker.frame_ready.connect(self._camera_win.update_frame)
 
     def _build_ui(self):
         central = QWidget()
@@ -115,21 +117,26 @@ class MainWindow(QMainWindow):
         self.btn_compact.setFixedWidth(90)
         self.btn_compact.toggled.connect(self._toggle_compact)
 
-        self.btn_battle_start = QPushButton("⚔ 배틀 시작 (리셋)")
-        self.btn_battle_start.setFixedWidth(130)
-        self.btn_battle_start.clicked.connect(self._battle_reset)
-
         self.btn_ocr = QPushButton("👁 OCR 연결")
         self.btn_ocr.setCheckable(True)
         self.btn_ocr.setFixedWidth(100)
         self.btn_ocr.toggled.connect(self._toggle_ocr)
 
+        self.btn_camera = QPushButton("📷 카메라 창")
+        self.btn_camera.setFixedWidth(100)
+        self.btn_camera.clicked.connect(self._open_camera_window)
+
         self.lbl_ocr = QLabel("OCR 꺼짐")
         self.lbl_ocr.setStyleSheet("color: #6c7086; font-size: 11px;")
+
+        self.btn_battle_start = QPushButton("⚔ 배틀 시작 (리셋)")
+        self.btn_battle_start.setFixedWidth(130)
+        self.btn_battle_start.clicked.connect(self._battle_reset)
 
         toolbar.addWidget(self.btn_ontop)
         toolbar.addWidget(self.btn_compact)
         toolbar.addWidget(self.btn_ocr)
+        toolbar.addWidget(self.btn_camera)
         toolbar.addWidget(self.lbl_ocr)
         toolbar.addStretch()
         toolbar.addWidget(self.btn_battle_start)
@@ -137,7 +144,6 @@ class MainWindow(QMainWindow):
 
         # ── 탭 ───────────────────────────────────────────────────────────────
         self.tabs = QTabWidget()
-        self.tab_camera = CameraTab()
         self.tab_speed  = SpeedTab()
         self.tab_damage = DamageTab()
         self.tab_type   = TypeTab()
@@ -145,7 +151,6 @@ class MainWindow(QMainWindow):
         self.tab_sets   = SetsTab()
         self.tab_log    = LogTab()
 
-        self.tabs.addTab(self.tab_camera, "📷 카메라")
         self.tabs.addTab(self.tab_speed,  "스피드")
         self.tabs.addTab(self.tab_damage, "대미지")
         self.tabs.addTab(self.tab_type,   "타입")
@@ -156,6 +161,11 @@ class MainWindow(QMainWindow):
         layout.addWidget(self.tabs)
 
     # ── 슬롯 ─────────────────────────────────────────────────────────────────
+
+    def _open_camera_window(self):
+        self._camera_win.show()
+        self._camera_win.raise_()
+        self._camera_win.activateWindow()
 
     def _toggle_on_top(self, checked: bool):
         self._always_on_top = checked
@@ -203,6 +213,7 @@ class MainWindow(QMainWindow):
         self.tab_grid.update_teams_from_ocr(my_team, opp_team)
 
     def closeEvent(self, event):
+        self._camera_win.close()
         self._ocr_worker.stop()
         self._ocr_worker.wait(2000)
         super().closeEvent(event)

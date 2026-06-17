@@ -190,8 +190,10 @@ class MainWindow(QMainWindow):
     def _toggle_ocr(self, checked: bool):
         if checked:
             self._ocr_worker.start()
+            self._camera_win.showFullScreen()
         else:
             self._ocr_worker.stop()
+            self._camera_win.close()
 
     def _on_ocr_status(self, msg: str):
         self.lbl_ocr.setText(msg)

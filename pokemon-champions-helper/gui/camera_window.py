@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-from PyQt6.QtWidgets import QWidget, QVBoxLayout, QHBoxLayout, QLabel, QPushButton
+from PyQt6.QtWidgets import QWidget, QVBoxLayout, QLabel
 from PyQt6.QtGui import QImage, QPixmap
 from PyQt6.QtCore import Qt
 
@@ -9,7 +9,7 @@ class CameraWindow(QWidget):
     def __init__(self):
         super().__init__()
         self.setWindowTitle("카메라 프리뷰")
-        self.resize(1280, 960)
+        self.setStyleSheet("background-color: #000000;")
         self._build_ui()
 
     def _build_ui(self):
@@ -17,35 +17,14 @@ class CameraWindow(QWidget):
         layout.setContentsMargins(0, 0, 0, 0)
         layout.setSpacing(0)
 
-        # 상단 컨트롤 바
-        ctrl = QHBoxLayout()
-        ctrl.setContentsMargins(4, 4, 4, 4)
-
-        self.btn_fs = QPushButton("⛶ 전체화면")
-        self.btn_fs.setCheckable(True)
-        self.btn_fs.setFixedWidth(100)
-        self.btn_fs.toggled.connect(self._toggle_fullscreen)
-        ctrl.addWidget(self.btn_fs)
-        ctrl.addStretch()
-        layout.addLayout(ctrl)
-
-        # 카메라 화면
-        self.lbl_frame = QLabel("OCR 연결 버튼을 누르면 화면이 표시됩니다")
+        self.lbl_frame = QLabel()
         self.lbl_frame.setAlignment(Qt.AlignmentFlag.AlignCenter)
-        self.lbl_frame.setStyleSheet("background-color: #000000; color: #6c7086; font-size: 14px;")
-        layout.addWidget(self.lbl_frame, stretch=1)
-
-    def _toggle_fullscreen(self, checked: bool):
-        if checked:
-            self.showFullScreen()
-            self.btn_fs.setText("✕ 전체화면 해제")
-        else:
-            self.showNormal()
-            self.btn_fs.setText("⛶ 전체화면")
+        self.lbl_frame.setStyleSheet("background-color: #000000;")
+        layout.addWidget(self.lbl_frame)
 
     def keyPressEvent(self, event):
-        if event.key() == Qt.Key.Key_Escape and self.isFullScreen():
-            self.btn_fs.setChecked(False)
+        if event.key() == Qt.Key.Key_Escape:
+            self.close()
 
     def update_frame(self, frame: np.ndarray):
         rgb  = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)

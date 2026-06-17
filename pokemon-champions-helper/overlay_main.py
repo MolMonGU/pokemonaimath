@@ -149,7 +149,22 @@ def fmt_move(move: str) -> str:
 _current_opp_moves: list[dict] = []
 
 
-def draw_battle_overlay(frame, state, pokedex, types, chart):
+def draw_shortcut_panel(frame, panels):
+    """좌상단 단축키 안내 패널 (항상 표시)"""
+    px, py, pw, ph = 5, 5, 178, 68
+    draw_panel(frame, px, py, pw, ph)
+    draw_text(frame, "[ 단축키 ]", px+5, py+16, (255, 220, 100), 0.38)
+    items = [
+        ("1번: 기본 정보 확인",   panels[0]),
+        ("2번: 상대 예상 기술",   panels[1]),
+        ("3번: 행동 추천",        panels[2]),
+    ]
+    for i, (label, on) in enumerate(items):
+        col = (100, 255, 100) if on else (120, 120, 120)
+        draw_text(frame, label, px+5, py+30 + i*14, col, 0.33)
+
+
+def draw_battle_overlay(frame, state, pokedex, types, chart, panels=(True, True, True)):
     my_name  = state.my_pokemon
     opp_name = state.opp_pokemon
 
@@ -161,52 +176,57 @@ def draw_battle_overlay(frame, state, pokedex, types, chart):
     my_lv50   = state.get_lv50_stats(my_name,  my_entry)
     opp_lv50  = state.get_lv50_stats(opp_name, opp_entry)
 
-    # ── 우상단: 기본 정보 + 승리 확률 ────────────────────────────────────────
-    px, py, pw, ph = 445, 85, 190, 200
-    draw_panel(frame, px, py, pw, ph)
+    # ── 좌상단: 단축키 안내 (항상 표시) ──────────────────────────────────────
+    draw_shortcut_panel(frame, panels)
 
-    y = py + 18
-    draw_text(frame, f"My:  {my_name or '?'}", px+5, y, (100,255,100), 0.45)
-    y += 18
-    for i, t in enumerate(my_types):
-        draw_type_badge(frame, t, px+5 + i*70, y)
-    y += 22
+    # ── 우상단: 기본 정보 + 승리 확률 (1번) ──────────────────────────────────
+    if panels[0]:
+        px, py, pw, ph = 445, 85, 190, 200
+        draw_panel(frame, px, py, pw, ph)
 
-    draw_text(frame, f"Opp: {opp_name or '?'}", px+5, y, (100,180,255), 0.45)
-    y += 18
-    for i, t in enumerate(opp_types):
-        draw_type_badge(frame, t, px+5 + i*70, y)
-    y += 22
-
-    if my_types and opp_types:
-        best_t, mul = best_attack_type(my_types, opp_types, types, chart)
-        color = (0,255,0) if mul >= 2 else (0,200,255) if mul == 1 else (0,0,255)
-        draw_text(frame, f"상성: {best_t} x{mul:.1f}", px+5, y, color, 0.45)
+        y = py + 18
+        draw_text(frame, f"My:  {my_name or '?'}", px+5, y, (100,255,100), 0.45)
         y += 18
+        for i, t in enumerate(my_types):
+            draw_type_badge(frame, t, px+5 + i*70, y)
+        y += 22
 
-    my_spe  = my_lv50.get("spe", 0)
-    opp_spe = opp_lv50.get("spe", 0)
-    if my_spe and opp_spe:
-        spd_col = (0,255,0) if my_spe > opp_spe else (0,100,255)
-        draw_text(frame, f"SPE {my_spe} vs {opp_spe}", px+5, y, spd_col, 0.42)
+        draw_text(frame, f"Opp: {opp_name or '?'}", px+5, y, (100,180,255), 0.45)
         y += 18
+        for i, t in enumerate(opp_types):
+            draw_type_badge(frame, t, px+5 + i*70, y)
+        y += 22
 
-    if state.my_hp:
-        draw_text(frame, f"HP: {state.my_hp}", px+5, y, (200,200,200), 0.42)
-        y += 18
+        if my_types and opp_types:
+            best_t, mul = best_attack_type(my_types, opp_types, types, chart)
+            color = (0,255,0) if mul >= 2 else (0,200,255) if mul == 1 else (0,0,255)
+            draw_text(frame, f"상성: {best_t} x{mul:.1f}", px+5, y, color, 0.45)
+            y += 18
 
-    # 팀 정보 있으면 승리 확률 표시
-    win_prob = state.get_win_prob()
-    if win_prob is not None:
-        pct = int(win_prob * 100)
-        col = (0,255,100) if pct >= 55 else (0,100,255) if pct <= 45 else (0,220,255)
-        draw_text(frame, f"승리: {pct}%", px+5, y, col, 0.42)
+        my_spe  = my_lv50.get("spe", 0)
+        opp_spe = opp_lv50.get("spe", 0)
+        if my_spe and opp_spe:
+            spd_col = (0,255,0) if my_spe > opp_spe else (0,100,255)
+            draw_text(frame, f"SPE {my_spe} vs {opp_spe}", px+5, y, spd_col, 0.42)
+            y += 18
 
-    # ── 우하단: 상대 예상 기술 + 아이템 예측 ─────────────────────────────────
-    _draw_opp_moves_panel(frame, state, opp_name, my_types, types, chart)
+        if state.my_hp:
+            draw_text(frame, f"HP: {state.my_hp}", px+5, y, (200,200,200), 0.42)
+            y += 18
 
-    # ── 좌하단: 행동 추천 ─────────────────────────────────────────────────────
-    _draw_action_panel(frame, state, my_name, opp_name, pokedex, opp_types, types, chart)
+        win_prob = state.get_win_prob()
+        if win_prob is not None:
+            pct = int(win_prob * 100)
+            col = (0,255,100) if pct >= 55 else (0,100,255) if pct <= 45 else (0,220,255)
+            draw_text(frame, f"승리: {pct}%", px+5, y, col, 0.42)
+
+    # ── 우하단: 상대 예상 기술 + 아이템 예측 (2번) ───────────────────────────
+    if panels[1]:
+        _draw_opp_moves_panel(frame, state, opp_name, my_types, types, chart)
+
+    # ── 좌하단: 행동 추천 (3번) ───────────────────────────────────────────────
+    if panels[2]:
+        _draw_action_panel(frame, state, my_name, opp_name, pokedex, opp_types, types, chart)
 
 
 def _draw_opp_moves_panel(frame, state, opp_name, my_types, types, chart):

@@ -96,6 +96,7 @@ class MainWindow(QMainWindow):
         self._ocr_worker.teams_updated.connect(self._on_teams_updated)
         self._ocr_worker.status_changed.connect(self._on_ocr_status)
         self._ocr_worker.frame_ready.connect(self._camera_win.update_frame)
+        self._camera_win.set_worker(self._ocr_worker)
 
     def _build_ui(self):
         central = QWidget()

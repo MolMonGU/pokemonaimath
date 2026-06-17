@@ -14,6 +14,10 @@ class OcrWorker(QThread):
     def __init__(self):
         super().__init__()
         self._running = False
+        self.panel_flags = [True, True, True]   # [우상단, 우하단, 좌하단]
+
+    def toggle_panel(self, idx: int):
+        self.panel_flags[idx] = not self.panel_flags[idx]
 
     def run(self):
         from overlay_main import (draw_battle_overlay, draw_select_overlay,
@@ -55,7 +59,8 @@ class OcrWorker(QThread):
             if frame_idx % 2 == 0:
                 display = frame.copy()
                 if screen == "battle":
-                    draw_battle_overlay(display, state, pokedex, types, chart)
+                    draw_battle_overlay(display, state, pokedex, types, chart,
+                                        tuple(self.panel_flags))
                 else:
                     draw_select_overlay(display, state, pokedex, types, chart)
                 self.frame_ready.emit(display)

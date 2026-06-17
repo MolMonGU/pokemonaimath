@@ -10,7 +10,11 @@ class CameraWindow(QWidget):
         super().__init__()
         self.setWindowTitle("카메라 프리뷰")
         self.setStyleSheet("background-color: #000000;")
+        self._worker = None
         self._build_ui()
+
+    def set_worker(self, worker):
+        self._worker = worker
 
     def _build_ui(self):
         layout = QVBoxLayout(self)
@@ -23,8 +27,16 @@ class CameraWindow(QWidget):
         layout.addWidget(self.lbl_frame)
 
     def keyPressEvent(self, event):
-        if event.key() == Qt.Key.Key_Escape:
+        key = event.key()
+        if key == Qt.Key.Key_Escape:
             self.close()
+        elif self._worker:
+            if key == Qt.Key.Key_1:
+                self._worker.toggle_panel(0)
+            elif key == Qt.Key.Key_2:
+                self._worker.toggle_panel(1)
+            elif key == Qt.Key.Key_3:
+                self._worker.toggle_panel(2)
 
     def update_frame(self, frame: np.ndarray):
         rgb  = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
